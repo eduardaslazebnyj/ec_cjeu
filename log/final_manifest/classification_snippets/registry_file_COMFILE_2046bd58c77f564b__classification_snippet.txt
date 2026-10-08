@@ -1,0 +1,252 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XX1002(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XX1002(02)
+Help
+Print
+Final Report of the Hearing Officer — Motorola — Enforcement of GPRS standard essential patents (AT.39985)
+Final Report of the Hearing Officer — Motorola — Enforcement of GPRS standard essential patents (AT.39985)
+Final Report of the Hearing Officer — Motorola — Enforcement of GPRS standard essential patents (AT.39985)
+OJ C 344, 2.10.2014, pp. 4–5
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+2.10.2014
+EN
+Official Journal of the European Union
+C 344/4
+Final Report of the Hearing Officer
+(
+1
+)
+Motorola — Enforcement of GPRS standard essential patents
+(AT.39985)
+2014/C 344/05
+I.
+INTRODUCTION
+(1)
+This case concerns the seeking and enforcing by Motorola Mobility LLC (‘Motorola’) of an injunction against Apple Inc. and some of its subsidiaries (‘Apple’) before German courts on the basis of a standard essential patent (‘SEP’) called ‘Cudak’ and covering the GPRS technology. Motorola had committed to license its Cudak SEP on fair, reasonable and non-discriminatory (‘FRAND’) terms in the context of the standard setting process in the European Telecommunications Standards Institute (‘ETSI’).
+(2)
+The Commission started the investigation on the basis of a complaint received from Apple and initiated proceedings against Motorola on 2 April 2012.
+II.
+WRITTEN PROCEDURE
+1.
+Statement of Objections
+(3)
+On 6 May 2013, the Commission adopted a Statement of Objections (‘SO’) and notified it to Motorola. In the SO the Commission reached the preliminary view that from 4 October 2011 to 29 May 2012 Motorola abused its dominant position by seeking and enforcing — in the exceptional circumstances of this case, which are the specific GPRS standard setting context and the commitment given by Motorola to ETSI to license on FRAND terms — an injunction in Germany on the basis of its Cudak SEP.
+(4)
+The Commission decided not to address the SO to Google Inc. (‘Google’), which had become Motorola’s parent on 22 May 2012,
+i.e.
+7 days before the end of the infringement. Google is therefore not formally a party to the proceedings in Case AT.39985.
+2.
+Time limit to reply to the SO
+(5)
+DG Competition granted Motorola a deadline of 8 weeks to reply to the SO. Motorola did not request an extension and submitted its reply within the deadline on 2 July 2013. In the reply, it requested the opportunity to develop its arguments at an oral hearing.
+3.
+Access to file
+(6)
+On 6 May 2013, Motorola received access to the Commission file via CD-ROM/DVD. On 23 May 2013, it requested additional access to certain documents in the file, which DG Competition dealt with directly.
+4.
+Complainant
+(7)
+As a complainant in this case, Apple received a copy of the non-confidential version of the SO
+(
+2
+)
+, on which it submitted written observations. Upon its request, I also invited Apple to express its views at the oral hearing
+(
+3
+)
+.
+5.
+Interested Third Persons
+(8)
+On 20 February 2012, Google requested to be heard as an interested third person in any proceedings opened by the Commission against Motorola based on Apple’s complaint and to be granted access to the file. I rejected Google’s request because an application to be heard as an interested third person presupposes that proceedings have been initiated, which was not the case at that time. Furthermore, access to the file is granted only to the addressees of the SO, while interested third persons only have the right to be informed of the nature and subject matter of the proceedings
+(
+4
+)
+. However, Google submitted unsolicited comments on Apple’s complaint, which DG Competition accepted in view of Google’s imminent acquisition of Motorola
+(
+5
+)
+.
+(9)
+On 23 July 2013, I allowed upon its request Samsung Electronics Co., Ltd, Samsung Electronics France, Samsung Electronics GmbH, Samsung Electronics Holding GmbH and Samsung Electronics Italia S.p.A. (together ‘Samsung’) to be heard as an interested third person. I considered that Samsung had shown sufficient interest
+(
+6
+)
+in view of the fact that it is a large scale implementer of SEPs, including Motorola’s SEPs; it had engaged in licensing negotiations with Motorola with regard to SEPs and may conclude or consider concluding a cross license agreement with Motorola in the future; and it was the subject of parallel proceedings in Case AT.39939.
+(10)
+Upon its request and following discussion with DG Competition, I also allowed Samsung to express its views at the oral hearing, based, inter alia, on the considerations that Samsung was also the addressee of a statement of objections in the parallel proceedings AT.39939 and that its presence did not harm the exercise by Motorola of its rights of defence.
+III.
+ORAL HEARING
+(11)
+The oral hearing took place on 30 September 2013. Motorola, Apple and Samsung participated.
+IV.
+THE DRAFT DECISION
+(12)
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with the objections in respect of which Motorola has been afforded the opportunity of making known its views, and I have come to a positive conclusion.
+(13)
+Overall, I conclude that all parties have been able to effectively exercise their procedural rights in this case.
+Brussels, 28 April 2014.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+Pursuant to Article 6(1) of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+) (‘Regulation No 773/2004’).
+(
+3
+)
+Pursuant to Articles 6(2) and 14(2) of Regulation (EC) No 773/2004 and Articles 6(2) and 12(1) of Decision 2011/695/EU.
+(
+4
+)
+Pursuant to Articles 15(1) and 13(1) of Regulation (EC) No 773/2004.
+(
+5
+)
+See above at paragraph (4).
+(
+6
+)
+Pursuant to Article 27(3) of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+); Article 13(1) of Regulation (EC) No 773/2004; and Article 5 of Decision 2011/695/EU.
+Top

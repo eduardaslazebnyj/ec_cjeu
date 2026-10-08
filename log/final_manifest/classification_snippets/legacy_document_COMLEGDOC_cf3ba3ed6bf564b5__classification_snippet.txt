@@ -1,0 +1,425 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+15. 2. 89 Official Journal of the European Communities No L 43/27
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 21 December 1988
+
+relating to a proceeding under Articles 85 and 86 of the EEC Treaty
+(IV/30.979 and 31394, Decca Navigator System)
+
+(Only the English and Dutch texts are authentic)
+
+(89/113/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 99/63/EEC of 25 July 1963 on the hearings provided for
+in Article 19 (1) and (2) of Council Regulation No 17 (2),
+Having regard to the Treaty establishing the European
+After consulting the Advisory Committee on RestrictiveEconomic Community,
+Practices and Dominant Positions,
+
+Having regard to Council Regulation No 17 of 6 February Whereas :
+1962 First Regulation implementing Articles 85 and 86 of
+the Treaty ('), as last amended by the Act of Accession of
+Spain and Portugal, and in particular Articles 3 and 4
+I. THE FACTSthereof,
+
+Having regard to the notifications made by Racal Group The undertakings involved in these proceedings
+Services under Article 4 of Regulation No 17 on 20 May
+1983 and on 14 November 1984, (1 ) (a) Racal-Decca Marine Navigation Ltd (hereinafter
+called Racal Decca), is an affiliate company of
+Having regard to the applications made to the Racal Electronics pic, a holding group operating
+Commission by 'Landesfischereiverband Schleswig- world-wide and incorporated in the United
+Holstein' on 21 December 1983 and Rauff & Sørensen on Kingdom. Racal Decca's principal activities are
+26 February and 9 April 1985, to find pursuant to Article the design, manufacture and marketing of
+3 of Regulation No 17 that Racal-Decca Navigator navigational aids and other electronic
+Limited (which became Racal-Decca Marine Navigation equipment. Racal Electronics pic's total turnover
+in 1987/88 was £ 1 370 million.Limited on 3 December 1985) had infringed Article 86,
+(2) (b) AP Radiotelefon A/S (hereinafter called 'AP')
+Having regard to the information obtained by the incorporated in Denmark, is an affiliate
+Commission pursuant to Articles 1 1 and 14 of Regulation company of the world-wide Philips group,
+No 17,
+which is headed by NV Philips Gloeilampenfa
+brieken in the Netherlands.
+Having regard to the Commission Decision of 30
+September 1987 to initiate proceedings in this case, (3) (c) Polytechnic Marine pic of the United Kingdom,
+later Polytechnic Electronics pic, hereinafter
+Having given the undertakings concerned the opportunity referred to as 'PE', is a manufacturer of civil and
+to make known their views on the objections raised by military navigation systems. Since 1985 it has
+the Commission, in accordance with Article 19 (1) of had a majority interest in Navstar SA of
+Regulation No 17 and with Commission Regulation No Switzerland which is its principal distributor.
+
+(>) OJ No 13, 21 . 2. 1962, p. 204/62. (J) OJ No 127,- 20. 8. 1963, p. 2268/63.
+
+No L 43/28 Official Journal of the European Communities 15. 2. 89
+
+The DNS system This is the case for ocean-going vessels,
+commercial or naval ships, and also for certain
+coasters and fishing vessels. The system is needed
+(4) The Decca Navigator System (DNS) is an interna when these vessels navigate offshore, or the
+tional radio navigation system operated throughout position of fishing grounds has to be repeated, or
+the world and is used for navigation at sea, on land the vessel's track relative to the movement of the
+and in the air. It consists of (i) transmission of fish has to be established.
+signals by land-based stations operating in groups
+(known as 'chains'), and (ii) devices placed on board
+In a substantial part of the offshore waters in the the means of transport which receive these signals
+northern part of the Community, the DNS (the 'receivers').
+operating from Denmark and the United Kingdom
+is the only system available of those listed in the
+(5) The relevant DNS for the purpose of the present Annex. Indeed, it is the only one which combines
+proceedings is that for sea use, which is the main the accuracy, range and coverage required.
+use in terms of sales (value and volume).
+The DNS transmitted from the United Kingdom
+chains is very important, even for commercial
+(6) The DNS is a hyperbolic navigation system. It is vessels operating from other European countries, as
+based on the mathematical law according to which most of these vessels have sooner or later to pass
+all points whose distances from two fixed points through the areas covered by these chains,
+differ by a constant amount lie on a specific curve particularly the Channel.
+or hyperbola. In the DNS, these two fixed points
+are two stations of one chain ('Master' and 'Slave'
+(8) Although the patents on DNS have expired, there stations) transmitting accurately synchronized radio
+are other barriers to entering into competition in signals radiated as continuous waves. The locations
+the transmission of signals with a system of such of such families of hyperbolae are recorded on
+high accuracy, extensive coverage and wide range as special sea charts. By measuring the difference in
+the DNS, including : phase of the signals of one pair of stations, the
+receiver placed on board a ship can identify the
+— the difficulty of obtaining the required licence
+hyperbolic line on the earth's surface along which from the relevant national authority to use the
+the difference in the geographic distances to the frequencies which it controls, particularly if it
+stations corresponds to the measured difference in means duplicated transmission in the same
+phase. By measuring the corresponding data area.
+transmitted by a second pair of stations (one station
+may be common to each pair) intersecting lines are 'Hie frequencies allocated by the International
+obtained and hence an accurate navigation position Telecommunications Union (ITU) for
+is fixed.
+navigation systems for Region 1 , which covers
+Europe, are in the 70 to 130 KHz band. These
+frequencies are divided into slots. A large slot(7) According to Racal Decca, there are eleven marine
+(90 to 110 KHz) is allocated to Loran C, radio navigation aids in existence today. They may
+whereas four smaller slots (70 to 72, 84 to 86, vary as to accuracy, transmission range and
+112 to 117,6 and 126 to 129 KHz) are allocated geographic coverage. A description of these
+to the DNS. Racal Decca has argued that there navigation aids according to these characteristics is is room in the 84 to 86 KHz slot for two more
+set out in the Annex.
+channels. However, this is not enough for a
+system which could compete with DNS which
+It appears from the Annex that : has 25 chains in Europe.
+
+— DNS, Loran C, Differential Omega, Rana, Moreover, chains sharing the same channel
+Toran, Radar and GPS have high accuracy. GPS, have to be set up at least 2 000 km apart,
+however, is not yet operating and is not
+expected to operate for several years, — the very high cost of erecting a set of
+transmission stations with a scope similar to
+— DNS, Loran C, Omega and Differential Omega, DNS.
+NNSS (Transit) and GPS have high
+transmission range,
+
+— only DNS, Radar, Marine Radio Beacons and The manufacturers
+NNSS (Transit) cover Denmark, the UK and
+the Channel.
+Racal Decca
+
+For certain types of navigation in offshore waters (9) In the period relevant to these proceedings, Racal
+and/or on long routes and for fishing, a radio Decca has been the only provider of DNS signals
+navigation aid of the highest accuracy is required. in Denmark and the United Kingdom. The main
+
+15. 2. 89 Official Journal of the European Communities No L 43/29
+
+manufacturers of DNS receivers are : Racal Decca, Almost all DNS transmitting stations are currently
+the only main producer together with some owned and operated at its own expense by the host
+licencees until 1982 ; AP, PE and Rauff & Sarensen government.
+(hereinafter called 'RS').
+
+— The Irish chain and the Holland chain are
+owned by the government but operated respec
+tively by Racal Decca and another subsidiary of
+(10) The DNS was first developed during World War II the Racal Electronics group at government
+by one of Racal Decca's predecessors, the Decca expense. The German chain is owned and
+Navigator Company Ltd, for military purposes, operated by Racal Decca at. United Kingdom
+mainly for operations in the Channel. In 1946 this Ministry of Defence expense (principal use of
+company obtained the agreement of the British the chain : NATO forces).
+Government to the commercial development of the
+system. Racal Decca, apart from being the only — The Danish chain was entirely owned by Racal
+manufacturer of receivers, owned the transmitting Decca until July 1987. An agreement with the
+stations tand operated them at its own expense. In Danish Governement for permission to
+1947 the 1946 agreement was replaced by a transmit was made in 1947 and renewed later.
+working arrangement which regulated the activities In a report of a working group of the Danish
+of Decca Navigator and the Ministry of Transport Ministry of Defence in December 1983 it was
+in the development of the system which was stated that 'application of the service of radio
+extended in 1956. This agreement provides, inter station has to be as general as possible' and that
+alia, that 'in view of the responsibilities placed 'it is necessary that the Post Office ... secures
+upon him by the Merchant Shipping Act in that the public is admitted to use the
+matters affecting the safety of ships, he (the transmission of stations'.
+Minister) considers it important that this Ministry
+should be closely associated with the development
+of the Decca Navigation Systems. . .' and in point 8 Further to the notice of this agreement given by
+CApproval for Navigation*) that '. . . the Ministry Racal Decca in 1986, a contract was made
+will promulgate their approval of use of the English between the Danish Ministry of Defence and
+chain and similarly of subsequent chains by Racal Decca on 9 July 1987. Under this Notices to Mariners'. Racal Decca decided that the
+contract, all the Danish stations are owned by
+basis of the operation would be to hire receiving the government but operated by RDN/AS, a
+equipment to users for an annual fee in order to be subsidiary of Racal Decca, at the expense of the able to cover investment and maintenance costs.
+Danish Government. In respect of this contract,
+the Ministry of Defence has given notice of
+termination, effective on 31 December 1988.
+
+— All DNS transmitting stations in the United(11 ) The basic Racal Decca patents, which prevented
+Kingdom are owned by Racal Decca. The any third party from manufacturing legally without
+stations are operated by Racal Decca under its a licence any receiver for use with the DNS
+contract of 1 April 1987 with the General transmission, expired in the mid-1960's.
+Lighthouse Authorities at the expense of the
+latter, except for the Shetland slave of the
+Vestlandet (Norway) chain (at Racal Decca's
+expense) and the Orfordness slave of the
+(12) From 1946 on, a growing number of chains were Holland chain which is operated by Racal
+brought into operation along the coasts of the Decca under contract with and at the expense
+United Kingdom and of other European countries of the Dutch Governement. The Donegal slave
+(such as Denmark, Norway, Germany, Ireland, the of the Hebridean chain is operated by Racal
+Netherlands, France, Finland, Sweden and Spain — Decca at its own expense.
+excluding its Mediterranean coast). Such chains also
+exist along coastlines in various other parts of the
+world. In total there are now 25 DNS chains
+operating within Europe and 26 outside. (13) In a brochure, The Decca Navigator System and its
+uses', submitted by Racal Decca with the notifi
+cation on 20 May 1983, it was stated that more
+than 10 000 merchant ships of over 80 different
+countries and over 12 500 fishing vessels of all
+The two United Kingdom chains and the Danish types were fitted with Decca receivers. The DNS
+chain, whose transmission range is relevant for the was also in use throughout most NATO member
+definition of the geographical market for the states and more than 30 navies had been equipped
+transmission of DNS signals, represent over 20 % with Decca receivers. The system was also used by
+of the 14 chains operating in the Community. land forces and by both civil and military aircraft.
+
+No L 43/30 Official Journal of the European Communities 15. 2. 89
+
+(14) Racal Decca policy, until 1983 at least, was to hire boat receivers), the difference between the gross
+out its receivers for commercial use and not to sell margin rates for hired and sold commercial recei
+them. It only sold receivers to military forces and vers would increase, as it would also if the trans
+those which were to be placed in ships navigating mitter costs were reduced by the amount received
+outside the Community. The market for receivers in royalties (or a part thereof).
+for pleasure-boats had not developed, inter alia, /
+because non-commercial users had generally no AP
+incentive for paying the high rental charge
+demanded. (17) In 1981 AP ' started to market its own compact
+DNS-compatible receiver which was available for
+outright sale at a price then roughly equal to the
+(15) Amongst the receivers developed in the course of yearly rental of a Decca receiver (£ 1 500). Its price,
+its activity, Racal Decca announced in November ease of use, technologically-advanced design and
+1983 a new integrated receiver offered for sale or power consumption meant that it was also attrac
+hire, the MNS 2000. This receiver automatically tive to users of pleasure-boats.
+selected the most appropriate system, DNS, Loran
+RS
+C, Omega or Transit (reported in the magazine
+'Technical\ 22 November 1983). Racal Decca
+(18) RS, which produces a range of marine electronic started to market this receiver in 1985.
+devices, started to manufacture and promote its
+DNS receivers, the Shipmate RS 4000 series, in
+1982, and in 1983 the activities relating to this
+(16) The total turnover of Racal Decca for DNS in
+series were transferred to a personally-linked asso 1984/85 was £ (...)(') of which £ (...) was ciated company, Shipmate Navigator Aps.
+received from hire. The remaining income was
+received from product sales, chain operations and PE
+chain sales. According to their own accounts the
+'gross margin' was £ (...) or (...) % of the 'total PE, a manufacturer of civil and military navigation
+cost of sales' £ (...). The net profit before finance systems, developed and manufactured marine user
+and taxation (adjusted to exclude exceptional profit) receivers (601 D and 602 D) for DNS use from
+was £ (...), representing a return of (...) % on 1983.
+the capital employed during the period. The
+internal accounts of the company indicate an
+average 'gross margin' for commercial DNS recei Market shares
+vers, when hired out, of (...)% and an average
+'gross margin' for the same receivers, when sold, of (19) The tables below show the number of DNS
+(...) %, both calculated on the basis of the costs commercial and pleas
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n the Racal Decca-AP agreements : effect of the agreements is to ensure that no DNScompatible receiver is manufactured or distributed
+— by the retention of ownership, the assign by the parties without the consent of Racal Decca
+ment thereof to Racal Decca and the user (paragraph 100 above).
+card,
+
+— by the obligation on AP to prevent its dis
+tributors from supplying commercial users,
+(125) The lack of compliance with one condition makes — by the obligation on Racal Decca to pay
+damages to AP for comercial Racal Decca in unnecessary to assess the application of the
+others. Nevertheless, the other conditions are not receivers supplied for use on pleasure-boats,
+fulfilled either. The agreements confer no benefit
+— by the undertaking by Racal Decca to on consumers. They restrict the choice of users of
+discuss with AP any third parties to whom commercial receivers. They also reduce the supply
+Racal Decca might consider granting a of pleasure-boat receivers, in number of competi
+licence, tors (a potential supplier such as Racal Decca
+— by the establishment of the steering cannot enter the market) and in quality (only
+committee, downgraded versions for users of pleasure-boat
+receivers).
+— by Racal Decca's obligation to take legal
+action against unlicensed suppliers ;
+
+(ii) in the Racal Decca — PE-Navstar agreements :
+(126) The restriction of competition is not indispensable,
+— by the retention of ownership and the as argued, to finance DNS transmission and hence
+assignment thereof to Racal Decca and by to ensure the continuation of this service. Alterna
+the user card, tives were available and there is no evidence that
+these alternatives were not suitable for this purpose.
+— by PE-Navstar's obligation to prevent its
+distributors from supplying commercial
+users,
+
+— by Racal Decca's obligation to take legal
+(127) The agreements in question afforded the parties the action against unlicensed suppliers.
+possibility of eliminating competition in respect of
+a substantial part of the product in question. As a
+Effects of the agreements result of the agreements with AP and PE-Navstar,
+all competition from these companies was elim
+inated in the field of commercial receivers, and as a(120) Technical and economic progress is severely
+result of the agreement with AP, all competition limited for the reasons mentioned in paragraph
+from Racal Decca in the field of receivers for 101 . The effects of the agreements are extended to
+the dealers and they directly affect customers pleasure-boats was effectively excluded. The agree
+(retention of ownership, user card). ments with AP also increased the possibility for the
+parties to limit competition from third parties
+through obligations on Racal Decca to take legal
+Trade between Member States action against 'intruders'.
+
+(121) Trade between Member States is affected for the
+reasons set out in paragraphs 115 and 116.
+Racal Decca has alleged that the exclusive distri
+Article 85 (3) bution agreement with AP fell within the scope of
+Commission Regulation No 67/67/EEC of 22
+March 1967 on application of Article 85 (3) of the(122) As all the agreements in question arise from an
+Treaty to certain categories of exclusive dealing abuse of a dominant position in violation of Article
+agreements ('). Without prejudice to paragraph 122, 86, they cannot benefit from the application of
+as that agreement had effects which are incompa Article 85 (3), either by individual exemption or by
+tible with Article 85 (3), as shown in this section, it
+general exemption provided by regulation.
+could not benefit from the application of the Regu^
+lation.
+(123) In any event, the notified agreements between
+Racal Decca and AP and between Racal Decca and
+(') OJ No 57, 25. 3. 1967, p. 849/67, as amended by Regulations
+PE-Navstar, considered together, would not fulfil (EEC) No 2591/72 (OJ No L 276, 9. 12. 1972, p. 15) and
+the conditions of Article 85 (3). (EEC) No 3577/82 (OJ No L 373, 31 . 12. 1982, p. 58).
+
+No L 43/46 Official Journal of the European Communities 15. 2. 89
+
+Article 90 (2) behaviour in paragraph 117 constituted an infringe
+ment of Article 85.
+
+(128) This provision, which permits a derogation from Article 15 (2) of Regulation No 17
+the Treaty rules, cannot be invoked in this case in
+order to exclude the application of Articles 85 and (133) Because of the complexity of the legal assessment
+86. According to the judgment of the Court in of this case and the lack of precedents it cannot be
+BRT/Sabam ('), (a) the definition of the under found that Racal Decca's infringement of Article
+takings entitled to benefit from it must be narrowly 86 was intentional or even due to negligence.
+construed and (b) the application of the derogation Moreover, from the very beginning Racal Decca has
+requires that the undertakings involved be brought its practices to the Commission's attention.
+entrusted with a service of general economic inter In addition it has cooperated to bring this infringe
+est by a sovereign act of the public authority. There ment to an end. Therefore no fine is imposed on it
+is no such act of the public authorities in the agree for the infringement of Article 86.
+ment between Racal Decca with the British auth
+orities of 1947. Although it is strictly regulated and The agreements with AP and PE-Navstar having
+provides for an involvement of these authorities, it been notified at the time of their conclusion, no
+does not entrust Racal Decca with any particular fine can be imposed on the participants for in
+and precisely defined task. This is also confirmed fringement of Article 85, ,
+by the fact that the concepts of 'approval' and
+'authorization' contained in the agreement can
+hardly be reconciled with the concept of 'entrust'.
+
+HAS ADOPTED THIS DECISION :
+
+(129) It follows that the question whether the operation
+of the DNS falls within the definition of a service Article 1
+of general economic interest need not be investi
+gated. The following constituted infringements of Article 86 of
+the EEC Treaty by Racal Electronics pic :
+
+(130) However, even if it were assumed that Racal Decca (a) the conduct leading up to and including the conclu
+or its predecessor were indeed entrusted with the sion of all the agreements, in their entirety, entered
+operation of the DNS as a service of general into by its subsidiary Racal-Decca Marine Navigation
+economic interest, it is not proved that the applica Limited with AP Radiotelefon A/S, namely :
+tion of the competition rules would obstruct the
+performance of Racal Decca's operation of the — the licence agreement relating to the Decca Navi
+DNS, since there were alternatives to the restric gator System dated 1 January 1983,
+tions of competition which were either not — the exclusive distribution agreement dated 1
+accepted or not investigated by Racal Decca. January 1983,
+— the licence agreement dated 20 September 1983 ;
+
+Article 3 of Regulation No 17 (b) the conduct leading up to and including the conclu
+sion of all the agreements, in their entirety, entered
+into by its subsidiary Racal-Decca Marine Navigation
+(131) Pursuant to Article 3 of Regulation No 17, a Limited with Polytechnic Marine pic, later Poly
+Commission decision may be adopted even though technic Electronics pic, and Navstar SA, on 25 May
+the conduct, which is the subject of this decision, 1984, namely :
+has already been terminated. This is possible, not
+— the licence agreement, only for the purpose of imposing a fine in accord
+ance with Article 15 (2) of Regulation No 17, but — the technology agreement,
+also since it is necessary in the public interest to — the technology licence-back agreement ;
+clarify the legal situation because of its complexity
+and in order to prevent identical or similar in (c) the changes in the signals made by its subsidiary
+fringements, also in markets other than those Racal-Decca Marine Navigation Ltd for the purpose of
+which are relevant in these proceedings (2). impeding the functioning of competing receivers.
+
+(132) By this Decision the Commission finds that the Article 2
+behaviour referred to in paragraph 97 (a) and (b)
+constituted infringements of Article 86 and the All the agreements indicated in Article 1 (a) and (b)
+constituted infringements of Article 85 of the EEC Treaty
+(') ECJ, 23. 3. 1974, 127/73, [1974] ECR p. 318. by Racal Electronics pic, NV Philips Gloeilampen
+0 Case 7/82 'GVL' (1983), p. 483. fabrieken and Polytechnic Electronics pic.
+
+15. 2. 89 Official Journal of the European Communities No L 43/47
+
+Article 3 — Polytechnic Electonics pic,
+Royal Oak Way,
+Daventry,
+This Decision is addressed to : UK-Northants NN11 5PJ.
+
+— Racal Electronics pic,
+Done at Brussels, 21 December 1988. Western Road,
+Bracknell,
+UK-Berks RG12 1RG, For the Commission
+
+Peter SUTHERLAND
+— NV Philips Gloeilampenfabrieken,
+NL-5621 BA Eindhoven, Member of the Commission
+
+ANNEX No
+
+L
+Radio navigation aids 43/48
+
+NNSS GPS
+Marine VHF
+Differential satellite (global RANA Toran Radar radio lighthouse DNS Loran C Omega
+Omega beacons system navigation position (Transit) system)
+
+Accuracy (d) 50 to 2000 100 to 1 000 3 700 to 7 400 180 to 5 550 20 to 2 000 5 to 50 90 to 610 (d) 1 850 920 to 2 780 460 100
+(in metres) (n) 180 to 7400 (n) 3 700 frequency :
+every
+90 minutes
+
+Transmission (d) 480 1 High High 300 (d) 600 120 25 20 to 40 15 to 30 Notrange (in (n) 240 (greater (n) 200 (normal pertinent Official
+nautical than DNS) range)
+miles)
+Journal
+Geographic From Norway Northern All Europe All Europe Western Western All Europe All Europe Five points All Europe Not yet
+coverage to the North Europe save save the save the and north France and near in the operating of
+in Europe of Spain the Channel, Scandinavian northern western a small part critical United the
+the squthern countries United France of the points Kingdom
+part of the Kingdom, the (Bay of Channel
+North and Scandinavian Biscay) and
+Baltic Sea countries South and most western European
+of Germany United
+Kingdom
+
+(d) — day.
+(n) - night. Communities
+
+15.
+
+2.
+
+89

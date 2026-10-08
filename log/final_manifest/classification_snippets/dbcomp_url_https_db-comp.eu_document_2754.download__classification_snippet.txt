@@ -1,0 +1,446 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+Brussels, 9.7.2025
+C(2025) 4523 final
+
+PUBLIC VERSION
+
+APM Terminals B.V.
+De Kroon
+Turfmarkt 107
+Den Haag 2511 DP
+The Netherlands
+
+Subject: Case AT.40976 – APM Terminals
+Informal Guidance Request - APM Terminals
+(Please quote this reference in all correspondence)
+
+Dear Sir or Madam,
+
+1. On 18 December 2024, APM Terminals (“APM” or “the applicant”) requested
+informal guidance under the Commission Notice on Informal Guidance relating to
+novel or unresolved questions concerning Articles 101 and 102 of the Treaty on the
+Functioning of the European Union (TFEU) that arise in individual cases (guidance
+letters) (hereafter: the "Notice on Informal Guidance" or the "Notice") (1).
+
+2. This request for informal guidance relates to the compatibility with EU competition
+rules of a proposed sustainability agreement for the joint purchasing and the setting
+of minimum technical specifications of battery-electric straddle and shuttle carriers
+(“BE-SC”), a type of container handling equipment (“CHE”) used at ports (the “Joint
+Purchasing and Specification Agreement” or “JPSA”). The present informal
+guidance letter sets out the Commission’s position on certain issues raised in APM’s
+request for guidance.
+
+1. PRELIMINARY CONSIDERATIONS
+
+3. Since the entry into force of Council Regulation (EC) No 1/2003 (2), undertakings (or
+their associations) can no longer notify their agreements to the Commission to receive
+
+(1) Commission Notice on informal guidance relating to novel or unresolved questions concerning Articles
+101 and 102 of the Treaty on the Functioning of the European Union that arise in individual cases
+(guidance letters), OJ C 381, 4.10.2022, p.9.
+(2) Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+competition laid down in Articles 81 and 82 of the Treaty, OJ L 1, 4.1.2003, p. 1. With effect from 1
+December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101 and 102, respectively,
+of the Treaty on the Functioning of the European Union. The two sets of provisions are, in substance,
+identical.
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+an individual exemption from Article 101 TFEU. Instead, they are responsible for
+assessing the legality of their agreements and practices themselves. This system of
+self-assessment, framed by the extensive guidance provided in Commission notices
+and other publications, as well as existing case law, is now well-established.
+
+4. Consequently, informal guidance letters are intended to assist undertakings with their
+self-assessment of compliance with the competition rules on agreements and
+unilateral practices, for which they ultimately remain responsible.
+
+2. INFORMAL GUIDANCE
+
+5. Section 2.1 summarises the facts and arguments put forward by the applicant in its
+request for informal guidance. Section 2.2 sets out the Commission’s assessment of
+the JPSA’s compatibility with Article 101 TFEU.
+
+The request for informal guidance
+
+6. In its request (3), APM explains that:
+
+a. There is an urgent need to replace the approximately 7 500 diesel-powered
+straddle and shuttle carriers (together “SCs”) currently in use worldwide with
+zero-emission SC by 2030, along with approximately 100 000 units of other
+forms of CHE, in order to decarbonise the industry and reduce greenhouse gas
+emissions (“GHG”) in line with the targets set by the European Commission.
+Diesel-powered SCs, although small in number when compared to other CHE,
+account for approximately 1-2 metric tons of carbon dioxide equivalent of CHE
+emissions worldwide;
+
+b. Most of the CHE in operation are diesel-powered. Electric CHE are on average
+more expensive than their diesel counterparts. This cost difference is the highest
+for BE-SCs. In terms of total cost of ownership (“TCO”), BE-SCs are [25-35]∗%
+more expensive than their diesel counterparts, whereas for other CHE (i.e.
+terminal tractors and reach stackers), such difference amounts to approximately
+14-15%;
+
+c. The higher cost of BE-SC is due to the high cost of batteries, lack of
+manufacturing scale, charging infrastructure costs and additional downtime
+compared to diesel equipment. Moreover, batteries and charging solutions are
+produced bespoke for each brand of BE-SCs, which makes mixing and matching
+batteries and chargers from different manufacturers impossible;
+
+d. Grouping the purchases through a JPSA would aggregate a critical level of
+demand such as to induce SC Original Equipment Manufacturers’ (“OEMs”) to
+scale up the production of BE-SCs, optimise batteries and charging devices, in
+order to reduce the TCO of BE-SCs and ultimately reach parity between the TCO
+of diesel-powered SCs and the TCO of BE-SCs. This would not be possible in a
+reasonable time, absent a joint effort by TOs [...];
+
+(3) Including all subsequent communication and written replies to questions.
+∗ Parts of this text have been edited to ensure that confidential information is not disclosed. Those parts
+are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+2
+
+e. The proposed JPSA consists of a framework agreement between TOs on (i) the
+joint negotiation of purchases of BE-SCs and (ii) minimum technical
+specifications for these BE-SCs. The JPSA is intended to incentivise the OEMs
+to produce BE-SCs at scale and at more competitive prices by submitting orders
+of larger size;
+
+f. The JPSA’s overarching objective is to reduce and ultimately eliminate GHG
+emissions by SCs. This sustainability benefit can only be achieved through the
+purchase of larger volumes of BE-SCs by TOs. Individual orders of BE-SCs by
+APM and other TOs have not been sufficient, so far, to incentivise OEMs to scale
+up production and ensure interoperability between batteries and chargers of
+different brands;
+
+g. To achieve the intended cost reductions described under paragraph 6(d),
+purchases of at least 300 to 350 BE-SCs through the JPSA are necessary,
+assuming a duration of the JPSA of five years (4).
+
+h. Part of the intended cost reduction can be achieved as follows: the JPSA would
+encourage OEMs to scale up production and rely on technological developments
+in battery cells, battery packs, electric drivetrains and charging solutions to bring
+down prices. Taking automotive battery packs as a benchmark, the JPSA could
+reduce costs for these parts by approximately [5-15]%. Moreover, the JPSA
+provides for TOs to jointly define minimum technical specifications for batteries
+and charging technology of the BE-SCs that they purchase, which would,
+according to APM, reduce the TCO of BE-SCs by [5-15]% on average.
+Furthermore, APM estimates that optimising terminal operations (such as
+installing ultra-fast chargers and battery swapping stations), could reduce
+downtime and decrease the TCO of BE-SCs by a further [5-15]% on average.
+
+i. The intended cost reductions require not only the aggregation of demand, but
+also an agreement by participating TOs on a “minimum standardisation” of the
+technical specifications of the BE-SCs that they purchase together. With these
+specifications, participating TOs aim to ensure that (i) chargers and batteries of
+different makes are interoperable and that (ii) BE-SCs have certain key
+functionalities. The OEMs are free to choose the way to achieve these
+specifications, including by differentiating their products (5).
+
+j. While it is not yet clear which TOs will become parties to the JPSA, [...] TOs
+([...]) have expressed their interest to participate together with APM;
+
+k. The JPSA should have a duration of five years.
+
+l. The proposed JPSA falls outside the scope of Article 101 TFEU. APM alleges
+that, in the absence of the JPSA, due to the higher TCO of BE-SCs (see above
+6(b), it could not comply with a number of statutory requirements under EU and
+other laws, such as the (i) the European Climate Law, which writes into law the
+goal set out in the European Green Deal for Europe's economy to become the
+first climate-neutral continent by 2050, and the intermediate target of reducing
+net GHG emissions by at least 55% by 2030, compared to 1990 levels, (ii) the
+
+(4) See APM’s email of 16 April 2025.
+(5) APM’s reply of 7 February 2025 to the Commission’s request for information, p.3.
+3
+
+Corporate Sustainability Due Diligence Directive (6), (iii) the Corporate
+Sustainability Reporting Directive (7) and [...]. Moreover, APM argues that the
+JPSA has only positive effects on competition, if any, because it (i) incentivises
+OEMs to develop and scale production of optimised BE-SCs, (ii) decreases TCO
+until parity with diesel-operated SCs, and (iii) introduces more choice and
+stimulates innovation;
+
+m. Even if the JPSA were to fall within the scope of Article 101 TFEU, APM
+considers that it does not contain any restrictions of competition by object
+because its main objective is a sustainability objective. Moreover, it pursues a
+pro-competitive objective (see above paragraph 6(l));
+
+n. If the JPSA were to fall within the scope of Article 101 TFEU, it does not contain
+any restrictions of competition by effect either for the following reasons:
+
+i. First, the JPSA is pro-competitive in nature (see above paragraph 6(l));
+
+ii. Second, the JPSA does not give rise to anticompetitive effects in the
+upstream market for the purchase of BE-SCs by participating TOs since
+OEMs have a significant degree of countervailing seller power, while the
+TOs are unlikely to have significant market power. The market for SCs is
+worldwide, and the EEA demand for SCs makes up only [40-50]% of
+worldwide demand. Furthermore, the market on the side of the purchasers
+such as APM is fragmented and consists of approximately ten Global
+Terminal Operators (“GTOs”) and numerous small and medium-sized
+terminal operators (“SMTOs).” APM estimates that the shares of each TO
+that has expressed interest to participate in the JPSA of the worldwide
+demand for SCs is [below 10]%. Even if the market power of participating
+TOs were significant, it would always be outbalanced by the very strong
+countervailing seller power of the OEMs on the market for SCs. Insofar,
+the Commission's findings in its decision of 24 February 2022 in Case
+M.10078 Cargotec/Konecranes are still valid;
+
+iii. Third, the JPSA will not require the TOs to purchase any of their demand
+for BE-SCs or other SCs under the JPSA. The JPSA will be open to any
+TO. Furthermore, the pro-competitive effects of the JPSA, such as higher
+scale and therefore reduced production costs or better quality of BE-SCs
+will also benefit non-participating TOs;
+
+iv. Fourth, the JPSA will not lead to anticompetitive effects in the downstream
+markets for container terminal services because the JPSA contains strict
+safeguards to avoid exchange of commercially sensitive information that
+could facilitate collusion. Moreover, the JPSA will not result in a high
+degree of commonality of costs of TOs that would facilitate tacit collusion.
+
+(6) Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate
+sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/285,
+OJ L, 2024/1760, 5.7.2024, https://eur-lex.europa.eu/eli/dir/2024/1760/oj/enghttps://eurlex.europa.eu/eli/dir/2024/1760/oj/eng.
+(7) Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022
+amending Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive
+2013/34/EU, as regards corporate sustainability reporting (Text with EEA relevance), OJ L 322,
+16.12.2022, p. 15–80, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464.
+
+4
+
+SCs are just one of several types of BE-CHE equipment used by TOs and
+generally represent a small percentage of their total fixed costs. For
+example, in the case of APM, SCs of all types (including hybrid)
+represented less than [...]% of its total capital expenditure (CAPEX) (8) in
+2023, whereas the exact percentage per terminal differs. Finally, APM
+observes that [...];
+
+v. Fifth, the proposed number of SC units that TOs would purchase through
+the JPSA of at least 300 to 350 over a period of five years (see paragraph
+6(g)) is limited to what is strictly necessary and proportionate to create
+sufficient buyer power to achieve the JPSA’s aims;
+
+vi. Sixth, insofar as the minimum specifications are concerned, they fall under
+the “soft safe harbour” defined in paragraph 549 of the Horizontal
+Guidelines of the European Commission (9).
+
+o. Since the JPSA does not restrict competition within the meaning of Article
+101(1) TFEU, it is not necessary to conduct an assessment as to whether it meets
+the conditions to benefit from the exemption under Article 101(3) TFEU.
+
+The Commission’s assessment
+
+2.2.1. Facts
+
+7. In the following sections, the Commission sets out the facts as presented by the
+applicant in so far as relevant for its assessment. (10) In some instances, they are
+complemented by the Commission’s own research. Section 2.2.1.1. describes the
+product and industry concerned, section 2.2.1.2. the objective of the JPSA, sections
+2.2.1.3. and 2.2.1.4. the proposed agreement on joint purchasing and on minimum
+technical specifications respectively, sections 2.2.1.5. and 2.2.1.6. the conditions on
+the upstream market for the purchase of SCs and on the downstream markets for the
+supply of container terminal services, and section 2.2.1.7. the proposed duration of
+the JPSA.
+
+2.2.1.1. The product and industry concerned
+
+2.2.1.1.1. Container handling equipment
+
+8. CHE is used to load and unload containers on maritime transport ships in the world’s
+940 container ports. CHE equipment comprises different types of “vehicles”, such as
+terminal tractors, straddle and shuttle carriers, lift trucks, rubber-tyred gantry and
+ship-to-shore cranes. CHE equipment is used by TOs to perform port operations.
+
+9. Within the CHE fleet, a broad distinction can be made between “horizontally moving”
+equipment (also referred to as “untethered”) and fixed equipment. Untethered
+
+(8) Capital expenditure refers to funds that a company spends on the acquisition, upgrading or maintenance
+of physical assets that are expected to provide benefits over a long period (e.g. property, buildings,
+equipment, technology).
+(9) Communication from the Commission – Guidelines on the applicability of Article 101 of the Treaty on
+the Functioning of the European Union to horizontal co-operation agreements, OJ C 259, 21.7.2023
+(“Horizontal Guidelines”).
+(10) Insofar as the sources are not indicated explicitly in footnotes, the source is the application mentioned
+in paragraph 1.
+5
+
+equipment (terminal tractors, straddle carriers, lift trucks) is typically used to move
+containers from the quay to the yard, while fixed equipment is used to place containers
+in the yard and remove them from the yard for horizontal transport. According to
+APM, untethered equipment accounts for 70% of the global CHE fleet. Most CHE is
+cur
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+pen to all TOs.
+
+(22) First, APM cites merely EU law and [...] which allegedly obliges APM to reduce its GHG emissions.
+However, these are not international treaties, agreements or conventions in the sense of paragraph 528
+of the Horizontal Guidelines, which explicitly exempts from the scope of Article 101 (1) TFEU only
+agreements that have as their sole aim to fulfil obligations under international law, but not EU law.
+Second, none of the legal acts cited by APM contain a sufficiently precise requirement or prohibition on
+APM to reduce GHG.
+(23) Judgment of 29 June 2023, Super Bock Bebidas, C-211/22, ECLI:EU:C:2023:529, paragraph 34.
+(24) Judgment of 29 June 2023, Super Bock Bebidas, C-211/22, ECLI:EU:C:2023:529, paragraph 31.
+(25) See Horizontal Guidelines, paragraphs 278 et seq.
+(26) See Horizontal Guidelines, paragraph 282(a).
+(27) See Horizontal Guidelines, paragraphs 281 and 282.
+(28) See Horizontal Guidelines, paragraph 283.
+(29) See Horizontal Guidelines, paragraph 284.
+(30) See also below section 2.2.3.2.2.
+10
+
+2.2.3.2. No restriction of competition by effect
+
+42. Based on the available information, the Commission considers that the JPSA does not
+have as its effect a restriction of competition either on the upstream market on which
+TOs purchase BE-SCs or on the downstream market(s) on which TOs offer container
+terminal services (31). The Commission’s assessment is based on five elements
+examined in paragraphs 43 to 50 below.
+
+2.2.3.2.1. Upstream market for the purchase of SCs
+
+2.2.3.2.1.1. Absence of exclusive purchasing obligations
+
+43. The first element is that the JPSA does not impose on TOs any obligation to purchase
+all or a part of their requirements for SCs (independent of drive type, including BE-
+SC) exclusively under the JPSA. According to the applicant, such an obligation is, in
+this case, not necessary to achieve the required degree of buying power or volume for
+the realisation of the intended TCO reduction.
+
+2.2.3.2.1.2. Maximum share of demand aggregated through JPSA
+
+44. The second element is that the JPSA does not aggregate the purchase of more than
+350 units of BE-SCs in the next five years, which corresponds to approximately [30-
+40]% of the total demand for SCs in the EEA.
+
+45. The total number of 350 units of BE-SCs is the upper end of the range that APM
+indicated as the amount of units which TOs need to purchase during the next five
+years through the JPSA to achieve the cost reductions intended by the JPSA (see
+above paragraph 18) (32).
+
+46. These 350 units of BE-SCs would correspond to [30-40]% of the total demand for
+SCs (of any drive type) in the EEA during the next five years. This estimate of total
+demand for SCs in the EEA is based on sales forecasts by the OEMs (33) and on the
+Commission’s decision-making practice, according to which the relevant upstream
+product market where the TOs’ demand meets the OEMs’ supply, appears to be the
+market for the supply of SCs (i.e. straddle and shuttle carriers (34)). This market
+includes SCs of all drive types, i.e. diesel, battery-electric, battery-hybrid (35), and of
+all modes of operation, i.e. manual and automated mode (36). BE-SCs therefore seem
+substitutable in principle (i.e. leaving aside the cost disadvantage) with SCs of other
+
+(31) See Horizontal Guidelines, paragraphs 285 et seq.
+(32) See APM’s email of 16 April 2025.
+(33) In the next five years, Kalmar estimates that it will sell approx. [...] units of SCs per year, Konecranes
+[...], and ZPMC [...], see emails from Kalmar and Konecranes of 22 April and email from ZPMC of 24
+April 2025. In sum, this gives a total of [...] SC units which these OEMs estimate that they will sell in
+the next five years in the EEA. Of these [...] SC units, 350 units make up a share of [30-40]%.
+(34) See Commission decision of 24. February 2022, Case M.10078 – CARGOTEC / KONECRANES, para.
+115. Shuttle carriers are a "short leg” version of straddle carriers mainly used to transport containers
+horizontally, whereas straddle carriers can be also used for stacking containers. The Commission found
+indications that due to the high supply-side substitutability, straddle and shuttle carriers belong to the
+same product market, but ultimately left this question open.
+(35) See Commission decision of 24 February 2022, Case M.10078 – CARGOTEC / KONECRANES, para.
+99.
+(36) See Commission decision of 24 February 2022, Case M.10078 – CARGOTEC / KONECRANES, paras.
+104, 106.
+11
+
+drive types. This market is at least EEA-wide, and possibly worldwide (37). The EEA
+demand for SCs represents [40-50]% of the worldwide demand.
+
+47. Setting the aggregated purchasing threshold at 350 units in total, i.e. [30-40]% of the
+total yearly demand for SCs in the EEA, seems justified in this case (i) to rapidly
+increase demand for and supply of BE-SCs, (ii) because a substantial part of
+worldwide and EEA-wide demand for SCs, including BE-SCs, would remain
+unaffected by the JPSA, and (iii) taking into account the high level of concentration
+in the market for the supply of SCs (see para. 14). Regarding (i), the Commission
+estimates, based on numbers provided by APM, that only 1% of all SCs sold
+(worldwide) are currently BE-SCs (38). Reducing TCO of these BE-SCs will therefore
+likely contribute to increasing demand for and supply of BE-SCs rapidly. Regarding
+(ii), APM estimates that aggregating at least 350 units of BE-SCs during the next five
+years through the JPSA is necessary to achieve the cost reductions intended by the
+JPSA, which corresponds to approximately [30-40]% of the total demand for SCs in
+the EEA (see above paragraph 46). Therefore, approximately [60-70]% of that
+demand in the EEA remains unaffected by the JPSA. Based on the worldwide demand
+for SCs, the share which remains unaffected by the JPSA is even higher.
+
+2.2.3.2.2. Downstream markets for container terminal services (39)
+
+48. The third element is that the JPSA does not facilitate coordination with regard to sales
+prices and output and thus does not lead to a collusive outcome on the selling
+market (40). The JPSA therefore must not entail more exchange of competitively
+sensitive information than objectively necessary for its implementation. In this regard,
+the JPSA must contain safeguards, such as confidentiality commitments undertaken
+by representatives of each TO not to share any competitively sensitive information
+with other staff within their respective companies. Competitively sensitive
+information, such as individual demand or individual preference for price and
+technical specifications must not be shared outside the SteerCo. The concrete
+formulation, scope of application, duration, and implementation of these safeguards
+must be effective to limit the information exchange to what is objectively necessary
+to implement the JPSA.
+
+49. The fourth element is that the JPSA does not lead to such cost commonality that
+participating TOs are more able and likely to collude. Based on the applicant’s
+information, the expected increase in cost commonality for the parties to the JPSA is
+likely to be limited. Assuming that all TOs participating in the JPSA have a cost
+structure similar to that of APM, the cost of SCs, compared to the cost of all other
+CHE that TOs use in providing container terminal services – and which competing
+
+(37) See Commission decision of 24 February 2022, Case M.10078 – CARGOTEC / KONECRANES, para.
+343.
+(38) See for example APM’s reply of 7 February 2025, p.11, Table 3.
+(39) Based on the Commission’s decision practice, the product market for container terminal services
+includes the loading, unloading, storage and land-side handling for inland transportation of
+containerised cargo. This market can be further distinguished into separate submarkets for hinterland
+traffic (containers transported directly to/from a container vessel from/to the hinterland via barge, truck
+or train) and transhipment traffic (containers destined for the onward transportation to other ports or
+other vessels). The geographic market is in essence determined by the geographic area generally served
+by the container terminal (catchment area). See Commission Decision of 29 April 2022, Case M.10522
+- HAPAG-LLOYD / EUROGATE / EUROGATE CONTAINER TERMINAL WILHELMSHAVEN, paras.
+15 et seq.
+(40) See Horizontal Guidelines, paragraph 302.
+12
+
+TOs do not purchase jointly – constitutes a limited part of TOs’ total CAPEX (see
+above, paragraph 30).
+
+2.2.3.2.3. Minimum Specifications
+
+50. To the extent the parties to the JPSA intend to agree on a “minimum standardisation”
+of technical specifications of the BE-SCs that they purchase together (see paragraph
+26), the fifth element is that these specifications remain limited to charging strategy
+and/or method and charger architecture. The Commission considers that this will
+increase the interoperability between charging infrastructure and BE-SCs of different
+OEMs, while at the same time leaving sufficient scope for OEMs to compete by
+differentiating their products.
+
+2.2.4. Limits of application of the informal guidance letter
+
+51. In addition to the limits of effects of guidance letters described in the Commission’s
+Notice on Informal Guidance, the guidance provided in this letter remains applicable
+for a maximum of five years. This informal guidance letter does not concern the
+possible effects of the JPSA outside the EEA.
+
+3. CONCLUDING REMARKS
+
+52. This informal guidance letter reflects the Commission’s observations on the facts
+presented to it and does not create any rights or obligations for APM or any third
+party. It also cannot prejudge the assessment of the same question by the Court of
+Justice of the European Union. Moreover, the clarifications provided herein are
+expressly conditioned on the accuracy and truthfulness of the information that APM
+has submitted. Any material divergence from the information provided will render
+this informal guidance letter inapplicable.
+
+For the Commission
+
+Signed
+
+Teresa RIBERA
+Executive Vice-President
+
+13

@@ -1,0 +1,448 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.40324 – European Government Bonds
+
+(Only the English and German texts are authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 20/05/2021
+This is a provisional non-confidential version.
+
+This text is made available for information purposes only. A summary of this decision is published
+in all EU languages in the Official Journal of the European Union.
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...]. Pending claims are marked as [confidentiality claim pending].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 20.5.2021
+C(2021) 3489 final
+
+COMMISSION DECISION
+
+of 20.5.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40324 – European Government Bonds)
+
+(Text with EEA relevance)
+
+(Only the English and German texts are authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 5
+2. Industry subject to the proceedings .............................................................................. 5
+2.1. The product .................................................................................................................. 5
+2.2. The business ................................................................................................................. 5
+2.2.1. Primary market ............................................................................................................. 6
+2.2.1.1. Auctions ....................................................................................................................... 7
+2.2.1.2. Syndication................................................................................................................. 11
+2.2.2. Secondary market ....................................................................................................... 12
+2.2.3. Relationship between the primary and the secondary market .................................... 14
+2.2.4. Market value............................................................................................................... 15
+2.3. Parties ......................................................................................................................... 15
+2.3.1. Bank of America ........................................................................................................ 15
+2.3.2. Natixis ........................................................................................................................ 16
+2.3.3. Nomura....................................................................................................................... 16
+2.3.4. RBS ............................................................................................................................ 16
+2.3.5. UBS ............................................................................................................................ 17
+2.3.6. UniCredit .................................................................................................................... 17
+2.3.7. WestLB ...................................................................................................................... 17
+3. Procedure.................................................................................................................... 18
+4. Description of the events ............................................................................................ 19
+4.1. General overview ....................................................................................................... 19
+4.2. Chronological overview of events.............................................................................. 25
+5. Legal Assessment ..................................................................................................... 121
+5.1. Application of Article 101 of the Treaty and Article 53 of the EEA Agreement .... 121
+5.1.1. Agreements and concerted practices ........................................................................ 121
+5.1.1.1. Principles .................................................................................................................. 121
+5.1.1.2. Application in this case ............................................................................................ 126
+5.1.1.3. Arguments of the parties .......................................................................................... 129
+5.1.2. Single and continuous infringement......................................................................... 135
+5.1.2.1. Principles .................................................................................................................. 135
+5.1.2.2. Application in this case ............................................................................................ 137
+5.1.2.3. Arguments of the parties .......................................................................................... 144
+5.1.3. Restriction of competition ........................................................................................ 155
+5.1.3.1. Principles .................................................................................................................. 155
+
+1EN EN
+
+5.1.3.2. Application in this case ............................................................................................ 158
+5.1.3.3. Arguments of the parties .......................................................................................... 169
+5.2. Effect upon trade between EU Member States and Jurisdiction .............................. 206
+5.3. Application of Article 101(3) of the Treaty and Article 53 of the EEA Agreement 207
+6. Addressees of the proceedings ................................................................................. 208
+6.1. Principles .................................................................................................................. 208
+6.2. Application in this case ............................................................................................ 210
+6.2.1. Bank of America ...................................................................................................... 210
+6.2.2. Natixis ...................................................................................................................... 211
+6.2.3. Nomura..................................................................................................................... 211
+6.2.4. NatWest (RBS)......................................................................................................... 211
+6.2.5. UBS .......................................................................................................................... 212
+6.2.6. UniCredit .................................................................................................................. 212
+6.2.7. Portigon (WestLB) ................................................................................................... 212
+6.3. Arguments of the parties .......................................................................................... 212
+7. Duration of the infringement .................................................................................... 214
+8. Remedies .................................................................................................................. 218
+8.1. Capacity to impose fines .......................................................................................... 218
+8.2. Finding of an infringement....................................................................................... 219
+8.3. Termination of the infringement .............................................................................. 226
+8.4. Setting of the fines ................................................................................................... 227
+8.4.1. Basic amount ............................................................................................................ 227
+8.4.1.1. Value of sales ............................................................................................................ 227
+8.4.1.2. Gravity...................................................................................................................... 239
+8.4.1.3. Duration.................................................................................................................... 241
+8.4.1.4. Variable amount ....................................................................................................... 242
+8.4.1.5. Additional amount .................................................................................................... 242
+8.4.1.6. Conclusion ................................................................................................................. 243
+8.4.2. Adjustment of the basic amount ............................................................................... 244
+8.4.2.1. Nomura ...................................................................................................................... 244
+8.4.2.2. UBS ........................................................................................................................... 245
+8.4.2.3. UniCredit ................................................................................................................... 245
+8.4.2.4. WestLB (Portigon) .................................................................................................... 246
+8.4.3. Deterrence ................................................................................................................ 247
+8.4.4. Application of the 10% turnover limit ..................................................................... 247
+
+2EN EN
+
+8.4.5. Application of the Leniency Notice ......................................................................... 247
+8.4.5.1. NatWest (RBS) .......................................................................................................... 247
+8.4.5.2. UBS ........................................................................................................................... 248
+8.4.5.3. Natixis ....................................................................................................................... 249
+8.4.6. Inability to pay ......................................................................................................... 249
+8.4.7. Conclusion: final amount of fines ............................................................................ 249
+
+3EN EN
+
+COMMISSION DECISION
+
+of 20.5.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40324 – European Government Bonds)
+
+(Text with EEA relevance)
+
+(Only the English and German texts are authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission Decision of 31 January 2019 to initiate proceedings in this
+case2,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+1 OJ L 1, 4.1.2003, p.1.
+With effect from 1 December 2009, Articles 81 and 82 of the Treaty (‘EC Treaty’) have become
+Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union). The two
+sets of provisions are, in substance, identical. For the purposes of this Decision, references to Articles
+101 and 102 of the Treaty should be understood as references to Articles 81 and 82 of the EC Treaty for
+the period prior to 1 December 2009.
+2 For the purposes of this Decision, although the United Kingdom withdrew from the European Union as
+of 1 February 2020, according to Article 92 of the Agreement on the withdrawal of the United Kingdom
+of Great Britain and Northern Ireland from the European Union and the European Atomic Energy
+Community (OJ L 29, 31.1.2020, p. 7), the Commission continues to be competent to apply Union law
+as regards the United Kingdom for administrative procedures which were initiated before the end of the
+transition period.
+3 OJ L 123, 27.4.2004, p. 18.
+
+4EN EN
+
+Italy Dipartimento del Tesoro
+Netherlands DSTA (Dutch State Treasury/Agentschap van de Generale
+Thesaurie)
+Portugal IGCP, E.P.E. (Agência de Gestão da Tesouraria e da Dívida
+Pública)
+Spain Tesoro Público
+2.2.1.1. Auctions
+(8) In an auction, primary dealers compete with each other for acquiring EGB issued by
+the DMO and establish a secondary market by promoting and placing (selling) the
+bonds acquired at the auction to other financial institutions and investors.
+(9) Only primary dealers may bid in EGB auctions. Other financial institutions/investors
+are obliged to buy newly issued EGB from primary dealers in the secondary market.
+(10) Only certain financial institutions selected and appointed by DMOs will be allowed
+to act as primary dealers in the auctions.9 Primary dealers are ranked and selected by
+the issuer every year and are required to comply with certain conditions for obtaining
+and preserving their primary status.
+(11) Primary dealers must take part in the auctions and acquire and place a significant
+volume of the bonds during a given reference period. Primary dealers are generally
+expected or obliged to assume a role of ‘market maker’ on the secondary market by
+quoting two-way prices (bid and ask prices) and deal at these prices.10 They buy or
+sell bonds at prices generally shown to the market, rather than in respect of each
+particular transaction.
+(12) The DMOs rank their primary dealers and the primary dealers can maintain or
+improve their ranking by purchasing large volumes of EGB. Failing to bid at
+auctions impacts adversely on the primary dealer’s ranking. The DMOs incentivise
+their primary dealers to maintain or improve their ranking by making them eligible
+for and giving them improved access to syndications, associated derivatives orders
+and non-competitive bids.11
+(13) A DMO will typically release an auct
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+cation of a
+specific proxy for the value of sales including a reduction factor that takes into
+account the particularities of the market and avoids over-deterrent fines, the
+Commission considers that it is not necessary to increase the fines further for
+deterrence purposes.
+
+1488 See Section 8.4.1.1.
+Similar methodologies have been applied in Case AT.39861 – Yen Interest Rate Derivatives, Case
+AT.39914 – Euro Interest Rate Derivatives, AT.39924 – Swiss Franc Interest Rate Derivatives,
+AT.40135 – Forex, AT.40346 – SSA bonds.
+1489 See Section 8.4.4. Application of the 10% turnover limit.
+1490 [...]
+1491 [...]
+See also recital (632).
+1492 See the overview of anticompetitive contacts in Annex 1.
+1493 Point 30 of the Guidelines on fines.
+
+242EN EN
+
+8.4.4. Application of the 10% turnover limit
+(892) Pursuant to Article 23(2) of Regulation (EC) No 1/2003, the fine imposed on each
+undertaking participating in the infringement must not exceed 10% of its total
+turnover relating to the last available business year preceding the date of the
+Commission decision.
+(893) The fine imposed in this Decision do not exceed 10% of the total turnover for any of
+the parties, with the exception of Portigon AG.1494 Portigon is winding down the
+activities of the WestLB undertaking and its net turnover in the last available
+business year preceding the date of this Decision is negative. The fine of Portigon
+AG is, therefore, reduced to EUR 0.
+8.4.5. Application of the Leniency Notice
+(894) The Commission applies its Leniency Notice to the immunity and leniency
+applications it has received from RBS, UBS and Natixis respectively.1495
+8.4.5.1. NatWest (RBS)
+(895) NatWest (including all entities mentioned in this Decision) is granted immunity from
+fines in this case. NatWest applied for a marker on 29 July 2015, followed up by a
+full immunity application and was granted conditional immunity on 27 January 2016
+pursuant to point 18 of the Leniency Notice.1496 NatWest was the first undertaking to
+submit evidence and information which enabled the Commission to carry out a
+targeted inspection or find an infringement of Article 101 of the Treaty in connection
+with the cartel. Throughout the administrative investigation, NatWest fulfilled its
+cooperation obligations under points 12 and 13 of the Leniency Notice.
+8.4.5.2. UBS
+(896) UBS is granted a reduction of 45% of the fine that otherwise would have been
+imposed.
+(897) UBS applied for a reduction of a fine on 29 June 2016 and continued to provide
+information thereafter.1497 The Commission informed UBS on 31 January 2019 that
+immunity from fines was not available in this case, but that it intended to grant UBS
+a reduction of the fine within the band of 30% to 50% because it was the first
+undertaking to submit evidence which represents significant added value with respect
+to the evidence previously in the Commission's possession.1498
+(898) In this Decision, the Commission evaluates the final position of UBS.1499 The
+Commission still considers that UBS is entitled to a reduction of fines within the
+band of 30% to 50%. UBS has provided evidence with significant added value in this
+case and its contribution has assisted the Commission investigation. There are no
+indications that UBS did not fulfil its cooperation obligations.1500
+
+1494 See the replies to the request for information of 03.02.2021, mentioned in footnote 72.
+1495 See recitals (68)-(71).
+1496 Recitals (68)-(69).
+1497 Recital (70). See point 23 of the Leniency Notice.
+1498 Recital (73). See points 20, 24 and 25 of the Leniency Notice.
+1499 Point 30 of the Leniency Notice.
+1500 Point 12 of the Leniency Notice.
+
+243EN EN
+
+(899) In order to determine the level of reduction within that bandwidth the Commission
+takes into account the time at which the evidence was submitted and the extent to
+which it represents added value.
+(900) As for the time of submission, although reasonably timely, the Commission
+nevertheless notes that the evidence provided by UBS was submitted more than four
+years after the conduct had taken place and five months after having received a
+request for information from the Commission.
+(901) As for the extent to which UBS’ application and cooperation represented significant
+added value, [...]. However, many of the contemporaneous communications from the
+chatrooms provided by UBS had already been identified and provided to the
+Commission by the immunity applicant. The evidence provided by UBS, therefore,
+chiefly served to corroborate the evidence already provided by the immunity
+applicant, and provide additional explanations on what parts of the contacts were
+anticompetitive and why. UBS also provided extensive background information on
+the operation of the EGB market. The information was credible and UBS did not
+alter or change its interpretation in view of the arguments of other parties.
+(902) UBS also claims that the Commission must take into account that the undertaking
+has cooperated with the Commission in other cases and that the undertaking was
+willing to settle this case.1501 However, the Leniency Notice does not envisage any
+further reduction for this purpose and the Commission practice also does not reward
+cooperation in other cases outside the Leniency Notice. There is no right to a
+settlement or a reward for the mere willingness to settle a case.
+(903) The Commission therefore concludes that, taking all these elements into account,
+UBS is entitled to a 45% reduction of the fine that would otherwise have been
+imposed.
+8.4.5.3. Natixis
+(904) On 30 September 2016, Natixis applied for a reduction of a fine and continued to
+provide information thereafter.1502
+(905) Natixis was the second undertaking to submit evidence which represents significant
+added value with respect to the evidence previously in the Commission's possession.
+[...]. The evidence and explanations provided by Natixis strengthened the
+Commission’s ability to prove the cartel. However, there is no need to set the exact
+percentage of the reduction to be applied when the Commission is in any way timebarred to impose a fine on Natixis.1503 Natixis claims that it cooperation must be
+rewarded differently, but these arguments have been addressed and rejected in the
+section establishing the Commission’s legitimate interest to find that Natixis
+committed an infringement.1504
+8.4.6. Inability to pay
+(906) None of the undertakings participating in the infringement made use of the
+possibility of point 35 of the Guidelines on fines for requesting the Commission to
+
+1501 [...]
+1502 Recital (71). Pursuant to point 23 of the Leniency Notice.
+1503 Pursuant to Article 25(1)(b) and (5) of Regulation (EC) No 1/2003. See recital (778).
+1504 Recitals (802)-(804).
+
+244EN EN
+
+– UniCredit S.p.A. and UniCredit Bank AG participated from 9 September 2011
+until 28 November 2011;
+
+Article 2
+For the infringement(s) referred to in Article 1, the following fines are imposed:
+– NatWest Group plc, NatWest Markets Plc and NatWest Markets N.V jointly
+and severally liable: EUR 0
+– Nomura Holdings, Inc. and Nomura International plc jointly and severally
+liable: EUR 129 573 000
+– Portigon AG: EUR 0
+– UBS Group AG and UBS AG jointly and severally liable: EUR 172 378 000
+– UniCredit S.p.A. and UniCredit Bank AG jointly and severally liable:
+EUR 69 442 000
+The fines shall be credited, in euros, within six months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: EC/BUFI/AT.40324
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046 of the European Parliament and of the Council.1506
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred
+to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+
+1506 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+246EN EN
+
+Bank of America Corporation
+1209 Orange Street
+Corporation Trust Center
+DE 19801 Wilmington
+United States of America
+
+Bank of America, National Association
+100 North Tryon Street
+NC 28202 Charlotte
+United States of America
+
+Natixis S.A.
+30 Avenue Pierre Mendès-France
+75013 Paris
+France
+
+NatWest Group plc
+36 St Andrew Square
+EH2 2YB Edinburgh
+United Kingdom
+
+NatWest Markets N.V.
+Claude Debussylaan 94
+1082 MD Amsterdam
+The Netherlands
+
+NatWest Markets Plc
+36 St Andrew Square
+EH2 2YB Edinburgh
+United Kingdom
+
+Nomura Holdings, Inc.
+1-13-1 Nihonbashi, Chuo-ku,
+Tokyo 103-8645
+Japan
+
+Nomura International plc
+1 Angel Lane
+EC4R 3AB London
+United Kingdom
+
+Portigon AG
+Völkinger Straße 4
+40219 Düsseldorf
+Germany
+
+UBS AG
+Bahnhofstrasse 45
+8001 Zurich
+
+247EN EN
+
+Switzerland
+
+UBS Group AG
+Bahnhofstrasse 45
+8001 Zurich
+Switzerland
+
+UniCredit Bank AG
+Arabellastrasse 12
+81925 München
+Germany
+
+UniCredit S.p.A.
+UniCredit Tower
+Piazza Gae Aulenti no. 3
+Tower A
+20154 Milano
+Italy
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 20.5.2021
+
+For the Commission
+Margrethe VESTAGER
+Executive Vice-President
+
+248EN EN

@@ -1,0 +1,656 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52020AT37956(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52020AT37956(02)
+Help
+Print
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.37956 – Reinforcing bars 2020/C 312/06
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.37956 – Reinforcing bars 2020/C 312/06
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.37956 – Reinforcing bars 2020/C 312/06
+C/2019/4969
+OJ C 312, 21.9.2020, pp. 7–12
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+21.9.2020
+EN
+Official Journal of the European Union
+C 312/7
+Final Report of the Hearing Officer
+(
+1
+)
+Case AT.37956 – Reinforcing bars
+(2020/C 312/06)
+(1)
+The draft decision aims at re-adopting an earlier Commission decision of 30 September 2009 (the ‘2009 Decision’)
+(
+2
+)
+– annulled by the Court of Justice in 2017 – which was itself the re-adoption of an earlier decision of 17 December 2002 (the ‘2002 Decision’)
+(
+3
+)
+– annulled by the General Court in 2007.
+(2)
+The draft decision finds a cartel in the Italian market of steel reinforcing bars for concrete during 1989-2000, in breach of Article 65 of the Treaty establishing the European Coal and Steel Community (the ‘ECSC Treaty’). It is addressed to five undertakings (together referred to as ‘the Parties’):
+1.
+Alfa Acciai S.p.A. (‘Alfa’);
+2.
+Feralpi Holding S.p.A. (‘Feralpi’);
+3.
+Ferriere Nord S.p.A. (‘Ferriere Nord’);
+4.
+Partecipazioni Industriali S.p.A. in Amministrazione Straordinaria – ex Riva Fire S.p.A. (‘Partecipazioni Industriali’); and
+5.
+Ferriera Valsabbia S.p.A. and Valsabbia Investimenti S.p.A. (together ‘Valsabbia’).
+(3)
+Following the judgments of the Court of Justice of 21 September 2017 (‘the judgments of 21 September 2017’)
+(
+4
+)
+that annulled the 2009 Decision, the Commission resumed the proceedings in Case AT.37956 –
+Reinforcing bars
+. A brief account of these proceedings is necessary to understand the draft decision:
+—
+The 2002 Decision was addressed to eight Italian manufacturers of steel reinforcing bars for concrete, as well as the Italian steel producers' association Federacciai. It was annulled by the General Court on 25 October 2007 because the legal basis used in it, namely Article 65 of the ECSC Treaty, was no longer in force at the moment of its adoption
+(
+5
+)
+. The 2002 Decision has become final insofar as it concerns Federacciai, which did not bring an application for annulment before the General Court;
+—
+By its 2009 Decision, the Commission re-adopted a decision finding the infringement and imposing fines on the eight undertakings that had challenged the 2002 Decision
+(
+6
+)
+. All of them applied for annulment of the 2009 Decision before the General Court, which upheld the Decision and granted small fine reductions to two undertakings (‘the judgments of 9 December 2014’)
+(
+7
+)
+. Five of the eight undertakings appealed the judgments of 9 December 2014. The 2009 Decision has become final insofar as it concerns the three undertakings that did not appeal the judgments of 9 December 2014
+(
+8
+)
+;
+—
+The latter were set aside by the Court of Justice on 21 September 2017, annulling the 2009 Decision insofar as it concerned the appellants. The Court of Justice held that the 2009 Decision infringed an essential procedural requirement flowing from Regulation 1/2003 and Regulation 773/2004
+(
+9
+)
+in that no oral hearing had been held on the substance of the case to which the competition authorities of the Member States had been invited. Indeed, the competition authorities of the Member States had not been invited to participate in the first oral hearing of 13 June 2002, which concerned the substance of the case and which took place before the expiry of the ECSC Treaty
+(
+10
+)
+. They were invited to the second oral hearing of 30 September 2002, but that oral hearing dealt only with the legal consequences of the expiry of the ECSC Treaty for the continuation of the proceedings.
+(4)
+By letter of 15 December 2017, the Directorate General for Competition (‘DG Competition’) explained to each of the Parties the conclusions it drew from the judgments of 21 September 2017 and the basis on which it intended to resume the proceedings with the aim of reaching a final position on the case. The letter explained that, in accordance with the judgment of the Court in
+Limburgse Vinyl Maatschappij and Others v Commission
+(the ‘PVC II case-law’), following an annulment of a Commission decision, the case could be resumed from the point where the procedural error was identified
+(
+11
+)
+. In the present case, the annulment of the 2002 Decision did not affect the preparatory acts of the decision, but only the oral hearing. In the same letters, the addressees of the decision were accordingly invited to express their interest in participating in a new oral hearing covering also the substance of the case. All the Parties responded on 1 February 2018 and expressed their interest in participating in the oral hearing.
+(5)
+By subsequent letters of 22 March and 13 April 2018, DG Competition clarified that the correct legal basis for assessing the infringement was Article 65 of the ECSC Treaty, whereas, following the expiry of the ECSC Treaty, Regulation 1/2003 was the correct legal basis as regards the procedure. The letters further clarified that, in the event of adopting a new fining decision in this case, the Commission would follow the 1998 Fining Guidelines together with the considerations made in its letters of 30 June 2008 (that it would not impose fines which would be higher than those imposed in 2002).
+(6)
+At the request of Alfa and Valsabbia, DG Competition informed the Parties that, ahead of the new oral hearing, the competition authorities of the Member States had received the statement of objections, supplementary statement of objections and their respective replies, together with the letters of 15 December 2017, the replies to such letters and the letters of 22 March 2018.
+(7)
+The new oral hearing took place on 23 April 2018, with the participation of four of the five Parties: Alfa, Feralpi, Ferriere Nord and Valsabbia.
+(8)
+Partecipazioni Industriali did not participate in the new oral hearing
+(
+12
+)
+. However, at its request, I allowed Partecipazioni Industriali to submit written observations in lieu of an oral defence within the same timeframe foreseen for the new oral hearing. Partecipazioni Industriali submitted these written observations on 24 April 2018. On 7 May 2018, Feralpi submitted a new written defence in addition to its participation in the new oral hearing.
+(9)
+The competition authorities of the Member States were invited to the new oral hearing, and six of them were indeed represented at the new oral hearing
+(
+13
+)
+.
+(10)
+Some Parties have argued that the new oral hearing of 23 April 2018 could not remedy the problem of the absence of an oral hearing on the substance of the case in 2002 to which the competition authorities of the Member States had been invited, because the oral hearings in 2002 involved also the three other undertakings and the association of undertakings that were the other addressees of the statement of objections, the 2002 Decision and the 2009 Decision. I find this argument not convincing, as there is no right for an addressee of a statement of objections to an oral hearing in the presence of the other addressees of the statement of objections
+(
+14
+)
+.
+(11)
+Referring in their written and oral submissions to the Opinion of Advocate General Kokott in
+Solvay v Commission
+(
+15
+)
+and to the case-law of the European Court of Human Rights
+(
+16
+)
+, all the Parties have criticized the excessive duration – around 18 years – of these proceedings and claimed that their fundamental right to have their case dealt with within a reasonable time – enshrined in Article 41(1) and the second paragraph of Article 47 of the Charter of Fundamental Rights – had been breached. According to the Parties, the Commission had no legitimacy to reopen the proceedings since their excessive length and the need to re-adopt twice the same decision was attributable exclusively to the Commission's own wrongdoing. If the Commission decided nonetheless to adopt a third prohibition decision, it should reduce substantially the fines in order to reflect the excessive length of the proceedings.
+(12)
+The question of the respect of the Parties' fundamental right to have their case dealt with within a reasonable time, a right recognised in the case-law of the Court of Justice as a general principle of European Union law and enshrined in Article 41(1) and the second paragraph of Article 47 of the Charter of Fundamental Rights, indeed requires careful consideration in this case.
+(13)
+Taking into account all stages of the administrative and judicial procedures, the absolute length of the proceedings in this case, which started with inspections conducted by the Commission between October and December 2000, is without any doubt particularly long. Indeed, more than 18 years have already passed. Given that in the judgments of 21 September 2017, the Court of Justice has not dealt with a number of grounds of appeal raised against the judgments of the General Court to the extent that the latter judgments confirmed the 2009 Decision, it is probable that at least some of the Parties will exercise their right to have a third Commission decision again reviewed by the General Court and the Court of Justice. Assuming that this third round of judicial review will put a definitive end to the administrative and judicial proceedings in this case, it is foreseeable that 22 or 23 years could easily have passed by then.
+(14)
+The Court of Justice has held that the reasonableness of the duration of proceedings must be appraised in the light of the circumstances specific to each case and, in particular, the importance of the case for the parties concerned, its complexity and the conduct of the parties and of the competent authorities, the list of relevant criteria not being exhaustive
+(
+17
+)
+.
+(15)
+It follows that the fact that the limitation period for the imposition of penalties as laid down in Article 25 of Regulation 1/2003 has not yet expired does not answer the question
+(
+18
+)
+.
+(16)
+The unreasonableness of the duration of the proceedings can result not only from the excessive duration of one or several individual stages of the proceedings but also from the overall length of the administrative and judicial proceedings taken together
+(
+19
+)
+.
+(17)
+It cannot be argued that the Commission should only assess the duration of its own proceedings. Article 41(1) and the second paragraph of Article 47 of the Charter of Fundamental Rights are but two expressions of the same fundamental right of the parties to have their case done with within a reasonable time
+(
+20
+)
+. From the point of view of the undertakings concerned, all that matters is when their 'affair' is finally adjudicated upon by an impartial authority
+(
+21
+)
+.
+(18)
+The Commission cannot absolve itself from all responsibility for the overall duration of the proceedings, including the judicial stages, because the compatibility with fundamental rights of the system in which the Commission acts both as investigator and first-instance decision-maker in antitrust cases is dependent on the parties having the possibility to have the Commission's decisions reviewed by the EU Courts
+(
+22
+)
+.
+(19)
+There is undeniably a real risk in this case that the Court of Justice may consider that the overall duration of the proceedings in this case, including the two stages before the General Court following the 2002 Decision and the 2009 Decision, is unreasonably long. The question then arises what the appropriate remedy would be.
+(20)
+According to the European Court of Human Rights, a failure to adjudicate within a reasonable time must, as a procedural irregularity constituting the breach of a fundamental right, give rise to an entitlement of the party concerned to an effective remedy granting him appropriate relief
+(
+23
+)
+.
+(21)
+The Court of Justice has often been confronted with the question what remedy the General Court or the Court of Justice itself should grant if the General Court or the Court of Justice finds that the administrative and/or judicial proceedings in an antitrust case have been unreasonable long.
+(22)
+The Court of Justice has consistently held that the General Court or the Court of Justice can only annul a Commission decision finding an infringement of Articles 101 or 102 TFEU and imposing fines for such an infringement if it has been proven that the unreasonable duration of the administrative and/or judicial proceedings has adversely affected the ability of the undertakings concerned to defend themselves in the administrative and/or judicial proceedings
+(
+24
+)
+.
+(23)
+Abstract and imprecise claims by the undertakings concerned that their rights of the defence were breached are not sufficient. What must be proven is a concrete adverse effect on the undertaking's ability to defend itself, for instance in that the individuals within the undertaking that would be able to provide exculpatory explanations of the evidence in the Commission's file were no longer alive or available at the time the undertaking was granted belated access to the Commission's file, whereas those individuals would have been available if the access to the file had not 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ in my view these requirements. Indeed, it concludes, taking into account all the specific circumstances of the case, that the adoption of a third decision imposing fines is on balance justified, while granting a 50 % reduction of the fine in recognition of the long duration of the proceedings. Even if the Court of Justice were to find that the duration of the proceedings in this case is unreasonably long, this reduction would appear to constitute an appropriate remedy
+(
+31
+)
+.
+(36)
+Compared with the 2009 Decision, in addition to the 50% reduction mentioned in paragraph 35 above, the draft decision takes into account the judgments of 9 December 2014 and thus reduces the basic amount of the fines for Partecipazioni Industriali and Ferriere Nord by 3% and 6% respectively
+(
+32
+)
+. Moreover, in light of Partecipazioni Industriali’s financial situation, the draft decision also abstains from applying a deterrence multiplier to Partecipazioni Industriali and sets its fine at EUR 0 after application of the 10 % ceiling pursuant to Article 23(2) of Regulation 1/2003.
+(37)
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with the objections in respect of which the Parties have been afforded the opportunity of making known their views, and I have come to a positive conclusion.
+(38)
+Overall, I conclude that the effective exercise of the Parties' procedural rights has been respected in this case.
+Brussels, 1 July 2019.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+Commission Decision C(2009)7492 final of 30 September 2009 relating to an infringement of Article 65 of the ECSC Treaty (COMP/37.956 -
+Reinforcing bars
+,
+re-adoption
+), as modified by Commission Decision C(2009) 9912 final of 8 December 2009 relating to a proceeding under Article 65 of the ECSC Treaty (Case COMP/37.956 —
+Reinforcing bars,
+re-adoption
+), summary publication (
+OJ C 98, 30.3.2011, p. 16
+), Final Report of the Hearing Officer of 22 September 2009 in Case COMP/37.956 —
+Reinforcing bars, re-adoption
+(
+OJ C 98, 30.3.2011, p. 14
+).
+(
+3
+)
+Commission Decision 2006/894/EC of 17 December 2002 relating to a proceeding under Article 65 of the ECSC Treaty against Alfa Acciai SpA, Feralpi Siderurgica SpA, Ferriere Nord SpA, IRO Industrie Riunite Odolesi SpA, Leali SpA, Acciaierie e Ferriere Leali Luigi SpA in liquidazione (in liquidation), Lucchini SpA, Siderpotenza SpA, Riva Acciaio SpA, Valsabbia Investimenti SpA, Ferriera Valsabbia SpA and the association of undertakings Federacciai (Federazione delle Imprese Siderurgiche Italiane) (Case C.37.956 —
+Reinforcing bars
+) (
+OJ L 353, 13.12.2006, p. 1
+), Final Report of the Hearing Officer of 9 December 2002 in case COMP/37.956 —
+Reinforcing bars
+(
+OJ C 303, 13.12.2006, p. 2
+).
+(
+4
+)
+Judgments in
+Feralpi Holding
+v
+Commission
+, C-85/15 P, EU:C:2017:709;
+Ferriera Valsabbia
+,
+Valsabbia Investimenti
+v
+Commission,
+C-86/15 P, and
+Alfa Acciai
+v
+Commission
+, C-87/15 P, EU:C:2017:717;
+Ferriere Nord
+v
+Commission
+, C-88/15 P, EU:C:2017:716;
+Riva Fire
+v
+Commission
+, C-89/15 P, EU:C:2017:713.
+(
+5
+)
+Judgments in
+SP
+,
+Leali
+,
+Acciaerie e Ferriere Leali Luigi
+,
+IRO
+,
+Lucchini
+,
+Ferriera Valsabbia
+,
+Valsabbia Investimenti
+and
+Alfa Acciai
+v
+Commission
+, T-27/03, T-46/03, T-58/03, T-79/03, T-80/03, T-97/03 and T-98/03, EU:T:2007:317;
+Riva Acciaio
+v
+Commission
+, T-45/03, EU:T:2007:318;
+Feralpi Siderurgica
+v
+Commission,
+T-77/03, EU:T:2007:319;
+Ferriere Nord
+v
+Commission
+, T-94/03, EU:T:2007:320. The ECSC Treaty was signed in 1952 for a duration of 50 years and expired on 23 July 2002.
+(
+6
+)
+Namely (1) Alfa Acciai S.p.A; (2) Feralpi Holding S.p.A. (formerly Feralpi Siderurgica S.p.A.); (3) Ferriere Nord S.p.A.; (4) IRO Industrie Riunite Odolesi S.p.A.; (5) Leali S.p.A. and Acciaierie e Ferriere Leali Luigi S.p.A. in liquidazione; (6) Lucchini S.p.A. and S.P. S.p.A. in liquidazione (formerly Siderpotenza S.p.A.); (7) Riva Fire S.p.A. (formerly Riva Acciaio S.p.A.); and (8) Ferriera Valsabbia S.p.A. and Valsabbia Investimenti S.p.A.
+(
+7
+)
+Judgments in
+Leali
+and
+Acciaierie e Ferriere Leali Luigi
+v
+Commission
+, T-489/09, T-490/09 and T-56/10, EU:T:2014:1039;
+IRO
+v
+Commission
+, T-69/10, EU:T:2014:1030;
+Feralpi
+v
+Commission
+, T-70/10, EU:T:2014:1031;
+Riva Fire
+v
+Commission
+, T-83/10, EU:T:2014:1034;
+Alfa Acciai
+v
+Commission
+, T-85/10, EU:T:2014:1037;
+Ferriere Nord
+v
+Commission
+, T-90/10, EU:T:2014:1035;
+Lucchini
+v
+Commission
+, T-91/10, EU:T:2014:1033;
+Ferriera Valsabbia
+and
+Valsabbia Investimenti
+v
+Commission
+T-92/10, EU:T:2014:1032. The General Court granted a 3 % fine reduction to Riva Fire and a 6 % fine reduction to Ferriere Nord.
+(
+8
+)
+The three undertakings that did not appeal are IRO Industrie Riunite Odolesi S.p.A. (‘IRO’), Ferriere Leali Luigi S.p.A. (‘Leali’) and Lucchini S.p.A. – formerly Siderpotenza S.p.A. (‘Lucchini’). See also Judgment in
+Lucchini
+v
+Commission
+, T-185/18, EU:T:2019:298.
+(
+9
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+) (‘Regulation 1/2003’); Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty,
+OJ L 123, 27.4.2004, p. 18
+(‘Regulation 773/2004’).
+(
+10
+)
+Such participation was not provided for in the ECSC Treaty, under which the Commission had exclusive competence to apply the competition rules.
+(
+11
+)
+Judgment in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+, C 238/99 P, C 244/99 P, C 245/99 P, C 247/99 P, C 250/99 P to C 252/99 P and C 254/99 P, EU:C:2002:582, paragraphs 70-76.
+(
+12
+)
+The Extraordinary Commissioners of Partecipazioni Industriali declined my invitation to attend the new oral hearing. In line with Articles 14(4) and (5) of Regulation 773/2004, Partecipazioni Industriali could not be represented at the oral hearing by its external lawyers only; see Judgment in
+Badische Anilin- & Soda-Fabrik
+v
+Commission
+, 49/69, EU:C:1972:71, paragraph 11.
+(
+13
+)
+Whereas the invitation of the competition authorities of the Member States constitutes an essential procedural requirement, there is no obligation for the competition authorities of the Member States to attend the oral hearing; see Judgment in
+Servier
+v
+Commission
+, T-691/14, EU:T:2018:922, paragraph 163.
+(
+14
+)
+Judgment in
+Cimenteries CBR and Others
+v
+Commission
+, T-25/95 etc., EU:T:2000:77, paragraph 697, and Opinion of Advocate General Darmon in
+Ahlström Osakeyhtiö and Others
+v
+Commission
+, C-89/85 etc., EU:C:1988:258, paragraph 155.
+(
+15
+)
+Opinion of Advocate General Kokott in
+Solvay v Commission
+, C-109/10 P, EU:C:2011:256.
+(
+16
+)
+Judgments of the European Court of Human Rights,
+Eckle v Germany
+, Application 8130/78, paragraph 76;
+Gorou v Greece
+, Application 12686/03, paragraph 46;
+Kakamoukas and Others v Greece
+, Application 38311/02, paragraph 32. Alfa and Valsabbia also referred to
+Neumeister v Austria
+, Application 1936/63 and
+Rouille v France
+, Application 50268/99.
+(
+17
+)
+See Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 237, and the case-law referred to therein.
+(
+18
+)
+Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 347.
+(
+19
+)
+Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraphs 238 and 239.
+(
+20
+)
+Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 240.
+(
+21
+)
+Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 240.
+(
+22
+)
+See Judgment in
+Schindler v Commission
+, C-501/11 P, EU:C:2013:522, paragraph 34.
+(
+23
+)
+Kudla v Poland
+, Application 30210/96, paragraphs 150-156; see also Judgment in
+Groupe Gascogne v Commission
+, C-58/12 P, EU:C:2013:770, paragraph 72.
+(
+24
+)
+Judgment in
+Nederlandse Federatieve Vereniging voor de Groothandel op Elektrotechnisch Gebied v Commission
+, C-105/04 P, EU:C:2006:592, paragraphs 42 and 43, and Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraphs 250 to 262.
+(
+25
+)
+Judgment in
+Nederlandse Federatieve Vereniging voor de Groothandel op Elektrotechnisch Gebied
+, as note 24 above, paragraphs 56 and 49, and Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraphs 312 to 320.
+(
+26
+)
+Judgment in
+Baustahlgewebe v Commission
+, C-185/95 P, EU:C:1998:608, paragraph 48.
+(
+27
+)
+Judgments in
+Der Grüne Punkt – Duales System Deutschland
+v Commission
+, C-385/07 P, paragraph 195;
+Groupe Gascogne v Commission
+, as note 23 above, paragraphs 81-83;
+Bolloré v Commission
+, C-414/12 P, EU:C:2014:301, paragraph 106; and
+CEPSA v Commission
+, C-608/13 P, EU:C:2016:414, paragraph 71.
+(
+28
+)
+The existence of this broad discretion is apparent from the wording of Articles 7 and 23(2) of Regulation 1/2003, which provide that the Commission ‘may’ adopt such decisions, from the case-law on the rights of complainants (see Judgment in
+Ufex and Others v Commission
+, C-119/97 P, EU:C:1999:116, paragraphs 86-92) as well as from the
+Masterfoods
+case-law (C-344/98, EU:C:2000:689).
+(
+29
+)
+Opinion 2/13 (Accession of the EU to the ECHR) of the Court of Justice, EU:C:2014:2454, paragraph 172, and Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 328.
+(
+30
+)
+For the reasons set out in paragraph 18 above, the fact that the Parties have exercised their right to have the 2002 Decision and the 2009 Decision reviewed by the EU Courts cannot be held against the Parties.
+(
+31
+)
+Compare with Opinion of Advocate General Kokott in
+Solvay v Commission
+, as note 15 above, paragraph 357.
+(
+32
+)
+See paragraph 3 and footnote 7 above.
+Top

@@ -1,0 +1,447 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40882 – IFF – deletion of data
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) No 1/2003
+
+Article 23(1)(c) Regulation (EC) 1/2003
+
+Date: 24/06/2024
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 24.6.2024
+C(2024) 4256 final
+
+COMMISSION DECISION
+
+of 24.6.2024
+
+relating to a proceeding under Article 23(1)(c) of Regulation (EC) No 1/2003
+
+AT.40882 – IFF – deletion of data
+
+(Only the English text is authentic)
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION ....................................................................................................... 2
+2. ADDRESSEES ............................................................................................................ 2
+3. PROCEDURE .............................................................................................................. 3
+4. DESCRIPTION OF THE EVENTS............................................................................. 4
+4.1. Description of the conduct .......................................................................................... 4
+5. LEGAL ASSESSMENT .............................................................................................. 7
+5.1. Application of Article 23(1)(c) of Regulation 1/2003 ................................................. 7
+5.1.1. Principles ...................................................................................................................... 7
+5.1.2. Application to this case ................................................................................................ 8
+5.1.3. Intention or negligence ................................................................................................. 9
+5.1.4. Subsequent cooperation by IFF .................................................................................. 10
+6. LIABILITY ................................................................................................................ 10
+6.1. Principles .................................................................................................................... 10
+6.2. Application to this case .............................................................................................. 11
+7. REMEDIES ............................................................................................................... 11
+7.1. Article 23(1)(c) of Regulation (EC) No 1/2003 ......................................................... 11
+7.2. Setting of the fine ....................................................................................................... 12
+7.3. Conclusion: final amount of the fine to be imposed ................................................. 13
+
+1
+
+COMMISSION DECISION
+
+of 24.6.2024
+
+relating to a proceeding under Article 23(1)(c) of Regulation (EC) No 1/2003
+
+AT.40882 – IFF – deletion of data
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 23(1)(c) thereof,
+
+Having regard to the Commission decision of 12 March 2024 to initiate proceedings in this
+case,
+Having given the undertaking concerned the opportunity to make known its views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision relates to the obstruction of an inspection conducted pursuant to
+Article 20 of Regulation (EC) No 1/2003. This obstruction consists of producing
+books or other records related to the business, required by the Commission during
+the inspection, in incomplete form. An employee of the inspected undertaking
+deleted WhatsApp messages from his mobile phone after he was informed that he
+was a target of the inspection. When requested by the Commission, the mobile phone
+was submitted for inspection without informing the Commission of the deletion.
+
+2. ADDRESSEES
+(2) This Decision is addressed to the following legal entities:
+(a) International Flavors & Fragrances Inc. with registered offices at 521 West 57th
+Street, New York, NY 10019, USA (“IFF Inc.”); and
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union (the
+“Treaty”). The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty
+of Lisbon, references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as
+references to Articles 101 and 102 of the Treaty when appropriate.
+
+2
+
+(b) International Flavors & Fragrances IFF (France) SAS with registered offices at
+18 Avenue Joseph Honoré Isnard, Parc Industriel Des Bois de Grasse, 06130
+Grasse, France, and 61 Rue de Villiers, 92200 Neuilly-sur-Seine, France (“IFF
+France”).
+(3) IFF France is a wholly owned subsidiary of IFF Inc. Together they are referred to
+hereinafter as “IFF” or “the party”.
+(4) IFF is active, among others, in the manufacture and sale of fragrances and fragrance
+ingredients in the European Economic Area and worldwide. IFF is one of the four
+biggest manufacturers of flavours and fragrances worldwide. The consolidated
+turnover of IFF in 2023 amounted to EUR 10.615 billion2.
+
+3. PROCEDURE
+(5) Between 7 and 10 March 2023, the Commission carried out inspections at the
+premises of IFF France in the framework of Case AT.40826 - Consumer Fragrances.
+During the inspections, the Commission detected that an employee of IFF had
+deleted WhatsApp messages from his mobile phone after he was informed that he
+was a target of the inspection.
+(6) On 6 December 2023, the Commission informed IFF that it intended to launch
+separate proceedings for the obstruction of the Commission inspection. IFF informed
+the Commission on 23 January 2024 that it was prepared to engage in cooperation
+discussions for these separate proceedings.
+(7) On 12 March 2024, the Commission initiated proceedings against IFF with a view to
+engage in cooperation discussions.
+(8) During those discussions, the Commission informed IFF about the objections it
+envisaged raising. The Commission gave IFF access to the relevant pieces of
+evidence in the Commission file relied on to establish these objections and a list of
+all other documents in the file. The Commission also informed IFF on the parameters
+likely to be applied for any calculation of the fine and provided it with an estimation
+of the range of fines likely to be imposed by the Commission.
+(9) IFF expressed its view on the objections that the Commission envisaged raising
+against it. The Commission carefully considered these comments and, where
+appropriate, took them into account. In view of this, IFF considered that there was a
+sufficient common understanding as regards the potential objections, the fines
+parameters and the estimation of the range of likely fines to continue the cooperation
+process.
+(10) Accordingly, on 29 April 2024, IFF submitted to the Commission its formal request
+to cooperate (the “cooperation submission”). The cooperation submission contained:
+– an acknowledgement in clear and unequivocal terms of the party's liability for
+the infringement, the main facts, their legal qualification and the duration of the
+infringement;
+– an indication of the maximum amount of the fine the party expects to be
+imposed by the Commission and which it would accept in the framework of a
+cooperation procedure;
+
+2 USD 11.479 billion. IFF, Annual report 2023.
+Exchange rate 0.9248 (= average exchange rate from ECB in the period 03.01.2023-30.12.2023).
+
+3
+
+– the party's confirmation that it has been sufficiently informed of the objections
+the Commission envisages raising against it and that it has been given
+sufficient opportunity to make its views known to the Commission;
+– the party's confirmation that it does not envisage requesting access to the file or
+requesting to be heard again in an oral hearing, unless the Commission does
+not reflect its cooperation submission in the statement of objections and the
+decision;
+– the party's agreement to receive the statement of objections and the final
+decision pursuant to Article 23(1)(c) of Regulation (EC) No 1/2003 in English.
+(11) IFF made its cooperation submission conditional upon the Commission meeting its
+cooperation request, including the anticipated maximum amount of the fine.
+(12) On 16 May 2024, the Commission adopted a statement of objections addressed to
+IFF. IFF replied to the statement of objections by confirming that it corresponded to
+the contents of its cooperation submission and that IFF therefore remained
+committed to following the cooperation procedure.
+
+4. DESCRIPTION OF THE EVENTS
+4.1. Description of the conduct
+(13) On 10 February 2023, the Commission adopted Decision C(2023)1094, pursuant to
+Article 20(4) of Regulation (EC) No 1/2003 (“the inspection decision”) in an
+ongoing investigation in case AT.40826 - Consumer Fragrances.
+(14) The inspection decision required IFF Inc., together with all undertakings directly or
+indirectly controlled by it, including IFF France, to submit to an inspection
+concerning its possible participation in anti-competitive agreements and/or concerted
+practices contrary to Article 101 TFEU and Article 53 of the EEA Agreement in the
+sector of consumer fragrances and fragrance ingredients3. The inspection decision
+explained that the inspection could take place at any premises of IFF Inc. and its
+subsidiaries and in particular at the premises situated at 61 Rue de Villiers, 92200
+Neuilly-sur-Seine, France and at 18 Avenue Joseph Honoré Isnard, Parc Industriel
+Des Bois de Grasse, 06130 Grasse, France.
+(15) The inspection decision ordered IFF Inc. and its subsidiaries to allow the inspectors4
+to enter all its premises, land and means of transport during normal office hours, to
+produce books and other records related to the business for inspection, irrespective of
+the medium on which they were stored and permit the inspectors to examine those
+books and records in situ and take or obtain copies of or extracts from them in any
+form5.
+(16) On 7 March 2023, at 09h006, a team of Commission inspectors and inspectors from
+the French competition authority entered the premises of IFF France situated at 61
+Rue de Villiers, 92200 Neuilly-sur-Seine, France. The inspectors provided proof of
+their identity and handed over a certified copy of the inspection decision to [...], the
+
+3 Inspection decision, Article 1.
+4 The inspectors include the Commission officials and other accompanying persons authorised by the
+Commission to carry out the inspection, as well as the officials of and those authorised or appointed by
+the competition authority of the Member State concerned assisting them.
+5 Inspection decision, Article 2.
+6 All times referred in this document are expressed in CET, unless otherwise indicated.
+
+4
+
+President of IFF France (hereinafter “President of IFF France”). The inspectors
+handed over a copy of the publicly available Explanatory note on Commission
+inspections pursuant to Article 20(4) of Regulation 1/2003. This Explanatory note
+sets out the Commission’s powers and the undertakings’ obligations during an
+inspection. It mentions, inter alia, that as a part of the investigation the Commission
+may search the IT-environment (e.g., servers, desktop computers, laptops, tablets and
+other mobile devices), storage media (e.g. CD-ROMs, DVDs, USB-keys, external
+hard disks, backup tapes, cloud services) including private devices and media that are
+used for professional reasons, so-called Bring Your Own Device (‘BYOD’)7. The
+inspectors also orally explained the duty of undertakings to submit to an inspection
+ordered by decision and to cooperate. The inspection decision was notified at 09h33.
+IFF was warned not to delete any information. IFF confirmed that it submitted to the
+inspection and would cooperate.
+(17) The inspection took place on site between 7 and 10 March 2023. On 7 March 2023,
+immediately after the notification of the inspection decision, the inspectors asked
+questions about the organisation of IFF and asked to make available for examination
+the offices and/or the IT-environment of IFF employees that they considered relevant
+for the inspection.
+(18) The Commission’s inspectors considered [...] (hereinafter “relevant employee”) a
+target person for examination. The relevant employee was responsible for [...]. He
+was a member of [...]8.
+(19) On 7 March 2023, upon entry, the inspectors had already asked for the relevant
+employee, to notify the inspection decision to him in person, but he was not
+available. After the notification of the inspection decision, the inspectors asked IFF
+to make his office and IT-environment (including storage media) available for
+examination.
+(20) IFF complied with the request, but informed the inspectors that it was not possible to
+immediately make available the laptop and mobile phone that the relevant employee
+was using professionally, because he was travelling for business purposes [...]. The
+inspectors asked to talk to the relevant employee and spoke with him on 8 March
+2023 and 9 March 2023. They made clear in these contacts that the information to be
+provided must remain intact.
+(21) At the time of the start of the inspection the relevant employee was travelling for
+business purposes [...]. On 7 March 2023, the [Senior Employee A], [...], sent the
+relevant employee a WhatsApp message at 10h00 informing him about the
+inspection. The relevant employee read and responded to this message at 11h029:
+(10:00:57) [Senior Employee A]: ‘Bonjour [name of the relevant employee], peux-tu
+me rappeler d’urgence s’il te plaît. Nous avons une visite surprise de la communauté
+européenne pour une inspection concernant IFF inc et IFF France sur la
+concurrence. Merci de me rappeler dès que tu peux’
+(11:02:22) Relevant employee : ‘Salut je suis à [...]’
+(11:08:11) [Senior Employee A]: ‘Urgence. Peux tu appeler [name of IFF France
+employee]?’
+
+7 https://competition-policy.ec.europa.eu/system/files/2021-03/inspections explanatory note en.pdf.
+See, inter alia paragraph 10 of the Explanatory note.
+8 According to IFF’s [...], the relevant employee [...].
+9 [...]. The timestamp on the contacts refer to the time zone UTC+1 (CET). The
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+form a single undertaking
+within the meaning of Article 101(1) of the Treaty, which enables the Commission to
+address a decision imposing fines to the parent company, without having to establish
+the personal involvement of the latter in the infringement34.
+(55) In the specific case where a parent company has a 100% (or near 100%)
+shareholding in a subsidiary which has infringed Article 101(1) of the Treaty, there is
+a rebuttable presumption that the parent company does in fact exercise a decisive
+influence over the conduct of its subsidiary. In those circumstances, it is sufficient
+for the Commission to prove that the subsidiary is wholly owned by the parent
+company in order to presume that the parent company exercises a decisive influence
+over the commercial policy of the subsidiary35.
+
+30 See recital (29).
+31 See recitals (27) and (28).
+32 See recitals from (8) to (12).
+33 Case T-272/12 EPH, paragraph 46; Case T-141/08 E.On Energie, 15.12.2010, EU:T:2010:516,
+paragraph 258.
+34 See, to that effect, Case C-97/08 P, Akzo Nobel and Others v Commission, 10.09.2009,
+ECLI:EU:C:2009:536, paragraphs 58 and 59 and the case-law cited.
+35 Ibid., paragraph 61 and the case-law cited.
+
+10
+
+(56) Where several legal entities may be held liable for participation in an infringement of
+one and the same undertaking, they must be regarded as jointly and severally liable
+for that infringement.
+6.2. Application to this case
+(57) The inspection decision was addressed to both IFF Inc. and IFF France, such that
+both of them were legally required to submit to the inspection. IFF France is a
+wholly owned subsidiary of IFF Inc. and both entities constitute a single economic
+unit and therefore one undertaking within the meaning of Article 101 TFEU and
+Regulation (EC) No 1/2003.
+(58) The behaviour of the relevant employee, consisting in the deletion of information
+during inspection, must be attributed to IFF Inc. and IFF France. The relevant
+employee was employed by IFF France, [...] also make IFF Inc. directly liable for
+this conduct36. Both entities are held jointly and severally liable due to their direct
+involvement in the infringement through the behaviour of the relevant employee. IFF
+Inc. is also held jointly and severally liable for the conduct of its subsidiary IFF
+France as its parent company.
+(59) Having regard to the body of evidence in the Commission’s file, the facts described
+in Section 4, the clear and unequivocal acknowledgements by IFF of the facts and the
+legal qualification thereof contained in Sections 4 and 5, it is appropriate to address
+this Decision to the following legal entities:
+(a) International Flavors & Fragrances Inc., as direct participant and parent
+company of International Flavors & Fragrances IFF (France) SAS; and
+(b) International Flavors & Fragrances IFF (France) SAS, as direct participant.
+(60) IFF Inc. and IFF France clearly and unequivocally acknowledged liability for their
+direct participation in the infringement. IFF Inc. clearly and unequivocally
+acknowledged that it is jointly and severally liable for IFF France’s direct
+participation in the infringement, as the ultimate parent company directly or
+indirectly holding 100% of the shares in IFF France.
+
+7. REMEDIES
+7.1. Article 23(1)(c) of Regulation (EC) No 1/2003
+(61) Pursuant to Article 23(1)(c) of Regulation (EC) No 1/2003, the Commission may by
+decision impose a fine not exceeding 1% of the total turnover in the preceding
+business year when undertakings, intentionally or negligently, produce the required
+books or other records related to the business in incomplete form during inspections
+under Article 20 of Regulation (EC) No 1/2003 or refuse to submit to inspections
+ordered by a decision adopted pursuant to Article 20(4) of the same regulation.
+(62) In this case, the Commission considers that, based on the facts described and the
+assessment contained in this Decision, the infringement has been committed
+intentionally.
+(63) It is therefore appropriate for the Commission to impose a fine on IFF.
+
+36 See recital (18).
+
+11
+
+7.2. Setting of the fine
+(64) In fixing the amount of a fine, pursuant to Article 23(3) of Regulation (EC)
+No 1/2003, regard shall be had both to the gravity and to the duration of the
+infringement.
+(65) In assessing the gravity of the infringement, the Commission has regard to a number
+of factors, such as the nature of the infringement, the intentionality of the conduct,
+the type of information deleted, and the position held by the employee who
+committed the deletion. It must be also borne in mind that the fine must have a
+deterrent effect.
+(66) Inspections enable the Commission to gather material information concerning
+suspected infringements. The power to carry out inspections is one of the most
+important powers of investigation at the disposal of the Commission to detect
+infringements of Articles 101 and 102 TFEU. When the Commission requests access
+to data during an inspection, it is indispensable that the Commission must be able to
+examine the entirety of such data. Therefore, the data must be produced in complete
+form and must not be tampered with or deleted during the inspection. It follows that
+the production of the required business records in incomplete or tampered form by
+the inspected undertaking is considered a very serious infringement by nature.
+(67) The special nature of electronic records makes the risk of manipulation particularly
+high. The Commission considers that any fine for tampering with business related
+records should be sufficiently deterrent to ensure to it does not pay off for companies
+to take the risk of a procedural fine to avoid potentially high fines for breaches of
+substantial law. The fine should also be sufficiently deterrent for dissuading other
+undertakings from attempting to tamper with business records during a Commission
+inspection.
+(68) The infringement was committed intentionally, and it was committed by a senior
+employee of the inspected undertaking who was a target person of the Commission
+investigation37.
+(69) The deleted information was in scope of the inspection decision and relevant to the
+investigation38. The fact that the Commission inspectors were able to restore most or
+possibly all the deleted data relatively quickly does not alter the gravity of the
+infringement.
+(70) Based on the elements above, it is justified to impose a fine of EUR 31 800 000
+which corresponds to 0.30% of IFF’s total turnover in 2023.
+(71) Furthermore, account must be taken of the following other factors relating to the
+particular circumstances of the case.
+(72) After the detection of the deletion of the information by the Commission, IFF proactively cooperated with the Commission.
+(73) IFF formally admitted the facts in the minutes reporting the incident and IFF helped
+to timely restore the deleted information to its fullest ability through the backup
+system.
+(74) IFF engaged in a cooperation procedure where it acknowledged liability for the
+infringement and accepted a maximum fine in a cooperation submission.
+
+37 See recitals (18), (19) and (27).
+38 See recital (29).
+
+12
+
+(75) In light of these special circumstances, the amount of the fine on IFF is reduced by
+50%.
+(76) Considering that the infringement was instantaneous, the Commission will not
+further increase the fine on account of duration.
+7.3. Conclusion: final amount of the fine to be imposed
+(77) On the basis of the elements above, the amount of the fine to be imposed pursuant to
+Article 23(2) of Regulation (EC) No 1/2003 is EUR 15 900 000 which corresponds
+to 0.15% of IFF’s total turnover in 202339.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+International Flavors & Fragrances Inc. and International Flavors & Fragrances IFF (France)
+SAS have infringed Article 20(4) read in conjunction with Article 23(1)(c) of Regulation (EC)
+No 1/2003 by intentionally producing the required books or other records related to the
+business in incomplete form during an inspection.
+
+Article 2
+For the infringement referred to in Article 1, a fine of EUR 15 900 000 is imposed jointly and
+severally on International Flavors & Fragrances Inc. and International Flavors & Fragrances
+IFF (France) SAS.
+The fines shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40882
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046 of the European Parliament and of the Council40.
+
+39 Total turnover of IFF in 2023 amounted to EUR 10.615 billion. See recital (4). This amount has also
+been confirmed by IFF in its cooperation submission.
+40 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+13
+
+Article 3
+
+This Decision is addressed to:
+(a) International Flavors & Fragrances Inc., 521 West 57th Street, New York, NY
+10019, USA;
+and
+(b) International Flavors & Fragrances IFF (France) SAS, 18 Avenue Joseph
+Honoré Isnard, Parc Industriel Des Bois de Grasse, 06130 Grasse, France and
+61 Rue de Villiers, 92200 Neuilly-sur-Seine, France.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+Done at Brussels, 24.6.2024
+
+For the Commission
+
+(Signed)
+Margrethe VESTAGER
+Executive Vice-President
+
+14

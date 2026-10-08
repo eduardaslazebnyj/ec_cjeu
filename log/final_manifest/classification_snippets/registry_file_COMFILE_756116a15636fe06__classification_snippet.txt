@@ -1,0 +1,504 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION EUROPÉENNE
+
+Bruxelles, le 29/12/2003
+C(2003) 5192 final
+
+DÉCISION DE LA COMMISSION
+
+du 29/12/2003
+
+relative à une procédure d'application de l'article 81 du traité CE et de l'article 53 de
+l'accord EEE
+
+(COMP/C.2-38.287 - Telenor / Canal+ / Canal Digital)
+
+(Le texte en langue anglaise est le seul faisant foi)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+TABLE DES MATIÈRES
+
+1. INTRODUCTION.......................................................................................................6
+
+2. LES PARTIES.............................................................................................................7
+
+3. LES ACCORDS NOTIFIÉS .......................................................................................8
+
+3.1. Résumé des accords notifiés..............................................................................8
+
+3.2. Dispositions concernées dans les accords tels qu'ils ont été
+initialement notifiés.........................................................................................10
+
+3.2.1. Exploitation exclusive de chaînes de télévision à péage...................10
+
+3.2.2. Obligations de non-concurrence sur les chaînes de télévision
+à péage...............................................................................................10
+
+3.2.3. Information, coopération et acquisition conjointe de contenu ..........11
+
+3.2.4. Exploitation exclusive des chaînes PPV/NVOD...............................11
+
+3.2.5. Obligations de non-concurrence sur les chaînes PPV/NVOD ..........11
+
+3.2.6. Obligation de non-concurrence sur les services de
+transpondeur satellite.........................................................................12
+
+3.3. Les engagements pris par les parties en vue de modifier les accords
+tels qu'ils ont été initialement notifiés.............................................................12
+
+4. LE MARCHÉ EN CAUSE........................................................................................13
+
+4.1. Marchés de produits ........................................................................................13
+
+4.1.1. Aperçu des marchés concernés..........................................................13
+
+4.1.2. Les marchés de la distribution au détail de services de
+télévision à péage DTH par satellite, réseau terrestre et réseau
+câblé...................................................................................................14
+
+4.1.2.1. Observations préliminaires................................................14
+
+4.1.2.2. Le point de vue des parties en ce qui concerne la
+définition du marché selon le mode de transmission
+de la télévision à péage......................................................17
+
+4.1.2.3. Les décisions antérieures de la Commission.....................18
+
+4.1.2.4. Appréciation ......................................................................21
+
+4.1.3. Marché de la distribution au détail de services de diffusion de
+films en PPV/NVOD .........................................................................26
+
+4.1.4. Marché de l'offre de gros de chaînes de télévision à péage
+"premium" et de chaînes de films PPV/NVOD.................................29
+
+4.1.4.1. Décisions antérieures de la Commission et nouveau
+cadre réglementaire ...........................................................29
+
+4.1.4.2. Appréciation ......................................................................31
+
+Page 2
+
+4.1.5. Marchés de la fourniture de droits de films et d'événements
+sportifs d'appel ainsi que d'autres droits de contenus
+audiovisuels destinés à la programmation télévisuelle......................33
+
+4.1.6. Les marchés de la distribution en gros et au détail de contenus
+via les plates-formes de nouveaux médias ........................................35
+
+4.1.7. Marché de la fourniture de capacité-transpondeur sur satellite
+pour la radiodiffusion télévisuelle.....................................................36
+
+4.2. Marchés géographiques...................................................................................37
+
+4.2.1. Les marchés de la distribution au détail de services de
+télévision à péage DTH par satellite, réseau terrestre et réseau
+câblé, et des services de films en PPV/NVOD..................................37
+
+4.2.2. Marché de l'offre de gros de chaînes de télévision à péage
+"premium" et de chaînes de films PPV/NVOD.................................38
+
+4.2.3. Marchés de la fourniture de droits de films et d'événements
+sportifs d'appel ainsi que d'autres droits de contenus
+audiovisuels destinés à la programmation télévisuelle......................38
+
+4.2.4. Les marchés de la distribution en gros et au détail de contenus
+via les plates-formes de nouveaux médias ........................................39
+
+4.2.5. Marché de la fourniture de capacité transpondeur sur satellite
+pour la radiodiffusion télévisuelle.....................................................39
+
+5. STRUCTURE DU MARCHÉ...................................................................................40
+
+5.1. Distribution au détail de services de télévision à péage..................................40
+
+5.1.1. Postions sur le marché de Canal Digital et de Viasat en ce qui
+concerne le segment de la distribution au détail de télévision
+à péage par satellite en DTH, y compris les chaînes de
+PPV/NVOD .......................................................................................40
+
+5.1.2. Position sur le marché de Telenor et de ses concurrents
+immédiats sur le segment de la distribution au détail de
+télévision à péage par réseau câblé....................................................42
+
+5.2. Fourniture en gros de chaînes de télévision à péage “premium” et de
+chaînes PPV/NVOD........................................................................................43
+
+5.2.1. Offre et puissance de vente................................................................43
+
+5.2.1.1. Fournisseurs.......................................................................43
+
+5.2.1.2. Positions sur le marché de Canal+/Canal+ Nordic et
+de MTG/Viasat..................................................................44
+
+5.2.2. Achat et puissance d’achat ................................................................45
+
+5.2.3. Positions sur le marché dans le segment PPV/NVOD ......................48
+
+5.3. Acquisition de droits de films et d’événements sportifs d’appel
+destinés à la programmation télévisuelle.........................................................48
+
+5.4. Fourniture de capacité transpondeur sur satellite aux fins de la
+radiodiffusion télévisuelle ...............................................................................50
+
+Page 3
+
+6. OBSERVATIONS DE TIERS ..................................................................................51
+
+7. ARTICLE 81 DU TRAITÉ ET ARTICLE 53 DE L'ACCORD EEE.......................52
+
+7.1. Compétence .....................................................................................................52
+
+7.2. Applicabilité de l’article 81, paragraphe 1, du traité et de l'article 53,
+paragraphe 1, de l'accord EEE.........................................................................53
+
+7.3. Arguments des parties en faveur de la délivrance d’une attestation
+négative pour les accords tels qu’ils ont été initialement notifiés...................54
+
+7.4. Restriction sensible de concurrence ................................................................56
+
+7.4.1. Distribution exclusive de chaînes de télévision à péage
+premium et obligations de non-concurrence connexes .....................57
+
+7.4.1.1. Distribution exclusive: verrouillage du marché ................57
+
+7.4.1.2. Obligation de non-concurrence: verrouillage du
+marché et effets restrictifs horizontaux .............................61
+
+7.4.2. Distribution exclusive de chaînes cinéma de PPV/NVOD et
+obligation de non-concurrence ..........................................................66
+
+7.4.2.1. Distribution exclusive: absence de verrouillage du
+marché ...............................................................................66
+
+7.4.2.2. Obligation de non-concurrence: verrouillage du
+marché et effets restrictifs horizontaux .............................68
+
+7.4.2.3. Conclusion générale sur la distribution PPV/NVOD........71
+
+7.4.3. Obligation de non-concurrence sur les services de
+transpondeur satellite.........................................................................71
+
+7.5. Effet sur le commerce entre Etats-membres....................................................72
+
+8. ARTICLE 81, PARAGRAPHE 3, DU TRAITÉ ET ARTICLE 53,
+PARAGRAPHE 3, DE L'ACCORD EEE.................................................................73
+
+8.1. Nécessité d'une exemption individuelle ..........................................................73
+
+8.2. Amélioration de la production ou de la distribution des produits et/ou
+promotion du progrès technique ou économique ............................................74
+
+8.2.2 Exclusivité concernant la télévision à péage.....................................74
+
+8.2.1. Obligations de non-concurrence sur les chaînes de télévision
+à péage et les chaînes de PPV............................................................77
+
+8.2.1.1. Obligations de non-concurrence........................................78
+
+8.2.1.2. Interdiction pour Telenor d'acquérir les droits de
+films d'appel en concurrence avec Canal+ ........................79
+
+8.2.1.3. Échange d'informations, coopération et soumission
+conjointe ............................................................................80
+
+8.2.1.4. Droits bilatéraux de premier refus sur la vente des
+droits relatifs à des événements sportifs d'appel ...............80
+
+8.2.1.5. Conclusion.........................................................................81
+
+Page 4
+
+8.2.2. Obligation de non-concurrence sur les services de
+transpondeur satellite.........................................................................81
+
+8.2.3. Conclusion.........................................................................................82
+
+8.3. Attribution d'une part équitable du profit aux consommateurs.......................82
+
+8.4. Restrictions indispensables..............................................................................84
+
+8.4.1. Exploitation exclusive des chaînes de télévision à péage .................84
+
+8.4.2. Obligations de non-concurrence sur les chaînes de télévision
+à péage et les chaînes de PPV/NVOD...............................................85
+
+8.4.3. Obligation de non-concurrence sur les services de
+transpondeur satellite.........................................................................89
+
+8.5. Maintien de la concurrence .............................................................................90
+
+8.6. Conclusion.......................................................................................................91
+
+9. DURÉE DE L'EXEMPTION ....................................................................................91
+
+10. CONCLUSION .........................................................................................................91
+
+Page 5
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement n° 17 du Conseil, du 6 février 1962, premier règlement d'application des
+articles 85 et 86 du traité1, tel qu'il a été modifié en dernier lieu par le règlement (CE)
+n° 1216/19992, et notamment ses articles 2, 6 et 8, paragraphe 1,
+
+vu la demande d'attestation négative présentée conformément à l'article 2 du
+règlement n° 17 et la notification effectuée en vue d'obtenir une exemption
+conformément à l'article 4 dudit règlement, par Telenor Broadband Services AS, le
+16 novembre 2001,
+
+vu la décision de la Commission du 19 juin 2003 d'ouvrir la procédure dans la présente
+affaire,
+
+vu le résumé de la demande et de la notification, ainsi que les observations de la partie
+notifiante, publiées conformément à l'article 19, paragraphe 3, du règlement n°173,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+considérant ce qui suit:
+
+1. INTRODUCTION
+
+1. La présente décision porte sur divers accords contractuels conclus en 2001 par
+Telenor ASA (ci-après "Telenor") et plusieurs de ses filiales, dont
+Telenor Broadband Services AS (ci-après "TBS") et Canal Digital AS (ci-après
+"Canal Digital") ainsi que Groupe Canal+ SA (ci-après "Canal+") et
+Canal+ Television AB (ci-après "Canal+ Nordic"). Ces accords prévoient la
+cession par Canal+ de sa participation de 50 % dans Canal Digital, qu'elle dirigeait
+auparavant avec TBS, et l'acquisition de cette participation par TBS. Les accords
+énoncent en outre les conditions selon lesquelles les parties entendent exercer leurs
+activités de télévision à péage dans la région nordique à l'issue de l'opération, en
+particulier la distribution aux consommateurs finals de chaînes de télévision
+«premium» à péage via la plate-forme satellite de radiodiffusion directe (direct-tohome, ci-après "DTH") de Canal Digital. Ces conditions prévoient notamment une
+série d'accords d'exclusivité et de non-concurrence conclus entre, d'une part,
+Canal+/Canal+ Nordic en tant que fournisseur de contenus de télévision à péage et,
+d'autre part, TBS/Canal Digital en tant que télédiffuseur et distributeur de DTH par
+satellite desdits contenus; ces accords restreignent la concurrence. Les accords
+
+1 JO 13 du 21.2.1962, p. 204.
+
+2 JO L 148 du 15.6.1999, p. 5.
+
+3 JO L 149 du 26.6.2003, p. 16.
+
+Page 6
+
+notifiés prévoient en outre certains mécanismes de coopération entre les parties en
+ce qui concerne l'acquisition de contenus en vue de leur exploitation sur des
+chaînes à péage; ces mécanismes restreignent également la concurrence. La
+Commission considère cependant que ces accords, sous réserve qu'ils soient
+modifiés conformément à plusieurs engagements pris par les parties, soit n'ont plus
+pour objet ou pour effet une restriction de la concurrence au sens de l'article 81,
+paragraphe 1, du traité et de l'article 53, paragraphe 1, de l'accord EEE, soit
+remplissent les conditions fixées à l'article 81, paragraphe 3, du traité et à
+l'article 53, paragraphe 3, de l'accord EEE pour bénéficier d'une exemption.
+
+2. LES PARTIES
+
+2. La partie notifiante TBS était une filiale à 100 % de l'opérateur historique de
+télécommunications norvégien Telenor, sur lequel l'État norvégien exerce un
+contrôle exclusif. À la suite d'une réorganisation au sein du groupe Telenor en
+2002, tous les droits et obligations contractuels sur lesquels portent les accords
+notifiés ont été transférés de TBS à une filiale nouvellement créée,
+Telenor Broadcast Holding AS (ci-après "Telenor Broadcast"). Telenor Broadcast
+fournit des services de télévision et des services à large bande aux consommateurs
+finals de toute la région nordique par radiodiffusion satellitair
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+r Telenor aux fins de tout type de distribution
+télévisée en aval.
+
+Page 88
+
+248. La Commission en conclut que les clauses relatives à l'acquisition conjointe de
+droits de contenus d'appel durant trois ans sont indispensables au sens de
+l'article 81, paragraphe 3, du traité.
+
+Droit bilatéral de premier refus sur la vente des droits relatifs aux événements
+sportifs d’appel
+
+249. Le raisonnement concernant le caractère indispensable de la clause d'acquisition
+conjointe s'applique par analogie aux droits de premier refus, dans la mesure où
+ceux-ci concernent l'acquisition de droits relatifs aux événements sportifs d'appel
+aux fins de la distribution des chaînes de télévision à péage et PPV/NVOD. Une
+limitation de trois ans est toutefois prévue, conformément à la durée maximale
+admissible de l'obligation de non-concurrence. La Commission en conclut que les
+droits de premier refus sur les droits bilatéraux relatifs aux événements sportifs
+d'appel durant trois ans sont indispensables au sens de l'article 81, paragraphe 3, du
+traité.
+
+8.4.3. Obligation de non-concurrence sur les services de transpondeur
+satellite
+
+250. Ainsi que cela a été indiqué plus haut (section 8.2.2.), l'obligation de
+non-concurrence sur les services de transpondeur satellite fait partie intégrante de
+la relation verticale instaurée entre Canal+ Nordic et Telenor/Canal Digital en vue
+de la distribution exclusive par DTH des chaînes à péage "premium" de Canal+ et
+ne peut être distinguée de cette distribution exclusive sans nuire aux gains
+d'efficience qu'elle permet de réaliser. Il s'avère en outre que les effets restrictifs
+résultant de l'obligation de non-concurrence à court et à moyen terme, à savoir
+l'effet de verrouillage vis-à-vis de nouveaux entrants potentiels, sont largement
+compensés par les gains d'efficience susmentionnés, y compris la nécessité pour
+Telenor de protéger ses investissements spécifiques à la relation contractuelle
+[confidentiel]. La Commission juge par conséquent qu'il est nécessaire de faire
+respecter l'obligation de non-concurrence, à tout le moins durant la même période
+que celle fixée pour l'exclusivité concernant les chaînes télévisées à péage en aval.
+En outre, l'effet de verrouillage résultant du fait que Canal+ Nordic est liée aux
+satellites de Telenor est moins important que celui qui découle de l'accord de
+non-concurrence relatif aux chaînes de télévision à péage pour ce qui est du marché
+en aval de la fourniture en gros des chaînes de télévision à péage. Canal+ Nordic
+occupe moins de [confidentiel] % de la capacité transpondeur globale actuellement
+disponible sur le marché satellitaire nordique en amont, avec, notamment,
+[confidentiel] chaînes télévisées à péage et PPV. À cet égard, la Commission tient
+également compte du fait que Canal+ Nordic est un utilisateur traditionnel des
+satellites de Telenor – même en l'absence de toute obligation de non-concurrence
+préalablement à l'entrée en vigueur des accords notifiés – et n'a pas d'incitation
+commerciale, ni immédiate, ni à moyen terme, à se tourner vers un autre
+fournisseur de services satellitaires comme NSAB. Enfin, la durée de cinq ans est
+justifiée compte tenu de la position adoptée par la Commission dans l'affaire
+NSAB/MTG, dans le cadre de laquelle une exemption a également été accordée,
+quoique sous la forme d'une lettre de classement administratif, en faveur d'une
+exclusivité bilatérale, applicable durant cinq ans par NSAB et MTG, en ce qui
+
+Page 89
+
+concerne une capacité transpondeur.143 Un accord de non-concurrence comparable
+entre Telenor et Canal+ Nordic contribue donc en définitive au maintien d'un
+équilibre concurrentiel raisonnable sur le marché nordique des services
+satellitaires, qui est un marché duopolistique.
+
+251. La Commission considère par conséquent que l'obligation de non-concurrence sur
+les services de transpondeur satellite imposée durant cinq ans est indispensable au
+sens de l'article 81, paragraphe 3, du traité CE en vue de l'obtention des gains
+d'efficience résultant des accords notifiés.
+
+8.5. Maintien de la concurrence
+
+252. Telenor a fait valoir que les accords, tels qu'ils ont été initialement notifiés,
+contribuaient au maintien de la concurrence dans la région nordique et que, sans
+eux, Canal Digital ne serait plus [confidentiel] de MTG/Viasat, qui est intégrée
+verticalement. En outre, l'exclusivité concernant les chaînes télévisées à péage ne
+couvrant pas la distribution des chaînes à péage de Canal+ par l'intermédiaire des
+opérateurs de CATV, la concurrence exercée par le biais de ces réseaux serait
+maintenue.
+
+253. La Commission partage l'avis des parties selon lequel les accords notifiés, y
+compris l'exclusivité concernant la distribution et les accords de non-concurrence,
+tels qu'ils ont été modifiés, n'éliminent pas la concurrence. Cela vaut pour tous les
+marchés concernés, pour les raisons suivantes:
+
+254. La concurrence sur les marchés en aval de la distribution au détail des chaînes
+payantes n'est pas éliminée, en raison du maintien d'un équilibre concurrentiel entre
+les deux principales plates-formes de DTH dans la région nordique et d'un niveau
+raisonnable de concurrence intermarques grâce à la disponibilité permanente de
+deux marques de télévision à péage distinctes et particulièrement attrayantes pour
+les clients de la DTH. En fait, Viasat et Canal Digital entretiennent des liens
+verticaux étroits avec les principaux fournisseurs en amont de chaînes de télévision
+à péage de la région nordique, à savoir, respectivement, Canal+ Nordic et MTG, et
+bénéficient par conséquent d'une garantie d'approvisionnement en ce qui concerne
+les éléments de contenu nécessaires pour pouvoir exercer leurs activités de
+télévision à péage en aval. La seule différence pertinente est que, dans le cas de
+MTG/Viasat, la garantie d'approvisionnement repose sur l'intégration structurelle
+verticale, tandis que dans celui de Canal+ Nordic/Canal Digital, l'intégration
+verticale qui existait auparavant a cédé la place à un contrat d'approvisionnement
+exclusif d'une durée de quatre ans. En outre, la concurrence sur le marché en amont
+de la fourniture des chaînes de télévision à péage "premium" n'est pas éliminée non
+plus pendant la durée de validité des accords de non-concurrence, essentiellement
+pour les mêmes raisons.
+
+255. L'interdiction d'acquisition imposée à Telenor et les accords d'acquisition conjointe
+entre Telenor et Canal+ Nordic n'éliminent pas la concurrence sur les marchés en
+
+143 Lettre de classement administratif du 6 décembre 2001 dans l'affaire COMP/C-2/38.016 –
+NSAB/MTG (IP/01/Nordiska, 17 décembre 2001).
+
+Page 90
+
+amont nordiques de l'acquisition de contenu audiovisuel pour la télévision à péage
+en raison de la présence continue d'au moins deux grands acheteurs concurrents, à
+savoir Canal+ Nordic et MTG. Enfin, la concurrence sur le marché en amont des
+services de transpondeur satellite n'est pas éliminée du fait du maintien de
+l'équilibre concurrentiel entre Telenor/Canal+ Nordic, d'une part, et
+NSAB/MTG/Viasat, d'autre part, qui chacune lient un des opérateurs nordiques de
+télévision à péage à leur capacité transpondeur.
+
+256. La Commission considère par conséquent que les divers accords contractuels
+examinés dans la présente décision n'éliminent pas la concurrence sur les marchés
+en cause durant leur durée de validité.
+
+8.6. Conclusion
+
+257. À la lumière de ce qui précède, la Commission conclut que, sur la base des accords
+tels qu'ils ont été notifiés, les conditions cumulatives de l'article 81, paragraphe 3,
+du traité et de l'article 53, paragraphe 3, de l'accord EEE sont remplies. Toutefois,
+l'exclusivité concernant les chaînes de PPV et de NVOD ne limite pas la
+concurrence et, partant, peut faire l'objet d'une attestation négative conformément à
+l'article 81, paragraphe 1, du traité, en liaison avec l'article 2 du règlement n° 17.
+
+9. DUREE DE L'EXEMPTION
+
+258. En vertu de l'article 8, paragraphe 1, du règlement n° 17, une décision d'application
+de l'article 81, paragraphe 3, du traité et de l'article 53, paragraphe 3, de
+l'accord EEE est accordée pour une durée déterminée. En outre, conformément à
+l'article 6, paragraphe 1, dudit règlement, la date à partir de laquelle une telle
+décision peut prendre effet ne peut être antérieure au jour de la notification.
+
+259. Conformément à ces dispositions et aux exigences mentionnées plus haut, la
+Commission accorde une exemption en faveur des accords notifiés, tels qu'ils ont
+été modifiés, pour une durée de cinq ans à compter de la date à laquelle leur
+conclusion définitive a été notifiée à la Commission, soit du 21 juin 2002 au
+21 juin 2007.
+
+10. CONCLUSION
+
+260. Il convient par conséquent d'accorder une attestation négative conformément à
+l'article 81, paragraphe 1, du traité et à l'article 53, paragraphe 1, de l'accord EEE,
+conjointement avec une exemption au titre de l'article 81, paragraphe 3, du traité et
+de l'article 53, paragraphe 3, de l'accord EEE,
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Sur la base des faits dont elle a connaissance, la Commission estime qu'elle n'a aucune
+raison, conformément à l'article 81, paragraphe 1, du traité et à l'article 53, paragraphe 1,
+
+Page 91
+
+de l'accord EEE, d'intervenir à l'égard des clauses régissant la distribution exclusive par
+Canal Digital des chaînes PPV et NVOD de Canal+ Nordic visées par la présente
+décision.
+
+Article 2
+
+Conformément à l'article 81, paragraphe 3, du traité et à l'article 53, paragraphe 3, de
+l'accord EEE, les dispositions de l'article 81, paragraphe 1, du traité et de l'article 53,
+paragraphe 1, de l'accord EEE sont déclarées inapplicables, pour la période allant du
+21 juin 2002 au 21 juin 2007, aux accords modifiés, sous réserve de l'article 1er, visés
+par la présente décision.
+
+Article 3
+
+est destinataire de la présente décision.
+
+Telenor Broadcast Holding AS
+Snarøyveien 30,
+N-1331 Fornebu
+Norvège
+
+Fait à Bruxelles, le 29/12/2003.
+
+Par la Commission
+
+Mario MONTI
+
+Membre de la Commission
+
+Page 92

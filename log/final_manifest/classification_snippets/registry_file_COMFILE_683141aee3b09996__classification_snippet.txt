@@ -1,0 +1,519 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of
+
+29 September 2004
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+(Case COMP/C.37.750/B2 – Brasseries Kronenbourg, Brasseries Heineken)
+
+(Only the Dutch and French versions are authentic)
+.......
+
+COMMISSION DECISION
+
+of
+
+29 September 2004
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+(Case COMP/C.37.750/B2 – Brasseries Kronenbourg, Brasseries Heineken)
+
+(Only the Dutch and French versions are authentic)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty1, and in particular Article 23(2) thereof,
+
+Having regard to the Commission’s decision of 4 February 2004 to initiate proceedings
+in this case,
+
+Having given the undertakings concerned the opportunity of being heard on the matters
+to which the Commission has taken objection, in accordance with Article 19(1) of
+Council Regulation No 17 of 6 February 1962, first Regulation implementing Articles 85
+and 86 of the Treaty2 and Article 2 of Commission Regulation (EC) No 2842/98 of
+22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and
+86 of the EC Treaty3,
+
+Having consulted the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Office in this case,
+
+Whereas:
+
+1. THE FACTS
+
+1.1. Subject of the case and procedure
+
+(1) This Decision relates to an “armistice” agreement, dated 21 March 1996, between
+the two main French breweries, Brasseries Kronenbourg S.A. (“Brasseries
+Kronenbourg”) and Heineken France S.A. (“Heineken France”, previously:
+Société Générale de Brasserie S.A.) and their respective parent companies at the
+
+1 OJ L 1, 4.1.2003, p. 1. Regulation amended by Regulation (EC) No 411/2004 (OJ L 68, 6.3.2004,
+p. 1).
+2 OJ 13, 21.2.1962, p. 204/62. Regulation repealed by Regulation (EC) No 1/2003.
+3 OJ L 354, 30.12.1998, p. 18. Regulation repealed by Regulation (EC) No 773/2004 (OJ L 123,
+27.4.2004, p.18).
+- 2 -
+
+time, Groupe Danone (“Danone”) and Heineken N.V. The armistice agreement
+relates to the acquisition of beverage distribution companies and the
+establishment of equilibrium in the parties’ integrated distribution networks, in
+breach of Article 81 of the Treaty.
+
+(2) In its reply of 23 December 1999 to a request for information sent by the
+Commission in COMP/37.614/F3 Interbrew + Alken Maes, Interbrew N.V.
+informed the Commission that certain anticompetitive practices between
+Interbrew and Alken Maes on the beer market in Belgium were modelled on
+similar practices between Brasseries Kronenbourg and Brasseries Heineken S.A.
+(“Brasseries Heineken”) in France4. In response to this reply, on 25 and
+26 January 2000, the Commission carried out investigations under Article 14(3)
+of Regulation No 17 on the premises of Danone and Heineken France in Paris and
+of Brasseries Kronenbourg in Strasbourg.
+
+(3) During the procedure, the Interbrew group sent the Commission a number of
+further letters concerning practices on the French market.
+
+(4) On 22 and 23 March 2000, at the Commission’s request, the Dutch competition
+authority (Nederlandse mededingingsautoriteit) carried out an investigation
+pursuant to Article 13(1) of Regulation No 17 on the premises of Heineken N.V.
+in Amsterdam.
+
+(5) On 30 March 2000, the Commission sent Danone, Heineken France, Tafanel SA
+(a wholesaler in Paris) and the Fédération Nationale des Boissons requests for
+information under Article 11 of Regulation No 17 concerning the documents
+obtained during the investigations carried out in January and March 2000, to
+which it received replies between 20 April and 19 May 2000.
+
+(6) On 15 May 2000, the Commission sent the Association des Brasseurs de France
+(“ABF”) a request for information under Article 11 of Regulation No 17
+concerning beer distribution in cash-and-carry outlets, to which it received a reply
+on 9 June 2000.
+
+(7) On 30 March and 6 April 2001, the Commission sent requests for information
+under Article 11 of Regulation No 17 to Interbrew France, Heineken France,
+Danone, Brasseries Kronenbourg, the Fédération Nationale des Boissons and the
+ABF concerning the brewing sector in France and a number of documents
+obtained during the investigations carried out in January and March 2000. Replies
+were received between 20 April and 18 May 2001.
+
+(8) On 19 March 2002, the Commission sent requests for information under Article
+11 of Regulation No 17 to Interbrew France, Heineken France and Brasseries
+Kronenbourg concerning inter alia their sales and certain documents obtained
+previously. Replies were received between 16 and 24 April 2002.
+
+(9) On 19 December 2003 and 27 January 2004 respectively, Heineken N.V. and
+Heineken France and Danone and Brasseries Kronenbourg replied spontaneously
+
+4 Commission Decision 2003/569/CE of 5 December 2001 relating to a proceeding under Article 81 of
+the EC Treaty (Case IV/37.614/F3 - PO/Interbrew and Alken-Maes), paragraph 54, (OJ L 200,
+7.8.2003, p. 1).
+- 3 -
+
+to an informal Commission request regarding the non-implementation of the
+agreement and the absence of any effects produced by it5.
+
+(10) On 4 February 2004, the Commission adopted a statement of objections addressed
+to Danone, Brasseries Kronenbourg, Heineken N.V. and Heineken France. The
+four parties presented their written comments between 2 and 6 April 2004. In
+their replies, they expressly waived their right to a hearing.
+
+1.2. The parties
+
+(11) Brasseries Kronenbourg is the leading brewer on the French market in terms of
+sales volume. In 1999, its output was [5-15] million hectolitres, and it imported
+[250-300 000] hectolitres. The trend in its market share (in volume terms)
+between 1990 and 1999 is shown in Table 16:
+
+Table 1: Brasseries Kronenbourg’s market shares (in volume terms) between
+1990 and 1999
+
+1990 1995 1999
+
+On-trade7 [35-45]% [35-45]% [35-45]%
+
+Off-trade8 [45-55]% [40-50]% [40-50]%
+
+Total market [40-50]% [35-45]% [35-45]%
+
+(12) Through its subsidiary, Kronenbourg Holding, formerly Elidis Holding (“Elidis”),
+Brasseries Kronenbourg has a national network of wholesalers9 which distributes
+beer and other beverages mainly to the on-trade. In 1999, Brasseries Kronenbourg
+achieved a turnover of €[700-750] million through its brewing business in France
+and €[450-500] million through the distribution business of Elidis10.
+
+(13) Until July 2000, Brasseries Kronenbourg was wholly owned by Danone, one of
+the leaders in the international food industry. Danone’s three basic business
+sectors are fresh dairy products, mineral waters and biscuits. Its other brewing
+interests included Alken Maes in Belgium, holdings in San Miguel and Mahou in
+Spain and Birra Peroni in Italy, and two joint ventures in China. In 1999, the
+group's consolidated turnover was €13.3 billion11. In July 2000, Danone sold
+Brasseries Kronenbourg and Alken Maes to the United Kingdom brewer, Scottish
+& Newcastle plc, [CONFIDENTIAL]12.
+
+5 Doc. 10695 to 10703 and 10736 to 10737.
+6 Brasseries Kronenbourg estimate, doc. 10093-162, and in particular doc. 10097.
+7 Beer sold for consumption on the premises.
+8 Beer sold in shops and supermarkets – includes distributor brand products and low-price products
+brewed for large retailers.
+9 See, for example, doc. 8031.
+10 Doc. 10093-162, and in particular doc. 10095.
+11 Source: Danone’s website, see in particular doc. 10514.
+12 Commission Decision of 11 July 2000 declaring a concentration to be compatible with the common
+market (Case No IV/M.1925 – Scottish & Newcastle/Groupe Danone) pursuant to Council Regulation
+(EEC) No 4064/89 (OJ C 238, 27.8.2000, p. 9).
+- 4 -
+
+(14) Brasseries Heineken is the second largest brewer on the French market. In 1999,
+its output was some [6-8] million hectolitres13. It also imported some [70 000 –
+80 000] hectolitres14. Brasseries Heineken is a wholly owned subsidiary of
+Heineken France, the Heineken group’s holding company in France. In 1996,
+Heineken France acquired Brasseries de Saint-Omer (Saint-Arnould group) and
+the Fischer group. The trend in Heineken France’s market share (in volume
+terms) is shown in Table 215:
+
+Table 2: Heineken France’s market shares (in volume terms) between 1990
+and 1999
+
+1990 1995 1999
+
+On-trade [20-30]% [25-35]% [30-40]%
+
+Off-trade [20-30]% [15-25]% [25-35]%
+
+Total market [20-30]% [20-30]% [25-35]%
+
+(15) Heineken France also controls France Boissons S.A. (“France Boissons"), whose
+subsidiaries distribute beer and other beverages to the on-trade through a national
+network of wholesalers16. In 1999, Heineken France had a turnover of €[700 to
+750] million in the brewing sector and €[600 to 650] million in the distribution of
+beverages17.
+
+(16) Heineken France is a subsidiary of Heineken N.V., a company under Dutch law,
+listed on the Amsterdam stock exchange. Heineken N.V. controls the Heineken
+group, one of the leading brewing groups in the world. In 1999, the group’s
+consolidated turnover was €6.1 billion18.
+
+1.3. The other producers in the French brewing industry
+
+(17) Interbrew France S.A. (“Interbrew France”) is the third largest brewer on the
+French market. Since 1993, it has imported all of the products which it markets.
+In 1999, its volume amounted to some [1-3] million hectolitres19. The trend in its
+market share (in volume terms) is shown in Table 320:
+
+Table 3: Interbrew France’s market shares (in volume terms) between 1990
+and 1999
+
+1990 1995 1999
+
+On-trade [15-25]% [15-25]% [10-20]%
+
+13 Heineken France’s reply, doc. 9297-9334, and in particular doc. 9304.
+14 Heineken France’s reply, doc. 9297-9334, and in particular doc. 9304.
+15 Heineken France estimate, doc. 9297-9334, and in particular doc. 9308.
+16 Doc. 8043.
+17 Heineken France’s reply of 10 May 2001, doc. 10166.
+18 Heineken France’s reply, doc. 9297.
+19 Interbrew France’s reply, doc. 10342-363, and in particular doc. 10344.
+20 Interbrew France estimates, doc. 10730.
+- 5 -
+
+Off-trade [1-10]% [1-10]% [1-10]%
+
+Total market [5-15]% [5-15]% [5-15]%
+
+(18) Interbrew France also controls beverage distribution companies, but its network is
+less extensive than those of Brasseries Kronenbourg and Heineken France21. In
+1999, its turnover was €[200-250] million and that of its distribution subsidiaries
+€[100-150] million22.
+
+(19) Interbrew France is an indirect subsidiary of Inbev N.V. (formerly
+Interbrew N.V.), a company under Belgian law, listed on the Brussels stock
+exchange23. Inbev N.V. controls the Interbrew group, which is one of the three
+leading brewing groups in the world. In 1999, the group’s consolidated turnover
+was around €4.35 billion24.
+
+(20) In 1999, the other five leading breweries in France were: Saverne (Karlsbräu
+group), Terken, Météor, Schutz and Brasseurs de Gayant. A number of other
+companies operate on a purely regional basis, for example, Castelain, Saint
+Sylvestre, la Choulette and Annoeuillin in Nord – Pas-de-Calais25.
+
+1.4. Structure of the market
+
+1.4.1. Structure of supply
+
+(21) In 1999, the brewing companies operating in France had a turnover of some €1.75
+billion from an output of 19.9 million hectolitres of beer (including exports).
+Output in 1999 was slightly down on output in 1992 (21.3 million hectolitres). In
+addition, between 1990 and 2000, the number of brewing companies fell from 27
+to 1526.
+
+(22) The structure of supply remained relatively stable over the ten years. Brasseries
+Kronenbourg, Brasseries Heineken and Interbrew France accounted for more than
+[75-85]% of the volume of output in 1999. The companies already held some [75-
+85]% of the market in 1990, and their respective market shares changed relatively
+little during the ensuing period27. The increase in Heineken France’s market share
+in the mid-1990s is due mainly to its acquisition of the Saint-Arnould and Fischer
+groups rather than to any internal growth28. Similarly, the main beer brands saw
+little change over the decade.
+
+21 Doc. 8055.
+22 Interbrew France’s reply of 18 May 2001, doc. 10342-363, and in particular doc. 10344.
+23 At the time of the facts being described, Interbrew France was 99.9% owned by Immobrew, a
+company 95% owned by Interbrew Belgium, itself a wholly owned subsidiary of Interbrew N.V., see
+doc. 10047.
+24 Interbrew France’s reply of 18 May 2001, doc. 10342-363, and in particular doc. 10343.
+25 Boissons de France magazine, February 2000, doc. 7346.
+26 Sources: Confédération des Brasseurs du Marché commun ("CBMC"), doc. 10518, and ABF, doc.
+7219.
+27 See the market shares mentioned in paragraphs (11), (14) and (17).
+28 See, for example, arrêté ministérielle of 20 August 1996 on a merger in the beer industry, Bulletin
+officiel de la Concurrence, 25 March 1997, doc. 10519-10528.
+- 6 -
+
+(23) Since 1995, Brasseries Kronenbourg, Brasseries Heineken and Interbrew France
+have also taken over a large part of the wholesale beer distribution trade (see
+paragraph (26)).
+
+1.4.2. Demand
+
+(24) A total of 21.4 million hectolitres of beer were sold in France in 200029. Total
+consumption fell slightly over the ten years. As in other Member States, demand
+comprises two distribution channels: on the one hand, the sale of beer for
+consumption off the premises (“the off-trade”) and, on the other, sales of beer for
+consumption on the premises (“the on-trade”). As may be seen from Table 4, the
+volume of demand increased very slightly in the off-trade between 1990 and
+2000, whereas in the on-trade it fell by around 25% during the same period30.
+
+Table 4: Volume of sales in France between 1990 and 2000
+
+Beer sales 1990 1995 2000
+('000 hectolitres)
+
+On-trade 9 017 7 776 6 634
+
+Off-trade 14 334 14 914 14 786
+
+Total 23 351 22 690 21 420
+
+(25) The off-trade, comprising mainly supermarkets and hypermarkets, accounted for
+slightly over two thirds of the total volume of beer sales in France in 200031, a
+proportion which tended to increase over the ten-year period. Some 90% of
+demand in the off-trade is accounted for by seven groups of large retailers32. The
+latter generally obtain their supplies direct from the brewers.
+
+(26) The on-trade accounts for less than one third of the total market in volume terms,
+and its share declined over the ten-year period33. The on-trade has two levels:
+wholesale and retail. Wholesale distribution is performed by wholesalers, who
+also sell other types of beverages. Since 1995, the two brewery groups involved
+in this case and Interbrew have integrated a substantial part of wholesale demand,
+acquiring numerous independent wholesalers. Thus, [65-75]% of the total volume
+of draught beer34 sold in 2000 was distributed by the subsidiaries of the three
+undertakings, including [55-65]% by the subsidiaries of the Heineken group and
+of Danone/Brasseries Kronenbourg, whereas in 1995 [70-80]% of the total was
+distributed by independent distributors. This trend is mainly due to the growth of
+
+29 ABF’s reply
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+The provisions governing the Commission’s power to impose fines for infringement of the rules on
+competition do not lay down any period of limitation. In order to fulfil their function of ensuring legal
+certainty, limitation periods must be fixed in advance” (judgment of the Court of 15 July 1970 in Case
+41/69 ACF Chemiefarma NV v Commission [1970] ECR 661, paragraphs 18 and 19).
+97 Judgment of the Court of First Instance of 20 March 2002 in Case T-9/99 HFB and Others v
+Commission [2002] ECR II-1487, paragraph 458.
+- 26 -
+
+delivered on 30 September 2003, it explicitly held that “recidivism is a
+circumstance which justifies a significant increase in the basic amount of the fine.
+Recidivism constitutes proof that the sanction previously imposed was not
+sufficiently deterrent”98.
+
+(95) For these reasons, the Commission considers that the basic amount of the fine
+should be increased by 50 % in the case of Danone and Brasseries Kronenbourg.
+
+(96) In the case of Heineken N.V. and Heineken France, it is evident from the context
+of the armistice agreement and the in-house memos of the undertakings, as
+described in paragraphs (33) to (46), that the parties participated on a equal
+footing at the meeting held on 21 March 1996 and in the discussions which
+preceded it. Even though it is apparent from the memo of 17 March 1996 (see
+paragraph (40)) that Heineken France wanted to convince Danone on the details
+of the agreement, it is also clear from the same memo that Danone was already in
+agreement on the principle of the armistice agreement (“so far Danone’s position
+has been agreement to the principle”). Furthermore, in the discussions preceding
+the meeting held on 21 March 1996, Danone also urged that it was of the utmost
+importance that a solution be found for “the distribution problem” (see in
+particular paragraphs (33) and (35) to (37)). The Commission therefore considers
+that Heineken N.V. and Heineken France did not play any role of leader or
+instigator that would justify an increase in the fine imposed on them.
+
+4.2.2.2.Attenuating circumstances
+
+(97) Under the heading of attenuating circumstances, Danone and Brasseries
+Kronenbourg cite the passive role which they claim they played in the conclusion
+of the armistice. However, as noted in paragraph (96), it is clear from the in-house
+Heineken group memos that the two groups wanted to maintain or restore
+equilibrium between their distribution networks and that they met and negotiated
+the armistice agreement on an equal footing. Consequently, there is no attenuating
+circumstance to be taken into account here as regards Danone and/or Brasseries
+Kronenbourg.
+
+(98) The Commission accepts the parties’ argument that they did not implement the
+armistice agreement and that the agreement did not have any impact on the
+market. However, these points have already been taken into account in assessing
+the gravity of the infringement and cannot therefore be taken into account a
+second time as attenuating circumstances.
+
+(99) As regards the argument put forward by Heineken N.V. and Heineken France that
+there was reasonable doubt as to whether the armistice agreement of 21 March
+1996 constituted an infringement, the Commission takes the view that the parties
+could not have been unaware of the fact that any such agreement was designed to
+restrict competition (see also paragraph (78)). The Commission cannot therefore
+accept this as an attenuating circumstance.
+
+98 Judgment of the Court of First Instance of 30 September 2003 in Case T-203/01 Michelin v
+Commission, not yet reported, paragraphs 282 to 293 and in particular paragraph 293. See also
+judgment of the Court of First Instance in PVC-II, loc. cit., paragraph 1162; judgment of the Court of
+First Instance in Thyssen Stahl, loc. cit., paragraphs 614 to 626; judgment of the Court of First Instance
+of 17 December 1991 in Case T-6/89 Enichem Anic v Commission [1991] ECR II- 1623, paragraph
+295.
+- 27 -
+
+(100) Lastly, Danone and Brasseries Kronenbourg as well as Heineken N.V. and
+Heineken France claim that their cooperation in the proceedings should be taken
+into account as an attenuating circumstance. However, cooperation in proceedings
+regarding secret cartels should in principle be considered in the framework of the
+Commission notice on the non-imposition or reduction of fines in cartel cases99
+(“the 1996 Leniency Notice”) or the Commission notice on immunity from fines
+and reduction of fines in cartel cases100 (“the 2002 Leniency Notice”), in order not
+to undermine the aim of those Notices.
+
+(101) With respect to the parties in these proceedings, the 2002 Leniency Notice would
+be applicable ratione temporis. No request has, however, been made under the
+2002 Leniency Notice, and that Notice, as opposed to the 1996 Leniency Notice,
+does not provide for the possibility of a reduction in the fine where the facts are
+not disputed.
+
+(102) Moreover, the fact that the parties did not dispute the facts set out by the
+Commission in its statement of objections and that Danone/Brasseries
+Kronenbourg in their reply to the statement of objections did not dispute the fact
+that the discussions held on 21 March 1996 resulted in an “armistice” cannot be
+adduced as an attenuating circumstance under the guidelines given that, in any
+event, these elements have not contributed significantly to the establishment of
+the infringement.
+
+(103) Furthermore, contrary to what Heineken N.V. and Heineken France claim, the
+fact that they replied comprehensively to the questions put to them under
+Article 11 of Regulation No 17 does not constitute an attenuating circumstance,
+since the parties were obliged to reply to such questions101. Similarly, the fact
+that, on 19 December 2003 and 27 January 2004, the parties replied
+spontaneously to an informal Commission request regarding the
+non-implementation of the armistice agreement and the absence of any impact102
+cannot be regarded as cooperation constituting an attenuating circumstance. The
+replies merely helped to confirm – on the Commission’s initiative – the fact that
+the agreement had not produced any effects. It was therefore wholly in the
+parties’ interest to provide such a reply. In any case, the lack of any impact on the
+market has already been taken into account in establishing the gravity of the
+infringement. Lastly, the fact that the parties waived their right to a hearing
+cannot be taken into account either as cooperation constituting an attenuating
+circumstance. Waiving the right to a hearing does not in itself contribute to
+determining the infringement and may be carried out in the parties’ own interest.
+
+(104) Therefore, no attenuating circumstance for effective cooperation by the
+undertakings in the proceedings can be taken into account.
+
+(105) Consequently, no attenuating circumstance is taken into account in the case.
+
+99 OJ C 207, 18.7.1996 p. 4.
+100 OJ C 45, 19.2.2002, p. 3
+101 Judgment of the Court of First Instance of 10 March 1992 in Case T-12/89 Solvay v Commission
+[1992] ECR II-907, paragraphs 341 and 342.
+102 Doc. 10695 to 10703 and 10736 to 10737.
+- 28 -
+
+4.2.3. Other circumstances and conclusion as to the final
+amount of the fine
+
+(106) Although Heineken N.V. and Heineken France argued that the case involved very
+particular circumstances, citing inter alia the war for the acquisition of
+wholesalers, such circumstances cannot in any way be regarded as specific
+circumstances justifying any final adjustment in the amounts of the fines
+envisaged. For the reasons set out above and in view of the clear nature of the
+infringement, which involved conduct having as its object the restriction of
+competition, the Commission also considers that it is not appropriate to impose a
+symbolic fine in the case.
+
+(107) Consequently, the final amount of the fine to be imposed on each undertaking
+must be as follows:
+
+- Danone and Brasseries Kronenbourg are jointly and severally liable for the sum
+of: EUR 1 500 000,
+
+- Heineken N.V. and Heineken France are jointly and severally liable for the sum
+of: EUR 1 000 000,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Groupe Danone, Brasseries Kronenbourg S.A., Heineken N.V. and Heineken France S.A.
+have infringed Article 81 of the Treaty by concluding, on 21 March 1996, an agreement
+having as its object the introduction of a temporary freeze on acquisitions of wholesalers
+and the establishment of equilibrium between the respective distribution networks of the
+groups in the French sector for consumption of beer on the premises (on-trade).
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are hereby imposed:
+- Groupe Danone and Brasseries Kronenbourg S.A. are jointly and severally liable for
+the sum of: EUR 1 500 000,
+
+- Heineken N.V. and Heineken France S.A. are jointly and severally liable for the sum
+of: EUR 1 000 000.
+
+Article 3
+
+The fines referred to in Article 2 shall be paid, within three months of the date of
+notification of this Decision, into the following bank account:
+Account No 001-3953713-69 of the European Commission at
+
+- 29 -
+
+Fortis Bank, Rue Montagne du Parc 3, 1000 Brussels
+(SWIFT Code: GEBABEBB – IBAN Code: BE71 0013 9537 1369).
+
+After the expiry of that deadline, interest shall be automatically payable at the interest
+rate applied by the European Central Bank for its main refinancing operations on the first
+day of the month in which this Decision is adopted, plus 3.5 percentage points, i.e. at the
+interest rate of 5.52%.
+
+Article 4
+
+This Decision is addressed to:
+Groupe Danone , 17 boulevard Haussmann, 75009 Paris, France;
+
+Brasseries Kronenbourg S.A., 68 Route d’Oberhausbergen, 67200 Strasbourg, France;
+
+Heineken N.V., Tweede Weteringplantsoen 21, 1017 ZD Amsterdam, Netherlands;
+
+Heineken France S.A., 19 Rue des deux Gares, 92500 Rueil-Malmaison, France.
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels, 29 September 2004 For the Commission
+
+Mario MONTI
+Member of the Commission
+
+- 30 -

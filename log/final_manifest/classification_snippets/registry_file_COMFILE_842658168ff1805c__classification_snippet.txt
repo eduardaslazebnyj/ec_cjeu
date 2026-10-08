@@ -1,0 +1,354 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39711 – Qualcomm (predation)
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 18/7/2019
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 18.7.2019
+C(2019) 5361 final
+
+COMMISSION DECISION
+
+of 18.7.2019
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+Case AT.39711 – Qualcomm (predation)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 8
+2. The parties concerned .................................................................................................. 8
+2.1. Qualcomm .................................................................................................................... 8
+2.2. The complainant ........................................................................................................... 9
+2.3. Interested Third Persons ............................................................................................... 9
+3. Procedure...................................................................................................................... 9
+4. Qualcomm’s claims of procedural irregularities ........................................................ 11
+5. Standards, standard-setting organisations and standard essential patents .................. 16
+5.1. Standards .................................................................................................................... 16
+5.2. Standard-setting organisations ................................................................................... 16
+5.3. Standard essential patents .......................................................................................... 17
+6. The technology and products concerned by the decision ........................................... 17
+6.1. The evolution of cellular communication standards .................................................. 17
+6.1.1. GSM ........................................................................................................................... 17
+6.1.2. UMTS ......................................................................................................................... 18
+6.1.3. LTE ............................................................................................................................ 19
+6.1.4. Other cellular and wireless communication standards ............................................... 19
+6.2. Baseband chipsets ...................................................................................................... 19
+6.2.1. Functions .................................................................................................................... 19
+6.2.2. Technological evolution of UMTS compliant chipsets ............................................. 20
+6.2.3. UMTS chipset development and production .............................................................. 21
+6.2.4. Customers and applications........................................................................................ 22
+6.2.5. Baseband chipset selection by OEMs ........................................................................ 25
+6.2.5.1. The choice between integrated and standalone baseband chipsets ............................ 26
+6.2.5.2. The choice on the basis of performance considerations ............................................. 27
+6.2.5.3. Intellectual Property Rights considerations ............................................................... 28
+7. Qualcomm's baseband chipset business ..................................................................... 28
+7.1. Qualcomm's products ................................................................................................. 28
+7.2. Qualcomm's patent portfolio ...................................................................................... 28
+7.3. Qualcomm's product creation process ........................................................................ 29
+7.4. Qualcomm's price setting process .............................................................................. 30
+8. Products concerned by the investigation .................................................................... 31
+8.1. Qualcomm's chipset offering in the leading edge segment during the Relevant Period
+.................................................................................................................................... 31
+
+EN 1 EN
+
+8.1.1. Qualcomm's MDM8200 based chipset ...................................................................... 31
+8.1.2. Qualcomm's MDM6200 based chipset ...................................................................... 33
+8.1.3. Qualcomm's MDM8200A based chipset ................................................................... 34
+8.2. Icera's chipset offering competing with Qualcomm's chipset offering in the leading
+edge segment during the Relevant Period .................................................................. 35
+8.2.1. Icera's ICE8040 based chipset .................................................................................... 35
+8.2.2. Icera's ICE8042 based chipset .................................................................................... 36
+8.2.3. Icera's ICE8060 based chipset .................................................................................... 37
+9. Other suppliers of UMTS compliant chipsets ............................................................ 37
+9.1. Infineon/Intel .............................................................................................................. 37
+9.2. ST-Ericsson ................................................................................................................ 38
+9.3. MediaTek ................................................................................................................... 38
+9.4. Marvell ....................................................................................................................... 39
+9.5. HiSilicon .................................................................................................................... 39
+9.6. Nokia .......................................................................................................................... 39
+9.7. Renesas ....................................................................................................................... 39
+9.8. Broadcom ................................................................................................................... 40
+9.9. Samsung/LSI .............................................................................................................. 40
+10. Market Definition ....................................................................................................... 40
+10.1. Principles .................................................................................................................... 40
+10.2. Relevant Product Market............................................................................................ 41
+10.2.1. Principles relating to product market definition......................................................... 41
+10.2.2. Application to this case .............................................................................................. 42
+10.2.3. The substitutability of GSM chipsets and UMTS chipsets ........................................ 42
+10.2.4. The substitutability of chipsets supporting UMTS and chipsets that support CDMA
+but not UMTS ............................................................................................................ 44
+10.2.5. The substitutability of chipsets supporting UMTS-FDD and chipsets supporting
+UMTS-TDD but not UMTS-FDD ............................................................................. 46
+10.2.6. The substitutability of UMTS baseband chipsets and baseband chipsets supporting
+WiFi and WiMAX but not UMTS ............................................................................. 47
+10.2.7. The substitutability of chipsets that comply with different iterations of UMTS
+technology .................................................................................................................. 49
+10.2.8. The substitutability of slim and integrated baseband chipsets ................................... 50
+10.2.9. The competitive constraint exerted by captive production of baseband chipsets on
+merchant market sales of UMTS chipsets .................................................................. 52
+10.2.9.1. Direct constraints from captive production on the merchant market ......................... 52
+10.2.9.2. Indirect constraints stemming from competition at the downstream level ................ 54
+
+EN 2 EN
+
+10.2.10. The need to carry out a SSNIP test ............................................................................ 57
+10.3. Relevant geographic market ....................................................................................... 57
+10.3.1. Principles relating to geographic market definition ................................................... 57
+10.3.2. Application to this case .............................................................................................. 58
+11. Dominance ................................................................................................................. 58
+11.1. Principles .................................................................................................................... 58
+11.2. Application to this case .............................................................................................. 60
+11.3. Market shares ............................................................................................................. 60
+11.3.1. Value-based market shares ......................................................................................... 61
+11.3.2. Volume-based market shares ..................................................................................... 62
+11.3.3. Qualcomm's arguments and their assessment by the Commission ............................ 63
+11.4. Barriers to entry and expansion .................................................................................. 64
+11.4.1. Research and development (R&D) activities related to the design of UMTS chipsets
+.................................................................................................................................... 64
+11.4.2. The Qualcomm grant-back network ........................................................................... 65
+11.4.3. OEM and MNO certification ..................................................................................... 70
+11.4.4. Qualcomm's brand image, reputation and strong business relationships ................... 74
+11.4.5. Importance for suppliers to supply chipsets supporting a variety of standards ......... 76
+11.5. Countervailing buyer power ....................................................................................... 77
+12. Abuse.......................................................................................................................... 79
+12.1. Principles .................................................................................................................... 79
+12.2. Application in this case .............................................................................................. 81
+12.3. The competitive threat from Icera in the leading edge segment of the UMTS chipset
+market during the Relevant Period ............................................................................. 82
+12.3.1. The leading edge segment of the UMTS chipset market during the Relevant Period 82
+12.3.1.1. The importance of the throughput capability (data rate) ............................................ 83
+12.3.1.2. Leading edge data rates during the Relevant Period .................................................. 85
+12.3.2. The strategic importance of the leading edge segment of the UMTS chipset market 90
+12.3.3. The threat of Icera faced by Qualcomm in the leading edge segment of the UMTS
+chipset market ............................................................................................................ 94
+12.4. Qualcomm's strategy to counter the threat by Icera in the leading edge segment of the
+UMTS chipset market .............................................................................................. 103
+12.4.1. The targeted and selective nature of Qualcomm's pricing conduct.......................... 104
+12.4.2. Qualcomm's multi-chipset strategy .......................................................................... 108
+12.4.2.1. Developments leading to the [...] approval of 19 January 2009: launch of the
+MDM8200 Lite in order to close the competitive gap vis-à-vis Icera ..................... 118
+
+EN 3 EN
+
+12.4.2.2. Developments leading to the [...] approval of 8 June 2009: further price reductions on
+the MDM8200 based chipset to bridge Qualcomm's competitive gap until the launch
+of the MDM6200 based chipset ............................................................................... 124
+12.4.2.3. Developments leading to the [...] approval of 25 November 2009: further price
+reductions for Huawei on the MDM8200 based chipset, including a one-off [...]
+payment for Huawei's inventory and backlog, as well as on the MDM6200 based
+chipset ...................................................................................................................... 128
+12.4.2.4. Developments leading to the [...] approvals of 21 December 2009 and 4 January
+2010: price reductions on the MDM6200 based chipset for Huawei and ZTE
+(including a one-off [...] payment for ZTE), as well as on the MDM8200 based
+chipset for ZTE ........................................................................................................ 135
+12.4.2.5. Developments leading to the [...] approvals of 1 and 22 March 2010: further price
+reductions on the MDM8200 based chipset for Huawei and ZTE, including a onetime credit for Huawei's remaining backlog ............................................................ 144
+12.4.2.6. Developments leading to the [...] approval of 17 May 2010: implementation of a
+[...] strategy by means of price reductions on the MDM6200 to ZTE and on the
+MDM8200A for Hua
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Qualcomm’s worldwide sales of UMTS baseband chipset, either based on
+Qualcomm’s Table 1 or the market reconstruction data,1656 the Commission informed
+Qualcomm on 13 June 2019 that it intended to rely on the market reconstruction data
+and granted Qualcomm the possibility to provide further comments in this regard.1657
+(1262) The Commission notes that the EEA sales share figures in Table 75 at recital (1266)
+diverge from those provided by Qualcomm in Table 1. This discrepancy is likely due
+to the timing mismatch between the two tables, since Table 1 refers to Qualcomm's
+business year, while Table 75 at recital (1266) reports all figures with respect to the
+calendar year. The Commission was, however, not able to fully clarify these
+discrepancies, because Qualcomm did not explain how it arrived at the figures it
+
+1651 Qualcomm's reply of 28 February 2019 to question 1 of Article 18(2) request for information of 5
+February 2019, [...], footnote 18.
+1652 SO, paragraph (463).
+1653 Qualcomm’s reply of 18 June 2019 to the Request for Comments of 13 June 2019, [...], paragraph 8.
+1654 Qualcomm's reply of 10 May 2019 to the clarification questions of 29 April 2019, [...], Table 1 at
+paragraph 4.
+1655 Qualcomm's reply of 10 May 2019 to the clarification questions of 29 April 2019, [...], paragraph 4.
+1656 Qualcomm’s second reply of 17 May 2019 to the clarification questions of 14 May 2019, [...],
+paragraph 4.
+1657 Commission e-mail of 13 June 2019, [...].
+
+EN 367 EN
+
+provided in Table 1 in its reply to the Commission's clarification question pointing
+Qualcomm to the discrepancies between the two sets of sales share figures.1658
+(1263) As a second step, the Commission multiplied the resulting EEA sales volume figures
+by Qualcomm's worldwide ASP for UMTS chipsets during the infringement period
+to obtain Qualcomm's annual EEA revenues for calendar years 2009, 2010 and 2011.
+(1264) To translate the ASPs provided by Qualcomm at the level of business years and
+business quarters1659 into ASPs at the calendar-year and calendar-half-year level, the
+Commission averaged the quarterly ASPs provided by Qualcomm (i) across the four
+relevant quarters of 2010 to obtain the annual worldwide ASP for calendar year
+2010, and (ii) across the two relevant quarters of 2009 and 2011 respectively (i.e. the
+last two calendar quarters of 2009 and the first two calendar quarters of 2011) to
+obtain the half-yearly worldwide ASPs for the second half of calendar year 2009 and
+the first half of calendar year 2011.1660
+(1265) As a third step, in order to calculate the actual EEA value of sales during the
+infringement period, the Commission divided the annual EEA revenues for 2009 and
+2011 by two to obtain the half-yearly value of sales for the second half of 2009 and
+the first half of 2010, and added the resulting figures to the annual EEA sales value
+for 2010, yielding an actual EEA value of sales during the infringement period of
+EUR [...].
+(1266) The table below shows Qualcomm's worldwide UMTS chipset sales according to the
+market reconstruction data, the share of Qualcomm's sales into the EEA in its
+worldwide sales, Qualcomm's average ASPs as calculated by the Commission, and
+the resulting yearly and half-yeary values of EEA sales. The sum of the three values
+given in column " Qualcomm's UMTS value of EEA sales (in EUR) – for H2'2009,
+CY2010, and H1'2011" yields the actual EEA value of sales during the infringement
+period.
+
+1658 Qualcomm's second reply of 17 May 2019 to the clarification questions of 14 May 2019, [...],
+paragraphs 10-11.
+1659 Revised Table III of Annex III of 18 June 2019 supplementing Qualcomm's reply of 28 February 2019
+to the Art 18(1) and (2) request for information of 5 February 2019, [...].
+1660 The Commission thus took account of the time mismatch between the volume data based on calendar
+years, and the ASP data provided by Qualcomm on a fiscal year basis, as pointed out by Qualcomm in
+the Corrigendum of 21 June 2019 to Qualcomm’s reply of 18 June 2019 to the Request for Comments
+of 13 June 2019, [...], paragraph 14.
+
+EN 368 EN
+
+15.3.3. Duration
+(1273) Following the methodology described in section 15.3.1, the figure set out at recital
+(1265) reflects Qualcomm’s relevant value of sales for the entirety of the
+infringement period. It is not, therefore, necessary to apply a separate duration
+multiplier for the purposes of calculating the basic amount of the fine.
+15.3.4. Additional amount
+(1274) The Commission concludes that the basic amount should include an additional
+amount in order to deter undertakings of a similar size and with similar resources
+from entering into the same type of infringement as Qualcomm.1662 This additional
+amount should be [...] of Qualcomm's average annual EEA sales value during the
+infringement period, which is obtained by dividing Qualcomm's actual EEA sales
+value during the infringement period given in recital (1265) by the duration of the
+infringement (i.e. 2 years, see section 12.11 above), yielding an additional amount of
+EUR [...].
+(1275) In reaching this conclusion, the Commission took into account the following factors.
+(1276) First, Qualcomm's conduct took place in a market of significant economic
+importance (see recital (1269) above).
+(1277) Second, the relatively short duration of the infringement (i.e. 2 years, see section
+12.11 above) does not properly reflect its potential to impact not only competition in
+the market for chipsets compliant with the UMTS standard but also with subsequent
+communication technology standards.
+(1278) The implementation of Qualcomm's predatory pricing strategy vis-à-vis Huawei and
+ZTE was capable of preventing Icera at a crucial stage of its development from
+gaining access to either of these two customers on which Icera's development
+prospects in the leading edge segment of the UMTS chipset market were dependent.
+Through its conduct, Qualcomm prevented Icera from gaining the reputation and
+scale necessary to challenge Qualcomm's dominance in the market for UMTS
+baseband chipsets, in particular in view of the expected growth potential of the
+leading edge segment due to the global take-up of smart mobile devices. In
+particular, by damaging Icera's profit prospects, Qualcomm forced Icera to scale back
+its R&D in voice functionality/LTE, which was crucial for Icera to be able to enter
+the smartphone segment supporting the LTE standard, which superseded UMTS as
+the leading mobile communications technology soon after the end of the
+infringement period (see recitals (1034) and (1045) above). As a consequence,
+Qualcomm deprived original equipment manufacturers from access to an alternative
+potential source of chipsets for their mobile phones and reduced consumer choice
+(see recitals (1), (334), and (1045) above).
+15.3.5. Aggravating and mitigating circumstances
+(1279) The Commission considers that there are no aggravating or mitigating circumstances
+in this case that should result in an increase or decrease in the basic amount of the
+fine.
+
+1662 Fining Guidelines, paragraph 25.
+
+EN 370 EN
+
+15.3.6. Conclusion: final amount of the fine
+(1280) The final amount of the fine to be imposed on Qualcomm should be
+EUR 242 042 000.
+(1281) Qualcomm's turnover in the last business year preceding the adoption of the Decision
+in this case, which ended on 30 September 2018, was EUR 19 105 million.1663 As the
+amount of the fine set above is below the legal maximum of 10% of this turnover
+(EUR 1 910.5 million), no adaptation is necessary.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Qualcomm Inc. has committed an infringement of Article 102 of the Treaty and Article 54 of the
+Agreement on the European Economic Area by supplying, between 1 July 2009 until 30 June
+2011, certain quantities of three of its UMTS compliant chipsets (the MDM8200, MDM6200
+and MDM8200A based chipsets) to two of its key customers, Huawei and ZTE, below cost,
+with the intention of eliminating Icera, its main competitor at that point in time in the market
+segment offering advanced data rate performance ("leading edge segment").
+The infringement lasted from 1 July 2009 until 30 June 2011.
+
+Article 2
+For the infringement referred to in Article 1, a fine of EUR 242 042 000 is imposed on
+Qualcomm Inc.
+The fine shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39711
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where Qualcomm Inc. lodges an appeal, it shall cover the fine by the due date, either by
+providing an acceptable financial guarantee or by making a provisional payment of the fine in
+accordance with Article 108 of Regulation (EU, Euratom) 2018/1046.1664
+
+1663 Annex III to Qualcomm's reply of 28 February 2019 to Article 18(2) request for information of 5
+February 2019, [...]. This figure corresponds to USD 22 732 million, converted at the EUR/USD
+average exchange rate of the ECB for the period 25 September 2017 to 30 September 2018 of EUR 1 =
+USD 1.1898.
+1664 OJ L 193, 30.7.2018, page 80.
+
+EN 371 EN
+
+Article 3
+Qualcomm Inc. shall refrain from repeating any act or conduct described in Article 1, and from
+any act or conduct having the same or equivalent object or effect.
+
+Article 4
+This Decision is addressed to Qualcomm Inc., 5775 Morehouse Drive, San Diego, 92121
+California, United States of America.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+Agreement on the European Economic Area.
+Done at Brussels, 18.7.2019
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+EN 372 EN

@@ -1,0 +1,643 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39965 - Mushrooms
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 25/06/2014
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 25.6.2014
+C(2014) 4227 final
+
+COMMISSION DECISION
+
+of 25.6.2014
+
+addressed to:
+
+- Bonduelle SCA
+
+- Bonduelle SAS
+
+- Bonduelle Conserve International SAS
+
+- C4C Holding B.V.
+
+- Lutèce Holding B.V.
+
+- Lutèce B.V.
+
+- Peffer Holding B.V.
+
+- Prochamp B.V.
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+(AT.39965 - Mushrooms)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 5
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ........................................... 6
+
+2.1. The product .................................................................................................................. 6
+
+2.2. The undertakings subject to the proceedings ............................................................... 6
+
+2.2.1. Bonduelle ..................................................................................................................... 6
+
+2.2.2. Lutèce........................................................................................................................... 7
+
+2.2.3. Prochamp...................................................................................................................... 7
+
+2.2.4. [...]................................................................................................................................ 7
+
+3. PROCEDURE.............................................................................................................. 8
+
+4. DESCRIPTION OF THE EVENTS............................................................................. 9
+
+4.1. Nature and scope of the conduct.................................................................................. 9
+
+4.2. Geographic scope of the conduct............................................................................... 10
+
+4.3. Duration of the participation in the anti-competitive conduct ................................... 10
+
+5. LEGAL ASSESSMENT............................................................................................ 11
+
+5.1. Jurisdiction................................................................................................................. 11
+
+5.2. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 11
+
+5.2.1. Nature of the infringement......................................................................................... 11
+
+5.2.1.1. Agreements and concerted practices.......................................................................... 11
+
+5.2.1.2. Single and continuous infringement........................................................................... 12
+
+5.2.2. Restriction of competition.......................................................................................... 14
+
+5.2.3. Effect upon trade between Member States and between Contracting Parties to the
+EEA Agreement ......................................................................................................... 14
+
+5.2.4. Appreciability............................................................................................................. 15
+
+5.3. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement.................................................................................................................. 15
+
+6. DURATION OF THE INFRINGEMENT................................................................. 15
+
+7. LIABILITY................................................................................................................ 16
+
+7.1. Bonduelle ................................................................................................................... 16
+
+7.2. Lutèce......................................................................................................................... 17
+
+EN 2 EN
+
+7.3. Prochamp.................................................................................................................... 17
+
+8. REMEDIES................................................................................................................ 17
+
+8.1. Article 7 of Regulation (EC) No 1/2003.................................................................... 17
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Fines................................................. 17
+
+8.3. Calculation of the fines .............................................................................................. 18
+
+8.3.1. The value of sales....................................................................................................... 18
+
+8.3.2. Determination of the basic amount of the fine........................................................... 19
+
+8.3.2.1. Gravity........................................................................................................................ 19
+
+8.3.2.2. Duration...................................................................................................................... 20
+
+8.3.2.3. Additional amount...................................................................................................... 20
+
+8.3.2.4. Calculation of the basic amount................................................................................. 21
+
+8.3.3. Adjustments to the basic amount of the fine: aggravating or mitigating factors ....... 21
+
+8.4. Application of the 10% turnover limit ....................................................................... 21
+
+8.5. Application of the Leniency Notice........................................................................... 22
+
+8.6. Adaptation – Point 37 of the Guidelines on Fines ..................................................... 22
+
+8.7. Application of the Settlement Notice......................................................................... 22
+
+8.8. Conclusion: Final amount of individual fines to be imposed in this Decision .......... 23
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 25.6.2014
+
+addressed to:
+
+- Bonduelle SCA
+
+- Bonduelle SAS
+
+- Bonduelle Conserve International SAS
+
+- C4C Holding B.V.
+
+- Lutèce Holding B.V.
+
+- Lutèce B.V.
+
+- Peffer Holding B.V.
+
+- Prochamp B.V.
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+(AT.39965 - Mushrooms)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+1 OJ L 1, 4.1.2003, p.1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+
+EN 4 EN
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2
+and in particular Article 10a thereof,
+
+Having regard to the Commission decision of 16 January 2013 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) The addressees of this Decision participated in a single and continuous infringement
+of Article 101 of the Treaty on the Functioning of the European Union and Article 53
+of the Agreement on the European Economic Area ("EEA Agreement"). The
+infringement consisted of price coordination and customer allocation for mushrooms
+sold in cans and jars ("canned mushrooms"). It covered the EEA and lasted at least
+from 1 September 2010 to 28 February 2012.
+
+(2) The Decision is addressed to the following companies
+
+• Bonduelle SCA, Bonduelle SAS, Bonduelle Conserve International SAS
+("Bonduelle");
+
+• C4C Holding B.V., Lutèce Holding B.V., Lutèce B.V. ("Lutèce");
+
+• Peffer Holding B.V., Prochamp B.V. ("Prochamp").
+
+(3) The facts as outlined in this Decision have been accepted by Bonduelle, Lutèce and
+Prochamp (the "Settling Parties") in the settlement procedure. In Sections 2 and
+3, reference is made to [...], which is not an addressee of this Decision.
+
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 TFEU should be understood as references to Articles 81 and 82,
+respectively, of the EC Treaty where appropriate. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the TFEU will be used throughout this Decision.
+2 OJ L 123, 27.4.2004, p. 18, as amended by Commission Regulation (EC) No 622/2008 of 30 June 2008
+as regards the conduct of settlement procedures in cartel cases (OJ L 171, 1.7.2008, p. 3).
+3 Final report of the Hearing Officer of 31 March 2014.
+
+EN 5 EN
+
+Therefore, this Decision does not relate to any liability of this non-settling party for
+any participation in an infringement of EU competition law in this case.4
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1. The product
+
+(4) The anticompetitive conduct concerned by the present proceedings relates to canned
+mushrooms.5 The cartel identified in these proceedings covered the private label
+sales (MDD, HD and MPP)6 via tender procedures to retailers and the food service
+channel.7
+
+2.2. The undertakings subject to the proceedings
+
+Parties to the settlement procedure
+
+2.2.1. Bonduelle
+
+(5) The relevant legal entities are:
+
+(1) Bonduelle SCA with registered offices at La Woëstyne, 59173 Renescure,
+France;
+
+(2) Bonduelle SAS with registered offices at La Woëstyne, 59173 Renescure,
+France;
+
+(3) Bonduelle Conserve International SAS (previously Champiloire SA) with
+registered offices at La Woëstyne, 59173 Renescure, France.
+
+(6) Bonduelle is a French listed company active in the production and sale of processed
+vegetables. The undertaking's worldwide turnover in 2013 was approximately EUR
+1.89 billion.
+
+4 The administrative proceedings under Article 7 of Regulation (EC) No 1/2003 against the non-settling
+party, this is to say [...], are pending: see paragraph (23) and footnote 10. The conduct referred to in
+this Decision involving the non-settling parties is exclusively used to establish liability of the settling
+parties for an infringement of Articles 101 of the Treaty and Article 53 of the EEA Agreement. All
+undertakings subject to the proceedings are commonly referred to as the "parties".
+5 Tins and jars.
+6 MDD stands for 'Marque des Distributeurs', 'HD' for 'Hard Discounts' and MPP stands for 'Marque
+Premier Prix'.
+7 The retail channel includes sales to supermarkets, hypermarkets and hard discounters.
+The food service channel includes sales to food wholesalers and processors.
+Sales of fresh and frozen mushrooms are not concerned.
+Sales of canned mushrooms that are not channelled through tender procedures, such as the sales of
+parties own brands, are also not concerned.
+The business to business channel (i.e. industrial customers which use canned mushrooms as an
+ingredient for the products they sell to the retailers or the foodservice) is also not part of the
+infringement.
+
+EN 6 EN
+
+2.2.2. Lutèce
+
+(7) The relevant legal entities are:
+
+(1) C4C Holding B.V. with registered offices at Driekronenstraat 6, 6596 MA
+Milsbeek, The Netherlands;
+
+(2) Lutèce Holding B.V. with registered offices at Handelstraat 8, 5691 PV Horst,
+The Netherlands;
+
+(3) Lutèce B.V. with registered offices at Handelstraat 8, 5961 PV Horst, The
+Netherlands.
+
+(8) Lutèce is a producer of conserved mushrooms selling its products to clients in more
+than 60 countries. The undertaking's worldwide turnover in 2013 was approximately.
+EUR 231 million.
+
+2.2.3. Prochamp
+
+(9) The relevant legal entities are:
+
+(1) Peffer Holding B.V. with registered offices at Wertsteeg 10, 5331 PE
+Kerkdriel, The Netherlands;
+
+(2) Prochamp B.V. with registered offices at Laarstraat 2, 5334 NS Velddriel, The
+Netherlands.
+
+(10) Prochamp is a company specialised in the production and sale of a specific quality of
+preserved mushrooms. The undertaking's worldwide turnover in 2013 was
+approximately EUR [30-45] million.
+
+The undertaking subject to the proceedings but not to the settlement procedure
+
+2.2.4. [...]
+
+(11) [...]
+
+(12) [...]
+
+(13) [...]
+
+EN 7 EN
+
+3. PROCEDURE
+
+(14) On 22 December 2011 Lutèce applied for a marker for immunity under point 14 of
+the Commission notice on immunity from fines and reduction of fines in cartel cases8
+("the Leniency Notice"). On 25 January 2012 Lutèce submitted an application for
+immunity from fines pursuant to point 8 of the Leniency Notice aiming at perfecting
+the marker. On 17 February 2012 the Commission granted conditional immunity
+pursuant to point 8(a) of the Leniency Notice to Lutèce.
+
+(15) Starting on 28 February 2012 the Commission carried out inspections under Article
+20(4) of Regulation 1/2003 at the premises of various mushroom producers in
+France, the Netherlands and Spain.
+
+(16) As of 3 April 2012 the Commission addressed several requests for information
+pursuant to Article 18(2) of Regulation 1/2003 to the parties.
+
+(17) [...], on 21 May 2012, and Prochamp, on 21 September 2012, submitted
+leniency applications.
+
+(18) On 9 April 2013 the Commission initiated proceedings pursuant to Article 11(6) of
+Regulation (EC) No 1/2003 against Bonduelle, Lutèce, Prochamp and [...] with
+a view to engaging in settlement discussions with them. After each party had
+confirmed its willingness to engage in settlement discussions, the discu
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n the assessment the fact that the
+infringement has been implemented and covered the entire EEA.
+
+(61) Given the specific circumstances of this case and taking into account the nature, the
+geographic scope of the infringement and the fact that the infringement has been
+implemented the proportion of the value of sales to be taken into account is 17%.
+
+8.3.2.2. Duration
+
+(62) In calculating the fine to be imposed on each undertaking, the Commission also takes
+into consideration the duration of the infringement42.
+
+(63) The duration to be taken into account for the purposes of calculating the fine to be
+imposed on each addressee, rounded down to the month, and the resulting multipliers
+for duration are set out in Table 2.
+
+Table 2. Duration
+
+Entity Duration Multipliers
+
+Bonduelle 1 September 2010 - 28 February 2012 1.41
+
+Lutèce 1 September 2010 - 22 December 2011 1.25
+
+Prochamp 1 September 2010 - 28 February 2012 1.41
+
+8.3.2.3. Additional amount
+
+(64) The infringement concerns a price coordination cartel. Therefore, the Commission
+includes in the basic amount of each fine a sum of between 15% and 25% of the
+value of sales to deter the undertakings from entering into such illegal practices on
+the basis of the criteria listed in recital (84) with respect to the variable amount.43
+
+(65) Taking into account the factors listed in Section 8.3.2.1 relating to the nature, the
+geographic scope of the infringement and the fact that the infringement has been
+implemented the percentage to be applied for the purposes of calculating the
+additional amount is 17%.
+
+41 Point 23 of the Guidelines on Fines.
+42 Point 24 of the Guidelines on Fines.
+43 Point 25 of the Guidelines on Fines.
+
+EN 20 EN
+
+8.3.2.4. Calculation of the basic amount
+
+(66) Based on the criteria explained in recitals (75)-(88), the basic amount of the fine to
+be imposed on each undertaking is set out in Table 3.
+
+Table 3. Basic amounts of the fine
+
+Undertaking Basic amount in EUR
+
+Bonduelle [...]
+
+Lutèce [...]
+
+Prochamp [...]
+
+8.3.3. Adjustments to the basic amount of the fine: aggravating or mitigating factors
+
+(67) The Commission may increase the basic amount where it considers that aggravating
+circumstances apply. Those circumstances are listed in a non-exhaustive way in point
+28 of the Guidelines on Fines. The Commission may also reduce the basic amount
+where it considers that mitigating circumstances apply. Those circumstances are
+listed in a non-exhaustive way in point 29 of the Guidelines on Fines.
+
+(68) The Commission does not consider that any aggravating or mitigating circumstances
+apply in this case.
+
+8.4. Application of the 10% turnover limit
+
+(69) Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed on each
+undertaking participating in the infringement must not exceed 10% of its total
+turnover relating to the business year preceding the date of the Commission decision.
+
+(70) The 10% cap laid down in Article 23(2) is calculated on the basis of the total
+turnover of all the entities constituting an 'undertaking' in accordance with settled
+case-law.44
+
+44 See e.g. Joined Cases T-204/08 and T-212/08 Team Relocations and Others v Commission [2011] ECR
+II-3569, paragraphs 154; upheld on this point on appeal in the judgment of 11 July 2013 in Case C-
+444/11 P Team Relocations and Others v Commission, nyr, paragraphs 170-179, Judgment of 16
+September 2013 in Case T-411/10 Laufen Austria v Commission, nyr, paragraph 150, Judgment of 17
+May 2013 in Case T-146/09 Parker ITR and Parker-Hannifin v Commission, nyr, paragraphs 226-230,
+Judgment of 27 June 2012, Case T-448/07, YKK e.a. v Commission, nyr, paragraphs 192-195.
+
+EN 21 EN
+
+Table 4. Fine after application of 10% turnover limit
+
+Undertaking Legal maximum amount
+(EUR)
+
+Bonduelle [...]
+Lutèce [...]
+Prochamp [...]
+
+8.5. Application of the Leniency Notice
+
+(71) On 22 December 2011, Lutèce applied for immunity under the Leniency Notice. On
+17 February 2012, the Commission granted Lutèce conditional immunity from fines
+pursuant to point 8(a) of the Leniency Notice. Lutèce's co-operation fulfilled the
+requirements of the Leniency Notice. Lutèce should therefore be granted immunity
+from fines for the infringement that is the subject of this Decision.
+
+(72) Prochamp was the second undertaking to meet the requirements of points 24 and 25
+of the Leniency Notice. Prochamp was notified of the decision of 9 April 2013 by
+which the Commission announced its intention to grant a reduction of the fine within
+the range of 20-30%. The application of Prochamp not only corroborated the existing
+facts, but also contained evidence on new events and was very useful in clarifying
+these and other events. Prochamp should therefore be granted 30% reduction of its
+fines.
+
+8.6. Adaptation – Point 37 of the Guidelines on Fines
+
+(73) In view of the specific circumstances of this case, the Commission deems it
+appropriate to exercise its discretion and to apply point 37 of the Guidelines on Fines
+which allows it to depart from the methodology of the Guidelines. Taking into
+account that Prochamp is a very small independent company that does not belong to
+a large group of companies and the need to ensure an appropriate level of deterrence,
+without being disproportionate, in view of these specific characteristics Prochamp
+should be granted an additional 10% reduction.
+
+8.7. Application of the Settlement Notice
+
+(74) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% of turnover cap has been applied having regard to the Guidelines on Fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement is added to their
+leniency reward.
+
+(75) As a result of the application of the Settlement Notice, the amount of the fines to be
+imposed on Bonduelle, Lutèce and Prochamp should be reduced by 10%.
+
+EN 22 EN
+
+8.8. Conclusion: Final amount of individual fines to be imposed in this Decision
+
+(76) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 5.
+
+Table 5. Fines
+
+Undertaking Fines (in EUR)
+
+Bonduelle 30 204 000
+
+Lutèce 0
+
+Prochamp 2 021 000
+
+EN 23 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+infringement covering the entire EEA in the canned mushrooms sector, which consisted of
+price coordination and customer allocation:
+
+1. Bonduelle:
+
+(a) Bonduelle SCA, from 1 September 2010 until 28 February 2012
+
+(b) Bonduelle SAS, from 1 September 2010 until 28 February 2012
+
+(c) Bonduelle Conserve International SAS, from 1 September 2010 until 28 February
+2012
+
+(d) 2. Lutèce:
+
+(e) C4C Holding B.V., from 1 September 2010 until 22 December 2011
+
+(f) Lutèce Holding B.V., from 1 September 2010 until 22 December 2011
+
+(g) Lutèce B.V., from 1 September 2010 until 22 December 2011
+
+(h) 3. Prochamp
+
+(a) Peffer Holding B.V., from 1 September 2010 until 28 February 2012
+
+(b) Prochamp B.V., from 1 September 2010 until 28 February 2012.
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Bonduelle SCA, Bonduelle SAS and Bonduelle Conserve International SAS, jointly
+and severally: EUR 30 204 000;
+
+(b) C4C Holding B.V., Lutèce Holding B.V. and Lutèce B.V., jointly and severally EUR
+0;
+
+(c) Peffer Holding B.V. and Prochamp B.V., jointly and severally: EUR 2 021 000.
+
+The fines shall be credited in euros within a period of three months from the date of notification
+of this Decision to the following bank account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+
+EN 24 EN
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI /COMP/AT.39965
+
+After the expiry of this period, interest will automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee, or by making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.45
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred
+to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+(1) Bonduelle SCA, La Woëstyne, 59173 Renescure, France;
+
+(2) Bonduelle SAS, La Woëstyne, 59173 Renescure, France;
+
+(3) Bonduelle Conserve International SAS, La Woëstyne, 59173 Renescure,
+France.
+
+(4) C4C Holding B.V., Driekronenstraat 6, 6596 MA Milsbeek, The Netherlands;
+
+(5) Lutèce Holding B.V., Handelstraat 8, 5691 PV Horst, The Netherlands;
+
+(6) Lutèce B.V., Handelstraat 8, 5961 PV Horst, The Netherlands.
+
+(7) Peffer Holding B.V., Wertsteeg 10, 5331 PE Kerkdriel, The Netherlands;
+
+(8) Prochamp B.V., Laarstraat 2, 5334 NS Velddriel, The Netherlands.
+
+45 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L 362, 31.12.2012, p. 1).
+
+EN 25 EN
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 25.6.2014
+
+For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+EN 26 EN

@@ -1,0 +1,647 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSIONE DELLE COMUNITÀ EUROPEE
+
+Bruxelles, 29 XI 2006
+C(2006) 5700 def.
+
+DECISIONE DELLA COMMISSIONE
+
+del 29/11/2006
+
+relativa ad un procedimento a norma dell'articolo 81 del trattato CE
+e dell’articolo 53 dell’accordo SEE
+
+(Caso COMP/F/38.638 – Gomma butadiene e gomma stirene e butadiene del tipo
+emulsione)
+
+(I TESTI IN LINGUA TEDESCA, INGLESE, ITALIANA E POLACCA SONO I SOLI
+FACENTI FEDE)
+
+(Testo rilevante ai fini del SEE)
+
+IT IT
+
+DECISIONE DELLA COMMISSIONE
+
+del 29/XI/2006
+
+relativa ad un procedimento a norma dell'articolo 81 del trattato CE
+e dell’articolo 53 dell’accordo SEE
+
+(Caso COMP/F/38.638 – Gomma butadiene e gomma stirene e butadiene del tipo
+emulsione)
+
+LA COMMISSIONE DELLE COMUNITÀ EUROPEE,
+
+visto il trattato che istituisce la Comunità europea,
+
+visto l'accordo sullo Spazio economico europeo,
+
+visto il regolamento (CE) n. 1/2003 del Consiglio, del 16 dicembre 2002, concernente
+l'applicazione delle regole di concorrenza di cui agli articoli 81 e 82 del trattato1, in
+particolare l'articolo 7, paragrafo 1, e l'articolo 23, paragrafo 2,
+
+vista la decisione della Commissione del 12 aprile 2005 di avviare un procedimento nel caso
+di specie,
+
+dopo aver dato modo alle imprese interessate di manifestare il proprio punto di vista sugli
+addebiti mossi dalla Commissione in conformità all’articolo 27, paragrafo 1, del regolamento
+(CE) n. 1/2003 e del regolamento (CE) n. 773/2004 della Commissione, del 7 aprile 2004 ,
+relativo ai procedimenti svolti dalla Commissione a norma degli articoli 81 e 82 del trattato
+CE2,
+
+sentito il comitato consultivo in materia di intese e posizioni dominanti3,
+
+vista la relazione finale del consigliere auditore sul presente caso4,
+
+considerando quanto segue:
+
+A. INTRODUZIONE
+
+1. Osservazioni introduttive
+
+1 GU L 1 del 4.1.2003, pag. 1; regolamento modificato dal regolamento (CE) n. 411/2004 (GU L 68 del
+6.3.2004, pag. 1).
+2 GU L 123 del 27.4.2004, pag. 18.
+3 GU [...] del [...], pag.[...].
+4 GU [...] del [...], pag.[...].
+
+IT IT
+
+(1) La presente decisione è destinata alle seguenti imprese:
+
+– Bayer AG
+
+– The Dow Chemical Company
+
+– Dow Deutschland Inc.
+
+– Dow Deutschland Anlagengesellschaft mbH
+
+– Dow Europe GmbH
+
+– Eni SpA
+
+– Polimeri Europa SpA
+
+– Shell Petroleum NV
+
+– Shell Nederland BV
+
+– Shell Nederland Chemie BV
+
+– Kaucuk as
+
+– Unipetrol as
+
+– Trade-Stomil Ltd.
+
+(2) Nel periodo che inizia perlomeno il 20 maggio 1996 e prosegue perlomeno
+fino al 28 novembre 2002 i destinatari della presente decisione, produttori di
+gomma butadiene (BR) e/o gomma stirene butadiene del tipo emulsione
+(ESBR), hanno commesso un’infrazione complessa, di natura unica e
+continuata, all’articolo 81, paragrafo 1, del trattato e all’articolo 53, paragrafo
+1, dell’accordo SEE in ambito CE e SEE, dato che hanno concordato obiettivi
+di prezzo per i prodotti, si sono ripartiti clienti mediante accordi di
+non aggressione e si sono scambiati informazioni commerciali riservate
+concernenti prezzi, concorrenti e clienti.
+
+B. I FATTI
+
+2. Il settore industriale interessato dal procedimento
+
+2.1. I prodotti
+
+(3) La gomma butadiene (BR) è una gomma sintetica utilizzata principalmente
+nella produzione di pneumatici. Tra i vari gradi di BR, il principale
+(Buna cis 132) è utilizzato esclusivamente a tale scopo. Esistono vari gradi
+specialistici. Alcuni sono utilizzati anche per applicazioni diverse dagli
+pneumatici. Le caratteristiche della BR dipendono strettamente dal tipo di
+catalizzatore (neocis, cobalto, ecc.) usato nel processo di produzione.
+
+IT IT
+
+(4) La BR presenta una notevole elasticità e una buona resistenza all’abrasione.
+Date le sue specifiche caratteristiche di performance, la BR può essere
+sostituita unicamente da determinate gomme sintetiche. In alcune circostanze,
+ad esempio nella produzione di pneumatici, esiste una certa flessibilità per
+quanto concerne il contenuto di BR rispetto al contenuto della gomma stirene
+butadiene. Le parti sostengono che, per quanto concerne la sua prevista
+utilizzazione, la BR può essere interamente sostituita dalla gomma naturale.
+
+(5) La gomma stirene butadiene del tipo emulsione (ESBR) è una gomma sintetica
+utilizzata prevalentemente nella produzione di pneumatici. L'ESBR è prodotta
+in una serie di gradi diversi (1500, 1502, 1700, 1712, 1721 e altri). Il processo
+di fabbricazione varia da un grado all’altro. I due gradi principali sono
+1500/1502 e 1712.
+
+(6) In determinate circostanze l'ESBR può essere sostituita da altre gomme
+sintetiche, ad esempio nella produzione di pneumatici in cui vi è una certa
+flessibilità per quanto concerne il contenuto di ESBR rispetto a quello di BR e
+SSBR (gomma stirene butadiene del tipo soluzione). Le parti sostengono che,
+per quanto concerne la sua prevista utilizzazione, l'ESBR può essere
+interamente sostituita dalla gomma naturale.
+
+(7) Si può distinguere fra l'ESBR polimerizzata a freddo e quella polimerizzata a
+caldo. Quest’ultima è polimerizzata ad una temperatura più elevata della prima,
+per cui presenta una diversa struttura del peso molecolare nonché proprietà e
+capacità processuali differenti.
+
+(8) L'ESBR rientra nel gruppo delle SBR (gomme stirene butadiene). SBR è un
+termine generico per indicare vari tipi di gomme sintetiche, delle quali l'ESBR
+è di gran lunga la più importante. L’unico altro tipo di gomma appartenente al
+gruppo SBR, prodotto in quantità considerevoli, è la SSBR.
+
+(9) Sia la BR che l'ESBR sono prodotti presenti ormai da tempo sul mercato.
+La classificazione dei diversi tipi di ESBR è stata fatta dal governo statunitense
+nel 1939-40. Varie società europee hanno iniziato a produrre BR e ESBR negli
+anni Sessanta.
+
+2.2. Le imprese interessate dal presente procedimento
+
+2.2.1. Il gruppo Bayer
+
+(10) Bayer AG è la capofila del gruppo Bayer, composto da società attive in 150
+paesi. La sua sede principale è a Leverkusen (Germania).
+
+(11) Nel 2005 il fatturato totale del gruppo è stato di 27,383 miliardi di EUR5.
+
+(12) Il 30 settembre 2004 le attività BR e ESBR in seno al gruppo Bayer sono state
+trasferite ad una nuova società (Lanxess AG). Lanxess AG è stata controllata al
+100% da Bayer AG fino al 28 gennaio 2005, quando è stata collocata in borsa.
+Lanxess AG non è parte del presente procedimento.
+
+5 Bayer Geschäftsbericht 2005 incluso nel fax spedito dalla Bayer alla Commissione il 14 agosto 2005.
+
+IT IT
+
+(13) La BR è prodotta in tre stabilimenti di Bayer in Germania, Francia e Stati
+Uniti.
+(14) I principali tipi di ESBR (1500, 1712, 1721) sono fabbricati in uno
+stabilimento in Francia.
+
+(15) Per brevità, "Bayer" è la denominazione utilizzata in prosieguo per fare
+riferimento a qualsiasi società appartenente a Bayer AG.
+
+2.2.2. Il gruppo Dow (Dow Chemical Company, Dow Deutschland Inc., Dow
+Deutschland GmbH & Co. OHG – attualmente Dow Deutschland
+Anlagengesellschaft mbH – Dow Europe GmbH e Buna Sow Leuna Olefinverbund).
+
+(16) Il gruppo Dow è una società internazionale con sede principale nel Delaware,
+USA. The Dow Chemical Company ne è la capofila.
+
+(17) Nel 2005 il fatturato di The Dow Chemical Company è stato di 37,221 miliardi
+di EUR.
+
+(18) Le attività BR e ESBR in seno al gruppo Dow sono svolte, o sono state svolte,
+tra l'altro, dalle società che seguono.
+
+(19) Dow Deutschland Inc., è una controllata al 100% di The Dow Chemical
+Company. Nel 2005 ha realizzato un fatturato [fra 5 e 10 millioni] di EUR.
+Nel 1996 Dow Deutschland Inc. è diventata responsabile della
+commercializzazione della BR e dell'ESBR prodotte da Buna Sow Leuna
+Olefinverbund (BSL), società costituita nell’agosto 1995 in seguito alla fusione
+di un certo numero di produttori più piccoli di gomma sintetica della Germania
+orientale. Per la BR e l'ESBR l’accordo di commercializzazione è stato
+applicato il 1o luglio 1996. Dow ha acquisito l’80% delle azioni di BSL
+il 1o settembre 1997 e ha acquistato il rimanente 20% dal governo tedesco
+il 1o giugno 2000. [omesso] è stato messo a disposizione di Dow
+Deutschland Inc. a partire dall'applicazione dell'accordo di
+commercializzazione. Il 1o ottobre 1997 [omesso] è diventato un dipendente di
+Dow Deutschland Inc. BSL, dopo il 1o settembre 1997, continua ad esistere
+quale controllata di Dow, tuttavia non partecipa più alle vendite né alla
+commercializzazione di BR o di ESBR. Nel 2003 BSL ha cambiato la propria
+denominazione in Dow Olefinverbund GmbH.
+
+(20) Dow Deutschland Anlagengesellschaft mbH, ha operato fino al 15 marzo 2001
+con la denominazione Dow Deutschland Anlagen GmbH e fino al 15
+novembre 2005 con la denominazione Dow Deutschland GmbH & Co. OHG.
+Anch'essa è posseduta al 100% da The Dow Chemical Company attraverso una
+serie di controllate. Nel 2005 ha realizzato un fatturato [fra 3 000 e 4 000
+millioni] di EUR.
+
+(21) Dow Europe GmbH, società ubicata in Svizzera, indirettamente posseduta
+al 100% da The Dow Chemical Company, che ha operato fino al 29 novembre
+2001 con la denominazione Dow Europe SA. Nel 2005 ha realizzato un
+fatturato [fra 4 000 and 8 000 millioni] di EUR.
+
+(22) La BR è prodotta nell’ex stabilimento Buna di Schkopau (Germania).
+
+IT IT
+
+(23) L'ESBR è prodotta a Schkopau (Germania) e in un altro stabilimento situato a
+Pernis (Paesi Bassi).
+
+(24) Dow ha esteso le sue attività nel settore della BR e ESBR in seguito
+all’acquisizione di The South African Company Sentrachem (Karbochem) nel
+1997 e del ramo gomma sintetica di Shell il 1o giugno 1999.
+
+(25) Per brevità, "Dow" è la denominazione utilizzata in prosieguo per fare
+riferimento a qualsiasi società appartenente a The Dow Chemical Company.
+
+2.2.3. Il gruppo Eni (Eni SpA, Polimeri Europa SpA)
+
+(26) Eni SpA è la capogruppo del gruppo Eni.
+
+(27) Nell’ambito del gruppo ENI, le attività BR/ESBR inizialmente (dal 1991)
+erano state affidate a EniChem Elastomeri Srl, società che ENI SpA
+indirettamente controllava al 100% attraverso EniChem SpA (la società madre
+al 100% di EniChem Elastomeri Srl). A partire dal 1o novembre 1997 EniChem
+Elastomeri Srl è stata fusa con EniChem SpA.
+
+(28) Dal 13 aprile 1995 al 31 dicembre 1997 Eni SpA ha detenuto il 99,97% di
+EniChem SpA, di cui il 59,74% indirettamente attraverso le sue
+controllate Agip SpA e Snam SpA.
+
+(29) Il 31 dicembre 1997 Eni SpA e Agip SpA si sono fuse. Benché Eni SpA
+continuasse a controllare il 99,97% di EniChem SpA, la quota indirettamente
+posseduta è diminuita al 29,87% (attraverso la sua controllata Snam).
+
+(30) Il 1o gennaio 2002 EniChem SpA ha trasferito il ramo "Strategic Chemical
+Activity" (incluse la BR e l'ESBR) assieme ad altre attività alla sua controllata
+al 100% Polimeri Europa SpA.
+
+(31) Il 21 ottobre 2002 Eni SpA ha acquisito il pieno possesso diretto di Polimeri
+Europa.
+
+(32) Il 30 aprile 2003 EniChem SpA ha cambiato denominazione, diventando
+Syndial. Le attività di Syndial attualmente si limitano "alla gestione di
+partecipazioni azionarie non strategiche in vista della loro vendita a terzi o
+della loro liquidazione; alla vendita di stabilimenti attivi a terzi o alla chiusura
+e messa in sicurezza degli stessi; allo smantellamento di impianti chiusi e al
+risanamento di siti contaminati; alla gestione di servizi e di servizi pubblici in
+stabilimenti comuni in vista della loro conversione in servizi a terzi o nella
+creazione di consorzi; alla gestione di controversie pendenti".
+
+(33) Nel 2005 il fatturato di ENI SpA è stato di 73,738 miliardi di EUR.
+
+(34) Nel 2001 il fatturato di EniChem SpA è stato di 4,762 miliardi di EUR.
+Nel 2002 è ammontato a 1,007 miliardi di EUR. Nel 2003 il fatturato di
+Syndial è stato di 0,671 miliardi di EUR. Nel 2004 è ammontato a 0,739
+miliardi di EUR. Nel 2005 è stato di 0,860 miliardi di EUR. Nel corso
+dell'ultimo esercizio finanziario le perdite operative di Syndial sono passate
+
+IT IT
+
+aumentate di 111 867 EUR, passando a 384 287 EUR. Le perdite nette sono
+state di 883 410 EUR.
+
+(35) Il fatturato di Polimeri Europa SpA è stato di 1,457 miliardi di EUR nel 2001,
+di 4,516 miliardi di EUR nel 2002, di 4,489 miliardi di EUR nel 2003, di 5,417
+miliardi di EUR nel 2004 e di 6,257 miliardi di EUR nel 2005. I profitti netti
+sono ammontati a 164 milioni di EUR.
+
+(36) "EniChem" è la denominazione utilizzata in prosieguo per fare riferimento a
+qualsiasi società appartenente a Eni SpA.
+
+(37) La BR e l'ESBR sono prodotte presso gli stabilimenti di Ravenna (Italia) e di
+Hythe (Regno Unito).
+
+2.2.4. Il gruppo Shell (Shell Petroleum NV, Shell Nederland BV, Shell Nederland
+Chemie BV)
+
+(38) Il gruppo Shell è un gruppo globale di società energetiche e petrolchimiche.
+Dal 20 luglio 2005 il gruppo appartiene a un'unica società madre, Royal Dutch
+Shell plc, con sede principale all'Aia (Paesi Bassi). Nella nuova struttura Shell
+Petroleum NV è una controllata al 100% di Royal Dutch Shell plc e funge da
+società holding per il resto del gruppo. Shell ha confermato che il fatturato di
+Shell Petroleum NV è uguale a quello di Royal Dutch Shell plc. Prima della
+ristrutturazione Shell Petroleum NV è stata una delle principali holding del
+gruppo Shell e la destinataria delle due comunicazioni degli addebiti.
+
+(39) Fino alla vendita a Dow, in data 1o giugno 1999, delle sue attività nel ramo
+della gomma sintetica, Shell ha prodotto e venduto ESBR e BR.
+
+(40) Shell Nederland Chemie BV commercializzava BR e ESBR. La società era ed
+è tuttora una controllata al 100% di Shell Nederland BV, che a sua volta
+appartiene interamente a Shell Petroleum NV.
+
+(41) Nel 2005 Shell Nederland Chemie BV ha realizzato un fatturato netto totale
+di 1,186 miliardi di EUR.
+
+(42) Nel 2005 Shell Nederland BV ha realizzato un fatturato
+di 28,827 miliardi di EUR.
+
+(43) Nel 2005 il fatturato di Shell Petroleum NV è stato di 246,549 miliardi di EUR.
+
+(44) Per brevità, "Shell" è la denominazione utilizzata in prosieguo per fare
+riferimento a qualsiasi società appartenente a Royal Dutch Shell plc.
+
+2.2.5. Kaucuk as e la sua società madre Unipetrol as
+
+(45) Kaucuk as ("Kaucuk") è un'impresa ceca di produzione di ESBR, situata a
+Praga e costituita nel 1997 in seguito alla fusione tra Kaucuk Group as e
+Chemopetrol Group as. Non produce BR.
+
+IT IT
+
+(46) Il 21 luglio 1997 Unipetrol as ("Unipetrol") ha acquisito tutti i beni, i diritti e
+gli obblighi delle società fuse. Unipetrol as detiene il 100% delle azioni di
+Kaucuk as.
+
+(47) Nel 2005 il fatturato di Kaucuk as è stato di 343,721 milioni di EUR.
+
+(48) Nel 2005 il fatturato di Unipetrol as è stato di 2,718 miliardi di EUR.
+
+(49) Tavorex sro ("Tavorex") era un’agenzia ceca sorta da Chemapol,
+l’organizzazione monopolistica ceca per il commercio estero. [omesso] Il 7
+giugno 2005 la Commissione ha avviato il procedimento nei confronti della
+società. Poiché nell'ottobre 2004 Tavorex è stata posta in scioglimento
+volontario, la Commissione ha chiuso il procedimento nei suoi confronti.
+
+(50) "Kaucuk" è inoltre la denominazione utilizzata in prosieguo per fare
+riferimento a qualsiasi società appartenente a Unipetrol e ai loro agenti.
+
+2.2.6. Trade-Stomil Ltd.
+
+(51) Trade-Stomil Ltd. (ex Ciech-Stomil Ltd.) è un’agenzia polacca sorta dal
+monopolio di Stato per le e
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Stomil di partecipare al sistema di cartello in generale e a
+una serie di riunioni.
+
+(497) Kaucuk e Stomil non hanno potuto dimostrare di essersi sistematicamente e
+manifestamente astenute dall'applicare gli accordi restrittivi74.
+
+(498) Non può essere attribuito alcun effetto attenuante all'imposizione di un dazio
+antidumping a Kaucuk in Polonia, in quanto nel periodo in questione la
+Polonia non era uno Stato membro e quindi non rientrava nell'ambito
+geografico dell'infrazione.
+
+11. Applicazione del limite del 10% del fatturato
+
+(499) Ai sensi dell’articolo 23, paragrafo 2, del regolamento (CE) n. 1/2003 "per
+ciascuna impresa o associazione di imprese partecipanti all'infrazione,
+l'ammenda non deve superare il 10 % del fatturato totale realizzato durante
+l'esercizio sociale precedente".
+
+(500) Il fatturato mondiale di Stomil nel 2005 è stato di 38,0189 milioni di EUR.
+L'ammenda inflitta a Stomil non può pertanto essere superiore a 3,80189
+milioni di EUR.
+
+12. Applicazione della comunicazione sul trattamento favorevole del 2002
+
+(501) Bayer e Dow hanno presentato richiesta ai sensi della comunicazione sul
+trattamento favorevole e hanno cooperato con la Commissione in varie fasi
+dell'indagine al fine di ottenere il trattamento favorevole ivi previsto. In questa
+sezione sarà trattata anche la richiesta di Shell di considerare favorevolmente la
+sua cooperazione effettiva durante il procedimento (v. punto (492)).
+
+(502) Per quanto concerne Bayer e Dow, le richieste di trattamento favorevole
+presentate da soggetti appartenenti a tali imprese sono considerate, nella
+fattispecie, estese anche agli altri destinatari della stessa impresa, dato che
+appartengono all'entità economica ritenuta responsabile dell'infrazione e che
+non vi è motivo per non estendere il trattamento favorevole anche a loro.
+
+12.1. Bayer
+
+(503) [omesso]
+
+(504) [omesso], la Commissione è stata in grado di svolgere un'indagine a norma
+dell'articolo 14, paragrafo 3, del regolamento n. 17 del 27 marzo 2003. Bayer
+ha cooperato pienamente, in maniera permanente e tempestiva, durante l’intero
+procedimento amministrativo della Commissione e ha fornito a quest'ultima
+tutte le prove in suo possesso della sospettata infrazione, indicando i particolari
+di riunioni svoltesi tra i concorrenti per entrambi i prodotti e permettendo alla
+Commissione di dimostrare l’esistenza di un cartello per i due prodotti. Bayer
+ha smesso di partecipare alla sospettata infrazione al più tardi alla data in cui
+
+74 V. sentenza del 15 marzo 2006 nella causa T-26/02, Daiichi Pharmaceutical/Commissione, non ancora
+pubblicata, punto 113 e sentenza del 25 ottobre 2005 nella causa T-38/02 Groupe
+Danone/Commissione, non ancora pubblicata, punto 385.
+
+IT IT
+
+ha presentato le prove ai sensi del punto 8, lettera a), della comunicazione sul
+trattamento favorevole e non ha agito in alcun modo per costringere altre
+imprese a partecipare all'infrazione. Si deve quindi concedere piena immunità
+a Bayer dall’ammenda che altrimenti le sarebbe stata inflitta.
+
+12.2. Dow
+
+(505) Dow è stata la seconda impresa a contattare la Commissione ai sensi della
+comunicazione sul trattamento favorevole [omesso] e la prima impresa a
+soddisfare i requisiti di cui al punto 21 di detta comunicazione [omesso] |
+
+(506) Dow ha smesso di partecipare all'infrazione al più tardi alla data in cui ha
+presentato le prove e la sua partecipazione è cessata definitivamente.
+
+(507) [omesso]
+(508) Nel fissare il livello dell’ammenda entro la forcella del 30-50%, la
+Commissione tiene conto sia della data in cui le sono state fornite le prove di
+significativo valore aggiunto che dell'entità e della continuità della
+cooperazione dimostrata dall'impresa dopo aver fornito tali prove.
+(509) Dow ha presentato la richiesta a seguito dell'accertamento effettuato nei suoi
+locali il 27 marzo 2003. In tale occasione la Commissione aveva copiato varie
+serie di appunti manoscritti che sono stati usati nella presente decisione come
+prove per dimostrare l'esistenza del cartello.
+
+(510) [I paragrafi 510-512 sono omessi, così come le referenze incrociate a detti
+paragrafi e le note a pie' di pagina rilevanti]
+
+(513) Sulla base di quanto precede, a Dow deve essere concessa una riduzione del
+40% dell’ammenda che altrimenti le sarebbe stata inflitta.
+
+12.3. Shell
+
+(514) Shell non ha presentato richiesta di trattamento favorevole ai sensi della
+relativa comunicazione . Tuttavia, come spiegato al punto (492), la sua
+cooperazione deve essere presa in considerazione alla stregua della
+comunicazione sul trattamento favorevole.
+
+(515) Nella risposta alla prima comunicazione degli addebiti Shell [omesso]
+
+(516) Shell chiede di essere ricompensata per la cooperazione volontaria. Tuttavia le
+informazioni fornite da Shell sono state presentate quando ormai non
+costituivano più un valore aggiunto significativo rispetto alle prove già in
+possesso della Commissione, in quanto la Commissione era già in grado di
+dimostrare tutti gli elementi principali dell'infrazione e le informazioni fornite
+volontariamente da Shell non le hanno permesso di provare alcun nuovo
+elemento significativo dell'infrazione.
+
+(517) In conclusione, le informazioni presentate da Shell non apportano un valore
+aggiunto significativo, in base al quale si debba concedere una riduzione
+dell'ammenda ai sensi della comunicazione sul trattamento favorevole.
+
+IT IT
+
+13. Importi delle ammende inflitte nel presente procedimento
+
+(518) Le ammende da infliggere ai sensi dell’articolo 23, paragrafo 2, del
+regolamento (CE) n. 1/2003 sono le seguenti:
+
+– Bayer EUR 0
+
+– Enichem EUR 272 250 000
+
+– Dow
+
+– The Dow Chemical Company EUR 64 575 000
+
+di cui in solido con
+
+– Dow Deutschland Inc. per EUR 60 270 000
+
+– Dow Deutchland Anlagengesellschaft mbH per
+
+EUR 47 355 000
+
+– Dow Europe GmbH per EUR 47 355 000
+
+– Shell EUR 160 875 000
+
+– Kaucuk EUR 17 550 000
+
+– Stomil EUR 3 800 000
+
+IT IT
+
+HA ADOTTATO LA PRESENTE DECISIONE:
+
+Articolo 1
+
+Le imprese sotto elencate hanno violato l’articolo 81 del trattato e l’articolo 53 dell’accordo
+SEE, nei periodi rispettivamente indicati, commettendo un’infrazione unica e continuata,
+estesa all'intero ambito del SEE, consistente nel concordare obiettivi di prezzo per i prodotti,
+nella ripartizione dei clienti mediante accordi di non aggressione e nello scambio di
+informazioni commerciali riservate concernenti prezzi, concorrenti e clienti nei settori della
+gomma butadiene e della gomma stirene butadiene del tipo emulsione:
+
+(a) Bayer AG, dal 20 maggio 1996 al 28 novembre 2002;
+
+(b) Dow: The Dow Chemical Company, dal 1o luglio 1996 al 28 novembre 2002,
+Dow Deutschland Inc., dal 1o luglio 1996 al 27 novembre 2001, Dow
+Deutschland Anlagengesellschaft mbH, dal 22 febbraio 2001
+al 28 febbraio 2002 e Dow Europe GmbH, dal 26 novembre 2001
+al 28 novembre 2002;
+
+(c) Enichem: Eni SpA dal 20 maggio 1996 al 28 novembre 2002 e Polimeri
+Europa SpA, dal 20 maggio 1996 al 28 novembre 2002;
+
+(d) Shell Petroleum NV, dal 20 maggio 1996 al 31 maggio 1999, Shell
+Nederland BV, dal 20 maggio 1996 al 31 maggio 1999 e Shell Nederland
+Chemie BV, dal 20 maggio 1996 al 31 maggio 1999;
+
+(e) Kaucuk: Unipetrol as, dal 16 novembre 1999 al 28 novembre 2002 and
+Kaucuk as, dal 16 novembre 1999 al 28 novembre 2002;
+
+(f) Stomil: Trade-Stomil Ltd, dal 16 novembre 1999 al 22 febbraio 2000.
+
+Articolo 2
+
+Per le infrazioni di cui all’articolo 1 sono inflitte le seguenti ammende:
+
+(a) Bayer AG: 0 milioni di EUR;
+
+(b) The Dow Chemical Company: 64,575 milioni di EUR, di cui
+
+i) 60,27 milioni di EUR in solido con Dow Deutschland Inc.
+
+ii) 47,355 milioni di EUR in solido con Dow Deutschland
+Anlagengesellschaft mbH e Dow Europe GmbH;
+
+(c) Eni SpA e Polimeri Europa SpA in solido: 272,25 milioni di EUR;
+
+(d) Shell Petroleum NV, Shell Nederland BV e Shell Nederland Chemie BV in
+solido: 160,875 milioni di EUR;
+
+IT IT
+
+(e) Unipetrol as e Kaucuk as in solido: 17,55 milioni di EUR;
+
+(f) Trade-Stomil Ltd 3,8 milioni di EUR.
+
+Le ammende sono pagate in Euro entro tre mesi dalla data di notifica della presente decisione,
+mediante versamento sul seguente conto bancario:
+
+Conto corrente n.
+
+642-0029000-95 della Commissione europea presso:
+
+Banco Bilbao Vizcaya Argentaria S.A., Avenue des Arts 43, B-1040 Bruxelles
+
+(CODICE SWIFT BBVABEBB – Codice IBAN BE76 6420 0290 0095)
+
+Scaduto detto termine, sono automaticamente dovuti gli interessi, al tasso applicato dalla
+Banca centrale europea alle sue principali operazioni di rifinanziamento il primo giorno del
+mese in cui è adottata la presente decisione, maggiorato di 3,5 punti percentuali, e quindi
+nella misura del 6.8%.
+
+Articolo 3
+
+Le imprese di cui all'articolo 1 pongono immediatamente fine alle infrazioni constatate,
+qualora non vi abbiano ancora provveduto.
+
+Esse si astengono dal ripetere qualsiasi atto o comportamento di cui all'articolo 1 e da
+qualsiasi atto o comportamento che abbia oggetto o effetto identico o analogo.
+
+Articolo 4
+
+Sono destinatarie della presente decisione le seguenti imprese:
+
+BAYER AG
+DE-51368 Leverkusen
+
+THE DOW CHEMICAL COMPANY
+2030 Dow Center,
+USA – Midland MI 48674
+
+DOW DEUTSCHLAND INC,
+Am Kronberger Hang 4,
+DE–65824 Schwalbach/TS
+
+DOW DEUTSCHLAND ANLAGENGESELLSCHAFT mbH
+Am Kronberger Hang 4,
+DE-65824 Schwalbach/TS
+
+DOW EUROPE GmbH
+
+IT IT
+
+Bachtobelstrasse 3,
+CH-8810 Horgen
+
+ENI SpA
+Piazzale Enrico Mattei 1,
+I-00144 Roma
+
+POLIMERI EUROPA SpA
+Via Enrico Fermi 4,
+I-72100 Brindisi
+
+SHELL PETROLEUM NV
+Carel van Bylandtlaan 30,
+NL-2596 HR The Hague
+
+SHELL NEDERLAND BV
+Carel van Bylandtlaan 30,
+NL-2596 HR The Hague
+
+SHELL NEDERLAND CHEMIE BV
+Vondelingenweg 601,
+NL-3196 KK Rotterdam
+
+UNIPETROL as
+Klimentska 10,
+Czech Republic - 110 05 Praha 1
+
+KAUCUK as
+O. Wichterleho 810,
+Czech Republic - 27852 Kralupy nad Vltavou
+
+TRADE-STOMIL LTD
+74,6 Sierpnia, P.O.Box 118
+Poland - 90-646 Lodz
+
+La presente decisione costituisce titolo esecutivo a norma dell'articolo 256 del trattato.
+
+Fatto a Bruxelles, 29 XI 2006.
+
+Per la Commissione
+Neelie KROES
+Membro della Commissione
+
+IT IT

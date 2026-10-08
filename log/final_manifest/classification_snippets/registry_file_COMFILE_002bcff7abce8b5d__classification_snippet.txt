@@ -1,0 +1,496 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+BESCHLUSS DER KOMMISSION
+
+vom 18. Dezember 2013
+
+gerichtet an
+
+- Deutsche Bahn AG,
+- DB Energie GmbH,
+- DB Mobility Logistics AG,
+- DB Fernverkehr AG und
+- DB Schenker Rail Deutschland AG
+
+in einem Verfahren nach Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union (AEUV)
+
+COMP/AT.39678/Deutsche Bahn I und
+COMP/AT.39731/Deutsche Bahn II
+
+(Nur der deutsche Text ist verbindlich)
+
+NICHT-VERTRAULICHE VERSION
+
+DE 1 DE
+
+DIE EUROPÄISCHE KOMMISSION –
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten
+Wettbewerbsregeln1, insbesondere auf Artikel 9 Absatz 1,
+
+gestützt auf den Beschluss der Kommission vom 13. Juni 2012 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nachdem in der vorläufigen Beurteilung vom 6. Juni 2013 Bedenken geäußert wurden,
+
+nachdem interessierten Dritten nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003
+Gelegenheit gegeben wurde, zu den Verpflichtungen Stellung zu nehmen, die angeboten
+wurden, um diese Bedenken auszuräumen,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten,
+
+in Erwägung nachstehender Gründe:
+
+1. GEGENSTAND
+
+(1) Dieser Beschluss ist an die Deutsche Bahn AG und ihre Tochtergesellschaften
+DB Energie GmbH (DB Energie), DB Mobility Logistics AG, DB Fernverkehr AG
+und DB Schenker Rail Deutschland AG2 gerichtet. Er betrifft das von der
+DB Energie gegenüber in Deutschland tätigen Eisenbahnunternehmen für die
+Bereitstellung von Bahnstrom verwendete Preissystem einschließlich der Rabatte.
+Bei Bahnstrom handelt es sich um eine spezifische Form von Elektrizität für den
+Antrieb von Lokomotiven.
+
+(2) In ihrer vorläufigen Beurteilung vom 6. Juni 2013 war die Europäische Kommission
+(nachstehend „Kommission“) zu der vorläufigen Schlussfolgerung gelangt, dass das
+Bahnstrompreissystem wegen einer Margenbeschneidung auf den Märkten für
+Schienengüter- und Personenfernverkehr Bedenken hinsichtlich seiner Vereinbarkeit
+mit Artikel 102 AEUV aufwerfen könnte.
+
+1 ABl. L 1 vom 4.1.2003, S. 1. Mit Wirkung vom 1. Dezember 2009 sind an die Stelle von Artikel 81 und
+82 EG-Vertrag Artikel 101 und 102 des Vertrags über die Arbeitsweise der Europäischen Union
+(nachfolgend als „AEUV“ bezeichnet) getreten. Die Artikel 81 und 82 EG-Vertrag und die Artikel 101
+und 102 AEUV sind im Wesentlichen identisch. Im Rahmen dieses Beschlusses sind Bezugnahmen auf
+die Artikel 101 und 102 AEUV als Bezugnahmen auf die Artikel 81 und 82 EG-Vertrag zu verstehen,
+wo dies angebracht ist. Der AEUV hat auch bestimmte terminologische Änderungen wie zum Beispiel
+die Ersetzung von „Gemeinschaft“ durch „Union“ und von „Gemeinsamer Markt“ durch
+„Binnenmarkt“ mit sich gebracht. In diesem Beschluss werden durchgehend die Begriffe des AEUV
+verwendet, wo die Bedeutung unverändert ist.
+2 Deutsche Bahn AG und alle ihre Tochtergesellschaften werden nachstehend zusammengefasst als „DB-
+Konzern“ bezeichnet.
+
+DE 2 DE
+
+2. DIE PARTEIEN
+
+(3) Die Deutsche Bahn AG ist die Konzernmutter der Tochtergesellschaften, die
+Logistik- und Schienenverkehrsleistungen erbringen, und fungiert als
+Holdinggesellschaft eines Konzerns, dem u. a. die im Eisenbahnsektor tätigen
+Unternehmen DB Energie GmbH, DB Mobility Logistics AG, DB Fernverkehr AG
+und DB Schenker Rail Deutschland AG angehören (nachstehend „DB-Konzern“). In
+einer vertikal integrierten Holding-Struktur vereint sie Infrastrukturmanagement und
+Personen- und Güterverkehrsdienstleistungen. Die Deutsche Bahn AG ist eine
+Aktiengesellschaft nach deutschem Gesellschaftsrecht und steht in 100%igem
+Eigentum der Bundesrepublik Deutschland.
+
+(4) Zum Kerngeschäft des DB-Konzerns gehört die Erbringung von
+Schienenverkehrsleistungen im Schienengüterverkehr und in der
+Personenbeförderung in Deutschland. Die wichtigsten Tochtergesellschaften des DB-
+Konzerns in diesen Geschäftsfeldern sind die DB Schenker Rail Deutschland AG
+(Schienengüterverkehr), die DB Regio AG (regionaler Personenverkehr) und die DB
+Fernverkehr AG (Fernverkehrsleistungen auf der Schiene). DB Schenker Rail
+Deutschland AG, DB Regio AG und DB Fernverkehr AG sind alle 100%ige
+Tochtergesellschaften der Holdinggesellschaft DB Mobility Logistics AG, die
+wiederum in alleinigem Eigentum der Deutschen Bahn AG steht3.
+
+(5) Der DB-Konzern betreibt die Schieneninfrastruktur und die damit verbundenen
+Serviceanlagen über seine Tochtergesellschaften DB Netz AG, DB Station&Service
+AG und DB Energie4. Die DB Netz AG ist für die Verwaltung und Instandhaltung
+eines Schienennetzes von 33 000 Trassenkilometern in Deutschland zuständig. Die
+DB Station & Service AG ist für Betrieb und Management von 5400 Bahnhöfen
+zuständig. Die DB Energie verwaltet und unterhält eine 7700 km umfassende
+Infrastruktur zur Bahnstromversorgung. Das Unternehmen versorgt außerdem
+Eisenbahnunternehmen mit Bahnstrom und Diesel5.
+
+3. VERFAHRENSSCHRITTE NACH VERORDNUNG (EG) NR. 1/2003
+
+(6) Die Kommission leitete die Untersuchung zum Bahnstrompreissystem ein, nachdem
+sie zwischen Mai 2009 und Mai 2011 drei Beschwerden erhalten hatte. Am 11. Mai
+2009 erhielt die Kommission eine Beschwerde von [Name des Beschwerdeführers],
+einem Schienenverkehrsdienstleister und Wettbewerber des DB-Konzerns6. Ferner
+ging am 25. September 2009 eine Beschwerde des Netzwerks Europäischer
+Eisenbahnen e.V. (NEE)7, eines deutschen Interessenverbands privater Güterbahnen,
+ein. Am 25. Mai 2011 ging eine weitere Beschwerde ein. Sie stammte von Raileco,
+einem Zusammenschluss von Eisenbahnverkehrsunternehmen, die nicht zum DB-
+
+3 Deutsche Bahn, Geschäftsbericht 2012, S. 55 und 258 ff.
+4 Deutsche Bahn, Geschäftsbericht 2012, S. 55, 62 und 258 ff.
+5 Deutsche Bahn, Geschäftsbericht 2011, S. 68 und Deutsche Bahn, Geschäftsbericht 2012, S. 132 ff.
+6 Beschwerde von [Name des Beschwerdeführers] in der Sache AT.39678, ID 2.
+7 Formal wurde die Beschwerde vom Netzwerk Privatbahnen e.V. eingereicht, der jedoch im November
+2011 ohne Auswirkungen auf die Rechtspersönlichkeit seinen Namen in Netzwerk Europäischer
+Eisenbahnen e.V. änderte.
+
+DE 3 DE
+
+Konzern gehören, und dessen Ziel darin besteht, gemeinsam Bahnstrom
+einzukaufen8.
+
+(7) In der Zeit vom 29. März bis zum 1. April 2011 nahm die Kommission
+unangekündigte Nachprüfungen nach Artikel 20 der Verordnung (EG) Nr. 1/2003 bei
+der Deutschen Bahn AG und den Tochtergesellschaften DB Mobility Logistics AG,
+DB Energie, DB Schenker Rail Deutschland AG und DB Schenker Rail GmbH in
+Berlin, Frankfurt und Mainz vor.
+
+(8) Am 13. Juni 2012 leitete die Kommission ein Verfahren zum Erlass eines
+Beschlusses nach Kapitel III der Verordnung (EG) Nr. 1/2003 ein. Am 6. Juni 2013
+nahm die Kommission eine vorläufige Beurteilung nach Artikel 9 Absatz 1 der
+Verordnung (EG) Nr. 1/2003 an, in der sie ihre wettbewerbsrechtlichen Bedenken
+hinsichtlich eines möglichen Verstoßes gegen Artikel 102 AEUV durch die DB
+darlegte. Die Bedenken galten einer möglichen Margenbeschneidung auf den
+Märkten für Schienengüter- und Personenfernverkehr durch das von der DB
+angewandte Preis- und Rabattsystem für Bahnstrom. Diese vorläufige Beurteilung
+wurde der Deutschen Bahn AG und ihren Tochtergesellschaften DB Energie GmbH,
+DB Mobility Logistics AG, DB Fernverkehr AG und DB Schenker Rail
+Deutschland AG am 6. Juni 2013 übermittelt.
+
+(9) Als Reaktion auf die vorläufige Beurteilung bot der DB-Konzern der Kommission
+am 23. Juli 2013 an, Verpflichtungen einzugehen.
+
+(10) Am 15. August 2013 wurde nach Artikel 27 Absatz 4 der Verordnung (EG)
+Nr. 1/2003 eine Mitteilung mit einer Zusammenfassung des Falls und der
+Verpflichtungen im Amtsblatt der Europäischen Union veröffentlicht, in der
+interessierte Dritte aufgefordert wurden, innerhalb eines Monats nach der
+Veröffentlichung zu den Verpflichtungsangeboten Stellung zu nehmen9.
+
+(11) Am 25. September 2013 informierte die Kommission den DB-Konzern über die
+Stellungnahmen, die von interessierten Dritten nach der Veröffentlichung der
+Mitteilung abgegeben worden waren. Am 21. November 2013 legte der DB-Konzern
+geänderte Verpflichtungszusagen vor und am 17. Dezember 2013 legte er endgültige
+unterzeichnete Verpflichtungszusagen vor.
+
+(12) Am 12. Dezember 2013 wurde der Beratende Ausschusses für Kartell- und
+Monopolfragen angehört.
+
+(13) Am 13. Dezember 2013 erstellte der Anhörungsbeauftragte seinen Abschlussbericht.
+
+4. VORLÄUFIGE BEURTEILUNG
+
+(14) Nach Prüfung der im Laufe der Untersuchung gesammelten Beweise erhob die
+Kommission Bedenken, dass der DB-Konzern seine beherrschende Stellung auf dem
+Markt für die Bahnstromversorgung in Deutschland unter Verstoß gegen Artikel 102
+AEUV missbräuchlich ausgenutzt haben könnte, indem er Wettbewerbern auf den
+
+8 Beschwerde von Raileco in der Sache AT.39915, ID 3. Im Jahr 2011 hatte Raileco 26 Mitglieder.
+9 ABl. C 237 vom 15.8.2013, S. 28.
+
+DE 4 DE
+
+Schienenverkehrsmärkten Bahnstrompreise in Rechnung gestellt hat, die eine
+Margenbeschneidung verursachten.
+
+(15) Eine Margenbeschneidung kann vorliegen, wenn ein vertikal integriertes
+Unternehmen ein Produkt oder eine Dienstleistung auf einem vorgelagerten Markt,
+auf dem es eine beherrschende Stellung innehat, an Unternehmen verkauft, mit denen
+es auf dem nachgelagerten Markt, für den das betreffende Produkt bzw. die
+betreffende Dienstleistung eine Vorleistung darstellt, im Wettbewerb steht. Eine
+Margenbeschneidung stellt einen gegen Artikel 102 AEUV verstoßenden Missbrauch
+dar, wenn die Differenz zwischen dem Preis, der auf dem vorgelagerten Markt den
+Wettbewerbern berechnet wird, und dem Preis, der den eigenen Kunden des
+marktbeherrschenden Unternehmens auf dem nachgelagerten Markt berechnet wird,
+für Wettbewerber, die ebenso effizient wie das marktbeherrschende Unternehmen
+sind, entweder negativ ist oder nicht ausreichen würde, um die spezifischen Kosten
+zu decken, die das marktbeherrschende Unternehmen zur Erbringung seiner eigenen
+Produkte und Dienstleistungen auf dem nachgelagerten Markt tragen muss.10 Wie in
+der Rechtsprechung festgehalten wird, liefen „die Wettbewerber – selbst wenn sie
+ebenso effizient wie das beherrschende Unternehmen wären – (...) dann nämlich
+Gefahr, auf dem Endkundenmarkt nur mit Verlust oder mit künstlich eingeschränkter
+Rentabilität operieren zu können“11.
+
+4.1. Der Bahnstrom im Kontext
+
+Das Bahnstromnetz
+
+(16) In Deutschland wird der für den elektrischen Zugbetrieb erforderliche Bahnstrom
+über ein Oberleitungsnetz als Einphasenwechselstrom mit einer Frequenz von
+16,7 Hz und einer Spannung von 15 kV bereitgestellt.12 Diese Art Strom wird als
+Bahnstrom bezeichnet. Der Bahnstrom unterscheidet sich aufgrund seiner geringeren
+Frequenz von dem normalen für Haushalte bestimmten Strom, der eine Frequenz von
+50 Hz besitzt.13 Für die Versorgung von Eisenbahnunternehmen mit dieser Art Strom
+ist folglich ein separates, spezifisches Netz erforderlich, mit dem das
+Oberleitungsnetz (über Umrichter) mit dem normalen Stromnetz oder mit
+Kraftwerken, die direkt Strom mit einer Frequenz von 16,7 Hz produzieren,
+verbunden wird.
+
+(17) Die DB Energie nimmt zwei wichtige Aufgaben im deutschen Schienenverkehr
+wahr: Sie betreibt das für die Bahnstromverteilung erforderliche elektrische Netz und
+beliefert Eisenbahnverkehrsunternehmen mit Bahnstrom, indem sie Strom von
+Energieerzeugern einkauft und diesen an Eisenbahnunternehmen weiterverkauft.
+
+(18) In der Regel liefert die DB Energie den Eisenbahnverkehrsunternehmen Bahnstrom
+zu einem festen Preis pro KWh. Die Lieferung von Bahnstrom wird nach einem nach
+
+10 Urteil des Gerichtshofs vom 17. Februar 2011, Konkurrensverket/TeliaSonera Sverige AB, C-52/09,
+Slg. 2011, I-527, Randnr. 32.
+11 Urteil des Gerichtshofs vom 17. Februar 2011, Konkurrensverket/TeliaSonera Sverige AB, C-52/09,
+Slg. 2011, I-527, Randnr. 33.
+12 Deutsche Bahn, Antwort auf ein Auskunftsverlangen, Sache AT.39678, ID 1689, S. 18.
+13 Die unterschiedliche Frequenz erklärt sich aus dem Umstand, dass es bei Einführung der elektrischen
+Eisenbahnen in Deutschland technisch nicht möglich war, Elektromotoren mit 50-Hz-Frequenz in
+Lokomotiven einzusetzen.
+
+DE 5 DE
+
+Tageszeit differenzierten Preis berechnet (Tages- und Nachttarif).14 Hierbei handelt
+es sich um eine „Vollversorgung“, d. h. die Arbeitspreise enthalten die
+Energielieferung sowie die Kosten für die Nutzung des
+Bahnstromversorgungsnetzes. Die DB Energie nennt dieses Preissystem
+Bahnstrompreissystem bzw. BPS.
+
+(19) Des Weiteren können Eisenbahnunternehmen ihre Versorgung mit Bahnstrom
+sichern, indem sie von anderen Anbietern 50-Hz-Strom beziehen und diesen dann in
+das Bahnstromversorgungsnetz der DB Energie einspeisen lassen. In diesem Fall
+bezahlt der Abnehmer die DB Energie nur für die Nutzung des Bahnstromnetzes und
+für die Umrichtung des haushaltsüblichen 50-Hz-Stroms in Bahnstrom. Diesen
+Zugang zu ihrem Bahnstromnetz nennt die DB Energie Durchleitungspreissystem
+bzw. DPS.
+
+(20) Das BPS besteht seit 2003, wohingegen das DPS 2004 eingeführt wurde. Seither
+haben jedoch alle Eisenbahnverkehrsunternehmen der Vollversorgung im Rahmen
+des BPS den Vorzug gegeben; kein Unternehmen hat das DPS in Anspruch
+genommen, mit Ausnahme eines Monats im Jahr 2005, als der Energiehändler PCC
+Energie Bahnstrom an das Eisenbahnunternehmen Rail4Chem lieferte.15
+
+(21) Im November 2010 hat der Bundesgerichtshof entschieden, dass das Bahnstromnetz
+als Energieversorgungsnetz zu betrachten sei und dass die Zugangsbedingungen und
+Netzentgelte der Regulierung nach dem Energiewirtschaftsgesetz (EnWG)
+unterliegen sollten.16 Folglich müsse die DB Energie die Netzentgelte getrennt
+erheben, so dass auch Stromanbieter, die nicht zum DB-Konzern gehören, mit der
+DB Energie bei der Stromversorgung von Eisenbahnunternehmen in Wettbewerb
+treten könnten.17
+
+Auf dem Rabattsystem innerhalb des BPS beruhende Preisunterschiede bei Bahnstrom
+
+(22) Zusätzlich zu den festen BPS-Preisen sieht das BPS die folgenden Rabatte vor: i) je
+nach Laufzeit des Stromliefervertrags einen Laufzeitrabatt von bis zu 5 % auf die fest
+kontrahierte Energiemenge, ii) je nach Jahresabnahmemenge einen Mengenrabatt
+von bis zu 4 % auf die fest kontrahierte Energiemenge und iii) bei einer
+Abnahmemenge von > 2000 GWh einen Auslastungsrabatt von 5 % auf die fest
+kontrahierte Energiemenge. Diese Rabatte werden allen
+Eisenbahnverkehrsunternehmen eingeräumt, wenn sie die entsprechenden
+Mindestabnahmemengen erreichen.
+
+(23) Der DB Schenker Rail Deutschland AG und der DB Fernverkehr AG wurde der
+höchstmögliche Rabatt eingeräumt, d. h. 14 % seit Einführung des BPS im Jahr
+2003.18
+
+14 Die Bahnstrompreise der DB Energie sind jederzeit auf der folgenden Website einsehbar:
+http://www.dbenergie.de/file/2542424/data/bahnstrom_preisblatt.pdf.
+15 Deutsche Bahn, Antwort auf ein Auskunftsverlangen, Sache AT.39678, ID 1649, S. 62.
+16 Bundesgerichtshof, Beschluss vom 9.11.2010, Az. EnVR 1/10.
+17 Weitere Informationen über diese Änderung des Preissystems und d
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+stromlieferanten erleichtern und gewährleisten, dass Neuanbietern
+ausreichend Zeit für Entwicklung und Ausbau ihres Bahnstromangebots zur
+Verfügung steht.
+
+(87) Dank der Zusage der DB Energie, Informationen über den Bahnstromverbrauch – auf
+Anfrage auch zu jeder einzelnen Lokomotive – weiterzugeben, wird jedes
+Eisenbahnunternehmen über ausreichende Informationen verfügen, um ein Angebot
+von einem konzernfremden Bahnstromanbieter einzuholen und gegebenenfalls den
+Lieferantenwechsel bei Inkrafttreten der Verpflichtungszusagen vorzubereiten.
+
+(88) Darüber hinaus gewährleistet die Zusage, dass Eisenbahnunternehmen ihre
+bestehenden Verträge mit DB Energie vor Inkrafttreten des neuen Systems ohne
+Vertragsstrafen kündigen können, dass die Eisenbahnunternehmen nicht durch
+
+DE 24 DE
+
+langfristige Verträge an die DB Energie gebunden bleiben und den Stromlieferanten
+tatsächlich wechseln können, wenn sie dies wollen.
+
+(89) Ferner vertritt die Kommission die Auffassung, dass den Eisenbahnunternehmen mit
+der Einführung einer Vertragshöchstlaufzeit von einem Jahr und der Möglichkeit,
+ihren Vertrag innerhalb der ersten sechs Monate nach Einführung des neuen
+Preissystems zu kündigen, im Hinblick auf den Zeitpunkt eines Lieferantenwechsels
+genügend Flexibilität gegeben wird.
+
+(90) Schließlich wird der Verzicht der DB Energie auf die Gewährung von Mengen- oder
+Laufzeitrabatten die Entfaltung des Wettbewerbs erleichtern, weil mehr
+Preistransparenz auf dem Bahnstrommarkt geschaffen und verhindert wird, dass die
+DB Energie ihre „ererbten“ Größenvorteile gegenüber ihren noch nicht zu ähnlichen
+Effizienzvorteilen fähigen Wettbewerbern ausspielen kann.
+
+8.4. Einmalzahlung an Eisenbahnunternehmen
+
+(91) Die Kommission sieht in der Einmalzahlung an die Eisenbahnunternehmen ein
+geeignetes Mittel, um zu verhindern, dass sich die Margenbeschneidung über die
+Übergangsphase, in der das neue Preissystem eingeführt wird und Neuanbieter noch
+nicht auf dem Stromversorgungsmarkt auftreten, fortsetzt. Deshalb ist die Zahlung
+auf ein Jahr befristet, und diese Frist dürfte in den Augen der Kommission
+ausreichen, um einen Marktzutritt zu erleichtern. Sie hält auch die Größenordnung
+der Zahlung (4 %) für ausreichend, um einer Margenbeschneidung im ersten Jahr
+nach Einführung des neuen Preissystems vorzubeugen, da eine Preissenkung um 4 %
+höchstwahrscheinlich während des gesamten Zeitraums der mutmaßlichen
+Zuwiderhandlung eine Margenbeschneidung verhindert hätte.
+
+(92) Ferner dürfte die Zahlung verhindern, dass die Margenbeschneidung fortgesetzt wird,
+bevor konzernfremde Stromanbieter auf dem Markt tätig werden können, so dass
+kein Anlass für eine Änderung der betreffenden Verpflichtungszusage besteht. Auch
+eine Preisobergrenze für Bahnstrom im neuen Preissystem hält die Kommission nicht
+für erforderlich. Kurzfristig begrenzt die Zahlung die Möglichkeiten des DB-
+Konzerns für eine Beschneidung der Margen von Eisenbahnunternehmen, und
+langfristig dürfte der Wettbewerb auf dem Bahnstrommarkt die gleiche Wirkung
+entfalten.
+
+(93) Gegenüber dem Einwand in den Stellungnahmen, der Betrag der Einmalzahlung
+reiche nicht aus und solle erhöht werden, betont die Kommission, dass die mit den
+Verpflichtungszusagen gewährte Zahlung keinen Ersatz für einen durch ein etwaiges
+wettbewerbswidriges Verhalten erlittenen Schaden darstellt. Beschlüsse nach
+Artikel 9 der Verordnung (EG) Nr. 1/2003, mit dem Verpflichtungszusagen für
+bindend erklärt werden, sind nicht mit der Feststellung einer Zuwiderhandlung gegen
+das Wettbewerbsrecht verbunden. Ferner verfolgen diese Beschlüsse nicht den
+Zweck, aufgrund eines etwaigen wettbewerbswidrigen Verhaltens erlittene Schäden
+zu ersetzen.
+
+8.5. Informationsübermittlung an die Kommission
+
+(94) Anhand der Daten, zu deren jährlicher Weitergabe an die Kommission sich
+DB Energie und DB Mobility verpflichten, kann die Kommission überprüfen, ob die
+vom DB-Konzern für Bahnstrom und für Beförderungsleistungen erhobenen Preise
+
+DE 25 DE
+
+zu einer Margenbeschneidung führen. Diese Verpflichtungszusage erlaubt es folglich
+der Kommission, die Preisstrategie des DB-Konzerns zu beobachten und
+erforderlichenfalls ein erneutes Prüfverfahren einzuleiten.
+
+8.6. Laufzeit der Verpflichtungszusagen
+
+(95) Die allgemeine fünfjährige Laufzeit der Verpflichtungszusagen reicht nach Ansicht
+der Kommission aus, damit von der DB unabhängige Stromversorger ein eigenes
+Bahnstromangebot entwickeln und Eisenbahnunternehmer den Bahnstromversorger
+wechseln können. Erreicht der Marktanteil konzernfremder Stromversorger auf dem
+Markt der Bahnstromversorgung von nicht dem DB-Konzern zugehörigen
+Eisenbahnunternehmen vor Ablauf der fünf Jahre 25 %, bezeugt dies nach Ansicht
+der Kommission, dass sich der Wettbewerb stetig entwickelt hat, was ein vorzeitiges
+Auslaufen der Verpflichtungszusagen rechtfertigen würde.
+
+(96) Insbesondere ist die Kommission der Auffassung, dass die in den endgültigen
+Verpflichtungszusagen festgesetzte Marktanteilsschwelle von 25% ausreicht. Die
+Verpflichtungszusagen erlöschen nur dann vorzeitig, wenn konzernfremde
+Stromversorger eine kritische Masse von Eisenbahnunternehmen beliefern, da unter
+den gegenwärtigen Rahmenbedingungen die Schwelle von 25% nur erreicht wäre,
+wenn mehr als die vier größten nicht zum DB-Konzern gehörigen
+Eisenbahnunternehmen zu einem konzernfremden Stromversorger wechseln würden.
+
+9. VERHÄLTNISMÄßIGKEIT DER GEÄNDERTEN VERPFLICHTUNGSZUSAGEN
+
+9.1. Grundsätze
+
+(97) Der Grundsatz der Verhältnismäßigkeit verlangt, dass die Handlungen der
+Unionsorgane geeignet sind und nicht die Grenzen dessen überschreiten, was zur
+Erreichung des verfolgten Zieles angemessen und erforderlich ist.71
+
+(98) Für einen Beschluss nach Artikel 9 der Verordnung (EG) Nr. 1/2003 bedeutet die
+Einhaltung des Verhältnismäßigkeitsprinzips zum einen, dass die
+Verpflichtungszusagen die von der Kommission in ihrer vorläufigen Beurteilung
+vorgebrachten Bedenken ausräumen müssen, und zum anderen, dass diese
+Unternehmen keine weniger belastenden Verpflichtungszusagen angeboten haben,
+die den Bedenken ebenfalls in angemessener Weise gerecht würden. Dabei muss die
+Kommission allerdings die Interessen der Dritten berücksichtigen.72
+
+9.2. Anwendung auf den vorliegenden Fall
+
+(99) Die Verpflichtungszusagen reichen aus, um die von der Kommission in ihrer
+vorläufigen Beurteilung geltend gemachten Wettbewerbsbedenken auszuräumen.
+Insbesondere ermöglichen sie das Entstehen von Wettbewerb auf dem Markt der
+Bahnstromversorgung und setzen den Möglichkeiten des DB-Konzerns Schranken,
+
+71 Siehe beispielsweise Urteil des Gerichts vom 19. Juni 1997, , Air Inter/Kommission, T-260/94, Slg.
+1997, II-997, Randnr. 144, und Urteil des Gerichts vom 23. Oktober 2003 , Van den Bergh
+Foods/Kommission, T-65/98, Slg. 2003, II-4653, Randnr. 201.
+72 Urteil des Gerichtshofes vom 29. Juni 2010, , Kommission/Alrosa, C-441/07 P, Slg. 2010, I-5949,
+Randnr. 41.
+
+DE 26 DE
+
+die Margen seiner Wettbewerber zu beschneiden (siehe Erwägungsgründe (82) -
+(94)).
+
+(100) Der DB-Konzern hat keine weniger belastenden Verpflichtungszusagen angeboten,
+die die Bedenken der Kommission ebenfalls in angemessener Weise ausräumen
+würden.
+
+(101) Die Kommission hat die Interessen der Dritten und insbesondere jener, die auf die
+am 15. August 2013 veröffentlichte Mitteilung der Kommission nach Artikel 27
+Absatz 4 der Verordnung (EG) Nr. 1/2003 geantwortet haben, berücksichtigt.
+
+(102) Das Verhältnismäßigkeitsprinzip wird deshalb mit diesem Beschluss eingehalten.
+
+10. SCHLUSSFOLGERUNG
+
+(103) Die vom DB-Konzern angebotenen Verpflichtungszusagen sind geeignet, die von der
+Kommission in ihrer vorläufigen Beurteilung vorgebrachten Bedenken auszuräumen,
+und erfüllen daher die Voraussetzungen nach Artikel 9 Absatz 1 der Verordnung
+(EG) Nr. 1/2003.
+
+(104) Mit einem Beschluss nach Artikel 9 Absatz 1 der Verordnung (EG) Nr. 1/2003
+erklärt die Kommission Verpflichtungen, die von den betreffenden Unternehmen
+angeboten werden, um die von der Kommission in der vorläufigen Beurteilung
+geäußerten Bedenken auszuräumen, für bindend für die Unternehmen. In
+Erwägungsgrund 13 der Verordnung (EG) Nr. 1/2003 heißt es, dass in einem
+derartigen Beschluss nicht die Frage zu beantworten ist, ob eine Zuwiderhandlung
+vorgelegen hat oder noch vorliegt.
+
+(105) Die Kommission stützt die Würdigung, ob die vom DB-Konzern angebotenen
+endgültigen Verpflichtungen für die Beseitigung ihrer Bedenken ausreichen, auf die
+vorläufige Beurteilung, die den vorläufigen Standpunkt der Kommission auf der
+Basis der zugrunde liegenden Untersuchung und Analyse darstellt, und auf die
+Stellungnahmen Dritter, die auf die Veröffentlichung einer Mitteilung nach
+Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 eingegangen sind.
+
+(106) Angesichts der vom DB-Konzern angebotenen Verpflichtungszusagen besteht für die
+Kommission kein Anlass zum Tätigwerden mehr, weshalb das Verfahren
+unbeschadet der Bestimmungen des Artikels 9 Absatz 2 der Verordnung (EG)
+Nr. 1/2003 einzustellen ist.
+
+(107) Die Kommission behält sich das Recht vor, Untersuchungen und Verfahren nach
+Artikel 102 AEUV im Hinblick auf Praktiken einzuleiten, die nicht Gegenstand
+dieses Beschlusses sind –
+
+HAT FOLGENDEN BESCHLUSS ERLASSEN:
+
+Artikel 1
+
+Die im Anhang aufgeführten Verpflichtungen sind bis zum 30. Juni 2019 bindend, es sei
+denn, die Bedingungen des Abschnitts 3 der Verpflichtungen sind erfüllt.
+
+DE 27 DE
+
+Artikel 2
+
+Für ein Tätigwerden der Kommission in diesem Fall in Bezug auf das Preissystem für
+Bahnstrom besteht kein Anlass mehr.
+
+Artikel 3
+
+Dieser Beschluss ist gerichtet an:
+
+Deutsche Bahn AG, Potsdamer Platz 2, 10785 Berlin, DEUTSCHLAND
+
+DB Energie GmbH, Pfarrer-Perabo-Platz 2, 60326 Frankfurt am Main,
+DEUTSCHLAND
+
+DB Mobility Logistics AG, Potsdamer Platz 2, 10785 Berlin, DEUTSCHLAND
+
+DB Fernverkehr AG, Stephensonstraße 1, 60326 Frankfurt am Main, DEUTSCHLAND
+
+DB Schenker Rail Deutschland AG, Rheinstraße 2, 55116 Mainz, DEUTSCHLAND
+
+Brüssel, den
+
+Für die Kommission
+
+Joaquín Almunia
+Vizepräsident
+
+DE 28 DE

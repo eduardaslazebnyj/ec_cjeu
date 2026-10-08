@@ -1,0 +1,360 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+
+THIRD PARTY DEVELOPER RIC
+LICENCE (ERL SWITCHING TOOL)
+ORDER FORM / AGREEMENT
+
+This Order Form is subject to the terms and conditions set out below (together the "Agreement") which set forth the
+terms and conditions under which TR provides Developer the Service described below.
+
+Quote Number
+Account Manager
+Agreement Type THIRD PARTY DEVELOPER RIC LICENCE (ERL
+Switching Tool) (stand-alone licence)
+Agreement Number
+Developer Termination Notification Period 90 Days
+Billing Frequency
+Date (dd/mm/yyyy)
+
+Third Party Developer Contracting Entity Developer Contact(s)
+("Developer")
+Name
+Email
+Phone
+
+Account Number:
+
+Invoice Address Invoice Contact(s)
+Name
+Email
+Phone
+
+Account Number:
+
+Total summary of costs related to this Order Form
+Monthly Recurring Additions Total
+
+Service Product Qty Net Unit Price Line TotalType
+[]
+
+Page 1 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+TERMS AND CONDITIONS Consolidated Real-Time Datafeed vendor (i) such
+information of a general nature about the type and
+1. LICENCE format of data TR includes in the cross-referencing
+information as part of the RIC updates as is necessary1.1 In consideration for the Fees set out above, TR hereby in order to enable the Consolidated Real-Time grants Developer a non-exclusive, non-transferable Datafeed vendor to provide cross-referencing licence to use Eligible RICs in the Authorized Location(s), information of the same type and format (and which in solely to the extent and for the purposes set out below and turn correlates to its own identifiers) in order to subject to the terms and conditions of this Agreement (the facilitate mapping as part of an ERL Switching Tool. "Third Party RIC Licence"). Examples of such information include:(A) for an
+1.2 Developer will use the number of Eligible RICs specified exchange traded equity: Code Type, Code, Currency
+above for the sole purposes of developing, testing, and Venue and (B) for a non-exchange traded bond:
+modifying an ERL Switching Tool and supplying it to Type, Issuer, Coupon, Maturity and Description); and
+Eligible Customers. Developer will also have the right to (ii) the actual cross referencing information provided
+maintain and update an ERL Switching Tool as set out in by TR as part of the RIC update support service (but
+Clause 1.8. Developer will not use, publish or redistribute not the RIC itself) on an ad hoc basis for exception
+RICs for any other purpose. processing, i.e. where Developer has been unable to
+map to the Consolidated Real-Time Datafeed vendor's
+1.3 It is a condition of the grant of the Third Party RIC Licence symbology in the first instance having used, in
+that Developer is not (i) a vendor, re-seller or re- accordance with industry standard procedure,
+distributor of Market Data which requires symbology for Thomson Reuters and the Consolidated Real-Time
+identification and navigation; and (ii) any developer that is Datafeed vendor's respective update support service
+directly or indirectly controlling, controlled by or under in order to achieve such mapping. Examples of actual
+common control with a vendor, re-seller or re-distributor as cross referencing information corresponding to the
+described in (i); and (iii) any developer party to any examples of general information given in (i) above,
+arrangement (including any form of joint selling may include (A) for an exchange traded equity (such
+arrangement) with one or more vendors, re-sellers or re- as BP Ord) Code Type: SDL, Code: 0798059,
+distributors as described in (i) for the purpose of supplying Currency: GBP and Venue: LSE; and (B) for a nonthat vendor's, re-seller's or re-distributor's Consolidated exchange traded bond (such as an Australian
+Real-Time Datafeed to customers as if it were a RIC- Government Bond), Type: Treasury Bond, Issuer:
+enabled Consolidated Real-Time Datafeed. AUT, Coupon: 5.75, Maturity: 2012 Feb, Description:
+a) An entity will be deemed to control another entity if it Australian Government. Developer will establish and
+has the power to direct or cause the direction of the retain a record of such cross-referencing information
+management or policies of such entity, whether provided to each Consolidated Real-Time Datafeed
+through the ownership of voting securities, by vendor. Such record will be provided to TR as part of
+contract, or otherwise. Developer's annual compliance certificate given
+b) Nothing in this definition prevents Developer from pursuant to Clause 12 below as well as within 5 (five)
+entering into any form of cooperation agreement with working days of a request by TR.
+a Consolidated Real-Time Datafeed vendor in 1.4 In view of the competitively sensitive nature of such
+connection with the development, maintenance, detailed information, the right in Clause 1.3(d)(ii) above is
+supply and marketing of an ERL Switching Tool, conditional on the Consolidated Real-Time Datafeed
+provided always that (i) it complies with the provisions vendor agreeing that it will ensure that such crossof this Clause 1.3; and (ii) it does not result in any way referencing information (i) is only used for the purpose of
+in the Consolidated Real-Time Datafeed vendor either correlating its own identifier and resolving Developer's
+having direct or indirect access to RICs or holding mapping query in order to facilitate Switching; (ii) is
+itself out as having such access or as being able to accessed and handled only by members of a Ring-fenced
+provide RICs as part of its Consolidated Real-Time Team, notably through the establishment and
+Datafeed offering. maintenance of sufficient operational controls including
+c) Subject to this Clause 1.3, examples of cooperation the imposition of firewalls and password protection to
+therefore permitted under this Clause 1.3 include: (i) a ensure data access is appropriately restricted, and the
+licensing and support agreement for the use of the designation of an employee with overall responsibility to
+third party vendor's codes in order to develop, market oversee the effectiveness and maintenance of such
+and maintain the ERL Switching Tool; (ii) cooperation operational controls; (iii) is not distributed or redistributed
+in relation to the design, build and maintenance of the or shared in any way with anyone outside such Ring-
+Switching Tool; (iii) joint or reciprocal advertising or fenced Team except with other Developers with the same
+promotional arrangements (including advertising or mapping queries; and (iv) is only stored or included in any
+promoting the fact that the Consolidated Real-Time database in respect of successful mapping queries, i.e.
+Datafeed vendor recommends Developer, or may be where the Consolidated Real-Time Datafeed vendor has
+willing to provide certain endorsements and been able to map to its own cross-referencing information
+guarantees (financial or otherwise) regarding the and identifiers to the corresponding RIC related crosssupply and maintenance of the ERL Switching Tool by referencing information while all cross-referencing
+Developer); (iv) arrangements allowing joint information relating to RICs for which the Ring-fenced
+representation of the Consolidated Real-Time Team could not find an equivalent third party vendor
+Datafeed vendor and Developer by either party (acting identifier will be deleted immediately after the failed
+as agent of the other) in the sales engagement mapping query from Developer. Developer will therefore
+process (including discussions and negotiations with only provide such data to the Consolidated Real-Time
+Eligible Customers) provided always that the Eligible Datafeed vendor who has signed and delivered to TR an
+Customer executes separate contracts with each of undertaking in the form annexed as Schedule II. In the
+the Consolidated Real-Time Datafeed vendor and event that a Consolidated Real-Time Datafeed vendor
+Developer for the third party Consolidated Real-Time breaches such undertaking, Developer will immediately
+Datafeed service and the ERL Switching Tool cease to share any cross-referencing information with
+respectively, notwithstanding that certain terms of the such Consolidated Real-Time Datafeed vendor under
+contracts may be aligned; and (v) cooperation for the Clause 1.3(d) above until TR has confirmed that the
+provision of after-sales support . breach has been remedied. Developer's failure to comply
+d) For the avoidance of doubt, subject to the rights of any with this Clause 1.4 will be treated as a material breach of
+relevant third party in Official Codes or other third the Third Party RIC Licence.
+party symbols, Developer may provide to the
+
+Page 2 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+
+1.5 Developer will notify TR promptly if it fails to satisfy of any that Developer is licensed by TR to develop and
+the conditions in Clauses 1.3 and 1.4 either at the distribute an ERL Switching Tool to subscribers of the
+Effective Date or at any time during the Agreement. ERL and indicating that the Developer’s ERL Switching
+Tool incorporates TR RICs.
+1.6 The Third Party RIC Licence takes effect on the Effective
+Date and, subject to termination pursuant to Clause 11, 3.2 Prior to any use, Developer will submit to TR samples of
+will continue for so long as Developer pays the Fees. any Developer Marketing Materials using the TR Marks
+for TR’s approval, with such redactions as may be
+1.7 Developer can increase or reduce the number of Eligible reasonably necessary to protect the confidentiality of the
+RICs to which it subscribes under the Third Party RIC identity of any third party and to avoid the exchange of
+Licence upon execution of an amended Order Form, commercially sensitive information concerning any
+which will reflect the amended Fees. The RIC updates cooperation or support arrangements with any third
+provided by TR under Clause 4 will be modified party pursuant to Clause 1.3(b). Developer will comply
+accordingly. with any TR guidelines available at
+1.8 TR grants Developer the right to maintain and update the http://brand.thomsonreuters.com for using the TR
+cross-referencing file included in an ERL Switching Tool, Marks. If, within 30 business days from the date of
+using the TR support set out in Clause 4: receipt of such samples, TR disapproves of any use of
+the TR Marks by Developer, Developer agrees to amend
+a) At the Authorized Location for Developer’s internal the use of the TR Marks as requested by TR. Developer
+purposes in support of its RIC usage rights under Marketing Materials substantially identical to materials
+Clause 1.2 (thereby enabling Developer to supply the that have been previously reviewed do not require
+ERL Switching Tool to Eligible Customers without the another such submission.
+need to delete all Eligible RICs from one Eligible
+Customer development to another). 3.3 For avoidance of doubt, Developer may not use the TR
+logo or any other TR brand unless the parties agree
+b) At Eligible Customers’ option, to operate, maintain and otherwise in writing. Member will not make any
+update the TR cross referencing file as part of the statements to the effect or which imply that Developer,
+Switching Tool at Eligible Customers’ premises, which and/or the ERL Switching Tool are certified,
+can involve the installation, operation and recommended or endorsed by TR.
+maintenance of servers and other infrastructure
+performing software upgrades and the delivery of 3.4 Developer will make it clear in any Developer Marketing regular updates of the cross-referencing file for use by Materials that the Developer ERL Switching Tool is only
+the Eligible Client in its ERL Switching Tool as part of available for sale to TR customers who have subscribed
+any ongoing maintenance of such Switching Tool. to the ERL, which TR is making available under the
+1.9 This Third Party RIC Licence grants the licence rights Commitment.
+required by Developer to develop, an ERL Switching
+Tool for distribution to Eligible Customer and to maintain 4. SUPPORT and update the cross referencing file as part of the ERL
+Switching Tool. If Developer wishes to access the TR 4.1 TR will provide Developer with regular updates of
+API, the Developer shall need to be or become a Eligible RICs in line with the Developer's subscription,
+member of TR’s Partner Access Program (TR’s open together with such cross-referencing information as is
+third party program for access to that TR API), necessary to identify uniquely the underlying real-time
+irrespective of whether the access is for the purpose of market data, to the extent such Eligible RICs and cross-
+Switching. referencing information are carried on the TR
+Consolidated Real-Time Datafeed Service thereby
+1.10 Developer hereby undertakes only to provide an ERL facilitating mapping to the alternative vendor’s
+Switching Tool to an Eligible Customer subscribing to symbology as part of an ERL Switching Tool. Where
+the ERL. Before committing to supply an ERL Switching applicable, such cross-referencing information will
+Tool to any Eligible Customer, Developer must obtain include for example the relevant venue, source,
+and retain a copy of the Eligible Customer's duly currency and/or description as well as the corresponding
+executed ERL together with the confirmation from the Official Code (where Developer has obtained a licence
+Eligible Customer that the ERL has not terminated or for the Official Code from the appropriate third party).
+expired for any reason. These updates will be made available on the same
+frequency as existing RIC updates are provided to TR
+customers. TR will use reasonable efforts to assist the
+1.11 Developer hereby undertakes only to include in an Developer in the resolution of data queries in respect of Eligible Customer’s ERL Switching Tool the number of the cross-referencing information provided by TR insofar Eligible RICs for which the Eligible Customer is duly as required to develop and maintain an effective ERL licensed under its ERL, as set out in the ERL (as Switching Tool, where this is within TR's reasonable amended from time to time). control.
+
+2. OTHER LICENCE RESTRICTIONS 4.2 TR will exercise reasonable care and skill in providing
+the Developer with the support described in Clause 4, Except as in each case required by any law, Developer i.e. the same level of service as provided by TR to will not: (a) except as expressly permitted in this customers of the TR Consolidated Real-Time Service. Agreement, disclose, make available, transfer or
+distribute, in whole or in part, any RICs or RIC updates 4.3 TR reserves the right to discontinue any aspect of the under Clause 4 to any third party or customer; (b) copy, updates provided pursuant to Clause 4.1 that it ceases adapt, reverse engineer, decompile, disassemble, or to provide as part of other client services in the ordinary modify, in whole or in part, any RICs or RIC updates. course of its business by giving Developer not less than
+3. DEVELOPER MARKETING MATERIALS 6 mont
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+any written replies they wish to make to the Expert and to each other.
+(e) In addition, the parties shall if requested make available to the Expert any documentation or information that the
+Expert considers reasonably necessary in reaching his decision on the issues between the parties, including but not
+limited to, full access to all correspondence and other documentation and materials relating to the Addendum and/or
+the Commitments, having regard to the deadline for a decision as set out at Clause 1(g).
+(f) The Expert shall, in addition, have the right, subject to prior notification and consent from the parties, to seek any
+independent legal, technical or other expert assistance as he considers reasonably necessary in relation to any
+matters giving rise to the Dispute, having regard to the deadline for a decision as set out at Clause 1(g). The Expert
+is also entitled to consult the Monitoring Trustee in all stages of the procedure.
+(g) Unless the parties agree otherwise, the Expert shall be required to give his decision within ninety (90) days of his
+appointment. The parties agree to be bound by the determination of the Expert whose decision shall, except in the
+case of fraud or manifest error, be final and binding on the parties and neither be subject to appeal nor challenge for
+any reason.
+(h) All negotiations between the parties and Expert determinations in accordance with this Clause 1 shall be conducted
+in strict confidence and shall not be used in evidence or referred to in any way without the prior written consent of
+both parties, except insofar as necessary to assist other Experts appointed in other similar disputes arising in
+connection with the Addendum and/or the Commitments to reach a decision (whereby a non-confidential version of
+the Expert's decision, and of the written reports provided by the Monitoring Trustee to the European Commission in
+accordance with paragraph 6(b) and (c) of Annex V of the Commitment shall be provided to the relevant other
+Expert).
+(i) Liability for the fees of the Expert (including any legal, technical or other expert sought by the Expert, with the
+exception of the Monitoring Trustee who is paid in all instances by TR) and the reasonable costs (including legal
+costs) of the parties shall be borne in such proportions as the Expert shall determine in his absolute discretion. In
+addition, the separate fees paid by both parties in equal share to the Centre in accordance with the Rules will be reapportioned in line with the Expert determination above, and the parties agree to reimburse the other accordingly
+within thirty (30) days in respect of any overpaid fees.
+(j) TR shall send a copy of the Expert's decision to the Monitoring Trustee within 5 (five) days from the receipt of the
+decision..
+(k) Notwithstanding any other provisions in this Clause 1, nothing herein shall prevent the parties from taking steps to
+preserve or enforce the Expert's decision in a court of competent jurisdiction as set out in the underlying contract
+between the parties.
+
+Page 8 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+SCHEDULE II TO THIRD PARTY RIC LICENCE (ERL SWITCHING TOOL)
+
+FORM OF VENDOR UNDERTAKING
+[Undertaking to be signed by Vendor and the original delivered to TR]
+To
+[Insert full name and address of relevant TR entity] ("TR")
+And
+[Insert full name and address of Developer] ("Developer")
+
+1. In consideration of TR allowing Developer to cooperate with [Insert name and address of vendor]
+("Vendor") in relation to the development, marketing and maintenance of the ERL Switching Tool
+pursuant to the Third Party Developer RIC Licence, Vendor hereby acknowledges and undertakes to
+TR that, in relation to any descriptive reference information which identifies the underlying financial
+instrument and pricing source for a RIC and which is provided to the Vendor by a Developer in
+relation to a query under the terms of the Developer's Third Party RIC Licence ("Reference
+Information"), the Vendor will ensure that such cross-referencing information:
+(i) is accessed and handled only by members of a Ring-fenced Team, notably through the
+establishment and maintenance of sufficient operational controls including the imposition of firewalls
+and password protection to ensure data access is appropriately restricted, and the designation of an
+employee (whose contact details are set out in Clause 7 below) with overall responsibility to oversee
+the effectiveness and maintenance of such operational controls ("Designated Employee")];
+(ii) is not distributed or redistributed or shared in any way with anyone outside such Ring-fenced
+Team except with other Developers with the same mapping queries; (iii) is only stored or included in
+any database in respect of successful mapping queries, i.e. where the Vendor has been able to map
+to its own cross-referencing information and identifiers to the corresponding RIC related crossreferencing information while all cross-referencing information relating to RICs for which the Ringfenced Team could not find an equivalent third party vendor identifier will be deleted immediately after
+the failed mapping query from a Developer; and (iv) is only used for the purpose of correlating its own
+identifier and resolving the Developer's mapping query in order to facilitate Switching.
+2. The Vendor further undertakes that it will provide TR with details of the establishment and
+maintenance of operational controls which restrict data access within the Ring-fenced Team and will
+provide to TR on an annual basis (on the anniversary of the date of this undertaking) a certificate by
+the Designated Employee that the Vendor continues to be compliant with the provisions of Clause 1
+above. The Vendor will promptly notify TR in case of any change to the identity or contact details of
+the Designated Employee.
+Liability
+3. Vendor will be liable to TR and to Developer for any breach of the above provisions. Damages may
+not be an adequate remedy for a breach of this undertaking and/or breach of confidence and TR may
+be entitled to the remedies of injunction, specific performance and other equitable relief for a
+threatened or actual breach of this undertaking and/or breach of confidence.
+4. In the event of a breach of this undertaking, Developer will immediately cease to provide crossreferencing information to Vendor. In the event that Vendor fails to remedy such breach, Vendor
+shall, upon notification by TR, deliver to TR all cross-referencing information provided by Developer
+and all copies of all or any part of such information, and shall certify in writing to TR that none of the
+cross-referencing information and no copies of all or part of such information has been retained by
+Vendor.
+Audit
+5. TR may, on giving Vendor reasonable written notice, conduct a specific technical audit of Vendor's
+operations solely to the extent necessary to verify compliance with this undertaking, i.e. verification of
+the establishment and maintenance of effective operational controls restricting data access within the
+Ring-fenced Team and storage and use of cross-referencing information relating to RICs compliant
+with this undertaking. As part of such an audit::
+
+Page 9 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+(i) Vendor will give access to TR to relevant records, any database where such cross-referencing
+information may be stored, and to the Designated Employee and members of the Ring-fenced Team
+during normal business hours;
+(ii) During the verification, TR will comply with Vendor's reasonable requirements relating to security,
+health and safety, and confidentiality; and
+(iii) TR will bear the cost of such audit unless it is determined that Vendor is in breach of this
+undertaking.
+TR undertakes not to use any information received as part of such an audit for any purpose other
+than to verify Vendor's sole compliance with the terms of this undertaking.
+Notices
+6. All notices under this undertaking will be sent in writing by email (except for notices of breach of the
+undertaking), registered mail, courier, fax or delivered in person at the address for notices set out
+above.
+7. The contact details of the Designated Employee are:
+Name:
+Position:
+Address:
+Email:
+Telephone:
+Fax:
+Dispute resolution, governing law and jurisdiction
+8. This undertaking is governed by the laws of England. All parties consent to the non-exclusive
+jurisdiction of the English courts. In no event will this undertaking be governed by the United Nations
+Convention on Contracts for the International Sale of Goods. Further UCITA whether enacted in
+whole or in part by any state or applicable jurisdiction, regardless of how codified, shall not apply to
+this undertaking and is hereby disclaimed.
+Third party rights
+9. Members of the TR Group have the right under the Contracts (Rights of Third Parties) Act 1999 (the
+Act) to enforce and/or rely on the terms of this undertaking. The Act does not affect any right or
+remedy available to any member of TR Group apart from that Act.
+Definitions
+10. Any terms not defined in this undertaking have the same meaning as in the Third Party Developer
+RIC Licence published as part of the Commitment given by TR to the European Commission in Case
+COMP/D2/39.654 - Reuters Instrument Codes.
+
+Signed by an authorised representative of the Vendor
+
+Signed on behalf of Vendor
+
+Signature
+Print
+Name
+
+Position
+
+Date
+
+Page 10 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+Agreed and accepted by:
+Signed on behalf of TR
+
+Signature
+Print
+Name
+
+Position
+
+Date
+
+Page 11 of 12
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+20 NOVEMBER 2012
+
+Developer confirms, by signing below, that it has the necessary authority to enter into this Order Form on the terms and conditions
+set forth in this Agreement.
+This Order Form and Agreement is effective upon execution by the parties.
+
+Signed on behalf of Developer Signed on behalf of
+
+Signature Signature
+
+Print Name Print Name
+
+Position Position
+
+Date Date
+
+Page 12 of 12

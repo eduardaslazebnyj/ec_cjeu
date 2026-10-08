@@ -1,0 +1,619 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40113 - SPARK PLUGS
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 21/02/2018
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN 1 EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 21.2.2018
+C(2018) 929 final
+
+COMMISSION DECISION
+
+of 21.2.2018
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40113 – Spark Plugs
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN 2 EN
+
+Table of Contents
+
+1. INTRODUCTION ....................................................................................................... 6
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS .......................................... 6
+
+2.1. The product ....................................................................................................... 6
+
+2.2. The undertakings subject to the proceedings .................................................... 7
+
+2.2.1. Bosch ................................................................................................... 7
+
+2.2.2. Denso ................................................................................................... 7
+
+2.2.3. NGK .................................................................................................... 7
+
+3. PROCEDURE ............................................................................................................. 8
+
+4. DESCRIPTION OF THE EVENTS .......................................................................... 10
+
+4.1. Nature of the cartel .......................................................................................... 10
+
+4.2. Scope of the cartel ........................................................................................... 11
+
+4.3. Duration of the cartel ....................................................................................... 11
+
+5. LEGAL ASSESSMENT ........................................................................................... 11
+
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA
+Agreement ....................................................................................................... 11
+
+5.1.1. Agreements and concerted practices ................................................. 11
+
+5.1.2. Single and continuous infringement .................................................. 12
+
+5.1.3. Restriction of competition ................................................................. 14
+
+5.1.4. Effect upon trade between Member States and between
+Contracting Parties to the EEA Agreement ....................................... 14
+
+5.2. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the
+EEA Agreement .............................................................................................. 15
+
+6. DURATION OF THE PARTICIPATION OF THE PARTIES IN THE
+INFRINGEMENT ..................................................................................................... 16
+
+7. LIABILITY ............................................................................................................... 16
+
+7.1. Bosch ............................................................................................................... 16
+
+7.2. Denso ............................................................................................................... 17
+
+7.3. NGK ................................................................................................................ 17
+
+8. REMEDIES ............................................................................................................... 17
+
+8.1. Article 7 of Regulation (EC) No 1/2003 ......................................................... 17
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Fines ...................................... 17
+
+8.3. Calculation of the fines ................................................................................... 18
+
+8.3.1. The value of sales .............................................................................. 18
+
+3EN EN
+
+8.3.2. Determination of the basic amount of the fine .................................. 19
+
+8.3.3. Determination of the additional amount ............................................ 20
+
+8.3.4. Calculations and conclusions on basic amounts ............................... 21
+
+8.4. Adjustments to the basic amount of the fine ................................................... 21
+
+8.4.1. Aggravating or mitigating circumstances ......................................... 21
+
+8.4.2. Specific increase for deterrence ........................................................ 21
+
+8.5. Application of the 10% turnover limit ............................................................ 22
+
+8.6. Application of the Leniency Notice ................................................................ 22
+
+8.6.1. Immunity from fines .......................................................................... 22
+
+8.6.2. Reduction of fines ............................................................................. 22
+
+8.7. Application of the Settlement Notice .............................................................. 23
+
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision 23
+
+4EN EN
+
+COMMISSION DECISION
+
+of 21.2.2018
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40113 – Spark Plugs
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,1
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,2
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty,3
+as amended by Commission Regulation (EC) No 622/2008 of 30 June 2008 as regards the
+conduct of settlement procedures in cartel cases,4 and in particular Article 10a thereof,
+
+1 OJ, C 115, 9.5.2008, p.47.
+
+2 OJ L 1, 4.1.2003, p.1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have become
+Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union ("the Treaty").
+The two sets of provisions are, in substance, identical. For the purposes of this Decision, references to
+Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and 82 of the EC
+Treaty when where appropriate. The Treaty also introduced certain changes in terminology, such as the
+replacement of "Community" by "Union" and "common market" by "internal market". The terminology of
+the Treaty is used throughout this Decision.
+
+3 OJ L 123, 27.4.2004, p. 18.
+
+4 OJ L 171, 1.7.2008, p. 3.
+
+5EN EN
+
+Having regard to the Commission Decision of 17 October 2016 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,5
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) The addressees of this Decision participated in a single and continuous infringement
+of Article 101 of the Treaty and Article 53 of the EEA Agreement. The infringement
+consisted of the coordination of prices and the allocation of supplies of spark plugs
+in the whole of the European Economic Area (“EEA”) and lasted from 19 January
+2000 to 28 July 2011.
+
+(2) This Decision is addressed to the following legal entities, being part of the
+undertakings mentioned below:
+
+– Robert Bosch GmbH (“Bosch”);
+
+– Denso Corporation (“Denso”); and
+
+– NGK Spark Plug Co., Ltd. and NGK Spark Plug Europe GmbH (collectively
+“NGK”).
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1. The product
+
+(3) The products concerned by the coordination of prices and the allocation of supplies
+are spark plugs for cars6.
+
+(4) Spark plugs are devices built in a petrol engine delivering high voltage electric
+sparks to the combustion chamber.
+
+(5) Three main sub-groups of spark plugs are used in petrol engines for cars: the Nickelbased spark plug (“Ni-plug”), the Iridium spark plug (“Ir-plug”), and the Platinum
+
+5 See final report of the hearing officer of 19 February 2018.
+
+6 For the purpose of this case, a car is defined as a power-driven vehicle, having at least four wheels, the
+maximum authorised weight of which is 3.5 tonnes and which may not be used for the transport of
+more than nine persons.
+
+6EN EN
+
+spark plug (“Pt-plug”). All three sub-groups of spark plugs sold to car manufacturers
+with production facilities in the EEA are concerned by this Decision.
+
+(6) The distribution channel concerned was mainly the Original Equipment
+Manufacturers (“OEM”) supply channel.7 The Original Equipment Spare Parts
+(“OES”) channel8 was also concerned insofar as the price of OES supplies is
+contractually linked to the price of OEM supplies.
+
+2.2. The undertakings subject to the proceedings
+
+2.2.1. Bosch
+
+(7) The relevant legal entity is:
+
+– Robert Bosch GmbH with statutory seat in Stuttgart and registered office in
+Gerlingen-Schillerhöhe, Germany.
+
+(8) Bosch is the operative parent company of a group which is a global supplier of
+advanced automotive technologies, systems and components. The worldwide
+turnover of Bosch in 2017 was approximately EUR 78 billion.
+
+2.2.2. Denso
+
+(9) The relevant legal entity is:
+
+– Denso Corporation with its registered office in Kariya, Japan.
+
+(10) Denso is a supplier of advanced automotive technologies, systems and components.
+Denso's worldwide turnover in the fiscal year ending on 31 March 2017 was
+approximately EUR 38 billion.
+
+2.2.3. NGK
+
+(11) The relevant legal entities are:
+
+– NGK Spark Plug Co., Ltd. with its registered office in Mizuho, Japan;
+
+– NGK Spark Plug Europe GmbH with its registered office in Ratingen,
+Germany.
+
+(12) NGK is an automotive supplier mainly active in manufacturing combustion cycle
+products, such as spark plugs, oxygen sensors, ignition coils and other wire sets. The
+worldwide turnover of NGK for the fiscal year ending on 31 March 2017 was
+approximately EUR 3.1 billion.
+
+7 OEM supplies are those for first assembly of a new car.
+
+8 OES supplies are those branded with the logo of the car make and earmarked to be used in the authorised
+network of repairers.
+
+7EN EN
+
+3. PROCEDURE
+
+(13) On 23 February 2011, Denso applied for a marker as provided for in points 14 and
+15 of the 2006 Leniency Notice (the "Leniency Notice")9 with regard to an alleged
+cartel concerning the supply of spark plugs in the EEA.
+
+(14) On 28 February 2011, the Commission rejected Denso's application for a marker.
+
+(15) On 20 April 2011, Denso submitted an application for immunity and included a
+corporate statement and contemporaneous evidence covering spark plugs. Denso
+submitted further information and contemporaneous evidence in subsequent
+corporate statements.
+
+(16) On 22 July 2011, the Commission sent a request for information to NGK pursuant to
+Article 18(2) of Regulation (EC) No 1/200310.
+
+(17) On 2 September 2011, NGK applied for a marker pursuant to points 14 and 15 of the
+Leniency Notice.
+
+(18) On 6 September 2011, the Commission rejected NGK's application for a marker.
+
+(19) On 7 September 2011, NGK applied for leniency and submitted a corporate
+statement and contemporaneous evidence. NGK submitted further information and
+contemporaneous evidence in subsequent corporate statements.
+
+(20) On 31 May 2013, Bosch applied for leniency and submitted a corporate statement
+and contemporaneous evidence. Bosch submitted further information and
+contemporaneous evidence in subsequent corporate statements.
+
+(21) In October 2015, the Commission carried out unannounced inspections at the
+premises of an undertaking which is not an addressee of this Decision.
+
+(22) On 17 October 2016, the Commission granted Denso conditional immunity from
+fines pursuant to point 8(a) of the Leniency Notice.
+
+(23) On 17 October 2016, the Commission also initiated proceedings pursuant to Article
+2(1) of Regulation 773/2004 against the addressees of this Decision (collectively
+referred to as "parties" or individually "party") with a view to engaging in settlement
+discussions with the parties.
+
+(24) On 22 November 2016, the Commission began to engage in settlement discussions
+after each party had confirmed its willingness to do so.
+
+(25) [...], the Commission took part in settlement meetings with the parties. During those
+meetings, the Commission informed the parties of the potential objections it
+
+9 Notice of 8 December 2006 on Immunity from fines and reduction of fines in cartel cases (OJ C 298, p.17).
+
+10 Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+competition laid down in Articles 81 and 82 of the Treaty (OJ L 1, 4.1.2003, p. 1).
+
+8EN EN
+
+envisaged raising against them and disclosed the main pieces of evidence to establish
+those objections.
+
+(26) The parties were also given access to the relevant parts of the corporate leniency
+statements at the Commission premises and received a copy of the relevant pieces of
+documentary evidence and a list of all the documents in the Commission file. The
+Commission also provided the parties with an estimate of the range of fines likely to
+be imposed by the Commission.
+
+(27) Each party expressed its view on the objections which the Commission envisaged
+raising against them. The parties’ comments were carefully considered by the
+Commission and, where appropriate, taken into account.
+
+(28) At the end of the settlement discussions, each party considered that there was a
+sufficient common understanding between it and the Commission as regards the
+potential objections as well as the estimation of the range of likely fines in order to
+continue the settlement process.
+
+(29) [...], the parties submitted their formal requests to settle to the Commission pursuant
+to Article 10a (2) of Regulation (EC) No 773/200411 (the “settlement submissions”).
+The settlement submission of each party contained:
+
+– an acknowledgement in clear and unequivoc
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rtakings from even entering into such illegal practices on
+the basis of the criteria listed with respect to the variable amount.
+
+(101) Taking into account the factors indicated in Section 8.3.2.1 relating to the nature and
+the geographic scope of the infringement, the percentage to be applied for the
+purposes of calculating this additional amount is 17%.
+
+42 Point 23 of the Guidelines on fines.
+
+20EN EN
+
+8.3.4. Calculations and conclusions on basic amounts
+
+(102) Based on the criteria explained in this Section, the basic amount of the fine for each
+undertaking is presented in Table 3.
+
+Table 3: Basic amounts of the fine
+
+Undertaking Basic amount (EUR)
+Bosch [55-70 million]
+
+Denso [800 000-1 million]
+
+NGK [50-65 million]
+
+8.4. Adjustments to the basic amount of the fine
+
+8.4.1. Aggravating or mitigating circumstances
+
+(103) The Commission may consider aggravating circumstances that result in an increase
+of the basic amount. Those circumstances are listed non-exhaustively in point 28 of
+the Guidelines on fines. The Commission may also consider mitigating
+circumstances that result in a reduction of the basic amount. Those circumstances are
+listed non-exhaustively in point 29 of the Guidelines on fines.
+
+(104) The Commission considers that there are no aggravating circumstances in this case.
+
+(105) The Commission considers that a mitigating circumstance for Bosch and Denso is
+the lack of evidence that: (i) Bosch was aware or could reasonably have foreseen the
+bilateral contacts between NGK and Denso; and (ii) Denso was aware or could
+reasonably have foreseen the bilateral contacts between NGK and Bosch. As a result,
+the Commission applies a reduction of 10% of the basic amount of the fine to be
+imposed on Bosch and Denso.
+
+8.4.2. Specific increase for deterrence
+
+(106) Particular attention should be paid to the need to ensure that fines have a sufficiently
+deterrent effect; to that end, the fine to be imposed on undertakings which have a
+particularly large turnover beyond the sales of goods or services to which the
+infringement relates may be increased.43
+
+(107) In this particular case, such an increase for deterrence should be applied to Bosch
+and Denso which had respectively an annual world-wide turnover of approximately
+EUR 78 billion and EUR 38 billion in the last full business year. A multiplying
+factor of 1.2 should be applied to Bosch and a multiplying factor of 1.1 should be
+applied to Denso so as to take account of the comparatively large size of those
+undertakings.
+
+43 Point 30 of the Guidelines on fines.
+
+21EN EN
+
+8.5. Application of the 10% turnover limit
+
+(108) Article 23(2) of Regulation (EC) No 1/2003 provides that for each undertaking
+participating in the infringement, the fine imposed shall not exceed 10% of its total
+turnover in the preceding business year. That 10% ceiling is applied before any
+reduction granted for leniency and/or for settlement.44
+
+(109) In this case, none of the fines calculated exceed 10% of the respective undertaking's
+total turnover in the last full business year.
+
+8.6. Application of the Leniency Notice
+
+8.6.1. Immunity from fines
+
+(110) Denso submitted an application under the Leniency Notice on 20 April 2011 and was
+granted conditional immunity from fines on 17 October 2016. Denso's cooperation
+fulfilled the requirements under the Leniency Notice. Denso is, therefore, granted
+immunity from fines in this case.
+
+8.6.2. Reduction of fines
+
+8.6.2.1. NGK
+
+(111) NGK applied for immunity or, in the alternative, a reduction of fines under the
+Leniency Notice, in September 2011 and did so at an early stage of the investigation
+(shortly after a request for information was sent by the Commission in July).
+
+(a) Application of point 26
+
+(112) NGK was the first to submit compelling evidence that enabled the Commission to
+extend the duration of the infringement to the periods from 19 January 2000 to 24
+May 2002 and from 9 February 2010 to 28 July 2011. Pursuant to point 26 of the
+Leniency notice, these periods are not taken into account when setting the fine for
+NGK45.
+
+(b) Application of points 24 and 25
+
+(113) NGK provided the Commission with evidence of the cartel that represented
+significant added value with respect to the evidence already in the Commission's
+possession at the time it was provided. NGK provided evidence that was relevant for
+the Commission to clarify the scope of the infringement and to reinforce in certain
+instances the evidence already in the Commission's possession.
+
+44 Points 32 and 34 of the Guidelines on fines and points 32-33 of the Settlement Notice. See also Case T-
+52/02 SNCZ v Commission, EU:T:2005:429, paragraph 41.
+
+45 The Commission therefore counts 2817 days and applies a duration multiplying factor of 7.71 when
+determining the fine for NGK.
+
+22EN EN
+
+(114) The evidence provided in respect of the early and late period of the cartel is already
+taken into account for the proposed application of point 26 (see recital (111)) and
+therefore cannot be considered for the level of reduction for the remaining conduct.46
+
+(115) In light of the assessment carried out in recitals (112) to (113), a reduction of the fine
+of 42% is granted to NGK.
+
+8.6.2.2. Bosch
+
+(116) Bosch applied for immunity or, in the alternative, a reduction of fines under the
+Leniency Notice in May 2013, approximately two years after the immunity
+application by Denso and a year and a half after the end of the infringement.
+
+(117) Despite the late application, Bosch provided a detailed description of the functioning
+of the cartel and a large number of elements that allowed the Commission to fill
+gaps, thus allowing it to reinforce the evidence already in its possession and to
+strengthen its finding of a single and continuous infringement covering all sales of
+spark plugs in(to) the EEA.
+
+(118) In light of the assessment carried out in recitals (115) to (116), a reduction of the fine
+of 28% is granted to Bosch.
+
+8.7. Application of the Settlement Notice
+
+(119) In accordance with point 32 of the Settlement Notice, the reward for settlement
+results in a reduction of 10% of the amount of the fine to be imposed after the 10%
+turnover cap has been applied having regard to the Guidelines on fines. Pursuant to
+point 33 of the Settlement Notice, when settled cases involve leniency applicants, the
+reduction of the fine granted to them for settlement will be added to their leniency
+reward.
+
+(120) As a result of the application of the Settlement Notice, the amount of the fine
+imposed on NGK and Bosch is reduced by 10% and this reduction is added to their
+leniency reward.
+
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision
+
+(121) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 4.
+
+Table 4: Fines
+
+Undertaking Fines (in EUR)
+
+Bosch 45 834 000
+
+Denso 0
+
+46 Case T-154/09 MRI v Commission, EU:T:2013:260, paragraph 119.
+
+23EN EN
+
+NGK 30 265 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated below, in a single and continuous
+infringement covering the whole of the EEA which consisted of the coordination of prices
+and the allocation of supplies of spark plugs for cars:
+
+(a) Robert Bosch GmbH from 19 January 2000 to 28 July 2011, its liability
+for the single and continuous infringement being limited to the bilateral
+contacts it engaged in with NGK Spark Plug Co., Ltd. and NGK Spark
+Plug Europe GmbH;
+
+(b) Denso Corporation from 16 February 2001 to 8 February 2010, its
+liability for the single and continuous infringement being limited to the
+bilateral contacts it engaged in with NGK Spark Plug Co., Ltd. and NGK
+Spark Plug Europe GmbH; and
+
+(c) NGK Spark Plug Co., Ltd. and NGK Spark Plug Europe GmbH from 19
+January 2000 to 28 July 2011.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Robert Bosch GmbH: EUR 45 834 000;
+
+(b) Denso Corporation: EUR 0;
+
+(c) NGK Spark Plug Co., Ltd. and NGK Spark Plug Europe GmbH, jointly
+and severally: EUR 30 265 000.
+
+The fines shall be paid in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.40113
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+
+24EN EN
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/201247.
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringement
+referred to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+
+– Robert Bosch GmbH, Robert-Bosch-Platz 1, D-70839 Gerlingen-Schillerhöhe,
+Germany;
+
+– Denso Corporation, 1-1, Showa-cho, Kariya, Aichi 448-8661, Japan;
+
+– NGK Spark Plug Co., Ltd., 14-18, Takatsuji-cho, Mizuho-ku, 467-8525
+Nagoya, Japan;
+
+– NGK Spark Plug Europe GmbH, Harkortstrasse 41, D-40880 Ratingen,
+Germany.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of
+the EEA Agreement.
+
+Done at Brussels, 21.2.2018
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+47 OJ L 362, 31.12.2012, p. 1.
+
+25EN EN

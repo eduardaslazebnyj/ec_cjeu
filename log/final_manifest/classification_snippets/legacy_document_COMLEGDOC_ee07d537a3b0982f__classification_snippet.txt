@@ -1,0 +1,143 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31990D0046
+90/46/EWG: Entscheidung der Kommission vom 12. Januar 1990 in einem Verfahren nach Artikel 85 EWG-Vertrag (IV/32.006 - ALCATEL/ESPACE/ANT Nachrichtentechnik) (Nur der französische und deutsche Text sind verbindlich)
+Amtsblatt Nr. L 032 vom 03/02/1990 S. 0019 - 0026
+*****
+ENTSCHEIDUNG DER KOMMISSION
+vom 12. Januar 1990
+in einem Verfahren nach Artikel 85 EWG-Vertrag
+(IV/32.006 - ALCATEL/ESPACE/ANT Nachrichtentechnik)
+(Nur der deutsche und der französische Text sind verbindlich)
+(90/46/EWG)
+DIE KOMMISSION DER EUROPÄISCHEN
+GEMEINSCHAFTEN -
+gestützt auf den Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft,
+gestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar 1962, Erste Durchführungsverordnung zu den Artikeln 85 und 86 des EWG-Vertrages (1), zuletzt geändert durch die Akte über den Beitritt Spaniens und Portugals, insbesondere auf die Artikel 6 und 8,
+im Hinblick auf den von ALCATEL ESPACE SA, Courbevoie und von ANT Nachrichtentechnik GmbH. Backnang am 28. Juli 1986 gemäß Artikel 2 und 4 der Verordnung Nr. 17 vorgelegten Antrag auf Negativattest oder ersatzweise Freistellung für ihre am 11. Februar 1986 unterzeichnete Vereinbarung,
+unter Bezugnahme auf die gemäß Artikel 19 Absatz 3 der Verordnung Nr. 17 veröffentlichte Zusammenfassung (2) des Antrags und der Anmeldung,
+nach Konsultierung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+in Erwägung nachstehender Gründe:
+I. SACHVERHALT
+A. Anmeldung
+(1) Am 28. Juli 1986 haben ALCATEL ESPACE SA, Frankreich, (nachstehend »ATES" genannt) und ANT Nachrichtentecnik GmbH, Deutschland, (nachstehend »ANT" genannt) der Kommission eine Vereinbarung gemeldet.
+(2) Gegenstand der Vereinbarung ist die Forschung und Entwicklung (FuE) elektronischer Ausrüstungen in den Bereichen des zivilen Funkverkehrs über Satelliten, der Rundfunksatelliten und der weltweiten Datenübertragung von, nach und zwischen Satelliten bzw. Raumfahrzeugen, die gemeinsame Nutzung der Ergebnisse und gegebenenfalls die gemeinsame Vermarktung dieser Ausrüstungen.
+(3) Mit der Anmeldung wurde gemäß den Artikeln 2 und 4 der Verordnung Nr. 17 ein Antrag auf Erteilung eines Negativattests oder ersatzweise einer Freistellung nach Artikel 85 Absatz 3 EWG-Vertrag gestellt.
+B. Die Parteien
+(4) ATES wird unmittelbar von ALCATEL CIT (Frankreich) kontrolliert, einer Tochtergesellschaft von ALCATEL NV, dem weltweit zweitgrössten Hersteller von Fernmeldeausrüstungen und -systemen. Innerhalb der ALCATEL-Gruppe ist ATES der bedeutendste Hersteller von elektronischen Anlagen für Satelliten bzw. Raumfahrzeuge. Im Jahr 1986 erzielte ATES einen Umsatz von 813 Millionen ffrs (120 Millionen ECU); hiervon entfielen 481,5 Millionen ffrs (71 Millionen ECU) auf den von der Vereinbarung erfassten Bereich.
+(5) ANT ist eines der führenden Unternehmen in Deutschland im Bereich der Telekommunikationstechnik. Die Anteile an diesem Unternehmen
+werden zu 83 % von der Robert Bosch GmbH und zu 17 % von der Allianz Versicherungs AG gehalten. Sein Umsatz belief sich im Jahr 1986 auf insgesamt 1 256 Millionen DM (590 Millionen ECU), wovon 124 Millionen DM (58 Millionen ECU) auf den von der Vereinbarung erfassten Bereich entfielen.
+C. Die Vereinbarung
+(6) Die wichtigsten Bestimmungen der Vereinbarung sind folgende:
+a) Gegenstand der Vereinbarung ist die Forschung und Entwicklung im Bereich der zivilen Weltraum-Kommunikationssysteme und -subsysteme, die in Satelliten und/oder Weltraumfahrzeugen für
+- zivilen Funkverkehr über Satelliten, Direkt-Satelliten-Fernsehübertragungen und die
+- Datenübertragung von, nach und zwischen Satelliten bzw. Raumfahrzeugen für die Zwecke u. a. des Fernmessens, der Nachführung und Steuerung und der Beobachtung eingesetzt werden.
+b) Mit der Zusammenarbeit der Parteien sollen parallele Forschungs- und Entwicklungstätigkeiten vermieden und bei der Verwertung der Ergebnisse die Ressourcen im Hinlick auf die Rationalisierung der Fertigung, die Erprobung und die Wartung von Systemen gebündelt werden; die Zusammenarbeit erstreckt sich ferner auf Angebote und Auftragsverhandlungen. Dieses Ziel soll normalerweise dadurch erreicht werden, daß die Entwicklung und die Herstellung jedes Ausrüstungteils der einen oder anderen Partei übertragen wird. Die Vereinbarung enthält Richtlinien für die Aufteilung der verschiedenen Ausrüstungselemente zwischen den Parteien. Angesichts der grossen Verschiedenartigkeit des an Bord jedes einzelnen Satelliten (oder kleiner Satellitenserien) transportierten Materials werden die Richtlinien jedoch durch ein Verfahren zur Zuteilung der Arbeiten in jedem bestimmten Satellitenprojekt ergänzt.
+Die Bestimmungen der Vereinbarung verwehren den Parteien keine Tätigkeiten ausserhalb ihres Geltungsbereichs, sofern diese mit den von den Parteien eingegangenen Verpflichtungen vereinbar sind.
+c) Verfahren der Zusammenarbeit
+i) Jede Partei ist bestrebt, die Spezifikationen der Satelliten-Nutzlasten und Subsysteme, für die sie verantwortlich ist, auf eine Weise zu gestalten, daß die von der anderen Partei entwickelten Ausrüstungen unter bestmöglichen Voraussetzungen eingesetzt werden können.
+ii) Die Parteien tauschen regelmässig Informationen über ihr jeweiliges FuE-Programm im Bereich der Ausrüstungen aus.
+iii) Nachdem einer Partei bestimmte Ausrüstungen durch gemeinsame Vereinbarung endgültig zugeteilt worden sind, gilt folgende Regelung:
+- Vor der Entwicklung der Geräte wird die andere Partei über die zu verfolgenden Ziele hinsichtlich Leistungsmerkmalen, Kosten und Lieferpläne konsultiert.
+- Die entwickelnde Partei ist zuständig für die Beschaffung der FuE-Mittel.
+- Die entwickelnde Partei ist zuständig für die FuE-Tätigkeiten und für die Herstellung der betreffenden Ausrüstungen, wobei sie die andere Partei über die Ergebnisse ihrer Forschung und Entwicklung vollständig informiert.
+- Will die entwickelnde Partei über Teile der Forschung und Entwicklung oder die Herstellung der betreffenden Ausrüstungen Unterverträge abschließen, so gibt sie der anderen Partei den Vorzug.
+- Die andere Partei wird dieselbe Ausrüstung nicht selbständig entwickeln.
+- Die andere Partei erwirbt die Ausrüstungen von der entwickelnden Partei. Erfuellen diese Ausrüstungen nicht die Erfordernisse hinsichtlich Leistungsfähigkeit, Preisen und Lieferfristen, so können nach vorheriger Benachrichtigung der entwickelnden Partei und in enger Zusammenarbeit mit dieser konkurrierende Angebote anderer Lieferanten eingeholt werden.
+d) Relevante Patente, die sich im Besitz einer Partei befinden, und Patente, für die von einer Partei Lizenzen vergeben werden dürfen, werden der anderen Partei mitgeteilt, die eine gebührenfreie und nichtausschließliche Lizenz zu deren Nutzung für Tätigkeiten im Rahmen der Vereinbarung erhält.
+Patentanträge von Erfindungen, die von Angestellten beider Parteien gemeinsam gemacht worden sind, werden im Namen beider Parteien vorgelegt.
+e) Jede Partei verpflichtet sich, die von der anderen Partei erhaltenen vertraulichen Angaben geheimzuhalten und sie nur für die Zwecke der Vereinbarung zu benutzen und weiterzugeben. Bei Ablauf der Vereinbarung gibt jede Partei die von der anderen Partei erhaltenen vertraulichen Dokumente zurück.
+Die Geheimhaltungspflicht gilt nach Ablauf der Vereinbarung für weitere fünf Jahre.
+f) In Zusammenkünften zwischen dem zuständigen Personal beider Partein werden technische Fragen und Fragen der Vermarktung geprüft.
+Die Parteien unterrichten sich regelmässig über die allgemeinen technischen und kommerziellen Entwicklungen, von denen sie Kenntnis erlangt haben und die für ihre gemeinsamen FuE-Tätigkeiten und die Nutzung von deren Ergebnissen von Bedeutung sein können.
+g) i) Exekutivausschuß
+Jede Partei ernennt drei Mitglieder ihres Exekutivausschusses. Die Beschlüsse dieses Ausschusses erfolgen einstimmig und binden beide Parteien. Der Exekutivausschuß trifft die Grundsatzentscheidungen und erstellt die Leitlinien für die Durchführung der Vereinbarung und ihre künftige Gestaltung.
+ii) Lenkungsausschuß
+Jede Partei entsendet in den Lenkungsausschuß drei Mitglieder. Seine Beschlüsse ergehen einstimmig und binden beide Parteien. Fragen, in denen keine Einstimmigkeit erzielt werden konnte, werden dem Exekutivausschuß vorgelegt.
+Der Lenkungsausschuß trifft in Durchführung der Vorgaben des Exekutivausschusses die wichtigsten Entscheidungen in Vermarktungsfragen sowie in technischen und industriellen Fragen. Hierzu zählen die Festlegung von Vorhaben und Strategien, die Zusammenarbeit im Bereich der Vermarktung, die Durchführung der Zusammenarbeit in den Bereichen Forschung, Entwicklung und Fertigung sowie die Entscheidungen über die gemeinsame Nutzung von Ausrüstungen.
+h) Nutzung der Ergebnisse
+Für die Nutzung der Ergebnisse sind drei Möglichkeiten vorgesehen:
+i) gemeinsame Vermarktung: gemeinsame Herstellung und Lieferung im Anschluß an den Zuschlag für ein von beiden Parteien gemeinsam vorgelegtes Angebot;
+ii) getrennte Vermarktung: nur eine Partei ist Generalunternehmer/Lieferant und
+iii) unabhängige Vermarktung: nur eine Partei liefert Geräte und Ausrüstungen aus eigener Fertigung.
+Für jedes Projekt der gemeinsamen oder getrennten Vermarktung, einschließlich der Ausschreibungen, ist der Lenkungsausschuß für die Strategie und die Bestimmung einer Partei als Generalunternehmer zuständig.
+Die im Falle der getrennten Vermarktung als Generalunternehmer tätige Partei gewährleistet soweit wie möglich, daß die andere Partei aufgrund von Unterverträgen alle Ausrüstungen liefert, die von ihr selbst nicht hergestellt werden.
+Beiden Parteien steht es frei, Ausrüstungen aus eigener Fertigung unabhängig zu verwerten.
+Jede Partei liefert der anderen die von ihr angeforderten Geräte und Einzelteile.
+i) Die Vereinbarung hat eine anfängliche Laufzeit von fünf Jahren, die sich automatisch um jeweils drei weitere Jahre verlängert, sofern sie nicht von einer Partei unter Einhaltung einer Frist von wenigstens einem Jahr schriftlich gekündigt wird.
+Nach der Kündigung können Patentlizenzen auf Antrag des Lizenznehmers verlängert werden, sofern sich die Parteien auf zumutbare und nichtdiskriminierende Bedingungen geeinigt haben.
+j) Streitfälle, die durch Verhandlungen nicht gelöst werden können, werden durch Schiedsspruch geschlichtet.
+k) In der Anlage 1 werden folgende Geräte aufgeführt und für die Zuteilung auf die Parteien empfohlen:
+- Empfangsgerät (RCVR),
+- Eingangsverteiler (IMUX),
+- Kanalverstärker (CAMP),
+- Leistungsverstärker (HPA),
+- Ausgangssammler (OMUX),
+- TTC-Transponder.
+Diese Geräte stellen nur einen verhältnismässig kleinen Teil der Ausrüstungen dar, die Gegenstand der Vereinbarung sind, und kein Gerät kann als ein Endprodukt betrachtet werden, wie es ein kompletter Satellit ist. Die aufgeführten Geräte werden in Relais-, Nachführungs-, Fernmeß- und Steuersubsysteme eingebaut. Keines der vorgenannten Geräte kann in anderen Bereichen als denen der Raumfahrt verwendet werden.
+(1) ABl. Nr. 13 vom 21. 2. 1962, S. 204/62.
+(2) ABl. Nr. C 179 vom 15. 7. 1989, S. 9.
+D. Erzeugnisse und Markt
+Natur der Nachfrage
+(7) Der Markt der Satelliten und ihrer Komponenten ist in dem Sinne ungewöhnlich, daß jeder Satellit (oder kleine Serien von Satelliten) ein gezieltes Vorhaben darstellt, das neu entwickelte oder zumindest stark angepasste Komponenten erforderlich macht, die nach einer individuellen, von den besonderen Bedürfnissen des Kunden abhängenden Konzeption zusammengebaut werden. Angesichts der hohen Technologie erfordert jedes neue Satellitenvorhaben eine wesentliche Einbringung von Forschung und Entwicklung, die mit der Herstellung des dem Prototyp nahekommenden Satelliten und seiner Komponenten eng verbunden sind. Die Satelliten müssen ausserdem stabil gebaut und zuverlässig, aber gleichzeitig möglichst leicht sein. Mit Rücksicht auf diese gesamten Faktoren legen die Benutzer der Satelliten und die Generalunternehmer Wert auf eine sehr enge Kooperation zwischen allen betroffenen Parteien bei der Entwicklung eines bestimmten Satelliten.
+Marktanteile und Wettbewerbsposition
+(8) Es gibt eine Vielzahl von Wettbewerbern bei der Herstellung und dem Absatz der von der Vereinbarung erfassten Geräte, darunter 18 in der Gemeinschaft, 3 in Schweden, 6 in den Vereinigten Staaten, 2 in Kanada und 3 in Japan.
+Die nachstehende Übersicht enthält Schätzungen über den weltweiten Raumfahrtumsatz der wichtigsten Satellitenhersteller in Europa und der übrigen Welt.
+(Millionen ECU)
+1.2 // // // Nicht-Europäer // // Hughes // [ . . . ] (1) // General Electric // [ . . . ] // Europäer // // British Ärospace // [ . . . ] // Matra // [ . . . ] // Ärospatiale // [ . . . ] // MBB // [ . . . ] // Selania Spazio // [ . . . ] // Alcatel Espace // [ . . . ] // Marconi // [ . . . ] // Äritalia // [ . . . ] // ANT // [ . . . ] // //
+Diese Zahlen machen deutlich, daß der kombinierte Umsatz von Alcatel und ANT auf diesem Gebiet geringer ist als der Umsatz von mehreren anderen europäischen Herstellern und um ein Vielfaches geringer als der Umsatz einiger aussereuropäischer Hersteller.
+Selbst wenn der relevante Markt in enger Auslegung als Markt der Erzeugnisse definiert wird, die Gegenstand der Kooperation sind, und geographisch auf Kunden in der Gemeinschaft beschränkt wird, bleibt der kombinierte Marktanteil der Parteien unter 20 %. Bei Berücksichtigung des Weltmarktes oder des gesamten Satellitenmarktes ist ihr kombinierter Marktanteil viel geringer.
+Ausserdem scheint für alle Aspekte der Satellitenherstellung ein Lernprozeß wesentlich zu sein, so daß ein Unternehmen um so wirksamer neue Satelliten oder ihre Komponenten entwickeln und herstellen kann, je mehr es an ähnlichen (zivilen und militärischen) Raumfahrtprojekten teilnimmt. Dies trifft insbesondere für die Raumfahrtindustrie der Vereinigten Staaten zu, wo die Zahl der Raumfahrtprojekte grösser ist als in Europa. Für Raumfahrttätigkeiten wurden in den Vereinigten Staaten und in Europa 1986 insgesamt folgende Haushaltsmittel aufgewendet:
+(in Milliarden US-Dollar)
+1.2 // // // USA // // - Verteidigungsministerium // 14 // - NASA // 7 // // // Insgesamt // 21 // // // Europa // // - Haushaltsmittel // 0,84 // - European Space Agency (ESA) // 1,36 // // // Insgesamt // 2,20 // //
+Quelle: Euroconsult.
+Aufgrund ihrer weltweit starken Stellung und der Grösse ihres einheimischen Marktes übersteigen die FuE-Haushalte und/oder die finanziellen und kommerziellen Ressourcen bestimmter aussereuropäischer Hersteller von Weltraumausrüstungen bei weitem die Mittel der europäischen Hersteller. Sie erfassen damit wesentlich grössere Tätigkeitsfelder auf den Gebieten elektronische Ausrüstungen, Subsysteme und Systeme als ihre europäischen Konkurrenten.
+Dies mag eine Erklärung dafür sein, daß europäische Hersteller lediglich bezueglich der Subsysteme und der Ausrüstungen als Wettbewerber auftreten, während andere Hersteller beim Endprodukt Wettbewerber sind, was sich naturgemäß auf die Wettbewerbsstruktur auswirkt.
+Die Beteiligung der Parteien an de
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ensichtlich über den Angebotspreis verständigt haben und sind so in ihrer Preisfestsetzung beschränkt. Dies hat u. a. zur Folge, daß die Vereinbarung unter Artikel 6 (insbesondere 6d) der Verordnung fällt. Obwohl der Marktanteil der Parteien in der Gemeinschaft unter 20 % liegt, ist daher die Verordnung (EWG) Nr. 418/85 auf diesen Fall nicht anwendbar, ohne daß eine Ausdehnung der Freistellung im Wege des Widerspruchsverfahrens in Betracht kommen kann.
+C. Artikel 85 Absatz 3 EWG-Vertrag
+(18) Das zwischen den Vertragsparteien vereinbarte gemeinsame Forschungs- und Entwicklungsprogramm ist ein Beitrag zur Förderung des technischen und wirtschaftlichen Fortschritts.
+Die von der Vereinbarung erfassten Ausrüstungen sind technisch hochwertige Geräte, deren Entwicklung kostenaufwendig ist und ein hohes Maß an technischen Fähigkeiten erfordert. Angesichts der in diesem Bereich vorhandenen Risiken würden getrennt betriebene Forschungs- und Entwicklungstätigkeiten wahrscheinlich zu weniger schnellen, effizienten und wirtschaftlichen Ergebnissen als gemeinsam unternommene Anstrengungen führen.
+Im Hinblick auf die Kostenoptimierung soll die Höhe der von jeder Partei zu bestreitenden FuE-Aufwendungen unverändert bleiben. Aufgrund der durch diese Kostenoptimierung erzielten Spezialisierung der Parteien auf bestimmte Ausrüstungen wird die Entwicklung einer grösseren Palette an Erzeugnissen ermöglicht, die auf den Markt gelangen können.
+In jedem Weltraumprogramm werden alle Ausrüstungsteile als Prototypen entwickelt, und der davon erwartete Rationalisierungseffekt soll zum Angebot eines höherwertigeren Geräts zu günstigeren Kosten führen. Ferner sollen wiederholte Entwicklungserfahrungen bei Prototypen derselben Geräteklasse dazu führen, daß die Parteien zu einem von anderen Herstellern bereits erzielten Ausmaß an Satellitenfertigung gelangen. Angesichts der Zahl und Bedeutung anderer Wettbewerber auf diesem Gebiet ist es sehr unwahrscheinlich, daß die Verringerung des Wettbewerbs zwischen diesen beiden Wettbewerbern es ihnen gestattet, ihre Preise bedeutend zu erhöhen.
+Die in der Vereinbarung vorgesehene Zusammenarbeit soll nicht nur zu besseren und schnelleren technischen Lösungen, sondern auch zur Vermeidung paralleler FuE-Anstrengungen und damit ebenfalls zu Kosteneinsparungen führen.
+Die Vereinbarung ist somit ein Beitrag zur Förderung des technischen Fortschritts und lässt erwarten, daß diese in Form von verbesserten Produkten an die Benutzer weitergegeben wird.
+(19) Die Vereinbarung erlegt den Parteien nur Beschränkungen auf, die für die Verwirklichung dieser Ziele unerläßlich sind.
+Der Anwendungsbereich der Vereinbarung und die Ziele des FuE-Programmes sind eindeutig festgelegt. Die Vereinbarung hindert die Parteien nicht darn, Tätigkeiten ausserhalb ihres begrenzten Anwendungsbereichs auszuführen und enthält keine Verpflichtungen für eine endgültige Zuteilung der zu entwickelnden Geräte und Ausrüstungen.
+Der geringe Vorzug, welcher der anderen Partei bei Unterverträgen eingeräumt wird, ist lediglich Ausdruck der komplexen Vereinbarung über Spezialisierung von Forschung und Entwicklung und von Produktion.
+Die den Parteien auferlegte Verpflichtung, bestimmte, der anderen Partei vorbehaltene Geräte nicht zu entwickeln, erklärt sich aus der damit verbundenen Rationalisierungswirkung, die zu besseren Ergebnissen und einer grösseren Wettbewerbsfähigkeit führen soll.
+(20) Die Natur der Nachfrage macht es im vorliegenden Fall unpraktikabel, gemeinsam zu forschen, zu entwickeln und herzustellen, aber getrennt zu vertreiben. Dies ergibt sich aus der notwendigen engen Zusammenarbeit zwischen dem Benutzer, dem Hauptlieferanten des Satelliten (Generalunternehmer) und den Unterlieferanten (den Parteien). Benutzer und ihre Hauptlieferanten legen Wert darauf, sehr eingehend die Hersteller der einzelnen Teile und alle relevanten technischen Details zu kennen, da es normalerweise nicht möglich ist, einen Satelliten zu reparieren, wenn er sich einmal in der Umlaufbahn befindet. Wettbewerb findet normalerweise dadurch statt, daß Kunden Angebote einholen, die dann durch speziell für diesen Fall gebildete Konsortien unterbreitet werden. Bei jedem Vorhaben, bei welchem die beiden Parteien als Wettbewerber auftreten wollten, müsste jede Partei im Falle des getrennten Vertriebs gegenüber dem Endbenutzer entweder in demselben Konsortium oder als Mitglied von rivalisierenden Konsortien ihr eigenes Angebot und gleichzeitig das rivalisierende Angebot der anderen Partei unterstützen. Dieselben technischen Sachverständigen müssten also gegenüber demselben Benutzer zweimal ein identisches technisches Angebot beschreiben und unterstützen. In diesem Zusammenhang könnte der Benutzer zweifeln, ob die beiden Partner, die es unterlassen haben, bei einem gemeinsamen Angebot für den Vertrieb zusammenzuarbeiten, tatsächlich in der Lage sind, in technischer Hinsicht erfolgreich zusammenzuarbeiten. Dies könnte sie veranlassen, anderswo zu kaufen. Darum können die Vorteile einer gemeinsamen Forschung und Entwicklung und einer gemeinsamen Herstellung in diesem besonderen Fall nur dann erzielt werden, wenn diese in einem gewissen Grad mit einem gemeinsamen Vertrieb kombiniert werden.
+Ausserdem gestattet die Vereinbarung sowohl unabhängige Vertriebsformen (getrennt vermarktete Vorhaben) als auch die üblichen Formen der vertraglichen Zusammenarbeit, wie zum Beispiel gemeinsame Lieferung (gemeinsam vermarktete Vorhaben), Zulieferverträge und getrennten Ankauf (einzeln vermarktete Vorhaben). Im Bereich der Beschaffung besteht zwischen beiden Parteien Wettbewerb hinsichtlich Leistungen, Preisen und Lieferzeiten, und beide Parteien haben das Recht, Lieferangebote von Dritten in Erwägung zu ziehen und anzunehmen.
+Im Falle der von jeder Partei getrennt vermarkteten Vorhaben kann die Partei ein nicht von ihr entwickeltes Gerät erwerben, indem sie es unmittelbar von der anderen Partei bezieht, oder von Dritten bezieht, die hinsichtlich Leistung, Preisen und Lieferzeiten bessere Konditionen anbieten.
+Falls sich getrennter Vertrieb ausnahmsweise als lebensfähig erweisen sollte, stuende es den Parteien frei, diesen Weg zu wählen.
+(21) Der Marktanteil der Parteien, wie immer er definiert sein mag, ist nicht groß, und sowohl innerhalb als auch ausserhalb der Gemeinschaft gibt es viele andere grosse Hersteller, die als aktive oder potentielle Wettbewerber für den Gemeinsamen Markt in Betracht kommen. Einige von ihnen haben eine grösseres Produktangebot und weit umfangreichere Verkäufe als die Parteien. Es besteht also keine Möglichkeit, daß die Vereinbarung als solche den Parteien erlauben könnte, im Gemeinsamen Markt Wettbewerb für diese Produkte auszuschalten.
+(22) Somit sind alle Voraussetzungen des Artikels 85 Absatz 3 EWG-Vetrag erfuellt.
+D. Artikel 8 der Verordnung Nr. 17
+(23) Gemäß Artikel 8 Absatz 1 der Verordnung Nr. 17 ist eine Erklärung nach Artikel 85 Absatz 3 EWG-Vertrag für eine bestimmte Zeit abzugeben und kann mit Bedingungen und Auflagen verbunden werden.
+(24) Die Vereinbarung kann gemäß Artikel 85 Absatz 3 EWG-Vertrag ab dem Tage ihrer Anmeldung, dem 28. Juli 1986, bis zu ihrer Beendigung, jedoch nicht über den 31. Dezember des Jahres 1996 hinaus, genehmigt werden.
+(25) Angesichts der besonderen Umstände dieses Falles sind die Voraussetzungen für eine Freistellung für den genannten Zeitraum erfuellt.
+(26) Die Freistellung gilt ausschließlich für die angemeldete Vereinbarung und erstreckt sich nicht auf Änderungen oder Zusätze. In diesem Fall können die Vorteile der Zusammenarbeit bei FuE und der Spezialisierung bei der Herstellung nur durch einen viel höheren Grad der Koordinierung zwischen den Parteien erzielt werden, als dies in einer üblicheren Vereinbarung über Spezialisierung oder Zusammenarbeit bei FuE zulässig wäre, und in dieser Hinsicht kann die Zusammenarbeit der Koordinierung in einem Gemeinschaftsunternehmen näherkommen.
+Dies veranlasst die Kommission, darüber zu wachen, ob diese Vereinbarung in Verbindung mit anderen gemeinsamen Tätigkeiten der Parteien zu einer wesentlichen Verminderung des Wettbewerbs führen kann, da dann die erforderlichen Voraussetzungen für eine Freistellung nicht länger vorliegen würden. Die Entscheidung muß daher die Parteien verpflichten, der Kommission unverzueglich den Abschluß jeglicher Vereinbarung oder Regelung, mit der die angemeldete Vereinbarung bzw. Regelung geändert, ersetzt oder beendet wird, und jegliche gemeinsamen Tätigkeiten der Parteien im Bereich von elektronischen Raumfahrtausrüstungen, die von der angemeldeten Vereinbarung nicht erfasst werden, zu melden -
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+Artikel 1
+Die Bestimmungen von Artikel 85 Absatz 1 EWG-Vertrag werden in Anwendung von Artikel 85 Absatz 3 auf die zwischen Alcatel Espace SA und ANT Nachrichtentechnik GmbH am 11. Februar 1986 geschlossene und am 28. Juli 1986 angemeldete Vereinbarung für nicht anwendbar erklärt.
+Artikel 2
+Diese Entscheidung ist mit folgenden Auflagen verbunden:
+- Die Parteien sind verpflichtet, die Kommission unverzueglich von Vereinbarungen oder Regelungen in Kenntnis zu setzen, mit denen sie die angemeldete Vereinbarung ändern, ersetzen oder beenden.
+- Ausserdem unterrichtet jede Partei die Kommission über jede Vereinbarung oder Regelung, die sie mit Dritten oder der anderen Partei über gemeinsame Tätigkeiten im Bereich der elektronischen Raumfahrtsausrüstungen schließt, sofern solche Vereinbarungen oder Regelungen grössere Vorhaben (in Umfang oder strategischer Bedeutung) betreffen und nicht als Kooperation bezueglich einzelner Vorhaben betrachtet werden können.
+Artikel 3
+Diese Entscheidung ist vom 28. Juli 1986 bis 31. Dezember 1996 gültig.
+Artikel 4
+Diese Entscheidung ist gerichtet an
+1. Alcatel Espace SA, 11, avenü Dubonnet, F-92107 Courbevoie,
+2. ANT Nachrichtentechnik GmbH, Gerberstrasse 33, D-7150 Backnang.
+Brüssel, den 12. Januar 1990
+Für die Kommission
+Leon BRITTAN
+Vizepräsident
+(1) ABl. Nr. L 53 vom 22. 2. 1985, S. 5.

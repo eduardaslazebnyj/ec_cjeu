@@ -1,0 +1,596 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+DE DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 15 X 2008
+K(2008) 5955 endg.
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 15 X 2008
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+
+Sache COMP/39188 - Bananen
+
+(NUR DER DEUTSCHE UND DER ENGLISCHE TEXT SIND VERBINDLICH)
+
+Teile dieses Textes wurden ausgelassen, um zu gewährleisten, dass keine vertraulichen
+Informationen bekanntgegeben werden; diese Teile sind durch [...] gekennzeichnet.
+
+DE 1 DE
+
+INHALTSVERZEICHNIS
+
+1. EINLEITUNG........................................................................................................ 5
+
+2. DIE VOM VERFAHREN BETROFFENE BRANCHE....................................... 6
+
+2.1. Das Produkt............................................................................................................ 6
+
+2.2. Von diesem Verfahren betroffene Unternehmen.................................................. 6
+
+2.2.1. Chiquita ................................................................................................................... 6
+
+2.2.2. Dole ......................................................................................................................... 7
+
+2.2.3. Weichert................................................................................................................... 8
+
+2.2.4. Del Monte ................................................................................................................ 8
+
+2.2.5. Andere Bananenlieferanten ...................................................................................... 9
+
+2.3. Beschreibung des Sektors..................................................................................... 10
+
+2.3.1. Angebot ................................................................................................................. 10
+
+2.3.2. Nachfrage .............................................................................................................. 13
+
+2.3.3. Ordnungspolitischer Rahmen ................................................................................. 13
+
+2.3.4. Räumlicher Geltungsbereich .................................................................................. 15
+
+2.4. Zwischenstaatlicher Handel................................................................................. 15
+
+3. VERFAHREN ...................................................................................................... 16
+
+3.1. Die Untersuchung der Kommission..................................................................... 16
+
+3.2. Mitteilung der Beschwerdepunkte und mündliche Anhörung ........................... 16
+
+4. BESCHREIBUNG DES KARTELLS ................................................................. 17
+
+4.1. Übersicht über das Kartell................................................................................... 17
+
+4.2. Organisation des Kartells..................................................................................... 19
+
+4.2.1. Kartellteilnehmer ................................................................................................... 19
+
+4.2.2. Zeitpunkt der Kommunikation ................................................................................ 22
+
+4.2.3. Häufigkeit der Kommunikation............................................................................... 24
+
+4.3. Dauer .................................................................................................................... 29
+
+4.4. Gegenstand der Kommunikation......................................................................... 31
+
+4.4.1. Übersicht ............................................................................................................... 31
+
+4.4.2. Sachlicher Hintergrund.......................................................................................... 31
+
+4.4.3. Räumliche Abdeckung............................................................................................ 46
+
+DE 2 DE
+
+4.4.4. Gegenstand der Absprachen................................................................................... 48
+
+4.5. Austausch von Listenpreisen am Donnerstag ..................................................... 60
+
+5. ANWENDUNG VON ARTIKEL 81 EG-VERTRAG......................................... 63
+
+5.1. Anwendbarkeit des EG-Vertrags und Zuständigkeit ......................................... 63
+
+5.2. Anwendung von Artikel 81 Absatz 1 EG-Vertrag .............................................. 64
+
+5.2.1. Artikel 81 Absatz 1 EG-Vertrag.............................................................................. 64
+
+5.2.2. Vereinbarungen und abgestimmte Verhaltensweisen .............................................. 64
+
+5.2.3. Eine einzige fortdauernde Zuwiderhandlung .......................................................... 72
+
+5.2.4. Beschränkung des Wettbewerbs.............................................................................. 78
+
+5.2.5. Umsetzung............................................................................................................ 106
+
+5.2.6. Auswirkungen auf den Handel zwischen Mitgliedstaaten...................................... 106
+
+5.3. Nichtanwendbarkeit von Artikel 81 Absatz 3 EG-Vertrag .............................. 107
+
+5.4. Verordnung (EWG) Nr. 26/62 des Rates........................................................... 109
+
+5.5. Wirtschaftliche Argumente................................................................................ 111
+
+5.6. Argumente im Zusammenhang mit dem Verfahren......................................... 114
+
+5.7. Schlussfolgerungen hinsichtlich der Anwendung von Artikel 81 EG-Vertrag 118
+
+6. ADRESSATEN................................................................................................... 118
+
+6.1. Grundsätze ......................................................................................................... 118
+
+7. DAUER DER ZUWIDERHANDLUNG............................................................ 138
+
+7.1. Beginn- und Enddatum...................................................................................... 138
+
+7.2. Anwendung von Verjährungsfristen ................................................................. 139
+
+8. ABHILFEMASSNAHMEN............................................................................... 139
+
+8.1. Artikel 7 der Verordnung (EG) Nr. 1/2003 des Rates....................................... 139
+
+8.2. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003...................................... 140
+
+8.3. Grundbetrag der Geldbuße ............................................................................... 140
+
+8.3.1. Bestimmung des Wertes der verkauften Waren ..................................................... 140
+
+8.4. Anpassungen des Grundbetrags ........................................................................ 144
+
+8.4.1. Erschwerende Umstände ...................................................................................... 144
+
+8.4.2. Mildernde Umstände............................................................................................ 144
+
+8.4.3. Aufschlag zur Gewährleistung einer abschreckenden Wirkung............................. 149
+
+8.4.4. Ermittelte angepasste Grundbeträge .................................................................... 149
+
+DE 3 DE
+
+8.5. Anwendung der Beschränkung auf 10 % des Gesamtumsatzes....................... 149
+
+8.6. Anwendung der Kronzeugenregelung............................................................... 150
+
+8.6.1. Chiquita ............................................................................................................... 150
+
+8.7. Leistungsfähigkeit der Unternehmen ................................................................ 151
+
+8.7.1. [...] ...................................................................................................................... 151
+
+Beurteilung der Kommission.............................................................................................. 151
+
+8.8. Höhe der im Rahmen der vorliegenden Entscheidung zu verhängenden
+Geldbußen .......................................................................................................... 151
+
+DE 4 DE
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 15 X 2008
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+
+Sache COMP/39188 - Bananen
+
+(Nur der deutsche und der englische Text sind verbindlich.)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln,1
+insbesondere auf Artikel 7 und Artikel 23 Absatz 2,
+
+angesichts der Entscheidung der Kommission vom 14. Juni 2007 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nach Aufforderung der beteiligten Unternehmen zur Stellungnahme zu den von der
+Kommission mitgeteilten Beschwerdepunkten gemäß Artikel 27 Absatz 1 der Verordnung
+(EG) Nr. 1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission vom
+7. April 2004 über die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82
+EG-Vertrag durch die Kommission2,
+
+nach Stellungnahme des Beratenden Ausschusses für Kartell- und Monopolfragen,3
+
+in Kenntnis des Abschlussberichts des Anhörungsbeauftragten in dieser Sache,4
+
+in Erwägung nachstehender Gründe:
+
+1. EINLEITUNG
+
+1 ABl. L 1 vom 04.01.2003, S. 1..
+2 ABl. L 123 vom 27.04.2004, S. 18.
+3 Wird im Amtsblatt veröffentlicht.
+4 Wird im Amtsblatt veröffentlicht.
+
+DE 5 DE
+
+(1) Diese Entscheidung bezieht sich auf eine abgestimmte Verhaltensweise zwischen
+verschiedenen Bananenlieferanten, durch welche diese ihre wöchentlich von jedem
+einzelnen festgelegten Listenpreise für Bananen koordinierten.
+
+(2) Die Zuwiderhandlung, die Gegenstand dieser Entscheidung ist, betrifft die Lieferung
+von Bananen in die Region Nordeuropa der Gemeinschaft. Für die Zwecke der
+vorliegenden Entscheidung umfasst die „Region Nordeuropa“ Belgien, Dänemark,
+Deutschland, Finnland, Luxemburg, die Niederlande, Österreich und Schweden.
+
+(3) Die Zuwiderhandlung erstreckte sich über den Zeitraum vom 1. Januar 2000 bis zum
+31. Dezember 2002 (vgl. für die Dauer betreffend einzelne Unternehmen
+Abschnitte 4.3 und 7.1).
+
+2. DIE VOM VERFAHREN BETROFFENE BRANCHE
+
+2.1. Das Produkt
+
+(4) Bei dem vom Verfahren betroffenen Produkt handelt es sich um Bananen
+(Frischobst).5 Von der vorliegenden Entscheidung sind sowohl nicht gereifte (grüne)
+Bananen als auch gereifte (gelbe) Bananen erfasst.
+
+(5) Aufgrund von Markenpräferenzen erfolgt hinsichtlich des Produkts eine gewisse
+Differenzierung (vgl. Abschnitt 2.3.1). Bananen werden 52 Wochen im Jahr
+angeboten, wobei die Nachfrage im ersten Halbjahr etwas höher und im zweiten
+Halbjahr, insbesondere während des Sommers, etwas niedriger ist. Die in die Region
+Nordeuropa eingeführten Bananen stammen vorwiegend aus dem karibischen Raum,
+Mittelamerika und einigen afrikanischen Staaten. Sie werden in Kühlschiffen in
+europäische Häfen transportiert.
+
+(6) Auf der Grundlage amtlicher Statistiken wird der sichtbare Verbrauch6 von Bananen
+in dem von der Entscheidung abgedeckten räumlichen Gebiet auf knapp unter
+90 Mio. Kisten im Jahr 2002 geschätzt (vgl. Abschnitt 2.3.1).
+
+2.2. Von diesem Verfahren betroffene Unternehmen
+
+(7) Die Unternehmen, die sich an den in der vorliegenden Entscheidung beschriebenen
+Kontakten zwischen Mitbewerbern beteiligt haben, werden im Folgenden als „die
+Parteien“ bezeichnet. Die Adressaten der vorliegenden Entscheidung werden im
+Folgenden als „die Adressaten” bezeichnet.
+
+2.2.1. Chiquita
+
+5 Für die Zwecke der vorliegenden Entscheidung sind Verkäufe frischer Bananen definiert als Verkäufe
+von Bananen abzüglich getrockneter Bananen und Mehlbananen.
+6 Das Volumen des sichtbaren Verbrauchs wird berechnet, indem die Eurostat-Daten über die Einfuhr
+von Bananen in die Region Nordeuropa zusammengezählt und die Exporte vom Ergebnis abgezogen
+werden. Die Kommission geht davon aus, dass in der Region Nordeuropa keine Bananen produziert
+werden. Die Zahlen, auf denen die Berechnung basiert, können der Comext-Datenbank von Eurostat
+entnommen werden (http://epp.eurostat.ec.europa.eu). In den Eurostat-Angaben sind getrocknete
+Bananen und Mehlbananen berücksichtigt, die nicht Gegenstand der vorliegenden Entscheidung sind.
+Im Vergleich zu frischen Bananen sind getrocknete Bananen und Mehlbananen jedoch von sehr
+geringer Bedeutung. Durch Addition der Eurostat-Zahlen für die Einfuhr von Bananen in die Region
+Nordeuropa und Subtraktion der Ausfuhren gelangt die Kommission zu einer Zahl von
+1 578 697 000 kg für 2002, entsprechend 87 028 500 Kisten von 18,14 kg.
+
+DE 6 DE
+
+(8) Der Chiquita-Konzern ist eine internationale Handels- und Vertriebsgesellschaft für
+Bananen und anderes Frischobst, das in über 60 Ländern unter dem Markennamen
+Chiquita und unter anderen Markennamen (am bekanntesten für Bananen in der
+Region Nordeuropa ist die Marke Consul) verkauft wird. Das Unternehmen ist einer
+der größten Bananenproduzenten der Welt und der größte Bananenlieferant Europas.
+2007 erwirtschaftete Chiquita weltweit einen Umsatz von 3 402 Mio. EUR.7
+
+(9) Chiquita Brands International, Inc. (CBII) ist die Konzernmutter der Gruppe und an
+der New Yorker Börse notiert. In Europa verkauft und vertreibt der Chiquita-Konzern
+Bananen über mehrere [...] Tochtergesellschaften, u. a. über Chiquita International
+Ltd., Chiquita International Services Group N.V. und Chiquita Banana Company B.V.
+[...].8
+
+(10) Die am Bananengeschäft in Europa beteiligten Chiquita-Unternehmen werden
+nachstehend als „Chiquita“ bezeichnet. Die Personen, die Chiquita in den in der
+vorliegenden Entscheidung beschriebenen Kontakten mit Mitbewerbern vertreten
+haben, sind in Abschnitt 6.2.1 genannt.
+
+2.2.2. Dole
+
+(11) Der Dole-Konzern ist der weltweit größte Anbieter von frischem Obst und Gemüse
+sowie frischen Schnittblumen und eines der größten Bananenunternehmen der Welt.
+Dole bezieht und verkauft über 200 Produkte in mehr als 90 Ländern.9 Im Jahr 2007
+lag der weltweite Gesamtumsatz von Dole bei rund 5 057 Mio. EUR.10
+
+(12) Die Konzernmutter der Dole-Gruppe, die Dole Food Company, Inc., befindet sich im
+Privatbesitz von [...].11 In Europa verkauft und vertreibt der Dole-Konzern Bananen
+über zahlreiche Tochtergesellschaften, u. a. über die in Hamburg angesiedelte Dole
+Fresh Fruit Europe OHG; außerdem importiert und verkauft die Gruppe Bananen und
+andere Früchte in Europa. Dole verkauft hauptsächlich grüne Bananen an deutsche
+Einzelhändler, die über eigene Reifungskapazitäten verfügen, sowie an europäische
+Reifereien. Die Dole Fresh Fruit Europe OHG ist indirekt eine 100 %ige Tochter der
+Dole Food Company, Inc.12
+
+(13) Die am Bananengeschäft in Europa beteiligten Dole-Unternehmen werden
+nachstehend als „Dole“ bezeichnet. Die Personen, die Dole in den in der vorliegenden
+
+7 [...] Antwort auf den Fragebogen der Kommission vom 9
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ die Geldbußen eine ausreichend abschreckende Wirkung
+entfalten; zu diesem Zweck kann sie die Geldbußen gegen Unternehmen erhöhen, die
+besonders hohe Umsätze mit Waren oder Dienstleistungen, die nicht mit der
+Zuwiderhandlung in Zusammenhang stehen, erzielt haben.”
+
+(478) Die Kommission wendet für keinen der Adressaten einen Aufschlag zur
+Gewährleistung einer abschreckenden Wirkung auf die Geldbuße an.
+
+8.4.4. Ermittelte angepasste Grundbeträge
+
+(479) Die ermittelten angepassten Grundbeträge der gegen die Parteien zu verhängenden
+Geldbußen sind:
+
+Alle Beträge in EUR
+
+Chiquita 83 200 000
+
+Dole 45 600 000
+
+Del Monte/Weichert 14 700 000
+
+8.5. Anwendung der Beschränkung auf 10 % des Gesamtumsatzes
+
+(480) Artikel 23 Absatz 2 Unterabsatz 2 der Verordnung (EG) Nr. 1/2003 lautet: „Die
+Geldbuße für jedes an der Zuwiderhandlung beteiligte Unternehmen oder jede
+beteiligte Unternehmensvereinigung darf 10 % seines bzw. ihres jeweiligen im
+vorausgegangenen Geschäftsjahr erzielten Gesamtumsatzes nicht übersteigen.”
+
+(481) Die angepassten Grundbeträge der den Adressaten auferlegten Geldbußen bleiben
+unter 10 % des jeweiligen weltweiten Umsatzes von Chiquita, Dole und Del Monte.
+Daher wird keine Reduzierung der Geldbußen aufgrund der Begrenzung auf 10 % des
+Gesamtumsatzes vorgenommen.
+
+DE 149 DE
+
+8.6. Anwendung der Kronzeugenregelung
+
+(482) Wie in Abschnitt 3 angegeben, wurde die Untersuchung der Kommission im
+vorliegenden Fall eingeleitet, nachdem der Kommission durch Chiquita Informationen
+zur Kenntnis gebracht wurden und das Unternehmen einen Antrag auf Geldbußenerlass im Sinne der Kronzeugenregelung stellte.
+
+8.6.1. Chiquita
+
+(483) Chiquita war das erste Unternehmen, das die Kommission über ein geheimes Kartell
+im Zusammenhang mit dem Verkauf von Bananen in Kenntnis setzte. Am [...] stellte
+Chiquita einen Antrag auf Geldbußenerlass im Sinne der Kronzeugenregelung. [...]
+
+(484) Vor der Antragstellung hatte die Kommission keine Nachprüfungen im
+Zusammenhang mit dem unterstellten Kartell durchgeführt. Auch Beweismittel, auf
+deren Grundlage eine Nachprüfung hätte durchgeführt werden können, lagen der
+Kommission nicht vor. Da die von Chiquita bereitgestellten Informationen der
+Kommission den Erlass einer Entscheidung zur Durchführung von Nachprüfungen
+gemäß Artikel 20 Absatz 4 der Verordnung (EG) Nr. 1/2003 ermöglichten, wurde
+Chiquita ein bedingter Geldbußenerlass laut Randnummer 8 Buchstabe a der
+Kronzeugenregelung gewährt. Die Nachprüfungen fanden am 2. und 3. Juni 2005 statt.
+
+(485) In ihren Antworten auf die Mitteilung der Beschwerdepunkte bringen Dole und
+Weichert vor, die Kommission habe Chiquita fälschlicherweise einen bedingten
+Geldbußenerlass gewährt. Del Monte hat in seinem Brief vom 17. März 2008 ähnliche
+Zweifel geäußert. Diese Adressaten argumentieren, das Verhalten, über das Chiquita
+Informationen bereitgestellt habe, sei nicht geheim gewesen und Chiquita habe die
+Kommission falsch informiert. Die Kommission weist diese Vorbringen zurück. Die
+Kommission vertritt im Gegenteil die Auffassung, dass Chiquita im Laufe der
+Untersuchung der Kommission rechtzeitig Informationen lieferte. Die von Chiquita
+erhaltenen Informationen ermöglichten der Kommission die Durchführung
+unangekündigter Nachprüfungen im Zusammenhang mit einem mutmaßlichen
+geheimen Kartell.
+
+(486) Um für einen Geldbußenerlass in Frage zu kommen, muss der Antragsteller auf
+Geldbußenerlass gemäß Randnummer 8 Buchstabe a zusätzlich zu den dort genannten
+Kriterien für den bedingten Geldbußenerlass die in Randnummer 11 der
+Kronzeugenregelung festgelegten kumulativen Voraussetzungen erfüllen.
+Randnummer 11 Buchstabe a der Kronzeugenregelung sieht vor, dass der
+Antragssteller auf Geldbußenerlass während des Verwaltungsverfahrens in vollem
+Umfang kontinuierlich und zügig mit der Kommission zusammenarbeitet und der
+Kommission alle in seinem Besitz befindlichen oder anderweitig verfügbaren
+Beweismittel über das mutmaßliche Kartell vorlegt. Die Bedingung in
+Randnummer 11 Buchstabe a ist umfassend formuliert. Randnummer 11 Buchstaben b
+und c verlangen vom Antragsteller auf Geldbußenerlass, seine Teilnahme an der
+mutmaßlichen rechtswidrigen Handlung spätestens zu dem Zeitpunkt einzustellen, zu
+dem er die Beweismittel gemäß Randnummer 8 vorlegt, und fordern, dass der
+Antragsteller keine anderen Unternehmen zur Teilnahme an der rechtswidrigen
+Handlung gezwungen hat.
+
+DE 150 DE
+
+(487) Den der Kommission vorliegenden Nachweisen zufolge beendete Chiquita seine
+Beteiligung an der Zuwiderhandlung spätestens zu dem Zeitpunkt, zu dem es der
+Kommission zum ersten Mal Beweismittel vorlegte. Zudem liegen keine Hinweise
+dafür vor, dass Chiquita Druck auf andere Adressaten ausübte, sich an den
+Kartellabsprachen zu beteiligen. Die Kommission ist daher der Ansicht, dass Chiquita
+die Voraussetzungen gemäß Randnummer 11 Buchstabe a der Kronzeugenregelung
+erfüllt.
+
+(488) Unter Berücksichtigung dieser Ausführungen sollte Chiquita ein Erlass der
+Geldbußen, die andernfalls über das Unternehmen verhängt worden wären, gewährt
+werden.
+
+8.7. Leistungsfähigkeit der Unternehmen
+
+(489) Ziffer 35 der Leitlinien für Geldbußen 2006 hält fest: „Unter außergewöhnlichen
+Umständen kann die Kommission auf Antrag die Leistungsfähigkeit eines
+Unternehmens in einem gegebenen sozialen und ökonomischen Umfeld
+berücksichtigen. Die Kommission wird jedoch keine Ermäßigung wegen der bloßen
+Tatsache einer nachteiligen oder defizitären Finanzlage gewähren. Eine Ermäßigung
+ist nur möglich, wenn eindeutig nachgewiesen wird, dass die Verhängung einer
+Geldbuße gemäß diesen Leitlinien die wirtschaftliche Überlebensfähigkeit des
+Unternehmens unwiderruflich gefährden und ihre Aktiva jeglichen Wertes berauben
+würde.”
+
+8.7.1. [...]
+
+(490) [...]
+
+Beurteilung der Kommission
+
+(491) [...]
+
+8.8. Höhe der im Rahmen der vorliegenden Entscheidung zu verhängenden
+Geldbußen
+
+(492) Die Höhe der gemäß Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 zu
+verhängenden Geldbußen beträgt daher:
+
+- Chiquita
+
+- Chiquita Brands International Inc. EUR 0
+
+davon gesamtschuldnerisch mit:
+
+- Chiquita International Ltd., Chiquita International Services Group N.V. und Chiquita
+Banana Company B.V. EUR 0
+
+- Dole
+
+- Dole Food Company, Inc. EUR 45 600 000
+
+davon gesamtschuldnerisch mit:
+
+DE 151 DE
+
+- Dole Fresh Fruit Europe OHG EUR 45 600 000
+
+- Del Monte/Weichert
+
+- Fresh Del Monte Produce Inc. EUR 14 700 000
+
+davon gesamtschuldnerisch mit:
+
+- Internationale Fruchtimport Gesellschaft Weichert & Co. KG
+
+EUR 14 700 000
+
+DE 152 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen haben gegen Artikel 81 EG-Vertrag verstoßen, indem sie sich an
+einer abgestimmten Verhaltensweise zur Koordinierung von Listenpreisen für Bananen
+beteiligten:
+
+a) Chiquita Brands International Inc. vom 1. Januar 2000 bis zum 1. Dezember 2002
+
+b) Chiquita International Ltd. vom 1. Januar 2000 bis zum 1. Dezember 2002
+
+c) Chiquita International Services Group N.V. vom 1. Januar 2000 bis zum
+1. Dezember 2002
+
+d) Chiquita Banana Company B.V. vom 1. Januar 2000 bis zum 1. Dezember 2002
+
+e) Dole Food Company, Inc. vom 1. Januar 2000 bis zum 31. Dezember 2002
+
+f) Dole Fresh Fruit Europe OHG vom 1. Januar 2000 bis zum 31. Dezember 2002
+
+g) Internationale Fruchtimport Gesellschaft Weichert & Co. KG vom 1. Januar 2000
+bis zum 31. Dezember 2002
+
+h) Fresh Del Monte Produce Inc. vom 1. Januar 2000 bis zum 31. Dezember 2002.
+
+Von der Zuwiderhandlung betroffen waren die folgenden Mitgliedstaaten: Belgien,
+Dänemark, Deutschland, Finnland, Luxemburg, die Niederlande, Österreich und Schweden.
+
+Artikel 2
+
+Für die in Artikel 1 genannte Zuwiderhandlung werden folgende Geldbußen festgesetzt:
+
+a) Chiquita Brands International Inc., Chiquita International Ltd., Chiquita International
+Services Group N.V. und Chiquita Banana Company B.V. gesamtschuldnerisch:
+EUR 0
+
+b) Dole Food Company, Inc. und Dole Fresh Fruit Europe OHG gesamtschuldnerisch:
+EUR 45 600 000
+
+c) Internationale Fruchtimport Gesellschaft Weichert & Co. KG und Fresh Del Monte
+Produce Inc. gesamtschuldnerisch: EUR 14 700 000
+
+Die Geldbußen sind binnen drei Monaten ab dem Zeitpunkt der Bekanntgabe dieser
+Entscheidung in Euro auf folgendes Konto zu überweisen:
+
+DE 153 DE
+
+Kontonummer:
+
+642-0029000-95 der Europäischen Kommission bei der:
+
+Banco Bilbao Vizcaya Argentaria S.A.
+Avenue des Arts, 43
+BE-1040 Brüssel
+
+IBAN: BE76 6420 0290 0095
+SWIFT: BBVABEBB
+
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank bei ihren Hauptrefinanzierungsgeschäften am ersten Tag des
+Monats angewandt wird, in dem die vorliegende Entscheidung erlassen wurde, zuzüglich
+3,5 Prozentpunkte.
+
+Artikel 3
+
+Die in Artikel 1 angeführten Unternehmen stellen die dort genannte Zuwiderhandlung
+unverzüglich ab, sofern dies nicht bereits geschehen ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 genannten Handlung oder
+Verhaltensweise sowie von allen Handlungen oder Verhaltensweisen ab, die denselben oder
+einen ähnlichen Zweck bzw. dieselbe oder eine ähnliche Wirkung haben.
+
+Artikel 4
+
+Die vorliegende Entscheidung ist gerichtet an:
+
+Chiquita Brands International Inc.
+250 East Fifth Street
+Cincinatti, Ohio 45202
+USA
+
+Chiquita International Ltd.
+7 Reid Street Suite 109
+HM 2181 Hamilton
+BERMUDA
+
+Chiquita International Services Group N.V.
+Rijnkaai 37
+B-2000 Antwerpen
+BELGIEN
+
+Chiquita Banana Company B.V.
+Schelluinsestraat 46B
+4203 NM GORINCHEM
+NIEDERLANDE
+
+Dole Food Company, Inc.
+One Dole Drive
+Westlake Village
+
+DE 154 DE
+
+CA 91362-7300
+USA
+
+Dole Fresh Fruit Europe OHG
+Stadtdeich 7
+20097 Hamburg
+Deutschland
+
+Internationale Fruchtimport Gesellschaft Weichert & Co. KG
+Banksstrasse 28
+20097 Hamburg
+Deutschland
+
+Fresh Del Monte Produce Inc. c/o Del Monte Fresh Produce Company
+241 Sevilla Avenue
+Coral Gables,
+Florida 33134
+USA
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag.
+
+Brüssel, den 15 X 2008
+
+Für die Kommission
+
+Neelie KROES
+Mitglied der Kommission
+
+DE 155 DE

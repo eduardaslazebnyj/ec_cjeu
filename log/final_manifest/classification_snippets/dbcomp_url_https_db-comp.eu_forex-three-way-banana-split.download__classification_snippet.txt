@@ -1,0 +1,419 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40135 FOREX
+(Three Way Banana Split)
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 16/05/2019
+
+This text is made available for information purposes only. A summary of this decision is published
+in all EU languages in the Official Journal of the European Union.
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those
+parts are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 16.5.2019
+C(2019) 3631 final
+
+COMMISSION DECISION
+
+of 16.5.2019
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40135-FOREX (Three Way Banana Split)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 3
+2. The industry subject to the proceedings ....................................................................... 4
+2.1. The product .................................................................................................................. 4
+2.2. Undertakings subject to these proceedings .................................................................. 6
+2.2.1. UBS .............................................................................................................................. 6
+2.2.2. RBS .............................................................................................................................. 6
+2.2.3. Barclays ........................................................................................................................ 6
+2.2.4. Citigroup ...................................................................................................................... 6
+2.2.5. JPM .............................................................................................................................. 7
+3. Procedure ...................................................................................................................... 7
+4. Description of the events .............................................................................................. 9
+4.1. Nature, scope and functioning ...................................................................................... 9
+4.1.1. Evolution and duration of Three Way Banana Split membership ............................... 9
+4.1.2. Arrangements reached within the chatrooms ............................................................. 10
+4.1.2.1. Underlying understanding to participate in the relevant private, mostly multilateral
+chatrooms ................................................................................................................... 10
+4.1.2.2. Extensive exchange of information amongst competitors pursuant to the underlying
+understanding ............................................................................................................. 11
+4.1.2.3. Occasional instances of coordination facilitated by the exchange of information..... 15
+4.2. Participation in the conduct ........................................................................................ 16
+5. Legal Assesment ........................................................................................................ 16
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 16
+5.1.1. Agreements and/or concerted practices ..................................................................... 16
+5.1.1.1. Principles .................................................................................................................... 16
+5.1.1.2. Application to this case .............................................................................................. 19
+5.1.2. Restriction and/or distortion of competition .............................................................. 20
+5.1.2.1. Principles .................................................................................................................... 20
+5.1.2.2. Application to this case .............................................................................................. 21
+5.1.3. Single and continuous infringement........................................................................... 22
+5.1.3.1. Principles .................................................................................................................... 22
+5.1.3.2. Application to this case .............................................................................................. 24
+5.1.4. Effect upon trade (between Members States and between the EEA contracting
+parties) ........................................................................................................................ 25
+5.1.4.1. Principles .................................................................................................................... 25
+
+EN 1 EN
+
+5.1.4.2. Application to this case .............................................................................................. 26
+5.1.5. Non-applicability of Article 101(3) of the Treaty and of Article 53(3) of the EEA
+Agreement .................................................................................................................. 26
+5.1.5.1. Principles .................................................................................................................... 26
+5.1.5.2. Application to this case .............................................................................................. 26
+5.1.6. Conclusion regarding the application of Article 101 of the Treaty and Article 53 of
+the EEA Agreement ................................................................................................... 26
+6. Addressees .................................................................................................................. 27
+6.1. Principles .................................................................................................................... 27
+6.2. Application to this case .............................................................................................. 28
+6.2.1. UBS ............................................................................................................................ 28
+6.2.2. Barclays ...................................................................................................................... 28
+6.2.3. RBS ............................................................................................................................ 29
+6.2.4. Citigroup .................................................................................................................... 29
+6.2.5. JPM ............................................................................................................................ 30
+6.3. Addressees of this Decision ....................................................................................... 30
+6.3.1. UBS ............................................................................................................................ 30
+6.3.2. RBS ............................................................................................................................ 31
+6.3.3. Barclays ...................................................................................................................... 31
+6.3.4. Citigroup .................................................................................................................... 31
+6.3.5. JPM ............................................................................................................................ 31
+7. Duration of the infringement ...................................................................................... 31
+8. Remedies .................................................................................................................... 32
+8.1. Article 7 of Regulation (EC) No 1/2003 – Termination of the infringement ............ 32
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Determination of the applicable fines
+.................................................................................................................................... 33
+8.2.1. Calculation of the fines .............................................................................................. 33
+8.2.1.1. The value of sales ....................................................................................................... 33
+8.2.1.2. Determination of the basic amount ............................................................................ 39
+8.2.1.3. Adjustment to the basic amount: ................................................................................ 42
+9. Conclusion: final amount of individual fines to be imposed in this Decision ........... 44
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 16.5.2019
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40135-FOREX (Three Way Banana Split)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,1
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,2
+and in particular Articles 7 and 23(2) thereof,
+
+Having regard to Commission Decision of 27 October 2016 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty,3
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1 OJ, C 115, 9/5/2008, p.47.
+2 OJ L 1, 4.1.2003, p.1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The the Treaty also introduced certain
+changes in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market".
+3 OJ L 123, 27.4.2004, p. 18.
+
+EN 3 EN
+
+Agreement on the European Economic Area ('the EEA Agreement'). The single and
+continuous infringement, for which the addressees of this Decision are held liable,
+consisted in an underlying understanding reached among certain individual traders
+(“the participating traders”) and implemented by them to exchange - on mostly
+multilateral,4 private chatrooms and on an extensive and recurrent basis - certain
+current or forward-looking commercially sensitive information about certain of their
+trading activities and to occasionally coordinate their trading activity with respect to
+Forex (FX)5 spot trading of G10 currencies. The G10 FX currencies concerned by
+this Decision comprise the USD and CAD, JPY, AUD, NZD, GBP, EUR, CHF,
+SEK, NOK and DKK ( in other words 11 currencies altogether, which corresponds to
+the market convention for currencies covered by the G10 designation).
+(2) The infringement lasted from 18 December 2007 to 31 January 2013.
+(3) This Decision is addressed to the following legal entities:
+(a) UBS AG (hereinafter “UBS”);
+(b) The Royal Bank of Scotland Group plc and NatWest Markets Plc (collectively
+“RBS”);
+(c) Barclays PLC, Barclays Services Limited and Barclays Bank Plc (collectively
+“Barclays”);
+(d) Citibank, N.A. and Citigroup Inc. (hereinafter collectively “Citigroup”);
+(e) J.P. Morgan Europe Limited, J.P. Morgan Limited, JPMorgan Chase Bank,
+N.A. and JPMorgan Chase & Co. (collectively “JPM”).
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+2.1. The product
+(4) The infringement addressed in this Decision relates to the G10 FX spot trading
+activity of the undertakings involved. A spot foreign exchange or FX spot transaction
+is defined as an agreement between two parties to exchange two currencies,that is to
+buy a certain amount (the "notional amount") of one currency against selling the
+equivalent notional amount of another currency at the current value at the moment of
+the agreement (the “exchange rate”), for settlement on the spot date (which is usually
+T (transaction's day) plus 2 days).6
+(5) The FX spot trading activity encompasses both:
+(a) market making: the execution of customer’s orders to exchange a
+currency amount by its equivalent in another currency; and
+
+4 For the purpose of this Decision, "mostly multilateral chatrooms" means chatrooms that in limited
+instances were bilateral as only two participants attended (each of them trading for a different bank), but
+most frequently were multilateral, with three or more participants attending.
+5 The term “foreign exchange” (Forex or FX) refers to the trading of currencies, which happens in a
+decentralised manner. It includes all aspects of buying, selling and exchanging currencies at current or
+determined prices. The foreign exchange rate is the rate at which one currency will be exchanged for
+another. Since currencies are always traded in pairs, in foreign exchange there is not such a thing as a
+currency's absolute value but a relative value compared with other currencies. The market price of one
+currency is set in a given currency pair, that is, a value if it is exchanged against another.
+6 The case does not concern FX spot e-commerce trading activity within the meaning of FX spot trades
+that are automatically booked by, or executed by either the relevant bank's proprietary electronic trading
+platforms or computer algorithms. These transactions take place without the intervention of any trader.
+
+4EN EN
+
+(b) trading on own account: the execution of other currency exchanges in
+order to manage the exposure resulting from the market making
+transactions .
+(6) In their capacity as market makers, traders stand ready to trade on behalf of
+customers at the quoted prices. Customers include asset managers, hedge funds,
+corporations and other banks. In industry terms,7 a market maker quotes two-way
+pric
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rdance with point 29 of the Leniency Notice, the
+Commission came to the preliminary conclusion on 27 October 2016 that the
+evidence submitted by Barclays, RBS, Citigroup and JPM constituted significant
+added value within the meaning of points 24 and 25 of the Leniency Notice and that
+the undertakings have so far met the conditions of points 12 and 27 of the same
+Notice.
+
+111 Points 28-29 of the Guidelines on fines.
+112 Point 30 of the 2006 Guidelines on fines.
+113 The sum of the following income items: Interest receivable and similar income, Interest payable and
+similar charges, Income from securities, Commissions receivable, Commissions payable, Net profit or
+net loss on financial operations and Other operating income.
+114 The Commission requested the banks to provide their total turnover on both a gross and a net basis. The
+fines do not exceed 10% of the total turnover for any of the undertakings concerned irrespective of the
+total turnover used (gross or net).
+
+41EN EN
+
+(205) Barclays was the first undertaking to submit an application for reduction of fines in
+relation to the Three Way Banana Split infringement and did so at an early stage of
+the investigation. Barclays provided evidence relating to the infringement that was
+not previously in the Commission's possession, as well as explanations on both the
+anticompetitive behaviour in general and on designated evidence, submitted before
+any other reduction of fines applicant.
+(206) For these reasons, Barclays' reduction of fines application adds significant added
+value to the Commission's investigation in this case. Barclays also met the
+requirements of points 12 and 27 of the Leniency Notice. As a result, the
+Commission considers that the fine to be imposed on Barclays should be reduced by
+50%.
+(207) RBS was the second undertaking to submit an application for reduction of fines in
+relation to the Three Way Banana Split infringement and did so at an early stage of
+the investigation. RBS provided evidence relating to the infringement that was not
+previously in the Commission's possession as well as [...] on both the
+anticompetitive behaviour in general and on [...].
+(208) For these reasons, RBS' reduction of fines application adds significant added value to
+the Commission's investigation in this case. RBS also met the requirements of points
+12 and 27 of the Leniency Notice. As a result, the Commission considers that the fine
+to be imposed on RBS should be reduced by 30%.
+(209) Citigroup was the third undertaking to submit an application for reduction of fines in
+relation to the Three Way Banana Split infringement and did so at an early stage of
+the investigation. Citigroup provided a very significant amount of evidence relating
+to the infringement that was not previously in the Commission's possession as well as
+explanations on certain instances of anticompetitive behaviours before any other
+undertakings. In particular, Citigroup provided evidence that contributed to prove the
+existence of the infringement and its continuity over time.
+(210) For these reasons, Citigroup's reduction of fines application adds significant added
+value to the Commission's investigation in this case. Citigroup also met the
+requirements of points 12 and 27 of the Leniency Notice. As a result, the
+Commission considers that the fine to be imposed on Citigroup should be reduced by
+20%.
+(211) JPM was the fourth undertaking to submit an application for reduction of fines in
+relation to the Three Way Banana Split infringement. JPM provided evidence
+relating to the infringement that was not previously in the Commission's possession,
+even though this new evidence is quantitatively less significant than that provided by
+other applicants especially vis-à-vis that submitted by Citigroup. In particular, JPM
+provided [...] that mostly contributed to corroborate the existence of the
+infringement at certain periods of time, thereby showing its continuity over time.
+(212) For these reasons, JPM's reduction of fines application adds significant added value
+to the Commission's investigation in this case. JPM also met the requirements of
+points 12 and 27 of the Leniency Notice. As a result, the fine to be imposed on JPM
+should be reduced by 10%.
+8.2.1.3.5. Application of the Settlement Notice
+(213) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% turnover cap has been applied having regard to the Guidelines on fines.
+
+42EN EN
+
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement is added to their
+leniency reward.
+(214) Pursuant to the Settlement Notice, the amount of the fines to be imposed on the
+Parties of the proceedings should be reduced by 10% and that such reductions should
+be added to any leniency reward granted.
+
+9. CONCLUSION: FINAL AMOUNT OF INDIVIDUAL FINES TO BE IMPOSED IN THIS
+DECISION
+(215) The fines imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are as
+follows:
+Table 5: Fines amounts for the infringement
+
+Undertaking Fines (in EUR)
+
+UBS 0
+
+Barclays 116 107 000
+
+RBS 155 499 000
+
+Citigroup 310 776 000
+
+JPM 228 815 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+infringement covering the whole EEA in G10 FX spot trading:
+(a) UBS AG, from 10 October 2011 until 31 January 2013.
+(b) The Royal Bank of Scotland Group plc and NatWest Markets Plc, from
+18 December 2007 until 19 April 2010.
+(c) Barclays PLC, Barclays Services Limited and Barclays Bank Plc, from
+18 December 2007 until 8 July 2011 and from 19 December 2011 until 1
+August 2012.
+(d) Citibank, N.A. and Citigroup Inc., from 18 December 2007 until 31
+January 2013
+(e) JPMorgan Chase & Co., JPMorgan Chase Bank, N.A., J.P. Morgan
+Europe Limited and J.P. Morgan Limited, from 26 July 2010 until 31
+January 2013.
+
+Article 2
+For the infringement(s) referred to in Article 1, the following fines are imposed:
+
+43EN EN
+
+(a) UBS AG: EUR 0
+(b) The Royal Bank of Scotland Group plc and NatWest Markets Plc, jointly
+and severally liable: EUR 155 499 000
+(c) Barclays PLC, Barclays Services Limited and Barclays Bank Plc, jointly
+and severally liable: EUR 116 107 000
+(d) Citibank, N.A. and Citigroup Inc., jointly and severally liable: EUR 310
+776 000
+(e) JPMorgan Chase & Co., JPMorgan Chase Bank, N.A., J.P. Morgan
+Europe Limited and J.P. Morgan Limited, jointly and severally liable:
+EUR 228 815 000
+The fines shall be credited, in euros, within a period of three months from the date of notification
+of this Decision, to the following bank account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.40135 – Forex TWBS
+
+After the expiry of this period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046.115
+
+Article 3
+The undertakings listed in Article 1 shall refrain from repeating any act or conduct described in
+Article 1, and from any act or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+• UBS AG with registered offices at Bahnhofstraße 45, 8001 Zürich, Switzerland;
+• The Royal Bank of Scotland Group plc with registered offices at 36 St Andrew
+Square, Edinburgh, EH2 2YB, United Kingdom;
+
+115 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the Union, amending Regulations (EU) No
+1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU)
+No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing
+Regulation (EU, Euratom) No 966/2012 (OJ L 193, of 30.7.2018, p.1).
+
+44EN EN
+
+• NatWest Markets Plc116 with registered offices at 36 St Andrew Square, Edinburgh,
+EH2 2YB, United Kingdom.
+• Barclays PLC, with registered offices at 1 Churchill Place Canary Wharf London,
+E14 5HP, United Kingdom;
+• Barclays Services Limited with registered offices at 1 Churchill Place Canary Wharf
+London, E14 5HP, United Kingdom (formerly, "Barclays Capital Services Limited");
+• Barclays Bank Plc with registered offices at 1 Churchill Place Canary Wharf
+London, E14 5HP, United Kingdom;
+• Citibank, N.A. with registered offices at 388 Greenwich Street, New York, NY
+10 013, United States of America;
+• Citigroup Inc. with registered offices at 388 Greenwich Street, New York, NY
+10 013, United States of America;
+• JPMorgan Chase & Co. with registered offices at 383 Madison Avenue, New York,
+NY 10179, United States of America;
+• JPMorgan Chase Bank, N.A. with registered offices at 1111 Polaris Parkway,
+Columbus, Ohio 43 240, United States of America;
+• J.P. Morgan Europe Limited with registered offices at 25 Bank Street, Canary Wharf,
+London, E14 5JP, United Kingdom; and
+• J.P. Morgan Limited with registered offices at 25 Bank Street, Canary Wharf,
+London, E14 5JP, United Kingdom.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels,
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+116 On 30th April 2018, The Royal Bank of Scotland plc changed its name to NatWest Markets plc.
+
+45EN EN

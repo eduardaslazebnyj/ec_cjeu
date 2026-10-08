@@ -1,0 +1,688 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSIONE DELLE COMUNITÀ EUROPEE
+
+Bruxelles,
+
+DECISIONE DELLA COMMISSIONE
+
+Del [1 ottobre 2008]
+
+relativa ad un procedimento ai sensi dell'articolo 81 del trattato CE e dell'articolo 53
+dell'accordo SEE
+
+Caso COMP/39181 – Cere per candele
+
+(I testi in lingua francese, inglese, italiana, spagnola e tedesca sono i soli facenti fede)
+
+(Testo rilevante ai fini del SEE)
+
+da notificare a:
+
+ENI S.p.A.
+
+Esso Deutschland GmbH, Esso Société Anonyme Française,
+ExxonMobil Petroleum and Chemical B.V.B.A. ed Exxon Mobil Corporation
+
+H&R ChemPharm GmbH, H&R Wax Company Vertrieb GmbH
+e Hansen& Rosenthal KG
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+
+MOL Nyrt.
+
+Repsol YPF Lubricantes y Especialidades S.A., Repsol Petróleo S.A.
+e Repsol YPF S.A.
+
+Sasol Wax GmbH, Sasol Wax International AG, Sasol Holding in Germany GmbH
+e Sasol Limited
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH,
+Deutsche Shell GmbH, Shell International Petroleum Company Limited,
+
+IT IT
+
+the Shell Petroleum Company Limited, Shell Petroleum N.V. e
+the Shell Transport and Trading Company Limited
+
+RWE-Dea AG e RWE AG
+
+Total France S.A. e Total S.A.
+
+Parti di questo documento sono state redatte in maniera tale da evitare che informazioni
+riservate venissero rivelate; queste parti sono racchiuse in parentesi quadre [...].
+
+IT IT
+
+INDICE
+
+1. Introduzione..................................................................................................................7
+
+1.1. Destinatari.....................................................................................................................7
+
+1.2. Sintesi dell'infrazione....................................................................................................8
+
+2. Il settore industriale oggetto del procedimento.............................................................8
+
+2.1. I prodotti .......................................................................................................................8
+
+2.2. [...]................................................................................................................................9
+
+2.3. Imprese interessate dal presente procedimento ............................................................9
+
+2.3.1. Il gruppo ENI (ENI S.p.A.) ..........................................................................................9
+
+2.3.2. Il gruppo ExxonMobil (Esso Deutschland GmbH, Esso Société Anonyme Française,
+ExxonMobil Petroleum and Chemical B.V.B.A., Exxon Mobil Corporation.)..........10
+
+2.3.3. Il gruppo Hansen & Rosenthal/Tudapetrol (Tudapetrol Mineralölerzeugnisse Nils
+Hansen KG, H&R ChemPharm GmbH, H&R Wax Company Vertrieb GmbH,
+Hansen & Rosenthal KG) ...........................................................................................11
+
+2.3.4. Il gruppo MOL (MOL Nyrt.)......................................................................................13
+
+2.3.5. Il gruppo Repsol (Repsol YPF Lubricantes y Especialidades S.A., Repsol Petróleo
+S.A., Repsol YPF S.A.) ..............................................................................................14
+
+2.3.6. Il gruppo Sasol (Sasol Wax GmbH, Sasol Wax International AG, Sasol Holding in
+Germany GmbH, Sasol Limited)................................................................................14
+
+2.3.7. Il gruppo Shell (Shell Deutschland Schmierstoff GmbH, Shell Deutschland Oil
+GmbH, Deutsche Shell GmbH, Shell International Petroleum Company Limited
+(SIPC), the Shell Petroleum Company Limited (SPCO), Shell Petroleum N.V, the
+Shell Transport and Trading Company Limited)........................................................15
+
+2.3.8. Il gruppo RWE............................................................................................................18
+
+2.3.9. Il gruppo Total (Total France S.A., Total S.A.)..........................................................18
+
+2.4. Altri operatori di mercato ...........................................................................................19
+
+2.5. Descrizione del mercato..............................................................................................19
+
+2.5.1. L'offerta.......................................................................................................................19
+
+2.5.2. La domanda.................................................................................................................20
+
+2.5.3. Commercio tra Stati membri.......................................................................................20
+
+3. Procedura ....................................................................................................................20
+
+3.1. L'indagine della Commissione....................................................................................20
+
+3.2. Comunicazione degli addebiti e audizione orale........................................................22
+
+IT 3 IT
+
+4. Descrizione dei fatti....................................................................................................23
+
+4.1. Principi di base e funzionamento del cartello.............................................................24
+
+4.2. Descrizione particolareggiata delle riunioni tecniche.................................................28
+
+5. APPLICAZIONE DELL'ARTICOLO 81 DEL TRATTATO E DELL'ARTICOLO
+53 DELL'ACCORDO SEE AL PRESENTE CASO..................................................64
+
+5.1. Applicabilità del trattato e dell'accordo SEE..............................................................64
+
+5.2. Giurisdizione...............................................................................................................67
+
+5.3. Natura dell'infrazione nel caso di specie ....................................................................67
+
+5.3.1. Principi........................................................................................................................67
+
+5.3.2. Applicazione...............................................................................................................71
+
+5.4. Infrazione unica e continuata......................................................................................83
+
+5.4.1. Principi........................................................................................................................83
+
+5.4.2. Applicazione...............................................................................................................86
+
+5.4.3. Il caso ENI ..................................................................................................................93
+
+5.5. Attuazione...................................................................................................................93
+
+5.6. Restrizione della concorrenza.....................................................................................94
+
+5.7. Effetti sugli scambi tra gli Stati membri e tra le Parti contraenti del SEE .................95
+
+5.8. Applicazione dell'articolo 81, paragrafo 3, del trattato e dell'articolo 53, paragrafo 3,
+dell'accordo SEE.........................................................................................................96
+
+5.9. Argomentazioni di carattere economico.....................................................................97
+
+5.10. Conclusioni relative all'applicazione dell'articolo 81 del trattato e all'applicazione
+dell'articolo 53 dell'accordo SEE..............................................................................100
+
+6. Destinatari del presente procedimento......................................................................101
+
+6.1. Principi relativi ai destinatari....................................................................................101
+
+6.2. Applicazione.............................................................................................................105
+
+6.2.1. Il gruppo ENI............................................................................................................105
+
+6.2.2. Il gruppo ExxonMobil ..............................................................................................106
+
+6.2.3. Il gruppo Hansen & Rosenthal/Tudapetrol...............................................................111
+
+6.2.4. Il gruppo MOL..........................................................................................................113
+
+6.2.5. Il gruppo Repsol........................................................................................................119
+
+6.2.6. Il gruppo Sasol..........................................................................................................125
+
+6.2.7. Il gruppo Shell ..........................................................................................................131
+
+IT 4 IT
+
+6.2.8. Il gruppo RWE..........................................................................................................137
+
+6.2.9. Il gruppo Total ..........................................................................................................142
+
+6.3. Conclusioni in merito ai destinatari..........................................................................149
+
+7. Durata dell'infrazione e termini di prescrizione........................................................150
+
+7.1. Inizio dell'infrazione per ciascuna impresa...............................................................150
+
+7.2. Fine dell'infrazione per ciascuna impresa.................................................................151
+
+7.3. Conclusioni sulla durata dell'infrazione relativamente alle cere di paraffina...........154
+
+7.4. Conclusioni sulla durata dell'infrazione relativamente ai petrolati...........................155
+
+7.5. Applicazione dei termini di prescrizione..................................................................156
+
+8. Rimedi.......................................................................................................................157
+
+8.1. Articolo 7 del regolamento (CE) n. 1/2003 ..............................................................157
+
+8.2. Articolo 23, paragrafo 2, del regolamento (CE) n. 1/2003.......................................158
+
+8.3. Orientamenti in materia di ammende........................................................................158
+
+8.4. Importo di base delle ammende................................................................................159
+
+8.4.1. Metodo......................................................................................................................159
+
+8.4.2. Valore delle vendite..................................................................................................160
+
+8.4.3. Gravità ......................................................................................................................162
+
+8.4.4. Durata........................................................................................................................165
+
+8.4.5. Percentuale da applicare per l'importo supplementare .............................................167
+
+8.4.6. Calcolo e conclusioni in merito agli importi di base ................................................168
+
+8.5. Adeguamenti dell'importo di base ............................................................................169
+
+8.5.1. Circostanze aggravanti..............................................................................................169
+
+8.5.2. Circostanze attenuanti...............................................................................................172
+
+8.5.3. Effetto dissuasivo......................................................................................................177
+
+8.5.4. Conclusioni in merito agli importi di base adeguati.................................................179
+
+8.6. Applicazione della soglia del 10% del fatturato.......................................................180
+
+8.7. Applicazione della comunicazione sul trattamento favorevole del 2002 .................180
+
+8.7.1. Shell ..........................................................................................................................181
+
+8.7.2. Sasol..........................................................................................................................182
+
+8.7.3. Repsol .......................................................................................................................184
+
+8.7.4. ExxonMobil ..............................................................................................................185
+
+IT 5 IT
+
+8.7.5. RWE..........................................................................................................................185
+
+8.7.6. Conclusioni sull'applicazione della comunicazione sul trattamento favorevoledel
+2002 ..........................................................................................................................187
+
+8.8. Importi delle ammende da infliggere nel quadro della presente decisione...............187
+
+8.8.1. Il gruppo ENI............................................................................................................187
+
+8.8.2. Il gruppo ExxonMobil ..............................................................................................188
+
+8.8.3. Hansen & Rosenthal .................................................................................................188
+
+8.8.4. Tudapetrol.................................................................................................................188
+
+8.8.5. Il gruppo MOL..........................................................................................................188
+
+8.8.6. Il gruppo Repsol........................................................................................................188
+
+8.8.7. Il gruppo Sasol..........................................................................................................188
+
+8.8.8. Il gruppo Shell ..........................................................................................................189
+
+8.8.9. Il gruppo RWE..........................................................................................................189
+
+8.8.10. Il gruppo Total ..........................................................................................................189
+
+8.9. Capacità contributiva................................................................................................189
+
+ALLEGATO ...........................................................................................................................198
+
+IT 6 IT
+
+DECISIONE DELLA COMMISSIONE
+Del [1 ottobre 2008]
+
+relativa ad un procedimento ai sensi dell'articolo 81 del trattato CE
+e dell'articolo 53 dell'accordo SEE
+
+Caso COMP/39181 – Cere per candele
+
+LA COMMISSIONE DELLE COMUNITÀ EUROPEE,
+
+visto il trattato che istituisce la Comunità europea,
+
+visto l'accordo sullo Spazio economico europeo,
+
+visto il regolamento (CE) n. 1/20
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ny Vertrieb GmbH
+di cui in solido con H&R ChemPharm EUR 22 000 000
+GmbH
+8.8.4. Tudapetrol
+
+(779) L'importo totale dell'ammenda da infliggere a Tudapetrol dovrebbe essere il seguente:
+Totale ammenda per Tudapetrol EUR 12 000 000
+Mineralölerzeugnisse Nils Hansen KG:
+8.8.5. Il gruppo MOL
+
+(780) L'importo totale dell'ammenda da infliggere a MOL dovrebbe essere il seguente:
+Totale ammenda per MOL Nryt: EUR 23 700 000
+8.8.6. Il gruppo Repsol
+
+(781) L'importo totale dell'ammenda da infliggere a Repsol dovrebbe essere il seguente:
+Totale ammenda per Repsol YPF EUR 19 800 000
+Lubricantes y Especialidades S.A. in
+solido con Repsol Petróleo S.A. e Repsol
+YPF S.A.:
+8.8.7. Il gruppo Sasol
+
+(782) L'importo totale dell'ammenda da infliggere a Sasol dovrebbe essere il seguente:
+Totale ammenda per Sasol Wax GmbH:: EUR 318 200 000
+di cui in solido con Sasol Wax EUR 250 700 000
+International AG, Sasol Holding in
+Germany GmbH e Sasol Limited
+
+IT 188 IT
+
+8.8.8. Il gruppo Shell
+
+(783) L'importo totale dell'ammenda da infliggere a Shell dovrebbe essere il seguente:
+Totale ammenda: EUR 0
+8.8.9. Il gruppo RWE
+
+(784) L'importo totale dell'ammenda da infliggere a RWE dovrebbe essere il seguente:
+Totale ammenda per RWE-Dea AG in EUR 37 440 000
+solido con RWE AG:
+8.8.10. Il gruppo Total
+
+(785) L'importo totale dell'ammenda da infliggere a Total dovrebbe essere il seguente:
+Totale ammenda per Total France S.A. EUR 128 163 000
+in solido con Total S.A.:
+
+8.9. Capacità contributiva
+
+(786) Nessuno dei destinatari ha asserito di non essere in grado di pagare l'ammenda.
+
+IT 189 IT
+
+HA ADOTTATO LA PRESENTE DECISIONE:
+
+Article 1
+
+Le seguenti imprese hanno violato l'articolo 81, paragrafo 1, del trattato e – a partire dal 1°
+gennaio 1994 – l'articolo 53 dell'accordo SEE partecipando, per i periodi indicati, a un
+accordo continuato e/o a una pratica concordata continuata nel settore delle cere di paraffina
+nel mercato comune e, a decorrere dal 1° gennaio 1994, nel SEE:
+
+ENI S.p.A.: il 30/31 ottobre 1997 e dal 21 febbraio 2002 al 28 aprile 2005;
+
+Esso Deutschland GmbH: dal 22 febbraio 2001 al 20 novembre 2003;
+
+Esso Société Anonyme Française: dal 3 settembre 1992 al 20 novembre 2003;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: dal 30 novembre 1999 al 20
+novembre 2003;
+
+Exxon Mobil Corporation: dal 30 novembre 1999 al 20 novembre 2003;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: dal 24 marzo 1994 al 30
+giugno 2002;
+
+H&R Wax Company Vertrieb GmbH: dal gennaio 2001 al 28 aprile 2005;
+
+Hansen & Rosenthal KG: dal 1° gennaio 2001 al 28 aprile 2005;
+
+H&R ChemPharm GmbH: dal 1° luglio 2001 al 28 aprile 2005;
+
+MOL Nyrt.: dal 3 settembre 1992 al 28 aprile 2005;
+
+Repsol YPF Lubricantes y Especialidades S.A.: dal 24 giugno 1994 al 4
+agosto [2004]773;
+
+Repsol Petróleo S.A.: dal 24 giugno 1994 al 4 agosto [2004]774;
+
+Repsol YPF S.A.: dal 24 giugno 1994 al 4 agosto [2004]775;
+
+Sasol Wax GmbH: dal 3 settembre 1992 al 28 aprile 2005
+
+Sasol Wax International AG: dal 1° maggio 1995 al 28 aprile 2005;
+
+Sasol Holding in Germany GmbH: dal 1° maggio 1995 al 28 aprile 2005;
+
+773 Rettifica della decisione della Commissione C(2008)5476 del 1 ottobre 2008 nel caso COMP/39181 –
+Cere per candele.
+774 Rettifica della decisione della Commissione C(2008)5476 del 1 ottobre 2008 nel caso COMP/39181 –
+Cere per candele.
+775 Rettifica della decisione della Commissione C(2008)5476 del 1 ottobre 2008 nel caso COMP/39181 –
+Cere per candele.
+
+IT 190 IT
+
+Sasol Limited: dal 1° maggio 1995 al 28 aprile 2005;
+
+Shell Deutschland Oil GmbH: dal 3 settembre 1992 al 31 marzo 2004;
+
+Shell Deutschland Schmierstoff GmbH: dal 1° aprile 2004 al 17 marzo 2005;
+
+Deutsche Shell GmbH: dal 2 gennaio 2002 al 17 marzo 2005;
+
+Shell International Petroleum Company Limited: dal 2 gennaio 2002 al 17
+marzo 2005;
+
+the Shell Petroleum Company Limited: dal 2 gennaio 2002 al 17 marzo 2005;
+
+Shell Petroleum N.V.: dal 1° luglio 2002 al 17 marzo 2005;
+
+the Shell Transport and Trading Company Limited: dal 2 gennaio 2002 al 17
+marzo 2005;
+
+RWE-Dea AG: dal 3 settembre 1992 al 30 giugno 2002;
+
+RWE AG: dal 3 settembre 1992 al 30 giugno 2002;
+
+Total France S.A.: dal 3 settembre 1992 al 28 aprile 2005; e
+
+Total S.A.: dal 3 settembre 1992 al 28 aprile 2005.
+
+Per le seguenti imprese l'infrazione riguarda, per i periodi indicati, anche i petrolati venduti ai
+clienti finali sul mercato tedesco:
+
+Esso Deutschland GmbH: dal 22 febbraio 2001 al 18 dicembre 2002;
+
+Esso Société Anonyme Française: dal 8 marzo 1999 al 18 dicembre 2002;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: dal 20 novembre 1999 al 18
+dicembre 2002;
+
+Exxon Mobil Corporation: dal 20 novembre 1999 al 18 dicembre 2002;
+
+Sasol Wax GmbH: dal 30 ottobre 1997 al 12 maggio 2004;
+
+Sasol Wax International AG: dal 30 ottobre 1997 al 12 maggio 2004;
+
+Sasol Holding in Germany GmbH: dal 30 ottobre 1997 al 12 maggio 2004;
+
+Sasol Limited: dal 30 ottobre 1997 al 12 maggio 2004;
+
+Shell Deutschland Oil GmbH: dal 30 ottobre 1997 al 12 maggio 2004;
+
+Shell Deutschland Schmierstoff GmbH: dal 1 aprile 2004 al 12 maggio 2004;
+
+Deutsche Shell GmbH: dal 2 gennaio 2002 al 12 maggio 2004;
+
+IT 191 IT
+
+Shell International Petroleum Company Limited: dal 2 gennaio 2002 al 12
+maggio 2004;
+
+The Shell Petroleum Company Limited: dal 2 gennaio 2002 al 12 maggio 2004
+
+Shell Petroleum N.V.: dal 1° luglio 2002 al 12 maggio 2004;
+
+the Shell Transport and Trading Company Limited: dal 2 gennaio 2002 al 12
+maggio 2004;
+
+RWE-Dea AG: dal 30 ottobre 1997 al 30 giugno 2002;
+
+RWE AG: dal 30 ottobre 1997 al 30 giugno 2002;
+
+Total France S.A.: dal 30 ottobre 1997 al 12 maggio 2004; e
+
+Total S.A.: dal 30 ottobre 1997 al 12 maggio 2004.
+
+Article 2
+
+Per l'infrazione di cui all'articolo 1, sono inflitte le seguenti ammende:
+
+ENI S.p.A.: EUR 29 120 000;
+
+Esso Société Anonyme Française: EUR 83 588 400,
+di cui in solido con
+
+ExxonMobil Petroleum and Chemical B.V.B.A. e
+Exxon Mobil Corporation: EUR 34 670 400 di cui insolido con
+Esso Deutschland GmbH : EUR 27 081 600;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: EUR12 000 000;
+
+Hansen & Rosenthal KG in solido con
+H&R Wax Company Vertrieb GmbH: EUR 24 000 000,
+di cui in solido con
+
+H&R ChemPharm GmbH : 22 000 000 Euro;
+
+MOL Nyrt.: EUR 23 700 000;
+
+Repsol YPF Lubricantes y Especialidades S.A. in solido con
+Repsol Petróleo S.A. e Repsol YPF S.A. : EUR 19 800 000;
+
+Sasol Wax GmbH: EUR 318 200 000,
+di cui in solido con
+
+Sasol Wax International AG, Sasol Holding in Germany GmbH
+e Sasol Limited : EUR 250 700 000
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH, Deutsche
+Shell GmbH, Shell International Petroleum Company Limited, the Shell Petroleum
+
+IT 192 IT
+
+Company Limited, Shell Petroleum N.V. e the Shell Transport and Trading
+Company Limited: EUR 0;
+
+RWE-Dea AG in solido con RWE AG: EUR 37 440 000;
+
+Total France S.A. in solido con Total S.A.: EUR 128 163 000.
+
+Le ammende devono essere versate in euro, entro tre mesi dalla notifica della presente decisione,
+sul seguente conto bancario tenuto a nome della Commissione europea:
+
+Conto n.
+
+0050915991
+ING BANK NV
+Financial Plaza
+Bijlmerdreef 109,
+NL – 1102 BW Amsterdam
+Code IBAN: NL22INGB0050915991
+Code SWIFT: INGBNL2AXXX
+
+Dopo la scadenza di tale termine, le ammende producono automaticamente interessi, al tasso di
+interesse applicato dalla Banca centrale europea per le operazioni di rifinanziamento principali in
+vigore il primo giorno del mese nel quale la presente decisione è stata adottata, maggiorato di
+3,5 punti percentuali.
+
+Articolo 3
+
+Le imprese elencate all'articolo 1 pongono immediatamente fine alle infrazioni ivi constatate,
+qualora non vi abbiano ancora provveduto.
+
+Esse si astengono dal ripetere qualsiasi atto o condotta di cui all'articolo 1 e da qualsiasi atto o
+condotta avente oggetto o effetto identico o analogo.
+
+Articolo 4
+
+Sono destinatarie della presente decisione:
+
+ENI S.p.A.
+Piazzale Mattei, 1
+I-00144 Roma
+
+Esso Deutschland GmbH
+Esso Haus
+Kapstadtring 2
+
+IT 193 IT
+
+D-22297 Hamburg
+
+Esso Société Anonyme Française
+Tour Manhattan
+5/6 Place de l'Iris
+F-92400 Courbevoie
+
+ExxonMobil Petroleum & Chemical B.V.B.A.
+Hermeslaan 2
+B-1831 Machelen
+
+Exxon Mobil Corporation
+3225 Gallows Road
+Fairfax, VA 22037-0001
+USA
+
+H&R ChemPharm GmbH
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+H&R Wax Company Vertrieb GmbH
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+Hansen & Rosenthal KG
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+MOL Nyrt.
+Benczúr utca 13
+HU-1068 Budapest
+
+Repsol Petróleo S.A.
+Paseo de la Castellana, 278
+E-28046 Madrid
+
+IT 194 IT
+
+Repsol YPF S.A.
+Paseo de la Castellana 278
+E-28046 Madrid
+
+Repsol YPF Lubricantes y Especialidades S.A.
+Edificio Tucumán, 2a planta
+Glorieta de Mar Caribe 1
+E-28042 Madrid
+
+RWE AG
+Opernplatz 1
+D-45128 Essen
+
+RWE-Dea AG
+Überseering 40
+D-22297 Hamburg
+
+Sasol Holding in Germany GmbH
+Worthdamm 13-27
+D-20457 Hamburg
+
+Sasol Limited
+1 Sturdee Avenue
+Rosebank, 2196
+Johannesburg
+Republic of South Africa
+
+Sasol Wax International AG
+Worthdamm 13-27
+D-20457 Hamburg
+
+Sasol Wax GmbH
+Worthdamm 13-27
+D-20457 Hamburg
+
+IT 195 IT
+
+Shell International Petroleum Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Shell Deutschland Oil GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+Shell Deutschland Schmierstoff GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+Deutsche Shell GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+the Shell Petroleum Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Shell Petroleum N.V.
+Carel van Bylandtlaan 30
+NL-2596 HR Den Haag
+
+the Shell Transport and Trading Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Total France S.A.
+24, Cours Michelet
+Tour Michelet
+F-92069 Paris La Défense Cedex
+
+IT 196 IT
+
+Total S.A.
+2, place de La Coupole
+La Défense 6
+F-92078 Paris La Défense Cedex
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+Am Sandtorkai 64
+D-20457 Hamburg
+
+La presente decisione costituisce titolo esecutivo a norma dell'articolo 256 del trattato e
+dell'articolo 110 dell'accordo SEE.
+
+Fatto a Bruxelles,
+
+Per la Commissione
+Neelie KROES
+Membro della Commissione
+
+IT 197 IT
+
+ALLEGATO
+
+[...]
+
+IT 198 IT

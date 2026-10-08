@@ -1,0 +1,511 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 10 December 2003
+
+COMMISSION DECISION
+
+of 10 December 2003
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+and Article 53 of the EEA Agreement
+
+Case COMP/E-2/37.857– Organic Peroxides
+
+(notified under document number C(2003)4570)
+
+(Only the English, Spanish and German texts are authentic)
+
+(Text with EEA relevance)
+
+EN
+
+1 The Actors..............................................................................................................6
+1.1 Akzo...............................................................................................................6
+1.2 Atofina/Atochem............................................................................................6
+1.3 Peroxid Chemie and Degussa UK Holdings Limited ....................................7
+1.4 [...]..................................................................................................................7
+1.5 Perorsa and FMC Foret..................................................................................7
+1.6 Andos .............................................................................................................8
+1.7 AC Treuhand..................................................................................................8
+2 The Product............................................................................................................8
+2.1 The relevant product ......................................................................................8
+2.1.1 Classes of Organic Peroxides.................................................................9
+2.1.2 Applications of Organic Peroxides......................................................10
+2.2 The relevant market .....................................................................................11
+2.3 The Market Structure for Organic Peroxides...............................................12
+2.3.1 The supply of Organic Peroxides.........................................................12
+2.3.2 The demand for Organic Peroxides .....................................................14
+2.3.3 The quantification of the market..........................................................14
+3 Chronology of the Events ....................................................................................15
+4 Proceedings in other jurisdictions........................................................................17
+5 The Origins of the Infringement ..........................................................................18
+5.1 Overview of the infringement......................................................................18
+5.2 The main agreement.....................................................................................18
+5.3 The role of AC Treuhand.............................................................................20
+5.3.1 The other participants view..................................................................20
+5.3.2 AC Treuhand’s view............................................................................22
+5.3.3 The Commission’s view ......................................................................22
+5.4 Regular Meetings.........................................................................................25
+6 Working of the Main Agreement.........................................................................31
+6.1 The period 1971-1991..................................................................................31
+6.2 The period 1992-1999..................................................................................34
+6.2.1 Statistical exchange and secrecy..........................................................35
+6.2.2 Tensions in the agreement around 1992 ..............................................35
+6.2.3 Involvement of other companies..........................................................41
+6.2.4 The end of the agreement.....................................................................44
+7 Sub-arrangements to the Main Agreement ..........................................................45
+7.1 The Sub-arrangement for Cross-linking ......................................................45
+7.2 Regional Sub-arrangements.........................................................................48
+7.2.1 The French Sub-arrangement...............................................................49
+7.2.2 The Spanish Sub-arrangement .............................................................50
+7.2.3 The UK Sub-arrangement....................................................................60
+7.2.4 The Commission’s view on the sub arrangements ..............................61
+7.3 Acquisition of non-participating competitors ..............................................61
+7.4 The leader of the infringement.....................................................................61
+7.5 The nature and reliability of the evidence....................................................61
+1 Legal Assessment.................................................................................................64
+1.1 The EC Treaty and the EEA Agreement......................................................64
+1.1.1 Relationship between the EC Treaty and the EEA Agreement ...........64
+1.1.2 Jurisdiction...........................................................................................64
+1.2 Application of the Competition Rules .........................................................65
+1.2.1 Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement.65
+
+2
+
+1.2.2 Agreements and Concerted Practices...................................................65
+1.2.3 Single and continuous infringement ....................................................68
+1.2.4 Associations of undertakings ...............................................................69
+1.3 The nature of the infringement in this case..................................................69
+1.3.1 The possible infringement with regard to Andos, Hercules [...]..........70
+1.3.2 The nature of the infringement with regard to Perorsa........................70
+1.3.3 The nature of the infringement with regard to AC Treuhand ..............73
+1.4 Restriction of competition............................................................................77
+1.5 Effect upon trade between Member States and between EEA Contracting
+Parties 79
+1.6 Provisions of competition rules applicable to Austria, Finland, Norway and
+Sweden and to previous enlargements.....................................................................80
+1.7 Addressees of the decision...........................................................................80
+1.7.1 Undertakings and associations of undertakings directly involved.......80
+1.7.2 The responsibility of parent companies in this case ............................81
+1.8 Duration of the infringement .......................................................................84
+1.8.1 The duration of the main infringement ................................................84
+1.8.2 The duration of the parties’ involvement.............................................89
+2 Remedies..............................................................................................................90
+2.1 Article 3 of Regulation No 17......................................................................90
+2.2 Article 15(2) of Regulation No 17...............................................................91
+2.2.1 General considerations.........................................................................91
+2.2.2 Amount of Fines ..................................................................................91
+
+3
+
+COMMISSION DECISION
+
+of 10 December 2003
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the
+
+EEA Agreement
+
+(Case No COMP/E2/37.857)
+
+(Only the English, Spanish and German texts are authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation
+implementing Articles 85 and 86 of the Treaty1, and in particular Article 3 and Article
+15 (2) thereof,
+
+Having regard to the Commission decision of 27 March 2003 to initiate proceedings
+in this case,
+
+Having given the undertakings concerned the opportunity to make known their views
+on the objections raised by the Commission pursuant to Article 19(1) of Regulation
+No 17 and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the
+hearing of parties in certain proceedings under Articles 85 and 86 of the EC Treaty2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer in this case3,
+
+WHEREAS:
+
+Square brackets such as [...] denote information for which confidential treatment has been
+requested. At this stage, this information has been deleted from the text.
+
+1 OJ 13, 21.2.1962, p. 204/62. Regulation as last amended by Regulation (EC) No 1216/1999
+(OJ L148, 15.6.1999, p. 5).
+2 OJ L 354, 30.12.1998, p. 18.
+3 OJ
+
+4
+
+Part I – FACTS
+
+A SUMMARY OF THE INFRINGEMENT
+
+(1) This Decision is addressed to the following undertakings and/or associations
+of undertakings:
+
+– Akzo Nobel Chemicals International B.V.
+– Akzo Nobel Polymer Chemicals B.V.
+– Akzo Nobel N.V.
+– Atofina S.A.
+– Degussa UK Holdings Limited
+– Peroxid Chemie GmbH & Co. KG
+– Peroxidos Organicos S.A.
+– AC Treuhand AG
+
+(2) Beginning from 1971, the main producers of organic peroxides at that time
+(Akzo Nobel Chemicals International B.V. and Akzo Nobel Polymer
+Chemicals B.V., Luperox GmbH (which became part of the main German
+subsidiary of Atofina S.A.) and Peroxid Chemie GmbH & Co. KG) entered
+into and participated in a continuing agreement contrary to Article 81(1) of the
+Treaty and Article 53(1) of the EEA Agreement covering at times all and at
+times most of the Community and the EEA, by which they fixed the prices of
+the product, agreed on and implemented a mechanism for price increases,
+allocated customers and set up a machinery to monitor and enforce their
+agreements. Peroxidos Organicos S.A. (1975-1999) took part in a specific
+arrangement within the overall agreement. AC Treuhand AG was involved as
+well.
+
+(3) Duration of the participation
+
+(a) Akzo Nobel Chemicals International B.V., Akzo Nobel Polymer
+Chemicals B.V. and Akzo Nobel N.V. from 1 January 1971 to
+31 December 1999;
+(b) Atofina S.A. from 1 January 1971 to 31 December 1999;
+(c) Peroxid Chemie GmbH & Co. KG from 1 January 1971 to
+31 December 1999;
+(d) Degussa UK Holdings Limited from 1 September 1992 to
+31 December 1999;
+(e) Peroxidos Organicos S.A. from 31 December 1975 to
+31 December 1999;
+(f) AC Treuhand from 28 December 1993 to 31 December 1999.
+
+5
+
+B THE ORGANIC PEROXIDE INDUSTRY
+
+1 THE ACTORS
+
+(4) The following undertakings were involved in an agreement on organic
+peroxides.
+
+1.1 Akzo
+
+(5) The Akzo Nobel group of companies is active in the areas of healthcare,
+coatings, chemicals, and, until the end of 1999, fibres. The ultimate holding
+company of this group is Akzo Nobel N.V. Arnhem. The organic peroxide
+activities in Member States except for The Netherlands fall under the
+responsibility of another holding company, Akzo Nobel Chemicals
+International B.V., which in turn owns a number of legal entities dealing with
+organic peroxides outside the Netherlands. The organic peroxides activities in
+The Netherlands are performed by Akzo Nobel Polymer Chemicals B.V.,
+which belongs to the holding company Akzo Nobel Chemicals B.V.,
+Amersfoort, which in turn belongs to the holding company Akzo Nobel
+Nederland B.V., which in turn belongs to the ultimate holding company Akzo
+Nobel N.V. Arnhem4.
+
+(6) For simplicity, ‘Akzo’ is the name used hereafter for the actions undertaken by
+Akzo Nobel N.V., Akzo Nobel Chemicals International B.V. and by Akzo
+Nobel Nederland B.V. It was not possible to split up the actions according to
+the various Akzo companies concerned, due to reorganisations over the past 30
+years, overlapping responsibilities, changing of personnel between the
+companies etc.
+
+(7) The worldwide turnover of the group Akzo Nobel N.V. was EUR 14 000
+million5 in 2002.
+
+1.2 Atofina/Atochem
+
+(8) Atofina S.A. (hereinafter "Atochem"), was created in 1983 from the merger of
+Cloè Chimie, Atochimie and the biggest part of the chemical activity of the
+group Péchiney Ugine Kuhlmann, under the name Atochem S.A. Atochem
+S.A. changed its name into Elf Atochem S.A. in 1992 and into its present
+name, Atofina S.A., in April 20006, after a takeover of Atochem’s parent
+company Elf by TotalFina in 1999.
+
+(9) Atochem got involved in the organic peroxide business in 1989 via the
+acquisition of the US company Pennwalt by Atochem’s parent company Elf.
+
+4 Homepage: www.akzo.com
+5 When the figures refer to a date prior to 1.1.1999, “Euros” refer to ECUs. For the conversion in
+Euros, the exchange rates used for the calculation are the official yearly mean exchange rates as
+published by the European Commission for the calculation of turnovers.
+6 Hereafter it will be referred to Atochem, as most documents used in this Decision refer to
+Atofina’s previous name Atochem.
+
+6
+
+At that time Pennwalt’s subsidiary Luperox GmbH dealt with the European
+organic peroxide business. Luperox was integrated in Atofina Deutschland
+GmbH, part of the Atochem group, in 1990.
+
+(10) The worldwide turnover of Atochem was around EUR 19 800 million in 2002.
+
+1.3 Peroxid Chemie and Degussa UK Holdings Limited
+
+(11) Peroxid Chemie GmbH & Co. KG, Pullach (hereinafter "PC") is a limited
+liability company wholly owned by Laporte GmbH, Pullach, Germany.
+Laporte GmbH, Pullach is 99% owned by Laporte Holding GmbH, Pullach.
+The remaining 1% is owned by Laporte Nederland B.V., which also wholly
+owns Laporte Holding GmbH, Pullach. Laporte Nederland B.V. is wholly
+owned by Degussa UK Holdings Limited. Degussa UK Holdings Limited
+(formerly known as Laporte plc.) was bought in April 2001 by Degussa AG of
+Germany and renamed from Laporte plc. into Degussa UK Holdings Limited
+in June 20017.
+
+(12) PC was, for the period 1970-1992, part of the Interox-group, a joint venture
+without legal personality between Laporte plc. and Solvay S.A. Until 31
+August 1992 66.6% of PC was owned by Kali Chemie AG and 33.3% by
+Laporte plc. via Laporte Holding GmbH. Solvay S.A. owned 96% of Kali
+Chemie AG and 25% of Laporte plc8. With the dissolution of the Interoxgroup, PC came directly and indirectly under full ownership of Laporte plc. At
+that time, Solvay stopped having ownership ties to PC. The date for the legal
+transfer of ownership of PC was 1 September 1992.
+
+(13) Laporte plc, now Degussa UK Holdings Limited (hereinafter "Laporte") was,
+until its take-over by Degussa AG, an independent company liste
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e eighties onwards, without adding significant new insights, given the
+quality and quantity of the previous submissions by Akzo and Atochem and
+the replies to the requests for information. PC nevertheless materially
+contributed to establishing the existence of the infringement. PC and Laporte
+do not contest the fact of having participated in meetings during the period of
+tensions in 1992 although they interpret this period as the end of an agreement
+and the beginning of a new agreement. PC submitted its information before the
+
+104
+
+Commission sent its SO and did not substantially contest the facts on which
+the Commission based its allegations.
+
+(509) However, the quality of PC's company statement is not beyond doubt. PC only
+confirmed [...] participation at the meeting in October 1992, after Atochem
+provided additional documents. In the company statement290 and in the reply
+to the SO, the meeting of October 1992 is still put into question. PC confirmed
+that meeting only after Atochem’s written evidence distributed during the
+hearing, while it still considered it not to be a cartel meeting. Although it is
+possible that PC initially could not confirm the evidence due to the long time
+that had elapsed, it is also possible that this was done intentionally in order to
+prevent the proof of a continuation of the cartel. In the reply to the SO, PC
+furthermore states that [...] recalls the October 1992 meeting as his ‘first’
+meeting with competitors. This implies that other meetings followed, but PC
+remains silent on these meetings. PC has not reacted specifically to the other
+meetings in which [...] participated (see Table 4, recital (106)). Furthermore
+the positions held by [...]within the Laporte group are unclear. The reply to the
+request for information described [...] as managing director of PC since
+1992291. The reply of Laporte to the SO described [...] as managing director of
+Laporte GmbH, the German holding company owning PC, and not as
+managing director of PC. In any case, [...] was also a member of the board of
+Directors of Laporte plc, as shown by the minutes of a meeting on 23 March
+1992.
+
+(510) [...] 292 [...]
+
+(511) PC claims that it submitted original documents, which are of higher probative
+value than ex-post protocols, which provide substantial added value to the
+case. The 2002 Leniency Notice acknowledges the fact that originals have a
+higher value than documents written later, and PC claims that this element
+should also be applied in this case, where the 1996 Leniency Notice applies.
+The documents cited by PC are in particular the originals of the cartel
+agreement of 1971 and 1975 and the travel documents of PC’s employees. The
+Commission acknowledges that PC submitted some originals and underlines,
+that the 1996 leniency notice applies. However, the matching information
+received prior to PC’s submission was already of such quality, that the
+originals submitted by PC did not substantially improve the Commission’s
+ability to prove the infringement.
+
+(512) In summary, the Commission still considers that PC’s submission, in spite of
+these shortcomings, materially contributed to establishing the existence of the
+infringement, especially due to the evidence on the beginning of the main
+agreement in 1971 and 1975.
+
+(513) PC and Laporte acted jointly at the beginning of the procedure for reductions
+of fines by handing over the first set of documents. Laporte and PC replied
+
+290 See [11788].
+291 See [7562].
+292 [...]
+
+105
+
+jointly to the request for information sent to Laporte293. Afterwards, PC alone
+submitted its company statement. Laporte considered that if it were to be
+responsible for the behaviour of PC, the evidence submitted by PC would also
+be considered for Laporte. The Commission agrees. Where a company submits
+evidence in order to benefit from a reduction of fines, any reduction granted
+will benefit the undertaking of which the company that submitted the evidence
+forms part. The same reduction should be granted for PC and for PC and
+Laporte jointly and severally.
+
+(514) Perorsa asked for the application of the 1996 Leniency Notice after it received
+the SO. It contributed little details on meetings and participants of the Spanish
+sub-arrangement which went beyond the Commission’s knowledge. Perorsa
+did not provide details on the 1980 to early 1997-period of the arrangement,
+during which Perorsa admits having been involved in the Spanish subarrangement. Perorsa does not substantially contest the facts set out in the SO.
+However it does contest the Commission’s interpretation of some essential
+facts, such as the duration of Perorsa’s involvement and knowledge of the
+main agreement. In conclusion, the Commission considers that Perorsa has not
+contested the facts and has provided very little added value compared to the
+information already available to the Commission
+
+(515) After due consideration of Atochem’s co-operation under the 1996 Leniency
+Notice, and in accordance with the first and second indent of Section D(2) of
+that Notice, Atochem should be granted a 50 % reduction of the fine that
+would have been imposed if it had not co-operated with the Commission.
+
+(516) After due consideration of PC’s co-operation under the 1996 Leniency Notice,
+and in accordance with the first and second indent of Section D(2) of that
+Notice, PC should be granted a 25 % reduction of the fine that would have
+been imposed if it had not co-operated with the Commission.
+
+(517) The same reduction should be granted in respect of in the fine that would have
+been imposed on PC and Laporte jointly and severally for the period from 1
+September 1992 until 31 December 1999. In accordance with the first and
+second indent of Section D(2) of the 1996 Leniency Notice, a 25 % reduction
+of the fine that would have been imposed if they had not co-operated with the
+Commission should be granted.
+
+(518) After due consideration of Perorsa’s co-operation under the 1996 Leniency
+Notice, and in accordance with the first and second indent of Section D(2) of
+that Notice, Perorsa should be granted a 15 % reduction of the fine that would
+have been imposed if it had not co-operated with the Commission.
+
+2.2.2.5 Final amount of fines imposed in this proceeding
+
+(519) By way of conclusion, the amounts of the fines to be imposed in accordance
+with Article 15(2)(a) of Regulation No 17 should be set as follows:
+
+293 See [7551ff], [11749].
+
+106
+
+– Akzo Nobel Polymer Chemicals B.V., Akzo Nobel N.V., Akzo Nobel
+Chemicals International B.V., jointly and severally liable:
+
+EUR 0
+
+– Atofina S.A: EUR 43.47 million
+
+– Peroxid Chemie GmbH & Co. KG EUR 8.83 million
+
+– Peroxid Chemie GmbH & Co. KG and Degussa UK Holdings Limited,
+jointly and severally liable EUR 16.73 million
+
+– AC Treuhand AG: EUR 1000
+
+– Peroxidos Organicos S.A. EUR 0.50 million,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings and/or associations of undertakings have infringed Article
+81(1) of the Treaty and - from 1 January 1994 - Article 53 of the EEA Agreement, by
+participating, for the periods indicated, in a set of agreements and concerted practices
+in the sector of organic peroxides: AC Treuhand participated as an undertaking and/or
+association of undertakings.
+
+(a) Akzo Nobel Chemicals International B.V., Akzo Nobel Polymer
+Chemicals B.V. and Akzo Nobel N.V., from 1 January 1971 until
+31 December 1999,
+
+(b) Atofina S.A., from 1 January 1971 until 31 December 1999,
+
+(c) Peroxid Chemie GmbH & Co. KG, from 1 January 1971 until 31
+December 1999,
+
+(d) AC Treuhand AG, from 28 December 1993 until 31 December
+1999,
+
+(e) Peroxidos Organicos S.A., from at least 31 December 1975 until
+31 December 1999,
+
+(f) Degussa UK Holdings Limited (formerly Laporte plc.), from
+1 September 1992 until 31 December 1999.
+
+Article 2
+In respect of the infringement referred to in Article 1, the following fines are imposed:
+
+107
+
+(a) Akzo Nobel Polymer Chemicals B.V., Akzo Nobel N.V., Akzo
+Nobel Chemicals International B.V., jointly and severally liable,
+a fine of EUR 0
+
+(b) Atofina S.A., a fine of EUR 43.47 million
+
+(c) Peroxid Chemie GmbH & Co. KG, a fine of EUR 8.83 million
+
+(d) Peroxid Chemie GmbH & Co. KG and Degussa UK Holdings
+Limited, jointly and severally liable, a fine of EUR 16.73 million
+
+(e) AC Treuhand, a fine of EUR 1000
+
+(f) Peroxidos Organicos S.A., a fine of EUR 0.50 million
+
+The fines shall be paid, within three months of the date of the notification of this
+Decision into bank account N° 001-3953713-69 of the European Commission with:
+
+FORTIS Bank, rue Montagne du Parc 3, 1000 Bruxelles/Brussels
+
+(Code SWIFT: GEBABEBB – Code IBAN BE71 0013 9537 1369)
+
+After the expiry of that period, interest shall automatically be payable at the interest
+rate applied by the European Central Bank to its main refinancing operations on the
+first day of the month in which this Decision is adopted, plus 3,5 percentage points,
+namely 5.5%.
+
+Article 3
+The undertakings and/or associations of undertakings listed in Article 1 shall
+immediately bring to an end the infringement referred to in that Article, if they have
+not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from
+any act or conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to:
+
+Akzo Nobel Polymer Chemicals B.V., Stationsplein 4, 3818 LE Amersfoort
+
+Akzo Nobel N.V., Velperweg 76, NL-6824 BM Arnhem
+
+Akzo Nobel Chemicals International B.V., Stationsplein 4, NL-3818 LE
+Amersfoort
+
+Atofina S.A., 4, cours Michelet, La Défense 10, F-92091 Paris La Defense cedex
+
+Peroxid Chemie GmbH & Co. KG, Dr.-Gustav-Adolph-Strasse 3, D-82049 Pullach
+
+108
+
+AC Treuhand AG, Bleicherweg 62, CH-8027 Zürich
+
+Peroxidos Organicos S.A., Córcega 293, E-08008 Barcelona
+
+Degussa UK Holdings Limited, 42 Brook Street, UK-London W1K 5DB
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels,
+
+For the Commission
+Mario Monti
+Member of the Commission
+
+109

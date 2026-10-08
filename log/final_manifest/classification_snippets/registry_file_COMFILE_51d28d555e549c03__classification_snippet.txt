@@ -1,0 +1,605 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39960 – Thermal Systems
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Articles 7+23(2) Regulation (EC) 1/2003
+
+Date: 08/03/2017
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 8.3.2017
+C(2017) 1456 final
+
+COMMISSION DECISION
+
+of 8.3.2017
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39960 - Thermal systems)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 6
+
+2. The industry subject to the proceedings in this case .................................................... 6
+
+2.1. The products ................................................................................................................. 6
+
+2.2. The undertakings .......................................................................................................... 7
+
+2.2.1. DENSO ........................................................................................................................ 7
+
+2.2.2. VALEO ........................................................................................................................ 7
+
+2.2.3. BEHR ........................................................................................................................... 8
+
+2.2.4. SANDEN...................................................................................................................... 8
+
+2.2.5. PANASONIC ............................................................................................................... 8
+
+2.2.6. CALSONIC .................................................................................................................. 8
+
+3. Procedure ...................................................................................................................... 9
+
+4. Description of the conduct ......................................................................................... 11
+
+4.1. Nature, scope and duration of the conduct ................................................................. 11
+
+4.1.1. Infringement 1 ............................................................................................................ 11
+
+4.1.2. Infringement 2 ............................................................................................................ 12
+
+4.1.3. Infringement 3 ............................................................................................................ 13
+
+4.1.4. Infringement 4 ............................................................................................................ 13
+
+4.2. Geographic scope ....................................................................................................... 14
+
+5. Legal Assessment ....................................................................................................... 14
+
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 14
+
+5.1.1. Agreements and concerted practices .......................................................................... 14
+
+5.1.1.1. Principles .................................................................................................................... 14
+
+5.1.1.2. Application in this case .............................................................................................. 15
+
+5.1.2. Single and continuous infringement........................................................................... 16
+
+5.1.2.1. Principles .................................................................................................................... 16
+
+5.1.2.2. Application in this case .............................................................................................. 17
+
+5.1.3. Restriction of competition .......................................................................................... 18
+
+5.1.3.1. Principles .................................................................................................................... 18
+
+5.1.3.2. Application in this case .............................................................................................. 18
+
+EN 2 EN
+
+5.1.4. Effect upon trade between Member States ................................................................. 19
+
+5.1.4.1. Principles .................................................................................................................... 19
+
+5.1.4.2. Application in this case .............................................................................................. 19
+
+5.1.5. Non-applicability of Article 101(3) of the Treaty and Article 53(3) EEA Agreement
+.................................................................................................................................... 20
+
+5.1.5.1. Principles .................................................................................................................... 20
+
+5.1.5.2. Application in this case .............................................................................................. 20
+
+6. Duration of the participation of the parties in the infringements ............................... 20
+
+7. Liability ...................................................................................................................... 21
+
+7.1. Principles .................................................................................................................... 21
+
+7.2. Application in this case .............................................................................................. 22
+
+7.2.1. DENSO ...................................................................................................................... 22
+
+7.2.2. VALEO ...................................................................................................................... 23
+
+7.2.3. BEHR ......................................................................................................................... 24
+
+7.2.4. SANDEN.................................................................................................................... 24
+
+7.2.5. PANASONIC ............................................................................................................. 25
+
+7.2.6. CALSONIC ................................................................................................................ 25
+
+8. Remedies .................................................................................................................... 25
+
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 25
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003 ............................................................. 26
+
+8.3. Calculation of the fines .............................................................................................. 26
+
+8.3.1. The value of sales ....................................................................................................... 27
+
+8.3.2. Determination of the basic amount of the fines ......................................................... 29
+
+8.3.2.1. Gravity........................................................................................................................ 29
+
+8.3.2.2. Duration ...................................................................................................................... 29
+
+8.3.2.3. Additional amount ...................................................................................................... 30
+
+8.3.2.4. Calculation of the basic amount ................................................................................. 30
+
+8.3.3. Adjustments to the basic amount: Aggravating or mitigating factors ........................ 31
+
+8.3.4. Deterrence .................................................................................................................. 31
+
+8.4. Application of the 10% of turnover limit ................................................................... 32
+
+8.5. Application of the Leniency Notice ........................................................................... 32
+
+EN 3 EN
+
+8.5.1. Immunity from fines .................................................................................................. 32
+
+8.5.2. Reduction of fines ...................................................................................................... 32
+
+8.6. Application of the Settlement Notice ......................................................................... 34
+
+8.7. Conclusion: final amount of individual fines to be imposed ..................................... 34
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of 8.3.2017
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39960 - Thermal systems)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the EEA Agreement,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+
+Having regard to the Commission decision of 21 December 2015 to initiate proceedings in
+this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case3,
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 TFEU should be understood as references to Articles 81 and 82,
+respectively, of the EC Treaty where appropriate. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the TFEU will be used throughout this Decision.
+2 OJ L 123, 27.4.2004, p. 18.
+
+EN 5 EN
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) This Decision relates to four single and continuous infringements of Article 101 of
+the Treaty and Article 53 of the EEA Agreement. The infringements consisted of
+price coordination or market sharing in respect of sales of air conditioning and
+engine cooling products for passenger cars to a number of car manufacturers in the
+EEA. The infringements took place between 2004 and 2009.
+
+(2) This Decision is addressed to the following undertakings and legal entities, which
+each participated in one or more of the four infringements:
+
+(a) DENSO: DENSO CORPORATION, DENSO EUROPE B.V., DENSO
+AUTOMOTIVE Deutschland GmbH and DENSO SALES UK LTD.;
+
+(b) VALEO: Valeo S.A., Valeo Klimasysteme GmbH, Valeo GmbH, Valeo
+Systèmes Thermiques S.A.S. and Valeo Japan Co., Ltd.;
+
+(c) BEHR: MAHLE Behr GmbH & Co. KG;
+
+(d) SANDEN: Sanden Holdings Corporation and Sanden International (Europe)
+Ltd;
+
+(e) PANASONIC: Panasonic Corporation;
+
+(f) CALSONIC: Calsonic Kansei Corporation.
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS IN THIS CASE
+
+2.1. The products
+
+(3) The conduct subject to these proceedings related to the thermal systems sector. The
+anti-competitive conduct concerned supplies of the following products to a number
+of car manufacturers with production facilities in the EEA: (i) climate control
+components for passenger cars (heating, ventilation and air conditioning ("HVAC");
+compressors; e-compressors) and (ii) engine cooling components (radiators; fans)
+for passenger cars.
+
+(4) Climate control (or air conditioning or A/C) systems built into cars serve to protect
+passengers from outside temperatures and allow them to regulate inside
+temperatures. The three main functions of a climate control system are: heating,
+ventilation and air conditioning. Climate control systems are composed of three main
+elements:
+
+– a HVAC unit controlling temperature by ventilating air from the vehicle to the
+heating/air conditioning equipment;
+
+3 Final report of the Hearing Officer of 28 February 2017.
+
+EN 6 EN
+
+– a compressor compressing high-temperature refrigerant evaporated in the
+HVAC;
+
+– a condenser condensing high-pressure / -temperature gas refrigerant.
+
+(5) Engine cooling modules (ECMs) serve to remove the waste heat released by internal
+combustion from the engine. They mainly consist of a radiator, cooling fans,
+intercoolers and oil coolers.
+
+(6) Thermal system components are usually customer-specific products, designed or
+adapted for a particular type of vehicle or a group of vehicles (platform). To source
+such components, customers issue Requests for Quotations (RFQs). Different
+components (for example HVACs and compressors) are usually tendered separately
+so that RFQs usually do not cover entire thermal systems.
+
+2.2. The undertakings
+
+2.2.1. DENSO
+
+(7) The relevant legal entities are:
+
+(a) DENSO CORPORATION, with registered office in 1-1, Showa-cho, Kariya,
+Aichi 448-8661 (Japan);
+
+(b) DENSO EUROPE B.V., with registered office in Hogeweyselaan 165, 1382
+JL Weesp (the Netherlands);
+
+(c) DENSO AUTOMOTIVE Deutschland GmbH, with registered office in
+Freisinger Strasse 21-23, 85386 Eching (Germany);
+
+(d) DENSO SALES UK LTD., with registered office in Breakspear Place,
+Breakspear Park, Hemel Hempstead, Hertfordshire HP2 4TZ (UK).
+
+(8) DENSO is a global supplier of advanced automotive technologies, systems and
+components with its group headquarters in Japan. The undertaking's worldwide
+turnover in 20154 was approximately EUR 34 126 million.
+
+2.2.2. VALEO
+
+(9) The relevant legal entities are:
+
+(a) Valeo S.A., with registered office in 43 Rue Bayen, 75017 Paris (France);
+
+(b) Valeo Klimasysteme GmbH, with registered office in Wer
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+t 26 of the Leniency Notice, the value of
+sales to these customers should not be taken into account when setting the fine to be
+imposed on VALEO.
+
+(150) The Commission has already informed BEHR of its intention to grant BEHR a
+leniency reduction within the range of 20%-30% of any fine that would otherwise
+have been imposed for Infringement 1. BEHR was the second undertaking to meet
+the requirements of points 24 and 25 of the Leniency Notice as regards Infringement
+1. BEHR applied for leniency immediately after the Commission inspected its
+premises [...]. BEHR should therefore be granted a reduction of 30% of the fine that
+would otherwise have been imposed for Infringement 1.
+
+(151) The Commission has already informed SANDEN of its intention to grant SANDEN
+a leniency reduction within the range of 20%-30% of any fine that would otherwise
+have been imposed for Infringement 2. SANDEN was the second undertaking to
+meet the requirements of points 24 and 25 of the Leniency Notice as regards
+Infringement 2. [...] SANDEN should therefore be granted a reduction of 25% of the
+fine that would otherwise have been imposed for infringement 2. The Commission
+has already informed SANDEN of its intention to grant SANDEN a leniency
+reduction within the range of up to 20% of any fine that would otherwise have been
+imposed for Infringement 4. SANDEN was the third undertaking to meet the
+requirements of points 24 and 25 of the Leniency Notice as regards Infringement 4.
+SANDEN applied for leniency relatively late in the procedure, [...]. SANDEN
+
+EN 33 EN
+
+should therefore be granted a reduction of 15% of the fine that would otherwise have
+been imposed for Infringement 4.
+
+(152) The Commission has already informed CALSONIC of its intention to grant
+CALSONIC a leniency reduction within the range of 20%-30% of any fine that
+would otherwise have been imposed for Infringement 4. CALSONIC was the second
+undertaking to meet the requirements of points 24 and 25 of the Leniency Notice as
+regards Infringement 4. CALSONIC applied for leniency at an early stage in the
+procedure [...]. CALSONIC should therefore be granted a reduction of 30% of the
+fine that would otherwise have been imposed for Infringement 4.
+
+8.6. Application of the Settlement Notice
+
+(153) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% of turnover limit has been applied having regard to the Guidelines on Fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, that reduction is added to the reductions for their cooperation under the
+Leniency Notice.
+
+(154) Consequently, the amount of the fines to be imposed on each party should be further
+reduced by 10%.
+
+8.7. Conclusion: final amount of individual fines to be imposed
+
+(155) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 9 - Fines.
+
+Table 9 - Fines
+
+Infringement Undertaking Amount (EUR)
+1
+DENSO 0
+
+VALEO 18 236 000
+
+BEHR 62 135 000
+
+2
+DENSO 0
+
+VALEO 8 376 000
+
+SANDEN 63 220 000
+
+3
+PANASONIC 0
+
+DENSO 322 000
+
+4
+DENSO 0
+
+CALSONIC 1 747 000
+
+SANDEN 1 385 000
+
+EN 34 EN
+
+VALEO 154 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement covering the whole EEA
+consisting of price coordination concerning sales of HVAC for passenger cars to VW-group
+from 11 November 2005 to 2 December 2009, to Daimler from 31 October 2007 to 2
+December 2009 and to BMW from 12 March 2008 to 2 December 2009:
+
+(a) DENSO AUTOMOTIVE Deutschland GmbH and DENSO CORPORATION;
+
+(b) Valeo Systèmes Thermiques S.A.S., Valeo GmbH and Valeo S.A.; and
+
+(c) MAHLE Behr GmbH & Co. KG.
+
+Article 2
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement covering the whole EEA
+consisting of price coordination concerning sales of compressors for passenger cars to VWgroup from 29 November 2004 to 15 October 2009 and to PAG from 29 November 2004 to
+21 December 2006:
+
+(a) DENSO AUTOMOTIVE Deutschland GmbH, DENSO SALES UK LTD.,
+DENSO EUROPE B.V. and DENSO CORPORATION;
+
+(b) Valeo Klimasysteme GmbH, Valeo Japan Co., Ltd. and Valeo S.A.; and
+
+(c) Sanden International (Europe) Ltd and Sanden Holdings Corporation.
+
+Article 3
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement covering the whole EEA
+consisting of market coordination concerning sales of e-compressors for passenger cars to
+Nissan/Renault from 14 May 2009 to 21 October 2009:
+
+(a) Panasonic Corporation; and
+
+(b) DENSO CORPORATION.
+
+Article 4
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement covering the whole EEA
+
+EN 35 EN
+
+consisting of market coordination concerning sales of HVAC for the Suzuki Swift and SX4
+and of radiators and fans for the Suzuki Swift from 17 October 2007 to 21 July 2009:
+
+(a) DENSO CORPORATION;
+
+(b) Calsonic Kansei Corporation;
+
+(c) Sanden Holdings Corporation, which is only held liable in relation to sales of
+HVAC for the Suzuki Swift and SX4; and
+
+(d) Valeo Japan Co., Ltd. and Valeo S.A, which are only held liable in relation to
+sales of HVAC for the Suzuki SX4 from 23 September 2008 to 21 July 2009.
+
+Article 5
+
+(1) For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) on DENSO AUTOMOTIVE Deutschland GmbH and DENSO
+CORPORATION jointly and severally liable: EUR 0;
+
+(b) on Valeo Systèmes Thermiques S.A.S., Valeo GmbH and Valeo S.A. jointly
+and severally liable: EUR 18 236 000;
+
+(c) on MAHLE Behr GmbH & Co. KG : EUR 62 135 000.
+
+(2) For the infringement referred to in Article 2, the following fines are imposed:
+
+(a) on DENSO AUTOMOTIVE Deutschland GmbH, DENSO SALES UK LTD.,
+DENSO EUROPE B.V. and DENSO CORPORATION jointly and severally
+liable: EUR 0;
+
+(b) on Valeo Klimasysteme GmbH, Valeo Japan Co., Ltd. and Valeo S.A. jointly
+and severally liable: EUR 8 376 000;
+
+(c) on Sanden International (Europe) Ltd and Sanden Holdings Corporation jointly
+and severally liable: EUR 63 220 000.
+
+(3) For the infringement referred to in Article 3, the following fines are imposed:
+
+(a) on Panasonic Corporation: EUR 0;
+
+(b) on DENSO CORPORATION: EUR 322 000.
+
+(4) For the infringement referred to in Article 4, the following fines are imposed:
+
+(a) on DENSO CORPORATION: EUR 0;
+
+(b) on Calsonic Kansei Corporation : EUR 1 747 000;
+
+(c) on Sanden Holdings Corporation: EUR 1 385 000;
+
+EN 36 EN
+
+(d) on Valeo Japan Co., Ltd. and Valeo S.A. jointly and severally liable:
+EUR 154 000.
+
+The fines shall be credited, in euros, within a period of three months from the date of
+notification of this Decision to the following bank account held in the name of the European
+Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1–2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Ref.: European Commission – BUFI/AT.39960
+
+After the expiry of this period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Articles 1 to 4 lodges an appeal, that undertaking shall cover
+the fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.65
+
+Article 6
+
+The undertakings listed in Articles 1 to 4 shall immediately bring to an end the infringements
+referred to in those Articles insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Articles 1 to 4, and from any
+act or conduct having the same or similar object or effect.
+
+Article 7
+
+This Decision is addressed to:
+
+(a) DENSO CORPORATION, 1-1, Showa-cho, Kariya, Aichi 448-8661, Japan;
+
+(b) DENSO EUROPE B.V., Hogeweyselaan 165, 1382 JL Weesp, the Netherlands;
+
+(c) DENSO AUTOMOTIVE Deutschland GmbH, Freisinger Strasse 21-23, 85386
+Eching, Germany;
+
+65 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L 362, 31.12.2012, p. 1).
+
+EN 37 EN
+
+(d) DENSO SALES UK LTD., Breakspear Place, Breakspear Park, Hemel Hempstead,
+Hertfordshire HP2 4TZ, United Kingdom;
+
+(e) Valeo S.A., 43 Rue Bayen, 75017 Paris, France;
+
+(f) Valeo Klimasysteme GmbH, Werner-von-Siemens-Straße 6, Postfach 1104, 96476
+Bad Rodach, Bayern, Germany;
+
+(g) Valeo GmbH, Werner-von-Siemens-Straße 6, Postfach 1104, 96476 Bad Rodach,
+Bayern, Germany;
+
+(h) Valeo Systèmes Thermiques S.A.S., 8 rue Louis Lormand, La Verrière, 78320 Le
+Mesnil Saint Denis, France;
+
+(i) Valeo Japan Co., Ltd., 39 Aza-Higashihara, Sendai, Kumagaya-shi, Saitama, Japan;
+
+(j) MAHLE Behr GmbH & Co. KG, Mauserstrasse 3, D-70469 Stuttgart, Germany;
+
+(k) Sanden Holdings Corporation, 20 Kotobuki-cho, Isesaki-shi, Gunma, Japan, 372-
+8502;
+
+(l) Sanden International (Europe) Ltd, Chineham Park, Rosewood, Crockford Lane,
+Basingstoke RG24 8UT Hampshire, United Kingdom;
+
+(m) Panasonic Corporation, 1006 Kadoma, Kadoma City, Osaka 571-8501, Japan; and
+
+(n) Calsonic Kansei Corporation, 2-1917 Nisshin-cho, Kita-ku, Saitama City, Saitama
+331-8501, Japan.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 8.3.2017
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 38 EN

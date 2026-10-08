@@ -1,0 +1,473 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52017XC0530(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52017XC0530(01)
+Help
+Print
+Summary of Commission Decision of 8 March 2017 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39960 — Thermal Systems) (notified under document C(2017) 1456)
+Summary of Commission Decision of 8 March 2017 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39960 — Thermal Systems) (notified under document C(2017) 1456)
+Summary of Commission Decision of 8 March 2017 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39960 — Thermal Systems) (notified under document C(2017) 1456)
+OJ C 169, 30.5.2017, pp. 19–24
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+30.5.2017
+EN
+Official Journal of the European Union
+C 169/19
+Summary of Commission Decision
+of 8 March 2017
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.39960 — Thermal Systems)
+(notified under document C(2017) 1456)
+(Only the English text is authentic)
+(2017/C 169/15)
+On 8 March 2017, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+On 8 March 2017, the Commission adopted a Decision relating to four single and continuous infringements of Article 101 of the Treaty and Article 53 of the EEA Agreement. The infringements consisted of price coordination or market sharing in respect of sales of air conditioning and engine cooling products for passenger cars to a number of car manufacturers in the EEA.
+(2)
+Climate control (or air conditioning or A/C) systems built into cars serve to protect passengers from outside temperatures and allow them to regulate inside temperatures. The three main functions of a climate control system are: heating, ventilation and air conditioning. Climate control systems are composed of three main elements:
+—
+a HVAC unit controlling temperature by ventilating air from the vehicle to the heating/air conditioning equipment;
+—
+a compressor compressing high-temperature refrigerant evaporated in the HVAC;
+—
+a condenser condensing high-pressure/-temperature gas refrigerant.
+(3)
+Engine cooling modules (ECMs) serve to remove the waste heat released by internal combustion from the engine. They mainly consist of a radiator, cooling fans, intercoolers and oil coolers.
+(4)
+This Decision is addressed to Denso
+(
+2
+)
+, Valeo
+(
+3
+)
+, Behr
+(
+4
+)
+, Sanden
+(
+5
+)
+, Panasonic
+(
+6
+)
+and Calsonic
+(
+7
+)
+(the ‘Parties’).
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(5)
+Following the immunity applications of Panasonic (only concerning sales of e-compressors to Nissan/Renault) and of Denso under the terms of the 2006 Leniency Notice, the Commission sent out requests for information to some undertakings active in the industry on 22 July 2011. On 8 August 2011, VALEO submitted a leniency application. On 12 October 2011, CALSONIC submitted a leniency application. On 31 January 2012, SANDEN submitted a leniency application. Between 22 and 25 May 2012 the Commission carried out unannounced inspections under Article 20(4) of Regulation (EC) No 1/2003 at the premises of VALEO and BEHR. On 25 May 2012, BEHR submitted a leniency application.
+(6)
+On 21 December 2015, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against the Parties with a view to engaging in settlement discussions with them. Settlement meetings took place between January and November 2016. Subsequently, the Parties submitted their formal requests to settle to the Commission pursuant to Article 10a(2) of Regulation (EC) No 773/2004
+(
+8
+)
+.
+(7)
+On 16 January 2017, the Commission adopted a statement of objections addressed to the Parties. All Parties replied to the statement of objections by confirming that it reflected the contents of their settlement submissions and that they remained committed to following the settlement procedure.
+(8)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 27 February 2017.
+(9)
+The Commission adopted this Decision on 8 March 2017.
+2.2.
+Summary of the Infringements
+(10)
+The four separate infringements all concern the supply of thermal system components for passenger cars in the EEA. The scope of the infringements is as follows:
+Infringement 1
+:
+Coordination between DENSO, VALEO and BEHR concerning supplies of HVAC to Volkswagen-group (Volkswagen, Audi, Skoda, Seat — ‘VW’), Daimler (Mercedes — ‘Daimler’) and BMW (‘BMW’).
+Infringement 2
+:
+Coordination between DENSO, VALEO and SANDEN concerning supplies of compressors to Volkswagen-group (Volkswagen, Audi, Skoda, Seat — ‘VW’) and PAG (Jaguar, Land Rover, Volvo — ‘PAG’).
+Infringement 3
+:
+Coordination between PANASONIC and DENSO concerning supplies of e-compressors to Nissan/Renault.
+Infringement 4
+:
+Coordination between DENSO, CALSONIC, SANDEN and VALEO concerning supplies of HVAC and radiators and fans for the Suzuki third generation Swift and supplies of HVAC for the Suzuki second generation SX4.
+2.2.1.
+Infringement 1
+(11)
+DENSO, VALEO and BEHR had collusive contacts concerning supplies of HVAC to VW, Daimler and BMW in(to) the EEA. They held trilateral meetings and had bilateral contacts with each other in parallel, with the overall aim to coordinate their pricing strategy vis-à-vis those customers. They discussed those customers and exchanged sensitive information.
+2.2.2.
+Infringement 2
+(12)
+DENSO, VALEO and SANDEN had collusive contacts with each other concerning supplies of compressors to VW and PAG in(to) the EEA. The contacts were bilateral in nature except for one trilateral meeting in November 2004 and had the common objective of price coordination.
+2.2.3.
+Infringement 3
+(13)
+PANASONIC and DENSO had collusive bilateral contacts concerning supplies of e-compressors with regard to a request for quotation (RFQ) of Nissan/Renault for the Nissan Leaf model and the Renault EV model. They agreed that DENSO would supply e-compressors covered by the RFQ to Renault and that PANASONIC would supply e-compressors covered by the RFQ to Nissan. E-compressors are used in electric or hybrid cars.
+2.2.4.
+Infringement 4
+(14)
+DENSO, CALSONIC and SANDEN had collusive bilateral contacts concerning supplies in(to) the EEA of HVAC for the third generation Suzuki Swift and, together with VALEO, for the second generation Suzuki SX4. DENSO and CALSONIC also had contacts concerning supplies of radiators and fans for the third generation Suzuki Swift. The Parties exchanged price information and considered allocating business geographically.
+2.3.
+Duration
+(15)
+The duration of the participation of each party in the infringements was as follows:
+Table 1
+Infringement
+Customer
+Start
+End
+1
+(DENSO, VALEO, BEHR)
+overall
+11.11.2005
+2.12.2009
+VW
+11.11.2005
+2.12.2009
+Daimler
+31.10.2007
+2.12.2009
+BMW
+12.3.2008
+2.12.2009
+2
+(DENSO, VALEO, SANDEN)
+overall
+29.11.2004
+15.10.2009
+VW
+29.11.2004
+15.10.2009
+PAG
+29.11.2004
+21.12.2006
+3
+(PANASONIC, DENSO)
+Renault/Nissan
+14.5.2009
+21.10.2009
+4
+(DENSO, CALSONIC, SANDEN)
+overall
+17.10.2007
+21.7.2009
+Suzuki (SX4, Swift)
+17.10.2007
+21.7.2009
+(VALEO)
+Suzuki (SX4)
+23.9.2008
+21.7.2009
+3.
+ADDRESSEES
+3.1.1.
+DENSO
+(16)
+Liability for the infringements is imputed to DENSO as follows:
+—
+for Infringement 1, jointly and severally to DENSO AUTOMOTIVE Deutschland GmbH and DENSO CORPORATION;
+—
+for Infringement 2, jointly and severally to DENSO AUTOMOTIVE Deutschland GmbH, DENSO SALES UK LTD., DENSO EUROPE B.V. and DENSO CORPORATION;
+—
+for Infringement 3, to DENSO CORPORATION;
+—
+for Infringement 4, to DENSO CORPORATION.
+3.1.2.
+VALEO
+(17)
+Liability for the infringements is imputed to VALEO as follows:
+—
+for Infringement 1, jointly and severally to Valeo Systèmes Thermiques S.A.S., Valeo GmbH and Valeo S.A.;
+—
+for Infringement 2, jointly and severally to Valeo Klimasysteme GmbH, Valeo Japan Co., Ltd and Valeo S.A.;
+—
+for Infringement 4, jointly and severally to Valeo Japan Co., Ltd and Valeo S.A..
+3.1.3.
+BEHR
+(18)
+Liability for Infringement 1 is imputed to MAHLE Behr GmbH & Co. KG.
+3.1.4.
+SANDEN
+(19)
+Liability for the infringements is imputed to SANDEN as follows:
+—
+for Infringement 2, jointly and severally to Sanden International (Europe) Ltd and Sanden Holdings Corporation;
+—
+for Infringement 4, to Sanden Holdings Corporation.
+3.1.5.
+PANASONIC
+(20)
+Liability for Infringement 3 is imputed to Panasonic Corporation.
+3.1.6.
+CALSONIC
+(21)
+Liability for Infringement 4 is imputed to Calsonic Kansei Corporation.
+4.
+REMEDIES
+(22)
+The Decision applies the 2006 Guidelines on fines
+(
+9
+)
+.
+4.1.
+Basic amount of the fine
+(23)
+In Infringement 1, the value of sales is calculated on the basis of the yearly average of sales of HVAC-units in the EEA to VW, Daimler and BMW during the infringement period.
+(24)
+In Infringement 2, the value of sales is calculated on the basis of the yearly average of sales of compressors in the EEA to VW and PAG during the infringement period.
+(25)
+In Infringement 3, the value of sales is calculated on the basis of the yearly average of sales of e-compressors to Nissan/Renault in the EEA during the period of the contract with Nissan/Renault concerned by the infringement. As Panasonic had no direct sales into the EEA, its value of sales is calculated as a percentage of Denso's sales in the EEA on the basis of Panasonic's worldwide share for the relevant e-compressor sales.
+(26)
+In Infringement 4, the value of sales is calculated on the basis of the sales of HVAC-units and radiators and fans to Suzuki for the models concerned by the infringement in 2008. As only Denso had relevant sales in the EEA for the car models concerned and some parties did not have any sales for the car models concerned, the value of sales of the other parties is calculated on the basis of equal shares of the value of sales of Denso in the EEA, to the extent that those other parties participated in the infringement.
+(27)
+Considering the nature of the infringements and their geographic scope, the percentage for the variable amount of the fines as well as the additional amount (‘entry fee’) is set at 16 % of the value of sales for the infringements.
+(28)
+The variable amount is multiplied by the number of years or by fractions of the year respectively of the Parties' individual participation in the infringement(s). The increase for duration is calculated on the basis of days.
+4.1.1.
+Adjustments to the basic amount.
+(29)
+There are no aggravating or mitigating circumstances in this case.
+(30)
+A deterrence multiplier of 1,2 is applied to PANASONIC and of 1,1 to DENSO to take account of the comparatively large size of those undertakings.
+4.2.
+Application of the 10 % of turnover limit
+(31)
+None of the fines calculated exceed 10 % of the respective undertaking's total turnover in 2015/16 or in 2016, as applicable.
+4.3.
+Application of the Leniency Notice
+4.3.1.
+Immunity from fines
+(32)
+DENSO was the first to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice in Infringements 1, 2 and 4. DENSO is thus granted immunity from fines for Infringements 1, 2 and 4.
+(33)
+Moreover, DENSO was the first undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice as regards Infringement 3. DENSO is therefore granted a reduction of 40 % of the fine for Infringement 3.
+(34)
+PANASONIC was the first to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice in Infringement 3. PANASONIC is thus granted immunity from fines for Infringement 3.
+(35)
+VALEO was the first undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice as regards Infringements 1, 2 and 4. VALEO is therefore granted a reduction of the fine of 40 % for Infringement 1, of 45 % for Infringement 2 and of 50 % for Infringement 4.
+(36)
+VALEO was the first party to submit compelling evidence in the sense of point 25 of the 2006 Leniency Notice that enabled the Commission to include sales to a customer in Infringement 1 and sales to a customer in Infringement 2. In accordance with point 26 of the 2006 Leniency Notice, the value of sales to these customers is not taken into account when setting the fine for VALEO for Infringement 1 and Infringement 2, respectively.
+(37)
+BEHR was the second undertaking to meet the requirements of points 24 and 25 of the Leniency Notice as regards Infringement 1. BEHR is therefore granted a reduction of 30 % of the fine for Infringement 1.
+(38)
+SANDEN was the second undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice as regards Infringement 2 and the third undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice as regards Infringement 4. SANDEN is therefore granted a reduction of the fine of 25 % for Infringement 2 and of 15 % for Infringement 4.
+(39)
+CALSONIC was the second undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice as regards Infringement 4. CALSONIC is therefore granted a reduction of 30 % of the fine for Infringement 4.
+4.4.
+Application of the Settlement Notice
+(40)
+As a result of the application of the Settlement Notice, the amount of the fines to be imposed on each Party was reduced by 10 %. The reduction was added to their leniency reward.
+5.
+FINES IMPOSED BY THE DECISION
+(41)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003:
+For Infringement 1:
+(a)
+on DENSO AUTOMOTIVE Deutschland GmbH and DENSO CORPORATION jointly and severally liable: EUR 0;
+(b)
+on Valeo Systèmes Thermiques S.A.S., Valeo GmbH and Valeo S.A. jointly and severally liable: EUR 18 236 000;
+(c)
+on MAHLE Behr GmbH & Co. KG: EUR 62 135 000.
+For Infringement 2:
+(a)
+on DENSO AUTOMOTIVE Deutschland GmbH, DENSO SALES UK LTD., DENSO EUROPE B.V. and DENSO CORPORATION jointly and severally liable: EUR 0;
+(b)
+on Valeo Klimasysteme GmbH, Valeo Japan Co., Ltd and Valeo S.A. jointly and severally liable: EUR 8 376 000;
+(c)
+on Sanden International (Europe) Ltd and Sanden Holdings Corporation jointly and severally liable: EUR 63 220 000.
+For Infringement 3:
+(a)
+on Panasonic Corporation: EUR 0;
+(b)
+on DENSO CORPORATION: EUR 322 000.
+For Infringement 4:
+(a)
+on DENSO CORPORATION: EUR 0;
+(b)
+on Calsonic Kansei Corporation: EUR 1 747 000;
+(c)
+on Sanden Holdings Corporation: EUR 1 385 000;
+(d)
+on Valeo Japan Co., Ltd and Valeo S.A. jointly and severally liable: EUR 154 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+The relevant legal entities are DENSO CORPORATION, DENSO EUROPE B.V., DENSO AUTOMOTIVE Deutschland GmbH and DENSO SALES UK LTD.
+(
+3
+)
+The relevant legal entities are Valeo S.A., Valeo Klimasysteme GmbH, Valeo GmbH, Valeo Systèmes Thermiques S.A.S. and Valeo Japan Co., Ltd.
+(
+4
+)
+The relevant legal entity is MAHLE Behr GmbH & Co. KG.
+(
+5
+)
+The relevant legal entities are Sanden Holdings Corporation and Sanden International (Europe) Ltd.
+(
+6
+)
+The relevant legal entity is Panasonic Corporation.
+(
+7
+)
+The relevant legal entity is Calsonic Kansei Corporation.
+(
+8
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+).
+(
+9
+)
+OJ C 210, 1.9.2006, p. 2
+.
+Top

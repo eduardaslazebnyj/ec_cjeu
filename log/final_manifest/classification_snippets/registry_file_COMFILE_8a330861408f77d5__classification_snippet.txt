@@ -1,0 +1,72 @@
+# Case COMP/39736 SIEMENS / AREVA
+
+# Commitments offered to the European Commission
+
+# under Article 9 of Council Regulation N°1/2003
+
+In accordance with Article 9 of Council Regulation N° 1/2003 ("Regulation 1/2003"), AREVA and SIEMENS offer the following commitments ("Commitments") to the European Commission (the "Commission") with a view to addressing the preliminary competition concerns as set out in the Commission's preliminary assessment ("Preliminary Assessment") dated 16 December 2011 in Case COMP/39736 and enabling the Commission to adopt a decision pursuant to Article 9 of Regulation 1/2003 confirming that the Commitments address its concerns ("Commitment decision").
+
+Nothing in these Commitments may be construed as implying that AREVA and SIEMENS agree with the presentation of the facts set out in the Preliminary Assessment or with the preliminary competition concerns identified by the Commission therein. In addition, these Commitments may not be interpreted as an acknowledgement by AREVA or SIEMENS that they have infringed competition law.
+
+Consistent with Article 9 of Regulation 1/2003, the Commitments are given in the understanding that the Commission will confirm that there are no grounds for further action and will close its investigation (Article 9 Decision).
+
+## SECTION I: Definitions
+
+Settlement Agreement: the agreement signed on September 22, 2011, pursuant to which AREVA and SIEMENS agreed to abrogate and set aside all post-contractual obligations under the SHA as well as the Arbitral Award to the extent it concerns such post-contractual obligations. The Settlement Agreement also provides for new non-compete and confidentiality obligations applicable to SIEMENS.
+
+NCO : Non-Compete Obligation.
+
+## SECTION II: The Commitments
+
+AREVA and SIEMENS agree and undertake that, as from the entry into force of these Commitments, only the following non-compete and confidentiality obligations shall apply to SIEMENS:
+
+1. SIEMENS and/or its affiliates shall not develop any activities directly related to the nuclear island of nuclear power plants as detailed in the Core Products and Services list attached to these Commitments as Annex 1. This NCO shall last until October 16, 2012.
+
+2. Until October 16, 2012, SIEMENS commits not to acquire or hold more than 10% of the capital or voting shares of an entity carrying out activities included in the Core Products and Services list attached to these Commitments as Annex 1. SIEMENS is entitled to acquire or hold up to 10% of the capital or voting shares in such entities provided that such shareholding does not carry governance or management or special information rights.
+
+3. SIEMENS and/or its affiliates shall be bound by confidentiality obligations as set out in Annex 2 to these Commitments until October 16, 2012 in relation to any information it may have had access to relating to the Core Products and Services.
+
+4. Until such time, SIEMENS shall ensure by appropriate instructions and undertakings that its employees and advisors comply with such confidentiality obligations to avoid using or disclosing AREVA's confidential information.
+
+5. In accordance with the principle of good faith and customary business practices, SIEMENS will not make available to third parties AREVA NP's corporate constitution and administration documents (including minutes of the governance bodies) or confidential written technical information, or use such technical information, even beyond October 16, 2012.
+
+AREVA and SIEMENS herewith agree that any post contractual obligation contained in the Settlement Agreement which is not consistent with these Commitments shall be set aside.
+
+Except as expressly provided in these Commitments, the Settlement Agreement shall remain unchanged and in full force and effect.
+
+## SECTION III: Final provisions
+
+The Commitments and the amendments to the Settlement Agreement as provided herein shall take effect upon the date of notification of the Article 9 Decision by which the Commission makes the Commitments binding on AREVA and SIEMENS.
+
+The Annexes to this document forms an integral part of the Commitments.
+
+13 February 2012
+![](images/ab6fd12179a7fdfe1b237dc391e981918a0416c6f16d07b428823b8580deccb9.jpg)
+
+## CORE PRODUCTS AND SERVICES LIST
+
+Components of such Core products and related services will not be deemed to be Core Products or Services unless these components qualify on their own as Core Products or Services
+
+Core products
+
+Comments (where applicable)
+
+<table><tr><td>Overall NPPs of any type including PWRs (pressurized water reactors), VVERs (pressurized water reactors of Russian design), BWRs (boiling water reactors), PHWRs (pressurized heavy water reactors), FBRs (Fast breeder reactors), hybrid reactors, fusion reactors, and research reactors.</td><td>Siemens may engage in activities regarding an overall NPP in whatever form and partnership as long as such activities are strictly limited to Siemens contributing only conventional island technologies.</td></tr><tr><td>Overall NIs for any type of NPP as designated above.</td><td></td></tr><tr><td>Overall NSSS for any type of NPP as designated above.</td><td></td></tr><tr><td>Overall BNIs for any type of NPP as designated above.</td><td></td></tr><tr><td>Reactor pressure vessels</td><td></td></tr><tr><td>Reactor heads</td><td></td></tr><tr><td>Steam generators</td><td></td></tr><tr><td>Pressurizers</td><td></td></tr><tr><td>Heavy supports for primary circuit</td><td></td></tr><tr><td>Control rod drive mechanisms (CRDM)</td><td></td></tr><tr><td>Control rod drive control systems (Rod Pilot &amp; DCRDCS)</td><td></td></tr><tr><td>Control rod guide assemblies (CRGA)</td><td></td></tr><tr><td>Control rod guide tubes (CRGT)</td><td></td></tr><tr><td>Rod position measurement detector</td><td></td></tr><tr><td>Rod drop time measurement/test equipment</td><td></td></tr><tr><td>Reactor internals</td><td></td></tr><tr><td>Forged and cast parts and related machining</td><td></td></tr><tr><td>Main coolant line</td><td></td></tr><tr><td>Reactor Coolant pumps, incl. primary pump casing</td><td></td></tr><tr><td>Motors for reactor coolant pumps.</td><td>1. Supply of motors for new plants: non-compete not applicable2. Supply of replacement motors (modernization, retrofit):- non-compete not applicable if Siemens design is replaced;- non-compete applicable if AREVA design is replaced;- in all other instances: non-compete only applicable if Siemens is in direct competition with Areva for the motor (either as stand alone product or in a package with a pump).3. Supply of motors in the course of a strategic, continuous partnership with a competing pump manufacturer (i.e. other than a one-off project): non compete applicable</td></tr><tr><td>Nuclear fuel assemblies, components or parts thereof for any type of NPPs as listed above, whatever the kind or type of nuclear fissile material or nuclear fuel used, as well as uranium when part of a package deal comprising other Core products or services.</td><td></td></tr><tr><td>Service tools for Core products</td><td>Including, as for example, "susi" robot.</td></tr><tr><td>Radiation monitoring systems</td><td>This includes, without limitation, systems such as- Process radioactivity monitoring- Area radiation and airborne radiation monitoring- Effluent radioactivity monitoring- Post accident monitoring- Personnel monitoring- Environmental monitoring- Radiation monitoring of waste packages.</td></tr><tr><td>Other monitoring systems:- Water chemistry monitoring (DIWA)- Loose part systems (KÜS),- Vibration systems (SÜS),- Primary and secondary leakage systems (LÜS and FLÜS),- Fatigue system types (FAMOS),- Diagnostic of rotating machines (DIROM)- Valve diagnosis systems (SIPLUG)- Core monitoring system (Powertrax)</td><td>Core monitoring systems include reconstruction of 3D power distribution, core follow with exact burnup and time stepping, analyses of measured activation rates, control and calibration of power density detectors, prediction of future reactor core states, etc.</td></tr><tr><td>Full plant simulator</td><td>To the exception of those simulators related to I&amp;C (e.g. Stimulated HMI and Emulated Automation System).</td></tr><tr><td>Containment systems incl. Severe accident systems</td><td>This includes, without limitation, solutions for:- Elimination of hydrogen by catalytic reduction (recombiner)(PAR)- Controlled &amp; filtered pressure release (VENTING)- Hydrogen &amp; containment atmosphere monitoring modules (HERMETIS)- Pressure equalisation device (CONVECT)- Post accident sampling system for analysis purposes (PRONAS)</td></tr></table>
+
+Core services (incl. resulting analysis, studies etc.) Comments (where applicable)
+
+<table><tr><td>Overall NI and overall plant studies</td><td>This includes, without limitation, plant safety concept, plant layout principles, overall plant operational &amp; safety processes (e.g. complete cooling chain), overall plant transient analysis. Siemens may engage in activities regarding overall plant studies in whatever form and partnership as long as such activities are strictly limited to Siemens contributing only conventional island technologies/know-how.</td></tr><tr><td>System/Process designs for the NI</td><td>System/Process design refers to all engineering activities aiming at describing and specifying a system. This includes, but not limited to, system functional requirements, system P&amp;ID flowcharts, system and components characteristics data sheets and related analysis, system description, system functional diagrams, system operating and maintenance procedures, system operating displays, system alarm list and alarm sheets, system erection and commissioning plans. For the avoidance of doubt, System/Process designs shall not be deemed to extend to hardware specific design such as manufacturing drawings, inspection plans or manufacturing procedures.</td></tr><tr><td>Overall NI and overall plant upgrades</td><td>This includes, without limitation, NI modernisation projects, NPP power upgrades, improvement of NPP safety and performance, management of obsolescence, and general technical assistance to utilities. Siemens may engage in activities regarding overall plant upgrades in whatever form and partnership as long as such activities are strictly limited to Siemens contributing only conventional island technologies/know-how.</td></tr><tr><td>Outage and field services for Core products</td><td>This includes, without limitation, NI maintenance, refuelling and fuel maintenance services, NI diagnostics and monitoring, chemistry services or the decontamination of the primary circuit and contaminated off-site maintenance.</td></tr><tr><td>Inspection services for Core products, including non destructive examinations and necessary tooling (such as ISI)</td><td></td></tr><tr><td>Inspection services for Core products, including non destructive examinations and necessary tooling (such as ISI)</td><td></td></tr><tr><td>Maintenance and/or modernisation services for Core products</td><td></td></tr><tr><td>Repair &amp; replacement of Core products</td><td>This includes, without limitation, safety evaluations, licensing of Core product, basic engineering activities, global modernisation studies)</td></tr><tr><td>Dismantling of any Core products</td><td></td></tr><tr><td>Spent fuel handling and storage</td><td></td></tr></table>
+
+## Annex 2 - Confidentiality
+
+1. Each party undertakes not to disclose or use for its benefit or that of any third party any confidential information regarding AREVA NP or the other party (or those of its subsidiaries or affiliates) currently in their possession or which may have come into their possession during any due diligence exercise performed in connection with the creation of AREVA NP or during the lifetime of the joint venture.
+
+2. Confidential information shall mean all information (whether visual and/or verbal) in respect of AREVA NP, the other party (and/or its subsidiaries, or affiliates) and its activities, having a technical, financial or commercial nature, particularly, without limitation, any information relating to the cost and price structure of the products manufactured and/or services rendered and sold by AREVA NP or the other party, together with any information relating to production processes, name of equipment, materials, parts, components, semi-products, suppliers, markets and customers.
+
+3. This obligation shall also apply to proprietary or confidential data, information and know-how of each party which may have been exchanged in relation to the creation of AREVA NP.
+
+4. The parties shall ensure to the maximum extent practicable that the content of AREVA NP's Shareholders Agreement shall remain confidential, unless otherwise legally required by a public authority or to defend their rights in a court of justice or arbitration, in which case prior written information shall be sent to the other party.
+
+5. The parties shall take all necessary measures to ensure compliance herewith by their employees, representatives and agents.
+
+6. The above obligations shall not apply to information already in the public domain.

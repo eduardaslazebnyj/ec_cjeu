@@ -1,0 +1,352 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Nr. L 48/32 Amtsblatt der Europäischen Gemeinschaften 19. 2. 77
+
+KOMMISSION
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 20 . Januar 1977
+betreffend ein Verfahren nach Artikel 85 EWG-Vertrag
+(IV/27.442 — Vacuum Interrupters Ltd)
+
+(Nur der englische Text ist verbindlich)
+
+(77/ 160/EWG)
+
+DIE KOMMISSION DER EUROPAISCHEN sehen Associated Electrical Industries Ltd, Reyrolle
+GEMEINSCHAFTEN — Parsons Ltd und Vacuum Interrupters (1968) Ltd ge
+schlossen. Darin heißt es unter anderem, daß sich Enggestützt auf den Vertrag zur Gründung der Europä
+lish Electric Company Ltd einerseits und A. Reyrolleischen Wirtschaftsgemeinschaft, insbesondere auf Arti
+& Co. Ltd andererseits durch eine Vereinbarung vomkel 85 ,
+15. Februar 1968 über die Gründung einer Gesell
+gestützt auf die Verordnung Nr. 17 vom 6. Februar schaft mit dem Firmennamen Vacuum Interrupters
+1 962 ('), insbesondere auf die Artikel 6 und 8, Ltd sowie über eine gegenseitige Zusammenarbeit
+und eine Zusammenarbeit mit Vacuum Interruptersim Hinblick auf die von Herrn Albert Zirk, Geschäfts
+Ltd bei der Entwicklung von Vakuumschaltern ge
+führer der Vacuum Interrupters Ltd, London , in deren
+einigt haben . Nach der Vereinbarung von 1968, aber
+Auftrag bei der Kommission eingereichte Anmeldung
+vor der Vereinbarung von 1970, änderte Vacuum Inter
+vom 28 . Juni 1973 einer Vereinbarung vom 25. März
+rupters Ltd ihren Firmennamen in Vacuum Interrup1970, durch die Associated Electrical Industries Ltd
+ters ( 1968) Ltd um ; Associated Electrical Industries
+und Reyrolle Parsons Ltd die Anteile von English
+Ltd und English Electric Co. Ltd wurden Schwesterge
+Electrical Co. Ltd und A. Reyrolle & Co. Ltd an einer
+sellschaften, weil sie beide Tochtergesellschaften von
+Gesellschaft, damals Vacuum Interrupters ( 1968) Ltd
+The General Electric and English Electric Companies
+genannt, übernahmen ; der Name wurde später in Va
+Ltd geworden waren. Der Name von The General
+cuum Interrupters Ltd umgewandelt, Electric and English Electric Companies Ltd wurde
+im Hinblick darauf, daß in der vorerwähnten Anmel später umgewandelt in „The General Electric Co. Ltd".
+dung für die genannte Vereinbarung ein Negativattest Nach der Vereinbarung von 1968, aber vor der Ver
+nach Artikel 85 Absatz 1 EWG-Vertrag, hilfsweise einbarung von 1970, wurde A. Reyrolle and Co. Ltd
+eine Freistellung nach Artikel 85 Absatz 3 beantragt zu Reyrolle Parsons Ltd, als sie am 1 . Januar 1969
+wurde, C.A. Parsons and Co . Ltd erwarb .
+
+im Hinblick auf die nach Artikel 19 Absatz 3 der Ver
+ordnung Nr. 17 erfolgte Veröffentlichung des wesentli
+chen Inhalts der Anmeldung im Amtsblatt der Euro 2. Associated Electrical Industries ist nunmehr eine
+päischen Gemeinschaften Nr. C 180 vom 4. August
+hundertprozentige Tochtergesellschaft von The Gene
+1976, ral Electric Co . Ltd .
+im Hinblick auf die vom Beratenden Ausschuß für
+Kartell- und Monopolfragen am 19 . Oktober 1976
+gemäß Artikel 10 der Verordnung Nr. 17 abgegebene
+Stellungnahme, 3 . Die Gesellschaft „Vacuum Interrupters Ltd"
+wurde vor dem 17. November 1972 gegründet. Eine
+in Erwägung nachstehender Gründe : Vereinbarung vom gleichen Tag zwischen Associated
+Electrical Industries Ltd, Reyrolle Parsons Ltd und I SACHVERHALT
+Vacuum Interrupters Ltd sieht unter anderem vor, daß
+1 . Die am 28 . Juni 1973 bei der Kommission ange „Vacuum Interrupters ( 1968) Ltd" aufgelöst wird (i),
+meldete Vereinbarung wurde am 25. März 1970 zwi und bestimmt ausdrücklich , daß Vacuum Interrupters
+Ltd weiter an die Vereinbarung vom 25. März 1970
+(') ABl . Nr. 13 vom 21 . 2 . 1962, S. 204/62 . gebunden ist (ii).
+
+19. 2. 77 Amtsblatt der Europäischen Gemeinschaften Nr. L 48/33
+
+4. Beide, Associated Electrical Industries Ltd und 7 . Sowohl Associated Electrical Industries Ltd als
+Reyrolle Parsons Ltd, stellen unabhängig voneinander auch Reyrolle Parsons entwerfen , bauen und verkau
+im gegenseitigen Wettbewerb eine Vielzahl elektri fen unabhängig voneinander Leistungsschalter für alle
+scher Großkomponenten einschließlich Leistungs Spannungen bis zu höchsten Leistungen für Innen
+schalter her. Associated Electrical Industries Ltd und Freiluftschaltanlagen . Vacuum Interrupters Ltd
+wurde am 4. Dezember 1967 eine Tochtergesellschaft entwickelt, entwirft, baut und verkauft Vakuumschal
+von The General Electric Co . Ltd . ter zum Einbau in Schaltvorrichtungen und Unterbre
+cher für Schaltanlagenkomponenten .
+The General Electric Co. hat die Kommission in
+Kenntnis gesetzt von
+8 . Die Entwicklung dieses Schaltertyps verlief lang
+(i) drei Vereinbarungen über technische Zusammenar sam . Während die Grundprinzipien schon seit mehre
+beit, die zwischen ihr und/oder ihren Schwesterge ren Jahren bekannt waren, warfen Bau und Betrieb
+sellschaften (associated comp.) und Reyrolle Par äußerst komplizierte und schwierige technische Pro
+sons vor dem 4. Dezember 1967 geschlossen wor bleme auf. Hierbei ging es (a) um die Aufrechterhal
+den sind, tung des Vakuums, (b) um die Aufrechterhaltung der
+elektrischen Isolation trotz des durch das Brennen des und
+Lichtbogens entstehenden Metalldampfes, (c) um die
+(ii) zwei weiteren Vereinbarungen, in denen beide Vermeidung eines übermäßigen Verschleißes der Kon
+Unternehmen jeweils mit anderen Unternehmen takte, (d) um die Vermeidung eines „Zerhackens" des
+verbunden sind : eine Vereinbarung auf dem Ge Stromes und (e) um die Vermeidung eines Zusammen
+biet der Transformatoren (1972), die andere (1969) schweißens der Kontaktflächen, wozu es relativ leicht
+über eine Minderheitenbeteiligung (minority hol kommen kann, wenn zwei glatte und sehr saubere Flä
+ding) an einem Unternehmen zur Herstellung von chen unter Vakuum aufeinandergepreßt und durch
+Kabeln in der Karibik. Diese vertraglichen Bezie den Stromdurchgang erwärmt werden .
+hungen zwischen der General Electric Co. Ltd, ih
+rer Tochtergesellschaft Associated Electrical Indu
+Diese Probleme wurden in den vergangenen zwanzig stries Ltd und Reyrolle Parsons Ltd zeigen, daß
+Jahren theoretisch gelöst. Sowohl in den Vereinigten der Bereich der Zusammenarbeit zwischen den
+Staaten als auch im Vereinigten Königreich wurden Unternehmen nicht parallel mit Beginn und
+viele einschlägige Patente erworben , von denen einige Durchführung der Gemeinschaftsunternehmung
+jetzt erloschen sind . Vacuum Interrupters Ltd ausgedehnt und daher
+der Spielraum für Wettbewerb zwischen ihnen im
+Ergebnis nicht verringert wurde. 9 . Schon seit Jahren war im Vereinigten König
+reich bekannt, daß die Forschungen auf dem Gebiet
+5. Leistungsschalter erfüllen zwei Aufgaben, näm der Vakuumschalter in den Vereinigten Staaten haupt
+lich : sächlich von „The General Electric and Westinghouse
+Companies" vorangetrieben wurden , wobei man auch (i) Einschalten und Unterbrechen des Leistungsflus
+ses zwischen dem Kraftwerk und den Hochspan von Jennings Radio und Allis Chalmers annahm, daß
+sie an dem Sektor interessiert und auf ihm tätig wa nungsübertragungsleitungen nach ländlichen, städ
+tischen oder industriellen Verbraucherzentren und ren .
+
+(ii) eine Sicherheitsfunktion bei Auftreten von Störun
+10. Mit Forschungen auf dem Gebiet der Vakuum gen im Verteilungssystem .
+schalter wurde im Vereinigten Königreich aber erst
+6. Die wichtigste Komponente eines Leistungsschal vor rund zehn Jahren ernsthaft begonnen, als Associa
+ters ist der Unterbrecher, der die Leitungen trennt ted Electrical Industries Ltd, A. Reyrolle and Co. Ltd
+und bei Störungen automatisch und sehr rasch an und The English Electric Co. Ltd unabhängig vonein
+spricht. Er muß den Energiefluß in etwa V" Sekunde ander technische Untersuchungen und Arbeiten einlei
+unterbrechen können , um Schäden in der Kraftwerks teten . Alle drei Gesellschaften erkannten , daß die Ent
+anlage, an den Motoren oder an sonstigen Vorrichtun wicklungskosten sehr beträchtlich waren und daß Va
+gen des Verteilungssystems zu vermeiden . Bei Auftre kuumschalter nur dann zu einem Preis, zu dem sie
+ten von Störungen in einer Hochleistungsübertragung mit den herkömmlichen Formen von Schalteinrich
+wird der Unterbrecher hohen Belastungen ausgesetzt, tungen in Wettbewerb treten konnten, kommerziell
+so daß ein höchst kompliziertes Bauteil erforderlich verwertbar waren, wenn sie zusammenarbeiteten und
+ist. Bei Unterbrechung großer Leistungen treten strom die verfügbaren Mittel zusammenlegten , um so die
+starke Lichtbögen auf, die herkömmlich in Öl, Druck hohen Aufwendungen der einzelnen Gesellschaften
+luft oder Inertgasen gelöscht werden . Die Entwick zu verringern . Man kam auf den Gedanken, ein ge
+lung des Vakuumschalters geht davon aus, daß ein meinsames Unternehmen für Forschung und Entwick
+Lichtbogen im Vakuum nicht dauerhaft brennen lung zu errichten . English Electric Co. und A. Rey
+kann , so daß eine extrem schnelle Löschung des Licht rolle & Co. Ltd vereinbarten im Jahre 1968, die Gesell
+bogens erfolgt und eine Reihe weiterer Vorteile entste schaft Vacuum Interrupters Ltd zu gründen . Die Uber
+hen, wie beispielsweise eine Verringerung der Feuerge einkunft zwischen Associated Electrical Industries Ltd
+fahr und eine hohe Lebensdauer der belasteten Teile . und Reyrolle Parsons Ltd fand ihren Niederschlag in
+
+Nr. L 48/34 Amtsblatt der Europäischen Gemeinschaften 19 . 2. 77
+
+der von ihnen mit Vacuum Interrupters Ltd unter g) AEI und RP verpflichten sich, dafür zu sorgen, daß
+zeichneten neuen Vereinbarung vom 25. März 1970 . sich VIL verpflichtet, alle vertraulichen Informatio
+Diese Vereinbarung ist der Gegenstand der Anmel nen, die durch ihren Zusammenschluß auf Grund
+dung vom 28 . Juni 1973 zusammen mit einigen dazu der Vereinbarung erworben werden, vertraulich zu
+gehörigen Änderungsvereinbarungen vom 17. Novem behandeln und nicht an Dritte weiterzugeben oder
+ber 1972 sowie zwei getrennten Änderungsvereinba zu benutzen, ausgenommen zu Zwecken, die mit
+rungen vom 24. November 1972, deren Inhalt — dem Geschäft verbunden sind .
+wenn nichts anderes gesagt wird — für diese Entschei h) Die Vereinbarung gilt vom Zeitpunkt der Unter
+dung unerheblich ist. Vacuum Interrupters ( 1968) zeichnung an für einen Zeitraum von zehn Jahren
+wurde auf Grund der Vereinbarung von 1970 aufge und wird danach von Jahr zu Jahr so lange verlän
+löst, während gleichzeitig die jetzige Gesellschaft, Va gert, bis sie nach Maßgabe der Vereinbarung geän
+cuum Interrupters Ltd, gegründet wurde, die — wie dert oder beendet wird, mit Ausnahme der Bestim
+schon in Erwägungsgrund Nr. 3 erwähnt — die Be mungen über den vertraulichen Charakter, die für
+stimmungen der Vereinbarung vom 25. März 1970 aus die in den Vereinbarungen festgelegte Zeit noch
+drücklich anerkannte . voll wirksam bleiben .
+1 1 . Die angemeldete Vereinbarung vom 25 . März i) Ferner wurde verabredet, daß die Vereinbarung
+1970 enthält unter anderem folgende Bestimmungen : beim Registrar of Restrictive Trade Practices in
+a) Associated Electrical Industries Ltd (im folgenden England eingetragen wird .
+„AEI" genannt) beteiligt sich mit 60 % und Rey
+j) Schließlich gibt es noch eine Reihe weiterer Be rolle Parsons Ltd (im folgenden „RP" genannt) mit
+stimmungen über die Rechte von AEI, RP und der 40 % am Grundkapital von Vacuum Interrupters
+General Electric Company — English Electric, Ltd (im folgenden „VIL" genannt).
+dem damaligen Firmennamen der General Electric
+b) AEI und RP vereinbaren, daß VIL die Entwick Company, VIL auf der Grundlage der Gegenseitig
+lung, die Konstruktion, die Herstellung und den keit Patente und Informationen über Vakuumschal
+Verkauf von Vakuumschaltern im Sinne der Ver
+ter zugänglich zu machen , sowie über andere
+einbarung weiterführt, ohne schriftliche Zustim Rechte, einschließlich der Rechte für VIL aus der
+mung von AEI und RP aber keine anderen Tätig ursprünglichen Vereinbarung von 1968 , und über keiten ausüben darf.
+das Recht der erstgenannten Gesellschaften, Lizen
+c) AEI ist berechtigt, vier Verwaltungsratsmitglieder zen an Tochtergesellschaften in Australien, Süd
+von VIL zu benennen, darunter den Vorsitzenden, afrika, Indien, Pakistan und Neuseeland und an
+während RP drei Verwaltungsratsmitglieder benen andere Gesellschaften in Übersee, an denen sie be
+nen darf, darunter den stellvertretenden Vorsitzen teiligt sind, zu vergeben, sofern VIL damit einver
+den . * standen ist .
+d) AEI und RP kommen überein , daß keine Partei die
+12. Vacuum Interrupters Ltd stellt nur Vakuum Ansprüche aus der Vereinbarung, die sie getrennt
+schalter, nicht aber Vorrichtungen für den Betrieb besitzen, abtreten darf, es sei denn , daß die dafür
+oder den Einsatz von Vakuumschaltern her. Die Kon
+festgelegten Bedingungen von ihnen vorher erfüllt
+worden sind . struktion und die genaue Spezifikation derartiger Vor
+richtungen erfolgen durch den Hersteller, der ihn gee) AEI und RP verabreden , während der Anwendungs zielt zur Aufnahme einer bestimmten Art von Schalter
+dauer der Vereinbarung keine Vakuumschalter als
+entwirft — unterschiedlich nach Öl-, Flüssigkeits-, Teil einer von ihnen hergestellten oder verkauften
+Edelgas- oder Vakuumtyp. Wenn ein Schalter vom elektrischen Großkomponente oder als Teil dafür
+Vakuumtyp verwendet werden soll , werden Konstruk zu entwickeln , zu entwerfen , herzustellen oder zu
+tion und genaue Spezifikation an Vacuum Interrupters verkaufen und sich nach Kräften darum zu bemü
+Ltd weitergegeben , die dann den konkreten Vakuum hen, daß auch ihre verbundenen Gesellschaften
+schalter zum Einbau in die betreffende Vorrichtung davon absehen , sowie alles daranzusetzen , daß sie
+konstruiert. Der Schalter vom Vakuumtyp in einem und ihre Tochtergesellschaften alle von ihnen be bestimmten Gerät ist dann nicht austauschbar mit ir
+nötigten Vakumschalter von VIL beziehen, sofern
+gendeinem anderen Typ von Schalter. Ein Schalter als letztere bereit und imstande ist und bleibt, sie un
+solcher wird weder durch den Endverbraucher von
+ter wettbewerbsfähigen Bedingungen (Preis, Spezifi
+Schaltvorrichtungen benutzt noch an ihn direkt ver kation, Lieferfristen usw.) zu verkaufen , ausgenom
+kauft. Er wird nur an den zwischengeschalteten Her men, wenn ein Abnehmer darauf besteht, daß Va
+steller von Leistungsschaltvorrichtungen verkauft, für kuumschalter aus anderen Bezugsquellen verwen
+den er konstruiert und hergestellt worden ist. Der rele det werden .
+vante Markt für Vakuumschalter ist infolgedessen auf
+f) AEI und RP vereinbaren, VIL (i) Rechte an Paten jene Unternehmen begrenzt, die Leistungsschalter mit
+ten und (ii) sonstige technische Informationen über Vakuumschaltern bauen, an sie anpassen oder Vaku
+Vakuumschalter, die AEI und RP während der umschalter in sie einbauen .
+Anwendungsdauer der Vereinbarung gemeinsam
+oder einzeln besitzen oder zugänglich sind, zugäng 13 . Bei der von den Dienststellen der Kommission
+lich zu machen bzw. alles daranzusetzen , sie VIL nach der Anmeldung durchgeführten Untersuchung
+zu verschaffen . ergab sich außerdem noch folgendes :
+
+19 . 2. 77 Amtsblatt der Europäischen Gemeinschaften Nr. L 48/35
+
+(a) Unterbrecher für Leistungssysteme werden im all Miedensha,
+gemeinen in Netzen von 200 Volt bis 700 Kilo Toyo Denki,
+volt (kV)
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+und für das beide einige Techniker abstellen
+Markt gibt und auch nur verhältnismäßig wenige mög konnten, wodurch sie ihr technisches Wissen mitein
+liche Hersteller in Frage kommen, beeinträchtigt ein ander teilten und ihre übrigen Vorhaben weniger ver
+Gemeinschaftsunternehmen zwischen zwei möglichen nachlässigten . Die Forschungs- und Entwicklungsar
+Herstellern die Wettbewerbsstrukturen im Gemeinsa beiten von Vacuum Interrupters Ltd kamen — wie
+men Markt. Daher wird der Handel zwischen Mitglied erwartet — zunächst langsam voran, machen jetzt aber
+staaten durch die Vereinbarung vom 25. März 1970 stetige Fortschritte. Nach Auffassung der Kommission
+beeinträchtigt. zeigt der Werdegang des Gemeinschaftsunternehmens
+seit seiner Gründung im Jahre 1968, daß die Schluß
+folgerung der Muttergesellschaften, daß keine von ih
+18. Wie schon in Erwägungsgrund Nr. 15 gesagt, nen weiter selbständig Kapital und technisches Wis
+wurde die vorliegende Vereinbarung zwischen konkur sen in die Entwicklung des Vakuumschalters investie
+rierenden Herstellern geschlossen, die potentielle ren sollte, berechtigt war.
+Wettbewerber sind. Nach den Ausführungen in Erwä
+gungsgrund Nr. 16 liegt eine Einschränkung des Wett
+bewerbs vor, die sich auf Grund der in Erwägungs
+grund Nr. 17 dargelegten Folgen auf den Handel zwi 20 . Mittlerweile hat Vacuum Interrupters Ltd zwei
+schen Mitgliedstaaten auswirkt. Folglich fällt die Ver verschiedene Typen von Vakuumschaltern entworfen
+einbarung unter Artikel 85 Absatz 1 des Vertrages. und entwickelt, die sie auch herstellen kann . Ihre Lei
+stung ist noch relativ gering, dürfte aber, wie man
+hofft, in absehbarer Zukunft gesteigert werden. Die
+derzeitigen Kosten einer fertigen Einheit für den Käu
+III. ANWENDBARKEIT VON ARTIKEL 85 ABSATZ 3 fer betragen unter Ausschluß der Forschungs- oder
+EWG-VERTRAG Entwicklungskosten etwa 150 £. Auf Grund der Inve
+stitionen in Vacuum Interrupters Ltd erhält der Benut
+zer einen langlebigen und brauchbaren Niederlei
+stungsschalter zu einem tragbaren Preis, der ihn in
+Nach Artikel 85 Absatz 3 kann Artikel 85 Absatz 1
+angemessener Weise am Gewinn aus dem Gemein
+für nicht anwendbar erklärt werden auf Vereinbarun
+schaftsunternehmen beteiligt. Da dieser Schaltertyp
+gen, die unter angemessener Beteiligung der Verbrau weiterentwickelt wird, sollte der Markt für Vakuum
+cher an dem entstehenden Gewinn zur Verbesserung schalter dadurch ausgeweitet werden, daß den Kon
+der Warenerzeugung oder -Verteilung oder zur Förde strukteuren von Schaltanlagen die Möglichkeit gege
+rung des technischen oder wirtschaftlichen Fort ben wird, abzuschätzen , inwieweit Vakuumschalter
+schritts beitragen, ohne daß den beteiligten Unterneh künftig in Anlagen von höherer Leistung als heute ein
+men
+gebaut werden können, wodurch sie veranlaßt würden ,
+mehr Anlagen zu entwerfen, bei denen der Vakuum
+a) Beschränkungen auferlegt werden, die für die Ver schalter verwendet wird, was die Nachfrage nach Vaku
+wirklichung dieser Ziele nicht unerläßlich sind, umschaltern erhöhen und zur Verbesserung der Wa
+oder renerzeugung und -Verteilung beitragen würde. Durch
+Weiterführung der Forschungen fördert Vacuum Inter
+b) Möglichkeiten eröffnet werden, für einen wesentli rupters Ltd außerdem den technischen und wirtschaft
+chen Teil der betreffenden Waren den Wettbewerb lichen Fortschritt .
+auszuschalten .
+
+19. Die Kommission ist davon überzeugt, daß Eng 21 . Vacuum Interrupters Ltd ist es freigestellt,
+lish Electrical Company und Arthur Reyrolle & Co. überall Vakuumschalter an beliebige Hersteller von
+bei der Gründung des Gemeinschaftsunternehmens Schaltanlagen nach deren Spezifikationen zu verkau
+im Jahre 1968 glaubten, daß die damals benutzten fen . Wenn sie für AEI oder RP herstellen, werden die
+flüssigkeits- und luftgefüllten Schalter zumindest kurz Pläne und Spezifikationen , nach denen sie arbeiten,
+und mittelfristig die einzigen kommerziell verwertba vor der anderen Gesellschaft geheimgehalten . Die Auf
+ren Schaltertypen waren . Obwohl beide die potentiel träge werden selbständig vergeben und selbständig er
+len Vorteile von Vakuumschaltern im Vergleich zu ledigt. Folglich ist es der Gesellschaft möglich, ihre
+flüssigkeits- und luftgefüllten Schaltern kannten, war Tätigkeit auf das gewünschte Gebiet — d.h . die Her
+der in die Entwicklung des Vakuumschalters zu inve stellung dieser Schaltanlagenkomponente — zu kon
+stierende Betrag an Risikokapital zusammen mit dem zentrieren . Sie dehnt ihr Tätigkeitsfeld nicht auf ver
+technischen Wissen , die unter Ausschluß von Arbei wandte Gebiete aus, wodurch die Zusammenarbeit
+ten an gewinnbringenden Projekten daran zu verwen erweitert und der Wettbewerb unnötigerweise noch
+den waren und der von einer kommerziell lohnenden stärker eingeschränkt würde .
+
+. 2. 77Nr. L 48/38 Amtsblatt der Europäischen Gemeinschaften 19
+
+22. Angesichts des Inhalts der Anmeldung und der sollten, erachtet die Kommission als unerläßlich auf
+mit ihr vorgelegten Anhänge sowie des verfügbaren Grund der Natur der Vereinbarungen .
+Beweismaterials und der Ergebnisse der durchgeführ
+ten Nachprüfungen und Untersuchungen erkennt die 24. Somit sind alle Voraussetzungen des Artikels 85
+Kommission im vorliegenden Fall die von Vacuum Absatz 3 erfüllt .
+Interrupters Limited zur Stützung ihres Antrags auf
+Freistellung nach Artikel 85 Absatz 3 vorgebrachten 25. Die fragliche Vereinbarung ist seit dem 25.
+März 1970 wirksam .Bemerkungen an . Sie besagen folgendes :
+
+1 . Die Verfügbarkeit von Vakuumschaltern ermög 26. Es ist vorgesehen, die Freistellung für die Zeit
+1 . Januar . 1973 bis zum 25. März 1980 zu gewäh licht es den Herstellern von Schaltanlagen, elektri vom
+sche Unterbrecher zu entwerfen , zu entwickeln ren . Der Zeitpunkt des Beginns wird festgelegt in
+Übereinstimmung mit Artikel 25 der Verordnung Nr. und herzustellen, die gegenüber den bestehenden
+17, da der Antragsteller die Anmeldung am 28 . Juni luft- und flüssigkeitsgefüllten Schaltern technische
+Vorteile aufweisen . 1973 und damit innerhalb der Sechsmonatsfrist einge
+reicht hat, die einzuhalten war, um die Vorteile dieser
+Vorschrift für sich in Anspruch nehmen zu können .2. Die Vereinbarung enthält Bestimmungen über die
+Außerdem ist vorgesehen, die Freistellung mit der Ver finanziellen Mittel und die technische Unterstüt
+pflichtung zu verbinden , zung, die erforderlich sind, um eine gründliche For
+schung und Entwicklung auf dem Gebiet der Vaku (i) während der Dauer der Freistellung die Kommis
+umschalter zu ermöglichen . sion von allen Änderungen in der Aktienstruktur
+und in den Eigentumsverhältnissen hinsichtlich
+3 . Dies kommt den Benutzern von Schaltanlagen mit der Aktien von Vacuum Interrupters Ltd zu unter
+Vakuumschaltern zugute. richten , und
+
+(ii) sie weiter von jeder Ermächtigung der Vacuum In
+4. Die Vereinbarung ermöglicht es, daß Vakuumschal terrupters Ltd durch die Associated Electrical Indu
+ter innerhalb der EWG im Wettbewerb mit den
+stries und Reyrolle Parsons unter Angabe aller Ein
+Vakuumschaltern entwickelt, hergestellt und ver zelheiten zu unterrichten , durch die Vacuum Inter
+kauft werden, die aus den Vereinigten Staaten und rupters Ltd zur „Ausübung anderer Tätigkeiten"
+Japan in die EWG eingeführt werden können , ermächtigt wird —
+wenn innerhalb der EWG-Mitgliedstaaten ein
+Markt für Vakuumschalter entsteht.
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN :
+5 . Die technischen und finanziellen Anstrengungen ,
+die erforderlich sind, um Vakuumschalter inner
+halb einer angemessenen Zeitspanne als kommer Artikel 1
+ziell verwertbare Erzeugnisse herzustellen, wären
+nicht unternommen worden , wenn sich beide Par Artikel 85 Absatz 1 des Vertrages zur Gründung der
+teien ausschließlich auf ihre eigenen Mittel gestützt Europäischen Wirtschaftsgemeinschaft wird gemäß
+hätten . Artikel 85 Absatz 3 auf die am 25 . März 1970 zwi
+schen Associated Electrical Industries, Reyrolle Par
+23 . Die Vereinbarungen enthalten keine Beschrän sons und Vacuum Interrupters Ltd geschlossene Ver
+kungen , die für die Verwirklichung der gesteckten einbarung für nicht anwendbar erklärt.
+Ziele nicht unerläßlich sind. Die Hauptvereinbarung
+sieht vor, daß die Parteien „angemessene Anstrengun
+Artikel 2
+gen" (reasonable efforts) unternehmen, um einerseits
+sicherzustellen , daß die ihnen verbundenen Gesell
+Vacuum Interrupters Ltd unterrichtet die Kommissionschaften Vakuumschalter weder entwickeln noch kon
+während der Dauer der Freistellung von allen Ändestruieren , herstellen oder verkaufen , und um anderer
+rungen des Aktienkapitals und/oder in den Eigentumsseits auch dafür zu sorgen, daß ihre Tochtergesellschaf
+verhältnissen an den Aktien von Vacuum Interruptersten ihren Bedarf an Vakuumschaltern bei anderen
+Ltd innerhalb von 28 Tagen nach ihrem Inkrafttreten .Herstellern decken .
+
+Sollte jedoch ein Abnehmer der Muttergesellschaft Artikel 3
+oder einer Tochtergesellschaft ausdrücklich verlangen ,
+einen von einem anderen Hersteller produzierten Va Vacuum Interrupters Ltd (VIL) unterrichtet die Kom
+kuumschalter in bestellte Ausrüstungen einzubauen , mission während der Dauer der Freistellungen von je
+wird ein derartiger besonderer Auftrag erfüllt. Die der Ermächtigung durch Associated Electrical Indu
+Wettbewerbsbeschränkung, die darin liegt, daß die bei stries und Reyrolle Parsons zur „Ausübung anderer Tä
+den Muttergesellschaften keine eigenen Vakuumschal tigkeiten" unter Angabe aller Einzelheiten der Ermäch
+ter entwickeln , konstruieren , herstellen oder verkaufen tigung innerhalb von 28 Tagen nach ihrer Erteilung.
+
+19 . 2. 77 Amtsblatt der Europäischen Gemeinschaften Nr. L 48/39
+
+Artikel 4 3 . Reyrolle Parsons Limited, Hebburn, County Dur
+ham, England.
+Diese Entscheidung gilt vom 1 . Januar 1973 bis zum
+25. März 1980 . Diese Entscheidung ist gerichtet an : Brüssel, den 20 . Januar 1977
+1 . Vacuum Interrupters Ltd, 68 , Ballards Lane, Finch Für die Kommission
+ley London, England ;
+R. VOUEL
+2. Associated Electrical Industries Limited, 1 , Stan
+hope Gate, London Wl , England ; Mitglied der Kommission

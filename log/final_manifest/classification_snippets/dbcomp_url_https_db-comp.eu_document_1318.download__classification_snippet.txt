@@ -1,0 +1,392 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+8.11.2003 EN Official Journal of the European Union L 291/25
+
+COMMISSION DECISION
+
+of 23 July 2003
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(COMP/C.2-37.398 — Joint selling of the commercial rights of the UEFA Champions League)
+
+(notified under document number C(2003) 2627)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(2003/778/EC)
+
+CONTENTS
+
+Page
+
+1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+2. PARTIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3. THE NOTIFIED AGREEMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3.1. The UEFA Champions League . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3.1.1. The origins of the UEFA Champions League . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3.1.2. The UEFA Champions League format . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3.1.3. UEFA’s role in the UEFA Champions League . . . . . . . . . . . . . . . . . . . . . . . 29
+
+3.1.4. The football clubs’ role in the UEFA Champions League . . . . . . . . . . . . 30
+
+3.2. The notification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+3.3. UEFA’s amendment of the notification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+3.4. UEFA’s amended joint selling arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+3.4.1. TV broadcasting rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+3.4.1.1. Football matches subject to joint selling . . . . . . . . . . . . . . . . 31
+
+3.4.1.2. Tendering procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+3.4.1.3. Rights packaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+3.4.2. Internet rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+3.4.3. Wireless 3G/UMTS rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+3.4.4. Physical media rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+3.4.5. Audio rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+3.4.6. Other commercial rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+3.4.6.1. Sponsorship rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+3.4.6.2. Suppliership rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+3.4.6.3. Licensing rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+3.4.6.4. Other intellectual property rights . . . . . . . . . . . . . . . . . . . . . . 34
+
+L 291/26 EN Official Journal of the European Union 8.11.2003
+
+4. THE RELEVANT MARKET . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+4.1. Product markets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+4.1.1. UEFA’s submission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+4.1.2. The markets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+4.1.3. The upstream market for the acquisition of TV broadcasting rights of
+football events played regularly throughout every year . . . . . . . . . . . . . 35
+
+4.1.3.1. Channel brand image . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+4.1.3.2. A particular audience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+4.1.3.3. Conclusion regarding the upstream market . . . . . . . . . . . . 39
+
+4.1.4. The downstream markets on which broadcasters compete for advertising revenue depending on audience rates and pay-TV subscribers . 39
+
+4.1.5. The upstream and downstream markets for the acquisition of media
+rights for new media (wireless 3G/UMTS and Internet) of football . . . 39
+
+4.1.6. The upstream and downstream markets for the other commercial
+rights — sponsorship, suppliership and product licensing . . . . . . . . . . 40
+
+4.2. The geographic markets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+4.2.1. The geographic scope of the upstream market . . . . . . . . . . . . . . . . . . . . . 40
+
+4.2.2. The geographic scope of the downstream market . . . . . . . . . . . . . . . . . . 40
+
+5. THIRD-PARTY OBSERVATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+6. APPLICATION OF ARTICLE 81 OF THE TREATY AND ARTICLE 53 OF THE EEA
+AGREEMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+6.1. Jurisdiction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+6.2. Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement . . . . . . . . . . . 42
+
+6.3. Agreements or decisions between undertakings and associations of undertakings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+6.4. Restriction of competition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+6.4.1. Scope of the present procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+6.5. Applicability of Article 81(1) of the Treaty or Article 53(1) of the EEA
+Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+6.5.1. League rights and individual football clubs’ rights . . . . . . . . . . . . . . . . . . 44
+
+6.5.2. The special characteristics of sport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+6.5.3. Appreciability of the restriction on competition . . . . . . . . . . . . . . . . . . . 46
+
+6.6. Effect on trade between Member States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+7. ARTICLE 81(3) OF THE TREATY AND ARTICLE 53(3) OF THE EEA AGREEMENT . . . 47
+
+7.1. Improvement in production or distribution and/or promoting technical or
+economic progress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+7.1.1. Single point of sale of a league product . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+7.1.2. Branding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+7.1.3. Football clubs’ individual sale of live TV rights unsold by the joint
+selling body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+7.1.4. Football clubs’ individual sale of deferred media rights . . . . . . . . . . . . . . 50
+
+8.11.2003 EN Official Journal of the European Union L 291/27
+
+7.1.5. Enhancing the focus of the respective UEFA Champions League and
+football clubs’ brands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+7.1.6. Solidarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+7.1.7. Conclusion regarding improvement in production or distribution
+and/or promoting technical or economic progress . . . . . . . . . . . . . . . . . 51
+
+7.2. Fair share of the benefit to consumers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+7.3. Restrictions that are indispensable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+7.3.1. Indispensability of restrictions to create a league product sold via a
+single point of sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+7.3.2. Individual football clubs’ sale of own media rights . . . . . . . . . . . . . . . . . 53
+
+7.4. No elimination of competition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+7.5. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+8. CONDITIONS AND DURATION OF EXEMPTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+9. CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, Having regard to the final report of the Hearing Officer in this
+case (5),
+Having regard to the Treaty establishing the European Community,
+Whereas:
+
+Having regard to the Agreement on the European Economic
+Area,
+1. INTRODUCTION
+
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86 of
+the Treaty (1), as last amended by Regulation (EC) No 1/ (1) This Decision relates to the rules, regulations and all
+2003 (2), and in particular Articles 6 and 8 thereof, implementing decisions taken by Union des Associations
+Européennes de Football (UEFA) and its members concerning the joint selling arrangement regarding the sale
+Having regard to the application for negative clearance submitof the commercial rights(6) of the UEFA Champions
+ted by UEFA on 1 February 1999 pursuant to Article 2 of
+League, a pan-European club football competition. TheRegulation No 17 and the notification with a view to obtaining
+Regulations of the UEFA Champions League provide
+an exemption submitted by UEFA on 1 February 1999 on
+UEFA, as a joint selling body, with the exclusive right to
+1 February 1999 and as amended on 13 May 2002 pursuant
+sell certain commercial rights of the UEFA Champions
+to Article 4 of Regulation No 17,
+League on behalf of the participating football clubs. The
+joint selling arrangement restricts competition among
+Having regard to the Commission decision of 18 July 2001 to the football clubs in the sense that it has the effect of coinitiate proceedings in this case, ordinating the pricing policy and all other trading
+conditions on behalf of all individual football clubs
+Having given the undertakings concerned the opportunity (3) producing the UEFA Champions League content. Howto make known their views on the objections raised by the ever, the Commission considers that such restrictive
+Commission pursuant to Article 19(1) of Regulation No 17 rules can be exempted in the specific circumstances of
+and Commission Regulation (EC) No 2842/98 of 22 December this case. UEFA’s joint selling arrangement provides the
+1998 on the hearing of parties in certain proceedings under consumer with the benefit of league focused media
+Articles 85 and 86 of the Treaty (4), products from this pan-European football club competition that is sold via a single point of sale and which
+could not otherwise be produced and distributed equally
+After consulting the Advisory Committee on Restrictive Pracefficiently.
+tices and Dominant Positions,
+
+(1) OJ 13, 21.2.1962, p. 204/62.
+(2) OJ L 1, 4.1.2003, p. 1. (5) OJ C 269, 8.11.2003.
+(3) OJ C 196, 17.8.2002, p. 3. (6) Media rights (radio, television, Internet and UMTS), sponsorship,
+(4) OJ L 354, 30.12.1998, p. 18. suppliership, licensing and IPRs.
+
+L 291/28 EN Official Journal of the European Union 8.11.2003
+
+2. PARTIES Champion Clubs’ Cup prior to the 1955/1956 season,
+the competition changed format and name in time for
+the 1992/1993 season. The UEFA Champions League is(2) UEFA is a company, registered in the register of comopen to each national football association’s domestic panies under the terms of the Swiss civil code, with its
+club champions, as well as the clubs, which finish just headquarters located in Nyon, Switzerland (7). UEFA is
+behind them in the domestic championship table. The an association of national football associations. Its
+number of clubs that can be entered by an association membership comprises national football associations
+depends on the football association’s position in UEFA’s situated in the European continent (8). Currently, UEFA
+coefficient ranking list. Including the qualifying stages, a has 51 members; 21 of these member associations are
+total of 96 football clubs participate in the UEFA located in the EEA (9).
+Champions League.
+
+(3) UEFA is the regulatory authority of European football.
+UEFA has the sole jurisdiction to organise or abolish
+international competitions in Europe in which member
+associations and/or their football clubsparticipate. Other 3.1.2. The UEFA Champions League format
+international competitions or tournaments require the
+approval of UEFA (10) except for those organised by
+Fédération internationale de football association (FIFA).
+UEFA organises a number of European football tournaments in addition to the UEFA Champions League. (6) The UEFA Champions League format applicable at the
+time of the notification(18) consisted of two qualifying
+phases prior to the UEFA Champions League. The UEFA
+(4) UEFA’s congress is the supreme controlling organ of
+Champions League itself consisted of the group matches
+UEFA. Each national football association has one vote at
+and a final knockout phase of quarter-finals, semi-finals
+the congress (11). The congress adopts UEFA’s statutes. It
+and a final. The UEFA Executive Committee decided on
+elects the president (12) andthe Executive Committee (13).
+10 and 11 July 2002 to replace the second group stage
+The Executive Committee consists of the president and
+with a knockout phase as from the 2003/2004 season.
+13 members who must hold office within a national
+With the elimination of the second group stage, there
+member association (14). The Executive Committee manwill be a total of 125 matches and a total of 13 match
+ages UEFA, except to the extent it hasdelegated responsidays in the 2003/2004 UEFAChampions Leagueformat.
+bility to the Chief Executive Officer (15) whom it also
+appoints (16). The Executive Committee draws up the
+regulations governing the conditions for participation in
+and the staging of UEFA competitions, including the
+Regulations of the UEFA Champions League. It is a (7) In the 2003/2004 season the competition consists of
+condition for entry into the UEFA Champions League the following phases. 80 football clubs participate
+competition that each member association and/
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rsue their relationat preventing football clubs from selling their live TV ship with their own fans.
+rights to free-TV broadcasters, shall not apply.
+
+(184) The football clubs are subject to limited restrictions in (190) The embargoes that are imposed on the exploitation of
+selling their media rights individually. However, these deferred media rights and which apply equally to
+restrictions are considered to be indispensable for the rights sold jointly by UEFA as well as the rights sold
+functioning of UEFA’s joint selling arrangement. individually by the football clubs, are indispensable to
+enhance focus on the league product and in particular
+the highlights product(75) covering the UEFA Champions League in its entirety. The embargoes contribute
+(185) UEFA’s joint selling arrangement provides that the clubs to creating a product for which there is much viewer
+may address their fans with live television if UEFA has
+not managed to sell those live rights. Football clubs may
+furthermore address their fans via deferred television, (74) Package 5 of the rights segmentation table.
+mechanical reproduction media, Internet, UMTS, etc. (75) Package 3 of the rights segmentation table.
+
+L 291/54 EN Official Journal of the European Union 8.11.2003
+
+interest and to establishing the reputation of the UEFA 7.4. No elimination of competition
+Champions League brand, which is closely associated
+with uniform and high quality TV coverage underpinned
+by a homogeneous presentation, which affects the (193) Commercial rights are available from a number of
+acceptance by the viewer. As regards the embargoes football tournaments which fall within the scope of the
+imposed on the exploitation of the Internet rights, the relevant markets. For example, according to UEFA, the
+need to maintain such embargoes for quality reasons TV rights of UEFA Champions League represent on
+will, of course, change over time with the development average only 20 % of the rights in the relevant market.
+of Internet technologies. Since new media rights affect emerging markets, it is not
+yet possible to ascertain the position of the UEFA
+Champions League content in those markets. However,
+it is not likely to be more significant than its position in
+the traditional TV rights markets. The media rights of
+(191) Moreover, football clubs exploiting UEFA Champions the UEFA Champions League are therefore just one
+League footage individually must present the footage in possibility for media operators wishing to acquire cona club-focused manner and relating only to action in tent concerning football events taking place regularly
+which they are participating. Football clubs or bodies to throughout every year.
+whom they cede their media rights are not allowed to
+package the rights from several football clubs into a
+single product which would appear as an alternative (194) Moreover, jointly sold media rights of the UEFA Cham-
+UEFA Champions League branded product. In particular pions League are split up into several different rights
+regarding live TV rights, such a product is defined as one packages, which are offered for sale in a competitive
+consisting of more than two live UEFA Champions bidding procedure open to all interested media oper-
+League matches per match day. Regarding delayed ators. This allows several media operators to acquire
+TV rights and Internet rights, UEFA would accept media rights of the UEFA Champions League from
+programmes containing 100 % UEFA Champions UEFA.
+League content on a club channel. However, UEFA
+defines a UEFA Champions League branded programme
+as one presented as a club magazine programme which
+(195) Finally both UEFA and the football clubs sell certain
+contains more than 50 % UEFA Champions League
+categories of UEFA Champions League media rights on
+content. In general programming, the maximum pera non-exclusive basis. Interested buyers therefore have
+missible UEFA Champions League could amount to
+several possible sources of supply from the owners of
+30 % of the programme. Where an entire match is
+such rights.
+shown on a delayed basis (that is to say, the full
+90 minutes) on a club magazine programme then the
+50 % rule would not apply and the programme could
+(196) The joint selling of the media rights of the UEFA consist mostly or entirely of that single match. Similarly,
+Champions League by UEFA is therefore unlikely to if a whole match were to be broadcast in general
+eliminate competition in respect of a substantial part of programming on a channel then the 30 % rule would
+the media rights in question. not apply in that situation.
+
+7.5. Conclusion
+
+(192) The Commission accepts that provisions regulating the
+possibilities for third parties to bundle media rights sold (197) In the light of the foregoing, it can be concluded that the
+by the individual football clubs are indispensable to cumulative conditions of Article 81(3) of the Treaty and
+preserve the integrity and branding of the jointly sold Article 53(3) of the EEA Agreement are fulfilled and an
+UEFA Champions League media rights. However, follow- exemption can therefore be granted in respect of the
+ing receipt of the comments in reply to the notice joint selling arrangement.
+published pursuant to Article 19(3) of Regulation No 17,
+the Commission requested clarifications of the rules,
+which lead to a reduction of their scope and intensity. It
+therefore has become possible for a single broadcaster 8. CONDITIONS AND DURATION OF EXEMPTION
+to exploit two individually sold live matches contemporaneously. The Commission considers that opening up
+this possibility is likely to render the impact of the (198) Under Article 8(1) of Regulation No 17, conditions may
+restriction so marginal that it will not be felt by the end- be attached to a declaration of exemption. In this case,
+users of the rights, the broadcasters, as the rights the clause of the joint selling arrangement preventing
+available for any single broadcaster would be sufficient football clubs from individually selling live TV rights to
+to satisfy existing demand from broadcasters for this free-TV broadcasters is a restriction on competition
+type of residual matches. Likewise, regarding deferred which does not satisfy all the conditions of Article 81(3)
+rights, it has become possible to broadcast a whole of the Treaty and Article 53(3) of the EEA Agreement.
+match irrespective of the definition of a UEFA Cham- Such a restriction cannot be considered as improving
+pions League branded programme. the production or distribution of goods or promoting
+
+8.11.2003 EN Official Journal of the European Union L 291/55
+
+technical or economic progress, while allowing con- to Article 81(3) of the Treaty and Article 53(3) of the
+sumers a fair share of the resulting benefit, and not EEA Agreement, subject to a condition,
+imposing on the undertakings concerned restrictions
+which are not indispensable to the attainment of those HAS ADOPTED THIS DECISION:
+objectives.
+Article 1
+(199) The exemption should therefore be subject to the
+condition that football clubs must not be prevented 1. Pursuant to Article 81(3) of the Treaty and Article 53(3)
+from selling their live TV rights to free-TV broadcasters of the EEA Agreement, the provisions of Article 81(1) of the
+where there is no reasonable offer from any pay- Treaty and Article 53(1) of the EEA Agreement are declared
+TV broadcaster. The Commission considers that no inapplicable from 13 May 2002 until 31 July 2009 to the
+reasonable offer would exist, in particular, when there amended version of UEFA’s joint sellingarrangement in respect
+is no offer from any pay-TV broadcaster, which is of the media rights to the UEFA Champions League, as
+comparable to the offer from the free-TV broadcaster. described in this Decision.
+
+(200) Pursuant to Article 8(1) of Regulation No 17, a decision 2. The exemption in paragraph 1 shall be subject to
+in application of Article 81(3) of the Treaty and compliance with the condition that the restriction prohibiting
+Article 53(3) of the EEA Agreement is to be issued for a football clubs from selling live TV rights to free-TV broadspecified period. The notified joint selling arrangement casters shall not apply where there is no reasonable offer from
+works with cycles of contract periods of three years. It is any pay-TV broadcaster.
+therefore appropriate to define the duration of this
+exemption accordingly and to let the joint selling Article 2
+arrangement operate for two contract periods. Exemption should therefore be granted pursuant to Article 8(1) On the basis of the facts in its possession there are no grounds
+of Regulation No 17 from 13 May 2002, the date of under Article 81(1) of the Treaty and Article 53(1) of the EEA
+notification of the last version of the joint selling Agreement for action by the Commission in respect of UEFA’s
+arrangement, until 31 July 2009. joint selling arrangement for sponsorship, suppliership and
+IPR licensing relating to the UEFA Champions League.
+
+9. CONCLUSION
+Article 3
+
+(201) It is concluded that UEFA’s joint selling arrangement This Decision is addressed to:
+leads to the improvement of production and distribution
+by creating a quality branded league focused product Union des Associations Européennes de Football
+sold via a single point of sale. Moreover consumers Route de Genève, 46
+receive a real fair share of the benefits deriving from it. 1260 Nyon 2
+Furthermore, the restrictions inherent in UEFA’s joint Switzerland
+selling arrangement are indispensable for achieving these
+benefits, save for the provision prohibiting individual Done at Brussels, 23 July 2003.
+football clubs from selling live TV rights to free-TV
+broadcasters. Finally, it is concluded that the joint selling
+of the media rights to the UEFA Champions League by For the Commission
+UEFA is unlikely to eliminate competition in respect of
+Mario MONTI
+a substantial part of the media rights in question. It is
+therefore appropriate to grant an exemption pursuant Member of the Commission

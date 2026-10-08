@@ -1,0 +1,628 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+COMMISSION DECISION
+
+of 23 January 2008
+
+notified under document numberC(2008)282 final
+
+relating to a proceeding under Article 81 of the EC Treaty
+and Article 53 of the EEA Agreement
+
+Case COMP/38.628 - Nitrile Butadiene Rubber
+
+(ONLY THE ENGLISH AND GERMAN TEXTS ARE AUTHENTIC)
+
+(Text with EEA relevance)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction.............................................................................................................. 6
+
+1.1. Addressees ............................................................................................................... 6
+
+1.2. Summary of the infringement................................................................................... 6
+
+2. The industry subject to the proceedings.................................................................... 6
+
+2.1. The product involved................................................................................................ 6
+
+2.2. The market players................................................................................................... 6
+
+2.2.1. Undertakings addressed by the present proceedings.................................................. 6
+
+2.2.2. Other suppliers......................................................................................................... 7
+
+2.3. Description of the industry ....................................................................................... 8
+
+2.3.1. Market values and volumes ...................................................................................... 8
+
+2.3.2. Geographic scope of the business ............................................................................. 8
+
+2.4. Trade between Member States.................................................................................. 8
+
+3. Procedure................................................................................................................. 9
+
+3.1. The Commission’s investigation............................................................................... 9
+
+3.2. Statement of Objections and Oral Hearing.............................................................. 10
+
+3.3. Investigations and proceedings in other jurisdictions .............................................. 10
+
+4. Description of events.............................................................................................. 10
+
+4.1. Basic principles of the organisation of the cartel..................................................... 10
+
+4.1.2. The individual participants and their respective positions within the companies ..... 10
+
+4.2. The cartel history ................................................................................................... 11
+
+5. Application of Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement11
+
+5.1. Relationship between the Treaty and the EEA Agreement ...................................... 11
+
+5.2. Jurisdiction............................................................................................................. 11
+
+5.3. Application of competition rules............................................................................. 11
+
+5.3.1. Agreement and concerted practices: general principles........................................... 11
+
+EN 2 EN
+
+5.3.2. Application in this case .......................................................................................... 13
+
+5.3.3. Single and continuous infringement........................................................................ 18
+
+5.3.4. Restriction or distortion of competition .................................................................. 20
+
+5.3.5. Effect upon trade between Member States and between Contracting Parties to the
+EEA Agreement ..................................................................................................... 20
+
+6. Addressees of this decision and duration of the infringement.................................. 21
+
+6.1.1. Addressees ............................................................................................................. 21
+
+6.1.2. Duration of the infringement .................................................................................. 23
+
+7. Remedies ............................................................................................................... 23
+
+7.1. Article 7 of Regulation (EC) No 1/2003 ................................................................. 23
+
+7.2. Article 23(2) of Regulation (EC) No 1/2003........................................................... 24
+
+7.3. The basic amount of the fines................................................................................. 24
+
+7.3.1 Methodology.......................................................................................................... 24
+
+7.3.2 The value of sales................................................................................................... 24
+
+7.3.3 Gravity................................................................................................................... 25
+
+7.3.4 The percentage to be applied for the proportion of the value of sales ...................... 26
+
+7.3.5 Duration................................................................................................................. 26
+
+7.3.6 The percentage to be applied for the additional amount .......................................... 26
+
+7.3.7 Calculation and conclusion on basic amounts. ........................................................ 26
+
+7.4. Adjustments to the basic amount ............................................................................ 27
+
+7.4.1 Aggravating circumstances..................................................................................... 27
+
+7.4.2 Attenuating circumstances...................................................................................... 27
+
+7.4.3 Deterrence.............................................................................................................. 27
+
+7.4.4 Conclusions on the adjusted basic amounts............................................................. 28
+
+7.5. Application of the 10% turnover limit .................................................................... 28
+
+7.6. Application of the Leniency Notice ........................................................................ 28
+
+7.6.1 Bayer ..................................................................................................................... 28
+
+7.6.2 Zeon....................................................................................................................... 30
+
+EN 3 EN
+
+7.6.3 Conclusion on the application of the Leniency Notice ............................................ 30
+
+7.7. The amounts of the fines to be imposed in this Decision......................................... 31
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of 23 January 2008
+
+relating to a proceeding under Article 81 of the EC Treaty
+and Article 53 of the EEA Agreement
+
+Case COMP/38.628 - Nitrile Butadiene Rubber
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, and
+in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decision of 4 May 2007 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty1,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions2,
+
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1 OJ L 123, 27.4.2004, p. 18. Regulation as amended by Regulation (EC) No 1792/2006 (OJ L 362,
+20.12.2006, p. 1).
+2 OJ C 86, 15.4.2009, p. 3 and 4.
+3 OJ C 86, 15.4.2009, p. 5-6.
+
+EN 5 EN
+
+1. INTRODUCTION
+
+1.1. Addressees
+
+1. The Commission initiated proceedings for an infringement of Article 81 of the Treaty
+and Article 53 of the EEA Agreement against the following companies:
+
+– Bayer AG
+
+– Zeon Europe GmbH
+
+– Zeon Chemicals Europe Ltd.
+
+– Zeon Corporation
+
+1.2. Summary of the infringement
+
+2. The addressees of this Decision participated in a single, complex and continuous
+infringement of Article 81 of the Treaty and Article 53 of the EEA Agreement, with
+the common objective to distort competition in the market for Acrylonitrile butadiene
+rubber (hereafter "NBR") in the EEA, namely by reassuring each other on their
+intentions to apply price increases, coordinating a simultaneous price increase and
+exchanging information on pricing strategy, capacity levels and utilisation. The
+infringement to which this Decision relates started no later than on 9 October 2000
+and lasted until 30 September 2002.
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1. The product involved
+
+3. NBR is a type of synthetic rubber and consists of a complex family of unsaturated
+copolymers of acrylonitrile and butadiene. The term NBR covers a wide variety of
+compositions depending on acrylonitrile content, Mooney values and polymerization.
+Resistance to petroleum fluids, good physical properties and useful temperature range
+make NBR a widely used rubber. NBR is used mainly in the automotive industry for
+fuel and oil handling hoses, seals, o-rings and water handling applications. Other
+industrial uses are rolling covers, hydraulic hoses, conveyor belting, and seals for all
+kinds of plumbing. NBR can also be mixed with PVC for manufacturing NBR/PVC
+compounds.
+
+2.2. The market players
+
+2.2.1. Undertakings addressed by the present proceedings
+
+4. In the last year of the infringement described in this Decision, in 2002, the NBR
+market in the EEA was dominated by three undertakings: Bayer, Zeon and [another
+
+EN 6 EN
+
+competitor]. Two of these three undertakings, Bayer and Zeon, are the addressees of
+this Decision.
+
+2.2.1.1. Bayer
+
+5. Bayer AG (hereafter: Bayer) is a company active in the chemical sector, with its seat
+in Leverkusen, Germany. It produces a comprehensive range of chemicals, plastics,
+pharmaceuticals and other products. Until 31 December 2002, its business was divided
+into different areas (“Arbeitsgebiete”), which were sub-divided into divisions
+(“Geschäftsbereiche”), which were in turn split into sections (“Geschäftsfelder”).
+NBR belonged to the Polymers Area ("Arbeitsgebiet Polymers"), the Rubber Division
+(“Geschäftsbereich Kautschuk” – “GB KA”) and the Solid Rubber Section
+(“Geschäftsfeld Festkautschuk”).
+
+6. NBR activities within Bayer were transferred to a new company called Lanxness
+Deutschland GmbH on 30 September 2004. Lanxness Deutschland GmbH was a
+100 % subsidiary of Bayer until 28 January 2005 when it was floated on the stock
+exchange as Lanxness AG. Lanxness AG is not party to this procedure.
+
+7. Bayer produces NBR in La Wantzenau, France and in Sarnia, Canada. The NBR
+production site in Leverkusen, Germany, was discontinued as from 2002.
+
+8. The total world-wide turnover of the Bayer group in 2001 was EUR 30 275 million
+and EUR 28 956 million in 2006. Bayer achieved turnover of EUR 52.4 million in the
+EEA in respect of NBR in 2001.
+
+9. Bayer markets its NBR under the trademarks Perbunan and Krynac.
+
+2.2.1.2. Zeon
+
+10. Zeon Corporation, based in Japan, operates in Europe through two principal
+subsidiaries, Zeon Europe GmbH based in Düsseldorf and Zeon Chemicals Europe
+Ltd. based in the United Kingdom (the three companies will be identified hereafter as
+Zeon). 100 % of the shares of Zeon Chemicals Europe Ltd are owned by Zeon
+Corporation. 18.5 % of the shares of Zeon Europe GmbH are owned by Zeon
+Chemicals Europe Ltd and the remaining 81.5 % directly by Zeon Corporation.
+
+11. Zeon produces NBR in Barry, United Kingdom.
+
+12. The total world-wide turnover of the Zeon group in 2001 was EUR 1 749 million and
+EUR 1 928 million in 2006. Zeon achieved turnover of EUR 27.993 million in the
+EEA in respect of NBR in 2001.
+
+2.2.2. Other suppliers
+
+13. In addition to the addressees of this Decision and to [another competitor] which are
+the major suppliers of NBR in the EEA, a number of other players supply limited
+
+EN 7 EN
+
+amounts of NBR to the EEA market. Those producers which are not concerned by the
+proceedings in this case are based in the United States, in South America or in Asia.
+
+2.3. Description of the industry
+
+2.3.1. Market values and volumes
+
+14. Bayer estimates that in 2001 the world-wide NBR market amounted to 308 500 tonnes
+and that the European NBR market amounted to approximately 78 000 tonnes.
+
+15. Based on the NBR turnovers of Bayer and Zeon in the EEA, as well as their estimates
+of their own and their competitors' market shares (which are confidential), the
+Commission estimates that in 2001 the total value of NBR sales in the EEA amounted
+to EUR 145.3 million. The Commission estimates the corresponding NBR market
+shares of Bayer, Zeon and their competitors in the EEA in 2001 to be as follows:
+
+Bayer 36.06 %
+
+Zeon 19.27 %
+
+Others 44.67 %.
+
+2.3.2. Geographic scope of the business
+
+16. The scope of the NBR business is world wide. The major suppliers are present in each
+of the principal economic regions of the world and operate on a global basis.
+
+2.4. Trade between Member States
+
+17. The NBR production in Europe is concentrated in a small number of sites. In Europe,
+as already mentioned, Zeon produces NBR in the United Kingdom (Barry) and Bayer
+has production facilities in France (La Wantzenau).
+
+18. Aside from imports from outside the EEA, the EEA market is supplied from these few
+production sites. In particular, customers in all fifteen Member States were supplied
+with NBR by Bayer in 2000 - 2002. Zeon's major customers were located in 8-9
+Member States, however smaller volumes of NBR were supplied to 14 Member
+States. The NBR market during the period considered in this Decision was thus
+characterised by important trade flows between EU Member States. Both parties also
+sold NBR to Norway, i.e. a Contracting Party to the EEA Agreement.
+
+19. Accordingly, there is a substantial volume of trade between EU Member States and
+the Contracting Parties to the EEA Agreement in the NBR market.
+
+EN 8 EN
+
+3. PROCEDURE
+
+3.1. The Commission’s investigation
+
+20. (...)
+
+21. On 30 January 2003, Bayer contacted the Commission and expressed its wish to cooperate with the Commission pursuant to the Leniency Notice. (...)
+
+22. On 27 and 28 March 2003, the Commission conducted investigations under Article
+14(3) of Council Regulation No 17 : First Regulation implementing Art
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+stances have been found nor claimed.
+
+7.4.3 Deterrence
+
+184. Point 30 of the Guidelines on fines provides that "The Commission will pay particular
+attention to the need to ensure that fines have a sufficiently deterrent effect; to that
+end, it may increase the fine to be imposed on undertakings which have a particularly
+large turnover beyond the sales of goods or services to which the infringement
+relates".
+
+185. The total world-wide turnover of the Zeon group was EUR 1 928 million in 2006. No
+multiplier should be applied to the fine to be imposed on Zeon.
+
+186. The total world-wide turnover of Bayer was EUR 28 956 million in 2006. Bayer has a
+"particularly large turnover beyond the sales of goods or services to which the
+
+30 See Commission Decision 2002/742/EC of 5 December 2001 (Citric Acid) OJ L 239, 6.9.2002 p.18,
+where Harmann & Reimer Corporation, a wholly owned subsidiary of Bayer AG, was an addressee of
+the Commission Decision.
+
+EN 27 EN
+
+infringement relates". In order to ensure that the fine imposed on it has a sufficient
+deterrent effect, and given the circumstances of the case, a multiplier of 1.1 should be
+applied to the fine to be imposed on Bayer.
+
+7.4.4 Conclusions on the adjusted basic amounts
+
+187. The adjusted basic amount of the fine to be imposed on Bayer should be as follows:
+
+Proportion of the value of sales: = EUR ....16 768 000
+
+Additional amount: = EUR .... 8 384 000
+
+Total adjusted basic amount = EUR .....41 250 000
+
+188. The adjusted basic amount of the fine to be imposed on Zeon should the same as the
+basic amount.
+
+7.5. Application of the 10% turnover limit
+
+189. Article 23(2) of Regulation (EC) No 1/2003 provides that "For each undertaking and
+association of undertakings participating in the infringement, the fine shall not exceed
+10 % of its total turnover in the preceding business year".
+
+190. The adjusted basic amounts of the fines to be imposed on Bayer and Zeon are less than
+10 % of their total turnovers in 2001 (see chapters 7.3.2 and 7.4.4). It is consequently
+not necessary to reduce the amount of the fines in order to take into account the
+application of the 10% of turnover limit.
+
+7.6. Application of the Leniency Notice
+
+191. Bayer and Zeon both submitted applications under the Leniency Notice. They cooperated with the Commission at different stages of the investigation with a view to
+receiving the favourable treatment provided for in the Leniency Notice.
+
+7.6.1 Bayer
+
+192. (...), Bayer contacted the Commission on 30 January 2003 and expressed its wish to
+cooperate with the Commission pursuant to the Leniency Notice. (...)
+
+193. (...)
+
+194. (...), the information provided by Bayer added value to the Commission’s case (...)
+
+195. On 29 March 2007 Bayer was informed of the Commission's intention to grant a
+reduction of 30-50 % of the fine which would otherwise have been imposed on it,
+pursuant to the Leniency Notice.
+
+EN 28 EN
+
+196. Bayer was the first undertaking to meet the conditions of point 21 of the Leniency
+Notice. (...) The Leniency Notice does not require a Leniency applicant to provide
+evidence for the whole infringement in order to receive a reduction of fines. However,
+the extent to which evidence fulfilling the condition in point 21 of the Leniency Notice
+represents added value depends, among others, on whether it relates to the whole
+infringement or merely certain (limited) parts thereof (see point 23 (b) of the Leniency
+Notice which refers to the "extent" of the added value). (...)
+
+197. Taking these elements into consideration, Bayer should be granted a reduction of 30 %
+of the fine which would otherwise have been imposed.
+
+198. (...)
+
+199. (...)
+
+200. (...)
+
+201. (...)
+
+202. (...)
+
+203. (...)
+
+204. (...)
+
+205. (...)
+
+206. (...)
+
+207. (...) According to point 23, last recital, of the Leniency Notice, if an undertaking
+provides evidence "relating to facts previously unknown to the Commission" with a
+direct bearing on the duration of the suspected cartel, the Commission will not take
+these elements into account when setting the fine to be imposed on the undertaking
+which provided this evidence.
+
+208. However (...), the evidence submitted by Bayer, alone, was so limited that it was not
+sufficient to establish the existence of an infringement, or certain facts thereof having
+a direct bearing on duration, as it required (...) corroboration (...).(...) It is only by the
+combination of the information provided (...) that the facts concerning the period (...)
+could be ascertained and therefore it is the combined information, not Bayer's
+submission in itself, which had a direct bearing on the duration of the suspected cartel.
+
+209. (...)
+
+210. (...)
+
+EN 29 EN
+
+7.6.2 Zeon
+
+211. On 27 August 2003, that is to say, 5 months after the Commission's inspections at
+Zeon Chemicals Europe Ltd. had been carried out (on 27/28 March 2003) and
+following information from a third-party and Bayer's prior leniency submission, the
+legal representatives of Zeon Corporation contacted the Commission and expressed
+Zeon Corporation's wish to cooperate with the Commission pursuant to the Leniency
+Notice.(...).
+
+212. (...)
+
+213. (...) This evidence allowed the Commission to extend the duration of the
+infringement to the period 2000 – 2001 and to prove, to the requisite legal standard,
+the facts in question.
+
+214. On 29 March 2007 Zeon was informed of the Commission's intention to grant it a
+reduction of 20-30 % of the fine which would otherwise have been imposed on it,
+pursuant to the Leniency Notice.
+
+215. (...) It is therefore concluded that Zeon also brought significant added value in respect
+of the period before the Naples meeting.
+
+216. Zeon was the second undertaking to meet the conditions of point 21 of the Leniency
+notice. (...)In its reply to the Statements of Objections Zeon argues that it should be
+granted a reduction of 30 % because of the quality of its information. (...)
+
+217. On balance, and taking into account also the timing of its leniency submission and the
+fact that Zeon will be granted partial immunity for a significant period to which its
+submissions relate (see below), Zeon should therefore be granted a reduction of 20 %
+of the fine which would otherwise have been imposed.
+
+218. In its reply to the Statements of Objections Zeon argues that it is entitled to (...) of the
+Leniency Notice as it provided the Commission with (...)
+
+219. (...)
+
+220. Taking this into account, Zeon (...)
+
+221. The partial immunity awarded to Zeon results in a reduction of the fine in the
+proportion of the value of sales. The additional amount should, however, not be
+changed, as that part of the fine is not dependent on the duration of the infringement.
+
+7.6.3 Conclusion on the application of the Leniency Notice
+
+222. The fine to be imposed on Bayer following application of the Leniency Notice should
+be as follows:
+
+EN 30 EN
+
+Proportion of the value of sales: = EUR ...16 768 000....
+
+Additional amount: = EUR ... 8 384 000
+
+Total fine = EUR ...28 870 000....
+
+223. The fine to be imposed on Zeon following application of the Leniency Notice should
+be as follows:
+
+Proportion of the value of sales: = EUR ......2 239 440
+
+Additional amount: = EUR ...... 4 478 880
+
+Total fine = EUR ...... 5 360 000
+
+7.7. The amounts of the fines to be imposed in this Decision
+
+224. The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003
+should therefore be as follows:
+
+- Bayer EUR ...28 870 000
+
+- Zeon EUR ... 5 360 000
+
+- Zeon Corporation EUR ... 5 360 000
+
+of which jointly and severally with:
+
+- Zeon Europe GmbH for EUR ... 5 360 000
+
+- Zeon Chemicals Europe Ltd. for EUR ......5 360 000
+
+EN 31 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement of Article 81 of the
+Treaty and Article 53 of the EEA Agreement covering the whole of the EEA, by which they
+agreed and coordinated price increases, reassured each other on their intentions to apply price
+increases and exchanged information on pricing strategy in the market for Acrylonitrile
+Butadiene Rubber (NBR) from 9 October 2000 to 30 September 2002 .
+
+(a) Bayer AG;
+
+(b) Zeon Corporation;
+
+(c) Zeon Europe GmbH;
+
+(d) Zeon Chemicals Europe Ltd.
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+(a) Bayer AG: EUR 28 870 000;
+
+(b) Zeon Corporation, Zeon Europe GmbH and Zeon Chemicals Europe Ltd.,
+jointly and severally: EUR 5 360 000.
+
+The fines shall be paid in Euros, within three months of the date of the notification of this
+Decision, to the following account:
+
+Account No
+
+0050915991 of the European Commission with:
+
+ING BANK N.V.
+Financial Plaza
+Bijlmerdreef, 109
+NL-1102 BW AMSTERDAM
+
+(Code SWIFT: INGBNL2AXXX Code IBAN: NL22INGB0050915991)
+
+EN 32 EN
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the
+month in which this decision is adopted, plus 3,5 percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+BAYER AG
+Kaiser-Wilhelm-Allee
+D-51368 Leverkusen
+Deutschland
+
+ZEON CORPORATION
+1-6-2, Marunouchi
+Chiyoda-ku, Tokyo
+100-8246 Japan
+
+ZEON CHEMICALS EUROPE LTD.
+Sully, Vale of Glamorgan
+CF64 5ZE
+United Kingdom
+
+ZEON EUROPE GMBH
+Niederkasseler Lohweg 177
+D-40547 D•sseldorf
+Deutschland
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the
+EEA Agreement.
+
+EN 33 EN
+
+Done at Brussels, 23 January 2008
+
+For the Commission
+
+Neelie KROES
+Member of the Commission
+
+EN 34 EN

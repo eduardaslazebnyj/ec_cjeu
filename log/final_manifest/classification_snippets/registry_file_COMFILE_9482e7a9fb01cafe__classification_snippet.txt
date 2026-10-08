@@ -1,0 +1,225 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XC0325(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XC0325(01)
+Help
+Print
+Summary of Commission Decision of 18 December 2013 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39678/AT.39731 — Deutsche Bahn I/II) (notified under document C(2013) 9194 final)
+Summary of Commission Decision of 18 December 2013 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39678/AT.39731 — Deutsche Bahn I/II) (notified under document C(2013) 9194 final)
+Summary of Commission Decision of 18 December 2013 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39678/AT.39731 — Deutsche Bahn I/II) (notified under document C(2013) 9194 final)
+OJ C 86, 25.3.2014, pp. 4–5
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+25.3.2014
+EN
+Official Journal of the European Union
+C 86/4
+Summary of Commission Decision
+of 18 December 2013
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union
+(Case AT.39678/AT.39731 — Deutsche Bahn I/II)
+(notified under document C(2013) 9194 final)
+(Only the German text is authentic)
+2014/C 86/04
+On 18 December 2013, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+I.
+INTRODUCTION
+(1)
+The case relates to competition concerns on the market for the supply of traction current to railway undertakings in Germany. Traction current is the specific type of electric energy used to propel electric locomotives.
+(2)
+The Decision makes legally binding the commitments offered by DB Energie GmbH and DB Mobility Logistics AG under Article 9 of Regulation (EC) No 1/2003 in a proceeding under Article 102 of the Treaty. DB Energie GmbH and DB Mobility Logistics AG are subsidiaries of the German railway incumbent Deutsche Bahn (DB).
+II.
+PROCEDURE
+(3)
+On 13 June 2012, the Commission opened formal proceedings with a view to taking a decision under Chapter III of Regulation (EC) No 1/2003. On 6 June 2013, the Commission adopted a preliminary assessment. On 23 July 2013, the parties proposed initial commitments to address the Commission's preliminary concerns. On 15 August 2013, a notice was published in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case and the proposed commitments, and inviting interested third parties to give their observations. Following the comments received from third parties, DB submitted the signed version of the final commitments on 17 December 2013.
+(4)
+On 12 December 2013, the Advisory Committee on restrictive practices and dominant positions was consulted and gave a positive opinion. On 13 December 2013, the Hearing Officer issued his final report.
+III.
+CONCERNS EXPRESSED IN THE PRELIMINARY ASSESSMENT
+(5)
+The preliminary assessment set out the competition concerns of the Commission relating to a potential margin squeeze created by the DB Group's pricing system for traction current, including its discounts, on the markets for the provision of rail freight and long-distance passenger transport services.
+(6)
+The Commission took the preliminary view that the pricing practice of DB Energie, the DB subsidiary in charge of the supply of traction current, may create a margin squeeze on the German markets for rail freight and long-distance passenger transport services. A margin squeeze may occur where a vertically integrated undertaking sells a product or service to competitors on an upstream market where it is dominant and competes with these undertakings on a downstream market for which the product or service is an indispensable input.
+(7)
+DB Energie operates the specific electrical grid necessary for the distribution of traction current. It also supplies traction current to railway undertakings by purchasing electricity from energy producers and reselling it to railway undertakings. DB Energie is the sole supplier of traction current in Germany and is therefore dominant on the market for the supply of traction current to railway undertakings in Germany. It belongs to the vertically integrated DB Group which is also active on the downstream rail transport markets.
+(8)
+The Commission preliminarily concluded that DB Energie's pricing practice for traction current may prevent railway undertakings at least as efficient as the dominant undertaking from competing profitably on the downstream market for freight and long-distance passenger transport services. The Commission preliminary found that on average over the period concerned by the potential infringement, the DB railway undertakings in the freight sector and in the long-distance passenger transport sector would not have been able to trade profitably if they had benefited from the same lower level of discounts for traction current as their competitors. Since traction current is an indispensable input for railway undertakings for operating on the freight and long-distance passenger transport markets, the Commission preliminarily found that negative levels of profitability caused by the alleged margin squeeze have likely anti-competitive foreclosure effects.
+IV.
+THE COMMITMENTS
+(9)
+DB submitted initial commitments on 23 July 2013 and a revised commitment proposal on 21 November 2013 to meet the Commission's competition concerns. The key elements of the commitments are as follows:
+—
+On 1 July 2014, DB Energie will introduce a new pricing system for traction current with separate supply prices for electricity and separate grid access fees, the latter as approved by the competent German regulatory authority (Bundesnetzagentur). On the same day, DB Energie will offer access to its traction current network for third party energy providers so that they can supply traction current to railway undertakings, in competition to DB Energie.
+—
+In this new system, DB Energie will charge the same price for electricity to all railway undertakings without volume- or duration-based discounts.
+—
+DB Energie will pay to railway undertakings in Germany not belonging to the DB Group a one-time payment of 4 % of their yearly traction current invoice, based on the period of one year before the entry into force of the new pricing system.
+—
+DB will provide each year the necessary data for the Commission to assess if the price levels for traction current and transport services charged by the DB Group could lead to a margin squeeze. DB Energie will also notify to the Commission in advance any changes to its electricity price.
+—
+The commitments will last for five years after the notification of the Commission's decision or until 25 % of traction current volumes purchased by competitors of the DB Group are sourced from third party electricity providers.
+—
+DB will appoint a trustee to monitor its compliance with the commitments.
+V.
+ASSESSMENT AND PROPORTIONALITY OF THE COMMITMENTS
+(10)
+The Commission considers that the commitments are sufficient to address the concerns identified in the preliminary assessment without being disproportionate.
+(11)
+The commitments will allow the entry of competitors on the market for the supply of traction current by promoting entry of third party electricity providers. Such competition will in turn constrain the price setting ability of DB Energie and remove the possibility of a margin squeeze.
+(12)
+The introduction of a new pricing system for traction current with separate prices for electricity and for access to the traction current grid will ensure that electricity providers can compete on the price of electricity. Furthermore, DB's commitment to ‘offer access to its traction current network’ on 1 July 2014 will enable market opening and the switching of railway undertakings to another supplier on that date. The renouncement of discounts will promote the development of competition by ensuring price transparency and a level playing field.
+(13)
+The one-time payment to railway undertakings aims at preventing the potential margin squeeze to be prolonged in a transition phase while the new pricing system is introduced and third party energy suppliers have not entered the market for traction current. The payment is therefore limited to one year, a duration which the Commission considers to be sufficient to allow market entry. The price decrease of 4 % is adequate since it would have been sufficient to prevent a margin squeeze during the period of the potential infringement.
+(14)
+The data on the price levels for traction current and for transport services which DB commits to provide enable the Commission to monitor DB's pricing behaviour. The monitoring trustee will observe DB's compliance with the commitments in general.
+(15)
+The Commission considers that the five-year duration of the commitments is sufficiently long for third party electricity suppliers to develop their offer and for railway undertakings to change providers. In case third party electricity providers supply 25 % of the volumes of traction current consumed by non-DB railway undertakings before five years have elapsed, the Commission considers that this would prove that competition has been developing steadily and would justify a premature end of the commitments.
+VI.
+CONCLUSION
+(16)
+The Decision makes the commitments submitted by DB legally binding. In view of the commitments, there are no longer grounds for action by the Commission.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+Top

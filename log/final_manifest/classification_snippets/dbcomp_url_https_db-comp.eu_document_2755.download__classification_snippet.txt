@@ -1,0 +1,355 @@
+EUROPEAN COMMISSION
+
+Brussels, 9.7.2025
+C(2025) 4526 final
+
+Public version
+Bayerische Motoren Werke Aktiengesellschaft Mercedes-Benz Group AG
+Petuelring 130 Mercedesstr. 120
+80809 München 70372 Stuttgart
+Germany Germany
+
+thyssenkrupp AG Volkswagen AG
+ThyssenKrupp Allee 1 Berliner Ring 2
+45143 Essen 28440 Wolfsburg
+Germany Germany
+
+Subject: Case AT.40979 – Guidance – Automotive LNG
+Informal Guidance Request - Bayerische Motoren Werke Group AG,
+Mercedes Benz Group AG, thyssenkrupp AG and Volkswagen AG
+(Please quote this reference in all correspondence)
+
+Dear Sir or Madam,
+
+(1) I refer to your request of 20 December 2024 (“the Request”) for informal
+guidance pursuant to the Commission Notice on Informal Guidance relating to
+novel or unresolved questions concerning Articles 101 and 102 of the Treaty on
+the Functioning of the European Union (TFEU) that arise in individual cases
+(“Notice on Informal Guidance” or “Notice”) (1).
+(2) In the Request, you request informal guidance on the compatibility with EU
+competition rules of a project to create a licensing negotiation group in the
+automotive sector: the Automotive Licensing Negotiation Group (“ALNG”). The
+Request refers to the issuance of a letter by the Federal Cartel Office of Germany
+on 10 June 2024, declaring that the ALNG project can be tolerated under German
+antitrust rules, subject to certain conditions.
+(3) This informal guidance letter sets out the Commission’s position as regards
+certain issues raised in the Request (2).
+
+(1) Commission Notice on informal guidance relating to novel or unresolved questions concerning Articles
+101 and 102 of the Treaty on the Functioning of the European Union that arise in individual cases
+(guidance letters), OJ C 381, 4.10.2022, p.9.
+(2) As per paragraph 21 of the Notice on Informal guidance.
+
+1. PRELIMINARY CONSIDERATIONS
+
+(4) Since the entry into force of Council Regulation (EC) No 1/2003 (3), undertakings
+can no longer notify their agreements to the Commission in order to receive an
+individual exemption from Article 101 TFEU, but they are themselves responsible
+for assessing the legality of their agreements and practices. This system of selfassessment, framed by the extensive guidance provided in Commission notices
+and other publications, as well as existing case law, is now well established.
+(5) Consequently, informal guidance letters are intended to assist undertakings with
+their self-assessment of compliance with the competition rules on agreements and
+unilateral practices, for which they remain ultimately responsible.
+
+2. INFORMAL GUIDANCE
+
+(6) Section 2.1 of this letter summarises the Request and Section 2.2 contains the
+Commission’s assessment.
+
+2.1. The Request
+(7) ALNG founding members are the German companies Bayerische Motoren Werke
+Group AG (“BMW”), Mercedes Benz Group AG (“Mercedes”), thyssenkrupp
+AG and Volkswagen AG (“Volkswagen”) (the “Parties”).
+(8) In the Request, you explain that the Parties envisage the creation of a joint
+licensing negotiation group (“LNG”) for the purpose of negotiating licences for
+standard essential patents (“SEPs”) with individual SEP holders and SEP pools
+(together “SEP holders”).
+(9) In the Request, you state that the cooperation under ALNG is likely to increase
+efficiency in the licensing of SEPs. An LNG can negotiate several licences via
+only one or a few negotiations. Licensees can share the costs of the negotiation,
+therefore reducing the associated expenses and the time frame necessary to
+conclude an agreement, as compared to individual negotiations.
+
+2.1.1. Functioning of ALNG
+(10) In the Request, you describe the establishment and operating rules of ALNG as
+follows:
+(a) ALNG will be established in the form of a German limited liability
+company (Gesellschaft mit beschränkter Haftung, GmbH, “ALNG GmbH”)
+as a wholly-owned subsidiary of the German Association of the Automotive
+Industry (Verband der Automobilindustrie e.V.). Membership of ALNG
+will be based on service agreements with ALNG GmbH and will be open to
+interested companies from the automotive industry including automobile
+manufacturers and component suppliers.
+(b) ALNG will use a negotiation group model: any ALNG member can request
+the creation of a negotiation group, which will be responsible for the
+
+(3) Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+competition laid down in Articles 81 and 82 of the Treaty, OJ L 1, 4.1.2003, p. 1. With effect from 1
+December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101 and 102, respectively,
+of the Treaty on the Functioning of the European Union. The two sets of provisions are, in substance,
+identical.
+2
+
+negotiation of licences with a particular SEP holder or SEP pool. Members
+who are not involved in the negotiation group can ask to join it at a later
+stage, in return for a contribution towards the costs and subject to any
+agreements to the contrary with the SEP holder.
+(c) The SEP licensing negotiations will be conducted by an independent
+negotiation team (4), which will act on behalf of the negotiation group. The
+day-to-day business of ALNG will be managed by a neutral manager, who
+will be elected by the members of ALNG but cannot be a current officer or
+employee of any ALNG member or affiliate (5).
+(d) ALNG members that form part of a specific negotiation group inform the
+independent negotiation team bilaterally of their own expectations
+regarding acceptable licensing terms. The negotiation team negotiates in the
+interest of the entire negotiation group in order to reach a FRANDcompliant result with SEP holders. While the negotiation team will seek to
+find a balance of member interests in the negotiations, the negotiated
+outcome is not required to fully match the terms considered acceptable by
+all the members of the negotiation group. Members of the negotiation group
+are not obliged to accept the negotiated agreement. If a member rejects the
+proposed agreement, the status quo will resume as if the negotiation group
+had never existed, and the SEP holder and that member will be entirely free
+to engage in independent licence negotiations.
+(e) The SEP holder(s) and the members of the negotiation group will agree on
+a time frame for the negotiations beforehand. Negotiations will be in two
+phases: the negotiation between the SEP holder and the negotiation team
+(“Phase 1”) and a possible subsequent bilateral negotiation (“Phase 2”) in
+special cases for particular licences that require amendment of the
+negotiated licence agreement (e.g. reciprocal licensing). While the time
+period required for the negotiations may vary depending on the relevant
+facts and the complexity of the negotiations, as a general rule the negotiation
+team and the SEP holder should endeavour to conclude Phase 1 negotiations
+within six months and any subsequent Phase 2 bilateral negotiations within
+a further three months from the start of bilateral talks between the SEP
+holder and the respective negotiation group member. However, depending
+on the facts and the complexity of negotiations, a longer time frame may be
+necessary.
+(f) Members of the negotiation group will negotiate with the relevant
+SEP holder only through the negotiation team until the conclusion or
+termination of the Phase 1 negotiations. Except for these temporary
+restrictions, members will remain free to engage in independent licence
+negotiations with SEP pools and SEP holders, regardless of ALNG’s
+activities.
+(g) SEP holders can choose to engage in negotiations with an ALNG
+negotiation team or not. If they agree to engage in negotiations, SEP holders
+shall not seek bilateral negotiations in parallel or initiate or proceed with
+litigation against any member of the negotiation group, as long as group
+negotiations are ongoing and the agreed time frame is adhered to.
+
+(4) Consisting of persons who are not current officers or employees of ALNG members – see paragraph 15
+of Annex II of the Request.
+(5) See paragraph 30 of Annex II of the Request.
+3
+
+(h) SEP holder(s) may terminate the negotiations with the negotiation team at
+any time, even during the pre-agreed period of Phase 1, and thus can always
+open the way for bilateral negotiations. Members of the negotiation group
+are bound by the collective negotiations conducted by the negotiation team
+during the pre-agreed period as long as the SEP holder(s) have not
+terminated the collective negotiations.
+(i) ALNG will implement safeguards to prevent any anti-competitive exchange
+of competitively sensitive information. First, regarding the exchange of
+information between the members of ALNG and the negotiation group,
+ALNG members will disclose their negotiation goals to the negotiation team
+on a bilateral basis. This information will not be shared with other members
+of the negotiation group or other members of ALNG. The negotiation team
+can only share general information about the status of negotiations with the
+negotiation group. Second, the information flow between ALNG members
+is strictly limited to information necessary to organise the joint negotiation
+with SEP holders through the negotiation team and moreover, implements
+mechanisms to avoid information exchange between the members of the
+negotiation group. Third, no other (sensitive) information will be shared
+within ALNG. If the negotiation team wishes to discuss specific details of
+the negotiation with the negotiation group members while the negotiation is
+ongoing, those discussions will occur on a bilateral basis only.
+
+2.2. The Commission's assessment
+(11) In the following sub-sections, the Commission explains how the criteria set out in
+points 7(a) and 7(b) of the Informal Guidance Notice are fulfilled (Section 2.2.1)
+and sets out its legal assessment of ALNG under Article 101 TFEU
+(Section 2.2.2).
+
+2.2.1. The criteria in points 7(a) and 7(b) of the Informal Guidance Notice
+(12) The Commission considers that there are valid reasons to provide clarifications
+on the applicability of Article 101 TFEU to the proposed ALNG, because it raises
+novel or unresolved questions, clarification of which would provide added value
+in terms of legal certainty pursuant to point 7 of the Notice.
+(13) First, the Request raises novel questions within the meaning of point 7(a) of the
+Notice insofar as they concern the application of Article 101 TFEU to an LNG
+for the joint negotiation of SEP licences, which might also include actual or
+potential competitors. These questions have not been subject to prior Commission
+guidance or decision-making practice.
+(14) Second, there is an interest in providing guidance in this case, as the ALNG’s
+objectives are relevant for the achievement of the Commission’s priorities or in
+the interest of the Union within the meaning of point 7(b) of the Notice. ALNG
+aims to enhance the efficiency of SEP licensing negotiations (6), in particular
+relating to digital technologies that are necessary to promote innovation in the
+automotive sector. Digitalisation is expected to contribute to Europe’s
+decarbonisation goals and to the transition to net-zero emissions by 2050(7), as
+
+(6) See also the call for more efficient SEP licensing by, e.g. setting up licensing platforms made in the
+“Communication from the Commission COM(2017) 712 final - Setting out the EU approach to Standard
+Essential Patents” of 29.11.2017
+(7) As indicated in the Draghi Report: “Digitalisation can also contribute to Europe’s decarbonisation and
+transition to net-zero by 2050”.
+4
+
+set out in the European Commission’s Green Deal. Innovation in this area can
+promote energy savings, contribute to the creation of more sustainable mobility
+solutions, and promote connectivity and traction technologies (e.g. further
+electrification). Moreover, this project is in line with the Commission’s
+commitment to promote the competitiveness of EU’s automotive sector, as
+demonstrated by the launch of the Strategic Dialogue on the Future of the
+Automotive Industry in January 2025(8).
+
+2.2.2. The Commission’s legal assessment of ALNG under Article 101 TFEU
+(15) ALNG is an LNG. There is currently no specific guidance or decisional practice
+at EU level regarding the assessment of LNGs under Article 101 TFEU. LNGs
+share some characteristics with joint purchasing arrangements, insofar as they
+bring together undertakings wishing to negotiate jointly the purchase of a licence
+of technology rights.
+(16) Accordingly, the Commission – in the absence of specific guidance on the legal
+assessment of LNGs under EU competition rules – bases its legal assessment in
+this letter on Chapter 4 of the Horizontal Guidelines relating to joint purchasing
+agreements (9).
+(17) Based on the information provided in the Request and summarised in section 2.1
+above, the Commission considers that ALNG does not raise concerns under
+Article 101 TFEU in so far as the negotiations concern licences of SEPs that are
+related to technology that is not specific to the automotive sector. This applies for
+the reasons set out in the following paragraphs and subject to the conditions set
+out therein.
+
+No restriction of competition by object
+(18) According to paragraph 278 of the Horizontal Guidelines, joint purchasing
+arrangements generally do not amount to a restriction of competition by object if
+they genuinely concern joint purchasing, namely where two or more purchasers
+jointly negotiate and conclude an agreement with a given supplier relating to one
+or more trading terms governing the supply of products to the cooperating
+purchasers.
+(19) Paragraphs 279-282 of the Horizontal Guidelines distinguish genuine joint
+purchasing arrangements from buyer cartels, notably on the basis that a joint
+purchasing arrangement makes clear to suppliers that it negotiates on behalf of its
+members, whereas the participants in a buyer cartel coordinate their behaviour on
+the purchasing market (for example, in relation to purchase prices or quantities)
+without engaging in joint negotiations vis-à-vis the supplier.
+(20) Based on the information provided in the Request and summarised in section 2.1
+above, the main objective of ALNG is to jointly negotiate the terms of SEP
+licensing agreements on behalf of its members with SEP holders. Under ALNG’s
+negotiation group model, negotiation conditions are transparent for SEP holders.
+In view of the content and objectives of the proposed ALNG, including the
+safeguards incorporated in its operating rules, the Commission considers that
+ALNG does not restrict competition by object.
+
+(8) IP 25 299 EN.pdf.
+(9) Communication from the Commission – Guidelines on the applicability of Article 101 of the Treaty on
+the Functioning of the European Union to horizontal co-operation agreements, OJ C 259, 21.7.2023,
+p. 1.
+5
+
+Assessment of restrictive effects
+(21) In order to assess whether ALNG has (actual or likely) restrictive effects on
+competition, the Commission has reviewed ALNG in its legal and economic
+context.
+(22) Pursuant to paragraph 291 of the Horizontal Guidelines, it is unlikely that market
+power exists if the members of the joint purchasing arrangement have a combined
+market share that does not exceed 15% on the purchasing market(s) – i.e., the
+upstream licensing market(s) for the relevant technology standards, where ALNG
+members jointly negotiate with SEP holders – and on the relevant selling
+market(s) – i.e., the downstream selling market(s) where ALNG members
+manufacture and sell vehicles and their components.
+
+Effects on upstream markets for the licensing of SEPs
+(23) In the upstream market(s) for licensing SEPs not specific to the automotive sector,
+it appears unlikely that ALNG members will hold a combined market share that
+exceeds 15% of the total relevant demand, as these technologies comprise several
+use cases. For the purpose of this letter, the precise market definition of the
+upstream market(s) for licensing SEPs not specific to the automotive sector is left
+open.
+(24) On the other hand, the parties have not provided pertinent documentation that
+allows the Commission to conclude that the combined market share of ALNG
+members will not exceed 15% in upstream markets for licensing SEPs that are
+related to automotive-specific technology (10). Accordingly, this guidance letter
+makes no findings in relation to the negotiation of licences of SEPs relating to
+automotive-specific technology (11).
+
+Effects on downstream markets for the sale of vehicles and their components
+(25) In the downstream market(s) for the sale of vehicles and their components, it is
+possible that the combined market shares of ALNG members exceed the 15%
+threshold referred to in point 291 of the Horizontal Guidelines in certain relevant
+markets. However, as stated in point 292 of the Horizontal Guidelines, a
+combined market share above that threshold does not in itself indicate that the
+joint purchasing arrangement is likely to give rise to restrictive effects on
+competition. It is therefore necessary to assess the effects of the arrangement on
+the market, taking into account other factors.
+(26) ALNG is unlikely to lead to appreciable restrictive effects on competition in the
+downstream markets on which the current (and potential future) members of
+ALNG are active as sellers.
+(27) First, it appears from the Request that, in the automotive sector, the cost of
+licensing SEPs represents a very small proportion of the total cost of the products
+that incorporate the relevant SEPs. For example, the amount paid by Volkswagen,
+Mercedes and BMW for licences of 4G SEPs represents less than 0.1% of the sale
+price of the best-selling cars that they produce (12). Accordingly, the informal
+
+(10) In accordance with paragraph 12 of the Notice on Informal Guidance.
+(11) See also paragraph (30)(a) below.
+(12) See paragraph 84 of Annex II of the Request.
+6
+
+guidance set out in this letter is provided on the basis that ALNG does not lead to
+a high degree of commonality of costs between the ALNG members (13).
+(28) Second, the exchanges of information between ALNG members are limited to
+what is objectively necessary to conduct joint licensing negotiations, and no
+commercially sensitive information will be shared between members of
+negotiation groups and, more generally, between members of ALNG (14).
+
+Scope of application of the guidance letter
+(29) In addition to the general limits of guidance letters described in the Commission’s
+Notice on Informal Guidance, the Commission’s observations set out in the
+preceding paragraphs are premised on the accuracy of the information provided
+in the Request and summarised in section 2.1. The Commission’s observations
+are limited to the information presented in section 2.1. This informal guidance
+letter makes no findings in relation to other information or proposals contained in
+the Request.
+(30) Moreover, the informal guidance set out in this letter applies to the extent that the
+following elements concerning ALNG’s activities are present:
+(a) ALNG and its negotiation groups negotiate licences for standards that are
+not automotive-specific and in respect of which the combined market share
+of the ALNG members does not exceed 15% of the total demand for the
+SEPs or standards concerned.
+(b) ALNG and its negotiation groups are open to other interested undertakings
+in the automotive sector, both car manufacturers and component suppliers.
+(c) Negotiations with ALNG and its negotiation groups are voluntary for SEP
+holders (individual SEP holders or SEP pools), meaning that SEP holders
+are free to enter into a negotiation and to terminate it at any time.
+(d) Exchanges of information between ALNG members are limited to what is
+objectively necessary to conduct the joint licensing negotiations as
+described in the Request, and no commercially sensitive information is
+shared between members of negotiation groups and, more generally,
+between the members of ALNG.
+(31) This informal guidance letter makes no finding in relation to the applicability of
+Article 102 TFEU to ALNG.
+
+(13) See paragraph 300 of the Horizontal Guidelines.
+(14) See paragraphs 29, 31 and 89 of the Request.
+7
+
+3. CONCLUDING REMARKS
+
+(32) This informal guidance letter reflects the Commission’s observations on the
+information presented to it and does not create any rights or obligations for you
+or any third party. The observations contained in this letter do not apply directly
+to other licensing negotiation groups; undertakings participating in such groups
+are responsible for self-assessing their compliance with Article 101 TFEU. It also
+cannot prejudge the assessment of the same questions by the Court of Justice of
+the European Union. Moreover, the clarifications provided herein are expressly
+conditioned on the accuracy and truthfulness of the information that you have
+provided, and any material divergence from the information provided will render
+this guidance letter invalid.
+
+For the Commission
+
+Signed
+Teresa RIBERA
+Executive Vice-President
+
+8

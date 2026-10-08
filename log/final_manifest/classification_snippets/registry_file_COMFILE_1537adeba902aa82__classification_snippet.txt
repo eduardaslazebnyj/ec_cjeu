@@ -1,0 +1,219 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52011XX0312(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52011XX0312(02)
+Help
+Print
+Final report of the Hearing Officer — Commitments Decision in Case COMP/39.398 — VISA MIF
+Final report of the Hearing Officer — Commitments Decision in Case COMP/39.398 — VISA MIF
+Final report of the Hearing Officer — Commitments Decision in Case COMP/39.398 — VISA MIF
+OJ C 79, 12.3.2011, pp. 6–7
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+12.3.2011
+EN
+Official Journal of the European Union
+C 79/6
+Final report of the Hearing Officer
+(
+1
+)
+Commitments Decision in Case COMP/39.398 — VISA MIF
+2011/C 79/04
+The draft commitments decision presented to the Commission pursuant to Article 9(1) of Regulation (EC) No 1/2003 relates to a part of Case COMP/39.398 — VISA MIF, which is currently being pursued by the Commission. In a Statement of Objections (‘SO’) dated 3 April 2009 addressed, inter alia, to Visa Europe Limited (‘Visa Europe’), the Commission came to the provisional conclusion that Visa Europe has infringed Article 101 TFEU and Article 53 EEA by setting multilaterally agreed interchange fees (‘MIFs’) applicable to cross-border and certain domestic point of sale transactions with debit, deferred debit and credit consumer payment cards within the EEA (‘the main proceedings’).
+The draft decision only relates to the MIFs set by Visa Europe that apply to cross-border and certain domestic point of sale transactions with VISA, VISA Electron and V PAY consumer immediate debit payment cards within the EEA. Notably, it does not address the issue of Visa Europe's MIFs for consumer credit and deferred debit card transactions, which continue to be investigated by the Commission.
+The Hearing Officer originally responsible for this case was Ms Karen Williams. Following my appointment as Hearing Officer as of 16 September 2010, I assumed responsibility for the case.
+1.
+Written and oral procedures
+On 28 November 2006, the Commission opened an
+ex officio
+investigation of the MIFs applicable to cross-border and certain domestic point of sale transactions with VISA and V PAY consumer payment cards within the EEA. As a result of this investigation, the Commission initiated antitrust proceedings pursuant to Article 101 TFEU and Article 53 EEA on 6 March 2008, and an SO was subsequently addressed to Visa Europe on 3 April 2009.
+On 15 June 2009, EuroCommerce lodged a complaint against Visa Europe arguing that the fees, set by Visa Europe and its member banks and imposed on retailers, constitute an infringement of EU competition law. EuroCommerce was admitted as a complainant in the main proceedings.
+During the written procedure of the main proceedings, Visa Europe was given access to the file, and upon a reasoned request the then Hearing Officer granted an extension to respond to the SO to 30 July 2009. Visa Europe responded on time. Additional access to the file was requested by Visa Europe, to allow it to review evidence relating to the merchant and acquirer surveys conducted by the Commission during the investigative phase of the procedure. In response to confidentiality claims made by some data providers, a data room was set up at the Commission's premises from 28 September to 6 October 2009 to allow this access. Once the data room procedure had ended, a deadline was set for Visa Europe to submit a supplementary reply to the SO which, following a reasoned request, was extended to 30 October 2009. Visa Europe met this deadline.
+Six interested third parties were admitted to the main proceedings. They were provided with information on the nature and subject matter of the procedure further to Article 13 of Commission Regulation (EC) No 773/2004
+(
+2
+)
+. Regarding MasterCard specifically, in its request to be admitted as an interested third party dated 23 November 2009, it requested a copy of the non-confidential version of the SO. This request was repeated on several occasions thereafter. I rejected MasterCard's request by means of a decision taken on 13 October 2010 in application of Article 8 of the Mandate, on the basis that Commission Regulation (EC) No 773/2004 clearly distinguishes between the status of a complainant and a third party: the former has the right to receive a copy of the non-confidential version of the Statement of Objections, whereas the latter only has the right to be informed in writing of the nature and subject matter of the procedure
+(
+3
+)
+. Furthermore, in light of MasterCard's involvement in these proceedings, I consider that MasterCard was able to make its views known and exercise its rights as a third party.
+In the main proceedings, Visa Europe alleged that its rights of defence have been violated due to the fact that, in its view, important and/or exculpatory evidence on the file has been withheld from it. It further alleged that it was obliged to reply to the SO before it had access to ‘key evidence’ on the Commission file. Visa Europe therefore requested the Hearing Officer to review the file in its entirety to establish whether any exculpatory evidence on it should have been disclosed to Visa Europe. By letter of 16 November 2009, the then Hearing Officer drew Visa Europe’s attention to the fact that it is for Competition DG and not the Hearing Officer to determine in the first instance whether evidence on the Commission file must be disclosed to a party. Visa Europe therefore addressed this issue to Competition DG. On 20 November 2009, Competition DG informed Visa Europe that the request that the evidence in the case file be reassessed could only be considered on the basis of more precise information justifying the request for each document, given the confidentiality interests of third parties regarding these documents. Visa Europe did not pursue this further. I therefore consider that its rights of defence have not been impaired.
+All parties to the main proceedings exercised their right to be heard at an Oral Hearing, which took place on 30 November and 1 December 2009.
+2.
+Proposed draft commitments
+Following the Oral Hearing in the main proceedings, Visa Europe proposed on 26 April 2010 a set of commitments concerning its intra-regional MIFs for consumer immediate debit payment cards, as well as certain other network rules.
+On 28 May 2010, the Commission published a notice in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the proposed commitments and inviting third parties to submit observations on them within one month of its publication
+(
+4
+)
+. A total of 13 observations were received, submitted by the complainant, other payment card schemes, payment institutions and merchant associations. The Commission informed Visa Europe of the observations received and, in light of these observations, Visa Europe submitted revised commitments on 10 September 2010. In essence, Visa Europe committed to capping the yearly weighted average cross-border MIFs applicable to consumer immediate debit card transactions, and proposed further commitments relating to certain network rules.
+By letter of 27 September 2010, the Commission informed EuroCommerce that the proposed revised commitments appeared to address the Commission's concerns as far as Visa Europe's immediate debit card MIFs were concerned
+(
+5
+)
+. On 21 October 2010, EuroCommerce submitted observations on this letter.
+The Commission has now come to the conclusion that, in view of the revised commitments, and without prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings, as far as Visa Europe's immediate debit card MIFs are concerned, should be brought to an end.
+No queries or submissions have been made to the Hearing Officer in connection with the proposed commitments by Visa Europe, the complainant or any third parties.
+In the light of the above, I consider that the right to be heard has been respected.
+Brussels, 26 November 2010.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 15 and 16 of Commission Decision (2001/462/EC, ECSC) of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings (
+OJ L 162, 19.6.2001, p. 21
+) (the ‘Mandate’).
+(
+2
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+).
+(
+3
+)
+Articles 6(1) and 13(1).
+(
+4
+)
+OJ C 138, 28.5.2010, p. 34
+.
+(
+5
+)
+Pursuant to Commission Regulation (EC) No 773/2004, Article 7(1).
+Top

@@ -1,0 +1,95 @@
+Annex I
+
+Final Commitments - Apple
+
+# Apple Inc Commitments: Case COMP/C2/39.847 - E-books
+
+In accordance with Article 9 of Regulation 1/2003, Apple Inc ("Apple") offers the following voluntary commitments (the "Commitments").
+
+The Commitments enable the Commission to adopt the Commitment Decision.
+
+Nothing in these Commitments may be construed as implying that Apple agrees with the concerns expressed in the Preliminary Assessment.
+
+Consistent with Article 9 of Regulation 1/2003, the Commitments are given on the understanding that the Commission will confirm that there are no grounds for further action and will close the proceedings opened on 1 December 2011 in relation to Apple relative to the distribution of E-books in the EEA.
+
+For the avoidance of all doubt, Apple vehemently contests the concerns expressed by the Commission in its Preliminary Assessment or that it has engaged in conduct contrary to Article 101 Treaty on the Functioning of the European Union ("TFEU") and Article 53 of the EEA Agreement or been party to any agreement for the distribution of E-books in the EEA contrary to Article 101 TFEU and Article 53 of the EEA Agreement or any other aspect of European Union or EEA competition law. Apple's consistent position is that it individually negotiated Agency Agreements with the six major book publishers in early 2010 and that those agreements allowed Apple to enter the e-Book sector two years ago and led to an increase in output and innovation. Whilst Apple entirely disagrees with the Commission's concerns, it has nevertheless agreed to the commitments described below to resolve the uncertainty caused by the Commission's investigation. For the avoidance of all doubt, these Commitments are without prejudice to Apple's position should the Commission or any other party conduct proceedings or commence other legal action against Apple.
+
+## I. DEFINITIONS
+
+For the purposes of these Commitments:
+
+"Agency Agreement" means an agreement between an E-book Publisher and Apple under which the E-book Publisher Sells E-books to consumers through Apple, which under the agreement acts as an agent of the E-book Publisher and is paid a commission in connection with the Sale of one or more of the E-book Publisher's E-books.
+
+"Apple" means (1) Apple, Inc., a California corporation with its principal place of business in Cupertino, California; and (2) iTunes Sarl, a Luxembourg limited liability company with its principal place of business in Luxembourg, Luxembourg, their successors and assigns, their connected undertakings, subsidiaries, divisions, and groups.
+
+"Commission" means the European Commission.
+
+"Commitment Decision" means the decision adopted by the Commission pursuant to Article 9 of Regulation 1/2003 confirming that the Commitments meet the preliminary competition concerns identified by the Commission in its Preliminary Assessment.
+
+"E-book" means an electronically formatted book designed to be read on a computer, a handheld device, or other electronic devices capable of visually displaying E-books. For the purposes of these Commitments, the term E-book does not include (1) an audio book, even if delivered and stored digitally; (2) a standalone specialized software application or "app" sold through an "app store" rather than through an e-book store (e.g., through Apple's "App Store" rather than through its "iBookstore" or "iTunes") and not designed to be executed or read by or through a dedicated E-book reading device; (3) a media file containing an electronically formatted book for which most of the value to consumers is derived from audio or video content contained in the file that is not included in the print version of the book; (4) self-published E-books; (5) electronic versions of children's picture books; or (6) educational and scholarly titles, as well as E-books sold through educational and/or library channels.
+
+"E-book Publisher" means any Person that, by virtue of a contract or other relationship with an E-book's author or other rights holder, owns or controls the necessary copyright or other authority (or asserts such ownership or control) over any E-book sufficient to distribute the E-book within one or more countries in the EEA to Apple and to permit Apple to Sell the E-book to consumers in those countries in the EEA. The 5 Publishers are E-book Publishers. For the purposes of these Commitments, E-book Publishers are not E-book Retailers except when an E-book Publisher acts as an agent under an Agency Agreement for another E-book Publisher.
+
+"E-book Retailer" means any Person that lawfully Sells (or seeks to lawfully Sell) E-books to consumers in one or more countries in the EEA, or through which an E-book Publisher, under an Agency Agreement, Sells E-books to consumers in one or more countries in the EEA. For the purposes of these Commitments, unless otherwise provided, the 5 Publishers and all other Persons whose primary business is book publishing are not E-book Retailers
+
+"EEA" means those countries participating in the European Economic Area as of the date of the notification of the Commitments Decision and at any time thereafter during the term of these Commitments.
+
+"Hachette" means Hachette Livre SA its successors and assigns, subsidiaries, divisions, and groups, as well as its connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to its other primary business activity.
+
+"HarperCollins" means HarperCollins LLC and HarperCollins Publishers Limited, its successors and assigns, subsidiaries, divisions and groups, as well as their connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to their other primary business activity.
+
+"Holtzbrinck" means Verlagsgruppe Georg von Holtzbrinck GmbH and Georg von Holtzbrinck GmbH & Co. KG and their successors and assigns, subsidiaries, divisions and groups as well as their connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to their other primary business activity.
+
+"Including" means including, but not limited to.
+
+"Person" means any natural person, corporation, company, partnership, joint venture, firm, association, proprietorship, agency, board, authority, commission, office, or other business or legal entity, whether private or governmental.
+
+"Pearson" means Pearson PLC and their successors and assigns, subsidiaries, divisions and groups as well as its connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to its other primary business activity.
+
+"Preliminary Assessment" means the document adopted by the Commission in Case COMP/39.847 E-books on 13 August 2012.
+
+"Regulation 1/2003" means Council Regulation (EC) No 1/2003.
+
+"Retail Price" means the price at which Apple or, under an Agency Agreement, an E-book Publisher sells an E-book to a consumer.
+
+"Retail Price MFN" means a term in an agreement between an E-book Publisher and Apple, under which the Retail Price at which any given E-book Sold by that E-book Publisher through Apple to consumers depends in any way on the Retail Price, or discounts from the Retail Price, at which any other E-Book Retailer or the E-book Publisher under an Agency Agreement through any other E-book Retailer Sells the same E-book to consumers.
+
+"Sale" means delivery of access on a permanent basis to a consumer to read one or more E-book (purchased alone, or in combination with other goods or services) in exchange for payment; "Sell" or "Sold" means to make or to have made a Sale of an E-book to a consumer.
+
+"Simon & Schuster" (1) Simon & Schuster Inc., (2) Simon & Schuster Digital Sales Inc. and (3) Simon & Schuster (UK) Limited their successors and assigns, subsidiaries, divisions and groups, as well as their connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to their other primary business activity.
+
+"The 5 Publishers" means Hachette, HarperCollins, Holtzbrinck, Pearson and Simon & Schuster.
+
+## II. CONDUCT
+
+1 at the latest within seven (7) days after the date of notification of the Commitment Decision, Apple shall send a letter to the 5 Publishers confirming that (1) it waives the notice period contained in any Agency Agreement/s with the 5 Publishers that concerns the distribution of E-books within the EEA and (2) it agrees to rescind (terminate) such agreements no later than fourteen (14) days from the date of the Commitment Decision. A copy of such letter should be provided to the Commission at the same time.
+
+2. Apple shall indicate in the letter to Pearson referred to in (1) above, that in case Pearson does not agree to terminate on this basis, such termination will take effect with the minimum notice period permitted under the Agency Agreement.
+
+3. Apple may negotiate new agreements with the 5 Publishers for the sale of their E-books via an online store owned or controlled by Apple. The Commission will not preclude any of the 5 Publishers from entering into legally enforceable agreements of any kind with Apple.
+
+4. Apple will not include in its new agreements with the 5 Publishers or in any new agreements with any other publisher a Retail Price MFN. In evidence of this Apple will provide the Commission with copies of the new agreements with each of the 5 Publishers. The same applies to any Agency Agreement which deviates from the standard click through agreement published on Apple's website. In addition Apple will provide the Commission with a copy of any standard click through agreement for publishers together with its date of publication for the purpose of evidencing that the click through agreements do not include a Retail Price MFN.
+
+5. Apple will inform any E-book Publisher with which it has an E-book Agency Agreement within 7 days after the date of notification of this Commitment Decision that it will not enforce the Retail Price MFN in any such agreement that is in force at the time of the notification of the Commitment Decision.
+
+6. Throughout this period, Apple shall provide the Commission with an annual written report on the implementation of these Commitments during the relevant year. It will also address any disputes or written complaints made by any publisher relating to the implementation of the Commitments. The report relating to 2012 shall be provided by 1 March 2013, and further reports shall be provided on 1 March of each year for the past year up to and including 2017.
+
+## III. NON CIRCUMVENTION
+
+Apple will not in any way circumvent or seek to circumvent these Commitments.
+
+## IV. SCOPE AND DURATION
+
+1. These Commitments comprise the entire extent of Apple's commitments to or understandings with the Commission.
+
+2. The term of these Commitments is five years from the date of notification of the Commitment Decision.
+
+DATE: 12 NOVEMBER 2012
+
+![](images/e5d3ba966dc4ffbacb7f0d3c41ed105c2675ef1cb4499b3c682657d8b8d5b58f.jpg)
+
+Kyle Andeer
+
+Authorised to sign for and on
+
+Behalf of Apple Inc

@@ -1,0 +1,238 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52021AT40299(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52021AT40299(01)
+Help
+Print
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40299 – Closure Systems (Text with EEA relevance) 2021/C 40/05
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40299 – Closure Systems (Text with EEA relevance) 2021/C 40/05
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40299 – Closure Systems (Text with EEA relevance) 2021/C 40/05
+C/2020/6486
+OJ C 40, 5.2.2021, pp. 5–6
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+5.2.2021
+EN
+Official Journal of the European Union
+C 40/5
+Final Report of the Hearing Officer
+(
+1
+)
+Case AT.40299 – Closure Systems
+(Text with EEA relevance)
+(2021/C 40/05)
+The draft decision, addressed to Magna
+(
+2
+)
+, Brose
+(
+3
+)
+and Kiekert
+(
+4
+)
+(collectively ‘the Parties’), concerns two single and continuous infringements of Article 101 of the TFEU and Article 53 of the Agreement on the European Economic Area (‘EEA’) covering the territories of the EEA.
+The two infringements are described as agreements and/or concerted practices by which the participants coordinated their pricing behaviour and exchanged commercially sensitive information in order to reduce competitive uncertainty for sales of door modules and window regulators (first infringement) and of latches and strikers (second infringement) to certain manufacturers of passenger cars in the EEA
+(
+5
+)
+. The draft decision finds that Magna participated in both infringements, while Brose participated only in the first infringement and Kiekert only in the second infringement.
+On 9 July 2019, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004
+(
+6
+)
+against the Parties.
+Following settlement discussions
+(
+7
+)
+and settlement submissions
+(
+8
+)
+in accordance with Article 10a(2) of Regulation (EC) No 773/2004, the Commission adopted a statement of objections (the ‘Statement of Objections’) addressed to the Parties on 30 June 2020.
+In their respective replies to the Statement of Objections, the Parties confirmed, pursuant to Article 10a(3) of Regulation (EC) No 773/2004, that the Statement of Objections reflected the contents of their settlement submissions and that they therefore remained committed to following the settlement procedure.
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with objections in respect of which the Parties have been afforded the opportunity of making known their views. I conclude that it does so.
+In view of the above, and taking into account that the Parties have not addressed any requests or complaints to me
+(
+9
+)
+, I consider that the effective exercise of the procedural rights of the Parties to the proceedings in this case has been respected.
+Brussels, 24 September 2020.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+).
+(
+2
+)
+Magna International Inc., Magna Closures S.p.A., Magna Mirrors Holding GmbH and MAGNA International Europe GmbH (together referred to as ‘Magna’).
+(
+3
+)
+Brose Beteiligungs-Kommanditgesellschaft, Coburg, Brose Beteiligungs-Kommanditgesellschaft II, Coburg, Brose Fahrzeugteile SE & Co. Kommanditgesellschaft, Bamberg (formerly named Brose Fahrzeugteile GmbH & Co. Kommanditgesellschaft, Bamberg), Brose Fahrzeugteile SE & Co. Kommanditgesellschaft, Coburg (formerly named Brose Fahrzeugteile GmbH & Co. Kommanditgesellschaft, Coburg) and Brose Verwaltung SE, Coburg (formerly named Brose Verwaltungsgesellschaft mbH, Coburg) (together referred to as ‘Brose’).
+(
+4
+)
+Kiekert AG (‘Kiekert’).
+(
+5
+)
+The first infringement took place from 12 August 2010 to 21 February 2011; the second infringement took place from 15 June 2009 to 7 May 2012.
+(
+6
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+).
+(
+7
+)
+The settlement meetings took place between 10 September 2019 and 26 March 2020.
+(
+8
+)
+The Parties submitted their formal requests to settle between 7 and 17 April 2020.
+(
+9
+)
+Under Article 15(2) of Decision 2011/695/EU, parties to the proceedings in cartel cases which engage in settlement discussions pursuant to Article 10a of Regulation (EC) No 773/2004, may call upon the hearing officer at any stage during the settlement procedure in order to ensure the effective exercise of their procedural rights. See also paragraph 18 of Commission Notice 2008/C 167/01 on the conduct of settlement procedures in view of the adoption of Decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (
+OJ C 167, 2.7.2008, p. 1
+).
+Top

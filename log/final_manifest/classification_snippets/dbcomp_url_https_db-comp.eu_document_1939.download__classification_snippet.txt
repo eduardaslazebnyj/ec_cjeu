@@ -1,0 +1,159 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Brussels, 23.7.2014
+
+SG-Greffe(2014)D/10546
+
+C(2014) 5295 final
+
+DataCell ehf
+
+Sidumuli 28
+
+108 Reykjavik
+
+Iceland
+
+For the attention of:
+Mr. Andreas Fink CEO
+E-mail: afink@datacell.com
+
+## Subject: Case AT.39921 – Refusal to provide payment services Commission Decision rejecting the complaint (Please quote this reference in all correspondence)
+
+Dear Sir,
+
+(1) I am writing to you in connection with DataCell's complaint against Visa Europe (Visa), MasterCard Europe (MasterCard) – referred to together as "the card schemes" - and American Express (Amex) pursuant to Article 7(2) of Commission Regulation (EC) 773/2004. $^{1}$ I must inform you that for the reasons set out below, the European Commission rejects the complaint.
+
+(2) In essence, although DataCell claims that MasterCard's and Visa's instructions to suspend card payments made through DataCell for the benefit of WikiLeaks affects DataCell's capacity to offer various services, DataCell's capacity to offer payment facilitation services does not appear to be affected as the services provided to DataCell were only suspended as far as DataCell's services to WikiLeaks were concerned. DataCell could continue offering payment facilitation services provided it agreed not to process payments for the benefit of WikiLeaks and provided payment facilitation services to other parties in compliance with the card schemes' existing rules. In any event, notwithstanding DataCell's failure to comply with the card schemes' rules relating to payment facilitation services, following the judgment by the Icelandic Supreme Court of 24 April 2013 ordering an acquiring bank to provide payment services to DataCell (see below), MasterCard confirmed that it no longer objects to card payments to WikiLeaks. Visa, although maintaining its position with respect to WikiLeaks, has confirmed it will not seek to prevent the acquirer from complying with the legal obligations flowing from the judgment. Finally, Amex has not been involved in the conduct complained of.
+
+(3) Consequently, it is unlikely that the conduct complained of could lead to the anti-competitive foreclosure of DataCell from the card payment facilitation market and thus it is unlikely that an infringement of the competition rules could be established. Moreover, the impact on the functioning of the internal market appears to have been very limited. The Commission therefore, in the exercise of its discretion to set priorities, has come to the conclusion that there are insufficient grounds for conducting a further investigation into the alleged infringements.
+
+## 1. THE COMPLAINT
+
+(4) On 12 July 2011 DataCell submitted a complaint to the Commission alleging that Visa and MasterCard (and Amex after the complaint was extended to it) have prevented DataCell from accepting payments by cards and thus infringed Articles 101 and 102 of the Treaty on the Functioning of the European Union ("the Treaty") or Articles 53 and 54 of the European Economic Area Agreement (the EEA Agreement). $^{2}$
+
+(5) On 25 July 2011, with DataCell's consent, the Commission sent to Visa and MasterCard the non-confidential version of the complaint. MasterCard submitted comments on the complaint on 25 August 2011, Visa on 2 September 2011.
+
+(6) By letter dated 25 October 2012, the Commission informed DataCell, pursuant to Article 7(1) of Regulation (EC) 773/2004 of its intention to reject the complaint. Visa's and MasterCard's comments on the complaint were annexed to the Commission's letter.
+
+(7) On 26 November 2012, DataCell objected to the Commission's intention to reject the complaint.
+
+(8) Following DataCell's submission and the judgment of the Icelandic Supreme Court (see below) the Commission carried out a further preliminary investigation into the matter by sending requests for information to Visa, $^{3}$ MasterCard, $^{4}$ Teller A/S $^{5}$ and Groupe Crédit Mutuel – CIC. $^{6}$ On 19 December 2013, the Commission sent DataCell a copy of the replies. DataCell commented on these on 15 January 2014.
+
+## 2. BACKGROUND TO THE COMPLAINT
+
+(9) The complainant, DataCell ehf ("DataCell"), is a limited liability company established in Iceland. DataCell is part of a group of four companies that provide computer software or services related to telephone and the internet. DataCell offers data and software hosting services, mostly to the other companies in the group.
+
+(10) WikiLeaks, according to its own website, is a not-for-profit media organisation that provides for "an innovative, secure and anonymous way for sources to leak information to [its] journalists" and then publishes both the news story and the original leaked material. WikiLeaks' activities have been attracting significant media attention since 2010, when WikiLeaks released a large number of documents from classified US military databases. WikiLeaks has attracted both support and criticism from a number of government and international organisations, as well as media and academic institutions.
+
+(11) On 1 October 2010, DataCell agreed with Sunshine Press Productions, a corporate entity controlled by WikiLeaks, that DataCell, in exchange for remuneration, would host WikiLeaks' website and enable donations to WikiLeaks to be made from WikiLeaks' website. Visitors to WikiLeaks' website would be under the impression that they could make a card payment directly to WikiLeaks, although in fact the payment would be made to DataCell, which would subsequently transfer the funds received to WikiLeaks.
+
+(12) On 18 October 2010, DataCell concluded a merchant agreement with the Danish acquirer Teller A/S (Teller), a member of both Visa and MasterCard schemes, to be able to accept payments by Visa, MasterCard and JCB cards. The agreement was concluded through Kortabjónustan hf (Korta), Teller's licensee in Iceland. Under the terms of the merchant agreement, DataCell could accept payments for the sale of its own goods or services (here, data hosting services). WikiLeaks' corporate entity, Sunshine Press Productions, is mentioned in the merchant agreement as "another name" for DataCell $^{7}$ . In practice, Datacell used its account with Teller in order to accept card payments (donations) on behalf of WikiLeaks.
+
+(13) On 7 December 2010, Teller, on instructions from Visa and MasterCard $^{8}$ , suspended payment services to DataCell. In their suspension requests to Teller, the card schemes referred to legal and reputational risks posed by WikiLeaks' activities, which needed to be investigated. MasterCard also referred to the fact that DataCell appeared to be accepting payments on behalf of a third party without being registered as a payment facilitator, contrary to MasterCard rules. The card schemes required Teller to perform a due diligence review of the merchant and its activities. During its investigation, Teller found that DataCell had signed up as a merchant rather than as an "aggregator" accepting payments on behalf of third parties. The card schemes' rules prohibit holders of merchant agreements from accepting payments on behalf of third parties and require parties that wish to provide such payment facilitation services to conclude a specific contract to this effect. $^{9}$
+
+(14) On 3 January 2011, DataCell concluded a second merchant agreement with Teller's licensee in Iceland, Korta, to be able to accept card payments for data hosting services only. On 18 January 2011, Teller was informed by Visa that DataCell could accept card payments for data hosting services provided by it, on condition that the suspension of payments to WikiLeaks remained in place. According to DataCell, this second merchant agreement was never confirmed by Teller and DataCell's payment gateway was not activated $^{10}$ . According to Teller, on 17 December 2010 it informed DataCell that if DataCell wished to retain the merchant agreement with Teller, DataCell had to inform Teller in detail what DataCell intended to use the agreement for. According to Teller, Teller never received a sufficient reply from DataCell. $^{11}$
+
+(15) On 15 June 2011, DataCell concluded a merchant agreement with the Icelandic acquirer Valitor, and started to accept payments on behalf of WikiLeaks on 7 July 2011. According to DataCell $^{12}$ Visa alerted Valitor and on 8 July 2011, Valitor terminated the agreement and referred to DataCell's infringement of the general rules preventing merchants from accepting payments on behalf of third parties and to the fact that the card schemes did not permit their payment cards to be used to make donations to WikiLeaks.
+
+(16) On 6 February 2012, DataCell commenced proceedings before an Icelandic court against Valitor for breach of contract. On 24 April 2013, the Supreme Court of Iceland found that Valitor had unlawfully terminated the merchant contract with DataCell and ordered Valitor to provide payment services to DataCell. Further to that judgment Valitor resumed the provision of payment services to DataCell on 1 July 2013. $^{13}$
+
+(17) Following the Icelandic Supreme Court judgment, Visa has maintained its position in principle, and continues to object to its payment cards being used for payments to WikiLeaks. However, it confirmed to DataCell on 8 May 2013 that it would not prevent Valitor from complying with the obligations imposed on it by the judgment. $^{14}$
+
+(18) MasterCard has stated that it was not approached by DataCell to reconsider its position about donations to WikiLeaks after 9 June 2011. When approached by Valitor regarding the re-instatement of services to DataCell, after the Supreme Court judgment of 24 April 2013, MasterCard confirmed that it no longer had any objections to the MasterCard scheme being used to make payments to WikiLeaks. $^{15}$
+
+(19) American Express informed DataCell by letter of 28 October 2011 that it did not influence Valitor's decision to terminate its merchant agreement with DataCell.
+
+## 3. DATACELL'S ALLEGATIONS OF COMPETITION LAW INFRINGEMENTS
+
+(20) DataCell's allegations, as set out in its complaint and subsequent submissions, including its reply to the Commission's letter informing DataCell of its intention to reject the complaint, are summarised below.
+
+## 3.1. Services concerned
+
+(21) DataCell claimed in its complaint that the alleged refusal to supply prevented DataCell from carrying out data hosting services. It maintained that claim in its reply to the Commission's Article 7(1) letter. According to DataCell, access to acquiring services is indispensable to any company offering data centre and hosting services or offering card payment facilitation services for third parties. $^{16}$ In this respect DataCell also argues that there is a submarket for data hosting services run on green and renewable energy sources. $^{17}$
+
+(22) Moreover, DataCell claims that the agreement with WikiLeaks was going to help DataCell to launch card payment facilitation services to non-profit organisations and the like that cannot or do not want to enter into a merchant agreement with an acquirer. $^{18}$ According to DataCell, this market can be subdivided according to the characteristics of certain organisations, their needs and requirements. $^{19}$
+
+(23) DataCell argues that it facilitated payments for WikiLeaks "in a technical and financial transaction sense" and was competing with the card schemes, which process payments. DataCell was operating a website that allowed for donations (a gateway) and allowed DataCell to handle financial transactions (card payment facilitator). According to DataCell, the reality of financial services today is that there is no distinction between payment gateway services and card payment facilitation services. From WikiLeaks' perspective there was no difference between having a merchant agreement directly with an acquirer or with DataCell, since through DataCell it received all necessary services to receive donations by card payments.
+
+## 3.2. Article 101 of the Treaty or Article 53 of the EEA Agreement
+
+(24) According to DataCell, Teller did not suspend services on its own initiative, but following requests from Visa and MasterCard. DataCell argues that there was an agreement or concerted practice between MasterCard and Visa to suspend payment services to DataCell on 7 December 2010. On the same date, Teller suspended its payment services to DataCell. The suspension affected payments with Visa, MasterCard, Diners and JCB cards.
+
+(25) Visa's and MasterCard's letters to Teller are both written on 7 December 2010, whereas the merchant agreement between DataCell and Teller was concluded on 18 October 2010 and activated a few days later. In its reply to the Commission's Article 7(1) letter, DataCell claims that it is overwhelmingly unlikely that the payment card schemes would write the same day without prior concertation. Moreover, DataCell argues that Visa refers in its letter to Teller to MasterCard's decision to disassociate its brand from WikiLeaks. However, MasterCard had not publicly announced such a decision. According to DataCell, this shows that Visa is referring to private correspondence between Visa and MasterCard. According to DataCell, the card schemes' denial of the existence of such correspondence is not plausible. $^{20}$ DataCell thus argues that this is proof of a prior agreement or concerted practice between Visa and MasterCard. DataCell claims that a further indication of such collusion between the schemes is provided by Valitor's suspension of its payment services to DataCell on 8 July 2011: the suspension affected payments with Visa, MasterCard and Amex cards. The suspension was triggered by Visa's contacts with Valitor. $^{21}$
+
+(26) DataCell also claims that, even in the absence of coordination between Visa and MasterCard, each card scheme's decision to suspend services to it is a decision of an association of undertakings according to Article 101 of the Treaty (and Article 53 of the EEA Agreement).
+
+(27) According to DataCell, the card schemes' suspension of card payment services to WikiLeaks has foreclosed DataCell from the market for card payment facilitation services in violation of Article 101 of the Treaty. DataCell argues that Article 101 TFEU is not a "rule of reason" and that any elimination of a player from a market is liable to affect the structure of the market and is hence liable to thwart the attainment of objective of effective competition. $^{22}$
+
+(28) Furthermore, according to DataCell Teller's General Rules on Acceptance of Payments with International Cards $^{23}$ , pursuant to which Teller "can terminate the Merchant Agreement forthwith and without notice, if ... one of the International Card companies demands that [Teller] do so" amount to an agreement between the card schemes that restricts competition by object. $^{24}$ If one of the card schemes orders an acquirer (Teller in this case) to terminate a merchant agreement, then such a termination shall apply to all the card brands. $^{25}$ According to DataCell the Commis
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+accept payments on behalf of third parties over the Internet enters into an agreement with an acquirer as "Internet Payment Service Provider" (Visa) or "payment facilitator" (MasterCard) appears proportionate to the risks identified by the card schemes.
+
+## 6.5. Likelihood of establishing the involvement of American Express
+
+(112) DataCell has extended its complaint against Visa and MasterCard to Amex because "[b]y its failure to react on the actions of Visa and MasterCard against DataCell, Amex de facto participated in an infringement of the competition rules of the EU".
+
+(113) However, it seems unlikely that a further investigation would lead to the establishment of an infringement of the competition rules on behalf of Amex.
+
+(114) First, the merchant agreement with Teller did not enable DataCell to accept payment with Amex and DataCell's ability to accept payment with Amex cards was therefore not affected by the suspension of payment services by Teller.
+
+(115) Second, under the merchant agreement with Valitor, DataCell could accept card payments by Amex cards. However, Valitor terminated the merchant agreement on the initiative of Visa, without notifying Amex. $^{86}$ Under EU competition law, an undertaking cannot be held responsible for the conduct of other undertakings without being itself involved in the conduct concerned. In this case Amex was merely informed about the alleged anticompetitive behaviour after it had taken place. Press reports on these actions also post-date Visa's and MasterCard's actions. Considering this, and the fact that Amex has said that it did not influence Valitor's decision to cease payment services, the lack of reaction on behalf of Amex alone cannot be construed as evidence of Amex's involvement in any alleged agreement by Visa and MasterCard to suspend or cancel DataCell's merchant agreement.
+
+(116) Lastly, as to the alleged infringement arising from Teller's general rules according to which Teller can suspend payment services for all payment cards in case one card company asks it to do so, DataCell has stated that these rules do not apply to cards issued by Amex. $^{87}$
+
+## 6.6. The impact on the functioning of the internal market
+
+(117) As explained in Section 2.2.2.1 of the Article 7(1) letter sent to DataCell on 25 October 2012, it appears unlikely that DataCell was foreclosed from the market for card payment facilitation services. The card schemes' rules forbid a card payment facilitator to accept payments for third parties under a merchant agreement. To offer such services a party has to enter into a card payment facilitator agreement with an acquirer.
+
+(118) DataCell acknowledges that it has not sought to conclude a card payment facilitation agreement. $^{88}$ According to DataCell collection of donations is part of DataCell's business $^{89}$ and the card schemes' operating rules do not oblige DataCell to apply as a card payment facilitator to be able to collect donations for third parties. $^{90}$
+
+(119) DataCell thus seems to have chosen to contest the card schemes' rules by not observing them. However, if DataCell had entered into a card payment facilitator agreement it would have been allowed to offer card payment facilitation services on this market, at least to organisations other than WikiLeaks. To enter into such an agreement would not have prevented it from contesting the lawfulness of the schemes' refusal to allow card payment facilitation services to WikiLeaks.
+
+(120) As explained in Section 6.1.5, WikiLeaks is not a market on its own. The market concerned by the complaint is the market for card payment facilitation services. Although WikiLeaks may have been an important client to DataCell, the alleged infringement primarily concerns one client.
+
+(121) Moreover, the conduct complained about has effectively ceased. In 2013, the Icelandic Supreme Court ordered Valitor to resume payment services to DataCell. DataCell has since been accepting donations on behalf of WikiLeaks under the merchant agreement in place with Valitor. While Visa maintains its objections in principle, it does not prevent Valitor from complying with its legal obligations to provide payment services to DataCell, and MasterCard no longer objects to its cards being used for payments to WikiLeaks. It does not appear therefore that DataCell faces any subsisting obstacle to providing payment services to WikiLeaks.
+
+(122) In view of all the above considerations, the impact on the functioning of the internal market appears limited.
+
+## 6.7. The scope of the investigation required
+
+(123) In its reply to the Commission's Article 7 (1) letter DataCell further developed a number of factual issues. In order to clarify these further issues the Commission has undertaken a preliminary investigation into the allegations by sending requests for information to the parties concerned and third parties. After this preliminary investigation the Commission has come to the conclusion that the likelihood of finding an infringement appears very limited. A further in-depth investigation would require considerable resources and would be disproportionate in view of the limited likelihood of establishing the existence of an infringement and the limited potential impact of the alleged infringement on the functioning of the internal market.
+
+(124) An in-depth investigation into all the allegations of infringements of Article 101 of the Treaty or Article 53 of the EEA Agreement would, among other things, require the Commission to make an extensive investigation into acquirers' practices with respect to the application of the card schemes' rules, taking into account that practices vary between the different brands and between the different Member States. An in-depth investigation into the allegations of infringements of Article 102 of the Treaty or Article 54 of the EEA Agreement would, among other things, require the Commission to make an extensive investigation into the legal and economic conditions of the market in order to address DataCell's extensive arguments about the relevant product and geographic market.
+
+## 6.8. Public interest in an investigation
+
+(125) In response to the Commission's Article 7(1) letter, DataCell raised that the Commission should consider that the European Parliament, in the context of the Commission's "Green Paper – Towards an integrated European Market for card, Internet and mobile payments", has considered it to be in the public interest to define objective rules describing the circumstances and procedures under which card payment schemes may unilaterally refuse acceptance. $^{91}$
+
+(126) However, in view of the above considerations it is unlikely that a further investigation would would establish an infringement of the competition rules. In any event, such a further investigation into the specific facts of the present matter does not appear suitable to address possible public interest concerns regarding card schemes' rules with respect to unilateral refusals to provide payment services. Even if an investigation did lead to the finding of an infringement of the EU competition rules, which, as explained above is unlikely, the Commission could only require the undertakings concerned to bring such an infringement to an end, by the imposition of proportionate behavioural or structural remedies. This does not mean that the Commission could require the card schemes to adopt or define detailed and specific rules that would be applicable generally to unilateral refusals to provide payment services, thus substituting for any legislative action that might be taken pursuant to the Green Paper.
+
+## 7. CONCLUSION
+
+(127) In view of the above considerations, the Commission, in its discretion to set priorities, has come to the conclusion that there are insufficient grounds for conducting a further investigation into the alleged infringements and consequently rejects the complaint pursuant to Article 7(2) of Regulation (EC) 773/2004.
+
+## 8. PROCEDURE
+
+## 8.1. Involvement of the EFTA Surveillance Authority
+
+(128) DataCell claims that the EFTA Surveillance Authority ("ESA") should be heard before the Commission rejects the complaint. It is correct that Protocol 23 concerning the Cooperation between the Surveillance Authorities (Article 58) stipulates that the competent surveillance authority (in this case the Commission) shall consult the other surveillance authority (in this case ESA) before taking certain decisions (see Article 3). However, Protocol 23 does not impose such an obligation on the Commission in relation to the rejection of a complaint pursuant to Article 7(2) of Commission Regulation (EC) 773/2004.
+
+## 8.2. Possibility to challenge this Decision
+
+(129) An action challenging this Decision may be brought before the General Court of the European Union in accordance with Article 263 of the Treaty.
+
+## 8.3. Confidentiality
+
+(130) The Commission reserves the right to send a copy of this Decision to Visa and MasterCard. Moreover, the Commission may decide to make this Decision, or a summary thereof, public on its website. $^{92}$ If you consider that certain parts of this Decision contain confidential information, I would be grateful if within two weeks from the date of receipt you would inform DG Competition, Unit D1 (e-mail: COMP-D1-MAIL@ec.europa.eu). Please identify clearly the information in question and indicate why you consider it should be treated as confidential. Absent any response within the deadline, the Commission will assume that you do not consider that the Decision contains confidential information and that it can be published on the Commission's website or sent to Visa or MasterCard.
+
+(131) The published version of the Decision may conceal your identity upon your request and only if this is necessary for the protection of your legitimate interests.
+
+For the Commission
+
+![](images/f14639bffca465daa993af0150f32ab453a19167b982f8e46bb5bc543563e831.jpg)
+
+Joaquín Almunia
+
+Vice-President

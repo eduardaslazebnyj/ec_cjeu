@@ -1,0 +1,458 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+Brussels, 09/12/2002.
+SG (2002) D/233068
+
+BY COURIER SERVICE
+
+TQ3 Travel Solutions GmbH
+Gustav-Deentjen-Allee 2-6
+D – 28215 Bremen
+Germany
+For the attn. of Dr. Andreas Karsten
+Chief Financial Officer
+
+Subject: Case COMP/A.38321/D2 – TQ3 Travel Solutions GmbH / Opodo Limited
+Commission decision rejecting a complaint
+
+Dear Sir,
+
+1. I refer to your application of 20 December 2001 pursuant to Article 3(2) of Council
+Regulation No. 17, regarding alleged infringements of Articles 81 and 82 of the Treaty by
+Opodo Limited, a joint venture by nine European airlines in the field of travel agency
+services, and its shareholders.
+
+2. By this decision, I inform you that, for the reasons set out below, there are insufficient
+grounds for granting your application.
+
+A. PROCEDURE
+
+3. TQ3 Travel Solutions GmbH (hereafter referred to as “TQ3”) is a German travel agent. It
+is a subsidiary of the TUI group. TUI and its subsidiaries control around 25 % of the
+German travel agency market. TQ3 is also active on the Austrian, Danish, Swedish,
+Norwegian, Finnish, Belgian, Dutch, Spanish and Greek markets.
+
+4. Opodo Limited (hereafter referred to as “Opodo”), previously named OTP, is an online
+travel portal created as a joint venture by nine of the largest European airlines, i.e. Air
+France, British Airways, Lufthansa, Aer Lingus, Alitalia, Austrian Airlines, Finnair, Iberia
+
+Rue de la Loi 200, B-1049 Bruxelles/Wetstraat 200, B-1049 Brussel - Belgium - Office: J-70 2/236.
+Telephone: direct line (+32-2)296.24.97, exchange 299.11.11. Fax: 296.98.12.
+Telex: COMEU B 21877. Telegraphic address: COMEUR Brussels.
+E:\web\www\site_sources\comm\competition\antitrust\cases\decisions\38321\en.doc
+
+and KLM. Opodo offers internet travel agency services including airline ticket sales, hotel
+bookings, car hire and insurance. Opodo has already launched its website in Germany, the
+UK and in France. It intends to offer its services on a pan-European basis.
+
+5. On 3 November 2000, the joint venture agreement setting up Opodo was notified to the
+Commission under Council Regulation 17/62. The Commission published a notice
+requesting comments on Opodo on 2 February 2001.1
+
+6. In order to remedy the possible concerns raised by Opodo under Article 81 and 82 of the
+Treaty, the notifying parties proposed a set of undertakings to the Commission. On 20
+November 2001, the Commission published a 19(3) Notice setting out the proposed
+undertakings and noting its intention to clear the agreement on this basis, subject to any
+comments from third parties.2 It is in the context of this ongoing procedure that TQ3’s
+complaint against Opodo was lodged.
+
+7. The Commission received a number of comments in response to the 19(3) Notice. In the
+light of these comments, the parties agreed to revise the undertakings. 3 Interested third
+parties having provided comments in response to 19(3) Notice were consulted on this
+revised set. Third parties have therefore had several occasions to express their views on
+the notified agreements and on the proposed undertakings, and the great majority of their
+comments were taken into account by the Commission.
+
+8. On 14 June 2002, the Commission sent to TQ3 a letter pursuant to Article 6 of Regulation
+2842/984 (hereafter referred to as “the Article 6 letter”), in which the Commission took
+the preliminary view that, in the light of the undertakings proposed by the parties, there
+were insufficient grounds for granting TQ3’s application. The Commission’s preliminary
+view was that the arguments put forward in the complaint were the same as those raised by
+other travel agents in response to the notification and would therefore be dealt adequately
+with in the final package of undertakings proposed by the parties.
+
+9. On 19 July, TQ3 provided the Commission with comments on the Article 6 letter and
+asked for a meeting in order to orally express its views. A meeting took place on 1
+August, where TQ3 presented to the Commission some examples of alleged
+discriminations by the airlines in favour of Opodo. These examples came in addition to
+those already provided in the complaint. TQ3 agreed to confirm and substantiate them in
+writing, notably to allow the Commission to send them to Opodo for comment. The
+Commission received this further submission on 25 September. In the letter, TQ3 also
+confirms that it is not asking for a formal hearing within the meaning of Article 5 of
+Regulation 2842/98.
+
+1 OJ C 35, 2.2.2001, p.6.
+
+2 OJ C 323, 20.11.2001, p. 6-8.
+
+3 The final package of undertakings is attached to this letter.
+
+4 OJ L 354, 30.12.1998, p. 18-21.
+
+- 2 -
+
+B. THE COMPLAINT
+
+10. In the complaint, TQ3 alleges that Opodo is in breach of both Articles 81 and 82 of the
+Treaty and should be prohibited, for the main following reasons:
+
+• Opodo's owners are dominant on the market for air transport (60-70% of the total EEA
+market);
+• competition in the travel agency services market is already dampened by the IATA
+passenger agency programme;
+• Opodo's owners are already active on the travel agency market through their own
+direct sales and through equity interests in travel agencies;
+• Opodo will increase transparency on the air transport market and enable the airline
+owners to co-ordinate prices;
+• Opodo’s shareholders will leverage their dominant position on the air transport market
+to gain a dominant position on the travel agency market. In particular, they will ensure
+Opodo always has lower fares available than other travel agents and therefore rapidly
+gains market share.
+
+11. In its reply to the Commission’s Article 6 letter, TQ3 confirms that it does not share the
+Commission’s preliminary conclusions and that it maintains its request to prohibit the
+establishment and operation of Opodo, as long as it is owned by airline shareholders.
+
+C. LEGAL ASSESSMENT
+
+1. Market definition
+
+Relevant markets
+
+12. The product market on which Opodo will operate is the market for travel agency services
+which comprises the marketing and distribution of airline seats and other travel and travelrelated services. Opodo offers internet travel agency services including airline ticket sales,
+hotel bookings, car hire and travel insurance. In several recent merger cases the
+Commission has considered whether the market for on-line travel agency services should
+be considered as separate from the travel agency market as a whole.5 This issue has not
+been investigated in this case, however, since the possible competition concerns are the
+same whether Opodo is considered to be operating only on a narrowly-defined on-line
+travel agency services market or on a broader travel agency services market.
+
+13. In the above-mentioned cases, the Commission considered that the geographical market
+for virtual travel agencies was national in scope. This definition was based on language
+barriers and the need to set up national distribution arrangements for tickets. The
+Commission believes that this geographical market definition remains valid, although an
+EU-wide travel agency market may develop with the adoption of the Euro and the growth
+of on-line agents.
+
+14. A related market is the market for air transport. The Commission generally defines
+passenger transport markets in terms of city pairs, with service between any pair of cities
+
+5 Case COMP/M 1812 Telefónica Terra/Amadeus, decision of 27 April 2000.
+
+Case COMP/M 2149 T-Online/TUI/C&N international (withdrawn 13/6/2001). Press release IP/01/670.
+
+- 3 -
+
+being a separate market. The position airlines have on the air transport market also
+influences their position as purchasers of travel agency services in their home markets.
+
+Position of Opodo’s owners on the relevant markets
+
+15. None of the airlines currently has a significant share of the travel agency services market
+in any Member State although some of them have equity stakes in traditional "bricks and
+mortar" travel agents.
+
+16. Opodo’s nine parent companies are all EU carriers with strong positions in their home
+market, and consequently on certain air transport markets. They may also be dominant
+purchasers of travel agency services in their home markets, as BA was found to be in the
+UK in the Virgin/BA travel agents case.6
+
+Arguments raised by the complainant
+
+17. The main argument raised by TQ3 with regard to market definition is that the two relevant
+markets identified (i.e. the market for air transport and the market for travel agency
+services) by the Commission cannot be separated for the purposes of a comprehensive
+competition assessment. TQ3 argues notably that the shareholders of Opodo offer online
+booking services and are, as a consequence, already present in the market for travel agency
+services.
+
+18. The Commission cannot agree with TQ3’s view. Airlines have the choice to sell their
+tickets directly (either offline or online) or to use indirect distribution channels such as
+travel agents. In past decisions, the Commission has taken the view that the sale of air
+transportation to passengers through intermediaries (or “air travel agency services”)
+constitutes a relevant product market.7 In the Virgin-BA decision, the Commission has
+also underscored that “the essence of the service provided by a travel agent and its ability
+to attract member of the public is that it can arrange travel by all means and via all
+carriers”.8 By definition, an airline which sells its own tickets directly does not provide
+the range of services of a travel agent.
+
+19. The complainant further illustrates its claim that the shareholders of Opodo are present on
+the market for travel agency services through their direct online sales by referring to BA’s
+package holiday website (http://www.baholidays.viator.com/), on which the airline offers
+package holidays (including flights, hotels, car hire and insurance). The Commission
+considers that this example is irrelevant to support the complainant’s argument. On this
+website, BA sells its own air transport services as part of package holidays. It does not sell
+any other airlines’ products and does consequently not provide the range of services of a
+
+6 Commission decision 2000/74/EC of 14 July 1999, Virgin/British Airways, OJ L 030 of 04.02.2000, p.
+0001-0024.
+
+7 See for example, Commission Decision 91/480/EEC of 30 July 2001, IATA Passenger Agency Programme,
+OJ L 258, 16.9.1991. p.18.
+
+8 Commission decision 2000/74/EC of 14 July 1999, Virgin/British Airways, OJ L 030 of 04.02.2000, p.
+0001-0024, para. 32.
+
+- 4 -
+
+travel agency. Moreover, in several previous decisions, the Commission has considered
+that (foreign) package holidays constitute a separate product market.
+
+20. TQ3 generally argues that the Commission should have analysed more carefully the
+impacts of the establishment of Opodo on the markets concerned, in a context of ongoing
+concentration in the airline industry. It particularly refers to the proposed alliance between
+two shareholders of Opodo, Air France and Alitalia, and stresses that competition between
+the two companies will further be eliminated through their co-operation in Opodo. TQ3
+explains that the both companies offer flights between Paris and Rome through Opodo at
+exactly the same price (557,91 euros).
+
+21. The Commission considers that this example is not relevant to its assessment of the joint
+venture. In its comments on the complainant’s reply to the Article 6 letter, Opodo stresses
+that the fares referred to are published fares, plus taxes.9 These fares are available to all
+travel agents, and not just to Opodo, on CRSs10 and the fact that they are the same for each
+airline arises from their alliance and not from their participation in Opodo. This alliance,
+which notably includes price co-ordination for flights between France and Italy, is
+currently being investigated by the Commission.11
+
+2. Assessment of the complaint under Article 81
+
+22. TQ3’s central argument is that Opodo is a joint selling joint venture, the mere creation of
+which will lead to price co-ordination between the shareholders. In the Article 6 letter, the
+Commission states that it does not share the complainant’s view that Opodo constitutes a
+joint selling joint venture. The Commission refers to the Notice on horizontal restraints12,
+according to which joint selling leads to a joint determination of all commercial aspects
+related to the sale of the product including price. It explains that, according to the facts as
+set out by Opodo, Opodo operates as an independent travel agency and on an arms-length
+basis from its shareholders. Notably, marketing agreements and any other agreements
+between Opodo and the participating airlines (shareholders and non-shareholders) are
+negotiated individually and confidentially between Opodo and each of the airlines.
+
+23. The complainant does not agree with the Commission’s preliminary position as stated in
+the Article 6 letter, for the two main following reasons. First, the fact that Opodo will
+operate as an independent travel agency and on arms-length basis from its shareholders”
+does not exclude the anti-competitive effects of joint selling agreements. The complainant
+refers to case law where the Commission found that the mere joint appointment of a
+distributor might infringe Article 81.13 Second, the establishment of a joint distribution
+
+9 “Published fares” are fares which are sold by the airlines directly to the public and through IATA accredited
+travel agents. By contrast, “net fares” are fares which are not sold directly to the public but only made
+available to intermediaries for onward sale.
+
+10 CRS stands for Computer Reservation System. It is a distribution platform - a high speed network - through
+which airlines sell tickets to travellers, via traditional or online agents.
+
+11 See Commission Notice pursuant to Article 5 of Regulation (EEC) No 3975/87 of 14 December 1987
+concerning case COMP/38.284/D2 (Air France/Alitalia), OJ C 111 of 8 May 2002. See also the press release
+issued by the Commission on 1 July 2002 (IP/02/966).
+12 Guidelines on the applicability of Article 81 to horizontal co-operation agreements, OJ C3/2 06.01.2001,
+para. 139.
+
+13 SCPA – Kali und Salz, OJ 1973, L 217/3.
+
+- 5 -
+
+channel will automatically lead to the shareholders refraining from individual selling
+efforts. 14
+
+24. The Commission considers that the case law relating to joint selling agreements on which
+the complainant has relied is not relevant to the factual basis upon which Opodo has been
+established and operates.
+
+25. The agreement at issue in the SCPA - Kali und Salz decision for example established close
+co-operation between SCPA and Kali und Salz, both at the commercial and at the
+industrial level. It involved, in particular, joint decisions on the quantities and qualities of
+salt to be exported by each company and co-ordination of deliveries and distribution of the
+products of both companies within the common market. There are no such kind of joint
+decisions between Opodo’s shareholders. As already mentioned, market
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+les but one concern other airlines’
+fares. For example, the fare comparisons presented at the August meeting and in the
+complainant’s last submission concern BA and Iberia. When asked, TQ3 explained
+that they had not been able to find a “pattern” of discriminations as far as Lufthansa
+was concerned. In addition, all of the flights in question are on long-haul routes from
+Germany to destinations such as the United States, South Africa and South America,
+of which the shareholder airlines in question do not have a significant share.
+
+Conclusion under Article 82
+
+41. In the light of the foregoing, the Commission takes the view that the examples given by
+TQ3 do not constitute sufficient evidence of discrimination by the shareholder airlines in
+favour of Opodo. In addition, the Commission is satisfied that the final package of
+undertakings offered by the parties will ensure that shareholders do not discriminate in
+favour of Opodo.
+
+- 9 -
+
+D. CONCLUSION
+
+42. As there are, for the reasons set out above, insufficient grounds for granting your
+application, the Commission rejects your application.
+
+43. An action challenging this Decision may be brought before the Court of First Instance of
+the European Communities in accordance with Article 230 of the Treaty. Such actions
+shall not, pursuant to Article 242 of the EC Treaty, have suspensory effect unless the
+Court otherwise order.
+
+Yours faithfully,
+
+For the Commission
+
+Mario Monti
+Member of the Commission
+
+Enclosure: - final package of undertakings submitted by Opodo and its shareholders
+
+- 10 -
+
+CASE COMP/A.38.006/D2 – ONLINE TRAVEL PORTAL (OPODO)
+
+UNDERTAKINGS
+
+1 Commitments offered by the shareholders
+
+Each shareholder of Opodo undertakes that it shall not contract with Opodo or treat Opodo differently
+or more favourably than any other travel agent unless such treatment is objectively justified by
+reference to the commercial basis on which that shareholder airline normally deals with travel agents,
+for example, in relation to:
+
+▪ determining the remuneration to be paid to travel agents;
+
+agreeing to file fares on behalf of travel agents;
+
+▪ providing information to travel agents (e.g. market and customer data);
+
+▪ providing marketing refunds to travel agents; or
+
+providing travel agents with exclusive or preferential access to fares.
+
+In particular, each shareholder of Opodo undertakes that it shall:
+
+Exclusive rights
+
+not contract with Opodo in respect of particular categories of products, services or geographic
+markets to afford it terms, including but not limited to terms in relation to fares, booking
+conditions, access to inventory and product-related services, on an exclusive basis (exclusive
+rights), unless such exclusive rights are objectively justified by reference to the commercial basis
+on which that shareholder normally deals with travel agents. This basis may reflect, for example,
+financial or technical benefits or market penetration afforded to such shareholder by Opodo, but
+excluding any benefits arising from equity ownership of Opodo.
+
+not refuse a request from any travel agent to contract on the same basis as had been agreed by that
+shareholder with Opodo with respect to exclusive rights if that travel agent agrees to provide to
+the shareholder comparable or more advantageous benefits than those regarded by that
+shareholder as objective justification for affording Opodo the exclusive rights.
+
+MFN Status
+
+not contract with Opodo in respect of particular categories of products, services or geographic
+markets to afford it terms, including but not limited to terms in relation to fares, booking
+conditions, access to inventory and product-related services, on at least as favourable a basis as it
+offers to any other travel agent in respect of such categories of products, services or geographic
+markets (MFN Status), unless MFN Status is objectively justified by reference to the commercial
+basis on which that shareholder normally deals with travel agents. This basis may reflect, for
+example, financial or technical benefits or market penetration afforded to such shareholder by
+Opodo, but excluding any benefits arising from equity ownership of Opodo.
+
+not be prevented from offering fares, booking conditions, access to inventory and product-related
+services to any other travel agent on a more favourable basis than it offers to Opodo by reason of
+any MFN Status granted to Opodo in circumstances where another travel agent agrees to provide
+the shareholder with benefits that are more advantageous than those offered by Opodo.
+
+- 11 -
+
+not refuse a request from any travel agent to contract on the same basis as had been agreed by that
+shareholder with Opodo with respect to MFN Status if that travel agent agrees to provide to the
+shareholder comparable or more advantageous benefits than those regarded by that shareholder as
+objective justification for affording Opodo the MFN Status.
+
+Maintenance of a memorandum
+
+maintain a memorandum recording the benefits upon which it has assessed the commercial
+justification for affording Opodo exclusive rights or MFN Status in respect of particular
+categories of products, services, or geographic markets. Where a shareholder which grants Opodo
+exclusive rights or MFN Status refuses a request from any travel agent to contract on the same
+basis with respect to the exclusive rights or MFN Status, the shareholder shall also record in the
+memorandum the reasons for the difference in treatment between Opodo and such travel agent.
+Each shareholder of Opodo shall produce its memorandum and copies of all relevant agreements
+to the Commission six months following the date of the comfort letter issued by the Commission
+to the notifying parties, and thereafter on an annual basis or upon request by the Commission.
+Each shareholder shall ensure that it shall not disclose the contents of its memorandum to Opodo
+or the other shareholders of Opodo.
+
+No exchange of confidential information
+
+not to disclose to Opodo the contents or terms of its agreements with other travel agents, or any
+other commercially sensitive information belonging to travel agents or other third parties.
+
+2 Commitments offered by Opodo
+
+Opodo undertakes:
+
+that it is not necessary to be a shareholder of Opodo in order to sell inventory as an airline
+through Opodo, and that Opodo will not discriminate against non-shareholder airlines but will
+offer fair and open access, under objective and equal conditions, to all airlines whether or not they
+are shareholders.
+
+that shareholders are not obliged to confer MFN Status or exclusive rights on Opodo and that
+agreements conferring MFN Status or exclusive rights on Opodo will not be a requirement for
+shareholders or non-shareholder airlines wishing to sell their inventory through Opodo.
+
+that it will maintain in place various safeguards against the exchange of commercially sensitive
+information between shareholders including that:
+
+− Opodo will be managed separately from the shareholders and none of the management or staff
+will have any contractual obligation to any of the shareholders;
+
+− all agreements with both shareholder and non-shareholder airlines will be negotiated on a
+confidential basis by Opodo's staff and no information relating to the contents of individual
+airline agreements will be disclosed to Opodo's directors or shareholders;
+
+− Opodo's staff and management will be located in premises which are separate from those of
+its shareholders;
+
+− the shareholders will not have access to the information technology systems of Opodo nor to
+commercially sensitive information belonging to Opodo or to other shareholders;
+
+− Opodo will ensure that its management and personnel are fully informed of the importance of
+maintaining the confidentiality of sensitive commercial information relating to its
+shareholders.
+
+- 12 -
+
+that it will ensure that commercially sensitive information relating to shareholders (other than the
+shareholder which appointed the relevant director) of Opodo or non-shareholder airlines is not
+disclosed to the directors of Opodo. In this context, "commercially sensitive information" shall
+mean confidential or proprietary information held or acquired by Opodo in relation to the
+customers, business, finances, assets or affairs of its shareholders or non-shareholder airlines
+including the bilateral contractual arrangements between a shareholder or non-shareholder airline
+and Opodo relating to the supply of information, customer data, goods or services by that
+shareholder or non-shareholder airline to Opodo.
+
+that aside from Opodo's obligation to comply with the currently applicable CRS Code of
+Conduct17 (the Code) as a subscriber and to the extent that Opodo is not to be considered as a
+CRS for the purpose of the Code, in addition, it will apply those parts of the Code relating to nondiscrimination, transparency and neutral display of information, save and to the extent that those
+provisions of the Code that are not relevant to Opodo as a travel agent, and subject to any change
+in the scope of the Code that may come into effect in the future.18
+
+That, upon becoming an accredited IATA member, it will apply, in so far as they are applicable to
+online travel agents, the provisions of the standard IATA Passenger Sales Agreement and will not
+agree any different or more favourable treatment from its shareholders than any other travel
+agency nor will it utilise principles different to those employed by websites of offline agents.
+
+That it will not agree with Amadeus (or any other CRS in which a shareholder may have an equity
+interest) that it will provide its CRS services to Opodo other than at market rates and on market
+terms and conditions and on a non-exclusive basis.
+
+17 Council Regulation (EEC) No. 2299 of 24 July 1989 on a Code of Conduct for Computerised Reservation
+Systems.
+
+18 Opodo and its shareholders have provided the Commission with a list of the provisions of the Code they
+undertake to respect by analogy.
+
+- 13 -

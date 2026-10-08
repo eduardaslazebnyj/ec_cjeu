@@ -1,0 +1,499 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52017XX0614(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52017XX0614(02)
+Help
+Print
+Final Report of the Hearing Officer — Airfreight (re-adoption) (AT.39258)
+Final Report of the Hearing Officer — Airfreight (re-adoption) (AT.39258)
+Final Report of the Hearing Officer — Airfreight (re-adoption) (AT.39258)
+OJ C 188, 14.6.2017, pp. 10–13
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+14.6.2017
+EN
+Official Journal of the European Union
+C 188/10
+Final Report of the Hearing Officer
+(
+1
+)
+Airfreight (re-adoption)
+(AT.39258)
+(2017/C 188/10)
+INTRODUCTION
+1.
+On 9 November 2010, in Case COMP/39258
+Airfreight
+, the Commission adopted Decision C(2010) 7694 final relating to proceedings pursuant to Article 101 of the TFEU, Article 53 of the EEA Agreement and Article 8 of the Agreement between the European Community and the Swiss Confederation on Air Transport (the ‘2010 Decision’)
+(
+2
+)
+. All but one of the addressees of that cartel fining decision brought actions for its annulment (in full or in part).
+2.
+In 13 judgments dated 16 December 2015 (the ‘2015 Judgments’)
+(
+3
+)
+the General Court held that the 2010 Decision was vitiated by a defective statement of reasons
+(
+4
+)
+. Depending on the forms of order sought before the General Court, that vice entailed the annulment in full or in part of the 2010 Decision in respect of the various parties that had challenged that decision
+(
+5
+)
+.
+3.
+The 2015 Judgments identified a breach of the requirement of an adequate statement of reasons in accordance with Article 296(2) TFEU. They did not rule on any substantive pleas. The draft decision to which the present report relates is designed to replace the 2010 Decision to the extent that it has been annulled. It aims to correct the deficiencies identified in the 2015 Judgments and to account for developments in the structure of certain undertakings since 2010.
+The May 2016 Letters
+4.
+On 20 May 2016, the Commission Directorate-General for Competition (‘DG Competition’) wrote to the applicants in the 13 challenges that led to the 2015 Judgments. The letters concerned (the ‘May 2016 Letters’) informed these parties of DG Competition’s intention to propose that the Commission adopt a fresh decision in Case AT.39258. This decision would be addressed to the legal entities covered by the 13 applications before the General Court in so far as the 2010 Decision was annulled vis-à-vis each applicant. It would find that each of the applicants before the General Court participated in a ‘single and continuous infringement’ in relation to all the transport routes referred to in the 2010 Decision. The proposed fresh decision would, according to those letters, ‘require some adaptation of the recitals and the operative part of the 2010 Decision’, but would not lead to new objections nor alter the substance of the objections set out in the statement of objections of 18 December 2007 (the ‘SO’). The letters conveyed DG Competition’s view that such a fresh decision would be permitted by relevant case law, since the annulment of the 2010 Decision was ‘on procedural grounds’
+(
+6
+)
+. They invited comments on DG Competition’s planned course of action.
+Responses of the parties concerned
+5.
+All addressees of the May 2016 Letters responded to them, with some providing the Hearing Officer with a copy of their responses addressed to DG Competition.
+6.
+Certain of these addressees criticised the May 2016 Letter that they received as being too imprecise. Without specific details of the ‘adaptation’ foreseen in those letters, they claimed to various degrees that their ability to make in-depth comments on the infringement that DG Competition was minded to identify in the proposed fresh decision was limited.
+7.
+Several addressees argued in essence that, contrary to the situations giving rise to the judgments cited in footnote 6 of the present report (the ‘
+PVC II
+line of case law’), the defects identified in the 2015 Judgments are not limited to pure formalities in the final stage of the adoption of a decision that are relatively straightforward to rectify.
+8.
+Some of the same addressees submitted, albeit not always pointing to a specific legal basis, that the Commission is thus legally precluded from taking a fresh decision in Case AT.39258. Others inferred rather that the Commission cannot proceed to adopt a fresh decision without firstly drawing up a new statement of objections and giving the parties concerned the opportunity to be heard anew, including by means of an oral hearing. Some of the latter addressees argued that there had been developments in relevant case law that call into question whether the requirements for a finding of their involvement in a single and continuous infringement are met.
+9.
+Certain addressees submitted also that any fresh decision was precluded from increasing their liability compared with the extent of the liability indicated in the 2010 Decision.
+Observations of the Hearing Officer on the responses to the May 2016 Letters
+10.
+None of the addressees of the May 2016 Letters addressed a request to me following the May 2016 Letters. It is nonetheless worth noting the following in relation to the submissions summarised above.
+11.
+The right to be heard concerns the Commission’s objections and the evidence on which it relies in relation to them. It does not however extend to the final position which the Commission intends to adopt in a competition law infringement decision
+(
+7
+)
+. The May 2016 Letters cannot therefore properly be criticised on the ground that they did not set out in detail the precise adaptations that DG Competition envisaged for the purposes of a fresh decision in the present case. The May 2016 Letters sought views on the outline of DG Competition’s planned proposal of a fresh decision to remedy the defects identified by the 2015 Judgments. It would have been premature to set out in precise detail every modification that DG Competition considered necessary to remedy those defects. Moreover, the addressees of the May 2016 Letters were in fact put in a position to make comments on the matters set out in those letters.
+12.
+Breach of the requirement of an adequate statement of reasons in accordance with Article 296(2) TFEU is considered to be a breach of ‘essential procedural requirements’ for the purposes of Article 263 TFEU
+(
+8
+)
+. Although the defects in the 2010 Decision identified in the 2015 Judgments were not the same as those at issue in the
+PVC II
+line of case law, it cannot be inferred that the illegality identified in the 2015 Judgments is one of substance rather than form. The
+PVC II
+line of case law is thus applicable to the situation pertaining in Case AT.39258 after the 2015 Judgments.
+13.
+Indeed, the 2015 Judgments did not rule on the issue of whether a cartel infringement was committed or review the legality of the assessment of this issue in the 2010 Decision
+(
+9
+)
+. The principle of
+res judicata
+does not therefore arise
+(
+10
+)
+. In addition, the various annulments effected by the 2015 Judgments cannot be regarded as an acquittal for the purposes of the principle of
+ne bis in idem
+as enshrined in particular in Article 50 of the Charter of Fundamental Rights of the European Union. It follows that the Commission is not precluded by either of these principles from resuming proceedings in respect of conduct which was the subject of the 2010 Decision
+(
+11
+)
+. None of the submissions in response to the May 2016 Letters suggested that a fresh decision by the Commission in Case AT.39258 is precluded for other reasons.
+14.
+It is the SO and not the 2010 Decision that is relevant for the purposes of the exercise of the right to be heard in connection with the Commission’s objections in Case AT.39258.
+(
+12
+)
+The illegality identified in the 2015 Judgments occurred at the stage of the finalisation and adoption of the 2010 Decision. They did not of themselves affect the legality of the SO and the related hearing of the parties concerned
+(
+13
+)
+. The Commission is accordingly entitled to take up the procedure in Case AT.39258 at the point when the illegality identified in the 2015 Judgments occurred
+(
+14
+)
+.
+15.
+Without taking a view on the suggestion that the case law regarding the concept of a single and continuous infringement has evolved since the time of the SO or of the adoption of the 2010 Decision, it should be recalled that, according to EU courts, developments in the case law cannot in themselves render new hearings necessary, any more than if such developments occur in the course of administrative proceedings prior to a final decision
+(
+15
+)
+. In any event, the content of some of the responses to the May 2016 Letters suggests that these letters did in practice put their addressees in a position to make legal arguments on the basis of relevant case law.
+16.
+If the Commission decides to replace the 2010 Decision to the extent that it has been annulled, it is required under Article 266 TFEU to eliminate the illegality identified in the 2015 Judgments. In doing so, the Commission is not precluded from adapting the text used in the 2010 Decision, even in a manner that, according to some addressees of the May 2016 Letters, would affect their liability compared with the operative part of the 2010 Decision, especially where this is done precisely to address the contradictions vitiating that decision. Unlike what some responses to the May 2016 Letters suggested, the mere possibility of differences between the 2010 Decision and a fresh decision in Case AT.39258 does not warrant a new statement of objections or the organisation of another oral hearing
+(
+16
+)
+.
+17.
+Overall, the arguments raised in the responses to the May 2016 Letters have not identified procedural issues affecting the legality of the adoption of a fresh decision in Case AT.39258 as envisaged in the May 2016 Letters.
+Request for potentially exculpatory material received after the SO
+18.
+In response to a May 2016 Letter, one addressee requested (as it had done before the 2010 Decision) access to all potentially exculpatory documents obtained by the Commission after the issuance of the SO in 2007. The request of 2016 sought in particular any potentially exculpatory information that the Commission might have received in the court proceedings leading to the 2015 Judgments and that the part of the file in Case M.3770
+Lufthansa/Swiss
+that was relevant to a particular footnote in the 2010 Decision be added to the case file in Case AT.39258.
+19.
+DG Competition responded by letter dated 14 October 2016. That letter explained that an examination of the identified documents received by the Commission after the SO had not revealed any potentially exculpatory evidence to which that addressee did not already have access. As for the request that part of the file in Case M.3770 be added to the file in Case AT.39258, the letter noted that the relevant footnote referred solely to the public version of the Commission’s clearance decision in Case M.3770, and not to any documents from the file in that case.
+20.
+At a very late stage of the procedure for the adoption of a new decision, the same addressee sent a letter to me, calling into question the approach underlying DG Competition’s response of 14 October 2016. In my written response, I noted the lateness of that letter and explained why the criticisms raised could not be upheld.
+The draft decision
+21.
+The fines imposed on individual addressees in the draft decision do not exceed the corresponding amounts set out in the 2010 Decision.
+22.
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with the objections in respect of which the parties have been afforded the opportunity of making known their views. My conclusion is that it does.
+CONCLUSION
+23.
+In view of the above, and bearing in mind that, apart from the letter mentioned in paragraph 20 above, no requests or complaints were addressed to me, I consider that the effective exercise of the procedural rights has been respected in the procedure for the adoption of a new decision in Case AT.39258.
+Brussels, 9 March 2017.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+The 2010 Decision was addressed to Air Canada, Air France-KLM, Société Air France, KLM NV, British Airways Plc, Cargolux Airlines International S.A, Cathay Pacific Airways Limited, Japan Airlines, Japan Airlines International Co., Ltd, LAN Airlines S.A., LAN Cargo S.A., Lufthansa Cargo AG, Deutsche Lufthansa AG, SWISS International Air Lines AG, Martinair Holland N.V., Qantas Airways Limited, SAS AB, SAS Cargo Group A/S, SCANDINAVIAN AIRLINES SYSTEM Denmark – Norway – Sweden, Singapore Airlines Cargo Pte Ltd and Singapore Airlines Limited.
+(
+3
+)
+Judgments in
+Air Canada
+v
+Commission
+(T-9/11, EU:T:2015:994);
+Koninklijke Luchtvaart Maatschappij
+v
+Commission
+(T-28/11, EU:T:2015:995);
+Japan Airlines
+v
+Commission
+(T-36/11, EU:T:2015:992);
+Cathay Pacific
+v
+Commission
+(T-38/11, EU:T:2015:985);
+Cargolux Airlines
+v
+Commission
+(T-39/11, EU:T:2015:991);
+Latam Airlines Group and Lan Cargo
+v
+Commission
+(T-40/11, EU:T:2015:986);
+Singapore Airlines and Singapore Airlines Cargo
+v
+Commission
+(T-43/11, EU:T:2015:989);
+Deutsche Lufthansa and Others
+v
+Commission
+(T-46/11, EU:T:2015:987);
+British Airways
+v
+Commission
+(T-48/11, EU:T:2015:988);
+SAS Cargo Group and Others
+v
+Commission
+(T-56/11, EU:T:2015:990);
+Air France-KLM
+v
+Commission
+(T-62/11, EU:T:2015:996);
+Air France
+v
+Commission
+(T-63/11, EU:T:2015:993); and
+Martinair Holland
+v
+Commission
+(T-67/11, EU:T:2015:984).
+(
+4
+)
+See, for example, judgments in
+Martinair Holland
+v
+Commission
+(EU:T:2015:984, paragraphs 25, 72, 78, 83 and 84) and
+Cargolux Airlines
+v
+Commission
+(EU:T:2015:991, paragraphs 27, 28, 72, 79, 83 and 84).
+(
+5
+)
+The 2010 Decision was annulled in part in relation to British Airways plc (Case T-48/11) as well as Deutsche Lufthansa AG, Lufthansa Cargo AG and Swiss International Air Lines AG (Case T-46/11). It was annulled in full in relation to the other entities that had challenged it. In respect of the addressee that did not challenge it, the 2010 Decision has become final.
+(
+6
+)
+The May 2016 Letters cited in this regard the judgments in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(C-238/99 P, C-244/99 P, C-245/99 P, C-247/99 P, C-250/99 P to C-252/99 P and C-254/99 P, EU:C:2002:582, EU:C:2002:582, paragraphs 44 to 53, 59 to 69 and 72 to 76);
+SP
+v
+Commission
+(T-472/09 and T-55/10, EU:T:2014:1040, paragraphs 277 to 281); and
+Lucchini
+v
+Commission
+(T-91/10, EU:T:2014:1033, paragraph 173).
+(
+7
+)
+See, among others, judgments in
+BASF
+v
+Commission
+(T-15/02, EU:T:2006:74, paragraph 94) as well as
+IMI and Others
+v
+Commission
+(T-18/05, EU:T:2010:202, paragraphs 109 and 111).
+(
+8
+)
+Among others, judgments in
+Commission
+v
+Ireland and Others
+(C-89/08 P, EU:C:2009:742, paragraph 34) as well as
+Cargolux Airlines
+v
+Commission
+(EU:T:2015:991, paragraph 27).
+(
+9
+)
+Which is comparable to the situation described in paragraph 60 of the judgment in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582). See for example judgments in
+Singapore Airlines and Singapore Airlines Cargo
+v
+Commission
+(EU:T:2015:989, paragraphs 30 to 33 and 90 to 92) as well as
+SAS Cargo Group and Others
+v
+Commission
+(EU:T:2015:990, paragraphs 29 to 33, 90 and 91).
+(
+10
+)
+See to that effect, judgments in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraphs 44, 46 and 47) and
+ThyssenKrupp Nirosta
+v
+Commission
+(C-352/09 P, EU:C:2011:191, paragraph 123).
+(
+11
+)
+In relation to the principle of
+ne bis in idem
+, see, by analogy, judgment in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraph 62).
+(
+12
+)
+See, by analogy, judgments in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraph 98);
+Lucchini
+v
+Commission
+(EU:T:2014:1033, paragraph 177); as well as
+Leali and Acciaierie e Ferriere Leali Luigi
+v
+Commission
+(T-489/09, T-490/09 and T-56/10, EU:T:2014:1039, paragraph 284).
+(
+13
+)
+See, among others, judgments in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraph 73) as well as
+SP
+v
+Commission
+(EU:T:2014:1040, paragraph 277).
+(
+14
+)
+See, by analogy, judgment in
+Lucchini
+v
+Commission
+(EU:T:2014:1033, paragraph 173 and case law cited).
+(
+15
+)
+See judgments in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraphs 91 and 92) as well as
+IRO
+v
+Commission
+(T-69/10, EU:T:2014:1030, paragraph 141).
+(
+16
+)
+See, by analogy, judgment in
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+(EU:C:2002:582, paragraph 97).
+Top

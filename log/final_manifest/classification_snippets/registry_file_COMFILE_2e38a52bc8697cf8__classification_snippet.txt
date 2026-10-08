@@ -1,0 +1,213 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# Anlage A zum Schreiben vom 25.03.2010
+
+# COMP/B-1/39.317 - E.ON Gas
+
+## ZUSAGEN AN DIE EUROPÄISCHE KOMMISSION
+
+In Übereinstimmung mit Art. 9 der Verordnung (EG) Nr. 1/2003 des Rates (VO 1/2003) bietet E.ON AG (E.ON) die folgenden Zusagen (Zusagen) an, um den kartellrechtlichen Bedenken der Europäischen Kommission (Kommission), die sie in ihrer vorläufigen Beurteilung vom 22.12.2009 im Rahmen ihrer Ermittlungen im Fall COMP/B-1/39.317 geäußert hat, abzuhelfen und die Kommission in die Lage zu versetzen, eine Entscheidung des Inhalts zu verkünden, dass die Zusagen ihren Bedenken abhelfen (Entscheidung).
+
+In Übereinstimmung mit Art. 9 VO 1/2003 sind die Zusagen nicht als ein Eingeständnis zu werten, dass E.ON oder mit E.ON verbundene Unternehmen gegen das Kartellrecht verstoßen haben. Sie ergehen in dem Verständnis, dass die Kommission mit der Entscheidung die Ermittlungen wegen sämtlicher in dem Verfahren COMP/B-1/39.317 – E.ON Gas erhobener Bedenken und Vorwürfe einstellt und dass keine Aussage darüber getroffen wird, ob es eine Verletzung des Kartellrechts gegeben hat oder nicht.
+
+Dieser Text ist im Lichte der vorläufigen Beurteilung vom 22.12.2009, der Entscheidung, der allgemeinen Grundsätze des Gemeinschaftsrechts und insbesondere im Lichte der Art. 101 AEUV (ex-81 EGV) und 102 AEUV (ex-82 EGV) und der VO 1/2003 auszulegen.
+
+## Abschnitt A. Definitionen
+
+Für die Zwecke der Zusagen haben die folgenden Begriffe die folgende Bedeutung:
+
+Buchung: Erwerb von Primären Kapazitätsrechten am Markt.
+
+E.ON: E.ON AG, eine Gesellschaft deutschen Rechts mit Sitz in Düsseldorf, eingetragen im Handelsregister des Amtsgerichts Düsseldorf unter HRB 22315 und deren etwaiger Rechtsnachfolger, sowie alle Verbundenen Unternehmen.
+
+E.ON Gastransport, EGT: E.ON Gastransport GmbH, eine Gesellschaft deutschen Rechts mit Sitz in Essen, eingetragen im Handelsregister des Amtsgerichts Essen unter HRB 17487, und deren etwaiger Rechtsnachfolger.
+
+E.ON Ruhrgas: E.ON Ruhrgas AG, eine Gesellschaft deutschen Rechts mit Sitz in Essen, eingetragen im Handelsregister des Amtsgerichts Essen unter HRB 83, und deren etwaiger Rechtsnachfolger.
+
+Einspeisekapazität: Primäres Kapazitätsrecht zur Einspeisung von Gas in das/die Relevante(n) Marktgebiet(e).
+
+Einspeisepunkt: Grenzübergabepunkt, Marktgebietsübergabepunkt oder Verbindungspunkt des Relevanten Marktgebiets mit Quellen oder Produktionsanlagen (einschließlich LNG-Terminals), an dem der Netzbetreiber Einspeisekapazität vermarktet. Die im Gaswirtschaftsjahr 2010/2011 bestehenden Einspeisepunkte, die dort jeweils veröffentlichte LFFZK und die von E.ON Ruhrgas zum 01.10.2010 gebuchte LFFZK sind in Anlage 1 aufgeführt.
+
+Feste Kapazität: feste Kapazität im Sinne des § 4 GasNZV und der jeweils anwendbaren Netzzugangsbedingungen in dem (den) Relevanten Marktgebiet(en), die dem Transportkunden unterbrechungsfrei zur Verfügung gestellt wird.
+
+Frektur: Frei Zuordenbare Einspeisekapazitäten: Kapazität im Sinne von § 4 Abs. 2 GasNZV, die den Transportkunden berechtigt, ohne Festlegung eines Transportpfades im Rahmen gebuchter Kapazitäten Gas an jedem gebuchten Einspeisepunkt für die Ausspeisung an jedem gebuchten Ausspeisepunkt im Relevanten Marktgebiet zu nutzen.
+
+GasNZV: Verordnung über den Zugang zu Gasversorgungsnetzen vom 25.07.2005 mit Verkündigungsstand vom 20.11.2009.
+
+Gaswirtschaftsjahr: Zeitraum vom 01.10., 06.00 Uhr, eines Jahres bis zum 01.10., 06.00 Uhr, des jeweils darauffolgenden Jahres, es sei denn, dieser Begriff wird vom nationalen Regulierungsrecht anderweitig definiert. In diesem Falle geht die regulatorische Definition vor, ohne dass sich dadurch eine Verlängerung oder Verkürzung der Verpflichtung von E.ON ergibt.
+
+Grenzübergabepunkt: Verbindungspunkt, an dem das Relevante Marktgebiet mit einem Gasfern-transportnetz oder Marktgebiet verbunden ist, welches in einem anderen Staat gelegen ist als das Relevante Marktgebiet.
+
+Kapazitätsfreigabephase 1: Frist beginnend mit dem 01.10.2010 bis zum Eintritt in die Kapazitätsfreigabephase 2.
+
+Kapazitätsfreigabephase 2: Frist von 10 Jahren ab dem Datum, an dem die LFFZK-Buchungen der E.ON erstmals unter den Kapazitätsfreigabeschwellen liegen. Die Kapazitätsfreigabephase 2 beginnt spätestens ab dem 01.10.2015, da ab diesem Datum die Kapazitätsfreigabeschwellen erreicht sein müssen.
+
+Kapazitätsfreigabephasen: die Kapazitätsfreigabephasen 1 und 2.
+
+Kapazitätsfreigabeschwellen: die in Ziffer 7 festgelegten Anteilswerte für LFFZK-Buchungen der E.ON in die Relevanten Marktgebiete.
+
+Kurzfristig: Laufzeit von bis einschließlich einem Jahr.
+
+Langfristig: Laufzeit von mehr als einem Jahr.
+
+LFFZK: Feste Frei Zuordenbare Einspeisekapazitäten an allen gegenwärtigen und künftigen Einspeisepunkten in dem (den) Relevanten Marktgebiet(en), die Langfristig gebucht werden können.
+
+Marktgebietsübergabepunkt: Verbindungspunkt, an dem die beiden Relevanten Marktgebiete miteinander verbunden sind oder eines der Relevanten Marktgebiete mit einem anderen inländischen Marktgebiet verbunden ist.
+
+Marktphase: Zeitraum von fünf Jahren nach Ablauf der Kapazitätsfreigabephase 2.
+
+NCG: NetConnect Germany GmbH & Co. KG, eine Gesellschaft deutschen Rechts mit Sitz in Ratingen bei Düsseldorf, eingetragen im Handelsregister des Amtsgerichts Düsseldorf unter HRA 20201.
+
+Primäre Kapazitätsrechte: Kapazitätsrechte, die unmittelbar vom Netzbetreiber in eigenem Namen vermarktet werden.
+
+Relevante(s) Marktgebiet oder Relevante Marktgebiete: das NCG-Marktgebiet und/oder das EGT-L-Gas-Marktgebiet und/oder das/die Marktgebiet(e), dem (denen) das Netz der E.ON Gas-transport aufgrund einer Marktgebietskooperation zugeordnet ist.
+
+Sekundäre Kapazitätsrechte: Kapazitätsrechte, die unter Beachtung der regulatorischen Vorgaben von einem Transportkunden an einen anderen Transportkunden vermarktet werden.
+
+Stichtag: Tag, an dem die Entscheidung der Europäischen Kommission, die die Verpflichtungszusagen E.ON gegenüber für verbindlich erklärt, E.ON bekannt gegeben wird.
+
+Überwachungstreuhänder: eine oder mehrere, von E.ON und den Verbundenen Unternehmen unabhängige natürliche oder juristische Person(en), die mit Billigung der Kommission von E.ON benannt wird (werden) und die Verpflichtung hat (haben), die Erfüllung der Zusagen zu überwachen.
+
+Unterbrechbare Kapazität: unterbrechbare Kapazität im Sinne des § 4 GasNZV und der jeweils anwendbaren Netzzugangsbedingungen in dem (den) Relevanten Marktgebiet(en).
+
+VHP: Punkt im Relevanten Marktgebiet, der keinem physischen Ein- oder Ausspeisepunkt im Marktgebiet entspricht und an dem Gas zwischen Bilanzkreisen übertragen werden kann.
+
+Vorlaufphase: Frist von sieben Kalendertagen beginnend mit dem Stichtag.
+
+Verbundene Unternehmen: von E.ON kontrollierte Unternehmen, wobei der Begriff der Kontrolle nach Art. 3 Verordnung (EG) Nr. 139/2004 und im Lichte der Konsolidierten Mitteilung der Kommission zu Zuständigkeitsfragen gemäß der Verordnung (EG) Nr. 139/2004 des Rates über die Kontrolle von Unternehmenszusammenschlüssen auszulegen ist.
+
+## Abschnitt B. Die Zusage
+
+1. E.ON verpflichtet sich, bestehende und künftige LFFZK-Buchungen nach Maßgabe der folgenden Bestimmungen zu reduzieren und zu begrenzen.
+
+## I. Kapazitätsfreigabephase 1
+
+2. E.ON wird so bald wie möglich, jedoch frühestens mit Wirkung einen Monat nach der Bekanntgabe gemäß Ziffer 4 und spätestens zum Beginn der Kapazitätsfreigabephase 1 die eigenen LFFZK-Buchungen in die Relevanten Marktgebiete an den Einspeisepunkten gemäß nachstehender Tabelle durch Rückgabe an E.ON Gastransport reduzieren.
+
+<table><tr><td>Einspeisepunkt (Webname)</td><td>Freigabe zum 01.10.2010 (in 1.000 kWh/h)</td></tr><tr><td colspan="2">EGT-L-Gas Marktgebiet</td></tr><tr><td>Emsbüren</td><td>2.068</td></tr><tr><td>Drohne</td><td>1.288</td></tr><tr><td>Steinbrink</td><td>187</td></tr><tr><td>Vreden</td><td>1.650</td></tr><tr><td>Elten</td><td>2.565</td></tr><tr><td>Summe EGT-L</td><td>7.758</td></tr></table>
+
+<table><tr><td>Einspeisepunkt (Webname)</td><td>Freigabe zum 01.10.2010 (in 1.000 kWh/h)</td></tr><tr><td colspan="2">NCG-Marktgebiet</td></tr><tr><td>Waidhaus</td><td>3.469</td></tr><tr><td>Emden NPT</td><td>1.250</td></tr><tr><td>Dornum</td><td>500</td></tr><tr><td>Emden EPT</td><td>250</td></tr><tr><td>Eynatten/Raeren</td><td>1.750</td></tr><tr><td>Oude Statenzijl</td><td>1.000</td></tr><tr><td>Bocholtz</td><td>124</td></tr><tr><td>Oberkappel</td><td>434</td></tr><tr><td>Lampertheim</td><td>221</td></tr><tr><td>Bunder Tief</td><td>1.000</td></tr><tr><td>Summe NCG</td><td>9.998</td></tr></table>
+
+<table><tr><td></td><td></td></tr><tr><td></td><td>Freigabe zum 01.10.2010 (in 1.000 kWh/h)</td></tr><tr><td>Gesamtsumme</td><td>17.756</td></tr></table>
+
+Der Anteil der Buchungen von E.ON wird nach der in Anlage 1 näher spezifizierten Buchungssituation als Folge der Rückgabe der genannten Kapazitäten einen Wert von 60% - 70% im NCG-Marktgebiet und von 70% - 80% im EGT-L-Gas-Marktgebiet erreichen.
+
+## Vermarktung der zurückzugebenden Kapazitäten
+
+3. E.ON Gastransport verpflichtet sich, die von E.ON in Erfüllung der Verpflichtung aus Ziffer 2 zurückzugebenden LFFZK zurückzunehmen und nach den jeweils geltenden Regeln des nationalen Regulierungsrechts und den folgenden Vorgaben zu vermarkten.
+
+3.3. E.ON Gastransport wird die gemäß Ziffer 2 zurückgegebenen LFFZK in zwei Schritten vermarkten. Zunächst wird E.ON Gastransport die gemäß Ziffer 2 zurückgegebenen LFFZK für die ersten beiden Gaswirtschaftsjahre vermarkten. Die Vermarktung der gemäß Ziffer 2 zurückgegebenen LFFZK für die ersten beiden Gaswirtschaftsjahre beginnt sobald wie möglich, jedoch frühestens einen Monat nach der Bekanntgabe gemäß Ziffer 4 Satz 1. E.ON Gastransport wird in einem zweiten Schritt die gemäß Ziffer 2 zurückgegebenen LFFZK für den Zeitraum nach Ablauf der ersten beiden Gaswirtschaftsjahre mit einer Vorlauffrist von 6 Monaten vermarkten.
+
+3.2. E.ON Gastransport wird, soweit das nationale Regulierungsrecht dies vorsieht, den Transportkunden, die an den entsprechenden Einspeisepunkten Unterbrechbare Kapazität gebucht haben, eine Umwandlung der Unterbrechbaren Kapazitäten in Feste Kapazitäten anbieten.
+
+3.2.1. Berücksichtigt werden bei der Umwandlung für die ersten beiden Gaswirtschaftsjahre diejenigen Transportkunden, die am Stichtag an den entsprechenden Einspeisepunkten Unterbrechbare Kapazität für einen innerhalb der ersten beiden Gaswirtschaftsjahre liegenden Zeitraum gebucht haben.
+
+3.2.2. Das Angebot erfolgt mit der Bekanntgabe gemäß Ziffer 4 Satz 1 für die ersten beiden Gaswirtschaftsjahre. Das Angebot kann bis zum Ablauf des zehnten Arbeitstags nach der Bekanntgabe nach Ziffer 4 Satz 1 angenommen werden. Ergeht ein Angebot auf Basis der gemäß Ziffer 2 zurückgegebenen Kapazitäten an E.ON, wird E.ON dieses Angebot nicht annehmen.
+
+3.3. Soweit die von E.ON in Erfüllung der Verpflichtung aus Ziffer 2 im Rahmen der Kapazitätsfreigabephase 1 zurückzugebenden LFFZK trotz bestmöglicher Anstrengung nicht vollständig an Dritte vermarktet wird, so besteht ein Anspruch der E.ON Gastransport auf Zahlung der dafür anfallenden Kapazitätsentgelte nur noch für die ersten beiden Gaswirtschaftsjahre.
+
+4. Die zu vermarktenden Kapazitäten sind unverzüglich, spätestens zum Ende der Vorlaufphase, durch ein gut sichtbar auf der Startseite der Internetpräsenz der E.ON Gastransport sowie der Kapazitätsbuchungsplattform Entrix verlinktes Dokument bekanntzugeben. Am vierzehnten Arbeitstag nach der Bekanntgabe gemäß Satz 1 sind die nach der Umwandlung von unterbrechbarer in feste Kapazität noch zu vermarktenden Kapazitäten entsprechend bekannt zu geben. Die Bekanntgabe nach den Sätzen 1 und 2 muss insbesondere die zu vermarkten- den Mengen, die Dauer der freigegebenen Kapazitäten sowie die genauen Einspeisepunkte enthalten.
+
+## Verbleibende Buchungsmöglichkeiten von E.ON
+
+5. E.ON ist berechtigt, die zurückgegebenen Kapazitätsrechte nach Maßgabe dieser Ziffer 5 zu erwerben. E.ON ist unter Beachtung des nationalen Regulierungsrechts insbesondere nicht am Rückerwerb von Kapazitätsrechten gehindert, soweit
+
+5.1. dies die Langfristige und/oder Kurzfristige (vgl. Definition Kurzfristig: Laufzeit von bis einschließlich einem Jahr) Buchung Unterbrechbarer Einspeisekapazitäten betrifft;
+
+5.2. dies die Kurzfristige (vgl. Definition Kurzfristig: Laufzeit von bis einschließlich einem Jahr) Buchung Fester Einspeisekapazitäten betrifft. Dies gilt mit der Maßgabe, dass eine solche Buchung
+
+5.2.1. für die Gaswirtschaftsjahre 20101/2011 und 2011/2012 (i) nur zwischen dem 01.09. und 30.09. des jeweils vorangehenden Gaswirtschaftsjahres erfolgen darf und (ii) die Kapazität zuvor Dritten gemäß Ziffer 3 angeboten wurde;
+
+5.2.2. ab dem Gaswirtschaftsjahr 2012/2013 nur für das laufende oder folgende Gaswirtschaftsjahr erfolgen darf;
+
+5.3. dies die Buchung von LFFZK betrifft, der Anteil von E.ON an den LFFZK im Relevanten Marktgebiet bis zum Beginn der Kapazitätsfreigabephase 2 dabei abnimmt und die Buchung ab dem 01.10.2011 erfolgt.
+
+Rückgabe korrespondierender Ausspeisekapazität
+
+6. E.ON wird mit dem obigen Einspeisepunkt Oude Statenzijl korrespondierende Ausspeisekapazität in Höhe von 500.000 kWh/h aus dem vorgelagerten niederländischen Netz der Gas Transport Services B.V. ab dem 01.10.2010 bis zum 01.10.2025 diskriminierungsfrei an dritte Transportkunden sekundär vermarkten. Die Sekundärvermarktung erfolgt unter Beachtung des jeweils geltenden nationalen Regulierungsrechts sowie der folgenden Vorgaben.
+
+6.1. Die Sekundärvermarktung der Ausspeisekapazitäten an einen Transportkunden ist auf das Kapazitätsvolumen und die Laufzeit beschränkt, die dieser Transportkunde an dem Einspeisepunkt Oude Statenzijl im Wege der Vermarktung gemäß Ziffer 3 gebucht hat.
+
+6.2. Der Transportkunde muss nachweisen, dass ihm die Nutzung der von ihm im Wege der Vermarktung gemäß Ziffer 3 am Einspeisepunkte Oude Statenzijl gebuchten Einspeisekapazität ohne die von E.ON sekundär vermarktete mit dem obigen Einspeisepunkt Oude Statezijl korrespondierende Ausspeisekapazität aus dem vorgelagerten niederländischen Netz der Gas Transport Services B.V. nicht möglich wäre. Der Nachweis ist erbracht, wenn die Transportanfrage des Transportkunden durch die Gas Transport Services B.V. abgelehnt oder nicht innerhalb eines Zeitraumes von 3 Tagen nach Zugang der Anfrage beschieden wurde.
+
+6.3. Entsprechend der Vermarktung der von E.ON in Erfüllung der Verpflichtung aus Ziffer 2 zurückzugebenden LFFZK durch E.ON Gastransport gemäß Ziffer 3 erfolgt auch die Sekundärvermarktung der korrespondierenden Ausspeisekapazität in zwei Schritten. E.ON wird zunächst Kapazität beginnend zum 01.10.2010 für den Zeitraum von zwei Gaswirtschaftsjahren vermarkten und zu einem späteren Zeitpunkt Kapazität für den nachfolgenden Zeitraum bis zum 01.10.2025.
+
+6.3.1. Für die ersten beiden Gaswirtschaftsjahre ab dem 01.10.2010 beginnt die Sekundärvermarktung einen Monat nach der Bekanntgabe nach Ziffer 4 Satz 1.
+
+6.3.2. Für den Zeitraum nach Ablauf der erste
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+en für notwendig erachtet;
+
+17.4. der Kommission vertrauliche schriftliche Berichte betreffend den Fortgang und das Ergebnis seiner Überwachungstätigkeit zu unterbreiten; E.ON erhält jeweils gleichzeitig eine nicht-vertrauliche Fassung der Berichte. Der erste Bericht ist der Kommission innerhalb von drei Wochen nach dem Stichtag zu unterbreiten und hat den
+
+Zeitraum bis zehn Tage nach dem Stichtag abzudecken. Der zweite Bericht ist der Kommission innerhalb von sechs Wochen nach dem Stichtag zu unterbreiten und hat den ersten Monat nach dem Stichtag abzudecken. Der dritte Bericht ist der Kommission drei Monate und zwei Wochen nach dem Stichtag zu übermitteln und hat den zweiten und dritten Monat nach dem Stichtag zu umfassen. Der vierte Bericht ist der Kommission innerhalb von zwei Wochen nach Beginn der Kapazitätsfreigabephase 1 zu unterbreiten und hat den Zeitraum vom vierten Monat nach dem Stichtag bis zum Beginn der Kapazitätsfreigabephase 1 abzudecken. Für den sich anschließenden Zeitraum bis zum Ende der Kapazitätsfreigabephase 2 ist der Kommission jeweils bis zum Ende des zweiten Monats nach Beginn eines jeden Kalenderhalbjahres ein Bericht über das jeweils vorangegangene Kalenderhalbjahr vorzulegen. Der letzte Bericht ist der Kommission binnen zwei Monaten nach Ablauf der Kapazitätsfreigabephase 2 vorzulegen. Die Berichte umfassen insbesondere den Stand
+
+17.4.1. der Rückgabe fester langfristiger Kapazitäten durch E.ON bis zum Beginn der Kapazitätsfreigabephase 1;
+
+17.4.2. der Erreichung und Einhaltung der Kapazitätsfreigabeschwellen zum Beginn und während der Kapazitätsfreigabephase 2;
+
+17.4.3. der Vermarktung der Kapazitäten durch E.ON Gastransport in den Kapazitätsfreigabephasen.
+
+17.5. Darüber hinaus informiert der Überwachungstreuhänder die Kommission unverzüglich schriftlich, wenn er der Auffassung ist, dass E.ON die Zusagen nicht einhält. E.ON erhält gleichzeitig eine nicht-vertrauliche Abschrift einer solchen Unterrichtung.
+
+## Aufgaben und Verpflichtungen von E.ON
+
+18. E.ON unterstützt den Überwachungstreuhänder und stellt die Informationen zur Verfügung, die der Überwachungstreuhänder für die Erfüllung des Treuhandmandats vernünftigerweise benötigt.
+
+1. Soweit es für die Erfüllung des Treuhandmandats vernünftigerweise erforderlich ist, hat der Überwachungstreuhänderder während der Geschäftszeiten uneingeschränkten Zugang zu Büchern, Aufzeichnungen, Unterlagen, Mitarbeitern, Einrichtungen, Standorten und technischen Informationen von E.ON. Er erhält auf Anforderung Kopien von Dokumenten, soweit dies zur Erfüllung seiner Aufgaben vernünftigerweise erforderlich ist. E.ON steht für Gespräche zur Verfügung, um dem Überwachungstreuhänder die für die Erfüllung des Treuhandmandats erforderlichen Informationen zu unterbreiten.
+
+20. E.ON stellt den Überwachungstreuhänder und seine Mitarbeiter (je die freigestellte Partei) von jeder Schadenersatzforderung frei, die auf die notwendige Ausübung des Treuhandmandates zurückzuführen ist, und sagt zu, dass die freigestellte Partei für aus der notwendigen Ausübung des Treuhandmandates resultierende Schäden von E.ON und Verbundenen Unternehmen nicht in Anspruch genommen wird. Dies gilt nicht für Schäden, die auf Vorsatz oder grober Fahrlässigkeit einer freigestellten Partei zurückzuführen sind.
+
+21. Für den Fall, dass der Überwachungstreuhänder es für notwendig hält, in Erfüllung seiner Pflichten nach dem Treuhandmandat Berater einzusetzen, kann er solche Berater auf Kosten von E.ON benennen, sofern die dafür aufgewandten Kosten verhältnismäßig sind. Der Einsatz von Beratern durch den Überwachungstreuhänder bedarf der Genehmigung von E.ON, die nicht unbilig versagt oder verzögert werden darf. Für den Fall, dass E.ON die Genehmigung des Beratereinsatzes verweigert, kann die Kommission eine solche Genehmigung an E.ONs Stelle erteilen, nachdem sie E.ON angehört hat. Nur der Treuhänder ist berechtigt, den Beratern Weisungen zu erteilen. Ziffer 20 gilt entsprechend.
+
+Abberufung und Verlängerung der Bestellung des Überwachungstreuhänders
+
+22. Falls der Treuhänder seine Funktionen im Rahmen der Zusagen nicht wahrnimmt, oder sonst aus wichtigem Grund (wobei die Tatsache, dass der Treuhänder einem Interessenkonflikt ausgesetzt ist, als wichtiger Grund gilt),
+
+22.1. kann die Kommission nach Anhörung des Überwachungstreuhänders verlangen, dass E.ON den Überwachungstreuhänder ersetzt; oder
+
+22.2. kann E.ON mit vorheriger Genehmigung der Kommission den Überwachungstreuhänder ersetzen;
+
+2.3. können sowohl E.ON als auch die Kommission von dem abberufenen Überwachungstreuhänder verlangen, dass er seine Aufgaben weiter erfüllt, bis ein neuer Überwachungstreuhänder, dem der abberufene Überwachungstreuhänder sämtliche einschlägigen Informationen und Unterlagen übergeben hat, im Amt ist; der neue Überwachungstreuhänder wird nach dem in Ziffern 12 ff. beschriebenen Verfahren bestellt.
+
+23. Über die Fälle der Ziffer 22 hinaus darf der Überwachungstreuhänder seine Tätigkeit nur einstellen, wenn die Kommission ihn nach Erfüllung der Verpflichtungen, die er zu überwachen hat, von seinen Aufgaben entbunden hat. Die Kommission kann jedoch jederzeit die Wiederbestellung des Überwachungstreuhänders verlangen, falls im Nachhinein ein hinreichender Verdacht entsteht, dass die Verpflichtungen nicht vollständig und ordnungsgemäß umgesetzt wurden.
+
+## Abschnitt D. Überprüfungsklausel
+
+24. Gemäß Art. 9 Abs. 2 lit. a) VO 1/2003 kann E.ON von der Kommission die Wiedereröffnung des Verfahrens im Hinblick auf eine Änderung der Verpflichtungen beantragen, wenn tatsächliche Umstände, auf denen die von der Kommission in Anwendung von Art. 9 Abs. 1 VO 1/2003 getroffene Entscheidung beruht, eine wesentliche Veränderung erfahren.
+
+25. Unbeschadet des Art. 9 Abs. 2 lit. a) VO 1/2003 kann die Kommission auf ausführlich schriftlich begründeten und sachlich gerechtfertigten Antrag von E.ON und nach Anhörung des Überwachungstreuhänders
+
+## 25.1. eine Anpassung der Kapazitätsfreigabephasen gewähren, und/oder
+
+25.2. im Falle außergewöhnlicher Umstände, die sich zum Beispiel aus einer Änderung des gesetzlichen bzw. regulatorischen Rahmens ergeben können und die die Umsetzbarkeit der Zusagen grundsätzlich in Frage stellen, eine oder mehrere der mit den Zusagen begründeten Verpflichtungen und Rechte aufheben, ändern oder ersetzen. Außergewöhnliche Umstände, die sich aus einer Änderung des gesetzlichen bzw. regulatorischen Rahmens ergeben, können insbesondere dann vorliegen, wenn der für Kurzfristige Buchung Fester Frei Zuordenbarer Einspeisekapazität reservierte Anteil an der gesamten Festen Frei Zuordenbaren Einspeisekapazität signifikant ansteigt. Die erstmalige Einführung eines für die Kurzfristige Buchung Fester Frei Zuordenbarer Einspeisekapazität reservierten Anteils und dessen Erhöhung auf bis zu 20% sind nicht als außergewöhnlicher Umstand anzusehen.
+
+## Abschnitt E. Schlussbestimmungen
+
+26. Die Zusagen werden mit Ablauf des Stichtags wirksam.
+
+27. E.ON wird keine Maßnahmen zur Umgehung der Zusagen ergreifen. Insbesondere wird E.ON nicht an Stelle der zur Erfüllung der Verpflichtung aus Ziffern 2, 7 und 8 zurückgegebenen Kapazitäten sekundäre Kapazitätsrechte von Dritten erwerben.
+
+28. E.ON wird eine nicht-vertrauliche Fassung der Zusagen auf ihren Internetseiten veröffentlichen.
+
+Düsseldorf, den 25.03.2010
+
+E.ON AG
+
+![](images/faa283f81703102ec05a3359545471a6731922090ab2b94941aa205d576b2fa8.jpg)
+
+Lutz Feldmann
+
+Mitglied des Vorstands
+
+![](images/0563641df1056472b5f91776f2ad03d6ce9869f98f941d01305309756aa8c6d0.jpg)
+
+Karl-Heinz Feldmann
+
+Senior Vice President
+
+Anlage 1
+
+<table><tr><td>Kapazitätsanalyse</td><td colspan="2">Stand 01.10.2010</td></tr><tr><td>Beschreibung(Webname)</td><td>BuchbareLFFZK(kWh/h)</td><td>RestbuchungLFFZK E.ON(kWh/h)</td></tr><tr><td>Nordlohne</td><td>250.000</td><td></td></tr><tr><td>Emsbüren</td><td>3.700.000</td><td></td></tr><tr><td>Drohne</td><td>2.927.042</td><td></td></tr><tr><td>Steinbrink</td><td>3.200.000</td><td></td></tr><tr><td>Ahlten</td><td>600.000</td><td></td></tr><tr><td>Tegelen</td><td>0</td><td></td></tr><tr><td>Vreden</td><td>11.644.206</td><td></td></tr><tr><td>Elten</td><td>13.251.200</td><td></td></tr><tr><td>Lemförde</td><td>0</td><td></td></tr><tr><td>Summe EGT-L</td><td>35.572.448</td><td>70% - 80%</td></tr><tr><td>Waidhaus</td><td>31.230.372</td><td></td></tr><tr><td>Emden NPT</td><td>3.294.425</td><td></td></tr><tr><td>Dornum</td><td>17.883.232</td><td></td></tr><tr><td>Emden EPT</td><td>3.809.621</td><td></td></tr><tr><td>Eynatten/Raeren</td><td>4.656.200</td><td></td></tr><tr><td>Oude Statenzijl</td><td>4.553.192</td><td></td></tr><tr><td>Achim</td><td>171.616</td><td></td></tr><tr><td>Wardenburg</td><td>250.000</td><td></td></tr><tr><td>Überackern</td><td>2.688.000</td><td></td></tr><tr><td>Bocholtz</td><td>4.544.362</td><td></td></tr><tr><td>Oberkappel</td><td>555.000</td><td></td></tr><tr><td>Oberkappel GRT</td><td>1.000.000</td><td></td></tr><tr><td>Ellund</td><td>171.616</td><td></td></tr><tr><td>Lampertheim IV</td><td>3.122.000</td><td></td></tr><tr><td>Lampertheim</td><td>1.791.035</td><td></td></tr><tr><td>Bunder Tief</td><td>1.427.782</td><td></td></tr><tr><td>Kienbaum</td><td>0</td><td></td></tr><tr><td>DahlumRull</td><td>0</td><td></td></tr><tr><td>Dülmen, Im Weddern</td><td>0</td><td></td></tr><tr><td>Etzel</td><td>0</td><td></td></tr><tr><td>Aachen, Verlautenheide</td><td>0</td><td></td></tr><tr><td>Medelsheim</td><td>0</td><td></td></tr><tr><td>Ochtrup</td><td>0</td><td></td></tr><tr><td>Oude Statenzijl 2</td><td>0</td><td></td></tr><tr><td>Quarnstedt</td><td>0</td><td></td></tr><tr><td>Reckrod I</td><td>0</td><td></td></tr><tr><td>Remich</td><td>0</td><td></td></tr><tr><td>Steinitz</td><td>0</td><td></td></tr><tr><td>Visselhövede</td><td>0</td><td></td></tr><tr><td>Wallbach</td><td>0</td><td></td></tr><tr><td>Summe NCG</td><td>81.148.453</td><td>60% - 70%</td></tr><tr><td>Gesamtsumme</td><td>116.720.901</td><td>65% - 75%</td></tr></table>

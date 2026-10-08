@@ -1,0 +1,226 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52016XC1014(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52016XC1014(01)
+Help
+Print
+Summary of Commission Decision of 20 July 2016 addressed to Markit Limited, Markit Group Holdings Limited, Markit Indices Limited, Markit North America, Inc. and Markit Group Limited (‘Markit’) relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4585)
+Summary of Commission Decision of 20 July 2016 addressed to Markit Limited, Markit Group Holdings Limited, Markit Indices Limited, Markit North America, Inc. and Markit Group Limited (‘Markit’) relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4585)
+Summary of Commission Decision of 20 July 2016 addressed to Markit Limited, Markit Group Holdings Limited, Markit Indices Limited, Markit North America, Inc. and Markit Group Limited (‘Markit’) relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4585)
+OJ C 378, 14.10.2016, pp. 3–4
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+14.10.2016
+EN
+Official Journal of the European Union
+C 378/3
+Summary of Commission Decision
+of 20 July 2016
+addressed to Markit Limited, Markit Group Holdings Limited, Markit Indices Limited, Markit North America, Inc. and Markit Group Limited (‘Markit’) relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.39745 — CDS Information Market)
+(notified under document C(2016) 4585)
+(Only the English text is authentic)
+(2016/C 378/03)
+On 20 July 2016, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+The case concerns the market for exchange trading of unfunded credit derivatives, in particular of credit default swaps (CDS) and decisions taken by Markit
+(
+2
+)
+as an association of undertakings in relation to the licensing of the CDX and iTraxx indices (‘indices’) for trading credit default swaps on exchanges.
+1.
+PRELIMINARY COMPETITION CONCERNS
+2.
+In its Statement of Objections of 1 July 2013 (the ‘Statement of Objections’) addressed to the International Swaps and Derivatives Association (‘ISDA’), Markit and 13 investment banks (‘dealers’), the Commission came to the provisional conclusion that an agreement/concerted practice entered into by the dealers, together with the implementing decisions of the associations of undertakings Markit and ISDA, constituted a single and continuous infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement. The Commission reached the preliminary conclusion that this conduct may have had as its object and effect to foreclose exchanges from the market for exchange-traded unfunded credit derivatives from 2006 to 2009 and, thereby, to prevent or delay the emergence of that new market. The Statement of Objections qualified the decision of Markit as association of undertakings to deny index licences to CMDX
+(
+3
+)
+for the purposes of exchange trading or trading on any platform which uses a central limit order book as infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement. In December 2015 the Commission closed proceedings against the dealers but continued the investigation of ISDA and Markit.
+3.
+According to the Statement of Objections, the restrictions may have had as their object and effect an appreciable restriction of competition to the detriment of investors and indirectly their customers, who remained constrained to over-the-counter (‘OTC’) trading. On OTC markets, derivative contracts are negotiated privately and bilaterally without public price or volume reporting of individual transactions. Contracts are intermediated by dealers who profit from the difference between buy and sell price (‘bid-ask spread’). Over time, regularly traded OTC-traded derivatives become standardised and investors become interested in trading such derivatives on exchanges. Exchange trading increases liquidity, reduces trading cost due to competitive pressure on bid-ask spreads, and reduces risks as clearing houses guarantee the performance of contracts in case of buyer or seller default.
+4.
+CDS are financial contracts where a purchaser pays a periodic fee to a seller, in return for a contingent payment in case of default of the corporate or sovereign debtor of a debt obligation specified in the contract. CDS contracts are commonly used for hedging against the risk of decreasing value of the debt instruments due to the debt issuer’s default or declining credit quality, and for investing, expressing a view on the future change in the debt issuer’s credit quality. CDS indices transfer credit risk more efficiently than single CDS, but when indices are traded OTC they share the latter’s characteristics. Indices are standardised contracts and reference a fixed number of debtors with shared characteristics which are changed (‘rolled’) regularly. Markit is the owner of the two most widely used CDS benchmark index families, iTraxx and CDX. Markit also administers a website governing CDS auctions, where the use of ISDA’s ‘Final Price’
+(
+4
+)
+is subject to a mandatory Use Agreement that explicitly prohibits the use of the Final Price for exchange trading.
+5.
+The Statement of Objections reached the preliminary conclusion that following instructions from the CDS dealers in Markit’s advisory committees, Markit refused to grant a licence to CMDX for exchange trading or for trading on any platform which uses a central limit order book and limited the licence to trades materially similar to OTC trades. According to the Statement of Objections, no real, concrete alternatives to the requested indices were available to kick-start exchange trading of credit derivatives in a viable manner, as liquidity remains highly concentrated in the two CDX and iTraxx index families.
+2.
+COMMITMENT DECISION
+6.
+On 21 April 2016 Markit offered commitments under Article 9(1) of Regulation (EC) No 1/2003 to address the Commission’s preliminary competition concerns.
+7.
+On 29 April 2016 a notice was published in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case and the proposed commitments and inviting interested third parties to give their observations on the commitments within one month following publication. On 2 June 2016 the Commission informed Markit of the observations received from interested third parties following the publication of the notice. On 6 June 2016 Markit submitted an amended proposal for commitments (‘the Amended Commitments’).
+8.
+By decision of 20 July 2016, pursuant to Article 9 of Regulation (EC) No 1/2003, the Commission made the Amended Commitments binding on Markit. Their main content is as outlined below.
+a.
+Markit commits to licence the iTraxx and CDX indices for creating new exchange-traded financial products or trading such products on trading venues on fair, reasonable and non-discriminatory (‘FRAND’) terms and conditions. At the request of licensees, restrictions to exchange trading in existing licences will be removed.
+b.
+Markit shall appoint a Monitoring Trustee to monitor Markit’s compliance with the commitments. Before appointment, the Commission shall have the power to approve or reject the proposed Trustee.
+c.
+FRAND terms and conditions will be determined by third party arbitration or, if arbitration fails, by court. With regard to other disputes, in particular on intended refusals to licence, the independent Monitoring Trustee will report to the Commission.
+d.
+In order to exclude CDS dealers from Markit’s licensing decisions, the CDS Index Advisory Committees must not discuss licensing decisions and terms of licences, commercial aspects, the merits of new exchange traded products or the merits of new exchanges or similar platforms relating to the CDX or iTraxx indices. Meetings must be minuted and audio-recorded. Committee membership will rotate and only 10 of 25 members will be large dealers.
+e.
+Markit will further remove any clause that excludes the use of the Final Price for exchange trading from the Use Agreement on the www.creditfixings.com website. Where ISDA has granted a Final Price licence for use in an exchange-traded product, Markit will not require a further licence or charge royalties or other fees.
+9.
+The commitments will be valid for a period of 10 years from the date of notification of the commitment decision to Markit.
+10.
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on the adoption of the decision in June 2016. On 7 July 2016 the Hearing Officer issued his final report.
+11.
+The decision brought the proceedings to an end as regards Markit’s refusals to licence the indices.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+Since closure of a merger on 13 July 2016: ‘IHS Markit’.
+(
+3
+)
+CMDX was a joint venture between Chicago Mercantile Exchange and Citadel, a hedge fund. According to the SO, in 2008, CMDX attempted to launch a CDS clearing and exchange trading platform. The joint venture was dissolved in July 2009.
+(
+4
+)
+The Final Price results from ISDA-sponsored CDS auctions and determines the value of defaulted bonds. It has become a de facto industry standard.
+Top

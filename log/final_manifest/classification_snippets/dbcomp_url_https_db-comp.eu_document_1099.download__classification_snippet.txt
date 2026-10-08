@@ -1,0 +1,459 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39920 Braking Systems
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 21/02/2018
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 21.2.2018
+C(2018) 925 final
+
+COMMISSION DECISION
+
+of 21.2.2018
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the Agreement on the European Economic Area
+
+(AT.39920 – Braking Systems)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 4
+2. THE INDUSTRY CONCERNED ............................................................................... 4
+2.1. The product .................................................................................................................. 4
+2.2. The undertakings .......................................................................................................... 4
+2.2.1. TRW ............................................................................................................................. 4
+2.2.2. BOSCH ........................................................................................................................ 5
+2.2.3. CONTINENTAL .......................................................................................................... 5
+3. PROCEDURE .............................................................................................................. 5
+4. DESCRIPTION OF THE CONDUCT ......................................................................... 7
+4.1. Nature, scope and duration ........................................................................................... 7
+4.1.1. Infringement I ............................................................................................................... 7
+4.1.2. Infringement II ............................................................................................................. 8
+4.2. Geographical scope ...................................................................................................... 9
+5. LEGAL ASSESSMENT .............................................................................................. 9
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) EEA Agreement ......... 9
+5.1.1. Agreements and concerted practices ............................................................................ 9
+5.1.1.1. Principles ...................................................................................................................... 9
+5.1.1.2. Application to this case .............................................................................................. 10
+5.1.2. Single and continuous infringement........................................................................... 11
+5.1.2.1. Principles .................................................................................................................... 11
+5.1.2.2. Application to this case .............................................................................................. 12
+5.1.3. Restriction of competition .......................................................................................... 13
+5.1.3.1. Principles .................................................................................................................... 13
+5.1.3.2. Application to this case .............................................................................................. 13
+5.1.4. Effect upon trade between Member States and Contracting States to the EEA
+Agreement .................................................................................................................. 13
+5.1.4.1. Principles .................................................................................................................... 13
+5.1.4.2. Application to this case .............................................................................................. 14
+5.2. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement .................................................................................................................. 14
+5.2.1.1. Principles .................................................................................................................... 14
+5.2.1.2. Application to this case .............................................................................................. 14
+6. Duration of the participation of the parties in the infringements ............................... 15
+7. Liability ...................................................................................................................... 15
+
+EN 1 EN
+
+7.1. Principles .................................................................................................................... 15
+7.2. Application to this case .............................................................................................. 16
+7.2.1. TRW ........................................................................................................................... 16
+7.2.2. BOSCH ...................................................................................................................... 17
+7.2.3. CONTINENTAL ........................................................................................................ 17
+8. Remedies .................................................................................................................... 17
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 17
+8.2. Article 23(2) of Regulation (EC) No 1/2003 ............................................................. 18
+8.3. Calculation of the fines .............................................................................................. 18
+8.3.1. The value of sales ....................................................................................................... 19
+8.3.2. Determination of the basic amount of the fines ......................................................... 20
+8.3.2.1. Gravity ........................................................................................................................ 20
+8.3.2.2. Duration ...................................................................................................................... 20
+8.3.2.3. Additional amount ...................................................................................................... 21
+8.3.3. Adjustments to the basic amount: Aggravating or mitigating factors ........................ 21
+8.3.4. Deterrence .................................................................................................................. 21
+8.4. Application of the 10% turnover limit ....................................................................... 22
+8.5. Application of the Leniency Notice ........................................................................... 22
+8.5.1. Immunity .................................................................................................................... 22
+8.5.2. Partial Immunity......................................................................................................... 22
+8.5.3. Reduction of fines ...................................................................................................... 23
+8.6. Application of the Settlement Notice ......................................................................... 23
+8.7. Conclusion: Final amount of individual fines to be imposed .................................... 23
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 21.2.2018
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the Agreement on the European Economic Area
+
+(AT.39920 – Braking Systems)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union1,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty3
+and in particular Article 10a thereof,
+Having regard to Commission Decision of 22 September 2016 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case4,
+
+Whereas:
+
+1 OJ C 115, 9.5.2008, p. 47.
+2 OJ L 1, 4.1.2003, p.1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market".
+3 OJ L 123, 27.4.2004, p. 18.
+4 Final Report of the Hearing Officer of 20 February 2018.
+
+EN 3 EN
+
+1. INTRODUCTION
+(1) The addressees of this Decision participated in a set of agreements and concerted
+practices amounting to two single and continuous infringements of Article 101 of the
+Treaty on the Functioning of the European Union (‘the Treaty’) and Article 53 of the
+Agreement on the European Economic Area (‘the EEA Agreement’). The
+agreements and concerted practices concerned the sale of hydraulic braking system
+components and electronic braking systems for passenger cars and covered the
+European Economic Area (‘the EEA’). The agreements and concerted practices
+concerned the exchange of sensitive business information for the purposes of
+reducing competitive uncertainty in the area of sales of hydraulic braking system
+components and electronic braking systems for passenger cars to a number of car
+manufacturers. The infringements took place between 2007 and 2011.
+(2) This Decision is addressed to the following legal entities being part of the
+undertakings mentioned below:
+(a) for the undertaking TRW: ZF TRW Automotive Holdings Corp., TRW KFZ
+Ausrüstung GmbH and Lucas Automotive GmbH;
+(b) for the undertaking BOSCH: Robert Bosch GmbH;
+(c) for the undertaking CONTINENTAL: Continental AG, Continental Teves AG
+& Co. oHG and Continental Automotive GmbH.
+
+2. THE INDUSTRY CONCERNED
+2.1. The product
+(3) Braking systems are an essential input for car manufacturers and the two main
+braking systems available are hydraulic braking systems and electronic braking
+systems. Hydraulic braking systems consist of an actuation system (brake booster /
+main brake cylinder) and a foundation system (disc brake with saddle or drum brake
+and wheel brake cylinder). Electronic braking systems prevent cars from skidding
+by providing electronic stability controls when braking (ABS) or under all driving
+conditions (ESC).
+(4) It is possible to combine hydraulic and electronic braking systems of different
+suppliers in the same car.
+
+2.2. The undertakings
+2.2.1. TRW
+(5) The undertaking TRW ("TRW") is a global supplier of advanced automotive
+technologies, systems and components with its group headquarters in the US. TRW
+Automotive Holding Corp. (US) was the group parent company at the time of the
+infringement. It was merged with another company and later renamed ZF TRW
+Automotive Holdings Corp. TRW's worldwide turnover in 2017 was ca. EUR 14
+billion.5
+(6) The relevant legal entities are:
+
+5 [...].
+
+EN 4 EN
+
+(a) ZF TRW Automotive Holdings Corp. with registered offices in 12001 Tech
+Center Drive, Livonia, MI 48150 (USA);
+(b) TRW KFZ Ausrüstung GmbH with registered offices in Rudolf-Diesel-
+Straße 7, D-56566 Neuwied (Germany);
+(c) Lucas Automotive GmbH with registered offices in Carl-Spaeter-Straße 8, D-
+56070 Koblenz (Germany).
+2.2.2. BOSCH
+(7) The undertaking Bosch ("BOSCH") is a global supplier of advanced automotive
+technologies, systems and components with its group headquarters in Germany.
+Robert Bosch GmbH is the operative parent company of the group. BOSCH's
+worldwide turnover in 2017 was ca. EUR 78 billion.6
+(8) The relevant legal entity is:
+(a) Robert Bosch GmbH with its statutory seat in Stuttgart and headquarters in
+Robert-Bosch-Platz 1, D-70839 Gerlingen (Germany).
+2.2.3. CONTINENTAL
+(9) The undertaking Continental ("CONTINENTAL") is a global supplier of advanced
+automotive technologies, systems and components with its group headquarters in
+Germany. Continental AG is the group parent company. CONTINENTAL's
+worldwide turnover in 2017 was ca. EUR 44 billion.7
+(10) The relevant legal entities are:
+(a) Continental AG with registered offices in Vahrenwalder Straße 9, D-30165
+Hannover (Germany);
+(b) Continental Teves AG & Co. oHG with registered offices in Guerickestraße
+7, D-60488 Frankfurt (Germany);
+(c) Continental Automotive GmbH with registered offices in Vahrenwalder
+Straße 9, D-30165 Hannover (Germany).
+
+3. PROCEDURE
+(11) On 13 July 2011, TRW applied for immunity under the Commission Notice on
+immunity from fines and reduction of fines in cartel cases8 (the "Leniency Notice")
+in respect of bilateral contacts with BOSCH concerning sales of braking systems for
+passenger cars to customer Daimler. On 14 November 2011, the Commission granted
+TRW conditional immunity from fines for the infringement regarding braking
+systems for Daimler, pursuant to point 8(a) of the Leniency Notice.
+(12) From 22 to 24 November 2011, the Commission carried out inspections at the
+premises of BOSCH based on the information provided by TRW.
+(13) On 24 November 2011, BOSCH submitted a leniency application under the Leniency
+Notice in respect of sales of hydraulic braking systems for passenger cars to
+
+6 [...].
+7 [...].
+8 Commission Notice on immunity from fines and reduction of fines in cartel cases
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Undertaking Amount (EUR)
+
+I TRW DAIMLER [30 000 000-60 000 000]
+
+BMW [10 000 000-30 000 000]
+
+BOSCH DAIMLER [10 000 000-30 000 000]
+
+BMW [1 000 000-5 000 000]
+
+CONTINENTAL DAIMLER [30 000 000-70 000 000]
+
+BMW [30 000 000-60 000 000]
+
+II CONTINENTAL VW [10 000 000-30 000 000]
+
+BOSCH VW [20 000 000-40 000 000]
+
+8.4. Application of the 10% turnover limit
+(112) The fine imposed on each undertaking for each infringement in which it participated
+shall not exceed 10% of its total turnover relating to the business year preceding the
+date of the Commission decision.51
+
+8.5. Application of the Leniency Notice
+8.5.1. Immunity
+(113) TRW was granted conditional immunity from fines for Infringement I. TRW's cooperation fulfilled the requirements of the Leniency Notice throughout the procedure.
+TRW should therefore be granted immunity from fines for Infringement I.
+(114) CONTINENTAL was granted conditional immunity from fines for Infringement II.
+CONTINENTAL's co-operation fulfilled the requirements of the Leniency Notice
+throughout the procedure. CONTINENTAL should therefore be granted immunity
+from fines for Infringement II.
+8.5.2. Partial Immunity
+(115) If an applicant for a reduction of the fine is the first to submit compelling evidence
+which the Commission uses to establish additional facts increasing the gravity or
+duration of the infringement, such additional facts will not be taken into account
+when setting the fine for this applicant.
+(116) CONTINENTAL was the first party to submit compelling evidence within the
+meaning of point 25 of the Leniency Notice that enabled the Commission to include
+the customer BMW in Infringement I. As the infringement is limited to specific
+customers (and does not cover the whole braking systems market), evidence in
+respect of an additional customer provided by CONTINENTAL resulted in an
+increase in the gravity of the infringement. In accordance with point 26 of the
+
+51 Article 23(2) of Regulation (EC) No 1/2003.
+
+EN 22 EN
+
+Leniency Notice, the value of sales to customer BMW should not be taken into
+account when setting the fine to be imposed on CONTINENTAL for Infringement I.
+8.5.3. Reduction of fines
+(117) The Commission has already informed BOSCH of its intention to grant BOSCH a
+leniency reduction within the range of 30%-50% of any fine that would otherwise
+have been imposed for Infringements I and II. BOSCH was the first undertaking to
+meet the requirements of points 24 and 25 of the Leniency Notice as regards both
+infringements. BOSCH applied for leniency immediately after the Commission
+inspections in November 2011 and provided evidence which was relevant to prove
+the duration and the scope of the infringements. However, as regards infringement I,
+BOSCH's statements were focussed on customer Daimler. As concerns infringement
+II, BOSCH only confirmed the statements of CONTINENTAL. BOSCH should
+therefore be granted a reduction of 35% of the fine that would otherwise have been
+imposed for Infringement I and a reduction of 30% of the fine that would otherwise
+have been imposed for Infringement II.
+(118) The Commission has already informed CONTINENTAL of its intention to grant
+CONTINENTAL a leniency reduction within the range of 20%-30% of any fine that
+would otherwise have been imposed for the Daimler-related aspect of Infringement I.
+CONTINENTAL was the second undertaking to meet the requirements of points 24
+and 25 of the Leniency Notice as regards the Daimler-related aspect of Infringement
+I. CONTINENTAL applied for leniency only at a late stage and several weeks after
+the Commission inspections in September 2014, but still provided evidence which
+was relevant as concerns the Daimler-related conduct. The cooperation provided in
+respect of the BMW-related aspect of Infringement I is already taken into account in
+the context of the partial immunity granted in that regard and should not be
+considered again for the level of reduction concerning the remaining Daimler-related
+conduct. CONTINENTAL should therefore be granted a reduction of 20% of the fine
+that would otherwise have been imposed for Infringement I.
+
+8.6. Application of the Settlement Notice
+(119) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% of turnover limit has been applied having regard to the Guidelines on Fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, that reduction is added to the reductions for their cooperation under the
+Leniency Notice.
+(120) Consequently, the amount of the fines to be imposed on each party should be further
+reduced by 10%.
+
+8.7. Conclusion: Final amount of individual fines to be imposed
+(121) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+as follows:
+
+Infringement Undertaking Amount (EUR)
+I
+TRW 0
+
+BOSCH 12 072 000
+
+CONTINENTAL 44 006 000
+II
+CONTINENTAL 0
+
+EN 23 EN
+
+BOSCH 19 348 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings infringed Article 101 of the Treaty on the Functioning of the
+European Union (‘the Treaty’) and Article 53 of the Agreement on the European Economic
+Area (the ‘EEA Agreement’) by participating in a single and continuous infringement lasting
+from 13 February 2007 until 18 March 2011 and covering the whole EEA, which consisted of
+the exchange of sensitive business information with a view to reducing competitive
+uncertainty for sales of hydraulic braking system components for passenger cars to customers
+Daimler and BMW, during the periods indicated below:
+(a) ZF TRW Automotive Holdings Corp., TRW KFZ Ausrüstung GmbH and
+Lucas Automotive GmbH from 13 February 2007 until 18 March 2011 in
+relation to customer Daimler and from 29 June 2010 until 18 March 2011 in
+relation to customer BMW;
+(b) Robert Bosch GmbH from 13 February 2007 until 18 March 2011 in relation to
+customer Daimler and from 29 June 2010 until 18 March 2011 in relation to
+customer BMW; and
+(c) Continental AG, Continental Teves AG & Co. oHG and Continental
+Automotive GmbH from 13 February 2007 until 19 March 2010 in relation to
+customer Daimler and from 29 June 2010 until 18 March 2011 in relation to
+customer BMW.
+
+Article 2
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement lasting from 29
+September 2010 until 7 July 2011 and covering the whole EEA, which consisted of the
+exchange of sensitive business information with a view to reducing competitive uncertainty
+for sales of electronic braking systems for passenger cars to customer VW for the MLB evoplatform, during the period indicated below:
+(a) Robert Bosch GmbH from 29 September 2010 until 7 July 2011; and
+(b) Continental AG and Continental Teves AG & Co. oHG from 29 September
+2010 until 7 July 2011.
+
+Article 3
+For the single and continuous infringement referred to in Article 1 of this Decision, the
+following fines are imposed:
+(a) on ZF TRW Automotive Holdings Corp., TRW KFZ Ausrüstung GmbH and
+Lucas Automotive GmbH jointly and severally: EUR 0;
+(b) on Robert Bosch GmbH: EUR 12 072 000;
+(c) on Continental AG, Continental Teves AG & Co. oHG and Continental
+Automotive GmbH jointly and severally: EUR 44 006 000.
+
+EN 24 EN
+
+Article 4
+For the single and continuous infringement referred to in Article 2 of this Decision, the
+following fines are imposed:
+(a) on Robert Bosch GmbH : EUR 19 348 000;
+(b) on Continental AG and Continental Teves AG & Co. oHG jointly and
+severally: EUR 0 .
+
+Article 5
+The fines shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39920
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Articles 1 and 2 lodges an appeal, that undertaking shall
+cover the fine by the due date, either by providing an acceptable financial guarantee or by
+making a provisional payment of the fine in accordance with Article 90 of Commission
+Delegated Regulation (EU) No 1268/2012.52
+
+Article 6
+The undertakings to which this decision is addressed shall immediately bring to an end the
+infringements referred to in Articles 1 and 2, if they have not already done so.
+They shall refrain from repeating any act or conduct described in Articles 1 and 2, and from any
+act or conduct having the same or similar object or effect.
+
+Article 7
+This Decision is addressed to:
+(a) ZF TRW Automotive Holdings Corp., 12001 Tech Center Drive, Livonia, MI 48150,
+USA;
+(b) TRW KFZ Ausrüstung GmbH, Rudolf-Diesel-Straße 7, D-56566 Neuwied,
+Germany;
+(c) Lucas Automotive GmbH with registered offices in Carl-Spaeter-Straße 8, D-56070
+Koblenz, Germany;
+(d) Robert Bosch GmbH, Robert-Bosch-Platz 1, D-70839 Gerlingen, Germany;
+
+52 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L 362, 31.12.2012, p. 1).
+
+EN 25 EN
+
+(e) Continental AG, Vahrenwalder Straße 9, D-30165 Hannover, Germany;
+(f) Continental Teves AG & Co. oHG, Guerickestraße 7, D-60488 Frankfurt, Germany;
+(g) Continental Automotive GmbH, Vahrenwalder Straße 9, D-30165 Hannover,
+Germany.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 21.2.2018
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 26 EN

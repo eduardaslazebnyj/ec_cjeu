@@ -1,0 +1,412 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of 10.11.2005
+
+imposing a periodic penalty payment
+
+pursuant to Article 24(1) of Regulation No 1⁄2003
+
+on Microsoft Corporation
+
+(Case COMP/C-3/37.792 Microsoft)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 1/2003 of 16 December 2002 on the implementation of the
+rules on competition laid down in Articles 81 and 82 of the Treaty1, and in particular Article
+24(1)(a) thereof,
+
+Having regard to the Commission Decision of 24 March 2004 relating to a proceeding under Article
+82 of the EC Treaty in Case COMP/C-3/37.792 Microsoft (C(2004)900), and in particular Article 5
+thereof,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p. 1/1.
+
+EN EN
+
+1 MICROSOFT’S OBLIGATIONS UNDER THE DECISION OF 24 MARCH 2004
+
+(1) On 24 March 2004, the Commission adopted a decision (C(2004)900) in a proceeding
+pursuant to Article 82 of the EC Treaty (Case COMP/C-3/37.792) addressed to Microsoft
+Corporation (“Microsoft”). In this decision (“the Decision”), the Commission found, inter
+alia, that Microsoft had infringed Article 82 of the EC Treaty (“Article 82”) and Article 54
+of the EEA Agreement by refusing, from October 1998 until the date of the Decision, to
+disclose certain specified “Interoperability Information” to vendors of work group server
+operating system products, so that they could develop and distribute such products.2
+
+(2) Article 5 of the operative part of the Decision reads:
+
+“As regards the abuse referred to in Article 2(a):
+
+(a) Microsoft Corporation shall, within 120 days of the date of notification of this
+Decision, make the Interoperability Information available to any undertaking
+having an interest in developing and distributing work group server operating
+system products and shall, on reasonable and non-discriminatory terms, allow the
+use of the Interoperability Information by such undertakings for the purpose of
+developing and distributing work group server operating system products;
+
+(b) Microsoft Corporation shall ensure that the Interoperability Information made
+available is kept updated on an ongoing basis and in a Timely Manner;
+
+(c) Microsoft Corporation shall, within 120 days of the date of notification of this
+Decision, set up an evaluation mechanism that will give interested undertakings a
+workable possibility of informing themselves about the scope and terms of use of
+the Interoperability Information; as regards this evaluation mechanism, Microsoft
+Corporation may impose reasonable and non-discriminatory conditions to ensure
+that access to the Interoperability Information is granted for evaluation purposes
+only;
+
+(d) Microsoft Corporation shall, within 60 days of the date of notification of this
+Decision, communicate to the Commission all the measures that it intends to take
+under points (a), (b) and (c); that communication shall be sufficiently detailed to
+enable the Commission to make a preliminarily assessment as to whether the said
+measures will ensure effective compliance with the Decision; in particular,
+Microsoft Corporation shall outline in detail the terms under which it will allow
+the use of the Interoperability Information;
+
+(e) Microsoft Corporation shall, within 120 days of the date of notification of this
+Decision, communicate to the Commission all the measures that it has taken under
+points (a), (b) and (c).”
+
+2 See Article 2(a) of the Decision.
+
+EN EN
+
+(3) The term “Interoperability Information” is defined in Article 1(1) of the Decision. It
+means “the complete and accurate specifications for all the Protocols implemented in
+Windows Work Group Server Operating Systems and that are used by Windows Work
+Group Servers to deliver file and print services and group and user administration
+services, including the Windows Domain Controller services, Active Directory services
+and Group Policy services, to Windows Work Group Networks”.3
+
+(4) It is settled case-law that the operative part of a decision should be interpreted in light of its
+non-operative part.4 In this regard, recitals 998 to 1010 of the Decision are particularly
+noteworthy when describing Microsoft’s obligations under Article 5.
+
+(5) As set out in recital 1003 of the Decision, the objective of the Decision and in particular
+Article 5 thereof “is to ensure that Microsoft’s competitors can develop products that
+interoperate with the Windows domain architecture natively supported in the dominant
+Windows client PC operating system and hence viably compete with Microsoft’s work
+group server operating system”. To this end, recital 1005 of the Decision makes clear that
+“Microsoft must not be allowed to render the order to supply ineffective by imposing
+unreasonable conditions with respect to the access to, or the use of, the information to be
+disclosed”.
+
+(6) It is incumbent upon the Commission to ensure the effectiveness of the Decision and to
+examine whether any compliance measures taken by Microsoft are in conformity with
+Article 5 of the Decision.
+
+(7) In this regard, the Commission has to assess whether any condition imposed by Microsoft
+with respect to the access to or the use of the Interoperability Information, is reasonable
+and non-discriminatory, as provided for in Article 5(a) or Article 5(c) of the Decision. In
+case Microsoft imposes conditions which have the potential effect of: (i) limiting the
+ability of, or providing disincentives to interested undertakings in providing competing
+work group server operating system products that interoperate with the Windows domain
+
+3 The term “Windows Work Group Server Operating System” is defined in Article 1(9) of the Decision as “any of the
+software products marketed by Microsoft Corporation as Windows NT Server 4.0, Windows 2000 Server and
+Windows Server 2003 Standard Edition, and updates (including, without limitation, security patches), upgrades and
+successors to the latter, as well as updates and upgrades to such successors”. The term “Windows Work Group
+Server” is defined in Article 1(8) of the Decision as “a computer connected to a network and on which a Windows
+Work Group Server Operating System is installed”. The term “Windows Work Group Network” is defined in
+Article 1(7) of the Decision as “any group of Windows Client PCs and Windows Work Group Servers linked
+together via a computer network”. The term “Windows Client PC” is defined in Article 1(4) of the Decision as “a
+PC connected to a network and on which a Windows Client PC Operating System is installed” and the term
+“Windows Client PC Operating System” is defined in Article 1(5) of the Decision as “any of the software products
+marketed by Microsoft Corporation as Windows 98, Windows 98 Second Edition, Windows Millennium Edition,
+Windows NT Workstation 4.0, Windows 2000 Professional, Windows XP Home and Windows XP Professional, and
+updates (including, without limitation, security patches), upgrades and successors to the latter, as well as updates
+and upgrades of such successors”.
+4 See e.g. Judgment of the Court of First Instance of 22 October 1997, SCK and FNK, Joined Cases T-213/95 and T-
+18/96, [1997] ECR II-1739, at paragraph 104.
+
+EN EN
+
+architecture; and/or (ii) preventing such products from becoming a viable competitive
+constraint to Microsoft’s products, such conditions can only be considered as reasonable
+under the Decision if they constitute a proportionate measure aimed at protecting
+Microsoft’s legitimate interests. In such a case, it is therefore incumbent upon Microsoft to
+identify the legitimate interests it intends to protect by means of a certain condition
+imposed on interested undertakings, and to explain how the imposed condition is both
+necessary and proportional having regard to such legitimate interests, and thus objectively
+justified. Therefore, when assessing the reasonableness of conditions imposed by
+Microsoft, a balance must be struck between any such legitimate interests and the public
+interest in ensuring the effectiveness of the Decision.
+
+(8) Any interest claimed by Microsoft as requiring protection as well as any justification
+brought forward by Microsoft as to the necessity and proportionality of a condition in
+question must be considered in the light of Microsoft’s special responsibility as a dominant
+undertaking.5 This is a responsibility that weighs particularly on Microsoft, since that
+undertaking enjoys an overwhelmingly dominant position, as noted in recital 435 of the
+Decision.6
+
+2 PROCEDURE
+
+(9) The following paragraphs will set out, in chronological order, the written contacts that
+have so far taken place between Microsoft and the Commission as regards Microsoft’s
+obligation pursuant to Article 5 of the Commission’s Decision of 24 March 2004. 7
+Meetings between the Commission services and Microsoft have also taken place in
+conjunction with these written contacts, but are not memorialised here.
+
+(10) By letter of 27 May 2004,8 Microsoft submitted a first description of the measures it
+intended to take to comply with Article 5(a) to (c) of the Decision.
+
+5 See Judgment of the Court of Justice of 14 February 1978, United Brands v Commission, Case 27/76 [1978] ECR
+207, at paragraphs 189-190: “The fact that an undertaking is in a dominant position cannot disentitle it from
+protecting its own commercial interests [...], and [...] such an undertaking must be conceded the right to take such
+reasonable steps as it deems appropriate to protect its said interests [...]. Even if the possibility of a counterattack is
+acceptable that attack must still be proportionate to the threat taking into account the economic strength of the
+undertakings confronting each other.”
+6 See Opinion of Advocate General Fennelly in Joined Cases C-395/96 P & C-396/96 P, Compagnie Maritime Belge
+and others v Commission [2000] ECR I-1365, at paragraph 137, which describes a concept of “superdominance” and
+highlights the “particularly onerous special obligation” affecting an undertaking which enjoys a position of
+“overwhelming dominance verging on monopoly”. See also Judgment of the Court of 14 November 1996, Tetra Pak
+International SA v Commission, Case C-333/94 P [1996] ECR I-05951, at paragraphs 28, 29 and 31, where Tetra
+Pak’s “quasi-monopolistic” position, its “almost complete domination of the aseptic markets” and “quasi-monopoly”
+were referred to as relevant factors justifying that Tetra Pak’s conduct on a non-dominated market and having effects
+on that non-dominated market could be found to be abusive.
+7 Other important events relating to Microsoft’s compliance are also indicated, as appropriate.
+8 Letter of 27 May 2004 from David Heiner, Deputy General Counsel of Microsoft, to Jürgen Mensching, Director,
+Directorate C, DG Competition.
+
+EN EN
+
+(11) On 7 June 2004, Microsoft lodged an application for annulment of the Decision with the
+Court of First Instance (“CFI”) (Case T-201/204). On 25 June 2004, Microsoft submitted
+an application for interim measures with the CFI, seeking to suspend the operation of the
+Decision pending the outcome of proceedings in Case T-201/04.9
+
+(12) On 25 June 2004, the Commission decided on its own initiative not to enforce Articles
+5(a), 5(b), 5(c), 5(e), 6(a) and 6(b) of the Decision, pending the outcome of the interim
+measures proceedings before the CFI. This non-enforcement decision did not amend nor
+affect in any way the time limits set out in the relevant provisions of the Microsoft
+Decision, to which Microsoft remained subject.
+
+(13) The Commission services responded to Microsoft’s letter of 27 May 2004 on 30 July
+2004,10 expressing doubts as to whether the information supplied by Microsoft was indeed
+detailed enough to be compliant with Article 5(d) of the Decision. In particular, the
+Commission services asked Microsoft to provide: (i) the technical documentation
+(specifications) that Microsoft had thus far prepared for the relevant protocols (“the
+Technical Documentation”); (ii) the terms that it would apply for the access to and use of
+the Technical Documentation; and (iii) the terms of the evaluation agreement that would
+govern access by interested third parties to the Technical Documentation for evaluation
+purposes only. In the absence of any response by Microsoft, the Commission services
+reiterated the above-mentioned request for more detailed information by letter of
+15 October 2004.11
+
+(14) Microsoft responded to these letters on 29 October 2004.12 In its response, Microsoft
+argued that “the Decision does not require Microsoft to provide the Commission with the
+intellectual property licenses and extensive technical documentation requested”.
+Microsoft also stated that in its view, the description of the measures supplied in its letter
+of 27 May 2004 satisfied Microsoft’s obligation under Article 5(d). 13 Nevertheless,
+Microsoft submitted with its response two draft agreements that it intended to offer as part
+of a “Work Group Server Protocol Program” (“WSPP”), more specifically “the draft form
+of license agreement that Microsoft plan[ed] to use in order to make available the
+intellectual property in its protocols” (“the 2004 WSPP Development and Distribution
+Agreement”), and “a draft form of evaluation agreement that Microsoft plan[ed] to use in
+order to enable prospective licensees to evaluate the protocols we would be making
+available before entering into a license for such protocols” (“the 2004 WSPP Evaluation
+
+9 Case T-201/04 R.
+10 Letter of 30 July 2004 from Jürgen Mensching to David Heiner.
+11 Letter of 15 October 2004 from Jürgen Mensching to David Heiner.
+12 Letter of 29 October 2004 from David Heiner to Jürgen Mensching.
+13 Microsoft did not provide any reasoning substantiating this assertion. In particular, it did not explain how the
+information previously supplied alone was sufficient “to enable the Commission to make a preliminarily assessment
+as to whether the said measures will ensure effective compliance with the Decision” in the words of Article 5(d) of
+the Decision.
+
+EN EN
+
+Agreement”). 14 Microsoft provided the Commission services access to the Technical
+Documentation later (see recitals (16) and (72) below).
+
+(15) The Commission services sent a letter to Microsoft on 8 December 2004 15 asking
+Microsoft to supply further explanations and all the necessary supporting documents which
+would allow the Commission to assess the conformity of the 2004 WSPP Agreements with
+Microsoft’s obligations under the Decision.
+
+(16) By e-mail of 11 December 2004, 16 Microsoft announced that it was providing the
+Commission with access to the Technical Documentation. The Commission received the
+Technical Documentation on 14 December 2004.
+
+(17) On 22 December 2004, the President of the CFI rejected Microsoft’s application for
+suspension of the Decision in its entirety.17
+
+(18) By letter of 17 January 2005, Microsoft submitted to the Commission a report by
+PriceWaterhouseCoopers (“PwC”).18 It appears that this
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+on the DRS protocol, 20 October 2005, on page 49.
+215 Microsoft report on the DRS protocol, 20 October 2005, on pages 49-50.
+216 March 2005 PwC Report, on page 63.
+
+EN EN
+
+of a licensee’s product revenues, and it is on this basis that PwC concludes that Microsoft’s
+royalty rates, which fall below this range, are reasonable.217
+
+(191) The Commission does not consider that the two [COMPANY A] licences in question are
+appropriate benchmarks, because as PwC itself indicates, both licences provide source
+code and object code. Object and source code are of a significantly different nature to
+protocol specifications. They are the underlying essence of a software product, and are
+distinct both in nature, and in terms of functional value, to protocol specifications, which
+describe how pieces of software interact together. This is highlighted at length in the
+Decision. It is therefore simply inappropriate to regard a licence for source and object
+code as comparable to one for protocol specifications (and hence to reach conclusions
+about what a reasonable royalty rate is on this basis).
+
+(192) PwC nevertheless comes back to this point in its submission annexed to Microsoft’s report
+on the DRS protocol of 20 October 2005, where it states that “source code, particularly
+when provided as part of a license to implement protocols on a different platform than the
+one for which that code was written, are [sic] not significantly additive to the value
+obtained from the documentation”. 218 This statement is vague, unsubstantiated, and
+contradicted by all the relevant evidence on the distinction between source code and
+protocol specifications. Moreover, it ignores the fact that the licence allows [a third party]
+to use [COMPANY A]’s object code in its products.219
+
+3.2.1.3.3.4 Conclusion
+(193) In conclusion, in the absence of any demonstration that the royalty levels in the All IP
+Agreement reflect a market valuation of comparable technologies, Microsoft has failed to
+date to justify that these royalty rates are reasonable. Therefore, the royalty rates must be
+considered unreasonable under Article 5(a) of the Decision, since there is no apparent
+objective justification on the necessity and the proportionality of these royalty levels in
+terms of protecting Microsoft’s legitimate interests. These considerations and analysis
+apply mutatis mutandis to the Patent Only Agreement.
+
+3.3 Calculation of the periodic penalty payments
+
+(194) Under Article 24(1)(a) of Regulation 1/2003, the Commission may, by decision, impose on
+undertakings or associations of undertakings periodic penalty payments not exceeding 5%
+
+217 PwC also mentions Microsoft’s licence with Network Appliance (which covers file protocols) as a potential
+comparable. The Commission does not consider it appropriate to take as potential comparables Microsoft licences,
+particularly in light of the fact that they are not concluded on the basis that Microsoft cannot receive remuneration
+which stems from its market power (and as such, are not concluded according to the WSPP Pricing Principles).
+218 Microsoft report on the DRS protocol, 20 October 2005, on page 44 (footnote 9).
+219 In addition, the WSPP Agreements contain a field of use restriction which by definition reduces their economic
+value. PwC mentions no such restrictions in its two most comparable licences.
+
+EN EN
+
+of the average daily turnover in the preceding business year per day and calculated from
+the date appointed by the decision, in order to compel them to put an end to an
+infringement of Article 81 or Article 82 of the Treaty, in accordance with a decision taken
+pursuant to Article 7 of Regulation 1/2003.
+
+(195) More than ten months after the Decision became enforceable, and despite the
+Commission’s repeated calls for full compliance, Microsoft has still not taken the
+appropriate measures to comply with Article 5(a) and (c) of the Decision. Ten months
+constitutes, in the present circumstances, a long duration.
+
+(196) This continuing failure by Microsoft to comply with the Decision and to bring its very
+serious breach of Article 82 to an end220 221 further increases the risk of elimination of
+competition in the work group server operating system market identified in the Decision.222
+Microsoft’s competitors continue to be unable to develop interoperable products due to
+Microsoft’s pattern of non-compliance.
+
+(197) The length of the delay and the serious risk of further elimination of competition in the
+relevant market are grounds for considering it necessary to impose a periodic penalty
+payment in this case.
+
+(198) In setting the level of the periodic penalty payments, the Commission has taken into
+account the following factors: (i) the extent to which Microsoft’s failure to meet its
+obligations under Article 5(a) and (c) of the Decision has reduced the effectiveness of the
+remedy; and (ii) the necessity of imposing periodic penalty payments sufficient to ensure
+Microsoft’s compliance with the Decision.
+
+(199) The extent of Microsoft’s non-compliance with Article 5 of the Decision is fully set out in
+Sections 3.1 to 3.2 above.
+
+(200) In particular, Microsoft has failed in its obligation to make the Interoperability Information
+available in that the information has not proved to be either accurate or complete.
+Moreover the (inadequate) information which it has made available has only been offered
+on terms which inter alia impose unreasonable price conditions.
+
+(201) These failures have frustrated the effectiveness of the remedy and left in place the unlawful
+barriers hindering companies from competing in the work group server operating system
+market.
+
+220 See recitals 1068-1074 of the Decision.
+221 See in this regard also the Judgment of the Court of Justice of 21 September 1989, Hoechst, in Joined Cases 46/87
+and 227/88 [1989] ECR 2859, at paragraph 64 where the Court refers to the “obligation imposed upon all persons
+subject to Community law to acknowledge that measures adopted by the institutions are fully effective so long as
+they have not been declared invalid by the Court and to recognize their enforceability unless the Court has decided
+to suspend the operation of the said measures [...].”
+222 See recitals 590 - 692 of the Decision.
+
+EN EN
+
+(202) The Commission has also taken into account the necessity of setting periodic penalty
+payments which are proportionate and sufficient to compel compliance from an
+undertaking such as Microsoft, with its very substantial size and financial resources. 223 It
+is also necessary to set periodic penalty payments which show that it is not possible to
+avoid or delay complying with a requirement in a Decision imposed to bring an
+infringement to an end but instead to continue to receive the benefits of failing to comply
+with such a requirement.
+
+(203) Microsoft’s turnover for the fiscal year July 2004 to June 2005 was USD 39,788 million.224
+Microsoft’s average daily turnover was therefore USD 109 million (EUR 85.7 million225).
+Accordingly, the maximum daily periodic penalty payment which may be imposed under
+Article 24(1) is USD 5.45 million (EUR 4.28 million).
+
+(204) In view of the preceding considerations, the amount of the periodic penalty payment to be
+imposed on Microsoft is EUR 2 million per day.
+
+223 At the time of the Decision, Microsoft was the largest company in the world by market capitalisation. According to
+the same measure Microsoft has held a consistently high ranking in the list of the world’s largest companies by
+market capitalisation, being the largest in 2000, the fifth largest in 2001, and the second largest in 2002 (Decision, at
+footnote 1342). More recently, Microsoft was the world’s second largest company in 2004 and the third largest in
+2005 (FT Magazine of June 11 2005, page 28.) As of 30 September 2005, Microsoft was the world’s third largest
+company by market capitalisation, behind Exxon Mobil and General Electric (source: FT Global 500 September
+2005, http://news.ft.com/cms/219fda04-3662-11da-bedc-00000e2511c8.pdf, printed on 14 October 2005.)
+Microsoft’s resources and profits are also significant. Microsoft’s Securities and Exchange Commission filing for the
+US fiscal year July 2004-June 2005 reveals that it possessed a cash (and short-term investment) reserve of USD
+37,751 million on June 30, 2005. As regards profits, this Securities and Exchange Commission filing indicates that
+in the US fiscal year July 2004-June 2005, Microsoft earned net income (after taxes) of USD 12,254 million on
+revenues of USD 39,788 million (a net profit margin of 30.8%). Of these revenues, the Windows PC client PC
+operating system product during this period (“Client” product segment) earned operating income of USD 9,396
+million on revenues of USD 12,048 million, and the “Server and Tools” product segment earned operating income of
+USD 2,888 million on revenues of USD 9,143 million (ibid).
+224 Microsoft’s Form 10-K Annual Report for the US fiscal year ending June 30, 2005, on page 9. See
+http://www.sec.gov/Archives/edgar/data/789019/000119312505174825/d10k.htm, printed on 27 September 2005.
+225 The exchange rate used for the year July 1, 2004-June 30, 2005 is EUR 1 = USD 1.2726. This is the average of the
+average quarterly exchange rates for the third and fourth quarters of 2004, and the first and second quarters of 2005
+(1.2220, 1.2977, 1.3113, 1.2594). Source: Eurostat.
+
+EN EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Microsoft Corporation shall ensure that, by 15 December 2005, it fully complies with the
+obligations set out in Article 5(a) and (c) of Commission Decision (C(2004)900) of 24 March 2004.
+
+In the absence of such compliance, a periodic penalty payment of EUR 2 million per day, calculated
+from that date, shall be imposed on Microsoft Corporation.
+
+Article 2
+
+This Decision is addressed to Microsoft Corporation, One Microsoft Way, Redmond, WA 98052,
+United States.
+
+Done at Brussels, 10.11.2005.
+
+For the Commission
+
+Neelie KROES
+Member of the Commission
+
+EN 54 EN

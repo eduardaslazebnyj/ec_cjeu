@@ -1,0 +1,139 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31986D0405
+86/405/EEC: Commission Decision of 14 July 1986 relating to a proceeding under Article 85 of the EEC Treaty (IV/30.320 - optical fibres) (Only the English and German texts are authentic)
+Official Journal L 236 , 22/08/1986 P. 0030 - 0044
+*****
+COMMISSION DECISION
+of 14 July 1986
+relating to a proceeding under Article 85 of the EEC Treaty (IV/30.320 - optical fibres)
+(Only the English and German texts are authentic)
+(86/405/EEC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty (1), as last amended by the Act of Accession of Spain and Portugal, and in particular Articles 4, 6 and 8 thereof,
+Having regard to the applications for negative clearance and notifications by Corning Glass Works of New York and some of its affiliated companies (hereinafter referred to as 'Corning') on the one hand and several European companies on the other hand of joint venture agreements and related patent licence agreements, as amended, concerning mainly the manufacture and sale of optical fibres and optical cables,
+Having regard to the summary of the applications and notifications published (2) pursuant to Article 19 (3) of Regulation No 17,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Whereas:
+I
+THE FACTS
+A. The procedure
+(1) The agreements relating to the United Kingdom of 1981 listed in Annex 1 were notified to the Commission on 17 March 1981. The German agreements of 1973 and 1978 listed in the same Annex and agreements relating to a joint venture in France were notified to the Commission on 24 June 1983. The parties have applied for negative clearance pursuant to Article 2 of Regulation No 17 or, failing that, for exemption pursuant to Article 85 (3).
+(2) On 6 July 1983, the Commission initiated a proceeding under Article 3 (1) of Regulation No 17 with a view to establishing the possible existence of an infringement of Article 85 (1). The Commission sent a statement of objections to all the parties concerned considering in particular that Corning's participation in the operation of three joint ventures having the same business activity and located in three Member States was such that it could have led to a market allocation between the three joint ventures by extensive coordination of output, sales and pricing decisions and by exchange of sensitive competitive information. The Commission further objected to certain specific provisions contained in the notified agreements.
+(3) The Commission's objections were made in the light of Corning's strong controlling powers over each joint venture by way of its voting rights in the shareholders' meetings and its representation of the boards of management of the joint ventures. The Commission's assessment was further based on the particular conditions of the optical fibre market in which Corning has a strong patent position, on the fact that Corning's partners are major cable makers and suppliers to national posts and telecommunications undertakings or authorities (PTTs) in their respective countries and that only a limited number of sources of supply for optical fibres is available in the EEC and world-wide.
+(4) In December 1983, an oral hearing took place at which all the parties concerned submitted observations to the Commission. Following that hearing, the parties proposed amendments to the original agreements. The amendments have brought about important changes in both the structure of the joint ventures and the rights and obligations of the parties. The subject of the present Decision is the agreements in their amended form.
+B. The undertakings concerned
+Corning Glass Works
+(5) Corning Glass Works is a US corporation registered in New York with many subsidiaries in the EEC and the rest of the world. The Corning group has interests in the development, manufacture and sale of diverse products, primarily glass and ceramic products. In 1984, Corning's consolidated group turnover amounted to US $ 1 732 700 000.
+(6) In 1970, Corning made a major invention by developing optical fibres which could be used for communication purposes. Their main use is in the field of telecommunications where they are likely to replace most traditional copper wire or coaxial cables. Their advantages over traditional conductors are principally higher volume of transmissions, fewer repeaters to boost signals over long distances and immunity to electromagnetic interference.
+(7) Since 1970, Corning has taken steps to protect its technology for the production of optical fibres by registering patents in all major countries of the world, in particular in the United States, Canada, Japan and Member States of the EEC. In the EEC, Corning has registered patents in all Member States other than Ireland, Luxembourg, Greece and Portugal. Corning has registered both product patents and process patents covering optical fibres. Corning has been and still is involved in various patent infringement actions, in particular in the United States and in Canada.
+(8) In 1973 and 1974, Corning concluded joint development agreements with BICC plc and the Plessey Company plc in the United Kingdom, Compagnie Generale d'Electricité (CGE) in France, and Industrie Pirelli SpA in Italy. At the same time, Corning formed in the Federal Republic of Germany a 50/50 joint venture company with Siemens AG, named 'Siecor GmbH'. Corning and Siemens also concluded a technical cooperation agreement which was the equivalent of Corning's joint development agreements in the other three countries.
+(9) The joint development agreements entrusted the European partners with the development of the cabling technology necessary to cable optical fibres, while Corning itself continued the development of optical fibres. Corning gave its partners an option to obtain, at any time during the term of the agreements, an exclusive (1) manufacturing and sales licence for optical fibres under its respective patents in the United Kingdom, France and Italy. In 1980, CGE and Pirelli exercised their options and took an exclusive licence as originally contemplated. BICC and Siemens, however, have preferred to conclude a joint venture agreement rather than taking an exclusive licence. The joint development agreements have all expired with the exercise of the licence options or the creation of the joint ventures.
+(10) Between 1975 and 1978, Corning concluded with its European partners exclusive distribution agreements (but non-exclusive with regard to Corning itself) for the sale of its own optical fibres in their respective countries. In the United Kingdom and Germany, Corning granted these exclusive distribution rights to its joint ventures with BICC (2) and Siemens.
+(11) In 1981, Corning formed a 50/50 joint venture with BICC in the United Kingdom in the form of an unlimited partnership, named 'Optical Fibres' (OF), and a 40/60 joint venture with Compagnie Financière pour les Fibres Optiques (COFO) in France, called 'Fibres Optiques Industries' (FOI).
+(12) The principal purpose of the French and United Kingdom joint ventures is the manufacture and sale of optical fibres. The German joint venture further includes the manufacture and sale of optical cables. In fact, however, the German joint venture concentrates on the manufacture and sale of optical fibres, leaving the manufacture and sale of optical cables to Siemens. This development was confirmed by the creation in 1985 of a new joint company, called 'Siecor Gesellschaft fuer Lichtwellenleiter mbH & Co. KG' which has as its sole activity the manufacture of optical fibres.
+(13) In 1984, Corning granted a non-exclusive licence to N.V. Philips' Gloeilampenfabrieken in the Netherlands and in Belgium. In 1986, it was announced that Corning planned to set up a subsidiary in Spain, in which Compañia Telefónica Nacional de España would take a minority shareholding, for the production and sale of optical fibres.
+(14) In the United States, Corning has at present production plants for optical fibres with a capacity of 1 700 000 km/year. This is the biggest capacity in the world.
+(15) Corning has also made a worldwide cross-licensing arrangement with AT & T, but relating only to patents covering inventions before 1980. Corning has also licensed ITT, Valtec, Spectran and Northern Telecom.
+(16) In Japan, Corning granted in 1977 a licence to Furukawa Electric Co with the right to sublicense to Sumitomo and Fujikura.
+BICC plc
+(17) BICC plc is a leading cable maker in the United Kingdom and a major supplier of British Telecom. In 1984, BICC's consolidated group turnover amounted to £ 2 089 million. BICC has a plant manufacturing optical cables for telecommunication purposes at Blackley near Manchester.
+(18) BICC has not developed technology similar to Corning's and does not compete with Corning in the optical fibre market.
+(19) The United Kingdom joint venture has built a production plant for optical fibres with a capacity of 250 000 kms/year.
+COFO
+(20) The French joint venture, FOI, has undergone a restructuring operation and agreements amending those originally concluded have not yet been submitted to the Commission. On the basis of undertakings given by the parties, the Commission understands that new agreements similar to those relating to the United Kingdom and German joint ventures will be concluded and notified. If and when this is done, the Commission will consider the grant of an exemption under Article 85 (3) similar to the one granted herein.
+Siemens AG
+(21) Siemens AG is a leading cable maker in the Federal Republic of Germany and the major supplier of the Deutsche Bundespost. In 1983/1984, Siemens' consolidated group turnover amounted to DM 48 124 million. Siemens itself manufactures and sells optical cables.
+(22) Siemens has not developed technology similar to Corning's and does not compete with Corning in the optical fibre market.
+(23) The German joint venture is in the course of building a plant for the production of optical fibres which will have a capacity of 80 000 kms/year.
+C. The product
+(24) Optical fibres are a substitute for microwave and satellite transmission and for traditional coaxial and copper conductors in the field of communications. Their major application is in telephone communications. Cable television and other broad band transmissions are another important application for optical fibres. Optical fibre technology is developing rapidly and use of optical fibres can be expected to increase greatly as their price falls and the volume of communications grows. Most Member States have already installed a number of optical communication systems and/or plan to install such systems.
+D. The market
+(25) A table with the producers of optical fibres worldwide and their current estimated capacities is given in Annex 2 to the present Decision. The table also indicates whether or not the producer has a licence from Corning. It should, however, be noted that the output of optical fibre plants can be increased rapidly, so the capacities mentioned in the table can become quickly out of date. (26) The main markets for optical fibres are North America, Japan and the EEC. To the extent that Corning's patents are not infringed, US, Canadian and Japanese producers can sell on the EEC market. Optical fibres can be transported easily.
+(27) In the United States and Canada, there are at present nine producers, three of which produce optical fibres without a Corning licence. Corning and AT & T have by far the biggest production capacities, having approximately 1 700 000 km/year and 1 000 000 km/year respectively, representing some 80 % of total estimated US and Canadian production capacities.
+(28) In Japan, there are six producers, three of which produce optical fibres without a Corning licence. Sumitomo (a sub-licensee of Furukawa) has the biggest capacity in Japan with 240 000 km planned for 1986. Furukawa (a Corning licensee) is the second largest producer with a planned capacity of 120 000 km for 1986.
+(29) In the EEC, there are at present fourteen producers, including plants under construction. There are four producers in the United Kingdom: OF, STC, The General Electric Company plc (GEC) and Pirelli General plc, of which only OF has a Corning licence. There are two producers in France operating under Corning licence: FOI and CLTO. There are five companies either producing or intending to produce in the Federal Republic of Germany: Siecor, Wacker, AEG, SEL (ITT) and PKI (Philips), of which only Siecor and SEL have Corning licences. There is one producer in Italy, Fibre Ottiche Sud (FOS - 50 % owned by Pirelli, one in the Netherlands, Philips, and one in Denmark, NKT. FOS and Philips manufacture optical fibres under a Corning licence. NKT does not have a Corning licence.
+(30) Corning's joint ventures in the EEC have a combined production capacity of 385 000 km/year, which represents some 48 % of total estimated EEC production capacity.
+(31) There are other producers of optical fibres in Sweden, Switzerland, Australia, Brazil and Korea (see Annex 2).
+(32) In the market described above, Corning has a special position since it holds a number of basic patents for the manufacture of optical fibres in most countries of the world. However, Corning's patent coverage varies from one country to another and several optical fibre producers operate without a Corning licence. This is in particular the case of Sumitomo, which produces optical fibres in Japan and the United States, is a partner in joint ventures in Australia and Korea and has granted licences to Pirelli General in the UK and Wacker-Chemitronic GmbH in the Federal Republic of Germany. Corning has started a patent infringement action against Sumitomo in the United States, which is still pending. No such litigation has been started by Corning in the EEC.
+(33) Optical fibres are generally sold to cable makers, who cable the fibres and supply the cabled fibres to users of optical cables. Corning's joint venture partners in the EEC are large cable makers with substantial requirements of optical fibres. They will be the main purchasers of the optical fibres produced by their associated joint ventures.
+(34) The principal users of optical cables are the PTTs. Corning's joint venture partners are established suppliers of the PTTs in their respective countries. The cooperation by Corning with important cable makers was essential for its penetration of the EEC market, because Corning was a new entrant in the telecommunications market and was faced with strong local purchasing policies on the part of most European PTTs.
+(35) The price of optical fibres is formed by the interplay of three forces: the suppliers of optical fibres, the cable makers and the end users. The price of optical fibres is further determined by the price 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ption of Corning's partners and the joint ventures to take up a non-exclusive licence under Corning's patents on termination of either the joint venture agreements or the licence agreements guarantees continued access to Corning's technology and increases the prospect of possible future competition between the parties.
+(d) No possibility of eliminating competition in respect of a substantial part of the products in question
+(73) Although competition between the joint ventures is distorted, the parties are not able to eliminate competition in respect of a substantial part of the products in question for the following reasons:
+(74) (i) There are several other producers of optical fibres in the common market. Details may be found in Annex 2.
+(75) If Corning or its joint ventures were to bring successful patent infringement actions in the EEC and to refuse, without good reasons, to grant licences to third parties, the Commission would need to consider whether it would not have to revoke this exemption Decision pursuant to Article 8 (3) of Regulation No 17. The same reservation would apply to any change in the partners participating in the joint ventures covered by the present Decision.
+(76) (ii) The optical fibre market in the EEC is not immune from the pressures of competition of the world market. These pressures derive principally from the strong position of US and Japanese producers, in particular AT & T and Sumitomo. AT & T has a worldwide licence under Corning's basic patents. It could at any time export optical fibres to the EEC or manufacture optical fibres in the EEC.
+(77) (iii) Optical cables are in competition with traditional cables and microwave and satellite transmission techniques; the use of traditional cable, in particular in local telephone networks, remains predominant because of its cost advantages.
+(78) (iv) There are a number of powerful competing cable makers who can obtain optical fibres from the joint ventures on non-discriminatory terms or from other independent suppliers of optical fibres in order to produce optical cables.
+(79) (v) The main end-users, the PTTs, have exceptionally strong purchasing power; they are able to insist on supplies of both optical fibres and optical cables at world competitive prices and to obtain supplies from non-national producers, including those joint ventures which are not established on their own territory, if they so wish. (80) For all these reasons, it will not be possible for Corning and its partners to eliminate competition in respect of a substantial part of the products in question in the EEC.
+C. Regulation No 17
+(81) In accordance with Article 8 (1) of Regulation No 17, a Decision in application of Article 85 (3) is issued for a specified period and conditions and obligations may be attached thereto.
+(82) In the case of production joint ventures requiring substantial long term investments and concerning a new product not yet fully established on the market, a period of 15 years appears indispensable to enable the parties to rely on the enforceability of the agreements and to obtain a satisfactory return on their capital.
+(83) In order to reduce the risk of collusion between the joint ventures, this exemption Decision shall be made subject to the condition that the parents of each joint venture and the joint venture itself do not forward to the other joint venture or its parents information concerning prices, costs, sales, production, marketing plans or any other competitive information relating to either optical fibres or optical cables.
+(84) This exemption Decision shall further impose on the joint venture companies the obligation to provide the Commission on an annual basis with certain commercial data enabling the Commission to satisfy itself that the conditions of Article 85 (3) continue to be fulfilled -
+HAS ADOPTED THIS DECISION:
+Article 1
+(1) The provisions of Article 85 (1) of the EEC Treaty are hereby declared inapplicable, by virtue of Article 85 (3), to the joint venture agreements and related licence agreements, as amended, identified in Annex 1.
+(2) The declaration in paragraph 1 shall apply from 5 November 1985 to 4 November 2000 for the Corning-Siemens agreements and from 8 January 1986 to 7 January 2001 for the Corning-BICC agreements.
+Article 2
+This Decision is made subject to the condition that the parent undertakings of each joint venture and the joint venture itself do not forward to the other joint venture or its parent undertakings information concerning prices, costs, sales, production, marketing plans or any other competitive information relating to optical fibres or optical cables.
+Article 3
+Each joint venture company shall be obliged to provide the Commission, on an annual basis, not later than 30 June following the end of the preceding calendar year, with the following information:
+(i) its total annual production and sales figures;
+(ii) copies of all its quotations in the EEC which exceed 100 kms of optical fibres or optical cables;
+(iii) with respect to orders exceeding 100 kms of optical fibres or optical cables, the names of the customers supplied in the EEC, the prices charged and the quantitatives supplied;
+and
+(iv) the prices and delivery terms for sales from the joint ventures to their parent undertakings.
+Article 4
+This Decision is addressed to:
+(i) Corning Glass Works,
+Corning,
+NY 14831,
+USA;
+(ii) BICC plc
+21, Bloomsbury Street,
+UK - London WCIB 3QN;
+(iii) Siemens AG,
+Wittelsbacherplatz 2,
+D-8000 Muenchen 2;
+(iv) Optical Fibres,
+Second Avenue,
+Deeside Industrial Park,
+Deeside,
+UK - Clwyd CH5 2NX;
+(v) Siecor GmbH,
+Kistlerhof 174a,
+D-8000 Muenchen 70.
+Done at Brussels, 14 July 1986.
+For the Commission
+Peter SUTHERLAND
+Member of the Commission
+(1) OJ No 13, 21. 2. 1962, p. 204/62.
+(2) OJ No C 206, 16. 8. 1985, p. 3.
+(1) The exclusivity provisions, however, did not apply to Corning itself and to the US companies American Telephone and Telegraph, Western Electric, Southern New England Telephone Co and Cincinnati Bell Inc.
+(2) Before the creation of the United Kingdom joint venture, these rights were granted directly to BICC.
+(1) This reduction of voting rights does not apply to the United Kingdom joint venture which is an unlimited partnership and has no shareholders' meeting.
+(2) OJ No L 219, 16. 8. 1984, p. 15.
+ANNEX 1
+A. The Corning agreements with BICC plc in the United Kingdom
+1. A partnership agreement dated 6 February 1981 between Corning Canada Inc and BICC plc, setting up a 50/50 joint venture with the name 'Optical Fibres' for the production and sale of optical fibres (as amended);
+2. A know-how and patent licence agreement dated 6 February 1981 between Corning Glass Works and BICC plc for the benefit of the joint venture (as amended);
+3. The agreement of amendment dated 31 December 1985 to the partnership agreement and the first amending agreement dated 31 December 1985 to the know-how and patent licence agreement;
+4. A letter agreement dated 31 December 1985 terminating the distributor agreement of 6 February 1981.
+B. The Corning agreements with Siemens AG in the Federal Republic of Germany
+1. A joint venture agreement dated 12 April 1973 between Corning Glass Works and Siemens AG establishing a 50/50 joint venture with the name 'Siecor GmbH' for the development, production and sale of optical fibres and optical cables (as amended);
+2. A licence agreement dated 1 January 1978 between Corning Glass Works and Siemens AG on the one hand and Siecor GmbH on the other hand (as amended);
+3. The articles of association of Siecor Gesellschaft fuer Lichtwellenleiter mbH & Co. KG for the manufacture of optical fibres;
+4. The agreement of amendment dated 26 September 1985 to the joint venture agreement, the licence agreement and Siecor's articles of association;
+5. A letter agreement dated 26 September 1985 terminating the distributor and sales representative agreement of 1 April 1975.
+ANNEX 2
+WORLDWIDE CAPACITY
+1.2.3 // // // // Producer // Corning licensee // Estimated capacity km/year // // // // // // // USA and Canada: // // // Corning // // 1 700 000 // Western Electric (AT & T) // Yes for patents covering inventions before 1980 // 1 000 000 // ITT (including Valtec) // Yes (for USA) // 160 000 // Spectran/Sonetran // Yes // 100 000 // Sumitomo Electric Research Triangle // No // 70 000 // American Fibre Optics // No // 9 000 // Northern Telecom // Yes // 250 000 // Canstar // No // 5 000 // Japan: // // // Furukawa // Yes (for Japan) // 120 000 // Sumitomo // Yes - sub-licence from Furukawa // 240 000 // Fujikura // Yes - sub-licence from Furukawa // 60 000 // Hitachi Wire // No // 40 000 // Dainichi // No // 15 000 // Showa Cable // No // 15 000 // United Kingdom: // // // Optical Fibres // Yes // 250 000 // STC (ITT has approximately 25 % shareholding) // No // 20 000 // GEC // No // 20 000 // Pirelli General plc // No // 25 000 // France: // // // CLTO (CGE) // Yes // 25 000 // Fibres Optiques Industries // Yes // 55 000 // Germany: // // // AEG // No // 10 000 // SEL (ITT) // No // 15 000 // PKI (Philips) // No // 5 000 // Siecor GmbH & Co. KG // Yes // (80 000 planned for 1987) // Wacker/Sumitomo // No // (100 000 plus planned for 1987) // Italy: // // // Fibre Ottiche Sud // Yes // 75 000 // // // // Producer // Corning licensee // Estimated capacity km/year // // // // // Netherlands: // // // Philips // Yes // 60 000 (200 000 planned by end of 1986) // Denmark: // // // NKT Electronic // No // 20 000 // Sweden: // // // L.M. Ericsson // No // 15 000 // Finland: // // // Nokia // No // 5 000 // Switzerland: // // // Cabloptic // No // 4 000 // Australia: // // // Olex (Dunlop-Sumitomo) // No // 20 000 Plant under construction (start-up 1986) // Optical Waveguides Australia // Yes // 30 000 Plant under construction (start-up 1986) // Korea: // // // Taihan // No // 40 000 // Gold Star // No // 30 000 // Samsung // No // 30 000 // Daewoo // No // 30 000 // Brazil: // // // ABC-XTAL // No // 5 000 // // //

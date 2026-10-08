@@ -1,0 +1,523 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39452 – Ferramenta per finestre e porte-finestre
+
+(Soltanto i testi tedeschi ed italiani sono autentici)
+
+PROCEDIMENTO IN MATERIA DI CONCORRENZA
+
+Regolamento (CE) 1/2003 del Consiglio
+Regolamento (CE° n° 773/2004 della Commissione
+
+Article 7, Regolamento (CE) 1/2003 del Consiglio
+
+Data: 28/03/2012
+
+Questo testo è reso disponibile esclusivamente a scopo informativo. Una sintesi
+della decisione è stata pubblicata sulla Gazzetta ufficiale dell'Unione europea in tutte le
+lingue ufficiali dell'UE.
+
+Alcune parti del testo sono cancellate al fine di preservare la riservatezza di
+alcune informazioni. Tali parti sono sostituite da un sommario non riservato tra parentesi
+quadre o dal simbolo [...].
+
+IT IT
+
+COMMISSIONE EUROPEA
+
+Bruxelles, 28.3.2012
+C(2012) 2069 final
+
+COMP Operations
+
+DECISIONE DELLA COMMISSIONE
+
+del 28.3.2012
+
+relativa a un procedimento a norma dell’articolo 101 del trattato sul funzionamento
+dell’Unione europea e dell’articolo 53 dell’accordo SEE
+(Caso COMP/39452 – Ferramenta per finestre e porte-finestre)
+
+(I testi in lingua tedesca e italiana sono i soli facenti fede)
+
+IT 2 IT
+
+INDICE
+
+1. Introduzione ........................................................................................................ 10
+
+2. Il settore industriale interessato dal procedimento .............................................. 11
+
+2.1. Il prodotto ............................................................................................................ 11
+
+2.2. Gli operatori di mercato ...................................................................................... 13
+
+2.2.1. Le imprese interessate dal presente procedimento .............................................. 13
+
+2.2.1.1. Roto ..................................................................................................................... 13
+
+2.2.1.2. Gretsch-Unitas .................................................................................................... 13
+
+2.2.1.3. Mayer & Co ........................................................................................................ 14
+
+2.2.1.4. Siegenia-Aubi...................................................................................................... 15
+
+2.2.1.5. Winkhaus ............................................................................................................ 16
+
+2.2.1.6. Hautau ................................................................................................................. 16
+
+2.2.1.7. Fuhr ..................................................................................................................... 17
+
+2.2.1.8. Strenger ............................................................................................................... 17
+
+2.2.1.9. AGB .................................................................................................................... 18
+
+2.2.2. Associazioni di imprese interessate dal presente procedimento ......................... 18
+
+2.2.3. Altri operatori di mercato .................................................................................... 19
+
+2.3. Descrizione del mercato ...................................................................................... 19
+
+2.4. Scambi tra Stati membri ...................................................................................... 21
+
+3. Procedimento ...................................................................................................... 21
+
+3.1. L’indagine della Commissione ........................................................................... 21
+
+4. Descrizione degli avvenimenti ............................................................................ 23
+
+4.1. Elementi probatori ............................................................................................... 23
+
+4.2. Le principali caratteristiche del cartello secondo le imprese che hanno richiesto
+l’immunità e il trattamento favorevole ................................................................ 23
+
+4.2.1. Principi di base secondo le imprese che hanno richiesto l’immunità e il
+trattamento favorevole ........................................................................................ 23
+
+4.2.2. Ambito geografico secondo le imprese che hanno richiesto l’immunità e il
+trattamento favorevole ........................................................................................ 24
+
+4.2.3. Durata secondo le imprese che hanno richiesto il trattamento favorevole ......... 26
+
+4.3. Principi di base e struttura del cartello ................................................................ 27
+
+4.3.1. Obiettivo .............................................................................................................. 27
+
+IT 3 IT
+
+4.3.2. Organizzazione .................................................................................................... 29
+
+4.3.2.1. Riunione preliminare dei produttori di ferramenta ............................................. 29
+
+4.3.2.2. Riunione principale durante la conferenza permanente (la “riunione principale di
+novembre”) .......................................................................................................... 29
+
+4.3.2.3. La riunione del sottocomitato “ferramenta per finestre” dell’AKB .................... 30
+
+4.3.2.4. Riunioni successive ............................................................................................. 30
+
+5. Le riunioni del cartello e altri contatti di carattere collusivo .............................. 31
+
+5.1. Aumento dei prezzi per l’anno 2000 ................................................................... 31
+
+5.1.1. Riunioni nell’ambito della riunione annuale di novembre del 1999: accordo su
+un aumento di prezzo sotto forma di MTZ all’inizio del 2000 ........................... 31
+
+5.1.2. Riunioni successive per coordinare i dettagli dell’aumento concordato dei prezzi
+............................................................................................................................. 33
+
+5.1.3. Attuazione dell’aumento dei prezzi in Germania ............................................... 35
+
+5.1.4. Consultazioni fra i produttori di ferramenta concernenti l’attuazione dell’MTZ o
+altri aumenti di prezzo nei paesi SEE al di fuori della Germania ....................... 36
+
+5.1.4.1. Austria ................................................................................................................. 37
+
+5.1.4.2. Danimarca ........................................................................................................... 37
+
+5.1.4.3. Regno Unito ........................................................................................................ 39
+
+5.1.4.4. Paesi Bassi........................................................................................................... 40
+
+5.1.4.5. Francia ................................................................................................................. 40
+
+5.1.5. Attuazione dell’aumento dei prezzi negli altri paesi europei .............................. 41
+
+5.1.6. I produttori di ferramenta hanno contatti bilaterali all’inizio del 2000 volti a
+limitare la concorrenza rispetto a singoli clienti ................................................. 41
+
+5.2. Aumento dei prezzi per l’anno 2001 ................................................................... 44
+
+5.2.1. Incontri di fine 2000 – i produttori fanno il punto dei propri sforzi volti a un
+aumento coordinato dei prezzi e concordano una tendenza di aumento dei prezzi,
+da comunicare in seguito ai rivenditori nel corso della Conferenza permanente
+del novembre 2000. ............................................................................................. 44
+
+5.2.2. Riunioni successive all’inizio del 2001: accordo su un aumento di prezzo ........ 48
+
+5.2.3. Attuazione degli aumenti di prezzo concordati in Germania e applicazione negli
+altri paesi del SEE ............................................................................................... 52
+
+5.2.4. Ulteriori incontri trilaterali fra Roto, Winkhaus e Siegenia nel 2001 ................. 54
+
+5.3. Aumento dei prezzi per l’anno 2002 ................................................................... 57
+
+IT 4 IT
+
+5.3.1. Incontri nel quadro della conferenza permanente che sfociarono nella decisione
+di non aumentare i prezzi in ragione delle difficoltà economiche e del passaggio
+all’euro ................................................................................................................ 57
+
+5.3.2. Incontri trilaterali nel corso del 2002 – ricerca di una cooperazione più efficace
+con l’aiuto di un consulente ................................................................................ 59
+
+5.4. Aumento dei prezzi per l’anno 2003 ................................................................... 63
+
+5.4.1. Incontri nel quadro delle associazioni di categoria il 20 novembre 2002: accordo
+su un aumento di prezzo congiunto..................................................................... 63
+
+5.4.2. Riunioni e contatti concernenti l’attuazione degli aumenti di prezzo per il 2003
+negli altri paesi europei ....................................................................................... 65
+
+5.4.2.1. Gran Bretagna, Belgio, Paesi Bassi .................................................................... 65
+
+5.4.2.2. Polonia, Slovacchia e Repubblica ceca ............................................................... 67
+
+5.4.2.3. Francia, Paesi Bassi, Belgio ................................................................................ 68
+
+5.4.2.4. Austria ................................................................................................................. 69
+
+5.4.2.5. Francia ................................................................................................................. 70
+
+5.4.2.6. Paesi Bassi........................................................................................................... 71
+
+5.4.3. Conclusione ......................................................................................................... 71
+
+5.5. Aumento dei prezzi per l’anno 2004 ................................................................... 71
+
+5.5.1. Incontro preliminare alle riunioni di novembre .................................................. 71
+
+5.5.2. Incontri nel quadro delle associazioni di categoria il 19 novembre 2003: accordo
+su un aumento di prezzo comune per il 2004 ...................................................... 72
+
+5.5.3. Seguito dato alle riunioni di novembre: conferma e attuazione dell’accordo
+concluso in merito all’aumento dei prezzi per il 2004 ........................................ 75
+
+5.5.4. Contatti concernenti l’introduzione generale degli aumenti di prezzo per il 2004
+negli altri paesi europei ....................................................................................... 75
+
+5.5.4.1. Grecia .................................................................................................................. 78
+
+5.5.4.2. Polonia ................................................................................................................ 78
+
+5.5.4.3. Austria, Slovacchia, Slovenia ............................................................................. 79
+
+5.5.4.4. Francia ................................................................................................................. 81
+
+5.5.4.5. Spagna ................................................................................................................. 81
+
+5.5.4.6. Ungheria .............................................................................................................. 82
+
+5.5.4.7. Paesi Bassi........................................................................................................... 82
+
+5.5.4.8. Italia .................................................................................................................... 82
+
+5.5.5. Conclusione ......................................................................................................... 87
+
+IT 5 IT
+
+5.6. Aumento dei prezzi per l’anno 2005 ................................................................... 87
+
+5.6.1. Incontro preliminare alla riunione di novembre ................................................. 87
+
+5.6.2. Incontri nell’ambito della conferenza permanente il 17 novembre 2004: accordo
+su un aumento di prezzi per il 2005 .................................................................... 87
+
+5.6.3. Seguito dato alle riunioni di novembre: attuazione dell’aumento dei prezzi per il
+2005 in Germania e negli altri paesi europei ...................................................... 93
+
+5.6.3.1. Riunione dell’8 marzo 2005 ................................................................................ 93
+
+5.6.3.2. Riunione del 20 maggio 2005 ............................................................................. 98
+
+5.6.3.3. Italia .................................................................................................................... 99
+
+5.6.3.4. Polonia ................................................................................................................ 99
+
+5.6.4. Conclusione ....................................................................................................... 100
+
+5.7. Aumento dei prezzi per l’anno 2006 ................................................................. 100
+
+5.7.1. Incontri nell’ambito della conferenza permanente del novembre 2005:
+discussioni sugli aumenti di prezzo comuni per il 2006 ................................... 100
+
+5.7.2. Riunioni successive del marzo 2006: conferma di un aumento dei prezzi comune
+e inclusione di GU ............................................................................................. 102
+
+5.7.3. Contatti in aprile e maggio 2006: adesione di Winkhaus agli aumenti comuni di
+prezzo ................................................................................................................ 106
+
+5.7.4. Informazioni sulla comunicazione degli aumenti di prezzo ............................. 107
+
+5.7.5. Discussione sull’applicazione dell’aumento di prezzo ..................................... 107
+
+5.7.6. Discussioni sull’applicazione degli aumenti di prezzo nei altri paesi europei . 110
+
+5.7.6.1. Belgio, Paesi Bassi, Lussemburgo .................................................................... 112
+
+5.7.6.2. Italia e altri ........................................................................................................ 113
+
+5.7.6.3. Polonia, Repubblica ceca, Slovacchia, Ungheria e altri ................................... 113
+
+5.7.6.4. Francia ............................................................................................................... 118
+
+5.8. Aumento dei prezzi per l’anno 2007 ...........
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ui flussi di cassa e note
+integrative) in questo caso degli ultimi sei esercizi insieme alle loro proiezioni per gli
+esercizi 2011-2016. La Commissione prende in considerazione e fa affidamento su
+una serie di indici finanziari volti a misurare la solidità delle imprese (in questo caso,
+la proporzione dell'ammenda prevista rispetto al capitale netto e all'attivo
+patrimoniale dell'impresa), la sua redditività, solvibilità e liquidità. Tutti gli indici
+menzionati sono comunemente usati nella valutazione del rischio di fallimento.
+Inoltre, la Commissione prende in considerazione le relazioni con partner finanziari
+esterni, come ad esempio le banche e, in particolare, la portata degli affidamenti non
+utilizzati dall'impresa. La Commissione include nella propria analisi le relazioni con
+gli azionisti, al fine di valutare la loro fiducia nella sostenibilità economica
+dell'impresa e la capacità dei suddetti azionisti di sostenere finanziariamente
+l'impresa in esame.908 Nell'ambito di detta analisi l'attenzione si concentra sia sul
+capitale netto che sulla redditività dell'impresa, ma principalmente sulla solvibilità,
+liquidità e sul flusso di cassa. L'analisi è, in altri termini, sia prospettica che
+retrospettiva, con un'attenzione particolare al presente e all'immediato futuro
+dell'impresa. L'analisi non è puramente statica, ma, piuttosto, dinamica, tenendo
+anche in considerazione la coerenza nel tempo delle proiezioni presentate. L'analisi
+prende in considerazione il piano di ristrutturazione e il suo grado di attuazione.
+
+(548) La Commissione valuta anche lo specifico contesto sociale ed economico
+dell'impresa se mai la situazione finanziaria risulta sufficientemente critica a seguito
+dell'analisi descritta nel punto (547). Nel far ciò la Commissione cerca altresì di
+tenere conto dell'impatto della crisi economica e finanziaria globale (in seguito: "la
+
+907 Cfr. cause riunite da 96/82 a 102/82, 104/82, 105/82, 108/82 e 110/82, IAZ International Belgium e
+altri/Commissione, Racc. 1983, pag. 3369, punti 54 e 55, e cause riunite C-189/02 P, C-202/02 P, C-
+205/02 P a C-208/02 P, e C-213/02 P, Dansk Rørindustri e altri/Commissione, Racc. 2005, pag. I-5425,
+punto 327, e causa C-308/04 P, SGL Carbon AG/Commissione, Racc. 2006, pag. I-5977, punto 105.
+908 Per analogia con la valutazione di danno grave e irreparabile nel contesto di misure provvisorie, la
+Commissione ritiene poter basare la valutazione della capacità contributiva dell’impresa sulla situazione
+finanziaria dell’impresa nel suo complesso, compresi i suoi soci, indipendentemente dall'accertamento
+di responsabilità (causa C-335/99 P (R), HFB/Commissione, Racc. 1999, pag. I-8705; causa C-7/01
+P(R), FEG/Commissione, Racc. 2001, pag. I-2559) e causa T-410/99 R Almamet / Commissione, punti
+47 et segg. della motivazione.
+
+IT 170 IT
+
+crisi economica") che ha colpito il settore della ferramenta e le conseguenze previste
+per l'impresa in esame, in termini, per esempio, di caduta della domanda e caduta dei
+prezzi, ma anche in termini di accesso al credito. L'impresa ha dichiarato che la crisi
+economica ha avuto un effetto particolarmente rilevante nel settore delle costruzioni
+e su tutte le imprese che direttamente o indirettamente offrono prodotti o servizi a
+quell'industria, come ad esempio i produttori di ferramenta. L'impresa ha altresì
+sostenuto che, a causa della crisi economica, si è registrata una caduta della domanda
+nel mercato della ferramenta nel periodo di tempo 2008 - 2010. Sostiene, inoltre, che
+i margini nel settore della ferramenta nell'area europea si sono ridotti a causa
+dell'intensificata pressione concorrenziale proveniente da paesi extraeuropei e di un
+aumento dei costi delle materie prime. [Informazioni riservate].
+
+(549) Il fatto che un'impresa sia sottoposta a procedura di liquidazione non significa
+necessariamente che vi sarà sempre una perdita totale del valore dell'attivo e,
+pertanto, ciò non giustifica di per sé una riduzione della sanzione pecuniaria che
+sarebbe altrimenti imposta.909 Ciò si spiega in quanto le liquidazioni possono talvolta
+svolgersi in modalità organizzate e volontarie, come parte di un piano di
+ristrutturazione nel quale nuovi proprietari o una nuova gestione continuano a
+sviluppare l'impresa medesima e il suo attivo. Perciò, il richiedente che ha invocato
+l'incapacità contributiva deve dimostrare che non esistono valide soluzioni alternative
+praticabili. Se non vi è una credibile indicazione di soluzioni alternative praticabili
+entro un lasso di tempo ragionevolmente breve, la Commissione stima che vi sia un
+rischio sufficientemente alto che l'attivo dell'impresa perda una parte significativa del
+suo valore se, come risultato dell'imposizione dell'ammenda, le imprese fossero
+forzate ad entrare in liquidazione.
+
+(550) Conseguentemente, se le condizioni descritte nel punto 35 degli orientamenti sulle
+ammende sono soddisfatte, una riduzione dell'ammontare finale della sanzione
+pecuniaria applicata all'impresa in esame è stabilita tenendo in considerazione
+l'analisi finanziaria e qualitativa di cui ai punti dal (547) al (549), nonché la capacità
+dell'impresa in questione di pagare l'ammontare finale dell'ammenda imposta e il
+probabile effetto che il pagamento di questo avrebbe sulla redditività economica
+dell'impresa.
+
+9.7.2. Valutazione [informazioni riservate]
+
+(551) [Informazioni riservate]
+
+(552) [Informazioni riservate]
+
+(553) [Informazioni riservate]
+
+(554) [Informazioni riservate]
+
+(555) [Informazioni riservate]
+
+(556) [Informazioni riservate]
+
+909 Cfr. la giurisprudenza citata alla nota 2, nonché le cause riunite T 236/01, T 239/01, da T 244/01 a T
+246/01, T 251/01 e T 252/01, Tokai Carbon e altri/Commissione, Racc. 2004, pag. II 1181, punto 372, e
+la causa T-64/02, Heubach/Commissione, Racc. 2005, pag. II-5137, punto 163.
+
+IT 171 IT
+
+(557) [Informazioni riservate]
+
+HA ADOTTATO LA PRESENTE DECISIONE:
+
+Articolo 1
+
+Le società di seguito indicate hanno violato le disposizioni dell’articolo 101 del TFUE e
+dell’articolo 53 dell’accordo SEE, durante i periodi indicati, nel settore delle ferramenta per
+finestre e porte-finestre in tutto il territorio del SEE:
+
+(a) Roto Frank AG, dal 16 novembre 1999 al 4 maggio 2007;
+
+(b) Gretsch-Unitas GmbH, Gretsch-Unitas GmbH Baubeschläge, dal 16
+novembre 1999 al 3 luglio 2007;
+
+(c) Mayer & Co Beschläge GmbH, dal 15 dicembre 1999 al 3 luglio 2007;
+
+(d) Siegenia-Aubi KG, NORAA GmbH, dal 16 novembre 1999 al 3 luglio
+2007;
+
+(e) Aug. Winkhaus GmbH & Co. KG, dal 16 novembre 1999 al 3 luglio
+2007;
+
+(f) HAUTAU GmbH, dal 16 novembre 1999 al 3 luglio 2007;
+
+(g) CARL FUHR GmbH & Co. KG dal 17 novembre 2004 al 3 luglio 2007;
+
+(h) Heinrich Strenger GmbH & Co. KG, dal 16 novembre 1999 al 3 luglio
+2007.
+
+Articolo 2
+
+La società Alban Giacomo SpA ha violato le disposizioni dell’articolo 101 del TFUE e
+dell’articolo 53 dell’accordo SEE, dal 27 maggio 2004 al 3 luglio 2007, nel settore della
+ferramenta per finestre e porte-finestre in Italia.
+
+Articolo 3
+
+Per l'infrazione di cui agli articoli 1 e 2, a carico delle suddette imprese sono inflitte le seguenti
+ammende:
+
+(a) Roto Frank AG:
+0 EUR
+
+(b) Gretsch-Unitas GmbH, Gretsch-Unitas GmbH Baubeschläge, in solido:
+20 552 000 EUR
+
+(c) Mayer & Co Beschläge GmbH:
+18 501 000 EUR
+
+IT 172 IT
+
+(d) Siegenia-Aubi KG, NORAA GmbH, in solido:
+18 995 000 EUR
+
+(e) Aug. Winkhaus GmbH & Co. KG:
+19 537 000 EUR
+
+(f) HAUTAU GmbH:
+3 179 000 EUR
+
+(g) CARL FUHR GmbH & Co. KG:
+2 215 000 EUR
+
+(h) Heinrich Strenger GmbH & Co. KG:
+104 000 EUR
+
+(i) Alban Giacomo SpA:
+2 793 000 EUR
+
+da pagarsi in euro entro il termine di tre mesi dalla data di notifica della presente decisione
+mediante versamento sul seguente conto della Commissione europea:
+
+BANQUE ET CAISSE D’EPARGNE DE L’ETAT
+
+1–2, Place de Metz
+
+L-1930 Lussemburgo
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Rif.: Commissione europea – BUFI / COMP/39452
+
+A decorrere dalla scadenza del termine di cui al primo comma, le ammende producono
+automaticamente interessi, al tasso applicato dalla Banca centrale europea alle sue operazioni di
+rifinanziamento il primo giorno del mese corrispondente a quello dell'adozione della presente
+decisione, maggiorato di 3,5 punti percentuali.
+
+Quando un'impresa di cui agli articoli 1 o 2 intenta un'azione legale, la suddetta impresa copre
+l'importo dell'ammenda al più tardi alla data di scadenza, sia costituendo una garanzia
+bancaria accettabile, sia effettuando il pagamento a titolo provvisorio dell'ammenda, ai sensi
+dell'articolo 85 bis, paragrafo 1, del regolamento (CE, Euratom) n. 2342/2002 della
+Commissione910.
+
+Articolo 4
+
+Le imprese di cui agli articoli 1 e 2 devono immediatamente porre fine alle infrazioni di cui ai
+detti articoli, nel caso in cui non l’abbiano già fatto.
+
+910 GU L 357 del 31.12.2002, pag. 1
+
+IT 173 IT
+
+Esse devono astenersi dal reiterare qualsivoglia atto o condotta di cui agli articoli 1 e 2 e da
+qualsivoglia atto o condotta avente oggetto o effetto simile.
+
+Articolo 5
+
+(a) Roto Frank AG, Wilhelm-Frank-Platz 1, D-70771 Leinfelden-
+Echterdingen
+
+(b) Gretsch-Unitas GmbH, Johann-Maus-Str. 3, D-71254 Ditzingen
+
+(c) Gretsch-Unitas GmbH Baubeschläge, Johann-Maus-Str. 3, D-71254
+Ditzingen
+
+(d) MAYER & CO. BESCHLÄGE GMBH, Alpenstr. 173, A-5020 Salzburg
+
+(e) Siegenia-Aubi KG, Industriestr. 1 – 3, D-57234 Wilnsdorf
+
+(f) NORAA GMBH, Industriestr. 1 – 3, D-57234 Wilnsdorf
+
+(g) Aug. Winkhaus GmbH & Co. KG, August-Winkhaus-Str. 31, D-48291
+Telgte
+
+(h) HAUTAU GMBH, Wilhelm-Hautau-Straße 2, D-31691 Helpsen
+
+(i) Heinrich Strenger GmbH & CO. KG, Hauptstr. 103, D-42579
+Heiligenhaus
+
+(j) CARL FUHR GmbH & Co. KG, Carl-Fuhr-Str. 12, D-42579
+Heiligenhaus
+
+(k) Alban Giacomo SpA, Via A De Gasperi 75, IT-36060 Romano
+d'Ezzelino (Vicenza)
+
+sono destinatari della presente decisione.
+
+La presente decisione costituisce titolo esecutivo ai sensi dell’articolo 299 del TFUE e
+dell’articolo 110 dell’accordo SEE.
+
+Fatto a Bruxelles, il 28.3.2012
+
+Per la Commissione
+
+Joaquin ALMUNIA
+Vicepresidente
+
+IT 174 IT

@@ -1,0 +1,150 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31999D0198
+1999/198/EG: Entscheidung der Kommission vom 10. Februar 1999 in einem Verfahren nach Artikel 86 EG-Vertrag (Sache IV/35.767 - Ilmailulaitos/Luftfartsverket) (Bekanntgegeben unter Aktenzeichen K(1999) 239) (Nur der finnische und der schwedische Text sind verbindlich) (Text von Bedeutung für den EWR)
+Amtsblatt Nr. L 069 vom 16/03/1999 S. 0024 - 0030
+ENTSCHEIDUNG DER KOMMISSION vom 10. Februar 1999 in einem Verfahren nach Artikel 86 EG-Vertrag (Sache IV/35.767 - Ilmailulaitos/Luftfartsverket) (Bekanntgegeben unter Aktenzeichen K(1999) 239) (Nur der finnische und der schwedische Text sind verbindlich) (Text von Bedeutung für den EWR) (1999/198/EG)
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN -
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+gestützt auf die Verordnung (EWG) Nr. 17 des Rates vom 6. Februar 1962, erste Durchführungsverordnung zu den Artikeln 85 und 86 des EWG-Vertrags (1), zuletzt geändert durch die Akte über den Beitritt Österreichs, Finnlands und Schwedens, insbesondere auf Artikel 3,
+gestützt auf den Beschluß der Kommission vom 5. Mai 1997, in dieser Sache ein Verfahren zu eröffnen,
+nachdem dem Unternehmen Gelegenheit zur Stellungnahme zu den Beschwerdepunkten der Kommission gegeben wurde,
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+in Erwägung nachstehender Gründe:
+I. SACHVERHALT
+a) Gegenstand der Entscheidung
+(1) Im Rahmen eines Verfahrens von Amts wegen, das sich an die Entscheidung 95/364/EG der Kommission vom 28. Juni 1995 in einem Verfahren nach Artikel 90 Absatz 3 EG-Vertrag über die Rabatte bei Start- und Landegebühren auf dem Flughafen Brüssel-National (2) anschließt, führt die Kommission eine Untersuchung der Rabatte bei Start- und Landegebühren auf den Flughäfen in der Gemeinschaft durch.
+b) Das Unternehmen
+(2) Ilmailulaitos/Luftfartsverket (das finnische Luftverkehrsamt, im folgenden "LFA" genannt) ist seit 1991 ein eigenfinanziertes öffentliches Unternehmen, das der Aufsicht des Ministeriums für Verkehr und Kommunikation untersteht. Seine Vorgängerin war eine Dienststelle des Verkehrsministeriums.
+(3) Im Gesetz 1123/90 vom 14. Dezember 1990 über die Errichtung und Satzung des LFA werden dessen Aufgaben und Arbeitsweise festgelegt. Zu den Aufgaben heißt es in Artikel 2:
+"Das Luftverkehrsamt erbringt Dienstleistungen mit dem Ziel, in der zivilen und der militärischen Luftfahrt für Sicherheit und einen reibungslosen Flughafen- und Flugbetrieb zu sorgen ( . . . ).
+Aufgabe des Luftverkehrsamts ist es, über die Flugsicherheit im allgemeinen zu wachen und ( . . . ) die erforderlichen Genehmigungen und Lizenzen zu erteilen ( . . . )".
+(4) Für seine Start- und Landedienstleistungen und für die Inanspruchnahme der von ihm verwalteten Flughafeninfrastruktur erhebt das LFA Gebühren.
+c) Die Rabatte bei Start- und Landegebühren
+(5) Die Internationale Zivilluftfahrt-Organisation (ICAO) empfiehlt ihren Mitgliedern im Handbuch zur Flughafenbewirtschaftung (3), die Start- und Landegebühren nach dem höchstzulässigen Startgewicht (Maximum take-off-weight: "MTOW") zu berechnen. Definiert werden diese darin wie folgt: "Gebühren und Entgelte, die für die Nutzung der Start- und Landebahnen, Rollbahnen und Vorfeldflächen, einschließlich der zugehörigen Befeuerung, sowie für die Flugsicherungsdienstleistungen bei Anflug und auf dem Flughafen erhoben werden."
+(6) In diesen Gebühren enthalten sind die "Betriebs-, Instandhaltungs- und Verwaltungskosten für Flächen, Fahrzeuge und dazugehöriges Material sowie die Kosten für Personal, Wartungsfahrzeuge, Strom und Kraftstoffe."
+(7) Nach Artikel 6 des Gesetzes 1123/90 können, falls notwendig, die Start- und Landegebühren auf den vom LFA verwalteten Flughäfen per Durchführungsverordnung festgelegt werden. Da keine solche Verordnung erlassen wurde, legt das LFA die Start- und Landegebühren sowie etwaige Rabatte selbst fest.
+(8) Für das Jahr 1998 berechnete das LFA die Start- und Landegebühren wie folgt:
+- für Inlandsfluege 17 bzw. 20 FIM (4) (nach Flugzeuggewicht) pro Tonne MTOW;
+- für internationale Flüge 50,50 FIM pro Tonne MTOW.
+(9) Aus Gründen des Umweltschutzes wird bei Flugbewegungen zwischen 22 Uhr und 6 Uhr auf allen finnischen Flughäfen außer dem Flughafen Helsinki-Vantaa ein Koeffizient von 1,3 angewandt.
+(10) Für internationale Flüge wurden die folgenden flugbewegungsabhängigen Rabatte eingeführt:
+>PLATZ FÜR EINE TABELLE>
+(11) Am 20. Mai 1997 wurde dem LFA die Mitteilung der Beschwerdepunkte übermittelt. Danach könnten zwei Maßnahmen einen Verstoß gegen Artikel 86 EG-Vertrag darstellen: zum einen die progressiven Rabatte (siehe Randnummer 10), zum anderen die Gebührendifferenzen zwischen In- und Auslandsfluegen (siehe Randnummer 8).
+d) Hauptargumente des LFA
+(12) Das LFA, dessen Angaben zufolge die Gründe für die Einführung von Rabatten, die sich nach der Anzahl der Flugbewegungen richten, im Jahr 1977 nicht bekannt sind, weist zunächst auf die Zahlungssicherheit bei Großkunden hin.
+(13) So sind dem LFA zufolge
+"die Großkunden für den Flughafenbetreiber auch aufgrund ihrer gesicherten Zahlungen von Interesse. Die Großkunden haben bislang nie Zahlungsschwierigkeiten gehabt, so daß keine Einnahmeverluste einkalkuliert werden mußten."
+(14) Das LFA weist jedoch auch darauf hin, daß die Rabatte in den vergangenen Jahren erheblich gesenkt wurden (von 20 % im Jahr 1989 auf 4 % im Jahr 1998).
+(15) Im übrigen habe es am 19. November 1997 in seiner Antwort auf das Auskunftsverlangen der Kommission vom 28. Oktober 1997 darauf hingewiesen, daß die Rabatte zum 1. Januar 1999 abgeschafft werden.
+(16) Dieser Entwicklung habe auch die IATA zugestimmt. Bei einer Sitzung mit dem LFA im April 1996 habe diese sich für "( . . . ) eine allmähliche Änderung des Systems" ausgesprochen und das LFA aufgefordert, von einer abrupten Änderung abzusehen, da diese für bestimmte Gesellschaften erhebliche finanzielle Schwierigkeiten bedeuten könnte.
+(17) Die Gebührendifferenz zwischen In- und Auslandsfluegen sei auf die unterschiedlichen technischen und betrieblichen Anforderungen an die Flughäfen (Länge und Belastbarkeit der Pisten, Öffnungszeiten und Kapazitäten der Flughäfen) zurückzuführen.
+II. RECHTLICHE WÜRDIGUNG
+a) Rechtliche Bestimmungen und Verfahrensregeln
+(18) Der Bereich Verkehr wurde durch die Verordnung Nr. 141 des Rates (5), zuletzt geändert durch die Verordnung Nr. 1002/67/EWG (6), vom Anwendungsbereich der Verordnung Nr. 17 ausgenommen, um den Besonderheiten dieses Wirtschaftszweigs besser Rechnung tragen zu können. Die Verordnung Nr. 141 und die speziellen Verfahrensregeln für den Verkehrsbereich betreffen damit nur wettbewerbswidrige Praktiken auf dem Verkehrsmarkt.
+(19) Die Verordnung (EWG) Nr. 3975/87 des Rates (7), zuletzt geändert durch die Verordnung (EWG) Nr. 2410/92 (8), regelt die Einzelheiten der Anwendung der Artikel 85 und 86 EG-Vertrag auf den Luftverkehr.
+(20) Dienstleistungen, die Zugang zur Flughafeninfrastruktur verschaffen, sind jedoch kein unmittelbarer Bestandteil der Beförderungsleistung für den Reisenden und fallen damit nicht unter die speziellen Verfahrensregeln für den Verkehrsbereich. Was die Anwendung der Artikel 85 und 86 EG-Vertrag anbelangt, gilt für sie vielmehr die Verordnung Nr. 17.
+b) Der Unternehmensbegriff
+(21) Nach der ständigen Rechtsprechung des Gerichtshofs der Europäischen Gemeinschaften (9) umfaßt der Begriff des Unternehmens im gemeinschaftlichen Wettbewerbsrecht jede Einheit, die eine wirtschaftliche Tätigkeit ausübt, unabhängig von ihrer Rechtsform und der Art ihrer Finanzierung.
+(22) Die Artikel 85 und 86 EG-Vertrag sind auf die Verhaltensweisen einer öffentlichen Einrichtung anwendbar, wenn feststeht, daß der Staat über diese Einrichtung wirtschaftliche Tätigkeiten industrieller oder kommerzieller Art ausübt, die darin bestehen, Güter und Dienstleistungen auf dem Markt anzubieten. Dabei kommt es nicht darauf an, ob der Staat unmittelbar durch eine Stelle tätig wird, die zur staatlichen Verwaltung gehört, oder durch eine Einrichtung, die er mit besonderen oder ausschließlichen Rechten ausgestattet hat. Es muß folglich geprüft werden, welcher Art die von den öffentlichen Unternehmen oder der vom Staat mit besonderen oder ausschließlichen Rechten versehenen Einrichtung ausgeübten Tätigkeiten sind (10).
+(23) Nach dieser Definition des Europäischen Gerichtshofs stellt das LFA, dessen Dienstleistung in erster Linie darin besteht, den Luftverkehrsgesellschaften gegen Gebühr Zugang zur zivilen Flughafeninfrastruktur zu verschaffen (11), fraglos ein Unternehmen im Sinne von Artikel 86 EG-Vertrag dar.
+c) Der relevante Markt
+(24) Nach Auffassung des Europäischen Gerichtshofs in der Rechtssache "Hafen Genua" (12) kann die Organisation von Hafenarbeiten in einem einzigen Hafen für Rechnung Dritter einen relevanten Markt im Sinne von Artikel 86 darstellen. Auch in der Rechtssache "Corsica Ferries II" (13) sah der Europäische Gerichtshof den Markt für Lotsendienste im Hafen von Genua als relevanten Markt an.
+(25) Überträgt man diese Argumentation auf Flughäfen, stellen dort die gebührenpflichtigen Dienstleistungen für den Zugang zur Flughafeninfrastruktur den relevanten Markt dar, was der Marktdefinition in der Entscheidung 95/364/EG (14) entspricht.
+(26) Im einzelnen handelt es sich dabei um Dienstleistungen im Zusammenhang mit Betrieb und Instandhaltung der Start- und Landebahnen, der Nutzung der Rollwege und Vorfeldflächen und der Flugführung beim Anflug von Zivilflugzeugen.
+(27) Die Beförderung von Fluggästen und Fracht auf Kurz- und Mittelstrecken innerhalb des Europäischen Wirtschaftsraums stellt einen zwar benachbarten, doch separaten Markt dar, der durch die mißbräuchliche Ausnutzung einer beherrschenden Stellung auf dem Markt für Start- und Landedienstleistungen beeinträchtigt wird. Das mißbräuchliche Verhalten des LFA kann sich folglich auch auf diesem Markt bemerkbar machen.
+(28) Von den 25 vom LFA verwalteten Flughäfen sind nur fünf (Helsinki-Vantaa, Vaasa, Turku, Pori, Tampere) für den internationalen Flugverkehr von Bedeutung. Abgesehen vom Flughafen Helsinki beschränkt sich dieser Verkehr auf einige Verbindungen nach Stockholm, Hamburg, Kopenhagen, Petrozawodsk (Rußland), Murmansk (Rußland), Lulea (Schweden) sowie zahlreiche Charter-Flüge.
+(29) Für diese internationalen Flughäfen gibt es so gut wie keine Alternativen, so daß jeder einzelne als gesonderter räumlich relevanter Markt betrachtet werden kann.
+(30) Die Luftverkehrsgesellschaften, die inländische und EWR-Linien- oder Charterfluege mit Ausgangs- oder Bestimmungsort in Finnland anbieten, haben in der Tat keine andere Wahl als die vom LFA verwalteten Flughäfen anzusteuern (von den insgesamt 29 finnischen Flughäfen sind nur vier privat und werden nicht vom LFA verwaltet). Die nächsten Flughäfen liegen Hunderte von Kilometern entfernt in anderen Mitgliedstaaten.
+(31) Nach Auffassung zahlreicher Fluggäste mit Ausgangs- oder Bestimmungsort in Finnland lassen sich die Inlands- oder EWR-Flüge, bei denen die vom LFA verwalteten Flughäfen angesteuert werden, nicht durch Flüge über andere Flughäfen im Europäischen Wirtschaftsraum ersetzen.
+(32) Die Luftverkehrsgesellschaften, die Inlands- oder EWR-Flüge mit Ausgangs- oder Zielort in Finnland anbieten, haben deshalb keine andere Wahl als die vom LFA verwalteten Flughäfen anzusteuern und die dort angebotenen Dienstleistungen in Anspruch zu nehmen.
+d) Die beherrschende Stellung
+(33) Nach der Rechtsprechung des Europäischen Gerichtshofes kann ein mit einem gesetzlichen Monopol ausgestattetes Unternehmen als Inhaber einer beherrschenden Stellung im Sinne von Artikel 86 EG-Vertrag angesehen werden (15).
+(34) Auf das öffentliche Unternehmen LFA trifft dies zu, denn aufgrund des ausschließlichen Rechts, das ihm durch das Gesetz 1123/90 als Flughafenbetreiber übertragen wurde, verfügt es über eine beherrschende Stellung auf dem Markt für Start- und Landedienstleistungen, für die die fragliche Gebühr auf jedem der fünf finnischen Flughäfen mit internationalem Verkehr erhoben wird.
+e) Ein wesentlicher Teil des Gemeinsamen Marktes
+(35) Die fünf finnischen Flughäfen mit EWR-Flugverbindungen registrierten 1996 rund 9 Mio. Fluggäste und setzten mehr als 91 000 t Frachtgut um.
+(36) Überträgt man die Argumentation des Gerichtshofes in den Rechtssachen "Crespelle" (16) und "Almelo" (17) auf den vorliegenden Fall, können diese Flughäfen zusammengenommen als wesentlicher Teil des Gemeinsamen Marktes angesehen werden. Im "Crespelle"-Urteil gelangte der Gerichtshof zu dem Schluß, daß derartige "nationale ( . . . ) Vorschriften ( . . . ) dadurch, daß sie zugunsten dieser Unternehmen Monopole nebeneinanderstellen, die territorial begrenzt sind, in ihrer Gesamtheit aber das ganze Hoheitsgebiet eines Mitgliedstaats erfassen, eine beherrschende Stellung im Sinne von Artikel 86 EG-Vertrag auf einem wesentlichen Teil des Gemeinsamen Marktes (schaffen)" (18).
+(37) Werden diese Monopole von ein und demselben Unternehmen, hier LFA, kontrolliert, kann erst recht von einem wesentlichen Teil des Gemeinsamen Marktes gesprochen werden.
+f) Der Mißbrauch der beherrschenden Stellung
+Die flugbewegungsabhängigen Rabatte
+(38) Nach der Ankündigung des LFA, die Rabatte zum 1. Januar 1999 abzuschaffen, und der mit der Entscheidung 95/364/EG von der Kommission eingeführten Praxis werden die Rabatte selbst, auf die sich die kraft Artikel 86 EG-Vertrag an das LFA gerichteten Beschwerdepunkte bezogen, im folgenden nicht weiter untersucht.
+Die Gebührendifferenz zwischen Inlands- und EWR-Flügen
+(39) Artikel 86 bezieht sich auf von den Unternehmen ausgehende wettbewerbswidrige Praktiken. Nach Artikel 86 darf ein Unternehmen, das auf einem wesentlichen Teil des Gemeinsamen Marktes eine beherrschende Stellung einnimmt, diese nicht mißbrauchen, indem es gegenüber Handelspartnern bei gleichwertigen Leistungen unterschiedliche Bedingungen anwendet und diese dadurch im Wettbewerb benachteiligt.
+(40) In seinem Urteil "Corsica Ferries II" (19) läßt der Gerichtshof daran keinen Zweifel und erkennt für Recht:
+"1. Es verstößt gegen Artikel 1 Absatz 1 der Verordnung (EWG) Nr. 4055/86 des Rates vom 22. Dezember 1986 zur Anwendung des Grundsatzes des freien Dienstleistungsverkehrs auf die Seeschiffahrt zwischen Mitgliedstaaten sowie zwischen Mitgliedstaaten und Drittländern, wenn in einem Mitgliedstaat auf gleiche Lotsendienste unterschiedliche Tarife angewendet werden, je nachdem ob das Unternehmen, das die Beförderungen im Seeverkehr zwischen zwei Mitgliedstaaten vornimmt, ein Schiff betreibt, das zur Seekabotage, die den unter der Flagge dieses Staates fahrenden Schiffen vorbehalten ist, zugelassen ist oder nicht.
+2. Die Artikel 90 Absatz 1 und 86 EG-Vertrag verbieten es ( . . . ) einer nationalen Behörde, ein Unternehmen, das das ausschließliche Recht hat, vorgeschriebene Lotsendienste auf einem wesentlichen Teil des Gemeinsamen Marktes anzubieten, durch Genehmigung der von ihm festgesetzten Tarife daz
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ Länge der Pisten
+- Innerhalb Finnlands betragen die Flugstrecken im Schnitt 300-400 km, während im Flugverkehr zwischen Finnland und den anderen Mitgliedstaaten die Strecken bei durchschnittlich 1 500-2 000 km liegen. Die längste Strecke (Helsinki-Madrid) beträgt 3 000 km;
+- im Inlandsverkehrs wird eine kleinere Flotte eingesetzt als im EWR-Verkehr;
+- im Inlandsverkehr ist das Realgewicht der Flugzeuge aufgrund der kürzeren Strecken geringer als im internationalen Verkehr;
+- Flugzeuggröße und Streckenlänge sind für die Länge der Pisten ausschlaggebend;
+- für den Inlandsverkehr reicht eine Pistenlänge von 2 000 m, während die Länge im EWR-Verkehr mindestens 2 400 m betragen muß. Bei Flugverbindungen zwischen Finnland und dem Rest Europas müssen die Pisten folglich rund 25 % länger sein als beim Inlandsverkehr;
+- um eine große Flotte aufnehmen zu können, müssen die Flughäfen strengere Sicherheits- und Katastrophenschutznormen erfuellen, was einen hohen Personalbestand erfordert und Kosten verursacht.
+Unterhaltungs- und Kapitalkosten seien damit beim EWR-Verkehr höher als beim Inlandsverkehr.
+(46) Diese Argumente des LFA sind aus folgenden Gründen anfechtbar:
+- Viele Inlandsstrecken sind genauso lang wie Flüge innerhalb des EWR, was insbesondere für die Strecken Helsinki-Vantaa/Ivalo, Maarianhamina/Kittila oder Turku/Rovaniemi gilt;
+- einige Strecken innerhalb des EWR sind verhältnismäßig kurz: Helsinki/Stockholm (rund 405 km), Helsinki/Göteborg (rund 810 km), Helsinki/Oslo (rund 810 km) oder Helsinki/Kopenhagen (rund 910 km);
+- die Streckenlänge ist für die Fluggesellschaften nicht das einzige Kriterium für die Auswahl des Fluggeräts;
+- bei Inlandsfluegen reicht nach Angaben des LFA eine Pistenlänge von 2 000 m, während die Pisten bei EWR- oder internationalen Flügen 400 m länger sein müßten, was auf den meisten finnischen Flughäfen bereits der Fall ist: von den 25 vom LFA verwalteten Flughäfen haben nur sechs Pisten unter 2 400 m (21).
+(47) Im übrigen werden nach den der Kommission vorliegenden Angaben auch einige der Flughäfen mit Pisten unter 2 400 m von EWR-Flügen angesteuert. Dazu zählen vor allem die Flughäfen Lappeenranta (2 000 m), Maarianhamina (1 900 m), Pori (2 000 m) und Vaasa (2 000 m) (22). Das Argument der Pistenlänge ist damit entkräftet.
+(48) Auch die Behauptung, auf Inlandsfluegen würden kleinere Maschinen eingesetzt als auf EWR-Flügen trifft nach Kenntnis der Kommission nicht immer zu. So setzt die Gesellschaft Finnair auf Inlandsfluegen (z. B. Helsinki-Oulu) die gleichen Maschinen ein (MD-80) wie auf den innergemeinschaftlichen Strecken Helsinki-Alicante oder Helsinki-Barcelona.
+(49) Als weiteres Argument führte das LFA die Entwicklung der Kosten für Dienstleistungen auf dem Rollfeld seit 1994 an. "Im Jahr 1995 hätten die Kosten pro Tonne (MTOW) bei internationalen Flügen rund 50 % über den entsprechenden Kosten bei Inlandsfluegen gelegen." Nach Auffassung des LFA "entsprechen Start- und Landegebühren, die ausschließlich auf dem MTOW beruhen, damit nicht den tatsächlichen Kosten und müssen die Start- und Landegebühren für den internationalen Verkehr höher sein."
+(50) Allerdings hat das LFA selbst eingeräumt, daß die Kostendifferenz zwischen einem EWR-Flug und einem Inlandsflug geringer ist als die entsprechende Gebührendifferenz.
+ii) Belastbarkeit der Pisten
+(51) Da im internationalen Verkehr schwerere Maschinen eingesetzt werden, müssen nach Angaben des LFA "die Pisten im internationalen Verkehr etwa 10 % besser befestigt sein."
+(52) Diesem Argument kann entgegengehalten werden, daß dem Faktor Pistenbelastbarkeit schon durch die Berechnung der Gebühr nach dem Flugzeuggewicht Rechnung getragen ist.
+iii) Öffnungszeiten und Kapazität der Flughäfen
+(53) Da 90 % des internationalen Flugverkehrs über den Flughafen Helsinki abgewickelt und die Flugpläne der internationalen Flüge morgens und abends festgelegt werden, sind dem LFA zufolge die Flughäfen in der Provinz der Anschlüsse wegen gezwungen, morgens und abends geöffnet zu bleiben. Daher "seien die Dienstleistungskosten wie andere Kosten in die Berechnung der Flughafengebühren einzubeziehen."
+(54) Das LFA argumentiert ferner, "daß für den internationalen Flugverkehr größere Fluggastabfertigungsgebäude und Abstellflächen sowie umfangreichere Leistungen erforderlich seien als für den Inlandsverkehr. Auch die dadurch verursachten Kosten müßten bei der Festsetzung der Flughafengebühren berücksichtigt werden."
+(55) Die letzten beiden Argumente können in diesem Zusammenhang nicht anerkannt werden: Da - wie das LFA selbst angibt - die durch verlängerte Öffnungszeiten und größere Kapazität der Flughäfen verursachten Kosten auf die Flughafengebühren umgelegt werden, können sie nicht auch noch in die Start- und Landegebühren eingerechnet werden.
+(56) Die Kommission ist daher der Auffassung, daß keines der Argumente des LFA seine nach Inlands- und EWR-Flügen diskriminierenden Gebühren rechtfertigt.
+g) Auswirkungen auf den Handel zwischen den Mitgliedstaaten
+(57) In seinem Urteil "Corsica Ferries II" (23) gelangte der Europäische Gerichtshof zu dem Schluß, daß diskriminierende Verhaltensweisen "geeignet (sind), den Handel zwischen Mitgliedstaaten zu beeinträchtigen", wenn sie "Unternehmen berühren, die Beförderungen zwischen zwei Mitgliedstaaten vornehmen."
+(58) Bei einem nach Artikel 11 der Verordnung Nr. 17 an das LFA gerichteten Auskunftsverlangen stellte sich heraus, daß keine nach Flughäfen aufgeschlüsselten Statistiken vorliegen, in denen zwischen dem EWR- und dem übrigen internationalen Flugverkehr unterschieden wird.
+(59) Beim Flughafen Helsinki, der 1996 7,7 Mio. Fluggäste registrierte, stehen die Auswirkungen der Rabatte auf den Handel zwischen den Mitgliedstaaten außer Frage.
+(60) Die anderen finnischen Flughäfen mit EWR-Verbindungen (Vaasa, Turku, Tampere und Pori) bieten neben Charterfluegen in die Mittelmeermitgliedstaaten und auf die Kanarischen Inseln im Schnitt sechs (Vaasa, Turku), fünf (Tampere) bzw. zwei (Pori) Flüge täglich nach Stockholm. Diese Flüge nach Stockholm haben Anschluß an Flüge nach Amsterdam, Billund, Brüssel, Kopenhagen, Düsseldorf, Frankfurt, Göteborg, Hamburg, London, Manchester, Mailand, München, Paris und Wien entweder der Allianz Lufthansa/SAS oder der Finnair (Code-Sharing mit Partnern).
+Die folgende Tabelle gibt einen nach Flughäfen aufgeschlüsselten Überblick über den Anteil der internationalen Flüge am Gesamtverkehrsaufkommen (beförderte Fluggäste).
+>PLATZ FÜR EINE TABELLE>
+(61) Demnach kann davon ausgegangen werden, daß sich die Rabatte auf diesen fünf Flughäfen auf den Handel zwischen den Mitgliedstaaten auswirken.
+h) Schlußfolgerung
+(62) Die obige Analyse zeigt, daß bei dem vom LFA für die Berechnung der Start- und Landegebühren angewandten System für gleiche Lotsendienste und die gleiche Nutzung der Rollwege und Vorfeldflächen je nach Herkunft des Flugs (Inland oder andere Orte im EWR) unterschiedliche Gebühren erhoben werden, ohne daß dies hinreichend hätte begründet werden können.
+(63) Die Kommission ist daher zu der Auffassung gelangt, daß dieses System diskriminierend ist und den Wettbewerb auf dem relevanten Markt in Zuwiderhandlung gegen Artikel 86 Absatz 2 Buchstabe c) EG-Vertrag verfälscht -
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+Artikel 1
+Ilmailulaitos/Luftfartsverket hat gegen Artikel 86 EG-Vertrag verstoßen, indem es seine beherrschende Stellung als Betreiber der finnischen Flughäfen dazu mißbraucht hat, auf diesen nach Art des Flugs (Inlandsflug oder EWR-Flug) diskriminierende Start- und Landegebühren zu erheben.
+Artikel 2
+Ilmailulaitos/Luftfartsverket ist verpflichtet, die in Artikel 1 genannte Zuwiderhandlung abzustellen und die Kommission innerhalb von zwei Monaten nach Bekanntgabe dieser Entscheidung über die zu diesem Zweck getroffenen Maßnahmen zu unterrichten.
+Artikel 3
+Diese Entscheidung ist an Ilmailulaitos/Luftfartsverket, PL 50-P.O. Box 50, FIN-01531 Vantaa gerichtet.
+Brüssel, den 10. Februar 1999
+Für die Kommission
+Karel VAN MIERT
+Mitglied der Kommission
+(1) ABl. 13 vom 21. 2. 1962, S. 204/62.
+(2) ABl. L 216 vom 12. 9. 1995, S. 8.
+(3) Dok. 9562 - 1991 ICAO.
+(4) 1 FIM = 0,1681 EUR.
+(5) ABl. 124 vom 28. 11. 1962, S. 2751/62.
+(6) ABl. 306 vom 16. 12. 1967, S. 1.
+(7) ABl. L 374 vom 31. 12. 1987, S. 1.
+(8) ABl. L 240 vom 24. 8. 1992, S. 18.
+(9) Siehe insbesondere Urteil vom 23. April 1991 in der Rechtssache C-41/90, Höfner und Elser, Slg. 1991, I-1979, Randnummer 21, und Urteil vom 17. Februar 1993 in den verbundenen Rechtssachen C-159/91 und C-160/91, Poucet und Pistre, Slg. 1993, I-637, Randnummer 17.
+(10) Siehe Urteil vom 16. Juni 1987 in der Rechtssache 118/85, Kommission/Italien, Slg. 1987, 2599, 2621, Randnummern 7 und 8, und Urteil vom 8. März 1997 in der Rechtssache C-343/95, Diego Cali & Figli Srl/Servizi Ecologici Porto di Genova, Slg. 1997, I-1547, Randnummern 16, 17 und 18.
+(11) Siehe Randnummern 2, 3 und 4.
+(12) Urteil vom 10. Februar 1991 in der Rechtssache C-179/90, Merci convenzionali porto di Genova/Siderurgica Gabrielli SpA ("Port de Gênes"), Slg. 1991, I-5889.
+(13) Urteil vom 17. Mai 1994 in der Rechtssache C-18/93, Corsica Ferries Italia Srl/Corpo dei piloti del porto di Genova ("Corsica Ferries II"), Slg. 1994, I-1783.
+(14) Siehe Fußnote 2.
+(15) Urteile in der Rechtssache C-41/90, Höfner und Elser, siehe Fußnote 9, Randnummer 28, und vom 18. Juni 1991 in der Rechtssache C-260/89, ERT, Slg. 1991, I-2925, Randnummer 31.
+(16) Urteil vom 5. Oktober 1994 in der Rechtssache C-323/93, Société agricole du Centre d'insémination de la Crespelle/Coopérative d'élevage et d'insémination artificielle du département de la Mayenne ("Crespelle"), Slg. 1994, I-5077.
+(17) Urteil vom 27. April 1994 in der Rechtssache C-393/92, Gemeente Almelo und andere/NV Energiebedrijf Ijsselmij ("Almelo"), Slg. 1994, I-1477.
+(18) Randnummer 17.
+(19) Siehe Fußnote 13.
+(20) Randnummer 34.
+(21) Quelle: ACI Europe Airport Database.
+(22) Quelle: Statistik der finnischen Zivilluftfahrt.
+(23) Siehe Fußnote 13.

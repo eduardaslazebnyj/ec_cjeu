@@ -1,0 +1,595 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 31 V 2006
+C(2006) 2098 final
+
+DÉCISION DE LA COMMISSION
+
+de 31 V 2006
+
+relative à une procédure d'application de l’article 81 du traité CE
+et de l’article 53 de l’accord EEE
+
+(Affaire COMP/F/38.645 - Méthacrylates)
+
+(Les textes en langues anglaise et française sont les seuls faisant foi)
+
+Version à notifier à :
+
+Total SA
+Elf Aquitaine SA
+Arkema SA
+Altuglas International SA
+Altumax Europe SAS
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+FR FR
+
+TABLE DES MATIERES
+
+1. RÉSUMÉ DE L'INFRACTION ............................................................................... 7
+
+2. SECTEUR FAISANT L’OBJET DE LA PROCÉDURE....................................... 8
+
+2.1. Produits couverts par l’enquête................................................................................ 8
+
+2.2. Les destinataires de la présente décision.................................................................. 9
+
+2.2.1. «Atofina» (Total SA, Elf Aquitaine SA, Arkema SA, Altuglas International SA et
+Altumax Europe SAS)................................................................................................... 9
+
+2.2.2. «Degussa» (Degussa AG, Röhm GmbH & Co. KG et Para-Chemie GmbH)............ 10
+
+2.2.3. «ICI» (ICI PLC)......................................................................................................... 11
+
+2.2.4. «Lucite» (Lucite International Limited et Lucite International UK Limited)............ 12
+
+2.2.5. «Barlo» (Quinn Barlo Limited, Quinn Plastics NV et Quinn Plastics GmbH).......... 13
+
+2.3. Description du secteur ............................................................................................. 14
+
+2.3.1. Considérations générales........................................................................................... 14
+
+2.3.2. L’offre......................................................................................................................... 14
+
+2.3.3. La demande................................................................................................................ 14
+
+2.3.4. Portée géographique du secteur ................................................................................ 14
+
+2.3.5. Valeur des ventes dans l’EEE .................................................................................... 15
+
+2.4. Commerce entre États membres............................................................................. 15
+
+3. LA PROCÉDURE.................................................................................................... 15
+
+3.1. L' enquête de la Commission .................................................................................. 15
+
+4. DESCRIPTION DES FAITS .................................................................................. 16
+
+4.1. Considérations générales......................................................................................... 16
+
+4.2. Présentation de l’infraction en ce qui concerne les trois produits....................... 17
+
+4.2.1. Dates et lieux des réunions ........................................................................................ 17
+
+4.2.2. Influence sur le niveau de prix par le biais d’accords sur les prix............................ 17
+
+4.2.3. Mise en œuvre et surveillance des accords sur les prix............................................. 18
+
+4.2.4. Échange d’autres informations confidentielles sur le marché................................... 19
+
+4.3. PMMA - composants de moulage ............................................................................ 21
+
+4.3.1. Premiers contacts collusoires .................................................................................... 21
+
+4.3.2. Réunions et contacts entre concurrents ..................................................................... 21
+
+FR 2 FR
+
+4.4. PMMA - plaques massives ...................................................................................... 21
+
+4.4.1. Premiers contacts collusoires .................................................................................... 21
+
+4.4.2. Réunions et contacts entre concurrents ..................................................................... 21
+
+4.5. PMMA - plaques sanitaires..................................................................................... 21
+
+4.5.1. Premiers contacts collusoires .................................................................................... 21
+
+4.5.2. Réunions et contacts entre concurrents ..................................................................... 21
+
+5. LE TRAITÉ CE ET L'ACCORD EEE.................................................................. 21
+
+5.1. Relation entre le traité CE et l'accord EEE........................................................... 21
+
+5.2. Compétence............................................................................................................... 22
+
+6. APPLICATION DE L'ARTICLE 81 DU TRAITÉ ET DE L'ARTICLE 53 DE
+L'ACCORD EEE ..................................................................................................... 22
+
+6.1. Article 81, paragraphe 1, du traité et article 53, paragraphe 1, de l'accord EEE
+.................................................................................................................................... 22
+
+6.2. Nature de l’infraction dans la présente affaire...................................................... 22
+
+6.2.1. Accords et pratiques concertées................................................................................. 22
+
+6.2.1.1. Principes..................................................................................................................... 22
+
+6.2.1.2. Application en l’espèce.............................................................................................. 25
+
+6.2.2. Infraction unique et continue ..................................................................................... 26
+
+6.2.2.1. Principes..................................................................................................................... 26
+
+6.2.2.2. Application en l’espèce.............................................................................................. 27
+
+6.3. Restriction de la concurrence.................................................................................. 29
+
+6.4. Application de l'article 81, paragraphe 3, du traité et de l’article 53,
+paragraphe 3, de l’accord EEE............................................................................... 32
+
+6.5. Effet sur le commerce entre États membres et entre parties contractantes à
+l'accord EEE............................................................................................................. 32
+
+6.6. Destinataires de la décision ..................................................................................... 33
+
+6.6.1. Principes .................................................................................................................... 33
+
+6.6.2. Destinataires de la présente décision ........................................................................ 34
+
+6.6.3. «Degussa» (Degussa AG, Röhm GmbH & Co. KG et Para-Chemie GmbH)............ 35
+
+6.6.4. «Atofina» (Total SA, Elf Aquitaine SA, Arkema SA, Altuglas International SA et
+Altumax Europe SAS)................................................................................................. 35
+
+6.6.5. ICI PLC...................................................................................................................... 39
+
+6.6.6. «Lucite» (Lucite International Ltd et Lucite International UK Ltd).......................... 41
+
+FR 3 FR
+
+6.6.7. «Barlo» (Quinn Barlo Ltd, Quinn Plastics NV et Quinn Plastics GmbH)................. 42
+
+6.6.8. Conclusions................................................................................................................ 43
+
+6.7. Durée de l’infraction................................................................................................ 44
+
+6.7.1. Début de l'infraction .................................................................................................. 44
+
+6.7.2. Fin de l'infraction....................................................................................................... 44
+
+7. MESURES CORRECTIVES.................................................................................. 45
+
+7.1. Article 7 du règlement (CE) n° 1/2003 ................................................................... 45
+
+7.2. Article 23, paragraphe 2, du règlement (CE) n° 1/2003 ....................................... 46
+
+8. MONTANT DE BASE DES AMENDES............................................................... 46
+
+8.1. Gravité....................................................................................................................... 46
+
+8.1.1. Nature de l'infraction................................................................................................. 46
+
+8.1.2. L’impact concret de l'infraction................................................................................. 47
+
+8.1.3. Taille du marché géographique en cause .................................................................. 49
+
+8.1.4. Conclusion de la Commission concernant la gravité de l'infraction......................... 49
+
+8.2. Traitement différencié ............................................................................................. 50
+
+8.3. Caractère dissuasif suffisant ................................................................................... 51
+
+8.4. Durée de l'infraction ................................................................................................ 54
+
+8.5. Conclusion relative aux montants de base............................................................. 55
+
+. 55
+
+. 56
+
+9. CIRCONSTANCES AGGRAVANTES ET ATTENUANTES............................ 56
+
+9.1. Circonstances aggravantes...................................................................................... 56
+
+9.1.1. Récidive...................................................................................................................... 56
+
+9.1.2. Rôle de meneur ou d’instigateur de l'infraction ........................................................ 59
+
+9.2. Circonstances atténuantes....................................................................................... 59
+
+9.2.1. Rôle passif et/ou mineur dans la réalisation de l'infraction ...................................... 59
+
+9.2.2. Non-application effective des accords ou pratiques infractionnels........................... 60
+
+9.2.3. Cessation précoce de l'infraction............................................................................... 62
+
+9.2.4. Introduction d'un programme de mise en conformité avec les règles de concurrence
+.................................................................................................................................... 63
+
+9.2.5. Absence de profit........................................................................................................ 63
+
+FR 4 FR
+
+9.2.6. Crise dans le secteur des méthacrylates .................................................................... 63
+
+9.2.7. Coopération apportée en dehors du champ d'application de la communication sur la
+clémence..................................................................................................................... 64
+
+9.2.8. Autres facteurs ........................................................................................................... 64
+
+9.3. Conclusion sur les circonstances aggravantes et atténuantes .............................. 65
+
+9.4. Application du plafond de 10 % du chiffre d'affaires .......................................... 65
+
+10. APPLICATION DE LA COMMUNICATION SUR LA CLÉMENCE ............. 66
+
+10.1. Degussa...................................................................................................................... 66
+
+10.2. Atofina....................................................................................................................... 66
+
+10.3. Lucite......................................................................................................................... 67
+
+10.3.1. Immunité en vertu du point 23 de la communication sur la clémence....................... 68
+
+10.4. ICI.............................................................................................................................. 68
+
+10.4.1. Date d'introduction de la demande de clémence d'ICI .............................................. 69
+
+10.5. Conclusion sur l'application de la communication de 2002 sur la clémence...... 70
+
+11. MONTANTS FINALS DES AMENDES À INFLIGER DANS LE CADRE DE
+LA PRÉSENTE PROCÉDURE.............................................................................. 70
+
+FR 5 FR
+
+DÉCISION DE LA COMMISSION
+
+de
+
+relative à une procédure d'application de l’article 81 du traité CE
+et de l’article 53 de l’accord EEE
+
+(Affaire COMP/F/38.645 - Méthacrylates)
+
+(Les textes en langues anglaise et française sont les seuls faisant foi)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre
+des règles de concurrence prévues aux articles 81 et 82 du traité CE1, et notamment son
+article 7, paragraphe 1, et son article 23, paragraphe 2,
+
+vu la décision de la Commission du 17 août 2005 d'engager la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission, conformément à l'article 27, paragraphe 1, du
+règlement (CE) n° 1/2003 et au règlement (CE) n° 2842/98 de la Commission du
+22 décembre 1998 relatif à l'audition dans certaines procédures fondées sur les articles 85
+et 86 du traité CE2,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes3,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire4,
+
+1 JO L 1 du 4.1.2003, p. 1. Règlement modifié en dernier lieu par le règlement (CE) n° 411/2004
+(JO L 68 du 6.3.2004, p. 1).
+2 JO L 354 du 30.12.1998, p. 18.
+3 JO C 285, du 22.11.2006, p.4.
+4 JO C 285, du 22.11.2006, p.2.
+
+FR 6 FR
+
+CONSIDÉRANT CE QUI SUIT:
+
+1. RÉSUMÉ DE L'INFRACTION
+
+(1) Les entités juridiques suivantes sont destinataires de la présente décision:
+
+• Degussa AG
+
+• Röhm GmbH & Co. KG
+
+• Para-Chemie GmbH
+
+• Total SA
+
+• Elf Aquitaine SA
+
+• Arkema SA
+
+• Altuglas International SA
+
+• Altumax Europe SAS
+
+• ICI PLC
+
+• Lucite International Ltd
+
+• Lucite International UK Ltd
+
+• Quinn Barlo Ltd
+
+• Quinn Plastics NV
+
+• Quinn Plastics GmbH.
+
+(2) Les destinataires de la présente décision ont participé à une infraction unique et
+continue à l’article 81 du traité et à l’
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e n'est pas le nombre total de documents sur lesquels la Commission
+s'appuie qui est déterminant en soi, mais plutôt la mesure dans laquelle le contenu
+des documents communiqués, par sa nature même et/ou son niveau de précision, a
+permis à la Commission de renforcer sa capacité d'établir les faits en question. Ainsi
+qu'ICI le fait justement observer, des documents datant de l'époque des faits sont
+plus probants que des documents plus récents.
+
+(419) Parmi les documents d'ICI que la Commission cite dans la présente décision (sur un
+total de 168 documents transmis à la Commission), certains ne sont utiles que pour
+les informations générales qu'ils fournissent, par exemple sur certains aspects de la
+mise en œuvre. Ces documents n'ont toutefois pas permis à la Commission d'établir
+les faits de l'espèce. Au moment où ICI a introduit sa demande, la Commission avait
+déjà reçu des autres entreprises suffisamment d'éléments déterminants pour établir
+les faits. La Commission estime aussi qu'ICI ne remplit pas les conditions pour
+prétendre à une réduction au titre de la coopération en dehors du champ
+d'application de la communication sur la clémence.
+
+10.4.1. Date d'introduction de la demande de clémence d'ICI
+
+(420) Dans sa réponse à la communication des griefs, ICI prétend avoir été dans
+l'impossibilité d'introduire une demande de clémence parce qu'elle avait vendu à
+Lucite son unité commerciale ICI Acrylics avant le début de cette affaire et avoir été
+victime d'une certaine discrimination. La Commission rejette cet argument. Le but
+de la communication sur la clémence est d'encourager les entreprises impliquées
+dans des ententes à offrir délibérément de coopérer avec la Commission. Cet
+objectif serait compromis si la Commission autorisait des entreprises qui n'ont pas
+proposé délibérément leur coopération à échapper à la responsabilité de leurs
+agissements parce qu'elles font valoir qu'elles n'étaient plus en mesure d'introduire
+une demande. En tout état de cause, ICI a été impliquée dans l'entente pendant près
+de trois ans avant qu'elle ne vende, le 2 novembre 1999, son unité commerciale ICI
+Acrylics à Lucite. La communication de 1996 sur la clémence114 s'appliquait depuis
+juillet 1996, de sorte qu'ICI avait la possibilité de déposer une demande de clémence
+alors qu'elle était encore propriétaire de l’unité commerciale ICI Acrylics.
+
+(421) Pour ce qui est de la thèse d'ICI selon laquelle la Commission l'aurait, d'une certaine
+façon, désavantagée par rapport aux autres parties en l'excluant de l'enquête et en
+dissuadant Lucite de l'informer de l'ouverture de cette enquête, la Commission
+réfute ces arguments dans leur intégralité. L'interprétation qu'ICI donne de la lettre
+de la Commission du 8 mai 2003 à Lucite, dans laquelle elle répondait aux
+questions de cette dernière concernant l'opportunité d'informer ICI, est correcte; la
+Commission a refusé de prendre position sur l’opportunité pour Lucite d’informer
+ICI. La Commission était convaincue, et elle l'est toujours, que c'est à Lucite qu'il
+incombait de trancher la question. Sa lettre se limitait à confirmer à Lucite la
+manière dont elle appliquait la communication sur la clémence, à savoir que
+l'immunité conditionnelle ne pouvait plus lui être accordée et que la clémence ne
+pouvait être demandée ou obtenue par plusieurs entreprises à titre solidaire, mais
+seulement par une seule. C'est à Lucite qu'il revenait d'interpréter cette lettre et de
+décider des mesures à prendre. Enfin, et contrairement aux indications d'ICI, la
+
+114 JO C 207 de 1996, p. 4.
+
+FR 69 FR
+
+Commission n'est nullement tenue d'informer les entreprises ayant participé à
+l'entente qu'elle a ouvert une enquête.
+
+10.5. Conclusion sur l'application de la communication de 2002 sur la clémence
+
+(422) En conclusion, il convient de réduire comme suit le montant des amendes qui, sans
+cela, auraient été infligées:
+
+(a) Degussa – immunité d’amendes;
+
+(b) Atofina – réduction de 40 %; et
+
+(c) Lucite – réduction de 30 % et immunité en vertu du point 23 de la
+communication sur la clémence pour la période allant du 1er mars 2001
+au 12 septembre 2002.
+
+11. MONTANTS FINALS DES AMENDES À INFLIGER DANS LE CADRE DE
+LA PRÉSENTE PROCÉDURE
+
+(423) En conclusion, il y a donc lieu d'infliger les amendes suivantes en application de
+l'article 23, paragraphe 2, du règlement (CE) n° 1/2003:
+
+(a) Degussa AG, Röhm GmbH & Co. KG et Para-Chemie GmbH, conjointement
+et solidairement responsables: 0 ;
+
+(b) Arkema SA, Altuglas International SA et Altumax Europe SAS, conjointement
+et solidairement responsables : 219,13125 millions d’euros, dont Total SA est
+tenue responsable conjointement et solidairement pour 140,4 millions d’euros
+et dont Elf Aquitaine SA est tenue responsable conjointement et solidairement
+pour 181,35 millions d’euros ;
+
+(c) ICI PLC : 91,40625 millions d’euros ;
+
+(d) Lucite International Ltd et Lucite International UK Ltd, conjointement et
+solidairement responsables: 25,025 millions d’euros ;
+
+(e) Quinn Barlo Ltd, Quinn Plastics NV et Quinn Plastics GmbH, conjointement et
+solidairement responsables: 9 millions d’euros.
+
+FR 70 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+Les entreprises suivantes ont enfreint l'article 81 du traité CE et l’article 53 de l’accord EEE
+en participant, durant les périodes indiquées, à un ensemble d'accords et de pratiques
+concertées dans le secteur des méthacrylates, couvrant l'ensemble du territoire de l'EEE et
+consistant en des discussions sur les prix ainsi qu’en la conclusion, la mise en œuvre et la
+surveillance d’accords sur les prix prévoyant soit des hausses, soit, à tout le moins, une
+stabilisation du niveau de prix existant, en l'examen de la répercussion du coûts des services
+supplémentaires sur les acheteurs, en l'échange d’informations importantes sous l’angle
+commercial et d’informations confidentielles sur les marchés et/ou les entreprises, de même
+qu'en la participation à des réunions régulières et à d'autres contacts pour faciliter l’infraction
+y compris le contrôle de la mise en œuvre. Degussa AG du 23 janvier 1997 au
+12 septembre 2002;
+(a) Röhm GmbH & Co. KG du 23 janvier 1997 au 12 septembre 2002;
+
+(b) Para-Chemie GmbH du 23 janvier 1997 au 12 septembre 2002;
+
+(c) Total SA from Total du 1er mai 2000 au 12 septembre 2002;
+
+(d) Elf Aquitaine SA du 23 janvier 1997 au 12 septembre 2002;
+
+(e) Arkema SA du 23 janvier 1997 au 12 septembre 2002;
+
+(f) Altuglas International SA du 23 janvier 1997 au 12 septembre 2002;
+
+(g) Altumax Europe SAS du 23 janvier 1997 au 12 septembre 2002;
+
+(h) ICI PLC du 23 janvier 1997 au 1er novembre 1999;
+
+(i) Lucite International Ltd du 2 novembre 1999 au 12 septembre 2002;
+
+(j) Lucite International UK Ltd du 2 novembre 1999 au 12 septembre 2002;
+
+(k) Quinn Barlo Ltd du 30 avril 1998 au 21 août 2000;
+
+(l) Quinn Plastics NV du 30 avril 1998 au 21 août 2000; et
+
+(m) Quinn Plastics GmbH du 30 avril 1998 au 21 août 2000.
+
+Article 2
+Les amendes suivantes sont infligées pour les infractions visées à l'article 1er:
+(a) Degussa AG, Röhm GmbH & Co. KG et Para-Chemie GmbH, conjointement
+et solidairement responsables: 0 ;
+
+(b) Arkema SA, Altuglas International SA et Altumax Europe SAS, conjointement
+et solidairement responsables : 219,13125 millions d’euros, dont Total SA est
+tenue responsable conjointement et solidairement pour 140,4 millions d’euros
+
+FR 71 FR
+
+et dont Elf Aquitaine SA est tenue responsable conjointement et solidairement
+pour 181,35 millions d’euros ;
+
+(c) ICI PLC : 91,40625 millions d’euros ;
+
+(d) Lucite International Ltd et Lucite International UK Ltd, conjointement et
+solidairement responsables: 25,025 millions d’euros ;
+
+(e) Quinn Barlo Ltd, Quinn Plastics NV et Quinn Plastics GmbH, conjointement et
+solidairement responsables: 9 millions d’euros ;
+
+.
+Les amendes infligées sont versées en euros, dans un délai de trois mois à compter de la date
+de notification de la présente décision, sur le compte bancaire suivant:
+Compte bancaire n°
+375-1017300-43 de la Commission européenne auprès de
+ING, Agence Bruxelles-Européenne, Rond Point Schuman 5, B-1040 Bruxelles
+(SWIFT code BBRUBEBB – IBAN code BE66 3751 0173 0043)
+
+À l'issue de ce délai, des intérêts seront automatiquement dus au taux d'intérêt appliqué par la
+Banque centrale européenne à ses opérations principales de refinancement au premier jour du
+mois au cours duquel la présente décision a été arrêtée, majoré de 3,5 points de pourcentage,
+soit 6,09%.
+
+Article 3
+Les entreprises citées à l’article 1er mettent immédiatement fin aux infractions qui y sont
+visées, si elles ne l’ont déjà fait.
+Elles s'abstiennent désormais de tout acte ou comportement tels que décrits à l’article 1er, ainsi
+que de tout acte ou comportement ayant un objet ou un effet identique ou similaire.
+
+Article 4
+Sont destinataires de la présente décision:
+Degussa AG
+Corporate Centre
+Bennigsenplatz 1
+DE - 40474 Düsseldorf
+
+Röhm GmbH & Co. KG
+Kirschenallee
+DE - 64293 Darmstadt
+
+Para-Chemie GmbH
+Hauptstraße 53
+AT - 2440 Gramatneusiedl
+
+Total SA
+2, place de la Coupole
+La Défense 6
+
+FR 72 FR
+
+FR – 92400 Courbevoie
+
+Elf Aquitaine SA
+2, place de la Coupole
+La Défense 6
+FR – 92400 Courbevoie
+
+Arkema SA
+4-8, Cours Michelet
+La Défense 10
+FR - 92800 Puteaux
+
+Altuglas International SA
+6, Cours Michelet
+Cedex 52
+FR - 92063 Paris La Défense
+
+Altumax Europe SAS
+6, Cours Michelet
+Cedex 52
+FR - 92063 Paris La Défense
+
+ICI PLC
+20 Manchester Square
+UK - London, W1U 3AN
+
+Lucite International Ltd
+Queens Gate
+15-17 Queens Terrace
+Southampton
+UK - Hampshire SO14 3 BP
+
+Lucite International UK Ltd
+POB 34
+Orchard Mill
+Duckworth Street
+Darwen
+UK - Lacashire BB3 1QB
+
+Quinn Barlo Ltd
+c/f Quinn Hotel Limited,
+Dublin Hotel
+IE - Cavan, County Cavan
+
+Quinn Plastics NV
+Leukaard 1
+BE - 2440 Geel
+
+FR 73 FR
+
+Quinn Plastics GmbH
+Gassnerallee 40
+DE - 55120 Mainz.
+La présente décision est applicable conformément à l’article 256 du traité et à l’article 110 de
+l’accord EEE.
+Fait à Bruxelles,
+
+Par la Commission
+
+Neelie KROES
+Membre de la Commission
+
+FR 74 FR

@@ -1,0 +1,215 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52011XX1109(03) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52011XX1109(03)
+Help
+Print
+Final Report of the Hearing Officer — COMP/39.525 — Telekomunikacja Polska
+Final Report of the Hearing Officer — COMP/39.525 — Telekomunikacja Polska
+Final Report of the Hearing Officer — COMP/39.525 — Telekomunikacja Polska
+OJ C 324, 9.11.2011, pp. 5–6
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+9.11.2011
+EN
+Official Journal of the European Union
+C 324/5
+Final Report of the Hearing Officer
+(
+1
+)
+COMP/39.525 — Telekomunikacja Polska
+2011/C 324/06
+BACKGROUND
+The draft Decision concerns the abuse of a dominant position under Article 102 of TFEU by the Polish incumbent telecommunication company, Telekomunikacja Polska SA (TP) on the markets for wholesale broadband Internet access.
+The case results from an investigation that was opened by the Commission
+ex officio
+. In September 2008 inspections were carried out at the premises of TP in Warsaw, Poland. Following the inspections, the proceedings were opened in April 2009
+(
+2
+)
+.
+WRITTEN PROCEDURE
+Statement of Objections
+A Statement of Objections (SO) was notified to TP on 1 March 2010. In the SO, the Commission came to the preliminary conclusion that the dominant telecommunication operator had been refusing to supply to Alternative Operators (AOs) remunerated access to its wholesale broadband services at various stages of the process; thus harming competition and customers on the retail broadband internet market in Poland. The infringement allegedly started when TP launched the first negotiations for concluding access contracts on 3 August 2005 and was still ongoing at the time of the notification of the SO.
+Access to file
+Access to the investigation file was granted by means of two DVDs which were sent to TP on 8 March 2010.
+TP did not raise any issues concerning access to file with me.
+Extensions to deadline for reply to SO
+The addressee of the SO was originally granted a deadline of eight weeks to provide its written comments on the SO from the date of receipt of the Commission’s file in the form of DVDs.
+TP demanded an extension which I accepted mainly because TP was preparing a commitment offer, in agreement with DG Competition, in parallel to the reply to the SO. Thus, the deadline was extended by four weeks in accordance with the deadline for commitment offers laid down in the draft Best Practices
+(
+3
+)
+. TP responded in due time.
+ORAL PROCEDURE
+Oral Hearing
+TP exercised its right to have an oral hearing. It took place later than originally scheduled (in July) upon TP's request to postpone the hearing until all its key representatives returned from holidays. As a result, the hearing took place on 10 September 2010. It lasted a whole day.
+Two interested third parties attended the hearing: Krajowa Izba Gospodarcza Elektroniki i Telekomunikacji (‘KIGEIT’), the Polish national economic chamber of electronics and telecommunications, and Netia SA, an alternative operator. Also, the national regulatory authority (UKE) was invited by the Commission and participated in the hearing.
+During the Oral Hearing TP argued,
+inter alia
+, that it had already been subject to regulatory investigations and interventions in Poland for some of the conduct taken up by the Commission under EU competition rules. A Commission Decision would therefore breach its fundamental right not to be tried twice (‘ne bis in idem’). Since this claim appeared to be sufficiently substantiated I raised it in my report according to Article 13
+(
+4
+)
+. The claim is now appraised in the draft decision and taken into account for the proposed fine.
+TP also put forward that the alleged infringement was terminated after the signature of the agreement between TP and UKE on 22 October 2009.
+LETTER OF FACTS
+After the Oral Hearing the Commission undertook additional fact finding to establish whether the infringement actually ended as TP contended. Its findings were summarized in a Letter of Facts of 28 January 2011. Upon TP's request, which I partially accepted, the original deadline for reply of four weeks was extended by additional one week. TP responded accordingly on 7 March 2011.
+THE DRAFT DECISION
+The major change to the SO is that the Commission does no longer regard the infringement continuing until and beyond 1 March 2010 — the date of the notification of the SO. The decision states now that the infringement continued at least until 22 October 2009 when TP and UKE concluded their agreement.
+In my opinion the draft Decision relates only to objections in respect of which TP has been afforded the opportunity to make known its views.
+In the light of the above observations, I consider that the right to be heard has been respected in this case.
+Brussels, 20 June 2011.
+Michael ALBERS
+(
+1
+)
+Pursuant to Articles 15 and 16 of Commission Decision (2001/462/EC, ECSC) of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings (
+OJ L 162, 19.6.2001, p. 21
+).
+(
+2
+)
+Pursuant to Article 2(1) of Council Regulation (EC) No 773/2004 and Article 11(6) of Council Regulation (EC) No 1/2003.
+(
+3
+)
+See http://ec.europa.eu/competition/consultations/2010_best_practices/best_practice_articles.pdf
+(
+4
+)
+Commission Decision (2001/462/EC, ECSC) of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings (
+OJ L 162, 19.6.2001, p. 21
+).
+Top

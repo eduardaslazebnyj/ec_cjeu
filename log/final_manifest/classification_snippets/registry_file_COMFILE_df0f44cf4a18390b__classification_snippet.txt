@@ -1,0 +1,418 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION EUROPÉENNE
+
+Bruxelles, le 8.12.2010
+C(2010) 8952 final
+
+DÉCISION DE LA COMMISSION
+
+du 8.12.2010
+
+relative à une procédure d'application de l'article 101
+du traité sur le fonctionnement de l’Union européenne
+
+(Affaire 39510 – ONP)
+
+(Le texte en langue française est le seul faisant foi)
+
+1
+
+TABLE DES MATIERES
+
+1. Introduction.................................................................................................................. 5
+
+2. Le secteur objet de la presente procedure .................................................................... 5
+2.1. Le marché en cause...................................................................................................... 5
+2.2. Structure du marché ..................................................................................................... 6
+2.2.1. La demande......................................................................................................... 6
+2.2.2. L’offre................................................................................................................. 6
+2.2.3. L’association d'entreprises en cause : l’Ordre national des Pharmaciens......... 12
+3. Cadre légal ................................................................................................................. 16
+3.1. Contrôle de l’ONP sur l’activité des acteurs du marché: gestion du Tableau ........... 17
+3.1.1. L’inscription au Tableau de l’Ordre ................................................................. 17
+3.1.2. La mise à jour de l’inscription au Tableau ....................................................... 18
+3.1.3. La sanction disciplinaire et la radiation du Tableau de l’Ordre........................ 19
+3.2. Réglementation applicable à la constitution et à la transformation de SEL .............. 20
+3.2.1. Constitution d’une nouvelle SEL...................................................................... 20
+3.2.2. Transformation d’une SEL au cours de sa vie sociale...................................... 21
+3.2.3. Formes juridiques des SEL............................................................................... 21
+3.2.4. Structure juridique des groupes de laboratoires................................................ 22
+3.3. Les laboratoires peuvent octroyer des ristournes contractuelles................................ 23
+4. La procédure .............................................................................................................. 24
+
+5. le Comportement objet de la presente procedure...................................................... 26
+5.1. Intervention sur les prix de marché............................................................................ 28
+5.1.1. Décision de fixer un prix minimum.................................................................. 29
+5.1.2. Décisions visant à imposer un prix minimum .................................................. 29
+5.1.3. Ces décisions recourent à une interprétation de la loi à des fins économiques 36
+5.2. Décisions visant à empêcher les groupes de laboratoires de se développer .............. 44
+5.2.1. Stratégie planifiée visant à entraver les groupes de LABM ............................. 44
+5.2.2. Décisions visant les groupes intégrés de laboratoires....................................... 47
+5.3. Traitement favorable pour les groupes spécialisés..................................................... 93
+5.4. Dépôt systématique de plaintes disciplinaires............................................................ 95
+5.5. Objectifs économiques poursuivis par l’ONP............................................................ 97
+5.5.1. Deux objectifs économiques complémentaires ................................................ 97
+5.5.2. Objectifs annoncés............................................................................................ 98
+5.5.3. Les décisions en cause rentrent dans le champ d’application du droit européen
+de la concurrence............................................................................................................ 102
+5.6. Conclusion ............................................................................................................... 109
+6. Décisions disciplinaires prises par l’ONP................................................................ 110
+
+7. Appréciation juridique ............................................................................................. 111
+7.1. Article 101, paragraphe 1, du TFUE........................................................................ 111
+7.1.1. Entreprises et associations d’entreprises ........................................................ 111
+7.1.2. Décisions d’associations d’entreprises ........................................................... 113
+7.1.3. Nature des décisions en cause......................................................................... 119
+7.1.4. La notion d’infraction unique et continue ...................................................... 121
+7.1.5. Restrictions de concurrence............................................................................ 124
+7.1.6. Affectation du commerce entre Etats membres.............................................. 129
+7.1.7. L'exception établie par l'arrêt "Wouters" ne s’applique pas........................... 130
+
+2
+
+7.1.8. L'articulation entre l'arrêt Commission/Italie, dans l’affaire C–531/06, et la
+présente décision ............................................................................................................ 132
+7.1.9. La justification tirée du "principe de l'indépendance professionnelle" du
+biologiste........................................................................................................................ 132
+7.2. Les exceptions prévues à l’article 101, paragraphe 3, du TFUE ne s’appliquent pas
+133
+8. Durée de l’infraction ................................................................................................ 134
+
+9. Destinataires de la décision...................................................................................... 135
+9.1. Principes................................................................................................................... 135
+9.2. Application au cas d’espèce..................................................................................... 136
+10. Mesures correctives.................................................................................................. 138
+10.1. Article 7, paragraphe 1, du règlement (CE) n° 1/2003........................................ 138
+10.2. Article 23 du règlement (CE) n° 1/2003 ............................................................. 138
+10.2.1. Observations de la Commission ..................................................................... 138
+10.2.2. Observations générales de l’ONP................................................................... 139
+10.2.3. Proportionnalité de l'amende .......................................................................... 140
+10.3. Détermination du montant de l'amende............................................................... 141
+10.3.1. Application du point 37 des lignes directrices................................................ 141
+10.3.2. Gravité de l ́infraction..................................................................................... 142
+10.3.3. Durée............................................................................................................... 144
+10.3.4. Circonstances atténuantes invoquées par l'ONP............................................. 144
+10.3.5. Montant de l’amende infligée dans le cadre de la présente procédure........... 146
+11. Conclusion ............................................................................................................... 147
+
+DÉCISION DE LA COMMISSION
+
+du 8.12.2010
+
+relative à une procédure d'application de l'article 101
+du traité sur le fonctionnement de l’Union européenne
+
+(Affaire 39510 – ONP)
+
+LA COMMISSION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l’Union européenne,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre
+des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 7,
+paragraphe 1, et son article 23, paragraphes 2 et 4,
+
+vu la décision de la Commission du 19 octobre 2009 d’ouvrir la procédure dans la présente
+affaire, conformément à l'article 2, paragraphe 2, du règlement (CE) n° 773/2004 de la
+Commission du 7 avril 2004 relatif aux procédures mises en œuvre par la Commission en
+application des articles 81 et 82 du traité CE 2,
+
+après avoir donné à l'association d'entreprises concernée l’occasion de faire connaître son
+point de vue au sujet des griefs retenus par la Commission, conformément à l'article 27,
+paragraphe 1, du règlement (CE) n° 1/2003 et à l’article 12 du règlement (CE) n° 773/2004,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes3,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire4,
+
+considérant ce qui suit:
+
+1 JO L 1 du 4.1.2003, p. 1. A compter du 1er décembre 2009, les articles 81 et 82 du traité CE sont devenus
+respectivement les articles 101 et 102 du traité sur le fonctionnement de l'Union européenne ("TFUE"). Dans
+les deux cas, les dispositions sont, en substance, identiques. Aux fins de la présente décision, les références
+faites aux articles 101 et 102 du TFUE s'entendent, s'il y a lieu, comme faites respectivement aux articles 81
+et 82 du traité CE. Le TFUE a également introduit certains changements de terminologie, tels que le
+remplacement de "Communauté" par "Union" et de "marché commun" par "marché intérieur". Lorsque le
+sens n'est pas modifié, la terminologie du TFUE sera utilisée tout au long de la décision.
+2 JO L 123 du 27.4.2004, p. 18.
+3 JO C 92 du 24.3.2011, p. 12 et 13.
+4 JO C 92 du 24.3.2011, p. 14.
+
+1. INTRODUCTION
+
+(1) La présente décision concerne le marché français des analyses de biologie médicale.
+Elle est adressée conjointement à l'Ordre National des Pharmaciens ("ONP") et à ses
+organes décisionnels le Conseil national de l’Ordre des pharmaciens ("CNOP") et le
+Conseil central de la Section G de l’ONP ("CCG").
+
+(2) L’association d’entreprises et ses organes décisionnels, destinataires de la présente
+décision, ont pris des décisions ayant pour objet d’imposer des prix minimums sur le
+marché français des analyses de biologie médicale, et des décisions visant à
+restreindre le développement des groupes intégrés de laboratoires sur ce marché. La
+présente décision démontre que ces décisions ont été prises exclusivement dans le
+but de protéger les intérêts économiques de la majorité des membres de l’ONP.
+
+(3) Le comportement en cause s’est manifesté au moins à partir du 14 octobre 2003
+jusqu'à la notification de la communication des griefs le 21 octobre 2009 aux
+destinataires de la présente décision, et ne semblait pas avoir cessé à cette date.
+
+(4) De ce fait, les destinataires de la présente décision ont conjointement commis une
+infraction unique et continue à l’article 101 du traité sur le fonctionnement de
+l’Union européenne (ci-après, "TFUE").
+
+2. LE SECTEUR OBJET DE LA PRESENTE PROCEDURE
+
+2.1. Le marché en cause
+
+(5) Le marché en cause concerne les services d’analyse de biologie médicale en France.
+Ces services consistent à prélever chez des patients des échantillons de liquides ou
+tissus biologiques sur lesquels sont exécutées des analyses, dont l’interprétation
+médicale des résultats a pour but de caractériser l’origine physiopathologique d’une
+maladie5.
+
+(6) La prestation de ce type de services s’effectue dans différents cadres réglementaires
+suivant les Etats membres: plusieurs catégories de personnel de santé peuvent
+effectuer les prélèvements (techniciens, infirmières, médecins) et les analyses
+peuvent généralement être réalisées soit in situ soit dans d’autres laboratoires, vers
+lesquels les échantillons sont envoyés.
+
+(7) Sur le marché français, les pharmaciens et médecins biologistes ont un monopole
+d’exercice et de gestion qui exclut les autres professions de santé de ce type
+d’activités, à l’exception des prélèvements et de certaines analyses pour lesquels ces
+autres professions de santé ont des droits limités6. Le cadre juridique pertinent à
+l’analyse du cas d’espèce est décrit plus en détail au chapitre 3.
+
+5 Selon la définition de l'article L 6211-1 du Code de la santé publique ("CSP"), "les analyses de biologie
+médicale sont les examens biologiques qui concourent au diagnostic, au traitement ou à la prévention des
+maladies humaines ou qui font apparaître toute autre modification de l'état physiologique, à l'exclusion des
+actes d'anatomie et de cytologie pathologiques exécutés par les médecins spécialistes de cette discipline".
+6 Rapport de l’Inspection Générale des Affaires Sociales (ci-après « IGAS ») n° 2006-045 d’avril 2006, pp. 36-
+40.
+5
+
+2.2. Structure du marché
+
+2.2.1. La demande
+
+(8) Les patients ou les médecins peuvent généralement choisir le laboratoire d'analyse de
+biologie médicale ("LABM") auprès duquel ils souhaitent réaliser des analyses. Les
+LABM sont en mesure d’effectuer la plupart des analyses les plus courantes,
+cependant celles requérant un matériel plus performant sont réalisées dans des
+LABM de taille plus importante.
+
+(9) Les analyses peuvent être effectuées soit au sein de laboratoires hospitaliers publics7,
+soit dans des laboratoires privés. Les établissements hospitaliers privés, qui
+représentent un tiers de la capacité d’hospitalisation en termes de nombre de lits,
+doivent confier les analyses pour leurs patients soit à des laboratoires hospitaliers
+publics, soit à des LABM privés indépendants.
+
+(10) En effet, jusqu’au 15 janvier 2010 la loi interdisait à une structure hospitalière privée
+de détenir une participation dans un LABM8, alors que l’inverse était autorisé et ne
+semblait pas poser de problème. Cependant, un laboratoire privé pouvait signer un
+contrat de collaboration avec un hôpital ou avec d’autres LABM, dans le cadre
+duquel des réductions de prix pouvaient être consenties.9
+
+2.2.2. L’offre
+
+2.2.2.1. Les acteurs du marché
+
+2.2.2.1.1 Pharmaciens et médecins biologistes
+
+(11) En France, la biologie médicale est exercée principalement par des pharmaciens: plus
+de 70% des directeurs de LABM sont pharmaciens biologistes10. Ceci explique le
+rôle prépondérant joué par l'ONP dans la biologie médicale, même si l'Ordre des
+Médecins exerce un contrôle symétrique sur les médecins biologistes.
+
+2.2.2.1.2 LABM
+
+(12) Les analyses de biologie médicale ne peuvent être effectuées que dans les
+laboratoires d'analyses de biologie médicale sous la responsabilité de leurs directeurs
+et directeurs adjoints11.
+
+(13) Les laboratoires d’analyses de biologie médicale en France sont souvent de petite
+taille, puisque près de 50 % ont un chiffre d'affaires inférieur à 1,5 million EUR, et
+30% fonctionnent sous forme d'entreprises individ
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+tion d ́une « parfaite coopération » avec
+la Commission831, l ́ONP ne spécifie pas concrètement de quelle manière sa
+coopération aurait été « parfaite ». La Commission constate cependant que ni les
+actions de l'ONP ni les propos publics d'un dirigeant de l'ONP suite à l'inspection
+menée dans les locaux de l’ONP en novembre 2008 ne témoignent d'une attitude de
+parfaite coopération832.
+
+(765) La Commission constate que l ́ONP s ́est limité à permettre à la Commission de
+mener une inspection dans ses locaux en application de l ́article 20 du règlement
+(CE) n°1/2003 et à répondre aux demandes de renseignements adressées au titre de
+l ́article 18 dudit règlement. En ce sens, l’ONP s’est simplement conformé à des
+obligations juridiques, rien de plus. L'ONP n ́a pas effectivement coopéré avec la
+Commission au-delà de ses obligations juridiques. Par conséquent, cette prétendue
+circonstance atténuante n’a aucune portée et ne justifie pas pour la Commission
+l ́application d ́une réduction du montant de l ́amende833.
+
+(766) En deuxième lieu, pour ce qui a trait à la prétendue absence de réelle mise en
+application des décisions en matière de ristournes, l ́ONP avance que les remarques
+formulées dans les courriers adressés à certains pharmaciens et relatives à leur
+politique de ristournes n ́ont été suivies d ́aucune sanction et qu’aucune modification
+contractuelle n ́aurait été observée dans les contrats dans lesquels figuraient les
+ristournes en cause.
+
+(767) La Commission rejette cet argument. Comme elle l'a déjà démontré au considérant
+(761), l ́infraction a été mise en œuvre par l ́ONP dans son intégralité.
+
+(768) En ce qui concerne le troisième argument avancé par l ́ONP, selon lequel son
+comportement anticoncurrentiel aurait été autorisé ou encouragé par les autorités
+publiques ou la réglementation, la Commission constate qu ́il a été démontré en
+particulier au chapitre 5 de la communication des griefs et au chapitre 5 de la
+présente décision que les décisions en cause s’appuient systématiquement sur une
+interprétation de la loi favorable à leur objectif anticoncurrentiel et à l’opposé de
+l’interprétation officielle de l’Etat français et de l’interprétation interne des services
+de l’ONP. Ce faisant, l’ONP place ses décisions pleinement dans le champ
+d’application du droit de la concurrence et ne saurait en tout état de cause invoquer
+une prétendue incitation de l’Etat à son comportement anticoncurrentiel.
+
+829 Observations de l’ONP sur la communication des griefs, point 255.
+830 Observations de l’ONP sur la communication des griefs, point 257.
+831 Point 29, quatrième tiret, des lignes directrices.
+832 Interview de [...] de l’ONP, décembre 2008.
+833 Voir arrêts du 8 octobre 2008 dans l’affaire T-73/04, Carbone-Lorraine / Commission (Rec. 2008 p. II-2661,
+point 238) et du 30 avril 2009 dans l’affaire T-13/03 Nintendo/Commission (Rec. 2009 p. II-975, point 160).
+Voir aussi la décision de la Commission du 11 mars 2008 dans l’affaire 38543 – Services de déménagements
+internationaux, points 590 et suivants.
+145
+
+10.3.5. Montant de l’amende infligée dans le cadre de la présente
+procédure
+
+(769) Si l’infraction en objet est très grave et concerne un marché important, la
+Commission entend aussi tenir compte des circonstances suivantes pour déterminer
+le montant de l’amende : la présente affaire constitue le premier cas dans lequel
+l’article 23, paragraphe 4 du règlement (CE) n°1/2003 pourrait être appliqué; il est
+possible que les membres de l’ONP n’aient pas pleinement pris conscience de la
+portée de ces dispositions légales, ce qui peut expliquer que le niveau de surveillance
+qu’ils ont exercé sur les activités des organes dirigeants de l’ONP n’était pas
+nécessairement proportionné aux conséquences financières potentielles qu’elles
+comportaient pour eux; le comportement anticoncurrentiel de l’ONP n’était pas
+secret. En application de l’article 23, paragraphe 2, du règlement (CE) n° 1/2003 et
+sur la base de ce qui précède, l’amende à infliger dans la présente affaire est de 5
+millions EUR.
+
+(770) Afin de déterminer si le montant de l’amende n’excède pas 10 % de la somme du
+chiffre d ́affaires total réalisé par chaque membre actif sur le marché affecté par
+l ́infraction de l’association, la Commission prend en considération le chiffre
+d ́affaires réalisé par chaque membre actif sur le marché affecté par l ́infraction de
+l ́association sur ledit marché conformément à l'article 23, paragraphe 2, dernier
+alinéa.
+
+(771) Le chiffre d'affaire total des membres n'est pas disponible. La valeur des ventes
+réalisées par les membres de l’ONP actifs sur le marché en cause en 2008 est de 4
+205 033 millions EUR, qui correspondent à 95% de la totalité des honoraires hors
+taxes facturés par les laboratoires d’analyse de biologie médicale privés sur le
+marché français834. Des données plus récentes ne sont pas disponibles. En effet,
+d’après l’ONP “les honoraires perçus pour la réalisation desdits examens ne sont
+pas assujettis à la taxe sur la valeur ajoutée ni d’ailleurs à d’autres taxes”835.
+D’autre part, toujours d’après l’ONP, environ 5% des LABM privés actifs sur le
+marché ont pour seuls associés des médecins biologistes.
+
+(772) Il s’ensuit que le montant final de l’amende n’excède pas la limite de 10% de la
+somme du chiffre d’affaires total réalisé par chaque membre de l’ONP actif sur le
+marché affecté par l’infraction à l'article 101, paragraphe 1, du TFUE, conformément
+à l’article 23, paragraphe 2, du règlement (CE) n° 1/2003.
+
+834 Source : Base de données Eco-Santé, Institut de Recherche et de Documentation en Economie de la Santé,
+d’après les données de la Caisse nationale d’assurance maladie des travailleurs salariés (CNAMTS). Ces
+chiffres ne comprennent pas les chiffres d’affaires réalisés par les LABM dans le cadre de la médecine du
+travail, qui concerne des examens qui ne sont pas remboursés par l'Assurance maladie. Le 26 février 2010, la
+Commission a envoyé à l ́ONP une demande de renseignements en application de l ́article 18 du règlement
+(CE) n° 1/2003. La Commission a demandé à l ́ONP de fournir pour l’année 2008 le chiffre d ́affaires réalisé
+par l ́ensemble des laboratoires d ́analyses de biologie médicales privés sur le marché français dans lesquels
+au moins un pharmacien biologiste exerce en tant que directeur ou directeur adjoint de laboratoire. L ́ONP
+dans sa réponse du 5 mars 2010 indique que ni le Conseil National de l ́Ordre des Pharmaciens ni le Conseil
+central de la section G ne disposent de telles informations. La Commission a donc estimé ce chiffre d’affaires
+sur la base d ́autres informations qu’elle considère pertinentes ou appropriées et communiqué ces
+informations à l’ONP dans un courrier du 27 mai 2010. L’ONP dans sa réponse du 8 juin 2010 a indiqué ne
+pas avoir de commentaire particulier à formuler quant à ces données.
+835 Réponse à la demande de renseignements du 26 février 2010.
+146
+
+11. CONCLUSION
+
+Après avoir donné à l’Ordre national des pharmaciens, au Conseil national de l’ordre
+des pharmaciens et au Conseil central de la Section G l'occasion de faire connaître
+leur point de vue au sujet des griefs retenus par la Commission, conformément à
+l'article 27, paragraphe 1, du règlement (CE) n° 1/2003, celle-ci,
+
+147
+
+A ADOPTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+L’Ordre national des pharmaciens et ses organes décisionnels, le Conseil national de l’Ordre
+des pharmaciens et le Conseil central de la Section G, ont enfreint les dispositions de l'article
+101, paragraphe 1, du traité sur le fonctionnement de l’Union Européenne en prenant des
+décisions ayant pour objet d’imposer des prix minimums sur le marché français des analyses
+de biologie médicale et des décisions visant à imposer des restrictions au développement de
+groupes de laboratoires sur ce marché .
+
+Article 2
+
+L’association d’entreprises et ses organes décisionnels, visés à l'article 1er, mettent
+immédiatement fin à l'infraction visée audit article, dans la mesure où ils ne l'ont pas déjà fait.
+
+Ils s'abstiennent dorénavant de tout acte ou comportement visé à l'article 1er, ainsi que de tout
+acte ou comportement ayant un objet ou un effet identique ou similaire.
+
+Article 3
+L’amende suivante est infligée conjointement et solidairement à l’Ordre national des
+pharmaciens, au Conseil national de l’Ordre des pharmaciens et au Conseil central de la
+Section G de l’Ordre des pharmaciens pour l'infraction visée à l'article 1er :
+5 millions d’euros
+
+L’amende infligée est à payer en euros dans un délai de trois mois à compter de la date de la
+notification de la présente décision sur le compte bancaire suivant ouvert au nom de la
+Commission européenne auprès de:
+
+BANQUE ET CAISSE D’EPARGNE DE L’ETAT
+1-2 Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / COMP/39510
+
+Á l'expiration de ce délai, des intérêts seront automatiquement dus au taux d’intérêt appliqué
+par la Banque centrale européenne à ses opérations de refinancement le premier jour ouvrable
+du mois au cours duquel la présente décision a été adoptée, majoré de 3,5 points de
+pourcentage.
+
+Lorsque l'association d'entreprises ou ses organes décisionnels, visés à l'article 1er,
+introduisent un recours, ils couvrent le montant de l'amende au plus tard à la date
+d'échéance, soit en constituant une garantie bancaire acceptable par l'Agent comptable de la
+Commission, soit en effectuant le paiement de l'amende à titre provisoire conformément à
+l'article 85bis, paragraphe 1, du règlement (CE, Euratom) n° 2342/2002 de la Commission.
+
+La présente décision forme titre exécutoire conformément à l’article 299 du TFUE.
+
+148
+
+Article 4
+
+Sont conjointement destinataires de la présente décision :
+L’Ordre national des pharmaciens
+Le Conseil national de l’Ordre des pharmaciens
+Le Conseil central de la Section G de l’Ordre des pharmaciens
+4, Avenue Ruysdaël
+F- 75008 PARIS
+
+Fait à Bruxelles, le 8.12.2010
+
+Pour la Commission
+
+Joaquín ALMUNIA
+
+Vice-président
+
+149

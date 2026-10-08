@@ -1,0 +1,385 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Nr. L 309/24 Amtsblatt der Europäischen Gemeinschaften 2 . 12. 94
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 11 . November 1994
+
+in einem Verfahren gemäß Artikel 85 des EG-Vertrags
+
+(IV/34.410 — Olivetti-Digital)
+
+(Nur der englische und der italienische Text sind verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+(94/771/EG)
+
+DIE KOMMISSION DER EUROPÄISCHEN lieh der Alpha-AXP-Erzeugnisse erwerben. Digital
+GEMEINSCHAFTEN — wird seinerseits in Fortführung einer bestehenden
+Bezugsvereinbarung, die bei der Kommission nicht
+gestützt auf den Vertrag zur Gründung der Europäischen angemeldet worden ist, von Olivetti die Personal
+Gemeinschaft, computer für sein Europageschäft erwerben.
+
+gestützt auf die Verordnung Nr. 17 des Rates vom (2) Mit der technischen Zusammenarbeit einher ging
+6. Februar 1962: Erste Durchführungsverordnung zu den der Erwerb von rund 8% des Aktienkapitals von
+Artikeln 85 und 86 des Vertrages (l), zuletzt geändert Olivetti durch Digital (die „Aktienerwerbsvereinba
+durch die Akte über den Beitritt Spaniens und Portugals, rung") und die entsprechende Vertretung von Digi
+insbesondere auf die Artikel 6 und 8, tal im Vorstand von Olivetti (die „Aktionärsverein
+barung"). Die beiden diesbezüglichen Vereinbarun
+im Hinblick auf den am 30. Juli 1992 von Digital gen sind zwischen Digital und CIR, der Mutterge
+Equipment Corporation und Ing. C. Olivetti & C., SpA sellschaft von Olivetti, abgeschlossen worden. Digi
+vorgelegten Antrag auf Erteilung eines Negativattests tal hat am 24. August 1994 mitgeteilt, daß sie ihre
+oder Freistellung für eine Reihe von Vereinbarungen zur Olivetti-Aktien auf dem freien Markt verkauft habe .
+Zusammenarbeit auf dem EDV-Markt, Deshalb sind die Aktienerwerbsvereinbarung und
+die Aktionärsvereinbarung gegenstandslos gewor
+nach Veröffentlichung des wesentlichen Inhalts der den. Nach Angaben von Digital wird sich der Ver
+Anmeldung gemäß Artikel 19 Absatz 3 der Verordnung kauf der Olivetti-Aktien nicht auf die angemeldete
+Nr. 17 (2), Zusammenarbeit auf technischem Gebiet auswirken.
+In der vorliegenden Entscheidung wird die Kommis
+nach Anhörung des Beratenden Ausschusses für Kartell
+sion alle angemeldeten Vereinbarungen beurteilen.und Monopolfragen,
+Es versteht sich von selbst, daß sich die Beurteilung
+der Aktienerwerbs- und Aktionärsvereinbarung nurin Erwägung nachstehender Gründe:
+auf den Zeitraum erstreckt, in dem diese Vereinba
+rungen wirksam waren.
+I. SACHVERHALT
+
+B. Die Parteien
+A. Die Anmeldung
+(3 ) Der in Ivrea (Italien) ansässige Olivetti-Konzern ist
+( 1 ) Am 30. Juli 1992 haben die Digital Equipment weltweit im Bereich der Informationstechnologie
+Corporation (nachstehend „Digital" genannt), und tätig und bietet schwerpunktmäßig Personal-Infor
+Ing. C. Olivetti & C., SpA (nachstehend „Olivetti" mationsgeräte, Notebook-, Laptop- und Personal
+genannt) bei der Kommission für eine Vereinbarung computer, auf Intel gestützte Rechnerplattformen,
+über die Zusammenarbeit bei EDV-Systemen ein einfache RISC-Computer sowie Nadeldrucker und
+Negativattest oder ersatzweise eine Freistellung nach anschlagfreie Drucker mit besonderen und allgemei
+Artikel 85 Absatz 3 beantragt. Digital wird die auf nen Verwendungszwecken an. Veröffentlichten An
+seinem neuen Reduced Instruction Set Computer gaben zufolge war Olivetti 1992 der zweitgrößte
+(RISC)-Mikroprozessor beruhende Alpha-AXP europäische Lieferant von EDV-Technologie und
+Technik Olivetti zur Verfügung stellen. Olivetti ver erzielte Einnahmen von 5,726 Milliarden US-Dollar,
+pflichtet sich im Gegenzug, die Alpha-AXP-Technik davon 1,4 Milliarden aus dem PC-Geschäft.
+für seine sämtlichen Rechnerplattformen und dazu
+gehörige Software mit Ausnahme der auf den (4) Der in Maynard (Massachusetts, USA) ansässige,
+Mikroprozessoren des Typs Intel beruhenden Pro weltweit tätige Konzern Digital ist vor allem in der
+duktlinie zu verwenden. Außerdem wird Olivetti Gestaltung, der Herstellung sowie in Verkauf und
+von Digital Computersystemerzeugnisse einschließ Betreuung von vernetzten Computersystemen und
+den dazugehörigen peripheren Ausrüstungen mit
+0 ABl. Nr. 13 vom 21 . 2. 1962, S. 204/62. den entsprechenden Netz-, Kommunikations- und
+(2 ) ABl. Nr. C 276 vom 14. 10. 1993, S. 4. Software-Erzeugnissen tätig.
+
+2. 12 . 94 Amtsblatt der Europäischen Gemeinschaften Nr. L 309/25
+
+(5) Die in Leim (Turin, Italien) ansässige CIR ist eine rechnern verwendet worden, wo ihre Geschwindig
+italienische Industrieholdinggesellschaft, die von der keit von großem Nutzen ist. Bei Desktop-Compu
+COFIDE (Compagnia Finanziaria de Benedetti SpA) tern wird in den meisten derzeit auf dem Markt
+kontrolliert wird und zum 31 . Dezember 1991 einen befindlichen Anwendungen immer noch die CISC
+Anteil von 44,3 % an Olivetti hielt. Technik vorgezogen. Da die RISC-Mikroprozesso
+ren immer stärker aufkommen und die Microsoft
+Corporation ihr neues Betriebssystem „Windows
+C. Erzeugnisse und relevanter Markt NT" auf den Markt bringt, mit dessen Hilfe RISC
+Architekturen in hochwertigen Anwendungen mög
+(6) Die fraglichen Vereinbarungen beziehen sich auf lich werden, die bisher nur mit CISC-gestützten
+sämtliche Komponenten der Alpha-AXP-System Mikrocomputern möglich waren, wird damit
+technik von Digital einschließlich Mikroprozessoren, gerechnet, daß die RISC-Technologie bald auch den
+Hardware, Software, periphere Ausrüstungen sowie Desktop-Markt durchdringen wird.
+zugehöriges Know-how. Das Alpha-AXP-System
+stellt eine neue Generation der RISC-Architektur ( 10) Der Markt für RISC-Technologie wächst anschei
+dar, das für die ganze Bandbreite von Computersy nend mit hoher Dynamik. Die meisten Chip-Herstel
+stemen von Handgeräten bis zu Großrechnern kon ler entwickeln gegenwärtig RISC-Microprozessoren,
+zipiert wurde und von den Partnern verwendet so z. B. MIPS, das sich kürzlich mit Silicon Graphics
+werden soll. Das Modell Alpha AXP soll als Stan Inc. zusammengeschlossen hat, das Modell RX 00,
+dard und Plattform für die wichtigsten derzeitigen Sun Microsystems das Modell SPARC und Moto
+und künftigen Computer-Betriebssysteme insbeson rola das Modell MC 88 Ö00. Einige der großen
+dere in der neuen Technik von Microsoft „MsNT" EDV-Hersteller haben Gemeinschaftsunternehmen
+und dem System Unix OSF/I dienen. Digital bemüht zur Entwicklung von RISC-Technologien gegründet,
+sich gegenwärtig darum, für diese Lizenzen an Her z. B. IBM, Apple und Motorola zur Entwicklung der
+steller von Chips und Computern zu vergeben. Eine Power PC-Architektur und Hewlett-Packard, Hita
+Lizenz zur Herstellung von Alpha-AXP-Mikropro chi, Samsung und Winbond zur Entwicklung der
+zessoren wurde an die Mitsubishi Electric Corpora Hewlett-Packard Precision Architecture.
+tion (Japan) vergeben.
+Nach den Angaben der Londoner International
+(7) Ursprünglich wurden Mikroprozessoren nach der Data Corporation war Sun 1991 EG-weit der mit
+CISC-Technik (Complex Instruction Set Computer) Abstand erfolgreichste Anbieter von RlSC-gestütz
+hergestellt, bei der umfassende Befehlssätze eine ten Computern (vor allem Arbeitsplatzrechner) mit
+Vielzahl komplexer Funktionen steuern. Mit Beginn einem Anteil von über 50% in diesem Marktseg
+der 80er Jahre wurde die neue RISC-Mikroprozes ment, gefolgt von MIPS und IBM. Nach Personal
+sortechnik mit einem verringerten Befehlsvorrat ent Computer-Markets vom 3 . November 1993 stiegen
+wickelt. Bei der RISC-Technik werden mit einem die Verkäufe von RISC-gestützten Arbeitsplatzrech
+beschränkten Befehlsvorrat einfache Vorgänge bei nern weltweit von 12,1 Milliarden US-Dollar im
+einer sehr viel höheren Geschwindigkeit als in der Jahr 1991 um 44,6% auf 17,5 Milliarden US
+CISC-Technik durchgeführt. Damit wird die Nach Dollar im Jahr 1992. Hewlett-Packard hat die
+rüstung der EDV-Systeme mit leistungsverbessern Marktführung behauptet, obwohl sein Anteil um
+den Systemteilen erleichtert, und aufgrund der gerin 3,9 Prozentpunkte auf 30,8 % zurückgegangen ist.
+geren Größe der Mikroprozessoren im Vergleich zur An zweiter und dritter Stelle liegen Sun mit 25,1 %
+CISC-Architektur auf vorgegebenen Leistungsebenen und MIPS mit 20,0% .
+werden die Herstellungskosten verringert. Für diese
+Leistungsoptimierung bedarf es jedoch nicht nur des
+Einbaus des RISC-Mikroprozessors in die EDV Der geographisch relevante Markt
+Anlage, sondern auch der Konzeption entsprechen
+der Systemsoftware (Betriebssystem und Kompilie (11 ) Nach wirtschaftlichen Gesichtspunkten ist ange
+rer), um das Potential des jeweiligen Mikroprozes sichts des großen Welthandelsvolumens, der gerin
+sors voll auszuschöpfen. gen Transportkosten und des Fehlens nennenswerter
+Handelsschranken der Weltmarkt als geographisch
+relevanter Markt anzusehen.
+Der sachlich relevante Markt
+
+(8 ) Aus diesen Erwägungen heraus ist die Kommission D. Die Vereinbarungen
+der Ansicht, daß der sachlich relevante Markt
+sowohl den Markt für RISC-Technologie einschließ „ Vereinbarung über eine strategische Allianz"
+lich Mikroprozessoren, sonstiger Hardware, Soft
+ware und Know-how (also die unmittelbar von den (12) Diese Vereinbarung enthält folgende Bestimmun
+Vereinbarungen erfaßten Produkte) als auch den gen:
+Markt für die unterschiedlichen Endprodukte um a) Festlegung von Olivetti auf die Al
+faßt, in denen RISC-Technologie enthalten ist (die pha - AXP-Technik von Digital
+indirekt erfaßten Erzeugnisse).
+Digital wird an Olivetti Hardware-Teile auf der
+(9) Bisher sind auf die RISC-Technologie gestützte Grundlage der Alpha-AXP-Technik sowie Soft
+Computersysteme nur bei Computer-Arbeitsplatz ware liefern, die für Anwendungen mit Alpha
+
+Nr. L 309/26 Amtsblatt der Europäischen Gemeinschaften 2. 12. 94
+
+AXP-Prozessoren bestimmt ist, und Olivetti über um ihre Systeme kompatibler zu machen und
+die künftige Entwicklung der Alpha-AXP-Tech Betriebssysteme und Software zu entwicklen und
+nik auf dem laufenden halten. zu fördern.
+
+Olivetti wird die Alpha-AXP-Technik für seine Die Parteien beabsichtigen die gemeinsame Pla
+sämtlichen Rechner-Plattformen und die dazuge nung von Intel-Erzeugnissen und prüfen die
+hörige Software mit Ausnahme der auf Intel Durchführbarkeit einer weltweiten Zusammen
+Mikroprozessoren beruhenden Produktlinie ein arbeit beim Erwerb von Personalcomputern auf
+setzen, soweit es technisch vertretbar ist. Olivetti Intel-Grundlage und von Unterbaugruppen.
+wird sein Produktangebot mit Ausnahme der Die Parteien werden den möglichen Erwerb und
+Intel-Computer auf Alpha-AXP-Technik umstel die Förderung von Awendungen für unabhän
+len und für seine Alpha-AXP-Erzeugnisse OSF gige Software-Anbieter auf der Grundlage von
+von Digital und NT von Microsoft als Hauptbe Alpha AXP erörtertn.
+triebssysteme verwenden.
+d) Dienstleistungen Gemäß Artikel 2 Absatz 6 der Vereinbarung
+gehen Olivetti und Digital bei ihrer strategischen Die Parteien werden die Gebiete erkunden, auf
+Zusammenarbeit davon aus, daß die Alpha denen sie ihre Dienstleistungsstrukturen optimie
+AXP-Erzeugnisse von Digital in allen Marktseg ren können. Es wurde vereinbart, daß Digital
+menten und für jeden Halbjahreszeitraum sich in seine Kenntnisse über Installation und Wartung
+der gleichen Preis- und Qualitätsspanne bewegen von Alpha-AXP-Erzeugnissen an Olivetti weiter
+wie die von anderen führenden Anbietern gelie geben wird, während Olivetti weiterhin für die
+ferte RISC-Technologie. von Digital erworbenen Personalcomputer Un
+terstützung leisten wird.
+b) Bezugs Verpflichtungen
+e) Ausschüsse
+Olivetti hat sich verpflichtet, Alpha-AXP
+Erzeugnisse von Digital zu erwerben. Dafür Zur besseren Durchführung der Vereinbarung
+wurden zwei Formeln vereinbart, von denen haben die Parteien folgende vier Ausschüsse
+jeweils diejenige anzuwenden ist, bei der das gegründet: einen Allianzausschuß für die allge
+Handelsvolumen größer ist: meinen Fragen der Zusammenarbeit, der gleich
+zeitig die Arbeit der drei anderen Ausschüsse
+i) Mindestanteil an Olivetti-Einkäufen: Ab koordinieren soll, einen Produktausschuß für
+dem 1 . April 1993 wird Olivetti für die Personalcomputer, einen Produktausschuß für
+Dauer der Vereinbarung mindestens 50% Alpha-AXP-Erzeugnisse und einen Dienstlei
+seiner für den Weiterverkauf vorgesehenen stungsausschuß für den Dienstleistungsbereich.
+Systemplattformen (mit Ausnahme von In
+tel-Plattformen) von Digital beziehen. Bei
+(13 ) Die „Vereinbarung über eine strategische Allianz"
+dieser Kalkulation werden Intel-Plattformen,
+ist auf fünf Jahre befristet und verlängert sich still
+Käufe für den Eigenbedarf und eigene Her schweigend um weitere fünf Jahre, sofern sie nicht
+stellung nicht einbezogen; von einer Partei gekündigt wird.
+ii) für den Erwerb von Alpha-AXP-Erzeugnis
+sen von Digital gelten folgende Mindestbe »Aktienerwerbsvereinbarung und Aktionärsverein
+träge: barung"
+
+— 80 Millionen US-Dollar bis zum 30. Juni ( 14) Im Rahmen der „Aktienerwerbsvereinbarung" hatte
+1994; Digital rund 8% des Aktienkapitals von Olivetti
+erworben. Der Bezug und der Verkauf der Aktien — weitere 80 Millionen US-Dollar bis zum
+erfolgte in zwei gleich großen Losen. Der Bezug des 31 . Oktober 1995;
+zweiten Loses sollte Mitte 1994 stattfinden, wurde
+— nochmals 80 Millionen US-Dollar bis jedoch auf Mitte 1993 vorgezogen. Im August 1994
+zum 31 . Juli 1996. hat Digital alle ihre Olivetti-Aktien verkauft.
+
+Darüber hinaus verpflichtet sich Olivetti zum ( 15) Gemäß der „AktionärsVereinbarung" war Digital so
+Erwerb sonstiger Digital-Erzeugnisse in Höhe lange anteilmäßig im Vorstand von Olivetti vertre
+von 70 Millionen US-Dollar bis zum 30. Juni ten, wie sie wenigstens 25 Millionen Stammaktien
+1994: von Olivetti hielt, und konnte mindestens einen
+Vertreter entsenden.
+In keiner der obengenannten Verpflichtungen
+werden Art der Erzeugnisse, Mengen oder Preise
+( 16) Es stand Digital frei, ihr Stimmrecht für ihre Oli festgelegt.
+vetti-Aktien wahrzunehmen. Sie durfte jedoch nicht
+Anteile an Olivetti erwerben, die über eine Beteili c) Zusammenarbeit und Planung bei der
+Produkttechnik gung von 10% hinausgehen. Digital durfte ihre
+Anteile nicht treuhänderisch verwalten lassen und
+Die Parteien werden gemeinsam mögliche keine sonstigen Vereinbarungen mit Dritten in
+zusätzliche Formen der Zusammenarbeit .prüfen, bezug auf den Besitz der Olivetti-Aktien und die
+
+2. 12. 94 Amtsblatt der Europäischen Gemeinschaften Nr. L 309/27
+
+Ausübung des Stimmrechts eingehen. CIR hatte ein vollständigen Angebots von RISC-gestützten
+Vorkaufsrecht, wenn Digital beabsichtigen sollte, Rechnern verbunden sind, würde sich Olivetti
+ihre Olivetti-Anteile zu veräußern. CIR hat dieses mit großer Wahrscheinlichkeit auch ohne eine
+Recht nicht ausgeübt. entsprechende vertragliche Verpflichtung an
+fänglich auf eine RISC-Technik konzentrieren.
+(17) Die „Aktionärsvereinbarung" war auf höchstens In keinem Fall würde Olivetti über genügend
+fünf Jahre befristet. wirtschaftliche Ressourcen verfügen, um eine
+zweite Palette von RISC-Produkten anbieten zu
+können. Aus den gleichen Gründen würde Oli
+E. Bemerkungen Dritter vetti nach einmal erfolgter Wahl der Technik
+nicht so bald auf eine andere RISC-Technik( 18 ) Auf die Veröffentlichung der Mitteilung 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+bsatz 1 . Die Ausschüsse scheinen weder der kom über die angemeldeten Vereinbarungen mit Digi
+merziellen Zusammenarbeit der Parteien noch der tal erst nach Abschluß unterrichtet worden ist.
+Koordinierung ihres Wettbewerbsverhaltens zu die Es gibt keine Fragen im Zusammenhang mit der
+nen; vielmehr sind sie für die erfolgreiche Durchfüh Geschäftsfürung, bei denen die Zustimmung des
+rung der Zusammenarbeit erforderlich und in erster gesamten Olivetti-Vorstands erforderlich ist.
+Linie für die Unterstützung Olivettis bei der Ver
+wendung der Alpha-AXP-Technik sowie für die Daher ist die Kommission der Ansicht, daß die
+technische Zusammenarbeit gedacht. Beteiligung von Digital im Olivetti-Vorstand mit
+aller Wahrscheinlichkeit nicht zu einer Abstim
+mung des Wettbewerbsverhaltens oder einem
+Austausch wettbewerbsrelevanter Informationen
+„Aktienerwerbsvereinbarung und Aktionärsverein
+geführt hat, solange sich die Zuständigkeiten des barung" Olivetti-Vorstands in dem oben beschriebenen
+Rahmen gehalten haben.
+(26 ) Digital hatte rund 8 % des Aktienkapitals von Oli
+vetti erworben und war so lange anteilsmäßig im
+(27) Aus diesen Gründen ist die Kommission zu der Vorstand von Olivetti vertreten, wie sie wenigstens
+25 Millionen Stammaktien von Olivetti hielt. Auffassung gelangt, daß, solange die Kompetenzen
+des Olivetti-Vorstands in der von den Parteien
+beschriebenen Weise begrenzt geblieben sind, die in
+Für die Zeit, in der diese Vereinbarungen in Kraft der Aktienerwerbsvereinbarung und der Aktionärs
+waren, stellt die Kommission fest: vereinbarung getroffenen Übereinkünfte eine Ver
+hinderung, Einschränkung oder Verfälschung des a ) Digital konnte keine Anteile an Olivetti erwer Wettbewerbs im Sinne von Artikel 85 Absatz 1
+ben, die zu einer Beteiligung von über 10% weder bezweckt noch bewirkt haben.
+geführt hätten. Außerdem war Digital eine
+Abstimmung mit Dritten über ihr mit den Oli
+vetti-Aktien verbundenes Stimmrecht untersagt.
+Mit der Beteiligung waren keine Vetorechte ver B. Artikel 85 Absatz 3
+knüpft, die Digital damals oder zu einem späte
+ren Zeitpunkt eine Kontrolle über Olivetti einge (28 ) Insgesamt wirken sich die angemeldeten Vereinba
+räumt hätten. Olivetti hat auch weiterhin der rungen auf die Wettbewerbsstruktur in der Gemein
+ausschließlichen Kontrolle von CIR unterstan schaft günstig aus. Vor allem wird Olivetti als
+den, die immer noch über 31,07% ihrer Stamm zusätzlicher Wettbewerb auf dem Markt für RISC
+aktien verfügte. Das Vorkaufsrecht von CIR für gestützte Rechner in Erscheinung treten, was ohne
+von Digital angebotene Olivetti-Aktien ist eine Vereinbarung über den Erwerb dieser Techno
+Beweis für die Absicht der Eignerin, ihre Kon logie nicht möglich wäre (siehe Randnummer 20).
+trolle über Olivetti auf einem möglichst hohen Diese positive WettbewerbsWirkung kommt unein
+Niveau zu halten. geschränkt zur Geltung, da die Parteien keine Mög
+lichkeit zur Koordinierung ihres Wettbewerbsverhal
+Die Kommission ist daher zu der Ansicht tens auf dem Markt haben (siehe Randnummern 23,
+gelangt, daß die Minderheitsbeteiligung von 24, 25 und 27). Die Vereinbarungen sehen weder
+Digital bei Olivetti nicht zu einem Wechsel in eine Möglichkeit für Digital zur Einflußnahme auf
+der Kontrolle über das Unternehmen , geführt die unternehmerischen Entscheidungen Olivettis
+hat. oder zum Erwerb vertraulicher Informationen über
+diese noch eine Begrenzung der Rechte von Digital
+b) Die Parteien behaupten und belegen, daß der zur EG-weiten Vermarktung ihrer geschützten Tech
+Olivetti-Vorstand alle Geschäftsführungsfunk nologie direkt oder durch Lizenzvergabe an andere
+tionen auf den Vorstandsvorsitzenden übertra Hersteller vor (siehe Randnummer 6).
+gen hat.
+(29 ) Trotz dieser insgesamt positiven Folgen für den
+Der Vorstand tritt nur viermal jährlich zur Wettbewerb ist die Kommission der Ansicht, daß
+Behandlung finanzieller Angelegenheiten (Ge die in der „Vereinbarung über eine strategische
+nehmigung der Unternehmensbilanz, der Bezüge Allianz" enthaltene Verpflichtung zum Bezug von
+und der Halbjahresabschlüsse, die der italieni Alpha-AXP-Technologie unter Artikel 85 Absatz 1
+schen Wertpapieraufsicht vorzulegen sind) oder fällt. Sie erfüllt jedoch die vier Bedingungen für eine
+allgemeiner Fragen zusammen. Mit Ausnahme Einzelfreistellung gemäß Artikel 85 Absatz 3 .
+des Vorsitzenden, seines Stellvertreters und des
+Geschäftsführers von Olivetti hat keines der
+Vorstandsmitglieder eine Funktion in der Ge
+schäftsführung von Olivetti inne. Verbesserung der Warenerzeugung oder Förderung
+des technischen oder wirtschaftlichen Fortschritts
+Nach Angaben der Parteien ist der Vorstand
+von Olivetti nicht an Entscheidungen über die (30) Die Bezugsverpflichtung wird die Großfertigung von
+Entwicklung neuer Produkte und ihre Preisge Alpha-AXP-Erzeugnissen und die schnellere Verbrei
+
+Nr. L 309/30 Amtsblatt der Europäischen Gemeinschaften 2. 12 . 94
+
+tung dieser fortgeschrittenen Technologie von Digi pen entwickelten Technologien arbeiten, sind auf
+tal fördern. Die größere Verfügbarkeit von Alpha dem Markt erhältlich (siehe Randnummern 7 bis
+AXP-gestützten Rechnersystemen auf dem Markt 10). Angesichts der führenden Stellung von Syste
+begünstigt die Herstellung von Programmen, die men, die auf der SPARC- oder der Hewlett-Packard
+speziell für RISC-gestützte Zentraleinheiten konzi Precision-Architecture-Technologie beruhen, auf
+piert sind, und trägt damit zum technischen Fort dem europäischen EDV-Markt wird die Bezugsver
+schritt bei. pflichtung dem Wettbewerb förderlich sein, da eine
+neue Produktgeneration mit neuer Technologie mit
+den bereits auf dem Markt vorhandenen Erzeugnis
+Der Nutzen für den Verbraucher sen im Hinblick auf Preis und Qualität in Wettbe
+werb treten wird.
+(31 ) Die europäischen Verbraucher von EDV-Technik
+werden am aus der Bezugsverpflichtung entstehen Wegen der Offenheit der Alpha-AXP-Architektur
+den Gewinn angemessen beteiligt, da neuartige und ihrer Übereinstimmung mit allgemein anerkann
+Erzeugnisse von hoher Qualität in größeren Mengen ten Industrienormen wird ihre Verbreitung zur Ent
+und zu niedrigeren Preisen auf dem europäischen wicklung von Informationstechnologien (insbeson
+Markt erhältlich sein werden. Wie bei allen Mikro
+dere Software) in ganz Europa beitragen und den
+prozessoren hängen auch die Produktionskosten von Wettbewerb auf diesen Märkten intensivieren.
+Alpha AXP in hohem Maße von den hergestellten
+Mengen ab. Die Bezugsverpflichtung ermöglicht
+Digital die Herstellung größerer Mengen von
+C. Freistellungsdauer
+Alpha-AXP-Erzeugnissen zu niedrigeren Kosten. Da
+mit einer beträchtlichen Zunahme des Wettbewerbs
+(34) Gemäß Artikel 8 der Verordnung Nr. 17 ist die auf dem Markt für RISC-gestützte Erzeugnisse in
+Erklärung nach Artikel 85 Absatz 3 für eine
+naher Zukunft als Folge des Angebots von Erzeug
+bestimmte Zeit abzugeben. Gemäß Artikel 6 dieser
+nissen auf dem Markt zu rechnen ist, die jeweils von
+Verordnung kann der Zeitpunkt der Wirksamkeit
+mehreren Unternehmen gemeinsam entwickelt wur
+dieser Erklärung nicht vor dem Tag der Anmeldung den (siehe Randnummer 10), werden die Parteien
+liegen. Daher wird die Freistellung im vorliegenden über konkurrenzfähige Preise die Gewinne aus die
+Fall ab dem Zeitpunkt der Anmeldung wirksam
+ser Bezugsverpflichtung in angemessenem Ausmaß
+und gilt bis zum geplanten Ende der Bezugs
+an die Verbraucher weitergeben.
+verpflichtung, d. h. vom 30. Juli 1992 bis zum
+25 . Tuni 2002 —
+
+Unerläßlichkeit der Beschränkungen
+
+(32) Die Skaleneinsparungen bei der Herstellung der
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+neuen Produktgeneration und ihre verstärkte,
+beschleunigte Verbreitung auf dem Markt — die
+wichtigsten Voraussetzungen für die Beteiligung der
+Verbraucher am entstehenden Gewinn — können Artikel 1
+nur durch eine angemessene Bezugsverpflichtung
+gewährleistet werden, mit der Digital bei der Finan Für die Kommission besteht anhand der ihr vorliegenden
+zierung der kritischen Periode der Produktionsauf Informationen kein Grund, hinsichtlich der folgenden bei
+nahme unterstützt wird. Daher schränkt die Ver ihr angemeldeten Vereinbarungen von Olivetti und Digi
+pflichtung zum Bezug von Alpha-AXP-Erzeugnissen tal das Verfahren gemäß Artikel 85 Absatz 1 EG-Vertrag
+den Wettbewerb nicht über das für die Verwirkli einzuleiten:
+chung der obengenannten Vorteile unerläßliche Aus
+maß hinaus ein. — die „Aktienerwerbsvereinbarung" vom 25. Juni
+1992,
+
+Keine wesentliche Ausschaltung des Wettbewerbs — die „Aktionärsvereinbarung" vom 26. August 1992
+sowie
+(33 ) Obwohl die Bezugsverpflichtung die Möglichkeit
+— die „Vereinbarung über eine strategische Allianz" vom anderer Alpha-AXP-Lizenznehmer einschränkt, ent
+sprechende Erzeugnisse an Olivetti zu liefern, wird 25. Juni 1992 mit Ausnahme der Verpflichtung zum
+damit nicht für einen wesentlichen Teil der betref Bezug von Alpha-AXP-gestützten Erzeugnissen.
+fenden Waren der Wettbewerb ausgeschaltet, da
+Olivetti nur einer von vielen Computerherstellern
+und potentiellen Käufern von Alpha-AXP-Erzeug Artikel 2
+nissen für RISC-gestützte Rechner ist.
+In Anwendung von Artikel 85 Absatz 3 wird Artikel 85
+Auch der Wettbewerb im Marktsegment der RISC Absatz 1 EG-Vertrag für die Zeit vom 30. Juli 1992 bis
+gestützten Computer wird durch die Bezugsver zum 25. Juni 2002 für unanwendbar erklärt auf die in
+pflichtung nicht ausgeschaltet. Zahlreiche andere der Vereinbarung von Olivetti und Digital über eine
+RISC-gestützte Rechner, die mit anderen, von ver strategische Allianz vom 25. Juni 1992 enthaltene Ver
+schiedenen Unternehmen oder Unternehmensgrup pflichtung zum Bezug von Alpha-AXP-Erzeugnissen.
+
+2. 12. 94 Amtsblatt der Europäischen Gemeinschaften Nr. L 309/31
+
+Artikel 3 3 . CIR,
+Strada Volpiano, 53,
+Diese Entscheidung ist gerichtet an: 1-10040 Leim (TO ).
+
+1 . Ing. C. Olivetti & C., SpA,
+Via Jervis, 77,
+1-10015 Ivrea (TO); Brüssel, den 11 . November 1994
+
+2. Digital Equipment Corporation, Für die Kommission
+146, Main Sreet,
+Karel VAN MIERT
+Maynard, Massachusetts 01754,
+USA; Mitglied der Kommission

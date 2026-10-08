@@ -1,0 +1,187 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# NICHTVERTRAULICHE FASSUNG
+
+# DER ENTSCHEIDUNG DER KOMMISSION VOM 19. DEZEMBER 2007
+
+# COMP/34.579 - MasterCard COMP/36.518 - EuroCommerce und COMP/38.580 - Commercial Cards
+
+VON MASTERCARD GELTEND GEMACHTE GESCHÄFTSGEHEIMNISSE– ERLÄUTERUNGEN ZU DEN ÄNDERUNGEN IN DER NICHTVERTRAULICHEN FASSUNG DER ENTSCHEIDUNG
+
+Geschäftsgeheimnis 1a: Informationen überdie Organisations- und Managementstruktur von MasterCard sowie die allgemeinen Mitgliedsregeln
+
+Geschäftsgeheimnis 1b: Auszüge (z. B. aus Protokollen/Regeln) betreffend die Organisations- und Managementstruktur und die allgemeinen Mitgliedsregeln
+
+Geschäftsgeheimnis 2a: Informationen über die Interbankenentgelt-Regeln von MasterCard und das Verfahren zur Festsetzung der Höhe der Interbankenentgelte
+
+Geschäftsgeheimnis 2b: Auszüge (z. B. aus Protokollen) betreffend die Interbankenentgelt-Regeln von MasterCard und das Verfahren zur Festsetzung der Höhe der Interbankenentgelte
+
+Geschäftsgeheimnis 3a: Informationen über die Gründe, die Strategie und die Vorbereitungen für den Börsengang von MasterCard
+
+Geschäftsgeheimnis 3b: Auszüge (z. B. aus Protokollen/Präsentationen) betreffend die Gründe, die Strategie und die Vorbereitungen für den Börsengang von MasterCard
+
+Geschäftsgeheimnis 4: Informationen über den Absatz, den Umsatz, die Marktanteile und die Anzahl der Kunden von MasterCard
+
+Geschäftsgeheimnis 5a: Information über die interne Geschäftsstrategie von MasterCard
+
+Geschäftsgeheimnis 5b: Auszüge (z. B. aus Protokollen von Board-Sitzungen/ Regeln/Präsentationen/Vorschlägen) betreffend die interne Geschäftsstrategie von MasterCard
+
+Geschäftsgeheimnis 6: Informationen über MIF, Tarifbewertung, zugrundeliegende Kostenstrukturen und andere Elemente, die bei der Festsetzung des MIF berücksichtigt werden, einschließlich der Liste der Länder, in denen das MIF standardmäßig auf inländische Transaktionen angewandt wird
+
+Geschäftsgeheimnis 7: Informationen über Kontakte zwischen Rechtsbeiständen
+
+Geschäftsgeheimnis 8: Informationen über Studien/Gutachten, die MasterCard der Kommission vorgelegt hat
+
+# ENTSCHEIDUNG DER KOMMISSION
+
+vom 19.12.2007
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+
+(COMP/34.579 MasterCard COMP/36.518 EuroCommerce und COMP/38.580 Commercial Cards)
+
+(Nur der englische Text ist verbindlich)
+
+gerichtet an
+
+MasterCard Europe S.p.r.l.,
+
+MasterCard Incorporated und
+
+MasterCard International Incorporated
+
+(Text von Bedeutung für den EWR)
+
+# DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur Durchführung der in den Artikeln 81 und 82 EG-Vertrag niedergelegten Wettbewerbsregeln, insbesondere auf Artikel 7 und Artikel 24 Absatz 1 Buchstabe a,
+
+nach Einleitung des Verfahrens durch Übermittlung einer Mitteilung der Beschwerdepunkte am 6. Mai 1999 und nach Anmeldung vorläufiger Bedenken in Bezug auf den Gegenstand dieser Entscheidung in zwei Mitteilungen der Beschwerdepunkte vom 24. September 2003 und 20. Juni 2006 und nachdem MasterCard Europe S.p.r.l., MasterCard International Incorporated und MasterCard Incorporated durch ein Tatbestandsschreiben vom 23. März 2007 vom Vorliegen neuer Beweismittel unterrichtet wurden,
+
+nachdem MasterCard Europe S.p.r.l., MasterCard International Incorporated und MasterCard Incorporated gemäß Artikel 19 Absatz 1 der Verordnung Nr. 17/622, der Verordnung (EG) Nr. 2842/98 der Kommission vom 22. Dezember 1998 über die Anhörung in bestimmten Verfahren nach Artikel 85 und 86 EG-Vertrag3 sowie Artikel 27 der Verordnung (EG) Nr. 1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission4 Gelegenheit gegeben wurde, sich zu den Beschwerdepunkten der Kommission zu äußern,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht der Anhörungsbeauftragten in dieser Sache3,
+
+in Erwägung nachstehender Gründe:
+
+1. HERGANG UND HINTERGRUND DES VERFAHRENS 14
+1.1. Das Verfahren 14
+1.2. Untersuchung der Kommission 16
+1.3. Allgemeiner Hintergrund 17
+2. DIE VERFAHRENSPARTEIEN 19
+2.1. Die Zahlungsorganisation MasterCard 19
+2.2. Die Marktstellung der Zahlungsorganisation MasterCard 40
+3. GEGENSTAND DIESER ENTSCHEIDUNG 47
+3.1. Das MIF von MasterCard 47
+3.2. Die Verpflichtung zur Annahme aller Karten“ 74
+4. STANDPUNKTE DES BESCHWERDEFÜHRERS UND DRITTER 75
+4.1. EuroCommerce 75
+4.2. Visa Europe 76
+4.3. AirPlus 77
+4.4. British Petroleum 78
+4.5. European Retail Roundtable 78
+4.6. HOTREC 78
+4.7. IATA 78
+4.8. IKEA 79
+4.9. Kappé International BV 79
+4.10. ÖHV 80
+4.11. Servired S.C., Sistema 4B S.A., Euro 6000 S.A. 80
+5. DAS OFFENE/VIER-PARTEIEN-ZAHLUNGSKARTENSYSTEM 80
+5.1. Allgemeines 80
+5.2. Funktionsweise eines offenen Zahlungskartensystems 82
+6. DER RELEVANTE MARKT 86
+6.1. Standpunkt von MasterCard 86
+6.2. Der sachlich relevante Markt 87
+6.3. Der räumlich relevante Markt 103
+6.4. Schlussfolgerungen zur Marktabgrenzung 107
+7. ARTIKEL 81 ABSATZ 1 EG-VERTRAG/ARTIKEL 53 ABSATZ 1 EWR-ABKOMMEN 108
+7.1. Beschlüsse einer Unternehmensvereinigung 108
+7.2. Beschränkung des Wettbewerbs 126
+7.3. Das MIF fällt unter Artikel 81 Absatz 1 EG-Vertrag 162
+7.4. Spürbarkeit 197
+7.5. Auswirkungen auf den Handel 200
+7.6. Schlussfolgerung zu Artikel 81 Absatz 1 EG-Vertrag/Artikel 53 Absatz 1 EWR-Abkommen 201
+8. ARTIKEL 81 ABSATZ 3 EG-VERTRAG/ARTIKEL 53 ABSATZ 3 EWR-ABKOMMEN 201
+8.1. Allgemeine Erwägungen 201
+8.2. Erste Voraussetzung: Technischer oder wirtschaftlicher Fortschritt 202
+8.3. Zweite Voraussetzung: Keine angemessene Beteiligung der Verbraucher an dem entstehenden
+Gewinn 220
+8.4. Dritte Voraussetzung: Unerlässlichkeit 224
+8.5. Schlussfolgerung aus der Beurteilung nach Artikel 81 Absatz 3 EG-Vertrag und Artikel 53 Absatz 3
+EWR-Abkommen 226
+9. ADRESSATEN DER ENTSCHEIDUNG 227
+10. ABHILFEMASSNAHMEN UND GELDBUSSEN 227
+10.1. Artikel 7 Absatz 1 der Verordnung (EG) Nr. 1/2003 227
+11. ARTIKEL 23 ABSATZ 2 DER VERORDNUNG (EG) NR. 1/2003 – GELDBUSSEN 230
+12. ARTIKEL 24 ABSATZ 1 DER VERORDNUNG (EG) NR. 1/2003 – ZWANGSGELDER 230
+ANHANG 1 234
+ANHANG 2 236
+ANHANG 3 244
+ANHANG 4 258
+ANHANG 5 264
+ANHANG 6 265
+ANHANG 7 269
+
+# Zusammenfassung
+
+## Artikel 81 Absatz 1 EG-Vertrag
+
+1. Der vorliegende Fall betrifft die Netzregeln von MasterCard sowie die Beschlüsse der Vertreter der Mitgliedsbanken von MasterCard und des Managements der Organisation über EWR-Standard-Interbankenentgelte und SEPA-Standard-Interbankenentgelte. Die multilateralen Interbankenentgelte (MIF) fallen bei jeder Zahlungskartentransaktion an und gelten für grenzüberschreitende Kartenzahlungen im Europäischen Wirtschaftsraum (EWR) sowie für inländische Zahlungen in mehreren EWR-Mitgliedstaaten, die mit Zahlungskarten mit MasterCard- oder Maestro-Logo getätigt werden. Bei diesen Interbankenentgelten handelt es sich insofern um Standard“-Interbankenentgelte, als sie nur dann Anwendung finden, wenn es keine bilateralen Vereinbarungen über Interbankenentgelte zwischen Issuing-Banken und Acquiring-Banken gibt. Gemäß den Netzregeln der Organisation sind die Entgelte von den Acquiring-Banken an die Issuing-Banken zu zahlen.
+
+2. Im MasterCard-System beschränkt das MIF den Wettbewerb zwischen den Acquiring-Banken, indem es dazu führt, dass die Acquiring-Banken die Händlergebühren auf einer überhöhten Grundlage festsetzen, so dass eine Mindesthöhe für die Händlergebühren vorgegeben wird. Ohne die multilateralen Interbankenentgelte wären die Händlergebühren der Acquiring-Banken niedriger.
+
+Bei den Beschlüssen Europa-Board [UND / ODER] Global Board [VON MASTERCARD [BETRIEBS- UND GESCHÄFTSGEHEIMNIS - 2A] uber die Höhe und die Struktur der EWR-Standard-Interbankenentgelte und den entsprechenden Netzregeln, die vom Global Board von MasterCard International Inc. beschlossen werden, handelt es sich um Beschlüsse einer Unternehmensvereinigung im Sinne von Artikel 8 Absatz 1 EG-Vertrag. Dies gilt auch für die Zeit nach dem Börsengang von MasterCard Incorporated vom 25. Mai 2006 und den damit verbundenen Änderungen in den Führungsstrukturen der Zahlungsorganisation in Europa, die die Befugnis zur Festsetzung der Höhe der multilateralen Standard-Interbankenentgelte betrafen. Die Banken stimmten dem Börsengang und den anschließenden Änderungen in den Führungsstrukturen der Organisation zu, um das MIF als Teil des Geschäftsmodells in einer Form fortzuführen, die ihrer Auffassung nach einen größeren Schutz vor Kartellüberprüfungen bot. Selbst nach dem Börsengang von MasterCard Incorporated werden die Interbankenentgelte in der Organisation MasterCard nicht einseitig auferlegt“. Die Mitgliedsbanken von MasterCard haben weiterhin ein gemeinsames Interesse am MIF, da es Einnahmen aus ihrem Issuing-Geschäft garantiert. Somit gibt es bei den Banken auch nach dem Börsengang weiterhin eine Interessengemeinsamkeit im Hinblick auf ein MIF. Diese Interessengemeinsamkeit spiegelt sich auch darin wider, dass MasterCard
+
+[BETRIEBS- UND GESCHÄFTSGEHEIMNIS 2A] die Interbankenentgeltsätze festlegt. Bei der Festsetzung der Interbankenentgeltsätze kann der Global Board die Geschäftsinteressen der Banken nicht übergehen, da das System ohne die Banken nicht funktionieren würde, weil die Interbankenentgeltsätze ein ganartiertes Einkommen für die kartenausgebende Bank darstellt.
+
+4. Ein offenes Zahlungskartensystem wie MasterCard kann ohne ein MIF betrieben werden, wie die Existenz vergleichbarer offener Zahlungskartensysteme ohne MIF beweist.
+
+## Artikel 81 Absatz 3 EG-Vertrag
+
+5. Was die erste Voraussetzung des Artikels 81 Absatz 3 EG-Vertrag anbetrifft, so hat MasterCard für seine Erläuterungen zum Zweck des MIF keine Beweise vorgelegt.
+
+6. Die Kommission bestreitet nicht grundsätzlich, dass Zahlungssysteme durch indirekte Netzexternalitäten gekennzeichnet sind und dass ein Einkommenstransfer zwischen Issuing- und Acquiring-Banken theoretisch dazu beitragen kann, den Nutzen des Netzes für seine Anwender zu optimieren. Ob jedoch ein kollektiv festgesetztes Interbankenentgelt von den Acquirern an die Issuer oder umgekehrt gezahlt und in welcher Höhe es festgesetzt werden sollte, lässt sich nicht allein anhand theoretischer ökonomischer Überlegungen ermitteln, da Theorien stets auf Annahmen beruhen, die der Marktwirklichkeit möglicherweise nicht in ausreichendem Maße Rechnung tragen. Wenn geltend gemacht wird, dass ein MIF zu Effizienzgewinnen im die ersten Bedigung von Artikel 81 Absatz 3 EG-Vertrag führt, muss dieses Vorbringen auf einer eingehenden, fundierten und überzeugenden Analyse beruhen, deren Annahmen und Schlussfolgerungen sich auf empirische Daten und Fakten stützen. MasterCard hat insbesondere keine empirischen Beweise für seine zentrale Behauptung vorgelegt, dass das MIF den System-Output maximiert. Dies gilt auch für das Vorliegen eines ursächlichen Zusammenhangs zwischen dem MIF und anderen geltend gemachten objektiven Effizienzgewinnen. Somit wurde nicht nachgewiesen,dass die wettbewerbsbeschränkenden Auswirkungen-des MIF auf den Acquiring-Märkten in angemessener Form durch objektive Effizienzgewinne hinreichend aufgewogen werden. Trotz wiederholter Aufforderungen durch die Kommission hat MasterCard keinerlei empirische Beweise für die positive Wirkung seines MIF auf den System-Output und für damit verbundene Effizienzgewinne vorgelegt.
+
+7. Die Kommission teilt nicht die Auffassung von MasterCard, dass der Wettbewerb und die Marktkräfte automatisch zu einem MIF führen, bei dem berechtigterweise davon ausgegangen werden kann, dass es Effizienzgewinne ermöglicht. Weder die Kräfte des Systemwettbewerbs noch Acquiring-Banken oder Händler üben genügend Druck auf die Instanz aus, die in der Organisation MasterCard für die Festsetzung des MIF zuständig ist.
+
+8. Das MIF von MasterCard stützt sich auf ein Modell, das William Baxter 1983 vorgestellt hat. Die Aussagekraft dieses Modells ist jedoch äußerst begrenzt, da die Nachfrage von Verbrauchern und Händlern insoweit als gegeben angesehen wird, als weder Verbraucher noch Händler strategisch auf mögliche Aktionen des anderen reagieren. Zudem beruht das Modell von Baxter auf der unrealistischen Annahme, dass alle Händler stets die gleichen Vorteile aus der Annahme von Karten ziehen, d. h., dass die Händler eine homogene Gruppe bilden. Darüber hinaus geht Baxter von der unrealistischen Annahme aus, dass im Bankensektor vollkommener Wettbewerb herrscht.
+
+9. Ferner sind die Methoden, mit denen MasterCard dieses Modell in die Praxis umsetzt, insofern nicht überzeugend, als sie der zugrunde liegenden Theorie nicht ausreichend Rechnung tragen. Die Methoden sind mit erheblichen Schwächen behaftet, da sie allein auf der Grundlage von Kostenerwägungen von einem Ungleichgewicht zwischen Issuing und Acquiring ausgehen, ohne zugleich auch die Einnahmen der Banken zu berücksichtigen. Anders als bei der Analyse der Händlernachfrage unternimmt MasterCard zudem noch nicht einmal den Versuch, die Zahlungsbereitschaft von Karteninhabern zu quantifizieren, und geht einfach davon aus, dass diese Gruppe von Verbrauchern grundsätzlich nicht bereit ist, für die mit der Nutzung von Zahlungskarten verbundenen Annehmlichkeiten zu zahlen. Ferner bestehen Zweifel an der Nützlichkeit des Näherungswerts, den MasterCard zur Quantifizierung der Zahlungsbereitschaft von Händlern im Kreditkartensegment verwendet.
+
+10. Was die zweite Voraussetzung des Artikels 81 Absatz 3 EG-Vertrag betrifft, so müssen alle Verbrauchergruppen in einem Zahlungskartensystem, d. h. die Karteninhaber und die Händler (sowie deren Kunden), angemessen an den durch ein MIF erzielten Effizienzgewinnen beteiligt werden. Zwar können die Händler unter Umständen durch verstärkte Netzeffekte von der Issuing-Seite profitieren, doch werden dadurch nicht zwangsläufig die Verluste ausgeglichen, die den Händlern aufgrund überhöhter Händlergebühren entstehen. Daher hat die Kommission geprüft, wie MasterCard [BETRIEBS-
+
+UND GESCHÄFTSGEHEIMNIS - 2A] ermittelt. Der Kostenrichtwert von MasterCard enthält jedoch Kostenelemente, die sich weder aus der Zahlungsfunktion einer Karte ergeben noch mit Dienstleistungen in Zusammenhang stehen, die eindeutig denjenigen Kunden zugutekommen, die die Kosten dieses MIF tragen. Ohne weitere Beweise - die MasterCard nicht vorgelegt hat – kann somit nicht berechtigterweise davon ausgegangen werden, dass die Maximierung des System-Outputs durch MasterCard allen Kunden der Mitgliedsbanken gleichermaßen zugutekommt. MasterCard hat nicht nachgewiesen, dass die zulasten der Händler (und deren Kunden) gehenden Wettbewerbsbeschränkungen durch entsprechende Effizienzgewinne aufgewogen werden.
+
+11. Was die dritte Voraussetzung des Artikels 81 Absatz 3 EG-Vertrag anbetrifft, so hat MasterCard nicht in hinreichender Weise nachgewiesen, dass sein derzeitiges MIF zur Erzielung der geltend gemachten Effizienzgewinne, d. h. der Maximierung des System-Outputs, unerlässlich ist.
+
+12. Aufgrund der unrealistischen Annahmen, auf die sich das Konzept, das dem MIF von MasterCard zugrunde liegt, stützt, so
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+che Frage bezieht, ob der zinslose Kreditzeitraum bei Nutzung einer Kreditkarte zu einem Anstieg der Gesamtausgaben eines Verbrauchers führen kann und so den Händlern zugutekommt. Außerdem weist die Studie schwere methodische
+
+Mängel auf, die Zweifel an den Ergebnissen des ökonometrischen Versuchs im zweiten Teil aufkommen lassen.
+
+## ANHANG 7
+
+## VERFAHRENSFRAGEN BETREFFEND EINEN AKTENVERMERK ZUM BRITISCHEN MARKT
+
+1. Um zu prüfen, ob der Wegfall der Einnahmen aus den inländischen MIF von MasterCard und Visa im Vereinigten Königreich bei der [BANK] einen vergleichsweise ,erheblichen“ Rückgang ihrer Gesamteinnahmen aus dem Kreditkarten-Issuing im Vereinigten Königreich auslösen würde, wie dies die Bank in ihrer Mitteilung vom 5. Dezember 2006 geltend gemacht hatte (siehe Abschnitt 7.3.4.7), forderte die Kommission die Bank auf, ihre Gesamteinnahmen und -kosten im Zusammenhang mit dem Kreditkarten-Issuing im Vereinigten Königreich im Zeitraum 2003 bis 2005 anzugeben. Drei weitere britische Banken wurden ebenfalls aufgefordert, entsprechende Daten vorzulegen, damit die Kommission die Lage der [BANK] mit derjenigen anderer Kreditkarten-Issuer auf diesem Markt vergleichen konnte.
+
+2. Die Antworten wurden in einem Aktenvermerk (im Folgenden Vermerk“) analysiert. Der Vermerk enthielt auch eine Tabelle, in der die Namen der Banken angegeben und einige ihrer Angaben in verschlüsselter Form aufgeführt waren (im Folgenden Tabelle“). In dieser Tabelle wurden die Auswirkungen des Wegfalls des MIF auf das Issuing-Geschäft der einzelnen Banken untersucht. Der Vermerk wurde MasterCard und dessen Rechtsbeiständen zusammen mit anderen Dokumenten im Anhang zum Tatbestandsschreiben der Kommission vom 23. März 2007 übermittelt. Die Kommissionsdienststellen setzten MasterCard von ihrer Absicht in Kenntnis, den Vermerk bei der Prüfung der Frage zu berücksichtigen, ob und in welcher Form die Issuing-Banken von MasterCard bei einem Wegfall des MIF weiterhin Zahlungskarten mit MasterCard- und Maestro-Logo ausgegeben würden994.
+
+3. Im Verlauf der Prüfung der durch das Tatbestandsschreiben vom 23. März 2007 zugänglich gemachten Dokumente stellten die Rechtsbeistände von MasterCard am 20. April 2007 in einem Schreiben an die Kommissionsdienststellen detaillierte Nachfragen zum Vermerk und zur Tabelle. Im Rahmen einer Nachfrage erbaten die Rechtsbeistände Erläuterungen zu der gewählten Methode zur Wahrung der Anonymität, nämlich der Anwendung eines einheitlichen Multiplikationsfaktors. Möglicherweise gibt es eine einfache Erklärung, aber uns ist es nicht gelungen, auf der Grundlage der Angaben zu den Einnahmen, den Einnahmen aus den Interbankenentgelten und den Gesamtkosten pro Issuer, Jahr und Kartensystem die von der Kommission vorgenommene Berechnung der Gewinne mit bzw. ohne den Einnahmen aus den Interbankenentgelten nachzuvollziehen (...)"[, a more detailed explanation of the approach taken in order to guarantee anonymity, namely the application of a common multiplicative factor. There may be a simple explanation, but we have been unable to replicate the Commission's calculation of profit rates, with and without interchange revenues(...) using the numbers reported for income interchange revenues and total costs for each issuer, year and card scheme"].
+
+4. Die Kommissionsdienststellen führten in ihrer Antwort an die Rechtsbeistände von MasterCard (nicht an MasterCard selbst) vom 26. April 2007 aus, warum die Zahlen in der zugänglich gemachten Fassung der Tabelle möglicherweise nicht zusammenpassten: Sie haben uns mitgeteilt, dass es Ihnen nicht gelungen ist, die Gewinnberechnung der Kommission anhand der Angaben zu den Gesamteinnahmen, den Einnahmen aus den Interbankenentgelten und den Gesamtkosten pro Issuer, Jahr und Kartensystem nachzuvollziehen. Dies dürfte darauf zurückzuführen sein, dass wir alle ursprünglichen Angaben in der Tabelle mit einem einheitlichen Faktor" multiplizieren mussten. Dies gilt auch für die ursprünglichen Gewinnangaben"[,You informed us that you had been unable to replicate the Commission's calculation of profit rates using the numbers reported for total income, interchange revenue and total costs of each issuer, year and card scheme. We suspect that this is because we had to multiply all original data in the table by a common facto". This also includes the original profit rates"]. Die KommissionsdienststellenübermitteltenaucheinBeispiel,umden Verschlüsselungsprozess noch klarer darzustellen.
+
+5. Am 2. Mai 2007 richteten die Rechtsbeistände von MasterCard ein Schreiben an die Anhörungsbeauftragte, in dem sie erklärten, dass sie aufgrund der Erläuterungen der Kommission zum Verschlüsselungsprozess nunmehr den für die Verschlüsselung verwendeten Multiplikationsfaktor berechnen könnten. Die Kommission hat offensichtlich einen Multiplikationsfaktor von [xx] auf alle in der Tabelle angegebenen Einnahmen, Kosten und Gewinne angewandt. (...) [a]ußer wenn diese Annahme falsch ist, stellen wir somit fest, dass die Akte der Kommission die der Kommission übermittelten Informationen nicht in vollem Umfang schützt." [, The Commission seems to have applied a multiplicator of [xx] to all incomes, costs and profit rates reported in the table" and that "[u]nless the above assessment is inaccurate, we note that the Commission's file does not therefore entirely protect the information received by the Commission."] Die Rechtsbeistände führten ferner aus: , Wir haben die Informationen zwar geprüft und ausgewertet, aber nicht an MasterCard weitergegeben [,,although we have reviewed and assessed the information we have not shared it with MasterCard"] und wir sind unserer Auffassung nach beruflich dazu verpflichtet, die Informationen an unseren Mandanten weiterzugeben, außer wenn sie zurückgezogen werden" [we believe that we have a professional duty to share information with our client, unless it is to be withdrawn"J. Die Rechtsbeistände erbaten Erläuterungen zur weiteren Vorgehensweise: Hiermit bitten wir die Anhörungsbeauftragte zu erläutern, ob die Informationen zurückzuziehen sind und, wenn dies nicht der Fall sein sollte, wie im weiteren Verlauf des Verfahrens auf diese Informationen Bezug zu nehmen ist."] [, We hereby request the Hearing Officer's guidance as to whether the information is to be withdrawn and, if not, how this information is to be referred to in the on-going process.“]
+
+6. Aufgrund dieses Schreibens kamen die Kommissionsdienststellen zu dem Schluss, dass die vertrauliche Behandlung der den Kommissionsdienststellen übermittelten Informationen unter Umständen in dem Aktenvermerk nicht in vollem Umfang gewährleistet war. Unter Berücksichtigung dieses Umstandes sowie bestimmter inhaltlicher Aspekte beschlossen die Kommissionsdienststellen, den Vermerk nicht als Grundlage für eine Feststellung in ihrer Entscheidung heranzuziehen. Mit Schreiben vom 10. Mai 2007 forderten die Kommissionsdienststellen die Rechtsbeistände von MasterCard auf, alle Kopien des Vermerks zum britischen Markt (in elektronischer Form und auf Papier) zu vernichten und die Original-CD-ROM im Anhang zum Tatbestandsschreiben vom 23. März 2007 zurückzusenden. Die Kommissionsdienststellen setzten die Rechtsbeistände von MasterCard auch von Folgendem in Kenntnis: vorbehaltlich des Erhalts des Originals unseres Schreibens einschließlich der CD-ROM sowie Ihrer Bestätigung (und der Bestätigung Ihres Mandanten), dass die vorgenannten Kopien vernichtet wurden, bestätigen wir hiermit, dass wir den Vermerk zum britischen Markt nicht in einer Entscheidung verwenden werden." [, subject to the condition of receiving the original of our letter as well as the CD-ROM, and your (and your client's) confirmation on the destruction of the above mentioned copies, we hereby confirm that we will not make use of the note on the UK market in a decision"7. In einem ähnlichen Schreiben wurde auch MasterCard aufgefordert, die ursprüngliche CD-ROM mit dem Vermerk zum britischen Markt zurückzusenden.
+
+7. Mit Schreiben vom 14. Mai 2007 lehnten die Rechtsbeistände jedoch die Rücksendung der CD-ROM ab und machten geltend, wir würden gegen unsere Verpflichtungen gegenüber unserem Mandanten [verstoßen], wenn wir sie zurücksenden und der Anderung der Akte zustimmen würden: Die Beweise sind offensichtlich entlastend $( \ldots ) ^ { \ w } \left\{ \right. ,$ in breach of our duties towards our client if we were to hand them back and agree for the file to be amended: the evidence is arguably exculpatory $( . . . ) ^ { \mu } ] ^ { \mu }$ . MasterCard sandte die Original-CD-ROM mit dem Vermerk an seine Rechtsbeistände zurück und vernichtete alle vorhandenen Kopien. Die Rechtsbeistände von MasterCard lehnten die Rücksendung der Original-CD-ROM und des Begleitschreibens ab.
+
+8. Am 16. Mai 2007 antwortete MasterCard auf das Tatbestandsschreiben der Kommission. Unter Ziffer 367 seiner Antwort fordert MasterCard, dass der Vermerk zum britischen Markt ,nicht berücksichtigt oder zurückgezogen werden sollte“ [,,should be discounted, or withdrawn"]. MasterCard begründet dies mit methodischen Fehlern bei der Datenanalyse.
+
+9. Wie oben dargelegt, beschloss die Kommission, den Vermerk zum britischen Markt einschließlich der Tabelle nicht für eine Feststellung in der Entscheidung zu verwenden, um unter anderem die Vertraulichkeit von Geschäftsgeheimnissen der betroffenen Banken zu wahren. Die Begründung von MasterCard, dass die CD-ROM nicht zurückgesandt werde, weil der Vermerk auch ,,offensichtlich entlastende“ , arguably exculpatory"] Beweise enthalten könne, ist nicht überzeugend, denn die Rechtsbeistände von MasterCard forderten die Kommissionsdienststellen zugleich wiederholt auf, sich nicht länger auf den Vermerk und die entsprechenden Daten der britischen Banken zu stützen. Die Kommission erwägt die Einleitung rechtlicher Schritte, um die Rücksendung der Original-CD-ROM sicherzustellen, und hat die betroffenen Banken mit separatem Schreiben vom 30. November 2007 über den Vorfall unterrichtet.

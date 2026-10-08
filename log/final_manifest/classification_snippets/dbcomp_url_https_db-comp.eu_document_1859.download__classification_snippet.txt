@@ -1,0 +1,414 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+Brussels,13.5.2009
+D(2009) 3726final
+
+COMMISSION DECISION
+
+of
+
+relating to a proceeding under Article 82 of the EC Treaty and Article 54 of the
+EEA Agreement
+
+(COMP/C-3 /37.990 - Intel)
+
+(Only the English text is/are authentic)
+
+(Text with EEA relevance)
+
+I. Parties to the proceedings ........................................................................... 12
+
+1. Intel Corporation........................................................................................ 12
+
+2. The complainant: Advanced Micro Devices, Inc..................................... 12
+II. Procedure..................................................................................................... 13
+
+1. Commission procedure .............................................................................. 13
+
+2. Procedure in other public jurisdictions.................................................... 18
+III. Intel's allegation of bias in the Commission's enquiry.............................. 19
+
+1. The meeting between the Commission and Dell of 23 August 2006 ...... 20
+IV. Intel's failure to reply to the supplementary Statement of Objections of 17
+July 2008 and to submit comments on the Commission letter of 19 December 2008
+within the deadlines set by the Commission................................................................... 24
+
+1. Intel's arguments about its failure to reply to the 17 July 2008 SSO
+within the deadline set by the Commission.............................................................. 25
+1.1 General observations .................................................................................... 26
+1.2 The content of the Commission file ............................................................. 27
+1.3 Intel's unspecific request .............................................................................. 28
+1.4 The relevance of the documents obtained by the Commission.................... 29
+1.5 Conclusion.................................................................................................... 32
+
+2. The nature and relevance of the Intel submission of 5 February 2009
+related to the 17 July 2008 SSO ................................................................................ 32
+
+3. Intel's failure to reply to the Commission letter of 19 December 2008 by
+the deadline set by the Commission and its consequences...................................... 36
+V. The Products Concerned by the Decision................................................... 37
+
+1. CPUs as a part of the computer ................................................................ 37
+
+2. CPU production.......................................................................................... 38
+2.1 Manufacturing process ................................................................................. 38
+2.2 Production capacity ...................................................................................... 39
+
+3. CPUs in the market .................................................................................... 40
+3.1 x86 architecture CPUs.................................................................................. 40
+3.1.1. Market exits .............................................................................................. 41
+3.1.2. Intellectual property requirements............................................................ 42
+3.2 Non-x86 architecture CPUs and products.................................................... 43
+3.3 Distribution of CPUs.................................................................................... 43
+
+4. Price Comparison....................................................................................... 44
+
+5. Innovation in x86 CPUs ............................................................................. 45
+5.1 Higher clock rate .......................................................................................... 46
+5.2 The 64-bit architecture ................................................................................. 46
+5.3 Dual core CPUs............................................................................................ 47
+5.4 Products in the market.................................................................................. 47
+
+VI. Description of Intel behaviour concerned by the present Decision........... 50
+
+1. The growing competitive threat from AMD ............................................ 50
+
+2
+
+1.1 Introduction .................................................................................................. 50
+1.2 AMD's improvement in terms of price and performance............................. 50
+1.3 Project [...]................................................................................................... 52
+
+2. Intel’s arrangements with its trading partners ....................................... 53
+2.1 Introduction .................................................................................................. 53
+2.2 Description of Intel's pricing arrangements ................................................. 56
+2.3 Dell ............................................................................................................... 57
+2.3.1. Introduction............................................................................................... 57
+2.3.2. Dell's consideration of AMD.................................................................... 58
+2.3.3. Intel’s Rebates to Dell .............................................................................. 58
+2.3.3.1. The [...]MCP rebates. [...] and [...]MCP rebates after February 2004
+.......................................................................................................... 60
+2.3.3.2. [...] and [...]MCP rebates prior to February 2004........................... 63
+2.3.3.3. The [...]Rebate................................................................................. 63
+2.3.3.4. Additional MCP rebates ................................................................... 64
+2.3.3.5. [...]Rebates....................................................................................... 64
+2.3.3.6. Summary of the rebates.................................................................... 64
+2.3.4. Conditionality of Intel’s MCP rebates to Dell.......................................... 66
+2.3.4.1. Evidence from Dell........................................................................... 66
+2.3.4.2. Evidence from Intel.......................................................................... 70
+2.3.4.3. Intel's arguments............................................................................... 72
+a) The accuracy of the documents authored by [Dell executive] ......... 72
+b) [Dell executive]’s testimony before the US FTC............................. 76
+c) Other schools of thought within Dell ............................................... 78
+d) Intel's reaction to the Dell's switch to AMD in 2006 ....................... 79
+(a) The first Intel argument outlined in recital (267)............................. 80
+(b) The second Intel argument outlined in recital (267)....................... 82
+(c) The third Intel argument outlined in recital (267) ........................... 82
+(d) Additional Intel argument raised by Intel in and after the Oral
+Hearing ..................................................................................................... 83
+e) Intel observations on the interpretation of certain evidence stemming
+from Intel...................................................................................................... 85
+f) Intel arguments based on depositions of Dell executives in the
+private litigation between Intel and AMD in the US State of Delaware...... 87
+(a) Introduction...................................................................................... 87
+(b) Exclusive agreement with Dell........................................................ 90
+(c) The potential impact on Intel's rebates to Dell of a Dell partial switch
+to AMD..................................................................................................... 90
+(d) The decline in Intel's discounts to Dell after Dell's partial switch to
+AMD in year 2006.................................................................................... 93
+(e) The exhibits of the depositions submitted by Intel in fact contain
+contemporaneous evidence which confirm the Commission's findings... 94
+2.3.4.4. Conclusion on facts .......................................................................... 96
+2.4 HP................................................................................................................. 97
+2.4.1. Introduction............................................................................................... 97
+2.4.2. HP's consideration of AMD...................................................................... 97
+2.4.3. Intel rebates to HP .................................................................................... 99
+2.4.3.1. HPA1.............................................................................................. 100
+2.4.3.2. HPA2.............................................................................................. 101
+2.4.3.3. Summary of Intel payments to HP under HPA1 and HPA2 .......... 102
+
+3
+
+2.4.4. Conditionality of Intel rebates to HP...................................................... 102
+2.4.4.1. Evidence from HP .......................................................................... 102
+2.4.4.2. Intel's arguments on the alleged absence of conditionality............ 106
+a) Intel's horizontal argument on the relevance of evidence preceding
+the signature of HPA1 ................................................................................ 107
+b) Intel's arguments on the alleged absence of a 95% MSS condition109
+c) Intel's arguments on restrictions on the marketing and
+commercialisation of HP's AMD-based desktops...................................... 113
+(a) Intel's argument that HP unilaterally self-imposed the channel
+restrictions .............................................................................................. 113
+(b) Intel's argument that there was insufficient demand for AMD-based
+PCs 116
+(c) Intel's argument that the EMEA region was not ready for the launch
+118
+(d) Conclusion ..................................................................................... 119
+2.4.5. Conclusion on facts................................................................................. 120
+2.5 Acer ............................................................................................................ 120
+2.5.1. Introduction............................................................................................. 120
+2.5.2. Acer's consideration of AMD ................................................................. 120
+2.5.3. Link between Intel rebates and delay in the launch by Acer of the AMDbased notebook ....................................................................................... 121
+2.5.4. Intel's arguments .................................................................................... 128
+2.5.5. Conclusion on facts................................................................................. 132
+2.6 NEC............................................................................................................ 132
+2.6.1. Introduction............................................................................................. 132
+2.6.2. NEC's increasing use of AMD............................................................... 133
+2.6.3. Conditional rebates to NEC.................................................................... 133
+2.6.3.1. Conditionality................................................................................. 133
+2.6.3.2. Reporting obligation of NEC ......................................................... 140
+2.6.3.3. The duration of the Santa Clara Agreement................................... 142
+2.6.3.4. Meeting the share requirements ..................................................... 143
+2.6.4. Conclusion on facts................................................................................. 145
+2.7 Lenovo........................................................................................................ 145
+2.7.1. Introduction............................................................................................. 145
+2.7.2. Lenovo's consideration of AMD............................................................. 146
+2.7.3. Lenovo's dual source strategy for notebooks.......................................... 146
+2.7.4. Agreement to launch AMD-based Lenovo notebooks ........................... 147
+2.7.5. Plans for [...] alliance with AMD........................................................... 150
+2.7.6. Intel's reaction......................................................................................... 151
+2.7.7. The value of [...] remained..................................................................... 151
+2.7.8. Postponement and cancellation of AMD-based notebooks and link to Intel
+payment................................................................................................... 153
+2.7.8.1. First postponement ......................................................................... 153
+2.7.8.2. Second postponement..................................................................... 156
+2.7.8.3. Exclusivity agreement - cancellation of the AMD-based notebooks
+........................................................................................................ 159
+2.7.8.4. Lenovo trying to conceal the reason for the cancellation of the AMD
+notebooks and the exclusivity agreement....................................... 163
+2.7.9. Intel's arguments ..................................................................................... 164
+2.7.9.1. Conditionality................................................................................. 164
+
+4
+
+2.7.9.2. Intel's argument that Lenovo and AMD did not have a binding
+agreement ....................................................................................... 173
+2.7.10. Conclusion on facts................................................................................. 175
+2.8 MSH ........................................................................................................... 176
+2.8.1. Introduction............................................................................................. 176
+2.8.2. The funding agreements between Intel and MSH .................................. 177
+2.8.2.1. The [early agreements]................................................................... 178
+2.8.2.2. The "Contribution Agreements" ([...]) .......................................... 180
+2.8.2.3. The "Framework Agreements" and "Contribution Ag
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+that OEMs were seriously considering switching to AMD could in no way justify
+the conditions attached to Intel rebates and/or payments. Furthermore, as has
+already been stated, Community case law clearly spells out that the fact that
+conditional rebates may have been requested by the dominant company's customers
+is irrelevant to the finding of an abuse under Article 82 of the Treaty.2102 It is
+equally irrelevant for the purpose of applying mitigating circumstances because the
+dominant company can be expected to resist a request to behave in a manner which
+would obviously violate Article 82 of the Treaty. This suffices to reject Intel's
+argument outlined in letter (a) in recital (1792) as a ground to reduce the fine to be
+imposed on Intel on the grounds of mitigating circumstances.
+
+(1795) The Report of Professor [...] annexed to the Intel Reply to the 26 July 2007
+SO also mentions the argument of the alleged "bidding process". Professor [...]
+states that "[c]ompetition between Intel and AMD to have their microprocessors
+selected in the new computer systems offered by OEMs at refresh cycles is an
+excellent example of a design win situation." 2103 Professor [...] outlines that, in that
+
+2101
+Intel Reply to the 26 July 2007 SO, paragraph 852.
+
+2102
+See recital (964).
+
+2103
+Intel Reply to the 26 July 2007 SO. Report of Professor [...], paragraph 14.
+
+512
+
+type of situation, "suppliers of intermediate goods often compete to have their
+products included as inputs in a finished product." 2104 Professor [...] argues that
+even though "one could say that the losing bidder is “excluded” (for some period
+of time) from supplying its input for this particular system (...) any such
+“exclusion” does not constitute anticompetitive conduct that raises antitrust
+concerns, if the winning firm’s prices are above appropriately measured cost."2105
+
+(1796) That argument is not convincing. The bargaining process between chip
+manufacturers and OEMs includes offers and counter offers, repeated contacts and
+even long term relationships. The negotiations at different "refresh cycles", for
+different PC models or lines do not appear to be independent. Those negotiations
+are very different from auctions. Hence, the use of the term "bid" is misleading and
+the implicit reference to the presumed competitiveness of independent auctions is
+irrelevant. Furthermore, in itself, the qualification of the nature of the competition
+between Intel and AMD as "design wins" is unhelpful as Intel does not provide
+specific evidence showing that those markets are in general more competitive or
+less prone to foreclosure.
+
+(1797) In any case, the argument that rebates were offered by Intel to HP and NEC
+"based on invitations to bid for a percentage of their requirements and thus
+specifically demanded by the OEMs in question"2106 is a misrepresentation of
+Intel's actual role in the negotiations. As described in section VI.2.4.4.2, the case
+file does not contain sufficiently conclusive evidence as to whether HP or Intel first
+came up with the idea of a 95% MSS condition for the Intel rebates. However,
+there is ample evidence that Intel did not reject the condition, and was even
+pushing in the negotiations for a 100% exclusivity clause, in exchange for more
+rebates.
+
+(1798) The case file contains similar evidence that, contrary to Intel's depiction of its
+negotiations with NEC, Intel actually had the objective of achieving an exclusivity
+condition with NEC.2107 Indeed, as outlined in section VI.2.6.3, contemporaneous
+evidence on the file demonstrates that NEC did not independently develop the socalled Realignment Plan, but it was Intel's objective to make NEC adopt it. In other
+words, Intel's argument that NEC organised a bidding process between Intel and
+AMD for its x86 CPU shares2108 is factually not correct.
+
+2104
+Intel Reply to the 26 July 2007 SO. Report of Professor [...], paragraph 12.
+
+2105
+Intel Reply to the 26 July 2007 SO. Report of Professor [...], paragraph 13.
+
+2106
+Intel Reply to the 26 July 2007 SO, paragraph 852, ident (a).
+
+2107
+See recital (469).
+
+2108
+Intel Reply to the 26 July 2007 SO, paragraph 470.
+
+513
+
+(1799) Intel's argument that Intel was misled by OEMs with respect to the proportion
+of their x86 CPU purchases they were willing to switch to AMD, that is to say their
+contestable share, cannot be accepted as a mitigating factor either. Firstly, as set
+out above, the as efficient competitor analysis is not a requirement for finding an
+abuse according to the case-law. Knowledge about the contestable share is
+therefore not relevant to the finding of abuse according to the case-law and hence
+to the imposition of fines. Secondly, Intel raised that argument in its Reply to the
+26 July 2007 SO only in respect of HP.2109 Therefore, it cannot be accepted as a
+mitigating circumstance with respect to the overall amount of the fine. Thirdly,
+Intel knew that in their negotiations, HP overstated its contestable share. As
+described in section VII.4.2.3.3.f), Intel actively encouraged HP to provide it with
+overestimated contestable share figures, and even increased the HP representations
+itself.
+
+(1800) With respect to Intel's argument that it had no grounds to believe that AMD
+was foreclosed, this argument would not be sufficient to show that the infringement
+has been committed as a result of negligence. Furthermore, as this Decision
+demonstrates, Intel pursued an overall exclusionary strategy vis-à-vis AMD.
+Therefore, it is irrelevant if Intel was unaware of the exact extent to which it
+succeeded in foreclosing AMD.
+
+(1801) In the light of the above analysis concerning mitigating circumstances, there
+is no justification for reducing the amount of the fine to be imposed on Intel.
+
+3.4 Conclusion
+
+(1802) According to the Guidelines, the final amount of the fine shall not, in any
+event, exceed 10% of the total turnover in the preceding business year of the
+undertaking participating in the infringement.2110 Intel has submitted that its annual
+turnover in the business year ending 29 December 2008 was EUR 25 555 million
+(USD 37 586 million).2111
+
+(1803) The final amount of the fine to be imposed on Intel should therefore be
+EUR 1 060 000 000,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+2109
+Intel Reply to the 26 July 2007 SO, paragraphs 309-315.
+
+2110
+Paragraph 32 of the Guidelines.
+
+2111
+Intel's submission of 3 April 2009, answer to question 3.
+
+514
+
+Intel Corporation has committed a single and continuous infringement of Article 82
+of the Treaty and Article 54 of the EEA Agreement from October 2002 until
+December 2007 by implementing a strategy aimed at foreclosing competitors from
+the market of x86 CPUs which consisted of the following elements:
+
+a) Granting rebates to Dell between December 2002 and December 2005 at a
+level that was conditional on Dell obtaining all of its x86 CPU supplies from
+Intel;
+
+b) Granting rebates to HP between November 2002 and May 2005 at a level that
+was conditional on HP obtaining at least 95% of its corporate desktop x86
+CPU supplies from Intel;
+
+c) Granting rebates to NEC between October 2002 and November 2005 at a
+level that was conditional on NEC obtaining at least 80% of its client PC x86
+CPU supplies from Intel;
+
+d) Granting rebates to Lenovo between January 2007 and December 2007 at a
+level that was conditional on Lenovo obtaining all of its notebook x86 CPU
+supplies from Intel;
+
+e) Granting payments to Media Saturn Holding between October 2002 and
+December 2007 at a level that was conditional on Media Saturn Holding
+selling only computers incorporating Intel x86 CPUs;
+
+f) Granting payments to HP between November 2002 and May 2005 conditional
+on: (i) HP directing HP's AMD-based x86 CPU business desktops to Small
+and Medium Business and Government, and Educational and Medical
+customers rather than to enterprise business customers; (ii) precluding HP's
+channel partners from stocking HP's AMD-based x86 CPU business desktops
+such that such desktops would only be available to customers by ordering
+them from HP (either directly or via HP channel partners acting as sales
+agent); and (iii) HP delaying the launch of its AMD-based x86 CPU business
+desktop in the EMEA region by six months;
+
+g) Granting payments to Acer between September 2003 and January 2004
+conditional on Acer delaying an AMD-based x86 CPU notebook;
+
+h) Granting payments to Lenovo between June 2006 and December 2006
+conditional on Lenovo delaying and finally cancelling its AMD-based x86
+CPU notebooks.
+
+Article 2
+
+515
+
+For the infringement referred to in Article 1, a fine of EUR 1 060 000 000 is imposed
+on Intel Corporation.
+
+The fine shall be paid in euros, within three months of the date of notification of this
+Decision, into bank account No 001-3953713-69 of the European Commission with
+FORTIS Bank S.A., Rue Montagne du Parc 3, B-1000 Bruxelles/Brussel (Code
+SWIFT: GEBABEBB – code IBAN BE71 0013 9537 1369). After the expiry of that
+period, interest shall automatically be payable at the interest rate applied by the
+European Central Bank to its main refinancing operations on the first day of the month
+in which this Decision is adopted, that is 1,25 % as published in the Official Journal of
+the European Union No C 103 of 5 May 2009, plus 3,5 percentage points.
+
+Article 3
+
+Intel Corporation shall immediately bring to an end the infringement referred to in
+Article 1 in so far as it has not already done so.
+
+Intel Corporation shall refrain from repeating any act or conduct described in Article
+1, and from any act or conduct having the same or equivalent object or effect.
+
+Article 4
+
+This Decision is addressed to
+
+Intel Corporation, 1209 Orange Street, Wilmington, 19801, County of New Castle,
+Delaware, United States of America
+
+c/o
+
+Intel Ireland, Collinstown Industrial Park, Leixlip Co. Kildare, Eire.
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article
+110 of the EEA Agreement.
+
+Done at Brussels, For the Commission
+
+516
+
+Neelie Kroes
+
+517

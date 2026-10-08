@@ -1,0 +1,501 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of 18 III 2009
+
+relating to a proceeding under Article 82 of the EC Treaty and Article 54 of the
+EEA Agreement
+
+(Case COMP/39.402 – RWE Gas Foreclosure)
+
+(Only the German text is authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+in particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 20 April 2007 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Preliminary Assessment of 15 October 2008,
+
+Having given interested third parties the opportunity to submit their observations pursuant
+to Article 27(4) of Regulation 1/2003 on the commitments offered to meet those
+concerns2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+WHEREAS:
+
+1. SUBJECT MATTER
+
+(1) This Decision is addressed to RWE AG, Essen and its subsidiaries, namely RWE
+Energy AG, Essen ("RWE Energy"), and RWE Transportnetz Gas GmbH ("RWE
+TSO", collectively referred to as "RWE") and concerns RWE's behaviour on the
+German gas markets, notably the gas transmission markets.
+
+(2) In its Preliminary Assessment of 15 October 2008, the Commission came to the
+provisional conclusion that RWE holds a dominant position on the German gas
+transmission market(s) within its network area. The Preliminary Assessment
+expressed the concern that RWE may have abused its dominant position according
+to Article 82 of the EC Treaty3, notably by way of a refusal to supply gas
+transmission services to third parties and by a behaviour aiming at lowering the
+margins of RWE's downstream competitors in gas supply ("margin squeeze").
+
+1 OJ L 1, 04/01/2003, page 1.
+
+2 OJ C 310, 05/12/2008, page 23.
+
+3 In the following text a reference to Article 82 of the EC Treaty means a reference to both provisions,
+Article 82 of the EC Treaty and Article 54 of the EEA Agreement.
+
+2
+
+2. THE ADDRESSEE
+
+(3) RWE is a German-based energy and utility company, primarily active in the
+production and supply of electricity and gas. RWE is a fully integrated gas
+company, with activities in the production and import of gas4, in the gas
+transmission and storage businesses as well as in the downstream gas distribution
+business5. RWE's activities in the German gas sector have been traditionally
+focused on the area of North-Rhine Westphalia6, but today RWE is also active in
+several other countries7. In 2007, RWE's turnover was EUR 42,507 million8.
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(4) The investigation was based on the results of an inspection at RWE's premises in
+May 20069 and further fact-finding that was carried out inter alia by way of
+various requests for information to RWE and other market participants between
+2006 and 2008.
+
+(5) On 20 April 2007, the Commission initiated proceedings against RWE pursuant to
+Article 2 of Regulation 773/2004 of the Commission of 7 April 2004 relating to
+the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of
+the EC Treaty10 with a view to adopting a decision pursuant to Chapter III of
+Regulation 1/2003.
+
+(6) On 15 October 2008, the Commission adopted a Preliminary Assessment as
+referred to in Article 9(1) of Regulation 1/2003 which set out the Commission’s
+competition concerns. That assessment was notified to RWE by letter of 15
+October 2008.
+
+4 Annual gas production in 2007: 3.2 bn m3 (see: RWE Facts & Figures, Update May 2008, page 198).
+
+5 RWE supplied 1 million gas customers directly and further 2 million indirectly (through
+Stadtwerksbeteiligungen of more than >20%) in Germany in 2007, with a focus on distributors (total
+sales volume in 2007: 164.2 TWh, thereof 57% to distributors/Stadtwerke, 28% to industrial /
+corporate customers and 15% to household customers, see: RWE Facts & Figures, Update May 2008,
+page 192/196).
+
+6 In this area, RWE held a number of state-granted regional supply monopolies
+("Demarkationsgebiete") under the traditional German energy supply system in force until 1998.
+
+7 RWE is inter alia active in the gas transmission and supply businesses in the Czech Republic, the
+UK, Hungary, and in the Netherlands.
+
+8 RWE, Annual Report 2007, page 67.
+
+9 Inspection Decision of 5 May 2006 in case COMP/B-1/39.317 concerning RWE and other
+undertakings active in transmission and supply of natural gas in Germany. The case number was
+subsequently changed to COMP/B-1/39.402.
+
+10 OJ L 123, 24/04/2004, page 18
+
+3
+
+(7) On 26 November 2008, RWE submitted comments to the Preliminary Assessment in
+which it expressed its disagreement with main findings of the Preliminary Assessment.
+Also on 26 November 2008, RWE submitted commitments to the Commission in
+response to the Preliminary Assessment.
+
+(8) On 5 December 2008, a notice was published in the Official Journal of the
+European Union pursuant to Article 27(4) of Regulation (EC) No 1/2003,
+summarising the Commission's concerns and the commitments and inviting
+interested third parties to give their observations on the commitments within one
+month following publication.
+
+(9) On 19 January 2009, the Commission informed RWE of the observations received
+from interested third parties following the publication of the notice. On 2 February
+2009, RWE submitted an amended commitment proposal.
+
+(10) On 5 March 2009, the Advisory Committee on Restrictive Practices and Dominant
+Positions was consulted. On 6 March 2009, the Hearing Officer issued his final
+report.
+
+4. PRELIMINARY ASSESSMENT
+
+(11) The Commission has gathered evidence that RWE may have abused its dominant
+position on the transmission market to the detriment of competitors, competition
+and ultimately consumers on downstream supply markets.
+
+4.1. Relevant markets
+
+4.1.1. The relevant product markets
+
+(12) In line with the Commission's previous decision practice, the Preliminary
+Assessment distinguished between markets for the sale (supply) of gas on the one
+hand and infrastructure-related markets, such as gas transport services11, on the
+other hand.
+
+(13) Within the gas transport market, the Preliminary Assessment defined a gas
+transmission market for services offered by Transmission System Operators
+("TSOs"/Fernleitungsnetzbetreiber) which is separate from the gas distribution
+market (gas transport services offered by Distribution System Operators ("DSOs"/
+Verteilnetzbetreiber), since competitive conditions in both areas differ
+significantly.
+
+11 See e.g. case IV/493 – Tractebel/Distrigas II (paragraph 27 et seq.); COMP/M.3410 - Total/Gas de
+France, paragraphs 15-16; COMP/M.3696 – E.ON/MOL, paragraph 97.
+
+4
+
+(14) Within the gas supply market12, the Preliminary Assessment distinguishes between
+markets for gas sales to wholesalers and end customers. Within these groups, it
+defined, in line with its previous practice, two separate markets for wholesales,
+namely one to "Regionalferngasgesellschaften" and one to smaller distributors
+("Stadtwerke")13 and for the supply of gas to end customers, further distinguishing
+between large industrial customers and to smaller customers (household and
+small commercial customers)14.
+
+4.1.2. The relevant geographic markets
+
+(15) The Preliminary Assessment concluded for the purpose of this case that the gas
+transmission market cannot be defined larger than grid-wide. This is not only in
+line with the Commission's previous case practice, but also with a recent decision
+of the Bundesnetzagentur ("BNetzA")15. As in most cases the construction of
+competing parallel gas networks is not economically viable16, competitive
+constraints from TSOs outside RWE's network remain negligible17.
+
+(16) Given missing competitive constraints from suppliers outside RWE's gas network,
+also the (downstream) supply markets in Germany were defined as grid-wide in
+scope in the Preliminary Assessment. This is in line with the decision practice of
+the Commission18 and German Competition authorities and courts19.
+
+12 Also referred to as gas "sales" markets.
+
+13 See e.g. IV/M.1383 – Exxon/Mobil (paragraph 69); COMP/M. 1673 - Veba/Viag; paragraph 184;
+COMP/M.2822 - EnBW/ENI/GVS, paragraph 14-15. See for the Bundeskartellamt e.g. the
+prohibition decision of 12.3.2007 in the merger case RWE - Saar Ferngas AG (B 8 – 40000 – U
+62/06), page 12 f.
+
+14 Regarding possible further product market distinctions, it could be left open whether the markets for
+the sale of gas should be further divided, since the competitive assessment would not change under
+either market definition.
+
+15 BNetzA, decision BK4-07-106 of 5 December 2008, page 17 et seq.
+
+16 See in this context also Commission, Report on Sector Inquiry of 10.01.2007, SEC (2006) 1724, page
+26; case COMP/M.3696 – E.ON/MOL, Rn 97.
+
+17 See on the concept of the relevant geographic market and the role of competitive constraints for
+market definition Commission notice on the definition of relevant market for the purposes of
+Community competition law OJ C 372/5 of 9 December 1997, paragraphs 8 and 13.
+
+18 See e.g. case IV/M.713 – RWE/Thyssengas, paragraphs 15-19; case COMP/M.2822 -
+EnBW/ENI/GVS.
+
+19 See inter alia BKartA, Decision of 12.2.3007 - RWE - Saar Ferngas AG (B 8 – 40000 – U 62/06), S.
+12 f. m.w.N.; Monopolkommission, 49. Sondergutachten, at paragraph 444 et seq.; see
+Bundesgerichtshof, OLG Düsseldorf - E.ON/Eschwege (2. Kartellsenat, Beschluss vom 06.06.2007 –
+VI-2 Kart 7/04 (V), Randnummer 113); see also Bundesgerichtshof - Stadtwerke Garbsen (Beschluss
+vom 15.07.1997 (KVR 21/96)).
+
+5
+
+4.1.3. RWE's dominant position on the relevant markets
+
+(17) The Commission concluded in its Preliminary Assessment that RWE may have
+held a dominant position not only in the gas transmission market within its grid
+area since 2003, but also in downstream supply markets within its grid.
+
+(18) As concerns gas transmission, the Commission found that almost all customers
+connected to RWE's grid had, absent economically viable possibilities to build new
+connections to other pipelines, only one possibility for their gas transmission
+needs, namely RWE. High entry barriers for potentially competing TSOs such as
+the high construction costs and the high barriers to supply via other market areas,
+which are of a structural nature, guarantee that RWE TSO's position in the
+transmission business within its network area will not be challenged within the
+foreseeable future.
+
+(19) As concerns the downstream gas supply markets, it can be observed that the
+chances for third party suppliers to compete with RWE in the supply markets
+within RWE's grid were, according to the Preliminary Assessment, limited by the
+small volumes of transport capacities available to them. The low share of gas
+transported for third suppliers on RWE's TSO pipelines translated into equally low
+market shares on supply markets served by these pipelines, notably on the
+wholesale supply markets. Absent a functional third party access system and in
+view of the fact that almost the entire available capacity was booked on a long
+term basis for RWE Energy, the risk for RWE Energy to lose customers in case of
+a price increase was negligible. The Preliminary Assessment therefore concluded
+that RWE may have held a dominant position on the supply markets within its grid
+area, notably the wholesale supply markets.
+
+4.2. Substantial part of the common market
+
+(20) The Preliminary Assessment of the Commission took the view that the area
+covered by RWE's gas transmission networks is a substantial part of the common
+market as required by Article 82 EC Treaty20. Indeed, the affected geographic
+markets approximately cover the territory of the most populated German
+Bundesland, North-Rhine Westphalia21. The volume of all gas sales within RWE's
+core area is approx. 164,2 bn kWh22, and most of RWE's more than 3 million
+
+20 Cf. Commission Decision, Case COMP/M.2822 – EnBW/ENI/GVS, paragraph 32, in which the
+regional market for gas supply, encompassing the "Bundesland" Baden-Württemberg, was regarded
+as a substantial part of the common market.
+
+21 See e.g. judgement of the Court of Justice of the European Communities C-475/99 Ambulanz
+Glöckner [1999] ECR I-8089, at parafraph 38, where it was held that the Bundeslandland of
+Rheinland-Pfalz may constitute a substantial part of the common market as "it covers a territory of
+almost 20 000 km2 and has a high number of inhabitants, around four million, which is higher than
+the population of some Member States".
+
+22 Siehe: RWE Facts & Figures, Stand Mai 2008, S. 196.
+
+6
+
+direct and indirect German customers are served via RWE's grid in North-Rhine
+Westphalia. The affected markets for gas transmission and supply markets with
+RWE's grid are thus of such an economic importance in relation to the whole
+common market that they must be considered a substantial part of the common
+market.
+
+4.3. Practices raising concerns
+
+(21) The Preliminary Assessment has identified concerns that RWE may have abused its
+dominant position on the relevant markets, thereby violating Article 82 EC Treaty,
+notably by a refusal to supply (see below, 4.3.1) and a margin squeeze (see below,
+4.3.2) 23.
+
+4.3.1. Practices concerning capacity management (refusal to supply)
+
+(22) The Preliminary Assessment took the view that RWE TSO's gas transmission
+network can be considered an essential facility, since access to it was objectively
+necessary to carry out business in the gas supply markets within RWE's grid
+areas24.
+
+(23) According to the Commission's findings, RWE TSO may have refused access to its
+network, notably by various means related to RWE TSO's capacity management.
+Indeed, there is evidence that RWE TSO may have pursued a strategy according
+to which it tried to systematically keep the transport capacities on its own network
+for itself25.
+
+(24) The relevant factual background against which practices causing concern need to
+be considered includes the fact that chances for competitors to get access to
+RWE's transmission network are already reduced because RWE has booked
+almost the entire capacities on its transmission network on a long term basis. This
+situation contrasts with a steady and significant demand of third transport
+
+23 The long term capacity bookings by RWE are not part of the concerns identified in the Preliminary
+Assessment that are addressed by the commitments submitted by RWE.
+
+24 See in this respect also judgement of the Court of 26/11/1998 in case C-7/97 Oscar Bronner [1998]
+ECR I-7791, paragraph 46. The Commission notes in this context that RWE has erected its gas
+transmission network in a period during which RWE's market position was protected by a regional
+monopoly granted by the German State; see also the Communication from the Commission on
+Guidance on the Commission's Enforcement Priorities in Applying Arti
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+s suggested to clarify in the proposed Commitments
+text that the divestiture of RWE's gas transmission network is without prejudice to
+RWE's obligations to cooperate with other network operators and to continue the
+process of further market integration34. The Commission agrees that a clarification
+of this issue may contribute to avoid any misunderstanding with regard to RWE's
+cooperation obligations under German law.
+
+(42) A number of comments concerned RWE's obligation to provide certain products
+and services ("Gaswirtschaftliche Produkte" und "Lastflusszusagen") to the
+purchaser after the closing of the transaction. It was in particular mentioned that
+no particular reasons would justify exempting the provision of "Betriebsgas35"
+from the list of products and services in Schedule 2 to the Commitment text, since
+it might be necessary for the purchaser to acquire "Betriebsgas" from RWE even
+after closing. It was also mentioned that the catalogue of products and services in
+
+34 See notably paragraph 20(1)(b), Satz 5 and 7 Energiewirtschaftsgesetz.
+
+35 Also referred to as "Treibgas".
+
+12
+
+Schedule 2 should be formulated in a more flexible manner in order to address the
+issue of possible changes in the practice or legal framework concerning theses
+products. The Commission considers the comments concerning products and
+services provided by RWE as pertinent.
+
+(43) Other comments could not be taken into account, since they concerned issues
+outside the scope of the procedure or could not be considered as valid arguments
+against the effectiveness of the remedies. Notably the fact that the Commitment
+text allows36 the purchaser to pay the purchase price by way of a "swap" of own
+assets or shares (instead of money) does not weaken the effectiveness of the
+remedies. Competition concerns, which may arise irrespectively of the payment
+modalities, can be effectively prevented by the condition in the Commitment text
+that the acquirer must not give rise to prima facie competition concerns and by
+national and European merger control rules.
+
+(44) In response to the comments received, RWE submitted a revised commitments
+proposal ("Final Commitments") on 2. February 2009 which took account of the
+comments received37.
+
+(45) In view of the results of the market test, the Commission considers the Final
+Commitments as sufficient to effectively remove the competition concerns
+expressed in the Preliminary Assessment.
+
+7. PROPORTIONALITY OF THE FINAL COMMITMENTS
+
+(46) According to settled case law, the principle of proportionality requires that the
+measures adopted by Community institutions must be suitable and not exceed what
+is appropriate and necessary for attaining the objective pursued38. Where there is a
+choice between several appropriate measures, recourse must be had to the least
+onerous one, and the disadvantages caused must not be disproportionate to the
+aims pursued39. For the assessment of the proportionality of Commitments
+
+36 It should be noted that the commitment text only allows swaps as a payment method, without giving
+preference to this kind of transaction, see paragraph 19 (d) of the commitment text.
+
+37 See for modifications in the Final Commitments notably paragraph 10(a) and Annex 2, paragraphs 1
+and 3 concerning RWE's obligations to cooperate with other network operators as well as to continue
+the process of further market integration and to provide certain gas products and services to
+purchaser after the closing of the transaction.
+
+38 Judgement of the Court of First Instance of 19/07/1997 in case T-260/94, Air Inter v Commission
+[1997] ECR II-997, paragraph 144, and Case T-65/98, Van den Bergh Foods v Commission [2003]
+ECR II – 4653, paragraph 201. See in detail Koch, Der Grundsatz der Verhältnismäßigkeit in der
+Rechtsprechung des Gerichtshofs der Europäischen Gemeinschaften, page 198 et seq.
+
+39 Judgement of the Court of 11/07/1989 in case 265/87, Schräder [1989] ECR 2237, paragraph 21, and
+judgement of the Court of 9/03/2006 in case C-174/05, Zuid-Hollandse Milieufederatie and Natuur
+en Milieu [2006] ECR I – 2243, paragraph 28.
+
+13
+
+submitted within the framework of Article 9 of Regulation 1/2003, the
+Commission takes into account that the Commitments are not imposed by the
+Commission for an established infringement under Article 7 (1) of Regulation
+1/2003, but voluntarily proposed by the undertaking seeking to bring the
+procedure to an end without a formal decision on the existence of an infringement.
+The Commission also takes into account the relevant national regulatory
+framework.
+
+(47) The Final Commitments proposed by RWE are sufficient and necessary to address
+the concerns identified by the Commission in its Preliminary Assessment, without
+being disproportionate.
+
+(48) The divestiture of RWE's gas transmission network can be considered as a
+structural remedy, as it does not only oblige RWE to behave in a certain manner,
+but consists in the divestment of its gas transmission activities, which effectively
+removes the possibility for RWE to engage in infringements of the same type.
+
+(49) The Final Commitments are suitable to remove the Commission's competition
+concerns expressed in the Preliminary Assessment. The sale of RWE's transmission
+business will ensure that RWE has no control over the gas transmission network
+and that RWE cannot engage in anti-competitive practices relating to the access to
+its network anymore.
+
+(50) The Final Commitments proposed by RWE are also necessary, since there is no
+equally effective remedy as a divestment of RWE ́s transmission network to
+address the Commission's concerns. It can in particular not be expected that a
+remedy which would oblige RWE to a certain behaviour would have been equally
+effective. Not only would a behavioural remedy have been difficult to administer
+and monitor40, involving high burdens for RWE. Also, a mere behavioural remedy
+would not have removed the underlying incentives of RWE to engage in the
+alleged anti-competitive conduct, as ensured by the proposed structural remedy.
+Indeed, there is strong evidence that RWE's restrictive capacity management
+policy and its margin squeeze strategy were used to protect its own gas supply
+business. These forms of behaviour derive in this case and taking into account the
+elements which form the basis of the Preliminary Assessment from an inherent
+conflict of interest within RWE as a vertically integrated gas company which
+controls both transmission and supply of gas. Absent a structural remedy, the
+incentives to further engage in such behaviour would not have been removed as
+effectively, resulting in a risk of a lasting or repeated infringement.
+
+(51) The Final Commitments provide for a clear-cut solution to the identified
+competition concerns. Not the least with a view to the large number of customers
+connected to RWE's gas transmission network and the important potential harm
+
+40 See on the difficulties to implement behavioural remedies also Commission Notice on remedies
+acceptable under Council Regulation (EC) No 139/2004 and under Commission Regulation (EC) No
+802/2004, OJ C 267, 22.10.2008, page 1 et seq., paragraphs 15, 17 and 69.
+
+14
+
+for these customers, the Final Commitments must be regarded as adequate and
+proportionate to the identified competition concerns.
+
+(52) The public consultation pursuant to Article 27 (4) of Regulation (EC) No. 1/2003
+confirmed that the divestiture of RWE's network is proportionate to the identified
+competition concerns on the German gas markets.
+
+(53) The remaining elements of the Final Commitments such as the preservation of the
+viability of the business to be divested, the hold-separate obligations, and the
+provisions on ring-fencing, non-solicitation, due diligence and reporting as well as
+the role conferred upon the Trustee are transitional and ancillary to the main
+commitments. Those provisions are necessary to ensure the implementation of the
+commitments offered by RWE and are proportionate. They also reflect the
+standard practice of the Commission in case of divestiture remedies in merger
+proceedings as set out in the Commission notice on remedies acceptable under
+Council Regulation (EEC) No 139/2004 and under Commission Regulation (EC)
+No 802/2004.
+
+8. CONCLUSION
+
+(54) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No. 1/2003,
+the Commission makes the Final Commitments, offered by the undertakings
+concerned to meet the Commission’s concerns expressed in its Preliminary
+Assessment, binding upon them. This decision does not conclude whether or not
+there has been or still is an infringement. The Commission’s assessment of whether
+the Final Commitments offered are sufficient to meet its concerns and
+proportionate at the same time, is based on its Preliminary Assessment,
+representing the preliminary view of the Commission based on the underlying
+investigation and analysis, and the observations received from third parties
+following the publication of a notice pursuant to Article 27(4) of Regulation
+1/2003.
+
+(55) In the light of the Final Commitments offered, the Commission considers that there
+are no longer grounds for action on its part and, without prejudice to Article 9(2)
+of Regulation (EC) No. 1/2003, the proceedings in this case should therefore be
+brought to an end.
+
+15
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Commitments in the Annex shall be binding on RWE AG and all its subsidiaries.
+
+Article 2
+
+There are no longer grounds for action by the Commission and the proceedings in this
+case shall be brought to an end.
+
+Article 3
+
+This Decision is addressed to RWE AG, Opernplatz 1, 45128 Essen, and all its subsidiaries,
+in particular
+
+RWE Transportnetz Gas GmbH, Königswall 21, 44137 Dortmund and
+
+RWE Energy AG, Rheinlanddamm 24, 44139 Dortmund
+
+Done at Brussels, 18 III 2009 For the Commission
+
+Neelie KROES
+
+Member of the Commission
+
+16
+
+[For the commitment text and the schedules (only in German language)
+see the German version of the decision]
+
+17

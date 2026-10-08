@@ -1,0 +1,496 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 10. Dezember 2003
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 10. Dezember 2003
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+
+und Artikel 53 EWR-Abkommen
+
+(zugestellt unter Dokumentennummer C(2003)4570)
+
+Sache COMP/E-2/37.857- Organische Peroxide
+
+(Nur der englische, der spanische und der deutsche Text sind verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+1 Beteiligte Unternehmen .........................................................................................7
+1.1 Akzo...............................................................................................................7
+1.2 Atofina/Atochem............................................................................................7
+1.3 Peroxid Chemie and Degussa UK Holdings Limited ....................................8
+1.4 [...]..................................................................................................................9
+1.5 Perorsa and FMC Foret..................................................................................9
+1.6 Andos .............................................................................................................9
+1.7 AC Treuhand..................................................................................................9
+2 Das Produkt..........................................................................................................10
+2.1 Relevantes Produkt ......................................................................................10
+2.1.1 Klassen organischer Peroxide..............................................................11
+2.1.2 Anwendungen organischer Peroxide ...................................................12
+2.1.2.1 Initiatoren für die Herstellung von Hochpolymeren/HP..................12
+2.1.2.2 Duroplaste/UP..................................................................................12
+2.1.2.3 Vernetzungsmittel/XL......................................................................12
+2.2 Relevanter Markt .........................................................................................12
+2.3 Der Aufbau des Marktes für organische Peroxide.......................................13
+2.3.1 Angebot an organischen Peroxiden .....................................................13
+2.3.2 Die Nachfrage nach organischen Peroxiden........................................16
+2.3.3 Der Markt in Zahlen.............................................................................16
+3 Zeitlicher Ablauf der Ereignisse ..........................................................................17
+4 Verfahren in anderen Ländern .............................................................................19
+5 Entstehung des Kartells........................................................................................20
+5.1 Überblick......................................................................................................20
+5.2 Die Hauptvereinbarung................................................................................20
+5.3 Die Rolle der AC Treuhand.........................................................................22
+5.3.1 Standpunkt der anderen Teilnehmer ....................................................22
+5.3.2 Auffassung der AC Treuhand..............................................................25
+5.3.3 Auffassung der Kommission................................................................25
+5.4 Regelmäßige Zusammenkünfte ...................................................................28
+6 Funktionsweise der Hauptvereinbarung ..............................................................34
+6.1 Der Zeitraum 1971-1991..............................................................................35
+6.2 Der Zeitraum 1992-1999..............................................................................38
+6.2.1 Statistischer Austausch und Geheimhaltung........................................39
+6.2.2 Spannungen in der Vereinbarung um 1992 .........................................40
+6.2.2.1 Akzos Sichtweise der Spannungen..................................................40
+6.2.2.2 Atochems Sichtweise der Spannungen ............................................42
+6.2.2.3 PCs Sichtweise der Spannungen......................................................43
+6.2.2.4 Sichtweise der Kommission.............................................................45
+6.2.3 Beteiligung anderer Unternehmen .......................................................46
+6.2.3.1 [...]....................................................................................................46
+6.2.3.2 Die Beteiligung von Andos..............................................................48
+6.2.4 Das Ende der Vereinbarung.................................................................49
+6.2.4.1 Das Ende der UP-Vereinbarung: .....................................................49
+6.2.4.2 Das Ende der HP-Vereinbarung.......................................................49
+7 Nebenabreden zur Hauptvereinbarung ................................................................50
+7.1 Die Nebenabrede betreffend Vernetzungsmittel..........................................50
+7.2 Regionale Nebenabreden .............................................................................54
+7.2.1 Die französische Nebenabrede.............................................................54
+
+2
+
+7.2.2 Die spanische Nebenabrede .................................................................56
+7.2.2.1 Beteiligung von Perorsas Mutter- und Schwestergesellschaften.....58
+7.2.2.1.1 Standpunkt von FMC gegenüber Perorsa ..................................59
+7.2.2.1.2 Standpunkt von PC und Laporte gegenüber Perorsa .................59
+7.2.2.2 Standpunkt von Perorsa betreffend die spanische Nebenabrede .....61
+7.2.2.3 Standpunkt der Kommission betreffend die spanische Nebenabrede
+62
+7.2.3 Die britische Nebenabrede...................................................................67
+7.2.4 Ansicht der Kommission zu den Nebenabreden..................................68
+7.3 Übernahme von nicht an der Vereinbarung teilnehmenden Wettbewerbern
+68
+7.4 Anführer der Zuwiderhandlung ...................................................................69
+7.5 Art und Zuverlässigkeit des Beweismaterials..............................................69
+1 Rechtliche Würdigung .........................................................................................71
+1.1 EG-Vertrag und EWR-Abkommen..............................................................71
+1.1.1 Beziehung zwischen EG-Vertrag und EWR-Abkommen....................71
+1.1.2 Zuständigkeit........................................................................................71
+1.2 Anwendung der Wettbewerbsregeln............................................................72
+1.2.1 Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-
+Abkommen...........................................................................................................72
+1.2.2 Vereinbarungen und aufeinander abgestimmte Verhaltensweisen......73
+1.2.3 Eine einzige fortlaufende Zuwiderhandlung........................................75
+1.2.4 Unternehmensvereinigungen ...............................................................76
+1.3 Art der Zuwiderhandlung im vorliegenden Fall ..........................................77
+1.3.1 Etwaige Zuwiderhandlungen von Andos, Hercules [...]......................78
+1.3.2 Art der Zuwiderhandlung von Perorsa.................................................78
+1.3.3 Art der Zuwiderhandlung von AC Treuhand.......................................81
+1.4 Einschränkung des Wettbewerbs .................................................................86
+1.5 Auswirkungen auf den Handel zwischen Mitgliedstaaten und zwischen den
+Vertragsparteien des EWR-Abkommens.................................................................88
+1.6 Auf Österreich, Finnland, Norwegen und Schweden sowie frühere
+Erweiterungen anwendbare Wettbewerbsvorschriften ............................................89
+1.7 Adressaten der Entscheidung.......................................................................90
+1.7.1 Unmittelbar beteiligte Unternehmen und Unternehmensvereinigungen
+90
+1.7.2 Die Haftung der Mutterunternehmen...................................................90
+1.7.2.1 Die Haftung von Laporte .................................................................90
+1.7.2.2 Die Haftung von FMC und Laporte für Perorsa ..............................94
+1.8 Dauer des Verstoßes ....................................................................................94
+1.8.1 Dauer des Hauptverstoßes....................................................................94
+1.8.2 Die Dauer der Beteiligung der einzelnen Unternehmen......................99
+1.8.2.1 Akzo.................................................................................................99
+1.8.2.2 Atochem...........................................................................................99
+1.8.2.3 PC und Laporte ................................................................................99
+1.8.2.4 Perorsa............................................................................................100
+1.8.2.5 [...]..................................................................................................101
+1.8.2.6 AC Treuhand..................................................................................101
+2 Abhilfemaßnahmen............................................................................................101
+2.1 Artikel 3 der Verordnung Nr. 17................................................................101
+2.2 Artikel 15 Absatz 2 der Verordnung Nr. 17 ..............................................101
+
+3
+
+2.2.1 Allgemeine Erwägungen....................................................................101
+2.2.2 Höhe der Geldbußen ..........................................................................102
+2.2.2.1 Grundbetrag ...................................................................................102
+2.2.2.1.1 Schwere des Verstoßes ............................................................102
+2.2.2.1.2 Dauer des Verstoßes ................................................................108
+2.2.2.2 Erschwerende Umstände: Wiederholungstäterschaft ....................109
+2.2.2.3 Mildernde Umstände......................................................................111
+2.2.2.3.1 Ausschließliche Passivität und Mitläuferschaft unter Druck
+anderer Unternehmen.................................................................................111
+2.2.2.3.2 Abstellung des Verstoßes vor dem ersten Einschreiten der
+Kommission ...............................................................................................111
+2.2.2.3.3 Nichtanwendung der rechtswidrigen Vereinbarungen oder
+Verhaltensweisen in der Praxis..................................................................112
+2.2.2.3.4 Sonstige mildernde Umstände .................................................113
+2.2.2.3.5 Effektive Zusammenarbeit ausserhalb der Kronzeugenregelung
+113
+2.2.2.3.6 Schlussfolgerung zu den Geldbußen vor Anwendung der
+Kronzeugenregelung..................................................................................114
+2.2.2.4 Anwendung der Kronzeugenregelung von 1996 ...........................115
+2.2.2.4.1 Vollständiger Erlass der Geldbuße ..........................................115
+2.2.2.4.2 Wesentlich oder erheblich niedrigere Festsetzung der Geldbuße
+116
+2.2.2.4.3 Spürbar niedrigere Festsetzung der Geldbuße .........................116
+2.2.2.5 Endbetrag der Geldbußen ..............................................................119
+
+4
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 10. Dezember 2003
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-
+
+Abkommen
+
+(Sache COMP/E2/37.857)
+
+(Nur der englische, der spanische und der deutsche Text sind verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN -
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar 1962 - Erste
+Durchführungsverordnung zu den Artikeln 85 und 86 des EWG-Vertrags 1 ,
+insbesondere auf die Artikel 3 und 15,
+
+gestützt auf die Beschluss der Kommission vom 27. März 2003 zur Einleitung des
+Verfahrens in dieser Sache,
+
+nachdem den beteiligten Unternehmen Gelegenheit gegeben wurde, sich gemäß
+Artikel 19 Absatz 1 der Verordnung Nr. 17 und der Verordnung (EG) Nr. 2842/98 der
+Kommission vom 22. Dezember 1998 über die Anhörung in bestimmten Verfahren
+nach Artikel 85 und 86 EG-Vertrag2 zu den Beschwerdepunkten der Kommission zu
+äußern,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten3,
+
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+
+1 ABl. 13 vom 21.2.1962, S. 204/62. Verordnung zuletzt geändert durch die Verordnung (EG)
+Nr. 1216/1999 (ABl. L 148 vom 15.6.1999, S.5).
+2 ABl. L 354 vom 30.12.1998, S. 18.
+3 ABl.
+
+5
+
+TEIL I - SACHVERHALT
+
+A. ZUSAMMENFASSUNG DER
+ZUWIDERHANDLUNGEN
+
+1. Diese Entscheidung ist an folgende Unternehmen und
+Unternehmensvereinigungen gerichtet:
+
+– Akzo Nobel Chemicals International B.V.
+– Akzo Nobel Polymer Chemicals B.V.
+– Akzo Nobel N.V.
+– Atofina S.A.
+– Degussa UK Holdings Limited
+– Peroxid Chemie GmbH & Co. KG
+– Peroxidos Organicos S.A.
+– AC Treuhand AG
+
+2. Seit 1971 haben die damals größten Hersteller organischer Peroxide (Akzo
+Nobel Chemicals International B.V. und Akzo Nobel Polymer Chemicals
+B.V., Luperox GmbH (nunmehr in der größten deutschen Atofina-Tochter
+aufgegangen) und Peroxid Chemie GmbH & Co. KG) eine Vereinbarung
+fortdauernd angewandt, die gegen Artikel 81 Absatz 1 EG-Vertrag und gegen
+Artikel 53 Absatz 1 EWR-Abkommen verstieß. Mit dieser Vereinbarung, die
+zeitweise das gesamte Gebiet oder einen Großteil des Gebiets der
+Gemeinschaft und des EWR umfasste, haben die Hersteller die Preise
+organischer Peroxide festgesetzt, einen Mechanismus für die Durchführung
+von Preiserhöhungen vereinbart und durchgeführt, Kunden zugeteilt und ein
+Verfahren zur Überwachung und Durchsetzung ihrer Vereinbarungen
+angewandt. Peroxidos Organicos S.A. (1975-1999) nahm an einer
+Nebenabrede zu der Hauptvereinbarung teil. Die AC Treuhand AG war
+ebenfalls beteiligt.
+
+3. Dauer der Teilnahme
+
+a) Akzo Nobel Chemicals International B.V., Akzo Nobel Polymer
+Chemicals B.V. und Akzo Nobel N.V.: 1. Januar 1971 bis 31.
+Dezember 1999
+
+b) Atofina S.A.: 1. Januar 1971 bis 31. Dezember 1999
+
+c) Peroxid Chemie GmbH & Co. KG: 1. Januar 1971 bis 31. Dezember
+1999
+
+d) Degussa UK Holdings Limited: 1. September 1992 bis 31. Dezember
+1999
+
+e) Peroxidos Organicos S.A.: 31. Dezember 1975 bis 31. Dezember 1999
+
+6
+
+f) AC Treuhand: 28 Dezember 1993 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Vereinbarung und Beginn einer neuen interpretieren. PC hat die
+Informationen vorgelegt, bevor die Kommission die Mitteilung der
+
+116
+
+Beschwerdepunkte übermittelte und hat die Feststellungen der Kommission
+im Wesentlichen nicht bestritten.
+
+509. Die Qualität der Erklärung von PC ist jedoch nicht über jeden Zweifel
+erhaben. PC hat die Teilnahme von [...] am Treffen vom Oktober 1992 erst
+bestätigt, nachdem Atochem zusätzliche Unterlagen vorgelegt hatte. In der
+Erklärung290 und der Erwiderung auf die Beschwerdepunkte wird das Treffen
+vom Oktober 1992 immer noch in Frage gestellt oder nicht erwähnt. PC hat
+das Treffen erst bestätigt, nachdem die schriftlichen Beweise von Atochem
+während der Anhörung verteilt wurden, sah es aber immer noch nicht als ein
+Kartelltreffen an. Auch wenn PC die Sachlage vielleicht ursprünglich nicht
+bestätigen konnte, weil sie so lange zurück liegt, kann dies auch vorsätzlich
+geschehen sein, um den Nachweis der Fortsetzung des Kartells zu
+verhindern. Ferner behauptet PC in der Erwiderung auf die
+Beschwerdepunkte, dass sich [...] an das Treffen vom Oktober 1992 als sein
+"erstes" Treffen mit Wettbewerbern erinnert. Demnach hätten weitere
+Treffen stattgefunden, aber dazu schweigt PC. PC hat sich nicht speziell zu
+den anderen Treffen geäußert, an denen [...] teilgenommen hat (siehe
+Tabelle 4, Randnummer 106). Ferner ist nicht ersichtlich, welche Stellungen
+[...] innerhalb des Laporte-Konzerns innehatte. In der Antwort auf das
+Auskunftsverlangen wird [...] als Geschäftsführer von PC seit 1992
+beschrieben291. In der Erwiderung von Laporte auf die Beschwerdepunkte
+wird [...] als Geschäftsführer der Laporte GmbH dargestellt, der deutschen
+Holdinggesellschaft von PC, und nicht als Geschäftsführer von PC. Auf
+jeden Fall war [...] auch Vorstandsmitglied von Laporte plc, wie aus dem
+Protokoll des Treffens vom 23. März 1992 hervorgeht.
+
+510. [...]292 [...]
+
+511. PC trägt vor, es habe Originaldokumente vorgelegt, die als Beweismittel
+höherwertig sind als nachträglich erstellte Protokolle und einen erheblichen
+Mehrwert darstellen. In der Kronzeugenregelung von 2002 wird die Tatsache
+anerkannt, dass Originale höherwertig sind als später verfasste Dokumente,
+was auch im vorliegenden Fall, in dem die Kronzeugenregelung von 1996
+zur Anwendung kommt, berücksichtigt werden sollte. Die von PC genannten
+Dokumente sind insbesondere die Originale der Kartellvereinbarung von
+1971 und 1975 und die Reiseunterlagen der Angestellten von PC. Die
+Kommission erkennt an, dass PC einige Originale vorgelegt hat, und
+unterstreicht, dass die Kronzeugenregelung von 1996 Anwendung findet..
+Die vor der Erklärung von PC erhaltenen Informationen zum gleichen
+Gegenstand waren jedoch von einer Qualität, dass die von PC vorgelegten
+Originale zur Beweisführung der Kommission keinen wesentlichen Beitrag
+geleistet haben.
+
+512. Insgesamt gesehen trugen die Unterlagen trotz dieser Lücken zur Feststellung
+des Verstoßes bei, insbesondere was die Belege für den Beginn der
+Hauptvereinbarung 1971 und 1975 angeht.
+
+290 Siehe [11788].
+291 Siehe [7562].
+292 [...]
+
+117
+
+513. PC und Laporte haben zu Beginn des Verfahrens zur Ermäßigung der
+Geldbuße gemeinsam gehandelt, indem sie die ersten Unterlagen vorgelegt
+haben. Laporte und PC haben gemeinsam auf das Laporte übermittelte
+Auskunftsverlangen geantwortet293. Später legte PC allein ihre Erklärung
+vor. Laporte war der Auffassung, dass im Fall, dass seine Verantwortung für
+das Verhalten von PC festgestellt würde, die Vorlage von Unterlagen durch
+PC auch für Laporte berücksichtigt würde. Die Kommission stimmt dieser
+Auffassung zu. Legt ein Unternehmen Beweise vor, um in den Genuss einer
+Herabsetzung der Geldbuße zu kommen, so kommt das auch dem
+Unternehmen zugute, zu dem das Unternehmen gehört, das die Beweise
+vorgelegt hat. Sowohl PC als auch PC und Laporte sollte im Rahmen ihrer
+gesamtschuldnerischen Haftung die gleiche Ermäßigung gewährt werden.
+
+514. Perorsa beantragte die Anwendung der Kronzeugenregelung, nachdem es die
+Mitteilung der Beschwerdepunkte erhalten hatte. Es hat einige Details zu
+Zusammenkünften und Teilnehmern der spanischen Nebenabrede
+beigetragen, von denen die Kommission keine Kenntnis hatte. Zum Zeitraum
+von 1980 bis Anfang 1997 hat Perorsa keine Einzelheiten vorgelegt, auch
+wenn es nach eigenem Eingeständnis an der spanischen Nebenabrede
+mitgewirkt hat. Perorsa bestreitet den Sachverhalt, auf den die Kommission
+ihre Beschwerdepunkte stützt, im wesentlichen nicht. Allerdings bestreitet
+Perorsa nach Auffassung der Kommission einige wichtige Tatsachen,
+beispielsweise die Dauer seiner Beteiligung und sein Wissen um die
+Hauptvereinbarung. Insgesamt hat Perorsa den Sachverhalt nicht bestritten
+und sehr wenige Angaben zusätzlich zu dem, was der Kommission bereits
+bekannt war, beigetragen.
+
+515. Nach gebührender Berücksichtigung der Mitarbeit von Atochem sollte in
+Anwendung von Abschnitt D Absatz 2 der Kronzeugenregelung von 1996
+Atochem eine Herabsetzung der Geldbuße im 50 % im Verhältnis zu dem
+Betrag gewährt werden, der ohne diese Zusammenarbeit mit der Kommission
+verhängt worden wäre.
+
+516. Nach gebührender Berücksichtigung der Mitarbeit von PC sollte in
+Anwendung von Abschnitt D Absatz 2 der Kronzeugenregelung von 1996
+PC eine Herabsetzung der Geldbuße im 25 % im Verhältnis zu dem Betrag
+gewährt werden, der ohne diese Zusammenarbeit mit der Kommission
+verhängt worden wäre.
+
+517. Dementsprechend sollte die Geldbuße, die gegen PC und Laporte gemeinsam
+für den Zeitraum ihrer gesamtschuldnerischen Haftung vom 1. September
+1992 bis 31. Dezember 1999 festgesetzt worden wäre, analog reduziert
+werden. In Anwendung von Abschnitt D Absatz 2 erster und zweiter
+Unterabsatz der Kronzeugenregelung von 1996 sollte eine Herabsetzung der
+Geldbuße im 25 % im Verhältnis zu dem Betrag gewährt werden, der ohne
+diese Zusammenarbeit mit der Kommission verhängt worden wäre.
+
+518. Nach gebührender Berücksichtigung der Mitarbeit von Perorsa sollte in
+Anwendung von Abschnitt D Absatz 2 der Kronzeugenregelung von 1996
+
+293 Siehe [7551ff], [11749].
+
+118
+
+Perorsa eine Herabsetzung der Geldbuße im 15 % im Verhältnis zu dem
+Betrag gewährt werden, der ohne diese Zusammenarbeit mit der Kommission
+verhängt worden wäre.
+
+2.2.2.5 Endbetrag der Geldbußen
+
+519. Gemäß Artikel 15 Absatz 2 Buchstabe a) der Verordnung Nr. 17 sollten
+folgende Geldbußen festgesetzt werden:
+
+– Akzo Nobel Polymer Chemicals B.V., Akzo Nobel N.V., Akzo Nobel
+Chemicals International B.V., als gesamtschuldnerisch haftende
+Unternehmen: 0 EUR
+
+– Atofina S.A: 43,47 Mio EUR
+
+– Peroxid Chemie GmbH & Co. KG 8,83 Mio EUR
+
+– Peroxid Chemie GmbH & Co. KG und Degussa UK Holdings Limited als
+gesamtschuldnerisch haftende Unternehmen:
+
+16,73 Mio EUR
+
+– AC Treuhand AG: 1000 EUR
+
+– Perorsa S.A. 0,50 Mio EUR -
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Folgende Unternehmen bzw. Unternehmensvereinigungen haben während der
+angegebenen Zeiträume gegen Artikel 81 Absatz 1 EG-Vertrag und ab 1. Januar 1994
+gegen Artikel 53 EWR-Abkommen verstoßen, indem sie sich an einer Reihe von
+Vereinbarungen und abgestimmten Verhaltensweisen auf dem Markt der organischen
+Peroxide beteiligten, wobei AC Treuhand als Unternehmen und/oder als
+Unternehmensvereinigung mitwirkte :
+a) Akzo Nobel Chemicals International B.V., Akzo Nobel Polymer
+Chemicals B.V. und Akzo Nobel N.V.: 1. Januar 1971 bis 31. Dezember
+1999
+
+b) Atofina S.A.: 1. Januar 1971 bis 31. Dezember 1999,
+
+c) Peroxid Chemie GmbH & Co. KG: 1. Januar 1971 bis 31. Dezember
+1999,
+
+d) AC Treuhand: 28. Dezember 1993 bis 31. Dezember 1999,
+
+e) Peroxidos Organicos S.A.: mindestens ab 31 Dezember 1975 bis 31.
+Dezember 1999,
+
+119
+
+f) Degussa UK Holdings Limited (vormals Laporte plc.): vom 1. September
+1992 bis 31. Dezember 1999.
+
+Artikel 2
+Für die in Artikel 1 genannte Zuwiderhandlung werden gegen die nachstehenden
+Unternehmen folgende Geldbußen festgesetzt:
+a) Akzo Nobel Polymer Chemicals B.V., Akzo Nobel N.V., Akzo Nobel Chemicals
+International B.V., als gesamtschuldnerisch haftende Unternehmen:
+0 EUR,
+
+b) Atofina S.A: 43,47 Mio EUR,
+
+c) Peroxid Chemie GmbH & Co. KG: 8,83 Mio EUR,
+
+d) Peroxid Chemie GmbH & Co. KG und Degussa UK Holdings Limited als
+gesamtschuldnerisch haftende Unternehmen: 16,73 Mio EUR,
+
+e) AC Treuhand: 1000 EUR,
+
+f) Peroxidos Organicos S.A.: 0,50 Mio EUR.
+
+Die Geldbußen sind binnen drei Monaten nach Zustellung dieser Entscheidung auf
+folgendes Konto einzuzahlen:
+
+Konto Nr.
+
+001-3953713-69 der Europäischen Kommission bei:
+
+FORTIS Bank, rue Montagne du Parc 3, 1000 Brüssel
+
+(SWIFT-Code: GEBABEBB – IBAN-Code BE71 0013 9537 1369)
+
+Nach Ablauf dieser Frist werden Zinsen zu dem Satz fällig, der von der Europäischen
+Zentralbank bei ihren Hauptrefinanzierungsgeschäften am ersten Tag des Monats
+angewandt wird, in dem diese Entscheidung erlassen worden ist, zuzüglich 3,5
+Prozentpunkte, d.h. 5,5%.
+
+Artikel 3
+Die in Artikel 1 genannten Unternehmen bzw. Unternehmensvereinigungen stellen
+die dort genannte Zuwiderhandlung ab, falls sie dies noch nicht getan haben.
+
+Sie unterlassen die Wiederholung der in Artikel 1 genannten Zuwiderhandlung sowie
+alle Handlungen und Verhaltensweisen, die einen ähnlichen oder gleichen Zweck
+bzw. eine ähnliche oder gleiche Wirkung haben könnten.
+
+Artikel 4
+Diese Entscheidung ist gerichtet an:
+
+120
+
+Akzo Nobel Polymer Chemicals B.V., Stationsplein 4, 3813 LE Amersfoort
+
+Akzo Nobel N.V., Velperweg 76, NL-6800 BM Arnhem
+
+Akzo Nobel Chemicals International B.V., Stationsplein 4, NL-3813 LE
+Amersfoort
+
+Atofina S.A., 4, cours Michelet, La Défense 10, F-92091 Paris La Defense cedex
+
+Peroxid Chemie GmbH & Co. KG, Dr.-Gustav-Adolph-Strasse 3, D-82049 Pullach
+
+AC Treuhand AG, Bleicherweg 62, CH-8027 Zürich
+
+Peroxidos Organicos S.A., Córcega 293, E-08008 Barcelona
+
+Degussa UK Holdings Limited, 42 Brook Street, UK-London W1K 5DB
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag.
+
+Brüssel, den 10. Dezember 2003
+
+Im Namen der Kommission
+Mario Monti
+Mitglied der Kommission
+
+121

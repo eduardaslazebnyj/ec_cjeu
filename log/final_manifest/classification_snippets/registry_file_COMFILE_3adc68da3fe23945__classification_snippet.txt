@@ -1,0 +1,382 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52018XX1211(03) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52018XX1211(03)
+Help
+Print
+Final Report of the Hearing Officer — Case AT.40136 — Capacitors
+Final Report of the Hearing Officer — Case AT.40136 — Capacitors
+Final Report of the Hearing Officer — Case AT.40136 — Capacitors
+C/2018/1768
+OJ C 446, 11.12.2018, pp. 6–9
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+11.12.2018
+EN
+Official Journal of the European Union
+C 446/6
+Final Report of the Hearing Officer
+(
+1
+)
+Case AT.40136 — Capacitors
+(2018/C 446/06)
+Introduction
+(1)
+The draft decision finds a cartel in the market for electrolytic capacitors, involving fifteen legal entities (together, ‘the addressees of the decision’), belonging to nine undertakings:
+—
+Elna Co., Ltd (‘Elna’),
+—
+Hitachi Chemical Electronics Co. Ltd (former Hitachi AIC Inc.) and Hitachi Chemical Co. Ltd (together ‘Hitachi’),
+—
+Vishay Polytech Co., Ltd (former Holy Stone Polytech Co. Ltd), Holy Stone Holdings Co., Ltd and Holy Stone Enterprise Co., Ltd (together ‘Holy Stone’),
+—
+Matsuo Electric Co., Ltd (‘Matsuo’),
+—
+Tokin Corporation (former NEC Tokin Corporation) and NEC Corporation (together ‘NEC Tokin’),
+—
+Nichicon Corporation (‘Nichicon’),
+—
+Nippon Chemi-Con Corporation (‘NCC’),
+—
+Rubycon Corporation and Rubycon Holdings Co., Ltd (together ‘Rubycon’),
+—
+Sanyo Electric Co., Ltd and Panasonic Corporation (together ‘Panasonic/Sanyo’).
+(2)
+The investigation started on the basis of an application for immunity submitted by Panasonic/Sanyo on 4 October 2013. Following requests for information sent on 28 March and 1 April 2014, the Commission received further leniency applications from Hitachi, Holy Stone, NEC Tokin, Rubycon and Elna. The Commission sent further requests for information to the addressees of the decision and other market participants. From 3 to 6 March 2015, the Commission carried out inspections at the premises of [...] NCC.
+Statement of objections
+(3)
+On 4 November 2015, the Commission adopted a statement of objections (‘the SO’), which was notified to the addressees of the decision and to five more legal entities (together ‘the addressees of the SO’).
+(4)
+According to the SO, the addressees of the SO engaged [...] in agreements and/or concerted practices which took the form of multilateral meetings and bi-/tri-lateral contacts, where they exchanged information on market trends, global production and sales, and price, in order to coordinate their future conduct as to the sale of electrolytic capacitors. This behaviour was considered to amount to a single and continuous infringement of Article 101 TFEU and Article 53 of the EEA Agreement.
+Access to the file (and to the full text of the SO)
+(5)
+The addressees of the SO were granted access to most of the file via an access-to-file DVD and to the corporate statements of the leniency applicants at the premises of the Directorate-General for Competition (‘DG Competition’) between 12 November and 17 December 2015
+(
+2
+)
+.
+(6)
+Both the SO and the access-to-file DVD contained numerous redactions concealing (mainly Rubycon’s) customer names that DG Competition had accepted to treat as ‘provisionally confidential’. Invoking their rights of defence, several addressees of the SO requested access to the redacted customer names. Following these requests to have access to the redacted customer names, the access-to-file DVD was supplemented by two more DVDs, made available to all addressees of the SO on 4 March and 26 April 2016.
+(7)
+Following the provision of the DVD of 26 April 2016, the Commission sent all addressees of the SO a letter of facts (‘the First LoF’) on 4 May 2016. This First LoF contained a new version of the SO (including its Annex 1), which incorporated all customer names, as well as references to the numbers of Japanese original documents and updated references to the numbers of relevant English translations in the footnotes. It also contained an updated correspondence table.
+(8)
+It would have been preferable to ensure that all confidentiality claims had been properly dealt with before adopting the SO
+(
+3
+)
+, so as to avoid having ‘provisionally confidential’ information in the SO and to avoid the considerable time and effort that had to be spent during half a year following the sending of the SO on solving this issue. That the customer names would be relevant for the rights of defence of the addressees of the SO could have been fully anticipated. Moreover, customer names are information of the type the Commission normally does not, unless duly justified, accept as business secrets and other confidential information
+(
+4
+)
+.
+(9)
+In any event, the provision of the DVD of 26 April 2016 and the sending of the First LoF on 4 May 2016, which in fact amounted to a re-sending of the SO, now containing its full text, solved the problem. In the end, the rights of the defence of the addressees of the SO were thus safeguarded.
+Time-limits for replying to the SO
+(10)
+DG Competition initially set an eight-week period to respond to the SO. This deadline was extended following the provision of the first additional DVD of 4 March 2016 and was further extended at the request of several addressees of the SO, with deadlines varying from 29 March to 12 April 2016. Following a request from NCC, I suspended the time period in which NCC had to provide its response to the SO until the ongoing discussion on the remaining confidentiality claims regarding customer names (see paragraphs 6 to 9 above) was closed.
+(11)
+Following the sending of the First LoF, all the addressees of the SO other than NCC were allowed to comment on the First LoF and to supplement their response to the SO by 18 May 2016. The deadline for NCC to make known its views on both the SO and the First LoF was set at 20 May 2016. Elna, Hitachi, Matsuo, NEC Corporation, Nichicon and Rubycon did not submit replies to the First LoF.
+Oral hearing
+(12)
+The oral hearing took place from 12 to 14 September 2016. All the addressees of the SO participated, except Matsuo, which had not made in its written reply to the SO a request to be heard orally.
+Access to the replies of the other addressees of the SO
+(13)
+On 1 September 2016, NCC requested DG Competition to grant it access to the non-confidential version of the replies to the SO, annexes included, of the other addressees of the SO. Following the rejection of this request by DG Competition on 5 September 2016, NCC referred the matter to me on 19 September 2016. On 10 October 2016, I for the most part rejected NCC’s request
+(
+5
+)
+.
+(14)
+The EU Courts, in interpreting the right of access to the file as laid down in Article 27(2) of Regulation (EC) No 1/2003
+(
+6
+)
+and Article 41(2)(b) of the Charter of Fundamental Rights of the EU, have consistently distinguished between, on the one hand, documents that were part of the file at the time of notification of the statement of objections, and, on the other hand, documents that are later added to the file, including in particular other parties’ replies to the statement of objections
+(
+7
+)
+. This distinction is indeed logical, given that access to the file is not an end in itself, but is intended to protect the rights of the defence
+(
+8
+)
+, more specifically to allow the addressees of a statement of objections to examine evidence held by the Commission so that they are in a position effectively to express their views on the conclusions which the Commission reaches in the statement of objections on the basis of that evidence
+(
+9
+)
+. As to documents that are added to the file after the notification of the statement of objections, including in particular other parties’ replies to the statement of objections, the Commission is only required to give access to such documents if it transpires that they contain new incriminating or exculpatory evidence
+(
+10
+)
+or if they are essential to put the applicant in a position to dispute the figures used by the Commission in the statement of objections
+(
+11
+)
+. A document cannot be regarded as an incriminating document unless it is used by the Commission in support of its finding of an infringement by an undertaking
+(
+12
+)
+. As regards new exculpatory evidence, respect for the rights of the defence cannot, as a rule, lead to an obligation on the Commission to disclose documents that are added to the file after the notification of the statement of objections to parties so that they can ascertain that there is no exculpatory evidence
+(
+13
+)
+. To the extent that parties rely on the existence of alleged exculpatory evidence in such documents, it is for them to provide
+prima facie
+evidence of the relevance of those documents for their defence. Parties must, in particular, indicate the potential exculpatory evidence in question or adduce evidence that it exists and therefore of its relevance for the purposes of the case
+(
+14
+)
+.
+(15)
+The elements put forward by NCC did not amount to
+prima facie
+evidence of the existence of new exculpatory evidence in the other parties’ replies to the SO. In particular, the existence of divergent interests among the parties to cartel proceedings does not of itself amount to
+prima facie
+evidence that their respective responses to a statement of objections contain exculpatory evidence with respect to some or all other parties
+(
+15
+)
+.
+(16)
+In any event, having reviewed all the written replies of the other addressees to the SO and to the First LoF, I identified two passages and one annex in the response of one addressee of the SO that arguably contained new exculpatory evidence vis-à-vis NCC in that these added a declaration by a former employee or drew on further interviews with another employee. I thus decided that access to these had to be granted. Following my decision, DG Competition granted NCC access to the non-confidential version of these passages and annex and allowed NCC to provide its written comments on these.
+Additional letters of facts
+(17)
+On 28 February 2017, the Commission sent a second letter of facts (‘the Second LoF’) to the addressees of the SO identifying certain specific items of evidence on which it might rely to support objections stated in the SO. All the addressees of the SO, except Matsuo, NEC Corporation and Rubycon, submitted replies to this Second LoF.
+(18)
+On 1 December 2017, the Commission sent a third letter of facts (the ‘Third LoF’) to the addressees of the SO identifying further items of evidence on which it might rely to support objections stated in the SO. On the same day, the addressees of the SO received four documents by email and were invited to have access to some of the other additional evidence that had formed the basis of Annex II of the Third LoF at the premises of DG Competition. Nearly all addressees of the SO had access at the said premises between 5 and 12 December 2017. All the addressees of the SO, except Elna and NEC Corporation, submitted replies to the Third LoF.
+The draft decision
+(19)
+Compared with the SO, the draft decision is addressed to five fewer legal entities. It also decreases the duration of the infringement by [...]. In addition, the scope of Nichicon’s involvement in the single and continuous infringement has been reduced. Finally, the amounts of the fines in the draft decision take account of mitigating circumstances in respect of NEC Tokin, Nichicon, Matsuo and Panasonic/Sanyo.
+(20)
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with the objections in respect of which the addressees of the decision have been afforded the opportunity of making known their views, and I have come to a positive conclusion.
+(21)
+Overall, I conclude that all the addressees of this decision have been able to effectively exercise their procedural rights in this case.
+Brussels, 16 March 2018.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+The access-to-file DVD had to be replaced twice following two incidents of inadvertent disclosure of confidential information. These incidents appear to have been dealt with appropriately by DG Competition. I did not receive any complaints concerning these incidents.
+(
+3
+)
+As recommended in DG Competition’s Antitrust Manual of Procedures (Chapter 12, paragraph 50), available (public version) at http://ec.europa.eu/competition/antitrust/antitrust_manproc_3_2012_en.pdf
+(
+4
+)
+Standard annex on business secrets and other confidential information, enclosed in all requests for information, available on DG Competition’s webpages at: http://ec.europa.eu/competition/antitrust/business_secrets_en.pdf See also judgment in case T-465/12
+AGC Glass Europe v Commission
+(EU:T:2015:505, paragraphs 36-40).
+(
+5
+)
+Following a request from NCC of 16 December 2016 to reconsider my decision, I confirmed my decision by letter of 9 February 2017.
+(
+6
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+7
+)
+Among others, judgments in
+Heineken Nederland and Heineken v Commission
+, T-240/07, EU:T:2011:284, paragraphs 241 and 242;
+Hoechst v Commission
+, T-161/05, EU:T:2009:366, paragraph 163; as well as
+Shell Petroleum and Others v Commission
+, T-343/06, EU:T:2012:478, paragraph 84.
+(
+8
+)
+Judgments in
+Aalborg Portland and Others v Commission
+, C-204/00 P, EU:C:2004:6, paragraph 68;
+Atlantic Container Line and Others v Commission
+, T-191/98 and T-212/98 to T-214/98, EU:T:2003:245, paragraphs 376 and 377; as well as
+Solvay v Commission
+, T-186/06, EU:T:2011:276, paragraph 214.
+(
+9
+)
+Judgments in
+Solvay v Commission
+, T-30/91, EU:T:1995:115, paragraph 59, as well as
+Cimenteries CBR and Others v Commission
+, T-25/95 etc., EU:T:2000:77, paragraphs 156 and 142.
+(
+10
+)
+Judgment in
+Shell Petroleum and Others v Commission
+, T-343/06, EU:T:2012:478, paragraph 85.
+(
+11
+)
+Judgment in
+Ziegler v Commission
+, T-199/08, EU:T:2011:285, paragraph 118.
+(
+12
+)
+Among others, judgments in
+Heineken Nederland and Heineken v Commission
+, T-240/07, EU:T:2011:284, paragraph 245, and
+Fresh Del Monte Produce v Commission
+, T-587/08, EU:T:2013:129, paragraph 665.
+(
+13
+)
+Judgment in
+Heineken Nederland and Heineken v Commission
+, T-240/07, EU:T:2011:284, paragraph 255.
+(
+14
+)
+Idem, paragraphs 256 and 257.
+(
+15
+)
+Judgments in
+Shell Petroleum and Others v Commission
+, T-343/06, EU:T:2012:478, paragraphs 84 and 85, and
+Koninklijke Wegenbouw Stevin v Commission
+, T-357/06, EU:T:2012:488, paragraphs 164 and 165.
+Top

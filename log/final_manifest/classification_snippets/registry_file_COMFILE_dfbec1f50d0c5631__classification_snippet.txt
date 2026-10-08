@@ -1,0 +1,466 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTES EUROPÉENNES
+
+Bruxelles, le 21.4.2004
+C(2004)900 final
+
+DÉCISION DE LA COMMISSION
+
+du 24 mars 2004
+
+relative à une procédure d'application de l'article 82 du traité CE
+
+(Affaire COMP/C-3/37.792 Microsoft)
+
+(LE TEXTE EN LANGUE ANGLAISE EST LE SEUL FAISANT FOI)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+FR FR
+
+DÉCISION DE LA COMMISSION
+
+du 24 mars 2004
+
+relative à une procédure d'application de l'article 82 du traité CE(Affaire COMP/C-
+3/37.792 Microsoft)
+
+LA COMMISSION DES COMMUNAUTES EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu le règlement n°17 du Conseil du 6 février 1962, premier règlement d'application des
+articles 85 et 86 du traité1 et notamment son article 3 et son article 15, paragraphe 2,
+
+vu la plainte de Sun Microsystems, Inc. du 10 décembre 1998, portant sur des allégations
+d'infraction à l'article 82 du Traité par Microsoft Corporation et demandant que la
+Commission impose à Microsoft Corporation de mettre fin à ces infractions,
+
+vu la décision de la Commission du 1er août 2000 d'ouvrir une procédure dans l'affaire IV/C-
+3/37.345,
+
+vu la décision de la Commission du 29 août 001 d'ouvrir une procédure dans la présente
+affaire et d'intégrer les conclusions relatives à l'affaire IV/C-3/37.345 à la procédure suivie
+dans le cadre de la présente affaire,
+
+après avoir donné aux entreprises intéressées l'occasion de faire connaître leur point de vue au
+sujet des griefs retenus par la Commission, conformément à l'article 19, paragraphe 1, du
+règlement n°17 et au règlement (CE) n°2842/98 de la Commission du 22 décembre 1998
+relatif à l'audition dans certaines procédures fondées sur les articles 81 et 82 du traité CE2,
+
+vu le rapport du conseiller-auditeur,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+considérant ce qui suit:
+
+1 JO 13 du 21.2.1962, p. 204/62. Règlement modifié en dernier lieu par le règlement (CE) n° 1216/1999
+(JO L 148 du 5.6.1999, p. 5).
+2 JO L 354 du 30.12.1998, p. 18.
+
+FR FR
+
+1. LES ENTREPRISES CONCERNEES
+
+1.1. Microsoft Corporation
+
+1. Microsoft Corporation («Microsoft») est une société dont le siège social est situé à
+Redmond, dans l'État de Washington, aux États-Unis. Ses activités couvrent la
+production, la vente sous licence ainsi que l'assistance technique pour une vaste
+gamme de produits logiciels3 destinés à divers équipements informatiques4. Au cours
+de l'exercice comptable allant de juillet 2002 à juin 2003, elle a réalisé un chiffre
+d'affaires de 32 187 millions d'USD5 (30 701 millions d'euros6) et un bénéfice net de
+13 217 millions d'USD7 (12 607 millions d'euros). Microsoft emploie 55 000
+personnes dans le monde. C'est Microsoft Europe Moyen-Orient et Afrique,
+implantée à Paris, dans le quartier de la Défense, qui contrôle ses activités dans
+l'Espace économique européen («l'EEE»). Elle est présente dans tous les États
+membres de l'EEE.
+
+1.2. Le plaignant: Sun Microsystems, Inc.
+
+2. Sun Microsystems Inc. («Sun») est une société dont le siège social se trouve à Palo
+Alto, Californie, États-Unis, qui fournit des solutions pour réseaux informatiques, en
+particulier des systèmes informatiques (matériel et logiciel), des systèmes de
+stockage de données en réseau (matériel et logiciel), des services d'assistance
+technique ainsi que des services aux professionnels de l'informatique et des services
+de formation8. Au cours de l'exercice comptable américain allant de juillet 2002 à
+juin 2003, elle a réalisé un chiffre d'affaires de 11 434 millions d'USD (10 906
+millions d'euros9), sur lequel elle a subi une perte nette de 2 378 millions d'USD10
+(2 268 millions d'euros). Sun emploie environ 36 100 personnes dans le monde. Elle
+est présente dans tous les États membres de l'EEE.
+
+3 Pour une définition des termes informatiques, notamment des termes tels que logiciels et matériels
+informatiques, PC, etc., voir considérants 22 et suivants ci-dessous.
+4 Rapport annuel de Microsoft pour l'exercice comptable américain clos en juin 2002, p. 1. Voir
+http://www.microsoft.com/msft/sec/FY02/10k2002.htm, imprimé le 24 janvier 2003.
+5 Le taux de change utilisé pour la période allant du 1er juillet 2002 au 30 juin 2003 est de 1,0484 USD
+pour un euro. Il s'agit d'une moyenne des taux de change trimestriels moyens pour le troisième et le
+quatrième trimestres 2002 et pour le premier et le deuxième trimestres 2003 (0,9838, 0,9994, 1,0731,
+1,1372). Source: Eurostat.
+6 Rapport annuel de Microsoft (formulaire 10-K) pour l'exercice comptable américain clos au 30 juin
+2003, p. 9. Voir http://www.sec.gov/Archives/edgar/data/789019/000119312503045632/d10k.htm,
+imprimé le 18 novembre 2003.
+7 Rapport annuel de Microsoft pour l'exercice comptable américain clos en juin 2002, p. 11. Voir
+http://www.microsoft.com/msft/sec/FY02/10k2002.htm, imprimé le 24 janvier 2003.
+8 Rapport annuel de Microsoft (formulaire 10-K) pour l'exercice comptable américain clos au 30 juin
+2003, p. 1. Voir http://www.sun.com/aboutsun/investor/annual_reports/sun_10k03.pdf, imprimé le 24
+janvier 2003.
+9 Le taux de change utilisé pour la période allant du 1er juillet 2002 au 30 juin 2003 est de 1,0484 USD
+pour un euro. Voir note 8.
+10 Voir communiqué de presse de Sun présentant les résultats annuels pour l'exercice comptable américain
+clos en juin 2003, http://www.sun.com/smi/Press/sunflash/2002-07/sunflash.20020718.1.html, publié le
+22 juillet 2003 et téléchargé le 18 novembre 2003.
+
+FR FR
+
+2. CHRONOLOGIE DE LA PROCEDURE ET CONTEXTE
+
+2.1. La procédure
+
+3. Le 10 décembre 1998, Sun a introduit auprès de la Commission européenne une
+demande d'ouverture d'une procédure à l'encontre de Microsoft au titre de l'article 3
+du règlement n° 17 («la plainte de Sun »). Sun faisait valoir que Microsoft occupait
+une position dominante en tant que fournisseur d'un certain type de produits logiciels
+appelés «systèmes d'exploitation pour ordinateurs personnels» («systèmes
+d'exploitation pour PC»). Elle affirmait également que Microsoft avait enfreint
+l'article 82 du traité CE en se réservant l'information dont certains produits logiciels
+pour les réseaux informatiques, appelés systèmes d'exploitation pour serveurs de
+groupe de travail, ont besoin pour interopérer pleinement avec le système
+d'exploitation pour PC de Microsoft. D'après Sun, l'information relative à
+l'interopérabilité qui n'est pas divulguée par Microsoft est nécessaire à toute
+entreprise souhaitant être un concurrent viable sur le marché des systèmes
+d'exploitation pour serveurs de groupe de travail.
+
+4. L'affaire ouverte à la suite de la plainte de Sun a été enregistrée sous le n° IV/C-
+3/37.345. Après un premier examen de la plainte, la Commission a envoyé, le
+1er août 2000, une communication des griefs («la première communication des
+griefs») à Microsoft, afin de donner à celle-ci la possibilité de transmettre ses
+observations sur les résultats préliminaires de l'enquête menée par la Commission,
+tant en ce qui concerne les faits que l'appréciation juridique. Cette communication
+des griefs portait sur les problèmes d'interopérabilité qui constituaient le fondement
+de la plainte de Sun. Microsoft a répondu à la communication des griefs le
+17 novembre 200011.
+
+5. Dans l'intervalle (février 2000), la Commission a lancé une enquête d'office sur le
+comportement de Microsoft, au titre du règlement n° 17, enquête enregistrée sous le
+n° COMP/C-3/37.792. Cette enquête concernait plus particulièrement la génération
+Windows 2000 de systèmes d'exploitation pour PC et serveurs de groupe de travail
+de Microsoft ainsi que l'intégration par Microsoft d'un logiciel appelé Windows
+Media Player à son système d'exploitation pour PC, Windows. Le 30 août 2001, cette
+enquête a abouti à l'envoi d'une deuxième communication des griefs («la deuxième
+communication des griefs») à Microsoft. Cette communication des griefs portait sur
+des questions liées à l'interopérabilité ainsi que sur l'intégration de Windows Media
+Player à Windows. Dans cette deuxième communication des griefs, la Commission a
+intégré les conclusions préliminaires auxquelles elle était parvenue dans sa première
+communication des griefs dans le cadre de la procédure relative à l'affaire
+n° COMP/C-3/37.79212. Microsoft a répondu à la deuxième communication des
+griefs le 16 novembre 2001.
+
+11 Cette réponse, comme ce sera le cas des réponses suivantes de Microsoft, comprend un certain nombre
+de documents préparés par le consultant économique de Microsoft dans cette affaire, NERA.
+12 Pour les documents collectés dans le cadre de l'affaire n° IV/C-3/37.345, le numéro de page et l'affaire
+dans le cadre de laquelle le document a été originellement collecté ont été indiqués dans la présente
+décision (bien que les preuves y afférentes aient été jointes à et dans le cadre de l'affaire n° COMP/C-
+3/37.792.
+
+FR FR
+
+6. En réponse aux deux communications des griefs de la Commission, Microsoft a
+soumis plusieurs déclarations émanant de clients - entreprises ou administrations - et
+d'intégrateurs de systèmes («les déclarations de clients présentées par Microsoft»),
+censées confirmer ses réponses aux griefs de la Commission concernant
+l'interopérabilité13. Au total, 46 déclarations ont été présentées par Microsoft à la
+Commission14.
+
+7. En février et mars 2002, la Commission a envoyé des demandes de renseignements
+aux 46 clients ayant fourni des déclarations, afin d'obtenir des données quantitatives
+sur l'usage par ces clients des produits pertinents dans le cadre de l'enquête de la
+Commission.
+
+8. D'avril à juin 2003, la Commission a procédé à une étude de marché plus étendue
+(«l'enquête de marché de 2003»). Pour ce qui est de l'interopérabilité, sur la base d'un
+échantillon indépendant d'organisations qui utilisaient à la fois des systèmes
+d'exploitation pour PC et des serveurs de groupe de travail, la Commission a envoyé
+le 16 avril 2003 une première demande de renseignements à 75 sociétés, toutes
+implantées dans l'EEE15. Ces sociétés, qui ont été sélectionnées au hasard, sont
+actives dans différents secteurs d'activités16 et sont de taille variable. Parmi les
+71 sociétés qui ont répondu, certaines ont fourni des réponses pour leurs sous entités
+ou leurs filiales, de sorte que le total des réponses obtenu a dépassé 100, ce qui
+correspond à plus de 1,2 millions de PC clients (ordinateurs portables et de bureau)17.
+Les réponses au questionnaire ont suscité des questions complémentaires, et un
+questionnaire de suivi a donc été envoyé les 28 mai 2004 et 4 juin 2003 aux
+62 organisations qui avaient déjà répondu, à ces dates, aux demandes de
+renseignements du 16 avril 200318.
+
+13 Les déclarations des clients ont été rédigées par les avocats de Microsoft sur la base de notes prises lors
+d'entretiens avec les responsables informatique de ces clients, avant d'être envoyées à ces responsables
+pour relecture et signature. Voir la communication de Microsoft du 16 novembre 2001, paragraphe 37.
+14 Trente-quatre de ces déclarations concernaient la réponse de Microsoft à la première communication
+des griefs (communications des 17 novembre 2000 et 15 mars 2001) et 13 autres ont été jointes à la
+réponse à la deuxième communication des griefs (communication du 16 novembre 2001). L'une des
+sociétés concernées ([confidentiel]) a retiré sa déclaration en mars 2001 (affaire n° IV/C-3/37.345, p.
+17614).
+15 L'échantillon comprend des entreprises établies en Autriche (une), en Belgique (quatre), au Danemark
+(une), en France (dix-neuf), en Allemagne (onze), en Italie (quatre), aux Pays-Bas (quatre), au Portugal
+(une), en Espagne (dix), en Suède (quatre), au Royaume-Uni (quinze). En outre, les mêmes
+questionnaires ont été envoyés à 8 des 46 organisations pour lesquelles Microsoft avait fourni des
+études de cas. Ces organisations avaient fourni des réponses incomplètes aux demandes «Article 11»
+envoyées par la Commission en février-mars 2002.
+16 correspondant à dix codes NACE à deux chiffres.
+17 Toutes les données concernant cette série de demandes de renseignement Article 11 mentionnées dans
+la présente décision ont été établies sur la base des réponses des cent deux entités qui ont indiqué le
+nombre de PC clients qu’elles utilisent et pour lesquelles ce nombre de PC clients est supérieur à cent.
+Un nombre important de ces sociétés ont demandé dans leurs réponses que leur identité ne soit pas
+divulguée. Elles sont désignées par le chiffre attribué à l'organisation et (le cas échéant) par un chiffre
+supplémentaire pour distinguer les entités distinctes appartement à la même organisation (par exemple,
+entité I1, entité I2,... entité I46-1, etc.).
+18 57 de ces entités provenaient de l'échantillon des 75 organisations sélectionnées par la Commission,
+alors que 5 provenaient de l'échantillon des 8 clients de Microsoft auxquels des demandes «Article 11»
+ont été envoyées le 16 avril 2003.
+
+FR FR
+
+9. Parallèlement, 46 demandes de renseignements ont été envoyées, le 16 avril 2003, à
+des sociétés opérant dans des secteurs concernés par les problèmes liés à l'intégration
+de Windows Media Player à Windows (propriétaires de contenus, fournisseurs de
+contenus, éditeurs de logiciels et associations sectorielles)19. La Commission a reçu
+33 réponses à ces demandes de renseignements.
+
+10. Compte tenu des résultats de l'enquête de marché de 2003 et de leurs liens avec les
+griefs déjà émis par la Commission, une communication des griefs complémentaire
+(«la communication des griefs complémentaire») a été envoyée le 6 août 2003. Bien
+que la communication des griefs complémentaire n'ait pas été destinée à couvrir des
+pratiques abusives différentes de celles figurant dans les deux premières
+communications des griefs, la Commission a, lorsqu'elle l'a jugé nécessaire, affiné et
+consolidé les considérations juridiques déjà développées. Microsoft y a répondu le
+17 octobre 2003 et a communiqué des documents complémentaires le 31 octobre
+2003. Ces documents comprenaient les résultats de deux sondages réalisés par
+Mercer Management Consulting20 («Mercer») à la demande de Microsoft (ainsi
+qu'une analyse de ces résultats par Mercer). En décembre 2001, Microsoft avait déjà
+communiqué les résultats et l'analyse d'un premier sondage que Mercer avait réalisé à
+la suite de la deuxième communication des griefs. Les trois sondages réalisés par
+Mercer seront désignés sous les noms de Sondage I, Sondage II et Sondage III21.
+
+11. Tout au long de la procédure, un grand nombre de sociétés, y compris des
+concurrents majeurs de Microsoft, ainsi que les associations sectorielles, a obtenu la
+qualité de parties tierces intéressées. Il s'agit notamment de l'Association for
+Competitive Technology («ACT»), de Time Warner Inc. («Time Warner »)
+(précédemment AOL Time Warner), de la Computer & Communications Industry
+Association («la CCIA»), de la Computing Technology Industry Association
+(«CompTIA»), de la Free Software Foundation Europe («FSF Europe»), de Lotus
+Corporation («Lotus»), de Novell Inc. («Novell»), de RealNetworks, Inc.
+(«RealNet
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ions d'USD (marge bénéficiaire de 41 %). Pour le système d'exploitation
+Windows pour PC client (segment «Client»), Microsoft a réalisé un profit de 8 400 millions d'USD
+pour un chiffre d'affaires de 10 394 millions d'USD (marge bénéficiaire de 81 %).
+
+FR FR
+
+1078. Par conséquent, le montant de l'amende à infliger au regard de la gravité de
+l'infraction doit être majoré de 50 % afin de tenir compte de sa durée. Le montant de
+l'amende s'élève donc à 497 196 304 euros.
+
+6.2.2. Circonstances aggravantes et circonstances atténuantes
+
+1079. Il n'y a aucune circonstance aggravante ou atténuante à prendre en considération pour
+la présente décision.
+
+6.2.3. Conclusion
+
+1080. Compte tenu de ce qui précède, le montant final de l'amende à infliger à Microsoft
+est de 497 196 304 euros.
+
+FR FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION :
+
+Article premier
+
+Aux fins de l'application de la présente décision, on entend par:
+
+1) «Informations relatives à l'interopérabilité», les spécifications exhaustives et
+correctes de tous les protocoles implémentés dans les systèmes d'exploitation
+Windows pour serveurs de groupe de travail et qui sont utilisés par les serveurs de
+groupe de travail Windows pour fournir aux réseaux Windows pour groupe de
+travail des services de partage des fichiers et d'imprimantes, et de gestion des
+utilisateurs et des groupes, y compris les services de contrôleur de domaine
+Windows, le service d'annuaire Active Directory et le service «Group Policy»;
+
+2) «Protocole», un ensemble de règles d'interconnexion et d'interaction entre différents
+systèmes d'exploitation Windows pour serveurs de groupe de travail et systèmes
+d'exploitation Windows pour PC clients installées sur différents ordinateurs dans un
+réseau Windows pour groupe de travail;
+
+3) «Dans les meilleurs délais», pour la divulgation de spécifications de protocoles, leur
+divulgation dès que Microsoft Corporation a développé une implémentation stable de
+ces spécifications; à titre d’exemple, pour les protocoles implémentés dans un
+«service Pack» ou dans une nouvelle version d’un produit donné, «meilleurs délais»
+signifie dès que ce «service Pack» ou cette nouvelle version sont mis à la disposition
+de développeurs n'appartenant pas à Microsoft Corporation, en vue de la réalisation
+de tests bêta;
+
+4) «PC client Windows», un PC connecté à un réseau et sur lequel est installé un
+système d'exploitation Windows pour PC clients;
+
+5) «Système d'exploitation Windows pour PC client», les produits logiciels vendus par
+Microsoft Corporation sous le nom Windows 98, Windows 98 Second Edition,
+Windows Millenium edition, Windows NT Workstation 4.0, Windows 2000
+Professional, Windows XP Home et Windows XP Professional, ainsi que leurs mises
+à jour (y compris, sans limitation, les corrections liées à la sécurité), leurs mises à
+niveau et les versions suivantes, ainsi que les mises à jour et mises à niveau de ces
+versions suivantes;
+
+6) «Windows Media Player», le code logiciel que Microsoft Corporation inclut
+actuellement sous le nom WMP dans son produit Windows XP Embedded (et qui
+comprend donc les composants qui supportent les codecs Windows Media, les
+formats de fichier Windows Media, ainsi que les composants WMRM et l’interface
+utilisateur de WMP); pour les versions futures du système d’exploitation Windows
+pour PC client, le terme «Windows Media Player» couvrira ces derniers composants;
+
+7) «Réseau Windows pour groupe de travail», tout groupe de PC clients Windows et de
+serveurs de groupe de travail Windows connectés entre eux via un réseau
+informatique;
+
+FR 297 FR
+
+8) «Serveur de groupe de travail Windows», un ordinateur connecté à un réseau et sur
+lequel est installé un système d'exploitation Windows pour serveur de groupe de
+travail;
+
+9) «Système d'exploitation Windows pour serveur de groupe de travail», les produits
+logiciels vendus par Microsoft Corporation sous le nom de Windows NT Server 4.0,
+Windows 2000 Server et Windows Server 2003, Standard Edition, ainsi que leurs
+mises à jour (y compris, sans limitation, les corrections liées à la sécurité), leurs
+mises à niveau et les versions suivantes, ainsi que les mises à jour et mises à niveau
+de ces versions suivantes.
+
+Article 2
+
+Microsoft Corporation a enfreint l'article 82 du traité et l'article 54 de l'accord EEE en :
+
+a) refusant de fournir les Informations relatives à l'interopérabilité et d'en autoriser
+l'usage pour le développement et la distribution de produits concurrents aux siens sur
+le marché des systèmes d'exploitation pour serveurs de groupe de travail, d'octobre
+1998 à la date de notification de la présente décision;
+
+b) subordonnant la fourniture du Système d'exploitation Windows pour PC clients à
+l'acquisition simultanée de Window Media Player, de mai 1999 à la date de
+notification de la présente décision.
+
+Article 3
+
+Compte tenu des infractions mentionnées à l'article 2, une amende de 497 196 304 euros est
+infligée à Microsoft Corporation.
+
+Le montant de l'amende est payable en euros, dans un délai de 3 mois à compter de la
+notification de la présente décision, sur le compte bancaire n°001-3953713-69 (Code SWIFT
+GEBABEBB - Code IBAN BE71 0013 9537 1369) ouvert au nom de la Commission
+européenne auprès de FORTIS Bank, Rue Montagne du Parc 3, 1000 Bruxelles.
+
+Une fois ce délai expiré, des intérêts seront automatiquement dus, au taux d'intérêt appliqué
+par la Banque centrale européenne à ses principales opérations de refinancement le premier
+jour ouvrable du mois au cours duquel la présente décision aura été adoptée, avec une
+majoration de 3,5 points de pourcentage, c'est-à-dire 5,50 %.
+
+Article 4
+
+Microsoft Corporation met fin aux infractions mentionnées à l'article 2 conformément aux
+dispositions des articles 5 et 6.
+
+Microsoft Corporation s'abstient de tout comportement qui pourrait avoir un objet ou un effet
+identique ou similaire à celui des infractions mentionnées à l'article 2 de la présente décision.
+
+FR 298 FR
+
+Article 5
+
+En ce qui concerne l'abus mentionné à l'article 2, point a):
+
+a) Microsoft Corporation divulguera, dans un délai de 120 jours à compter de la
+notification de la présente décision, les Informations relatives à l'interopérabilité à
+toute entreprise souhaitant développer et distribuer des systèmes d'exploitation pour
+serveurs de groupe de travail, et elle autorisera, à des conditions raisonnables et non
+discriminatoires, ces entreprises à utiliser les Informations relatives à l'interopérabilité
+pour développer et distribuer des systèmes d'exploitation pour serveurs de groupe de
+travail;
+
+b) Microsoft Corporation fait en sorte que les Informations relatives à l'interopérabilité
+divulguées soient mises à jour dès que nécessaire et Dans les meilleurs délais;
+
+c) Microsoft Corporation mettra en place, dans un délai de 120 jours à compter de la
+notification de la présente décision, un mécanisme d’évaluation qui permettra aux
+entreprises intéressées de s’informer de façon efficace sur l’étendue et les conditions
+d’utilisation des Informations relatives à l'interopérabilité; Microsoft Corporation
+peut imposer des conditions raisonnables et non discriminatoires pour garantir que
+l’accès donné dans ce cadre aux Informations relatives à l'interopérabilité ne soit
+utilisé qu’à des fins d’évaluation;
+
+d) Microsoft Corporation communiquera à la Commission, dans un délai de 60 jours à
+compter de la notification de la présente décision, toutes les mesures qu’elle entend
+prendre pour se conformer aux points a), b) et c) ci-dessus; à cette occasion, Microsoft
+Corporation doit communiquer à la Commission suffisamment de détails pour que
+celle-ci soit en mesure de réaliser une première évaluation des mesures mentionnées
+ci-dessus, afin de déterminer si elles respectent effectivement la présente décision;
+Microsoft Corporation indiquera notamment en détail les conditions auxquelles elle
+autorisera l’utilisation des Informations relatives à l'interopérabilité;
+
+e) Microsoft Corporation communiquera à la Commission, dans un délai de 120 jours à
+dater de la notification de la présente décision, toutes les mesures qu'elle aura prises
+pour se conformer aux points a), b) et c) ci-dessus.
+
+Article 6
+
+En ce qui concerne l'abus mentionné à l'article 2, point b),
+
+a) Microsoft Corporation offrira, dans un délai de 90 jours à compter de la notification de
+la présente décision, une version totalement fonctionnelle de son Système
+d’exploitation Windows pour PC clients ne comprenant pas Windows Media Player.
+Microsoft Corporation conserve le droit de proposer son Système d’exploitation
+Windows pour PC clients couplé avec Windows Media Player;
+
+b) Microsoft Corporation communiquera à la Commission, dans un délai de 90 jours à
+compter de la notification de la présente décision, toutes les mesures qu'elle aura
+prises pour se conformer au point a) ci-dessus.
+
+FR 299 FR
+
+Article 7
+
+Dans un délai de 30 jours à compter de la notification de la présente décision, Microsoft
+Corporation présentera à la Commission une proposition portant sur la mise en place d'un
+mécanisme destiné à aider la Commission à s'assurer que Microsoft Corporation se conforme
+à la présente décision. Ce mécanisme comprendra un mandataire indépendant de Microsoft
+Corporation.
+
+Au cas où la Commission estimerait que le mécanisme proposé par Microsoft Corporation
+n'est pas adéquat, elle serait habilitée à imposer un tel mécanisme par voie de décision.
+
+Article 8
+
+La Commission peut, si elle le juge nécessaire et sur demande raisonnée introduite dans des
+délais suffisants par Microsoft Corporation, accorder une prorogation des délais mentionnés
+aux articles 5 et 6 de la présente décision.
+
+Article 9
+
+La société Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, United States
+of America, est destinataire de la présente décision.
+
+La présente décision forme titre exécutoire conformément à l'article 256 du traité CE et à
+l'article 110 de l'accord EEE.
+
+Fait à Bruxelles, le 24 mars 2004
+
+Par la Commission,
+Mario MONTI
+Membre de la Commission
+
+FR 300 FR

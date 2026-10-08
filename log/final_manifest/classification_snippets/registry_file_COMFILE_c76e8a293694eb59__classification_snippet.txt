@@ -1,0 +1,236 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XC0913(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XC0913(01)
+Help
+Print
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39984 — OPCOM/Romanian Power exchange) (notified under document C(2014) 1342 final)
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39984 — OPCOM/Romanian Power exchange) (notified under document C(2014) 1342 final)
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (Case AT.39984 — OPCOM/Romanian Power exchange) (notified under document C(2014) 1342 final)
+OJ C 314, 13.9.2014, pp. 7–9
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+13.9.2014
+EN
+Official Journal of the European Union
+C 314/7
+Summary of Commission Decision
+of 5 March 2014
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union
+(Case AT.39984 — OPCOM/Romanian Power exchange)
+(notified under document C(2014) 1342 final)
+(Only the Romanian text is authentic)
+2014/C 314/07
+On 5 March 2014 the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The decision relates to a single and continuous infringement of Article 102 of the Treaty in the form of discrimination on grounds of nationality/place of establishment exercised against companies wishing to trade on the Romanian short-term electricity markets. The decision is addressed to S.C. OPCOM SA (‘OPCOM’) and to its parent company C.N.T.E.E. Transelectrica SA (‘Transelectrica’).
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(2)
+On 6 December 2012 the Commission decided to initiate proceedings within the meaning of Article 2(1) of Commission Regulation (EC) No 773/2004 and Article 11(6) of Council Regulation (EC) No 1/2003 in the present case (‘Regulation (EC) No 773/2004’ and ‘Regulation (EC) No 1/2003’ respectively).
+(3)
+During the investigation, the Commission sent several requests for information (‘RFIs’) pursuant to Article 18 of Regulation (EC) No 1/2003 to OPCOM, to parties that could offer substitutable services (i.e. brokers), as well as to market participants that either purchased or were interested in purchasing electricity with delivery within Romania.
+(4)
+On 29 May 2013, the Commission notified a Statement of Objections (‘SO’) to OPCOM and its parent company Transelectrica. The Commission took the preliminary view that OPCOM held a dominant position on the market for services facilitating electricity trading at wholesale level in Romania and was abusing its dominant position by imposing discriminatory requirements on EU traders for participation on its Day-Ahead and Intraday markets. OPCOM and Transelectrica submitted their replies to the SO on 5 August 2013 and 7 August 2013, respectively.
+(5)
+In accordance with Article 27(1) of Regulation (EC) No 1/2003, Transelectrica and OPCOM requested to be heard on the matters to which the Commission had taken objection. An Oral Hearing took place on 19 September 2013.
+(6)
+On 28 November 2013, the Commission sent a letter to the parties setting out additional elements of fact relating to the Commission’s existing objections which the Commission indicated it might use in a potential final decision (‘letter of facts’). Transelectrica and OPCOM submitted their written replies to this letter of facts on 13 December 2013 and 6 January 2014, respectively.
+(7)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 24 February 2014.
+2.2.
+The relevant market
+(8)
+OPCOM operates the Romanian power exchange which is an organised market facilitating the trading of electricity for delivery in Romania.
+(9)
+On the basis of the analysis of demand and supply substitutability and competitive constraints in this case, the Commission has considered the relevant product market to be the market for services facilitating short-term (‘spot’) electricity trading (Day-Ahead and Intraday markets).
+(10)
+The relevant geographic market was defined as Romania.
+2.3.
+Dominance
+(11)
+Operating a power exchange in Romania requires a licence and such a licence had been granted during the relevant period to only one company, OPCOM.
+(12)
+OPCOM offers services which facilitate short-term electricity trading in Romania. Similar services were until July 2012 also offered by brokers which mediate the sale of electricity between seller and buyer. However, brokers were only active to a very limited extent. Since July 2012 national law requires that electricity delivered in Romania can only be traded on the power exchange. Since that date, OPCOM has a legal monopoly as the only provider of electricity trading facilitation services in Romania.
+2.4.
+Summary of the infringement
+(13)
+The Decision finds that OPCOM has abused its dominant position on the market for services facilitating short-term electricity trading in Romania from 30 June 2008 until at least 16 September 2013 by discriminating against companies active in wholesale electricity trading on the basis of their nationality/place of establishment.
+(14)
+In particular, in its standard agreements with traders OPCOM required EU traders to obtain a Romanian VAT registration in order for them to be admitted to the spot markets on the power exchange even though EU traders already have a VAT registration in their own country. EU traders therefore needed two VAT registrations to be active on OPCOM’s trading platform while Romanian traders only needed one VAT registration. The VAT registration requirement for EU traders did not result from Romanian legislation but was introduced by OPCOM’s standard agreements. Under EU and Romanian legislation, electricity traders with a VAT registration in one EU Member State should be able to be active in any other EU Member State without the need to obtain an additional VAT registration.
+(15)
+EU traders can obtain a Romanian VAT registration but this involves significant additional costs for them. It also undermines the efficiencies linked with the business model often used by traders of centralising trading activities across markets in one location. Further, it has the likely effect of preventing some traders from entering the Romanian electricity wholesale market.
+2.5.
+Lack of objective justifications and efficiencies
+(16)
+OPCOM argued that the VAT registration requirement was justified because, without it, OPCOM would have had to finance a cash flow mismatch in VAT payments resulting from transactions with EU traders.
+(17)
+A potential temporary cash flow mismatch would arise with respect to transactions involving EU traders who are not liable to pay VAT in Romania, where OPCOM would be required to finance VAT on transactions involving Romanian vendors and EU purchasers, pending reimbursement of the outstanding VAT by the Romanian tax authorities. This mismatch arises because in the context of its central counterparty function OPCOM buys electricity from sellers and sells electricity to buyers on the spot market.
+(18)
+The Decision addresses OPCOM’s arguments and explains that placing the financial burden resulting from any VAT mismatch on EU traders was a measure that was neither proportionate nor necessary, and could not be justified. Other means were available which is, inter alia, illustrated by the fact that other power exchanges in Europe face a similar situation regarding VAT payments in international transactions. None of them has chosen to solve this problem via a VAT registration requirement for EU traders.
+2.6.
+Conclusion
+(19)
+OPCOM’s requirement according to which EU traders wishing to participate on the Day-Ahead Market and the Intraday Market in Romania must obtain a Romanian VAT registration constitutes discrimination on grounds of nationality/place of establishment. It was capable of having restrictive effects, i.e. of excluding EU traders or making it more difficult for them to participate on the Romanian electricity spot markets. OPCOM thereby abused its dominance on the market for services facilitating short-term electricity trading in Romania and violated Article 102 TFEU.
+2.7.
+Fine calculation
+(20)
+The fine has been calculated in line with the 2006 Guidelines on Fines. The fine was calculated on the basis of the value of sales by OPCOM on the spot market relating to the last full year of the infringement (i.e. 2012).
+(21)
+In fixing the amount of the fine, the Commission took into consideration the gravity and the duration of the infringement. The Commission had regard to the fact that the abuse was a clear-cut discrimination based on nationality/place of establishment and that OPCOM held very high market shares, which were continuously above 99 % and amounted to 100 % since July 2012 when OPCOM was granted a legal monopoly. The Commission took into account that the infringement lasted from 30 June 2008 (for the Day-Ahead Market) and from 14 July 2011 (for the Intraday Market) until 16 September 2013.
+(22)
+No mitigating or aggravating circumstances were identified in this case.
+(23)
+The decision imposed the fine jointly and severally on OPCOM and its 100 % parent company Transelectrica.
+3.
+OPERATIVE PART OF THE DECISION
+(24)
+The decision establishes that the VAT registration requirement constituted a single and continuous infringement of Article 102 of the Treaty on the Functioning of the European Union from 30 June 2008 until at least 16 September 2013 in the form of discrimination.
+(25)
+A fine of EUR 1 031 000 has been imposed jointly and severally on OPCOM and its 100 % parent company Transelectrica.
+(26)
+Transelectrica and OPCOM are ordered to immediately bring to an end the infringement in so far as they have not already done so. Transelectrica and OPCOM must also refrain from repeating any act or conduct having the same or equivalent object or effect.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+Top

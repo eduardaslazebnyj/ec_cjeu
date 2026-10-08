@@ -1,0 +1,193 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# CASE COMP/AT.39745 - CDS INFORMATION MARKET COMMITMENTS OF THE INTERNATIONAL SWAPS AND DERIVATIVES ASSOCIATION, INC.
+
+1. In accordance with Article 9 of Council Regulation (EC) No 1/2003 (“Article 9”), The International Swaps and Derivatives Association, Inc. (“ISDA”) offers the following commitments (the “Commitments”) to address the preliminary competition concerns the European Commission identified in its Statement of Objections dated 1 July 2013 (the “SO”) in case COMP/AT.39745 – CDS Information Market and to enable the Commission to adopt a decision confirming that the Commitments address its concerns (the “Commitments Decision”).
+
+2. For the avoidance of doubt, ISDA offers these Commitments without admitting any infringement or liability and nothing in these Commitments may be construed as implying that ISDA agrees with the concerns expressed in the SO. ISDA's submission does not constitute an admission by ISDA as to whether there has been an infringement of Article 101 of the Treaty on the Functioning of the European Union, Article 53 of the Agreement on the European Economic Area, or the laws of any other country or jurisdiction.
+
+3. Consistent with Article 9, ISDA offers these Commitments on the basis that the Commission issues a Commitments Decision closing the proceedings the Commission initiated against ISDA on 20 April 2011 and holding there are no grounds for further proceedings against ISDA arising from the facts relating to case COMP/AT.39745 or the SO.
+
+4. These Commitments are without prejudice to ISDA's position should the Commission or any other party commence any other legal proceedings or action against ISDA.
+
+## I. DEFINITIONS
+
+5. For the purposes of these Commitments, the terms listed below shall have the following meaning:
+
+“Applicant” means any legal entity that requests, requires, or receives a Final Price Trading Licence. Applicant also means a parent directly or indirectly controlling such a legal entity, or any other legal entity directly or indirectly controlled by such a parent.
+
+“Auction” means each separate auction administered by the Auction Administrators and pursuant to the terms of the Auction Methodology, as amended and supplemented from time to time, which are conducted or developed in respect of the settlement of credit derivatives. The “Auction” is also commonly referred to as ISDA’s “Credit Event Auction.”
+
+“Auction Administrators” means Creditex Group Inc. and Markit Group Limited, along with their successors and assigns, in their capacity as administrators of the Auction.
+
+“Auction Final Price” means the price, if any, determined to be the Auction Final Price pursuant to the Credit Derivatives Auction Settlement Terms (expressed as a percentage, in increments equal to the Relevant Pricing Increment, of the outstanding principal balance, rather than the face amount, of Deliverable Obligations).
+
+“Auction Methodology” means the methodology, described in any Credit Derivatives Auction Settlement Terms or other Standard Auction Documentation, for determining a settlement price for the credit derivative transactions to be settled pursuant to such Credit Derivatives Auction Settlement Terms or other Standard Auction Documentation.
+
+“Business Day” means any day other than a Saturday, Sunday or any day on which banks in the City of London, United Kingdom, or New York City, United States, are authorized or required to close.
+
+“CLOB” means central limit order book.
+
+“Commission” or “the Commission” means the services of the European Commission’s Directorate General for Competition.
+
+"Credit Derivatives Auction Settlement Terms" has the meaning given to such term in the 2003 ISDA Credit Derivatives Definitions, as amended and supplemented from time to time.
+
+“Deliverable Obligations” means each of the obligations set out on the Final List published by ISDA on its website with respect to the Credit Derivatives Auction Settlement Terms.
+
+"Effective Date" means the date upon which ISDA receives formal notification of the Commitments Decision.
+
+“Exchange Trading” means all-to-all trading on a trading venue as referred to in Articles 2(1)(32) and 28 of Regulation (EU) No 600/2014 on markets in financial instruments, i.e., on a regulated market, a multilateral trading facility or an organised trading facility or on a third-country market considered to be equivalent to a regulated market, including anonymous all-to-all trading on a CLOB basis.
+
+"Final List" means the final list of Deliverable Obligations published by ISDA on its website with respect to the Credit Derivatives Auction Settlement Terms.
+
+"Final Price" for any Auction means the "Auction Final Price" as determined pursuant to the Auction Settlement Terms for that Auction. As of the date of these Commitments, the Final Price is published by ISDA on www.creditfixings.com for each Auction.
+
+"Imminent Default" means the occurrence of any of the following events:
+
+(i) an Applicant passes a resolution for its winding up or a court of competent jurisdiction makes an order for an Applicant's winding up or dissolution, (ii) the making of an administration order in relation to an Applicant or the appointment of a receiver over, or an encumbrancer taking possession of or selling, an asset of an Applicant, or
+
+(iii) an Applicant making an arrangement or composition with its creditors generally or making an application to a court of competent jurisdiction for protection from its creditors generally.
+
+“Independent Expert” means an individual with sufficient knowledge to advise ISDA on matters related to the Auction and possible market manipulation risks. Individuals are ineligible to serve as an Independent Expert if they:
+
+(i) have been employed by, or provided consultancy services to, ISDA or any CDS dealer in the three years prior to his or her proposed appointment or have provided evidence in any antitrust proceeding related to CDS; or
+
+(ii) are employed by, or provide consultancy services to, a firm (y) that has been engaged by ISDA or any CDS dealer in the three years prior to such expert's proposed appointment or (z) during such time that such firm was engaged to provide evidence in any antitrust proceeding relating to CDS.
+
+An Independent Expert shall not in the course of fulfilling his or her responsibilities as such expert consult with anyone who has developed evidence in any antitrust proceeding relating to CDS nor access nor review any evidence developed for any antitrust proceeding relating to CDS.
+
+"Injunctive Relief" means a ruling of any legal court or tribunal that does or would prevent a party from using the Final Price.
+
+“Material Breach” means the breach, by an Applicant, of any provisions of a Final Price Trading Licence agreement involving or relating to (i) the indemnification of ISDA, the Auction Administrators or participating bidders in accordance with paragraph 12(ii) of the Commitments, (ii) transfers of the Final Price Trading Licence, (iii) use of the Final Price Trading Licence for a purpose other than as set forth in the Final Price Trading Licence agreement, or (iv) the failure to pay all fees due to ISDA in full in accordance with the terms and conditions of any Final Price Trading Licence agreement.
+
+"Relevant Pricing Increment" means one-eighth of one percent.
+
+“Standard Auction Documentation” means any documentation published by ISDA (including, but not limited to, any auction settlement terms relating to loan credit default swaps) that contains provisions setting forth the mechanism for determining a settlement price for the specified credit derivatives transactions pursuant to an ISDA-sponsored auction, as amended and supplemented from time to time.
+
+“2003 ISDA Credit Derivatives Definitions” means the credit derivatives definitions published by ISDA as further amended and supplemented from time to time.
+
+## II. REQUIRED CONDUCT
+
+## A. Purpose of the Commitments
+
+6. ISDA commits to license all of its rights in the Final Price on a nonexclusive and nontransferable basis for the purpose of Exchange Trading of credit derivatives and for clearing and/or settling of Exchange Traded credit derivatives in conjunction with Exchange Trading of credit derivatives (the “Final Price Trading Licence”), upon request by an Applicant on fair, reasonable and non-discriminatory (“FRAND”) terms in accordance with the process and criteria set forth in paragraphs 12-16 of these Commitments.
+
+7. ISDA is relieved from its obligations under these Commitments, and may, in particular, file a claim against any Applicant for Injunctive Relief before any court or tribunal for infringement of ISDA's rights in the Final Price, without so doing constituting a breach of these Commitments, if:
+
+(i) the Applicant fails to agree or comply with the provisions of a Final Price Trading Licence,
+
+(ii) the Applicant is facing Imminent Default and fails to provide guarantees for the payment of its licensing fees,
+
+(iii) a Final Price Trading Licence is terminated under the circumstances provided for in paragraph 17.
+
+8. Nothing herein shall:
+
+(i) prevent or restrict ISDA from enforcing any Final Price Trading Licence agreement,
+
+(ii) prevent or restrict ISDA from pursuing claims (including damages for infringement), defences or relief in relation to intellectual property with respect to a Final Price Trading Licence.
+
+## B. Delegation of Licensing Authority over Final Price Trading Licences
+
+9. As soon as practicable following the issuance of the Commitments Decision and, in any event, no later than four weeks after the Effective Date, ISDA and its Board of Directors shall:
+
+(i) disband the Licensing Sub-Committee of the Credit Steering Committee,
+
+(ii) delegate full authority to ISDA's Chief Executive Officer to grant a Final Price Trading Licence in accordance with the terms of these Commitments. Under this delegation, ISDA's Chief Executive Officer shall have full authority to confirm that any existing or prospective Final Price Trading Licence has and will satisfy the conditions set forth in paragraph 12, including without limitation the authority to request evidence of and receive contractual guarantees with respect to compliance with the terms of the conditions set forth in paragraph 12, and in carrying out ISDA's duties under paragraph 12, (iii) require ISDA's Chief Executive Officer, in carrying out ISDA's duties under paragraph 12, not to consult CDS dealers on individual licensing requests for the Final Price.
+
+10. ISDA Chief Executive Officer's rejection of, or failure to grant, a Final Price Trading Licence to the Applicant on or before the expiration of the period specified in paragraph 12 shall be subject to the dispute resolution mechanism set forth in Sections III or IV, as the case may be.
+
+1. For the avoidance of doubt, nothing in these Commitments shall prevent ISDA from:
+
+(i) consulting its members on purely technical issues relating to the Final Price Auction methodology, provided that such consultation shall neither directly nor indirectly relate to the merits of individual licensing requests. ISDA's Chief Executive Officer may seek technical advice from an Independent Expert where ISDA's Chief Executive Officer needs such technical advice to grant a Final Price Trading Licence pursuant to paragraph 6 in the event the Applicant's Final Price Trading Licence request requires, at ISDA's discretion, changes to the process and/or the organisation of the credit event Auction; the Independent Expert shall not involve CDS dealers; or
+
+(ii) allowing an Applicant, upon the Applicant's sole discretion, to pursue a Final Price Trading Licence in accordance with the procedures approved by the U.S. District Court for the Southern District of New York in finally approving the Stipulation and Agreement of Settlement with International Swaps and Derivatives Association, dated as of September 30, 2015, and filed in In re Credit Default Swaps Antitrust Litig., Case No. 13-MD-2476 (DLC).
+
+## C. Procedure for Granting Final Price Trading Licences
+
+12. ISDA shall grant a Final Price Trading Licence to all Applicants on FRAND terms and conditions no later than 120 calendar days from receiving a written request for a Final Price Trading Licence addressed to ISDA's Chief Executive Officer from such Applicants provided that the Applicant agrees to indemnify, hold harmless and otherwise reasonably protect ISDA, the Auction Administrators and participating bidders (excluding those participating bidders who manipulate or otherwise compromise the Final Price or the Auction) against claims (including defence costs) arising from the Applicant's use of the Final Price, including, but not limited to, claims that the Final Price or the Auction was manipulated or otherwise compromised. This indemnity shall not extend to an indemnite whose gross negligence, willful misconduct or fraudulent misrepresentation resulted in any such claims.
+
+13. Notwithstanding anything to the contrary in these Commitments, a Final Price Trading Licence may be subject to the condition that an Applicant cooperates in good faith with ISDA, or one of the Auction Administrators, in exploring generally whether it is desirable to amend the Auction rules or take any other related measures to protect or enhance the integrity of the Auction having specific regard to the conduct of exchange participants during an Auction. Final Price Trading Licences may also require Applicants to cooperate in good faith by providing on an anonymised and aggregated basis certain trading information which ISDA or an Auction Administrator may reasonably need to anticipate the risk of strategic bidding in an upcoming Auction.
+
+14. ISDA shall notify the Monitoring Trustee, and keep the Monitoring Trustee informed, of any request for a Final Price Trading Licence (including on the identity of the Applicant the scope of the licensing request) and the progress of negotiations for such Licence in accordance with paragraph 34 of the Commitments.
+
+15. In the event of a disagreement between ISDA and the Applicant on the determination of FRAND terms and conditions under paragraph 12, such disagreement shall be subject to a third-party arbitration procedure as described in Section III. In the event of a disagreement between ISDA and the Applicant on any terms or conditions other than the determination of FRAND terms and conditions under paragraph 12, the resolution of such disputes shall be subject to the Monitoring Trustee as described in Section IV.
+
+16. Any Final Price Trading Licence granted through these procedures shall be governed by the laws of either England and Wales or the State of New York, as chosen by the Applicant, or any other legal regime as agreed between ISDA and the Applicant, without regard to conflict of laws principles.
+
+17. Any Final Price Trading Licence granted through these procedures shall terminate:
+
+(i) upon 30 Business Days' notice in the event the Applicant commits a Material Brea
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+DA may select pursuant to subparagraph 11(i) is independent of ISDA and that CDS dealers do not influence the Independent Expert(s).
+
+## 33. The Monitoring Trustee shall not:
+
+(i) have any involvement in the determination of the FRAND terms and conditions of the Final Price Trading Licence or in the FRAND Dispute Resolution Proceeding in so far as it is subject to arbitration,
+
+(ii) participate in commercial licensing negotiations of ISDA, except as set forth in paragraph 35,
+
+(iii) have access to ISDA's books, records, documents, management or other personnel, facilities, sites or internal documents except the report provided by ISDA pursuant to paragraph 34 and any Final Price Trading Licence entered into between ISDA and an Applicant,
+
+(iv) have any decision-making powers or powers of investigation of the kind vested in the Commission pursuant to Council Regulation (EC) No 1/2003,
+
+(v) disclose any confidential information to anyone other than the Commission. Any confidential information obtained by the Monitoring Trustee in performance of the duties and obligations specified in these Commitments shall be kept in the strictest confidence and shall be used solely for the purpose of performing the duties and obligations specified in these Commitments. The Monitoring Trustee shall ensure that adequate safeguards are established and adhered to in taking delivery of, tracking the dissemination of, monitoring the use of, protecting against the disclosure of and determining the safe disposal of confidential information. These safeguards must be effective to protect the confidential information, but shall not be such as to prevent the Monitoring Trustee from effectively fulfilling their duties and obligations specified in these Commitments. The Monitoring Trustee shall not make any public statements relating to the performance of their functions in relation with these Commitments. The Monitoring Trustee shall sign confidentiality undertakings warranting their knowledge of and compliance with their duties and obligations specified in these Commitments. The Monitoring Trustee shall abide by the obligations of non-disclosure imposed in Article 8(2) of Council Regulation (EC) No 1/2003 with regard to any information acquired in their performance or from the Commission, even after the term of their mandate.
+
+## Duties and Obligations of ISDA
+
+34. During the term of these Commitments, ISDA shall provide to the Monitoring Trustee an annual report detailing its compliance with the Commitments during the preceding year. Such report shall be provided to the Monitoring Trustee within 20 Business Days of each anniversary of the Effective Date. The content of the report shall comprise:
+
+(i) the identity of the Applicants which sought a Final Price Trading Licence under these Commitments and when such negotiations were initiated and whether such negotiations are on-going, completed or terminated,
+
+(ii) the status of such negotiations, including the terms agreed upon following negotiations, or established as a result of the FRAND Dispute Resolution
+
+Proceeding or MT Dispute Resolution Proceeding, if other negotiations have terminated, the reasons for such termination, and if any Final Price Trading Licence terminated as a result of the MT Licence Termination Proceeding, or
+
+(iii) whether the parties agreed an alternative procedure pursuant to paragraph 11 of the Commitments and, if so, a description of the alternative procedure.
+
+## The Monitoring Trustee Dispute Resolution
+
+3. Other than with respect to the determination of FRAND terms and conditions, if ISDA fails to grant a Final Price Trading Licence to an Applicant within 120 calendar days from the date ISDA receives a written request for a Final Price Trading Licence addressed to ISDA's Chief Executive Officer, ISDA shall, within 15 Business Days from such date, either grant the Final Price Trading Licence on the terms last proposed by the Applicant or submit the matter to the Monitoring Trustee for resolution (a "MT Dispute Resolution Proceeding Proceeding"). The parties may mutually agree to extend this negotiation period of 120 calendar days by up to an additional 30 calendar days.
+
+36. When initiating a MT Dispute Resolution Proceeding, ISDA shall submit to the Monitoring Trustee its views in writing. The Applicant shall then have 15 Business Days to respond in writing to ISDA's submission should it decide to do so. Following this period, the Monitoring Trustee will have 15 Business Days to issue a decision.
+
+37. In any MT Dispute Resolution Proceeding, ISDA shall bear the burden of proof. The Monitoring Trustee's decision shall be binding upon ISDA and upon the Applicant but without prejudice to the Commission's own assessment of ISDA's refusal.
+
+38. ISDA and the Applicant shall each bear their own respective costs in any such MT Dispute Resolution Proceeding. The costs of the Monitoring Trustee shall be borne by ISDA. Any MT Dispute Resolution Proceeding shall be conducted in English.
+
+## The Monitoring Trustee Licence Termination Proceeding
+
+3. In the event that ISDA demonstrates that an exchange or an exchange participant manipulates the Auction by use, or means, of specific features of the licensed exchange-traded product (i.e., the manipulation was not due to general Auction manipulation risks which also exist in relation to OTC traded contracts), ISDA may submit to the Monitoring Trustee a request in writing to terminate the Final Price Trading Licence within 30 Business Days of having notified the Applicant and the Applicant having failed to address ISDA's manipulation concerns (the "MT Licence Termination Proceeding"). ISDA shall explain why there is a causal link between the Auction manipulation and the specific features of the exchange-traded product subject to the Final Price Trading Licence granted to the Applicant.
+
+40. The Applicant shall then have 30 Business Days to respond in writing to ISDA's submission should it decide to do so, including potential proposals to amend the Auction rules and/or modify the features of the exchange-traded product. Following this period, the Monitoring Trustee will have 30 Business Days to issue a decision as to whether there is a causal link between the Auction manipulation and the Final Price Trading Licence granted to the Applicant within the meaning of paragraph 39. The
+
+Trustee shall also assess whether measures other than the termination of a Final Price Trading Licence as proposed by the Applicant (such as an amendment of the Auction rules, to the extent that such amendment would have no negative impact on the settling of over-the-counter credit derivatives, and/or proposals to modify the features of the exchange-traded product) are appropriate to address Auction manipulation risks. If after hearing ISDA, the Auction Administrators and the Applicant, the Monitoring Trustee finds that causality is proven and the Applicant is unable to demonstrate that measures other than terminating a Final Price Trading Licence are appropriate to protect the Auction, the Monitoring Trustee shall allow ISDA to terminate the Final Price Trading Licence with immediate effect.
+
+4. In the event that ISDA terminates a Final Price Trading Licence pursuant to paragraph 40, ISDA shall not prevent the Applicant to settle pending exchange-traded credit derivative contracts following a credit event by reference to a price which the Applicant may establish by means of its own auction. The Applicant's own auction may be designed for the purpose of this paragraph 41 based on rules and/or methodologies similar to the rules and/or methodologies used by ISDA in ISDA's Final Price Auction. For the avoidance of doubt, ISDA shall bear no responsibility for claims arising from the Applicant's use of its own auction in the event that the Applicant establishes its own auction pursuant to this paragraph 41.
+
+42. The Monitoring Trustee's decision pursuant to paragraph 40 shall be binding upon ISDA and upon the Applicant but without prejudice to the Commission's own assessment of ISDA's refusal.
+
+43. ISDA and the Applicant shall each bear their own respective costs in any such MT Licence Termination Proceeding. The costs of the Monitoring Trustee shall be borne by ISDA. Any MT Licence Termination Proceeding shall be conducted in English.
+
+44. For the avoidance of doubt, nothing in these Commitments shall prevent ISDA from informing, and cooperating with, the financial regulator supervising the Applicant in the event an exchange participant manipulates the Auction. If a financial regulator starts an investigation into the manipulation of an Auction, the Monitoring Trustee may stay the proceedings until the financial regulator has adopted a decision. The Monitoring Trustee shall then consider the findings of the financial regulator when reaching a possible decision according to paragraph 40.
+
+## V. DURATION OF THE COMMITMENTS
+
+45. The Commitments shall be valid for a period of ten years following the Effective Date.
+
+## VI. REVIEW CLAUSE
+
+46. Pursuant to Article 9, ISDA may request the Commission to reopen the proceedings with a view to modifying the Commitments where there has been a material change in any of the facts on which the Commitments Decision is based.
+
+## VII. ENTRY INTO FORCE
+
+47. The Commitments shall enter into force upon the notification to ISDA of the decision pursuant to Article 9 by which the Commission declares the Commitments binding on ISDA and closes the proceedings opened on 20 April 2011 in case COMP/AT.39745 – CDS Information Market.
+
+## VIII. FINAL PROVISIONS
+
+48. ISDA shall publish a non-confidential version of the Commitments as well as information on the identity and contact details of the Monitoring Trustee in a clearly visible place on ISDA's website.
+
+![](images/08af19b770d89bff22f8d91bb95fa593d70ab7d3016dde13352f7bbcc39c517e.jpg)
+
+(duly authorized for and on behalf of The International Swaps and Derivatives Association, Inc.)

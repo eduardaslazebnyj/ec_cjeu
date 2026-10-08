@@ -1,0 +1,393 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39437 – TV and computer
+monitor tubes
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 05/12/2012
+
+This is a provisional non-confidential version. The definitive nonconfidential version will be published as soon as it is available.
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...] or [confidentiality claim pending].
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 7
+2. The industry subject to the proceedings ....................................................................... 7
+2.1. The product .................................................................................................................. 7
+2.2. The market players ....................................................................................................... 8
+2.2.1. Undertakings subject to these proceedings .................................................................. 8
+2.2.1.1. Chunghwa Picture Tubes Co., Ltd. .............................................................................. 8
+2.2.1.2. Samsung SDI Co., Ltd. ................................................................................................ 9
+2.2.1.3. Koninklijke Philips Electronics N.V. ......................................................................... 10
+2.2.1.4. LG Electronics, Inc. ................................................................................................... 12
+2.2.1.5. [Philips/LGE joint venture]. ....................................................................................... 13
+2.2.1.6. Thomson S.A./Technicolor S.A. ................................................................................ 16
+2.2.1.7. Matsushita Electric Industrial Co., Ltd./Panasonic Corporation ................................ 17
+2.2.1.8. Toshiba Corporation ................................................................................................... 18
+2.2.1.9. Matsushita Toshiba Picture Display Co. Ltd./ MT Picture Display Co., Ltd ............ 19
+2.2.1.10.Other suppliers of CRT .............................................................................................. 20
+2.3. Description of the market ........................................................................................... 20
+2.3.1. The supply .................................................................................................................. 20
+2.3.2. The demand ................................................................................................................ 21
+2.3.3. Inter-state trade........................................................................................................... 21
+3. Procedure.................................................................................................................... 22
+3.1. The Commission's investigation ................................................................................ 22
+4. Description on the events ........................................................................................... 24
+4.1. CDT cartel .................................................................................................................. 24
+4.1.1. Basic principles .......................................................................................................... 24
+4.1.2. Organisation ............................................................................................................... 25
+4.2. CPT cartel................................................................................................................... 27
+4.2.1. Basic principles .......................................................................................................... 27
+4.2.2. Organisation ............................................................................................................... 27
+4.3. The chronology of cartel events and evidence relating to specific meetings ............. 30
+4.3.1. Initial years of the collusion ....................................................................................... 30
+4.3.2. CDT cartel .................................................................................................................. 32
+4.3.2.1. Period from 1996 to 1999 .......................................................................................... 32
+4.3.2.2. Period from 2000 to 2003 .......................................................................................... 47
+4.3.2.3. Period from 2004 to March 2006 ............................................................................... 58
+
+EN 2 EN
+
+4.3.3. CPT cartel................................................................................................................... 65
+4.3.3.1. Early years – from 1997 to 1999 ................................................................................ 65
+4.3.3.2. Middle period – from 2000 to 2003 ........................................................................... 86
+4.3.3.3. Last phase – from 2004 to 2006 ............................................................................... 120
+4.3.4. Assessment of parties' arguments on facts ............................................................... 135
+4.3.4.1. Product scope of the CDT and CPT cartels ............................................................. 135
+4.3.4.2. Geographic scope of the CPT cartel ......................................................................... 138
+4.3.4.3. MTPD continuing the participation of Toshiba and Panasonic ............................... 158
+4.3.4.4. Technicolor's participation in an overarching CPT cartel ........................................ 160
+4.3.4.5. Role of bilateral contacts in the participation of the Japanese companies in the CPT
+cartel and parties' arguments on corporate statements ............................................. 162
+4.3.4.6. Information exchange in the CPT cartel via contacts reported by Thomson ........... 167
+4.3.4.7. Meetings relating to [confidentiality claim pending] ............................................... 169
+4.3.4.8. Economic arguments on geographic and product scope of the CPT cartel and on an
+EU anti-dumping case .............................................................................................. 171
+5. Application of Article 101 of the Treaty and Article 53 of the EEA Agreement .... 176
+5.1. The Treaty and EEA Agreement .............................................................................. 176
+5.1.1. Relationship between the Treaty and the EEA Agreement ...................................... 176
+5.1.2. Jurisdiction ............................................................................................................... 176
+5.1.2.1. Principles and application to this case ..................................................................... 176
+5.1.2.2. Assessment of parties' arguments ............................................................................ 177
+5.2. Application of the relevant competition rules .......................................................... 180
+5.2.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................. 180
+5.2.2. The nature of the infringement ................................................................................. 181
+5.2.2.1. Agreements and concerted practices ........................................................................ 181
+5.2.2.2. Single and continuous infringement ......................................................................... 189
+5.2.3. Restriction of competition ........................................................................................ 202
+5.2.3.1. Restriction of competition in this case ..................................................................... 202
+5.2.3.2. Assessment of parties' arguments ............................................................................ 205
+5.2.4. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement ................................................................................................................ 206
+5.2.5. Effect upon trade between Member States and between EEA Contracting Parties . 206
+5.2.5.1. Principles .................................................................................................................. 206
+5.2.5.2. Application to this case ............................................................................................ 207
+6. Addressees................................................................................................................ 209
+6.1. General principles .................................................................................................... 209
+
+EN 3 EN
+
+6.2. Application to this case ............................................................................................ 213
+6.2.1. Chunghwa ................................................................................................................ 213
+6.2.2. Samsung ................................................................................................................... 216
+6.2.3. Philips ....................................................................................................................... 219
+6.2.4. LG Electronics ......................................................................................................... 225
+6.2.5. [Philips/LGE joint venture] ...................................................................................... 229
+6.2.5.1. The Commission's findings ...................................................................................... 229
+6.2.5.2. Assessment and conclusion on Philips' and LGE's arguments ................................ 240
+6.2.6. Thomson/Technicolor .............................................................................................. 263
+6.2.7. Matsushita/Panasonic ............................................................................................... 263
+6.2.8. Toshiba ..................................................................................................................... 264
+6.2.9. MTPD ....................................................................................................................... 265
+6.2.9.1. The Commission's findings ...................................................................................... 265
+6.2.9.2. Assessment and conclusion on Panasonic's and Toshiba's arguments ..................... 269
+6.3. Conclusion................................................................................................................ 279
+7. Duration of the infringement .................................................................................... 281
+7.1. Starting and end dates .............................................................................................. 281
+7.1.1. CDT cartel ................................................................................................................ 281
+7.1.2. CPT cartel................................................................................................................. 282
+8. Remedies .................................................................................................................. 286
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................. 286
+8.2. Article 23(2) of Regulation (EC) No 1/2003 ........................................................... 286
+8.3. Article 25 of Regulation (EC) No 1/2003 ................................................................ 287
+8.4. Calculation of the fines ............................................................................................ 288
+8.4.1. Methodology for setting the fine amount ................................................................. 288
+8.4.2. Determination of the value of sales .......................................................................... 288
+8.4.2.1. Products concerned .................................................................................................. 288
+8.4.2.2. Sales related to the infringement .............................................................................. 290
+8.4.2.3. Identifying the value of Direct EEA Sales and Direct EEA Sales Through
+Transformed Products by place of delivery ............................................................. 296
+8.4.2.4. Relevant year ............................................................................................................ 297
+8.4.2.5. Calculation of the value of sales of the joint ventures ............................................. 299
+8.4.3. Determination of the basic amount of the fine ......................................................... 304
+8.4.4. Gravity...................................................................................................................... 304
+8.4.4.1. Nature ....................................................................................................................... 304
+8.4.4.2. Combined market share ............................................................................................ 305
+
+EN 4 EN
+
+8.4.4.3. Geographic scope ..................................................................................................... 305
+8.4.4.4. Implementation ........................................................................................................ 305
+8.4.4.5. Assessment of parties' arguments ............................................................................ 305
+8.4.4.6. Conclusion on gravity .............................................................................................. 307
+8.4.5. Duration.................................................................................................................... 307
+8.4.6. The percentage to be applied for the additional amount .......................................... 308
+8.4.7. Calculation and conclusion on basic amounts ......................................................... 309
+8.5. Adjustments to the basic amounts of the fine .......................................................... 310
+8.5.1. Aggravating circumstances .........................................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+
+2078 Joined Cases T-236/01, T-239/01, T-244/01 to T-246/01, T-251/01 and T-252/01 Tokai Carbon,
+paragraph 372 and Case T-64/02 Heubach, paragraph 163.
+2079 [...]
+2080 The unemployment rate in August 2012 was estimated by Eurostat at 10.6% for France (up from 9.6%
+in September 2011), 8% for the United Kingdom (in June 2012, 8.3% in September 2011), 7.4% for
+Belgium (7.3% in September 2011), 5.5% for Germany (5.8% in September 2011), 10.7% for Italy (up
+from 8.8% in September 2011), 5.3% for the Netherlands (up from 4.5% in September 2011), 10.1% for
+
+EN 335 EN
+
+(1182) On the basis of the evidence described in this Section and in order to avoid the
+imposition of a fine which is very likely to seriously jeopardise the economic
+viability of [party to the proceedings], the final amount of the fine imposed on
+[party to the proceedings] should be reduced to EUR [...] in application of point
+35 of the 2006 Guidelines on fines.
+8.8. Conclusion: final amount of individual fines
+(1183) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003
+should therefore be as follows:
+
+Table 12a): CDT cartel - Final amount of the fines per undertaking (after inability to pay claims)
+
+Fine (EUR) Addressees
+1. EUR 0 Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes
+(Malaysia) Sdn. Bhd. and CPTF Optronics Co., Ltd. jointly and
+severally
+2. EUR 69 418 000 Samsung SDI Co., Ltd. and Samsung SDI (Malaysia) Berhad
+jointly and severally
+3. EUR 73 185 000 Koninklijke Philips Electronics N.V., for the period prior to the
+joint venture
+4. EUR 86 943 000 LG Electronics, Inc., for the period prior to the joint venture
+5. EUR 69 048 000 Koninklijke Philips Electronics N.V. and LG Electronics, Inc.
+jointly and severally for the period of the joint venture
+6. EUR 29 593 000 LG Electronics, Inc., for the period of the joint venture2081
+
+Table 12b): CPT cartel - Final amount of the fines per undertaking (after inability to pay claims)
+
+Fine (EUR) Addressees
+1. EUR 0 Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes
+(Malaysia) Sdn. Bhd. and CPTF Optronics Co., Ltd. jointly and
+severally
+2. EUR 81 424 000 Samsung SDI Co., Ltd, Samsung SDI Germany GmbH, and
+Samsung SDI (Malaysia) Berhad jointly and severally
+3. EUR 240 171 000 Koninklijke Philips Electronics N.V., for the period prior to the
+joint venture
+4. EUR 40 678 000 LG Electronics, Inc., for the period prior to the joint venture
+5. EUR 322 892 000 Koninklijke Philips Electronics N.V. and LG Electronics, Inc.
+jointly and severally for the period of the joint venture
+6. EUR 138 383 000 LG Electronics, Inc., for the period of the joint venture2082
+7. EUR 38 631 000 Technicolor S.A.
+8. EUR 157 478 000 Panasonic Corporation, for the period prior to the joint venture
+9. EUR 28 048 000 Toshiba Corporation, for the period prior to the joint venture
+
+Poland (9.8% in September 2011) and 25.1% for Spain (up from 22.5% in September 2011).
+(http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=teilm020&tableSelectio
+n=1&plugin=1)
+2081 This amount corresponds to the leniency reduction granted to Philips. However, as this reduction should
+benefit only Philips, LGE is held solely liable for the difference between the total fine for the joint
+venture period and the amount reduced following the leniency reduction to Philips.
+2082 This amount corresponds to the leniency reduction granted to Philips. However, as this reduction should
+benefit only Philips, LGE is held solely liable for the difference between the total fine for the joint
+venture period and the amount reduced following the leniency reduction to Philips.
+
+EN 336 EN
+
+10. EUR 86 738 000 Panasonic Corporation, Toshiba Corporation and MT Picture
+Display Co., Ltd jointly and severally for the period of the joint
+venture
+11. EUR 7 885 000 Panasonic Corporation and MT Picture Display Co., Ltd jointly
+and severally for the the period of the joint venture2083
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+1. The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+complex of agreements and concerted practices in the sector of colour display tubes used
+in computer monitors:
+(a) Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes (Malaysia) Sdn.
+Bhd., CPTF Optronics Co., Ltd., from 24 October 1996 until 14 March 2006;
+(b) Samsung SDI Co., Ltd., Samsung SDI (Malaysia) Berhad, from 23 November
+1996 until 14 March 2006;
+(c) Koninklijke Philips Electronics N.V., from 28 January 1997 until 30 January
+2006;
+(d) LG Electronics, Inc., from 24 October 1996 until 30 January 2006.
+2. The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+complex of agreements and concerted practices in the sector of colour picture tubes used
+for colour televisions:
+(a) Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes (Malaysia) Sdn.
+Bhd., CPTF Optronics Co., Ltd., from 3 December 1997 until 6 December
+2005;
+(b) Samsung SDI Co., Ltd., Samsung SDI (Malaysia) Berhad, Samsung SDI
+Germany GmbH, from 3 December 1997 until 15 November 2006;
+(c) Panasonic Corporation, from 15 July 1999 until 12 June 2006;
+(d) Toshiba Corporation, from 16 May 2000 until 12 June 2006;
+(e) MT Picture Display Co., Ltd., from 1 April 2003 until 12 June 2006;
+(f) Koninklijke Philips Electronics N.V., from 21 September 1999 until 30
+January 2006;
+(g) LG Electronics, Inc., from 3 December 1997 until 30 January 2006;
+(h) Technicolor S.A., from 25 March 1999 until 19 September 2005.
+
+Article 2
+1. For the infringement referred to in Article 1.1, the following fines are imposed:
+
+2083 For the amount reflecting the difference between the higher deterrence multiplier imposed to them and
+the deterrence mulilplier imposed to Toshiba Corporation.
+
+EN 337 EN
+
+(i) Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes (Malaysia) Sdn.
+Bhd., CPTF Optronics Co., Ltd., jointly and severally liable: EUR 0
+(j) Samsung SDI Co., Ltd., Samsung SDI (Malaysia) Berhad, jointly and severally
+liable: EUR 69 418 000
+(k) Koninklijke Philips Electronics N.V.: EUR 73 185 000
+(l) LG Electronics, Inc.: EUR 116 536 000
+(m) Koninklijke Philips Electronics N.V. and LG Electronics, Inc. jointly and
+severally liable: EUR 69 048 000
+2. For the infringement referred to in Article 1.2, the following fines are imposed:
+(n) Chunghwa Picture Tubes Co., Ltd., Chunghwa Picture Tubes (Malaysia) Sdn.
+Bhd., CPTF Optronics Co., Ltd., jointly and severally liable: EUR 0
+(o) Samsung SDI Co., Ltd., Samsung SDI (Malaysia) Berhad, Samsung SDI
+Germany GmbH, jointly and severally liable: EUR 81 424 000
+(p) Koninklijke Philips Electronics N.V.: EUR 240 171 000
+(q) LG Electronics, Inc.: EUR 179 061 000
+(r) Koninklijke Philips Electronics N.V. and LG Electronics, Inc. jointly and
+severally liable: EUR 322 892 000
+(s) Panasonic Corporation: EUR 157 478 000
+(t) Toshiba Corporation: EUR 28 048 000
+(u) Panasonic Corporation, Toshiba Corporation and MT Picture Display Co., Ltd.,
+jointly and severally liable: EUR 86 738 000
+(v) Panasonic Corporation and MT Picture Display Co., Ltd., jointly and severally
+liable: EUR 7 885 000
+(w) Technicolor S.A.: EUR 38 631 000
+The fines shall be paid in euro within three months of the date of notification of this Decision to
+the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / COMP/39437
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date by either providing an acceptable bank guarantee or making a provisional
+
+EN 338 EN
+
+payment of the fine in accordance with Article 85a(1) of Commission Regulation (EC, Euratom)
+No 2342/2002.2084
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred
+to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to:
+Chunghwa Picture Tubes Co., Ltd.
+1127 Heping Road, Bade City
+Taoyuan, Taiwan 33409
+
+Chunghwa Picture Tubes (Malaysia) Sdn. Bhd.
+Lot 824, 8th floor, Kompleks Sun,
+Jalan Bukit Bintang, Kuala Lumpur,
+Wilayah Persekutuan 55100 , Malaysia
+
+CPTF Optronics Co., Ltd.
+No. 1 Xing Ye Road, Mawei Hi-Tech Development Zone
+Fuzhou, Fujian, 350015, China
+
+Samsung SDI Co., Ltd.
+428-5 Gongse-dong, Giheung-gu,
+Yongin-si, Gyeonggi-do, Korea 446-577
+
+Samsung SDI Germany GmbH
+Ostendstrasse 1-14,
+12459 Berlin, Germany
+
+Samsung SDI (Malaysia) Berhad
+Lot 635 & 660
+Kawasan Perindustrian
+Tuanku Jaafar, 71450 Sungai Gadut
+Negeri Sembilan Darul Khusus, Malaysia
+
+Koninklijke Philips Electronics N.V.
+Breitner Center HBT 17.04,
+Amstelplein 2
+1096 BC Amsterdam, The Netherlands
+
+LG Electronics, Inc.
+LG Twin Towers
+128 Yeoui-daero,
+
+2084 OJ L 357, 31.12.2002, p. 1.
+
+EN 339 EN
+
+Yeongdeungpo-gu
+Seoul 150-721, Republic of Korea
+
+Technicolor S.A.
+Rue Jeanne d’Arc, 1-5
+92130 Issy-les-Moulineaux, France
+
+Panasonic Corporation
+1006 Kadoma, Kadoma City
+Osaka 571-8501, Japan
+
+Toshiba Corporation
+1-1 Shibaura 1 - Chome
+Mintao-Ku
+Tokyo 105-8001, Japan
+
+MT Picture Display Co., Ltd.
+1-15 Matsuo-cho, Kadoma City
+Osaka 571-8504, Japan
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 5.12.2012
+
+For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+EN 340 EN

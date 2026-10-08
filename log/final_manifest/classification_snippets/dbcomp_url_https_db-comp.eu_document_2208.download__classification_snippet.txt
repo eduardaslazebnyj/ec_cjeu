@@ -1,0 +1,392 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40608 - Broadcom
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 7/10/2020
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 7.10.2020
+C(2020) 6765 final
+
+COMMISSION DECISION
+
+of 7.10.2020
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Case AT.40608 – Broadcom
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 4
+2. The Parties .................................................................................................................... 4
+3. Procedural Steps under Regulation No 1/2003 ............................................................ 5
+4. Preliminary assessment in the interim measures Decision and the Statement of
+Objections .................................................................................................................... 6
+4.1. Relevant markets .......................................................................................................... 6
+4.1.1. Principles ...................................................................................................................... 6
+4.1.2. Relevant products ......................................................................................................... 7
+4.1.3. Market dynamics, customers and application .............................................................. 8
+4.1.4. Relevant product market .............................................................................................. 8
+4.1.5. Geographic market definition .................................................................................... 10
+4.2. Dominant position ...................................................................................................... 10
+4.2.1. Principles .................................................................................................................... 10
+4.2.2. Application to the case ............................................................................................... 11
+4.3. Practices raising concerns .......................................................................................... 12
+4.3.1. Principles .................................................................................................................... 12
+4.3.2. Exclusivity-inducing provisions................................................................................. 14
+4.3.2.1. Exclusivity and quasi-exclusivity arrangements ........................................................ 14
+4.3.2.2. Leveraging restrictions ............................................................................................... 15
+4.3.3. Capability to affect competition ................................................................................. 15
+4.3.4. Absence of objective justification or efficiencies ...................................................... 17
+4.4. Effect on trade between Member States ..................................................................... 17
+4.4.1. Principles .................................................................................................................... 17
+4.4.2. Application to the case ............................................................................................... 17
+5. Initial Commitments................................................................................................... 18
+6. Commission Notice pursuant to Article 27(4) ........................................................... 19
+6.1. Summary of the main comments from third parties during the Market Test ............. 20
+6.1.1. Definitions .................................................................................................................. 20
+6.1.2. Product and geographic scope of the commitments ................................................... 20
+6.1.3. Purchase thresholds in the commitments ................................................................... 20
+6.1.4. Duration of the commitments..................................................................................... 21
+6.1.5. Effectiveness of the commitments ............................................................................. 21
+6.1.6. Monitoring of Broadcom’s compliance with the commitments and reporting
+obligations .................................................................................................................. 21
+6.1.7. Circumvention and retaliation .................................................................................... 22
+
+EN 1 EN
+
+6.1.8. Additional comments ................................................................................................. 23
+6.2. The Commission’s assessment of the Initial Commitments in light of the comments
+from third parties during the Market Test .................................................................. 23
+7. The revision of the Initial Commitments in the light of the Market Test .................. 24
+8. Proportionality of the Final Commitments ................................................................ 25
+8.1. Principles .................................................................................................................... 25
+8.2. Application to the case ............................................................................................... 26
+8.2.1. Adequacy of the Final Commitments to address the concerns raised in the
+preliminary assessment .............................................................................................. 26
+8.2.2. Interests of third parties .............................................................................................. 27
+8.2.2.1. Definitions .................................................................................................................. 28
+8.2.2.2. Product and geographic scope of the commitments ................................................... 28
+8.2.2.3. Purchase thresholds in the commitments ................................................................... 28
+8.2.2.4. Duration of the commitments..................................................................................... 29
+8.2.2.5. Effectiveness of the commitments ............................................................................. 29
+8.2.2.6. Monitoring of Broadcom’s compliance with the commitments and reporting
+obligations .................................................................................................................. 30
+8.2.2.7. Circumvention and retaliation .................................................................................... 30
+8.2.2.8. Additional comments ................................................................................................. 31
+9. Conclusion.................................................................................................................. 32
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 7.10.2020
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Case AT.40608 – Broadcom
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,1 in
+particular Article 9(1) thereof,
+Having regard to the Commission decision of 26 June 2019 to initiate proceedings in this case,
+Having expressed concerns in the interim measures Statement of Objections of 26 June 2019 and
+the interim measures Decision of 16 October 2019,2
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union ("the
+Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and 82,
+respectively, of the EC Treaty when where appropriate. The Treaty also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". Where the meaning remains unchanged, the terminology of the Treaty will be used throughout
+this Decision.
+2 Commission Decision of 16 October 2019, C(2019)7416.
+
+EN 3 EN
+
+1. SUBJECT MATTER
+(1) The present Decision is addressed to Broadcom Inc. (“Broadcom”).
+(2) In its Decision of 16 October 2019 pursuant to Article 8 of Council Regulation (EC) No
+1/2003 imposing interim measures on Broadcom (“interim measures Decision”), the
+Commission came to the prima facie conclusion that Broadcom had entered into certain
+agreements with Original Equipment Manufacturers (“OEMs”) that contained
+exclusivity-inducing provisions. The interim measures Decision concluded that the
+agreements had prima facie the object or effect of forcing or inducing the OEMs in
+question to obtain all or almost all of their requirements for Systems-on-a-Chip
+(“SoCs”) for Set Top Boxes (“STBs”) and SoCs for cable, fibre and xDSL residential
+gateways from Broadcom. The agreements did so, in particular, by means of (quasi-)
+exclusivity arrangements or leveraging restrictions. In the interim measures Decision,
+the Commission considered that such practices prima facie infringed Article 102 of the
+Treaty on the Functioning of the European Union (“the Treaty”) and Article 54 of the
+EEA Agreement.3
+(3) In addition, the Statement of Objections (“SO”) addressed to Broadcom on 26 June
+2019, which outlined the Commission’s preliminary conclusions as regards the need to
+impose interim measures pursuant to Article 8 of Regulation (EC) No 1/2003, also
+raised concerns as to the compatibility with Article 102 of the Treaty of leveraging
+restrictions into the markets for WiFi chipsets and Front-end chips.4
+(4) Together, the interim measures Decision and section 8.5.2.1. C) of the Statement of
+Objections concerning leveraging restrictions from the markets for STB SoCs, SoCs for
+xDSL residential gateways and SoCs for fibre residential gateways into the markets for
+WiFi chipsets and Front End chips constitute the scope of the concerns expressed by the
+Commission to Broadcom in its preliminary assessment, within the meaning of Article
+9(1) of Regulation (EC) No 1/2003.
+(5) While Broadcom disagrees with the conclusions reached by the Commission in its
+preliminary assessment,5 it has nevertheless offered commitments under Article 9(1) of
+Regulation (EC) No 1/2003 to meet the Commission’s concerns. The present Decision
+makes those commitments binding on Broadcom Inc.
+
+3 Unless otherwise stated, references in this Decision to Article 102 of the Treaty also refer to Article 54 of
+the EEA Agreement.
+4 See section 8.5.2.1. C) of the SO in this regard. The possible leveraging of Broadcom’s market power from
+cable residential gateway SoCs into Front End chipsets and Wi-Fi chipsets are outside the scope of this
+Decision, insofar as the Commission has not retained in the interim measures Decision the finding of
+Broadcom being prima facie dominant in the market for cable residential gateway SoCs.
+5 On 23 December 2019, Broadcom instituted proceedings before the General Court requesting the
+annulment of the interim measures Decision (Case T-876/19).
+
+EN 4 EN
+
+2. THE PARTIES
+(6) Broadcom Inc. is the ultimate parent company of a group of companies active in the
+semiconductor and software solutions space, that is headquartered in San Jose,
+California, United States. Broadcom has design, product and software development
+engineering resources in the United States, Asia and Europe.
+(7) Broadcom has three main business divisions: semiconductor solutions, infrastructure
+software and IP licensing. Broadcom’s products are used in end products such as
+enterprise and data centre networking, home connectivity, STBs, broadband access
+devices (i.e. residential gateways), telecommunication equipment, smartphones and base
+stations, data centre servers and storage systems, factory automation, power generation
+and alternative energy systems, and electronic displays.
+(8) Broadcom is the world’s largest designer, developer and provider of integrated circuits
+for wired communication applications and the worldwide leader in SoC solutions for
+STBs for video delivery. The substantial majority of Broadcom’s semiconductor sales is
+accounted for by sales to OEMs, or their contract manufacturers and distributors.
+
+3. PROCEDURAL STEPS UNDER REGULATION NO 1/2003
+(9) On 26 June 2019, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003. On the same day, the
+Commission adopted an SO addressed to Broadcom outlining the Commission’s
+preliminary conclusions as regards the need to impose interim measures pursuant to
+Article 8 of Regulation (EC) No 1/2003 relating to specific aspects of Broadcom’s
+behaviour that was the subject of the Commission’s investigation.
+(10) On 16 October 2019, the Commission adopted the interim measures Decision, which set
+out its conclusions as regards the existence of a prima facie infringement of Article 102
+of the Treaty and the need to impose interim measures due to the risk of serious and
+irreparable harm brought about by Broadcom’s conduct.
+(11) On 1 April 2020, Broadcom submitted initial commitments (“the Initial Commitments”)
+to the Commission in response to the concerns related to (quasi-) exclusivity
+arrangements and leveraging restrictions that were outlined in the SO and the interim
+measures Decision.
+(12) On 30 April 2020, the Commission published a notice in the Official Journal of the
+European Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising
+the case and the Initial Commitmen
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+cts; and
+(2) requiring EEA service providers – or incentivising them through non-price
+advantages or retroactive price advantages – to concurrently source together
+with a Broadcom Relevant Product other Broadcom Relevant Products
+and/or Broadcom Other Products.
+(137) In consideration of the above, the Commission is of the view that the Final
+Commitments provide for sufficient opportunities for Broadcom’s competitors to
+maintain and/or develop the economies of scale necessary for engaging in economically
+sustainable business activity in the markets at stake, without restricting Broadcom’s
+ability to compete on the merits. The Commission considers that the more stringent
+limitations in the EEA are also appropriate to ensure the effectiveness of the
+commitments, insofar as the industry is tender-based and demand may follow an
+irregular and “lumpy” trend. Finally, the more stringent limitations in the EEA also
+ensure that OEMs enjoy ample freedom in making their sourcing decisions.
+8.2.2.4. Duration of the commitments
+(138) For the reasons set out in recital (123) above, the Commission considers that the
+duration of the Final Commitments is adequate to address the concerns expressed by the
+Commission in its preliminary assessment and is consistent with the outcome of the
+Market Test. This time limitation does not go beyond what is needed to address the
+competition concerns.
+8.2.2.5. Effectiveness of the commitments
+(139) For the reasons set out in section 8.2.1, the Commission considers that the Final
+Commitments will be effective in addressing the concerns set out in the preliminary
+assessment.
+
+EN 29 EN
+
+(140) As regards the concern raised by one respondent to the Market Test that it would be
+unlikely that the Opt Out contemplated by the Initial Commitments will be used in
+practice by OEMs and that it is unlikely that service providers would explicitly request
+that OEMs bid both Broadcom and non-Broadcom Relevant Products, the Commission
+considers that concern to be unfounded. First, it should be noted that this concern was
+raised in the context of the Initial Commitments which included a 50% purchase
+threshold in the EEA. The Final Commitments remove this 50% threshold in the EEA,
+which means that Broadcom can only reward exclusivity on a tender-by-tender basis.
+Competitors, therefore, already have a far greater opportunity to compete for OEMs’
+requirements than they did under the Initial Commitments. Second, the Commission’s
+investigation found evidence that both OEMs and service providers are interested in
+sourcing non-Broadcom components for STBs and residential gateways and in
+purchasing STBs and residential gateways incorporating non-Broadcom components,
+respectively. In the EEA, the Final Commitments enable OEMs and service providers to
+bid or request non-Broadcom based solutions without the OEM or service provider
+losing the benefit of Price Advantages and/or Non-Price Advantages on other Broadcom
+Relevant Product(s) which the OEM Bids. Thirdly, in any event, the Commission will
+be in the position to monitor the concrete exercise of the Opt Out provision based on the
+specific reporting obligations provided for by the Final Commitments. Finally, as
+described in more detail in section 8.2.2.7 below, the non-circumvention clause
+included in the Final Commitments will prevent Broadcom from circumventing the
+commitments, including by discouraging OEMs to opt out.
+8.2.2.6. Monitoring of Broadcom’s compliance with the commitments and reporting obligations
+(141) The Commission considers that the reporting obligations set out in the Final
+Commitments are adequate to ensure effective monitoring of Broadcom’s compliance
+with the commitments and address the concerns raised by respondents to the Market
+Test.
+(142) The Final Commitments provide for detailed reporting obligations, pursuant to which
+Broadcom will provide the Commission with clearly defined information and
+documentation at specific points in time during the duration of the commitments. These
+reporting obligations, complemented by the Commission’s investigative powers set out
+in Chapter V of Regulation (EC) No 1/2003, ensure that any potential infringement of
+the commitments can be rapidly detected and thoroughly assessed. While the Final
+Commitments do not include provisions establishing a monitoring trustee, the
+Commission considers that, in this specific case, a monitoring mechanism based on the
+abovementioned reporting obligations will be sufficient to ensure compliance. This is
+because regular monitoring of the commitments will mainly be based on contractual
+compliance with the Final Commitments and the Commission is well placed to ensure
+such compliance.
+8.2.2.7. Circumvention and retaliation
+(143) The Commission considers that the Final Commitments contain a far-reaching noncircumvention clause which prohibits Broadcom from circumventing the Final
+Commitments in any way. The clause covers any circumventing conduct and thus also
+retaliatory behaviour that would allow Broadcom to bypass the commitments given,
+
+EN 30 EN
+
+without it being necessary to explicitly identify upfront specific forms of
+circumvention.53
+(144) The Commission also considers that the circumvention concerns raised by one
+respondent to the Market Test in relation to the definition of “Non-Price Advantages”
+are unfounded. This is because that definition covers any kind of advantages not directly
+linked to price, as long as such advantages are not offered indiscriminately to all
+relevant customers (e.g. in the form of certain features or performance characteristics
+which are intrinsic to a specific product) and are thus entirely unrelated to the
+fulfillment or not of conditions of any kind by those customers.
+(145) Moreover, a breach of the Final Commitments could lead to the application of a number
+of measures provided for in Regulation (EC) No 1/2003, namely reopening of the
+proceedings pursuant to Article 9(2), imposing a fine pursuant to Article 23(2)(c),
+and/or the imposition of periodic penalty payments pursuant to Article 24(1)(c).
+(146) Concerning specific circumvention concerns related to interoperability between
+Broadcom Products and non-Broadcom products, in contrast to the Initial
+Commitments, the Final Commitments contain a specific commitment pursuant to
+which Broadcom is prevented from changing standard-based interfaces used in Relevant
+Products in such a manner that would degrade interoperability between Broadcom
+Relevant Products and Other Products not made by Broadcom.54 The Commission
+considers that this provision is appropriate to prevent that the commitments are rendered
+ineffective by the deviation from a commonly recognised interoperability standard.
+8.2.2.8. Additional comments
+(147) With regard to concerns raised by respondents to the Market Test about potential
+changes in Broadcom’s business behavior in the future, the Commission considers that
+it would neither be warranted nor proportionate to reject the Final Commitments on the
+basis that they do not impose limits to Broadcom’s ability to define its commercial
+policy beyond the concerns identified in the preliminary assessment. The Commission
+notes, however, that the non-circumvention clause included in the Final Commitments
+prevents Broadcom from putting in place any practices which circumvent the
+commitments.
+(148) With regard to one respondent’s claim that Broadcom should be prevented from
+demanding from its customers additional fees for the subsequent integration in STBs of
+third party applications not included in the launch profile, the Commission considers
+that it would be unwarranted and disproportionate to reject the Final Commitments on
+this basis, as the respondent’s observations appear to be unrelated to the concerns
+expressed by the Commission in its preliminary assessment.
+
+53 [...]
+54 For the avoidance of doubt, Broadcom also remains subject to the general applicability of Article 102 of the
+Treaty with regard to conduct related to interoperability.
+
+EN 31 EN
+
+9. CONCLUSION
+(149) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes binding the commitments offered by the undertaking concerned to
+meet the Commission’s concerns expressed in its preliminary assessment. Recital 13 of
+the Preamble to Regulation (EC) No 1/2003 states that such a decision should not
+conclude whether or not there has been or still is an infringement.
+(150) The Commission’s assessment of whether the Final Commitments offered by Broadcom
+are sufficient to meet its concerns as set out in its preliminary assessment is based on the
+underlying investigation and analysis, and the observations received from third parties
+following the publication of a notice pursuant to Article 27(4) of Regulation (EC) No
+1/2003.
+(151) In the light of the Final Commitments, the Commission considers that there are no
+longer grounds for action on its part as regards the concerns as set out in the preliminary
+assessment and, without prejudice to Article 9(2) of Regulation (EC) No 1/2003, the
+proceedings with respect to those concerns should be brought to an end.
+(152) The Commission retains full discretion to investigate and open proceedings under
+Articles 101 and 102 of the Treaty and Articles 53 and 54 of the EEA Agreement as
+regards practices that are not the subject matter of this Decision.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The commitments as listed in the Annex shall be binding on Broadcom Inc.
+
+Article 2
+It is hereby concluded that there are no longer grounds for action in this case as regards the
+concerns as set out in the preliminary assessment.
+
+EN 32 EN
+
+Article 3
+
+This Decision shall apply for seven years from the date on which it is notified to Broadcom Inc.
+
+Article 4
+This Decision is addressed to:
+Broadcom Inc.
+1320 Ridder Park Drive
+San Jose, CA 95131
+United States of America
+
+Done at Brussels, 7.10.2020
+
+For the Commission
+
+Margrethe VESTAGER
+Executive Vice-President
+
+EN 33 EN

@@ -1,0 +1,487 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 21.4.2004
+C(2004)900 final
+
+COMMISSION DECISION
+
+of 24.03.2004
+
+relating to a proceeding under Article 82 of the EC Treaty
+(Case COMP/C-3/37.792 Microsoft)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+(Text with EEA relevance)
+
+EN EN
+
+COMMISSION DECISION
+
+of 24.03.2004
+
+relating to a proceeding under Article 82 of the EC Treaty
+(Case COMP/C-3/37.792 Microsoft)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation
+implementing Articles 85 and 86 of the Treaty1, and in particular Article 3 and Article 15(2)
+thereof,
+
+Having regard to the complaint lodged by Sun Microsystems, Inc. on 10 December 1998,
+alleging infringements of Article 82 of the Treaty by Microsoft and requesting the
+Commission to put an end to those infringements,
+
+Having regard to the Commission decision of 1 August 2000 to initiate proceedings in
+Case IV/C-3/37.345,
+
+Having regard to the Commission decision of 29 August 2001 to initiate proceedings in this
+case, and to join the findings in Case IV/C-3/37.345 to the procedure followed under this
+case,
+
+Having given the undertaking concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and
+Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in
+certain proceedings under Articles 85 and 86 of the EC Treaty2,
+
+Having regard to the final report of the hearing officer in this case,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+1 OJ 13, 21.2.1962, p. 204/62. Regulation as last amended by Regulation (EC) No 1216/1999 (OJ L148,
+15.6.1999, p.5).
+2 OJ L 354, 30.12.1998, p. 18.
+
+2
+
+Whereas:
+
+3
+
+1 PARTIES TO THE PROCEEDINGS
+
+1.1 Microsoft Corporation
+
+(1) Microsoft Corporation (“Microsoft”), a company based in Redmond, state of
+Washington, USA, manufactures, licenses and supports a wide variety of software3
+products for many computing devices.4 Its turnover for the fiscal year July 2002 to
+June 2003 was USD 32,187 million5 (EUR 30,701 million6) on which it earned net
+profits of USD 13,217 million7 (EUR 12,607 million). Microsoft employs 55,000
+people around the world. Microsoft Europe Middle East & Africa controls its
+activities in the European Economic Area (“EEA”) from Paris La Défense.
+Microsoft is present in all countries within the EEA.
+
+1.2 The complainant: Sun Microsystems, Inc.
+
+(2) Sun Microsystems Inc. (“Sun”), a company based in Palo Alto, California, USA,
+provides network computing infrastructure solutions that comprise computer systems
+(hardware and software), network storage systems (hardware and software), support
+services and professional and educational services.8 Its turnover for the fiscal year
+July 2002 to June 2003 was USD 11,434 million (EUR 10,906 million9) on which it
+suffered a net loss of USD 2,378 million10 (EUR 2,268 million). Sun employs some
+36,100 people around the world. Sun is present in all countries within the EEA.
+
+3 For a definition of computer terms such as software and hardware, PC, etc. see below at recitals (21) et
+seq.
+4 Microsoft’s Annual Report for US fiscal year ending June 2002, on page 1. See
+http://www.microsoft.com/msft/sec/FY02/10k2002.htm, printed on 24 January 2003.
+5 Microsoft’s Form 10-K Annual Report for the US fiscal year ending June 30, 2003, page 9. See
+http://www.sec.gov/Archives/edgar/data/789019/000119312503045632/d10k.htm, printed on 18
+November 2003.
+6 The exchange rate used for the year July 1, 2002-June 30, 2003 is EUR 1 = USD 1.0484. This is the
+average of the average quarterly exchange rates for the third and fourth quarters of 2002, and the first
+and second quarters of 2003 (0.9838, 0.9994, 1.0731, 1.1372). Source: Eurostat.
+7 Microsoft’s Annual Report for US fiscal year ending June 2002, on page 11.
+See http://www.microsoft.com/msft/sec/FY02/10k2002.htm, printed on 24 January 2003.
+8 Sun’s Form 10-K Annual Report for the US fiscal year ending June 30, 2003, on page 1.
+See http://www.sun.com/aboutsun/investor/annual_reports/sun_10k03.pdf, printed on 24 January 2003.
+9 The exchange rate used for the year July 1, 2002-June 30, 2003 is EUR 1 = USD 1.0484.
+See footnote 8.
+10 See Sun press release outlining annual results for US fiscal year ending June 2003,
+http://www.sun.com/smi/Press/sunflash/2003-07/sunflash.20030722.1.html, issued on 22 July 2003,
+printed on 18 November 2003.
+
+4
+
+2 CHRONOLOGY OF THE PROCEDURE AND BACKGROUND
+
+2.1 The procedure
+
+(3) On 10 December 1998, Sun made an application to the Commission pursuant to
+Article 3 of Regulation No 17 for the initiation of proceedings against Microsoft
+(“Sun’s Complaint”). Sun alleged that Microsoft enjoyed a dominant position as a
+supplier of a certain type of software product called operating systems for personal
+computers (“PC operating systems”). Sun further contended that Microsoft infringed
+Article 82 of the Treaty by reserving to itself information that certain software
+products for network computing, called work group server operating systems, need to
+interoperate fully with Microsoft’s PC operating systems. According to Sun, the
+withheld interoperability information is necessary to viably compete as a work group
+server operating system supplier.
+
+(4) The case opened pursuant to Sun’s complaint was registered as Case IV/C-3/37.345.
+After a first investigation of the complaint, the Commission, on 1 August 2000, sent
+a Statement of Objections (“the first Statement of Objections”) to Microsoft to give
+Microsoft opportunity to comment on its preliminary findings of facts and law. The
+Statement of Objections focussed on the interoperability issues that formed the basis
+of Sun’s complaint. Microsoft responded to the Statement of Objections on
+17 November 2000.11
+
+(5) In the interim (February 2000), the Commission had launched an investigation into
+Microsoft’s conduct on its own initiative, under Regulation No 17, which was
+registered as Case COMP/C-3/37.792. The investigation carried out under that case
+concerned more specifically Microsoft’s “Windows 2000” generation of PC and
+work group server operating systems and Microsoft’s incorporation of a software
+product called “Windows Media Player” into its PC operating system products. On
+30 August 2001, that investigation resulted in the sending of a second Statement of
+Objections (“the second Statement of Objections”) to Microsoft. The second
+Statement of Objections concerned issues of interoperability as well as the
+incorporation of Windows Media Player in Windows. The Commission, by virtue of
+the second Statement of Objections, joined the relevant findings set out in the first
+Statement of Objections to the procedure followed under Case COMP/C-3/37.792.12
+On 16 November 2001, Microsoft responded to the second Statement of Objections.
+
+11 This response, as was the case with Microsoft’s subsequent responses, included submissions by
+Microsoft’s economic consultant, NERA.
+12 For the documents initially collected under Case IV/C-3/37.345, the page numbering in the original file
+and the original case number have been indicated (although the relevant evidence has been joined to
+Case COMP/C-3/37.792).
+
+5
+
+(6) In its responses to both the first and second Statements of Objections, Microsoft
+submitted several statements from customers (enterprises and administrations) and
+system integrators (“Microsoft customer statements”), purportedly supporting its
+responses to the Commission’s objections concerning interoperability.13 Altogether,
+46 such Microsoft customer statements were submitted.14
+
+(7) In February and March 2002, the Commission sent a round of requests for
+information to those 46 customers, with a view to obtaining quantitative data on
+those customers’ use of products relevant to the Commission’s investigation.
+
+(8) From April to June 2003, the Commission engaged in a wider market enquiry (“the
+2003 market enquiry”). For interoperability, on the basis of an independent sample
+of organisations that use PC and work group server operating systems, a first set of
+requests for information was sent on 16 April 2003 to 75 companies, all based in the
+EEA.15 Those companies, which were selected at random, are from a number of
+different activity sectors16 and of different sizes. Some of the 71 companies which
+responded provided answers for their sub-entities/subsidiaries or for sister-companies
+in the same group, so the total number of responses was in fact over 100, covering
+more than 1.2 million client PCs (desktops and laptops).17 The replies to the
+questionnaire generated additional queries, and a follow-up questionnaire was
+therefore sent on 28 May 2003 and on 4 June 2003 to the 62 organisations that at
+those points in time had already responded to the requests for information of 16 April
+2003.18
+
+(9) In parallel, 46 requests for information were sent on 16 April 2003 to companies
+active in areas relevant to the issues raised by the incorporation of Windows Media
+
+13 The statements were drafted by Microsoft’s lawyers on the basis of notes taken during conversations
+with the customers’ IT managers and then sent to these IT managers for review and signature. See
+Microsoft's submission of 16 November 2001 at paragraph 37.
+14 34 such statements were submitted in Microsoft’s response to the Commission’s First Statement of
+Objections (submissions dated 17 November 2000 and 15 March 2001) and 13 additional customer
+statements in its response to the Commission’s Second Statement of Objections (submission dated 16
+November 2001). One of the organisations in question ([Confidential]) withdrew its statement in
+March 2001 (Case IV/C-3/37.345, on page 17614).
+15 The sample covers companies based in Austria (1 company), Belgium (4), Denmark (1), France (19),
+Germany (11), Italy (4), The Netherlands (4), Portugal (1), Spain (10), Sweden (4), United Kingdom
+(15). In addition, the very same questionnaires were sent to 8 of the 46 Microsoft customers. Those 8
+customers had provided incomplete answers to the Commission’s February-March 2002 pursuant to
+Article 11 of Regulation No 17 (“Article 11 requests”).
+16 Corresponding to 10 NACE codes at 2-digit.
+17 All the figures for the responses to this set of Article 11 requests are based on the 102 answers by
+entities that provided the number of client PCs that they use, and for which that number was above 100.
+A significant part of the entities requested in their replies that their identity is not disclosed to
+Microsoft. They have been identified through the number of the organisation and (if relevant) an
+additional number for the entity (for instance, Entity I1, Entity I2,... Entity I46-1, etc.).
+18 57 of the entities in question were from the Commission’s sample of 75 organisations, 5 were from the
+8 Microsoft customers to which the Article 11 requests of 16 April 2003 had been sent.
+
+6
+
+Player into Windows (content owners, content providers, software developers and
+associations of such companies).19 33 responses were received.
+
+(10) In the light of the findings of the market enquiry and how they related to the
+Commission’s existing objections, a supplementary Statement of Objections (“the
+supplementary Statement of Objections”) was issued on 6 August 2003. Although
+the supplementary Statement of Objections did not purport to cover abusive practices
+different from the ones set out in the first two Statements of Objections, where
+appropriate it refined and consolidated the legal considerations contained therein.
+Microsoft replied to the supplementary Statement of Objections on 17 October 2003
+and submitted supplementary material on 31 October 2003. These materials
+contained two surveys (and analysis of those surveys) carried out by Mercer
+Management Consulting20 (“Mercer”) on behalf of Microsoft. Microsoft had already
+in December 2001 submitted a first survey (with analysis) which Mercer had carried
+out following the second Statement of Objections. The three Mercer surveys will be
+referred to throughout this Decision as Mercer’s “Survey I”, “Survey II” and
+“Survey III”.21
+
+(11) Throughout the procedure, a significant number of companies, comprising major
+Microsoft competitors, as well as industrial associations, have been admitted as
+interested third parties. These are inter alia the Association for Competitive
+Technology (“ACT”), Time Warner Inc. (“Time Warner”, previously AOL Time
+Warner), the Computer & Communications Industry Association (“the CCIA”), the
+Computing Technology Industry Association (“CompTIA”), the Free Software
+Foundation Europe (“FSF Europe”), Lotus Corporation (“Lotus”), Novell Inc.
+(“Novell”), RealNetworks, Inc. (“RealNetworks”), and the Software & Information
+Industry Association (“the SIIA”). Microsoft has been asked to comment on certain
+submissions by these interested third parties and by the complainant Sun, and in
+particular on the comments that these third parties and the complainant made on
+Microsoft’s reply to the second Statement of Objections and on certain submissions
+that they made following the supplementary Statement of Objections.
+
+(12) At Microsoft’s request, an Oral Hearing took place on 12, 13 and 14 November
+2003. Microsoft was given an opportunity to submit material following the Hearing,
+and to comment on the issues raised by the Commission services, the complainant
+
+19 Based both in the EEA and the US.
+20 Mercer Management Consulting is part of the Mercer Consulting Group, of which NERA, Microsoft's
+economic counsel, is also a member. See the presentation at the home page of http://www.mercer.com/
+(printed on 8 January 2003) and Novell’s submission of 8 January 2003, at footnote 4. Both NERA and
+the Mercer Consulting Group specifically advertise their ability to call on each other’s resources (see
+Novell’s submission of 8 January 2003, at footnotes 8 and 9).
+21 This is in accordance with the way they are referred to by Mercer itself in its latest submissions.
+
+7
+
+and the interested third parties who attended the Hearing, which it did on
+1 December 2003.
+
+(13) Access to the file was granted five times to Microsoft throughout the procedure
+(28 August 2000, 14 September 2001, 14 February 2002, 6 December 2002,
+7/8 August 2003 and 16 January 2004). On 16 January 2004 the Commission sent
+Microsoft a letter inviting it to provide comments on conclusions spelt out in this
+letter which drew on documents not mentioned in the statements of objections.
+Microsoft replied to this letter on 7 February 2004.
+
+2.2 Background on antitrust proceedings against Microsoft in the United States
+
+(14) In parallel to the Commission’s investigation, Microsoft has been under antitrust
+scrutiny in the United States of America. As the corresponding proceedings under
+US antitrust law (“the US
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ncial
+Times “World’s largest Companies”, updated on 27 May 2003, printed on 13 January 2004).
+According to the same measure, Microsoft has held a consistently high ranking in the list of the world’s
+largest companies by market capitalisation, being the largest in 2000, the fifth largest in 2001, and the
+second largest in 2002 (see http://specials.ft.com/ln/specials/global5002a.htm (for 2000, printed on 24
+January 2003), http://specials.ft.com/ft500/may2001/FT36H8Z8KMC.html (for 2001, printed on 24
+January 2003), http://specials.ft.com/ft500/may2002/FT30M8IPX0D.html (for 2002, printed on 24
+January 2003)). Microsoft’s resources and profits are also significant. Microsoft’s Securities and
+Exchange Commission filing for the US fiscal year July 2002-June 2003 reveals that it possessed a cash
+(and short-term investment) reserve of USD 49,048 million on June 30, 2003. As regards profits, this
+Securities and Exchange Commission filing indicates that in US fiscal year July 2002-June 2003,
+Microsoft earned profits of USD 13,217 million on revenues of USD 32,187 million (profit margin of
+41%). For the Windows PC client PC operating system product during this period (“Client” product
+segment), Microsoft earned profits of USD 8,400 million on revenues of USD 10,394 million (profit
+margin of 81%).
+
+296
+
+purposes of the calculation of the fine, the overall duration of Microsoft’s
+infringement is 5 years and 5 months, that is, an infringement of long duration.
+
+(1078) Consequently, the amount of the fine to be imposed on the basis of the gravity of the
+infringement should therefore be increased by 50% to take account of its duration.
+On that basis, the basic amount of the fine is EUR 497,196,304.
+
+6.2.2 Aggravating and attenuating circumstances
+
+(1079) There are no aggravating or attenuating circumstances relevant to this Decision.
+
+6.2.3 Conclusion
+
+(1080) In view of the considerations that have been outlined above, the final amount of the
+fine to be imposed on Microsoft is EUR 497,196,304.
+
+297
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+For the purpose of this Decision, the following definitions shall apply:
+
+(1) the term “Interoperability Information” means the complete and accurate
+specifications for all the Protocols implemented in Windows Work Group Server
+Operating Systems and that are used by Windows Work Group Servers to deliver file
+and print services and group and user administration services, including the Windows
+Domain Controller services, Active Directory services and Group Policy services, to
+Windows Work Group Networks;
+
+(2) the term “Protocol” means a set of rules of interconnection and interaction between
+various instances of Windows Work Group Server Operating Systems and Windows
+Client PC Operating Systems running on different computers in a Windows Work
+Group Network;
+
+(3) the term “Timely Manner” with respect to disclosure of protocol specifications means
+as soon as Microsoft Corporation has developed a working and sufficiently stable
+implementation of these specifications; by way of illustration, for protocols supported
+in a service pack or in a new version of a product, “Timely Manner” means as soon as
+the service pack or the new version is made available outside Microsoft Corporation
+for beta testing purposes;
+
+(4) the term “Windows Client PC” means a PC connected to a network and on which a
+Windows Client PC Operating System is installed;
+
+(5) the term “Windows Client PC Operating System” means any of the software products
+marketed by Microsoft Corporation as Windows 98, Windows 98 Second Edition,
+Windows Millennium edition, Windows NT Workstation 4.0, Windows 2000
+Professional, Windows XP Home and Windows XP Professional, and updates
+(including, without limitation, security patches), upgrades and successors to the latter,
+as well as updates and upgrades of such successors;
+
+(6) the term “Windows Media Player” means the media code which Microsoft
+Corporation currently distributes as WMP in Windows XP Embedded (thus including
+components that support the Windows Media codecs, Windows Media file formats,
+WMDRM and the WMP User Interface); for future versions of the Windows Client PC
+Operating System, the term “Windows Media Player” shall cover the foregoing
+components;
+
+(7) the term “Windows Work Group Network” means any group of Windows Client PCs
+and Windows Work Group Servers linked together via a computer network;
+
+(8) the term “Windows Work Group Server” means a computer connected to a network
+and on which a Windows Work Group Server Operating System is installed;
+
+(9) the term “Windows Work Group Server Operating System” means any of the software
+products marketed by Microsoft Corporation as Windows NT Server 4.0, Windows
+2000 Server and Windows Server 2003 Standard Edition, and updates (including,
+
+298
+
+without limitation, security patches), upgrades and successors to the latter, as well as
+updates and upgrades to such successors.
+
+Article 2
+
+Microsoft Corporation has infringed Article 82 of the Treaty and Article 54 of the EEA
+Agreement by:
+
+(a) refusing to supply the Interoperability Information and allow its use for the purpose of
+developing and distributing work group server operating system products, from
+October 1998 until the date of this Decision;
+
+(b) making the availability of the Windows Client PC Operating System conditional on the
+simultaneous acquisition of Windows Media Player from May 1999 until the date of this
+Decision.
+
+Article 3
+
+For the infringement referred to in Article 2, a fine of EUR 497,196,304 is imposed on
+Microsoft Corporation.
+
+The fine shall be paid, within 3 months of the date of notification of this Decision, into Bank
+account No 001-3953713-69 (Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537
+1369) of the European Commission with FORTIS Bank, Rue Montagne du Parc 3, 1000
+Brussels.
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision was adopted, plus 3.5 percentage points, namely 5.50%.
+
+Article 4
+
+Microsoft Corporation shall bring to an end the infringement referred to in Article 2 in
+accordance with Articles 5 and 6.
+
+Microsoft Corporation shall refrain from repeating any act or conduct described in Article 2
+and from any act or conduct having the same or equivalent object or effect.
+
+Article 5
+
+As regards the abuse referred to in Article 2 (a):
+
+(a) Microsoft Corporation shall, within 120 days of the date of notification of this Decision,
+make the Interoperability Information available to any undertaking having an interest in
+developing and distributing work group server operating system products and shall, on
+reasonable and non-discriminatory terms, allow the use of the Interoperability Information
+by such undertakings for the purpose of developing and distributing work group server
+operating system products;
+
+299
+
+(b) Microsoft Corporation shall ensure that the Interoperability Information made available is
+kept updated on an ongoing basis and in a Timely Manner;
+
+(c) Microsoft Corporation shall, within 120 days of the date of notification of this Decision,
+set up an evaluation mechanism that will give interested undertakings a workable
+possibility of informing themselves about the scope and terms of use of the
+Interoperability Information; as regards this evaluation mechanism, Microsoft
+Corporation may impose reasonable and non-discriminatory conditions to ensure that
+access to the Interoperability Information is granted for evaluation purposes only;
+
+(d) Microsoft Corporation shall, within 60 days of the date of notification of this Decision,
+communicate to the Commission all the measures that it intends to take under points (a),
+(b) and (c); that communication shall be sufficiently detailed to enable the Commission to
+make a preliminarily assessment as to whether the said measures will ensure effective
+compliance with the Decision; in particular, Microsoft Corporation shall outline in detail
+the terms under which it will allow the use of the Interoperability Information;
+
+(e) Microsoft Corporation shall, within 120 days of the date of notification of this Decision,
+communicate to the Commission all the measures that it has taken under points (a), (b)
+and (c).
+
+Article 6
+
+As regards the abuse referred to in Article 2 (b):
+
+(a) Microsoft Corporation shall, within 90 days of the date of notification of this Decision,
+offer a full-functioning version of the Windows Client PC Operating System which does
+not incorporate Windows Media Player; Microsoft Corporation retains the right to offer a
+bundle of the Windows Client PC Operating System and Windows Media Player;
+
+(b) Microsoft Corporation shall within 90 days of the date of notification of this Decision
+communicate to the Commission all the measures it has taken to implement point (a).
+
+Article 7
+
+Within 30 days of the date of notification of this Decision, Microsoft Corporation shall submit
+a proposal to the Commission for the establishment of a suitable mechanism assisting the
+Commission in monitoring Microsoft Corporation’s compliance with this Decision. That
+mechanism shall include a monitoring trustee who shall be independent from Microsoft
+Corporation.
+
+In case the Commission considers Microsoft Corporation’s proposed monitoring mechanism
+not suitable it retains the right to impose such a mechanism by way of a decision.
+
+Article 8
+
+The Commission may at its sole discretion and upon a reasoned and timely request by
+Microsoft Corporation grant an extension of the various time limits provided for in Articles 5
+and 6.
+
+300
+
+Article 9
+
+This Decision is addressed to Microsoft Corporation, One Microsoft Way, Redmond, WA
+98052, United States.
+
+This Decision shall be enforceable pursuant to Article 256 of the EC Treaty and Article 110
+of the EEA Agreement.
+
+Done at Brussels, 24.03.2004
+
+For the Commission
+
+Mario MONTI
+Member of the Commission
+
+301

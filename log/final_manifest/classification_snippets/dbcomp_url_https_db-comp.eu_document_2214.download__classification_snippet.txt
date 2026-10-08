@@ -1,0 +1,427 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40181 - PHILIPS
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 24.07.2018
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 24.7.2018
+C(2018) 4797 final
+
+COMMISSION DECISION
+
+of 24.7.2018
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union
+
+Case AT.40181 Philips
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 4
+2. The parties concerned .................................................................................................. 5
+2.1. Undertaking subject to the proceedings ....................................................................... 5
+2.2. Retailers of Philips France's Consumer Lifestyle business .......................................... 6
+3. The geographic and product areas concerned .............................................................. 6
+4. Procedure...................................................................................................................... 6
+5. Facts ............................................................................................................................. 7
+5.1. Introduction .................................................................................................................. 7
+5.2. The relevant conduct .................................................................................................... 7
+5.2.1. General presentation of the relevant conduct ............................................................... 7
+5.2.2. Specific instances ......................................................................................................... 9
+5.3. Online pricing............................................................................................................. 11
+6. Legal assessment ........................................................................................................ 11
+6.1. Agreements and concerted practices .......................................................................... 11
+6.1.1. Principles .................................................................................................................... 11
+6.1.2. Application to this case .............................................................................................. 12
+6.2. Single and continuous infringement ........................................................................... 12
+6.2.1. Principles .................................................................................................................... 12
+6.2.2. Application to this case .............................................................................................. 12
+6.3. Restriction of competition .......................................................................................... 13
+6.3.1. Principles .................................................................................................................... 13
+6.3.2. Application to this case .............................................................................................. 13
+6.4. Effect on trade between Member States ..................................................................... 14
+6.4.1. Principles .................................................................................................................... 14
+6.4.2. Application to this case .............................................................................................. 14
+6.5. Non-applicability of Article 101(3) of the Treaty ...................................................... 14
+6.5.1. Principles .................................................................................................................... 14
+6.5.2. Application to this case .............................................................................................. 15
+7. Duration of the infringement ...................................................................................... 15
+8. Liability ...................................................................................................................... 15
+8.1. Principles .................................................................................................................... 15
+8.2. Application to this case .............................................................................................. 16
+9. Remedies and fines .................................................................................................... 16
+9.1. Remedies under Article 7 of Regulation (EC) No 1/2003 ......................................... 16
+
+EN 2 EN
+
+9.2. Fines under Article 23(2) of Regulation (EC) No 1/2003 - principles ...................... 16
+9.3. The intentional or negligent nature of the infringement ............................................ 17
+9.4. Calculation of the fines .............................................................................................. 17
+9.4.1. Value of sales ............................................................................................................. 17
+9.4.2. Gravity........................................................................................................................ 17
+9.4.3. Duration...................................................................................................................... 18
+9.4.4. Calculation of the basic amount ................................................................................. 18
+9.4.5. Aggravating or mitigating factors .............................................................................. 18
+9.4.6. Application of the 10% turnover limit ....................................................................... 18
+9.4.7. Reduction of the fine in view of cooperation ............................................................. 18
+9.4.8. Conclusion: final amount of the fine .......................................................................... 18
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 24.7.2018
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union
+
+Case AT.40181 Philips
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty1, and in particular Article 7(1) and Article 23(2) thereof,
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating
+to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of
+the EC Treaty2 ,
+Having regard to the Commission Decision of 2 February 2017 to initiate
+proceedings in this case,
+Having given the parties concerned the opportunity to make known their views on
+the objections raised on 7 June 2018 by the Commission pursuant to Article 27(1) of
+Regulation (EC) No 1/2003 and Article 12 of Regulation (EC) No 773/2004,
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+Having regard to the final report of the Hearing Officer in this case,
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision concerns Philips France S.A.S. ("Philips France") and Koninklijke
+Philips N.V. Philips France and Koninklijke Philips N.V. together are hereinafter
+referred to as "Philips".
+(2) Philips France implemented practices in relation to products sold by its Consumer
+Lifestyle business organisation, aimed at restricting the ability of retailers in France
+to determine their resale prices independently.
+(3) This Decision establishes that those practices constitute an infringement of Article
+101 of the Treaty on the Functioning of the European Union ("the Treaty").
+
+1 OJ C 115, 9/5/2008, p.47.
+2 OJ L 123, 27.4.2004, p. 18
+
+EN 4 EN
+
+2. THE PARTIES CONCERNED
+2.1. Undertaking subject to the proceedings
+(4) Koninklijke Philips N.V. is a technology company headquartered in Amsterdam. It is
+divided into two businesses: Health systems and Personal Health (known as
+Consumer Lifestyle until 2016).3
+(5) Philips' Consumer Lifestyle business had local sales organisations within the
+European Union.
+(6) The local sales organisation concerned by this Decision is Philips France's Consumer
+Lifestyle business which, between 21 November 2011 to 20 November 2013 ("the
+relevant period"), was operated by Philips France.
+(7) During the relevant period, Philips France's Consumer Lifestyle business included:4
+(i) Personal Care;
+(ii) Lifestyle Entertainment;
+(iii) Health & Wellness; and
+(iv) Domestic Appliances.
+(8) Personal Care consists of the male grooming and beauty businesses. The products
+offered by the male grooming business are a wide variety of shavers, beard trimmers,
+body groomers, hair clippers, multi-purpose trimmers, precision trimmers and hair
+removal systems for men. The products offered by the beauty business are a wide
+variety of hair dryers, hair straighteners, hair curlers, hair stylers, epilators, lady
+shavers and trimmers, hair removal systems for women, energy light devices,
+infrared lamps, wake up lights and VisaPure skin cleansing.
+(9) Lifestyle Entertainment consists of communication and control (home telephony),
+audio and multimedia, speech and processing (microphones), headphones and
+accessories (headsets), home cinema and home video, televisions5 and OEM remote
+controls (universal remote controls) businesses.
+(10) Health & Wellness consists of mother and childcare products, sold under the Avent
+brand name, oral healthcare products (AirFloss products and a wide variety of
+electric toothbrushes) and pain management products.
+(11) Domestic Appliances consists of kitchen appliances, coffee machines and
+accessories sold under the Philips, Saeco, Gaggia, Senseo (co-branded) and
+Cafissimo (co-branded) brand names, garment care (irons, steamers, ironing boards
+and steam generators), floor care (vacuum cleaners, robots, cleaning appliances) and
+air purification businesses.
+
+3 Philips' Consumer Lifestyle business was renamed Personal Health following the de-merger of Philips
+Lighting N.V. and Koninklijke Philips N.V. on 1 February 2016. See [...], point 13 and [...].
+4 [...] and [...]. The classification as submitted in [...] also covers a category "Other".
+5 On 2 April 2012, Philips' television activities were divested to a joint venture named TP Vision. As of
+that date, Philips ceased the sales of TVs. [...], point 106. In [...], televisions appear under a separate
+"Other" product category.
+
+EN 5 EN
+
+2.2. Retailers of Philips France's Consumer Lifestyle business
+(12) The main retailers of Philips France's Consumer Lifestyle business during the
+relevant period included online retailers and retailers with both offline and online
+sales.6
+(13) The products distributed by Philips France's Consumer Lifestyle business during the
+relevant period included products marketed under selective distribution systems, as
+well as under open distribution.
+
+3. THE GEOGRAPHIC AND PRODUCT AREAS CONCERNED
+(14) The geographic market covered by this Decision is France.
+(15) The products concerned by this Decision are consumer electronic products that fall
+within the categories of Personal Care, Lifestyle Entertainment, Health & Wellness
+and Domestic Appliances, as listed in section 2.1 above.
+
+4. PROCEDURE
+(16) On 3 December 2013, the Commission carried out an unannounced inspection at
+Philips S.p.A.'s premises in Italy and at Koninklijke Philips N.V.'s premises in the
+Netherlands7 for suspected resale price maintenance with regard to Philips'
+Consumer Lifestyle products.
+(17) [...]. Following [...], Philips contacted the Commission's services and indicated its
+interest in cooperating with the Commission. On [...], Koninklijke Philips N.V.
+submitted further evidence regarding the relevant conduct.
+(18) On 10 March 2015, the Commission carried out an unannounced inspection at the
+premises of retailer A in France.8 Retailer A is a French online retailer selling inter
+alia Philips products. [...].
+(19) On 2 February 2017,9 the Commission initiated proceedings within the meaning of
+Article 2(1) of Regulation 773/200410 against Koninklijke Philips N.V. and Philips
+France.
+(20) On 7 February and 16 May 2017, the Commission addressed requests for information
+to Philips under Article 18 (1) and (2) of Regulation (EC) No 1/2003, to which
+Philips replied respectively on 6 March and 2 June 2017.
+(21) On [...], Philips submitted a formal offer to cooperate in Case AT.40181 in view of
+the adoption of a decision pursuant to Article 7 and Article 23 of Council Regulation
+(EC) No 1/2003 ("settlement submission")11. The settlement submission contained:
+- an acknowledgement in clear and unequivocal terms of Philips France's liability for
+its direct participation in the infringement summarily described as regards its object,
+
+6 [...].
+7 Commission Decisions C(2013) 8515 of 25 November 2013 [...] and C(2013) 8676 of 28 November
+2013 [...]. Philips S.p.A is a wholly owned subsidiary of Koninklijke Philips N.V.
+8 Commission Decision C(2015) 1327 of 20 February 2015 [...].
+9 Commission Decision C(2017) 549 final of 2.2.2017 [...].
+10 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by
+the Commission pursuant to Articles 81 and 82 of the EC Treaty (OJ L 123, 27.04.2004, p. 18).
+11 [...].
+
+EN 6 EN
+
+the main facts, its legal qualification, including its role and the duration of its
+participation in the infringement;
+- an acknowledgement in clear and unequivocal terms of Koninklijke Philips N.V.'s
+liability for the infringement as the parent company of Philips France at the time of
+the infringement;
+- an indication of the maximum amount of the fine Philips expects to be imposed by
+the Commission and which it would accept in the context of a cooperation procedure;
+- the confirmation that Philips has been sufficiently informed of the objections the
+Commission envisages raising against it and that it has been given sufficient
+opportunity to make its views known to the Commission;
+- the confirmation that Philips does not envisage requesting further access to the file
+or requesting to be heard again in an oral hearing, unless the Commission does not
+reflect its settlement submission in the Statement of Objections and the decision;
+- the agreement to receive the Statement of Objections and the final decision
+
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+t all of the capital in the subsidiary is held by the parent
+company in order to take the view that that presumption applies.50
+8.2. Application to this case
+(79) The Commission concludes that having regard to the body of evidence and the facts
+described in Section 5, and to Philips' clear and unequivocal acknowledgement of the
+facts and the legal qualification thereof, liability for the infringement should be
+imputed to the following legal entities:
+(a) Philips France for its direct participation in the infringement;
+(b) Koninklijke Philips N.V. as jointly and severally liable with Philips France for
+the single and continuous infringement as the parent company of its indirectly
+wholly-owned subsidiary Philips France.51
+
+9. REMEDIES AND FINES
+9.1. Remedies under Article 7 of Regulation (EC) No 1/2003
+(80) Where the Commission finds that there is an infringement of Article 101 of the
+Treaty, it may by decision require the undertaking concerned to bring such
+infringement to an end in accordance with Article 7 of Regulation (EC) No 1/2003.
+(81) The Commission concludes that it is appropriate to require Philips to bring the
+infringement to an end (if it has not already done so) and to refrain from any measure
+that has the same or a similar object or effect.
+9.2. Fines under Article 23(2) of Regulation (EC) No 1/2003 - principles
+(82) Under Article 23(2) of Regulation (EC) No 1/2003, the Commission may by decision
+impose upon undertakings fines where, either intentionally or negligently, they
+infringe Article 101 of the Treaty.52 For each undertaking participating in the
+infringement, the fine cannot exceed 10% of its total turnover in the preceding
+business year.
+(83) Pursuant to Article 23(3) of Regulation (EC) No 1/2003, the Commission must, in
+fixing the amount of fine, have regard both to the gravity and to the duration of the
+infringement. In setting the fines to be imposed, the Commission will also refer to
+
+50 Judgement of 10 September 2009, Akzo Nobel and others v Commission, C-97/08 P, EU:C:2009:536,
+paragraph 60.
+51 During the relevant period, Koninklijke Philips N.V. indirectly held 100% of the shares in Philips
+France: (i) Koninklijke Philips N.V. held 41.22% of the shares in Compagnie Française Philips
+S.A.S.; (ii) Compagnie Française Philips S.A.S. held 100% of the shares in Philips France SAS; and
+(iii) Philips Radio B.V. and Dordtse Metaalindustrie "Johan de Witt BV" each held 29.39% of the
+shares in Compagnie Française Philips SAS; and (iv) Koninklijke Philips N.V. held 100% of the
+shares in Philips Radio B.V. and Dordtse Metaalindustrie "Johan de Witt BV".
+52 Under Article 5 of Council Regulation (EC) No 2894/94 of 28 November 1994 concerning
+arrangements of implementing the Agreement on the European Economic Area “the Community rules
+giving effect to the principles set out in Articles 85 and 86 [now Articles 101 and 102 of the Treaty] of
+the EC Treaty [...] shall apply mutatis mutandis.” (OJ L 305, 30.11.1994, page 6).
+
+EN 16 EN
+
+the principles laid down in its Guidelines on the method of setting fines imposed
+pursuant to Article 23(2)(a) of Regulation (EC) No 1/200353 ("Guidelines on fines").
+(84) The basic amount of the fine is to be set by reference to the value of sales to which
+the infringement directly or indirectly relates in the relevant geographic area within
+the EEA.54 The basic amount consists of a percentage of the value of sales of up to a
+maximum 30%55, depending on the degree of gravity of the infringement, multiplied
+by the number of years of the infringement.56
+(85) In calculating the value of sales, the Commission normally takes into account the
+sales made by the undertakings during the last full business year of their participation
+in the infringement.57
+(86) In assessing the gravity of the infringement, the Commission has regard to a number
+of factors, such as the nature of the infringement, the market shares of the
+undertaking concerned, the geographic scope of the infringement and whether or not
+the infringement has been implemented.
+(87) The Commission may take into account circumstances that result in an increase or
+decrease in the basic amount. It will do so on the basis of an overall assessment
+which takes account of all the relevant circumstances.58
+(88) The Commission pays particular attention to the need to ensure that fines have a
+sufficiently deterrent effect.59
+9.3. The intentional or negligent nature of the infringement
+(89) The Commission concludes that, based on the facts described in Section 5, the single
+and continuous infringement was committed intentionally.
+9.4. Calculation of the fines
+9.4.1. Value of sales
+(90) Based on the principles outlined in Section 9.2 and on the information provided by
+Philips, the Commission takes into account the value of sales of the Philips France's
+Consumer Lifestyle business in 2012, which is the last full business year of the
+participation of Philips in the infringement, for the purposes of calculating the fine.
+(91) Accordingly, the Commission takes into account the value of sales of EUR
+[350 000 000 – 400 000 000].
+9.4.2. Gravity
+(92) Resale price maintenance, by its very nature, restricts competition within the
+meaning of Article 101(1) of the Treaty. However, vertical agreements and concerted
+practices such as resale price maintenance are, by their nature, often less damaging to
+competition than horizontal agreements.60 Taking account of these factors and in
+
+53 OJ C 210, 1.9.2006, p. 2.
+54 Point 13 of the Guidelines on fines.
+55 Point 21 of the Guidelines on fines.
+56 Point 19 of the Guidelines on fines.
+57 Point 13 of the Guidelines on fines.
+58 Point 27 of the Guidelines on fines.
+59 Point 30 of the Guidelines on fines.
+60 Judgement of 14 March 2013, Allianz Hungária Biztosító and Others, C-32/11, EU:C:2013:160,
+paragraph 43.
+
+EN 17 EN
+
+light of the specific circumstances of the case, as described in Section 5, the
+proportion of the values of sales to be taken into account is set at 7%.
+9.4.3. Duration
+(93) The Commission takes into account the duration of the infringement, as set out in
+Section 7 above.
+9.4.4. Calculation of the basic amount
+(94) Applying the criteria set out above, the basic amount of the fine to be imposed in
+relation to the single and continuous infringement amounts to EUR [45 000 000 –
+55 000 000].
+9.4.5. Aggravating or mitigating factors
+(95) The Commission concludes that there are no aggravating or mitigating circumstances
+for the single and continuous infringement.
+9.4.6. Application of the 10% turnover limit
+(96) The fine for the infringement does not exceed 10% of Philips' total turnover relating
+to the business year preceding the date of adoption of this Decision pursuant to
+Article 23(2) of Regulation (EC) No 1/2003.
+9.4.7. Reduction of the fine in view of cooperation
+(97) In order to reflect that Philips has effectively cooperated with the Commission
+beyond its legal obligation to do so, the fine that would otherwise have been imposed
+should, pursuant to point 37 of the Guidelines on fines, be reduced by 40%.
+(98) Philips has cooperated with the Commission beyond its legal obligation to do so by:
+(i) providing additional evidence representing significant added value with respect to
+the evidence already in the Commission's possession as that evidence strengthened to
+a large extent the Commission's ability to prove the infringement; (ii) acknowledging
+the infringement of Article 101 of the Treaty in relation to the conduct; and (iii)
+waiving certain procedural rights, resulting in administrative efficiencies.
+9.4.8. Conclusion: final amount of the fine
+(99) In conclusion, the final amount of the fine to be imposed for the infringement
+pursuant to Article 23(2)(a) of Regulation (EC) No 1/2003 for the infringement
+amounts to EUR 29 828 000.
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Philips France S.A.S. and Koninklijke Philips N.V. infringed Article 101 of the Treaty by
+participating from 21 November 2011 until 20 November 2013 in a single and continuous
+infringement aimed at restricting the ability of retailers of Philips France's Consumer Lifestyle
+business to determine their resale prices independently.
+
+Article 2
+For the infringement referred to in Article 1, a fine of EUR 29 828 000 is imposed on Philips
+France S.A.S. and Koninklijke Philips N.V., jointly and severally.
+The fine shall be credited, in euros, within a period of three months of the date of notification of
+this Decision, to the following bank account held in the name of the European Commission:
+
+EN 18 EN
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.40181
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.61
+
+Article 3
+Philips France S.A.S. and Koninklijke Philips N.V. shall immediately bring to an end the
+infringement referred to in Article 1 insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to
+Philips France S.A.S., Rue de Verdun 33, 92150 Suresnes, France,
+Koninklijke Philips N.V., Amstelplein 2, 1096 BC Amsterdam, The Netherlands.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+Done at Brussels, 24.7.2018
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+61 OJ L 362, 31.12.2012, p. 1.
+
+EN 19 EN

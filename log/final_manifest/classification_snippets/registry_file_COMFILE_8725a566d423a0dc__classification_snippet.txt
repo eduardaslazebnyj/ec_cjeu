@@ -1,0 +1,552 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+DE DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel,
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/39406 - Marine Hoses
+
+(NUR DIE DEUTSCHE UND DIE ENGLISCHE FASSUNG SIND VERBINDLICH)
+
+(Text von Bedeutung für den EWR)
+
+gerichtet an
+
+Bridgestone Corporation und Bridgestone Industrial Limited
+
+The Yokohama Rubber Company Limited
+
+Dunlop Oil & Marine Limited, ContiTech AG und Continental AG
+
+Trelleborg Industrie SAS und Trelleborg AB
+
+Parker ITR Srl und Parker Hannifin Corporation
+
+Manuli Rubber Industries SpA
+
+DE DE
+
+INHALT
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –.................................. 5
+1. EINLEITUNG.................................................................................................................... 6
+1.1. Adressaten.................................................................................................................. 6
+1.2. Zusammenfassung der Zuwiderhandlung .................................................................. 6
+2. Die von dem Verfahren betroffene Branche ...................................................................... 6
+2.1. Das Produkt................................................................................................................ 6
+2.2. Die von diesem Verfahren betroffenen Unternehmen ............................................... 7
+2.2.1. Bridgestone......................................................................................................... 7
+2.2.2. Yokohama .......................................................................................................... 8
+2.2.3. DOM................................................................................................................... 9
+2.2.4. Trelleborg......................................................................................................... 11
+2.2.5. Parker ITR........................................................................................................ 12
+2.2.6. Manuli .............................................................................................................. 13
+2.2.7. Sonstige Marktteilnehmer ................................................................................ 15
+2.3. Beschreibung der Branche ....................................................................................... 15
+2.3.1. Nachfrage ......................................................................................................... 15
+2.3.2. Angebot............................................................................................................ 16
+2.3.3. Der räumliche Umfang des Marineschlauch-Sektors....................................... 16
+2.4. Zwischenstaatlicher Handel ..................................................................................... 17
+3. Verfahren.......................................................................................................................... 17
+3.1. Die Untersuchung der Kommission......................................................................... 17
+3.2. Untersuchungen und Verfahren anderer Behörden.................................................. 18
+4. Beschreibung der Sachverhalte........................................................................................ 19
+4.1. Grundlagen und Funktionsweise des Kartells.......................................................... 19
+4.2. Die Kartellabsprachen.............................................................................................. 20
+4.2.1. Die „Absichtserklärung“ .................................................................................. 20
+4.2.2. Zuteilung ausgeschriebener Aufträge............................................................... 22
+4.2.3. Preisbildung...................................................................................................... 22
+4.2.4. Quoten.............................................................................................................. 23
+4.2.5. Abstimmung des Bieterverhaltens und Zuteilung ausgeschriebener Aufträge
+(einschließlich der Aufteilung räumlicher Märkte).......................................... 24
+4.2.6. Austausch vertraulicher Informationen über Preise, Liefermengen und
+Lieferausschreibungen ..................................................................................................... 28
+4.2.7. Sonstige Absprachen........................................................................................ 29
+4.2.8. Buchstaben-Codes............................................................................................ 30
+4.3. Chronologischer Überblick ...................................................................................... 30
+4.3.1. Die Anfänge des Kartells ................................................................................. 30
+4.3.2. April 1986 bis März 1997 ................................................................................ 31
+4.3.3. März 1997 – Juni 1999..................................................................................... 41
+4.3.4. Mitte 1999 bis Mitte 2006................................................................................ 49
+4.3.5. Mitte 2006 bis Mai 2007.................................................................................. 58
+4.3.6. Koordinierung des Kartells .............................................................................. 61
+4.4. Schlussfolgerungen zum Zeitraum 1986-2007 ........................................................ 62
+5. Anwendung von Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen................... 63
+5.1. Verhältnis von EG-Vertrag und EWR-Abkommen ................................................. 63
+5.2. Zuständigkeit............................................................................................................ 63
+
+5.3. Anwendung von Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-
+Abkommen............................................................................................................... 63
+5.3.1. Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-Abkommen. 63
+5.3.2. Art der Zuwiderhandlung................................................................................. 64
+5.3.3. Beschränkung des Wettbewerbs....................................................................... 72
+5.3.4. Eine einzige fortdauernde Zuwiderhandlung................................................... 74
+5.3.5. Auswirkungen auf den Handel zwischen Mitgliedstaaten und zwischen EWR-
+Vertragsparteien ............................................................................................... 84
+5.4. Nichtanwendung von Artikel 81 Absatz 3 EG-Vertrag und Artikel 53 Absatz 3
+EWR-Abkommen................................................................................................................. 86
+6. Adressaten dieser Entscheidung....................................................................................... 86
+6.1. Allgemeines.............................................................................................................. 86
+6.2. Anwendung auf diese Sache .................................................................................... 89
+6.2.1. Yokohama (Yokohama Rubber Company Ltd.) .............................................. 91
+6.2.2. DOM (Dunlop Oil & Marine Limited, ContiTech AG und Continental AG) . 91
+6.2.3. Trelleborg (Trelleborg Industrie SAS, Trelleborg AB) ................................. 102
+6.2.4. Parker ITR (Parker ITR Srl, Parker Hannifin Corporation)........................... 103
+6.2.5. Manuli (Manuli Rubber Industries SpA) ....................................................... 112
+7. Dauer der Zuwiderhandlung........................................................................................... 113
+7.1. Beginn und Ende der Zuwiderhandlung................................................................. 113
+7.2. Schlussfolgerung.................................................................................................... 114
+8. Abhilfemaßnahmen ........................................................................................................ 114
+8.1. Artikel 7 der Verordnung (EG) Nr. 1/2003............................................................ 114
+8.2. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003........................................... 115
+8.3. Artikel 25 der Verordnung (EG) Nr. 1/2003.......................................................... 115
+8.4. Grundbeträge der Geldbußen ................................................................................. 117
+8.4.1. Methodik ........................................................................................................ 117
+8.4.2. Die Umsätze................................................................................................... 117
+8.4.3. Schwere der Zuwiderhandlung....................................................................... 124
+8.4.4. Dauer der Zuwiderhandlung........................................................................... 126
+8.4.5. Prozentanteil der Erhöhung des Grundbetrags............................................... 127
+8.4.6. Schlussfolgerung zu den Grundbeträgen und Berechnung der Grundbeträge der
+festzusetzenden Geldbußen............................................................................................ 128
+8.5. Anpassungen des Grundbetrags ............................................................................. 129
+8.5.1. Erschwerende Umstände................................................................................ 129
+8.5.2. Mildernde Umstände...................................................................................... 130
+8.5.3. Schlussfolgerungen bezüglich der angepassten Grundbeträge der
+festzusetzenden Geldbußen............................................................................ 131
+8.6. Berücksichtigung der Obergrenze von 10 % des Umsatzes................................... 132
+8.7. Anwendung der Kronzeugenregelung.................................................................... 133
+8.7.1. Yokohama ...................................................................................................... 133
+8.7.2. Manuli ............................................................................................................ 133
+8.7.3. Parker ITR...................................................................................................... 135
+8.7.4. Bridgestone..................................................................................................... 136
+8.7.5. Schlussfolgerung zur Anwendung der Kronzeugenregelung......................... 137
+8.8. Die Höhe der in dieser Entscheidung festzusetzenden Geldbußen........................ 137
+8.9. Zahlungsfähigkeit................................................................................................... 138
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/39406 – Marine Hoses
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln,1
+insbesondere auf Artikel 7 und auf Artikel 23 Absatz 2,
+
+gestützt auf den Beschluss der Kommission vom 28. April 2008 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nach Aufforderung der beteiligten Unternehmen zur Stellungnahme zu den von der
+Kommission mitgeteilten Beschwerdepunkten gemäß Artikel 27 Absatz 1 der Verordnung
+(EG) Nr. 1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission vom 7.
+April 2004 über die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82
+EG-Vertrag durch die Kommission,2
+
+nach Stellungnahme des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+in Kenntnis des Abschlussberichts des Anhörungsbeauftragten in dieser Sache,3
+
+in Erwägung nachstehender Gründe:
+
+1 ABl. L 1 vom 4.1.2003, S. 1.
+2 ABl. L 123 vom 27.4.2004, S. 18.
+3 Im Amtsblatt zu veröffentlichen.
+
+DE 5 DE
+
+1. EINLEITUNG
+
+1.1. Adressaten
+
+1. Diese Entscheidung ist an die folgenden Unternehmen gerichtet:
+- Bridgestone Corporation,
+- Bridgestone Industrial Limited,
+- The Yokohama Rubber Company Limited,
+- Dunlop Oil & Marine Limited,
+- ContiTech AG,
+- Continental AG,
+- Trelleborg Industrie SAS,
+- Trelleborg AB,
+- Parker ITR Srl,
+- Parker Hannifin Corporation und
+- Manuli Rubber Industries SpA.
+
+1.2. Zusammenfassung der Zuwiderhandlung
+
+2. Gegenstand dieser Entscheidung ist eine einzige und fortdauernde
+Zuwiderhandlung gegen Artikel 81 EG-Vertrag und gegen Artikel 53 Absatz des
+Abkommens über den Europäischen Wirtschaftsraum (nachstehend „EWR-
+Abkommen“).
+
+3. Die Zuwiderhandlung betraf den gesamten EWR und umfasste folgende
+Verhaltensweisen: (i) die Zuteilung ausgeschriebener Aufträge, (ii) die
+Festsetzung von Preisen, (iii) die Festsetzung von Quoten, (iv) die Festsetzung
+von Lieferbedingungen, (v) die Aufteilung von Märkten und (vi) den Austausch
+vertraulicher wirtschaftlicher Informationen über Preise, Liefermengen und
+Lieferausschreibungen.
+
+2. DIE VON DEM VERFAHREN BETROFFENE BRANCHE
+
+2.1. Das Produkt
+
+4. Gegenstand dieser Entscheidung sind Meeresschläuche (im Folgenden auch
+Marineschläuche genannt). Marineschläuche werden verwendet, um süßes oder
+raffiniertes Rohöl und sonstige Mineralölerzeugnisse aus Offshore-Einrichtungen
+(z. B. aus Offshore-Bojen4 oder FPSO5) auf Schiffe zu laden und die
+betreffenden Erzeugnisse wieder auf Off- oder Onshore-Einrichtungen (z. B.
+
+4 Im Allgemeinen sind Bojen offshore verankert und dienen als Ankerplätze für Tanker beim Laden und
+Entladen von Mineralöl-, Gas- und Flüssigerzeugnissen. Diese Bojen werden auch als Single Point
+Mooring-Systeme (SPM) oder als Single Buoy Moorings (SBM) bezeichnet.
+5 FPSO-Systeme (Floating Production, Storage and Offloading = schwimmende Verarbeitungs-,
+Speicherungs- und Überladeeinrichtungen) sind schwimmende Tanksysteme, welche das gesamte auf
+einer in der Nähe befindlichen Plattform erzeugte Öl oder Gas aufnehmen, verarbeiten und lagern, bis
+das Öl bzw. Gas auf wartende Tankschiffe entladen oder durch eine Pipeline weiterbefördert werden
+kann.
+
+DE 6 DE
+
+Bojen oder Jetties) zu entladen. Marineschläuche werden also vorwiegend bei der
+Beförderung von Mineralöl von entfernten Förderstätten eingesetzt, die mit
+wichtigen Verbraucherländern nicht über Pipelines verbunden sind. Sie werden
+„offshore“ (d. h. im Meer oder in geringer Entfernung zum Meer) verwendet.
+Onshore- oder Industrie-Schläuche werden an Land eingesetzt.
+
+5. Marineschläuche bestehen gewöhnlich aus einer inneren Elastomerschicht
+(Seele) und
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n der in dieser Entscheidung beschriebenen Zuwiderhandlung, sind derart
+dürftig, dass jeglicher Nachweis einer Zuwiderhandlung vor 1972 mit dem Ziel
+der Festsetzung entsprechender Geldbußen der Verjährung unterliegen würde.
+
+492. Randnummer 36 der Kronzeugenregelung besagt: „Die Kommission wird nicht
+entscheiden, ob ein bedingter Erlass der Geldbuße gewährt wird oder nicht bzw.
+ob sonst einem Antrag stattgegeben wird oder nicht, wenn sich herausstellt, dass
+der Antrag sich auf Zuwiderhandlungen bezieht, für die die in Artikel 25 Absatz 1
+Buchstabe b) der Verordnung (EG) Nr. 1/2003 des Rates festgelegte
+Verfolgungsverjährungsfrist von fünf Jahren verstrichen ist, da solche Anträge
+gegenstandslos wären“. Der Teil des Vorbringens bezüglich dieses Zeitraums
+sollte daher für die Bewertung der Frage, ob Parker ITR einen erheblichen
+Mehrwert beigetragen hat, nicht berücksichtigt werden.
+
+493. Daher sollte Parker ITR keine Ermäßigung der Geldbuße gewährt werden.
+
+DE 135 DE
+
+8.7.4. Bridgestone
+
+494. Bridgestone hat am 7. Dezember 2007 einen Antrag auf Anwendung der
+Kronzeugenregelung gestellt. Der Antrag von Bridgestone bestand aus einer
+schriftlichen Bestätigung der Kartellkontakte in den Jahren 1986-2007, zwei
+Dokumenten aus dem Schriftverkehr zwischen Kartellmitgliedern
+(Submissionsabsprachen) betreffend das Jahr 1994 und internen E-Mails
+bezüglich der Submissionsabsprachen im Zeitraum 1999-2006.
+
+495. Das mit der Erklärung von Bridgestone vermittelte Gesamtbild deckte sich mit
+den Vorbringen von Yokohama und den Schlussfolgerungen aus dem bei den
+Nachprüfungen gefundenen Material und enthielt wenig Material, dem ein
+„Mehrwert“ zugestanden werden könnte.
+
+496. Bridgestone erklärt, in gutem Glauben fünf Anträge auf Anwendung der
+Kronzeugenregelung gestellt zu haben, die Beweismittel hinsichtlich der Art und
+der Funktionsweise des Kartells enthalten hätten; außerdem habe Bridgestone
+detaillierte Informationen von Vertretern von Bridgestone sowie in Bezug auf
+eine Zusammenkunft anderer Wettbewerber im Marineschlauch-Sektor
+vorgelegt, in der Möglichkeiten einer Aktualisierung der OCIMF-Leitlinien mit
+dem Ziel erörtert worden seien, neue Marktteilnehmer auszuschließen. Die
+Kommission betrachtet dieses letztgenannte Element für diese Zuwiderhandlung
+nicht als erheblich. Bezüglich der übrigen von Bridgestone vorgelegten
+Beweismittel erklärt Bridgestone, „die Bedingungen gemäß den Ziffern 24-25 der
+Kronzeugenregelung von 2006 erfüllt zu haben“. Die Kommission stellt fest, dass
+Bridgestone zwar die Beteiligung am Kartell eingeräumt hat; Bridgestone hat
+jedoch keinerlei Informationen vorgelegt, die mit einem "substanziellen
+Mehrwert" verbunden gewesen wären, und entsprechend kann Bridgestone keine
+Ermäßigung der Geldbuße gewährt werden. Durch das von der Gesellschaft, die
+den Antrag auf Erlass der Geldbuße gestellt hat, sowie durch das von der ersten
+Gesellschaft, die einen Antrag auf Anwendung der Kronzeugenregelung gestellt
+hat, vorgelegte umfangreiche Beweismaterial sowie durch die bei den
+Nachprüfungen erhaltenen Unterlagen war die Zuwiderhandlung bereits in
+vollem Umfang nachgewiesen. Bei ihrem Nachweis der Zuwiderhandlung hat
+sich die Kommission nicht auf von Bridgestone vorgelegtes Beweismaterial
+gestützt. Die Vorbringen von Bridgestone im Rahmen des Antrags auf
+Anwendung Kronzeugenregelung wurden im Text dieser Entscheidung zitiert
+(siehe Fußnoten 186, 187, 211, 419 und 475); dies ist allerdings nicht zum
+Nachweis einer Zuwiderhandlung, sondern ausschließlich im Zusammenhang mit
+der Forderung von Bridgestone geschehen, dass die Vorlage dieses
+Beweismaterials entlastend oder als mildernden Umstand zu würdigen sei.
+
+497. Daher sollte Bridgestone keine Ermäßigung der Geldbuße gewährt werden.
+
+DE 136 DE
+
+8.7.5. Schlussfolgerung zur Anwendung der Kronzeugenregelung
+
+8.7.5.1. Yokohama
+
+498. Nach Maßgabe der Kronzeugenregelung ist gegen Yokohama eine Geldbuße in
+folgender Höhe zu verhängen:
+
+angepasster Grundbetrag: EUR 14 400 000
+Ermäßigung: % 100
+Geldbuße: EUR 0
+
+8.7.5.2. Manuli
+
+499. Nach Maßgabe der Kronzeugenregelung ist gegen Manuli eine Geldbuße in
+folgender Höhe zu verhängen:
+
+(Erste Neuberechnung des Grundbetrags in Anbetracht der kürzeren Dauer)
+
+angepasster Grundbetrag: EUR 7 000 000
+Ermäßigung: % 30
+Geldbuße: EUR 4 900 000
+
+8.8. Die Höhe der in dieser Entscheidung festzusetzenden Geldbußen
+
+500. Aus den genannten Gründen sind gemäß Artikel 23 Absatz 2 der Verordnung
+(EG) Nr. 1/2003 folgende Geldbußen festzusetzen:
+
+8.8.1. Bridgestone
+
+501. Der Gesamtbetrag der gegen Bridgestone festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Bridgestone Corporation 58 500 000 EUR
+Bridgestone Industrial Limited 48 100 000 EUR
+
+8.8.2. Yokohama
+
+502. Der Gesamtbetrag der gegen Yokohama festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Yokohama Rubber Company Limited 0 EUR
+
+8.8.3. DOM
+
+503. Der Gesamtbetrag der gegen DOM festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Dunlop Oil & Marine Limited 18 000 000 EUR
+
+DE 137 DE
+
+ContiTech AG 16 000 000 EUR
+Continental AG 7 100 000 EUR
+
+8.8.4. Trelleborg
+
+504. Der Gesamtbetrag der gegen Trelleborg festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Trelleborg Industrie SAS 24 500 000 EUR
+Trelleborg AB 12 200 000 EUR
+
+8.8.5. Parker ITR
+
+505. Der Gesamtbetrag der gegen Parker ITR festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Parker ITR Srl 25 610 000 EUR
+Parker Hannifin Corporation 8 320 000 EUR
+
+8.8.6. Manuli
+
+506. Der Gesamtbetrag der gegen Manuli festzusetzenden Geldbuße ist wie folgt:
+
+Rechtssubjekt Geldbuße insgesamt
+Manuli Rubber Industries SpA 4 900 000 EUR
+
+8.9. Zahlungsfähigkeit
+
+507. Keiner der Adressaten hat argumentiert, er könne die Geldbuße nicht aufbringen.
+
+DE 138 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Die folgenden Unternehmen haben gegen Artikel 81 EG-Vertrag sowie, ab dem 1. Januar
+1994, gegen Artikel 53 EWR-Abkommen verstoßen, indem sie sich in den genannten
+Zeiträumen an einer einzigen und fortdauernden Zuwiderhandlung im Marineschlauch-Sektor
+im EWR beteiligt haben, die aus der Zuteilung von Ausschreibungen, aus Preisfestsetzungen,
+Quotenfestsetzungen, Festsetzung von Verkaufsbedingungen, aus der Aufteilung
+geographischer Märkte und aus dem Austausch sensibler Informationen über Preise,
+Verkaufsvolumina und Ausschreibungen bestand:
+
+(a) Bridgestone Corporation: vom 1. April 1986 bis zum 2. Mai 2007;
+
+(b) Bridgestone Industrial Limited: vom 19. Dezember 1989 bis zum 2. Mai
+2007;
+
+(c) The Yokohama Rubber Company Limited vom 1. April 1986 bis zum
+1. Juni 2006;
+
+(d) Dunlop Oil & Marine Limited: vom 12. Dezember 1997 bis zum 2. Mai
+2007;
+
+(e) ContiTech AG: vom 28. Juli 2000 bis zum 2. Mai 2007;
+
+(f) Continental AG: vom 9. März 2005 bis zum 2. Mai 2007;
+
+(g) Trelleborg Industrie SAS: vom 1. April 1986 bis zum 2. Mai 2007;
+
+(h) Trelleborg AB: vom 28. März 1996 bis zum 2. Mai 2007;
+
+(i) Parker ITR Srl: vom 1. April 1986 bis zum 2. Mai 2007;
+
+(j) Parker Hannifin Corporation: vom 31. Januar 2002 bis zum 2. Mai 2007
+und
+
+(k) Manuli Rubber Industries SpA: vom 1.April 1986 bis zum 1. August 1992
+und vom 3. September 1996 bis zum 2. Mai 2007.
+
+Artikel 2
+Für die in Artikel 1 genannten Zuwiderhandlungen werden folgende Geldbußen festgesetzt:
+
+(a) Bridgestone Corporation: 58 500 000 EUR;
+
+davon gesamtschuldnerisch mit Bridgestone Industrial Limited: 48 100 000 EUR;
+
+DE 139 DE
+
+(b) The Yokohama Rubber Company Limited: 0 EUR;
+
+(c) Dunlop Oil & Marine Limited: 18 000 000 EUR
+
+davon gesamtschuldnerisch mit ContiTech AG: 16 000 000 EUR
+
+davon gesamtschuldnerisch mit Continental AG: 7 100 000 EUR;
+
+(d) Trelleborg Industrie SAS: 24 500 000 EUR
+
+davon gesamtschuldnerisch mit Trelleborg AB: 12 200 000 EUR;
+
+(e) Parker ITR Srl.: 25 610 000 EUR
+
+davon gesamtschuldnerisch mit Parker Hannifin Corporation: 8 320 000 EUR;
+
+(f) Manuli Rubber Industries SpA: 4 900 000 EUR
+
+Die Geldbußen sind binnen drei Monaten nach dem Datum der Bekanntgabe dieser
+Entscheidung in Euro auf das folgende Konto zu entrichten:
+
+Konto Nr.
+SOCIETE GENERALE
+
+Cours Valmy 17
+
+F-92800 PUTEAUX
+
+IBAN : FR76 30003 06990 00101611532 82
+
+Code SWIFT : SOGEFRPPXXX
+
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Arbeitstag des
+Monats angewandt wird, in dem diese Entscheidung erlassen worden
+ist, zuzüglich 3,5 Prozentpunkte.
+
+DE 140 DE
+
+Artikel 3
+Die in Artikel 1 genannten Unternehmen stellen die in Artikel 1 genannten
+Zuwiderhandlungen unverzüglich ein, soweit dies nicht bereits geschehen ist.
+Die Unternehmen unterlassen jegliche Wiederholung des in Artikel 1 beschriebenen Handelns
+oder Verhaltens sowie jegliches Handeln oder Verhalten mit ähnlicher Wirkung.
+
+Artikel 4
+Diese Entscheidung ist gerichtet an:
+
+Bridgestone Corporation
+10-1, Kyobashi 1-chome
+Chuo-ku, Tokyo 104-8340,
+Japan
+
+Bridgestone Industrial Limited
+2nd Floor West CP House
+97-107 Uxbridge Road
+Ealing
+London W5 5TL
+Vereinigtes Königreich
+
+Yokohama Rubber Company Limited
+Minato-Ku Tokyo 105-8685,
+36-11, Shimbashi 5-Chome
+Japan
+
+Dunlop Oil & Marine Limited
+Moody Lane, Pyewipe,
+Grimsby
+North East Lincolnshire
+DN31 2SY
+Vereinigtes Königreich
+
+ContiTech AG
+Vahrenwalderstraße 9
+D-30165 Hannover
+Deutschland
+
+Continental AG
+Vahrenwalderstraße 9
+D-30165 Hannover
+Deutschland
+
+Trelleborg Industrie SAS
+ZI La Combaude, Rue de Chantemerle
+F-63050 Clermont-Ferrand
+Frankreich
+
+DE 141 DE
+
+Trelleborg AB
+Johan Kocksgatan 10
+231 22 Trelleborg
+Schweden
+
+Parker ITR S.r.l
+Via G.B. Pirelli 6
+IT-22070 Veniano (CO)
+Italien
+
+Parker Hannifin Corporation
+6035 Parkland Boulevard
+44124 Cleveland
+OH USA
+
+Manuli Rubber Industries S.p.A.
+Piazza della Repubblica 14/16
+20124 Milan
+Italien
+
+Diese Entscheidung ist vollstreckbar gemäß Artikel 256 EG-Vertrag und Artikel 110 EWR-
+Abkommen.
+
+Brüssel, den
+
+Für die Kommission
+
+Neelie Kroes
+Mitglied der Kommission
+
+DE 142 DE

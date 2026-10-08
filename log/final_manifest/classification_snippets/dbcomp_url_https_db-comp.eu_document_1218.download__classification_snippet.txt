@@ -1,0 +1,636 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+38629
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 05/12/2007
+C(2007) 5910 final
+
+COMMISSION DECISION
+
+of
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+Case COMP/38629 - Chloroprene Rubber
+
+(ONLY THE ENGLISH, ITALIAN AND GERMAN TEXTS ARE AUTHENTIC)
+
+TO BE NOTIFIED TO:
+Bayer AG
+E.I. DuPont de Nemours and Company
+DuPont Performance Elastomers S.A.
+DuPont Performance Elastomers L.L.C.
+The Dow Chemical Company
+Denki Kagaku Kogyo K.K.
+Denka Chemicals GmbH
+Tosoh Corporation
+Tosoh Europe B.V.
+ENI S.p.A.
+Polimeri Europa S.p.A.
+
+(Text with EEA relevance)
+
+Parts of this text have been edited to ensure that confidential information is not disclosed;
+those parts are enclosed in square brackets.
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION...................................................................................................... 6
+
+1.1. Addressees................................................................................................................... 6
+
+1.2. Summary of the infringement................................................................................... 7
+
+1.3. Duration of participation in the infringement......................................................... 7
+
+1.4. Relevant product........................................................................................................ 7
+
+1.5. Territory covered ....................................................................................................... 8
+
+1.6. EEA and world-wide market values......................................................................... 8
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS IN THIS CASE .......... 8
+
+2.1. The product ................................................................................................................ 8
+
+2.2. The market players .................................................................................................... 9
+
+2.2.1. Undertakings subject to these proceedings.................................................................. 9
+
+2.2.1.1. Bayer AG ..................................................................................................................... 9
+
+2.2.1.2. Denki Kagaku Kogyo Kabushiki Kaisha................................................................... 10
+
+2.2.1.3. The Dow Chemical Company.................................................................................... 11
+
+2.2.1.4. DuPont Group ............................................................................................................ 11
+
+2.2.1.5. The Eni Group............................................................................................................ 13
+
+2.2.1.6. Tosoh Corporation ..................................................................................................... 14
+
+2.2.2. Other market players.................................................................................................. 15
+
+2.3. Description of the market........................................................................................ 15
+
+2.3.1. Supply......................................................................................................................... 15
+
+2.3.2. Inter-state trade.......................................................................................................... 16
+
+3. PROCEDURE .......................................................................................................... 16
+
+3.1. The Commission's investigation.............................................................................. 16
+
+3.2. Statement of Objections and Oral Hearing ........................................................... 17
+
+3.3. Investigations and proceedings in other jurisdictions .......................................... 18
+
+4. DESCRIPTION OF THE EVENTS....................................................................... 19
+
+4.1. Basic principles and structure of the cartel........................................................... 19
+
+4.1.1. Objectives................................................................................................................... 19
+
+4.1.2. Organisation .............................................................................................................. 22
+
+EN
+
+4.1.2.1. Regional meetings...................................................................................................... 22
+
+4.1.2.2. Global meetings ......................................................................................................... 22
+
+4.1.2.3. Tri- and bilateral meetings and contacts .................................................................... 23
+
+4.1.2.4. The course of the meetings and contacts.................................................................... 24
+
+4.1.3. Concealing of competitor contacts............................................................................. 25
+
+4.2. The chronology of cartel events and evidence relating to specific meetings....... 26
+
+4.2.1. Period before 1993..................................................................................................... 26
+
+4.2.2. Period from 1993 until 1996...................................................................................... 26
+
+4.2.3. Period from 1996 until 1998...................................................................................... 34
+
+4.2.4. Period after September 1998 ..................................................................................... 46
+
+5. APPLICATION OF ARTICLE 81 OF THE TREATY AND ARTICLE 53 OF
+THE EEA AGREEMENT....................................................................................... 57
+
+5.1. Relationship between the Treaty and the EEA Agreement ................................. 57
+
+5.2. Jurisdiction ............................................................................................................... 57
+
+5.3. Application of Article 81 of the Treaty and Article 53 of the EEA Agreement . 57
+
+5.3.1. Article 81 of the Treaty and Article 53 of the EEA Agreement.................................. 57
+
+5.3.2. The nature of the infringement................................................................................... 58
+
+5.3.2.1. Principles concerning agreements and concerted practices ....................................... 58
+
+5.3.2.2. Agreements and concerted practices in this case....................................................... 60
+
+5.3.2.3. Principles concerning single and continuous infringement ....................................... 68
+
+5.3.2.4. Single and continuous infringement in this case........................................................ 70
+
+5.3.3. Restriction of competition .......................................................................................... 71
+
+5.3.4. Effect upon trade between Member States and between EEA Contracting Parties... 73
+
+5.3.5. Provisions of competition rules applicable to Austria, Finland, Iceland, Norway and
+Sweden........................................................................................................................ 75
+
+5.3.6. Additional Considerations ......................................................................................... 75
+
+5.3.6.1. Procedural claims by [a company within the ENI group] and Polimeri .................... 75
+
+5.3.6.2. The CR types concerned ............................................................................................ 78
+
+5.3.6.3. The alleged coercion of the Japanese producers........................................................ 79
+
+6. ADDRESSEES OF THIS DECISION.................................................................... 80
+
+6.1. General principles.................................................................................................... 80
+
+6.2. Liability in this case ................................................................................................. 82
+
+EN
+
+6.3. Addressees in this case............................................................................................. 98
+
+7. DURATION OF THE INFRINGEMENT............................................................. 99
+
+7.1. Limitation Period ..................................................................................................... 99
+
+7.2. Duration .................................................................................................................. 100
+
+8. REMEDIES ............................................................................................................ 104
+
+8.1. Article 7 of Regulation (EC) No 1/2003................................................................ 104
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003......................................................... 105
+
+8.3. The basic amount of the fines................................................................................ 105
+
+8.3.1. Calculation of the value of sales.............................................................................. 105
+
+8.3.2. Determination of the basic amount of the fines ....................................................... 106
+
+8.3.3. Gravity...................................................................................................................... 106
+
+8.3.3.1. Duration.................................................................................................................... 108
+
+8.3.3.2. Additional amount.................................................................................................... 108
+
+8.3.3.3. Conclusion on the basic amount .............................................................................. 109
+
+8.4. Adjustments to the basic amount.......................................................................... 109
+
+8.4.1. Aggravating circumstances...................................................................................... 109
+
+8.4.1.1. Recidivism................................................................................................................ 109
+
+8.4.2. Mitigating circumstances......................................................................................... 110
+
+8.4.2.1. Passive and /or minor role........................................................................................ 110
+
+8.4.2.2. Participation in few elements of the infringement................................................... 113
+
+8.4.2.3. Termination of the infringement.............................................................................. 115
+
+8.4.2.4. Non-implementation ................................................................................................ 115
+
+8.4.2.5. Coercion................................................................................................................... 117
+
+8.4.2.6. Effective co-operation outside the Leniency Notice................................................ 118
+
+8.4.3. Conclusion on the aggravating and mitigating circumstances................................ 118
+
+8.4.4. Specific increase for deterrence............................................................................... 118
+
+8.4.5. Conclusions on the adjusted basic amounts............................................................. 119
+
+8.5. Application of the 10 % of turnover limit............................................................ 119
+
+8.6. Application of the Leniency Notice....................................................................... 120
+
+8.6.1. Bayer ........................................................................................................................ 120
+
+8.6.2. Tosoh........................................................................................................................ 124
+
+EN
+
+8.6.3. DuPont/DDE............................................................................................................ 125
+
+8.6.4. Syndial/Polimeri....................................................................................................... 127
+
+8.7. The amounts of the fines imposed in this proceeding......................................... 128
+
+EN
+
+COMMISSION DECISION
+
+of 05/12/2007
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+Case COMP/38629 - Chloroprene Rubber
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+Having regard to the Commission decision of 13 March 2007 to initiate proceedings in this
+case,
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+
+1.1. Addressees
+
+(1) On 13 March 2007 the Commission initiated proceedings for
+infringement of Article 81 of the Treaty and Article 53 of the EEA
+Agreement against the following undertakings:
+
+– Bayer AG
+
+– E.I. DuPont de Nemours and Company
+
+– DuPont Performance Elastomers S.A.
+
+1 OJ L 1, 4.1.2003, p. 1. Regulation as last amended by Regulation (EC) No 1419/2006 (OJ L 269,
+28.9.2006, p. 1).
+2 OJ L 123, 27.4.2004, p. 18. Regulation as amended by Regulation (EC) No 1792/2006 (OJ L 362,
+20.12.2006, p. 1).
+3 OJ
+
+EN
+
+– DuPont Performance Elastomers L.L.C.
+
+– The Dow Chemical Company
+
+– Denki Kagaku Kogyo K.K.
+
+– Denka Chemicals GmbH
+
+– ENI S.p.A.
+
+– Polimeri Europa S.p.A.
+
+– [a company within the ENI group] S.p.A.
+
+– Tosoh Corporation
+
+– Tosoh Europe B.V.
+
+1.2. Summary of the infringement
+
+(2) The addressees of this Decision participated in a single, complex and
+continuous infringement of Article 81 of the Treaty and Article 53 of
+the EEA Agreement, covering the entire EEA territory, consisting of
+agreements and/or concerted practices aimed at agreeing upon the
+allocation and the stabilization of markets, market shares and sales
+quotas for chloroprene rubber, coordinating and implementing several
+price increases, agreeing upon minimum prices, allocating customers
+and exchanging competitively sensitive information.
+
+1.3. Duration of participation in the infringement
+
+(3) The addressees participated in the infringement, or bear liability for it,
+at least for the following periods:
+
+– Bayer AG: from 13 May 1993 to 13 May 2002;
+
+– E.I. Du
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ice on 21 November 2003, consisting of a detailed oral statement
+and about 180 annexes. In its submission DDE gave an overview of the
+product market and the market players and gave information on its
+company structure and the persons involved in the cartel on its behalf.
+The submission covers the period from 1996 (when DDE came into
+existence) until November 2002, mentioning dates of meetings,
+participants and topics discussed. The annexes provided consisted of
+travel expense records from 1996 until 2002 and correspondence with
+competitors and within the company, giving mostly indirect evidence of
+the contacts between the competitors, explained in the oral submission.
+
+EN
+
+(628) DDE's initial submission was followed by two further submissions on
+16 December 2003 and 6 November 2006 (provided by DPE, the
+successor of DDE). The only purpose of the submission of 16
+December 2003 was to give some additional background information
+on DDE, the CR industry and the key players. It did not provide any
+further evidence on anticompetitive arrangements. The submission of 6
+November 2006 was given in response to the Commission's request for
+information pursuant to Article 18 of Regulation (EC) No 1/2003 of 6
+October 2006, asking for clarification of information provided by DDE
+in its application and travel documents and other pre-existing
+documents relating to meetings between DDE and competitors. The
+submission contained contemporaneous written evidence of the
+infringement (such as handwritten minutes of several competitor
+meetings), proving and corroborating, in particular, the early stage of
+the cartel in 1994, 1995 and 1996.
+
+(629) DDE provided evidence on the content of several meetings previously
+unknown to the Commission such as the meetings on 5 May 1997 in
+Vancouver at the fringe of an IISRP meeting, before 18 January 2000
+in Italy at the fringe of a meeting of the Italian Rubber Trade
+Association or on 18 April 2002 between Denka, Tosoh and DDE in
+Tokyo.
+
+(630) [*]
+
+(631) [*] regarding the reasons and the way the nature of competitor contacts
+changed in 1998 from multilateral to bilateral or trilateral [*]confirmed
+that, by the middle of 1999, meetings were held very frequently and
+mostly on a bilateral basis and that [*] of DDE took a leading role in
+the cartel during that time. [*]
+
+(632) [*]
+
+(633) [*] with respect to the period after 1996 (the time when DDE was
+created) and its submission of November 2006 also provided
+corroboration with respect to the period from 1993 to 1996. [*]
+
+(634) The evidence submitted by DDE/DPE in November and December
+2003 as well as in November 2006 therefore represented significant
+added value for the purposes of points 21 and 22 of the Leniency
+Notice as it strengthened the Commission's ability to prove the cartel.
+
+(635) In determining, pursuant to point 23 of the Leniency Notice, the
+percentage reduction of the fine for which DDE/DPE qualifies within
+the band of 20% to 30%, the Commission takes into account the extent
+to which the evidence submitted by DDE/DPE represents added value,
+as well as the time at which DDE/DPE submitted that evidence.
+DDE/DPE approached the Commission 10 months after the
+Commission had carried out surprise inspections at Dow and 4 months
+after the Commission's inspections at Denka. [*]
+
+EN
+
+(636) In addition, according to the evidence in the Commission's possession,
+DDE/DPE terminated its involvement in the infringement at the latest
+at the time at which it first submitted the evidence.
+
+(637) In view of the foregoing, DuPont/DPE and Dow should be granted a
+reduction of 25% of the fine that would otherwise have been imposed
+on them.
+
+(638) The total fine imposed on DuPont should therefore be EUR 59 250 000,
+the total fine for DPE should be EUR 44 250 000 and the total fine for
+Dow EUR 48 675 000.
+
+8.6.4. Syndial/Polimeri
+
+(639) Syndial and Polimeri, two subsidiaries of Eni S.p.A., each submitted an
+application under the Leniency Notice on 15 April 2005. [*]
+
+(640) [*]
+
+(641) [*]
+
+(642) [*]
+
+(643) [*]
+
+(644) [*]
+
+(645) [*]
+
+(646) [*]
+
+(647) [*]
+
+(648) [*] 552
+
+(649) [*]
+
+(650) [*]
+
+(651) Polimeri challenged the Commission's findings in the SO. In particular,
+it maintains that Syndial had already suspended its participation in the
+cartel prior to the transfer of the CR business to Polimeri. However,
+Polimeri's involvement in the agreements is established in this Decision
+on the basis of other evidence.
+
+(652) Polimeri's leniency application and the evidence provided did not relate
+to any fact that was not yet known to the Commission. Therefore,
+whereas the information provided by other applicants still represented
+significant added value within the meaning of point 21 of the Leniency
+Notice, that argument is not valid in respect of Polimeri.
+
+552 [*]
+
+EN
+
+(653) In conclusion, the information provided by Polimeri does not represent
+significant added value on the basis of which the Commission should
+grant a reduction of the fine in application of the Leniency Notice.
+
+(654) As regards Polimeri and Eni's claims, that any leniency granted for
+Syndial's cooperation with the Commission should also be taken into
+account in the calculation of the fines to be imposed on them, and
+considering that Syndial itself is not an addressee of this decision, those
+claims must be rejected as Syndial 's cooperation was not sufficient to
+constitute significant added value as explained in recitals (640)-(649).
+
+8.7. The amounts of the fines imposed in this proceeding
+
+(655) The fines to be imposed pursuant to Article 23(2) of Regulation (EC)
+No 1/2003 should therefore be as follows:
+
+(a) Bayer AG: EUR 0;
+
+(b) E.I. DuPont de Nemours and Company: EUR 59 250 000;
+of which jointly and severally with
+(i) DuPont Performance Elastomers S.A. for EUR 44 250 000 and
+(ii) DuPont Performance Elastomers L.L.C for EUR 44 250 000 and
+(iii) The Dow Chemical Company for EUR 48 675 000;
+
+(c) Denki Kagaku Kogyo K.K. and Denka Chemicals GmbH,
+jointly and severally: EUR 47 000 000;
+
+(d) ENI S.p.A. and Polimeri Europa S.p.A,
+jointly and severally: EUR 132 160 000;
+
+(e) Tosoh Corporation and Tosoh Europe B.V.,
+jointly and severally: EUR 4 800 000,
+
+EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings have infringed Article 81 of the Treaty and - from 1 January 1994
+– Article 53 of the EEA Agreement by participating, for the periods indicated, in a single and
+continuing agreement and /or concerted practice in the chloroprene rubber sector:
+(a) Bayer AG: from 13 May 1993 to 13 May 2002;
+
+(b) E.I. DuPont de Nemours and Company: from 13 May 1993 to 13 May 2002;
+DuPont Performance Elastomers S.A., DuPont Performance Elastomers L.L.C
+and The Dow Chemical Company: from 1 April 1996 to 13 May 2002;
+
+(c) Denki Kagaku Kogyo K.K. and Denka Chemicals GmbH: from 13 May 1993
+to 13 May 2002;
+
+(d) ENI S.p.A. and Polimeri Europa S.p.A: from 13 May 1993 to 13 May 2002;
+
+(e) Tosoh Corporation and Tosoh Europe B.V.: from 13 May 1993 to 13 May
+2002.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) Bayer AG: EUR 0;
+
+(b) E.I. DuPont de Nemours and Company: EUR 59 250 000;
+of which jointly and severally with
+(i) DuPont Performance Elastomers S.A. for EUR 44 250 000 and
+(ii) DuPont Performance Elastomers L.L.C. for EUR 44 250 000 and
+(iii) The Dow Chemical Company for EUR 48 675 000;
+
+(c) Denki Kagaku Kogyo K.K. and Denka Chemicals GmbH,
+jointly and severally: EUR 47 000 000;
+
+(d) ENI S.p.A. and Polimeri Europa S.p.A,
+jointly and severally: EUR 132 160 000;
+
+(e) Tosoh Corporation and Tosoh Europe B.V.,
+jointly and severally: EUR 4 800 000;
+The fines shall be paid in Euros, within three months of the date of the notification of this
+Decision, to the following account:
+Account No:
+0050915991 of the European Commission with:
+
+ING BANK N.V., Financial Plaza, Bijlmerdreef, 109, NL-1102 BW Amsterdam
+
+EN
+
+(Code SWIFT: INGBNL2AXXX – Code IBAN: NL22INGB0050915991)
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred
+to in that Article in so far as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to:
+Bayer AG
+Kaiser-Wilhelm-Allee
+D-51368 Leverkusen
+Germany
+
+E.I. DuPont de Nemours and Company
+1007 Market Street
+19898 Wilmington, DE
+USA
+
+DuPont Perfomance Elastomers S.A.
+2, chemin du Pavillon
+CH – 1218 Le Grand-Saconnex, Geneva
+Switzerland
+
+DuPont Perfomance Elastomers L.L.C.
+Bellevue Corporate Center
+300 Bellevue Parkway
+19809 Wilmington, DE
+USA
+
+The Dow Chemical Company
+2009 Building
+Eagle Ridge II
+2125 Ridgewood Drive
+Midland, Michigan 48642
+USA
+
+Denki Kagaku Kogyo K.K.
+Nihonbashi Mitsui Tower,
+1-1, Nihonbashi - Muromachi 2-chome,
+Chuo-ku, Tokyo 103-8338
+Japan
+
+Denka Chemicals GmbH
+
+EN
+
+Wehrhahn Center
+Cantadorstrasse 3
+40211 Düsseldorf
+Germany
+
+ENI S.p.A.
+Piazzale Enrico Mattei 1
+00144 Rome
+Italy
+
+Polimeri Europa S.p.A.
+Piazza Boldrini 1
+20097 San Donato Milanese
+Italy
+
+Tosoh Corporation
+Shiba-Koen first Building
+3-8-2, Shiba, Minato-Ku
+Tokyo 105-8623
+Japan
+
+Tosoh Europe B.V.
+Crown Building-South
+Hullenbergweg 359
+1101 CP Amsterdam Z.O.
+The Netherlands
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 05/12/2007
+
+For the Commission
+
+[signed]
+Neelie KROES
+Member of the Commission
+
+EN
+
+ANNEX I
+Size and relative importance in CR in 2001
+Undertaking EEA turnover (2001) Market shares (2001)
+(Value/EUR million) (Value in %)
+Bayer [*] [*]
+Denka [*] [*]
+DuPont/Dow/DDE [*] [*]
+Eni [*] [*]
+Tosoh [*] [*]
+TOTAL [*] 100
+
+EN

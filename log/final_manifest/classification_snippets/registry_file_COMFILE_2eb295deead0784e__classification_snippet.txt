@@ -1,0 +1,367 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52020AT40135(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52020AT40135(02)
+Help
+Print
+Summary of Commission Decision of 16 May 2019 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40135 – Forex-Essex Express) (notified under document C(2019) 3521) (Only the English text is authentic) (Text with EEA relevance) 2020/C 219/07
+Summary of Commission Decision of 16 May 2019 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40135 – Forex-Essex Express) (notified under document C(2019) 3521) (Only the English text is authentic) (Text with EEA relevance) 2020/C 219/07
+Summary of Commission Decision of 16 May 2019 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40135 – Forex-Essex Express) (notified under document C(2019) 3521) (Only the English text is authentic) (Text with EEA relevance) 2020/C 219/07
+C/2019/3621
+OJ C 219, 3.7.2020, pp. 8–12
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+3.7.2020
+EN
+Official Journal of the European Union
+C 219/8
+Summary of Commission Decision
+of 16 May 2019
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.40135 – Forex-Essex Express)
+(notified under document C(2019) 3521)
+(Only the English text is authentic)
+(Text with EEA relevance)
+(2020/C 219/07)
+On 16 May 2019, the Commission adopted a decision relating to a proceeding under Article 101 of the Treat on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The addressees of the Decision participated in a single and continuous infringement of Article 101 TFEU and Article 53 of the EEA. The object of the infringement was the restriction and/or distortion of competition in the sector of G10 Foreign Exchange (FX or Forex) spot trading.
+(
+2
+)
+(2)
+The G10 FX currencies comprise the USD and CAD, JPY, AUD, NZD, GBP, EUR, CHF, SEK, NOK and DKK (i.e. 11 currencies altogether, which corresponds to the market convention for currencies covered by the G10 designation). The main customers of Forex traders include asset managers, pension funds, hedge funds, corporations and other banks.
+(3)
+The FX spot trading activity encompasses both (i) market making: the execution of customer’s orders to exchange a currency amount by its equivalent in another currency; and (ii) trading on own account: the execution of other currency exchanges in order to manage the exposure resulting from the market making transactions.
+(4)
+The G10 FX spot trading desks of the relevant undertakings stood ready to trade any of those currencies depending on market demand. While the participating traders themselves were primarily responsible for market making in specific currencies or pairs, their mandate authorised them to further engage in trading activity on behalf of their own undertaking with respect to any G10 currency available in their books, which they also did to different extents during the relevant period, with a view to maximising the value of their respective holdings.
+(5)
+The following three types of orders characterising the customer-driven trading activity (market making) of the participating traders are pertinent in the infringement:
+—
+Customer immediate orders, to immediately enter trades for a certain amount of currency based on the prevailing market rate;
+—
+Customer conditional orders, which are triggered when a given price level is reached and opens the traders’ risk exposure. They only become executable when the market reaches a certain level (for example a stop-loss or take-profit order);
+—
+Customer orders to execute a trade at a specific Forex benchmark rate or ‘fixing’ for particular currency pairs, which in the current case only concerned the WM/Reuters Closing Spot Rates (hereinafter the ‘WMR fixes’) and the European Central Bank foreign exchange reference rates (hereinafter the ‘ECB fixes’).
+(
+3
+)
+(6)
+The Decision is addressed to the following legal entities (hereinafter ‘the addressees’:
+—
+UBS AG (hereinafter ‘UBS’)
+—
+The Royal Bank of Scotland Group plc and NatWest Markets Plc,
+(
+4
+)
+(collectively ‘RBS’)
+—
+Barclays PLC, Barclays Services Limited, Barclays Capital Inc and Barclays Bank Plc (collectively ‘Barclays’) and
+—
+Mitsubishi UFJ Financial Group Inc. and MUFG Bank, Ltd. (collectively ‘BOTM’)
+(7)
+The Decision is based on the body of evidence in the Commission’s file, as well as the clear and unequivocal acknowledgments of the facts and the legal qualification thereof contained in the settlement submissions introduced by the addressees of this Decision, as well as their explicit and unequivocal confirmation that the Statement of Objections reflected the contents of their settlement submissions.
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(8)
+The investigation was opened on the basis of an immunity application from UBS on 27 September 2013. The Commission subsequently received initial leniency applications from Barclays on 11 October 2013 and RBS on 14 October 2013 The Commission granted conditional immunity to UBS on 2 July 2014.
+(9)
+Proceedings were initiated on 27 October 2016 against the parties with a view to engaging in settlement discussions. Between November 2016 and February 2018, the Commission held bilateral meetings and contacts with each of the parties in three settlement rounds, pursuant to the Settlement Notice.
+(10)
+On 24 January 2018, the College approved the ranges of the likely applicable fines. All parties subsequently filed their settlement submissions, in which they acknowledged their liability for the infringement (including the party’s role and the duration of its participation in the infringement) and accepted the maximum amount of fine foreseen to be imposed by the Commission.
+(11)
+The Commission adopted the Statement of Objections on 24 July 2018 and all parties unequivocally confirmed that it corresponded to the contents of their settlement submissions and that they remained committed to following the settlement procedure. The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 6 May 2019. On 7 May 2019, the Hearing Officer issued his final report. The Commission adopted the Decision on 16 May 2019.
+2.2.
+Description of the conduct
+(12)
+The Decision concerns the ‘Essex Express’ cartel (named after the professional Bloomberg chatroom containing the evidence of the behaviour), between UBS, Barclays, RBS and BOTM, that took place between 14 December 2009 and 31 July 2012. The duration of the participation of the different companies varies (see point (16)). The cartel is documented in communications that took place within two Bloomberg chatrooms that were initially operating in parallel: (i) ‘Essex Express ‘n Jimmy’, involving traders from UBS, Barclays and RBS and (ii) ‘Grumpy Semi Old Men’, between traders from BOTM, Barclays and RBS. In January 2011 the ‘Grumpy Semi Old Men’ chatroom merged into ‘Essex Express ‘n Jimmy’ which continued functioning until July 2012. The individuals participating in the chatrooms were traders employed by their respective undertakings during the relevant period, and each was authorised to trade G10 FX currencies in spot transactions in the name and on behalf of his respective employing undertaking at the corresponding dedicated FX spot trading desk.
+(13)
+The cartel comprised a single and continuous infringement characterised by the exchange among the traders – in these private, mostly multilateral chatrooms and on an extensive and recurrent basis – of certain current or forward-looking commercially sensitive information about their trading activities. This information exchange took place in accordance with a tacit underlying understanding that: (i) such information could be used to the traders’ respective benefit and in order to identify occasions to coordinate their trading; (ii) such information would be shared within the private chatrooms; (iii) the traders would not disclose such shared information received from other chatroom participants to parties outside of the private chatrooms; and (iv) such shared information would not be used against the traders who shared it (hereinafter referred to as the ‘underlying understanding’). Moreover, pursuant to the underlying understanding, the traders occasionally coordinated their trading activities with respect to FX spot trading of G10 currencies. The exchanges of information were meant to affect two basic parameters of competition in FX spot professional trading: price and expert risk management.
+(14)
+Instead of competing autonomously on those parameters, the participating traders’ market decisions were informed by their competitors’ positions, intentions and constraints. The problematic exchanges of information concerned:
+—
+Exchanges revealing the traders’ open risk positions, which could provide them with an insight into one another’s potential hedging conduct. They provided the traders with information which could be relevant to their subsequent trading decisions for a window of minutes or until the next information exchange superseded it.
+—
+Exchanges revealing their existing or intended bid-ask spreads, which disclosed the price quoted by the traders for specific currency pairs and trade sizes and could also affect the overall price paid by customers for trading currencies. Depending on the market’s volatility at the time, that information may remain useful for the other traders for a window of up to a few hours.
+—
+Exchanges revealing current or planned trading activities and outstanding customers’ orders (stop orders, orders for the fix and immediate orders), which assisted the participating traders in their subsequent decisions and enabled them to identify occasions to coordinate their trading.
+(15)
+In addition to that, seeking to gain an advantage over competitors who were not participants in the chatrooms, the participating traders occasionally coordinated trading positions with a view to influencing the WMR or ECB fixes.
+2.3.
+Individual involvement in the conduct
+(16)
+UBS, Barclays, RBS and BOTM engaged in the aforementioned conduct in the periods indicated in the following table:
+Table 1: involvement of the Parties in the chatrooms
+BANK
+ESSEX EXPRESS
+(
+*1
+)
+GRUMPY SEMI OLD MEN
+(
+*1
+)
+UBS
+14.12.2009-31.7.2012
+BARCLAYS
+14.12.2009-31.7.2012
+8.9.2010-12.1.2011
+6.1.2011-
+31.7.2012
+RBS
+14.9.2010-8.11.2011
+16.9.2010-12.1.2011
+BOTM
+12.1.2011-
+12.9.2011
+8.9.2010
+-12.1.2011
+2.4.
+Geographic scope
+(17)
+The geographic scope of the infringement covered at least the whole of the EEA.
+2.5.
+Remedies
+(18)
+The decision applies the 2006 Commission Guidelines on Fines
+(
+5
+)
+. The Decision imposes fines on the entities of Barclays, RBS and BOTM listed in point (6).
+2.5.1.
+Basic amount of the fine
+(19)
+The Commission considers it appropriate to apply a proxy for the value of sales as a starting point for its determination of the fines because G10 FX spot transactions do not generate any value of sales that are directly traceable in the accounts of the Parties.
+(20)
+The Commission determines the proxy for the relevant values of sales as follows:
+—
+Firstly, the Commission takes as reference the annualised notional amounts traded by the concerned undertaking in the G10 FX spot transactions entered into with a counterparty located in the EEA. To this end, the Commission considers it more appropriate to base the proxy for the value of sales directly on the revenues made by the Parties during the months corresponding to their respective participation in the infringement, which are subsequently annualised.
+—
+Secondly, the Commission multiplies those amounts by an appropriate adjustment factor, uniform for all the Parties, reflecting the applicable bid-ask spreads in G10 FX spot transactions. This factor is the sum of two elements: one related to market making activities and a second related to trading on own account.
+(21)
+For those undertakings who introduced additional settlement submissions within Case 40.135 – Forex, (not covered by this Decision), the Commission in its discretion decided to apply an objective correction factor reflecting the degree of temporal overlap to avoid a potentially disproportionate outcome. Within this decision, this leads to correction factors to the confirmed value of sales of UBS, Barclays and RBS.
+2.5.2.
+Adjustments to the basic amount
+2.5.2.1.
+Aggravating circumstances
+(22)
+No aggravating circumstances are applied in this case.
+2.5.2.2.
+Mitigating circumstances
+(23)
+Mitigating circumstances are applied to both UBS and BOTM for limited participation resulting in 5 % reduction each. Both companies were unaware of the existence of, respectively, the Grumpy Semi Old Men chatroom and the Essex Express ‘n Jimmy chatroom, for the period before the two chatrooms merged.
+2.5.2.3.
+Specific increase for deterrence
+(24)
+In order to ensure that fines have a sufficiently deterrent effect, the Commission may increase fines to be imposed on undertakings which have a particular large turnover beyond the sales of goods or services to which the infringement relates
+(
+6
+)
+.
+(25)
+In this case, it is appropriate to apply a deterrence multiplier factor to the fines to be imposed on BOTM.
+2.5.2.4.
+Application of the 10 % turnover limit
+(26)
+As stipulated in Article 23(2) of Regulation (EC) No 1/2003, in this case, none of the fines exceeds 10 % of the undertakings’ total turnover relating to the business year preceding the date of this Decision.
+(
+7
+)
+2.5.2.5.
+Application of the 2006 Leniency Notice: reduction of fines
+(27)
+UBS is granted immunity from fines. The Commission also granted a 50 % reduction of the fine to Barclays and a 25 % reduction of the fine to RBS.
+2.5.2.6.
+Application of the Settlement Notice
+(28)
+As a result of the application of the Settlement Notice, the amount of the fines to be imposed on all the undertakings was reduced by a 10 % and this reduction was added to any Leniency reward.
+3.
+CONCLUSION
+(29)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003
+(30)
+Table 2: Fines amounts for the infringement
+Undertaking
+Fines (in EUR)
+UBS
+0
+Barclays
+94 217 000
+RBS
+93 715 000
+BOTM
+69 750 000
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+The case does not concern FX spot e-commerce trading activity understood as FX spot trades that are booked by, or executed on or by the relevant bank’s proprietary electronic trading platforms or computer algorithms.
+(
+3
+)
+The WMR fix and the ECB fix are based on spot FX trading activity by market participants at or around the times of the respective WMR or ECB fix.
+(
+4
+)
+On 30 April 2018, The Royal Bank of Scotland plc changed its name to NatWest Markets plc.
+(
+*1
+)
+In bold, the date of beginning and end of the participation in Essex Express for each bank.
+(
+5
+)
+OJ C 210, 1.9.2006, p. 2
+.
+(
+6
+)
+Point 30 of the 2006 Guidelines on fines.
+(
+7
+)
+The Commission requested the banks to provide their total turnover on both a gross and a net basis. The fines do not exceed 10 % of the total turnover for any of the undertakings concerned irrespective of the total turnover used (gross or net).
+Top

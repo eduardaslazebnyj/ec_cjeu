@@ -1,0 +1,486 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition
+
+CASE AT.39784 – Omnis/Microsoft
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7(2) Regulation (EC) 773/2004
+
+Date: 29/01/2016
+
+This text is made available for information purposes only.
+
+Parts of this text have been edited to ensure that confidential information/personal data is not
+disclosed. Those parts are shown as [...].
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu
+
+EUROPEAN COMMISSION
+
+Brussels, 29.1.2016
+SG-Greffe (2016) D/1102
+C(2016) 657 final
+
+[...]
+
+Subject: Case COMP/C-3/AT.39784 – Omnis/Microsoft
+Commission Decision rejecting the complaint
+(Please quote this reference in all correspondence)
+
+Dear Sirs,
+
+(1) I am writing to inform you that the European Commission (the "Commission") has
+decided to reject your complaint of 9 April 2015 against Microsoft Corp (“Microsoft”),
+pursuant to Article 7(2) of the Commission Regulation (EC) 773/2004.1
+
+1. PROCEDURAL BACKGROUND
+
+(2) On 23 December 2009, Omnis lodged a complaint against Microsoft pursuant to
+Article 5 of Commission Regulation 773/2004 ("the 2009 complaint").
+
+(3) In the 2009 complaint, Omnis alleged that Microsoft had committed certain
+infringements of Articles 101, 102 and 106 of the Treaty on the Functioning of the
+European Union ("TFEU") on the market for Enterprise Application Software, referred
+to as ‘Enterprise Application Software/Enterprise Resource Planning’ systems.
+
+(4) On 1 December 2010 the Commission adopted a decision pursuant to Article 7(2) of
+Commission Regulation 773/2004 rejecting the 2009 complaint on the grounds that
+there was an insufficient degree of Union interest in continuing the investigation into
+the alleged infringements (“the 2010 rejection decision”).2
+
+(5) On 1 February 2011, Omnis brought an action for annulment of the Commission's
+2010 rejection decision before the General Court.
+
+1 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, OJ L 123, 27.4.2004, p. 18.
+
+2 Commission Decision of 1 December 2010, Case COMP/39.784.
+
+2
+
+(6) On 30 May 2013, the General Court dismissed Omnis's action and upheld the 2010
+rejection decision in full.3
+
+(7) On 9 April 2015 Omnis lodged another complaint (“the 2015 complaint”), again
+alleging that certain of Microsoft's practices infringed Articles 101, 102 and
+106 TFEU. Omnis further elaborated on these allegations with its additional
+submissions of 14 and 21 October 2015.
+
+(8) By letter of 4 December 2015 Omnis was informed that pursuant to Article 7(1) of
+Commission Regulation 773/2004, after careful examination of the factual and legal
+elements put forward in its complaint, the Commission had taken the preliminary view
+that a further in-depth investigation of the issue, which would require considerable
+resources, would be disproportionate. Consequently, Omnis was informed that the
+Commission intended to reject Omnis' complaint pursuant to Article 7(2) of
+Commission Regulation 773/2004 ("the Article 7(1) letter").
+
+(9) Omnis responded to the Article 7(1) letter on 29 December 2015.
+
+2. THE 2015 COMPLAINT AND THE ADDITIONAL SUBMISSIONS OF 14 OCTOBER, 21
+OCTOBER AND 29 DECEMBER 2015
+
+(10) The 2015 complaint as well as the additional submissions of 14 October, 21 October
+and 29 December 2015 are in many respects vague, imprecise and contradictory and do
+not amount to claims that would be clear and substantiated enough for the Commission
+to take a position on. Notwithstanding that fact, the Commission has, in its Article 7(1)
+letter and in this Decision, assessed all elements in the 2015 complaint and the
+additional submissions of 14 October, 21 October and 29 December 2015 which could
+potentially amount to allegations of a breach of EU competition law. The examination
+of this has not led to a different assessment of the facts underlying the complaint. For
+the reasons set out below, the Commission does not intend to conduct a further
+investigation into your allegations and therefore rejects your complaint.
+
+(11) In the 2015 complaint, you make the following twelve allegations:
+
+1. "Microsoft associated with FUJITSU SIEMENS COMPUTERS, The European
+Aeronautic Defence and Space Company N.V. (EADS), D-CON.NET AG, D-
+CON.NET GMBH, COMSOFT DIRECT AG, BECHTLE HOLDING
+SCHWEIZ AG, GESSA, PROFINET, DIM SOFT, SIVECO, ROMANIAN
+SOFT COMPANY, MEDIST, NET CONSULTING, SMARTREE and other
+companies, in order to constitute a criminal organization, thus protected and
+guaranteed since 2000 by high European officials, Romanian prime ministers,
+ministers, members of the Romanian Parliament, political parties, officers of
+the secret services, judicial police officers, businessmen and underworld
+felons."4
+
+3 EU:T:2013:283.
+4 Page 15 of the 2015 complaint.
+
+3
+
+2. "Microsoft constituted and operated extensive criminal mechanisms of fraud
+and corruption, by empowering FUJITSU SIEMENS COMPUTERS (FSC) as
+the unique Microsoft representative, able to receive payments for Microsoft
+licenses from the Romanian Government, in order to further pay part of the
+overcharged license services (approximately 50%) in bribes, by the use of
+international money laundering schemes."5
+
+3. "Microsoft and its associates (Siemens, EADS, RSC etc.) bribed for the last 12
+years the Romanian Governments and other “beneficiaries” with hundreds of
+millions of euro, after charging for nonexistent licenses, fictive services and
+pirated software. Most of the money were embezzled from the EU finances and
+projects."6
+
+4. "The source code of ISIS.NET was stolen by a company (ROMANIAN SOFT
+COMPANY - RSC), assisted by Microsoft [...] Once the theft discovered and
+brought to justice, RSC was sustained by the Microsoft Romania founder and
+Technical Director, in his quality of a technical judicial expert. The thieves
+claimed the stolen software belonged to Microsoft. Microsoft refused to deny
+RSC's statements and participative defence, and refused to present the source
+code of its Navision product for comparison, even after being informed and
+officially requeste[d] by ORDA, Prosecutors, OLAF and Omnis several times
+since 2009, hence determining the prosecutors and the Courts of Justice to
+exonerate them of several very serious proven and evident frauds, and to thus to
+charges and to accuse Omnis Group (until 2011) of defamation and other illegal
+acts."7 "RSC also sued Omnis for libel, and asked for damages for loss of business
+with the Ministry of Interior. RSC sued Omnis [...] only after they received
+Microsoft's unconditional support."8
+
+5. Microsoft appointed FSC Austria as its sole representative and proxy in the
+licensing contract with the Romanian Government. This constitutes an
+infringement of Articles 101(1)(a), (c), (d), (e), 102(a), (c), (d), and 106(1) and
+(2) TFEU.9
+
+6. "In September 2003, a strategic partnership was signed between the Romanian
+Government and Microsoft. On 15 March 2004, the Romanian Government
+and Microsoft signed a contract for Microsoft licenses (for Enterprise Desktop
+Professional Platform, Windows 2003 - Server, Exchange 2003 - Server,
+Systems Management Server, SharePoint - Portal Server, Windows SQL 200
+Tech, Encarta Library, etc.). Microsoft monopolized the Romanian market for
+government and educational IT platforms, selling approx. 260.000 licenses for
+projected payments in excess of 300.000.000 USD during 2004 – 2012. In
+exchange of the monopoly, Microsoft allowed approximately 50% of the price
+
+5 Page 15 of the 2015 complaint.
+6 Page 15 of the 2015 complaint.
+7 Pages 15 and 16 of the 2015 complaint.
+8 Page 27 of the 2015 complaint.
+9 Page 16 of the 2015 complaint.
+
+4
+
+of the licenses to be returned as bribes to Government high officials. This
+would represent an infringement of Art. 106 para. 1, 2 TFEU."10
+
+7. "In order for the corruption mechanism to function, selected interposed
+companies were used. [Some of these] companies were owned by the
+[Romanian] minister of finance [...] who had to approve and countersign all
+Government payments to Microsoft. This represents infringement of Articles
+101(1)(a), (c), (d), (e), 102(a), (c), (d) and 106(1) and (2) TFEU."11
+
+8. "Microsoft partners with an intermediary company in order to plagiarize
+plagiarise Omnis’ superior competitive software and to distribute it via
+Internet, free of charge, to competent and corrupt authorities, and for money to
+thousands of users, with the EU’s legitimacy given by a grant that they fraud
+and by the protection of the EU authorities, who discharge them of their
+duties."12
+
+9. "Microsoft comes to support the defence of criminals (ROMANIAN SOFT
+COMPANY), based on the assertion that the stolen source code belongs to
+Microsoft. Expertise reports of the Romanian Copyright Office (ORDA) and
+OLAF investigations prove the assertion wrong. Microsoft refuses to present
+the source code of Navision for comparison and verification. The action was
+meant to eliminate Omnis from the ERP/EAS for Windows markets. This
+represents infringement of Ar. 101 para. 1 (b), (d), Art. 102 para. (b), (c)
+TFEU."13
+
+10. "Undertaking Microsoft – members of the Romanian Government - Fujitsu
+Siemens Computers to eliminate effective competition. Microsoft empowered
+FUJITSU SIEMENS COMPUTERS (FSC) as unique Microsoft representative,
+able to receive payments for Microsoft licenses from the Romanian
+government and further use part of the money (approximately 50%) to pay the
+bribes that had to secure the continuity of the contracts. This represents
+infringement of Art. 101 para. 1 (a), (c), (d), (e), Art. 102 para. (a), (c), (d) and
+Art. 106 para. 1, 2 TFEU."14
+
+11. "Undertaking Microsoft – members of the Romanian Government - RSC,
+MEDIST to eliminate effective competition. As established by ORDA in its
+technical-scientific expertise report nr. 18/02.03.2011, and as retained by
+OLAF in the Final Report of the case OF/2010/0068, the technologies
+integrated by Omnis Group in ISIS.NET were (in 2002 – 2004) more advanced
+than those integrated by Microsoft in its Navision product. Hence, Microsoft
+had good reasons to defend the criminals, sending its technical director as
+judicial expert in support of ROMANIAN SOFT COMPANY. Thus, the
+company owned by the minister of finance could be cleared of charges, the
+minister could continue to approve payments for Microsoft (through FSC
+
+10 Page 16 of the 2015 complaint.
+11 Page 16 of the 2015 complaint.
+12 Page 17 of the 2015 complaint.
+13 Page 17 of the 2015 complaint.
+14 Page 17 of the 2015 complaint.
+
+5
+
+Austria Bucharest branch, with offices located in the same building as
+ROMANIAN SOFT COMPANY and MEDIST), Omnis Group’s ISIS.NET
+could be considered a lower copy of Microsoft Navision, Microsoft was able to
+continue promoting and selling its ERP products. Omnis was thus eliminated
+from the ERP/EAS for Windows markets. This represents infringement of Art.
+101 para. 1 (a), (c), (d), (e), Art. 102 para. (a), (c), (d) and Art. 106 para. 1, 2
+TFEU."15
+
+12. "Microsoft was asked to present the source code of Navision for verification
+and comparison against ISIS.NET source code. Microsoft did not answer the
+requests (Omnis Group request – 16.10.2009, ORDA requests – 08.03.2010
+and 21.10.2010, Prosecution Office of the Sibiu County request – 11.03.2010,
+OLAF request – 29.07.2013) or refused to present the source code (OLAF
+request - 05.11.2013). This represents infringement of Art. 101 para. 1 (b), Art.
+102 para. (b) TFEU."16
+
+(12) In addition, on 14 October 2015, you informed the Commission about a judgment of
+the "Supreme Court of Justice" in a trial that dealt with allegations of (government)
+corruption and breaches of public procurement law in relation to "Microsoft-Siemens-
+EADS".17 You further stated that Microsoft's conduct has turned Omnis into
+"dangerous criminals".18 You also elaborated further on the first, second, third, fourth,
+fifth, sixth and tenth allegations of the 2015 complaint (see paragraph (11) above).19
+
+(13) On 21 October 2015, you provided information about alleged fraud and embezzlement
+on an EU-wide scale, ranging from Romanian politicians to high-level EU officials20
+and about the above mentioned judgment of the "Supreme Court of Justice".21 You
+also elaborated further on the first, second, third, fourth, sixth, seventh and tenth
+allegations of the 2015 complaint (see paragraph (11) above).22
+
+(14) In your response to the Article 7(1) letter of 29 December 2015, you submit further
+information that partly relates to the first, third, fourth, seventh, eighth, ninth and
+eleventh allegations of the 2015 complaint (see paragraph (11) above). In addition, you
+provide further information about fraud and embezzlement on an EU-wide scale.
+
+15 Page 17 of the 2015 complaint.
+16 Page 18 of the 2015 complaint.
+17 Pages 1-2 of the additional submission of 14 October 2015.
+
+18 Page 3 of the additional submission of 14 October 2015.
+
+19 Pages 1-3 of the additional submission of 14 October 2015.
+
+20 Pages 2-7 of the additional submission of 21 October 2015.
+
+21 Pages 2, 3, 6, 7 of the additional submission of 21 October 2015.
+
+22 Pages 2, 4, 6-8 of the additional submission of 21 October 2015.
+
+6
+
+3. ASSESSMENT
+
+3.1. Principles
+
+(15) The Commission has discretion in its treatment of complaints.23 In particular, the
+Commission is entitled to give differing degrees of priority, in accordance with the
+principles set out at points 41 to 45 of the Notice on the handling of complaints,24 and
+to refer to the Union interest in order to determine the degree of priority to be applied
+to the various complaints brought before it. The assessment of the Union interest
+raised by a complaint depends on the circumstances of each individual case. When
+deciding which cases to pursue, the Commission takes various factors into account.
+There is no fixed set of criteria,25 but the Commission may notably take into
+consideration whether, on the basis of the information available, it seems likely that
+further investigations will ultimately result in the finding of an infringement. The
+Commission may also attach importance to the potential impact of the alleged
+infringement on the functioning of the internal market.26
+
+(16) In addition, the Commission may consider the scope of the investigation required. If it
+emerges that an in-depth investigation would be a complex and time-consuming matter
+and the likelihood of establishing an infringement appears limited and/or the potential
+impact of the alleged infringement of the internal market appears limited, this will
+weigh against further action by the Commission.27 The Commission cannot be
+compelled to carry out an investigation, where such an investigation would have no
+purpose other than to seek evidence of the existence or non-exis
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n, EU:T:2008:9, paragraph 133.
+28 Case T-320/07 Jones and Others v Commission, EU:T:2011:686, paragraph 115. It is also inherent to the
+complaint procedure that the burden of proof regarding the existence of an alleged infringement is borne by
+the complainant. See Case C-56/12 P EFIM v Commission, EU:C:2013:575, paragraph 72.
+29 Case T-241/97 Stork Amsterdam v Commission, EU:T:2000:41, paragraphs 80-82; Point 78 of the Notice on
+the handling of complaints.
+
+7
+
+3.2. Application in the present case
+
+(18) The first, second, third, fourth (in part), eighth, ninth (in part) and eleventh allegations
+of the 2015 complaint (see paragraph (11) above), as supplemented by your additional
+submissions of 14 October, 21 October and 29 December 2015, relate to possible
+breaches of national or international criminal law, and not of the Union competition
+rules.
+
+(19) The fourth allegation (in part) of the 2015 complaint (see paragraph (11) above), as
+supplemented by your additional submissions of 14 October, 21 October and 29
+December 2015, relates to a possible breach of national libel law, and not of the Union
+competition rules.
+
+(20) The sixth allegation of the 2015 complaint (see paragraph (11) above), as
+supplemented by your additional submissions of 14 and 21 October 2015, relates to a
+possible breach of public procurement law, and not of the Union competition rules.30
+
+(21) The ninth (in part) and twelfth allegations of the 2015 complaint (see paragraph (11)
+above), as supplemented by your additional submission of 29 December 2015, relate to
+a possible breach of intellectual property law, and not of the Union competition
+rules.31
+
+(22) In so far as your additional submissions of 14 October, 21 October and 29 December
+2015 contain information that does not relate to the allegations made in the 2015
+complaint, that information relates to possible breaches of national criminal law,
+international criminal law or intellectual property law, and not of the Union
+competition rules.
+
+(23) This Decision will, therefore, solely address the fifth, seventh and tenth allegations of
+the 2015 complaint, as supplemented by your additional submissions of 14 October, 21
+October and 29 December 2015. Where certain allegations substantially overlap, they
+will be dealt with together.
+
+3.2.1. The fifth and tenth allegations: Microsoft’s appointment of FSC as its sole
+representative and proxy
+
+(24) The Commission is of the view that the likelihood of finding an infringement of
+Articles 101, 102 or 106 TFEU is limited in relation to your fifth and tenth allegations,
+which are substantially the same.
+
+(25) First, the 2015 complaint fails to state on which market the alleged conduct is
+occurring.
+
+(26) Second, even assuming, as the title of the 2015 complaint suggests, that Microsoft’s
+alleged conduct takes place on an EU-wide market for Enterprise Resource
+Planning/Enterprise Application Suite ("ERP/EAS") systems for Windows platforms,
+there is no indication: (i) of the existence of any agreement between at least two
+
+30 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 101.
+31 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 74.
+
+8
+
+undertakings within the meaning of Article 101 TFEU;32 (ii) of the existence of a
+dominant position within the meaning of Article 102 TFEU;33 or (iii) that FSC is a
+public undertaking or an undertaking to which Romania has granted special or
+exclusive rights within the meaning of Article 106 TFEU.34
+
+(27) Third, even if there were an agreement between at least two undertakings, this would
+not in itself require the Commission to pursue an investigation. For an agreement to be
+caught by the prohibition contained in Article 101(1) TFEU, it must also be capable of
+having as its object or effect the restriction of competition to an appreciable extent.35
+You have, however, not put forward any evidence to demonstrate that this would be
+the case.
+
+(28) Fourth, the existence of a dominant position would not in itself require the
+Commission to pursue an investigation. A finding that an undertaking has such a
+dominant position is not in itself a ground of criticism of the undertaking concerned. It
+is in no way the purpose of Article 102 TFEU to prevent an undertaking from
+acquiring, on its own merits, the dominant position on a market.36
+
+(29) Fifth, Article 102 TFEU can apply in certain circumstances to conduct by a dominant
+undertaking on markets other than the dominated markets that has effects either on the
+dominated markets or on the non-dominated markets themselves.37 You have,
+however, not put forward any evidence to demonstrate that this would be the case, in
+particular how Microsoft's appointment of FSC would affect Microsoft's competitors
+or trading partners.
+
+(30) In view of the limited likelihood of establishing the existence of an infringement, the
+Commission takes the view that a further in-depth investigation of this issue, which
+would require considerable resources, would be disproportionate.
+
+3.2.2. The seventh allegation: the use of interposed companies, some owned by
+the Romanian Minister of Finance
+
+(31) The Commission is of the view that the likelihood of finding an infringement of
+Articles 101, 102 or 106 TFEU is limited in relation to your seventh allegation.
+
+(32) First, the 2015 complaint fails to state on which market the alleged conduct is
+occurring.
+
+32 Joined Cases C-2/01 P and C-3/01 P BAI and Commission v Bayer, EU:C:2004:2, paragraphs 100-102.
+33 Case C-52/09 TeliaSonera Sverige, EU:C:2011:83, paragraph 23.
+34 Case 56/65 Société Technique Minière v Maschinenbau Ulm, EU:C:1966:38, p. 249.
+35 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 61.
+36 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 61.
+37 Case C-52/09 TeliaSonera Sverige, EU:C:2011:83, paragraphs 84-86.
+
+9
+
+(33) Second, there is no indication: (i) of the existence of any agreement between at least
+two undertakings within the meaning of Article 101 TFEU;38 (ii) of the existence of
+dominance within the meaning of Article 102 TFEU;39 or (iii) that any of the
+interposed companies, including those allegedly owned by the Romanian Minister of
+Finance, is either a public undertaking or an undertaking to which Romania has
+granted special or exclusive rights within the meaning of Article 106 TFEU.40
+
+(34) Third, even if there were an agreement between at least two undertakings, this would
+not in itself require the Commission to pursue an investigation. For an agreement to be
+caught by the prohibition contained in Article 101(1) TFEU, it must also be capable of
+having as its object or effect the restriction of competition to an appreciable extent.41
+You have, however, not put forward any evidence to demonstrate that this would be
+the case.
+
+(35) Fourth, the existence of a dominant position would not in itself require the
+Commission to pursue an investigation. A finding that an undertaking has such a
+dominant position is not in itself a ground of criticism of the undertaking concerned. It
+is in no way the purpose of Article 102 TFEU to prevent an undertaking from
+acquiring, on its own merits, the dominant position on a market.42
+
+(36) Fifth, Article 102 TFEU can apply in certain circumstances to conduct by a dominant
+undertaking on markets other than the dominated markets that has effects either on the
+dominated markets or on the non-dominated markets themselves.43 You have,
+however, not put forward any evidence to demonstrate that this would be the case, in
+particular how the use of interposed companies would affect Microsoft's competitors
+or trading partners.
+
+(37) In view of the limited likelihood of establishing the existence of an infringement, the
+Commission takes the view that a further in-depth investigation of this issue, which
+would require considerable resources, would be disproportionate.
+
+4. CONCLUSION
+
+(38) In view of the above considerations, the Commission, in its discretion to set priorities,
+has come to the conclusion that there are insufficient grounds for conducting a further
+investigation into the alleged infringements and consequently rejects the 2015
+complaint pursuant to Article 7(2) of Regulation No. 773/2004.
+
+38 Joined Cases C-2/01 P and C-3/01 P BAI and Commission v Bayer, EU:C:2004:2, paragraphs 100-102.
+39 Case C-52/09 TeliaSonera Sverige, EU:C:2011:83, paragraph 23.
+40 Case C-553/12 P Commission v DEI, EU:C:2014:2083, paragraph 56.
+41 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 61.
+42 Case T-74/11 Omnis Group v Commission, EU:T:2013:283, paragraph 61.
+43 Case C-52/09 TeliaSonera Sverige, EU:C:2011:83, paragraphs 84-86.
+
+10
+
+5. Procedure
+
+5.1. Recourse against this Decision
+
+(39) An action may be brought against this Decision before the General Court of the
+European Union, in accordance with Article 263 TFEU.
+
+5.2. Confidentiality
+
+(40) The Commission reserves the right to send a copy of this Decision to Microsoft.
+Moreover, the Commission may decide to make this Decision, or a summary thereof,
+public on its website.44 If you consider that certain parts of this Decision contain
+confidential information, I would be grateful if within two weeks from the date of
+receipt you would inform the responsible case handler [...]. Please identify clearly the
+information in question and indicate why you consider it should be treated as
+confidential. Absent any response within the deadline, the Commission will assume
+that you do not consider that the Decision contains confidential information and that it
+can be published on the Commission’s website or sent to Microsoft.
+
+(41) The published version of the Decision may conceal your identity upon your request
+and only if this is necessary for the protection of your legitimate interests.
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+44 See paragraph 150 of the Commission notice on best practices for the conduct of proceedings concerning
+Articles 101 and 102 TFEU, OJ 2011/C 308/06.
+
+11

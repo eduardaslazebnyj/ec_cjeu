@@ -1,0 +1,672 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 30.XI.2005
+C(2005)4634
+.
+
+EEU Restricted
+
+.
+
+COMMISSION DECISION
+
+of 30.XI.2005
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+(Case COMP/38354 – Industrial bags)
+
+(Only the Dutch, English, French, German and Spanish versions are authentic)
+
+To be notified to
+
+-Armando Álvarez SA
+
+-Bernay Film Plastique
+
+-Bischof + Klein France SAS
+
+-Bischof + Klein GmbH & Co. KG
+
+-Bonar Technical Fabrics N.V.
+
+-British Polythene Industries PLC
+
+-Cofira-Sac SA
+
+-Combipac B.V.
+
+-JM Gesellschaft für industrielle Beteiligungen mbH & Co. KGaA
+
+EN EN
+
+-Fardem Packaging BV
+
+-FLSmidth & Co A/S
+
+-FLS Plast A/S
+
+-Groupe Gascogne
+
+-Kendrion NV
+
+-Koninklijke Verpakkingsindustrie Stempher C.V.
+
+-Low & Bonar PLC
+
+-Nordenia International AG
+
+-Nordfolien GmbH
+
+-Plásticos Españoles SA
+
+-RKW AG Rheinische Kunststoffwerke
+
+-Sachsa Verpackung GmbH
+
+-Stempher BV
+
+-Trioplast Industrier AB
+
+-Trioplast Wittenheim SA
+
+-UPM-Kymmene Oyj
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION................................................................................................ 10
+
+2. THE INDUSTRIAL BAGS SECTOR ................................................................. 11
+
+2.1. THE PRODUCT........................................................................................................ 11
+
+2.1.1. The characteristics of the product....................................................................... 11
+
+2.1.2. Trends in the supply of industrial bags ............................................................... 12
+
+2.1.3. Trends in the demand for industrial bags ........................................................... 13
+
+2.1.4. The parties’ arguments in response to the Statement of Objections as regards
+the relevant products, and the Commission’s findings ....................................... 13
+
+2.2. THE GEOGRAPHIC AREA AFFECTED BY THE CARTEL.............................................. 16
+
+2.3. ESTIMATE OF THE MARKET’S VALUE AND OF MARKET SHARES ............................. 18
+
+2.4. TRADE BETWEEN MEMBER STATES....................................................................... 21
+
+2.5. THE UNDERTAKINGS INVOLVED IN THIS PROCEEDING ........................................... 22
+
+2.5.1. Aspla and Armando Álvarez SA.......................................................................... 22
+
+2.5.2. Bischof + Klein ..................................................................................................... 22
+
+2.5.3. Bischof + Klein France (Sacherie de Pont-Audemer) ......................................... 22
+
+2.5.4. Bonar Technical Fabrics and the Low & Bonar group ...................................... 23
+
+2.5.5. The BPI group...................................................................................................... 23
+
+2.5.6. Cofira.................................................................................................................... 24
+
+2.5.7. Ceisa...................................................................................................................... 25
+
+2.5.8. Fardem.................................................................................................................. 26
+
+2.5.9. Nordenia ............................................................................................................... 26
+
+2.5.10. RKW..................................................................................................................... 26
+
+2.5.11. Rosenlew and UPM-Kymmene............................................................................ 27
+
+2.5.12. Sachsa and Groupe Gascogne.............................................................................. 28
+
+2.5.13. Stempher............................................................................................................... 28
+
+EN EN
+
+2.5.14. Trioplast Wittenheim, the Trioplast group and the FLS group......................... 28
+
+3. PROCEDURE ...................................................................................................... 29
+
+3.1. COMMISSION INVESTIGATION................................................................................ 29
+
+4. THE FACTS......................................................................................................... 30
+
+4.1. ORIGIN AND GENERAL DESCRIPTION OF THE CARTEL............................................ 30
+
+4.2. VALVEPLAST.......................................................................................................... 32
+
+4.2.1. Structure and operation....................................................................................... 32
+
+4.2.2. Members............................................................................................................... 34
+
+4.2.3. Basic features of the cartel................................................................................... 34
+
+4.2.4. Operation.............................................................................................................. 35
+
+4.2.4.1. Determination of general quotas and exchange of information ......................... 35
+
+4.2.4.1.1. The facts identified by the Commission.......................................................... 35
+
+4.2.4.1.2. The parties' arguments in response to the Statement of Objections as regards
+the fixing of quotas and exchange of information, and the Commission's findings ........ 37
+
+4.2.4.2. Allocation of customers........................................................................................ 37
+
+4.2.4.2.1. The facts identified by the Commission.......................................................... 37
+
+4.2.4.2.2. The parties' arguments in response to the Statement of Objections as regards
+the allocation of customers, and the Commission's findings............................................ 38
+
+4.2.4.3. Price fixing............................................................................................................ 38
+
+4.2.4.3.1. The facts identified by the Commission.......................................................... 38
+
+4.2.4.3.2. The parties' arguments in response to the Statement of Objections as regards
+price fixing, and the Commission's findings ..................................................................... 40
+
+4.2.4.4. Details of meetings................................................................................................ 40
+
+4.3. THE FRANCE SUBGROUP........................................................................................ 40
+
+4.3.1. Organisation, structure and principles................................................................ 40
+
+4.3.2. Operation.............................................................................................................. 41
+
+4.3.2.1. The facts identified by the Commission............................................................... 41
+
+4.3.2.1.1. Determination and monitoring of general quotas .......................................... 41
+
+EN EN
+
+4.3.2.1.2. Allocation of customers and price fixing ........................................................ 41
+
+4.3.2.1.3. Details of meetings........................................................................................... 42
+
+4.3.2.2. The parties' arguments in response to the Statement of Objections, and the
+Commission's findings.......................................................................................... 43
+
+4.4. THE GERMANY SUBGROUP..................................................................................... 43
+
+4.4.1. The facts identified by the Commission............................................................... 43
+
+4.4.2. The parties' arguments in response to the Statement of Objections, and the
+Commission's findings.......................................................................................... 44
+
+4.5. THE BENELUX SUBGROUP...................................................................................... 44
+
+4.5.1. Fixing of general quotas....................................................................................... 45
+
+4.5.2. Allocation of customers........................................................................................ 45
+
+4.5.3. Price fixing............................................................................................................ 46
+
+4.5.4. Details of meetings................................................................................................ 47
+
+4.6. THE BELGIUM SUBGROUP...................................................................................... 47
+
+4.6.1. Fixing of general quotas....................................................................................... 47
+
+4.6.2. Exchanges of information and discussions on customers ................................... 47
+
+4.6.3. Price fixing............................................................................................................ 47
+
+4.6.4. Details of meetings................................................................................................ 48
+
+4.7. THE TEPPEMA GROUP............................................................................................ 48
+
+4.7.1. The facts identified by the Commission............................................................... 48
+
+4.7.1.1. Allocation of customers........................................................................................ 49
+
+4.7.1.2. Price fixing............................................................................................................ 49
+
+4.7.1.3. Details of meetings................................................................................................ 49
+
+4.7.2. The parties’ arguments in response to the Statement of Objections, and the
+Commission’s findings ......................................................................................... 49
+
+4.7.3. The facts identified by the Commission............................................................... 50
+
+4.7.3.1. Operation of the subgroup................................................................................... 50
+
+4.7.3.2. Determination of quotas and allocation of customers......................................... 50
+
+EN EN
+
+4.7.3.3. Price fixing............................................................................................................ 51
+
+4.7.3.4. Details of meetings................................................................................................ 51
+
+4.7.4. The parties' arguments in response to the Statement of Objections, and the
+Commission’s findings ......................................................................................... 51
+
+5. APPLICATION OF ARTICLE 81 OF THE TREATY...................................... 51
+
+5.1. THE TREATY AND THE COMMISSION’S POWERS .................................................... 51
+
+5.1.1. The Treaty ............................................................................................................ 51
+
+5.1.2. Powers................................................................................................................... 51
+
+5.2. THE APPLICATION OF ARTICLE 81 OF THE TREATY............................................... 51
+
+5.2.1. Article 81 of the Treaty ........................................................................................ 51
+
+5.2.2. Agreements and concerted practices ................................................................... 52
+
+5.2.2.1. Principle................................................................................................................ 52
+
+5.2.2.2. Application ........................................................................................................... 54
+
+5.2.3. Single and continuous infringement .................................................................... 55
+
+5.2.3.1. Principle................................................................................................................ 55
+
+5.2.3.2. Application ........................................................................................................... 56
+
+5.2.4. The parties’ replies regarding the legal assessment of the facts and the
+Commission’s findings. ........................................................................................ 59
+
+5.2.5. Restriction of competition.................................................................................... 59
+
+5.2.6. Effects on trade between Member States ............................................................ 62
+
+5.2.7. Duration of the infringement ............................................................................... 64
+
+5.2.7.1. Start of the infringement...................................................................................... 64
+
+5.2.8. Addressees of the Decision ................................................................................... 68
+
+5.2.8.1. Applicable principles............................................................................................ 68
+
+5.2.8.2. Addressees ............................................................................................................ 69
+
+5.2.9. Application of Article 81(3) of the Treaty ........................................................... 87
+
+6. REMEDIES .......................................................................................................... 87
+
+EN EN
+
+6.1. ARTICLE 3 OF REGULATION NO 17 AND ARTICLE 7 OF REGULATION (EC)
+NO 1/2003.............................................................................................................. 87
+
+6.2. ARTICLE 15(2) OF REGULATION NO 17 AND ARTICLE 23(2) OF REGULATION (EC)
+NO 1/2003.............................................................................................................. 87
+
+6.3. BASIC AMOUNT OF THE FINES ................................................................................ 87
+
+6.3.1. Gravity.................................................................................................................. 88
+
+6.3.1.1. Nature of the infringement................................................................................... 88
+
+6.3.1.2. Impact of the infringement .................................................................................. 88
+
+6.3.1.3. Size of the geographic area concerned................................................................. 89
+
+6.3.1.4. Commission conclusions on the gravity of the infringement .............................. 89
+
+6.3.2. Differential treatment .......................................................................................... 89
+
+6.3.3. Sufficient deterrence ............................................................................................ 91
+
+6.3.4. Duration of the infringement ............................................................................... 91
+
+6.3.5. Conclusion on 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ (872) is deleted, including any cross references to this recital and relevant
+footnotes.]
+
+(873) The Commission accordingly takes the view that the arguments relating to [Company
+X]’s ability to pay should be dismissed.
+
+(874) [Recital (874) is deleted, including any cross references to this recital and relevant
+footnotes.]
+
+(875) [Recital (875) is deleted, including any cross references to this recital and relevant
+footnotes.]
+
+(876) [Recital (876) is deleted, including any cross references to this recital and relevant
+footnotes.]
+
+(877) [Recital (877) is deleted, including any cross references to this recital and relevant
+footnotes.]
+
+(878) [Recital (878) is deleted, including any cross references to this recital and relevant
+footnotes.].
+
+6.8. FINAL AMOUNTS OF THE FINES IMPOSED IN THIS PROCEEDING
+
+(879) In conclusion, the fines to be imposed pursuant to Article 15(2) of Regulation No 17
+and Article 23(2) of Regulation (EC) No 1/2003 should be as follows:
+
+– Combipac BV: EUR 0. Of this amount, British Polythene Industries PLC is held
+jointly and severally liable for the sum of EUR 0;
+
+– Bischof + Klein GmbH & Co. KG: EUR 29.15 million and Bischof + Klein
+France SAS : EUR 3.96 million;
+
+– RKW AG Rheinische Kunststoffwerke and JM Gesellschaft für industrielle
+Beteiligungen mbH & Co. KGaA, jointly and severally: EUR 39 million;
+
+– Kendrion N.V.: EUR 34 million. Of this amount, Fardem Packaging B.V. is held
+jointly and severally liable for the sum of EUR 2.20 million;
+
+– Nordenia International AG: EUR 39.10 million. Of this amount, Nordfolien
+GmbH is held jointly and severally liable for the sum of EUR 7.18 million;
+
+– Trioplast Wittenheim SA: EUR 17.85 million. Of this amount, FLSmidth & Co.
+A/S (FLS Industries A/S) and FLS Plast A/S are held jointly and severally liable
+for the sum of EUR 15.30 million and Trioplast Industrier AB is held jointly and
+severally liable for the sum of EUR 7.73 million;
+
+EN 107 EN
+
+– Cofira-Sac SA: EUR 350 000;
+
+– Plásticos Españoles SA and Armando Álvarez SA, jointly and severally: EUR 42
+million;
+
+– Sachsa Verpackung GmbH: EUR 13.20 million. Of this amount, Groupe
+Gascogne is held jointly and severally liable for the sum of EUR 9.90 million;
+
+– UPM-Kymmene Oyj: EUR 56.55 million.
+
+– Bernay Film Plastique: EUR 940 000;
+
+– Bonar Technical Fabrics NV and Low & Bonar PLC, jointly and severally:
+EUR 12.24 million;
+
+– Stempher BV and K.V. Stempher C.V., jointly and severally: EUR 2.37 million,
+
+EN 108 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1. The following undertakings have infringed Article 81 of the Treaty by participating,
+during the periods indicated, in a complex of agreements and concerted practices in
+the plastic industrial bags sector in Belgium, Germany, Spain, France, Luxembourg
+and the Netherlands, consisting in the fixing of prices and the establishment of
+common price calculation models, the sharing of markets and the allocation of sales
+quotas, the assignment of customers, deals and orders, the submission of concerted
+bids in response to certain invitations to tender and the exchange of individualised
+information:
+
+(a) Combipac B.V., from 6 January 1982 until 9 November 2001, and British
+Polythene Industries PLC, from 25 April 1997 until 9 November 2001;
+
+(b) Bischof + Klein GmbH & Co. KG, from 6 January 1982 until 26 June 2002,
+and Bischof + Klein France SAS, from 6 January 1982 until 18 December
+2000;
+
+(c) RKW AG Rheinische Kunststoffwerke and JM Gesellschaft für industrielle
+Beteiligungen mbH & Co. KGaA, from 6 January 1982 until 26 June 2002;
+
+(d) Fardem Packaging B.V., from 6 January 1982 until 26 June 2002, and
+Kendrion N.V., from 8 June 1995 until 26 June 2002;
+
+(e) Nordenia International AG, from 6 January 1982 until 26 June 2002;
+
+(f) Nordfolien GmbH, from 24 November 1992 until 26 June 2002;
+
+(g) Trioplast Wittenheim SA, from 6 January 1982 until 26 June 2002, and
+Trioplast Industrier AB, from 21 January 1999 until 26 June 2002;
+
+(h) FLS Plast A/S and FLSmidth & Co A/S from 31 December 1990 until 19
+January 1999;
+
+(i) Cofira-Sac SA , from 24 March 1982 until 26 June 2002;
+
+(j) Plásticos Españoles SA and Armando Álvarez SA, from 8 March 1991 until
+26 June 2002;
+
+(k) Sachsa Verpackung GmbH, from 9 February 1988 until 26 June 2002, and
+Groupe Gascogne, from 1 January 1994 until 26 June 2002;
+
+(l) UPM-Kymmene Oyj, from 18 July 1994 until 31 January 1999;
+
+(m) Bernay Film Plastique, from 31 August 1995 until 9 November 1998;
+
+(n) Bonar Technical Fabrics NV and Low & Bonar PLC, from 13 September 1991
+until 28 November 1997.
+
+EN 109 EN
+
+2. Stempher BV and Koninklijke Verpakkingsindustrie Stempher C.V. have infringed
+Article 81 of the Treaty by participating, from 25 October 1993 until
+31 October 1997, in a complex of agreements and concerted practices in the plastic
+industrial bags sector in the Netherlands and, occasionally, in Belgium, consisting in
+the fixing of prices and the establishment of common price calculation models, the
+sharing of markets, the assignment of customers, deals and orders and the exchange
+of individualised information.
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+(a) Combipac BV: EUR 0. Of this amount, British Polythene Industries PLC shall
+be jointly and severally liable for the sum of EUR 0;
+
+(b) Bischof + Klein GmbH & Co. KG: EUR 29.15 million and Bischof + Klein
+France SAS: EUR 3.96 million;
+
+(c) RKW AG Rheinische Kunststoffwerke and JM Gesellschaft für industrielle
+Beteiligungen mbH & Co. KGaA, jointly and severally: EUR 39 million;
+
+(d) Kendrion N.V.: EUR 34 million. Of this amount, Fardem Packaging B.V. shall
+be jointly and severally liable for the sum of EUR 2.20 million;
+
+(e) Nordenia International AG: EUR 39.10 million. Of this amount, Nordfolien
+GmbH shall be jointly and severally liable for the sum of EUR 7.18 million;
+
+(f) Trioplast Wittenheim SA: EUR 17.85 million. Of this amount, FLSmidth &
+Co. A/S and FLS Plast A/S shall be jointly and severally liable for the sum of
+EUR 15.30 million and Trioplast Industrier AB shall be jointly and severally
+liable for the sum of EUR 7.73 million;
+
+(g) Cofira-Sac SA: EUR 350 000;
+
+(h) Plásticos Españoles SA and Armando Álvarez SA, jointly and severally:
+EUR 42 million;
+
+(i) Sachsa Verpackung GmbH: EUR 13.20 million. Of this amount, Groupe
+Gascogne shall be jointly and severally liable for the sum of EUR 9.90 million;
+
+(j) UPM-Kymmene Oyj: EUR 56.55 million;
+
+(k) Bernay Film Plastique: EUR 940 000;
+
+(l) Bonar Technical Fabrics NV and Low & Bonar PLC, jointly and severally:
+EUR 12.24 million;
+
+(m) Stempher BV and Koninklijke Verpakkingsindustrie Stempher C.V., jointly
+and severally: EUR 2.37 million.
+
+EN 110 EN
+
+The fines shall be paid in euros, within three months of the date of the notification of this
+Decision, to the following account:
+
+Account No
+
+001-3953713-69 of the European Commission with
+Fortis Bank, Rue Montagne du Parc 3, 1000 Brussels
+(SWIFT code GEBABEBB – IBAN code BE71 0013 9537 1369)
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month
+in which this Decision is adopted, plus 3.5 percentage points, namely 5.56%.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having an identical or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+1. Armando Álvarez SA
+C/Don Ramòn de la Cruz 1-2°
+ES-28001 Madrid
+España
+
+2. Bernay Film Plastique
+Zone Industrielle
+Route de Broglie
+FR-27300 Bernay
+France
+Represented by Maître Béatrice PASCUAL, Administrateur Judiciaire, acting
+as Mandataire Ad’Hoc de la société Bernay Film Plastique
+6, rue Dupleix
+FR-76600 Le Havre
+France
+
+3. Bischof + Klein France SAS
+15, rue des Papetiers
+FR-27502 Pont-Audemer
+France
+
+EN 111 EN
+
+4. Bischof+Klein GmbH & Co. KG
+Rahestrasse 47
+DE-49525 Lengerich
+Deutschland
+
+5. Bonar Technical Fabrics N.V.
+Industriestraat 39
+BE-9240 Zele
+België
+
+6. British Polythene Industries PLC
+10 Foster Lane
+London
+UK-EC2V 6HR
+United Kingdom
+
+7. Cofira-Sac SA
+Z.I. Avenue Georges Vacher
+FR-13106 Rousset Cedex
+France
+
+8. Combipac B.V.
+Bruchterweg 88
+NL-7772 BJ Hardenberg
+Nederland
+
+9. Fardem Packaging B.V.
+Nijverheidstraat 55
+NL-1135 KZ Edam
+Nederland
+
+10. FLSmidth & Co. A/S
+Vigerslev Allé 77
+DK – 2500 Valby
+Denmark
+
+11. FLS Plast A/S
+Vigerslev Allé 77
+DK – 2500 Valby
+Denmark
+
+12. Groupe Gascogne
+650 avenue Pierre Benoit
+FR-40990 Saint-Paul-les-Dax
+France
+
+13. JM Gesellschaft für industrielle Beteiligungen mbH & Co. KGaA
+Horchheimer Strasse 50
+DE-67547 Worms
+Deutschland
+
+EN 112 EN
+
+14. Kendrion N.V.
+Utrechtseweg 33
+NL-3704 HA Zeist
+
+15. Koninklijke Verpakkingsindustrie Stempher C.V.
+Morsweg 22
+NL-7461 AG Rijssen
+Nederland
+
+16. Low & Bonar PLC
+50 Castle Street
+Dundee
+Scotland
+UK-DD1 3RU
+United Kingdom
+
+17. Nordenia International AG
+Airport Center am FMO
+Hüttruper Heide 71-81
+DE-48268 Greven
+Deutschland
+
+18. Nordfolien GmbH
+Am Tannenkamp 21
+DE-49439 Steinfeld
+Deutschland
+
+19. Plásticos Españoles S.A.
+Avenida Pablo Guernica, 20
+ES-39300 Torrelavega (Cantabria)
+España
+
+20. RKW AG Rheinische Kunststoffwerke
+Horchheimer Strasse 50
+DE-67547 Worms
+Deutschland
+
+21. Sachsa Verpackung GmbH
+Südstrasse 4-6
+DE-37447 Wieda
+Deutschland
+
+22. Stempher B.V.
+Morsweg 22
+NL-7461 AG Rijssen
+Nederland
+
+23. Trioplast Industrier AB
+Box 143
+
+EN 113 EN
+
+SE-333 23 Smålandsstenar
+Sweden
+
+24. Trioplast Wittenheim SA
+5, rue de Lorraine
+FR-68271 Wittenheim cedex
+France
+
+25. UPM-Kymmene Oyj
+Eteläesplanadi 2
+FI-00130 Helsinki
+Finland
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 30.XI.2005
+
+For the Commission,
+
+Neelie KROES
+Member of the Commission
+
+EN 114 EN

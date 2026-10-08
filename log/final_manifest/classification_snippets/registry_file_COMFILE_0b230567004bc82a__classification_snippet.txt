@@ -1,0 +1,147 @@
+## Annex
+
+Commitments - Penguin
+
+## FINAL COMMITMENTS OF PENGUIN
+
+## CASE COMP/39.847 - E-BOOKS
+
+In accordance with Article 9 of Regulation 1/2003, Penguin offers the following commitments (the "Commitments") to address the preliminary competition concerns identified by the European Commission (the "Commission") in Case COMP/39.847 E-books in the Commission's preliminary assessment dated 1 March 2013 (the "Preliminary Assessment"), and to enable the Commission to adopt a decision confirming that the Commitments meet its concerns ("Commitments Decision").
+
+Consistent with Article 9 of Regulation 1/2003, the Commitments are given in the understanding that the Commission will confirm that there are no grounds for further action in relation to E-books and will close the Commission proceedings opened on December 1, 2011 in relation to Penguin's arrangements for the sale of E-books. For the avoidance of doubt, these Commitments are offered without admission of infringement or liability. Penguin strongly contests the concerns expressed by the Commission in the Preliminary Assessment and that it has engaged in unlawful conduct contrary to Article 101 of the Treaty on the Functioning of the European Union or Article 53 EEA Agreement or any other aspect of European Union or EEA competition law. The Commitments are without prejudice to Penguin's position should the Commission or any other party conduct proceedings or commence any other legal action against Penguin.
+
+## I. DEFINITIONS
+
+For the purposes of these Commitments, the terms listed below shall have the following meaning:
+
+"Agency Agreement" means an agreement between an E-book Publisher and an E-book Retailer under which (i) the E-book Publisher Sells E-books to Consumers through the E-book Retailer, which under the agreement acts as an agent of the E-book Publisher and is paid an Agent Commission in connection with the Sale of one or more of the E-book Publisher's E-books, and (ii) the E-book Publisher sets the Digital List Price.
+
+"Agent Commission" means the percentage of the Digital List Price of an E-book received by an E-book Retailer under an Agency Agreement in connection with the Sale of this particular E-book.
+
+"Agreed Funds" means the aggregate amount equal to the total Agent Commissions Penguin pays to an E-book Retailer, over a period of at least one year, in connection with the Sale of Penguin's E-books to Consumers.
+
+"Apple" means (i) Apple, Inc., a California corporation with its principal place of business in Cupertino, California, and (ii) iTunes Sarl, a Luxembourg limited liability company with its principal place of business in Luxembourg, their successors and assigns, and their parents, subsidiaries, divisions, groups, affiliates, partnerships, and joint-ventures, and their directors, officers, managers, agents, and employees.
+
+“Consumer” means an individual who purchases an E-book for personal use.
+
+“Digital List Price” means the price established by the E-book Publisher for the Sale of an E-book to Consumers under the terms of an Agency Agreement. For the avoidance of doubt, the amount that Penguin shall be entitled to receive in respect of each E-book title Sold through an Agency Agreement shall be based on the Digital List Price for that E-book, net of VAT.
+
+“Discount” means the amount which an E-book Retailer in the case of an Agency Agreement may deduct from the Digital List Price of a Penguin E-book, as well as any other form of promotion, for the purposes of a Sale to Consumers to encourage Consumers to Purchase one or more E-books in the EEA. In the case of an Agency Agreement, the Discount shall be subject to the “Agreed Funds” (see Section V below).
+
+“E-book” means an electronically formatted book designed to be read on a computer, a handheld device, or other electronic devices capable of visually displaying E-books. For the purposes of these Commitments, the term E-book does not include (i) an audio book, even if delivered and stored digitally; (ii) a standalone specialized software application or “app” sold through an “app store” rather than through an E-book store (e.g., through Apple’s “App Store” rather than through its “iBookstore” or “iTunes”) and not designed to be executed or read by or through a dedicated E-book reading device; (iii) a media file containing an electronically formatted book for which most of the value to Consumers is derived from audio or video content contained in the file that is not included in the print version of the book; (iv) self published E-books; (v) electronic versions of children’s picture books; or (vi) educational and scholarly titles as well as electronically formatted books that are sold through educational and/or library channels.
+
+"E-book Publisher" means any Person that, by virtue of a contract or other relationship with an E-book's author or other rights holder, owns or controls the necessary copyright or other authority (or asserts such ownership or control) over any E-book sufficient to distribute the E-book to E-book Retailers and to permit such E-book Retailers to Sell the E-book to Consumers in the EEA. Penguin is an E-book Publisher. For the purposes of these Commitments, an E-book Publisher is not an E-book Retailer except when it lawfully Sells (or seeks to lawfully Sell) directly E-books to consumers for another E-book Publisher, or acts as an agent under an Agency Agreement for another E-book Publisher.
+
+“E-book Retailer” means any Person that lawfully Sells (or seeks to lawfully Sell) E-books to Consumers in the EEA, or through which an E-book Publisher, under an Agency Agreement, Sells E-books to Consumers in the EEA. For the purposes of these Commitments, unless otherwise provided, Penguin and all other Persons whose primary business is book publishing are not E-book Retailers. For the purposes of these Commitments, Apple is an E-book Retailer.
+
+“EEA” means those countries participating in the European Economic Area as of the Effective Date and at any time thereafter during the term of these Commitments.
+
+"Effective Date" means the date upon which Penguin receives formal notification of a Commitments Decision by which the Commission makes the Commitments binding on Penguin.
+
+"Implementation Date" means the earlier of (i) the termination of an agreement between Penguin and the E-book Retailer that restricts, limits or impedes the E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book or to offer Discounts in the EEA; or (ii) the date on which Penguin notifies the E-book Retailer in writing that Penguin will not enforce any term(s) in its agreement with the E-book Retailer that restrict, limit or impede the E-book Retailer from setting, altering, or reducing the Retail Price of one or more E-books or from offering Discounts in the EEA.
+
+"Including" means including, but not limited to.
+
+“MFN” means a term in an agreement between Penguin and an E-book Retailer under which:
+
+(i) the Retail Price at which an E-book Retailer or, under an Agency Agreement, Penguin, Sells one or more E-books to Consumers, depends in any way on the Retail Price, or Discounts from the Digital List Price, at which any other E-book Retailer or Penguin under an Agency Agreement through any other E-book Retailer, Sells the same E-book(s) to Consumers; or
+
+(ii) the Wholesale Price at which Penguin sells one or more E-books to or through that E-book Retailer depends in any way on the Wholesale Price at which Penguin sells the same E-book(s) to or through any other E-book Retailer; or
+
+(i))) the revenue share or Agent Commission that an E-book Retailer receives from Penguin in connection with the Sale of one or more E-books to Consumers depends in any way on the revenue share or Agent Commission that (a) any other E-book Retailer receives from Penguin in connection with the Sale of the same E-book(s) to Consumers, or (b) the E-book Retailer receives from any other E-book Publisher in connection with the Sale of one or more of the other E-book Publisher's E-books.
+
+"Penguin" means Penguin Random House Limited (formerly The Penguin Publishing Company Ltd), Penguin Group (USA) LLC (formerly Penguin Group (USA) Inc), and any other entities that will operate under the name "Penguin Random House" formed pursuant to the Contribution Agreement, dated October 29, 2012, by and between Pearson plc and Bertelsmann SE & Co. KgaA, as investigated by the Commission in Case M.6789 Bertelsmann/Pearson – Penguin Random House, and their successors and assigns (expressly including any similar joint venture between Penguin and Random House or any other entity) and each of their respective subsidiaries, divisions, groups and partnerships. Where these Commitments impose an obligation on Penguin to engage in certain conduct by a particular date, any successor or assign whose acquisition of or combination or other relationship with Penguin is consummated after the Effective Date shall meet each such obligation within thirty days after consummation. The prohibitions of Section III.A of these Commitments shall expire for any successor or assign of Penguin on the dates on which such prohibitions would have expired for Penguin had the acquisition, combination, or other relationship not occurred.
+
+“Person” means any natural person, corporation, company, partnership, joint venture, firm, association, proprietorship, agency, board, authority, commission, office, or other business or legal entity, whether private or governmental.
+
+"Purchase" means a Consumer's acquisition of one or more E-books as a result of a Sale.
+
+"Retail Price" means the price at which an E-book Retailer or, under an Agency Agreement, an E-book Publisher Sells an E-book to a Consumer.
+
+"Sale" means delivery of access on a permanent basis to a Consumer to read one or more E-books (Purchased alone, or in combination with other goods or services) in exchange for payment; "Sell" or "Sold" means to make or to have made a Sale of an E-book to a Consumer.
+
+"Wholesale Price" means (i) the net amount, after any discounts or other adjustments, that an E-book Retailer pays to Penguin for an E-book that the E-book Retailer Sells to Consumers; or (ii) under an Agency Agreement, the Digital List Price minus the Agent Commission or other payment that Penguin pays to the E-book Retailer in connection with, or that is reasonably allocated to, that Sale.
+
+## II. REQUIRED CONDUCT
+
+A. At the latest, within seven days after the Effective Date, if Apple has not already fulfilled its obligations with respect to Penguin pursuant to Sections II.1 and II.2 of its commitments offered pursuant to Article 9 of Regulation 1/2003 and formally adopted by the Commission on 13 December 2012, Penguin shall send a letter to Apple confirming that (i) it waives the notice period contained in any agreement with Apple that concerns the distribution of E-books within the EEA and (ii) it agrees to rescind (terminate) such agreements no later than fourteen days from the date of the Commitments Decision. A copy of such letter should be provided to the Commission at the same time.
+
+B. For each Agency Agreement relating to the Sale of E-books within the EEA between Penguin and an E-book Retailer other than Apple entered into prior to the Effective Date, that:
+
+(i) restricts, limits, or impedes the E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book or to offer Discounts; or
+
+(ii) contains an MFN,
+
+Penguin shall notify the E-book Retailer, at the latest, within ten days of the Effective Date, that the E-book Retailer may terminate the agreement with thirty days' notice and shall, thirty days after the E-book Retailer provides such notice, release the E-book Retailer from the agreement. For each such agreement that has not been so terminated, at the latest within seventy days of the Effective Date, Penguin shall, as soon as permitted under the agreement, take each step required under the agreement to cause such agreement to be terminated, and not renewed or extended.
+
+C. Penguin shall provide the Commission (i) within seven days after the Effective Date, with one complete copy of each agreement, executed, renewed, or extended on or after January 1, 2012, between Penguin and any E-book Retailer relating to the Sale of E-books within the EEA, and, (ii) thereafter, on a quarterly basis, with each such agreement executed, renewed, or extended since Penguin's previous submission of agreements to the Commission. Where Penguin enters into a non-disclosure agreement with another E-book Publisher or an E-book Retailer, this non-disclosure agreement shall not prevent Penguin from providing to the Commission any kind of relevant information.
+
+## III. PROHIBITED CONDUCT
+
+A. With regard to the territories within the EEA covered by any of the agreements terminated in accordance with Sections II.A and II.B above:
+
+(i) For two years, Penguin shall not restrict, limit, or impede an E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book or to offer Discounts, such two year period to run separately for each E-book Retailer, at the option of Penguin, from either:
+
+(a) the termination of an agreement relating to the sale of E-books within the EEA between Penguin and the E-book Retailer that restricts, limits, or impedes the E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book or to offer Discounts; or
+
+(b) the date on which Penguin notifies the E-book Retailer in writing that Penguin will not enforce any term(s) in its agreement with the E-book Retailer that restrict, limit or impede the E-book Retailer from setting, altering, or reducing the Retail Price of any E-book or from offering Discounts.
+
+Penguin shall notify the Commission of the option it selects for each E-book Retailer within seven days of making its selection.
+
+(ii) For two years from the Effective Date, Penguin shall not enter into any agreement relating to the Sale of E-books within the EEA with any E-book Retailer that restricts, limits, or impedes the E-book Retailer from setting, altering, or reducing the Retail Price of any E-book or from offering Discounts.
+
+(iii) The ability of an E-book Retailer to offer any non-price promotion in accordance with Sections A (i) and (ii) is subject to Penguin's contractual obligations allowing Penguin to withhold an E-book due to a specific request made by its author or other content creator.
+
+B. Penguin shall not enter into any agreement with an E-book Retailer relating to the Sale of E-books in the EEA that contains an MFN.
+
+## IV. NON-CIRCUMVENTION
+
+A. Penguin shall not in any way circumvent, by actions and/or omissions, any commitments contained in this document, including by selling, assigning or otherwise transferring any part of its E-book publishing business to any other entity within the Pearson plc corporate group as a result of which that entity would do anything that is prohibited by these Commitments.
+
+B. After the expiration of the commitments in Sections III.A of these Commitments, Section IV.A shall not prevent Penguin from independently entering into or enforcing any Agency Agreement with an E-book Retailer that restricts, limits, or impedes the E-book Retailer's ability to alter or reduce the Retail Price of any E-book, and/or offer Discounts.
+
+D. For the avoidance of doubt and without limitation, the following shall not be prohibited under these Commitments:
+
+(i) Penguin's good faith decision not to pursue a promotional program or arrangement, or price grid proposed by an E-book Retailer;
+
+(ii) Penguin's good faith decision to offer its own promotional program or arrangement with one of more E-book Retailers; or
+
+(iii) Penguin's good faith decision not to enter into, or not to remain, in business with an E-book Retailer.
+
+## V. PERMITTED CONDUCT
+
+A. Nothing in these Commitments shall prohibit Penguin unilaterally from compensating a retailer, including an E-book Retailer, for valuable marketing or other promotional services rendered.
+
+B. Notwithstanding Section III.A of these Commitments, Penguin may enter into Agency Agreements with E-book Retailers in relation to the EEA under which the aggregate value of the Discounts (as opposed to advertising or promotions engaged in by the E-book Retailer not specifically tied or directed to Penguin E-books) may be restricted, provided that:
+
+(i) such agreed restriction shall not interfere with the E-book Retailer's ability to reduce the final price paid by consumers to purchase Penguin E-books by the Agreed Funds;
+
+(ii) Penguin shall not restrict, limit, or impede the E-book Retailer's use of the Agreed Funds to offer Discounts; and
+
+(iii) the method of accounting for the E-book Retailer's promotional activity does not restrict, limit, or impede the E-book Retailer from engaging in any form of retail activity.
+
+C. Details of Section V.B above will be subject to individual bilateral negotiations between Penguin and each prospective E-book agent.
+
+D. For the avoidance of doubt, Penguin shall be entitled to require from the E-book retailer such information as may reasonably be required to enable Penguin to assess and verify compliance with Section V.B.
+
+## VI. NATIONAL LAWS
+
+For the avoidance of doubt, these Commitments are without prejudice to restrictions imposed by national law related to E-books that restricts, limits, or impedes the implementation of Sections III.A and V.B above.
+
+## VII. DURATION
+
+Unless otherwise provided the Commitments shall remain in force for a period of five years from the Effective Date.
+
+In addition to the requirements set out in Section II.C, throughout the duration of the Commitments, Penguin shall provide the Commission with an annual written report on the implementation of these Commitments during the relevant year. It will also address any disputes or written complaints made by retailers relating to the implementation of the Commitments. The report relating to 2013 shall be provided by March 1, 2014, and further reports shall be provided on March 1 of each year up to and including 2018.
+
+## VIII. REVIEW CLAUSE
+
+Without prejudice to the general provision of Article 9(2) of Regulation 1/2003, Penguin may request the Commission to reopen proceedings with a view to modifying these Commitments where there has been a material change in any of the facts on which the Commitments Decision was based.
+
+16 July 2013
+
+![](images/9fec3f6e45eb6bf58939b459f3876a5230b7f6c9f675b21492af6850f92ec971.jpg)
+
+Philip Hoffman, Company Secretary, Pearson plc
+
+(Duly authorised for and on behalf of Penguin Random House Limited (formerly The Penguin Publishing Company Limited) and Penguin Group (USA) LLC (formerly Penguin Group (USA) Inc))

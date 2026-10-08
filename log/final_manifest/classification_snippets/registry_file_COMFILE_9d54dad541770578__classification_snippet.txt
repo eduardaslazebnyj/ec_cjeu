@@ -1,0 +1,174 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52008XX0402(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52008XX0402(02)
+Help
+Print
+Final report of the Hearing Officer in Case COMP/38.784 — Wanadoo España v Telefónica (Pursuant to Articles 15 and 16 of Commission Decision 2001/462/EC, ECSC of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings — OJ L 162, 19.6.2001, p. 21 )
+Final report of the Hearing Officer in Case COMP/38.784 — Wanadoo España v Telefónica (Pursuant to Articles 15 and 16 of Commission Decision 2001/462/EC, ECSC of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings — OJ L 162, 19.6.2001, p. 21 )
+Final report of the Hearing Officer in Case COMP/38.784 — Wanadoo España v Telefónica (Pursuant to Articles 15 and 16 of Commission Decision 2001/462/EC, ECSC of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings — OJ L 162, 19.6.2001, p. 21 )
+OJ C 83, 2.4.2008, pp. 3–4
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+2.4.2008
+EN
+Official Journal of the European Union
+C 83/3
+Final report of the Hearing Officer in Case COMP/38.784 — Wanadoo España v Telefónica
+(Pursuant to Articles 15 and 16 of Commission Decision 2001/462/EC, ECSC of 23 May 2001 on the terms of reference of Hearing Officers in certain competition proceedings —
+OJ L 162, 19.6.2001, p. 21
+)
+(2008/C 83/03)
+The draft Decision gives rise to the following observations:
+Introduction
+The present case arises out of a complaint submitted by Wanadoo España, SL (now France Telecom España, SA, ‘France Telecom’) against Telefónica, SA (‘Telefónica’) on 11 July 2003. After investigating the complaint and on the basis of additional information, the Commission came to the preliminary conclusion that Telefónica had engaged in pricing practices in violation of Article 82 of the EC Treaty since September 2001 by applying a margin squeeze between the prices Telefónica's subsidiaries, Telefónica de España, SAU (‘TESAU’), Telefónica Data de España, SAU (‘TDATA’) and Terra Networks España, SA (‘TERRA’) charge their competitors for wholesale broadband access in Spain and the retail prices they charge end-users.
+The Statement of Objections and the time to respond
+The Statement of Objections (the ‘SO’) was sent on 20 February 2006 to Telefónica, TESAU, TDATA and TERRA (the ‘Parties’). Upon reasoned request of the Parties, I extended the deadline to reply until 19 May 2006. The Parties duly responded (the ‘Reply’) on that date. A non-confidential version of the SO was sent to France Telecom for their comments.
+During the course of the procedure, upon request, I admitted several companies and associations of companies that are competitors of Telefónica into the procedure as interested third parties, namely: Tele2 Telecommunication Services, SL (‘Tele2’), Grupo Corporativo ONO, SA (‘ONO’), Jazz Telecom, SA (‘Jazztel’) and Associación de Empresas Operadoras y de Servicios de Telecomunicaciones (‘ASTEL’).
+Access to file
+Access to the Commission's file was granted by CD-ROM on 21 February 2006. On 7 April 2006, the relevant Commission service supplemented the access to file by providing new non confidential versions of certain documents.
+On 21 April 2006, Telefónica wrote to me requesting further access to certain documents on the Commission's file. The relevant Commission service had refused to grant access to these documents on the basis of their confidentiality. Telefónica argued that these documents, in particular information about competitors' costs and lines contracted through alternative wholesale offers, could contain exonerating evidence relevant to Telefónica's defence. I took the view that the requested information constituted business secrets and was not necessary for Telefónica's defence; therefore, I did not allow the disclosure of these documents.
+Oral Hearing
+An oral hearing took place on 12 and 13 June 2006 at the request of Telefónica and other interested third parties. The complainant, France Telecom; further, Jazztel, ONO, and ASTEL attended the hearing and presented their views.
+Letter of Facts
+On 11 January 2007, the relevant Commission service sent a Letter of Facts to Telefónica informing them of certain new facts that the Commission intended to include in a potential final decision. Further access to file was provided by way of a new CD-ROM. Telefónica replied to the Letter of Facts on 12 February 2007.
+In their reply, Telefónica raised certain issues which they considered to be relevant to their rights of defence. In particular, Telefónica argued that they had not been given the opportunity to comment meaningfully on certain issues in the Letter of Facts.
+After examining the relevant circumstances, I found that the relevant Commission service provided further explanations upon Telefónica's request and granted a one week extension because of this additional information. Telefónica did not request any further clarification. I considered that Telefónica had been properly informed and provided with sufficient opportunity to comment on the issues contained in the Letter of Facts and the conclusions the Commission intended to draw therefrom.
+The draft Decision
+In the draft Decision, the Commission updated the margin squeeze calculations for the second half of 2005 and the year 2006 as indicated in the Letter of Facts.
+The draft Decision submitted to the Commission only contains objections in respect of which the parties have been afforded the opportunity of making known their views.
+I conclude that the rights of the parties to be heard have been respected in the present case.
+Brussels, 15 June 2007.
+Karen
+WILLIAMS
+Top

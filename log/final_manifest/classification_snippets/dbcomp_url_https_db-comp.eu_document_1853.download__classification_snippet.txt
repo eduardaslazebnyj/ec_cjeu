@@ -1,0 +1,473 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+COMMISSION DECISION of 27.08.2003
+
+relating to a proceeding pursuant to Article 82 of the EC Treaty
+
+(COMP/37.685 GVG/FS)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 17 of 6 February 1962, First Regulation
+implementing Articles 85 and 86 of the Treaty1, as last amended by Regulation (EC)
+No 1216/992, and in particular Article 3 and Article 15(2) thereof,
+
+Having regard to Council Regulation (EEC) No 1017/68 of 19 July 1968 applying rules of
+competition to transport by rail, road and inland waterway3,
+
+Having regard to the complaint lodged on 25 October 1999 by the limited company
+Georg Verkehrsorganisation GmbH, acting under Article 10 of Regulation (EEC)
+No 1017/68, alleging that Article 82 of the EC Treaty had been infringed,
+
+Having regard to the Commission decision of 21 June 2001 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and
+Article 26 of Regulation (EEC) No 1017/68 read in conjunction with Commission Regulation
+(EC) No 2842/98 of 22 December 1998 on the hearings of parties in certain proceedings
+under Articles 85 and 86 of the EC Treaty4,
+
+Having consulted the Advisory Committee on Restrictive Practices and Dominant Positions
+and the Advisory Committee on Restrictive Practices and Monopolies in the Transport
+Industry,
+
+Having regard to the final report of the Hearing Officer in this case5,
+
+Whereas:
+
+1 OJ 13, 21.2.1962, p. 204. Although the Regulation was repealed by Council Regulation (EC) No 1/2003
+of 16 December 2002 (OJ L 1, 4.1.2003, p. 1), it continues to apply to decisions adopted prior to 1 May
+2004.
+2 OJ L 148, 15.6.1999, p. 5.
+3 OJ L 175, 23.7.1968, p. 1. The Regulation was last amended by Council Regulation (EC) No 1/2003 of
+16 December 2002 (OJ L 1, 4.1.2003, p. 1), which applies, however, only from 1 May 2004.
+4 OJ L 354, 30.12.1998, p. 18.
+5 OJ [ ].
+
+1
+
+A. INTRODUCTION
+
+1. This case was initiated by a complaint from the German railway undertaking
+Georg Verkehrsorganisation GmbH (hereinafter “GVG”) against Ferrovie dello Stato
+S.p.A. (hereinafter “FS”), the Italian national railway carrier. GVG complained that
+since 1995 FS had been refusing to provide access to the Italian infrastructure, to enter
+into negotiations for the formation of an international grouping and to provide
+traction. This prevented GVG from providing an international rail passenger service
+from various points in Germany via Basle to Milan.
+
+2. The Commission has come to the conclusion that by denying GVG access to the
+services in question, which are necessary for carrying out its business, FS has abused
+its dominant position within the meaning of Article 82 of the EC Treaty and Article 8
+of Regulation No 1017/68. Following the initiation of the Commission’s investigation,
+FS has given undertakings to the Commission that the abuse will be terminated and
+will not be repeated.
+
+B. THE PARTIES
+
+3. GVG is a German railway undertaking which has been operating international rail
+passenger services on the basis of a national authorisation since March 1992. On
+31 March 1995 it obtained from the Transport Ministry of the Land of Hessen a
+licence compatible with Council Directive 95/18/EC of 19 June 1985 on the licensing
+of railway undertakings6 to operate passenger rail transport services. In 2000 GVG
+formed an international grouping with the Swedish state railways providing services
+between Malmö and Prague and Malmö and Berlin. In 2001 it operated more than
+200 trains per year in the international passenger long-distance market from Germany
+to other European countries (Austria, France, Sweden, eastern Europe).
+
+4. FS is the major Italian railway operator and a state-owned enterprise. During the
+1990s, FS went through a restructuring process. On 22 December 1992, the company
+was established as the public limited company “Ferrovie dello Stato – Società di
+Trasporti e Servizi per Azioni” (FS S.p.A.) under the supervision of the Ministry of
+the Treasury. On 4 March 1996, FS established separate business units for the
+network, rolling stock and traction, passengers and other activities. On 27 July 1998,
+these business units were transformed into free-standing divisions: the infrastructure
+division (FS Infrastruttura), the division for passenger transport (FS Passeggeri) and
+the division for freight transport (FS Cargo).
+
+5. On 13 July 2001 FS accomplished a restructuring process creating FS Holding S.p.A.
+FS Holding controls two companies:
+
+6. Rete Ferroviaria Italiana SpA (RFI), which operates the network infrastructure on the
+basis of a 60-year management contract granted by the Transport Minister on
+31 October 2000 (Decree No 138T); and
+
+7. Trenitalia SpA (Trenitalia), which carries on transport business on the basis of a
+licence to provide rail services granted by the Transport Minister on 23 May 2000 in
+
+6 OJ L 143, 27.6.1995, p. 70.
+
+2
+
+accordance with Presidential Decrees No 277 of 8 July 1998 and No 146 of
+16 March 1999.
+
+C. THE SERVICE CONCERNED BY THE DECISION
+
+C.1. An international rail passenger transport service between Germany and Milan
+
+8. GVG wants to provide an international passenger service from Germany to Milan and
+back. Its intention is to feed passengers originating in different cities in Germany, i.e.
+Karlsruhe, Koblenz and Mannheim, into Basle. It then proposes a non-stop
+(“Sprinter”) rail link that would operate twice a day from Basle to Milan via
+Domodossola. Some of these passengers would continue their journey from Milan.
+Similarly, the train from Milan to Basle would take local passengers as well as beyond
+passengers (fed into Milan by existing FS trains). GVG wishes to cater in particular
+for business customers by offering a Basle-Milan connection which is up to one hour
+faster than existing links. Unlike GVG’s non-stop service, the former operate with up
+to 14 stops between Basle and Milan. GVG also envisages providing additional
+services on the train.
+
+9. The attractiveness of such a service depends considerably on the time schedule.
+Arrival and departure times in Basle have to be well connected with Deutsche Bahn
+AG (hereinafter “DB”) Intercity trains which would provide feeder service for beyond
+traffic. Similar interconnection has to be ensured for beyond traffic in Milan.
+Moreover, the trains should depart with a sufficient time difference. The train paths
+envisaged by GVG would allow its trains to depart with a time difference of about two
+hours. In addition, in order to ensure the shortest possible travelling time, there has to
+be a good connection at Domodossola. The train paths requested by GVG in 1998 can
+be taken by way of illustration7. They would allow for the services as set out in the
+table below and a 7-8 minute stop in Basle Bad to catch the Intercity to/from
+Germany8:
+
+Basle Bad Domodossola Milan Travelling
+time
+
+Departure Arrival Departure Arrival
+
+12.45 15.50 15.58 17.08 4h23
+
+14.45 17.50 17.58 19.08 4h23
+
+Milan Domodossola Basle Bad
+
+07.50 09.01 09.09 12.13 4h23
+
+09.50 11.01 11.09 14.13 4h23
+
+7 Schedules have been adapted several times according to the train paths offered by Schweizer
+Bundesbahn.
+8 The Intercity from Germany arrives at 12.38 and 14.38 in Basle. Northbound, the Intercity leaves Basle
+at 12.21 and 14.21. In order to change trains in Basle, passengers would have 7 or 8 minutes
+respectively.
+
+3
+
+10. FS and the Swiss railway undertaking Schweizer Bundesbahn (hereinafter “SBB”)
+provide a cooperative rail passenger transport service from Basle to Milan. They
+operate seven trains daily via Chiasso9 and three trains a day via Domodossola10.
+Apart from that, the Italian-Swiss undertaking Cisalpino, in which FS holds 50% (the
+other half being shared between SBB and the Swiss BLS Lotschbergbahn (hereinafter
+“BLS”)) operates one daily service via Domodossola11. These services are not
+provided on the basis of a public service obligation or under a public service
+contract12.
+
+C.2. Requirements for the service
+
+C.2.1. Licence
+
+11. In order to provide a cross-border rail transport service, a railway undertaking first
+needs a licence. The conditions for granting licences to railway undertakings in the
+European Union have been harmonised by Directive 95/18/EC, which was transposed
+in Italy by Decree No 146/1999 with a two year delay on 23 July 1999.
+
+C.2.2. International grouping
+
+12. At the present stage in EU rail liberalisation, the only way a railway undertaking from
+one Member State can obtain access to the rail passenger transport market of another
+Member State for the provision of international passenger transport services is by
+entering into an “international grouping”. An international grouping is defined by
+Council Directive 91/440/EEC of 29 July 1991 on the development of the
+Community’s railways13 as an association of at least two railway undertakings
+established in different Member States for the purpose of providing international
+transport services between Member States. According to Article 10(1) of
+Directive 91/440/EEC, international groupings must be granted access and transit
+rights in the Member States of their constituent railway undertakings as well as transit
+rights in other Member States. As shown in point 128, it is the Commission’s view
+that Article 10(1) of Directive 91/440/EEC has direct effect.
+
+13. Directive 91/440/EEC was implemented in Italy only after a five-year delay by
+Decree No 277/1998, which entered into force on 8 July 1998. However, even before
+the transposition of Directive 91/440/EEC, there was no legal obstacle under Italian
+
+9 In 1998, the travelling time of these connections was 5h40. Today it is 5h21. These trains arrive in the
+“Basle Bad” railway station.
+10 The trains via Domodossola arrive in the Basle “SBB” railway station. Passengers who wish to travel to
+Germany have to transfer to the “Basle Bad” railway station, from where trains leave to Germany. The
+travelling time for one of these trains is 5h02 while the others take 5h21. In addition, there is the
+transfer time of about 30 minutes to Basle Bad.
+11 The Cisalpino arrives in the Basle “SBB” station. The travelling time of the Cisalpino is 4h31. In
+addition, there is the transfer time of about 30 minutes to Basle Bad. For a comparison of travelling
+time between the Cisalpino and GVG’s planned train, see section F.3.
+12 As referred to in Article 2 of Regulation (EEC) No 1191/69 of 26 June 1969 on action by Member
+States concerning the obligations inherent in the concept of public service in transport by rail, road and
+inland waterway (OJ L 156, 28.6.1969, p. 1), as amended by Regulation (EEC) No 1893/91 (OJ L 169,
+29.6.1991, p. 1).
+13 OJ L 237, 24.8.1991, p. 25. Directive amended by Directive 2001/12/EC (OJ L 75, 15.3.2001, p. 1),
+which had to be implemented by 15 March 2003.
+
+4
+
+law for FS to enter into an international grouping with a railway undertaking of
+another EU Member State for the purpose of providing international rail services14.
+
+C.2.3. Access to infrastructure
+
+14. The railway undertaking also needs to be provided with infrastructure capacity, i.e. a
+certain time slot on the tracks of the railway networks on which it wishes to provide
+the cross-border service. Access to the infrastructure includes a number of different
+services and actions that take place at different points in time. In particular the
+following elements are important: information regarding the availability of train paths
+and related prices; the handling of requests for capacity; the permission to use track
+capacity; train control, including signalling, regulation and the provision of
+information on train movement; access to refuelling facilities; access to passenger
+stations; access to marshalling yards; access to storage sidings; and access to
+maintenance and other technical facilities15.
+
+15. Some of these services need to be made available to a railway undertaking before it
+takes a formal decision to start a service. This holds in particular for the provision of
+all relevant technical information concerning the allocation of train paths, the
+reservation of a particular train path and information concerning infrastructure tariffs.
+Only on the basis of such information and the reservation of the necessary train path
+can the potential entrant establish a business plan. Based on the latter, the potential
+entrant takes its entry decision, which, if it is positive, then leads to a start of
+negotiations with potential partners.
+
+16. By contrast, some other infrastructure services, for instance access to refuelling
+facilities or passenger stations, may only become necessary after negotiations with
+partners are finalised and the operation of the planned service begins.
+
+17. Council Directive 95/19/EC of 19 June 1995 on the allocation of railway infrastructure
+capacity and the charging of infrastructure fees16 defines the principles and procedures
+to be applied in that regard. It was transposed in Italy by Decree No 146/1999 with a
+two-year delay on 23 July 1999. According to Article 3 of the Directive,
+Member States must designate an allocation body which has to ensure that railway
+infrastructure capacity is allocated on a fair and non-discriminatory basis. It also has to
+ensure that the allocation procedure allows effective use of the infrastructure.
+
+18. Article 3 of Decree No 146/1999 provides that the use of the railway infrastructure,
+already regulated by Presidential Decree No 277/1998, is to be granted on condition
+that each railway undertaking proves that it possesses a licence and a safety certificate
+and that it has concluded the necessary administrative, technical and financial
+agreements with regard to the allocation of capacity. The infrastructure manager is to
+issue the safety certificate.
+
+19. Under Decree No 277/1998, FS (RFI) has been assigned the task of the infrastructure
+manager and the role of the allocation body. According to Article 4 of
+
+14 For instance, in November 1996 FS set up an international grouping with Swedish state railways SJ.
+15 A list of such services is also provided in Annex II of Directive 2001/14/EC of 26 February 2001 on the
+allocation of railway infrastructure capacity and the levying of charges for the use of railway
+infrastructure and safety certification (OJ L 75, 15.3.2001, p. 29).
+16 OJ L 143, 27.6.1995, p. 75. Directive 95/19/EC was repealed, with effect from 14 March 2001, by
+Directive 2001/14/EC (OJ L 75, 15.3.2001, p. 29), which had to be implemented by 15 March 2003.
+
+5
+
+Decree No 277/1998, the infrastructure manager is responsible for monitoring the
+circulation of rolling stock and for the maintenance of the railway infrastructure.
+
+20. Before the entry into force of Decree No 277/98, FS had an exclusive concession to
+operate the Italian railway infrastructure and to provide ra
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ August 2002. On 27 June 2003, the
+parties signed an international grouping agreement.
+
+152. The Commission therefore concludes that by refusing to enter into an international
+grouping with GVG without any objective justification, during the period from
+August 1999 until 27 June 2003, FS abused its dominant position on the Italian market
+for passenger rail transport.
+
+H.3. Effect on trade between Member States
+
+153. GVG aims to provide an international transport service between Germany and Italy.
+As pointed out, it feeds customers from Karlsruhe, Koblenz and Mannheim into Basle
+and then provides a rail passenger transport service to Milan. In view of the
+characteristics of these routes and the heavy traffic and given that this affects a
+transport service between two Member States of the EU, the abuses described above
+significantly affect trade between Member States.
+
+I. ARTICLE 86 (2) OF THE TREATY
+
+154. FS is not relying on the derogation provided for in Article 86(2) of the Treaty to
+justify its policy.
+
+92 As the market has not yet been liberalised in Italy, no Italian railway undertaking other than FS has a
+licence based on Directive 95/18/EC for long-distance passenger rail transport.
+93 This is acknowledged by FS in its reply to the Statement of Objections, points 89 and 107.
+
+31
+
+155. In particular, FS has not argued that granting access to GVG on the
+Domodossola-Milan route would jeopardise the performance by FS in conditions of
+economic equilibrium of a service of general interest entrusted to it. The Cisalpino
+service, offered by FS in cooperation with SBB, is not operated on the basis of a
+public service obligation or a public service contract94. The same applies in relation to
+the trains operated in cooperation with SBB via Chiasso and Domodossola. More
+generally, FS has not argued that granting access to GVG would jeopardise any public
+service obligations it may have in relation to transport services it provides on the main
+infrastructure network in Italy. At all events, the Commission takes the view that there
+is no evidence that refusing access to GVG to the market in international passenger
+rail transport between Domodossola and Milan would be necessary to preserve the
+financial equilibrium of FS in relation to its basic services95.
+
+J. REMEDIES
+
+J.1. Termination of the infringement
+
+156. Regulation No 17 applies to the abuses relating to the markets for access to
+infrastructure and traction. The latter lie outside the scope of the procedural rules
+specific to the transport sector and fall under Regulation No 17 as far as the
+application of Article 82 of the EC Treaty is concerned. Regulation No 1017/68,
+which lays down the competition rules applying to transport by road, rail and inland
+waterway, applies to the abuse relating to the refusal to enter into an international
+grouping on the market for the provision of passenger rail transport.
+
+157. Article 3(1) of Regulation No 17 provides that the Commission may, where it finds
+that there is an infringement of Article 81 or 82 of the Treaty, require the undertakings
+or associations of undertakings concerned to bring such infringement to an end.
+Article 11 of Regulation No 1017/68 contains similar provisions.
+
+158. FS (Trenitalia) has entered into an international grouping agreement and has agreed on
+the terms of a traction contract with GVG. FS (RFI) has also undertaken to provide
+GVG with suitable train paths on the Domodossola-Milan segment, as soon as
+corresponding train paths are made available by SBB on the Swiss network for the
+Basle-Domodossola segment. The Commission takes note that, given that GVG’s
+entry into the market has been delayed and as part of an overall settlement between the
+parties, for a limited period of time FS (Trenitalia) and FS (RFI) have offered GVG
+special conditions to facilitate its market entry. These terms must be considered to be
+specific to this case.
+
+159. The Commission considers that the undertakings given by FS (Trenitalia) and by
+FS (RFI), as annexed to this Decision, ensure that the infringement has been brought
+to an end and that the abuse will not be repeated.
+
+94 As referred to in Article 2 of Council Regulation (EEC) No 1191/69 of 26 June 1969 on action by
+Member States concerning the obligations inherent in the concept of public service in transport by rail,
+road and inland waterway (OJ L 156, 28.6.1969, p. 1). Regulation last amended by Regulation (EEC)
+No 1893/91 (OJ L 169, 29.6.1991, p. 1).
+95 See Commission Decision 90/456/EEC of 1 August 1990 concerning the provision in Spain of
+international express courier services (OJ L 233, 28.8.1990, p. 19).
+
+32
+
+160. The Commission takes note that, apart from the above undertakings aimed at solving
+the particular problem of GVG, FS (Trenitalia) has in addition undertaken to enter into
+international grouping agreements with other railway undertakings that possess the
+necessary licence and propose a reasonable project for an international rail service. For
+a period of five years, FS has undertaken to provide traction services on a
+non-discriminatory basis to other railway undertakings intending to provide
+cross-border passenger services. The available capacity, as defined in the
+commitments, would allow new entrants to operate up to seven international railway
+services into Italy similar to the one planned by GVG. The traction price would be
+based on FS (Trenitalia)’s cost, including, inter alia, an adequate return on the capital
+investment and the maintenance costs for the rolling stock concerned.
+
+161. While these general undertakings go beyond what is necessary for the termination of
+the infringements as regards GVG, the Commission considers that they will
+considerably facilitate entry into the market in international rail passenger services
+into Italy. The commitments eliminate the most significant market access barriers for
+start-up companies in this market. New entrants will be able to obtain in a timely
+manner all necessary information as regards train paths, they will be able to enter into
+an international grouping and they will obtain the necessary traction services to start
+their services. The undertakings given by FS will therefore allow market entry in a
+startup phase which should contribute to enhancing competition in the European rail
+sector.
+
+J.2. Article 15 of Regulation No 17 and Article 22 of Regulation No 1017/68
+
+162. Article 15(2) of Regulation No 17 provides, inter alia, that the Commission may
+impose fines, within the limits set out in that Article, where the undertakings in
+question have intentionally or negligently infringed Article 82. Article 22(2) of
+Regulation No 1017/68 confers equivalent powers on the Commission.
+
+163. FS must have been aware of the fact that the behaviour in this case, in particular the
+refusal to provide information regarding access to the network, prevented a potential
+entrant from entering the relevant downstream market. An infringement of the
+competition rules such as the present one would normally be penalised by fines
+varying in accordance with the gravity and duration of the infringement.
+
+164. However, in this case the Commission is refraining from imposing a fine in particular
+because of the novelty of the case, as GVG has been the first and only new entrant
+railway undertaking to approach FS with a view to forming an international grouping.
+Moreover, FS has proposed undertakings which ensure that FS will not repeat the
+abuses in the future and which should contribute significantly to the dismantling of
+entry barriers for international rail passenger services into Italy.
+
+K. ADDRESSEE
+
+165. As set out in points 72-81, the FS holding company can be considered responsible as a
+single undertaking. The Decision is therefore addressed to the FS holding company,
+
+33
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+By refusing to enter into an international grouping with Georg Verkehrsorganisation
+GmbH, for the purposes of providing an international rail passenger service between
+Germany and Italy on the Domodossola-Milan route, Ferrovie dello Stato S.p.A. has
+abused its dominant position on the Italian market for passenger rail transport, in
+breach of Article 82 of the EC Treaty.
+
+This infringement lasted at least from August 1999 until 27 June 2003.
+
+Article2
+
+By refusing to deal effectively with Georg Verkehrsorganisation GmbH’s requests for
+access to the railway network between Domodossola and Milan for the said purposes,
+Ferrovie dello Stato S.p.A. has abused its dominant position on the market for access
+to the infrastructure, preventing GVG from entering the market in international rail
+passenger transport in breach of Article 82 of the EC Treaty.
+
+This infringement lasted at least from September 1995 until 24 July 2002.
+
+Article 3
+
+By refusing to provide traction to Georg Verkehrsorganisation GmbH in the form of a
+locomotive, a qualified driver with route knowledge and back-up for the said
+purposes, Ferrovie dello Stato S.p.A. has abused its dominant position on the traction
+market, preventing GVG from entering the market in international rail passenger
+transport in breach of Article 82 of the EC Treaty.
+
+This infringement lasted at least from December 1998 until 27 June 2003.
+
+Article 4
+
+Ferrovie dello Stato S.p.A. shall immediately bring to an end the infringements
+referred to in Articles 1, 2 and 3 of this Decision in so far it has not already done so
+and shall in future refrain from repeating any similar act or conduct.
+
+Article 5
+
+Until given notice by the Commission that it is no longer required to do so, Ferrovie
+dello Stato S.p.A. shall report twice a year to the Commission on the implementation
+of the commitments annexed to this Decision.
+
+Article 6
+
+This Decision is addressed to:
+Ferrovie dello Stato S.p.A.
+
+34
+
+Piazza della Croce Rossa, 1
+I-00161 Rome.
+
+This Decision shall be enforceable pursuant to Article 256 of the EC Treaty.
+
+Done at Brussels,
+
+For the Commission
+
+Member of the Commission
+
+35

@@ -1,0 +1,445 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40795 – FOOD DELIVERY SERVICES
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 7 and Article 23(2) and (3) Regulation (EC) 1/2003
+Date: 02/06/2025
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 2.6.2025
+C(2025) 3304 final
+
+COMMISSION DECISION
+
+of 2.6.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(Case AT.40795 – Food Delivery Services)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 3
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ........................................... 4
+2.1. The product concerned by the conduct ........................................................................ 4
+2.2. Undertakings subject to the proceedings...................................................................... 4
+2.2.1. Delivery Hero ............................................................................................................... 4
+2.2.2. Glovo ............................................................................................................................ 4
+3. PROCEDURE ............................................................................................................. 5
+4. DESCRIPTION OF THE EVENTS ............................................................................. 6
+4.1. Nature and scope of the infringement .......................................................................... 6
+4.1.1. Scope of the conduct and the context in which it took place ....................................... 6
+4.1.2. No-poach ..................................................................................................................... 8
+4.1.3. Information exchange ................................................................................................ 10
+4.1.4. Market sharing ........................................................................................................... 12
+4.1.5. Nature and pattern of the contacts .............................................................................. 13
+4.2. Geographic scope of the infringement ....................................................................... 13
+4.3. Duration of the infringement ...................................................................................... 13
+5. LEGAL ASSESSMENT ........................................................................................... 13
+5.1. Jurisdiction ................................................................................................................. 13
+5.2. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 13
+5.2.1. Agreement and/or concerted practices ....................................................................... 14
+5.2.1.1. Principles .................................................................................................................... 14
+5.2.1.2. Application to this case .............................................................................................. 15
+5.2.2. Restriction of competition .......................................................................................... 15
+5.2.2.1. Principles .................................................................................................................... 15
+5.2.2.2. Application to this case .............................................................................................. 17
+5.2.3. Single and continuous infringement........................................................................... 20
+5.2.3.1. Principles .................................................................................................................... 20
+5.2.3.2. Application to this case .............................................................................................. 21
+5.2.4. Effect on trade between EU Member States and between EEA Contracting Parties . 23
+5.2.5. Application of Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement
+.................................................................................................................................... 23
+5.2.5.1. Principles .................................................................................................................... 23
+5.2.5.2. Application to this case .............................................................................................. 23
+
+1EN EN
+
+5.3. Conclusion.................................................................................................................. 23
+6. Duration of the Parties' participation to the infringement .......................................... 24
+7. Liability and addressees ............................................................................................ 24
+7.1. Principles .................................................................................................................... 24
+7.2. Application in this case .............................................................................................. 24
+7.2.1. Delivery Hero ............................................................................................................ 24
+7.2.2. Glovo .......................................................................................................................... 24
+8. REMEDIES ................................................................................................................ 25
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 25
+8.2. Article 23(2) and (3) of Regulation (EC) No 1/2003 – Fines .................................... 25
+8.3. Setting of the fines ..................................................................................................... 26
+8.3.1. The value of sales ....................................................................................................... 26
+8.3.2. Determination of the basic amount of the fines ......................................................... 27
+8.3.2.1. Gravity ........................................................................................................................ 27
+8.3.2.2. Duration ...................................................................................................................... 27
+8.3.2.3. Additional Amount..................................................................................................... 28
+8.4. Adjustment of the basic amount ................................................................................. 28
+8.4.1. Aggravating or mitigating factors .............................................................................. 28
+8.4.2. Deterrence .................................................................................................................. 28
+8.5. Application of the 10% turnover limit ....................................................................... 29
+8.6. Application of the Settlement Notice ......................................................................... 29
+
+2EN EN
+
+COMMISSION DECISION
+
+of 2.6.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(Case AT.40795 – Food Delivery Services)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) and (3) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+Having regard to the Commission decision of 23 July 2024 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This decision (the “Decision”) relates to a single and continuous infringement of
+Article 101 of the Treaty on the Functioning of the European Union (“Treaty”) and
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union (the
+“Treaty”). The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty
+of Lisbon, references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as
+references to Articles 101 and 102 of the Treaty when appropriate.
+2 OJ L 123, 27.4.2004, p. 18.
+
+3EN EN
+
+Article 53 of the Agreement on the European Economic Area (the “EEA
+Agreement”) in the sector for the services of delivery of food, grocery and other
+retail products to customers ordering it from an app or a website (hereinafter “food
+delivery services”). The infringement consisted in arrangements between two
+undertakings active in the food delivery services sector to exchange sensitive
+commercial information, allocate markets and not to poach each other’s employees.
+The infringement lasted from 17 July 2018 until 22 July 2022 (the “Infringement
+Period”) and covered the EEA.
+(2) The legal entities to which this Decision is addressed are referred to as the
+“Addressees”, or individually as an “Addressee”.3 The undertakings subject to the
+proceedings are collectively referred to as the “Parties”, or individually as a “Party”.4
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+2.1. The product concerned by the conduct
+(3) The case concerns the service of delivery of food, grocery and other retail products to
+customers ordering it from an app or a website.
+(4) The Parties own and manage an app and a website through which customers may
+order food, grocery and other retail products and ensure the delivery of such products
+to customers. The product delivered can be meal-type, ready-to-eat food (e.g. directly
+from a restaurant, home-kitchen, or a professional kitchen dedicated to preparing
+meals for delivery – so-called “dark kitchens” or “ghost kitchens”), food that has not
+been specially prepared or cooked for immediate consumption (e.g. fruit or
+vegetables, processed food such as biscuits or drinks), but also any other (non-food)
+grocery product (e.g. cosmetics, home care products).
+2.2. Undertakings subject to the proceedings
+(5) The following undertakings, were involved in the infringement and are covered by
+the Decision:
+2.2.1. Delivery Hero
+(6) Delivery Hero is active in the food delivery services sector. It is currently present in
+more than 70 countries worldwide, of which 14 are situated in the EEA5. It is listed
+on the Frankfurt Stock Exchange. The consolidated worldwide turnover of the group
+in 2023 amounted to approx. EUR 9.942 billion and in 2024 amounted to approx.
+EUR 12.295 billion, which includes the turnover by its now subsidiary Glovo6.
+2.2.2. Glovo
+(7) Glovo is active in the food delivery services sector. According to information
+published on its website, it is currently present in more than 20 countries across the
+globe, of which 8 are situated in the EEA7.
+(8) In July 2022, Delivery Hero acquired control over Glovo by purchasing the majority
+of its shares, and Glovo thus became Delivery Hero’s subsidiary. Glovo’s
+
+3 See Section 7.2
+4 See Section 2.2.
+5 https://www.deliveryhero.com/about/ (accessed on 23/10/2024). This includes countries where Delivery
+Hero is present through one of its subsidiaries, among which is currently Glovo.
+6 Delivery Hero Annual Reports 2023 and 2024.
+7 https://about.glovoapp.com/ (accessed on 23/10/2024).
+
+4EN EN
+
+consolidated worldwide turnover in 2023 amounted to approx. EUR [...]8 and in 2024
+amounted to approx. EUR [...].
+
+3. PROCEDURE
+(9) The Commission carried out unannounced inspections at the premises of Delivery
+Hero in Berlin and of Glovo in Barcelona in June 2022, and continued this inspection
+at the Commission’s premises in autumn 2022. A second unannounced inspection at
+the Parties’ premises took place in November 2023.
+(10) The Commission sent several requests for information under Article 18 of Regulation
+(EC) No 1/20039.
+(11) On 23 July 2024, the Commission initiated proceedings pursuant to Article 11(6) of
+Council Regulation (EC) No 1/200310 against the Parties with a view to engaging in
+settlement discussions with them. After each Party had confirmed its willingness to
+engage in settlement discussions, the discussions started on [...].
+(12) Settlement meetings between the Parties and the Commission took place between
+[...] and [...]. During those meetings, the Commission informed the Parties of the
+objections it envisaged raising against them and disclosed the main pieces of
+evidence in the Commission’s file relied on to establish these objections. Between
+[...] and [...], the Parties were given a copy of the relevant pieces of evidence as well
+as a list of all the documents in the file and were also offered the opportunity to
+access all the documents listed. The Commission also informed the Parties of the
+fines parameters likely to be applied and provided the Parties with an estimation of
+the range of fines likely to be imposed by the Commission.
+(13) The Parties expressed their views on the objections that the Commission envisaged
+raising against them. The Parties’ comments were carefully considered by the
+Commission and, where appropriate, taken into account. At the end of the settlement
+discussions, the Parties considered that there was a sufficient common understanding
+as regards the potential objections, the fines parameters and the estimation of the
+range of likely fines to continue the settlement process.
+(14) On [...], the Pa
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ fines.
+
+26EN EN
+
+the overall single and continuous infringement during the lesser intensity periods,
+compared to the overall duration, the Commission takes 35% of the value of sales
+into account for these periods.
+(124) Accordingly, the Commission takes into account the following value of sales for
+each undertaking:
+TABLE 1: Value of sales
+
+Undertaking Value of sales
+
+Period of normal cartel Lesser intensity periods
+intensity
+
+Delivery Hero SE EUR [...] EUR [...]
+
+Glovoapp23 SA EUR [...] EUR [...]
+
+8.3.2. Determination of the basic amount of the fines
+(125) The basic amount consists of an amount of up to 30% of an undertaking’s relevant
+sales, depending on the degree of gravity of the infringement and multiplied by the
+number of years of the undertaking’s participation in the infringement, and an
+additional amount (“entry fee”) of between 15% and 25% of the value of an
+undertaking's relevant sales, irrespective of duration145.
+8.3.2.1. Gravity
+(126) The gravity of an infringement determines the percentage of the value of sales taken
+into account in setting the fine. In assessing the gravity of an infringement, the
+Commission has regard to a number of factors, such as the nature of the
+infringement, the combined market share of the Parties, the geographic scope of the
+infringement and/or whether or not the infringement has been implemented.
+(127) In its assessment, the Commission considers the facts described in this Decision, and
+in particular the fact that cartel conducts, such as the no-poach, information exchange
+and market sharing agreements and/or concerted practices in this case, are by their
+very nature, among the most harmful restrictions of competition. Therefore, the
+proportion of the value of sales taken into account for such infringements is set at the
+higher end of the scale of the value of sales146.
+(128) In addition, the Commission also takes into account the multi-faceted nature of the
+cartel and the fact that the infringement related to the whole territory of the EEA.
+(129) Given the specific circumstances of this case, taking into account the nature and the
+geographic scope of the infringement, the proportion of the value of sales to be taken
+into account is set at 17%.
+8.3.2.2. Duration
+(130) In assessing the fine to be imposed on each undertaking, the Commission also takes
+into consideration the duration of the infringement, as described in Section 4.3
+above. The increase for duration (duration multiplier) is calculated on the basis of
+
+145 Points 19-26 of the Guidelines on fines.
+146 Point 23 of the Guidelines on fines.
+
+27EN EN
+
+each Party’s exact number of days of participation in the infringement, expressed in
+years.
+(131) The time period to be taken into account for the purpose of setting the fines,
+specified in periods of normal and lower intensity, and the multiplier corresponding
+to those periods are set out in Table 2.
+TABLE 2: Duration of participation for Delivery Hero and Glovo
+
+Period of the single and Duration in
+continuous infringement years
+Total duration 17/7/2018 - 22/7/2022 4.0164
+
+Lower intensity 17/7/2018 - 12/9/2018, and 1.3041
+15/11/2018 - 6/1/2020
+
+Normal intensity 13/9/2018 - 14/11/2018, and 2.7123
+7/1/2020 - 22/7/2022
+
+8.3.2.3. Additional Amount
+(132) Point 25 of the Guidelines on fines allows the increase of the variable amount by a
+percentage between 15% and 25% of the relevant value of sales, irrespective of the
+duration of the Parties’ participation in the infringement (“entry fee”). The
+Commission considers that in view of the gravity of the infringement undertakings
+should be deterred from even entering into an agreement and/or concerted practice
+on no-poach, information exchange or market sharing. The factors to be taken into
+account for the calculation of the additional amount are the same as those that are
+taken into account to set the gravity percentage 147.
+(133) Therefore, the proportion of the value of sales to be taken into account for the
+purpose of setting the additional amount is set at 17%.
+8.4. Adjustment of the basic amount
+8.4.1. Aggravating or mitigating factors
+(134) The Commission may consider aggravating circumstances that result in an increase
+of the basic amount. These circumstances are listed in a non-exhaustive way in
+point 28 of the Guidelines on fines. The Commission may also consider mitigating
+circumstances that result in a reduction of the basic amount. These circumstances are
+listed in a non-exhaustive way in point 29 of the Guidelines on fines.
+(135) The Commission does not consider that any aggravating or mitigating circumstances
+are applicable to any of the Parties in this case.
+8.4.2. Deterrence
+(136) Particular attention is paid to the need to ensure that fines have a sufficiently
+deterrent effect; to that end, the fine to be imposed on undertakings which have a
+
+147 Point 25 of the Guidelines on fines.
+
+28EN EN
+
+particularly large turnover beyond the sales of goods or services to which the
+infringement relates may be increased148.
+(137) In this particular case, the Commission does not apply such increase for deterrence.
+8.5. Application of the 10% turnover limit
+(138) The fine imposed on each undertaking participating in the infringement shall not
+exceed 10% of its total turnover relating to the business year preceding the date of
+the Commission’s Decision149.
+(139) Since Glovo was an independent undertaking during the whole infringement period,
+the 10% turnover limit is set based on its own turnover.
+(140) In this case, the basic amount of the fine calculated exceeds 10% of Glovo’s total
+turnover in business year 2023.
+(141) New reliable figures on the 2024 turnover have become available very late in the
+settlement proceedings, in any case after the maximum amount that the Commission
+intended to impose, based on the 2023 turnover figures, was communicated to the
+Parties, and after the Parties, on this basis, confirmed that they remained committed
+to the settlement proceedings. Since reliance on the 2024 turnover would lead to an
+increase in the fine and would thus require reopening the discussions with the
+Parties, in the specific circumstances of this case, and with the view to achieving the
+procedural efficiencies pursued by the settlement process, the Commission considers
+it appropriate to base its decision on the (lower) 2023 turnover figures.
+(142) As regards Delivery Hero, the amount of the fine remains below the 10% turnover
+limit irrespective of whether the 2023 or the 2024 turnover is used.
+
+8.6. Application of the Settlement Notice
+(143) As provided for in point 32 of the Settlement Notice, the reward for settlement leads
+to a reduction of 10% of the amount of the fine to be imposed on a party after the
+10% turnover cap has been applied having regard to the Guidelines on fines150. The
+Commission in this case applies point 32 of the Settlement Notice.
+
+(144) Consequently, in view of point 32 of the Settlement Notice, the amount of the fines
+to be imposed on the Addressees is further reduced by 10%.
+
+Table 3 – Fines
+
+Undertaking / Association of undertakings Fines
+
+Delivery Hero EUR 223 285 000
+
+Glovo EUR 105 732 000
+
+148 Point 30 of the Guidelines on fines.
+149 Article 23(2) of Regulation No 1/2003.
+150 Commission Notice on the conduct of settlement procedures in view of the adoption of Decisions
+pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (OJ C 167,
+2.7.2008, p. 1-6).
+
+29EN EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Delivery Hero SE and Glovoapp23 SA have infringed Article 101 of the Treaty and Article 53 of
+the EEA Agreement by participating in a single and continuous infringement consisting in
+agreements and/or concerted practices in the sector for the services of delivery of food, grocery
+and other retail products to customers ordering it from an app or a website, covering the entire
+EEA, to exchange sensitive commercial information, allocate markets and not to poach each
+other’s employees.
+The duration of the infringement was from 17 July 2018 until 22 July 2022.
+
+Article 2
+For the infringement(s) referred to in Article 1, the following fines are imposed on:
+(a) Delivery Hero SE: EUR 223 285 000
+(b) Glovoapp23 SA: EUR 105 732 000
+The fines shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40795
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an action pursuant to Article 263 of the Treaty is brought before the Court of Justice of
+the European Union against this Decision, the fine/fines shall be covered by its/their due date,
+either by providing an acceptable financial guarantee or by making a provisional payment of the
+fine in accordance with Article 108 of Regulation (EU, Euratom) 2024/2509 of the European
+Parliament and of the Council151.
+
+Article 3
+The undertakings listed in Article 1 shall refrain from repeating any act or conduct described in
+Article 1, and from any act or conduct having the same or similar object or effect.
+
+151 Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September
+2024 on the financial rules applicable to the general budget of the Union, OJ L, 26.09.2024.
+
+30EN EN
+
+Article 4
+
+This Decision is addressed to:
+Delivery Hero SE, Oranienburger Straße 70, 10117 Berlin, Germany;
+Glovoapp23 SA, Calle Llull 108, 08005, Barcelona , Spain.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 2.6.2025
+
+For the Commission
+
+Signed
+Teresa RIBERA
+Executive Vice-President
+
+31EN EN

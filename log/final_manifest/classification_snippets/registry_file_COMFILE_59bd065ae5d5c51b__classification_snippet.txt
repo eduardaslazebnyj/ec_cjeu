@@ -1,0 +1,280 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+Decision - 2003/25 - EN - EUR-Lex
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 32003D0025
+Help
+Print
+2003/25/EC: Commission Decision of 11 December 2001 relating to a proceeding under Article 81 of the EC Treaty (Case COMP/E - 1/37.919 (ex 37.391) — Bank charges for exchanging euro-zone currencies — Germany) (notified under document number C(2001) 3693)
+2003/25/EC: Commission Decision of 11 December 2001 relating to a proceeding under Article 81 of the EC Treaty (Case COMP/E - 1/37.919 (ex 37.391) — Bank charges for exchanging euro-zone currencies — Germany) (notified under document number C(2001) 3693)
+2003/25/EC: Commission Decision of 11 December 2001 relating to a proceeding under Article 81 of the EC Treaty (Case COMP/E - 1/37.919 (ex 37.391) — Bank charges for exchanging euro-zone currencies — Germany) (notified under document number C(2001) 3693)
+OJ L 15, 21.1.2003, pp. 1–34
+(ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
+No longer in force, Date of end of validity: 13/10/2004
+ELI:
+http://data.europa.eu/eli/dec/2003/25(1)/oj
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+Avis juridique important
+|
+32003D0025
+2003/25/EC: Commission Decision of 11 December 2001 relating to a proceeding under Article 81 of the EC Treaty (Case COMP/E - 1/37.919 (ex 37.391) — Bank charges for exchanging euro-zone currencies — Germany) (notified under document number C(2001) 3693)
+Official Journal L 015 , 21/01/2003 P. 0001 - 0034
+(1)Commission Decision
+of 11 December 2001
+relating to a proceeding under Article 81 of the EC Treaty
+(Case COMP/E - 1/37.919 (ex 37.391) - Bank charges for exchanging euro-zone currencies - Germany)
+(notified under document number C(2001) 3693)
+(Only the German text is authentic)
+(2003/25/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty(2), as last amended by Regulation (EC) No 1216/1999(3), and in particular Articles 3 and 15(2) thereof,
+Having regard to the Commission decision of 1 August 2000 to initiate proceedings in this case,
+Having given the undertakings and associations of undertakings concerned the opportunity to make known their views on the objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86 of the EC Treaty(4),
+Having consulted the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer in this case,
+Whereas:
+A. INTRODUCTION
+(1) This Decision concerning an infringement of Article 81 of the EC Treaty is addressed to the following undertakings:
+- Commerzbank AG,
+- Dresdner Bank AG,
+- Bayerische Hypo- und Vereinsbank AG,
+- Deutsche VerkehrsBank AG,
+- Vereins- und Westbank AG.
+(2) The banks participating in the meeting of 15 October 1997 at Deutsche Verkehrsbank AG in Frankfurt am Main agreed to a commission of about 3 % for the buying and selling of euro-zone banknotes during the three-year transitional period beginning on 1 January 1999. The purpose was to recover about 90 % of the "exchange margin" income after the abolition of the "spread" (i.e. buying and selling rates) on 1 January 1999.
+B. THE RELEVANT PRODUCT AND TRADE BETWEEN MEMBER STATES
+1. The relevant product market
+(3) On 1 January 1999, the euro was introduced as the European single currency. The twelve participating euro-zone countries are: Austria, Belgium, Finland, France, Germany, Ireland, Italy, Luxembourg, Portugal, Spain, the Netherlands and Greece(5). During the transitional period (1 January 1999 to 31 December 2001), the euro existed in different denominations. The national currency units (ATS, BEF/LUF, DEM, ESP, FIM, FRF, IEP, ITL, NLG, PTE and GRD) were sub-units of the euro according to the conversion rates which were irrevocably fixed as from 1 January 1999.
+(4) The relevant product market is defined as the service of exchanging the "subunits"(6) of the euro where at least one part of the transaction concerns notes and coins ("in-currency banknotes")(7). This service - buying and selling foreign euro-zone currencies - was offered mainly by banks and by bureaux de change. The following are typical examples of such exchange transactions:
+- foreign in-currencies (cash) exchanged to be debited from or credited to an account denominated in euro or in the national in-currency,
+- foreign in-currencies (cash) exchanged for the national in-currency (cash), and vice versa.
+(5) Whatever the supply substitutability, demand substitution for the (partly) cash exchange of in-currencies is very limited, if not non-existent. In particular as far as tourism is concerned, customers follow tour operators' and banks' advice to carry only small amounts of cash on them and to use their debit or credit cards abroad.
+(6) As for other categories of customer such as small businesses which exchange larger amounts of currency to carry out payments in other countries, cross-border bank-to-bank transfers may not present a viable alternative.
+2. Trade between Member States
+(7) The data on volumes of note and coin transactions come from the answers to a questionnaire sent in October and December 1999 to about 240 banks in the euro zone (see recitals 22 to 24).
+(8) The 1998 selling and buying volumes for note and coin transactions per euro-zone country for all euro-zone currencies are shown in Annex I. The amounts shown are underestimates because not all banks were able to provide data on transaction volumes. Furthermore, not all banks in the euro zone were sent the questionnaire. Also, the questionnaire did not systematically cover bureaux de change operations so that the transaction volumes for this business are not included in the data.
+(9) For selling, the transaction volume for all euro-zone currencies was about EUR 17,5 billion in 1998. About 35 % of this transaction volume was attributable to the selling of DEM. For buying, the transaction volume was about EUR 24,7 billion. Over 50 % of this transaction volume was attributable to the buying of DEM. The total transaction volume for buying and selling was about EUR 42,2 billion in 1998. Within the euro zone, the DEM was by far the most exchanged (bought and sold) currency (see Annex euro zone). Annex shows that there was considerable exchange of euro-zone currencies in each Member State.
+C. THE MARKET IN GERMANY
+1. The banks
+(10) Universal banks that engage in a wide range of banking activities dominate the German banking system. At the end of 1998 there were more than 3400 banks with over 45000 branches.
+(11) Universal banks can be classified into three major groups:
+- commercial banks (Kreditbanken): This group includes Deutsche Bank, Bayerische Hypo- und Vereinsbank, Dresdner Bank and Commerzbank (the "Big Four"),
+- savings banks and their regional giro institutions (Sparkassen and Landesbanken): This group is made up of 594 savings banks, 12 Landesbanks and DGZ DekaBank Deutsche Kommunalbank,
+- cooperative banks (Volks- und Raiffeisenbanken) and their central institutions (Zentralbanken): this sector consists of 2256 local cooperative banks and four central banks (DG Bank, SGZ-Bank, WGZ-Bank and GZB-Bank).
+(12) In addition to the universal banks there is a wide range of specialised banks such as mortgage banks (Hypothekenbanken) and banks with special functions and other financial institutions such as building societies (Bausparkassen).
+2. Currency exchange transaction volumes
+(13) Of the survey sample of 42 banks (see recitals 22 and 23), 35 banks carry out currency exchange transactions. For these 35 banks, the volumes of Community currencies bought and sold per currency in 1998 are shown in Figure 1 below.
+Figure
+Volumes of currencies bought and sold in Germany (1998)
+>PIC FILE= "L_2003015EN.000301.TIF">
+(14) For the currencies shown in Figure 1, the total value of notes bought and sold in 1998 was approximately EUR 2,1 billion, with about twice as much being sold than bought. The buying and selling of ATS represented about 22 % of the value of currencies bought and sold, followed by ITL, FRF, ESP and NLG, which accounted (in descending order) for between about 18 % and 13 % each. The in-currencies represented about 90 % of the value of the EU notes bought and sold(8).
+D. PROCEDURE
+1. The requests for information
+(15) On 8 February 1999 the Commission addressed requests for information under Article 11 of Regulation No 17 to three German banking associations, namely the Bundesverband deutscher Banken, the Deutscher Sparkassen- und Giroverband and the Zentraler Kreditausschuss. The associations were asked to provide all minutes and/or records of meetings held within the association where questions relating to euro conversion, exchange of in-currencies, as well as costs (to credit institutions) and charges (to customers) were discussed. Also requested were copies of all correspondence exchanged between the association and its members, circulars addressed by the association to its members, and responses of the association to enquiries from its members concerning the abovementioned questions.
+(16) The Deutscher Sparkassen- und Giroverband responded by letter dated 3 March 1999. The Bundesverband deutscher Banken and the Zentraler Kreditausschuss each responded by letter dated 14 April 1999.
+(17) On 7 July 1999 the Commission addressed a further request for information under Article 11 of Regulation No 17 to the Bundesverband deutscher Banken asking for clarification concerning a number of meetings devoted to charges for foreign exchange transactions. The Bundesverband deutscher Banken responded by letter dated 29 July 1999.
+(18) On 6 March 2000 the Commission addressed a further request for information under Article 11 of Regulation No 17 to the Bundesverband deutscher Banken and to the German Bundesbank asking for details of any discussions and/or recommendations on charges and charging structures that had been made in Germany, and more specifically on:
+- a 3 % charge and a minimum fee of DEM 5, and/or
+- a 4 % charge and a minimum fee of DEM 3.
+(19) By letters dated 21 March 2000, the Bundesverband deutscher Banken and the Bundesbank both replied that they had no knowledge of any such discussions and/or recommendations on charges and charging structures.
+2. The February and October 1999 inspections
+(20) Under Article 14(3) of Regulation No 17, inspections were carried out on 16 and 17 February 1999 at two locations in Germany:
+- Deutsche Bank AG (Frankfurt head office),
+- Dresdner Bank AG (Frankfurt head office).
+(21) Under Article 14(3) of Regulation No 17 an inspection was carried out on 20 and 21 October 1999 at a location in the Netherlands:
+- GWK Bank NV/De Grenswisselkantoren NV (Diemen)(9).
+3. Survey of bank charges for exchanging banknotes
+(22) By letter dated 19 October 1999, the Commission under Article 11 of Regulation No 17 sent a questionnaire to about 240 banks in the euro zone asking them to provide data on bank charges for foreign exchange transactions before and after the introduction of the euro. The addressee banks represent about 80 % of banking turnover in the euro zone.
+(23) The questionnaire requested data on the buying, selling and reference rates ("official" rate) for each currency on 15 January 1998 and 15 December 1998, and the charges and charging structure on 15 January 1999. Also requested were the selling and buying volumes (per currency) of transactions carried out in 1998.
+(24) The questionnaire dated 19 October 1999 was addressed to 42 banks in Germany, including the following addressees of this Decision:
+- Bayerische Hypo- und Vereinsbank AG,
+- Commerzbank AG,
+- Deutsche VerkehrsBank AG,
+- Dresdner Bank AG.
+4. The statement of objections
+(25) By letters dated 3 and 10 August 2000, the Commission sent a statement of objections to Commerzbank AG, Deutsche Verkehrsbank AG, Reisebank AG, Dresdner Bank AG, Bayerische Hypo- und Vereinsbank AG, Vereins- und Westbank AG and other banks(10).
+5. Replies to the statement of objections and the hearing
+(26) Following requests from the parties, the Hearing Officer informed the parties of his decision to extend the deadline for responding to the statement of objections (hereinafter called "SO") from 3 November to 27 November 2000.
+(27) Deutsche Verkehrsbank AG and Reisebank AG(11) requested access to all other country-specific files and the complete Dutch file in particular. They claimed this was necessary to safeguard their rights of defence as they suspected that the Dutch National Bank (DNB) had played a leading role in initiating the contacts between GWK Bank and German banks. They believed that the Dutch file included documents proving DNB involvement.
+(28) In response to this request, the Hearing Officer examined the Dutch file (Case COMP/E-1/37.791) and extracted all documents referring to Germany and other countries. Under cover of a letter dated 12 January 2001, these documents were sent to addressees of the SO, who were invited to submit observations by 24 January 2001.
+(29) All parties except Deutsche Genossenschaftsbank AG requested a hearing and received an invitation to such a hearing scheduled for 1 and 2 February 2001. All parties except Deutsche Genossenschaftsbank AG attended the hearing.
+(30) During the hearing the parties present were informed that they would be provided with a copy of an internal note of the Internal market Directorate-General which contained a short analysis of the approximately 700 complaints received by the Commission departments (Internal market and Consumer protection Directorates-General) from Community consumers in relation to bank charges for various payment means and services following the introduction of the euro.
+(31) By letter dated 26 February 2001, the Hearing Officer sent the abovementioned copy of the internal note of the Internal market Directorate-General to the parties and requested them to submit their observations on the note and on the hearing itself by 14 March 2001.
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rency unit into another shall first be converted into a monetary amount expressed in the euro unit, which amount may be rounded to not less than three decimals and shall then be converted into the other national currency unit. No alternative method of calculation may be used unless it produces the same results."
+(40) "Sortenhändlertreffen in Frankfurt, am 15. Oktober 1997 im Hause der Deutschen VerkehrsBank" of 15 October 1997 by [...]* (Commerzbank AG) (file, p. 2985).
+(41) Fax "Übersendung des Ergebnisprotokolls zum Sortenhändlertreffen am 15. Okt. 1997" from [...]* (Deutsche VerkehrsBank AG) to Bayerische Landesbank, ([...]*), BfG Bank AG([...]*), Commerzbank AG ([...]*), Dresdner Bank AG ([...]*), GWK Bank ([...]*), Hamburgische Landesbank ([...]*), Landesbank Hessen Thüringen ([...]*), LZB Hessen ([...]*), ReiseBank AG ([...]*), Vereins- und Westbank AG ([...]*) and Westdeutsche Landesbank ([...]*) (file, pp. 2983 et seq.).
+(42) Case 41/69 ACF Chemiefarma v Commission [1970] ECR 661, paragraph 112; Joined Cases 209/78 to 215/78 and 218/78 Van Landewyck and Others v Commission [1980] ECR 3125, paragraph 86; Case T-7/89 Hercules Chemicals v Commission [1991] ECR II-1711, paragraph 256; Case T-1/89 Rhône-Poulenc v Commission [1991] ECR II-867, at paragraph 120.
+(43) Case T-41/96 Bayer AG v Commission [1991] ECR II-3383, paragraphs 68-69.
+(44) Prior to the introduction of the euro, the banks had no explicit charges for the exchange of foreign banknotes. Instead, customers were paying hidden bank charges via the different buying and selling rates per foreign currency (spreads and/or exchange margins). The exchange margins ranged from about 1,5 % commission to 7 % depending on the currency being exchanged.
+(45) Replies to the SO: Bayerische Landesbank, p. 30 (file, p. 3454); Commerzbank AG, p. 35 (file, p. 3624); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 16 (file, p. 3903); Westdeutsche Landesbank, p. 47 (file, p. 4016); Hamburgische Landesbank mentions possible percentage charges ranging from 2 % to 6 %, p. 6 (file, p. 3768).
+(46) Replies to the SO: BfG Bank AG, pp. 17 et seq. (file, pp. 3538 et seq.); Commerzbank AG, p. 31 (file, p. 3620); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 14 (file, p. 3901); Westdeutsche Landesbank, p. 48 (file, p. 4017).
+(47) Reply of Westdeutsche Landesbank to the SO, pp. 20 et seq. (file, pp. 3989 et seq.).
+(48) Reply of Landesbank Hessen Thüringen to the SO, p. 4 (file, p. 3817); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 14 (file, p. 3901) also claims that there was no other viable alternative to a percentage charge, as a fixed-fee changing of small amounts would have discriminated against the small consumer.
+(49) Replies to the SO: BfG Bank AG, pp. 19 et seq. (file, pp. 3540 et seq.); Commerzbank AG, p. 35 (file, p. 3624); Reisebank AG, p. 27 (file, p. 3721); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 16 (file, p. 3903); Westdeutsche Landesbank, p. 47 (file, p. 4016).
+(50) Replies to the SO: Bayerische Landesbank, p. 30 (file, p. 3454); BfG Bank AG, pp. 18 et seq. (file, p. 3539); Commerzbank AG, pp. 33 et seq. (file, pp. 3622 et seq.); Reisebank AG, pp. 26 et seq. (file, pp. 3720 et seq.); Landesbank Hessen Thüringen, pp. 16 et seq. (file, pp. 3830 et seq.); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 15 (file, p. 3902); Westdeutsche Landesbank, pp. 47 et seq. (file, p. 4016); Fortis group, p. 23 (file, p. 4295).
+(51) Westdeutsche Landesbank reply to the SO, p. 43 (file, p. 4012).
+(52) Replies to the SO: Bayerische Landesbank, p. 30 (file, p. 3454); Commerzbank AG, p. 35 (file, p. 3624); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 16 (file, p. 3903); Westdeutsche Landesbank, p. 47 (file, p. 4016); Hamburgische Landesbank mentions possible percentage charges ranging from 2 % to 6 %, p. 6 (file, p. 3768).
+(53) Reply to the SO: Dresdner Bank AG, p. 10 (file, p. 3750); Westdeutsche Landesbank, p. 42 (file, p. 4011).
+(54) Replies to the SO: Bayerische Landesbank, pp. 34 et seq. (file, pp. 3458 et seq.); BfG Bank AG, p. 20 (file, p. 3541); Commerzbank AG, pp. 36 et seq. (file, pp. 3625 et seq.); Dresdner Bank AG, p. 10 (file, p. 3750); Hamburgische Landesbank, pp. 9 et seq. (file, pp. 3771 et seq.); Landesbank Hessen Thüringen, pp. 12 et seq. (file, pp. 3826 et seq.); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, pp. 22 et seq. (file, pp. 3909 et seq.); Westdeutsche Landesbank, pp. 33 et seq. (file, pp. 4002 et seq.).
+(55) Replies to the SO: Bayerische Landesbank, p. 43 (file, p. 3467)); BfG Bank AG, p. 20 (file, p. 3541); Commerzbank AG, p. 41 (file, p. 3630); Deutsche Verkehrsbank AG / Reisebank AG, p. 28 (file, p. 3722); Dresdner Bank AG, p. 10 (file, p. 3750); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, pp. 25 et seq. (file, pp. 3912 et seq.); Westdeutsche Landesbank, pp. 43, 53 (file, pp. 4012, 4022).
+(56) Reply of Westdeutsche Landesbank to the SO, pp. 32 et seq. (file, pp. 4001 et seq.).
+(57) See paragraph 4 "What is conversion" of the Report of the Expert Group on Banking Charges for Conversion to the Euro to the European Commission, Brussels, 20.11.1997.
+(58) Replies to the SO: Commerzbank AG, p. 29 (file, p. 3618) and Annex 16 (file, p. 3671); BfG Bank AG, p. 15 (file, p. 3536); Hamburgische Landesbank, p. 4 (file, p. 3766).
+(59) Replies to the SO: Bayerische Landesbank, p. 29 (file, p. 3543); BfG Bank AG, p. 16 (file, p. 3537); Dresdner Bank AG, p. 5 (file, p. 3745); Landesbank Hessen Thüringen, p. 10 (file, p. 3824); Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 10 (file, p. 3897).
+(60) Presentation given by Dr Satzky on behalf of all the banks at the hearing on 1.2.2001.
+(61) Case 56/65 Société Technique Minière [1966] ECR 282, paragraph 7 and Case 42/84 Remia and Others v Commission [1985] ECR 2545, paragraph 22.
+(62) Case C-250/92 Gottrup-Klim [1994] ECR I-5641, paragraph 54.
+(63) Case C-219/95 P Ferriere Nord SpA v Commission [1997] ECR I-4411, paragraph 19.
+(64) Joined Cases T-374/94, T-375/94, T-384/94 and T-388/94 European Night Services and Others v Commission [1998] ECR II-3141, paragraphs 93 to 95 and 105 and Case T-62/98 Volkswagen v Commission [2000] ECR II-2707, paragraphs 230 and 231.
+(65) See inter alia Case 8/72 Vereeniging van Cementhandelaren v Commission [1972] ECR 977, paragraph 29 and Case T-29/92 SPO v Commission [1995] ECR II-289, paragraph 229.
+(66) Joined Cases 240-242, 261, 262, 268 and 269/82 Stichting Sigarettenindustrie and Others v Commission [1985] ECR 3831, paragraph 49.
+(67) In the reply of Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG to the SO, p. 4 (file, p. 3891) the banks claim that Vereins- und Westbank AG, although not invited to the meeting of 15 October 1997, sent an employee as representative of the then Bayerische Vereinsbank AG.
+(68) In the reply of Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG to the SO, pp. 9 et seq. (file, pp. 3896 et seq.) it is stated that the recipient of the invitation fax for the meeting of 15 October 1997 in the then Bayerische Vereinsbank AG showed it to his superior, who decided that participation was not necessary. The fax recipient however passed the invitation on to a colleague of his at Vereins- and Westbank AG as he was of the opinion, in contrast to his superior, that it might be possible to obtain some useful information at the meeting.
+(69) Reply of Bayerische Hypo- und Vereinsbank AG / Vereins- und Westbank AG, p. 24 (file, p. 3911).
+(70) Reisebank AG reply to the SO, pp. 2 et seq. (file, pp. 3696 et seq.). In its reply to the SO, DG Bank stated that it is not active in the forex business (file, p. 3689).
+(71) The leading case for determining whether Article 81(1) can be applied between parent and subsidiary company and whether they can thus be independent members of a cartel is Case T-102/92 Viho v Commission [1995] ECR II-17, paragraphs 47 to 55 (as confirmed by the Court of Justice in Case C-73/95 P Viho v Commission [1996] ECR I-5457), in which it is stated that: Article 85(1) (now Article 81(1)) does not apply to the relationship between the subsidiary and the parent company with which it forms an economic unit if the subsidiary, although having a separate legal personality, does not freely determine its conduct on the market but carries out the instructions given to it directly or indirectly by the parent company by which it is wholly controlled. Paragraph 16 of the judgment in Case C-73/95 P reads as follows: Parker and its subsidiaries thus form a single economic unit within which the subsidiaries do not enjoy real autonomy in determining their course of action in the market, but carry out the instructions issued to them by the parent company controlling them.
+(72) The judgment in Case C-286/98P Stora v Commission [2000] ECR I - 9925 reads, at paragraph 26, as follows: It should be remembered that, as the Court of Justice has held on several occasions, the fact that a subsidiary has separate legal personality is not sufficient to exclude the possibility of its conduct being imputed to the parent company, especially where the subsidiary does not independently decide its own conduct on the market, but carries out, in all material respects, the instructions given to it by the parent company (see, inter alia, Case 48/69 ICI v Commission [1972] ECR 619, paragraphs 132 and 133; Case 52/69 Geigy v Commission [1972] ECR 787, paragraph 44; and Case 6/72 Europemballage and Continental Can v Commission [1973] ECR 215, paragraph 15).
+(73) OJ 13, 21.2.1962, p. 204/62.
+(74) OJ C 9, 14.1.1998, p. 3.
+(75) OJ C 207, 18.7.1996, p. 4.
+ANNEX
+>PIC FILE= "L_2003015EN.003302.TIF">
+>PIC FILE= "L_2003015EN.003401.TIF">
+Buying and selling volumes per euro-zone country for EU currencies (in EUR, 1998)
+(Note:
+Different scales for the Netherlands, Spain and the euro zone).
+Top

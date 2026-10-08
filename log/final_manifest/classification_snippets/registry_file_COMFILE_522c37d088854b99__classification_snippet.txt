@@ -1,0 +1,381 @@
+Case AT.40023 – Cross-border access to pay-TV
+
+Paramount | Commitments
+
+Preamble
+
+In accordance with Article 9 of Council Regulation (EC) No 1/2003 of 16 December
+2002 on the implementation of the rules on competition laid down in Articles 81 and
+82 of the Treaty (“Regulation 1/2003”), Paramount Pictures International Limited (as
+successor by merger to Viacom Global (Netherlands) B.V.) (“PPIL”) and Viacom
+Inc. (“Viacom”) (together “Paramount”, which also includes their successors and
+any and all of their subsidiaries) make the following commitments (“Commitments”)
+to the European Commission (the “Commission”) in response to the Commission's
+investigation in Case AT.40023 – Cross-border access to pay-TV (“Pay-TV
+Investigation”).
+
+In a Statement of Objections received by Paramount on 27 July 2015 (“SO”), the
+Commission has come to the preliminary view that: (a) certain contractual obligations
+in Paramount's agreements with Sky UK Limited (formerly British Sky Broadcasting
+Limited) and Sky Plc. (formerly British Sky Broadcasting Group Plc.) (together
+“Sky”) prevent or limit Sky from responding to unsolicited requests from consumers
+residing and located in the European Economic Area but outside Sky’s licensed
+territory; (b) certain other contractual obligations in Paramount's agreements with Sky
+require Paramount to prohibit or limit Broadcasters located within the European
+Economic Area but outside Sky’s licensed territory from responding to unsolicited
+requests from consumers residing and located inside Sky’s licensed territory; and (c)
+such obligations have as their object the restriction of competition within the meaning
+of Article 101(1) of the Treaty on the Functioning of the European Union (“TFEU”)
+and Article 53(1) of the Agreement on the European Economic Area (“EEA
+Agreement”) and cannot benefit from an exemption under Article 101(3) of the
+TFEU and Article 53(3) of the EEA Agreement.
+
+The Commitments are offered in order to meet the Commission’s concerns relating to
+such obligations and on the understanding that the Commission will adopt a decision
+pursuant to Article 9 of Regulation 1/2003 (“Commitment Decision”): (i) making
+binding the Commitments; and (ii) concluding that there are no longer grounds for
+further action against Paramount in relation to the Pay-TV Investigation and that the
+proceedings against Paramount should be closed.
+
+Consistent with Article 9 of Regulation 1/2003, the Commitments are given on the
+understanding that they are made without admission of infringement by Paramount or
+acceptance of the concerns expressed by the Commission in the SO.
+
+This text shall be interpreted in the light of the Commitment Decision, the general
+framework of European Union law, and Regulation 1/2003.
+
+1
+
+Clause 1 - Definitions
+
+“Additional Obligations” mean together the Broadcaster Obligation and the
+Paramount Obligation.
+
+“Broadcaster” means an organisation, including Sky, which produces and distributes
+Pay-TV service(s) in the EEA.
+
+“Broadcaster Obligation” means the Relevant Clauses or equivalent clauses to the
+extent they prevent or limit a Broadcaster from responding to unsolicited requests from
+consumers residing and located in the European Economic Area but outside of such
+Broadcaster’s licensed territory.
+
+“Effective Date” means the date upon which Paramount receives formal notification
+of the Commitment Decision.
+
+“European Economic Area” or “EEA” means those countries participating in the
+European Economic Area as of the Effective Date and continuing to participate
+thereafter.
+
+“Paramount Obligation” means the Relevant Clauses or equivalent clauses to the
+extent they require Paramount to prohibit or limit Broadcasters located within the
+European Economic Area but outside a Broadcaster’s licensed territory from
+responding to unsolicited requests from consumers residing and located inside such
+Broadcaster’s licensed territory.
+
+“Pay-TV” means the linear, regularly-scheduled encrypted transmission from a
+distance of audiovisual content in its entirety and without any interruptions to a
+viewing device for personal, residential viewing only by subscribers, as part of a
+premium tier subscription service which is not primarily advertiser-supported, that
+can only be intelligibly received by such subscribers upon payment of a periodic (not
+less than biweekly) subscription fee for such service.
+
+“Pay-TV Output License Agreement” means an agreement that licenses to a
+Broadcaster (as the licensee) a licensor’s future output of defined films on an
+exclusive basis (and may include other audiovisual content) for a limited period of
+time during which the Broadcaster may exhibit the films on a Pay-TV basis and, to
+the extent included in the licence (or separate licence(s)) with such Broadcaster, on an
+SVOD basis.
+
+“Relevant Clauses” means clauses in Pay-TV Output License Agreements that (i)
+with regard to satellite transmission, stipulate that (a) overspill in territories other than
+the licensed territory will not be deemed a breach of contract by the Broadcaster
+provided that the Broadcaster does not knowingly authorise reception outside of the
+licensed territory, and/or (b) overspill in the licensed territory will not be deemed to
+be a breach of contract by Paramount provided that Paramount has not authorised the
+availability of a third party's descrambling device necessary for reception of content in
+the licensed territory; and (ii) with regard to Internet transmission, (a) impose an
+obligation on a Broadcaster to prevent the unauthorized downloading and/or
+streaming of films (and, if included, other audiovisual content) outside the licensed
+territory by means of geo-filtering and/or equivalent technology, and/or (b) stipulate
+
+2
+
+that Internet overspill in a Broadcaster’s licensed territory is not a breach of contract
+by Paramount provided that Paramount has required other Broadcaster(s) to use geofiltering and/or equivalent technology, and/or (c) stipulate that Internet overspill by a
+Broadcaster outside its licensed territory is not a breach of contract by that
+Broadcaster provided that such Broadcaster uses geo-filtering and/or equivalent
+technology.
+
+“SVOD” means the encrypted transmission of audiovisual content, without any
+interruptions, to a viewing device for personal, residential viewing only by
+subscribers by means of a point-to-point telecommunications system originating from
+a distance and delivered from a digital storage device: (a) at a time selected by a
+subscriber in such subscriber’s sole discretion; (b) for a specified limited viewing
+period; and (c) for which such subscriber pays a periodic (not less than biweekly)
+subscription fee and is not charged a per-transaction, per-title, per-exhibition or pertransmission fee.
+
+Clause 2 - Commitments in relation to satellite broadcast, internet transmission
+and/or transmission by means of mobile wireless technologies
+
+2.1 From the Effective Date, Paramount shall not enter into, renew or extend a
+Pay-TV Output License Agreement that, with respect to any territory in the
+EEA, (re)introduces Additional Obligations.
+
+2.2 From the Effective Date, Paramount:
+
+(a) shall not seek to enforce or initiate proceedings before a court or tribunal
+for the violation of a Broadcaster Obligation in an existing Pay-TV Output
+License Agreement; and
+
+(b) shall not directly or indirectly honour or enforce a Paramount Obligation
+in an existing Pay-TV Output License Agreement.
+
+2.3 Paramount shall notify Sky of the commitment in Clause 2.2(a) within ten (10)
+working days, and any other Broadcaster in the EEA with a relevant Pay-TV
+Output License Agreement with Paramount within one (1) month after the
+Effective Date. Such notice shall specify that Paramount irrevocably waives
+any Broadcaster Obligation as long as such contractual obligations continue to
+be covered by these Commitments.
+
+2.4 Without prejudice to Clauses 2.1 to 2.3, nothing in the Commitments shall be
+interpreted as a limitation on or a waiver by Paramount of rights that
+Paramount would otherwise have to enter into Pay-TV Output License
+Agreements that:
+
+(a) require a Broadcaster to employ geo-filtering technology that prevents or
+limits such Broadcaster from making its retail Pay-TV and/or SVOD
+service(s) available to consumers residing and/or located outside of the
+EEA;
+
+(b) require a Broadcaster to prevent or limit the cross-border provision of
+decoding cards or any similar devices outside of the EEA;
+
+3
+
+(c) require a Broadcaster to focus efforts on the exclusive territory licensed to
+that Broadcaster and not to market, solicit or otherwise actively sell
+outside of that exclusive territory; and
+
+(d) without prejudice to Clause 5, provide for the allocation of liability
+between Paramount and a Broadcaster relating to the implementation of
+the Commitments.
+
+2.5 Nothing in the Commitments shall be interpreted as limiting or waiving
+Paramount’s right to engage in licensing or enforcement practices in the EEA
+that are legally permissible under EU law.
+
+Clause 3 - Term of the Commitments
+
+The Commitments shall be in force for a term of five (5) years from the
+Effective Date.
+
+Clause 4 - Review Clause
+
+Without prejudice to the general provision of Article 9(2) of Regulation
+1/2003, Paramount may request that the Commission reopen proceedings with
+a view to modifying these Commitments where there has been a material
+change in any of the facts or circumstances on which the Commitment
+Decision is based.
+
+Clause 5 - Non-circumvention
+
+Paramount shall not in any way circumvent, or attempt to circumvent, these
+Commitments either by action or omission.
+
+Clause 6 - Commitments in relation to appointing a Monitoring Trustee
+
+Paramount shall appoint a monitoring trustee to monitor Paramount’s
+compliance with these Commitments until the end of the term (the
+“Monitoring Trustee”). The Monitoring Trustee shall be independent of
+Paramount (and any other undertaking affiliated with Paramount) and a
+Broadcaster (and any other legal entity directly or indirectly controlled or
+affiliated with a Broadcaster). The Monitoring Trustee will be remunerated by
+Paramount in a way that does not influence or impede the independent and
+effective fulfilment of its mandate. The Monitoring Trustee should possess
+the qualifications, experience and competence necessary to carry out its
+mandate. The Monitoring Trustee shall neither have nor become exposed to a
+conflict of interest. In particular, the Monitoring Trustee shall not provide
+services to, or become an employee of, Paramount or any Broadcaster, neither
+during the Monitoring Trustee’s mandate nor for a period of one (1) year
+following termination of the Monitoring Trustee’s mandate.
+
+4
+
+Clause 7 - Proposal by Paramount
+
+On the Effective Date, Paramount shall submit to the Commission for
+approval a list of at least two (2) persons whom Paramount proposes to
+appoint as the Monitoring Trustee. The proposal shall contain sufficient
+information for the Commission to verify that the proposed Monitoring
+Trustees fulfil the requirements set out in Clause 6 and shall include:
+
+(a) the full terms of the proposed mandate, which shall include all provisions
+necessary to enable the Monitoring Trustee to fulfil its duties set forth in
+Clause 12; and
+
+(b) the outline of a plan which describes how the Monitoring Trustee intends
+to carry out its assigned tasks.
+
+Clause 8 - Approval or rejection by the Commission
+
+The Commission shall have the discretion to approve or reject the proposed
+Monitoring Trustees and to approve the proposed mandate subject to any
+modifications it deems necessary for the Monitoring Trustee to fulfil its
+obligations. The Commission shall give reasons in case of rejection of a
+proposed Monitoring Trustee and reasons supporting the need for any
+modifications. If only one person is approved, Paramount shall appoint, or
+cause to be appointed, the individual concerned as Monitoring Trustee, in
+accordance with the mandate approved by the Commission. If more than one
+name is approved, Paramount shall be free to choose the Monitoring Trustee
+to be appointed from among the persons approved. The Monitoring Trustee
+shall be appointed within one (1) week of the Commission’s approval, in
+accordance with the mandate approved by the Commission.
+
+Clause 9 - New proposal(s) by Paramount
+
+If all the proposed Monitoring Trustees are rejected, Paramount shall submit
+the names of at least two (2) more persons within two (2) weeks of being
+informed of the rejection(s), in accordance with the requirements and the
+procedure set out in Clauses 7 and 8.
+
+Clause 10 - Monitoring Trustee nominated by the Commission
+
+If all further proposed Monitoring Trustees are rejected by the Commission,
+the Commission shall nominate a Monitoring Trustee, whom Paramount shall
+appoint, or cause to be appointed, in accordance with a trustee mandate
+approved by the Commission.
+
+Clause 11 - Replacement, discharge and reappointment of the Monitoring
+Trustee
+
+11.1 If the Monitoring Trustee ceases to perform its functions under these
+Commitments or for any other good cause, including the exposure of the
+Monitoring Trustee to a conflict of interest:
+
+5
+
+(a) the Commission may, after hearing the Monitoring Trustee, require
+Paramount to replace the Monitoring Trustee; or
+
+(b) Paramount, with the prior approval of the Commission, may replace the
+Monitoring Trustee.
+
+11.2 If the Monitoring Trustee is removed, the Monitoring Trustee may be required
+to continue in its function until a new Monitoring Trustee is in place to whom
+the former Monitoring Trustee has effected a full hand-over of all relevant
+information. The new Monitoring Trustee shall be appointed in accordance
+with the procedure referred to in Clauses 7 to 10.
+
+11.3 The Monitoring Trustee shall cease to act as the Monitoring Trustee only upon
+the expiration of the Commitments or after the Commission has discharged it
+from its duties.
+
+Clause 12 - Duties and obligations of the Monitoring Trustee
+
+12.1 The Monitoring Trustee shall:
+
+(a) upon reception of the notices given pursuant to Clause 2.3 and to Clause
+13.1(a), report in writing to the Commission within one (1) month;
+
+(b) provide to the Commission, sending Paramount a non-confidential copy at
+the same time, a written report on Paramount’s compliance with these
+Commitments on the first Friday of June of each year after the Effective
+Date so that the Commission can assess whether Paramount is in
+compliance with these Commitments; and
+
+(c) report in writing to the Commission, sending Paramount a non-confidential
+copy at the same time, if it concludes on reasonable grounds that
+Paramount is failing to comply with the Commitments.
+
+12.2 The Monitoring Trustee shall not:
+
+(a) have access to Paramount’s books, records, documents, management or
+other personnel, facilities, sites or technical information except the
+documents provided by Paramount in accordance with Clause 13;
+
+(b) have any decision-making powers or powers of investigation of the kind
+vested in the Commission pursuant to Regulation 1/2003;
+
+(c) undertake any significant work not covered by its mandate unless it has
+received written express instructions from the Commission. Where the
+Monitoring Trustee is required to exercise its own initiative, it shall
+discuss the work involved with the Commission and obtain its prior
+approval before undertaking any significant work; and
+
+(d) disclose any confidential information to anyone other than the
+Commission. Any confidential information obtained by the Monitoring
+Trustee in performance of the duties and obligations specified in the
+Commitments shall be kept in the strictest confidence and shall be used
+
+6
+
+solely for the purpose of performing the duties and obligations specified in
+the Commitments. The Monitoring Trustee shall ensure that adequate
+safeguards are established and adhered to in taking delivery of, tracking
+the dissemination of, monitoring the use of, protecting against the
+disclosure of, and determining the safe disposal of confidential
+information. These safeguards must be effective to protect the confidential
+information, but shall not be such as to prevent the Monitoring Trustee
+from effectively fulfilling its duties and obligations specified in the
+Commitments. The Monitoring Trustee shall not make any public
+statements relating to the performance of its functions in relation with the
+Commitments. The Monitoring Trustee shall sign confidentiality
+undertakings warranting its knowledge of and compliance with its duties
+and obligations specified in the Commitments. The Monitoring Trustee
+shall abide by the obligations of non-disclosure imposed in Article 28(2)
+of Regulation 1/2003 with regard to any information acquired in its
+performance or from the Commission, even after the term of its mandate.
+
+Clause 13 - Duties and obligations of Paramount
+
+13.1 Paramount shall provide the Monitoring Trustee or directly the Commission,
+with one (1) complete copy of:
+
+(a) the notices given pursuant to Clause 2.3, within five (5) working days of
+the date of each such notice; and
+
+(b) any Pay-TV Output License Agreement that Paramount enters into, renews
+and extends after the Effective Date for any territories within the EEA,
+within two (2) weeks after the date such agreement is executed.
+
+13.2 Paramount will confirm annually to the Monitoring Trustee that:
+
+(a) any modifications to the Pay-TV Output License Agreement(s) referenced
+in Clause 13.1(b) comply with the Commitments;
+
+(b) it has not sought to enforce or initiate proceedings before a court or
+tribunal for the violation of a Broadcaster Obligation in an existing Pay-
+TV Output License Agreement; and
+
+(c) it has not directly or indirectly honoured or enforced a Paramount
+Obligation in an existing Pay-TV Output License Agreement.
+
+13.3 On request by the Commission or the Monitoring Trustee, Paramount will
+supply details of compliance with the above obligations referenced in Clauses
+13.1 and 13.2 within ten (10) working days.
+
+Date: 7 July 2016
+
+7
+
+Paramount Pictures International Limited
+
+Signed
+
+.......................................................
+
+Name: Brigit Rathouse
+
+duly authorized to sign on behalf of Paramount Pictures International Limited.
+
+Viacom Inc.
+
+Signed
+
+.......................................................
+
+Name: Michael D. Fricklas
+
+duly authorized to sign on behalf of Viacom Inc.
+
+8

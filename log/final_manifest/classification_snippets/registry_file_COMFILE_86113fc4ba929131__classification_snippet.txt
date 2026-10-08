@@ -1,0 +1,340 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52018XC1211(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52018XC1211(01)
+Help
+Print
+Summary of Commission Decision of 21 March 2018 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40136 — Capacitors) (notified under document number C(2018) 1768 final) (Text with EEA relevance.)
+Summary of Commission Decision of 21 March 2018 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40136 — Capacitors) (notified under document number C(2018) 1768 final) (Text with EEA relevance.)
+Summary of Commission Decision of 21 March 2018 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40136 — Capacitors) (notified under document number C(2018) 1768 final) (Text with EEA relevance.)
+C/2018/1768
+OJ C 446, 11.12.2018, pp. 10–13
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+11.12.2018
+EN
+Official Journal of the European Union
+C 446/10
+Summary of Commission Decision
+of 21 March 2018
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.40136 — Capacitors)
+(notified under document number C(2018) 1768 final)
+(Only the English text is authentic)
+(Text with EEA relevance)
+(2018/C 446/07)
+On 21 March 2018, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The Decision relates to a single and continuous infringement of Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement concerning electrolytic capacitors: aluminium electrolytic capacitors (‘AECs’) and tantalum electrolytic capacitors (‘TECs’). The infringement lasted from 26 June 1998 to 23 April 2012 and comprised exchange of commercially sensitive information (including on price and demand/supply) and pricing agreements.
+(2)
+The decision is addressed to the following entities: Elna Co., Ltd (‘Elna’); Hitachi Chemical Electronics Co., Ltd and Hitachi Chemical Co., Ltd (together referred to as ‘Hitachi AIC’); Vishay Polytech Co., Ltd, Holy Stone Holdings Co., Ltd and Holy Stone Enterprise Co., Ltd (together referred to as ‘Holy Stone’); Matsuo Electric Co., Ltd (‘Matsuo’); Tokin Corporation and NEC Corporation (together referred to as ‘NEC Tokin’); Nichicon Corporation (‘Nichicon’); Nippon Chemi-Con Corporation (‘NCC’); Rubycon Corporation and Rubycon Holdings Co., Ltd (together referred to as ‘Rubycon’), and Sanyo Electric Co., Ltd and Panasonic Corporation (together referred to as ‘Sanyo’) (also referred to as the ‘parties’ or individually the ‘party’)
+(
+2
+)
+.
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(3)
+The case started following an immunity application submitted by Sanyo on 4 October 2013. On 28 March 2014 and 1 April 2014, the Commission sent requests for information under Article 18 of Regulation (EC) No 1/2003
+(
+3
+)
+. These requests for information were followed by leniency applications from Hitachi AIC, Holy Stone, NEC Tokin, Rubycon and Elna.
+(4)
+The Commission subsequently issued further requests for information and letters under point 12 of the 2006 Leniency Notice
+(
+4
+)
+. The Commission carried out inspections under Article 20(4) of Regulation (EC) No 1/2003 from 3 until 6 March 2015.
+(5)
+On 4 November 2015, the Commission initiated proceedings pursuant to Article 11(6) Regulation (EC) No 1/2003 in this case and adopted a Statement of Objections (‘SO’).
+(6)
+On 4 May 2016, 28 February 2017 and 1 December 2017, the Commission sent Letters of Facts relating to certain aspects of the SO to all the addressees of the SO. The addressees of the Letters of Facts made known their views to the Commission in writing.
+(7)
+An Oral Hearing took place on 12-14 September 2016 and all the parties, except Matsuo, attended.
+(8)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 12 and 16 March 2018 respectively.
+(9)
+The Commission adopted the Decision on 21 March 2018.
+2.2.
+Addressees
+(10)
+The following legal entities have infringed Article 101 of the Treaty and Article 53 of the EEA Agreement, by participating, during the periods indicated below, in a single and continuous infringement in the electrolytic capacitors sector covering the whole EEA:
+(a)
+Elna Co., Ltd from 26 June 1998 to 23 April 2012;
+(b)
+Hitachi Chemical Electronics Co., Ltd from 22 November 2000 to 18 February 2010, Hitachi Chemical Co., Ltd from 1 August 2001 to 18 February 2010;
+(c)
+Vishay Polytech Co., Ltd, Holy Stone Holdings Co., Ltd, Holy Stone Enterprise Co., Ltd from 16 November 2010 to 23 April 2012;
+(d)
+Matsuo Electric Co., Ltd from 29 January 2003 to 23 April 2012;
+(e)
+Tokin Corporation from 29 January 2003 to 23 April 2012, NEC Corporation from 1 August 2009 to 23 April 2012;
+(f)
+Nichicon Corporation from 26 June 1998 to 31 May 2010;
+(g)
+Nippon Chemi-Con Corporation from 26 June 1998 to 23 April 2012;
+(h)
+Rubycon Corporation from 26 June 1998 to 23 April 2012, Rubycon Holdings Co., Ltd from 1 February 2007 to 23 April 2012;
+(i)
+Sanyo Electric Co., Ltd from 19 September 2001 to 19 April 2011, Panasonic Corporation from 1 April 2011 to 19 April 2011.
+2.3.
+Summary of the infringement
+(11)
+The Decision finds that between 26 June 1998 and 23 April 2012 the parties coordinated their behaviour on a global basis (including the EEA) in relation to the supply of electrolytic capacitors. The cartel operated with a single economic aim to avoid price competition and to coordinate future conduct, thereby reducing uncertainty on the market.
+(12)
+The products concerned by the cartel are two basic forms of electrolytic capacitors (AECs and TECs). Capacitors are electrical components that store energy in an electric field, and are used in a wide variety of electronic products.
+(13)
+The cartel operated on the basis of multilateral meetings accompanied by ad hoc bi-/tri-lateral contacts between the parties, which often discussed specific issues (such as future prices for particular customers or contracts). Multilateral meetings were held regularly in Japan at senior sales and higher management level, including the presidents, and were, at different times, attended by all the parties.
+(14)
+The framework of multilateral meetings and bi-/tri-lateral contacts was established to exchange commercially sensitive information and to find a coordinated response to the issues the parties were confronted with (rising raw material prices, fluctuation of currency exchange rates, pressure from other competitors).
+(15)
+The coordination between the cartel participants was frequent, regular and systematic. It covered exchanges of information, including on future prices, future supply and demand information across various customers and types of AECs and TECs. In some instances, some participants even concluded price agreements and monitored their implementation. The collusive behaviour created a climate of mutual certainty within which the competitors knowingly substituted practical cooperation between them for the risks of competition.
+2.4.
+Remedies
+(16)
+The Decision applies the 2006 Guidelines on Fines
+(
+5
+)
+.
+2.4.1.
+Basic amount of the fine
+(17)
+The basic amount of the fines is determined by reference to the value of AECs' and TECs' sales generated by the undertakings in the EEA in the last full business year of their participation in the infringement. The value of the relevant sales was determined on the basis of sales for AECs and TECs invoiced to customers in the EEA. The invoicing criterion accurately reflects the reality of the cartel.
+(18)
+Considering the nature of the infringement and its geographic scope (EEA), the percentage for the variable amount of the fines as well as for the additional amount (‘entry fee’) is set at 16 % of the value of the relevant sales.
+(19)
+The variable amount is multiplied by the number of years or by fractions of the year respectively of the parties' participation in the infringement in order to take fully into account the duration of the participation for each undertaking in the infringement individually. The Commission takes into account the actual duration of participation in the infringement of the parties on the basis of the full years, months and days.
+(20)
+The Commission takes into account variations in duration of the AEC and TEC-related contacts and distinct duration multipliers are thus applied in the fines calculation for the AEC and TEC-related contacts.
+2.4.2.
+Adjustments to the basic amount
+(21)
+An aggravating circumstance for recidivism is applied to NEC Corporation, on account of its participation in the DRAMs cartel that was the subject matter of a Commission decision adopted on 19 May 2010.
+(22)
+A mitigating factor is applied to Sanyo, NEC Tokin, Matsuo and Nichicon in order to reflect their lack of awareness of and liability for part of the single and continuous infringement relating to certain series of meetings.
+2.4.3.
+Specific increase for deterrence
+(23)
+In this case, a deterrence multiplier of 1,2 is applied to Sanyo.
+2.4.4.
+Application of the 10 % turnover limit
+(24)
+The final individual amounts of the fines, calculated prior to the application of the reductions under the Leniency Notice, exceed 10 % of the worldwide turnover for Elna, NCC and Rubycon. Therefore their fines have been reduced to that percentage.
+2.4.5.
+Application of the 2006 Leniency Notice: reduction of fines
+(25)
+Sanyo was the first to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice and is thus granted immunity from fines.
+(26)
+Hitachi AIC was the first undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice and is granted a reduction of 35 % of the fine.
+(27)
+Rubycon was the second undertaking to meet the requirements of points 24 and 25 of the Leniency Notice and is granted a reduction of 30 % of the fine. Moreover, pursuant to point 26 of the Leniency notice, the period from 26 June 1998 to 28 August 2003 is not taken into account when setting the fine for Rubycon as it provided evidence enabling the Commission to establish additional facts increasing the duration of the infringement for that period.
+(28)
+Elna was the third undertaking to meet the requirements of points 24 and 25 of the Leniency Notice and is granted a reduction of 15 % of the fine.
+(29)
+NEC Tokin was the fourth undertaking to meet the requirements of points 24 and 25 of the Leniency Notice and is granted a reduction of 15 % of the fine.
+(30)
+Holy Stone has not submitted evidence that represents, within the meaning of points 24 and 25 of the Leniency Notice, significant added value with respect to the evidence already in the Commission's possession. Hence, Holy Stone was not granted any reduction of the fine imposed on it.
+2.4.6.
+Ability to pay pursuant to point 35 of the Guidelines on fines
+(31)
+Two undertakings submitted an application for a reduction of their fine on the grounds of inability to pay. The Commission assessed the applications submitted and concluded that they should be rejected.
+3.
+CONCLUSION
+(32)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003.
+(a)
+Elna Co., Ltd: EUR 18 162 000;
+(b)
+Hitachi Chemical Electronics Co., Ltd and Hitachi Chemical Co., Ltd, jointly and severally: EUR 17 310 000;
+(c)
+Hitachi Chemical Electronics Co., Ltd: EUR 1 166 000;
+(d)
+Vishay Polytech Co., Ltd, Holy Stone Holdings Co., Ltd and Holy Stone Enterprise Co., Ltd, jointly and severally: EUR 782 000;
+(e)
+Matsuo Electric Co., Ltd: EUR 824 000;
+(f)
+Tokin Corporation and NEC Corporation, jointly and severally: EUR 5 036 000;
+(g)
+Tokin Corporation: EUR 8 814 000;
+(h)
+NEC Corporation: EUR 2 595 000;
+(i)
+Nichicon Corporation: EUR 72 901 000;
+(j)
+Nippon Chemi-Con Corporation: EUR 97 921 000;
+(k)
+Rubycon Corporation and Rubycon Holdings Co., Ltd, jointly and severally: EUR 27 718 000;
+(l)
+Rubycon Corporation: EUR 706 000;
+(m)
+Sanyo Electric Co., Ltd and Panasonic Corporation, jointly and severally: EUR 0.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+Certain addressees manufactured both types of capacitors (TECs and AECs) throughout the entire duration of the infringement or during parts thereof. Certain other addressees, however, manufactured only one type of capacitor (TECs or AECs) throughout the entire duration of the infringement.
+(
+3
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+4
+)
+Commission Notice on Immunity from fines and reduction of fines in cartel cases (
+OJ C 298, 8.12.2006, p. 17
+).
+(
+5
+)
+OJ C 210, 1.9.2006, p. 2
+.
+Top

@@ -1,0 +1,628 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 03 septembre 2004
+C(2004) 2826
+
+DÉCISION DE LA COMMISSION
+
+du 3 septembre 2004
+
+relative à une procédure d'application de l'article 81 du traité CE
+
+et de l'article 53 de l'accord EEE
+
+(Affaire COMP/E-1/38.069 – Tubes sanitaires en cuivre)
+
+(Les textes en langue allemande, anglaise, finnoise, française, grecque, italienne,
+néerlandaise et suédoise sont les seuls faisant foi)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+FR 1 FR
+
+TABLE DES MATIÈRES
+
+A - INTRODUCTION ......................................................................................................... 10
+
+1. Le produit .............................................................................................................. 10
+
+1.1. Tubes sanitaires en cuivre (nus et gainés) ............................................................... 10
+
+1.2. Étendue géographique de l'activité ......................................................................... 14
+
+1.3. Fixation des prix des tubes sanitaires en cuivre....................................................... 14
+
+1.3.1. Barèmes indexés .................................................................................................... 15
+
+1.3.2. Remises.................................................................................................................. 15
+
+1.4. Taille et valeur du marché et parts de marché - Tubes sanitaires en cuivre nus et
+gainés..................................................................................................................... 15
+
+1.5. Commerce entre États membres ............................................................................. 16
+
+2. Les entreprises présentes sur le marché .................................................................. 17
+
+2.1. Producteurs visés par la présente procédure............................................................ 17
+
+2.1.1. Boliden AB et Boliden Cuivre & Zinc S.A............................................................. 17
+
+2.1.2. Buntmetall Amstetten Ges.m.b.H. et Austria Buntmetall AG.................................. 17
+
+2.1.3. Halcor S.A. ............................................................................................................ 18
+
+2.1.4. HME Nederland BV............................................................................................... 18
+
+2.1.5. IMI plc................................................................................................................... 18
+
+2.1.6. Groupe KME.......................................................................................................... 19
+
+2.1.6.1. Les entreprises en cause ......................................................................................... 19
+
+2.1.6.2. Liens juridiques et économiques au sein du groupe SMI......................................... 20
+
+2.1.7. Mueller Industries, Inc. .......................................................................................... 22
+
+2.1.8. Outokumpu Copper Products Oy («Outokumpu») .................................................. 23
+
+2.1.9. Wieland Werke AG................................................................................................ 24
+
+2.2. Autres producteurs ................................................................................................. 24
+
+2.3. Associations professionnelles et organismes de certification................................... 24
+
+C - PROCÉDURE................................................................................................................ 26
+
+3. Enquête et demandes d’application de la communication sur la clémence............... 26
+
+4. Adoption de la communication des griefs et suite de la procédure .......................... 28
+
+FR 2 FR
+
+D - DESCRIPTION DES FAITS ......................................................................................... 29
+
+5. Description du comportement reproché dans le secteur des tubes sanitaires en cuivre
+au niveau européen, de juin 1988 à mars 2001........................................................ 29
+
+5.1. Introduction............................................................................................................ 29
+
+5.2. Contacts nationaux................................................................................................. 30
+
+5.3. Contacts au niveau européen, dont ceux entre les producteurs SANCO, WICU et
+Cuprotherm............................................................................................................ 30
+
+5.4. Réunions des associations professionnelles ............................................................ 31
+
+6. Réunions entre les producteurs SANCO et entre les producteurs de tubes sanitaires
+WICU et Cuprotherm, et contacts entre concurrents lors de ces réunions................ 31
+
+6.1. L'organisation SANCO et les accords de transfert de technologie SANCO............. 32
+
+6.2. Coopération WICU et Cuprotherm dans le cadre des accords de transfert de
+technologie WICU et Cuprotherm .......................................................................... 33
+
+6.3. Participants aux accords des producteurs SANCO et aux accords des producteurs
+WICU et Cuprotherm............................................................................................. 33
+
+6.4. Accords dans lesquels étaient impliqués (au moins) les producteurs SANCO (BCZ,
+KME, EM, TMX et Wieland)................................................................................. 34
+
+6.4.1. Accords dans lesquels étaient impliqués les producteurs SANCO entre juin 1988 et la
+mi-1994, et peut-être même jusqu'à la mi-1995 ...................................................... 35
+
+6.4.1.1. Accords sur les objectifs de prix et sur les taux de remise....................................... 35
+
+6.4.1.2. Répartition des volumes et des parts de marché...................................................... 36
+
+6.4.1.3. Surveillance ........................................................................................................... 37
+
+6.4.2. Relations entre les producteurs SANCO et les producteurs hors SANCO ............... 38
+
+6.5. Accords et discussions entre KME et Wieland au sujet des tubes WICU et
+Cuprotherm............................................................................................................ 38
+
+7. Chronologie des réunions et autres contacts entre producteurs SANCO.................. 39
+
+7.1. Contacts continus et échanges d'informations entre producteurs SANCO de 1987 à
+2000....................................................................................................................... 39
+
+7.1.1. Contacts, notamment entre KME et Wieland.......................................................... 39
+
+7.1.2. Échanges d'informations institutionnalisés.............................................................. 40
+
+7.2. Événements supplémentaires survenus entre 1988 et 2001...................................... 43
+
+7.2.1. Réunion du 3 juin 1988 .......................................................................................... 43
+
+7.2.2. Liège, le 4 novembre 1988 ..................................................................................... 44
+
+7.2.3. Zurich, le 24 novembre 1988.................................................................................. 44
+
+FR 3 FR
+
+7.2.4. Stuttgart, le 26 novembre 1993............................................................................... 45
+
+7.2.5. Janvier-février 1994 ............................................................................................... 45
+
+7.2.6. Düsseldorf, le 26 septembre 1995........................................................................... 45
+
+7.2.7. 5 mars 1997............................................................................................................ 45
+
+7.2.8. Francfort, le 24 juin 1997 ....................................................................................... 46
+
+7.2.9. Francfort, le 27 juin 1997 ....................................................................................... 46
+
+7.2.10. Suivi assuré par KME le 26 août 1997.................................................................... 46
+
+7.2.11. Aux alentours de 1997............................................................................................ 46
+
+7.2.12. De 1998 à 2000...................................................................................................... 46
+
+7.2.13. Amsterdam, le 9 juin 1998 ..................................................................................... 47
+
+7.2.14. 12 et 15 avril 1999.................................................................................................. 47
+
+7.2.15. Düsseldorf, le 21 octobre 1999............................................................................... 47
+
+7.2.16. Düsseldorf, le 14 janvier 2000................................................................................ 48
+
+7.2.17. Düsseldorf, le 9 février 2000 .................................................................................. 48
+
+7.2.18. 28 avril 2000.......................................................................................................... 48
+
+7.2.19. Düsseldorf, le 30 mai 2000..................................................................................... 48
+
+7.2.20. Düsseldorf, le 21 juin 2000..................................................................................... 48
+
+7.2.21. 4 septembre 2000 et 22 novembre 2000.................................................................. 49
+
+7.2.22. 21 mars 2001.......................................................................................................... 49
+
+8. Développement, structure et objet des contacts entre concurrents au niveau européen49
+
+8.1. La période antérieure à septembre 1989.................................................................. 50
+
+8.2. Contacts de septembre 1989 jusqu'à la fin de 1994 ................................................. 50
+
+8.3. Période de contacts moins fréquents (de la fin 1994 à juillet 1997)......................... 54
+
+8.4. La période de juillet 1997 à mars 2001................................................................... 54
+
+9. Chronologie des réunions et des contacts entre concurrents.................................... 58
+
+9.1. Chronologie des réunions entre 1987 et septembre 1989......................................... 58
+
+9.2. Chronologie des réunions qui ont eu lieu entre septembre 1989 et mars 2001 ......... 60
+
+9.2.1. 1989....................................................................................................................... 60
+
+9.2.2. 1990....................................................................................................................... 64
+
+9.2.3. 1991....................................................................................................................... 64
+
+9.2.4. 1992....................................................................................................................... 65
+
+FR 4 FR
+
+9.2.5. 1993....................................................................................................................... 68
+
+9.2.6. 1994....................................................................................................................... 70
+
+9.2.7. 1995....................................................................................................................... 74
+
+9.2.8. 1996....................................................................................................................... 75
+
+9.2.9. 1997....................................................................................................................... 78
+
+9.2.10. 1998....................................................................................................................... 84
+
+9.2.11. 1999....................................................................................................................... 99
+
+9.2.12. 2000..................................................................................................................... 109
+
+9.2.13. 2001..................................................................................................................... 118
+
+E. - APPLICATION DE L’ARTICLE 81, PARAGRAPHE 1, DU TRAITÉ ET DE
+L'ARTICLE 53, PARAGRAPHE 1, DE L’ACCORD EEE .................................. 121
+
+10. Article 81, paragraphe 1, du traité et article 53, paragraphe 1, de l'accord EEE..... 121
+
+10.1. Applicabilité......................................................................................................... 121
+
+10.2. Compétence ......................................................................................................... 122
+
+11. Nature de l’infraction ........................................................................................... 122
+
+11.1. Accords et pratiques concertées............................................................................ 122
+
+11.2. Une infraction unique, complexe et continue........................................................ 124
+
+11.3. Nature de l'infraction dans la présente affaire ....................................................... 126
+
+11.3.1. Accords et pratiques concertées (infraction complexe) ......................................... 126
+
+11.3.2. Une infraction unique, complexe et multiforme.................................................... 129
+
+11.3.3. Une infraction unique et complexe ....................................................................... 130
+
+11.3.4. Caractère continu de l’infraction........................................................................... 130
+
+11.3.4.1.Du début de l’année 1990 à décembre 1992.......................................................... 132
+
+11.3.4.2.De juillet 1994 à juillet 1997 ................................................................................ 133
+
+11.3.4.3.Boliden ................................................................................................................ 139
+
+11.3.4.4.Halcor .................................................................................................................. 140
+
+11.3.4.5.Autres parties....................................................................................................... 141
+
+12. Restriction de concurrence ................................................................................... 141
+
+12.1. Objet.................................................................................................................... 141
+
+13. Effets sur le commerce entre États membres et entre parties contractantes à l'accord
+EEE...................................................................................................................... 145
+
+FR 5 FR
+
+14. Considérations supplémentaires............................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+euros,
+
+1072 Il convient de noter qu'en 2002, après la cessation de l'infraction, SMI, la société mère de KME, a
+racheté à IMI l'intégralité de la société YCT Yorkshire Copper Tube Ltd. Étant donné que ni SMI ni le
+groupe KME ne peuvent être tenus pour responsables des actes exécutés avant le rachat par ce qui était
+alors la société IMI Yorkshire Copper Tube Ltd, elles ne seront pas considérées comme solidairement
+responsables avec YCT Yorkshire Copper Tube Ltd. IMI a demandé à la Commission à être la seule
+destinataire de la décision.
+
+FR 225 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Les entreprises suivantes ont enfreint les dispositions de l'article 81, paragraphe 1, du traité et,
+à compter du 1er janvier 1994, de l'article 53, paragraphe 1, de l'accord EEE, en participant, au
+cours des périodes indiquées, à un ensemble d'accords et de pratiques concertées qui ont porté
+sur la fixation des prix et le partage des marchés dans le secteur des tubes sanitaires en cuivre:
+
+a) Boliden AB, solidairement avec Boliden Fabrication AB et Boliden Cuivre & Zinc
+S.A., du 3 juin 1988 au 22 mars 2001;
+
+b) Boliden Fabrication AB, solidairement avec Boliden AB et Boliden Cuivre & Zinc
+S.A., du 3 juin 1988 au 22 mars 2001;
+
+c) Boliden Cuivre & Zinc S.A, solidairement avec Boliden AB et Boliden Fabrication
+AB, du 3 juin 1988 au 22 mars 2001;
+
+d) Austria Buntmetall AG :
+
+i) solidairement avec Buntmetall Amstetten Ges.m.b.H., du 29 août 1998 au
+moins au 8 juillet 1999, et
+
+ii) solidairement avec Wieland Werke AG et Buntmetall Amstetten Ges.m.b.H, du
+9 juillet 1999 au 22 mars 2001;
+
+e) Buntmetall Amstetten Ges.m.b.H. :
+
+i) solidairement avec Austria Buntmetall AG, du 29 août 1998 au moins au
+8 juillet 1999, et
+
+ii) solidairement avec Wieland Werke AG et Austria Buntmetall AG, du
+9 juillet 1999 au 22 mars 2001;
+
+f) Halcor S.A., du 29 août 1998 au moins jusqu'au moins au début de septembre 1999;
+
+g) HME Nederland BV, du 29 août 1998 au moins jusqu'au 22 mars 2001;
+
+h) IMI plc, solidairement avec IMI Kynoch Ltd. et Yorkshire Copper Tube Ltd.
+(auparavant IMI Yorkshire Copper Tube Ltd), du 29 septembre 1989 au
+22 mars 2001;
+
+i) IMI Kynoch Ltd., solidairement avec IMI plc et Yorkshire Copper Tube Ltd.
+(auparavant IMI Yorkshire Copper Tube Ltd), du 29 septembre 1989 au
+22 mars 2001;
+
+j) Yorkshire Copper Tube Ltd. (auparavant IMI Yorkshire Copper Tube Ltd),
+solidairement avec IMI plc et IMI Kynoch Ltd., du 29 septembre 1989 au
+22 mars 2001;
+
+k) KM Europa Metal AG :
+
+FR 226 FR
+
+i) individuellement, du 3 juin 1988 au 19 juin 1995, et
+
+ii) solidairement avec Tréfimétaux SA et Europa Metalli SpA, du 20 juin 1995 au
+22 mars 2001;
+
+l) Europa Metalli SpA. :
+
+i) solidairement avec TMX, du 29 septembre 1989 au 19 juin 1995, et
+
+ii) solidairement avec KM Europa Metal AG et Tréfimétaux SA, du 20 juin 1995
+au 22 mars 2001;
+
+m) Tréfimétaux SA :
+
+i) solidairement avec Europa Metalli SpA, du 29 septembre 1989 au
+19 juin 1995, et
+
+ii) solidairement avec KM Europa Metal AG et Europa Metalli SpA, du
+20 juin 1995 au 22 mars 2001;
+
+n) Mueller Industries, Inc., solidairement avec WTC Holding Company, Inc., Mueller
+Europe Ltd., DENO Holding Company, Inc. et DENO Acquisition EURL, du
+21 octobre 1997 au 8 janvier 2001;
+
+o) WTC Holding Company, Inc., solidairement avec Mueller Industries, Inc., Mueller
+Europe Ltd., DENO Holding Company, Inc. et DENO Acquisition EURL, du
+21 octobre 1997 au 8 janvier 2001;
+
+p) Mueller Europe Ltd., solidairement avec WTC Holding Company, Inc., Mueller
+Industries, Inc., DENO Holding Company, Inc. et DENO Acquisition EURL, du
+21 octobre 1997 au 8 janvier 2001;
+
+q) DENO Holding Company, Inc., solidairement avec WTC Holding Company, Inc.,
+Mueller Europe Ltd., Mueller Industries, Inc. et DENO Acquisition EURL, du
+21 octobre 1997 au 8 janvier 2001;
+
+r) DENO Acquisition EURL, solidairement avec WTC Holding Company, Inc.,
+Mueller Europe Ltd., DENO Holding Company, Inc. et Mueller Industries, Inc., du
+21 octobre 1997 au 8 janvier 2001;
+
+s) Outokumpu Oyj, solidairement avec Outokumpu Copper Products OY, du
+29 septembre 1989 au 22 mars 2001;
+
+t) Outokumpu Copper Products OY, solidairement avec Outokumpu Oyj, du 29
+septembre 1989 au 22 mars 2001;
+
+u) Wieland Werke AG :
+
+i) individuellement du 29 septembre 1989 au 8 juillet 1999, et
+
+i) solidairement avec Austria Buntmetall AG et Buntmetall Amstetten
+Ges.m.b.H., du 9 juillet 1999 au 22 mars 2001.
+
+FR 227 FR
+
+Article 2
+
+Pour les infractions visées à l'article 1er, les amendes suivantes sont infligées:
+
+a) Boliden AB, Boliden Fabrication AB et Boliden Cuivre & Zinc S.A., solidairement:
+32,6 millions d'euros
+
+b) Austria Buntmetall AG et Buntmetall Amstetten Ges.m.b.H., solidairement:
+0,6695 millions d'euros
+
+c) Austria Buntmetall AG, Buntmetall Amstetten Ges.m.b.H. et Wieland Werke AG,
+solidairement: 2,43 millions d'euros
+
+d) Halcor S.A.: 9,16 millions d'euros
+
+e) HME Nederland BV: 4,49 millions d'euros
+
+f) IMI plc, IMI Kynoch Ltd. et Yorkshire Copper Tube Ltd. (auparavant IMI Yorkshire
+Copper Tube Ltd), solidairement: 44,98 millions d'euros
+
+g) KM Europa Metal AG: 17,96 millions d'euros
+
+h) KM Europa Metal AG, Tréfimétaux SA et Europa Metalli SpA, solidairement:
+32,75 millions d'euros
+
+i) Europa Metalli SpA. et Tréfimétaux SA, solidairement:
+16,37 millions d'euros
+
+j) Outokumpu Oyj et Outokumpu Copper Products OY, solidairement
+36,14 millions d'euros
+
+k) Wieland Werke AG, individuellement: 24,7416 millions d'euros.
+
+Les amendes sont payables, dans un délai de trois mois à compter de la date de notification de
+la présente décision, sur le compte suivant:
+
+Compte n°: 001-3953713-69 de la Commission européenne auprès de:
+
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Bruxelles
+
+(Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537 1369)
+
+À l'expiration de cette période, des intérêts seront automatiquement dus au taux appliqué par
+la Banque centrale européenne à ses principales opérations de refinancement le premier jour
+du mois au cours duquel la présente décision est adoptée, majoré de 3,5 points de
+pourcentage, soit 5,52%.
+
+FR 228 FR
+
+Article 3
+
+Les entreprises visées à l'article 1er mettent immédiatement fin aux infractions visées audit
+article, dans la mesure où elles ne l'ont pas déjà fait.
+
+Elles s'abstiennent à l'avenir de tout acte ou comportement visés à l'article 1er et de tout acte
+ou comportement ayant un objet ou un effet identique ou équivalent.
+
+Article 4
+
+Les entreprises suivantes sont destinataires de la présente décision:
+
+1. Wieland Werke AG
+Graf-Arco-Strasse 36
+89079 Ulm
+Allemagne
+
+2. Buntmetall Amstetten Ges.m.b.H.
+Fabrikstrasse 4
+3300 Amstetten
+Autriche
+
+3. Austria Buntmetall AG
+Fabrikstrasse 2
+A - 2551 Enzesfeld
+Autriche
+
+4. Mueller Industries Inc
+8285 Tournamet Drive
+Suite 150
+Memphis, Tennessee 38125
+Etats-Unis
+
+5. Mueller Europe Ltd.
+Oxford Street,
+Bilston
+West Midlands WV14 7DS
+Royaume-Uni
+
+6. DENO Holding Company Inc.
+c/o The Corporation Company
+30600 Telegraph Road
+Bingham Farms
+MI 48025
+Etats-Unis
+
+7. DENO Aquisition EURL
+17, Rue de la Baume
+75008 Paris
+France
+
+FR 229 FR
+
+8. Outokumpu Oyj
+Riihitontuntie 7 D
+02201 Espoo
+Finlande
+
+9. Outokumpu Copper Products OY
+Riihitontuntie 7 A
+02201 Espoo
+Finlande
+
+10. KM Europa Metal AG
+Klosterstrasse 29
+49074 Osnabrück
+Allemagne
+
+11. Tréfimétaux SA
+11, bis rue de l'hôtel de ville
+92411 Courbevoie
+France
+
+12. Europa Metalli SpA
+Via dei Barucci, 2
+50127 Firenze
+Italie
+
+13. Halcor S.A.
+252, Piraeus Street
+17778 Athens (Tavros)
+Grèce
+
+14. Boliden Cuivre & Zinc SA
+Rue du Forneau 43
+4030 Liège
+Belgique
+
+15. Boliden AB
+Box 5001
+194 05 Upplands Väsby
+Suède
+
+16. Boliden Fabrication AB
+Box 5001
+194 05 Upplands Väsby
+Suède
+
+FR 230 FR
+
+17. Yorkshire Copper Tube Ltd. (auparavant IMI Yorkshire Copper Tube Ltd)
+East Lancashire Road
+Kirkby
+Liverpool, L33 7TU
+Royaume-Uni
+
+18. IMI Kynoch Ltd.
+Lakeside, Solihull Parkway
+Birmingham Business Park
+Solihull B37 7XZ
+Royaume-Uni
+
+19. IMI Plc
+Lakeside, Solihull Parkway
+Birmingham Business Park
+Solihull B37 7XZ
+Royaume-Uni
+
+20. HME Nederland B.V.
+Veerweg 14
+5145 NS Waalwijk
+Pays-Bas
+
+21. WTC Holding Company, Inc.
+c/o The Corporation Company
+30600 Telegraph Road
+Bingham Farms
+MI 48025
+USA
+
+La présente décision forme titre exécutoire conformément à l’article 256 du traité et à l’article
+110 de l’accord EEE.
+
+Fait à Bruxelles, le
+
+Par la Commission
+
+Mario MONTI
+Membre de la Commission
+
+FR 231 FR
+
+ANNEXE
+
+Répartition des parts de marchés dans le secteur des tubes sanitaires en cuivre nus dans
+l'EEE de 1989 à 2001 (en %)1073
+
+An- IMI HME Hal- Mueller OTK WW KME Boli- TOnée cor den TAL
+
+WB DES Tot- WW BMA TMX EM KME Total al
+
+1989 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1990 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1991 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1992 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1993 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1994 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1995 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1996 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1997 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1998 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1999 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+2000 [...] [...] [...] [...] [...]v [...] [...] [...] [...] [...] [...] [...] [...]
+
+2001 [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+
+1073 Le volume total du marché a été calculé par la Commission sur la base de données relatives au chiffre
+d'affaires et d'estimations de la taille du marché fournies par les parties.
+
+FR 232 FR

@@ -1,0 +1,492 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+TABLE OF CONTENTS
+
+1. SUBJECT MATTER............................................................................................... 3
+
+2. THE ADDRESSEE................................................................................................. 4
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003 ....................... 4
+
+4. PRELIMINARY ASSESSMENT............................................................................ 5
+
+4.1. The system of infrastructures to import gas into Italy...................................... 6
+
+4.2. Relevant markets............................................................................................ 8
+
+4.2.1. The relevant product markets........................................................ 8
+
+4.2.2. The relevant geographic markets................................................... 8
+
+4.3. ENI's dominant position on the relevant markets ............................................ 9
+
+4.4. Substantial part of the internal market........................................................... 11
+
+4.5. The competitive concern of a refusal to supply strategy................................ 11
+
+4.5.1. Capacity hoarding........................................................................ 12
+
+4.5.2. Capacity degradation ................................................................... 13
+
+4.5.3. Strategic limitation of investment................................................ 14
+
+4.5.4. Conclusion .................................................................................... 15
+
+4.6. Effect on trade between Member States........................................................ 15
+
+5. PROPOSED COMMITMENTS ............................................................................ 16
+
+6. COMMISSION NOTICE PURSUANT TO ARTICLE 27(4) OF
+REGULATION (EC) NO. 1/2003 ........................................................................ 17
+
+7. PROPORTIONALITY OF THE FINAL COMMITMENTS.................................. 20
+
+Introduction........................................................................................................... 20
+
+Divestiture of transport infrastructures.................................................................. 21
+
+Suitability of CDP or another public entity controlled by the Italian
+government as purchaser of the gas transmission business in Austria .......... 22
+
+Other provisions of the Commitments.................................................................... 25
+
+8. CONCLUSION..................................................................................................... 26
+
+COMMISSION DECISION
+
+of
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (‘TFEU’) and Article 54 of the EEA Agreement
+
+(Case COMP/39.315 – ENI)
+
+(Only the Italian text is authentic)
+
+(Text with EEA relevance)
+
+2
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+in particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 21 December 2007 to initiate proceedings in
+this case,
+
+Having expressed concerns in the Statement of Objections of 6 March 2009,
+
+Having given interested third parties the opportunity to submit their observations pursuant
+to Article 27(4) of Council Regulation (EC) No 1/2003 on the commitments offered to
+meet those concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the Final report of the Hearing Officer2,
+
+WHEREAS:
+
+1. SUBJECT MATTER
+
+(1) This Decision is addressed to ENI Spa ("ENI") and concerns ENI's conduct on the
+gas transportation market to Italy and on the gas supply markets in Italy.
+
+(2) In its Statement of Objections, the Commission came to the provisional conclusion
+that ENI holds a dominant position on the market for transport of gas to Italy and
+on the gas supply markets in Italy and that the suspected practices by ENI of
+managing and operating its natural gas transmission pipelines with the aim of
+limiting third party access to available and new capacity may have infringed Article
+102 of the Treaty on the Functioning of the European Union ("TFEU")3. Notably,
+ENI may have foreclosed competition in the Italian gas supply markets by way of a
+refusal to supply gas transport services to third parties. This strategy may have
+been implemented by way of refusing to grant competitors access to capacity
+available on the transport network (capacity hoarding), granting access in an
+impractical manner (capacity degradation) and strategically limiting investment
+(strategic underinvestment) in ENI's international transmission pipelines.
+
+1 OJ L 1, 4.1.2003.
+
+2 The final report of the Hearing Officer was issued on the 13 of September 2010
+
+3 With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101
+and 102, respectively, of the Treaty on the Functioning of the European Union (‘TFEU’). The two
+sets of provisions are, in substance, identical. For the purposes of this notice, references to Article 102
+TFEU should be understood as references to Article 82 of the EC Treaty where appropriate.
+
+3
+
+2. THE ADDRESSEE
+
+(3) ENI is an Italian-state controlled company active at multiple levels of the
+production, transportation and supply chains in the energy sector, predominantly in
+natural gas and oil. ENI is a fully integrated gas company, with activities in the
+production and import of gas4, in the gas transmission and storage businesses, as
+well as in the downstream gas distribution business.5
+
+(4) ENI procures gas through its own production in Italy and Libya6, as well as
+through long-term contracts with leading gas producers (in particular in Russia,
+Norway, the Netherlands and Algeria).
+
+(5) ENI is also active in the business of international transportation services. In
+particular, together with the Austrian undertaking OMV, ENI owns and controls
+Trans Austria Gasleitung GmbH ("TAG GmbH"), which operates a pipeline
+(TAG) between Baumgarten near the Austrian/Slovak border and Italy.
+Furthermore, together with the German undertaking E.ON Ruhrgas AG ("E.ON"),
+ENI owns and controls Trans Europa Naturgas Pipeline GmbH & Co. KG
+("TENP KG"), which owns a pipeline (TENP) between the Dutch/Belgian/German
+border and Wallbach at the German/Swiss border. Gas flowing through the TENP
+pipeline is further transported to Italy through Switzerland via the Transitgas
+pipeline, jointly owned and controlled by ENI and the Swiss company Swissgas
+AG ("Swissgas").
+
+(6) In 2008, ENI achieved a turnover of EUR 108 billion (net sales from operations)
+resulting in EUR 21.7 billion (adjusted operating profit) and EUR 8.8 billion of net
+profits.7
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(7) The investigation was opened ex officio. An inspection took place at ENI's
+premises in May 20068 and further fact-finding was carried out inter alia by way
+
+4 In 2007 ENI's Gas&Power division sold [...]billion cubic metres ("bcm") of gas, of which [...]bcm
+were transported into Italy.
+
+5 In 2007, ENI supplied gas in the Italian wholesale market for around [...] bcm (approx. 50-70% of
+total demand). At a retail level ENI supplied gas to gas fired power plants and to large industrial
+customers with market shares not less than 45-55%. According to the Italian regulator Autorità per
+l'energie elettrica e il gas ("AEEG") in 2008, ENI still controlled 50-70% of the gas available in Italy
+(national production, import and gas sales at the national border; see AEEG Annual Report July
+2008, p.120; and AEEG 2008-2011 Strategic Plan).
+
+6 ENI holds interests in the Western Libyan Gas Project (WLGP) which is a 50-50 joint venture
+between the latter and National Oil Corporation (NOC), a Libyan state owned energy company. The
+WLGP aims at carrying out exploration, production operation and transport of natural gas from Libya
+to Italy. WLGP is supplied from production at the off-shore Bahr Essalam and on-shore Wafa fields.
+
+7 ENI, Selected and consolidated data, Annual Report 2008.
+
+8 Inspection Decision of 5 May 2006 in case COMP/B-1/39.315.
+
+4
+
+of various requests for information to ENI and other market participants between
+2006 and 2008.
+
+(8) On 20 April 2007, the Commission initiated proceedings against ENI pursuant to
+Article 2 of Regulation No 773/20049 with a view to adopting a decision pursuant
+to Chapter III of Regulation 1/2003.
+
+(9) On 6 March 2009 the Commission adopted a Statement of Objections pursuant to
+Article 27(1) of Regulation (EC) No 1/2003 read in conjunction with Article 10(1)
+of Regulation (EC) No 773/2004 concerning alleged infringements of Article 102
+TFEU by ENI. The Statement of Objections also constitutes a preliminary
+assessment within the meaning of Article 9 of Council Regulation (EC) No
+1/2003.
+
+(10) The Statement of Objections was notified to ENI by letter of 9 March 2009. On 1
+October 2009, ENI replied, disagreeing with the findings of the Statement of
+Objections. On 27 November 2009 an Oral Hearing took place.
+
+(11) On 4 February 2010, ENI submitted commitments to the Commission in response
+to the concerns raised in the Statement of Objections.
+
+(12) On 5 March 2010, a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the
+Commission's concerns and the commitments and inviting interested third parties
+to give their observations on the commitments within one month following
+publication. The Commission received a total of 14 responses.
+
+(13) On 27 April 2010, the Commission informed ENI of the observations received
+from interested third parties following the publication of the notice. On 10 May
+2010, ENI sent some clarifications in response to the observations of third parties.
+Additional information requested on 19 May 2010 pursuant to Article 18 of
+Regulation (EC) No 1/2003 was submitted by the undertaking on 24 May 2010.
+On 10 June 2010, the Commission informed ENI about the analysis of those
+further clarifications provided and on 8 July 2010 ENI submitted revised
+commitments (the "Final Commitments").
+
+(14) On 9 September 2010, the Advisory Committee on Restrictive Practices and
+Dominant Positions was consulted. On 13 September 2010, the Hearing Officer
+issued his final report.
+
+4. PRELIMINARY ASSESSMENT
+
+(15) The Commission has gathered evidence that ENI may have abused its dominant
+position on the gas transportation market into Italy to the detriment of
+
+9 Council Regulation (EC) No 773/2004 of the Commission of 7 April 2004 relating to the conduct of
+proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (OJ L 123,
+27.4.2004, page 18).
+
+5
+
+competitors, competition and ultimately consumers on the downstream supply
+markets.
+
+4.1. The system of infrastructures to import gas into Italy
+
+(16) Italy is a net gas importer; almost all imports and national production fulfil
+domestic needs, while gas exports are negligible.10
+
+(17) At the date the Statement of Objections was issued, gas to be imported into Italy
+could be transported through the following existing and operative infrastructures:
+
+• the Trans-Mediterranean and Trans Tunisian pipelines (together
+TTPC/TMPC), used to import Algerian gas to Italy;11
+
+• the Greenstream pipeline, used to import Libyan gas to Italy;12
+
+• the TENP/Transitgas pipelines, used to import North European gas to Italy;13
+
+• the TAG pipeline, used to import Russian gas to Italy;14
+
+• the Slovenian pipeline, which allows some marginal import/export of Russian
+gas via that country;15
+
+• the Panigaglia LNG (liquefied natural gas) Terminal.16
+
+10 In 2007, national consumption was about 85 bcm. Demand was satisfied by imports for around 74
+bcm, national production for around 10 bcm, and the rest with gas withdrawn from storage.
+
+11 The Italian-Algerian axis consists in a submarine pipeline, the Transmed link, and a pipeline section
+running through Tunisia. The submarine pipeline is owned by the TransMediterranean Pipeline
+Company Limited ("TMPC"), a company equally shared and jointly controlled by ENI and Sonatrach
+(the Algerian state-owned gas company). The Tunisian section of the TTPC/TMPC system is owned
+by the Tunisian state-owned company Sotugat. ENI can benefit of significant capacity rights of about
+70-80% on those pipelines. In 2007 the TTPC/TMPC pipeline imported 22.5 bcm of gas into Italy
+corresponding to around 25% of national consumption.
+
+12 The Greenstream pipeline is a joint venture between ENI (75%) and NOC. All transport rights on
+that pipeline are held by ENI on an exclusive basis. Around 80% of the capacity is sublet to other
+shippers on a long term basis. In 2007, the Greenstream pipeline allowed the import of 9 bcm of gas
+into Italy corresponding to around 10% of national consumption.
+
+13 In 2007, the TENP/Transitgas pipeline allowed the import of 15 bcm of gas into Italy corresponding
+to around 17% of national consumption.
+
+14 In 2007, the TAG pipeline allowed the import of 24 bcm of gas into Italy corresponding to around
+27% of national consumption.
+
+15 The Slovenian gas network is operated by Geoplin, which is connected to TAG via the SOL pipeline.
+The pipeline, however, mainly operates as an export pipeline from Italy. In 2007 imports accounted
+only for 0.2 bcm corresponding to around 5% of the overall infrastructure capacity at the
+Slovenian/Italian border and to less than 0.5% of Italian national consumption.
+
+6
+
+In the meantime some limited additional new infrastructure has become
+operational.17
+
+(18) According to the Statement of Objections, all pipelines described above are solely
+or jointly controlled by ENI and ENI not only holds significant transportation
+rights on these infrastructures but also has booked a substantial amount of the
+available capacity on a long-term basis.
+
+(19) With regard to TENP, ENI (together with E.ON) jointly controls the pipeline18
+and the transmission system operator ("TSO")19 that provides natural gas
+transportation services for the approximately 67% of the capacity rights on TENP
+held by ENI.
+
+(20) Concerning Transitgas, ENI (together with Swissgas) jointly controls the
+pipeline20 and the TSO21 that provides natural gas transportation services including
+the marketing of the approximately 85-95% of transport capacity held by ENI.
+
+(21) Finally as regards TAG, ENI (together with OMV) jointly controls the TSO22 that
+holds the entirety of the capacity rights for the transport of natural gas on the TAG
+pipeline pursuant to a lease agreement and that provides natural gas transportation
+services.23 ENI is entitled to approximately 85-95% of the transport rights of the
+existing capacity on the TAG.
+
+(22) On the basis of the corporate structure of the pipelines at stake and the
+shareholding agre
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ control of the Italian government,
+through the Ministry of Economy and Finance ("MEF").55 CDP's main purpose is
+to deploy financial resources for public investments, infrastructure projects for the
+delivery of public services, large-scale public works of national interest and other
+public-interest projects. Among its main lines of activity, CDP may acquire equity
+investments and interests in companies, other businesses, consortiums and business
+groupings in Italy and abroad. Inter alia, CDP owns participations in activities that
+are of general economic interest as well as activities that are potentially conducted
+in competition with other market players. Specifically, CDP currently holds
+majority or minority stakes, among others, in the following companies: ENI,
+TERNA, Tunnel di Genova and Fondi Italiani per le Infrastrutture SGR .
+
+53 See for commitments under the EC Merger Regulation the Commission Notice on remedies
+acceptable under Council Regulation (EC) No 137/2004 and under Commission Regulation (EC) No
+802/2004, OJ C 267, 22.10.2008, p. 1, point 48. The Commission has applied the same criteria for
+divestitures under Article 9 of Regulation No 1/2003, see Commission decision of 26 November
+2008, cases COMP/39.388 – German Electricity Wholesale Market and COMP/39.389 – German
+Electricity Balancing Market, and decision of 18 March 2008, case COMP/39.402 – RWE gas
+foreclosure.
+
+54 See Commission Consolidated Jurisdictional Notice under Council Regulation (EC) No 139/2004 on
+the control of concentrations between undertakings, OJ C 95, 16.04.2008, p. 1, points 52 and 53.
+
+55 CDP is the result of the transformation of a government agency into a joint-stock company pursuant
+to Article 5 of Decree Law 269 of 30 September 2003. The MEF holds a controlling share of 70% in
+CDP, while the rest is held by a group of bank foundations.
+
+23
+
+(103) CDP's by-laws established a system of organisational and accounting separation
+between the activities of general economic interest (Separate Account) and the
+other activities performed by CDP (Ordinary Account) that are not of general
+economic interest and are, therefore, potentially conducted in competition with
+other market players. As regards the organisational structure of CDP the Public
+Investments and Development Policies Management & Support divisions fall under
+the Separate Account, while the Infrastructure & Strategic Projects division falls
+under the Ordinary Account.56
+
+(104) Separate Account activities include, among others, the management of the assets
+and functions transferred to MEF at the time of CDP’s transformation into a jointstock company, and the provision of advisory services to government bodies.
+[...].57 Among these are the shares that CDP holds in ENI. It can therefore be
+considered that this shareholding is managed as if it were a direct shareholding of
+the MEF and is only attributed to CDP for accounting purposes.58
+
+(105) For the rest of the activities carried out by CDP, the ordinary management applies.
+[...].
+
+(106) CDP may be regarded as independent from ENI, provided that the TAG
+shareholding is transferred to CDP under its "Ordinary Account" management.
+
+(107) CDP forms an economic unit with an independent power of decision with respect
+to the "Ordinary Account" shareholdings. [...]. There are no interlocking
+directorships between CDP and ENI, and there exist adequate safeguards ensuring
+that commercially sensitive information is not shared between them. [...].
+
+(108) The fact that CDP also holds shares in ENI does not exclude CDP's independence
+of ENI,[...]. Indeed, this shareholding is to be assessed as if it were directly held
+by the MEF.
+
+(109) The Commission is furthermore satisfied that CDP has the financial resources,
+competencies and incentives to develop the divested business as a viable and
+reliable facility. CDP is a financially solid company with a proven expertise and
+experience in managing majority and minority shareholdings in a number of
+important companies active in various sectors of the economy, in particular in
+infrastructure (including for example in the operation of the Italian national
+electricity grid, through its participation in TERNA). Whilst CDP may for the time
+
+56 This new organisational structure went into effect on 31 December 2008.
+
+57 CDP's by-laws establish that pursuant to article 5, paragraph 9, of the Decree Law 269/2003, the
+Minister of Economy and Finance has the power to determine the general policies of the Separate
+Management and also has the power, pursuant to Article 5, paragraph 11, of the Law Decree, to
+determine the terms and conditions of the exercise of the Separate Management as stated therein.
+
+58 This is explicitly stated in CDP's by-laws Article 5, paragraph 8, of Law Decree No. 269/2003 which
+stipulates that a separate system for the sole accounting and organisational purposes (hereinafter the
+"Separate Management") shall be established within CDP the management of which is in line with
+transparency and safeguard criteria of the economic balance for the achievement of the corporate
+object of CDP.
+
+24
+
+being not have specific experience in managing gas transportation systems, it has
+to be highlighted that with the acquisition of ENI's shares in TAG GmbH, TAG
+GmbH will be jointly controlled by CDP and OMV, the latter of which as well as
+TAG GmbH itself appear to dispose of all the technical and organisational skills to
+effectively manage the gas transportation activity.
+
+(110) Finally, as CDP is currently neither directly nor indirectly involved in any activity
+in the procurement, transport or supply of natural gas (apart from the stake in ENI
+already discussed before), its acquisition of ENI's shareholding in TAG does not
+create any prima facie competition concerns.
+
+(111) The Commission therefore concludes that CDP is a suitable purchaser for the
+divested business in Austria.
+
+(112) In case ENI were to sell its shareholding in TAG not to CDP but to another public
+entity controlled by the Italian government, the Final Commitments provide that
+the purchaser has to be approved by the Commission according to the same
+criteria as laid out in points (99) and (100) above.
+
+Other provisions of the Commitments
+
+(113) ENI has also committed not to prolong or renew any transport contract or enter
+into any new transport contract for its benefit as shipper on the TAG, TENP and
+Transitgas pipelines59, except for possible future auctions and other public
+allocation procedures for reverse flow transportation capacity towards markets
+other than the Italian one. This provision is necessary and proportionate to ensure
+that ENI will not be in the position to increase its capacity rights at the detriment
+of third parties, thus jeopardizing the effectiveness of an independent allocation of
+primary capacity available on the existing pipelines to other shippers. In contrast,
+contracts for the acquisition of reverse flow capacity do not alter the availability of
+existing transport capacity.
+
+(114) The remaining elements of the Final Commitments such as the preservation of the
+viability of the business to be divested, the hold-separate obligations, and the
+provisions on ring-fencing, non-solicitation, due diligence and reporting as well as
+the role conferred upon the divestiture trustee are transitional and ancillary to the
+main commitments. Those provisions are necessary to ensure the implementation
+of the Final Commitments offered by ENI and are proportionate. They also reflect
+the standard practice of the Commission in case of divestiture remedies in merger
+proceedings as set out in the Commission notice on remedies acceptable under
+Council Regulation (EEC) No 139/2004 and under Commission Regulation (EC)
+No 802/2004.60
+
+59 As stated in paragraph (72) above, this provision will last from 22 December 2009 until the time of
+closing of the divestitures.
+
+60 OJ C 267, 22.10.2008, page 1.
+
+25
+
+8. CONCLUSION
+
+(115) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No. 1/2003,
+the Commission makes the Commitments, offered by the undertaking concerned to
+meet the Commission’s concerns expressed in its Statement of Objections, binding
+upon it. This decision does not conclude whether or not there has been or still is an
+infringement. The Commission’s conclusion that the Final Commitments offered
+are sufficient to meet its concerns and proportionate is based on its Statement of
+Objections, representing the preliminary view of the Commission based on the
+underlying investigation and analysis, and the observations received from third
+parties following the publication of a notice pursuant to Article 27(4) of
+Regulation 1/2003.
+
+(116) In the light of the Final Commitments offered, the Commission considers that there
+are no longer grounds for action and, without prejudice to Article 9(2) of
+Regulation (EC) No. 1/2003, the proceedings in this case should therefore be
+brought to an end. This decision is without prejudice to the transposition and
+application of the Directive 2009/73/EC and Regulation 715/2009 (third
+package)61 on the establishment of an internal market for energy and in particular
+on the different models of unbundling foreseen therein.
+
+61
+Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning
+common rules for the internal market in natural gas and Regulation 715/2009 of the European Parliament
+and of the Council of 13 July 2009 (OJ L 211/94 of 14.8.2009) on conditions for access to the natural gas
+transmission networks (OJ L 211/36 of 14.8.2009).
+26
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Commitments attached to this decision shall be binding on ENI Spa and all its
+subsidiaries.
+
+Article 2
+
+There are no longer grounds for action by the Commission and the proceedings in this
+case shall be brought to an end.
+
+Article 3
+
+This Decision is addressed to Eni S.p.A., Rome, Piazzale Mattei 1.
+
+Done at Brussels,
+
+For the Commission
+
+Member of the Commission
+
+27

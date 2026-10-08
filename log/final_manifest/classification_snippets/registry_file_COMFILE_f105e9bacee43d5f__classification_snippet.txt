@@ -1,0 +1,374 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52017XC0915(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52017XC0915(02)
+Help
+Print
+Summary of Commission Decision of 4 February 2015 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39861 — Yen Interest Rate Derivatives) (notified under document C(2015) 432)
+Summary of Commission Decision of 4 February 2015 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39861 — Yen Interest Rate Derivatives) (notified under document C(2015) 432)
+Summary of Commission Decision of 4 February 2015 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39861 — Yen Interest Rate Derivatives) (notified under document C(2015) 432)
+OJ C 305, 15.9.2017, pp. 10–14
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+15.9.2017
+EN
+Official Journal of the European Union
+C 305/10
+Summary of Commission Decision
+of 4 February 2015
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.39861 — Yen Interest Rate Derivatives)
+(notified under document C(2015) 432)
+(Only the English text is authentic)
+(2017/C 305/08)
+On 4 February 2015, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union (the ‘Treaty’) and Article 53 of the Agreement creating the European Economic Area (the ‘EEA Agreement’). In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The Decision relates to six separate instances of bilateral anticompetitive conduct, relating to Japanese Yen Interest Rate Derivatives (‘Yen Interest Rate Derivatives’ or ‘YIRDs’), referenced to the Japanese Yen LIBOR (‘JPY LIBOR’) in which the addressees of this Decision participated as facilitators.
+(2)
+The anticompetitive conduct of the banks involved consisted of discussions relating to the level of upcoming JPY LIBOR submissions, revealing their preferences for the direction of future JPY LIBOR movements and exchanges of commercially sensitive information
+(
+2
+)
+. The broker ICAP facilitated the relevant conduct by serving as a conduit for collusive communications (in one of the instances) and by contacting other JPY LIBOR panel banks or disseminating information via manipulated daily ‘Run Thrus’
+(
+3
+)
+with the aim of influencing their JPY LIBOR submissions in directions suitable to the participants in the relevant conduct (in the remaining five instances).
+(3)
+The JPY LIBOR and Euroyen TIBOR are important reference interest rates (also called benchmarks) for many financial instruments denominated in Japanese Yen. The JPY LIBOR was set by the British Bankers Association (BBA) and the Euroyen TIBOR was set by the Japanese Bankers Association (JBA). The rates were set daily for different tenors (loan maturities) on the basis of submissions from banks that were members of the JPY LIBOR and Euroyen TIBOR panels. These banks were asked to submit, each business day and before a certain time, estimates of interest rates at which they believed they could borrow unsecured funds in a reasonable market size on the London interbank money market (in the case of JPY LIBOR) or estimates of what they believed to be prevailing market rates for transactions between prime banks on the Japan offshore market (in the case of Euroyen TIBOR) for various tenors. The BBA and JBA then calculated, on the basis of an average of these submissions, while excluding the four (in the BBA’s case) and two (in the JBA’s case) highest and lowest submissions, the daily JPY LIBOR and Euroyen TIBOR rates for each tenor. The resulting rates were immediately published and available to the public each business day.
+(4)
+JPY LIBOR and Euroyen TIBOR rates are, among others, reflected in the pricing of YIRDs, which are globally traded financial products used by corporations, financial institutions, hedge funds, and other undertakings to manage their interest rate risk exposure (hedging, for both borrowers and investors) or for speculation purposes.
+(5)
+The most common YIRDs are: (i) forward rate agreements; (ii) interest rate swaps; (iii) interest rate options; and (iv) interest rate futures. YIRDs may be traded over the counter or, in the case of interest rate futures, exchange traded. All these products usually involve a floating rate (the reference interest rate of the contract) and a fixed rate. The fixed rates reflect the market expectations of future reference interest rates and are normally calculated by the financial institutions that take part in YIRD trading on the basis of the so-called yield curves.
+(6)
+This Decision is addressed to the following legal entities belonging to the ICAP undertaking (hereinafter, ‘the addressees’):
+(a)
+ICAP plc;
+(b)
+ICAP Management Services Ltd;
+(c)
+ICAP New Zealand Limited.
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(7)
+The case was opened on the basis of an immunity application by UBS on 17 December 2010. On 20 April 2011, the Commission sent requests for information to a number of undertakings active in the YIRD sector. On [...], Citigroup submitted an application for immunity and or leniency. On [...], Deutsche Bank applied for a reduction of fines. On [...], RP Martin applied for a reduction of fines. On [...], RBS applied for a reduction of fines.
+(8)
+On 12 February 2013, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against UBS AG and UBS Securities Japan Co., Ltd, The Royal Bank of Scotland Group plc and The Royal Bank of Scotland plc; Deutsche Bank Aktiengesellschaft; Citigroup Inc. and Citigroup Global Markets Japan Inc.; JPMorgan Chase & Co. and JPMorgan Chase Bank, National Association and J.P. Morgan Europe Limited; and R.P. Martin Holdings Ltd and Martin Brokers (UK) Ltd. On 29 October 2013, the Commission adopted a statement of objections, with reference C(2013)7395, addressed to these undertakings.
+(9)
+On 29 October 2013, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against ICAP plc, ICAP Management Services Ltd and ICAP New Zealand Limited.
+(10)
+On 31 October 2013, a settlement meeting with ICAP took place. On 12 November 2013, ICAP informed the Commission that it wished to discontinue the settlement discussions.
+(11)
+On 4 December 2013 the Commission adopted a prohibition and fining Decision, with reference C(2013) 8602/7 (‘Settlement Decision’) addressed to the undertakings identified in recital 8.
+(12)
+On 6 June 2014 the Commission adopted a statement of objections addressed to ICAP plc, ICAP Management Services Ltd and ICAP New Zealand Limited, with reference C(2014) 3768 final. ICAP made known to the Commission its views on the objections raised against it in writing on 14 August 2014 and orally during a hearing that took place on 12 September 2014.
+(13)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 30 January 2015 and the Commission adopted the Decision on 4 February 2015.
+2.2.
+Addressees and duration
+(14)
+In this case, the Commission has identified the following six bilateral infringements
+(
+4
+)
+and the duration of the undertaking’s involvement in each of the infringements is as follows:
+(a)
+[non-addressee]/[non-addressee] 2007 infringement:
+—
+[non-addressee]: 8 February 2007 – 1 November 2007
+—
+[non-addressee]: 8 February 2007 – 1 November 2007
+—
+ICAP: 14 August 2007 – 1 November 2007
+(b)
+[non-addressee]/[non-addressee] 2008 infringement:
+—
+[non-addressee]: 7 May 2008 – 3 November 2008
+—
+[non-addressee]: 7 May 2008 – 3 November 2008
+—
+ICAP: 28 August 2008 – 3 November 2008
+(c)
+[non-addressee]/[non-addressee] 2008-2009 infringement:
+—
+[non-addressee]: 18 September 2008 – 10 August 2009
+—
+[non-addressee]: 18 September 2008 – 10 August 2009
+—
+[non-addressee]: 29 June 2009 – 10 August 2009
+—
+ICAP: 22 May 2009 – 10 August 2009
+(d)
+[non-addressee]/[non-addressee] 2010 infringement:
+—
+[non-addressee]: 3 March 2010 – 22 June 2010
+—
+[non-addressee]: 3 March 2010 – 22 June 2010
+—
+ICAP: 3 March 2010 – 22 June 2010
+(e)
+[non-addressee]/[non-addressee] 2010 infringement:
+—
+[non-addressee]: 26 March 2010 – 18 June 2010
+—
+[non-addressee]: 26 March 2010 – 18 June 2010
+—
+ICAP: 7 April 2010 – 7 June 2010
+(f)
+[non-addressee]/[non-addressee] 2010 infringement:
+—
+[non-addressee]: 28 April 2010 – 3 June 2010
+—
+[non-addressee]: 28 April 2010 – 3 June 2010
+—
+ICAP: 28 April 2010 – 2 June 2010
+2.3.
+Summary of the infringements
+2.3.1.
+The anticompetitive practice of the participating banks
+(15)
+The parties (banks) to the respective infringements engaged in the following anticompetitive practices:
+(a)
+Traders of the banks participating in the respective infringements on certain occasions discussed directly (and in the case of [non-addressee] and [non-addressee] in the [non-addressee]/[non-addressee] 2010 infringement — indirectly — through the broker ICAP) the JPY LIBOR submissions for certain tenors of at least one of the respective banks, in the understanding that this might be beneficial to the YIRD trading positions of at least of one of the traders involved in the communications. To this end, at least one of the traders approached, or indicated a willingness to approach, the JPY LIBOR submitters at his respective bank to request a submission to the BBA towards a certain direction or on a few occasions at a specific level.
+(b)
+Traders of the banks participating in the respective infringements communicated and/or received from each other (in the case of [non-addressee] and [non-addressee] in the [non-addressee]/[non-addressee] 2010 infringement — indirectly — through the broker ICAP), on certain occasions, commercially sensitive information relating either to trading positions or to the future JPY LIBOR submissions of at least one of their respective banks. In the [non-addressee]/[non-addressee] 2010 infringement, this communication and/or receipt of information related also to certain future Euroyen TIBOR submissions of at least one of the respective banks.
+2.3.2.
+Facilitation of the different infringements by cash brokers
+2.3.2.1. [non-addressee]’
+s facilitation
+(16)
+[non-addressee] facilitated the [non-addressee]/[non-addressee] 2008-2009 infringement in the period from 29 June 2009 until 10 August 2009, whereby at the request of [non-addressee], [non-addressee] promised to, and at least on a few occasions did, contact a number of JPY LIBOR panel banks that did not participate in the infringement, with the aim of influencing their JPY LIBOR submissions. [non-addressee] was not aware of this circumstance.
+2.3.2.2.
+ICAP’s facilitation
+(17)
+ICAP facilitated the [non-addressee]/[non-addressee] 2007 infringement in the period from 14 August 2007 until 1 November 2007, whereby at the request of [non-addressee], ICAP aimed to influence certain JPY LIBOR panel banks that did not participate in the infringement to submit JPY LIBOR rates in line with the requests from [non-addressee] by (i) disseminating misleading information to them via the so-called ‘Run Thrus’; and/or (ii) directly contacting them. [non-addressee] was not aware of this circumstance.
+(18)
+ICAP facilitated the [non-addressee]/[non-addressee] 2008 infringement in the period from 28 August 2008 until 3 November 2008, whereby at the request of [non-addressee], ICAP aimed to influence certain JPY LIBOR panel banks that did not participate in the infringement to submit JPY LIBOR rates in line with the requests from [non-addressee] by (i) disseminating misleading information to them via the so-called ‘Run Thrus’; and/or (ii) directly contacting them. [non-addressee] was not aware of this circumstance.
+(19)
+ICAP facilitated the [non-addressee]/[non-addressee] 2008-2009 infringement in the period from 22 May 2009 until 10 August 2009, whereby at the request of [non-addressee], ICAP aimed to influence certain JPY LIBOR panel banks that did not participate in the infringement to submit JPY LIBOR rates in line with the requests from [non-addressee] by (i) disseminating misleading information to them via the so-called ‘Run Thrus’; and/or (ii) directly contacting them. [non-addressee] was not aware of this circumstance.
+(20)
+ICAP facilitated the [non-addressee]/[non-addressee] 2010 infringement in the period from 3 March 2010 until 22 June 2010 by serving as a communications channel between a trader of [non-addressee] and a trader of [non-addressee], thus enabling the anticompetitive practices between them.
+(21)
+ICAP facilitated the [non-addressee]/[non-addressee] 2010 infringement in the period from 7 April 2010 until 7 June 2010, whereby at the request of [non-addressee], ICAP aimed to influence certain JPY LIBOR panel banks that did not participate in the infringement to submit JPY LIBOR rates in line with the requests from [non-addressee] by (i) disseminating misleading information to them via the so-called ‘Run Thrus’; and/or (ii) directly contacting them. [non-addressee] was not aware of this circumstance.
+(22)
+ICAP facilitated the [non-addressee]/[non-addressee] 2010 infringement with respect to YIRDs referenced to the JPY LIBOR
+(
+5
+)
+in the period from 28 April 2010 until 2 June 2010, whereby at the request of [non-addressee], ICAP aimed to influence certain JPY LIBOR panel banks that did not participate in the infringement to submit JPY LIBOR rates in line with the requests from [non-addressee] by (i) disseminating misleading information to them via the so-called ‘Run Thrus’; and/or (ii) directly contacting them. [non-addressee] was not aware of this circumstance.
+2.3.3.
+Geographic scope
+(23)
+The geographic scope of each of the six infringements and for all the respective participants therein covered the entire EEA.
+2.4.
+Remedies
+(24)
+The Decision applies the 2006 Guidelines on Fines
+(
+6
+)
+. The Commission imposes fines on the undertakings to which this Decision is addressed.
+2.4.1.
+Basic amount of the fine
+(25)
+The Guidelines on fines provide only limited guidance on the calculation of the fines which can be imposed on facilitators like ICAP, which was not directly active on the sector covered by the cartel, i.e. interest rate derivatives, for the purposes of the infringements. As a result, ICAP’s basic amount for each of the infringements is determined in accordance with the requirements of Regulation (EC) No 1/2003, the case-law and point 37 of the 2006 Guidelines on fines, reflecting the gravity, duration and nature of its involvement, as well as the need to ensure that fines have a sufficiently deterrent effect.
+(26)
+In assessing the gravity of the infringements, the Commission takes into account of the fact that each of the infringements is, by its very nature, among the most harmful restrictions of competition, the fact that each of the infringements covered the entire EEA and the fact that the collusive activities related to financial benchmarks.
+(27)
+In calculating the fines to be imposed on the addressees of this Decision, the Commission also takes into consideration the duration of ICAP’s participation in each of the six infringements.
+(28)
+With respect to each of the infringements, the Commission takes into account that ICAP participated in the infringements as a facilitator, which is a role that is not of the same nature as that of the banks participating in the relevant infringements. As such, in determining ICAP’s basic amount for each infringement, the Commission applies an appropriate reduction factor.
+2.4.2.
+Adjustment to the basic amount: aggravating or mitigating circumstances
+(29)
+With respect to the addressees of the present Decision, there are no aggravating or attenuating circumstances in relation to any of the infringements.
+2.4.3.
+Application of the 10 % turnover limit
+(30)
+Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed for each infringement shall not exceed 10 % of ICAP’s total turnover relating to the business year preceding the date of the Commission decision.
+(31)
+In this case, none of the fines exceed 10 % of ICAP’s total turnover relating to the business year preceding the date of this Decision.
+3.
+CONCLUSION: final amount of individual fines to be imposed in this Decision
+(32)
+The following fines are imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003:
+Infringement
+Fines (in EUR)
+[non-addressee]/[non-addressee] 2007 infringement
+1 040 000
+[non-addressee]/[non-addressee] 2008 infringement
+1 950 000
+[non-addressee]/[non-addressee] 2008-2009 infringement
+8 170 000
+[non-addressee]/[non-addressee] 2010 infringement
+1 930 000
+[non-addressee]/[non-addressee] 2010 infringement
+1 150 000
+[non-addressee]/[non-addressee] 2010 infringement
+720 000
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+One of the infringements also concerned YIRDs referenced to the Euroyen TIBOR.
+(
+3
+)
+A spreadsheet circulated each business day by ICAP to a number of financial institutions, which contained information on the prevailing borrowing rates for Japanese and offshore banks for all the JPY LIBOR tenors as well as a table titled ‘suggested libors’, which consisted of suggested JPY LIBORs submissions for all tenors on the relevant business day.
+(
+4
+)
+In addition, the decision adopted on 4 December 2013 also identified the ‘[non-addressee]/[non-addressee] 2007 infringement’, in which ICAP was not involved.
+(
+5
+)
+Although the anticompetitive practices of [non-addressee] and [non-addressee] in the [non-addressee]/[non-addressee] 2010 infringement concerned YIRDs referenced to the JPY LIBOR and Euroyen TIBOR, ICAP’s facilitation of the [non-addressee]/[non-addressee] 2010 infringement concerned only YIRDs referenced to the JPY LIBOR.
+(
+6
+)
+OJ C 210, 1.9.2006, p. 2
+.
+Top

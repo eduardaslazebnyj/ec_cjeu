@@ -1,0 +1,383 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Nr. L 35/36 Amtsblatt der Europäischen Gemeinschaften 6. 2. 87
+
+II
+
+(Nicht veröffentlichungsbedürftige Rechtsakte)
+
+KOMMISSION
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 15 . Dezember 1986
+
+betreffend ein Verfahren gemäß Artikel 85 des EWG-Vertrags
+(IV/31.458 — X/Open Group)
+
+(Nur der deutsche, englische, französische, italienische und niederländische Text sind
+verbindlich)
+
+(87/69/EWG)
+
+DIE KOMMISSION DER EUROPAISCHEN in Erwägung nachstehender Gründe :
+GEMEINSCHAFTEN —
+I. SACHVERHALT
+
+gestützt auf den Vertrag zur Gründung der Europäischen
+Allgemeiner Hintergrund
+Wirtschaftsgemeinschaft,
+(1) Computer benötigen ein Betriebssystem, das die
+Betriebsanweisungen erteilt, die der Computergestützt auf die Verordnung des Rates Nr. 17 vom 6.
+braucht, um seine Funktionen auszuüben. SeitFebruar 1962, erste Verordnung zur Anwendung der
+Artikel 85 und 86 des Vertrags ('), geändert durch die jeher hat das Konzept der Computerarchitektur zur
+Folge gehabt, daß ein enger Zusammenhang derAkte über den Beitritt Spaniens und Portugals, und insbe
+sondere auf Artikel 6 und 8, Betriebssystemsoftware mit den Hardwarekompo
+nenten desselben Systems besteht mit dem
+Ergebnis, daß die für eine bestimmte Architektur
+im Hinblick auf die Anmeldung einer Reihe von Ver bestimmten Betriebssysteme normalerweise nicht
+einbarungen, einschließlich der „Vereinbarung X/Open für Maschinen mit einer unterschiedlichen Archi
+Group" vom 19. August 1985, die zwischen den Unter tektur verwendet werden konnten. Die Aufgaben,
+nehmen Compagnie des Machines Bull, Frankreich, welche die Computer lösen sollen, werden von
+Digital Equipment Corporation International (Europa), Anwendungsprogrammen ausgeführt.. Anwen
+Schweiz, L. M. Ericsson, Schweden, International Compu
+dungsprogramme werden ihrerseits für bestimmte
+ters Ltd, Vereinigtes Königreich, Nixdorf Computer AG, Betriebssysteme geschrieben und können
+Bundesrepublik Deutschland, Ing. C. Olivetti & C. SpA, normalerweise nur auf diesen Systemen ablaufen.
+Italien, Philips International BV, Niederlande, Sperry Die Investitionen der Benutzer in Anwendungspro
+Corporation (jetzt Unisys), USA und Siemens Aktienge gramme sind erheblich. Benutzer, die den Erwerb
+sellschaft, Bundesrepublik Deutschland, abgeschlossen einer neuen Datenverarbeitungsanlage in Erwägung
+worden sind, sowie auf die nachfolgende Vereinbarung ziehen, auf der sie ihre vorhandenen Anwendungszwischen diesen Unternehmen und der AT&T Informa
+programme nicht verwenden können, tun dies in
+tion Systems Inc, Vereinigte Staaten, der Kenntnis, daß ein solcher Schritt kostspielig
+und zeitaufwendig sein kann, da bisherige
+im Hinblick auf den nach Maßgabe von Artikel 19 Absatz Programme umgeschrieben oder eine Reihe von
+3 der Verordnung Nr. 17 (2) veröffentlichten wesentlichen neuen Anwendungsprogrammen erworben werden
+Inhalt der Anmeldung, müssen. Die Benutzer sind daher im allgemeinen
+an die Systeme gebunden, für die sie sich einmal
+nach Ablösung des Beratenden Ausschusses für Kartell entschieden haben. Das bedeutet für die Benutzer
+und Monopolfragen, eine Begrenzung ihrer Auswahl und der Bedeutung
+von Preis und Qualität als Parameter im Wettbe
+werb zwischen Lieferanten von Hardware und Soft
+(>) ABl. Nr. 13 vom 21 . 2. 1962, S. 204/62.
+(2) ABl. Nr. C 250 vom 7. 10. 1986, S. 2. ware .
+
+6. 2. 87 Amtsblatt der Europäischen Gemeinschaften Nr. L 35/37
+
+(2) Jedoch sind in den letzten Jahren, angefangen mit oder Variante nicht ohne Änderungen eingesetzt
+kleinen Systemen, verschiedene hardware-unabhän werden. Insgesamt gibt es heute 30 bis 35 verschie
+gige Betriebssysteme entwickelt und für die dene kommerzielle Versionen, die bei Maschinen
+kommerzielle Verwendung vermarktet worden. Für mit sehr unterschiedlichen Kapazitäten verwendet
+Softwareunternehmen bedeutet die Entwicklung werden.
+von „offenen Systemen", daß der Markt für die
+Programme, die sie für ein solches System ausar
+beiten, nicht auf Maschinen mit einer besonderen Parteien und Anmeldung
+Architektur der Benutzer beschränkt ist. Für
+Benutzer bedeutet die Entwicklung „offener (6) Am 19. August 1985 wurde verschiedene Verträge
+Systeme", daß sie Hardware und Software der angemeldet, bei denen folgende Unternehmen
+verschiedenen Lieferanten, die solche Systeme Vertragsparteien sind :
+bereitstellen, „mischen" und miteinander verbinden
+können und daß sie Anwendungsprogramme — Compagnie des Machines Bull, Frankreich,
+zwischen Maschinen austauschen können („Portabi — International Computers Limited, Vereinigtes
+lität") und damit den sich mit dem Wachstum des Königreich,
+Marktes ändernden Erfordernissen gerecht werden, — Nixdorf Computer AG, Bundesrepublik
+wodurch Investitionen in solche Programme in Deutschland,
+Zukunft Schutz geboten wird. — Ing. C. Olivetti & C., SpA, Italien,
+— Siemens Aktiengesellschaft, Bundesrepublik
+Deutschland,
+Das Produkt — Philips International BV, Niederlande.
+
+Später sind auch die nachstehend aufgeführten
+Unternehmen den Verträgen beigetreten :
+(3) Unix (') ist ein Betriebssystem, das etwa 1970 zuerst
+von den Bell Laboratories von AT&T entwickelt — L.M. Ericsson, Schweden,
+wurde. Seitdem sind von AT&T verschiedene — Digital Equipment Corporation International
+Versionen entwickelt und in Verkehr gebracht (Europa), Schweiz,
+worden ; das Unix-System-V wird seit 1983 am — Sperry Corporation, jetzt Unisys, USA.
+Markt angeboten. 1985 veröffentlichte AT&T eine
+„Schnittstellendefinition für das System V" mit dem Die Vertragsparteien der angemeldeten Verträge
+Ziel, eine standardisierte Anwendungsschnittstelle werden im folgenden „die Mitglieder" genannt.
+für das Unix-Betriebssystem anzubieten.
+
+(7) Folgende Verträge wurden am 19. August 1985
+angemeldet :
+(4) Eines der Merkmale des Unix-Systems ist, daß ein
+hohes Maß an Portabilität und Maschinenunabhän — Vertrag zur Gründung der X/Open Group
+gigkeit geboten wird. Das bedeutet, daß ein für ein (nachstehend „Gruppenvereinbarung" genannt) ;
+Unix-Betriebssystem geschriebenes Anwendungs — Vertrag über die Geheimhaltung ;
+programm mit geringfügigen oder ohne Ände — Schiedsgerichtsvereinbarung.
+rungen von einer Maschine auf eine andere
+Maschine unterschiedlicher Art oder Kapazität Alle Verträge wurden am 26. Juni 1985 rückwir
+übertragen werden kann. Diese Eigenschaft sollte kend zum 30. November 1984 geschlossen.
+es den Anwendern ermöglichen, ihre Hardware
+Produkte ohne Einbuße ihrer Software-Investi (8) Gemäß einer Bestimmung des Vertrags zur Grün
+tionen auszuwechseln. dung der X/Open Group haben die Mitglieder
+außerdem mit AT&T Information Systems Inc.,
+USA, einen Vertrag über den Austausch von Infor
+(5) Eine Reihe weiterer Unternehmen haben Unix mationen geschlossen. Dieser Vertrag wurde am 27.
+Varianten entwickelt, entweder aufgrund einer September 1985 wirksam ; der Kommission wurde
+Lizenz von AT&T oder unter freier Verwendung am 27. November 1985 eine Kopie zugeleitet.
+der Grundprinzipien von Unix, womit die Pflicht
+zur Zahlung einer Lizenzgebühr an AT&T
+vermieden wurde. Nur die von AT&T entwickelten Die Verträge zwischen den Mitgliedern
+Versionen werden unter dem Namen „Unix" ange
+boten . Da eine Standardisierung zwischen den (9) Hauptziel der von den Mitgliedern gegründeten
+einzelnen Versionen von Unix selbst oder zwischen X/Open Group ist es, die Portabilität von Unix zu
+den Varianten vom Typ „Unix" nur in geringem nutzen und auf diese Weise das Volumen der für
+Maße oder überhaupt nicht erfolgte, kann die für die Computersysteme der Mitglieder verfügbaren
+eine bestimmte Version oder Variante geschriebene Anwendungen zu erhöhen. Das soll durch die
+Anwendungssoftware bei einer anderen Version Schaffung einer offenen Industrienorm erreicht
+werden, die aus einem konstanten, aber entwick
+(') Unix ist ein Warenzeichen der AT&T Bell Laboratones. lungsfähigen gemeinsamen Anwendungsbereich
+
+Nr. L 35/38 Amtsblatt der Europäischen Gemeinschaften 6. 2. 87
+
+(Common Application Environment, »CAE j für Betriebssystems (Unix, besondere Form von Unix
+die Software besteht, welche auf die Schnittstellen oder anderer Art) oder auf den Typ der Datenverar
+definition von AT&T für das System V gestützt ist. beitungsanlage beinhalten. Sie kann ebenfalls Vor
+aussagen hinsichtlich der zukünftigen Markt
+(10) Die Gruppe wird diesen Softwarebereich durch die struktur umfassen, die auf die von Softwareanbie
+Auswahl bestehender Schnittstellen definieren ; es tern, Einzelhändlern und Anwendervereinigungen
+besteht keine grundsätzliche Absicht, neue Schnitt erhaltenen Informationen gestützt werden.
+stellen zu schaffen. Die Gruppe wird sich zu gege
+bener Zeit mit der Standardisierung ausgewählter (18) Die Geheimhaltung vertraulicher Angaben ist ein
+Schnittstellen durch nationale und internationale zentraler Bestandteil der Mitgliedschaft. Der
+Normenorganisationen befassen. Vertrag über die Geheimhaltung sieht den Schutz
+vertraulicher Angaben vor unzulässiger Verwen
+(11) Die Beschlüsse der Gruppe werden mit einfacher dung und Offenlegung vor.
+Mehrheit gefaßt.
+(19) Eine Definition der Schnittstellen, die von der
+(12) Hinsichtlich der Aufnahme neuer Mitglieder sieht Gruppe derzeit als Bestandteile des CAE identifi
+die Gruppenvereinbarung vor, daß die Mitglieder ziert sind, wird in dem Leitfaden der X/Open
+insbesondere Anträge von bedeutenden Vertretern Group zur „Portabilität" veröffentlicht, der der
+der europäischen Industrie für Informationstechno Allgemeinheit zum Verkauf angeboten wird. Der
+logie in Betracht ziehen, die eigenes Know-how Vertrag über die Urheberrechte sieht vor, daß die
+hinsichtlich der Unix-Betriebssysteme beitragen Mitglieder gemeinsam Inhaber aller bereits beste
+können und sich zu den Zielsetzungen der Gruppe henden oder künftig noch entstehenden Urheber
+bekennen. rechte an diesem Handbuch sind.
+
+(20) Die Gruppe wird einen Softwarekatalog für die(13) Die Mitglieder verstehen diese Klausel so, daß die
+Erlöse eines Bewerbers auf dem Gebiet der Infor einschlägige Software der Mitglieder und Nichtmit
+glieder für Endanwender aufstellen und fort mationstechnologie 500 Millionen US-Dollar über
+schreiben. Die Mitglieder haben darauf hinge steigen sollten, um zu gewährleisten, daß er der
+wiesen, daß Software von Nichtmitgliedern, die mit Gruppe Ressourcen zur Verfügung stellen kann.
+Ferner muß der Bewerber seine Bereitschaft, einen dem oder den Produkten eines Mitglieds im Wett
+bewerb steht, von dem Katalog nicht ausge Beitrag zu Normen und Richtlinien zu leisten,
+ebenso wie sein Eintreten für die derzeit vorhan schlossen wird.
+denen Normen unter Beweis stellen.
+(21) Die Mitglieder sind nicht verpflichtet, ihre
+Produkte in völliger Übereinstimmung mit den
+(14) Die Mitglieder sind sich weiterhin bewußt, daß Merkmalen des CAE herzustellen ; es steht ihnen Bewerber, die die Kriterien nicht erfüllen, dennoch
+frei, Unix-Systeme mit zusätzlichen oder die CAE andere Qualifikationen haben können, die
+Merkmale verstärkenden Einrichtungen anzubieten. wesentlich zur Erreichung der Zielsetzungen der
+Es steht ihnen auch frei, ihre Lieferanten auszu
+Gruppe beitragen, so daß sie deshalb als Mitglieder
+suchen und ihre eigene Werbung für die Produkte, akzeptiert werden sollten. die den CAE erfüllen oder dessen einzelnen Merk
+(15) Ein Mitglied kann jederzeit von dem Vertrag malen entsprechen, zu betreiben.
+zurücktreten.
+(22) In der Schiedsgerichtsvereinbarung ist das
+Verfahren festgelegt, das bei Streitigkeiten zwischen (16) Die Gruppenvereinbarung bleibt (für die übrigen
+den Mitgliedern zu befolgen ist. Mitglieder der Gruppe) während der gesamten
+Dauer der Existenz der Gruppe in Kraft.
+Die Vereinbarung zwischen den Mitgliedern und
+(17) Um den Diskussionen innerhalb der Gruppe ein AT&T
+Höchstmaß an Effizienz zu verleihen, sehen die
+Gruppenverträge den Austausch von technischen (23) Gemäß der Vereinbarung über den Informations
+Informationen und von Marktdaten — nicht austausch Söll der Austausch bestimmter Informa
+jedoch nicht von Vertriebsangaben — zwischen tionen zwischen AT&T und den Mitgliedern in
+den Mitgliedern vor. Die Mitglieder haben darauf bestimmten, genau festgelegten Ausschüssen statt
+aufmerksam gemacht, daß die technischen Infor finden. Nach der Vereinbarung können solche
+mationen den Unix-Bereich betreffen und die Informationen auch unveröffentlichtes Material
+Marktinformationen sich auf die europäische Soft umfassen, das für die Bewertung des Betriebssy
+ware-Industrie und auf deren Erfordernisse stems von AT&Ts Unix-System V und diesbezüg
+beziehen, und zwar sowohl hinsichtlich unabhän licher Software geeignet ist. Das gleiche gilt für
+giger Softwareanbieter als auch hinsichtlich der unveröffentlichte Strategien bezüglich der Richtung
+Endanwender. Bezüglich der Marktinformationen der Bemühungen der Parteien um eine Standardi
+haben sie ferner mitgeteilt, daß diese auch eine sierung des Systems V und für unveröffentlichte
+Analyse der gegenwärtigen Struktur des relevanten Versionen von AT&Ts Uberprüfungsprogrammen
+Marktes für Unix-Betriebssysteme umfassen kann. für Anwendungen des Systems V. Der Zweck
+Diese Analyse kann die Kategorisierung des rele dieses Informationsaustausches ist es, den Mitglie
+vanten Marktes durch Bezugnahme auf die Art des dern zu ermöglichen, künftige Änderungen und
+
+6. 2. 87 Amtsblatt der Europäischen Gemeinschaften Nr. L 35/39
+
+Aktualisierungen der Schnittstellendefinition für Bemerkungen betroffener Dritter
+das System V vorauszusehen, um die Kompatibilität
+zwischen der Schnittstellendefinition für das (26) Unter Bezugnahme auf die Veröffentlichung des
+wesentlichen Inhalts der Anmeldung im Amtsblatt System V von AT&T und dem Leitfaden der
+der Europäischen Gemeinschaften hat das Institut X/Open Group zur „Portabilität" zu erhalten.
+der Anwaltschaft für Büroorganisation und Büro Dieser Leitfaden soll mit solchen Änderungen und
+technik GmbH, Bundesrepublik Deutschland, die Aktualisierungen jeweils in Einklang gebracht
+Kommission davon unterrichtet, daß der Antrag werden. Um zu gewährleisten, daß die von AT&T
+definierten Schnittstellen den Markterfordernissen der Mitglieder der X/Open Group unterstützt wird.
+Das Institut ist eine Tochtergesellschaft des Deut genügen und von den Mitgliedern angenommen schen Anwaltvereins und wurde von dieser Vereini
+werden können, übermitteln die Mitglieder AT&T
+die hierfür erforderlichen Marktdaten und techni gung deutscher Rechtsanwälte zu dem Zweck
+schen Informationen. Einen Austausch von gegründet, Anwälte über die Nutzung moderner
+Technik zu beraten. In seiner Stellungnahme Vertriebsinformationen ist nicht vorgesehen. unterstreicht das Institut aus der Sicht des Anwen
+ders für den Bereich, in dem deutsche Rechtsan
+(24) Die Vertraulichkeit der gemäß dieser Vereinbarung wälte tätig sind, daß nur eine derartige Kooperation
+erteilten Angaben ist durch einen Vertrag über die der Hersteller, wie sie der Anmeldung zugrunde
+Geheimhaltung gewährleistet, der von jedem liegt, das Verlangen der Anwender nach Portabilität
+Mitglied mit AT&T eingegangen wird und dessen befriedigen kann.
+Bedingungen der Vereinbarung über den Informa
+tionsau
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Abhängigkeit von einem einzelnen Lieferanten Kommission erachtet die Bereitschaft der Gruppe,
+befreit würden. Auf der Basis der vorhandenen die Arbeitsergebnisse so schnell als möglich
+Informationen kann daher davon ausgegangen zugänglich zu machen, als einen wesentlichen
+werden, daß die Klauseln über den Informations Bestandteil ihrer Freistellungsentscheidung.
+austausch eine Einschränkung des Wettbewerbs im
+Sinne von Artikel 85 Absatz 1 weder bezwecken Die einzelnen Gründe für die Anwendbarkeit von
+noch bewirken. Artikel 85 Absatz 3 werden nachstehend aufge
+führt.
+(39) Das Geheimhaltungsabkommen ist lediglich eine
+natürliche rechtliche Absicherung, und die
+Schiedsgerichtsvereinbarung legt nur das Verfahren Förderung des technischen Fortschritts
+fest, das im Falle eines Konflikts einzuhalten ist.
+Keine der beiden Vereinbarungen bezweckt oder (43) Die Gruppenvereinbarung trägt zur Förderung des
+bewirkt eine Wettbewerbsbeschränkung nach technischen Fortschrittes dadurch bei, daß ein
+Artikel 85 Absatz 1 .
+gemeinsamer Anwendungsbereich für Software für
+die Unix-Betriebssysteme eingeführt wird. Infolge
+Handel zwischen den Mitgliedstaaten dieser offenen Industrienorm können Anwen
+(40) Die Mitglieder beabsichtigen, die Produkte, welche dungsprogramme von unabhängigen Softwareunter
+die Definitionen der Gruppe enthalten, in allen nehmen und möglicherweise von den Mitgliedern
+
+Nr. L 35/42 Amtsblatt der Europäischen Gemeinschaften 6. 2. 87
+
+entwickelt werden, wozu es sonst vermutlich nicht Mitglieder. Dies befähigt die Mehrheit der
+gekommen wäre, da ohne die Vereinbarung die Mitglieder, die Zulassung von Unternehmen zu
+Zielmärkte keine hinreichenden Gewinnaussichten verhüten, die eine nachteilige Auswirkung auf die
+geboten hätten, die einen Beginn der Entwurfsar Zusammenarbeit und die Erreichung der Zielset
+beit hätten rechtfertigen können. Es ist das erklärte zungen der Gruppe haben könnten. Die Mitglieder
+Ziel der Gruppe, die Ergebnisse der Kooperation sind am besten in der Lage, die Vorteile und
+soweit und so schnell als möglich zugänglich zu Nachteile der Zulassung neuer Mitglieder für die
+machen. Folglich können Hersteller von Datenver Effizienz der Arbeit der Gruppe festzustellen und
+arbeitungsanlagen und Softwarehäuser, die nicht abzuwägen. Die praktischen Schwierigkeiten, die
+Mitglieder sind, die für die Produktion kompatibler Vertreter der Mitglieder ohne endlose Diskussionen
+Erzeugnisse nötigen Informationen mit einer mini auf eine Linie zu bringen, nehmen erheblich mit
+malen Verzögerung erhalten. der Anzahl der Mitglieder zu. Das Erfordernis einer
+Mehrheitsabstimmung bietet den Mitgliedern
+darüber hinaus die Möglichkeit, die Anzahl der
+Mitglieder auf eine handhabbare Größe zu Vorteil für den Verbraucher
+begrenzen. Die Tatsache, daß die Mitglieder in der
+Lage sind, Bewerber aufzunehmen, die nicht die(44) Es ist zu erwarten, daß aufgrund der Vereinbarung
+allgemeinen Kriterien erfüllen, bedeutet, daß es auf den Verbrauchern eine größere Auswahl bei
+der anderen Seite möglich ist, Unternehmen zuzu Anwendungsprogrammen gleicher Art zur Verfü
+lassen, die nicht große Hersteller sind, die jedoch gung steht, aber auch bei solchen Programmen, die
+in der Lage sein mögen, einen wesentlichen Beitrag Leistungen vollbringen, für die ohne die Vereinba
+zur Arbeit der Gruppe zu leisten. Da qualitative rung kein Programm verfügbar wäre. Der Vereinba
+und quantitative Urteile erforderlich sein mögen, rung zufolge werden außerdem die Programme, die
+um zu gewährleisten, daß die Arbeit der Gruppe entwickelt werden, erheblich weniger durch die
+nicht durch neue Mitglieder behindert wird, ist ein Architektur der Computer eingeschränkt werden.
+gewisser Ermessensspielraum für die Zulassung Da für die Benutzer die Hauptinvestition .die Soft
+erforderlich.
+ware ist, sind die Benutzer im allgemeinen nicht
+bereit, eine neue Datenverarbeitungsanlage zu
+erwerben, für die sie die derzeitge Software nicht Kein Ausschluß des Wettbewerbs
+gebrauchen können. Daher sind die Benutzer im
+allgemeinen von den Herstellern ihrer Systeme (46) Die Mitglieder werden bei der Vermarktung der
+abhängig. Da die Gruppe einen gemeinsamen Produkte, die sie entwickeln und die die Defini
+Anwendungsbereich definiert, werden der Grup tionen der Gruppe beinhalten, im Wettbewerb
+penvereinbarung zufolge die Benutzer besere zueinander und zu anderen Unternehmen stehen,
+Möglichkeiten erhalten, Hardware und Software die ähnliche Produkte entwickeln und anbieten.
+verschiedener Lieferanten zu mischen und ihre Die Gruppenvereinbarung bietet deshalb nicht die
+Hardware zu ersetzen, ohne deshalb auch ihre Soft Möglichkeit, den Wettbewerb für einen wesent
+ware ersetzen zu müssen. Dies stellt für die lichen Teil solcher Produkte auszuschließen.
+Anwender einen bedeutenden Vorteil dar verg
+lichen mit der derzeitigen Situation (siehe Punkt
+26). Schlußfolgerung
+
+(47) Alle Voraussetzungen für die Anwendung von
+Artikel 85 Absatz 3 sind somit erfüllt.
+Unerläßlichkeit
+
+(45) Die Zielsetzungen der Gruppe könnten nicht C. Artikel 6 und 8 der Verordnung Nr. 17
+erreicht werden, wenn Unternehmen, die sich für
+diese engagieren wollen, ein Anrecht darauf hätten, (48) Gibt die Kommission eine Erklärung nach Artikel
+Mitglied zu werden. Dies würde praktische und 85 Absatz 3 des Vertrages ab, so bzeichnet sie darin
+logistische Schwierigkeiten für die Organisation der den Zeitpunkt, von dem an die Erklärung wirksam
+Arbeit mit sich bringen und möglicherweise wird. Dieser Zeitpunkt kann nicht vor dem Tage
+bewirken, daß geeignete Vorschläge nicht berück der Anmeldung liegen (Artikel 6 Absatz 1 Verord
+sichtigt werden. Die Form, in der der Zutritt zu der nung Nr. 17).
+Gruppe begrenzt wird, ist unerläßlich für die Errei
+chung der positiven Ziele der Gruppe. Nach der (49) Gemäß Artikel 8 Absatz 1 der Verordnung Nr. 17
+Gruppenvereinbarung ist es erforderlich, daß die gilt eine solche Erklärung in Anwendung von
+Mitglieder große Hersteller auf dem europäischen Artikel 85 Absatz 3 des Vertrages für einen
+Informationstechnologiemarkt mit Unix-Erfahrung bestimmten Zeitraum. Sie kann mit Bedingungen
+sein müssen. Nur von solchen Unternehmen kann und Auflagen verbunden werden.
+man normalerweise erwarten, daß sie in der Lage
+sind, geeignete Mittel aller Art zur Unterstützung (50) Die Gruppenvereinbarung wurde am 19. August
+der Tätigkeiten der Gruppe zur Verfügung zu 1985 angemeldet. Sie trat rückwirkend am 30.
+stellen. Darüberhinaus besteht das Erfordernis des November 1984 für einen unbestimmten Zeitraum
+Mehrheitsbeschlusses für die Aufnahme neuer in Kraft (siehe Punkt 16).
+
+6. 2. 87 Amtsblatt der Europäischen Gemeinschaften Nr. L 35/43
+
+(51 ) Der Zeitraum bis zum 30 . November 1990 sollte Vertrags gegen die Vereinbarung über den Informations
+für die Mitglieder ausreichen, um über die zu austausch einzuschreiten, die von den in Artikel 5, Nr. 1
+verabschiedenden Definitionen zu entscheiden. bis 10 genannten Parteien abgeschlossen wurde.
+Außerdem wird die Kommission in diesem Zeit
+raum die Möglichkeit haben, die Zusammenarbeit Artikel 5
+zwischen den Mitgliedern innerhalb einer vernünf
+tigen Zeitspanne zu überprüfen. Es ist daher ange Diese Entscheidung ist gerichtet an :
+bracht, eine Freistellung vom 19. August 1985 bis
+1 . Compagnie des Machines Bull, zum 30 . November 1990 zu gewähren.
+121 Avenue de Malakoff,
+(52) Obwohl die Vorschriften über die Mitgliedschaft F-75116 Paris ; -
+unerläßlich sind, können sie dennoch in unver
+nünftiger Weise angewandt werden. Um zu 2. Digital Equipment Corporation International
+gewährleisten, daß die Bedingungen für die (Europe),
+Anwendung von Artikel 85 Absatz 3 in dem oben 12, Avenue des Morgines,
+genannten Zeitraum erfüllt werden, ist es deshalb Case Postale 510,
+CH-1213 Petit-Lancy 1 , Geneva ; notwendig, daß die Gruppe der Kommission einen
+jährlichen Bericht über Fälle übermittelt, in denen 3. Telefonaktiebolaget L.M. Ericsson,
+Anträge auf Mitgliedschaft zurückgewiesen wurden, S-12625 25 Stockholm ;
+und daß sie unverzüglich die Kommission von
+Änderungen in der Mitgliedschaft unterrichtet — 4. International Computers Limited,
+ICL House,
+Putney,HAT FOLGENDE ENTSCHEIDUNG ERLASSEN :
+GB-London SW15 1SW ;
+
+Artikel 1 5. Nixdorf Computer AG,
+Fürstenallee 7,
+Gemäß Artikel 85 Absatz 3 des EWG-Vertrags werden die
+D-4790 Paderborn ;
+Bestimmungen von Artikel 85 Absatz 1 vom 19. August
+1985 bis zum 30. November 1990 auf die „Vereinbarung 6. Ing. C. Olivetti & C., SpA
+X/Open Group", die von den in Artikel 5, Nr. 1 bis 9 Via G. Jervis 77,
+genannten Unternehmen (im folgenden Mitglieder 1-10015 Ivrea ;
+genannt) abgeschlossen wurde, für nicht anwendbar
+erklärt. 7. Philips International BV,
+PO Box 218 ,
+Artikel 2 Groenewoudseweg 1 ,
+NL-5600 MD Eindhoven ;
+Die Entscheidung wird mit folgenden Auflagen
+verbunden : 8 . Siemens Aktiengesellschaft,
+Wittelsbacherplatz 2,a) Die Mitglieder gewährleisten, daß die Kommission D-8000 München 2
+unverzüglich über alle Änderungen in der Mitglied
+schaft der X/Open Group unterrichtet wird. 9. Unisys Corporation,
+b) Die Mitglieder gewährleisten, daß der Kommission ein Mail Station B307M,
+jährlicher Bericht über alle Fälle vorgelegt wird, in PO Box 500,
+denen ein Antrag auf Mitgliedschaft in der X/Open Blue Bell,
+Group im Berichtszeitraum zurückgewiesen worden USA — PA 19424 ;
+ist. Der erste Bericht ist spätestens am 30. November
+1987 und die darauffolgenden Berichte sind spätestens 10. AT&T Information Systems,
+am 30. November der folgenden Jahre vorzulegen. 100, Southgate Parkway,
+Morris Township 07960,
+Artikel 3 Mornstown,
+New Jersey,
+Die Kommission hat nach den ihr bekannten Tatsachen USA.
+keinen Anlaß, nach Artikel 85 Absatz 1 des EWG
+Vertrags gegen das Geheimhaltungsabkommen und die
+Schiedsgerichtsvereinbarung einzuschreiten, die von den Brüssel, den 15. Dezember 1986
+Mitgliedern abgeschlossen wurden.
+
+Für die Kommission
+Artikel 4
+Peter SUTHERLAND
+Die Kommission hat nach den ihr bekannten Tatsachen
+keinen Anlaß, nach Artikel 85 Absatz 1 des EWG Mitglied der Kommission

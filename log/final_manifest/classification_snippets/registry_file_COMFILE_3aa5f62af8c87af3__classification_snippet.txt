@@ -1,0 +1,371 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+Decision - 2004/104 - EN - EUR-Lex
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 32004D0104
+Help
+Print
+2004/104/EC: Commission Decision of 27 November 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA Agreement (Case COMP/E-2/37.978/Methylglucamine) (notified under document number C(2002) 4557) (Text with EEA relevance)
+2004/104/EC: Commission Decision of 27 November 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA Agreement (Case COMP/E-2/37.978/Methylglucamine) (notified under document number C(2002) 4557) (Text with EEA relevance)
+2004/104/EC: Commission Decision of 27 November 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA Agreement (Case COMP/E-2/37.978/Methylglucamine) (notified under document number C(2002) 4557) (Text with EEA relevance)
+OJ L 38, 10.2.2004, pp. 18–46
+(ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
+In force
+ELI:
+http://data.europa.eu/eli/dec/2004/104(1)/oj
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+Avis juridique important
+|
+32004D0104
+2004/104/EC: Commission Decision of 27 November 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA Agreement (Case COMP/E-2/37.978/Methylglucamine) (notified under document number C(2002) 4557) (Text with EEA relevance)
+Official Journal L 038 , 10/02/2004 P. 0018 - 0046
+Commission Decision
+of 27 November 2002
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA Agreement
+(Case COMP/E-2/37.978/Methylglucamine)
+(notified under document number C(2002) 4557)
+(Only the German and French texts are authentic)
+(Text with EEA relevance)
+(2004/104/EC)
+CONTENTS
+>TABLE>
+SUMMARY
+Addressees
+This Decision is addressed to the following undertakings:
+- Rhône-Poulenc Biochimie SA
+- Aventis Pharma SA
+- Merck KgaA
+Articles infringed
+Article 81(1) of the EC Treaty and Article 53 of the EEA Agreement prohibiting all agreements between undertakings, decisions by associations of undertakings and concerted practices which may affect trade between Member States and the contracting parties to the EEA Agreement and which have as their object or effect the prevention, restriction or distortion of competition within the common market and within the territory covered by the EEA Agreement.
+Relevant product
+Methylglucamine of pharmaceutical quality used as an intermediate chemical product for the synthesis of x-ray media, pharmaceuticals and colourings.
+Community market value
+Approximately EUR 3,1 million annually(1).
+Specification of the infringement
+Beginning in November 1990 and continuing until December 1999 the main producers of methylglucamine formed a clandestine cartel contrary to Article 81(1) of the Treaty and Article 53(1) EEA covering the Community and the EEA, by which they fixed market shares for the product; agreed on price targets for the product; agreed on price lists for the product and agreed on how to share the largest customers.
+Duration of the participation
+- Merck KgaA from 22 November 1990 to 31 December 1999
+- Rhône-Poulenc Biochimie SA from 22 November 1990 to 31 December 1999
+- Aventis Pharma SA from 22 November 1990 to 31 December 1999.
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the treaty establishing the European Community,
+Having regard to the Agreement of the European Economic Area,
+Having regard to Council Regulation No 17 of 6 February 1962, first Regulation implementing Articles 85 and 86 of the Treaty(2), as last amended by Regulation (EC) No 1/2003(3), and in particular Articles 3 and 15 thereof,
+Having regard to the Commission decisions of 1 October 2001 and 17 December 2001 to open a proceeding in this case,
+Having given the undertakings concerned the opportunity to make known their views on the objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86 of the EC Treaty(4),
+Having consulted the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the report of the hearing officer in this case(5),
+Whereas:
+PART I - FACTS
+1. THE METHYLGLUCAMINE INDUSTRY
+1.1. The product
+(1) Methylglucamine (MG) (sometimes designated as "meglumine") is an intermediate chemical product for the synthesis of x-ray media, pharmaceuticals and colorings. It is not a by-product; on the contrary the capacity for producing MG is determined by the configuration of the production facility.
+(2) MG is delivered in crystalline form to the producers of x-ray media, who combine the substance with a further chemical agent. This combined substance is primarily demanded by hospitals that inject it into x-ray patients. The function of MG consists of preventing the expulsion of x-ray media too quickly from the body.
+(3) MG is a mature product, having been on the market for a long time. The methylglucamine market is stable, with some regions even displaying declining demand. It is possible that the product will disappear from the market in the medium term, as a new and cheaper product might be available soon.
+(4) However, as confirmed by both parties, at all material time during the period considered in this decision, there was no substitute for methylglucamine as regards X-ray applications. Moreover only high quality methylglucamine referred to as pharmaceutical grade methylglucamine can be used for these applications. Consequently it is concluded that there is a relevant product market for pharmaceutical grade methylglucamine. This Decision only covers pharmaceutical grade methylglucamine, which can be used in the applications outlined in paragraph 1. A Chinese producer is producing a type of lower quality methylglucamine, which is used in other contexts such as watertreatment. When the term methylglucamine or MG is used in this Decision only MG of pharmaceutical quality is referred to.
+1.2. The market for methylglucamine
+(a) Supply
+(5) As shown above, the relevant product market can be characterised as the market for pharmaceutical grade methylglucamine (hereafter referred to as methylglucamine), as this grade is not substitutable from the demand point of view to other grades. This market is of a worldwide dimension.
+(6) The world market for methylglucamine in 1999 can estimated to be around 375 tonnes, worth some EUR 5,7 million(6), of which around EUR 3,1 million(7) were for the Community.
+(7) On the basis of sales data provided by the parties in 1999, Merck had a share of [around 60 %] of the world market and a respective share of [around 75 %] in the EEA measured in volume. The estimated shares of Aventis were [around 40 %] of the world market and a respective share of [around 25 %] in the EEA(8).
+(8) On the same basis and measured in value in 1999, Merck had a share of [around 55 %] of the world market and a respective share of [around 70 %] in the Community. The estimated shares of Aventis were [around 45 %] of the world market and [around 30 %] in the EEA market(9).
+(9) In its response to the statement of objections, Merck argues that its market share should be assessed as an average over several years, as the figure for 1999 does not adequately reflect the parties' position for the duration of the cartel(10). The Commission has looked into this matter. In its response to the statement of objections, Merck overestimates the value of the methylglucamine sales of Aventis. The average market shares for the period 1995 to 1999 are not significantly different from the 1999 market shares.
+(10) Merck argued in both its written answer to the statement of objections and oral presentation that deliveries to [customer 1] should not be included within the calculation of Merck's market share, as it was a captive customer of Merck who would have been the only supplier able to supply with the requested quality product.
+(11) This argument should be rejected as Aventis made it clear during the oral hearing that it was able to supply [customer 1] quality-wise, and that Merck ultimately admitted it. It follows that in the absence of the anti-competitive agreement among the parties, Aventis would have had the means, incentive and interest in actively competing for [customer 1]'s supplies.
+(12) The two producers of MG are both multinational corporations with considerable turnovers. The business is essentially a global one, and the worldwide market can be described as a duopoly.
+(13) Both producers of MG are situated within the Community.
+(14) In the year 2000, pharmaceutical grade MG was produced worldwide in only two locations both situated in the Community. The two producers of MG are of about similar size in terms of production capacity. Merck had a production capacity of [around 300] tonnes at its Darmstadt plant(11). It is not known exactly how large a capacity Aventis has at its Elbeuf plant. The volume of methylglucamine sold by Aventis varies a lot from year to year, but the highest amount sold since 1990 was [around 250] tonnes in 1991(12). Sales in recent years have been considerably lower. Worldwide production capacity for methylglucamine can therefore be estimated to be around 500 tonnes a year in 1999.
+(b) Demand
+(15) The customers for methylglucamine are producers of x-ray media, who combine the substance with a further chemical agent. This combined substance is primarily demanded by hospitals. The leading purchasers of methylglucamine include [customer 1] of Germany, [customer 2] of France and [customer 3] and [customer 4] of the United States of America. [Customer 1] and [customer 3] are former producers of methylglucamine (see section 3.3).
+(c) Trade between Member States
+(16) Methylglucamine is produced in two Member States and marketed throughout the world.
+(17) In 1999, Merck sold methylglucamine to eight Member States.
+(18) In 1999, Aventis sold methylglucamine to five Member States.
+(19) Sales to EFTA countries seem to be very small. The Commission is aware that a Norwegian company made modest purchases from Rhône-Poulenc in 1995.
+1.3. The producers
+(a) Rhône-Poulenc Biochimie SA and Aventis Pharma SA
+(20) Rhône-Poulenc Biochimie (RPB) has its headquarters in Antony near Paris. RPB is a fully owned subsidiary of Aventis Pharma, which is itself a fully owned subsidiary of Aventis SA. RPB's total turnover in 1999 was [around EUR 110 million](13).
+(21) In its response to the statement of objections, Aventis states "The infringement has been committed by RPB and by no other affiliated company. Indeed, the activities covered by the statement of objections relate exclusively to RPB"(14). On the basis of this statement the Commission accepts that the entire production of methylglucamine in Aventis took place in RPB.
+(22) Aventis Pharma SA also has its headquarters in Antony near Paris. The company focuses on the discovery, development, manufacture and sales of pharmaceutical products. Aventis Pharma is a fully owned subsidiary of Aventis SA. Its total turnover in 1999 was [around EUR 2 billion](15).
+(23) Aventis SA has its headquarters in Strasbourg, France. It is an international company involved in the research, development, production and marketing of organic and inorganic intermediate chemicals, speciality chemicals, fibres, plastics, pharmaceuticals and agricultural chemicals.
+(24) Its three core businesses were pharmaceuticals, plant and animal health and speciality chemicals.
+(25) The total turnover of the company in 2000 was EUR 22,304 billion(16).
+(26) In 1998 Rhône-Poulenc and Hoechst AG, the German chemical producer, announced their agreement on a plan to merge their life science activities in a new entity "Aventis" (to be owned 50:50 by the two parent companies) and to divest their chemical operations over a three-year period. The completion of the merger was announced on 15 December 1999.
+(27) Following the merger Aventis has increasingly focused on its pharmaceutical activitities. Other parts of the business have been sold off. Of particular importance was the sale of Aventis Crop Sciences to Bayer in 2002.
+(28) During the procedure Aventis Pharma has been handling the contacts with the Commission on behalf of both Aventis Pharma SA and Rhône-Poulenc Biochimie SA. When "Aventis" is referred to in this Decision it is to be understood as Aventis Pharma acting on behalf of both themselves and RPB.
+(b) Merck
+(29) Merck KgaA, which has its headquarters in Darmstadt, Germany, is a pharmaceutical and health product manufacturer. It is established as the operating subsidiary of E. Merck oHG, a general partnership dating from 1827.
+(30) Merck's total turnover in 1999 was EUR 5347 million(17).
+(31) Methylglucamine is produced by the division "Cosmetics, Health, Nutrition" within the company(18).
+(c) Other producers
+(32) From 1991 to about 1998, Aventis and Merck appear to have been the only producers of methylglucamine in the world. In 1998, a Chinese low-cost producer entered the market. However it seems that this producer has concentrated on the market for alternative uses of methylglucamine where the lower pharma-grade is required(19). There is no information that the Chinese producer has made any inroads in the market for pharmaceutical grade methylglucamine used as a contrast agent for x-rays in medical application, which is the relevant product for the purposes of this Decision.
+2. PROCEDURE
+2.1. Investigations in the Community
+(33) On 27 September 2000, representatives from Merck visited the Commission. During the meeting the company expressed its wish to cooperate with the Commission pursuant to the Commission Notice on the non-imposition or reduction of fines in cartel cases(20) (the Leniency Notice), and gave an oral description of the cartel activity in which it had been involved. The Commission received a more detailed written account on 20 October 2000.
+(34) On 15 January 2001, the Commission undertook a verification pursuant to Article 14(3) of Regulation 17 at the premises of Aventis in Romainville.
+(35) On 19 October 2001, the Commission sent a request for informat
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ so hat es aufgrund seines Sonderwissens eine bessere Verhandlungsposition und wird versuchen, das Produkt zu einem Preis zu bekommen, der so nah wie möglich an die Kosten der Eigenproduktion herankommt (sog. Co-Produzentenpreis)".
+(32) Doc. 00123.
+(33) Doc. 00129-130: "Obwohl er bis Anfang diesen Jahres nicht direkt mit MG zu tun habe, habe er von den Kontakten mit Rhône-Poulenc (RP) im Hinblick auf dieses Produkt gewusst. Diese Kontakte seien ein offenes Geheimnis in der Vertriebsabteilung von Merck gewesen. Er habe von diesen Kontakten schon vor zehn bis zwanzig Jahren gehört und zwar in der Zeit, [...] [1983-1989 - author's note] und bevor die Spatenorganisation bei Merck eingeführt wurde [1978-1979 - author's note]. Die besondere Beziehung zu RP hinsichtlich MG habe sich auf Preise sowie Marktanteile bezogen".
+(34) Doc. 6882, "Wann genau er diese Kenntnisse erhalten habe, ließe sich in Nachhinein nicht mehr zuordnen. Er meine jedoch, dass diese Kenntnis Anfang bis Mitte der 80er Jahre da gewesen und aus verlässlicher Quelle gekommen sei. In Erinnerung sei ihm geblieben, dass ein Kunde für MG sich geäußert habe, man erhalte zwei gleiche Antworten, wenn man Merck und Rhône Poulenc nach dem Preis für MG frage. Wann genau diese Äußerung gefallen sei, wisse er jedoch nicht mehr".
+(35) Doc. 6885 "[Merck employee 5] erklärte, er sei erst 1990 wieder aus dem Ausland nach Darmstadt zurückgekommen. Er habe von den Absprachen zu MG im Rahmen von Besuchen in Darmstadt während seiner Auslandszeit gehört. Seiner Erinnerung nach habe das Kartell bei seiner ersten Befragung (im Jahr 2000) etwa 10-15 Jahre bestanden. Bei einem seiner Heimatbesuche habe er Gerüchte gehört, dass es bei MG 'Verständigungen über den Preis' gebe. Sein Eindruck sei damals gewesen, dass diese Sache nicht sauber gewesen sei. Über ein mögliche Aufteilung von Kunden zwischen Merck und Rhône-Poulenc habe er jedoch nichts gehört".
+(36) Doc. 00025.
+(37) Doc. 00125.
+(38) Merck response to the statement of objections, 2 September 2002, pp. 17-18, paragraph 49.
+(39) Doc. 00124.
+(40) Doc. 6890.
+(41) Doc. 00047, Doc. 00136-00137.
+(42) RPB response to statement of objections, 1 September 2002, pp. 4-6, paragraphs 9-12.
+(43) Doc. 6890.
+(44) Doc. 00574.
+(45) Doc. 6878, "[Merck employee 3] habe ihn mit [Aventis employee 1] bekannt gemacht. Die konkreten Absprachen mit Rhône-Poulenc habe [Merck employee 1] jedoch erst zusammen mit [Aventis employee 1] entwickelt".
+(46) Doc. 9070.
+(47) Doc. 00125.
+(48) Doc. 9065-9066.
+(49) This is the division which dealt, among other products, with methylglucamine.
+(50) Merck response to the statement of objections, page 15, paragraphs 38-39.
+(51) Doc. 00025.
+(52) Doc. 9066.
+(53) Aventis response to the statement of objections, pp. 14-15, paragraphs 30-31.
+(54) Doc. 00025.
+(55) Doc. 9066.
+(56) Aventis response to the statement of objections, page 15, paragraph 32.
+(57) Doc. 00024.
+(58) Doc. 00024-00025.
+(59) Doc. 00119, "Es war vereinbart, dass Merck bzw. RP bei einer Anfrage von Kunden des anderen, auch wenn dies große Kunden waren, nur Listenpreise anbieten sollte. Da diese Listenpreise höher lagen als die Preise für große Abnehmer, war so sichergestellt, dass die großen Kunden bei den jeweiligen Herstellern verblieben. Über diese Vorgehensweise wurde auf dem zweiten Treffen im Herbst 1996 ausführlich gesprochen".
+(60) Doc. 00120 "Die Teilnehmer besprachen, ob auch im vergangenen Jahr alle Kunden bei den jeweiligen Unternehmen verblieben waren, und stellten fest, dass dies der Fall war".
+(61) Doc. 9066.
+(62) Doc. 9067.
+(63) Merck response to the statement of objections, page 18, paragraph 53.
+(64) Merck response to the statement of objections, page 19, paragraph 55.
+(65) Aventis response to the statement of objections, page 17, paragraph 37.
+(66) Doc. 00025.
+(67) Doc. 00032-00033.
+(68) Doc. 9065-9066.
+(69) Doc. 00455, "Cette situation est inadmissible et je compte sur vous pour me fournir les arguments qui me permettront, peut être, de retrouver les volumes que nous avions par le passé".
+(70) Doc. 9066.
+(71) Doc. 00547.
+(72) Doc. 00547.
+(73) Doc. 02953.
+(74) Doc. 00752.
+(75) Doc. 00531.
+(76) Doc. 02862.
+(77) Merck response to the statement of objections, page 17, paragraph 46.
+(78) Doc. 00525.
+(79) The "list prices" only account for about 20 % of the market. Most methylglucamine is sold to large customers according to special conditions. The prices may not be 100 % comparable (fluctuations of exchange rate, delivery conditions, packing).
+(80) Doc. 00055. Eurostat average exchange rate for January 1995 used in conversion.
+(81) Doc. 00525. Eurostat average exchange rate for January 1995 used in conversion.
+(82) Doc. 02781-02782.
+(83) Doc. 00500.
+(84) Doc. 00049-00050.
+(85) Doc. 00049. Eurostat average exchange rate for January 1996 used for conversion.
+(86) Doc. 00500. Eurostat average exchange rate for January 1996 used for conversion.
+(87) Doc. 00029-00030, Doc. 00118.
+(88) Doc. 0057-0071.
+(89) Doc. 00029.
+(90) Aventis response to the statement of objections, pp. 20-21, paragraph 47.
+(91) Doc. 00030, Doc. 00118-00119.
+(92) Doc. 00072-00075.
+(93) Doc. 00076-00077.
+(94) Doc. 00076-00077.
+(95) Doc. 00076. Eurostat average exchange rate for January 1997 used in conversion.
+(96) Doc. 00490. Eurostat average exchange rate for January 1997 used in conversion.
+(97) Doc. 00031, Doc. 00120-00121.
+(98) Doc. 00088-00089.
+(99) Doc. 00078-00087.
+(100) Aventis response to the statement of objections, page 21, paragraph 49.
+(101) Doc. 00088-00089.
+(102) Doc. 00485.
+(103) Doc. 00088. Eurostat average exchange rate for January 1998 used for conversion.
+(104) Doc. 00485. Eurostat average exchange rate for January 1998 used for conversion.
+(105) Doc. 00031-00032, Doc. 00121.
+(106) Doc. 00090-00098.
+(107) Doc. 00097-00100.
+(108) Doc. 9066.
+(109) Doc. 00743.
+(110) Doc. 00097-00098.
+(111) Doc. 00481.
+(112) Doc. 00097. Eurostat average exchange rate for January 1999 used for conversion.
+(113) Doc. 00481. Eurostat average exchange rate for January 1999 used for conversion.
+(114) Doc. 00032-00033, Doc. 00121-00122.
+(115) Doc. 00122.
+(116) Doc. 00105-00110.
+(117) Doc. 00112-00113.
+(118) Aventis response to the statement of objections, pp. 7-8, paragraphs 15-17.
+(119) Doc. 00736-00738.
+(120) Aventis response to the statement of objections, page 10, paragraph 21.
+(121) Doc. 00044-00045 "nein das ist nicht in unserem Sinn!!!! Wir wollen keinen zusätzlichen Marktanteil, sondern unseren bestehenden MA mit einem höheren Preis halten. [Customer 5] ist o.k., aber der Preis für [Customer 2] ist FF 108,-. Bitte teilen Sie dies [Merck employee 9] mit. Falls er Probleme hat, soll er mich anrufen".
+(122) Aventis response to the statement of objections, page 10, paragraph 20.
+(123) Doc. 00105. Eurostat average exchange rate of January 2000 used for conversion.
+(124) Doc. 00787. Eurostat average exchange rate of January 2000 used for conversion.
+(125) Doc. 00696.
+(126) See Final Act of the Agreement on the European Economic Area (OJ L 1, 3.1.1994, p. 3).
+(127) The case-law of the Court of Justice and the Court of First Instance in relation to the interpretation of Article 81 EC applies equally to Article 53 EEA.
+(128) [1999] ECR II-931, paragraph 715.
+(129) Joined Cases 40-48/73, etc. Suiker Unie and others v Commission [1975] ECR 1663.
+(130) See judgment in Case C-49/92 P Commission v Anic Partecipazioni SpA [1999] ECR I-4125, paragraph 81.
+(131) See judgment in Case T-7/89 Hercules v Commission [1991] ECR II-1711, paragraph 264.
+(132) Judgment, Ciment [2000] II-491, paragraph 3927. See also judgment in Cases T-374/94, T-375/94, T-384/94 and T-388/94, European Night Services [1998] ECR II-3196, paragraph 136, where the Court has stated this in specific relation to price-fixing agreements.
+(133) Aventis response to the statement of objections, pp. 22-23, paragraph 54.
+(134) The issue of who is the appropriate addressee of proceedings is entirely separate from the question of whether "agreements" between companies in the same group can fall under Article 81 of the Treaty or Article 53 of the EEA Agreement.
+(135) Case 48/69 Imperial Chemical Industries [1972] ECR 619 paragraphs 132-133.
+(136) Case T-6/89 Enichem Anic SpA v Commission (Polypropylene) [1991] ECR II 1623, Case C-49/92 P Commission v Anic Partecipazioni SpA [1999] ECR I-4125, paragraph 81.
+(137) Commission Decision 89/190/EEC in Case IV/31.865 - PVC, paragraph 43 (OJ L 74, 17.3.1989, p. 1).
+(138) Aventis response to the statement of objections, page 3, paragraph 7, and page 28, paragraph 71.
+(139) Doc. 8929-8930.
+(140) Doc. 00455.
+(141) Doc. 8926.
+(142) Aventis response to the statement of objections, page 3, paragraph 7.
+(143) Aventis response to the statement of objections, pp. 30-31, paragraphs 74-75.
+(144) Aventis response to the statement of objections, pp. 32-33, paragraphs 80-81.
+(145) Commission decisions of 21 November 2001 (case 37.512) and of 2 July 2002 (case 37.519).
+(146) Merck response to the statement of objections, pp. 10-11, paragraphs 23-24.
+(147) Fax from Freshfields Bruckhaus Deringer of 21 October 2002.
+(148) Doc. 8935.
+(149) Fax from Jones, Day, Reavis & Pogue of 31 October 2002.
+(150) Aventis response to the statement of objections, pp. 34-35, paragraphs 86-87.
+(151) Aventis response to the statement of objections, page 35, paragraph 88.
+(152) Aventis response to the statement of objections, page 33, paragraph 83.
+(153) Merck response to the statement of objections, page 22, paragraph 59.
+(154) Merck response to the statement of objections, page 35, paragraph 97.
+(155) Merck response to the statement of objections, page 35, paragraph 99.
+(156) Merck response to the statement of objections, page 35, paragraph 100.
+(157) OJ C 45, 19.2.2002, p. 45.
+(158) Aventis response to the statement of objections, page 37, paragraph 94.
+(159) Aventis response to the statement of objections, page 36, paragraph 91.
+(160) Aventis response to the statement of objections, pp. 36-37, paragraph 92.
+Top

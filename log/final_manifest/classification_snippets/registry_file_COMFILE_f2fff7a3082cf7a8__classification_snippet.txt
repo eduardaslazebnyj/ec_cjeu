@@ -1,0 +1,334 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+Decision - 2002/271 - EN - EUR-Lex
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 32002D0271
+Help
+Print
+2002/271/EC: Commission Decision of 18 July 2001 relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement — Case COMP/E-1/36.490 — Graphite electrodes (Text with EEA relevance.)(notified under document number C(2001) 1986)
+2002/271/EC: Commission Decision of 18 July 2001 relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement — Case COMP/E-1/36.490 — Graphite electrodes (Text with EEA relevance.)(notified under document number C(2001) 1986)
+2002/271/EC: Commission Decision of 18 July 2001 relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement — Case COMP/E-1/36.490 — Graphite electrodes (Text with EEA relevance.)(notified under document number C(2001) 1986)
+OJ L 100, 16.4.2002, pp. 1–42
+(ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
+In force
+ELI:
+http://data.europa.eu/eli/dec/2002/271/oj
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+Avis juridique important
+|
+32002D0271
+2002/271/EC: Commission Decision of 18 July 2001 relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement — Case COMP/E-1/36.490 — Graphite electrodes (Text with EEA relevance.)(notified under document number C(2001) 1986)
+Official Journal L 100 , 16/04/2002 P. 0001 - 0042
+Commission Decision
+of 18 July 2001
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement
+Case COMP/E-1/36.490 - Graphite electrodes
+(notified under document number C(2001) 1986)
+(Only the English and German texts are authentic)
+(Text with EEA relevance)
+(2002/271/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation No 17 of 6 February 1962, first Regulation implementing Articles 85 and 86 of the Treaty(1), as last amended by Regulation (EC) No 1216/1999(2), and in particular Articles 3 and 15 thereof,
+Having regard to the Commission's decision of 24 January 2000 to initiate proceedings in this case,
+Having given the undertakings concerned the opportunity to make known their views on the objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86 of the EC Treaty(3),
+Having consulted the Advisory Committee on Restrictive Practices and Dominant Positions,
+Whereas:
+1. THE FACTS
+1.1. SUMMARY OF THE INFRINGEMENT
+(1) This Decision imposing fines for an infringement of Article 81 of the Treaty and Article 53 of the EEA Agreement is addressed to the following undertakings:
+- SGL Carbon AG ("SGL")
+- UCAR International Inc. ("UCAR")
+- VAW Aluminium AG ("VAW")
+- Showa Denko K.K. ("Showa Denko")
+- Tokai Carbon Co., Ltd ("Tokai")
+- Nippon Carbon Co., Ltd ("Nippon")
+- SEC Corporation ("SEC")
+- Carbide/Graphite Group, Inc. ("C/G").
+(2) The infringement consists in the participation of the producers of graphite electrodes in a continuing agreement and/or concerted practice contrary to Article 81(1) of the Treaty and (from 1 January 1994) Article 53(1) of the EEA Agreement, covering the whole of the Community and Norway, Austria, Sweden, Finland, by which they:
+- fixed the prices of the product,
+- agreed on and implemented a mechanism for implementing price increases,
+- allocated markets and market share quotas,
+- agreed not to increase production capacity,
+- agreed not to transfer technology outside the circle of cartel participants,
+- set up machinery for monitoring and enforcing their agreements.
+(3) The undertakings participated in the infringement during the following periods:
+- SGL: from May 1992 to March 1998
+- UCAR: from May 1992 to March 1998
+- VAW: from May 1992 to at least the end of 1996
+- Showa Denko: from May 1992 to at least April 1997
+- Tokai: from May 1992 to February 1998
+- Nippon: from May 1992 to February 1998
+- SEC: from May 1992 to February 1998
+- C/G: from January 1992 to November 1996.
+1.2. THE GRAPHITE ELECTRODES INDUSTRY
+1.2.1. THE PRODUCT MARKET
+(4) Graphite electrodes are ceramic-moulded columns of graphite used primarily in the production of steel in electric arc furnaces, also referred to as "mini-mills". The electric are process currently accounts for some 35 % of steel production in the Community and its share is increasing. Electric arc furnace steelmaking is essentially a recycling process whereby scrap steel is converted into new steel. Electrodes can be up to 700 mm (30 inches) in diameter and 2800 mm (9 feet) in length and weigh up to 2200 kg. The electrodes form part of the roof structure of the furnace. After the furnace is filled with selected scrap, the electrodes are lowered until the tips almost touch the scrap. Electricity is passed into the electrodes and jumps from the electrode tip to the scrap steel. As conductors of electricity, graphite electrodes generate sufficient heat (up to 3000 °C) to melt scrap steel and further refine molten steel into a finished product. Nine electrodes, joined in columns of three, are used in the average three-phase AC electric arc furnace to melt scrap steel. Because of the intensity of the melting process, one electrode is consumed approximately every eight hours.
+(5) Graphite electrodes are produced using special "needle" coke, a by-product of the oil industry, and coal tar pitch. The manufacturing process has six steps, namely forming, baking, impregnation, rebaking, graphitising and machining. During graphitising the product is heated electrically to over 3000 °C and is physically transformed into graphite, the crystalline form of the carbon and a unique material with low electrical but high heat conductivity, high strength and performance at high temperature that makes it suitable for use in electric arc furnaces. The processing time for an electrode is approximately two months. There are no product substitutes for graphite electrodes.
+1.2.2. SUPPLY OF GRAPHITE ELECTRODES
+(6) The major producers of graphite electrodes in the Western world are multinational corporations. The business is essentially a global one and is characterised by an oligopolistic structure and high entry barriers.
+Total world production of graphite electrodes in 1998 was around 1 million tonnes.
+In the Community some 280000 tonnes of graphite electrodes were produced, a considerable proportion of which was exported to third countries.
+(7) In 1998 graphite electrodes were produced in some 50 locations worldwide. The largest producer of graphite electrodes, UCAR, has a total production capacity of [...]*(4) at 12 locations; in the Community it has three production facilities (France, Spain and Italy), with a capacity of around [...]*. The second largest producer of graphite electrodes in the world is SGL Carbon, with a capacity [...]*. It has production sites in Europe and in North America.
+Showa Denko is ranked third in the world: it produces in Japan and the United States, but has no manufacturing facilities in Europe.
+1.2.3. DEMAND FOR GRAPHITE ELECTRODES
+(8) The demand for graphite electrodes is directly linked to the production of steel in electric arc furnaces; the customers are principally steel producers, which account for some 85 % of demand. There are some 200 producers of electric steel in the Community and Norway. In 1998 world crude steel production was 800 million tonnes, of which 280 million tonnes (35 %) was produced in electric are furnaces. Community steel production totalled 160 million tonnes, of which 60 million (38 %) was electric steel. Germany has the highest steel production of any Member State (1997: 45 million tonnes), but only a quarter of output (11,8 million tonnes) is produced in electric are furnaces. Italy produces about 60 % (15 million tonnes) of its steel in mini-mills, that is to say, steelworks using electric arc furnaces to produce steel from scrap (as opposed to the "traditional" blast furnace/oxygen converter route from iron ore).
+(9) In the past twenty years, electric are furnace production has become increasingly important (35 % of world output in 1998, up from 18 % twenty years ago).
+During the 1990s mini-mills were constructed to produce flat-rolled steel as well as long products. In addition, a number of large integrated stell mills (using blast furnace/oxygen converters) in Europe have moved into electric steelmaking in preference to the traditional route for some of their production.
+World electric are steel production grew from 196 million tonnes in 1987 to 270 million tonnes in 1997, an increase of 38 % over a ten-year period. In 1995, approximately 20 million tonnes of net new electric steel capacity was added worldwide. Some forecasts predict that global electric steelmaking capacity will catch up with oxygen steel in ten years.
+(10) According to the cartel's own figures (see CMS Report/Forecast 1995 & 1996, points 72-73, Appendix 20(5)), demand for electrodes in the Community in 1996 was estimated at 160000 tonnes. Italy, the largest single national market, was estimated at 44000 tonnes; Germany 31000 tonnes, Spain 24000 tonnes, France 18500 tonnes and the United Kingdom 16000 tonnes. (For Norway demand was estimated at 1200 tonnes.)
+(11) Graphite electrodes are priced in the appropriate national currency per tonne for the standard 24-inch diameter electrode on a delivered basis. The price as at 1 January 1998 was DEM 5600/tonne (or equivalent). For larger-sized electrodes (and for DC electrodes) the price is subject to a premium of 15 to 30 %.
+1.2.4. INDUSTRY RESTRUCTURING
+(12) During the 1980s improvements in both electrode and electric steelmaking technology led to a substantial decline in the specific consumption of electrodes per tonne of steel produced (from 6 kg/tonne in 1979 to 3 kg in 1991: the West European average is now some 2,4 kg).
+The steel industry was also undergoing major restructuring in this period.
+Up to and including the 1980s, the graphite electrode industry in Europe was characterised by a relatively large number of producers operating at national level. In Germany, the main manufacturers were Sigri, Conradty and VAW. In France and Belgium the local producers were Pechiney and UCF. The Italian producers were Union Carbide and Electrocarbonium. Anglo-Great Lakes and Union Carbide produced electrodes in the United Kingdom. Other producers were Genosa in Spain (owned by Pechiney) and in Austria Steeg, partly owned by Sigri. The American producers Airco (owned by BOC) and Great Lakes Carbon exported electrodes to the EEA market, as did Japanese producers including Showa Denko, Tokai and NCK.
+As a result of the fall-off in demand for electrodes, a restructuring process in the worldwide electrodes industry began in the late 1980s/early 1990s. Several plants were closed. Sigri GmbH (100 % owned by Hoechst) was merged with the US-owned producer Great Lakes Carbon to form SGL, which acquired SERS, the graphite division of Pechiney, in 1993. In 1990/91, Union Carbide Corporation set up its carbon products division as a separate entity, UCAR. Airco was sold off and restructured as the Carbide/Graphite Group.
+Western producers tried to expand their sales to the Asian market in order to occupy perceived overcapacity. The Japanese graphite electrodes industry was put under some pressure and the number of Japanese producers was reduced from six to four.
+(13) Up to 1991, the two smaller German producers of graphite electrodes, VAW Carbon GmbH and C. Conradty Nürnberg GmbH, had a joint sales company, Cova GmbH. This company ceased trading in September 1991 but was not formally liquidated until 1994. Since 1991 the two companies have had their own separate sales organisation.
+The global industry rationalisation reduced the number of Western producers from 16 to 9, with two global leaders UCAR and SGL holding more than [...]* of the market in western Europe and [...]* worldwide.
+In 1982 the industry was operating at less than 60 % capacity. By 1996, as a result of the consolidation and restructuring, capacity utilisation was running at 85 %.
+1.2.5. THE RELEVANT GEOGRAPHIC MARKET FOR GRAPHITE ELECTRODES
+(14) The Commission considers that the market for graphite electrodes is at least EEA-wide. However, there are several indicators that point to a worldwide market.
+(15) The restructuring process in the worldwide graphite electrodes industry which took place in the late 1980s and early 1990s led to a significant reduction in the number of Western producers. During the time period referred to in this Decision, the market was dominated by two global leaders, UCAR and SGL, holding more than [...]* of the EEA market and more than [...]* of the worldwide market.
+(16) Transportation costs and tariff barriers might well lead to somewhat higher costs, but they do not prevent the producers from trading on a worldwide basis. This is demonstrated by the fact that the Carbide Graphite Group, without having any production sites outside the United States, was able to trade in Europe and to obtain a market share of approximately 7 %.
+(17) Finally, the worldwide character of the market for graphite electrodes is also confirmed by the structure, organisation and operation of the cartel itself. The producers involved agreed on an overall scheme by which the world market for graphite electrodes was cartellised and held regular meetings that covered the world market (see in particular points 49, 51 and 55 below).
+(18) The Commission therefore concludes that the market for graphite electrodes is global.
+1.2.6. INTERSTATE TRADE
+(19) The EEA market for graphite electrodes in 1998 was worth some EUR 420 million. All the Member States of the Community, plus Norway as a contracting party to the EEA are producers of electric steel and consumers of graphite electrodes. The two main producers of electrodes, SGL and UCAR, have production facilities in several Member States. SGL has plants in Germany, Italy, France, Spain, Austria and Belgi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ the Commission.
+(227) The Commission concludes that there are no mitigating circumstances which could be applied to VAW.
+- Application of the Leniency Notice
+(228) In its reply of 10 May 1999 to the Commission's detailed request for information of 31 March 1999 pursuant to Article 11 of Regulation No 17, VAW Carbon initially claimed that it was under no obligation to answer certain questions and that, in any event, it was unable to provide documents or information.
+(229) It was only in its letter of 12 July 1999 that VAW Carbon announced its willingness to cooperate and provided a statement as to its participation. The Commission considers however that a substantial part of the information provided in this statement in fact constitutes VAW Carbon's reply to the Commission's formal request for information of 31 March 1999.
+(230) Only to the extent that the information provided went beyond that requested under Article 11 and beyond the information already in the Commission's possession could VAW Carbon's statement be considered as a relevant contribution within the meaning of the Leniency Notice.
+(231) Taking into consideration the fact that VAW Carbon's cooperation started before the Commission adopted its Statement of Objections and continued afterwards, VAW Aluminium AG will receive a reduction of 20 % in accordance with the first indent of Section D(2) of the Leniency Notice.
+(232) As stated in recitals 117 to 123, the Commission holds VAW Aluminium AG, as the parent company of VAW Carbon GmbH, responsible for the anti-competitive conduct of its wholly owned subsidiary.
+(233) The total fine imposed on VAW Aluminium AG will therefore be EUR 11,6 million.
+(v) C/G
+- Mitigating circumstances
+(234) As a mitigating circumstance the Commission will take into account the fact that C/G played only a passive role in the infringement. It did not attend any "Top Guy" or "Working Level" meetings and took the position of a "price follower" (see recital 81).
+(235) A further reduction will be granted to C/G on the basis of its partial non-implementation of the offending agreements. Between 1993 and 1996 C/G actually increased its sales in Europe, thereby not respecting the basic principle of the cartel of restricting sales in "non-home" markets.
+(236) The fine on C/G will therefore be reduced by 40 %. The appropriate fine for C/G is therefore: EUR 12,96 million.
+(237) The Commission will not however accept C/G's argument that it acted under economic pressure. Even if it might be correct that other producers put pressure on C/G, it remained C/G's own decision and responsibility to participate in the infringement.
+(238) With regard to any structural overcapacity in the sector, it has already been stated (see recital 197) that undertakings may use only means which are consistent with Community competition rules to cope with difficult market conditions.
+- Application of the Leniency Notice
+(239) In accordance with the first indent of section D(2) of the Leniency Notice, the fine on C/G will be reduced by 20 % in recognition of its having supplied certain information to the Commission.
+(240) Contrary to what C/G claims it is however not entitled to a reduction of at least 50 %. Although already in July 1998 it supplied certain documents on contacts between competitors to the Commission, it was only in October 1999 that a Corporate Statement was submitted in which C/G was however ambiguous with regard to its role in the cartel. The reply of 21 July 1999 to the Commission's formal request for information pursuant to Article 11 of Regulation No 17 cannot be regarded as a voluntary contribution within the meaning of the Leniency Notice.
+- Ability to pay
+(241) C/G claims that its current financial situation is very serious. Due to a downturn in the market for graphite electrodes, the steel crisis, high oil prices and the strength of the US currency it is highly leveraged today. High civil damage payments resulting from lawsuits in the United States have further weakened the company.
+(242) In consideration of this argument, the Commission requested detailed information on the company's financial position(15). After examining the company's reply of 25 May 2001 the Commission concludes that it is not appropriate to adjust the amount of the fine in the present case. To take account of the mere fact of an undertaking's lossmaking financial situation due to general market conditions or changes in the company's corporate structure would be tantamount to conferring an unjustified competitive advantage on undertakings least well adapted to the conditions of the market. Finally, in the present case there is no justification for setting off fines imposed by other competition authorities or civil damage payments (see recitals 179 to 183).
+(243) The total fine imposed on C/G will therefore be EUR 10,3 million.
+2.3.2.4. The amount of the fines imposed in the present proceedings
+(244) In conclusion, the Commission sets the fines to be imposed pursuant to Article 15(2) Regulation No 17 as follows:
+- SGL Carbon AG: EUR 80,2 million
+- UCAR International Inc.: EUR 50,4 million
+- VAW Aluminium AG: EUR 11,6 million
+- Showa Denko K.K.: EUR 17,4 million
+- Tokai Carbon Co. Ltd: EUR 24,5 million
+- Nippon Carbon Co. Ltd: EUR 12,2 million
+- SEC Corporation: EUR 12,2 million
+- The Carbide Graphite Group: EUR 10,3 million,
+HAS ADOPTED THIS DECISION:
+Article 1
+The following undertakings have infringed the provisions of Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement by participating in a complex of agreements and concerted practices in the graphite electrodes sector:
+SGL Carbon AG: from May 1992 to March 1998,
+UCAR International Inc.: from May 1992 to March 1998,
+VAW Aluminium AG: from May 1992 until the end of 1996,
+Showa Denko K.K.: from May 1992 until April 1997,
+Tokai Carbon, Co. Ltd: from May 1992 to February 1998,
+Nippon Carbon Co. Ltd: from May 1992 to February 1998,
+SEC Corporation: from May 1992 to February 1998,
+The Carbide Graphite Group Inc.: from January 1993 until November 1996.
+Article 2
+The undertakings referred to in Article 1 shall immediately bring to an end the infringements referred to in that Article, in so far as they have not already done so.
+They shall refrain from repeating any act or conduct referred to in Article 1, and from adopting any measure having equivalent object or effect.
+Article 3
+For the infringements referred to in Article 1 the following fines are imposed:
+(a) SGL Carbon AG: EUR 80,2 million;
+(b) UCAR International Inc.: EUR 50,4 million;
+(c) VAW Aluminium AG: EUR 11,6 million;
+(d) Showa Denko K.K.: EUR 17,4 million;
+(e) Tokai Carbon Co. Ltd: EUR 24,5 million;
+(f) Nippon Carbon Co. Ltd: EUR 12,2 million;
+(g) SEC Corporation: EUR 12,2 million;
+(h) The Carbide Graphite Group Inc.: EUR 10,3 million.
+Article 4
+The fines imposed in Article 3 shall be paid, within three months of the date of notification of this Decision to the following Bank account:
+Account No 642-0029000-95
+European Commission
+Banco Bilbao Vizcaya Argentaria (BBVA)
+SWIFT Code: BBVABEBB - IBAN Code: BE 76 6420 0290 0095
+Avenue des Arts, 43 B - 1040 Brussels
+After expiry of that period, interest shall automatically be payable at the interest rate applied by the European Central Bank to its main refinancing operations on the first working day of the month in which this Decision is adopted, plus 3,50 percentage points, namely 8,04 %.
+Article 5
+This Decision is addressed to:
+1. SGL Carbon AG Rheingaustraße 182 D - 65203 Wiesbaden
+2. UCAR International Inc. 3102 West End Avenue, Suite 1100 Nashville, Tennessee 37203 USA
+3. VAW Aluminium AG Georg-von-Boeselager Straße 25 D - 53117 Bonn
+4. Showa Denko K.K. 13-9, Shiba Daimon 1 - Chome Minato-ku
+Tokyo 105-8517 Japan
+5. Tokai Carbon Co. Ltd Aoyama Building
+2-3, Kita - Aoyama, 1 - Chome Minato-ku
+Tokyo 107 Japan
+6. Nippon Carbon Co. Ltd 6-1, Hatchobori, 2 - Chome Chuo-ku
+Tokyo 1047-0032 Japan
+7. SEC Corporation Doi Building
+5, Misonomachi Amagasaki
+Hyogo HY 660 Japan
+8. The Carbide Graphite Group Inc. One Gateway Center, 19th Floor Pittsburgh, PA 15222-1416 USA.
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+Done at Brussels, 18 July 2001.
+For the Commission
+Mario Monti
+Member of the Commission
+(1) OJ 13, 21.2.1962, p. 204/62.
+(2) OJ L 148, 15.6.1999, p. 5.
+(3) OJ L 354, 30.12.1998, p. 18.
+(4) The square brackets marked with an asterisk denote confidential information which has been deleted from the text.
+(5) All references in this Decision to numbered appendices are to the appendices to the Statement of Objections.
+(6) VAW Carbon's figures for the Benelux countries are included under "Belgium", for Portugal under "Spain" and for Ireland under "UK".
+(7) As declared to the Commission in response to requests for information under Article 11. The figures for some producers would appear to understate the actual position.
+(8) OJ 13, 21.2.1962, p. 204/62.
+(9) The case-law of the Court of Justice and Court of First Instance in relation to the interpretation of Article 81 of the Treaty applies equally to Article 53 EEA.
+(10) Under Article 5 of Council Regulation (EC) No 2894/94 of 28 November 1994 concerning arrangements for implementing the Agreement on the European Economic Area, "the Community rules giving effect to the principales set out in Articles 85 and 86 [now Articles 81 and 82] of the EC Treaty [...] shall apply mutatis mutandis".
+(11) OJ C 207, 18.7.1996, p. 4.
+(12) As stated above (see recitals 117 to 123), the Commission holds the parent company VAW Aluminium AG responsible for the anti-competitive behaviour of VAW Carbon GmbH, its wholly owned subsidiary.
+(13) Commission's request for information pursuant to Article 11 of Regulation No 17 dated 23 May 2001.
+(14) Commission's request for information pursuant to Article 11 of Regulation No 17 dated 10 May 2001.
+(15) Commission's request for information pursuant to Article 11 of Regulation No 17 dated 10 May 2001.
+Top

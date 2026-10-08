@@ -1,0 +1,460 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40760-Hand grenades
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 21/09/2023
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 21.9.2023
+C(2023) 6290 final
+
+COMMISSION DECISION
+
+of 21.9.2023
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40760 – HAND GRENADES
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION ........................................................................................................ 4
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ............................................ 4
+2.1. The product ................................................................................................................... 4
+2.2. Undertakings subject to the present proceedings ......................................................... 4
+2.2.1. The undertaking RUAG ............................................................................................... 4
+2.2.2. The undertaking Diehl .................................................................................................. 5
+3. PROCEDURE .............................................................................................................. 5
+4. DESCRIPTION OF THE EVENTS ............................................................................. 6
+4.1. Nature and scope of the infringment ............................................................................ 6
+4.2. Geographic scope of the infringment ........................................................................... 8
+4.3. Duration of the conduct ................................................................................................ 8
+5. LEGAL ASSESSMENT .............................................................................................. 8
+5.1. Jurisdiction ................................................................................................................... 8
+5.2. Application of Article 101(1) TFEU and Article 53(1) of the EEA Agreement .......... 8
+5.2.1. Agreements and concerted practices ............................................................................ 8
+5.2.1.1. Principles ...................................................................................................................... 8
+5.2.1.2. Application in this case ................................................................................................ 9
+5.2.2. Single and continuous infringement ............................................................................. 9
+5.2.2.1. Principles ...................................................................................................................... 9
+5.2.2.2. Application in this case .............................................................................................. 10
+5.2.3. Restriction of competition .......................................................................................... 11
+5.2.3.1. Principles .................................................................................................................... 11
+5.2.3.2. Application in this case .............................................................................................. 11
+5.2.4. Effect upon trade between Member States and between EEA Contracting Parties ... 11
+5.2.4.1. Principles .................................................................................................................... 11
+5.2.4.2. Application in this case .............................................................................................. 11
+5.2.5. Non-applicability of Article 101(3) TFEU and Article 53(3) of
+the EEA Agreement .................................................................................................... 12
+5.2.5.1. Principles .................................................................................................................... 12
+5.2.5.2. Application in this case .............................................................................................. 12
+5.3. Conclusion .................................................................................................................. 12
+6. DURATION OF PARTIES' PARTICIPATION TO THE INFRINGEMENT .......... 12
+7. LIABILITY ................................................................................................................ 12
+7.1. Principles .................................................................................................................... 12
+
+1EN EN
+
+7.2. Application in this case .............................................................................................. 13
+7.2.1. RUAG ......................................................................................................................... 13
+7.2.2. Diehl ........................................................................................................................... 14
+8. REMEDIES ................................................................................................................ 14
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 14
+8.2. Article 23(2) of Regulation (EC) No 1/2003 .............................................................. 15
+8.3. Calculation of the fine ................................................................................................ 15
+8.3.1. The value of sales ....................................................................................................... 16
+8.3.2. Determination of the basic amount of the fine ........................................................... 16
+8.3.2.1. Gravity ........................................................................................................................ 16
+8.3.2.2. Duration ...................................................................................................................... 17
+8.3.3. Determination of the additional amount ..................................................................... 17
+8.3.4. Calculations and conclusions on basic amounts ......................................................... 17
+8.4. Adjustments to the basic amount of the fine .............................................................. 18
+8.4.1. Aggravating or mitigating circumstances ................................................................... 18
+8.4.2. Increase of the fine pursuant to point 37 of the Guidelines on fines .......................... 18
+8.5. Application of the 10% turnover limit ....................................................................... 19
+8.6. Application of the Leniency Notice ........................................................................... 19
+8.6.1. Immunity from fines ................................................................................................... 19
+8.6.2. Reduction of fines ........................................................................................................ 19
+8.7. Application of the Settlement Notice ......................................................................... 19
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision ............ 19
+
+2EN EN
+
+COMMISSION DECISION
+
+of 21.9.2023
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40760 – HAND GRENADES
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+Having regard to the Commission decision of 18 January 2023 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union.
+The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty of Lisbon,
+references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as references to
+Articles 101 and 102 of the Treaty when appropriate.
+2 OJ L 123, 27.4.2004, p. 18.
+
+3EN EN
+
+1. INTRODUCTION
+(1) This Decision relates to a single and continuous infringement of Article 101 of the
+Treaty on the Functioning of the European Union (“TFEU”) and Article 53 of the
+EEA Agreement (the "EEA Agreement”). The infringement consisted in the
+allocation of national markets between the two addressees of this Decision for the
+sale of military hand grenades (“hand grenades”). This also included exchange of
+competitively sensitive information. The infringement lasted from 7 November 2007
+to 23 November 2021 and covered the European Economic Area (“EEA”).
+(2) This Decision is addressed to the following legal entities:
+(a) SwissP Defence AG (formerly RUAG Ammotec AG), located in Thun,
+Switzerland, and RUAG International Holding AG, located in Bern,
+Switzerland, (together referred to as “RUAG”)
+(b) Diehl Defence GmbH & Co. KG (formerly Diehl BGT Defence GmbH &
+Co. KG), located in Überlingen, Germany, and Diehl Stiftung & Co.
+KG, located in Nürnberg, Germany, (together referred to as “Diehl”).
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+2.1. The product
+(3) The product concerned by the anticompetitive conduct are hand grenades.
+(4) Hand grenades can be ‘offensive’ and ‘defensive’, they have different explosive
+power and different splinter effects. Both offensive and defensive hand grenades for
+military purposes are covered by these proceedings.
+(5) Suppliers of hand grenades are usually selected on the basis of open tenders.
+Competent national authorities, such as the ministries of defence, the military or
+special forces or other state authorities typically invite suppliers (that can be both
+domestic and foreign suppliers) to participate in tenders for hand grenades. Such
+tenders take place only every few years. The specifications in these tenders often
+determine the type or specification of hand grenade the customers will procure for a
+longer period of time. Moreover, there are also instances when the national
+authorities address a direct request for an offer to a supplier of hand grenades under
+specific provisions of national public procurement rules.
+2.2. Undertakings subject to the present proceedings
+(6) The following undertakings comprising the legal entities mentioned below were
+involved in the relevant conduct:
+2.2.1. The undertaking RUAG
+(7) During the period of the infringement RUAG was active in different business
+segments including aerospace as well as defence and law enforcement. RUAG
+Ammotec AG focused on the area of defence and law enforcement and in this
+context, it developed, produced and supplied ammunition and hand grenades.
+RUAG’s total worldwide turnover in 2022 was EUR 941 409 000.
+(8) The relevant legal entities for the purpose of these proceedings are:
+
+4EN EN
+
+(a) SwissP Defence AG (formerly RUAG Ammotec AG),3
+(b) RUAG International Holding AG.
+2.2.2. The undertaking Diehl
+(9) Diehl is active in the following business segments: metal, controls for household
+appliances, aviation, metering and defence. Diehl Defence produces, among others,
+military equipment, weaponry and ammunition. Diehl’s total worldwide turnover in
+2022 was EUR 3 505 676 000.
+(10) The relevant legal entities for the purpose of these proceedings are:
+(a) Diehl Defence GmbH & Co. KG (formerly Diehl BGT Defence GmbH & Co.
+KG),
+(b) Diehl Stiftung & Co. KG.
+
+3. PROCEDURE
+(11) On 15 April 2021, RUAG applied for immunity from fines under points (14) and
+(15) of the Commission notice on immunity from fines and reduction of fines in
+cartel cases4 (“the Leniency Notice”). The application was followed by a number of
+submissions consisting of corporate statements and documentary evidence. On 12
+November 2021, the Commission granted RUAG conditional immunity from fines
+pursuant to point (18) of the Leniency Notice.
+(12) Between 23 November and 25 November 2021, the Commission carried out an
+unannounced inspection at the premises of Diehl.
+(13) On 24 February 2022, Diehl applied for immunity from fines under point (14) of the
+Leniency Notice or, in the alternative, for a reduction of fines under point (27) of the
+Leniency Notice.
+(14) On 18 January 2023, the Commission initiated proceedings pursuant to Article 11(6)
+of Regulation (EC) No 1/20035 against the addressees of this Decision (also referred
+to as “Parties” or individually “Party”) with a view to engage in settlement
+discussions with the Parties. After each Party had confirmed its willingness to engage
+in settlement discussions, the discussions started in February 2023.
+(15) Between February and May 2023, settlement meetings took place between the
+Commission and each Party. During those meetings, the Commission informed the
+Parties of the objections it envisaged raising against them and disclosed the main
+pieces of evidence in the file on which the Commission would rely to establish these
+objections. The Parties were given copies of the relevant pieces of evidence in the
+file and a list of all the documents in the file. They were also granted access to the
+corporate statements via eLeniency. The Commission also provided the Parties with
+an estimation of the range of fines likely to be imposed by the Commission.
+
+3 In July 2022, RUAG Ammotec AG was acquired by another company and was renamed SwissP
+Defence AG.
+4 Commission notice on immunity from fines and reduction of fines in cartel cases, OJ C 298, 8.12.2
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nes the percentage of the value of sales taken
+into account in setting the fine. In assessing the gravity of the infringement,
+the Commission will have regard to a number of factors, such as the nature of the
+infringement, the combined market share of all the undertakings concerned,
+the geographic scope of the infringement and/or whether or not the infringement has
+been implemented.41
+(87) In this case assessment, the Commission considers the facts described in this
+Decision, and in particular the fact that cartels are, by their very nature, among the
+most harmful restrictions of competition. Therefore, the proportion of the value of
+sales taken into account for such infringements will generally be set at the higher end
+of the scale of the value of sales.42
+(88) Given the specific circumstances of this case, taking into account the nature and the
+geographic scope of the infringement, the proportion of the value of sales to be taken
+into account should be 16%.
+
+39 Point 13 of the Guidelines on fines.
+40 Points 19-26 of the Guidelines on fines.
+41 Points 21 and 22 of the Guidelines on fines.
+42 Point 23 of the Guidelines on fines.
+
+16EN EN
+
+8.3.2.2. Duration
+(89) In assessing the fine to be imposed on each undertaking, the Commission also takes
+into consideration the respective duration of the infringement, as described in Section
+4.3. The increase for duration (duration multiplier) is determined based on each
+Party’s exact number of days of participation in the infringement.
+(90) The time period to be taken into account for the purpose of setting fines, for each
+Party to the infringement, and the multiplier corresponding to that period, is set out
+in Table 2.
+Table 2: Duration
+
+Undertaking Participation in the infringement Multipliers
+
+RUAG 7.11.2007 – 15.4.2021 (4 909 days) 13.43
+
+Diehl 7.11.2007 – 23.11.2021 (5 131 days) 14.04
+
+8.3.3. Determination of the additional amount
+(91) The infringement committed by the Parties relates to a cartel. Therefore, the
+Commission will include in the basic amount a sum of between 15% and 25% of the
+value of purchases to deter undertakings from even entering into such illegal
+practices, on the basis of the criteria listed with respect to the variable amount.43
+(92) For the purpose of determining the proportion of the value of sales to be taken into
+account for the infringement, the Commission considers the factors relating to the
+nature and the geographic scope of the infringement as set out in recitals (86) and
+(88). Therefore, the proportion of the value of sales to be taken into account for the
+purpose of setting the additional amount should be set at 16%.
+8.3.4. Calculations and conclusions on basic amounts
+(93) Based on the criteria explained in recitals (79) to (92), the basic amount of the fine
+for each Party is presented in Table 3.
+Table 3: Basic amounts of the fine
+
+Undertaking Basic amount (EUR)
+
+RUAG [...]
+
+Diehl [...]
+
+8.4. Adjustments to the basic amount of the fine
+8.4.1. Aggravating or mitigating circumstances
+(94) The Commission may consider aggravating circumstances that result in an increase
+of the basic amount. These circumstances are listed in a non-exhaustive way in point
+
+43 Point 25 of the Guidelines on fines.
+
+17EN EN
+
+28 of the Guidelines on fines. The Commission may also consider mitigating
+circumstances that result in a reduction of the basic amount. These circumstances are
+listed in a non-exhaustive way in point 29 of the Guidelines on fines.
+(95) In this case neither aggravating nor mitigating circumstances are applicable to any of
+the addressees of this Decision.
+8.4.2. Increase of the fine pursuant to point 37 of the Guidelines on fines
+(96) In this case, following the general methodology of the Guidelines on fines a
+sufficiently deterrent effect would not be achieved, as the resulting fine would be
+particularly low taking into account the high total turnover of the undertakings
+concerned. A sufficiently deterrent fine is not only necessary to sanction the
+undertakings concerned in this Decision (specific deterrence) but also to deter other
+undertakings from engaging in this type of infringement (general deterrence).
+(97) In order to take this particularity into account and to achieve sufficient deterrence, it
+is appropriate for the Commission to apply, under point 37 of the Guidelines on
+fines, an increase of the amount of the fine by a multiplying factor of 3.75 for both
+undertakings held liable for the infringement. This leads to a fine which is
+sufficiently deterrent and proportionate, considering both the economic strength of
+the parties and the specificities of the infringement as well as each of the Parties’ role
+in the infringement.
+(98) The resulting adjusted basic amounts are set out in Table 4.
+Table 4: Adjusted basic amounts
+
+Undertaking Adjusted basic amount (EUR)
+
+RUAG [...]
+
+Diehl [...]
+
+8.5. Application of the 10% turnover limit
+(99) The fine imposed on each undertaking participating in the infringement shall not
+exceed 10% of its total turnover relating to the business year preceding the date of
+the Commission decision.44
+(100) In this case, none of the adjusted basic amounts of the fines calculated exceeds 10%
+of the respective undertaking’s total turnover in 2022 (see recitals (7) and (9)).
+8.6. Application of the Leniency Notice
+8.6.1. Immunity from fines
+(101) On 12 November 2021, the Commission granted RUAG conditional immunity from
+fines under point (18) of the Leniency Notice (see recital (11)). RUAG’s cooperation
+fulfilled the requirements under the Leniency Notice. RUAG is, therefore, granted
+immunity from fines.
+
+44 Article 23(2) of Regulation (EC) No 1/2003.
+
+18EN EN
+
+8.6.2. Reduction of fines
+(102) Diehl applied for a reduction of fines based on the Leniency Notice on 24 February
+2022. Diehl was the first undertaking to provide the Commission with evidence of
+the infringement which represented significant added value with respect to the
+evidence already in the Commission’s possession at the time it was provided. Diehl
+meets the requirements of points (24) and (25) of the Leniency Notice.
+Consequently, a reduction of the fine of 50% is granted to Diehl.
+8.7. Application of the Settlement Notice
+(103) As foreseen in point 32 of the Settlement Notice, the reward for settlement results in
+a reduction of 10% of the amount of the fine to be imposed on a Party after the 10%
+turnover cap has been applied having regard to the Guidelines on fines. Pursuant to
+point 33 of the Settlement Notice, when settled cases involve leniency applicants, the
+reduction of the fine granted to them for settlement will be added to their leniency
+reward.
+(104) Consequently, the amount of the fine to be imposed on each Party is further reduced
+by 10%.
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision
+(105) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 5.
+
+Table 5: Fines
+
+Undertaking Fines (EUR)
+
+RUAG 0
+
+Diehl 1 200 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+infringement, consisting in the allocation of market shares, which also included exchange of
+competitively sensitive information, in relation to the sales of military hand grenades in the
+EEA:
+(a) SwissP Defence AG (formerly RUAG Ammotec AG) and RUAG International
+Holding AG, from 7 November 2007 until 15 April 2021
+(b) Diehl Defence GmbH & Co. KG (formerly Diehl BGT Defence GmbH & Co.
+KG) and Diehl Stiftung & Co. KG, from 7 November 2007 until 23 November
+2021
+
+19EN EN
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) SwissP Defence AG and RUAG International Holding AG, jointly and
+severally liable: EUR 0
+(b) Diehl Defence GmbH & Co. KG and Diehl Stiftung & Co. KG, jointly and
+severally liable: EUR 1 200 000
+
+The fines shall be credited, in euros, within a period of three months from the date of notification
+of this Decision, to the following bank account held in the name of the European Commission:
+
+BANQUE CENTRALE DU LUXEMBOURG
+2, boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40760
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, by either providing an acceptable bank guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046 of the European Parliament and of the Council.45
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred
+to in Article 1 insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+45 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the
+financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+20EN EN
+
+Article 4
+This Decision is addressed to:
+(a) SwissP Defence AG, Uttigenstraße 67, 3602 Thun, Switzerland
+(b) RUAG International Holding AG, Bahnhofplatz 10b, 3011 Bern, Switzerland
+(c) Diehl Defence GmbH & Co. KG, Alte Nußdorfer Straße 13, 88662
+Überlingen, Germany
+(d) Diehl Stiftung & Co. KG, Stephanstraße 49, 90478 Nürnberg, Germany
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 21.9.2023
+
+(Signed)
+For the Commission
+
+Didier REYNDERS
+Member of the Commission
+
+21EN EN

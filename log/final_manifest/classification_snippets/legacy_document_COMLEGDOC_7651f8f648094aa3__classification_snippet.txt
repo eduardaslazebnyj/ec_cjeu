@@ -1,0 +1,375 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+No L 309/24 Official Journal of the European Communities 2 . 12. 94
+
+COMMISSION DECISION
+
+of 11 November 1994
+
+relating to a proceeding pursuant to Article 85 of the EC Treaty
+
+(IV/34.410 — Olivetti-Digital)
+
+(Only the English and Italian texts are authentic)
+
+(Text with EEA relevance)
+
+(94/771/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, Digital, for its part, would continue to purchase
+from Olivetti personal computers (PCs) for its
+Having regard to the Treaty establishing the European European operations on the basis of a pre-existing
+Community, Purchase Agreement, which has not been notified to
+the Commission.
+Having regard to Council Regulation No 17 of
+6 February 1962, First Regulation implementing (2) This technological cooperation was accompanied by
+Articles 85 and 86 of the Treaty (*), as last amended by the acquisition by Digital of approximately 8% of
+the Act of Accession of Spain and Portugal, and in Olivetti's share capital (the . 'Share Purchase
+particular Articles 6 and 8 thereof, Agreement') and by the proportional representation
+of Digital on Olivetti's board of directors (the
+Having regard to the application for negative clearance or 'Shareholders' Agreement'). The two latter
+exemption, submitted on 30 July 1992 by Digital agreements were concluded between Digital and
+Equipment Corporation and Ing. C. Olivetti & C., SpA Olivetti's parent company, CIR. On 24 August
+concerning a series of agreements relating to a 1994, Digital announced that it had sold on the
+cooperation in the computer systems market, open market all shares it owned in the common
+stock of Olivetti. Therefore, the 'Share Purchase
+Having regard to the summary of the notification Agreement' and the 'Shareholders' Agreement' have
+published (2) in accordance with Article 19 (3 ) of come to an end. According to Digital, its sale of
+Regulation No 17, Olivetti shares will not have repercussions on the
+notified technological cooperation between the
+Having consulted the Advisory Committee on Restrictive parties. In the present decision, the Commission will
+Practices and Dominant Positions, assess the notified arrangements in their entirety.
+Obviously, however, the assessment of the 'ShareWhereas:
+Purchase Agreement' and the 'Shareholders'
+Agreement' refers only to the period for which those
+I. THE FACTS agreements were in force.
+
+A. Introduction B. The parties
+
+( 1 ) On 30 July 1992, Digital Equipment Corporation (3 ) Olivetti of Ivrea, Italy, is a worldwide group in the
+(hereinafter 'Digital') and Ing. C. Olivetti & C., SpA information technology field with a global offering
+(hereinafter 'Olivetti') notified to the Commission a and with focus on personal information devices,
+cooperation agreement in the field of computer notebook computers, laptop computers, personal
+systems, for the purpose of obtaining negative computers, Intel-based computing platforms,
+clearance or alternatively an exemption pursuant to entry-level RISC computers and special and
+Article 85 (3). Digital was to make available to general-purpose impact and non-impact printers.
+Olivetti its Alpha AXP technology based on its According to published data, in 1992, Olivetti was
+new RISC (reduced instruction set computer) the second-largest European supplier of computer
+microprocessor and Olivetti would commit itself to system products with a revenue of US$ 5 762
+the Alpha AXP technology for all its computer million, almost 1 400 million of which arose from
+platform offerings and related software except PCs .
+the line of products based on Intel-type
+microprocessors. Furthermore, Olivetti would (4) Digital of Maynard, Massachusetts, United States of
+purchase computer system products from Digital America, is a worldwide group which is principally
+including but not limited to Alpha AXP products. active in the field of design, manufacture, sale and
+servicing of networked computer systems, associated
+O OJ No 13, 21 . 2. 1962, p. 204/62. peripheral equipment and related network,
+(2) OJ No C 276, 14. 10. 1993, p. 14. communications and software products.
+
+2. 12. 94 Official Journal of the European Communities No L 309/25
+
+(5) CIR of Leinf (Turin), Italy, is an Italian industrial has been used practically only in workstations,
+holding company controlled by Cofide-Compagnia where its speed is highly beneficial. In desktop
+Finanziaria de Benedetti SpA and owning 44,3 % of computers, RISC is still at a disadvantage compared
+Olivetti as on 31 December 1991 . to CISC because most of the applications currently
+on the market work with CISC. However, RISC is
+expected to penetrate significantly the desktop
+C. The products and the market market shortly, due to the insurgence of more and
+(6) The products the subject of the agreements in this more RISC microprocessors and to the introduction
+case are Digital's Alpha AXP computer system of 'Windows NT', the new operating system of
+components, including microprocessors, boards and Microsoft Corporation which allows RISC
+systems, software and peripherals, and related architectures to run highly successful applications
+information and know-how. Alpha AXP is a new usable to date only by CISC-based
+generation of RISC architecture which has been microcomputers.
+designed, and will be used by the Parties, for
+manufacturing a full range of computer systems (10) The market for RISC technology appears to be
+from palmtops to mainframes. Alpha AXP highly dynamic. Most chip producers are developing
+architecture is planned to be a prominent standard RISC microprocessors: examples are MIPS, recently
+and a platform for the major current and future merged into Silicon Graphics Inc. (RX 00), Sun
+computer operating systems, particularly the Microsystems (Sparc) and Motorola (MC 88000).
+Microsoft New Technology (MsNT) and the Unix Furthermore, some major computer producers have
+OSF/I. To that end, Digital is, inter alia, actively entered into alliances for the development of
+pursuing a policy of licensing its technology to both RISC technologies: IBM, Apple and Motorola for
+chip and computer manufacturers. In particular, the development of Power PC architecture;
+Digital has granted a manufacturing licence for Hewlett-Packard, Hitachi, Samsung and Winbond
+Alpha AXP microprocessors to Mitsubishi Electric for the development of Hewlett-Packard Precision
+Corporation, Japan. Architecture.
+
+(7) Traditionally, microprocessors were manufactured According to the International Data Corporation of
+following a complex instruction set computer London, Sun has been by far the most successful
+(CISC) technology providing a large instruction set supplier of RISC-based computers (namely
+containing commands that perform many complex workstations) with a share of over 50% of the
+functions. Since the early 1980s, a new kind of market segment in the Community in 1991 ,
+microprocessor technology based on RISC followed by MIPS and IBM. According to
+microprocessors has been , developed. The Personal-Computer-Markets of 3 November 1993,
+philosophy of RISC technologies is to provide a worldwide sales of RISC-based workstations grew
+limited instruction set containing commands that by 44,6% to reach US$ 17,5 billion in 1992 from
+perform only simple operations but much faster US$ 12,1 billion in 1991 . Hewlett-Packard
+than in the CISC technology. This facilitates the maintained its lead in this market, but its share
+addition to the computer system of certain fell by 3,9 percentage points to 30,8%, followed
+performance-enhancing feature, and may also result by Sun und MIPS with 25,1% and 20,0%
+in reduced manufacturing cost due to the respectively.
+microprocessors' reduced volumes, compared with
+CISC architecture, for any given level of
+performance. The optimization of performance The geographic market
+requires, however, that as well as the RISC
+microprocessor being installed in the computer ( 11 ) From an economic point of view, given the
+system, specific system * software (operating system considerable volumes of worldwide trade, the small
+and compiler) be created to make the best use of importance of transport costs and the absence of
+the potential capabilities of the particular any significant trade barriers, the relevant
+microprocessor concerned. geographic market for this case may be considered
+to be the world as a whole.
+The product markets
+
+(8) In the light of the foregoing, the Commission D. The notified Agreements
+considers that the relevant product markets in this
+case are both the market for RISC technology 'Strategic Alliance Agreement'
+including microprocessors, other hardware, software
+and know-how (the products directly involved in (12) This agreement contains the following provisions:
+the notified operation) and the markets for the
+various computer system end-products that (a) Commitment of Olivetti to Digital 's
+incorporate RISC technology (the products Alpha AXP technology
+indirectly involved in the operation).
+Digital will provide Olivetti with hardware
+(9) As far as RISC-technology based computer systems parts based on Alpha AXP technology as well
+are concerned, it is worth noting that, to date, RISC as software specifically designed to be executed
+
+No L 309/26 Official Journal of the European Communities 2 . 12 . 94
+
+on Alpha AXP processors, and will disclose to their architectures more compatible and to
+Olivetti the future evolution of Alpha AXP develop and promote operating systems and
+architecture and related technology. software.
+
+To the extent technically feasible, Olivetti will The Parties intend to conduct joint
+utilize the Alpha AXP technology for all of its Intel-product planning reviews aimed at
+computer platform offerings and related exploring the feasibility of a cooperative
+software, except the line of products based purchasing arrangement for Intel-based PCs
+upon Intel-type microprocessors. Olivetti will and subassemblies on a worldwide basis.
+shift all of its offerings other than Intel
+The Parties will discuss a possible acquisition computers to Alpha AXP architecture, and will
+and promotion of ISV (independent software adopt Digital's OSF and Microsoft's NT as
+vendors) applications, to run on Alpha AXP. primary operating systems for its Alpha AXP
+products. (d ) Services
+According to Article 2 (6) of the Agreement, The Parties will explore areas to optimize their
+Olivetti and Digital base their strategic service organizations. In particular, it is agreed
+cooperation on the assumption that, for each that Digital will provide its service expertise to
+product segment and during each six-month Olivetti, to enable Olivetti to install and
+period, Digital's Alpha AXP products will be at maintain the Alpha AXP products, and Olivetti
+the least in the same range of price and will continue to assist Digital with regard to the
+performance as the RISC technologies provided PCs purchased by Digital.
+by other leading RISC vendors.
+(e) Committees
+(b) Purchasing commitments
+The Parties have formed the following four
+Olivetti commits itself to making purchases of committees aimed at facilitating the
+Alpha AXP products from Digital according implementation of the Agreement: an Alliance
+to two alternative formulations (whichever Committee for the general issues of the
+formulation results in the greater purchases cooperation which will coordinate the activities
+being applied). They are: of the other three committees, a product
+committee for personal computers, a product
+(i) as a proportion of Olivetti's requirements, committee for Alpha AXP products and a
+Olivetti will, from 1 April 1993 onward service committee for the service area.
+and throughout the term of the Agreement,
+make at least 50% of its purchases of
+( 13 ) The 'Strategic Alliance Agreement' will last for five non-Intel platforms for resale from Digital
+years and be automatically renewed for a further (that is, the Volume of this commitment is
+five years unless either party notifies the other to uninfluenced by the volumes of Olivetti's
+the contrary. purchases of Intel-type platforms, of
+purchases of other platforms for its own
+'Share Purchase Agreement and Shareholders' use, or of its own manufacture of any
+Agreement' products); and
+
+(ii) in terms of value, purchases of Alpha AXP (14) Under the 'Share Purchase Agreement', Digital
+products from Digital must amount to at acquired approximately 8 % of the share capital of
+least: Olivetti. The purchase and sale of the shares took
+place in two equal lots. The acquisition of the
+— US $ 80 million by 30 June 1994, second lot was planned for mid-1994 but was
+. accelerated and took place in mid-1993 . In August — a further US$ 80 million by
+1994 Digital sold all shares it owned of the 31 October 1995, and
+common stock of Olivetti.
+— a yet further US$ 80 million by 31 July
+1996. ( 15 ) Under the 'Shareholders' Agreement', for so long as
+Digital owned at least 25 million shares of Olivetti's
+In addition, Olivetti commits itself to purchase common stock, Digital had a proportionate
+a further US$ 70 million in unspecified representation on Olivetti's board of directors (at
+non-Alpha AXP products by 30 June 1994. least one member).
+In none of the above commitments are
+products, quantities or prices specified. ( 16) Digital was free to exercise the voting rights
+pertaining to its Olivetti shares. It could not,
+however, purchase any interest in Olivetti which (c) Cooperation and product technology
+planning would have resulted in a holding of more than
+10% . Digital could not deposit its shares in any
+The Parties will jointly evaluate the possibility voting trust or enter into any other arrangements
+of entering into further cooperations to make with third parties with respect to the holding of its
+
+2. 12. 94 Official Journal of the European Communities No L 309/27
+
+Olivetti shares or the exercise of its voting rights. etc. required for the development of a full-line
+CIR had a right of first refusal in the event that offering of RISC computers, it is very likely
+Digital elected to dispose of Olivetti shares. CIR did that Olivetti, even without a contractual
+not exercise this right. obligation, would initially choose only one
+RISC technology. In fact, Olivetti would never
+(17) The 'Shareholders' Agreement' had a maximum have sufficient economic resources to offer a
+duration of five years. second line of RISC products. For the same
+reason, Olivetti, once the choice has been made,
+would not shift quickly to another RISC
+E. Observations from interested third parties technology (that would mean changing its
+offerings). The five-year commitment is(18 ) The Commission has received no observations from
+consistent with the time needed to develop new interested third parties following the publication of
+products and with the amount of investment the notice pursuant to Article 19 (3 ) of Regulation
+No 17. involved. After five years Olivetti will be free to
+renew its commitment, to negotiate a shorter
+term or to move to another technology.
+II. LEGAL ASSESSMENT
+
+Thus, it can be concluded that th
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+at the setting-up and operation of the board was informed of the present agreements
+committees fall outside the scope of Article 85 ( 1 ). with Digital only after they had been
+In fact, the committees seem to be neither structures concluded. There are no operating issues that
+likely to be used for commercial cooperation have to be approved by the whole board of
+between the Parties, nor vehicles for the Olivetti.
+coordination of competitive behaviour. They are all
+necessary for the successful implementation of the As a consequence, the Commission is of the
+cooperation and are basically intended to assist opinion that, in so far as the functions of
+Olivetti to use the Alpha AXP technology and Olivetti's board of directors were confined to
+products and to accomplish the technical those described above, it is unlikely that
+cooperation. Digital's representation on Olivetti's board of
+directory would have led to a coordination of
+competitive behaviour or to an exchange of
+competitive information.
+'The Share Purchase Agreement and the
+Shareholders' Agreement' (27) In conclusion, the Commission takes the view that,
+as long as the functions and tasks of Olivetti's
+(26) Digital acquired approximately 8 % of Olivetti's hoard of directors were limited to those described
+shares and, as long as it owned at least 25 million by the Parties, the arrangements embodied in the
+shares of Olivetti's common stock, it was 'Share Purchase Agreement' and the 'Shareholders'
+represented on Olivetti's board of directors. Agreement' did not have as their object or effect
+the prevention, restriction or distortion of
+competition in the meaning of Article 85 ( 1 ). In this context, the Commission notes that for as
+long as these agreements were in force:
+
+(a) Digital was not allowed to purchase any B. Article 85 (3 )
+interest in Olivetti which would have resulted
+in a holding of more than 10% . Digital was (28 ) The overall impact of the notified arrangement on
+prohibited from entering into voting the structure of competition in the Community is
+arrangements with third parties in respect of its positive. Its essential result will be the appearance of
+Olivetti shares. There were no veto rights that Olivetti as an additional competitor on the market
+could have given Digital, immediately or at a for RISC computers, an appearance which would be
+later stage, a controlling power over Olivetti. In impossible without some arrangement for acquiring
+fact, Olivetti continued to be under the sole that type of technology (see paragraph 20). This
+control of CIR which still held 31,07% . CIR's benefit is not countered by any opportunity to
+right of first refusal with respect to any coordinate the competitive behaviour of the Parties
+proposed sale by Digital of its Olivetti shares on the market (see paragraphs 23, 24, 25 and 27).
+shows CIR's intention of keeping as much Not only is there no provision for Digital to
+control as possible of the company. influence, or to acquire confidential knowledge of,
+Olivetti's commercial decisions: there is also no
+The Commission concludes that Digital's limitation of Digital's right to exploit the licensed
+minority share acquisition of Olivetti would not technology in the Community, whether directly,
+have led to a change in the control of Olivetti. through its own substantial business there, or
+by licensing it to other manufacturers (see
+(b) The Parties claim and show evidence that the paragraph 6).
+board of directors of Olivetti has delegated all
+of its operative functions to Olivetti's (29) Within the context of that overall positive impact
+Chairman and General Manager. on competition, the Commission is nevertheless of
+the opinion that the purchasing commitment of
+The board meets only four times per year, to Alpha AXP-technology-based products contained in
+review financial matters (approval of the the 'Strategic Alliance Agreement' is caught by
+balance sheet, of emoluments and of the Article 85 ( 1 ). However, this provision fulfils the
+half-yearly financial statement to be provided four conditions allowing the Commission to grant
+to the Italian securities authority) or to discuss an individual exemption pursuant to Article 85
+general issues. With the exception of the (3 ).
+Chairman, the Vice-Chairman and the
+Managing Director of Olivetti, none of the
+board members has an operational function at
+Olivetti. Improvement of production of goods or of
+promotion of technical or economic progress
+According to the Parties, Olivetti's board is not
+involved in decisions on the development of (30) The purchasing commitment under examination will
+new products or their pricing. In support of encourage Digital to commit itself to large-scale
+
+No L 309/30 Official Journal of the European Communities 2. 12. 94
+
+production and contribute to a more rapid undertakings or groups of undertakings (see
+dissemination of Digital's advanced Alpha AXP paragraphs 7 to 10). On the contrary, in view of the
+technology. This increased availability on the current leading position on the European market of
+market of computer systems built on Alpha AXP computer system products based on the Sparc
+technology will favour the spread of software and Hewlett-Packard Precision Architecture
+programs especially designed to work with RISC technologies, the commitment will stimulate
+CPUs, thus promoting technical progress. competition through the dissemination of a new
+generation of products based on a new technology
+in this area which will compete in terms of price
+and quality with those already on the market. The benefits for consumers
+
+Furthermore, considering the open nature of the(31 ) European consumers of computer system products
+Alpha AXP architecture and its conformity to will receive a fair share of the benefits resulting
+accepted industrial standards, its dissemination will from the commitment under examination inasmuch
+contribute to the development of information as innovative products of high quality will, thanks
+technology production across Europe (namely to that commitment, be available in a greater
+software products), with a consequent increase in quantity and at a lower price on the European
+competition in all information technology market market. As with all microprocessors, production
+segments. costs of Alpha AXP are higly dependent on
+volumes. Thanks to the purchasing commitment,
+Digital will be able to produce more Alpha AXP C. Duration of the exemption
+products at a lower cost. Given that competition on
+the market for RISC-based products is expected (34 ) Pursuant to Article 8 of Regulation No 17, a
+to grow considerably in the near future as a decision in application of Article 85 (3 ) of the
+consequence of the entry into this market of new Treaty needs to be issued for a specified period.
+products stemming from alliances which are taking Pursuant to Article 6 of that Regulation, the date
+place in this market (see paragraph 10), the Parties from which such a decision takes effect cannot be
+will no doubt pass on in a reasonable measure to earlier than the date of notification. In accordance
+consumers the benefits of this commitment, through with those Articles, in the present case, the decision,
+competitive prices. in so far as it grants exemption, should take effect
+from the date of notification to the end of the
+contemplated period of the purchasing obligation,
+Indispensability of the restrictions that is from 30 July 1992 to 25 June 2002.
+
+(32) The larger-scale production by Digital of the new
+products, and their enhanced and rapid penetration HAS ADOPTED THIS DECISION:
+of the market, which are the main conditions for
+the attainment of those benefits for consumers,
+can only be ensured by an adequate purchasing Article 1
+commitment to support Digital's cash-flow over the
+critical period of start-up of production of this new On the basis of the information at its disposal, the
+generation of products. Therefore, it may be Commission has no grounds for action pursuant to
+concluded that the Alpha AXP-related purchasing Article 85 ( 1 ) of the EC Treaty in respect of the following
+arrangement does not restrict competition more notified agreements entered into by Olivetti and Digital:
+than is indispensable to the attainment of the — the 'Share Purchase Agreement' signed on 25 June
+advantages mentioned above. 1992,
+
+— the 'Shareholders' Agreement' signed on 26 August
+No substantial elimination of competition 1992, and
+
+— the 'Strategic Alliance Agreement', signed on 25 June
+(33 ) First, although the commitment reduces the scope
+1992, with the exception of the purchasing for Alpha AXP licensees to supply the relevant
+commitment concerning products based on Alpha products to Olivetti, this does not amount to a
+AXP technology. substantial elimination of competition on the
+market for those products: Olivetti is only one
+among many manufacturers that might be willing to Article 2
+acquire Alpha AXP products to satisfy their need to
+offer RISC-based computers. In accordance with Article 85 (3 ) of the EC Treaty, the
+provisions of Article 85 ( 1 ) are hereby declared
+Secondly, the commitment will not lead to an inapplicable for the period from 30 July 1992 to 25 June
+elimination of competition in the segment for 2002 to the purchasing commitment concerning products
+RISC-based computers. There are several other based on Alpha AXP technology contained in the
+RISC computers available on the market, based on 'Strategic Alliance Agreement' entered into by Olivetti
+different technologies developed by different and Digital on 25 June 1992.
+
+2. 12. 94 Official Journal of the European Communities No L 309/31
+
+Article 3 3. CIR,
+Strada Volpiano, 53,
+This Decision is addressed to: 1-10040 Leiní (To).
+
+1 . Ing. C. Olivetti & C., SpA,
+Via Jervis, 77,
+1-10015 Ivrea (To); Done at Brussels, 11 November 1994.
+
+2. Digital Equipment Corporation, For the Commission
+146, Main Street,
+Karel VAN MIERT
+Maynard, Massachusetts 01754,
+United States of America; Member of the Commission

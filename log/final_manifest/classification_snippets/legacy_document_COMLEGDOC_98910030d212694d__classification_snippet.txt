@@ -1,0 +1,410 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+19 . 9 . 96 üb | Amtsblatt der Europäischen Gemeinschaften Nr . L 239/57
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 17. Juli 1996
+
+in einem Verfahren nach Artikel 85 des EG-Vertrages und Artikel 53 des
+EWR-Abkommens
+
+(Sache Nr. IV/35.617 — PHOENIX/GlobalOne )
+
+(Nur der deutsche, englische und französische Text sind verbindlich )
+
+(Text von Bedeutung für den EWR )
+
+( 96/547/EG )
+
+DIE KOMMISSION DER EUROPAISCHEN eines Gemeinschaftsunternehmens ist . Die am
+GEMEINSCHAFTEN — 16 . Dezember 1994 angemeldeten Atlas-Vereinba
+rungen werden in einer getrennten Entscheidung in
+gestützt auf den Vertrag zur Gründung der Europäischen der Sache IV/35.337 (Atlas-Entscheidung ) ( 3 ) von
+Gemeinschaft, Artikel 85 Absatz 1 EG-Vertrag und Artikel 53
+Absatz 1 des EWR-Abkommens freigestellt.
+gestützt auf das Abkommen über den Europäischen Wirt
+schaftsraum,
+(2 ) Die PHOENIX-Vereinbarungen bestehen im we
+sentlichen aus zwei Vorhaben, an denen zwei euro
+gestützt auf die Verordnung Nr. 17 des Rates vom
+päische Fernmeldeorganisationen und ein amerika
+6 . Februar 1962 : Erste Durchführungsverordnung zu den nischer Anbieter von Telekommunikationsdiensten
+Artikeln 85 und 86 des Vertrages ( J ), zuletzt geändert
+beteiligt sind :durch die Akte über den Beitritt Österreichs, Finnlands
+und Schwedens, insbesondere auf die Artikel 2, 6
+und 8 , i ) FT und DT erwarben eine Beteiligung von
+jeweils rund 10% am Eigenkapital von Sprint
+im Wert von 3,7 Milliarden US-Dollar. Sieim Hinblick auf den am 29. Juni 1995 gemäß Artikel 2
+waren im Sprint-Vorstand anteilig vertreten undund 4 der Verordnung Nr. 17 gestellten Antrag auf
+erhielten als Minderheitsaktionäre Investoren
+Erteilung eines Negativattests bzw. einer Freistellung,
+schutz . Außerdem wurden in die Investitions
+vereinbarung Bestimmungen aufgenommen, die
+nach Veröffentlichung des wesentlichen Inhalts des
+DT und/oder FT daran hindern sollten, entwe
+Antrags bzw. der Anmeldung gemäß Artikel 19 Absatz 3
+der getrennt oder gemeinsam Kontrolle oder
+der Verordnung Nr. 17 und Artikel 3 des Protokolls 21
+Einfluß über Sprint auszuüben;
+des EWR-Abkommens ( 2),
+
+ii ) Atlas und Sprint gründeten das Gemeinschaftsnach Anhörung des Beratenden Ausschusses für Kartell
+unternehmen PHOENIX, das Unternehmen,und Monopolfragen,
+Betreibern und Verbrauchern nicht vorbehal
+tene weltweite und andere Telekommunika
+in Erwägung nachstehender Gründe: tionsdienste anbietet. Das Gemeinschaftsunter
+nehmen besteht aus verschiedenen Gruppen von
+Betriebseinheiten (sog. „PHOENIX-Einheiten"),
+I. SACHVERHALT die einem „GU-Vorstand" unterstehen. Eine
+dieser Gruppen bietet PHOENIX-Dienste welt
+weit mit Ausnahme Europas und der Vereinig A. EINLEITUNG
+ten Staaten an (die Einheiten „Übrige Welt"),
+und eine zweite Gruppe bietet PHOENIX-Dien
+( 1 ) Das Vorhaben PHOENIX wurde der Kommission ste in Europa mit Ausnahme von Frankreich
+am 29 . Juni 1995 gemeldet. Die Anmelder kündig und Deutschland an (die Einheiten „Übriges
+ten bei Abschluß der Vereinbarungen am 5 . März Europa"). Diese beiden Gruppen leiten außer
+1996 einen neuen Namen an, nämlich GlobalOne . dem das Global Backbone-Netz von PHOE
+Dieses Vorhaben ist Bestandteil eines anderen Vor
+NIX, bis sich die Parteien über dessen Leitung
+habens zur Gründung des Gemeinschaftsunterneh durch eine bereits gegründete dritte Einheit (die
+mens Atlas, das zu 50% France Telecom (FT) und Einheit „Global Backbone-Netz") (GBN ) geei
+zu 50% der Deutschen Telekom AG (DT ) gehört nigt haben . Der GU-Vorstand wird ausschließ
+und eine Muttergesellschaft der aufgrund der lich über politische Fragen entscheiden und sich
+PHOENIX-Vereinbarungen gegründeten Einheiten nicht in das Management der aufgrund der
+
+(') ABl. Nr. 13 vom 21 . 2 . 1962, S. 204/62 .
+(2 ) ABl. Nr. C 337 vom 15 . 12 . 1995 , S. 13 . ( 3 ) Siehe Seite 23 dieses Amtsblatts.
+
+Nr . L 239/58 IDE Amtsblatt der Europäischen Gemeinschaften 19 . 9 . 96
+
+PHOENIX-Vereinbarungen gegründeten einzel — Bereitstellung von Übertragungskapazität für
+nen Betriebseinheiten einmischen . Sprech- und Datendienste : Bandbreitenverwal
+tung und VSAT;
+
+B. DIE PARTEIEN — kundenspezifische Netzlösungen : Bereitstellung
+von Systemen und Ausrüstungen, maßgeschnei
+( 3 ) Deutsche Telekom AG (DT) und France Telecom derte Dienste und Verwaltung von Diensten
+(FT) sind in Deutschland und Frankreich die öffent sowie Auslagerung;
+lichen Fernmeldeorganisationen . Einzelheiten zu
+beiden Unternehmen sind in der Atlas-Entscheidung — softwaregestützte erweiterte Dienste : Nachrich
+veröffentlicht.
+tenübermittlung einschließlich Zugang zu Telex,
+Ortsbereichsnetzen (LAN), elektronischem Do
+(4 ) Sprint Corporation (Sprint) ist eine amerikanische kumentenaustausch (EDI ), Video- und Audio
+Holdinggesellschaft, deren Unternehmen vielfältige konferenzdiensten .
+Telekommunikationsdienste einschließlich weltwei
+ter Sprech-, Daten- und Videokonferenzdienste und
+( 7 ) PHOENIX besorgt den einfachen Wiederverkauf damit verbundener Erzeugnisse anbieten . Die wich
+von Sprechdiensten (ISR ) unter Sprint-Lizenzen im tigsten Tochtergesellschaften von Sprint erbringen
+Vereinigten Königreich und unter FT-Lizenzen in Ortsvermittlungsdienste in den Vereinigten Staaten,
+Zelltelefondienste sowie inländische und internatio Schweden. Die vorliegende Entscheidung betrifft
+nale Telekommunikationsdienste . Andere Tochter lediglich das angemeldete Produkt- und Geschäfts
+angebot von PHOENIX. Wesentliche diesbezügliche gesellschaften von Sprint sind im Großhandelsver
+Veränderungen, insbesondere (i ) Bereitstellung von trieb von Telekommunikationserzeugnissen und in
+Breitbandübertragungskapazität an PHOENIX der Veröffentlichung und im Vertrieb von Teilneh
+(z. B. asynchrone Übertragung: ATM-Netze) in mer- und Branchenverzeichnissen tätig. Der welt
+Frankreich und Deutschland und (ii ) Erbringung weite Jahresumsatz von Sprint betrug 1994 10,9
+öffentlicher Basistelekommunikationsdienste (z. B. Milliarden ECU; nach dem Umsatz steht Sprint
+weltweit an elfter Stelle der Fernmelde-Netzbetrei Sprachtelefondienste ( 4)) durch PHOENIX, müssen
+ber. Gegenstand einer neuen Anmeldung sein.
+
+C. DER RELEVANTE MARKT Der Markt der Dienste für Reisende
+
+1 . Die Gründung der PHOENIX-Einbeiten ( 8 ) Der Markt der Telekommunikationsdienste für Rei
+sende befriedigt die Nachfrage von Personen, die
+( 5 ) Die PHOENIX-Einheiten sind auf folgenden sachli sich entfernt von ihrem üblichen Standort, sei es
+chen und räumlichen Märkten tätig: ( i ) den Märk von zu Hause oder vom Arbeitsplatz, aufhalten.
+ten der nicht vorbehaltenen Telekommunikations Zum wichtigsten Marktangebot zählen die Dienste
+dienste an Unternehmen sowohl weltweit als auch der PHOENIX-Einheiten, nämlich ( i ) Rufkarten
+regional, (ii ) dem Markt der Dienste für Reisende dienste (bezahlte Karten mit und ohne Code und
+und (iii ) dem Markt der Übertragungsdienste. unbezahlte Karten), einschließlich derartiger Dienste
+im Zusammenhang mit Kreditkarten und anderen
+Marken-Dienstleistungskarten ( „Affinitätskarten" ),
+( 1 ) Die Produktmärkte
+(ii ) besondere Sprechdienste (z. B. codegestützte und
+andere Zugangsdienste ) und (iii ) ausgewählte
+Die Märkte der nicht vorbehaltenen Telekommuni Daten- und softwaregestützte erweiterte (Software
+kationsdienste an Unternehmen Übermittlungssysteme) Dienste .
+
+( 6 ) Die PHOENIX-Einheiten visieren dieselben Märkte
+( 9 ) Zu den Abnehmern dieser Dienste zählen sowohl
+an, nämlich den Markt für orientierte Pakete von
+Geschäfts- als auch sonstige Reisende. Im Kartenge Telekommunikationsdiensten an Unternehmen und
+schäft von PHOENIX sind die Geschäftsreisenden
+den Markt für paketvermittelte Datenübermitt
+die bei weitem größte Abnehmergruppe. Sie sind in
+lungsdienste (sog. „nicht vorbehaltene unterneh
+der Regel intensive Kartenbenutzer, da sie auf diese mensorientierte Telekommunikationsdienste"), die
+Weise in Hotels keine Telefonzuschläge zu bezahlen
+in der Atlas-Entscheidung beschrieben sind. PHOE brauchen .
+NIX bietet aufgrund der Vereinbarung über das
+Gemeinschaftsunternehmen die folgenden Dienste
+an : Der Markt der Übertragungsdienste
+— Sprechdienste für Unternehmen: weltweite virtu
+elle Privatnetz-(VPN)-Dienste, internationale ge ( 10 ) Dieser Markt umfaßt die Vermietung von Übertra
+bührenfreie ausgewählte Kartendienste und ein gungskapazität und die Erbringung damit verbun
+fache Wiederverkaufsdienste (ISR ) sowie digitale
+Vermittlungsdienste; ( 4 ) Siehe Definition in Artikel 1 , siebter Gedankenstrich der
+Richtlinie (90/388/EWG ) der Kommission vom 28 . Juni 1990
+— Datenübertragungsdienste u . a . unter Verwen über den Wettbewerb auf dem Markt für Telekommunika
+dung von X.25, Frame Relay und IP; tionsdienste, ABl . Nr . L 192 vom 24. 7. 1990, S. 10 .
+
+19 . 9 . 96 DE Amtsblatt der Europäischen Gemeinschaften Nr . L 239/59
+
+dener Leistungen an dritte Telekommunikations tionalen Kundenverkehr nicht in die Abhängigkeit
+Netzbetreiber. Im Zuge der Liberalisierung und einer lokalen Fernmeldeorganisation geraten.
+Globalisierung der Telekommunikationsmärkte ist
+die Nachfrage nach leistungsfähigen Übertragungs
+kapazitäten von hoher Qualität bei den etablierten (2 ) Die räumlichen Märkte
+und den neuen Netzbetreibern gestiegen . Das her
+kömmliche Muster getrennter Vereinbarungen mit ( 12 ) In Übereinstimmung mit den Feststellungen der
+einzelnen Netzbetreibern wird von den Unterneh Kommission in der Entscheidung 94/579/EG (BT
+men mit globalen Netzinfrastrukturen, die eine MCI)(5 ) ist die räumliche Ausdehnung bestimmter
+Palette von Dienstleistungen anbieten, zunehmend von den PHOENIX-Einheiten bedienter Märkte
+in Frage gestellt. Zu diesen Dienstleistungen gehö und der Markt, der bei den Investitionen von DT
+ren vor allem : und FT in Sprint zu berücksichtigen ist, der interna
+tionale und sogar der weltweite Markt. Obwohl die
+a ) die Transitvermittlung, d . h. eine Vermittlung nationalen Grenzen bei vielen Diensten fortbeste
+über bilaterale Einrichtungen zwischen drei hen, werden strategische Allianzen wie PHOENIX
+Betreibern, von denen zwei — der Ausgangs nicht nur eingegangen, um einen nicht durch natio
+und der Abschlußbetreiber — keine bilateralen nale Grenzen behinderten Markt vorwegzunehmen,
+Einrichtungen untereinander, sondern nur mit sondern auch mit der ausdrücklichen Absicht,
+dem dritten, dem sogenannten Transitbetreiber, großen weltweiten Telekommunikationsbenutzern
+benötigen; überall nahtlose Gesamtverbindungen anzubieten .
+Hierfür müssen die Schwierigkeiten überwunden
+b) die Bereitstellung von Übertragungskapazität werden, die sich aus der gegenwärtig aufgrund der
+durch die Vermietung von Leitungen für die nationalen Grenzen zersplitterten Marktstruktur
+Übermittlung durch das Netz des Transitbetrei ergeben . Das Dienstleistungsangebot der PHOE
+bers; zu den für diese Zwecke benutzten Miet NIX-Einheiten betrifft allerdings verschiedene
+leitungen zählen diskrete Sprachschaltungen räumliche Märkte.
+oder eine digitale Schaltung mit hoher Band
+breite, die sowohl für Sprech- als auch für Die Märkte der nicht vorbehaltenen unternehmens
+Datendienste verwendet werden kann; orientierten Telekommunikationsdienste an Unter
+nehmen
+c ) die Fernmelde-Kommunikationszentren, die da
+durch entstehen, daß der Betreiber sämtliche ( 13 ) Wie in der Atlas-Entscheidung dargelegt wird,
+bzw . einen Teil der internationalen Anschlüsse erstreckt sich die Nachfrage der großen Benutzer
+besorgt; hieran sind insbesondere neue Betreiber nach kundenspezifischen Paketen von Telekommu
+interessiert, die mit dem Anbieter der betreffen nikationsdiensten an Unternehmen auf mindestens
+den Dienstleistung über bilaterale Einrichtungen drei unterschiedliche räumliche Märkte, nämlich
+vernetzt sind und deren internationaler Verkehr einen weltweiten, einen grenzüberschreitenden re
+mit anderem Verkehr auf dem Gesamtnetz des gionalen und einen nationalen Markt . PHOENIX
+Anbieters abgewickelt wird und kann seine Dienste weltweit anbieten, da sowohl
+DT, FT und Sprint als auch die Einheiten „Übriges
+d) Dienste von Wiederverkäufern für Dienstlei Europa" und „Übrige Welt" durch das Global
+stungserbringer ohne eigene internationale Fern Backbone-Netz von PHOENIX vernetzt sind . Auf
+meldeeinrichtungen. dem weltweiten Markt der kundenspezifischen
+Pakete von Telekommunikationsdiensten an Unter
+nehmen entsteht somit durch PHOENIX Wettbe
+Mit der Liberalisierung der internationalen Tele
+werb, z. B. gegenüber dem BT- und MCI-Gemein kommunikationsmärkte wächst die Nachfrage nach schaftsunternehmen Concert. In der Gemeinschaft
+Übertragungsdiensten vor allem von alternativen
+werden die Einheiten „Übriges Europa" mit DT, FT Anbietern, die aus Gründen der technischen Abhän
+und Atlas zusammenarbeiten, um den Unternehmen
+gigkeit und der Vertraulichkeit der Kundeninforma
+auf der grenzüberschreitenden regionalen Ebene tionen Bedenken haben, den örtlichen Fernmeldeor
+maßgeschneiderte Telekommunikationspakete anzu ganisationen ihren internationalen Verkehr anzuver bieten . Diese Dienste werden weltweit „vernetzbar"
+trauen .
+sein und können somit auf Kundenwunsch über die
+Gemeinschaft hinaus und letztlich weltweit vermit
+( 11 ) Zu den Abnehmern von Übertragungsdiensten zäh telt werden.
+len sowohl die etablierten als auch die neuen Betrei
+ber, die beide anspruchsvoll sind. Zu den neuen ( 14 ) Paketvermittelte Datenübermittlungsdienste gehören
+Betreibern gehören solche mit Fernmeldeeinrichtun in den einzelnen vorerwähnten räumlichen Märkten
+gen, die Telekommunikationsdienste über alterna zur Angebotspalette von PHOENIX. Ob diese
+tive Infrastrukturen oder Fernsehkabelnetze anbie Dienste auf nationaler Ebene erbracht werden, ent
+ten und eine größere Effizienz bei der Übertragung scheidet jedoch die regionale Betriebseinheit von
+des internationalen Kundenverkehrs anstreben,
+während Betreiber ohne Einrichtungen und Dienst ( 5 ) Entscheidung der Kommission vom 27 . Juli 1994 in der
+leistungserbringer dadurch ihren Wettbewerbsvor Sache Nr. IV/34.857 — BT-MCI, ABl . Nr. L 223 vom 27 . 8 .
+teil aufrechterhalten wollen, daß sie beim interna 1994, S. 36 .
+
+Nr. L 239/60 L^EJ Amtsblatt der Europäischen Gemeinschaften 19 . 9 . 96
+
+PHOENIX. Deshalb bieten die PHOENIX-Einhei Betreiber eine wirksame Möglichkeit, multinatio
+ten „Übriges Europa" europaweite paketvermittelte nale Gesellschaften, die größte Kundenzielgruppe
+Datenübermittlungsdienste zunächst im Rahmen für weltweite nicht vorbehaltene unternehmens
+des Netzes an, das sich aus der Fusion der beste orientierte Telekommunikationsdienste, zu belie
+henden Transpac- und Sprint-Netze ergibt. Von der fern.
+Koordinierung zwischen Atlas und den für den
+EWR zuständigen PHOENIX-Einheiten „Übriges
+Europa" wird abhängen, in welchem Maße diese D. DIE MARKTANTEILE VON PHOENIX
+Einheiten derartige Dienste auf den nationalen
+Märkten innerhalb des EWR anbieten werden .
+Die Märkte für kundenspezifische Pakete von Tele
+kommunikationsdiensten an Unternehmen
+Der Markt der Dienste für Reisende
+( 18 ) Der Weltmarkt
+( 15 ) Im Zuge der weltweiten wirtschaftlichen Verflech
+tung entwickelt sich ein weltweiter Markt für der Nach 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+b der PSTN/ISDN
+1 . DT und FT bevorzugen : Netze freizugeben; Wettbewerbern, die mit
+dem deutschen oder dem französischen PSTN/ i ) weder Sprint gegenüber anderen US-Korre
+ISDN-Netz querverbunden sind, ist der Zu spondenten noch
+gang zu der für die Aufrechterhaltung der
+technischen Merkmale der Sprachdienste er ii ) sich selber gegenüben anderen deutschen oder
+forderlichen Software und der Schnittstellenin französischen Korrespondenten, sobald die
+formation zu gewähren. Märkte für Telekommunikationsdienste völlig
+liberalisiert sind .
+ii ) geschäftliche Informationen bekanntgeben, die
+einen spürbaren Wettbewerbsvorteil verleihen 2 . Sobald die Märkte für Telekommunikationsdien
+würden und für Diensteanbieter, die mit dieser ste völlig liberalisiert sind, bevorzugt Sprint DT
+Einheit in Wettbewerb stehen, nicht an ande und FT nicht in ungebührlicher Weise gegenüber
+rer Stelle ohne weiteres und gleichermaßen anderen deutschen oder französischen Korrespon
+verfügbar sind . denten .
+
+4 . Verstöße gegen die unter den Ziffern 1 , 2 und 3 d ) Quersubventionierung
+genannten Anforderungen gelten nicht als Zuwi
+derhandlung gegen diese Bedingung, sofern sie 1 . Alle aufgrund der PHOENIX-Vereinbarungen ge
+sich nicht wesentlich auf den Markt auswirken . gründeten Einheiten sind als von DT und FT
+getrennte Einheiten zu errichten .
+
+b ) Zusammenschaltung mit dem öffentlichen Netz zur 2 . Alle aufgrund der PHOENIX-Vereinbarungen ge
+gründeten Einheiten müssen ihre Fremdfinanzie Erbringung paketvermittelter X.25-Datendienste von
+DT und FT rung über eigene Kredite erhalten, wobei FT und
+DT
+
+1 . Sowohl FT als auch DT räumen Sprint, allen i ) Kapital zuführen oder geschäftsübliche Darle
+aufgrund der PHOENIX-Vereinbarungen gegrün hen gewähren dürfen, damit die Einheiten
+deten Einheiten und Dritten sofort Zugang zu ihre jeweiligen Geschäfte führen können;
+ihrem jeweiligen öffentlichen Netz paketvermittel
+ii ) ihre GU-Beteiligung an den betreffenden Ein ter Datendienste X.25 unter nichtdiskriminieren
+heiten in Verbindung mit einer Finanzierung
+den Bedingungen ein, zu denen Mengen- oder
+ohne Rückgriffsmöglichkeit auf diese Einhei
+andere Rabatte sowie Verbundqualität gehören .
+ten als Sicherheit geben dürfen;
+
+iii ) die Schulden dieser Einheiten verbürgen Bürg 2 . Transpac France und T-Data geben bis zu ihrer
+schaftszahlungen bei Zahlungsunfähigkeit Einbringung in Atlas weder Sprint noch irgend
+dieser Einheiten aber nur in bezug auf diese einer aufgrund der PHOENIX-Vereinbarungen Schulden .
+gegründeten Einheit speziell vereinbarte Bedingun
+gen preis, die von der Partei, die eine Zusammen
+3 . Keine der aufgrund der PHOENIX-Vereinbarun schaltung über die X.75-Schnittstellen für den
+gen gegründeten Einheiten hat weder direkt noch Zugang zu dem französischen bzw. deutschen
+indirekt Betriebsaufwendungen, Kosten und Ab öffentlichen Netz paketvermittelter X.25-Daten
+schreibungen oder sonstige Betriebsausgaben einer dienste erhält, als vertraulich gekennzeichnet und
+behandelt werden . . der Geschäftseinheiten der FT oder der DT zu
+teilen (einschließlich der anteiligen Kosten für tat
+sächlich ausgeführte Arbeiten, die uneingeschränkt
+3 . Sprint und alle aufgrund der PHOENIX-Verein dem gemeinsam eingesetzten Personal oder dem
+barungen gegründeten Einheiten erhalten über Verkauf oder Vertrieb von PHOENIX-Erzeugnis
+Eigentümerschnittstellen Zugang zum französi sen und -Dienstleistungen durch Angestellte von
+schen und zum deutschen öffentlichen Netz paket DT oder FT zugeteilt werden können), sofern
+vermittelter X.25-Datendienste, und zwar auch diese Unternehmen die von ihnen gelieferten
+für die Bereitstellung von X.25-Datenübermitt Erzeugnisse und erbrachten Dienste DT oder FT
+lungsdiensten unter der Voraussetzung, daß ein wie folgt in Rechnung stellen können, und zwar
+
+19 . 9 . 96 DE 1 Amtsblatt der Europäischen Gemeinschaften Nr . L 239/77
+
+i ) zu demselben Preis, der auch von Dritten für aufgrund der PHOENIX-Vereinbarungen ge
+in geschäftsüblichem Umfang verkaufte Er gründete Einheit mit DT und/oder FT teilt;
+zeugnisse oder Dienstleistungen verlangt wird
+iv ) die gewählte Allokationsmethode. oder
+
+3 . In den in Ziffern 1 und 2 genannten Büchern ii ) auf der Grundlage der vollständigen Kosten
+werden alle Dienste ausgewiesen, die erstattung oder einer anderen nach dem
+Fremdverhaltensgrundsatz festgelegten Preis i ) einer aufgrund der PHOENIX-Vereinbarun
+festsetzungsmethode bei Erzeugnissen und gen gegründeten Einheit in Frankreich und
+Diensten, die nicht in geschäftsüblichem Deutschland,
+Umfang an Dritte verkauft wurden.
+ii ) einer Muttereinheit „Übriges Europa " und
+4 . Verstöße gegen die unter den Ziffern 1 , 2 und 3 iii ) einer von einer Muttereinheit „Übriges Eu
+genannten Anforderungen gelten nicht als Zuwi ropa" kontrollierten Einheit von DT und FT
+derhandlung gegen diese Bedingung, sofern sie erbracht wurden,
+sich nicht wesentlich auf den Markt auswirken .
+sowie alle Transfers an oder von DT und FT .
+
+e ) Bündelung 4 . Keine aufgrund der PHOENIX-Vereinbarungen
+gegründete Einheit, keine Muttereinheit „Übriges
+1 . DT und FT schließen für ihre eigenen Dienste und Europa " und keine von einer Muttereinheit „Üb
+die PHOENIX-Dienste, die sie als Vertriebshänd riges Europa" kontrollierte Einheit erhält weder
+ler von PHOENIX in Deutschland bzw . Frank direkt oder indirekt von DT oder FT materielle
+reich verkaufen, jeweils getrennte Verträge ab . In Unterstützung noch Investitionen oder Zahlungen,
+jedem Kaufvertrag sind die Bedingungen für jeden die in den Büchern dieser Einheiten nicht als
+einzelnen Dienst, der Gegenstand des Vertrags ist, Investitionen in Schuldtitel oder Eigenkapital aus
+aufzuführen, insbesondere die für einen bestimm gewiesen sind .
+ten Dienst gegebenenfalls gewährten Mengenra
+batte oder sonstigen Ermäßigungen .
+Artikel 3
+2. Verstöße gegen die unter Ziffer 1 genannten
+Anforderungen gelten nicht als Zuwiderhandlung Die Freistellung aufgrund dieser Entscheidung ist mit
+gegen diese Bedingung, sofern sie sich nicht folgenden Auflagen verbunden :
+wesentlich auf den Markt auswirken .
+a ) Buchprüfung
+
+f) Rechnungslegung 1 . Sämtliche aufgrund der PHOENIX-Vereinbarun
+gen in Frankreich und Deutschland gegründeten
+1 . Jede aufgrund der PHOENIX-Vereinbarungen in Betriebseinheiten, alle Muttereinheiten „Übriges
+Frankreich und Deutschland gegründete Einheit, Europa " sowie alle von einer Muttereinheit „Üb
+jede Muttereinheit „Übriges Europa" und jede riges Europa" kontrollierten Einheiten unterziehen
+von einer Muttereinheit „Übriges Europa " kon sich alle zwölf Monate einer Buchprüfung durch
+trollierte Einheit führen für jeden in einem Land einen unabhängigen, weder einer dieser Einheiten
+erbrachten Dienst getrennte Bücher, wobei sie noch DT oder FT angehörenden Buchprüfer,
+internationale Grundsätze der Rechnungslegung wobei die Buchprüfung zu bestätigen hat, daß
+anwenden. DT und FT (einschließlich aller Toch
+i ) alle Geschäfte zwischen diesen Einheiten
+tergesellschaften ) führen getrennte Bücher, wobei einerseits und FT sowie DT andererseits wie
+sie für jeden an eine aufgrund der PHOENIX
+zwischen voneinander unabhängigen Unter
+Vereinbarungen gegründete, im EWR tätige Ein
+nehmen durchgeführt worden sind; heit erbrachten Dienst internationale Grundsätze
+der Rechnungslegung anwenden . ii ) die Unternehmen die Rechnungslegungsme
+thoden angewandt haben;
+2 . DT und FT führen innerhalb eines Jahres nach
+iii ) die Berechnungen richtig sind.
+dem in Artikel 1 genannten Zeitpunkt ein Buch
+führungssystem mit ausreichend detaillierten An 2 . Der erste Prüfbericht gemäß Absatz 1 für den
+gaben über die unter Buchstabe a ) Ziffer 1 aufge Zwölfmonatszeitraum, der an dem Datum be
+führten Dienste ein . Aus den Büchern muß folgen ginnt, an dem die vorliegende Entscheidung wirk
+des hervorgehen : sam wird, ist der Kommission binnen fünfzehn
+Monate nach diesem Datum vorzulegen. i ) die Kostenstandards;
+
+ii ) die für die Behandlung der Kosten angewand b ) Weitere Auflagen
+ten Rechnungslegungsnormen;
+DT, FT, alle aufgrund der PHOENIX-Vereinbarungen
+iii ) die Allokation der Ausgaben oder Kosten, in Frankreich und Deutschland gegründeten Einhei
+Einnahmen, Aktiva und Passiva, die sich eine ten, alle Muttereinheiten „Übriges Europa" und alle
+
+Nr. L 239/78 IDE Amtsblatt der Europäischen Gemeinschaften 19 . 9 . 96
+
+von einer Muttereinheit „Übriges Europa " kontrol kel 1 dieser Entscheidung die in den Ziffern 1
+lierten Einheiten halten zur Feststellung und Gewähr und 2 genannten ungeprüften Rechnungsle
+leistung der Konformität mit den in Artikel 2 dieser gungsunterlagen vorzulegen; und
+Entscheidung genannten Auflagen
+iii) zusätzliche schriftliche oder mündliche Erklä
+rungen abzugeben.
+1 . alle Bücher und Unterlagen zur Prüfung durch die
+Kommission bereit, um die vollständige Konfor
+mität mit den in Artikel 2 dieser Entscheidung Artikel 4
+erwähnten Auflagen nachzuweisen, und der Kom
+mission zu ermöglichen, die Richtigkeit des in Diese Entscheidung ist gerichtet an:
+Buchstabe a ) Ziffer 2 genannten Prüfberichts zu
+überprüfen; Deutsche Telekom AG
+Friedrich-Ebert-Allee 140
+D-53105 Bonn
+2. gewähren der Kommission aufgrund einfacher
+Mitteilung während der Geschäftsstunden Zugang France Télécom
+zu ihren Räumlichkeiten, damit sie die Bücher und Place d'Alleray
+Unterlagen einsehen kann, für die die unter Buch F-75505 Paris Cedex
+stabe a ) genannten Bedingungen gelten, und
+mündliche Erklärungen zu diesen Dokumenten Sprint Communications Corporation
+entgegennehmen kann, ohne daß sie zu diesem 2330 Shawnee Mission Parkway
+Zweck ihre Nachprüfungsbefugnisse aufgrund der Westwood, Kansas
+Verordnung Nr. 17 geltend machen muß; Missouri 66205
+USA
+
+3 . legen der Kommission
+
+i ) alle in ihrem Besitz oder unter ihrer Kontrolle Brüssel, den 17. Juli 1996
+befindlichen, für die vorerwähnte Konformi
+tätsfeststellung notwendigen Bücher und Un
+terlagen vor; Für die Kommission
+
+Karel VAN MIERT
+ii ) alle sechs Monate nach Ablauf eines Jahres
+nach dem Datum der Freistellung gemäß Arti Mitglied der Kommission

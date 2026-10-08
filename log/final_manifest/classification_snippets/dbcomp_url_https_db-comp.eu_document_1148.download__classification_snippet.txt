@@ -1,0 +1,454 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39610 – Power Cables
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Articles 7 and 23(2) Regulation (EC) 1/2003
+
+Date: 02/04/2014
+
+This is a provisional non-confidential version.
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...]. Pending claims are marked [Confidentiality claim pending].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 2.4.2014
+C(2014) 2139 final
+
+COMMISSION DECISION
+
+of 2.4.2014
+
+addressed to:
+ABB AB, ABB Ltd, Brugg Kabel AG, Kabelwerke Brugg AG Holding, Nexans France
+SAS, Nexans SA, nkt cables GmbH, NKT Holding A/S, Prysmian Cavi e Sistemi S.r.l.,
+Prysmian S.p.A., The Goldman Sachs Group, Inc., Pirelli & C. S.p.A., Safran SA, Silec
+Cable, SAS, General Cable Corporation, Sumitomo Electric Industries, Ltd., Hitachi
+Metals, Ltd., J-Power Systems Corporation, Furukawa Electric Co. Ltd., Fujikura Ltd.,
+VISCAS Corporation, SWCC SHOWA HOLDINGS CO., LTD., Mitsubishi Cable
+Industries, Ltd., EXSYM Corporation, LS Cable & System Ltd., Taihan Electric Wire
+Co., Ltd.,
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+AT.39610 - Power cables
+
+(Only the English, French, German and Italian texts are authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ........................................... 6
+1.1. The products covered by the infringement ................................................................... 6
+1.2. The market players that were involved in the infringement ........................................ 8
+1.3. Description of the sector ............................................................................................ 12
+1.3.1. The supply .................................................................................................................. 12
+1.3.2. The demand ................................................................................................................ 13
+1.4. Inter-state trade........................................................................................................... 14
+2. THE COMMISSION ́S INVESTIGATION .............................................................. 14
+3. DESCRIPTION OF THE EVENTS........................................................................... 16
+3.1. Origin of the cartel arrangements ............................................................................... 16
+3.2. Objectives of the cartel arrangement .......................................................................... 16
+3.3. Implementation of the cartel arrangements ................................................................ 17
+3.3.1. Allocation mechanisms of the A/R cartel configuration ............................................ 18
+3.3.1.1. Home Territories ........................................................................................................ 19
+3.3.1.2. Export territories ........................................................................................................ 21
+3.3.1.3. Free Territories ........................................................................................................... 22
+3.3.1.4. Communications and monitoring between R and A .................................................. 22
+3.3.2. Allocation mechanisms of the European cartel configuration ................................... 26
+3.3.2.1. Communications and monitoring between R ............................................................. 27
+3.4. Chronology of key contacts ....................................................................................... 27
+3.5. Arguments of the parties regarding the reliability of the evidence ............................ 80
+3.6. Discussion and findings regarding the evidence ........................................................ 80
+4. APPLICATION OF ARTICLE 101(1) OF THE TREATY AND ARTICLE 53(1) OF
+THE EEA AGREEMENT.......................................................................................... 83
+4.1. Relationship between the Treaty and the EEA Agreement ........................................ 83
+4.2. Jurisdiction ................................................................................................................. 83
+4.2.1. Arguments of the parties ............................................................................................ 84
+4.2.2. Discussion and findings ............................................................................................. 84
+4.3. Application of the competition rules in this case ....................................................... 85
+4.3.1. Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement ..................... 85
+4.3.2. Agreements and concerted practices .......................................................................... 85
+4.3.2.1. Principles .................................................................................................................... 85
+4.3.2.2. Arguments of the parties ............................................................................................ 88
+4.3.2.3. Discussion and findings ............................................................................................. 90
+
+EN 2 EN
+
+4.3.3. Single and continuous infringement ........................................................................... 96
+4.3.3.1. Principles .................................................................................................................... 96
+4.3.3.2. Arguments of the parties ............................................................................................ 98
+4.3.3.3. Discussion and findings ............................................................................................. 99
+4.3.4. Restriction of competition ........................................................................................ 119
+4.3.4.1. Principles .................................................................................................................. 119
+4.3.4.2. Arguments of the parties .......................................................................................... 120
+4.3.4.3. Discussion and findings ........................................................................................... 121
+4.3.5. Effect upon trade between Members States and between the EEA contracting parties
+.................................................................................................................................. 130
+4.3.5.1. Principles .................................................................................................................. 130
+4.3.5.2. Arguments of the parties .......................................................................................... 131
+4.3.5.3. Discussion and findings ........................................................................................... 131
+4.3.6. Application of Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement
+.................................................................................................................................. 132
+4.3.7. Provisions of competition rules applicable to Iceland, Liechtenstein and Norway, and
+to the 2004 and 2007 enlargement of the Union ...................................................... 133
+5. ADDRESSEES ........................................................................................................ 133
+5.1. Principles .................................................................................................................. 133
+5.2. Application to this case ............................................................................................ 137
+5.2.1. Nexans ...................................................................................................................... 138
+5.2.2. Pirelli/Prysmian/Goldman Sachs ............................................................................. 142
+5.2.3. Sumitomo and Hitachi.............................................................................................. 160
+5.2.4. JPS ............................................................................................................................ 161
+5.2.5. Furukawa and Fujikura ............................................................................................ 164
+5.2.6. VISCAS.................................................................................................................... 165
+5.2.7. ABB.......................................................................................................................... 173
+5.2.8. Brugg ........................................................................................................................ 173
+5.2.9. Sagem/Safran/Silec .................................................................................................. 174
+5.2.10. Silec/General Cable .................................................................................................. 175
+5.2.11. Showa and Mitsubishi .............................................................................................. 175
+5.2.12. EXSYM Corporation ............................................................................................... 175
+5.2.13. nkt ............................................................................................................................. 184
+5.2.14. LS Cable ................................................................................................................... 185
+5.2.15. Taihan ....................................................................................................................... 185
+6. DURATION OF THE INFRINGEMENT ............................................................... 185
+
+EN 3 EN
+
+6.1. Starting date for each undertaking ........................................................................... 185
+6.2. End date for each undertaking .................................................................................. 189
+7. REMEDIES .............................................................................................................. 196
+7.1. Article 7 of Regulation (EC) No 1/2003: ................................................................. 196
+7.2. Article 23(2) of Regulation (EC) No 1/2003 ........................................................... 196
+7.3. Basic amount of the fine .......................................................................................... 197
+7.3.1. Methodology for setting the fine .............................................................................. 197
+7.3.2. The value of sales ..................................................................................................... 197
+7.3.2.1. Arguments of the parties and findings ..................................................................... 200
+7.3.2.2. Conclusions on value of sales and attribution under point 18 of the Guidelines on
+fines .......................................................................................................................... 204
+7.3.3. Determination of the basic amount of the fine ......................................................... 207
+7.3.3.1. Gravity...................................................................................................................... 208
+7.3.3.2. Duration.................................................................................................................... 211
+7.3.3.3. Additional amount .................................................................................................... 212
+7.3.3.4. Calculation and conclusion on basic amounts ......................................................... 213
+7.4. Adjustments to the basic amount ............................................................................. 214
+7.4.1. Aggravating circumstances ...................................................................................... 214
+7.4.2. Mitigating circumstances ......................................................................................... 214
+7.4.3. Arguments of the parties and conclusions of the Commission ................................ 214
+7.4.4. Deterrence multiplier ............................................................................................... 220
+7.5. Application of the 10% turnover limit. .................................................................... 220
+7.6. Application of the Leniency Notice ......................................................................... 222
+7.6.1. ABB.......................................................................................................................... 222
+7.6.2. JPS, Sumitomo and Hitachi...................................................................................... 223
+7.6.3. Mitsubishi ................................................................................................................. 224
+7.7. Retroactive application of the Guidelines on fines .................................................. 225
+7.8. Inability to pay ......................................................................................................... 225
+7.9. Fines sharing in cases of joint and several liability .................................................. 226
+7.10. Final amount of the fines .......................................................................................... 227
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of XXX
+
+addressed to:
+ABB AB, ABB Ltd, Brugg Kabel AG, Kabelwerke Brugg AG Holding, Nexans France
+SAS, Nexans SA, nkt cables GmbH, NKT Holding A/S, Prysmian Cavi e Sistemi S.r.l.,
+Prysmian S.p.A., The Goldman Sachs Group, Inc., Pirelli & C. S.p.A., Safran SA, Silec
+Cable, SAS, General Cable Corporation, Sumitomo Electric Industries, Ltd., Hitachi
+Metals, Ltd., J-Power Systems Corporation, Furukawa Electric Co. Ltd., Fujikura Ltd.,
+VISCAS Corporation, SWCC SHOWA HOLDINGS CO., LTD., Mitsubishi Cable
+Industries, Ltd., EXSYM Corporation, LS Cable & System Ltd., Taihan Electric Wire
+Co., Ltd.,
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+AT.39610 - Power cables
+
+(Only the English, French, German and Italian texts are authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,1
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in in Articles 81 and 8
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ting in Zurich, on 4 June 2007,
+Zurich representative A2] (Nexans) [company representative A2] expressing dissatisfaction at
+airport ABB regarding Britned project, providing initial basis for
+ABB not to bid on the Fennoskan II project - SM 500 kV.365
+362. 29 May - 12 [company representative [Confidentiality claim pending]366
+June 2006 C1] (JPS), [company
+representative A1],
+[company representative
+A2] (Nexans)
+
+358 [Confidentiality claim pending]
+359 [Confidentiality claim pending]
+360 [Confidentiality claim pending]
+361 [Confidentiality claim pending]
+362 [Confidentiality claim pending]
+363 [Confidentiality claim pending]See also: [...],[Confidentiality claim pending]
+364 [Confidentiality claim pending]
+365 [...].
+366 [Confidentiality claim pending]
+
+EN EN
+
+# Date and Known participants Known additional information on meeting, subjects
+Location discussed and source(s) of the evidence
+363. 6 June 2006 [company representative Bilateral meeting. No further information available.367
+Madrid A2] (Nexans), [company
+representative B1]
+(Prysmian)
+364. 12 June [company representative [Confidentiality claim pending]368
+2006 A2] (Nexans), probably
+[company representative
+B4] (Prysmian)
+365. 19-21 June [company representative [Confidentiality claim pending]369
+2006 A2] (Nexans), [company
+representative B1]
+(Prysmian)
+366. 6 July 2006 [company representative [Confidentiality claim pending]370
+Jakarta C1] (JPS), [company
+representative F3]
+(VISCAS), [company
+representative A2],
+[company representative
+A1] (Nexans), [company
+representative B1]
+(Prysmian)
+367. [...] [...] [Confidentiality claim pending].371
+368. 20 – 27 July [company representative [Confidentiality claim pending]372
+2006 A2] (Nexans), [company
+representative B1]
+(Prysmian)
+369. 25 July 2006 [company representative [Confidentiality claim pending]373
+F3], [company
+representative EF1]
+(VISCAS), [company
+representative B1]
+(Prysmian), [company
+representative A1]
+(Nexans), [company
+representative C1] (JPS)
+370. 25 July – 4 [company representative [Confidentiality claim pending]374
+September B1], [company
+2006 representative B4]
+(Prysmian), [company
+representative C1] (JPS),
+[company representative
+A2] (Nexans)
+371. 30 August [company representative [Confidentiality claim pending]375
+2006 A2] (Nexans), [company
+representative B1]
+(Prysmian)
+
+367 ID [...] Reply Nexans of 7 May 2010 to RFI of 31 March 2010.
+368 [Confidentiality claim pending]
+369 [Confidentiality claim pending]
+370 [Confidentiality claim pending]
+371 [Confidentiality claim pending]
+372 [Confidentiality claim pending]
+373 [Confidentiality claim pending]
+374 [Confidentiality claim pending]
+375 [Confidentiality claim pending]
+
+EN EN
+
+# Date and Known participants Known additional information on meeting, subjects
+Location discussed and source(s) of the evidence
+372. 14 [company representative [Confidentiality claim pending]376
+September A1], [company
+2006 representative A2]
+(Nexans), [company
+representative N1] (Taihan)
+373. 15 [company representative Bilateral Meeting. Review of possible areas for technical
+September I3], two other cooperation and discussion on potential collaboration in
+2006 representatives of ABB, relation to individual extra-EEA projects ([non-EEA
+Karlskrona [company representative country]).377
+C1], a representative of
+Sumitomo
+374. 4 October [company representative Email addressed to web-based email account of [company
+2006 B2] (Prysmian), [company representative A1].378
+representative A1] (Nexans)
+375. 6 October [company representative A/R meeting on SM projects. Bids on a number of specific
+2006 C1] (JPS), [company projects discussed for the purpose of allocation. JPS informed
+Baveno representative F3], the other participants that it would not participate in any
+[company representative further meetings.379
+EF1] (VISCAS), [company
+representative A2],
+[company representative
+A1] (Nexans), [company
+representative B1]
+(Prysmian)
+376. 18-22 [company representative Meetings at the fringe of ICF Conference. Discussion on
+October A3], [company allocation of [...] kV UG cable projects outside the EEA. 380
+2006 representative A2]
+Chicago (Nexans), [company
+representative B4],
+[company representative
+B1] (Prysmian), [company
+representative CD2] (JPS),
+[company representative
+E3], [company
+representative F3]
+(VISCAS)
+377. 16 [company representative J1] Email exchange related to prices to be quoted in bids for an
+November (Brugg), [company unnamed project. Use of web-based email accounts.381
+2006 representative L2] (Silec),
+[company representative
+A1] (Nexans)
+378. 28 [company representative Bilateral meeting. No further information available.382
+November A2] (Nexans), [company
+2006 representative B1]
+Dubai (Prysmian)
+379. 13 [company representative Bilateral meeting, JPS/Nexans. According to JPS, no
+December C2] (SEI), [company discussion of cartel, although [company representative A2]
+2006 representative A2] (Nexans) responded to the relationship of the two companies.383
+
+376 [Confidentiality claim pending]
+377 [...]; ID [...], JPS' Reply of 13 October 2011to SO.
+378 ID [...], Reply Nexans of 5 June 2009 to RFI of 20 March 2009.
+379 [...],[Confidentiality claim pending]
+380 ID [...], Reply VISCAS of 2 September 2010 to RFI of 31 March 2010. See also: [...]
+381 ID [...], Reply Nexans of 5 June 2009 to RFI of 20 March 2009.
+382 [Confidentiality claim pending]. See also: ID [...], Reply Prysmian of 7 May to RFI of 31 March 2010.
+383 [...]
+
+EN EN
+
+# Date and Known participants Known additional information on meeting, subjects
+Location discussed and source(s) of the evidence
+B2] (Prysmian) invited but
+probably did not attend
+389. 9 May 2007 [company representative [Confidentiality claim pending]393
+E1], [company
+representative EF1]
+(VISCAS), [company
+representative A1],
+[company representative
+A2] (Nexans)
+390. May 2007 [company representative Bilateral meeting to discuss allocation of a non-EEA
+Paris C1] (JPS), [company project.394
+representative A1] (Nexans)
+391. 4 June 2007 [company representative Bilateral meeting. Discussion of EEA projects.395
+Zurich A2] (Nexans), [company
+representative I3] (ABB)
+392. 4-6 June [company representative [Confidentiality claim pending]396
+2007 A1] (Nexans), [company
+representative B2]
+(Prysmian)
+393. 10 or 11 [company representative I3] Bilateral meeting about respecting home territory principle.397
+June 2007 (ABB), [company
+Paris representative C1] (JPS)
+394. 27/28 June Representatives of Nexans, [Confidentiality claim pending]398 [Confidentiality claim
+2007 JPS and EXSYM pending]399
+Tokyo
+395. 13 July – 3 [company representative [Confidentiality claim pending]400
+August 2007 A1], [company
+representative A2]
+(Nexans), [company
+representative E1]
+(VISCAS)
+396. 18 July 2007 [company representative [Confidentiality claim pending]401
+A2] (Nexans), [company
+representative B1]
+(Prysmian)
+397. 23 July - 13 [company representative [Confidentiality claim pending]402
+September A1], [company
+2007 representative A2]
+(Nexans), [company
+representative H1]
+(EXSYM), [company
+representative EF1]
+(VISCAS), [company
+representative C1],
+[company representative
+
+393 [Confidentiality claim pending]
+394 [...]
+395 [...]
+396 [Confidentiality claim pending]
+397 [...]
+398 [Confidentiality claim pending]
+399 [Confidentiality claim pending]
+400 [Confidentiality claim pending]
+401 [Confidentiality claim pending]
+402 [Confidentiality claim pending], [...].
+
+EN EN
+
+# Date and Known participants Known additional information on meeting, subjects
+Location discussed and source(s) of the evidence
+D4] (JPS)
+398. 31 August [company representative Email message relating to exchange of commercial
+2007 A2] (Nexans), [company information on "Gunfleet sands" project, SM 132 kV403
+representative B1]
+(Prysmian)
+399. 20 [company representative [Confidentiality claim pending]404
+September A2] (Nexans), [company
+2007 representative B1]
+(Prysmian), [company
+representative C1] (JPS)
+400. 3 October [company representative Bilateral meeting. No further information available.405
+2007 B4], [company
+Probably representative B1],
+Rome (Prysmian), [company
+representative A2] (Nexans)
+401. 10-23 [company representative [Confidentiality claim pending]406
+October B10], [company
+2007 representative B1]
+(Prysmian), [company
+representative A2] (Nexans)
+402. 11 October [company representative [Confidentiality claim pending]407
+2007 A1], [company
+representative A2] (Nexans)
+403. 24 October [company representative [Confidentiality claim pending]408
+2007 B1] (Prysmian), [company
+representative A2] (Nexans)
+404. October [company representative Bilateral meeting on allocation, price fixing of "Fennoskan II
+2007 A2] (Nexans), [company project, SM 400/500 kV". Nexans to get the project in return
+Copenhagen representative I3] (ABB) for ABB obtaining the "EirGrid" project.409
+airport
+405. 16 [company representative [Confidentiality claim pending]410
+November B1] (Prysmian), [company
+2007 representative A2] (Nexans)
+406. 3 December [company representative A/R meeting on SM matters, allocation EEA projects
+2007 A2], [company "COMETA 230kV", the Greek project "Evia Attika". Several
+Le Meridien representative A1] non-EEA projects ranging at least between [...] kV, [...] kV
+Montparnass (Nexans), [company were discussed.411
+e, Paris representative EF1],
+[company representative
+E1] (VISCAS)
+407. 19 [company representative [Confidentiality claim pending]412
+December B1] (Prysmian), [company
+2007 representative A2] (Nexans)
+408. 22 [company representative [Confidentiality claim pending]413
+
+403 [Confidentiality claim pending] See also: [...]
+404 [Confidentiality claim pending]
+405 [Confidentiality claim pending]
+406 [Confidentiality claim pending]
+407 [Confidentiality claim pending]
+408 [Confidentiality claim pending]
+409 [...].
+410 [Confidentiality claim pending]
+411 [Confidentiality claim pending] ID [...], VISCAS reply of 2 September to RFI of 31 March 2010.
+412 [Confidentiality claim pending]
+413 [Confidentiality claim pending]
+
+EN EN

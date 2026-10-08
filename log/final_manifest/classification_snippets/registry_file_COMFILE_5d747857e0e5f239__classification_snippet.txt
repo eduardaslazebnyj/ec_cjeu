@@ -1,0 +1,113 @@
+## Anexo 1 – Monitoring Trustee
+
+## I. Procedimiento de nombramiento
+
+1. Renfe nombrará a un Monitoring Trustee que desempeñará las funciones que se especifican a continuación para garantizar el cumplimiento de los Compromisos.
+
+2. El Monitoring Trustee deberá:
+
+i. en el momento de su nombramiento, ser independiente de Renfe y de sus filiales;
+
+ii. poseer las aptitudes necesarias para llevar a cabo su mandato; y
+
+iii. ni tener ni estar expuesto a un Conflicto de Intereses.
+
+3. El Monitoring Trustee será retribuido por Renfe de forma que no impida el cumplimiento independiente y eficaz de su mandato.
+
+## Propuesta de Renfe
+
+4. A más tardar dos semanas después de la Fecha de entrada en vigor, Renfe presentará a la Comisión, para su aprobación, el nombre o nombres de una o varias personas físicas o jurídicas a las que Renfe proponga designar como Monitoring Trustee(s). La propuesta contendrá la información suficiente para que la Comisión pueda verificar que la persona o personas propuestas como Monitoring Trustee(s) cumplen los requisitos establecidos en el apartado 2 e incluirá:
+
+a. los términos completos del mandato propuesto, que incluirá todas las disposiciones necesarias para que el Monitoring Trustee pueda cumplir sus obligaciones en virtud de estos Compromisos; y
+
+b. un esquema de plan de trabajo que describa el modo en que el Monitoring Trustee tiene previsto llevar a cabo las funciones que le han sido asignadas.
+
+## Aprobación o denegación de la aprobación por parte de la Comisión
+
+5 La Comisión tendrá la facultad discrecional de aprobar o denegar la aprobación del Monitoring Trustee(s) propuesto(s) y de aprobar el mandato propuesto con las modificaciones que considere necesarias para que el Monitoring Trustee cumpla sus obligaciones. En caso de que se apruebe un solo nombre, Renfe nombrará o hará nombrar a la persona o personas interesadas como Monitoring Trustee, de conformidad con el mandato aprobado por la Comisión. En caso de que se apruebe más de un nombre, Renfe podrá elegir libremente al Monitoring Trustee a designar entre los nombres aprobados. En el plazo de una semana desde la aprobación de la Comisión, se procederá al nombramiento del Monitoring Trustee, de acuerdo con el mandato aprobado por la Comisión.
+
+# COURTESY TRANSLATION BY RENFE / TRADUCCIÓN DE CORTESÍA DE RENFE
+
+## Nueva propuesta de Renfe
+
+6. Si la Comisión denegara la aprobación de todos los Monitoring Trustees propuestos, Renfe presentará los nombres de al menos otras dos personas físicas o jurídicas en el plazo de una semana desde que se le comunique la denegación, de conformidad con los apartados 1 y 5.
+
+## Monitoring Truestee designado por la Comisión
+
+7. En caso de que la Comisión rechace todas las ulteriores propuestas de Monitoring Trustee, la Comisión designará a un Monitoring Trustee, que Renfe nombrará o hará nombrar de conformidad con un mandato de Monitoring Trustee aprobado por la Comisión.
+
+## II. Funciones y obligaciones del Monitoring Trustee
+
+8. El Monitoring Trustee asumirá los deberes y obligaciones que se establezcan para garantizar el cumplimiento de los Compromisos. La Comisión podrá, por iniciativa propia o a petición del Monitoring Trustee o de Renfe, dar órdenes o instrucciones al Monitoring Trustee con el fin de garantizar el cumplimiento de los Compromisos. Renfe no podrá dar instrucciones al Monitoring Trustee.
+
+## 9. El Monitoring Trustee deberá:
+
+(i) Proponer a la Comisión, en un plazo de dos semanas a partir de su nombramiento, un plan de trabajo detallado que describa cómo pretende supervisar el cumplimiento de los Compromisos;
+
+(ii) Proporcionar a la Comisión informes por escrito sobre el cumplimiento de los Compromisos por parte de Renfe, enviando al mismo tiempo a Renfe una copia no confidencial;
+
+(iii)) Actuar como un punto de contacto para cualquier solicitud de las Plataformas de Venta de Billetes de Terceros y, en el caso de desacuerdos sobre asuntos relacionados con los Compromisos, tratar dichos asuntos con ambas partes, en particular cualquier medida de suspensión temporal del acceso a VAV (o a cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) que haya sido adoptada por Renfe en caso de incumplimiento de la L2B media mensual máxima o con las medidas adoptadas por Renfe para remediar la superación de la Tasa de Error Máxima o la Tasa de Indisponibilidad Máxima;
+
+(iv) Proponer a Renfe las medidas que el Monitoring Trustee considere necesarias para asegurar el cumplimiento de los Compromisos por parte de Renfe;
+
+(v) En cualquier momento, proporcionar a la Comisión, bajo petición de ésta, un informe escrito u oral sobre asuntos relacionados con el cumplimiento de los Compromisos por parte de Renfe, especialmente sobre las pruebas del acontecimiento de Fuerza Mayor y del ejercicio de toda la diligencia debida que debe presentar Renfe de conformidad con
+
+# COURTESY TRANSLATION BY RENFE / TRADUCCIÓN DE CORTESÍA DE RENFE
+
+el apartado 20 de los Compromisos;
+
+(vi) Informar inmediatamente por escrito a la Comisión, enviando al mismo tiempo una copia no confidencial a Renfe, si concluyera de manera razonablemente fundada que Renfe está incumpliendo estos Compromisos.
+
+Los informes mencionados en este apartado deberán ser proporcionados en inglés.
+
+10. Los informes mencionados en el inciso 9(ii) abarcarán cada uno de los períodos siguientes y se enviarán a la Comisión en el plazo de un mes a partir del final del período respectivo:
+
+i de la Fecha de entrada en vigor hasta el 31 de marzo de 2024; el informe cubrirá en particular (a) la modificación de los contratos existentes o la conclusión de un nuevo contrato, que se ofrecerán ambos a las Plataformas de Venta de Billetes de Terceros en el plazo de un mes a partir de la Fecha de entrada en vigor y los futuros contratos y/o modelo de contrato entre Renfe y las Plataformas de Venta de Billetes de Terceros, (b) la disponibilidad para las Plataformas de Venta de Billetes de Terceros de los Contenidos de Renfe y DTR ya disponibles en los canales digitales de distribución o en la plataforma de movilidad de Renfe, y (c) el tiempo del anuncio previo por parte de Renfe de cualquier nuevo Contenido de Renfe o DTR a todas las Plataformas de Venta de Billetes de Terceros y de las especificaciones técnicas necesarias para adaptar sus sistemas informáticos a las Plataformas de Venta de Billetes de Terceros que usen VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro);
+
+ii. del 1 de abril de 2024 al 30 de junio de 2024; el informe cubrirá en particular (a) la disponibilidad para las Plataformas de Venta de Billetes de Terceros de los Contenidos de Renfe y DTR, incluidos los Contenidos de Renfe y DTR que hayan requerido un procedimiento de licitación para su inclusión en VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro), y (b) el tiempo del anuncio previo por parte de Renfe de cualquier nuevo Contenido de Renfe o DTR a todas las Plataformas de Venta de Billetes de Terceros y de las especificaciones técnicas necesarias para adaptar sus sistemas informáticos a las Plataformas de Venta de Billetes de Terceros que usen VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro);
+
+del 1 de julio de 2024 al 31 de diciembre de 2024; el informe cubrirá en particular (a) la disponibilidad para las Plataformas de Venta de Billetes de Terceros de los Contenidos de Renfe, incluidos los billetes de Trenes Turísticos de Lujo y Trenes Turísticos de Ocio en VAV y los contenidos que deben ser incluidos en VOL VOL VOL A, y de los DTR, incluidos los DTR sobre incidencias programadas que afectan a billetes ya vendidos en VAV y los DTR relacionados con retrasos no programados de trenes de Cercanías en VOL A, y (b) el tiempo del anuncio previo por parte de Renfe de cualquier nuevo Contenido de Renfe o DTR a todas las Plataformas de Venta de Billetes de Terceros y de las especificaciones técnicas necesarias para adaptar sus sistemas informáticos a las Plataformas de Venta de Billetes de Terceros que usen VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro);
+
+iv. del 1 de enero al 31 de diciembre de cada uno de los años siguientes hasta 2032; el informe cubrirá en particular (a) la disponibilidad de Contenidos y DTR para las Plataformas de Venta de Billetes de Terceros, (b) el tiempo del anuncio previo por parte de Renfe de cualquier nuevo Contenido de Renfe o DTR a todas las Plataformas de Venta de Billetes de Terceros y de las especificaciones técnicas necesarias para adaptar sus sistemas informáticos a las Plataformas de Venta de Billetes de Terceros que usen VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro);
+
+v. desde el 1 de enero de 2033 hasta la fecha correspondiente a 10 años a partir de la Fecha de entrada en vigor; el informe cubrirá en particular (a) la disponibilidad de Contenidos y DTR para las Plataformas de Venta de Billetes de Terceros, y (b) el tiempo del anuncio previo por parte de Renfe de cualquier nuevo Contenido de Renfe o DTR a todas las Plataformas de Venta de Billetes de Terceros y de las especificaciones técnicas necesarias para adaptar sus sistemas informáticos a las Plataformas de Venta de Billetes de Terceros que usen VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro).
+
+11. El Monitoring Trustee no revelará ninguna información confidencial a nadie que no sea la Comisión. Toda información confidencial obtenida por el Monitoring Trustee en el desempeño de los deberes y obligaciones especificados en estos Compromisos se mantendrá en la más estricta confidencialidad y se utilizará únicamente para el desempeño de los deberes y obligaciones especificados en los Compromisos. El Monitoring Trustee se asegurará de que se establezcan y respeten las salvaguardias adecuadas para la recepción, el seguimiento de la difusión, la supervisión del uso, la protección contra la divulgación y la determinación de la eliminación segura de la información confidencial, si bien dichas salvaguardias no deberán ser tales que impidan al Monitoring Trustee el cumplimiento efectivo de sus deberes y obligaciones especificados en los presentes Compromisos. El Monitoring Trustee no hará ninguna declaración pública relativa al desempeño de sus funciones en relación con estos Compromisos. El Monitoring Trustee firmará compromisos de confidencialidad dirigidos a la Comisión y a Renfe garantizando su conocimiento y el cumplimiento de sus deberes y obligaciones especificados en estos Compromisos. El Monitoring Trustee cumplirá las obligaciones de confidencialidad impuestas en el artículo 28(2) del Reglamento 1/2003 en relación con cualquier información obtenida en el ejercicio de su mandato o de la Comisión, incluso después de la finalización de su mandato.
+
+## III. Deberes y obligaciones de Renfe
+
+12. Renfe prestará y hará que sus asesores presten al Monitoring Trustee toda la cooperación, asistencia e información que el Monitoring Trustee pueda razonablemente necesitar para el desempeño de sus funciones. El Monitoring Trustee tendrá acceso pleno y completo a cualquiera de los libros, registros, documentos, personal directivo o de otro tipo, instalaciones, emplazamientos, sistemas informáticos e información técnica de Renfe que sean necesarios para el cumplimiento de sus obligaciones en virtud de los Compromisos, y Renfe facilitará al Monitoring Trustee, previa solicitud, copias de cualquier documento. Previa petición y aviso razonables, Renfe pondrá a disposición del Monitoring Trustee una o varias oficinas en sus instalaciones y estará disponible para celebrar reuniones con el fin de facilitar al Monitoring Trustee toda la información necesaria para el desempeño de sus funciones.
+
+13. Toda la información confidencial será facilitada por Renfe al Monitoring Trustee, siempre que éste respete debidamente la confidencialidad de dicha información, tal y como se establece en el apartado 11 anterior.
+
+14. A expensas de Renfe, el Monitoring Trustee podrá nombrar asesores, previa aprobación de Renfe (aprobación que no podrá denegarse ni retrasarse injustificadamente) si el Monitoring Trustee considera que el nombramiento de dichos asesores es necesario o apropiado para el desempeño de sus funciones y obligaciones en virtud del mandato, siempre que los honorarios y demás gastos en que incurra el Monitoring Trustee sean razonables. En caso de que Renfe se niegue a aprobar a los asesores propuestos por el Monitoring Trustee, la Comisión podrá aprobar el nombramiento de dichos asesores, previa audiencia de Renfe. Únicamente el Monitoring Trustee estará facultado para dar instrucciones a los asesores. Los asesores no deberán tener ningún Conflicto de Intereses con Renfe.
+
+15. Renfe acepta que la Comisión pueda compartir información confidencial propiedad de Renfe con el Monitoring Trustee. El Monitoring Trustee no revelará dicha información y se aplicarán mutatis mutandis los principios contenidos en el Reglamento 1/2003 en relación con la información confidencial y los secretos comerciales.
+
+16. Renfe acepta que los datos de contacto del Monitoring Trustee se publiquen en la página web de la Dirección General de Competencia de la Comisión y a informar a terceros interesados de la identidad y funciones del Monitoring Trustee.
+
+## IV. Sustitución, baja y nuevo nombramiento del Monitoring Trustee
+
+17. Si el Monitoring Trustee deja de desempeñar sus funciones según lo dispuesto en los Compromisos o por cualquier otra causa justificada, incluida la exposición del Monitoring Trustee a un Conflicto de Intereses:
+
+a. la Comisión, previa audiencia del Monitoring Trustee y de Renfe, podrá exigir a Renfe que sustituya al Monitoring Trustee; o bien
+
+Renfe podrá, previa aprobación de la Comisión, sustituir al Monitoring Trustee.
+
+18. Si el Monitoring Trustee es destituido de conformidad con el apartado 17, se le podrá exigir que continúe en sus funciones hasta que se designe un nuevo Monitoring Trustee al que el Monitoring Trustee haya hecho entrega de toda la información pertinente. El nuevo Monitoring Trustee será nombrado de conformidad con el procedimiento contemplado en los apartados 1 a 7 anteriores.
+
+19. A menos que sea destituido de conformidad con el apartado 17, el Monitoring Trustee dejará de actuar como Monitoring Trustee sólo después de que la Comisión lo haya liberado de sus obligaciones tras un período de 10 años a partir de la Fecha de entrada en vigor. No obstante, la Comisión podrá exigir en cualquier momento que se vuelva a nombrar al Monitoring Trustee si posteriormente se pone de manifiesto que las soluciones pertinentes podrían no haberse aplicado plena y adecuadamente.
+
+# COURTESY TRANSLATION BY RENFE / TRADUCCIÓN DE CORTESÍA DE RENFE
+
+## V. Procedimiento acelerado de resolución de conflictos
+
+20. Los contratos entre Renfe y las Plataformas de Venta de Billetes de Terceros (o sus modificaciones) celebrados de conformidad con el apartado 17 de los Compromisos establecerán un procedimiento acelerado de resolución de conflictos en caso de controversia entre Renfe y una Plataforma de Venta de Billetes de Terceros relacionada con el cumplimiento de los Compromisos.
+
+2. Cualquiera de las partes (Renfe o la Plataforma de Venta de Billetes de Terceros) que desee acogerse al procedimiento acelerado de resolución de conflictos enviará una solicitud por escrito a la otra parte (con copia al Monitoring Trustee) exponiendo detalladamente las razones que le llevan a creer que la contraparte está incumpliendo con sus obligaciones relacionadas con los Compromisos. Las partes harán sus mejores esfuerzos por resolver todas las diferencias de opiniónón y solucionar todas las controversias que puedan surgir a través de la cooperación y la consulta en un plazo razonable que no exceda de dos semanas tras la recepción de la solicitud. El Monitoring Trustee presentará su propia propuesta para resolver la controversia en un plazo de una semana adicional, especificando por escrito la actuación que, en su caso, deba emprenderse para garantizar el cumplimiento de las obligaciones relacionadas con los Compromisos y estará preparado, si así se lo solicitan de común acuerdo ambas partes, para facilitar la resolución de la controversia.
+
+2. En caso de que las partes no logren resolver su controversia a través del procedimiento acelerado de resolución de conflictos, las partes podrán acordar someter dicha controversia a los tribunales.
+
+23. Si una Plataforma de Venta de Billetes de Terceros envía, de conformidad con el apartado 21, una solicitud por escrito a Renfe en relación con el apartado 8(i) de los Compromisos a más tardar tres semanas antes de que finalice el periodo de dos meses mencionado en el apartado 8(i)(a), Renfe no podrá suspender temporalmente el acceso de la plataforma a menos que el Monitoring Trustee evalúe y concluya, según su propia propuesta, que dicha suspensión sería conforme con los Compromisos. Para evitar dudas, cualquier suspensión temporal aplicada por Renfe sin la conclusión positiva del Monitoring Trustee se consideraría un incumplimiento de los Compromisos.
+
+24. Si una Plataforma de Venta de Billetes de Terceros envía, de conformidad con el apartado 21, una solicitud por escrito a Renfe en relación con el apartado 8(ii) de los Compromisos y el Monitoring Trustee evalúa y concluye que no se cumplen las condiciones para la suspensión temporal establecidas en el apartado 8(ii) o que la plataforma ha implementado las medidas necesarias para resolver el problema, Renfe se compromete a restablecer el acceso de la plataforma inmediatamente después de ser informada de la conclusión del Monitoring Trustee. Para evitar cualquier duda, el no restablecimiento inmediato del acceso de la plataforma se considerará un incumplimiento de los Compromisos.

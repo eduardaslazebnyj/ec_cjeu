@@ -1,0 +1,459 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMISIA EUROPEANĂ
+DG Concurență
+
+CAZUL AT.39984
+Bursa de energie electrică din România / OPCOM
+
+(Numai versiunea în limba română este autentică)
+
+PROCEDURĂ ANTITRUST
+Regulamentul (CE) nr. 1 / 2003 al Consiliului și
+Regulamentul (CE) nr. 773 / 2004 al Comisiei
+
+Articolul 7 Regulamentul (CE) nr. 1 / 2003
+Data: 05/03/2014
+
+Scopul publicării acestui text este strict informativ. Un rezumat al prezentei decizii este publicat în
+toate limbile oficiale ale UE în Jurnalul Oficial al Uniunii Europene.
+
+Părți din acest text au fost editate pentru a asigura că informațiile confidențiale nu sunt divulgate.
+Părțile respective sunt înlocuite cu un rezumat neconfidențial între paranteze pătrate sau sunt indicate
+astfel: [...].
+
+RO RO
+
+COMISIA
+EUROPEANĂ
+
+Bruxelles, 5.3.2014
+C(2014) 1342 final
+
+DECIZIA COMISIEI
+
+din 5.3.2014
+
+adresată
+S.C. OPCOM S.A. și C.N.T.E.E. Transelectrica S.A.
+privind o procedură inițiată în temeiul articolului 102 din Tratatul privind funcționarea
+Uniunii Europene (TFUE)*
+(AT.39984 - Bursa de energie electrică din România/OPCOM)
+
+(Numai versiunea în limba română este autentică)
+
+RO RO
+
+CUPRINS
+
+1. Introducere ................................................................................................................... 6
+2. Destinatarii deciziei ...................................................................................................... 6
+2.1. Transelectrica ............................................................................................................... 6
+2.2. OPCOM........................................................................................................................ 7
+3. Procedura ...................................................................................................................... 7
+4. Serviciile care fac obiectul deciziei .............................................................................. 9
+4.1. Piața angro de energie electrică din România .............................................................. 9
+4.1.1. Piața angro reglementată ............................................................................................ 10
+4.1.2. Piața angro concurențială ........................................................................................... 10
+4.2. Tranzacționarea pe piața angro concurențială ............................................................ 10
+4.3. Bursa de energie electrică din România ..................................................................... 12
+4.3.1. Tranzacționarea pe bursa de energie electrică ........................................................... 12
+4.3.2. Condițiile aferente tranzacționării pe bursa de energie electrică ............................... 14
+5. Practicile care fac obiectul deciziei ............................................................................ 15
+5.1. Cerința de înregistrare în scopuri de TVA ................................................................. 15
+5.2. Implicațiile cerinței de înregistrare în scopuri de TVA ............................................. 18
+6. Evaluarea juridică și economică ................................................................................. 20
+6.1. Piața relevantă a produsului ....................................................................................... 20
+6.1.1. Substituibilitatea la nivelul cererii ............................................................................. 22
+6.1.2. Substituibilitatea la nivelul ofertei ............................................................................. 22
+6.1.3. Analiza argumentelor OPCOM cu privire la definirea pieței relevante ..................... 23
+6.1.4. Concluzie privind piața relevantă a produsului .......................................................... 24
+6.2. Piața geografică relevantă .......................................................................................... 24
+6.3. Întreprinderea ............................................................................................................. 26
+6.4. Poziția dominantă a OPCOM pe piața relevantă ........................................................ 28
+6.5. Poziția dominantă pe o parte semnificativă a pieței interne ....................................... 29
+7. Comportanmentul Abuziv .......................................................................................... 30
+7.1. Cerința OPCOM de înregistrare în scopuri de TVA .................................................. 31
+7.2. Impactul asupra concurenței și a consumatorilor ....................................................... 39
+
+3RO RO
+
+7.3. Justificare obiectivă și creșterea eficienței ................................................................. 43
+7.3.1. Riscul de acuzații penale la adresa OPCOM în cazul în care aceasta nu colectează
+TVA............................................................................................................................ 44
+7.3.2. Expunerea OPCOM la o potențială disparitate la nivelul fluxului de numerar ......... 45
+7.3.3. Lipsa creșterii eficienței ............................................................................................. 53
+7.3.4. Concluzie.................................................................................................................... 53
+7.4. Concluzie cu privire la comportamentul abuziv ........................................................ 53
+7.5. Durata încălcării ......................................................................................................... 53
+7.5.1. Data începerii încălcării ............................................................................................. 53
+7.5.2. Data încetării încălcării .............................................................................................. 54
+7.5.3. Concluzie privind durata ............................................................................................ 54
+8. Efectul asupra comerțului dintre statele membre ....................................................... 54
+9. Răspunderea pentru încălcare .................................................................................... 55
+9.1. Argumentele Transelectrica și evaluarea Comisiei .................................................... 56
+9.1.1. Entități separate .......................................................................................................... 57
+9.1.2. Influența decisivă ....................................................................................................... 60
+9.1.3. Decizii strategice adoptate sau aprobate de minister ................................................. 62
+9.2. Concluzie privind răspunderea ................................................................................... 67
+10. Măsuri corective și amenzi ......................................................................................... 67
+10.1. Măsuri corective în temeiul articolului 7 din Regulamentul (CE) nr. 1/2003 ........... 67
+10.2. Amenzi în temeiul articolului 23 alineatul (2) din Regulamentul (CE) nr. 1/2003 ... 67
+10.3. Cuantumul de bază al amenzii ................................................................................... 68
+10.3.1. Calcularea valorii vânzărilor ...................................................................................... 68
+10.3.2. Gravitatea ................................................................................................................... 69
+10.3.3. Durata ......................................................................................................................... 70
+10.3.4. Concluzia privind cuantumul de bază al amenzii ...................................................... 71
+10.4. Ajustări aduse cuantumului de bază ........................................................................... 71
+10.5. Concluzie cu privire la cuantumul final al amenzii ................................................... 71
+11. Concluzie.................................................................................................................... 71
+
+4RO RO
+
+DECIZIA COMISIEI
+
+din 5.3.2014
+
+adresată
+S.C. OPCOM S.A. și C.N.T.E.E. Transelectrica S.A.
+privind o procedură inițiată în temeiul articolului 102 din Tratatul privind funcționarea
+Uniunii Europene (TFUE)*
+(AT.39984 - Bursa de energie electrică din România/OPCOM)
+
+(Numai versiunea în limba română este autentică)
+
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene1,
+
+având în vedere Regulamentul (CE) nr. 1/2003 al Consiliului din 16 decembrie 2002 privind
+punerea în aplicare a normelor de concurență prevăzute la articolele 81 și 82 din tratat,2 în
+special articolul 7 și articolul 23 alineatul (2),
+
+având în vedere Decizia Comisiei din 6 decembrie 2012 de a iniția o procedură în cazul de
+față,
+
+după ce întreprinderilor interesate li s-a acordat posibilitatea de a-și exprima punctul de
+vedere asupra obiecțiunilor formulate de Comisie în temeiul articolului 27 alineatul (1) din
+Regulamentul (CE) nr. 1/2003 și al articolului 12 din Regulamentul (CE) nr. 773/2004 al
+Comisiei din 7 aprilie 2004 privind desfășurarea procedurilor puse în aplicare de Comisie în
+temeiul articolelor 81 și 82 din tratat,3
+
+după consultarea Comitetului consultativ privind înțelegerile și pozițiile dominante,
+
+având în vedere raportul final al consilierului-auditor în cazul de față,
+
+întrucât:
+
+1 JO C 115, 9.5.2008, p. 47.
+2 JO L 1, 4.1.2003, p. 1. Începând cu 1 decembrie 2009, articolele 81 și 82 din Tratatul CE au devenit
+articolele 101 și, respectiv, 102 din Tratatul privind funcționarea Uniunii Europene (TFUE). Cele două
+seturi de dispoziții sunt identice pe fond. În sensul prezentei decizii, trimiterile la articolele 101 și 102
+din TFUE trebuie înțelese ca trimiteri la articolul 81 și, respectiv, articolul 82 din Tratatul CE, după caz.
+TFUE a introdus, de asemenea, anumite modificări ale terminologiei, cum ar fi înlocuirea termenului
+„Comunitate” cu „Uniune” și a termenului „piață comună” cu „piață internă”. În cuprinsul prezentei
+decizii se va folosi terminologia din TFUE.
+3 JO L 123, 27.4.2004, p. 18.
+
+5RO RO
+
+1. INTRODUCERE
+
+(1) Prezenta decizie are ca obiect un abuz de poziție dominantă al operatorului singurei
+burse de energie electrică din România, S.C. OPCOM S.A., înregistrată sub
+denumirea de S.C. Operatorul Pieței de Energie Electrică și Gaze Naturale
+„OPCOM” S.A. (denumită în continuare „OPCOM”), pe piața serviciilor de
+facilitare a tranzacționării pe termen scurt a energiei electrice în România. OPCOM a
+discriminat întreprinderile pe baza naționalității/locului de stabilire a acestora,
+împiedicând astfel concurența pe piața angro de energie electrică din România.
+
+(2) Prin prezenta Decizie, Comisia va stabili că OPCOM a abuzat de poziția sa dominată
+impunând tuturor participanților la piața pentru ziua următoare și la piața intrazilnică
+ale bursei de energie electrică obligația de a fi înregistrați în scopuri de TVA în
+România și, prin urmare, de a stabili un sediu comercial în România, deși
+comercianții străini sunt deja înregistrați în scopuri de TVA în țara lor de origine.
+
+(3) Această cerință constituie o discriminare a comercianților cu sediul în alte state
+membre ale Uniunii decât România (denumiți în continuare „comercianții din
+Uniune”) care încalcă articolul 102 din tratat.
+
+2. DESTINATARII DECIZIEI
+
+(4) Prezenta decizie este adresată societății OPCOM și societății sale mamă, C.N.T.E.E.
+Transelectrica S.A., înregistrată sub denumirea de Compania Naţională de Transport
+al Energiei Electrice „Transelectrica” S.A. (denumită în continuare
+„Transelectrica”), care fac parte din aceeași întreprindere.
+
+2.1. Transelectrica
+
+(5) Transelectrica a fost înființată în anul 2000 ca societate pe acțiuni în temeiul
+legislației române, prin Hotărârea de Guvern nr. 627/2000. Transelectrica este
+singura întreprindere din România care îndeplinește funcția de operator de transport
+și de sistem (denumit în continuare „OTS”). Transelectrica nu desfășoară activități în
+alte țări.
+
+(6) Transelectrica furnizează, împreună cu filialele sale: (i) servicii de transport a
+energiei electrice; (ii) servicii de sistem (servicii de administrare operațională a
+sistemului energetic); (iii) servicii de tranzacționare a energiei electrice (prin
+intermediul filialei sale OPCOM). Aceste activități sunt desfășurate în temeiul Legii
+energiei electrice și a gazelor naturale nr. 123/2012 (denumită în continuare „Legea
+energiei”), în baza unei licențe emise de autoritatea de reglementare în domeniul
+energiei, Autoritatea Națională de Reglementare în Domeniul Energiei din România
+(denumită în continuare „ANRE”), valabilă până în anul 2025.4
+
+(7) În trecut Transelectrica s-a aflat integral în proprietatea statului român, în prezent
+fiind deținută majoritar de acesta. Din luna august 2006, Transelectrica este cotată la
+
+4 Transelectrica, Raportul anual pe 2011, p. 107.
+
+6RO RO
+
+Bursa de Valori București.5 Grupul Transelectrica6 a raportat pentru anul 2012 o
+cifră de afaceri de 610 milioane EUR, cu un profit net de 10,7 milioane EUR.7
+
+(8) Transelectrica deține 100 % din acțiunile OPCOM.
+
+2.2. OPCOM
+
+(9) OPCOM a fost înființată în anul 2001, în temeiul Hotărârii de Guvern nr. 627/2000,
+ca societate pe acțiuni și filială a Transelectrica, deținută în întregime de către
+aceasta.
+
+(10) În luna decembrie 2001, ANRE a acordat OPCOM o licență pentru administrarea
+piețelor centralizate de energie electrică din România. În baza acestei licențe,
+OPCOM facilitează tranzacționarea energiei electrice pe piața angro de energie
+electrică din România.
+
+(11) OPCOM și-a început operațiunile pe piața pentru ziua următoare în luna iunie 2005
+și pe piața centralizată a contractelor bilaterale în luna decembrie 2005. Din luna
+iulie 2011, OPCOM administrează și o piață intrazilnică. În plus, OPCOM
+administrează și piața certificatelor verzi (din anul 2005), precum și platforma de
+tranzacționare a certificatelor de emisii de gaze cu efect de seră (din anul 2010).
+
+(12) Cifra de afaceri raportată de OPCOM pentru anul 2011 a fost de 3,9 milioane EUR,
+cu un profit net de 436 000 EUR.8 Cifra de afaceri raportată de OPCOM pentru anul
+2012 a fost de 3,65 milioane EUR, cu un profit net de 137 000 EUR. 9
+
+3. PROCEDURA
+
+(13) La 6 decembrie 2012, Comisia a decis să inițieze, cu privire la cazul de față, o
+procedură în sensul articolului 2 alineatul (1) din Regulamentul (CE) nr. 773/2004 al
+Comisiei și al articolului 11 alineatul (6) din Regulamentul (CE) nr. 1/2003 al
+Consiliului [denumite în continuare „Regulamentul (CE) nr. 773/2004” și, respectiv,
+„Regulamentul (CE) nr. 1/2003”].
+
+(14) Pe parcursul investigației, în temeiul articolului 18 din Regulamentul (CE)
+nr. 1/2003, Comisia a adresat mai multe cereri de informații (denumite în continuare
+„CI”) societății OPCOM, altor părți (respectiv brokeri) care puteau furniza servicii
+substituibile, precum și participanților la piață care fie au achiziționat, fi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+iectivă. Defalcarea costurilor pentru anul 2012 ar fi o simplă de
+estimare. OPCOM nu consideră această estimare fiabilă, deoarece (i) cota de piața
+pentru ziua următoare în totalul tranzacțiilor a crescut în mod semnificativ de la
+adoptarea Legii energiei electrice în anul 2012, și (ii) în timp ce raportul dintre
+costurile estimate pe piața intrazilnică și cele de pe piața din ziua următoare este de
+36 %, raportul dintre volumele comercializate pe cele două piețe spot în anul 2012
+este de doar 0.07 %.
+
+(306) Comisia respinge argumentele OPCOM. Întrucât cifra de afaceri a OPCOM constă în
+tarife pe care le primește de la Transelectrica care, la rândul lor, se bazează pe o
+estimare de costurilor ale OPCOM, o alocare a vânzărilor relevante bazate pe
+costurile OPCOM legate de piețele pentru ziua următoare și intrazilnică reprezintă
+cea mai relevantă defalcare pentru a stabili valoarea vânzărilor relevante. Întrucât
+OPCOM nu percepe un onorariu bazat pe volumele tranzacționate și nici cifra sa de
+afaceri nu este legată de volumul de tranzacții, o defalcare pe baza volumelor
+comercializate sau tranzacților efectuate nu ar fi utilă ca indicator indirect al valorii
+vânzărilor relevante ale OPCOM. OPCOM nu a fost în măsură să furnizeze Comisiei
+o defalcare a veniturilor sale în funcție de tipul de piață administrată pentru anul
+2012.231 Prin urmare, Comisia a stabilit valoarea vânzărilor relevante pentru a calcula
+amenda pe baza celor mai bune cifre disponibile.232
+
+10.3.2. Gravitatea
+
+(307) Pentru stabilirea procentului din valoarea vânzărilor care va fi luat în considerare ca
+sumă de bază, Comisia va avea în vedere o serie de factori pentru evaluarea gravității
+încălcării, precum natura încălcării, cota de piață, amploarea geografică a încălcării
+și/sau dacă încălcarea a fost sau nu a fost aplicată.233
+
+10.3.2.1. Natura încălcării
+
+(308) Încălcarea vizează un abuz de poziție dominantă sub forma discriminării pe baza
+naționalității/locului de stabilire a întreprinderilor. Cerința OPCOM ca toți
+participanții pe piețele spot ale bursei de energie electrică să fie înregistrați în scopuri
+de TVA în România și, prin urmare, să fie stabiliți în România, a împiedicat intrarea
+pe piață a participanților cu sediul în străinătate. Această cerință a restricționat
+accesul la piața națională de energie electrică. Acest tip de abuz a făcut deja obiectul
+
+231 Răspunsul OPCOM din 1 martie 2013 la cererea de informații a Comisiei din 22 februarie 2013.
+232 Orientările privind amenzile, punctele 15 și 16.
+233 Orientările privind amenzile, punctul 20.
+
+69RO RO
+
+mai multor decizii ale Comisiei și hotărâri ale instanțelor Uniunii și constituie o
+încălcare clară a articolului 102 din tratat.234
+
+10.3.2.2. Cota de piață
+
+(309) Pe piața relevantă OPCOM nu s-a confruntat cu niciun concurent semnificativ. În
+plus față de monopolul său de facto până în anul 2012 (cotă de piață de peste 99 %),
+de la sfârșitul lunii iulie 2012, OPCOM a deținut un monopol legal pentru facilitarea
+tranzacțiilor de energie electrică pe piața spot.235
+
+10.3.2.3. Amploarea geografică
+(310) Încălcarea vizează întregul teritoriu al României.236
+
+10.3.2.4. Concluzie privind gravitatea încălcării
+
+(311) Având în vedere aspectele menționate anterior, în special date fiind natura încălcării
+și cota de piață a OPCOM, procentul din valoarea vânzărilor care trebuie folosit
+pentru a determina cuantumul de bază a amenzii la plata căreia trebuie obligate
+OPCOM și Transelectrica ar trebui să se ridice la 10 %.
+
+10.3.3. Durata
+
+(312) Pentru piața pentru ziua următoare obligația de a deține o înregistrare în scopuri de
+TVA în România este prevăzută în „Convenția privind participarea la piața pentru
+ziua următoare” a OPCOM, care a intrat în vigoare la 30 iunie 2008. Pentru piața
+intrazilnică cerința este prevăzută în „Convenția privind participarea la piața
+intrazilnică” a OPCOM care a devenit aplicabilă la 14 iulie 2011. Având în vedere că
+piața pentru ziua următoare, precum și piața intrazilnică fac parte din aceeași piață
+relevantă a produsului și cerința impusă de înregistrare în scopuri de TVA în ambele
+convenții constituie o încălcare unică, data relevantă de început a încălcarii în
+ansamblu este 30 iunie 2008. Cu toate acestea, în scopul calculării amenzii, Comisia
+va ține cont de faptul că încălcarea cu privire la piață intrazilnică a început abia la 14
+iulie 2011.
+
+(313) În ceea ce privește sfârșitul încălcării, Comisia consideră că OPCOM a încetat
+încălcarea la data de 16 septembrie 2013, când a supus ANRE proiectul revizuit al
+convențiilor privind participarea la piața pentru ziua următoare și la piața intrazilnică,
+presupuse a nu include cerința de înregistrare în scopuri de TVA în Romania [a se
+vedea considerentul (230)].
+
+(314) Astfel, durata totală a încălcării, care trebuie luată în considerare pentru calcularea
+amenzii, este de 5 ani, 2 luni și 16 zile pentru piața pentru ziua următoare și respectiv
+de 2 ani, 2 luni și 2 zile pentru piața intrazilnică. În vederea calculării amenzii, suma
+
+234 Hotărârea din data de 30 aprilie 1974, Sacchi, 155/73, Rec., p. 409, punctul 17; Hotărârea din 14
+februarie 1978, United Brands/Comisia, 27/76, Rec., p. 207, punctele 232 și 233; Hotărârea din 2 martie
+1983 GVL/Comisia, 7/82, Rec., p. 483; Hotărârea din 22 noiembrie 2001, AAMS/Comisia, T-139/98,
+Rec., p. II-3413.
+235 A se vedea secțiunea 6.4.
+236 A se vedea secțiunea 6.2.
+
+70RO RO
+
+stabilită la considerentul (304) ar trebui înmulțită cu 5,16 pentru piața pentru ziua
+următoare și cu 2,16 pentru piața intrazilnică, pentru a include factorul durată.
+
+10.3.4. Concluzia privind cuantumul de bază al amenzii
+
+(315) Prin urmare, având în vedere informațiile de mai sus, cuantumul de bază al amenzii
+care urmează să fie impusă OPCOM ar trebui să fie de 1 031 000 EUR.
+
+10.4. Ajustări aduse cuantumului de bază
+
+(316) În cazul de față nu există circumstanțe agravante sau atenuante.
+
+(317) Cuantumul final al amenzii nu depășește 10 % din cifra de afaceri totală a
+întreprinderii.237
+
+(318) Prin urmare, nicio ajustare nu este aplicată cunatumului de bază.
+
+10.5. Concluzie cu privire la cuantumul final al amenzii
+
+(319) Cuantumul final al amenzii, rezultat în urma aplicării celor menționate anterior, în
+conformitate cu articolul 23 alineatul (2) din Regulamentul (CE) nr. 1/2003, ar trebui
+să fie de 1 031 000 EUR.
+
+11. CONCLUZIE
+
+(320) În lumina considerentelor din prezenta decizie, Comisia:
+
+(a) constată că Transelectrica și filiala sa OPCOM au comis o încălcare unică și
+continuă a articolului 102 din tratat de la 30 iunie 2008 până cel puțin la 16
+septembrie 2013, întrucât au cerut comercianților din Uniune care doreau să
+participe la piața pentru ziua următoare și la piața intrazilnică de energie
+electrică din România să se înregistreze în scopuri de TVA în România;
+
+(b) solicită Transelectrica și filialei sale OPCOM să pună capăt încălcării și să se
+abțină de la adoptarea de măsuri care au un efect echivalent comportamentului
+identificat ca abuziv.
+
+237 Articolul 23 alineatul (2) din Regulamentul (CE) nr. 1/2003.
+
+71RO RO
+
+ADOPTĂ PREZENTA DECIZIE:
+
+Articolul 1
+
+Compania Naţională de Transport al Energiei Electrice „Transelectrica” S.A. („C.N.T.E.E.
+Transelectrica S.A.”) și filiala sa S.C. Operatorul Pieței de Energie Electrică și Gaze Naturale
+„OPCOM” S.A. („S.C. OPCOM S.A.”) au comis o încălcare unică și continuă a articolului 102
+din tratat de la 30 iunie 2008 până cel puțin la 16 septembrie 2013 sub forma unei
+discriminări, întrucât au cerut comercianților din Uniune care doreau să participe la piața
+pentru ziua următoare și la piața intrazilnică de energie electrică din România să se
+înregistreze în scopuri de TVA în România.
+
+Articolul 2
+
+Pentru încălcarea prevăzută la articolul 1, întreprinderilor C.N.T.E.E. Transelectrica S.A și
+S.C. OPCOM S.A. li se aplică o amendă de 1 031 000 EUR, acestea răspunzând în solidar de
+achitarea întregii amenzi.
+
+Amenda se plătește în euro, în termen de trei luni de la data notificării prezentei decizii, în
+următorul cont deținut în numele Comisiei Europene:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / AT.39984
+
+După expirarea termenului-limită prevăzut, se vor plăti în mod automat penalități calculate la rata
+aplicată de Banca Centrală Europeană principalelor sale operațiuni de refinanțare în prima zi a
+lunii în care se adoptă prezenta decizie, plus 3,5 puncte procentuale.
+
+În cazul în care una dintre întreprinderile prevăzute la articolul 1 introduce o acțiune
+împotriva prezentei decizii, întreprinderea în cauză va suporta amenda în termenul prevăzut,
+fie furnizând o garanție financiară acceptabilă, fie plătind cu titlu provizoriu amenda în
+conformitate cu articolul 90 din Regulamentul delegat (UE) nr. 1268/2012 al Comisiei.238
+
+Articolul 3
+
+C.N.T.E.E. Transelectrica S.A. și filiala sa S.C. OPCOM S.A. încetează imediat încălcarea
+prevăzută la articolul 1 în cazul în care nu au făcut deja acest lucru.
+
+238 Regulamentul delegat (UE) nr. 1268/2012 al Comisiei din 29 octombrie 2012 privind normele de
+aplicare a Regulamentului (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului
+privind normele financiare aplicabile bugetului general al Uniunii (JO L362, 31.12.2012, p. 1).
+
+72RO RO
+
+C.N.T.E.E. Transelectrica S.A. și filiala sa S.C. OPCOM S.A. se abțin de la repetarea oricărui
+act sau comportament descris la articolul 1 și de la orice act sau comportament care poate
+avea un obiect sau efect identic ori similar.
+
+Articolul 4
+
+Prezenta decizie este adresată:
+
+(a) C.N.T.E.E. Transelectrica S.A. cu sediul în Strada Olteni nr. 2-4, sector 3, 030786
+București, România și
+
+(b) S.C. OPCOM S.A. cu sediul în Bd. Hristo Botev nr. 16-18, sector 3, 030236
+București, România.
+
+Prezenta decizie constituie titlu executoriu în temeiul articolului 299 din tratat.
+
+Adoptată la Bruxelles, 5.3.2014
+
+Pentru Comisie
+Joaquín ALMUNIA
+Vicepreşedinte
+
+73RO RO

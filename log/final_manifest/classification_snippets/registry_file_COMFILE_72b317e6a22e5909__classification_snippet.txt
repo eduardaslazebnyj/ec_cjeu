@@ -1,0 +1,390 @@
+CASE AT.40305 – CZECH NETWORK SHARING
+
+COMMITMENTS OFFERED TO THE EUROPEAN COMMISSION
+PURSUANT TO ARTICLE 9 OF THE COUNCIL REGULATION (EC) NO 1/2003
+
+1 INTRODUCTION
+
+1.1 In accordance with Article 9 of Council Regulation (EC) No 1/2003 (the ‘Regulation 1/2003’),
+CETIN a.s. (‘CETIN’) and O2 Czech Republic a.s. (‘O2’; CETIN and O2 jointly also
+as the ‘Committing Parties’) offer to the European Commission (the ‘Commission’)
+in response to the Commission's concerns against CETIN, O2 and PPF Group N.V.
+(‘PPFGNV’) in Case AT.40305 – Czech Network Sharing (the ‘Proceedings’) the following
+commitment. The commitment concerns the Mobile Network Services Agreement of 2 June
+2015 between CETIN and O2, as amended (the ‘MNSA’ and the commitment hereunder
+as the ‘MNSA Commitment’).
+
+1.2 On 25 October 2016, the Commission formally opened the Proceedings against CETIN, O2
+and T-Mobile Czech Republic (‘TMCZ’) regarding the network sharing agreements between
+TMCZ and CETIN on 2G, 3G and 4G technology, namely:
+
+• the network sharing agreement of 29 October 2013 between TMCZ and CETIN (together
+the ‘Sharing Parties’), as amended, covering 2G and 3G (the ‘2G/3G NSA’); and
+
+• the network sharing agreement of 2 May 2014 between the Sharing Parties, as amended
+(the ‘4G NSA’), covering 4G
+
+(the 2G/3G NSA and the 4G NSA jointly also as the ‘NSAs’ and each individua lly
+as the ‘NSA’).
+
+1.3 On 7 August 2019, the Commission addressed the Statement of Objections No. C(2019) 6021
+final to TMCZ, CETIN and O2 and, on 14 February 2020, the Statement of Objections
+No. C(2020)961 final to PPFGNV and Deutsche Telekom AG (both Statements of Objections
+collectively referred to as the ‘SO’). On 30 August 2021, the Commission then addressed
+the Preliminary Assessment No. C(2021) 6483 final to CETIN, O2, PPFGNV, TMCZ
+and Deutsche Telekom AG (the “PA”).
+
+1.4 The MNSA Commitment is being made by the Committing Parties as a part of the other
+commitments made by the Committing Parties (or one of them) and TMCZ within
+the Proceedings (the “Other Commitments”). The Committing Parties offer the MNSA
+Commitment along with the Other Commitments to meet the Commission’s concerns on the
+understanding that the Commission will adopt a decision pursuant to Article 9 of Council
+Regulation 1/2003 making the MNSA Commitment binding, concluding that there are
+no grounds for further action against CETIN, O2 and PPFGNV or any of their subsidiaries, and
+closing the Proceedings (the ‘Commitment Decision’).
+1
+
+1.5 Consistent with Article 9 of Regulation 1/2003, the MNSA Commitment is made without
+prejudice to CETIN's and O2’s position that the NSAs do not infringe Article 101 TFEU or any
+other competition law or other laws of the European Union or its Member States and that the
+MNSA also does not raise or exacerbate any competition concerns. The MNSA Commitment
+cannot be interpreted as an acknowledgement by CETIN and/or O2 that any of the allegations
+made by the Commission in the SO, the PA and/or elsewhere within the Proceedings are valid.
+
+1.6 The capitalised terms in this MNSA Commitment shall have the meaning ascribed to them in
+the text of this MNSA Commitment as well as, for the avoidance of doubts, in Section 7.
+
+2 AMENDMENT TO THE MOBILE NETWORK SERVICES AGREEMENT
+BETWEEN CETIN AND O2
+
+2.1 Within 2 months as of the date on which O2 and CETIN are both notified by the Commission
+of the adoption of the final Commitment Decision (the “Commencement Date”), CETIN and
+O2 will modify the MNSA as described below.
+
+2.2 The MNSA Commitment shall ensure that the intended meaning behind the MNSA Clauses
+concerned by the MNSA Commitment is clear and that no doubts arise as to the interpretation
+of their impact on the relations between CETIN and O2 and/or on the treatment of O2 and
+TMCZ, respectively, by CETIN, all of the foregoing in relation to the position of CETIN, O2
+and TMCZ in relation to the mobile network operated by CETIN under the MNSA and the
+NSAs.
+
+2.3 The contractual modifications shall concern the specification and clarification concerning the
+following areas:
+
+a) CETIN shall treat (i) O2 under the MNSA [provisions of MNSA related to network
+deployment] to (ii) TMCZ under the NSAs solely to the extent of the so-called
+[provisions of MNSA related to network deployment] services, i.e. the services which
+CETIN and TMCZ provide to each other [provisions of MNSA related to network
+deployment] under the NSAs [provisions of MNSA related to network deployment]
+whereas, for the avoidance of doubts, such services exclude any individual network
+enhancements, upgrades etc. which services are to be requested from CETIN
+individually and independently of each other by each of O2 and TMCZ, if desired (the
+“Network Enhancements”). In other words, the [provisions of MNSA related to
+network deployment] treatment shall only apply in order to ensure that the [provisions
+of MNSA related to network deployment] operation and maintenance of the mobile
+network provided by CETIN and TMCZ (in the positions of the respective master
+operators) to each other is extended also to O2 (in a position of a retail-only mobile
+network operator without its own mobile network infrastructure).
+
+b) CETIN shall not (i) inform O2 about or (ii) pass on or otherwise automatically make
+available to O2 [provisions of MNSA related to information exchange].
+
+2
+
+c) CETIN shall not be constrained by O2 in changing the design and composition of the
+mobile network [provisions of MNSA related to network changes].
+
+2.4 The foregoing shall be, for the avoidance of any doubts, articulated as generally applicable
+principles in Clauses 4.2, 4.4, 4.5 and 4.7 of the MNSA.
+
+2.5 The particular contractual modifications of the MNSA subject to the MNSA Commitment are
+specified in Annex 1 hereto.
+
+3 DURATION OF MNSA COMMITMENT
+
+3.1 The MNSA Commitment will take effect on and from the Commencement Date.
+
+3.2 Without prejudice to Article 9(2) of Council Regulation 1/2003 the MNSA Commitment will
+remain in force for a period of (i) the term of the MNSA or (ii) the term of the NSAs whichever
+of those terms ends earlier. It is understood that the MNSA Commitment will remain in force
+in case that any of the NSAs is terminated while the other NSA remains valid and in force.
+
+4 MONITORING TRUSTEE
+
+4.1 Given the scope of the MNSA Commitment, no monitoring by a monitoring trustee is
+envisaged. The compliance with the MNSA Commitment will be proved to the Commission by
+delivering copies of the signed contractual documents containing the MNSA modification as
+described in Annex 1 herein.
+
+5 REVIEW CLAUSE
+
+5.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003, the
+Committing Parties may request the Commission to review and modify the MNSA
+Commitment where there has been a material change in any of the relevant facts, law or
+circumstances on which the Commitment Decision was based.
+
+5.2 Without prejudice to the provisions of Article 9(2) of Council Regulation 1/2003, the
+Commission may, on its own initiative, review the MNSA Commitment if there has been a
+material change in any of the facts on which the Commitment Decision was based.
+
+6 NO CIRCUMVENTION
+
+6.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003, the
+Committing Parties shall not circumvent or attempt to circumvent the MNSA Commitment in
+any way. For the avoidance of doubt, the mere fact that a network sharing agreement is
+concluded with regards to the 5G technology shall not constitute circumvention of the MNSA
+Commitment.
+
+3
+
+7 DEFINITIONS
+
+‘2G/3G NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘4G NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘CETIN’ shall have the meaning specified in Clause 1.1 above
+
+‘Commencement Date’ shall have the meaning specified in Clause 2.1 above
+
+‘Commitment Decision’ shall have the meaning specified in Clause 1.4 above
+
+‘Committing Parties’ shall have the meaning specified in Clause 1.1 above
+
+‘Commission’ shall have the meaning specified in Clause 1.1 above
+
+‘MNSA’ shall have the meaning specified in Clause 1.1 above
+
+‘MNSA Commitment’ shall have the meaning specified in Clause 1.1 above
+
+‘Network Enhancements’ shall have the meaning specified in Clause 2.3 above
+
+‘NSAs’ or ‘NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘O2’ shall have the meaning specified in Clause 1.1 above
+
+‘Other Commitments’ shall have the meaning specified in Clause 1.4 above
+
+‘PA’ shall have the meaning specified in Clause 1.3 above
+
+‘PPFGNV’ shall have the meaning specified in Clause 1.1 above
+
+‘Proceedings’ shall have the meaning specified in Clause 1.1 above
+
+‘Regulation 1/2003’ shall have the meaning specified in Clause 1.1 above
+
+‘Sharing Parties’ shall have the meaning specified in Clause 1.2 above
+
+‘SO’ shall have the meaning specified in Clause 1.3 above
+
+‘TMCZ’ shall have the meaning specified in Clause 1.2 above
+
+In Brussels on 16 September 2021
+
+For and on behalf of O2 Czech Republic a.s.
+
+____________________________________
+
+4
+
+ANNEX 1
+MNSA MODIFICATIONS
+
+[...]
+
+5
+
+CASE AT.40305 – CZECH NETWORK SHARING
+
+COMMITMENTS OFFERED TO THE EUROPEAN COMMISSION
+PURSUANT TO ARTICLE 9 OF THE COUNCIL REGULATION (EC) NO 1/2003
+
+8 INTRODUCTION
+
+8.1 In accordance with Article 9 of Council Regulation (EC) No 1/2003 (the ‘Regulation 1/2003’),
+CETIN a.s. (‘CETIN’) and O2 Czech Republic a.s. (‘O2’; CETIN and O2 jointly also
+as the ‘Committing Parties’) offer to the European Commission (the ‘Commission’)
+in response to the Commission's concerns against CETIN, O2 and PPF Group N.V.
+(‘PPFGNV’) in Case AT.40305 – Czech Network Sharing (the ‘Proceedings’) the following
+commitment. The commitment concerns the Mobile Network Services Agreement of 2 June
+2015 between CETIN and O2, as amended (the ‘MNSA’ and the commitment hereunder
+as the ‘MNSA Commitment’).
+
+8.2 On 25 October 2016, the Commission formally opened the Proceedings against CETIN, O2
+and T-Mobile Czech Republic (‘TMCZ’) regarding the network sharing agreements between
+TMCZ and CETIN on 2G, 3G and 4G technology, namely:
+
+• the network sharing agreement of 29 October 2013 between TMCZ and CETIN (together
+the ‘Sharing Parties’), as amended, covering 2G and 3G (the ‘2G/3G NSA’); and
+
+• the network sharing agreement of 2 May 2014 between the Sharing Parties, as amended
+(the ‘4G NSA’), covering 4G
+
+(the 2G/3G NSA and the 4G NSA jointly also as the ‘NSAs’ and each individua lly
+as the ‘NSA’).
+
+8.3 On 7 August 2019, the Commission addressed the Statement of Objections No. C(2019) 6021
+final to TMCZ, CETIN and O2 and, on 14 February 2020, the Statement of Objections
+No. C(2020)961 final to PPFGNV and Deutsche Telekom AG (both Statements of Objections
+collectively referred to as the ‘SO’). On 30 August 2021, the Commission then addressed
+the Preliminary Assessment No. C(2021) 6483 final to CETIN, O2, PPFGNV, TMCZ
+and Deutsche Telekom AG (the “PA”).
+
+8.4 The MNSA Commitment is being made by the Committing Parties as a part of the other
+commitments made by the Committing Parties (or one of them) and TMCZ within
+the Proceedings (the “Other Commitments”). The Committing Parties offer the MNSA
+Commitment along with the Other Commitments to meet the Commission’s concerns on the
+understanding that the Commission will adopt a decision pursuant to Article 9 of Council
+Regulation 1/2003 making the MNSA Commitment binding, concluding that there are
+no grounds for further action against CETIN, O2 and PPFGNV or any of their subsidiaries, and
+closing the Proceedings (the ‘Commitment Decision’).
+6
+
+8.5 Consistent with Article 9 of Regulation 1/2003, the MNSA Commitment is made without
+prejudice to CETIN's and O2’s position that the NSAs do not infringe Article 101 TFEU or any
+other competition law or other laws of the European Union or its Member States and that the
+MNSA also does not raise or exacerbate any competition concerns. The MNSA Commitment
+cannot be interpreted as an acknowledgement by CETIN and/or O2 that any of the allegations
+made by the Commission in the SO, the PA and/or elsewhere within the Proceedings are valid.
+
+8.6 The capitalised terms in this MNSA Commitment shall have the meaning ascribed to them in
+the text of this MNSA Commitment as well as, for the avoidance of doubts, in Section 7.
+
+9 AMENDMENT TO THE MOBILE NETWORK SERVICES AGREEMENT
+BETWEEN CETIN AND O2
+
+9.1 Within 2 months as of the date on which O2 and CETIN are both notified by the Commission
+of the adoption of the final Commitment Decision (the “Commencement Date”), CETIN and
+O2 will modify the MNSA as described below.
+
+9.2 The MNSA Commitment shall ensure that the intended meaning behind the MNSA Clauses
+concerned by the MNSA Commitment is clear and that no doubts arise as to the interpretation
+of their impact on the relations between CETIN and O2 and/or on the treatment of O2 and
+TMCZ, respectively, by CETIN, all of the foregoing in relation to the position of CETIN, O2
+and TMCZ in relation to the mobile network operated by CETIN under the MNSA and the
+NSAs.
+
+9.3 The contractual modifications shall concern the specification and clarification concerning the
+following areas:
+
+d) CETIN shall treat (i) O2 under the MNSA [provisions of MNSA related to network
+deployment] to (ii) TMCZ under the NSAs solely to the extent of the so-called
+[provisions of MNSA related to network deployment] services, i.e. the services which
+CETIN and TMCZ provide to each other [provisions of MNSA related to network
+deployment] under the NSAs [provisions of MNSA related to network deployment]
+whereas, for the avoidance of doubts, such services exclude any individual network
+enhancements, upgrades etc. which services are to be requested from CETIN
+individually and independently of each other by each of O2 and TMCZ, if desired (the
+“Network Enhancements”). In other words, the [provisions of MNSA related to
+network deployment] treatment shall only apply in order to ensure that the [provisions
+of MNSA related to network deployment] operation and maintenance of the mobile
+network provided by CETIN and TMCZ (in the positions of the respective master
+operators) to each other is extended also to O2 (in a position of a retail-only mobile
+network operator without its own mobile network infrastructure).
+
+e) CETIN shall not (i) inform O2 about or (ii) pass on or otherwise automatically make
+available to O2 [provisions of MNSA related to information exchange].
+
+7
+
+f) CETIN shall not be constrained by O2 in changing the design and composition of the
+mobile network [provisions of MNSA related to network changes].
+
+9.4 The foregoing shall be, for the avoidance of any doubts, articulated as generally applicable
+principles in Clauses 4.2, 4.4, 4.5 and 4.7 of the MNSA.
+
+9.5 The particular contractual modifications of the MNSA subject to the MNSA Commitment are
+specified in Annex 1 hereto.
+
+10 DURATION OF MNSA COMMITMENT
+
+10.1 The MNSA Commitment will take effect on and from the Commencement Date.
+
+10.2 Without prejudice to Article 9(2) of Council Regulation 1/2003 the MNSA Commitment will
+remain in force for a period of (i) the term of the MNSA or (ii) the term of the NSAs whichever
+of those terms ends earlier. It is understood that the MNSA Commitment will remain in force
+in case that any of the NSAs is terminated while the other NSA remains valid and in force.
+
+11 MONITORING TRUSTEE
+
+11.1 Given the scope of the MNSA Commitment, no monitoring by a monitoring trustee is
+envisaged. The compliance with the MNSA Commitment will be proved to the Commission by
+delivering copies of the signed contractual documents containing the MNSA modification as
+described in Annex 1 herein.
+
+12 REVIEW CLAUSE
+
+12.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003, the
+Committing Parties may request the Commission to review and modify the MNSA
+Commitment where there has been a material change in any of the relevant facts, law or
+circumstances on which the Commitment Decision was based.
+
+12.2 Without prejudice to the provisions of Article 9(2) of Council Regulation 1/2003, the
+Commission may, on its own initiative, review the MNSA Commitment if there has been a
+material change in any of the facts on which the Commitment Decision was based.
+
+13 NO CIRCUMVENTION
+
+13.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003, the
+Committing Parties shall not circumvent or attempt to circumvent the MNSA Commitment in
+any way. For the avoidance of doubt, the mere fact that a network sharing agreement is
+concluded with regards to the 5G technology shall not constitute circumvention of the MNSA
+Commitment.
+
+8
+
+14 DEFINITIONS
+
+‘2G/3G NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘4G NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘CETIN’ shall have the meaning specified in Clause 1.1 above
+
+‘Commencement Date’ shall have the meaning specified in Clause 2.1 above
+
+‘Commitment Decision’ shall have the meaning specified in Clause 1.4 above
+
+‘Committing Parties’ shall have the meaning specified in Clause 1.1 above
+
+‘Commission’ shall have the meaning specified in Clause 1.1 above
+
+‘MNSA’ shall have the meaning specified in Clause 1.1 above
+
+‘MNSA Commitment’ shall have the meaning specified in Clause 1.1 above
+
+‘Network Enhancements’ shall have the meaning specified in Clause 2.3 above
+
+‘NSAs’ or ‘NSA’ shall have the meaning specified in Clause 1.2 above
+
+‘O2’ shall have the meaning specified in Clause 1.1 above
+
+‘Other Commitments’ shall have the meaning specified in Clause 1.4 above
+
+‘PA’ shall have the meaning specified in Clause 1.3 above
+
+‘PPFGNV’ shall have the meaning specified in Clause 1.1 above
+
+‘Proceedings’ shall have the meaning specified in Clause 1.1 above
+
+‘Regulation 1/2003’ shall have the meaning specified in Clause 1.1 above
+
+‘Sharing Parties’ shall have the meaning specified in Clause 1.2 above
+
+‘SO’ shall have the meaning specified in Clause 1.3 above
+
+‘TMCZ’ shall have the meaning specified in Clause 1.2 above
+
+In Prague on 15 September 2021
+For and on behalf of CETIN a.s .
+_____________________________________
+Acknowledged and agreed to by PPF Group N. V.
+______________________________________
+9
+
+ANNEX 1
+MNSA MODIFICATIONS
+
+[...]
+
+10

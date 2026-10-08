@@ -1,0 +1,105 @@
+## Annex 1 - Monitoring Trustee
+
+## I. Appointment procedure
+
+1. Renfe shall appoint a Monitoring Trustee to carry out the functions specified below in order to ensure compliance with the Commitments.
+
+2. The Monitoring Trustee shall:
+
+i. at the time of appointment, be independent of Renfe and its affiliates;
+
+ii. possess the necessary qualifications to carry out its mandate; and
+
+iii. neither have nor become exposed to a Conflict of Interest.
+
+3. The Monitoring Trustee shall be remunerated by Renfe in a way that does not impede the independent and effective fulfilment of its mandate.
+
+## Proposal by Renfe
+
+4. No later than two weeks after the Effective Date, Renfe shall submit the name or names of one or more natural or legal persons whom Renfe proposes to appoint as the Monitoring Trustee(s) to the Commission for approval. The proposal shall contain sufficient information for the Commission to verify that the person or persons proposed as Monitoring Trustee fulfil the requirements set out in paragraph 2 and shall include:
+
+a. the full terms of the proposed mandate, which shall include all provisions necessary to enable the Monitoring Trustee to fulfil its duties under these Commitments; and
+
+b. the outline of a work plan which describes how the Monitoring Trustee intends to carry out its assigned tasks.
+
+## Approval or rejection by the Commission
+
+5. The Commission shall have the discretion to approve or reject the proposed Monitoring Trustee(s) and to approve the proposed mandate subject to any modifications it deems necessary for the Monitoring Trustee to fulfil its obligations. If only one name is approved, Renfe shall appoint or cause to be appointed the person or persons concerned as Monitoring Trustee, in accordance with the mandate approved by the Commission. If more than one name is approved, Renfe shall be free to choose the Monitoring Trustee to be appointed from among the names approved. The Monitoring Trustee shall be appointed within one week of the Commission's approval, in accordance with the mandate approved by the Commission.
+
+## New proposal by the Renfe
+
+6. If all the proposed Monitoring Trustees are rejected, Renfe shall submit the names of at least two more natural or legal persons within one week of being informed of the rejection, in accordance with paragraphs 1 and 5.
+
+## Monitoring Trustee nominated by the Commission
+
+7. If all further proposed Monitoring Trustees are rejected by the Commission, the Commission shall nominate a Monitoring Trustee, whom Renfe shall appoint, or cause to be appointed, in accordance with a Monitoring Trustee mandate approved by the Commission.
+
+## II. Functions and obligations of the Monitoring Trustee
+
+8. The Monitoring Trustee shall assume its specified duties and obligations in order to ensure compliance with the Commitments. The Commission may, on its own initiative or at the request of the Monitoring Trustee or Renfe, give any orders or instructions to the Monitoring Trustee in order to ensure compliance with the Commitments. Renfe may not give instructions to the Monitoring Trustee.
+
+## 9. The Monitoring Trustee shall:
+
+(i)) Propose to the Commission, within two weeks of its appointment, a detailed work plan describing how it intends to monitor compliance with the Commitments;
+
+(ii) Provide the Commission with written reports on Renfe's compliance with the Commitments, sending Renfe a non-confidential copy at the same time;
+
+(iii) Act as a contact point for any request by Third-party Ticketing Platforms and, in case of disagreement on matters related to the Commitments, discuss those matters with both sides, notably any measure of temporary suspension of access to VAV (or any other Renfe API that may replace VAV in the future) that has been adopted by Renfe in the event of non-compliance with the maximum monthly average L2B or the measures taken by Renfe to remedy the excess of the Maximum Error Rate or the Maximum Unavailability Rate;
+
+(iv) Propose to Renfe such measures as the Monitoring Trustee considers necessary to ensure Renfe's compliance with the Commitments;
+
+(v) At any time, provide to the Commission, at its request, with a written or oral report on matters related to Renfe's compliance with the Commitments, notably on the evidence of the event of Force Majeure and of the exercise of all the due care to be submitted by Renfe in accordance with paragraph 20 of the Commitments;
+
+(vi) Promptly report in writing to the Commission, sending Renfe a non-confidential copy at the same time, if it concludes on reasonable grounds that Renfe is failing to comply with these Commitments.
+
+The reports referred to in this paragraph shall be provided in English.
+
+10. The reports referred to in paragraph 9(ii) shall cover each of the following periods and be sent to the Commission within one month from the end of the respective period:
+
+i.from the Effective Date until 31 March 2024; the report shall notably cover (a) the amendment to the existing contracts or the conclusion of a new contract, either to be offered to Third-party Ticketing Platforms within one month from the Effective Date, and future contracts and/or the template contract between Renfe and Third-party Ticketing Platforms, (b) the availability to Third-party Ticketing Platforms of Renfe Content and RTD already available on Renfe's digital distribution channels or mobility platform, and (c) the timing of the advance announcement by Renfe of any new Renfe Content or RTD to all Third-party Ticketing Platforms and of the technical specifications required to adapt their IT systems to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future);
+
+ii.from 1 April 2024 to 30 June 2024; the report shall notably cover (a) the availability to Third-party Ticketing Platforms of Renfe Content and RTD, including Content and RTD which required a tender procedure for being included in VAV (or any other Renfe API that may replace VAV in the future), and (b) the timing of the advance announcement by Renfe of any new Renfe Content or RTD to all Third-party Ticketing Platforms and of the technical specifications required to adapt their IT systems to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future);
+
+iii.from 1 July 2024 to 31 December 2024; the report shall notably cover (a) the availability to Third-party Ticketing Platforms of Renfe Content, including tickets for Luxury Tourist Trains and Leisure Tourist Trains in VAV and Renfe content to be included in VOL A, and RTD, including RTD on scheduled incidents affecting tickets that have already been sold in VAV and RTD relating to unscheduled delays on Cercanías trains in VOL A, and (b) the timing of the advance announcement by Renfe of any new Renfe Content or RTD to all Third-party Ticketing Platforms and of the technical specifications required to adapt their IT systems to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future);
+
+iv.from 1 January to 31 December of each of the following years until 2032; the report shall notably cover (a) the availability to Third-party Ticketing Platforms of Content and RTD, (b) the timing of the advance announcement by Renfe of any new Content or RTD to all Third-party Ticketing Platforms and of the technical specifications required to adapt their IT systems to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future;
+
+v.from 1 January 2033 until the date corresponding to 10 years from the Effective Date; the report shall notably cover (a) the availability to Third-party Ticketing Platforms of Content and RTD, and (b) the timing of the advance announcement by Renfe of any new Content or RTD to all Third-party Ticketing Platforms and of the technical specifications required to adapt their IT systems to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future.
+
+11. The Monitoring Trustee shall not disclose any confidential information to anyone other than the Commission. Any confidential information obtained by the Monitoring Trustee in the performance of the duties and obligations specified in these Commitments shall be kept in the strictest confidence and shall be used solely for the purpose of performing the duties and obligations specified in the Commitments. The Monitoring Trustee shall ensure that adequate safeguards are established and adhered to in taking delivery of, tracking the dissemination of, monitoring the use of, protecting against the disclosure of and determining the safe disposal of confidential information, but those safeguards shall not be such as to prevent the Monitoring Trustee from effectively fulfilling its duties and obligations specified in these Commitments. The Monitoring Trustee shall not make any public statements relating to the performance of its functions regarding these Commitments. The Monitoring Trustee shall sign confidentiality undertakings addressed to the Commission and Renfe warranting its knowledge of and compliance with its duties and obligations specified in these Commitments. The Monitoring Trustee shall abide by obligations of non-disclosure imposed in Article 28(2) of Regulation 1/2003 with regard to any information acquired in the performance of its mandate or from the Commission, even after the term of its mandate.
+
+## III. Duties and obligations of Renfe
+
+12. Renfe shall provide and shall cause its advisors to provide the Monitoring Trustee with all such co-operation, assistance and information as the Monitoring Trustee may reasonably require to perform its tasks. The Monitoring Trustee shall have full and complete access to any of Renfe's books, records, documents, management or other personnel, facilities, sites, IT systems and technical information necessary for fulfilling its duties under the Commitments and Renfe shall provide the Monitoring Trustee upon request with copies of any document. On reasonable request and notice, Renfe shall make available to the Monitoring Trustee one or more offices on their premises and shall be available for meetings in order to provide the Monitoring Trustee with all information necessary for the performance of its tasks.
+
+1. All confidential information will be provided by Renfe to the Monitoring Trustee subject to due respect by the Monitoring Trustee of the confidentiality of such information as provided in paragraph 11 above.
+
+14. At the expense of Renfe, the Monitoring Trustee may appoint advisors, subject to Renfe's approval (this approval not to be unreasonably withheld or delayed) if the Monitoring Trustee considers the appointment of such advisors necessary or appropriate for the performance of its duties and obligations under the mandate, provided that any fees and other expenses incurred by the Monitoring Trustee are reasonable the management committee should reflect the approval of the Monitoring Trustee's commission may approve the appointment of such advisors instead, after having heard Renfe. Only the Monitoring Trustee shall be entitled to issue instructions to the advisors. The advisors must not have any Conflict of Interest with Renfe.
+
+15. Renfe agrees that the Commission may share confidential information proprietary to Renfe with the Monitoring Trustee. The Monitoring Trustee shall not disclose such information and the principles contained in Regulation 1/2003 regarding confidential information and business secrets apply mutatis mutandis.
+
+16. Renfe agrees that the contact details of the Monitoring Trustee are published on the website of the Commission's Directorate-General for Competition and they shall inform interested third parties of the identity and the tasks of the Monitoring Trustee.
+
+## IV. Replacement, discharge and reappointment of the Monitoring Trustee
+
+17. If the Monitoring Trustee ceases to perform its functions under the Commitments or for any other good cause, including the exposure of the Monitoring Trustee to a Conflict of Interest:
+
+a. the Commission may, after hearing the Monitoring Trustee and Renfe, require Renfe to replace the Monitoring Trustee; or
+
+b. Renfe may, with the prior approval of the Commission, replace the Monitoring Trustee.
+
+18. If the Monitoring Trustee is removed according to paragraph 17, the Monitoring Trustee may be required to continue in its function until a new Monitoring Trustee is in place to whom the Monitoring Trustee has effected a full hand over of all relevant information. The new Monitoring Trustee shall be appointed in accordance with the procedure referred to in paragraphs 1 to 7 above.
+
+19. Unless removed according to paragraph 17, the Monitoring Trustee shall cease to act as Monitoring Trustee only after the Commission has discharged it from its duties after a period of 10 years as of the Effective Date. However, the Commission may at any time require the reappointment of the Monitoring Trustee if it subsequently appears that the relevant remedies might not have been fully and properly implemented.
+
+## V. Fast-track dispute resolution procedure
+
+20. The contracts between Renfe and Third-party Ticketing Platforms (or amendments thereto) entered into pursuant to paragraph 17 of the Commitments shall provide for a fast-track dispute resolution procedure in the event of a dispute between Renfe and a Third-party Ticketing Platform related to the compliance with the Commitments.
+
+21. Any party (Renfe or the Third-party Ticketing Platform) wishing to avail itself of the fast-track dispute resolution procedure shall send a written request to the other party (with a copy to the Monitoring Trustee) setting out in detail the reasons leading that party to believe that the counterparty is failing to comply with its obligations related with the Commitments. The parties will use their best efforts to resolve all differences of opinion and settle all disputes that may arise through cooperation and consultation within a reasonable period of time not exceeding two weeks after receipt of the request. The Monitoring Trustee shall present its own proposal for resolving the dispute within one additional week, specifying in writing the action, if any, to be taken in order to ensure compliance with the obligations related with the Commitments and be prepared, if requested by mutual agreement of both parties, to facilitate the settlement of the dispute.
+
+22. Should the parties fail to resolve their dispute through the fast-track dispute resolution procedure, the parties may agree to submit such dispute to the Courts.
+
+2. If a Third-party-Ticketing Platform sends, in accordance with paragraph 21, a written request to Renfe in relation to paragraph 8(i) of the Commitments at the latest three weeks before the end of the two-month period referred to in paragraph 8(i)(a), Renfe may not temporarily suspend the platform's access unless the Monitoring Trustee assesses and concludes, in its own proposal, that such suspension would be compliant with the Commitments. For the avoidance of doubt, any temporary suspension implemented by Renfe without the positive conclusion of the Monitoring Trustee would be considered as a breach of the Commitments.
+
+24. If a Third-party-Ticketing Platform sends, in accordance with paragraph 21, a written request to Renfe in relation to paragraph 8(ii) of the Commitments and the Monitoring Trustee assesses and concludes that the conditions for temporary suspension set out in paragraph 8(ii) are not fulfilled or the platform has implemented the necessary measures to resolve the issue, Renfe undertakes to reinstate the platform's access immediately after being informed of the conclusion of the Monitoring Trustee. For the avoidance of doubt, any failure to reinstate immediately the platform's access would be considered as a breach of the Commitments.

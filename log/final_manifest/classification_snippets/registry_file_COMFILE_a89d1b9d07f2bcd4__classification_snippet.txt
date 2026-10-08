@@ -1,0 +1,476 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Décision de la Commission
+
+du 11.10.2007
+
+relative à une procédure d'application de l'article 82 du traité CE
+
+(Affaire COMP/B-1/37966 – Distrigaz)
+
+(Le texte en langue anglaise est le seul faisant foi)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en
+œuvre des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment
+son article 9, paragraphe 1,
+
+vu les décisions prises par la Commission, les 26 février 2004 et 8 mai 2006, d'engager la
+procédure dans cette affaire,
+
+après avoir exprimé des préoccupations dans la communication des griefs du
+26 février 2004, l'évaluation préliminaire du 30 juin 2005 et la communication des griefs
+complémentaire du 8 mai 2006,
+
+après avoir donné aux tiers intéressés l'occasion de présenter leurs observations,
+conformément à l'article 27, paragraphe 4, du règlement (CE) n° 1/20032,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur,
+
+CONSIDÉRANT CE QUI SUIT:
+
+1. OBJET
+
+(1) L'entreprise suivante est destinataire de la présente décision: Distrigaz S.A. /
+Distrigas N.V. (ci-après dénommée «Distrigaz»). Le 26 février 2004, la
+Commission a engagé la procédure en adoptant une communication des griefs
+visant les contrats de fourniture de gaz conclus entre Distrigaz et un client
+industriel. Le 30 juin 2005, la Commission a adopté une évaluation préliminaire
+concernant les contrats de fourniture de gaz conclus entre Distrigaz et diverses
+catégories de clients (utilisateurs industriels, producteurs d'électricité, revendeurs)
+en Belgique. Le 8 mai 2006, la Commission a adopté une communication des
+griefs complémentaire qui portait pour l'essentiel sur les contrats de fourniture de
+gaz conclus entre Distrigaz et des utilisateurs industriels en Belgique. Ces trois
+documents constituent des évaluations préliminaires au sens de l'article 9,
+paragraphe 1, du règlement (CE) n° 1/2003.
+
+(2) Selon ces évaluations préliminaires, Distrigaz détient une position dominante sur
+le marché de la fourniture de gaz aux gros clients en Belgique (subdivisé
+éventuellement en marchés distincts en fonction des différentes catégories de
+
+1 JO L 1 du 4.1.2003, p. 1. Règlement modifié par le règlement (CE) n° 411/2004 (JO L 68 du 8.3.2004,
+p. 1).
+
+2 JO C 77 du 5.4.2007, p.48.
+
+2
+
+clients que sont les clients industriels, les producteurs d'électricité et les
+revendeurs). À quelques très rares exceptions près, les clients n'ont qu'un seul
+fournisseur de gaz et la concurrence sur le marché de la fourniture de gaz ne
+s'exerce donc qu'à l'expiration d'un contrat et à la conclusion d'un nouveau. Les
+préoccupations exprimées par la Commission dans ses évaluations préliminaires
+avaient trait au fait que les contrats de fourniture de gaz à long terme de Distrigaz
+empêchaient les clients de l'entreprise de changer de fournisseur et limitaient ainsi
+les possibilités pour d'autres fournisseurs de gaz de conclure des contrats avec ces
+clients, verrouillant, par là même, leur accès au marché.
+
+2. LES PARTIES
+
+(3) Distrigaz fait partie du groupe Suez, qui comprend Electrabel, le principal
+producteur et fournisseur d'électricité en Belgique, et Electrabel Customer
+Solutions N.V. (ci-après dénommée «ECS»), revendeur de gaz et d'électricité.
+Avant la libéralisation du secteur du gaz découlant de la transposition de
+Directive 98/30/CE du Parlement européen et du Conseil du 22 juin 1998
+concernant des règles communes pour le marché intérieur du gaz naturel3,
+Distrigaz détenait l'exclusivité en matière de transport et de stockage souterrains
+du gaz en Belgique et était l'unique fournisseur de gaz des gros clients. Depuis la
+libéralisation, Distrigaz est toujours le plus gros importateur et fournisseur de gaz
+en Belgique. L'entreprise est aussi présente sur les marchés de la fourniture de gaz
+français, allemand et néerlandais, de même que sur ceux du transit du gaz et du
+gaz naturel liquéfié. En 2006, le chiffre d'affaires de Distrigaz atteignait 4 626
+millions d'euros, dont 3 691 millions d'euros en Belgique.
+
+(4) Le 14 novembre 2006, la Commission a autorisé la concentration entre Suez et
+Gaz de France (ci-après dénommée «GDF»), sous réserve d'un certain nombre de
+conditions4. Ces dernières comprennent la cession de Distrigaz, la cession de SPE
+(deuxième producteur d'électricité en Belgique, en partie détenu par GDF),
+l'abandon du contrôle de Fluxys (propriétaire et opérateur du réseau gazier belge),
+et la conclusion de contrats de fourniture de gaz à long terme entre Distrigaz et
+GDF/Suez, en vue de couvrir une partie des besoins d'Electrabel et d'ECS. Les
+mesures correctives ne sont applicables qu'à la réalisation de la concentration.
+Dans l'intervalle, Distrigaz est gérée indépendamment du reste du groupe Suez,
+sous le contrôle d'un mandataire.
+
+3. LES PRATIQUES EXAMINEES
+
+(5) Les pratiques examinées sont les contrats de fourniture de gaz à long terme
+conclus par Distrigaz avec de gros clients en Belgique. Les préoccupations de la
+Commission ont trait au fait que ces contrats à long terme pourraient entraîner
+l'exclusion des autres fournisseurs du marché et, par voie de conséquence,
+
+3 JO L 204 du 21.7.1998, p. 1. Directive abrogé et remplacé par Directive 2003/54/EC du 1 juillet 2003
+(OJ L 176, 15.7.2003, p. 57).
+
+4 Décision de la Commission du 14 novembre 2006 dans l'affaire COMP/M.4180 Gaz de France / Suez;
+voir:
+http://ec.europa.eu/comm/competition/mergers/cases/decisions/m4180_20061114_20600_fr.pdf
+
+3
+
+empêcher le développement de la concurrence devant découler de la libéralisation
+du secteur du gaz.
+
+4. DEROULEMENT DE LA PROCEDURE PREVUE PAR LE REGLEMENT N° 17/625 ET LE
+REGLEMENT N° 1/2003
+
+(6) Le 26 février 2004, la Commission a engagé la procédure en adoptant une
+communication des griefs visant les contrats de fourniture de gaz conclus entre
+Distrigaz et un client industriel. Le 30 juin 2005, la Commission a adopté une
+évaluation préliminaire concernant les contrats de fourniture de gaz conclus entre
+Distrigaz et diverses catégories de clients (utilisateurs industriels, producteurs
+d'électricité, revendeurs) en Belgique. Le 8 mai 2006, la Commission a adopté
+une communication des griefs complémentaire qui portait pour l'essentiel sur les
+contrats de fourniture de gaz conclus entre Distrigaz et des utilisateurs industriels
+en Belgique, et a ouvert une procédure concernant l'ensemble des contrats de
+fourniture de gaz de Distrigaz en Belgique. Ces trois documents constituent des
+évaluations préliminaires au sens de l'article 9, paragraphe 1, du
+règlement (CE) n° 1/2003.
+
+(7) Le 1er mars 2007, Distrigaz a proposé des engagements en réponse à ces
+évaluations préliminaires.
+
+(8) Le 5 avril 2007, la Commission a publié6 au Journal officiel de l'Union
+européenne, conformément à l'article 27, paragraphe 4, du
+règlement (CE) n° 1/2003, une communication résumant l'affaire et les
+engagements proposés par Distrigaz et invitant les tiers intéressés à présenter
+leurs observations sur ces engagements dans un délai d'un mois à compter de cette
+publication.
+
+(9) Le 15 mai 2007, la Commission a informé Distrigaz des observations reçues des
+tiers intéressés à la suite de la publication de la communication. Le 12 juin 2007,
+Distrigaz a introduit une proposition d'engagements modifiée.
+
+(10) Le 17 septembre 2007, le comité consultatif en matière d'ententes et de positions
+dominantes a été consulté. Le 25 septembre.2007, le conseiller-auditeur a rendu
+son rapport final.
+
+5. ÉVALUATION PRELIMINAIRE
+
+5.1. Les marchés en cause
+
+Le marché de produits
+
+(11) Le marché de produits en cause a été identifié comme étant celui de la fourniture
+de gaz à haut pouvoir calorifique (ci-après dénommé «gaz de type H») – par
+opposition au gaz à bas pouvoir calorifique (ci-après dénommé «gaz de type B»)
+
+5 OJ 13, 21.2.1962, p.204/62. Règlement modifié dernièrement par règlement (CE) n°1/2003.
+
+6 Voir note de bas de page 2.
+
+4
+
+– aux clients connectés au réseau de transport ou connectés au réseau de
+distribution et ayant une consommation annuelle de gaz dépassant 1 million m3
+(subdivisé éventuellement en marchés distincts en fonction des différentes
+catégories de clients, telles que les clients industriels, les producteurs d'électricité
+et les revendeurs). Pour les besoins de la présente procédure, il n'est pas
+nécessaire de définir ce marché avec davantage de précision.
+
+Marché géographique
+
+(12) Le marché géographique en cause a été identifié comme étant la Belgique,
+compte tenu du régime juridique et réglementaire, de la structure du marché et
+des écarts de prix existant entre le pays et les États membres voisins. Cette
+définition du marché est conforme à la pratique de la Commission dans d'autres
+affaires de concurrence7.
+
+5.2. La position dominante
+
+(13) Dans ses évaluations préliminaires, la Commission a estimé que Distrigaz
+jouissait d'une position dominante, au sens de l'article 82 du traité CE, sur le(s)
+marché(s) en cause. Cet avis se fondait sur les éléments suivants: a) la part de
+marché très élevée détenue par Distrigaz plus de cinq ans après la libéralisation
+du secteur du gaz; b) l'existence de barrières considérables à l'entrée sur le marché
+en cause; et c) d'autres facteurs tels que l'intégration verticale de Distrigaz au sein
+du groupe Suez, qui a renforcé la position de Distrigaz sur le marché.
+
+(14) En 2004, la part de marché de Distrigaz sur le marché (ou segment) en cause pour
+les clients industriels était de [55-65]∗ %. En outre, ECS, un autre membre du
+groupe Suez, avait une part de marché de [5-15]* %. Ce qui signifie que la part de
+marché totale de Distrigaz et des entreprises liées était de [70-80]* %. Par
+comparaison, la part de marché du deuxième fournisseur sur le marché en cause
+était de [5-15]* %.
+
+(15) Les barrières à l'entrée identifiées dans les évaluations préliminaires sont
+notamment les suivantes:
+
+- le régime d'équilibrage sur le réseau de transport;
+
+- la difficulté à utiliser le gaz en transit pour approvisionner les clients en Belgique;
+
+- les encombrements aux points d'entrée du réseau belge de transport du gaz;
+
+- le manque de liquidité sur le hub de Zeebrugge, ce qui en fait une source
+d'approvisionnement en gaz non fiable pour les fournisseurs en Belgique; ainsi
+que
+
+- le manque de concurrence effective sur le marché du gaz de type B, qui a eu un
+effet d'entraînement sur celui du gaz de type H, du fait que certains clients ayant
+
+7 A titre d'exemple, voir l'affaire Gaz de France / Suez - COMP/M.4180.
+
+∗ Certaines parties du présent texte ont été adaptées de manière à ne pas divulguer des informations
+confidentielles ; ces parties ont été mises entre crochets et signalées par un astérisque.
+
+5
+
+plusieurs sites souhaitaient un seul fournisseur pour l'ensemble de leurs sites en
+Belgique, dont certains étaient connectés au réseau de gaz de type B et les autres
+au réseau de gaz de type H.
+
+(16) La position occupée par Distrigaz en tant que membre du groupe Suez a renforcé
+sa position sur le(s) marché(s). Parmi les autres membres du groupe Suez se
+trouvent Electrabel, qui est le plus gros consommateur de gaz en Belgique, et ce
+en raison de ses activités de production d'électricité à partir du gaz; et ECS, qui
+est un des plus gros revendeurs de gaz présents sur le marché belge et des pays
+voisins. En outre, de nombreuses entreprises de distribution locales ont ou avaient
+des liens structurels avec le groupe Suez. Distrigaz est assurée d'écouler, à
+intervalles réguliers, d'importantes quantités de gaz auprès de gros clients au sein
+du groupe, auxquels les concurrents potentiels de l'entreprise ne peuvent, selon
+toute vraisemblance, pas avoir accès. Si la concentration GDF/Suez se réalise,
+Distrigaz sera cédée, ce qui règlera le problème du renforcement de la position
+dominante de Distrigaz dû à son intégration verticale, mais ne supprimera pas la
+position dominante elle-même.
+
+5.3. Pratiques soulevant des problèmes de concurrence
+
+(17) Dans sa communication des griefs initiale, la Commission avait examiné les deux
+problèmes suivants: le verrouillage du marché et les restrictions relatives à
+l'utilisation et à la revente du gaz contenues dans un contrat de Distrigaz passé
+avec un gros consommateur d'énergie. Avant l'envoi de la communication des
+griefs, Distrigaz a supprimé les restrictions relatives à l'utilisation et à la revente
+du gaz de ses contrats avec le client en cause et a entrepris, de façon informelle,
+de faire de même pour ses autres clients. Par la suite, l'affaire a porté
+principalement sur le verrouillage du marché.
+
+(18) Distrigaz dispose d'un portefeuille de contrats de durées variables conclus avec
+des clients sur le(s) marché(s) en cause, qui obligent ces derniers à acheter des
+volumes de gaz déterminés à Distrigaz. Étant donné la position détenue par
+Distrigaz sur le marché, la Commission s'inquiète d'un possible verrouillage de
+l'accès aux clients dû à la combinaison de deux facteurs: la durée des contrats et
+les volumes de gaz liés à Distrigaz. Les autres fournisseurs pourraient ainsi
+éprouver des difficultés à se constituer une clientèle viable.
+
+Quantité liée dans le cadre des contrats de Distrigaz
+
+(19) Les contrats entre Distrigaz et ses clients sur le marché en cause se répartissaient,
+en gros, en deux catégories. Quelques contrats contenaient des clauses explicites
+exigeant du client qu'il s'approvisionne en gaz exclusivement auprès de Distrigaz.
+La plupart des contrats prévoyaient une quantité contractuelle annuelle (QCA)
+déterminée ainsi qu'une quantité annuelle minimale (QAM) [...]*. En outre,
+Distrigaz était contractuellement tenue d'assurer la fourniture de gaz à
+concurrence d'une quantité maximale [...]*. Le contrat obligeait ainsi le client à
+acheter des quantités minimales à Distrigaz tout en lui permettant de couvrir
+toutes ses exigences à l'égard de Distrigaz, même s'il était impossible de savoir
+exactement à l'avance quelle serait sa consommation annuelle. Pour quelques
+clients, [...]*. Dans ce type de contrats, aucune quantité n'était donc liée.
+
+(20) A de rares exceptions près, les clients avait un seul fournisseur de gaz. L'enquête
+réalisée sur le marché a révélé que seuls les très gros clients, dont la
+6
+
+consommation annuelle dépasse 500 GWh de gaz, pouvaient, dans la pratique
+s'approvisionner auprès de plusieurs fournisseurs. Les clients dont la
+consommation annuelle était inférieure à ce seuil étaient dès lors considérés
+comme étant, de facto, obligés d'acheter leur gaz exclusivement auprès de leur
+fournisseur, et ce jusqu'à l'échéance de leur contrat, sauf dans les cas où [...]*.
+Les clients dont la consommation annuelle était supérieure à ce seuil étaient
+considérés comme étant obligés d'acheter la QAM à leur fournisseur jusqu'à
+l'échéance de leur contrat.
+
+Durée des contrats de Distrigaz
+
+(21) Les contrats de fourniture de gaz doivent s'aligner sur les 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+es ne donne un préavis de
+résiliation à l’autre partie, ou toute clause prévoyant une négociation entre un
+client ou un revendeur et Distrigaz avant la prochaine date d’expiration
+contractuelle dans le but de conclure un nouvel accord de fourniture de gaz.
+
+2. ENGAGEMENTS
+
+2.1. Clauses spécifiques
+
+2.1.1. Distrigaz s’engage à ne pas insérer dans ses nouveaux accords de fourniture
+de gaz de clause par laquelle le client ou le revendeur est restreint dans l’utilisation, la
+revente ou la destination du gaz acheté à Distrigaz12. Elle fera tout ce qui est en son
+pouvoir pour veiller à ce que les accords de fourniture de gaz existants soient modifiés de
+façon à en retirer de telles clauses, et s’abstiendra d’appliquer de telles clauses dans tout
+accord de fourniture de gaz existant.
+
+2.1.2. Distrigaz s’engage à ne pas insérer de clause de tacite reconduction dans ses
+nouveaux accords de fourniture de gaz. Elle fera tout ce qui est en son pouvoir pour
+veiller à ce que les accords de fourniture de gaz existants soient modifiés de façon à en
+retirer de telles clauses, ou dénoncera, avec effet à la prochaine date d’expiration
+contractuelle, tout accord de fourniture de gaz existant contenant encore de telles clauses.
+
+2.2. Accords de fourniture de gaz avec les clients
+
+2.2.1. Distrigaz s’engage, au titre du présent point 2.2, à ce qu’un certain volume de
+gaz retourne sur le marché chaque année civile, conformément aux dispositions figurant
+ci-après.
+
+2.2.2. Distrigaz veillera à ce que, pour chaque année civile au cours de laquelle les
+présents engagements s’appliquent, au moins 65% du volume pertinent et, pour la
+moyenne de toutes les années civiles au cours desquelles les présents engagements
+s’appliquent, au moins 70% du volume pertinent soit fourni au titre d’accords de
+fourniture de gaz avec des clients relevant des catégories suivantes:
+
+- accords d’une durée de n années, pour lesquels QCA/n sera pris en compte
+pour le calcul des pourcentages susmentionnés du volume pertinent;
+
+et/ou
+
+12 Étant entendu qu’une clause dont le seul objet est de désigner le point de fourniture du gaz n’est pas
+contraire aux obligations prévues par le point 2.1.1 des présents engagements.
+
+18
+
+- accords d’une durée de n années, prenant effet ou se terminant au cours d’une
+année civile, pour lesquels QCA/n sera pris en compte pro rata temporis pour
+les première et dernière années civiles de ces contrats, en vue du calcul des
+pourcentages susmentionnés du volume pertinent.
+
+2.2.3. Si, au cours d’une année civile, le volume pertinent est inférieur au volume
+pertinent de référence, pour déterminer si elle a satisfait à son engagement au titre du
+point 2.2.2, Distrigaz aura la possibilité de remplacer les expressions «65% du volume
+pertinent» et «70% du volume pertinent», visées au point 2.2.2, par «le volume pertinent
+moins [13-18]* TWh» ou, au plus tôt à partir de la date à laquelle les mesures correctives
+deviennent caduques, comme elles le prévoient, ou de la date de cession de Distrigaz, par
+«le volume pertinent moins [15-20]* TWh».
+
+2.2.4. Si la somme des QAT des accords de fourniture de gaz conclus avec des
+clients dépasse le volume pertinent de plus de 10%, les quantités dépassant ces 10%
+seront ajoutées à la QCA et au volume pertinent, en application du point 2.2.2, pour
+chaque accord de fourniture de gaz conclu avec un client dont la QAT dépasse la QCA
+de plus de 10%.
+
+2.2.5. Distrigaz s’engage à ne pas de conclure de nouveaux accords de fourniture de
+gaz avec des clients d’une durée supérieure à cinq ans (exception faite des accords
+internes au groupe et des accords de fourniture de gaz destinés à l’approvisionnement en
+gaz des centrales électriques d’Electrabel, comme indiqué explicitement au
+chapitre C.II.2 des mesures correctives).
+
+2.3. Accords de fourniture de gaz avec les revendeurs
+
+Distrigaz s’engage à ne pas conclure de nouveaux accords de fourniture de gaz avec des
+revendeurs d’une durée supérieure à deux ans (exception faite des accords internes au
+groupe et des accords destinés à la fourniture de gaz à ECS, comme indiqué
+explicitement au chapitre C.II.2 des mesures correctives). Distrigaz confirme qu’à la date
+d’effet, elle n’a aucun accord de fourniture de gaz avec des revendeurs ayant une durée
+initiale supérieure à trois ans et une durée restante supérieure à deux ans.
+
+2.4. Accords de fourniture de gaz existants
+
+En ce qui concerne les accords de fourniture de gaz existants conclus avec des clients
+pour une durée supérieure à cinq ans, Distrigaz accordera au client un droit unilatéral de
+résilier cet accord sans indemnité, avec effet à chaque date anniversaire de sa conclusion
+et moyennant un préavis de six mois. Aux fins de l’application du point 2.2, un tel accord
+sera réputé avoir été conclu pour une durée d’un an. Distrigaz confirme qu’à la date
+d’effet, elle n’a conclu aucun accord de fourniture de gaz d’une durée supérieure à
+cinq ans autre que les accords de fourniture de gaz existants visés au présent point 2.4,
+sans préjudice des dispositions des points 3.2, 3.3 et 3.4.
+
+19
+
+3. DUREE ET CHAMP D’APPLICATION
+
+3.1. Les présents engagements seront applicables pour une durée de quatre ans à
+compter du 1er janvier 2007.
+
+3.2. Les présents engagements ne sont pas applicables aux (i) activités de négoce
+de gaz sur le hub de Zeebrugge ou tout autre hub gazier en Belgique, ou à tout autre point
+frontière pertinent en Belgique, à l’exception des ventes aux clients, ni aux (ii) ventes
+effectuées hors de Belgique13.
+
+3.3. Les présents engagements ne sont pas applicables aux accords de fourniture
+de gaz conclus avec des clients dans la mesure où ceux-ci ont besoin d’être
+approvisionnés en gaz en vue de nouveaux investissements en matière de capacité de
+production d’électricité, à condition que ces nouveaux investissements14 représentent une
+capacité installée de production d’électricité d’au moins 10 MW.
+
+3.4. Les présents engagements ne sont pas applicables aux accords internes au
+groupe ni aux accords de fourniture de gaz mentionnés explicitement au chapitre C.II.2
+des mesures correctives.
+
+3.5. Dans l’hypothèse où les mesures correctives deviendraient caduques, comme
+elles les prévoient, pour l’application du point 2.2:
+
+- les accords de fourniture de gaz conclus par des entreprises liées avec des
+clients seront considérés comme des accords de fourniture de gaz. À cet effet,
+les quantités contractuelles annuelles seront ajoutées au volume pertinent;
+
+et
+
+- les accords de fourniture de gaz au titre desquels du gaz est fourni au cours
+de l’année civile 2007 et pour lesquels une entreprise liée a accordé au client
+un droit de résiliation, moyennant un préavis de six mois et sans indemnité,
+avec effet à chaque date anniversaire de l’entrée en vigueur dudit accord,
+seront réputés avoir été conclus pour une durée d’un an.
+
+3.6. Aux fins de l’application du point 2.2, à compter de la date de cession de
+Distrigaz:
+
+- les nouveaux accords de fourniture de gaz conclus par des entreprises liées
+avec des clients après la date de cession de Distrigaz seront considérés
+comme des accords de fourniture de gaz. À cet effet, les quantités
+contractuelles annuelles correspondantes seront ajoutées au volume pertinent;
+
+et
+
+13 Étant entendu que Distrigaz ne sollicitera pas activement de ventes hors de Belgique dans l’intention
+de contourner les présents engagements.
+
+14 Aux fins de l’application de ce point 3.3, tout investissement dans une nouvelle capacité de production
+d’électricité pour lequel les opérations commerciales ont débuté après le 1er janvier 2006 sera
+considéré comme un nouvel investissement dans la capacité de production d’électricité.
+
+20
+
+- les accords de fourniture de gaz existants conclus par des entreprises liées
+avec des clients avant la date de cession de Distrigaz seront considérés
+comme des accords de fourniture de gaz 12 mois après cette date si la somme
+des quantités contractuelles annuelles de ces accords existants dépasse cinq
+pour cent du volume pertinent de référence, auquel cas les quantités
+contractuelles annuelles correspondantes seront ajoutées au volume pertinent
+et au volume pertinent de référence. Aux fins de l’application du présent
+point 3.6, second tiret, lesdits accords de fourniture de gaz au titre desquels le
+client se voit accorder un droit de résiliation, moyennant un préavis de
+six mois et sans indemnité, avec effet à chaque date anniversaire de l’entrée
+en vigueur dudit accord, seront réputés avoir été conclus pour une durée
+d’un an.
+
+3.7. Les présents engagements ne lieront Distrigaz que dans la mesure où et aussi
+longtemps qu’elle détient une part de plus de 40% et au moins supérieure de 20% à celle
+de son principal concurrent sur le marché belge de la fourniture de gaz naturel aux
+clients. Aux fins de l’application du présent point 3.7, les ventes effectuées par des
+entreprises liées à des clients seront ajoutées aux ventes de Distrigaz et à la taille du
+marché belge, mais les accords internes au groupe et les accords de fourniture de gaz
+mentionnés explicitement au chapitre C.II.2 des mesures correctives ne seront pas ajoutés
+aux ventes de Distrigaz ni à la taille du marché belge.
+
+4. DISPOSITIONS EN MATIERE DE CONTROLE
+
+Distrigaz établira un rapport annuel concernant le respect des engagements et le
+transmettra à la Commission le 15 février de chaque année pour l’année civile
+précédente. Le premier rapport sera transmis le 15 février 2008 pour l’année civile 2007
+ou dans un délai d’un mois à compter de la date d’effet, si celle-ci est postérieure.
+
+5. MECANISMES DE REEXAMEN
+
+Conformément à l’article 9, paragraphe 2, point a), du règlement (CE) n° 1/2003 du
+Conseil, Distrigaz pourra demander à la Commission de rouvrir la procédure en vue
+d’une modification des présents engagements si l’un des faits sur lesquels repose la
+décision adoptée par la Commission en application de l’article 9, paragraphe 1, de ce
+règlement, et notamment la structure du marché, subit un changement important.
+
+21

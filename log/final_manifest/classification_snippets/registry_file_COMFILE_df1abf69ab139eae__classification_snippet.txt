@@ -1,0 +1,475 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPÄISCHE KOMMISSION
+GENERALDIREKTION WETTBEWERB
+
+FALL AT.40178 – PKW-EMISSIONEN
+
+(Nur der deutsche Text ist verbindlich)
+
+KARTELLVERFAHREN
+
+Verordnung (EG) Nr. 1/2003 des Rates
+
+Artikel 7 Verordnung (EG) Nr. 1/2003 des Rates
+
+Datum: 08/07/2021
+
+Dieser Text wird allein zum Zwecke der Information zugänglich gemacht. Eine Zusammenfassung
+dieses Beschlusses ist in allen Amtssprachen der EU im Amtsblatt der Europäischen Union
+veröffentlicht.
+
+Teile dieses Textes wurden gelöscht, um die Vertraulichkeit bestimmter Angaben zu wahren. Diese
+Teile wurden durch eine nichtvertrauliche Zusammenfassung in eckigen Klammern oder durch [...]
+ersetzt.
+
+EUROPÄISCHE
+KOMMISSION
+
+Brüssel, den 8.7.2021
+C(2021) 4955 final
+
+BESCHLUSS DER KOMMISSION
+
+vom 8.7.2021
+
+in einem Verfahren nach Artikel 101 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 53 des EWR-Abkommens
+
+(AT.40178 - Pkw-Emissionen)
+
+(Text von Bedeutung für den EWR)
+
+(Nur der deutsche Text ist verbindlich)
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. Einleitung ..................................................................................................................... 4
+2. Der vom Verfahren betroffene Wirtschaftszweig ........................................................ 5
+
+2.1. Das betroffene Produkt................................................................................................. 6
+2.2. Die verfahrensbeteiligten Unternehmen....................................................................... 6
+
+2.2.1. DAIMLER.................................................................................................................... 6
+2.2.2. VW ............................................................................................................................... 7
+2.2.3. BMW ............................................................................................................................ 8
+
+2.3. Der betroffene Markt.................................................................................................... 8
+2.4. Der Rechtsrahmen in Bezug auf EU-Emissionsnormen für Pkw (ab Euro 5) ............. 9
+
+2.5. Funktionsweise von SCR-Systemen .......................................................................... 11
+3. Verfahren.................................................................................................................... 12
+4. Sachverhaltsdarstellung.............................................................................................. 14
+
+4.1. Organisation und Struktur der Kontakte zwischen DAIMLER, VW und BMW....... 14
+4.2. Sachverhalt ................................................................................................................. 14
+
+4.2.1. Zum Verhalten bezüglich Tankgrößen, Reichweiten und angenommenen
+durchschnittlichen AdBlue-Verbrauchswerten .......................................................... 15
+4.2.2. Fragen im Zusammenhang mit der Entwicklung und Einführung von SCR-Systemen
+waren wettbewerbsrelevant ........................................................................................ 17
+4.3. Individuelle Beteiligung von DAIMLER, VW und BMW ........................................ 18
+
+5. Rechtliche Beurteilung: Anwendung von Artikel 101 des Vertrages und 53 EWR-
+Abkommen ................................................................................................................. 19
+5.1. Anwendung von Artikel 101 Absatz 1 des Vertrages und Artikel 53 Absatz 1 des
+EWR-Abkommens ..................................................................................................... 19
+5.1.1. Vereinbarungen und/oder aufeinander abgestimmte Verhaltensweisen .................... 19
+
+5.1.2. Einschränkung des Wettbewerbs ............................................................................... 23
+5.1.3. Einheitliche und fortgesetzte Zuwiderhandlung ........................................................ 31
+5.1.4. Handel zwischen Mitgliedstaaten und zwischen Vertragsparteien des EWR-
+Abkommens ............................................................................................................... 36
+5.2. Nichtanwendbarkeit von Artikel 101 Absatz 3 des Vertrages und des Artikels 53
+Absatz 3 EWR-Abkommen........................................................................................ 37
+6. Dauer der Teilnahme der verfahrensverfangenen Unternehmen an der
+Zuwiderhandlung ....................................................................................................... 38
+
+7. Verantwortlichkeit...................................................................................................... 38
+8. Abhilfemaßnahmen .................................................................................................... 44
+
+8.1. Artikel 7 der Verordnung Nr. 1/2003......................................................................... 44
+8.2. Artikel 23 Absatz 2 der Verordnung Nr. 1/2003........................................................ 45
+
+DE 1 DE
+
+8.3. Zum Grundsatz ne bis in idem ................................................................................... 45
+8.3.1. Keine Identität des Sachverhalts ................................................................................ 46
+8.3.2. Keine Identität des geschützten Rechtsguts ............................................................... 46
+
+8.3.3. Schlussfolgerung ........................................................................................................ 47
+8.4. Berechnung der Geldbußen ........................................................................................ 47
+
+8.4.1. Der Umsatz................................................................................................................. 47
+8.4.2. Festsetzung des Grundbetrags der Geldbußen ........................................................... 48
+8.4.2.1. Schwere der Zuwiderhandlung................................................................................... 48
+
+8.4.2.2. Dauer der Zuwiderhandlung....................................................................................... 48
+8.4.2.3. Zusatzbetrag zum Zweck der Abschreckung ............................................................. 49
+
+8.4.2.4. Berechnung des Grundbetrags ................................................................................... 49
+8.4.3. Anpassung des Grundbetrags: Erschwerende oder mildernde Umstände.................. 50
+8.4.4. Abschreckung ............................................................................................................ 50
+
+8.4.5. Anwendung der Obergrenze von 10% des Umsatzes ................................................ 51
+8.4.6. Anwendung der Kronzeugenregelung........................................................................ 51
+
+8.4.7. Anwendung der Vergleichsmitteilung ....................................................................... 52
+9. Schlussfolgerung – Gesamtbetrag der mit diesem Beschluss zu verhängenden
+Geldbußen .................................................................................................................. 52
+
+DE 2 DE
+
+BESCHLUSS DER KOMMISSION
+
+vom 8.7.2021
+
+in einem Verfahren nach Artikel 101 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 53 des EWR-Abkommens
+
+(AT.40178 - Pkw-Emissionen)
+
+(Text von Bedeutung für den EWR)
+
+(Nur der deutsche Text ist verbindlich)
+
+DIE EUROPÄISCHE KOMMISSION,
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union1,
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum2,
+
+gestützt auf die Verordnung des Rates (EG) Nr. 1/2003 vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln3,
+insbesondere auf Artikel 7 und Artikel 23 Absatz 2,
+
+gestützt auf die Verordnung der Kommission (EG) Nr. 773/2004 vom 7. April 2004 über die
+Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82 EG Vertrag durch die
+Kommission4, insbesondere auf Artikel 10a,
+
+gestützt auf den Beschluss der Kommission vom 18. September 2018 zur förmlichen
+Einleitung des Verfahrens in diesem Fall,
+
+nachdem den betroffenen Unternehmen Gelegenheit gegeben wurde, zu den
+Beschwerdepunkten Stellung zu nehmen, die die Kommission gemäß Artikel 27 Absatz 1 der
+Verordnung (EG) Nr. 1/2003 und Artikel 11 Absatz 1 der Verordnung (EG) Nr. 773/2004
+erhoben hatte,
+
+1 ABl. C 115 vom 9.5.2008, S. 47. Obwohl das Vereinigte Königreich am 1. Februar 2020 gemäß
+Artikel 92 des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und
+Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (ABl. L 29 vom
+31.1.2020, S. 7) aus der Europäischen Union ausgetreten ist, ist die Kommission für die Anwendung
+des EU-Wettbewerbsrechts gegenüber dem Vereinigten Königreich für Verwaltungsverfahren, die vor
+Ablauf des Übergangszeitraums eingeleitet wurden, weiterhin zuständig.
+2 Für die Zwecke dieses Beschlusses umfasst der EWR die 27 Mitgliedsstaaten der EU (Belgien,
+Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien,
+Kroatien, Lettland, Litauen, Luxemburg, Malta, die Niederlande, Österreich, Polen, Portugal,
+Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn und Zypern)
+sowie das Vereinigte Königreich und Liechtenstein, Island und Norwegen. Demzufolge erfassen
+Verweise auf den EWR in diesem Beschluss auch das Vereinigte Königreich.
+3 ABl. L 1, 4.1.2003, S. 1.
+Mit Wirkung vom 1. Dezember 2009 wurde Artikel 81 des EG-Vertrags zu Artikel 101 des Vertrages
+über die Funktionsweise der Europäischen Union (‘der Vertrag‘). Beide Vorschriften sind im
+Wesentlichen identisch. Für die Zwecke dieses Beschlusses sind Verweise auf Artikel 101 des
+Vertrages als Verweise auf Artikel 81 des EG-Vertrages zu verstehen, wo dies angebracht ist.
+4 ABl. L 123, 27.4.2004, S. 18.
+
+DE 3 DE
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten in diesem Fall,
+in Erwägung nachstehender Gründe:
+
+1. EINLEITUNG
+(1) Die Adressaten dieses Beschlusses nahmen an einer einheitlichen und fortgesetzten
+Zuwiderhandlung gegen Artikel 101 des Vertrages über die Funktionsweise der
+Europäischen Union (‘der Vertrag‘) und Artikel 53 des EWR-Abkommens teil.
+(2) Die Kommission leitete am 18. September 2018 ein Kartellverfahren wegen des
+Verdachts ein, dass die deutschen Automobilhersteller Daimler AG (‘DAIMLER‘),
+die Volkswagen Gruppe mit ihren operativen Konzerngesellschaften Volkswagen
+Aktiengesellschaft (‘Volkswagen‘ bzw. ‘Volkswagen AG‘), Audi Aktiengesellschaft
+(‘Audi‘ bzw. ‘Audi AG‘) und Dr. Ing. h.c. F. Porsche Aktiengesellschaft (‘Porsche‘
+bzw. ‘Dr. Ing. h.c. F. Porsche AG‘)5 (Volkswagen, Audi und Porsche zusammen
+‘VW‘)6, sowie die Bayerische Motoren Werke Aktiengesellschaft (‘BMW‘ bzw.
+‘BMW AG‘) ihr Marktverhalten im Europäischen Wirtschaftsraum (‘EWR‘) mit dem
+Ziel koordinierten, die technische Entwicklung und den Innovationswettbewerb auf
+dem Gebiet der Technologien zur Abgasreinigung für Personenkraftwagen (‘Pkw‘)7
+einzuschränken, und damit Artikel 101 Absatz 1 des Vertrages und Artikel 53 Absatz
+1 des EWR-Abkommens verletzten (Fall AT.40178 – Pkw-Emissionen).
+(3) Am 5. April 2019 erfolgte in diesem Fall eine Mitteilung der Beschwerdepunkte im
+ordentlichen Verfahren durch die Kommission, in welcher sie ein mutmaßliches
+wettbewerbswidriges Verhalten im Zusammenhang mit der Entwicklung und
+Einführung von Systemen zur selektiven katalytischen Reduktion (‘selective
+catalytic reduction‘ – SCR) für Pkw mit Dieselmotor einerseits, sowie von
+Ottopartikelfiltern (OPF) für Pkw mit Ottomotor andererseits darstellte. Die
+Kommission erlässt in diesem Fall nunmehr folgenden verfahrensabschließenden
+Beschluss.
+(4) Dieser Beschluss betrifft wettbewerbswidriges Verhalten im Zusammenhang mit der
+Entwicklung von SCR-Systemen für Pkw mit Dieselmotor. Das wettbewerbswidrige
+Verhalten fand vom 25. Juni 2009 bis zum 1. Oktober 2014 (nachfolgend ‘der
+relevante Zeitraum‘) statt.
+(5) DAIMLER, VW und BMW (zusammen ‘die Parteien‘) stimmten ihr Marktverhalten
+in Bezug auf in Pkw mit Dieselmotoren eingesetzten SCR-Systemen ab. Sie
+koordinierten für den Europäischen Wirtschaftsraum (‘EWR‘)8 die Größen ihrer
+
+5 ‘Porsche‘ bezeichnet die Dr. Ing. h.c. F. Porsche AG sowie die Gesellschaft, deren wirtschaftlicher
+Nachfolger die Dr. Ing. h.c. F. Porsche AG ist, s.u. Rn. (27) und (189) - (192).
+
+6 In der Zeit vom 25. Juni 2009 bis zum 6. Dezember 2009 hat die Volkswagen AG keinen maßgeblichen
+Einfluss auf Porsche ausgeübt, s.u. Rn. (28) und (189) - (192).
+
+7 Pkw sind Fahrzeuge der ‚Klasse M: Zur Personenbeförderung ausgelegte und gebaute Kraftfahrzeuge
+mit mindestens vier Rädern‘ gem. Anhang II der Richtlinie 2007/46/EG.
+
+8 Für die Zwecke dieses Beschlusses umfasst der EWR die 27 Mitgliedsstaaten der EU (Belgien,
+Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien,
+Kroatien, Lettland, Litauen, Luxemburg, Malta, die Niederlande, Österreich, Polen, Portugal,
+Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn und Zypern)
+
+DE 4 DE
+
+AdBlue-Tanks sowie die Reichweiten zwischen zwei Nachfüllungen und tauschten
+sich über angenommene durchschnittliche AdBlue-Verbrauchswerte aus.
+(6) Dieser Beschluss richtet sich an folgende Unternehmen:
+
+– DAIMLER: Daimler AG
+– VW: Volkswagen AG, Audi AG und Dr. Ing. h.c. F. Porsche AG
+
+– BMW: BMW AG.
+(7) Das Verhalten war seinem Wesen nach dazu geeignet, den Wettbewerb bei
+Produkteigenschaften ihrer neuen Diesel-Pkw Modelle in Bezug auf AdBlue-
+Tankgrößen und Nachfüllreichweiten und in Bezug auf die über die regulatorischen
+Vorgaben hinausgehende Stickoxid (NOx)-Reinigung und damit bei der technischen
+Entwicklung auf dem Gebiet der NOx-Reinigung durch SCR-Systeme für neue
+Diesel-Pkw im EWR einzuschränken und die Auswahl für die Kunden zu begrenzen.
+(8) Dieses Verfahren ist unabhängig von Verfahren nationaler Zulassungsbehörden oder
+Staatsanwaltschaften gegen einzelne Parteien bezüglich der Einhaltung öffentlichrechtlicher Zulassungsvorschriften. Dementsprechend werden hier keine
+Feststellungen getroffen zu folgenden Sachverhalten: (a) der Frage des Einsatzes von
+verbotenen Abschalteinrichtungen durch einzelne Autohersteller, (b) der Frage, ob
+und inwieweit einzelne Autohersteller die regulatorischen Anforderungen bei der
+NOx-Reinigung eingehalten haben, und (c) der Frage, ob Modelle einzelner
+Autohersteller die regulatorischen Anforderungen bei der NOx-Reinigung übererfüllt
+haben. Die Kommission verfügt über keine Hinweise darauf, dass es zu einer
+Abstimmung zwischen den Parteien bezüglich des Einsatzes verbotener
+Abschalteinrichtungen zur Manipulation von Abgastests gekommen wäre.
+
+(9) Die von den Parteien im relevanten Zeitraum sowie in den darauffolgenden Jahren
+hergestellten und vermarkteten Pkw mit SCR-Systemen hatten keine einheitlic
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n den USA gegen VW verhängten Sanktionen.
+
+TABELLE 5
+
+Unternehmen Angepasster Grundbetrag (EUR)
+
+DAIMLER [...]
+
+VW [...]
+
+BMW [...]
+
+8.4.4. Abschreckung
+
+(237) Die Kommission trägt insbesondere dem Umstand Rechnung, dass Geldbußen eine
+hinreichend abschreckende Wirkung haben sollen. Dazu kann die Kommission die
+Geldbußen für Unternehmen, die über den Wert der mit der Zuwiderhandlung in
+Verbindung stehenden verkauften Waren oder Dienstleistungen hinaus einen
+besonders hohen Umsatz erzielen, erhöhen. In diesem Fall hat die Kommission
+jedoch in Ausübung des ihr diesbezüglich zustehenden Ermessens entschieden, von
+einer solchen zusätzlichen Erhöhung in Anbetracht der besonderen Umstände des
+vorliegenden Falles abzusehen, da die zu verhängenden Geldbußen in absoluten
+
+202 Ziffern 28-29 der Leitlinien zur Festsetzung von Geldbußen.
+203 [...].
+
+DE 50 DE
+
+Zahlen bereits erheblich und bei einer Gesamtbetrachtung des Verstoßes als
+hinreichend abschreckend anzusehen sind.
+8.4.5. Anwendung der Obergrenze von 10% des Umsatzes
+
+(238) Die Geldbuße für jedes an einer Zuwiderhandlung beteiligte Unternehmen darf 10%
+des Gesamtumsatzes, den es in dem Geschäftsjahr erzielt hat, das dem
+Kommissionsbeschluss vorausgegangen war, nicht übersteigen.204
+(239) Keine der errechneten Geldbußen übersteigt 10% des weltweiten Gesamtumsatzes
+des jeweiligen Unternehmens im Jahr 2020.
+
+8.4.6. Anwendung der Kronzeugenregelung
+(240) DAIMLER stellte einen Antrag auf Erlass, hilfsweise Ermäßigung der Geldbuße
+nach der Kronzeugenregelung und ergänzte am 9. Dezember 2015 seinen
+ursprünglichen Kronzeugenantrag indem es weitere Informationen und zusätzliche
+Unterlagen zu Absprachen hinsichtlich der AdBlue-Tankgrößen und Reichweiten
+übermittelte. Der Antrag wurde durch weitere mündliche Erklärungen und
+Unterlagen ergänzt. DAIMLER war das erste Unternehmen, das die
+Voraussetzungen der Randnummer 8 a) der Kronzeugenregelung erfüllte.
+(241) DAIMLER wurde am 5. April 2019 ein bedingter Erlass der Geldbuße für die
+Zuwiderhandlung gewährt. DAIMLER erfüllte die Anforderungen der
+Kronzeugenregelung hinsichtlich der Zusammenarbeit mit der Kommission während
+des gesamten Verfahrens. Die Kommission bestätigt den Erlass der Geldbuße für
+DAIMLER.
+(242) Am 4. Juli 2016 stellte VW einen Antrag auf Erlass, hilfsweise Ermäßigung der
+Geldbuße nach der Kronzeugenregelung. Der Antrag wurde durch weitere mündliche
+Erklärungen und Unterlagen ergänzt. VW war das erste Unternehmen, das die
+Voraussetzungen der Randnummern 24 und 25 der Kronzeugenregelung erfüllte. Am
+5. April 2019 stellte die Kommission VW eine bedingte Ermäßigung der Geldbuße in
+der Bandbreite von 30 % bis 50 % in Aussicht.
+(243) VW machte geltend, dass es in Bezug auf die Zuwiderhandlung in der Zeit vom
+25. Juni 2009 bis Anfang 2011 für einen teilweisen Erlass der Geldbuße in Betracht
+käme. VW bringt vor, es sei die erste Partei gewesen, die es der Kommission durch
+die Vorlage stichhaltiger Beweise ermöglicht hat, die Dauer der Zuwiderhandlung
+um den frühen Zeitraum zu verlängern. Allerdings hatte DAIMLER schon vor VW
+Informationen vorgelegt, aus denen hervorging, dass die Zuwiderhandlung im Juni
+2009 begann.205 Daher erfüllt der Antrag von VW auf teilweisen Erlass der Geldbuße
+nicht die Voraussetzungen von Randnummer 26 Absatz 3 der Kronzeugenregelung.
+
+(244) Um die Höhe der Ermäßigung der Geldbuße innerhalb der Bandbreite zu bestimmen,
+berücksichtigt die Kommission den Zeitpunkt, zu dem die Beweismittel vorgelegt
+wurden, sowie deren Mehrwert für die Feststellung der Zuwiderhandlung. Was den
+Zeitpunkt betrifft, hat VW seinen Antrag vor der Nachprüfung der Kommission
+gestellt. Ergänzungen erfolgten sowohl vor als auch nach der Nachprüfung.
+Hinsichtlich des Mehrwerts ist festzustellen, dass die Kommission bereits aufgrund
+des Antrags von DAIMLER über wesentliche Informationen zur
+Verletzungshandlung verfügte. Bei den nach der Nachprüfung von VW übermittelten
+Informationen ist zu berücksichtigen, dass die Kommission während der
+
+204 Artikel 23 Absatz 2 der Verordnung Nr. 1/2003.
+
+205 [...].
+
+DE 51 DE
+
+Nachprüfung relevante Beweismittel erlangt hat. Dennoch hat VW eine Reihe
+nützlicher Informationen geliefert, insbesondere Beweisstücke für die
+Zuwiderhandlung und Erklärungen des Kontextes. VW hat damit die bereits in der
+Akte befindlichen Informationen bestätigt und die Beweisführung der Kommission
+erleichtert.
+
+(245) Angesichts des Zeitpunkts der Vorlage und des Mehrwerts der von VW vorgelegten
+Informationen für die Feststellung der Zuwiderhandlung und da VW ferner die
+Anforderungen der Kronzeugenregelung hinsichtlich der Zusammenarbeit mit der
+Kommission während des gesamten Verfahrens erfüllte, wird die Ermäßigung auf
+45% festgesetzt.
+
+8.4.7. Anwendung der Vergleichsmitteilung
+(246) Gemäß Ziffer 32 der Vergleichsmitteilung, wird die gegen jede der Parteien zu
+verhängende Geldbuße um 10% ermäßigt. Diese Ermäßigung kommt zu der auf
+Grundlage der Kronzeugenregelung gewährten Ermäßigung hinzu.
+
+9. SCHLUSSFOLGERUNG – GESAMTBETRAG DER MIT DIESEM BESCHLUSS ZU
+VERHÄNGENDEN GELDBUßEN
+(247) Die Volkswagen AG ist für die gesamte Dauer des Verstoßes als Muttergesellschaft
+der Audi AG verantwortlich. Die Volkswagen AG und die Audi AG sind daher für
+die gesamte Dauer des Verstoßes gesamtschuldnerisch für die Geldbuße haftbar. Die
+Volkswagen AG ist für den Zeitraum vom 7. Dezember 2009 bis zum 1. Oktober
+2014 als Muttergesellschaft der Dr. Ing. h.c. F. Porsche AG verantwortlich. Für
+diesen Zeitraum ist daher die Dr. Ing. h.c. F. Porsche AG mit der Volkswagen AG
+und der Audi AG für die Geldbuße gesamtschuldnerisch haftbar. Der auf diesen
+Zeitraum entfallende Anteil der Geldbuße wird berechnet, indem die Geldbuße den
+jeweiligen Zeiträumen pro rata zugeordnet wird, wobei die Eintrittsgebühr
+vollständig dem längeren Zeitraum zugeordnet wird. Vom 25. Juni 2009 bis 6.
+Dezember 2009 war die Dr. Ing. h.c. F. Porsche AG direkt an der Zuwiderhandlung
+beteiligt, ohne dass die Volkswagen AG maßgeblichen Einfluss auf die Dr. Ing. h.c.
+F. Porsche AG ausgeübt hat. Die Dr. Ing. h.c. F. Porsche AG erhält für diesen
+Zeitraum keine separate Geldbuße, da sie keine relevanten Umsätze erzielte.
+
+(248) Die nach Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 zu verhängenden
+Geldbußen sind in Tabelle 6 aufgeführt.
+
+TABELLE 6
+
+Unternehmen Geldbußen (EUR)
+
+DAIMLER 0
+
+502 362 000
+
+Davon:
+VW Volkswagen AG, Audi AG und Dr. Ing. h.c. F. Porsche AG, als
+Gesamtschuldner 466 172 000
+Volkswagen AG und Audi AG, als Gesamtschuldner 36 190 000
+
+BMW 372 827 000
+
+DE 52 DE
+
+HAT FOLGENDEN BESCHLUSS ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen verstießen gegen Artikel 101 Absatz 1 Buchstabe b des Vertrags
+und Artikel 53 Absatz 1 Buchstabe b des EWR-Abkommens, indem sie vom 25. Juni 2009 bis
+zum 1. Oktober 2014 für den EWR die Größen ihrer AdBlue-Tanks sowie die Reichweiten
+zwischen zwei Nachfüllungen koordinierten und sich über angenommene durchschnittliche
+AdBlue-Verbrauchswerte austauschten, womit sie an einer einheitlichen und fortgesetzten
+Zuwiderhandlung teilnahmen, die den gesamten EWR betraf und ihrem Wesen nach geeignet
+war, den Wettbewerb bei der technischen Entwicklung im Bereich der NOx-Reinigung durch
+SCR-Systeme für neue Diesel-Pkw einzuschränken:
+(1) Daimler AG;
+(2) Volkswagen Aktiengesellschaft, Audi Aktiengesellschaft und Dr. Ing. h.c. F.
+Porsche Aktiengesellschaft;
+(3) Bayerische Motoren Werke Aktiengesellschaft.
+
+Artikel 2
+Für die in Artikel 1 genannte Zuwiderhandlung, werden die folgenden Geldbußen verhängt:
+(1) Daimler AG: EUR 0;
+
+(2) (a) Volkswagen Aktiengesellschaft, Audi Aktiengesellschaft und Dr. Ing.
+h.c. F. Porsche Aktiengesellschaft, als Gesamtschuldner: EUR 466 172 000;
+
+(b) Volkswagen Aktiengesellschaft und Audi Aktiengesellschaft, als
+Gesamtschuldner: EUR 36 190 000;
+(3) Bayerische Motoren Werke Aktiengesellschaft: EUR 372 827 000.
+
+Die Geldbußen müssen innerhalb einer Frist von sechs Monaten ab dem Datum der Zustellung
+dieses Beschlusses auf dem nachstehenden Bankkonto der Europäischen Kommission in Euro
+gutgeschrieben sein:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz; L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000 / BIC: BCEELULL
+Ref.: EC/BUFI/AT.40178
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Zinssatz fällig, der von der
+Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Tag des Monats, in
+dem dieser Beschluss erlassen worden ist, angewandt wird, zuzüglich 3,5 Prozentpunkte.
+Wenn ein in Artikel 1 angeführtes Unternehmen Klage erhebt, muss das Unternehmen die
+Geldbuße spätestens bis zum Fälligkeitsdatum entweder durch Bereitstellung einer akzeptablen
+Finanzgarantie oder durch eine vorläufige Zahlung der Geldbuße gemäß Artikel 108 der
+Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates206 decken.
+
+206 Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018
+über die Haushaltsordnung für den Gesamthaushaltsplan der Union (ABl. L 193 vom 30.7.2018, S. 80).
+
+DE 53 DE
+
+Artikel 3
+Die in Artikel 1 genannten Unternehmen haben die Zuwiderhandlung unverzüglich zu beenden,
+so sie das nicht bereits getan haben.
+
+Sie müssen jede Wiederholung von Handlungen, wie sie in Artikel 1 beschrieben sind, und jede
+Handlung mit gleichartigem Zweck oder gleichartigen Auswirkungen unterlassen.
+
+Artikel 4
+
+Dieser Beschluss richtet sich an:
+(a) Daimler AG, Mercedesstraße 120, 70372 Stuttgart, Deutschland
+
+(b) Volkswagen Aktiengesellschaft, Berliner Ring 2, 38440 Wolfsburg, Deutschland
+(c) Audi Aktiengesellschaft, Auto-Union-Straße 1, 85045 Ingolstadt, Deutschland
+
+(d) Dr. Ing. h.c. F. Porsche Aktiengesellschaft, Porscheplatz 1, 70435 Stuttgart,
+Deutschland
+(e) Bayerische Motoren Werke Aktiengesellschaft, Petuelring 130, 80809 München,
+Deutschland
+
+Dieser Beschluss ist gemäß Artikel 299 des Vertrags und Artikel 110 des EWR-Abkommens
+vollziehbar.
+Brüssel, den 8.7.2021
+
+Für die Kommission
+Margrethe VESTAGER
+Exekutiv-Vizepräsidentin
+
+DE 54 DE

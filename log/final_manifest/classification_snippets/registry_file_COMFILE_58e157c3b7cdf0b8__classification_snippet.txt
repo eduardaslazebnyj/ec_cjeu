@@ -1,0 +1,617 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+COMMISSION DECISION
+
+of 13 September 2006
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+(Case COMP / 38.456 – Bitumen - NL)
+
+(notified under document number (2006) 4090)
+
+EN EN
+
+TABLE OF CONTENTS
+
+I. INTRODUCTION................................................................................................................... 6
+
+II. THE INDUSTRY SUBJECT TO THE PROCEEDING ........................................................ 7
+
+1. THE PRODUCT .................................................................................................................... 7
+
+2. UNDERTAKINGS................................................................................................................. 8
+
+2.1. SHELL................................................................................................................................ 8
+
+2.2. KUWAIT PETROLEUM......................................................................................................... 8
+
+2.3. BP...................................................................................................................................... 9
+
+2.4. EXXONMOBIL.................................................................................................................... 9
+
+2.5. KLÖCKNER....................................................................................................................... 10
+
+2.6. TOTAL.............................................................................................................................. 10
+
+2.7. NYNÄS............................................................................................................................. 11
+
+2.8. ESHA................................................................................................................................ 11
+
+2.9. WINTERSHALL................................................................................................................. 12
+
+2.10. HEIJMANS ........................................................................................................................ 12
+
+2.11. KWS................................................................................................................................ 12
+
+2.12. BAM NBM ..................................................................................................................... 13
+
+2.13. HBG................................................................................................................................ 13
+
+2.14. BALLAST NEDAM............................................................................................................. 14
+
+2.15. DURA VERMEER .............................................................................................................. 14
+
+2.16. OTHER ACTORS IN THE INDUSTRY, NOT SUBJECT TO THE PROCEEDING............................. 14
+
+2.16.1. ASPHALT PLANTS........................................................................................................ 14
+
+2.16.2. CROW........................................................................................................................ 15
+
+3. SIZE, VALUE AND MARKET SHARES.................................................................................. 16
+
+3.1. THE GEOGRAPHIC SCOPE OF THE ROAD PAVEMENT BITUMEN BUSINESS ........................... 16
+
+3.2. MARKET SHARES ............................................................................................................. 17
+
+III. PROCEDURE .................................................................................................................... 19
+
+1. THE COMMISSION’S INVESTIGATION................................................................................ 19
+
+2. OTHER INVESTIGATIONS .................................................................................................. 22
+
+IV. DESCRIPTION OF EVENTS............................................................................................ 24
+
+EN EN
+
+1. THE ORGANISATION OF THE CARTEL ................................................................................ 24
+
+1.1. GENERAL DESCRIPTION OF THE CARTEL........................................................................... 24
+
+1.2. BITUMEN CONSULTATION ................................................................................................ 25
+
+1.3. PRE-MEETINGS................................................................................................................. 28
+
+1.4. W5 MEETINGS.................................................................................................................. 30
+
+1.5. PARTICIPANTS IN MEETINGS............................................................................................. 31
+
+1.6. IMPLEMENTATION, MONITORING AND SANCTIONS ........................................................... 35
+
+2. OPERATION OF THE CARTEL............................................................................................. 36
+
+2.1. ORIGINS OF THE CARTEL.................................................................................................. 37
+
+2.2. THE PERIOD 1996-2002 ................................................................................................... 39
+
+V. APPLICATION OF ARTICLE 81 OF THE TREATY........................................................ 46
+
+1. THE NATURE OF THE INFRINGEMENT................................................................................ 46
+
+1.1. PRINCIPLES CONCERNING AGREEMENTS AND CONCERTED PRACTICES ............................. 46
+
+1.2. PRINCIPLES CONCERNING SINGLE AND CONTINUOUS INFRINGEMENT............................... 48
+
+1.3. APPLICATION TO THE BEHAVIOUR OF THE ADDRESSEES................................................... 49
+
+1.3.1. AGREEMENTS AND CONCERTED PRACTICES ..................................................................... 49
+
+1.3.2. SINGLE AND CONTINUOUS INFRINGEMENT ....................................................................... 50
+
+2. RESTRICTION OF COMPETITION ........................................................................................ 54
+
+2.1. APPLICATION OF ARTICLE 81(1) OF THE TREATY ............................................................ 54
+
+2.2. APPLICATION OF ARTICLE 81(3) OF THE TREATY ............................................................ 56
+
+3. EFFECT UPON TRADE BETWEEN MEMBER STATES............................................................ 57
+
+4. DURATION OF THE INFRINGEMENT AND INDIVIDUAL INVOLVEMENT OF UNDERTAKINGS . 59
+
+4.1. START OF THE INFRINGEMENT.......................................................................................... 59
+
+4.2. END OF THE CARTEL ........................................................................................................ 61
+
+4.3. INDIVIDUAL INVOLVEMENT IN THE CASE OF UNDERTAKINGS THAT CHANGED OWNERSHIP
+DURING THE PERIOD OF INFRINGEMENT....................................................................... 61
+
+4.4. PERIOD OF INFRINGEMENT OF EACH UNDERTAKING......................................................... 62
+
+VI. ADDRESSEES OF THIS DECISION ............................................................................... 63
+
+1. GENERAL PRINCIPLES ON LIABILITY................................................................................. 63
+
+2. LIABILITY IN THIS CASE ................................................................................................... 65
+
+2.1. SHELL.............................................................................................................................. 68
+
+EN EN
+
+2.2. KUWAIT PETROLEUM....................................................................................................... 72
+
+2.3. BP.................................................................................................................................... 75
+
+2.4. KLÖCKNER....................................................................................................................... 76
+
+2.5. TOTAL.............................................................................................................................. 77
+
+2.6. NYNÄS............................................................................................................................. 80
+
+2.7. ESHA................................................................................................................................ 83
+
+2.8. WINTERSHALL................................................................................................................. 84
+
+2.9. HEIJMANS ........................................................................................................................ 84
+
+2.10. KWS................................................................................................................................ 86
+
+2.11. BAM NBM ..................................................................................................................... 87
+
+2.12. HBG................................................................................................................................ 88
+
+2.13. BALLAST NEDAM............................................................................................................. 89
+
+2.14. DURA VERMEER .............................................................................................................. 90
+
+VII. REMEDIES....................................................................................................................... 91
+
+1. ARTICLE 7 OF REGULATION NO 1/2003 ........................................................................... 91
+
+2. ARTICLE 23(2) OF REGULATION NO 1/2003..................................................................... 92
+
+3. THE BASIC AMOUNT OF THE FINES.................................................................................... 92
+
+3.1. GRAVITY.......................................................................................................................... 92
+
+3.1.1. NATURE OF THE INFRINGEMENT....................................................................................... 92
+
+3.1.2. ACTUAL IMPACT ON THE MARKET.................................................................................... 93
+
+3.1.3. SIZE OF THE RELEVANT GEOGRAPHIC MARKET................................................................. 94
+
+3.1.4. CONCLUSION ON GRAVITY............................................................................................... 94
+
+3.2. DIFFERENTIAL TREATMENT.............................................................................................. 95
+
+3.3. SUFFICIENT DETERRENCE................................................................................................. 96
+
+3.4. DURATION OF THE INFRINGEMENT................................................................................... 97
+
+3.5. CONCLUSION ON THE BASIC AMOUNTS............................................................................. 98
+
+4. AGGRAVATING AND ATTENUATING CIRCUMSTANCES...................................................... 99
+
+4.1. AGGRAVATING CIRCUMSTANCES..................................................................................... 99
+
+4.1.1. RECIDIVISM ..................................................................................................................... 99
+
+4.1.2. REFUSAL TO COOPERATE WITH OR ATTEMPTS TO OBSTRUCT THE COMMISSION IN
+CARRYING OUT ITS INVESTIGATIONS ......................................................................... 100
+
+EN EN
+
+4.1.3. ROLE OF INSTIGATOR AND LEADER................................................................................ 101
+
+4.2. ATTENUATING CIRCUMSTANCES.................................................................................... 103
+
+4.2.1. PASSIVE OR “FOLLOW MY LEADER” ROLE ...................................................................... 103
+
+4.2.2. NON-IMPLEMENTATION OF THE AGREEMENTS AND ABSENCE OF BENEFIT...................... 105
+
+4.2.3. EARLY TERMINATION OF THE INFRINGEMENT ................................................................ 107
+
+4.2.4. EXISTENCE OF REASONABLE DOUBT ON THE PART OF THE UNDERTAKING AS TO WHETHER
+THE RESTRICTIVE CONDUCT CONSTITUTED AN INFRINGEMENT.................................. 108
+
+4.2.5. EFFECTIVE CO-OPERATION OUTSIDE THE LENIENCY NOTICE ......................................... 108
+
+4.2.6. PROCEEDINGS OF OTHER COMPETITION AUTHORITIES.................................................... 109
+
+4.3. CONCLUSION ON AGGRAVATING AND ATTENUATING CIRCUMSTANCES.......................... 110
+
+4.4. APPLICATION OF THE 10% TURNOVER LIMIT.................................................................. 110
+
+5. APPLICATION OF THE LENIENCY NOTICE ....................................................................... 111
+
+5.1. BP.................................................................................................................................. 111
+
+5.2. KUWAIT PETROLEUM..................................................................................................... 112
+
+5.3. TOTAL............................................................................................................................ 113
+
+5.4. NYNÄS........................................................................................................................... 113
+
+5.5. SHELL............................................................................................................................ 114
+
+5.6. WINTERSHALL............................................................................................................... 115
+
+5.7. CONCLUSION ................................................................................................................. 115
+
+6. THE AMOUNTS OF THE FINES IMPOSED IN THIS PROCEEDING .......................................... 115
+
+EN EN
+
+COMMISSION DECISION
+
+of 13 September 2006
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+(Case COMP / F / 38.456 – Bitumen - NL)
+
+(Only the German , English, French and Dutch texts are authentic)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1 and
+in particular, Article 7(1) and Article 23(2) thereof,
+
+Having regard to the Commission Decision of 18 October 2004 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty.2
+
+After consulting
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+tschappij BV from 1 April 1994 to 15 April 2002;
+
+(m) Total: Total Nederland NV from 1 April 1994 to 15 April 2002 and Total SA from
+1 November 1999 to 15 April 2002;
+
+(n) Wintershall AG from 1 April 1994 to 31 December 1999.
+
+EN 117 EN
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+(a) Ballast Nedam: Ballast Nedam NV and Ballast Nedam Infra BV, jointly and
+severally: EUR 4.65 million;
+
+(b) BAM NBM: BAM NBM Wegenbouw BV: EUR 13.5 million, of which
+Koninklijke BAM Groep NV is jointly and severally liable for EUR 9 million;
+
+(c) BP: BP plc: EUR 0 million, of which BP Nederland BV is jointly and severally
+liable for EUR 0 million and BP Refining & Chemicals GmbH is jointly and
+severally liable for EUR 0 million;
+
+(d) Dura Vermeer: Vermeer Infrastructuur BV: EUR 5.4 million, of which Dura
+Vermeer Groep NV is jointly and severally liable for EUR 3.9 million and Dura
+Vermeer Infra BV is jointly and severally liable for EUR 3.45 million;
+
+(e) Esha: Esha Holding BV, Smid & Hollander BV and Esha Port Services Amsterdam
+BV, jointly and severally: EUR 11.5 million;
+
+(f) HBG: HBG Civiel BV: EUR 7.2 million;
+
+(g) Heijmans: Heijmans NV and Heijmans Infrastructuur BV, jointly and severally:
+EUR 17.1 million;
+
+(h) Klöckner: Klöckner Bitumen BV: EUR 10 million, of which Sideron Industrial
+Development BV is jointly and severally liable for EUR 9 million;
+
+(i) Kuwait Petroleum: Kuwait Petroleum Corporation, Kuwait Petroleum International
+Ltd and Kuwait Petroleum (Nederland) BV, jointly and severally: EUR 16.632
+million;
+
+(j) KWS: Koninklijke Volker Wessels Stevin NV and Koninklijke Wegenbouw Stevin
+BV, jointly and severally: EUR 27.36 million;
+
+(k) Nynäs: AB Nynäs Petroleum and Nynäs Belgium AB, jointly and severally: EUR
+13.5 million;
+
+(l) Shell: Shell Petroleum NV, The Shell Transport and Trading Company Ltd and
+Shell Nederland Verkoopmaatschappij BV, jointly and severally: EUR 108 million;
+
+(m) Total: Total Nederland NV: EUR 20.25 million, of which Total SA is jointly and
+severally liable for EUR 13.5 million;
+
+(n) Wintershall AG: EUR 11.625 million.
+
+The fines shall be paid in Euros, within three months of the date of the notification of this
+Decision, to the following account:
+
+Account No:
+
+375-1017300-43 of the European Commission with:
+
+EN 118 EN
+
+ING - Agence Bruxelles-Européenne, Rond-Point Schuman, 5 B-1040 Brussels
+
+(Code SWIFT BBRUBEBB – Code IBAN BE66 3751 0173 0043)
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points, namely 6.5
+percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+AB NYNÄS PETROLEUM
+Lindetorpsvägen 7
+SE – 12129 Stockholm
+
+BALLAST NEDAM INFRA BV
+Ringwade 1
+NL – 3439 LM Nieuwegein
+
+BALLAST NEDAM NV
+Ringwade 1
+NL – 3439 LM Nieuwegein
+
+BAM NBM WEGENBOUW BV
+Winthontlaan 28
+NL – 3526 KV Utrecht
+
+BP NEDERLAND BV
+Rivium boulevard 301
+NL – 2909 LK Capelle a/d IJssel
+
+BP plc
+1 St James’s Square
+UK – SW1 Y 4PD London
+
+BP REFINING & PETROCHEMICALS GmbH
+Alexander von Humboldt Strasse
+DE – 45896 Gelsenkirchen
+
+EN 119 EN
+
+DURA VERMEER INFRA BV
+Kruisweg 835
+NL – 2132 NG Hoofddorp
+
+DURA VERMEER GROEP NV
+Blaak 333
+NL – 3011 GB Rotterdam
+
+ESHA HOLDING BV
+Hoendiep 316
+NL – 9744 TC Groningen
+Via: Overes Advocaten
+Ubbo Emmiussingel 23
+NL-9711 BB Groningen
+
+ESHA PORT SERVICES AMSTERDAM BV
+Sextantweg 10-12
+NL-1042 AH Amsterdam
+Via: Overes Advocaten
+Ubbo Emmiussingel 23
+NL-9711 BB Groningen
+
+HBG CIVIEL BV
+H.J. Nederhorstlaan 1
+NL - 2801 SC Gouda
+
+HEIJMANS INFRASTRUCTUUR BV
+Graafsebaan 65
+NL-5248 JT Rosmalen
+
+HEIJMANS NV
+Graafsebaan 65
+NL-5248 JT Rosmalen
+
+KLÖCKNER BITUMEN BV
+De Horst 4
+NL-2592 HA ’s-Gravenhage
+p/a Dengerink en Kremer advocaten
+Laan van Meerdervoort 151
+NL-2517 AX ’s-Gravenhage
+
+KONINKLIJKE BAM GROEP NV
+Runnenburg 9
+NL – 3981 AZ Bunnik
+
+KONINKLIJKE VOLKER WESSELS STEVIN NV
+Oostmaaslaan 71
+NL-3063 AN Rotterdam
+
+KONINKLIJKE WEGENBOUW STEVIN BV
+Lange Dreef 9
+NL – 4131 NJ Vianen
+
+EN 120 EN
+
+KUWAIT PETROLEUM CORPORATION
+Oil Sector Complex
+Arabian Gulf Street
+Shuwaikh
+KUWAIT
+
+KUWAIT PETROLEUM INTERNATIONAL Ltd
+Duke’s Court
+Duke Street
+Woking
+UK – Surrey GU21 5BH
+
+KUWAIT PETROLEUM (NEDERLAND) BV
+Prinsenlaan 633
+NL-3067 TZ Rotterdam
+
+NYNÄS BELGIUM AB
+Excelsiorlaan 87
+BE – 1930 Zaventem
+
+SHELL NEDERLAND VERKOOPMAATSCHAPPIJ BV
+Rivium Boulevard 156
+NL -2909 LK Capelle aan den IJssel
+
+SHELL PETROLEUM NV
+Carel van Bylandtlaan 30
+NL – 2596 HR’s-Gravenhage
+
+SIDERON INDUSTRIAL DEVELOPMENT BV
+K.P. van der Mandelelaan 100
+NL – 3062 MB Rotterdam
+p/a Dengerink en Kremer advocaten
+Laan van Meerdervoort 151
+NL-2517 AX ’s-Gravenhage
+
+SMID & HOLLANDER BV
+Sextantweg 10-12
+NL-1042 AH Amsterdam
+Via: Overes Advocaten
+Ubbo Emmiussingel 23
+NL-9711 BB Groningen
+
+THE SHELL TRANSPORT AND TRADING COMPY Ltd
+Shell Centre
+UK - London, SE1 7NA
+
+TOTAL NEDERLAND NV
+Nieuwe Havenstraat 2
+NL-2272 AD Voorburg
+
+TOTAL SA
+2, Place de la Coupole
+
+EN 121 EN
+
+La Défense 6
+FR – 92400 Courbevoie
+
+VERMEER INFRASTRUCTUUR BV
+Kruisweg 835
+NL-2132 NG Hoofddorp
+
+WINTERSHALL AG
+Friedrich Ebert Strasse 160
+DE – 34119 Kassel
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels,
+
+For the Commission
+Charlie McCreevy
+Member of the Commission
+
+EN 122 EN
+
+ANNEX 1: ROAD PAVEMENT BITUMEN GROSS PRICE CHANGES IN THE NETHERLANDS
+(amounts in NLG. In EUR as from 1.1.2000)
+
+Date Amount Implementation
+
+1.4.1994 - 10 Implemented by [redacted] and [redacted]. [redacted] decreased its
+price with 15.542 No data available from [redacted], [redacted] and
+[redacted].
+
+1.8.1994 + 40 Implemented by [redacted]543, [redacted] and [redacted]. No data
+available from [redacted], [redacted] and [redacted], [redacted] and
+[redacted].
+
+4.12.1994 + 50 Implemented by [redacted]544 and [redacted]. [redacted] followed on
+12/12/94. No data available from [redacted].
+
+1.4.1995 - 30 Implemented by [redacted] and [redacted]. No data available from
+[redacted], [redacted] and [redacted]. [redacted] decreased its price
+on 03/04/95 with 40.
+
+1.1.1996 - 10 Implemented by [redacted]545, [redacted] and [redacted]. [redacted]
+followed on 15/03/96. No data available from [redacted].
+
+1.11.1996 + 50 Implemented by [redacted], [redacted], [redacted]546, [redacted],
+[redacted] and [redacted].
+
+1.7.1997 - 15 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+1/9/1997 + 15 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+1.9.1998 - 40 Implemented by [redacted], [redacted], [redacted]547, [redacted] and
+[redacted].
+
+1.3.1999 - 20 Implemented by [redacted], [redacted], [redacted] and [redacted].
+[redacted] did not decrease its price, but increased its rebate for W5
+road builders with the same amount.
+
+1.5.1999 + 40 Implemented by [redacted], [redacted], [redacted] 548, [redacted],
+[redacted] and [redacted].
+
+14.6.1999 + 30 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+542 The price change appears on the first invoice to a W5 road builder after 1/4/1994.
+543 The price change appears on the first invoice to a W5 road builder after 1/8/1994.
+544 The price change appears on the first invoice to a W5 road builder after 4/12/1994.
+545 The price decrease of NGL 10 applies to first invoice after 1/1/1996 to W5 road builder (customer F).
+546 The price change appears on the first invoice to a W5 road builder after 1/11/96.
+547 [redacted] only confirmed the date of the price change.
+548 This price increase appears on the first invoices after 1.5.1999 to W5 road builders (3.5.1999).
+
+EN 123 EN
+
+1.9.1999 + 90 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+18.10.1999 + 40 Implemented by [redacted], [redacted], [redacted], [redacted] and
+[redacted]. [redacted] followed on 20/10/99.
+
+1.2.2000 + 50 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+1.4.2000 + 80 Implemented by [redacted], [redacted] and [redacted]. As the price
+- 80 change was cancelled afterwards retro-actively, [redacted],
+[redacted] and [redacted] do not report this price change.
+
+19.3.2001 - 20 Implemented by [redacted], [redacted], [redacted] and [redacted].
+[redacted] followed on 01/04/01. [redacted] already invoiced the
+new price on 01/03/01.
+
+1.7.2001 - 20 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted] and [redacted].
+
+1.2.2002 - 17 Implemented by [redacted], [redacted] and [redacted]. [redacted]
+and [redacted] adapted to the new price on 04/02/02. [redacted]
+followed on 15/02/02.
+
+15.4.2002 + 30 Implemented by [redacted], [redacted], [redacted], [redacted],
+[redacted]. [redacted] followed on 17/04/02.
+
+• Source of the information: responses to the Commission’s request for information of 30.6.2003
+and 10.2.2004: [redacted] [37024-37026], [redacted] [27015], [redacted] [38245-38267 and
+38322], [redacted] [27534-27539], [redacted] [26999-27001] and [redacted] [37187]. [redacted].
+549 See also Chapter IV.2.
+• Esha could not be taken into account for this analysis, as it only provided the Commission (on
+29.12.2004, i.e. after the issuing of the Statement of Objections) with price information [II/879-
+899] that contained monthly prices without date of implementation.
+
+549 The [redacted] data taken into account for this exercise are the invoices issued to the representative W5
+road builder (F). Where no data for this representative customer were available, data of prices charged
+to other customers were used.
+
+EN 124 EN

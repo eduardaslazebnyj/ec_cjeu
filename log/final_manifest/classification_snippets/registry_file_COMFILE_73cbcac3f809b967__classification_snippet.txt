@@ -1,0 +1,367 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52021AT40410(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52021AT40410(02)
+Help
+Print
+Summary of Commission Decision of 14 July 2020 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union (Case AT.40410 – Ethylene) (notified under document number C(2020) 4817 final) (Only the English text is authentic) 2021/C 24/09
+Summary of Commission Decision of 14 July 2020 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union (Case AT.40410 – Ethylene) (notified under document number C(2020) 4817 final) (Only the English text is authentic) 2021/C 24/09
+Summary of Commission Decision of 14 July 2020 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union (Case AT.40410 – Ethylene) (notified under document number C(2020) 4817 final) (Only the English text is authentic) 2021/C 24/09
+C/2020/4817
+OJ C 24, 22.1.2021, pp. 14–18
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+22.1.2021
+EN
+Official Journal of the European Union
+C 24/14
+Summary of Commission Decision
+of 14 July 2020
+relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union
+(Case AT.40410 – Ethylene)
+(notified under document number C(2020) 4817 final)
+(Only the English text is authentic)
+(2021/C 24/09)
+On 14 July 2020, the Commission adopted a Decision relating to proceedings under Article 101 of the Treaty on the Functioning of the European Union. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the Decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+On 14 July 2020, the Commission adopted a Decision relating to a single and continuous infringement of Article 101 of the Treaty.
+(2)
+The infringement consisted of exchanging sensitive commercial and pricing-related information and of fixing a price element related to the purchases of ethylene. The infringement took place between 26 December 2011 and 29 March 2017. Geographically, the infringement covered the territories of the Member States of the European Union (‘the Union’) in Belgium, France, Germany and the Netherlands.
+(3)
+The product concerned by the Decision is ethylene purchased on the merchant market. It does not cover ethylene produced for captive purposes, that is to say, produced and used by the producers for their own consumption.
+(4)
+Ethylene is a colourless flammable gas produced from naphtha and gas by means of steam cracking. It is widely used in the chemical industry for the production of various chemical products.
+(5)
+The purchase price of ethylene depends on volatile market factors (for example, raw material prices, supply/demand relationship and the captive use of ethylene). In order to reflect the risk of price volatility in ethylene supply agreements – and to allow for a benchmark against which ethylene trades can be priced – ethylene supply agreements especially in Belgium, France, Germany and the Netherlands often refer to the so-called ethylene Monthly Contract Price (the ‘MCP’) which is reported by private and independent reporting agencies.
+(6)
+The MCP is not a net price for ethylene, but instead forms part of the pricing formula in certain ethylene supply agreements especially in Belgium, France, Germany and the Netherlands. The MCP thus directly influences the actual ethylene purchase price paid in transactions made under certain ethylene supply agreements especially in Belgium, France, Germany and the Netherlands and in certain transactions on the ethylene spot market .
+(7)
+In order to establish an ethylene MCP for a given upcoming month, two separate but identical bilateral agreements (also called ‘settlements’) between two different pairs of suppliers and buyers have to be reached (i.e. the ‘2+2’ rule) as described in recital 8.
+(8)
+After one pair of a supplier and a buyer has reached an agreement on the price for the following month, they communicate it to the private and independent reporting agencies. The agencies publish this agreement – the ‘initial settlement’ – to the market. After another pair of a buyer and a supplier settles at an identical price, this price becomes the MCP for the following month via a publication by those agencies. The agencies compete to be the first to report on the MCP.
+(9)
+Companies participate in the MCP ‘settlement’ process on a voluntary basis. This means that, while some companies might participate very often, others may not be active at all. There is also no obligation for participating companies to submit all relevant information to the reporting agencies. ‘Settlement’ negotiations usually take place after publication of the relevant market analysts’ pricing forecasts in the last few days of the preceding month. The addressees of this Decision (also referred to as ‘parties’ or individually as ‘party’) regularly took part in the ‘settlement’ negotiations on a monthly basis; they also were among settling parties.
+(10)
+The Decision is addressed to the following legal entities being part of the following undertakings (the ‘parties’):
+(a)
+Westlake Chemical Corporation, Westlake Germany GmbH & Co. KG, Vinnolit GmbH & Co. KG and Vinnolit Holdings GmbH (‘Westlake’);
+(b)
+Orbia Advance Corporation, S.A.B. de C.V.
+(
+2
+)
+and Vestolit GmbH (‘Orbia’);
+(c)
+Clariant AG and Clariant International AG (‘Clariant’);
+(d)
+Celanese Corporation, Celanese Services Germany GmbH and Celanese Europe B.V. (‘Celanese’).
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(11)
+Following an immunity application submitted by Westlake in June 2016, under the terms of the 2006 Leniency Notice
+(
+3
+)
+in relation to collusive contacts with other purchasers of ethylene in the EEA. Following the unannounced inspections, on 23 May 2017, Orbia applied for immunity from fines or, in the alternative, for a reduction of fines under the Leniency Notice. On 6 June 2017, Clariant applied for immunity from fines or, in the alternative, for a reduction of fines under the Leniency Notice. On 3 July 2017, Celanese applied for immunity from fines or, in the alternative, for a reduction of fines under the Leniency Notice.
+(12)
+On 10 July 2018, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against the parties with a view to engaging in settlement discussions with them. Settlement meetings and contacts between the Commission and each party took place between September 2018 and November 2019. Subsequently, all parties submitted their formal request to settle pursuant to Article 10(2) of Regulation (EC) No 773/2004
+(
+4
+)
+.
+(13)
+On 7 February 2020, the Commission adopted a statement of objections addressed to the parties. All of the parties replied to the statement of objections by confirming that it reflected the contents of their settlement submissions and that they remained committed to following the settlement procedure.
+(14)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 10 July 2020.
+(15)
+The Commission adopted the Decision on 14 July 2020.
+2.2.
+Summary of the infringement
+(16)
+The Decision establishes a single and continuous infringement, which consisted of the exchange of sensitive commercial and pricing-related information and the fixing of a price element, namely the MCP, related to the purchases of ethylene in the Member States of the Union in Belgium, France, Germany and the Netherlands. The objective of the infringement was to influence the MCP negotiations to the buyers’ advantage with the aim of buying ethylene at the lowest possible price accepted by sellers in the ‘settlement’ process. The parties coordinated their future behaviour through bilateral contacts relating to the MCP, to their future market conduct during MCP ‘settlement’ negotiations with ethylene sellers and to views of the market trends; all prior to and during MCP ‘settlement’ negotiations.
+2.2.1.
+Duration
+(17)
+The duration of the participation of each party in the infringement was as follows:
+Infringement
+Undertaking
+Start
+End
+Westlake
+26.12.2011
+29.6.2016
+(
+5
+)
+Orbia
+17.11.2015
+28.3.2017
+Clariant
+26.12.2011
+29.3.2017
+Celanese
+18.1.2012
+28.3.2017
+2.3.
+Addressees
+2.3.1.
+Westlake
+(18)
+Liability for the infringement is imputed jointly and severally to Vinnolit GmbH & Co. KG (for its direct participation from 26 December 2011 to 29 June 2016), Westlake Chemical Corporation (as the ultimate parent of Vinnolit GmbH & Co. KG from 31 July 2014 to 29 June 2016), Westlake Germany GmbH & Co KG (as the indirect parent of Vinnolit GmbH & Co. KG from 31 July 2014 to 29 June 2016) and Vinnolit Holdings GmbH (as the direct parent of Vinnolit GmbH & Co. KG from 26 December 2011 to 29 June 2016).
+2.3.2.
+Orbia
+(19)
+Liability for the infringement is imputed jointly and severally to Vestolit GmbH (for its direct participation) and to Orbia Advance Corporation, S.A.B. de C.V. (as the parent of Vestolit GmbH) from 17 November 2015 to 28 March 2017.
+2.3.3.
+Clariant
+(20)
+Liability for the infringement is imputed jointly and severally to Clariant International AG (for its direct participation) and to Clariant AG (as the parent of Clariant International AG) from 26 December 2011 to 29 March 2017.
+2.3.4.
+Celanese
+(21)
+Liability for the infringement is imputed jointly and severally to Celanese Services Germany GmbH (for its direct participation from 18 January 2012 to 20 January 2016), Celanese Europe B.V. (for its direct participation from 21 January 2016 to 28 March 2017 and as the indirect parent of Celanese Services Germany GmbH from 18 January 2012 to 20 January 2016) and to Celanese Corporation (as the parent of Celanese Services Germany GmbH and Celanese Europe B.V.) from 18 January 2012 to 28 March 2017.
+2.4.
+Remedies
+(22)
+The Decision applies the 2006 Guidelines on Fines
+(
+6
+)
+.
+2.4.1.
+Basic amount of the fine
+(23)
+With the view that the present case concerns a purchasing cartel, the relevant value of purchases was taken into account, rather than the value of sales (this approach was confirmed by the General Court in the AT.40018 – Car Battery Recycling Case T-222/17 – Recylex).
+(24)
+The infringement does not relate to all ethylene purchases made by the parties. It relates to those purchases that were made while using MCP-related pricing formulas. Therefore, to take into account this element, the values retained are those values of purchases made under the ethylene supply agreements using a pricing formula, which is MCP-based, as well as MCP-based purchases made by the parties on the ethylene spot market in 2016 (in 2015 for the immunity applicant Westlake) in Belgium, Germany, France and the Netherlands.
+(25)
+Considering the nature of the infringement and its geographic scope, the percentage of the variable amount of the fines as well as the additional amount (the ‘entry fee’) is set at 15 % of the value of purchases for the infringement.
+(26)
+The variable amount is multiplied by the number of years or by fractions of the year respectively of the parties' individual participation in the infringement in order to take fully into account the actual duration of the participation for each party in the infringements individually. The duration multiplier is calculated on the basis of calendar days.
+2.4.2.
+Adjustments to the basic amount
+(27)
+No aggravating or mitigating circumstances are established in this case, apart for recidivism in case of Clariant. Clariant committed a cartel infringement in a previous case (AT.37773 – MCAA cartel). The basic amount for Clariant for the infringement is therefore increased by 50 %.
+2.4.3.
+Application of point 37 of the Fines Guidelines
+(28)
+In line with recent Commission practice on purchasing cartels (AT.40018 – Car Battery Recycling case)
+(
+7
+)
+, as a matter of deterrence, a specific increase of the fines applies. This increase reflects the fact that the cartelists aimed at lower prices rather than to maintain higher prices. Indeed, in a purchasing cartel, the more successful the cartel members were in reducing the purchase price, the lower the value of purchases on which the fine is calculated would be.
+(29)
+Given that the cartel in the present case is a purchasing cartel, the value of purchases in itself is unlikely to be
+an appropriate proxy
+for reflecting the economic importance of the present infringement. This is also because, normally in an operating undertaking, purchases are lower than sales in value terms, thus giving a systematic lower starting point for the calculation of a fine.
+(30)
+The Commission therefore applied a 10 % increase of fines on all parties under point 37 of the 2006 Guidelines on Fines.
+2.4.4.
+Application of the 10 % turnover limit
+(31)
+None of the fines calculated exceeds 10 % of the respective party’s worldwide turnover in 2019.
+2.4.5.
+Application of the 2006 Leniency Notice: reduction of fines
+(32)
+Westlake was the first to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice in the infringement. Westlake is thus granted immunity from fines for the infringement.
+(33)
+Orbia was the first undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Orbia provided certain valuable contemporaneous evidence corroborating the parties’ participation in the infringement, as well as evidence providing further background information on the infringement, its scope and objective, the parties’ participation therein and the industry concerned. However, certain information that was provided in the application was already in the possession of the Commission. Orbia is therefore granted a reduction of 45 % of the fine for the infringement.
+(34)
+Clariant was the second undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Clariant provided some valuable contemporaneous evidence on collusive contacts with other cartelists. It also provided evidence of a corroboratory nature and detailed information providing further background on the infringement and the industry concerned and confirming the existence of the infringement within the timeframe identified by the Commission. Clariant is therefore granted a reduction of 30 % of the fine for the infringement.
+(35)
+Celanese was the third undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Celanese provided evidence of some collusive contacts with other parties to the infringement. It also provided detailed information on the historical evolution and the functioning of the investigated conduct. It further provided information on facts and evidence of a corroboratory nature providing further background on the infringement, and the continued participation of other parties to the infringement. Celanese is therefore granted a reduction of 20 % of the fine for the infringement.
+2.4.6.
+Application of the Settlement Notice
+(36)
+As a result of the application of the Settlement Notice, the amount of the fines to be imposed on each party was reduced by 10 %. The reduction was added to their leniency reward.
+3.
+CONCLUSION
+(37)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 for the infringement:
+(a)
+On Vinnolit GmbH & Co. KG, Vinnolit Holdings GmbH, Westlake Chemical Corporation and Westlake Germany GmbH & Co. KG, jointly and severally: EUR 0;
+(b)
+On Orbia Advance Corporation, S.A.B. de C.V. and VESTOLIT GmbH jointly and severally: EUR 22 367 000;
+(c)
+On Clariant International AG and Clariant AG jointly and severally: EUR 155 769 000;
+(d)
+On Celanese Services Germany GmbH, Celanese Europe B.V. and Celanese Corporation jointly and severally: EUR 66 484 000;
+(e)
+On Celanese Europe B.V. and Celanese Corporation jointly and severally: EUR 15 823 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+Until 5 September 2019 the legal entity was called Mexichem S.A.B. de C.V.
+(
+3
+)
+OJ C 298, 8.12.2006, p. 17
+.
+(
+4
+)
+OJ L 123, 27.4.2004, p. 18
+.
+(
+5
+)
+The date of the submission of the immunity application.
+(
+6
+)
+OJ C 210, 1.9.2006, p. 2
+.
+(
+7
+)
+As confirmed in Cases T-222/17,
+Recylex S.A. Fonderie et Manufacture de Métaux S.A. and Harz-Metall GmbH v Commission
+, ECLI:EU:T:2019:356, para. 124 and T-240/17,
+Campine NV and Campine Recycling NV v Commission
+, ECLI:EU:T:2019:778, paras 342-349.
+Top

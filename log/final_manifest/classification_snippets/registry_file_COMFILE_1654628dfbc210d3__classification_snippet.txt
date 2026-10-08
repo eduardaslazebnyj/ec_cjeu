@@ -1,0 +1,327 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52022AT40135(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52022AT40135(01)
+Help
+Print
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) AT.40135 - FOREX (Sterling Lads – settlement procedure) (Text with EEA relevance) 2022/C 185/04
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) AT.40135 - FOREX (Sterling Lads – settlement procedure) (Text with EEA relevance) 2022/C 185/04
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) AT.40135 - FOREX (Sterling Lads – settlement procedure) (Text with EEA relevance) 2022/C 185/04
+C/2021/8613
+OJ C 185, 6.5.2022, pp. 48–49
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+6.5.2022
+EN
+Official Journal of the European Union
+C 185/48
+Final Report of the Hearing Officer
+(
+1
+)
+AT.40135 - FOREX (
+Sterling Lads
+– settlement procedure)
+(Text with EEA relevance)
+(2022/C 185/04)
+1.
+INTRODUCTION
+1.
+The FOREX case (AT.40135) concerns conduct taking place in several separate [...] chatrooms relating to Foreign Exchange (‘FX’) spot trading of G10 currencies. On 16 May 2019, the Commission adopted two settlement decisions, FOREX (
+Three-way banana split
+)
+(
+2
+)
+and FOREX (
+Essex Express
+) concerning conduct in certain of these chatrooms
+(
+3
+)
+.
+2.
+This report concerns the conduct in a particular chatroom,
+Sterling Lads
+(
+4
+)
+, and specifically the draft settlement decision addressed to UBS
+(
+5
+)
+, RBS
+(
+6
+)
+, Barclays
+(
+7
+)
+and HSBC
+(
+8
+)
+(collectively ‘the Settling Parties’) that have agreed to settle pursuant to Article 10a of Regulation 773/2004
+(
+9
+)
+(‘the draft settlement decision’). A separate draft prohibition decision concerning conduct in the
+Sterling Lads
+chatroom, which relates to an ordinary procedure, is addressed to [non-addressee] (the ‘Non-Settling Party’) (and together with the Settling Parties, the ‘Parties’)
+(
+10
+)
+.
+2.
+PROCEDURE
+3.
+The investigation started after an application for a marker by UBS on 27 September 2013 under points 14 and 15 of the Notice on immunity from fines and reduction of fines in cartel cases (‘Leniency Notice’)
+(
+11
+)
+. In October 2013, Barclays and RBS submitted applications for reduction of fines under the Leniency Notice. The Commission granted UBS conditional immunity on 2 July 2014. HSBC submitted an application for reduction of fines under the Leniency Notice in July 2015. Between July 2014 and April 2016 the Commission sent information requests to the Parties.
+4.
+On 27 October 2016, the Commission initiated proceedings pursuant to Article 11(6) of Regulation 1/2003
+(
+12
+)
+and fixed a deadline for the Parties to manifest their interest in engaging in settlement discussions. All Parties initially expressed their interest in engaging in settlement discussions. Bilateral settlement meetings with the Parties took place between 9 November 2016 and 7 February 2018.
+5.
+Between [...] and [...], the Settling Parties submitted their formal requests to settle in accordance with Article 10a (2) of Regulation 773/2004. On 19 February 2018, the Non-Settling Party informed the Commission that it would not continue its participation in the settlement procedure. The proceedings therefore became ‘hybrid’ as the Commission reverted to the ordinary procedure for [non-addressee], in accordance with paragraph 19 of the Commission Notice on the conduct of settlement procedures
+(
+13
+)
+, while continuing with the settlement procedure vis-à-vis the Settling Parties.
+6.
+On 24 July 2018, the Commission adopted a statement of objections (‘SO’) addressed to the Settling Parties. On the same day, the Commission also adopted a statement of objections addressed to the Non-Settling Party under the ordinary procedure.
+7.
+In their respective replies to the SO, the Settling Parties confirmed pursuant to Article 10a(3) of Regulation (EC) No 773/2004 that the SO reflected the contents of their settlement submissions and that they therefore remained committed to following the settlement procedure.
+3.
+REQUEST BY SETTLING PARTIES TO PARTICIPATE IN THE ORAL HEARING REQUESTED BY THE NON-SETTLING PARTY
+8.
+Some of the Settling Parties either inquired whether they would be invited to attend the oral hearing requested by the Non-Settling Party in its response to the 24 July 2018 statement of objections (‘Oral Hearing’), or requested to be invited. The Hearing Officer at the time rejected these requests, based on: (a) the provisions of the Settlement Notice, that provides that settlement parties confirm that they do not envisage requesting an oral hearing; and (b) the purpose of the oral hearing under Regulation 773/2004, that is to allow parties to express their views in the Commission’s proceedings and to help the Commission reach the correct decision at the end of its proceedings.
+9.
+The Hearing Officer also rejected a request by one of the Settling Parties to be granted access to a transcript of the Oral Hearing, since oral hearings are not public (Article 14(6) of Regulation 773/2004) and recordings of hearings shall be made available to the persons that attended the hearings (Article 14(8) Regulation 773/2004).
+4.
+CONCLUSION
+10.
+The draft settlement decision concerns a single and continuous infringement of Article 101 of the TFEU and Article 53 of the EEA Agreement in relation to FX spot trading of G10 currencies between 25 May 2011 and 12 July 2012
+(
+14
+)
+. According to the draft settlement decision, by exchanging sensitive business information and occasionally coordinating their trading activities pursuant to an underlying understanding, the Settling Parties engaged in agreements and/or concerted practices which taken together constitute a single and continuous infringement by object of Article 101 TFEU and Article 53 of the EEA Agreement in relation to FX spot trading of G10 currencies covering the entire EEA.
+11.
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft settlement decision deals only with objections in respect of which the Settling Parties have been afforded the opportunity of making known their views. I conclude that it does so.
+12.
+In view of the above, and taking into account that the Settling Parties have not addressed any complaints to the Hearing Officer,
+(
+15
+)
+I consider that the effective exercise of their procedural rights has been respected in this case.
+Brussels, 2 December 2021.
+Dorothe DALHEIMER
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+OJ C 226, 9.7.2020, p. 5
+.
+(
+3
+)
+OJ C 219, 3.7.2020, p. 8
+.
+(
+4
+)
+Sterling Lads is the name of the [...] chatroom in which the conduct in question took place.
+(
+5
+)
+UBS AG.
+(
+6
+)
+The Royal Bank of Scotland Group plc (currently known as NatWest Group plc) and The Royal Bank of Scotland plc (currently known as NatWest Markets Plc).
+(
+7
+)
+Barclays PLC, Barclays Execution Services Limited, and Barclays Bank PLC.
+(
+8
+)
+HSBC Holdings plc and HSBC Bank plc.
+(
+9
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+). (‘Regulation 773/2004’).
+(
+10
+)
+[non-addressee]. A separate Hearing Officer report pursuant to Articles 16 and 17 of Decision 2011/695/EU covers the ordinary proceedings.
+(
+11
+)
+OJ C 298, 8.12.2006, p. 17
+.
+(
+12
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+). (‘Regulation 1/2003’).
+(
+13
+)
+Commission Notice on the conduct of settlement procedures in view of the adoption of Decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (
+OJ C 167, 2.7.2008, p. 1
+) (the ‘Settlement Notice’).
+(
+14
+)
+The duration of the infringement is shorter for RBS and HSBC.
+(
+15
+)
+Under Article 15(2) of Decision 2011/695/EU, parties to the proceedings in cartel cases which engage in settlement discussions pursuant to Article 10a of Regulation (EC) No 773/2004, may call upon the hearing officer at any stage during the settlement procedure in order to ensure the effective exercise of their procedural rights. See also paragraph 18 of Commission Notice 2008/C 167/01 on the conduct of settlement procedures in view of the adoption of Decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (
+OJ C 167, 2.7.2008, p. 1
+).
+Top

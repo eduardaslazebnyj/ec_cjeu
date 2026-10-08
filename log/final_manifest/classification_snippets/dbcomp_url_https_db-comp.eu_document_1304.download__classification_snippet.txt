@@ -1,0 +1,416 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+12.3.2004 EN Official Journal of the European Union L 75/1
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 17 December 2002
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(Case COMP/C.37.671 — Flood flavour enhancers)
+
+(notified under document number (2002) 5091)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(2004/206/EC)
+
+L 75/2 EN Official Journal of the European Union 12.3.2004
+
+CONTENTS
+
+Page
+
+PART I — FACTS
+
+A. Summary of the infringement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+B. The nucleotide industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+1. The product . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+2. The producers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+3. The market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+C. Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+D. Description of events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+1. Participants and organisation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+2. The essential features of the cartel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+3. Initial contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+4. Operation of the cartel agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+PART II — LEGAL ASSESSMENT
+
+A. Jurisdiction (application of the Treaty and the EEA Agreement) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+1. Relationship between the Treaty and the EEA Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+B. Application of Article 81 of the Treaty and Article 53 of the EEA Agreement . . . . . . . . . . . . . . . . . . . . . 17
+
+1. Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement. . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+2. Agreements and concerted practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+3. Single continuous infringement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+4. Restriction of competition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+5. Effect upon trade between Member States and between EEA contracting parties . . . . . . . . . . . . . . 19
+
+6. Provisions of competition rules applicable to Austria, Finland, Iceland, Liechtenstein, Norway
+and Sweden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+C. Addressees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+1. Principles applicable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+2. Addressees of the Decision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+D. Duration of the infringement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+E. Remedies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+1. Article 3 of Regulation No 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+2. Article 15(2) of Regulation No 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+12.3.2004 EN Official Journal of the European Union L 75/3
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, (3) The undertakings participated in the infringement
+between November 1988 and June 1998 (5).
+Having regard to the Treaty establishing the European Community,
+B. THE NUCLEOTIDE INDUSTRY
+
+Having regard to the Agreement on the European Economic
+Area,
+1. THE PRODUCT
+
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86 of (4) Nucleic acid or nucleotide is made from glucose through
+the Treaty (1), as last amended by Regulation (EC) No 1/ a process of fermentation, separation, crystallisation and
+2003 (2), and in particular Articles 3 and 15 thereof, filtration.
+
+Having regard to the Commission decision of 10 July 2002 to
+open a proceeding in this case, (5) There are two nucleotides, which are used for food
+flavour enhancement, namely disodium 5'-inosinate
+(IMP) and disodium 5'-guanylate (GMP). Both nucleotid-
+Having given the undertakings concerned the opportunity to
+es are also sold in mixtures of these two products, such
+make known their views on the objections raised by the
+as I & G, a 50/50 mixture of the two nucleotides.
+Commission pursuant to Article 19(1) of Regulation No 17
+and Commission Regulation (EC) No 2842/98 of 22 December
+1998 on the hearing of parties in certain proceedings under (6) IMP was the first nucleotide to be discovered with the
+Articles 85 and 86 of the EC Treaty (3), ability to sharpen flavours in some foods. It was later
+discovered that GMP had the same properties. Both
+After consulting the Advisory Committee on Restrictive Prac- products are only used in small quantities. They function
+tices and Dominant Positions, as a food flavour enhancer only in the presence of a
+glutamate, whether added, like monosodium glutamate
+(MSG), or naturally occurring, like the glutamate con-Having regard to the report of the Hearing Officer in this
+tained in tomatoes. Among other applications IMPcase (4),
+and GMP are effective in low-sodium formulations.
+Nucleotide flavour enhancers are used by major food
+Whereas: manufacturers to add flavour to foods either on their
+own (with naturally occurring glutamate) or, most often,
+in combination with MSG.
+
+PART I — FACTS
+(7) As such, they are mainly used to replace beef extracts,
+to enhance sweet and meaty flavours, to mask ‘off’
+A. SUMMARY OF THE INFRINGEMENT flavours in various food formulations and to overcome
+bitterness.
+
+(1) This Decision is addressed to the following undertakings:
+
+2. THE PRODUCERS — Ajinomoto Company Incorporated
+
+— Takeda Chemical Industries Limited
+(a) AJINOMOTO COMPANY, INC. (JAPAN)
+— Daesang Corporation
+
+(8) Ajinomoto Company, Inc. (Ajinomoto) is the ultimate — Cheil Jedang Corporation
+parent company of a group of companies manufacturing
+chemicals, including nucleotides and food products.
+(2) The infringement consists in the participation of those Backed by capabilities in amino acid technology, the
+producers of nucleotides in a continuing agreement group of companies is also engaged in the development
+contrary to Article 81(1) of the Treaty and Article 53(1) and manufacture of pharmaceuticals. Ajinomoto’s operof the EEA Agreement covering the Community and the ations encompass manufacturing and marketing bases
+EEA, by which they fixed the prices of the product, in 21 countries.
+implemented price increases, allocated customers and
+set up a scheme to monitor and enforce their agreements.
+(9) Ajinomoto operates nucleotide production plants in
+Japan.
+(1) OJ 13, 21.2.1962, p. 204/62.
+(2) OJ L 1, 4.1.2003, p. 1.
+(3) OJ L 354, 30.12.1998, p. 18. (5) See under the heading ‘Duration’ for individualised dates per
+(4) OJ C 64, 12.3.2004. undertaking.
+
+L 75/4 EN Official Journal of the European Union 12.3.2004
+
+(10) Its European affiliates are Ajinomoto Europe Sales (d) CHEIL JEDANG CORPORATION (SOUTH KOREA)
+GmbH (Hamburg, Germany), Ajinomoto Eurolysine
+(Paris, France), OmniChem (Louvain-la-neuve, Belgium) (18) Cheil Jedang Corporation (Cheil) is the ultimate parent
+and Forum Holdings Ltd (United Kingdom). company of a group of companies established and
+operating worldwide. It was established as the South
+Korean Samsung Group’s first manufacturing affiliate
+(11) In 2001, all companies belonging to the Ajinomoto back in 1953. In 1993, Cheil Jedang Corporation
+group had a total worldwide turnover of became independent. Cheil is a diversified company
+EUR 8 680 million. focusing among other things on pharmaceuticals and
+foodstuffs. Cheil entered the nucleotide market in 1977.
+
+(b) TAKEDA CHEMICAL INDUSTRIES LIMITED (JAPAN) (19) Cheil operates in the EEA through its wholly owned
+subsidiary, CJ Europe GmbH, and various independent
+distributors.
+(12) Takeda Chemical Industries Ltd (Takeda) is the ultimate
+parent company of a group of companies manufacturing
+pharmaceuticals, chemicals, bulk vitamins, plant protec- (20) In 2001, the companies belonging to the Cheil group
+tion products and food additives such as nucleotides. had a total turnover of EUR 1 976 million (8).
+
+3. THE MARKET
+(13) The distribution of nucleotides into the EEA markets is
+organised through Mitsui & Co. (Japan). There are
+however several local sales subsidiaries in Europe: Mitsui (a) SUPPLY SIDE
+& Co. Deutschland GmbH (for sales to western Europe
+(including Germany, the Netherlands, Portugal and
+Switzerland), northern Europe, eastern Europe and Tur- 1. Production
+key), Mitsui & Co. UK Plc (for sales in the United
+Kingdom and Ireland) and Mitsui & Co. France SA (for (21) The main four producers of nucleotides are Ajinomoto,
+sales in France). Takeda, Cheil and Daesang. At the time of the infringement, other producers were Kyowa Hakko Kogyo Co. Ltd
+(Kyowa) (Japan) (9) and Yamasa Corporation (Yamasa)
+(14) For the financial year running from 1 April 2001 to (Japan) (10).
+31 March 2002, Takeda had a total worldwide turnover
+of EUR 9 247 million (6).
+(22) The total worldwide nucleotide production capacity in
+1997 was approximately 10 700 metric tonnes. In
+1992, the total worldwide nucleotide production
+(c) DAESANG CORPORATION (SOUTH KOREA) capacity was around 6 660 metric tonnes.
+
+(23) None of the Japanese or Korean manufacturers of(15) Daesang Corporation (Daesang) is the ultimate parent
+nucleotides have production facilities in the Community. company of a group operating worldwide, the activities
+Cheil has a production plant in Indonesia and Kyowa of which include the manufacture of seasonings, animal
+has recently constructed a production plant in the USA. feeds and amino acids. It was created in November 1997
+through a merger of Daesang Industrial Limited and
+Miwon Corporation Limited. Daesang Industrial Limited 2. Distribution
+was formerly known as Sewon Corporation Limited
+and Miwon Foods Corporation Limited (‘Daesang’ or
+(24) The abovementioned Japanese and South Korean pro- ‘Miwon’).
+ducers of nucleotides sell the product on the EEA market
+through sales subsidiaries and independent distributors
+established in different Member States.(16) Since September 1994, Daesang Europe BV is Daesang
+Corporation’s European sales company for nucleotides.
+Daesang Europe mainly sells nucleotides to independent (25) Since September 1994, Daesang sells nucleotides in
+distributors in the EEA. Europe through its wholly owned subsidiary Daesang
+Europe BV. Daesang Europe BV imports nucleotides
+from Asia and sells them mainly to independent distribu-
+(17) Daesang’s worldwide turnover in 2001 was tors in the EEA.
+EUR 1 382 million (7).
+
+(8) EUR 1 = 1,13404 USD (Eurostat’s reference database 2001
+(6) The following exchange rate was used: EUR 1 = 108,682 JPY exchange rate).
+(Eurostat’s reference database — 2001 exchange rate). (9) In 1992 Kyowa ceased exporting nucleotides to Europe.
+(7) EUR 1 = 1 154,83 won (Eurostat’s reference database 2001 (10) Yamasa Corporation ceased supplying food flavour enhancer to
+exchange rate). Europe in 1994.
+
+12.3.2004 EN Official Journal of the European Union L 75/5
+
+(26) Ajinomoto sells nucleotides in the EEA through its sales (34) All nucleotides sold in the EEA are imported from
+subsidiary Ajinomoto Europe Sales GmbH established outside the EEA.
+in Hamburg, Germany, as well as through independent
+distributors.
+(35) South Korean producers benefited from a Community
+preferential custom tariff regime until 30 April 1998 (11).
+(27) Cheil sells nucleotides in the EEA through its wholly
+owned subsidiary, CJ Europe GmbH, and through inde- (36) The strain on which the production of commercial
+pendent distributors. nucleotides is essentially based (as well as the production
+process itself) has been patented. Among other factors
+that may influence the customer’s choice of supplier,
+(28) Takeda sells nucleotides on the EEA through an indepen- parties have mentioned the quality of the product, price,
+dent distributor, which distributes the product to cus- delivery and technical support.
+tomers through its subsidiaries established in Germany,
+France and the United Kingdom.
+(37) From the beginning of 1988 until the end of 1997, the
+average monthly nucleotide prices in the EEA remained
+fairly stable (approximately between EUR 22 and EUR 27 (b) DEMAND SIDE
+per kilogram). After this period, nucleotides prices
+started to fall considerably (prices estimated approximately between EUR 12 and EUR 16 in 1999 and(29) The demand for nucleotides is directly linked to the food
+between EUR 8 and EUR 12 in 2000). industry. As mentioned before, nucleotides are mainly
+used by major food manufacturers to add flavour to
+foods.
+(d) INTER-STATE TRADE
+
+(30) Between 1992 and 1999, the nucleotides market grew (38) Over the period considered in this Decision, the nucleorapidly: whereas worldwide consumption in 1992 was tides market was characterised by important flows
+still at approximately 4 465 metric tonnes, it was well between the current Member States as well as between
+over 9 000 metric tonnes in 1999. Over the same the Contracting Parties to the EEA Agreement.
+period, it is estimated that the Community consumption
+of nucleotides has risen from approximately 200 metric
+tonnes to over 500 metric tonnes in 1999. (39) All undertakings marketed t
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ement of the competition rules committed by these undertakings in the past. (284) The Commission acknowledges that Takeda was the first
+In the light of the above, the adoption of a compliance to come forward adducing decisive evidence of the
+programme should not be considered as an attenuating existence of the cartel and maintaining continuing
+circumstance justifying a reduction in the fine. and complete cooperation throughout the investigation.
+Takeda first informed the Commission of the existence
+of the cartel on 9 September 1999, handing over a file
+(280) There are therefore no attenuating circumstances appli- with contemporaneous evidence on 14 September 1999.
+cable to the participants in this infringement affecting At that time, the Commission had not received any
+the nucleotides market. information of the cartel from any other source.
+
+4. Application of the leniency notice (285) In assessing Takeda’s cooperation, the Commission
+notes that the documentary evidence it first produced
+did not relate to the activities of the cartel prior to
+(281) The addressees of this Decision have cooperated with 1992. Nevertheless, in its corporate statement, Takeda
+the Commission at different stages of the investigation indicated that the cartel did in fact originate in 1989.
+into the infringement for the purpose of obtaining the There is no indication that Takeda has any other
+favourable treatment set out in the Leniency Notice. information or documents available concerning the
+In order to meet the legitimate expectations of the cartel. Therefore, it must be concluded that Takeda’s
+cooperation with the Commission has been complete.
+
+(154) Case 37.512, not published yet.
+(155) Case 36.545 (OJ L 152 7.6.2001, p. 24-72).
+(156) Case T-308/94 Cascades SA v Commission, paragraph 230. (157) OJ C 45, 19.2.2002, p. 3.
+
+L 75/30 EN Official Journal of the European Union 12.3.2004
+
+(286) Despite there being elements in the file indicating the statement of objections, Daesang did not substanthat Takeda may have played, on certain occasions, a tially contest the facts on which the Commission bases
+coordinating role in the cartel, Takeda did not compel its findings. Daesang therefore fulfils the conditions set
+any other enterprise to take part in the cartel and did out in the first and second indent of paragraph 2 of
+not act as an instigator in the cartel nor did it play a Section D of the Leniency Notice and should consedetermining role in the illegal activity in the sense of the quently be granted a reduction of the fine of 50 %.
+Leniency Notice. It has also been established that Takeda
+had put an end to its involvement in the infringement
+before coming forward to the Commission. (292) Cheil provided many contemporaneous reports of meetings and contacts thus materially contributing to establishing the existence of the cartel. The information(287) In the light of its overall cooperation in the investigation,
+provided by Cheil was extensively used by the Com- Takeda fulfils the conditions set out in Section B of the
+mission. Furthermore, Cheil does not contest the facts Leniency Notice and should be granted a 100 %
+of the infringement as set out by in the statement of reduction in the fine that would have been imposed had
+objections. It must therefore be concluded that Cheil it not cooperated with the Commission.
+fulfils the conditions as set out in the first and second
+indent of paragraph 2 of Section D of the Leniency
+Substantial reduction in a fine (Section C) Notice, as argued by Cheil. Consequently, in view of the
+overall cooperation provided by Cheil to the Commission’s investigation, it should be granted a 40 %
+(288) Daesang, Cheil and Ajinomoto request the benefit of a reduction in the fine that would have been imposed had
+reduction in fine in accordance with Section C of the it not cooperated with the Commission.
+Leniency Notice. At the time when Daesang, Cheil and
+Ajinomoto started to cooperate with the Commission,
+Takeda had already submitted sufficient information to (293) Ajinomoto has fully cooperated with the Commission
+establish the existence of the cartel. Consequently, it is during the entire duration of the investigation, assisting
+concluded that Daesang, Cheil and Ajinomoto were not the Commission in materially establishing the existence
+the first to provide the Commission with decisive of the infringement, providing contemporaneous docuevidence on the existence of the nucleotides cartel, as ments which were extensively used by the Commission
+required under point (b) of Section B of the Leniency as well as clarifications given on the operation of
+Notice. Accordingly, none of those undertakings meets the arrangements. Consequently, Ajinomoto fulfils the
+the conditions as set out in Section C. conditions laid down under the first indent of paragraph 2 of Section D of the Leniency Notice.
+
+Significant reduction of a fine (Section D)
+
+(294) However, Ajinomoto contests the facts as set out in the
+(289) Daesang submits that it not only offered to cooperate statement of objections as far as the duration of the
+with the Commission’s investigation before the Com- cartel is concerned. Ajinomoto therefore does not qualify
+mission issued the first request for information but for a reduction of the fine pursuant to the second indent
+also provided the Commission with its complete and of paragraph 2 of Section D of the Leniency Notice. On
+continuous cooperation throughout the investigation. It the basis of the foregoing, it is concluded that Ajinomoto
+also argues that it has enabled the Commission to fulfils the conditions set out in the first indent of
+establish the entire duration of the infringement as from paragraph 2 of Section D of the Leniency Notice and
+October 1988 and was thus the first to adduce decisive should accordingly be granted a reduction of 30 %.
+evidence of the entire infringement set out in the
+statement of objections.
+
+Conclusion on the application of the Leniency
+(290) Although Daesang only contacted the Commission Notice
+after Takeda had already come forward, it nevertheless
+contacted the Commission on its own initiative prior to
+receiving any request for information. In addition, (295) In conclusion, with regard to the nature of their
+Daesang fully cooperated with the Commission’s investi- cooperation and in the light of the Leniency Notice, the
+gation throughout the entire investigation. Daesang also addressees of this Decision should be granted the
+provided information that contributed materially to following reductions of their respective fines:
+establishing the facts relating to the existence of the
+cartel arrangements prior to 1992.
+— to Takeda: a reduction of 100 %,
+
+(291) The information provided by Daesang, prior to the — to Ajinomoto: a reduction of 30 %,
+Commission sending it a request for information, was
+detailed and extensively used by the Commission in
+— to Daesang: a reduction of 50 %, the pursuit of its investigation. In particular, but not
+exclusively, Daesang provided valuable information on
+the operation of the cartel prior to 1992. After receiving — to Cheil: a reduction of 40 %.
+
+12.3.2004 EN Official Journal of the European Union L 75/31
+
+5. The final amounts of the fines imposed in these — Ajinomoto Company Incorporated, a fine of
+proceedings EUR 15 540 000,
+
+— Daesang Corporation, a fine of EUR 2 280 000,
+(296) In conclusion, the fines to be imposed, pursuant to
+Article 15(2)(a) of Regulation No 17, should be as — Cheil Jedang Corporation, a fine of EUR 2 736 000.
+follows:
+The fines shall be paid within three months of the date of the
+— Takeda: EUR 0, notification of this Decision to the following account of the
+European Commission:
+— Ajinomoto: EUR 15 540 000,
+Account No 642-0029000-95
+— Daesang: EUR 2 280 000, IBAN code: BE76 6420 0290 0095
+SWIFT code: BBVABEBB
+— Cheil: EUR 2 736 000, Banco Bilbao Vizcaya Argentaria (BBVA) SA
+Avenue des Arts/Kunstlaan, 43
+B-1040 Bruxelles/Brussel
+HAS ADOPTED THIS DECISION:
+After expiry of that period, interests shall automatically be
+payable at the interest rate applied by the European Central
+Article 1
+Bank to its main refinancing operations on the first day of the
+month in which this Decision is adopted, plus 3,5 percentage
+Ajinomoto Company Incorporated, Takeda Chemical Indus- points, namely 6,75 %.
+tries Limited, Daesang Corporation and Cheil Jedang Corporation have infringed Article 81(1) of the Treaty and
+Article 4Article 53(1) of the EEA Agreement by participating, in the
+manner and to the extent set out in the reasoning, in a complex
+This Decision is addressed to:
+of agreements and concerted practices in the nucleotides
+sector. Takeda Chemical Industries Limited
+12-10, Nihonbashi 2-chome
+The duration of the infringement was as follows: Chuo-ku
+Tokyo 103-8668
+(a) Ajinomoto Company Incorporated, from 8 November Japan
+1988 until September 1997;
+Ajinomoto Company Incorporated
+(b) Takeda Chemical Industries Limited, from 8 November 15-1, Kyobashi itchome
+1988 until June 1998; Chuo-ku
+Tokyo 104-8315
+(c) Daesang Corporation, from 19 December 1988 until the Japan
+end of 1997;
+Cheil Jedang Corporation
+(d) Cheil Jedang Corporation, from March 1989 until 6F, Cheiljedang Bldg
+June 1998. Namdaemoon-Ro
+Chung-Ku, 100-095 Seoul
+Korea
+Article 2
+Daesang Corporation
+Daesang BuildingThe undertakings listed in Article 1 shall immediately bring to
+96-48 Shinsul-Dongan end the infringement referred to therein, in so far as they
+Dongdaemoon-Ku, Seoulhave not already done so.
+Korea
+
+They shall refrain from any agreements or concerted practices This Decision shall be enforceable pursuant to Article 256 of
+in relation to their activities in nucleotides that may have the the Treaty.
+same or similar object or effect as the infringement.
+
+Done at Brussels, 17 December 2002.
+Article 3
+For the Commission
+The following fines are hereby imposed on the undertakings
+Mario MONTI
+listed in Article 1 in respect of the infringement referred to
+therein: Member of the Commission

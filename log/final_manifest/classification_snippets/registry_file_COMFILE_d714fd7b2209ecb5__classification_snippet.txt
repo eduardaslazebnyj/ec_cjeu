@@ -1,0 +1,486 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+SV
+
+SV SV
+
+EUROPEISKA GEMENSKAPERNAS KOMMISSION
+
+Bryssel den 3.9.2004
+KOM(2004) 2826
+
+KOMMISSIONENS BESLUT
+
+av den 3 september 2004
+
+om ett förfarande i enlighet med artikel 81 i EG-fördraget och artikel 53 i EES-avtalet
+
+(Ärende Comp / E-1 / 38.069 - VVS-kopparrör)
+
+(Endast de nederländska, engelska, finska, franska, tyska, grekiska, italienska och
+svenska texterna är giltiga)
+
+(Text av betydelse för EES)
+
+SV SV
+
+INNEHÅLLSFÖRTECKNING
+
+A – INLEDNING ................................................................................................................ 10
+
+B – INDUSTRIN FÖR VVS-KOPPARRÖR........................................................................ 10
+1. Produkten............................................................................................................... 10
+1.1. Standard VVS-kopparrör och plastbelagda VVS-kopparrör.................................... 10
+1.2. Affärsverksamhetens geografiska utbredning ......................................................... 14
+1.3. Prissättning inom industrin för VVS-kopparrör ...................................................... 14
+1.3.1. Indexerade prislistor............................................................................................... 14
+1.3.2. Rabatter.................................................................................................................. 15
+1.4. Storlek, värde och marknadsandelar – standard och plastbelagda VVS-kopparrör... 15
+1.5. Handeln mellan medlemsstaterna ........................................................................... 16
+2. Marknadsaktörerna................................................................................................. 16
+2.1. Producenter som omfattas av förfarandet................................................................ 16
+2.1.1. Boliden AB och Boliden Cuivre & Zinc S.A. ......................................................... 16
+2.1.2. Buntmetall Amstetten Ges.m.b.H. och Austria Buntmetall AG............................... 16
+2.1.3. Halcor S.A. ............................................................................................................ 17
+2.1.4. HME Nederland BV............................................................................................... 17
+2.1.5. IMI plc................................................................................................................... 17
+2.1.6. KME-koncernen..................................................................................................... 18
+2.1.6.1. Berörda verksamheter............................................................................................. 18
+2.1.6.2. SMI-koncernens juridiska och ekonomiska struktur................................................ 19
+2.1.7. Mueller Industries Inc. ........................................................................................... 21
+2.1.8. Outokumpu Copper Products Oy (nedan kallat ”Outokumpu”)............................... 22
+2.1.9. Wieland Werke AG................................................................................................ 22
+2.2. Andra producenter.................................................................................................. 23
+2.3. Branschorganisationer och certifieringsorgan ......................................................... 23
+
+C – FÖRFARANDET.......................................................................................................... 24
+3. Utredning och ansökningar om förmånlig behandling............................................. 24
+4. Antagande av meddelande om invändningar och det fortsatta förfarandet............... 26
+
+D – HÄNDELSEFÖRLOPPET............................................................................................ 27
+5. Beskrivning av det ifrågasatta agerandet inom den europeiska industrin för vvskopparrör från 1988 till mars 2001 ......................................................................... 27
+
+SV 2 SV
+
+5.1. Inledning................................................................................................................ 27
+5.2. Nationella kontakter............................................................................................... 27
+5.3. Kontakter på europeisk nivå inklusive kontakterna mellan SANCO-, WICU- och
+Cuprotherm-producenter ........................................................................................ 28
+5.4. Branschorganisationsmöten.................................................................................... 29
+6. Möten mellan SANCO-producenter och mellan producenter av WICU- och
+Cuprotherm-rör och konkurrentkontakter ............................................................... 29
+6.1. SANCO-organisationen och SANCO licensavtalen om tekniköverföring ............... 29
+6.2. WICU- och Cuprotherm-samverkan inom ramen för licensavtalen om
+tekniköverföring i fråga om WICU- och Cuprotherm-rör........................................ 31
+6.3. Deltagare i SANCO-producenternas samverkan och i WICU- och Cuprothermproducenternas samverkan ..................................................................................... 31
+6.4. Samverkan mellan (åtminstone) SANCO-producenterna (BCZ, KME, EM, TMX och
+Wieland) ................................................................................................................ 32
+6.4.1. Samverkan mellan SANCO-producenter mellan juni 1988 och mitten av 1994 eller
+mitten av 1995........................................................................................................ 32
+6.4.1.1. Avtal om riktpriser och rabatter.............................................................................. 33
+6.4.1.2. Fördelning av volymer och marknadsandelar.......................................................... 34
+6.4.1.3. Övervakning........................................................................................................... 34
+6.4.2. Förhållandet mellan SANCO-producenter och icke SANCO-producenter............... 35
+6.5. Avtal och diskussioner mellan KME och Wieland om WICU- och Cuprotherm-rör 36
+7. SANCO-producenternas möten och andra kontakter i kronologisk ordning ............ 36
+7.1. SANCO-producenternas återkommande kontakter och informationsutbyte mellan
+1987 och 2000........................................................................................................ 36
+7.1.1. Kontakter mellan främst KME och Wieland........................................................... 36
+7.1.2. Institutionaliserat informationsutbyte ..................................................................... 37
+7.2. Andra händelser mellan 1988 och 2001.................................................................. 39
+7.2.1. Mötet den 3 juni 1988 ............................................................................................ 39
+7.2.2. Liège den 4 november 1988 ................................................................................... 39
+7.2.3. Zürich den 24 november 1988................................................................................ 40
+7.2.4. Stuttgart den 26 november 1993............................................................................. 40
+7.2.5. Januari-februari 1994 ............................................................................................. 40
+7.2.6. Düsseldorf den 26 september 1995......................................................................... 40
+7.2.7. Den 5 mars 1997 .................................................................................................... 41
+7.2.8. Frankfurt den 24.6.1997 ......................................................................................... 41
+7.2.9. Frankfurt den 27 juni 1997 ..................................................................................... 41
+7.2.10. KME:s övervakning den 26 augusti 1997 ............................................................... 41
+
+SV 3 SV
+
+7.2.11. Kring 1997............................................................................................................. 41
+7.2.12. Från 1998 till 2000................................................................................................. 41
+7.2.13. Amsterdam den 9 juni 1998.................................................................................... 42
+7.2.14. Den 12 och 15 april 1999 ....................................................................................... 42
+7.2.15. Düsseldorf den 21 oktober 1999............................................................................. 42
+7.2.16. Düsseldorf den 14 januari 2000.............................................................................. 43
+7.2.17. Düsseldorf den 9 februari 2000............................................................................... 43
+7.2.18. Den 28 april 2000................................................................................................... 43
+7.2.19. Düsseldorf den 30 maj 2000................................................................................... 43
+7.2.20. Düsseldorf den 21 juni 2000................................................................................... 43
+7.2.21. Den 4 september och 22 november 2000 ................................................................ 43
+7.2.22. Den 21 mars 2001 .................................................................................................. 44
+8. Konkurrentkontakternas utveckling, struktur och syfte på europeisk nivå............... 44
+8.1. Perioden före september 1989 ................................................................................ 45
+8.2. Kontakter från september 1989 till slutet av 1994................................................... 45
+8.3. Perioden med färre kontakter från senare delen av 1994 till juli 1997..................... 48
+8.4. Perioden från juli 1997 till mars 2001..................................................................... 48
+9. Möteskronologi och konkurrentkontakter ............................................................... 51
+9.1. Möteskronologi från 1987 till september 1989........................................................ 51
+9.2. Kronologisk översikt över mötena från september 1989 till mars 2001................... 53
+9.2.1. 1989....................................................................................................................... 53
+9.2.2. 1990....................................................................................................................... 57
+9.2.3. 1991....................................................................................................................... 57
+9.2.4. 1992....................................................................................................................... 58
+9.2.5. 1993....................................................................................................................... 60
+9.2.6. 1994....................................................................................................................... 62
+9.2.7. 1995....................................................................................................................... 65
+9.2.8. 1996....................................................................................................................... 65
+9.2.9. 1997....................................................................................................................... 69
+9.2.10. 1998....................................................................................................................... 74
+9.2.11. 1999....................................................................................................................... 87
+9.2.12. 2000....................................................................................................................... 97
+9.2.13. 2001..................................................................................................................... 105
+
+E – TILLÄMPNING AV ARTIKEL 81.1 I FÖRDRAGET OCH ARTIKEL 53.1 I
+EES-AVTALET ................................................................................................................ 108
+
+SV 4 SV
+
+10. Artikel 81.1 i fördraget och artikel 53.1 i EES-avtalet........................................... 108
+10.1. Tillämplighet........................................................................................................ 108
+10.2. Behörighet............................................................................................................ 108
+11. Överträdelsens art................................................................................................. 109
+11.1. Avtal och samordnade förfaranden....................................................................... 109
+11.2. En enda, komplex och fortlöpande överträdelse.................................................... 110
+11.3. Överträdelsens art i detta fall................................................................................ 112
+11.3.1. Avtal och samordnade förfaranden (komplex överträdelse) .................................. 112
+11.3.2. En enda, komplex och mångskiftande överträdelse............................................... 115
+11.3.3. En enda komplex överträdelse.............................................................................. 116
+11.3.4. Fortlöpande överträdelse ...................................................................................... 116
+11.3.4.1.Perioden från början av 1990 till december 1992.................................................. 117
+11.3.4.2.Perioden från juli 1994 till juli 1997..................................................................... 118
+11.3.4.3.Boliden ................................................................................................................ 124
+11.3.4.4.Halcor .................................................................................................................. 124
+11.3.4.5.Övriga parter........................................................................................................ 125
+12. Begränsning av konkurrensen............................................................................... 125
+12.1. Syfte .................................................................................................................... 125
+13. Inverkan på handeln mellan medlemsstaterna och mellan de avtalsslutande parterna
+inom EES............................................................................................................. 129
+14. Ytterligare överväganden ..................................................................................... 130
+14.1. SANCO-samverkan och KME:s roll..................................................................... 130
+14.2. WICU- och Cuprotherm-samverkan..................................................................... 132
+14.3. Parterna hävdar att vissa avtal ansågs lag
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ rikta sig enbart till detta företag.
+
+SV 184 SV
+
+– Outokumpu-koncernen: 36,14 miljoner euro
+– Wieland koncernen 2,43 miljoner euro
+– Wieland Werke AG: 24,7416 miljoner euro
+
+SV 185 SV
+
+HÄRIGENOM FÖRESKRIVS FÖLJANDE.
+
+Artikel 1
+Följande företag har brutit mot artikel 81.1 i fördraget och - från och med den 1 januari 1994
+– mot artikel 53.1 i EES-avtalet genom att, under angivna perioder, delta i en uppsättning
+avtal och samordnade förfaranden som innebar fastställande av priser och uppdelning av
+marknaden inom sektorn för VVS-kopparrör:
+(a) Boliden AB tillsammans med Boliden Fabrication AB och Boliden Cuivre & Zinc
+S.A., från och med den 3 juni 1988 till och med den 22 mars 2001.
+(b) Boliden Fabrication AB tillsammans med Boliden AB och Boliden Cuivre & Zinc
+S.A., från och med den 3 juni 1988 till och med den 22 mars 2001.
+(c) Boliden Cuivre & Zinc S.A., tillsammans med Boliden AB och Boliden Fabrication
+AB, från och med den 3 juni 1988 till och med den 22 mars 2001.
+(d) Austria Buntmetall AG,
+i) tillsammans med Buntmetall Amstetten Ges.m.b.H., senast från och med
+den 29 augusti 1998 till och med den 8 juli 1999 och,
+ii) tillsammans med Wieland Werke AG och Buntmetall Amstetten Ges.m.b.H.,
+från och med den 9 juli 1999 till och med den 22 mars 2001.
+(e) Buntmetall Amstetten Ges.m.b.H.,
+i) tillsammans med Austria Buntmetall AG, senast från och med den 29 augusti
+1998 till och med den 8 juli 1999, och
+ii) tillsammans med Wieland Werke AG och Austria Buntmetall AG, från och
+med den 9 juli 1999 till och med den 22 mars 2001.
+(f) Halcor S.A., senast från och med den 29 augusti 1998 till åtminstone början av
+september 1999.
+(g) HME Nederland BV, senast från och med den 29 augusti 1998 till och med
+den 22 mars 2001.
+(h) IMI plc, tillsammans med IMI Kynoch Ltd. och Yorkshire Copper Tube Ltd. (ex IMI
+Yorkshire Copper Tube Ltd.), från och med den 29 september 1989 till och med den
+22 mars 2001.
+(i) IMI Kynoch Ltd., tillsammans med IMI plc och Yorkshire Copper Tube Ltd. (ex IMI
+Yorkshire Copper Tube Ltd.), från och med den 29 september 1989 till och med den
+22 mars 2001.
+(j) Yorkshire Copper Tube Ltd. (ex IMI Yorkshire Copper Tube Ltd.), tillsammans med
+IMI plc och IMI Kynoch Ltd., från och med den 29 september 1989 till och med den
+22 mars 2001.
+(k) KM Europa Metal AG,
+i) ensamt ansvarigt, från och med den 3 juni 1988 till och med den 19 juni 1995,
+och
+ii) tillsammans med Tréfimétaux SA och Europa Metalli SpA, från och med
+den 20 juni 1995 till och med den 22 mars 2001.
+
+SV 186 SV
+
+(l) Europa Metalli SpA.,
+i) tillsammans med TMX, från och med den 29 september 1989 till och med
+den 19 juni 1995, och
+ii) tillsammans med KM Europa Metal AG och Tréfimétaux SA, från och med
+den 20 juni 1995 till och med den 22 mars 2001.
+(m) Tréfimétaux SA,
+i) tillsammans med Europa Metalli SpA, från och med den 29 september 1989 till
+och med den 19 juni 1995, och
+ii) tillsammans med KM Europa Metal AG och Europa Metalli SpA, från och med
+den 20 juni 1995 till och med den 22 mars 2001.
+(n) Mueller Industries, Inc., tillsammans med WTC Holding Company, Inc., Mueller
+Europe Ltd., DENO Holding Company, Inc. och DENO Acquisition EURL, från och
+med den 21 oktober 1997 till och med den 8 januari 2001.
+(o) WTC Holding Company, Inc., tillsammans med Mueller Industries, Inc., Mueller
+Europe Ltd., DENO Holding Company, Inc. och DENO Acquisition EURL, från och
+med den 21 oktober 1997 till och med den 8 januari 2001.
+(p) Mueller Europe Ltd., tillsammans med WTC Holding Company, Inc., Mueller
+Industries, Inc., DENO Holding Company, Inc. och DENO Acquisition EURL, från
+och med den 21 oktober 1997 till och med den 8 januari 2001.
+(q) DENO Holding Company, Inc., tillsammans med WTC Holding Company, Inc.,
+Mueller Europe Ltd., Mueller Industries, Inc. och DENO Acquisition EURL, från och
+med den 21 oktober 1997 till och med den 8 januari 2001.
+(r) DENO Acquisition EURL, tillsammans med WTC Holding Company, Inc., Mueller
+Europe Ltd., DENO Holding Company, Inc. och Mueller Industries, Inc., från och
+med den 21 oktober 1997 till och med den 8 januari 2001.
+(s) Outokumpu Oyj, tillsammans med Outokumpu Copper Products Oy, från och med
+den 29 september 1989 till och med den 22 mars 2001.
+(t) Outokumpu Copper Products Oy tillsammans med Outokumpu Oyj från och med
+den 29 september 1989 till och med den 22 mars 2001.
+(u) Wieland Werke AG
+i) ensamt ansvarigt från och med den 29 september 1989 till och med
+den 8 juli 1999, och
+ii) tillsammans med Austria Buntmetall AG och Buntmetall Amstetten
+Ges.m.b.H., från och med den 9 juli 1999 till och med den 22 mars 2001.
+
+Artikel 2
+För överträdelserna enligt artikel 1 fastställs följande böter:
+(a) Boliden AB, Boliden Fabrication AB och Boliden Cuivre & Zinc S.A. med
+solidariskt ansvar, 32,6 miljoner euro
+(b) Austria Buntmetall AG och Buntmetall Amstetten Ges.m.b.H. med
+solidariskt ansvar, 0,6695 miljoner euro
+
+SV 187 SV
+
+(c) Austria Buntmetall AG, Buntmetall Amstetten Ges.m.b.H. och Wieland
+Werke AG med solidariskt ansvar 2,43 miljoner euro
+(d) Halcor S.A. 9,16 miljoner euro
+(e) HME Nederland BV 4,49 miljoner euro
+(f) IMI plc, IMI Kynoch Ltd. och Yorkshire Copper Tube Ltd. (ex IMI
+Yorkshire Copper Tube Ltd.) med solidariskt ansvar, 44,98 miljoner
+euro
+(g) KM Europa Metal AG 17,96 miljoner euro
+(h) KM Europa Metal AG, Tréfimétaux SA och Europa Metalli SpA med
+solidariskt ansvar, 32,75 miljoner euro
+(i) Europa Metalli SpA. och Tréfimétaux SA med solidariskt ansvar,
+16,37 miljoner
+euro
+(j) Outokumpu Oyj och Outokumpu Copper Products Oy med solidariskt
+ansvar, 36,14 miljoner euro
+(k) Wieland Werke AG, ensamt ansvarigt,
+24,7416 miljoner euro
+Böterna skall betalas till följande konto inom tre månader från dagen för delgivning av detta
+beslut:
+Europeiska kommissionens kontonummer 001-3953713-69 hos
+
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Bryssel
+(SWIFT-kod GEBABEBB – IBAN-kod BE71 0013 9537 1369)
+När denna period löpt ut skall dröjsmålsränta betalas enligt den räntesats som
+Europeiska centralbanken tillämpar för sina huvudsakliga refinansieringstransaktioner den
+första dagen i den månad då detta beslut antas, med tillägg av 3,50 procentenheter, nämligen
+5,52%.
+
+Artikel 3
+De företag som anges i artikel 1 skall omedelbart avbryta den överträdelse som anges i den
+artikeln, om så inte redan skett.
+De skall avstå från att upprepa varje handling eller uppträdande som anges i artikel 1 och från
+varje sådan handling eller sådant uppträdande som har samma eller liknande föremål eller
+verkan.
+
+Artikel 4
+Detta beslut riktar sig till
+
+1. Wieland Werke AG
+Graf-Arco-Strasse 36
+89079 Ulm
+Tyskland
+
+SV 188 SV
+
+2. Buntmetall Amstetten G.m.b.H.
+Fabrikstrasse 4
+3300 Amstetten
+Österrike
+
+3. Austria Buntmetall AG
+Fabrikstrasse 2
+A - 2551 Enzesfeld
+Österrike
+
+4. Mueller Industries Inc
+8285 Tournamet Drive
+Suite 150
+Memphis, Tennessee 38125
+USA
+
+5. Mueller Europe Ltd.
+Oxford Street,
+Bilston
+West Midlands WV14 7DS
+Förenade kungariket
+
+6. DENO Holding Company Inc.
+c/o The Corporation Company
+30600 Telegraph Road
+Bingham Farms
+MI 48025
+USA
+
+7. DENO Aquisition EURL
+17, Rue de la Baume
+75008 Paris
+Frankrike
+
+8. Outokumpu Oyj
+Riihitontuntie 7 D
+02201 Espoo
+Finland
+
+9. Outokumpu Copper Products Oy
+Riihitontuntie 7 A
+02201 Espoo
+Finland
+
+10. KM Europa Metal AG
+Klosterstrasse 29
+49074 Osnabrück
+Tyskland
+
+SV 189 SV
+
+11. Tréfimétaux SA
+11, bis rue de l'hôtel de ville
+92411 Courbevoie
+Frankrike
+
+12. Europa Metalli SpA
+Via dei Barucci, 2
+50127 Firenze
+Italien
+
+13. Halcor S.A.
+252, Piraeus Street
+17778 Athens (Tavros)
+Grekland
+
+14. Boliden Cuivre & Zinc SA
+Rue du Forneau 43
+4030 Liège
+Belgien
+
+15. Boliden AB
+Box 5001
+194 05 Upplands Väsby
+Sverige
+
+16. Boliden Fabrication AB
+Box 5001
+194 05 Upplands Väsby
+Sverige
+
+17. Yorkshire Copper Tube Ltd. (ex IMI Yorkshire Copper Tube Ltd.)
+East Lancashire Road
+Kirkby
+Liverpool, L33 7TU
+Förenade kungariket
+
+18. IMI Kynoch Ltd.
+Lakeside, Solihull Parkway
+Birmingham Business Park
+Solihull B37 7XZ
+Förenade kungariket
+
+19. IMI Plc
+Lakeside, Solihull Parkway
+Birmingham Business Park
+Solihull B37 7XZ
+Förenade kungariket
+
+20. HME Nederland B.V.
+
+SV 190 SV
+
+Veerweg 14
+5145 NS Waalwijk
+Nederländerna
+
+21. WTC Holding Company, Inc.
+c/o The Corporation Company
+30600 Telegraph Road
+Bingham Farms
+MI 48025
+USA
+Detta beslut skall vara verkställbart enligt artikel 256 i fördraget och artikel 110 i EES-avtalet.
+Utfärdat i Bryssel den [...]
+
+På kommissionens vägnar
+Mario MONTI
+Ledamot av kommissionen
+
+SV 191 SV
+
+BILAGA
+
+Marknadsandelar för standard VVS-kopparrör inom EES (1989–2001)1
+
+Year IMI HME Hal- Mueller OTK WW KME Boli- TOTcor den AL
+
+WB DES Tot- WW BMA TMX EM KME Total al
+
+1989 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1990 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1991 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1992 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1993 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1994 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1995 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1996 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1997 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1998 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1999 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+] [...]
+2000 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+1 Den av kommissionen beräknade totala marknadsvolymen baseras på uppgifter om omsättning och
+marknadsstorlek som parterna lämnat.
+
+SV 192 SV
+
+2001 [...] [...] [...] [... [...] [...] [...] [...] [...] [...] [...] [...] [...]
+]
+
+SV 193 SV

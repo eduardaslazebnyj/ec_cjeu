@@ -1,0 +1,393 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40401 - Second-hand Rolling
+Stock
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 23/10/2024
+This is a provisional non-confidential version.
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 23.10.2024
+C(2024) 7355 final
+
+COMMISSION DECISION
+
+of 23.10.2024
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+
+(AT.40401 - Second-hand Rolling Stock)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction and executive summary of the Commission’s findings in the present
+Decision........................................................................................................................ 7
+2. The industry subject to the proceedings ....................................................................... 9
+2.1. Rail passenger transport services and their geographic scope ..................................... 9
+2.1.1. Used wagons for long-distance passenger transport and authorised for circulation on
+the railway networks of Austria and of Czechia .......................................................... 9
+2.1.2. Provision of long-distance rail passenger transport services ..................................... 10
+2.2. The regulatory framework for rail passenger transport services and the competitive
+situation ...................................................................................................................... 11
+2.2.1. The regulatory framework for international passenger transport services and the
+competitive situation .................................................................................................. 12
+2.2.2. The regulatory framework for rail passenger transport services in Austria and the
+competitive situation .................................................................................................. 12
+2.2.3. The regulatory framework for rail passenger transport services in Czechia and the
+competitive situation .................................................................................................. 12
+2.3. The Parties .................................................................................................................. 13
+2.3.1. České dráhy ................................................................................................................ 13
+2.3.2. Österreichische Bundesbahnen .................................................................................. 13
+2.4. Other undertakings relevant for the present proceedings ........................................... 14
+2.4.1. RegioJet ...................................................................................................................... 14
+2.4.2. Leo Express ................................................................................................................ 14
+2.4.3. Transport Consult Austria .......................................................................................... 15
+2.4.4. Deutsche Bahn ........................................................................................................... 15
+2.4.5. WESTBahn ................................................................................................................ 15
+2.4.6. ZSSK .......................................................................................................................... 16
+3. Procedure.................................................................................................................... 16
+3.1. Procedural steps ......................................................................................................... 16
+3.2. Arguments raised by ČD and assessment by the Commission .................................. 22
+3.2.1. ČD’s access to the case file ........................................................................................ 22
+3.2.2. ČD’s access to proper minutes of meetings of the Commission with ÖBB and other
+undertakings ............................................................................................................... 23
+3.3. Interim conclusion ...................................................................................................... 26
+4. Relevant factual context ............................................................................................. 26
+4.1. The process of sale and purchase of used wagons ..................................................... 26
+4.1.1. The process of sale of used wagons at ÖBB .............................................................. 26
+
+EN 2 EN
+
+4.1.2. The process of purchase of used wagons at ČD ......................................................... 27
+4.1.3. RegioJet’s reliance on used wagons and its process of purchase of used wagons ..... 28
+4.1.4. The activities of TCA in the purchase of used wagons .............................................. 28
+4.2. The Parties’ cooperation for the common operation of trains on the Prague-Vienna
+route (“railjet cooperation”) ....................................................................................... 28
+4.3. Basic principles and structure of the collusion .......................................................... 29
+4.3.1. The collusion and its objective ................................................................................... 29
+4.3.2. Instances of collusive actions ..................................................................................... 30
+4.3.3. The organisation of the Parties’ collusion and the persons involved ......................... 31
+5. Facts ........................................................................................................................... 32
+5.1. Sale of 13 wagons from ÖBB to RegioJet in January and February 2011 ................ 32
+5.1.1. Summary .................................................................................................................... 32
+5.1.2. The sales process ........................................................................................................ 32
+5.1.3. ÖBB's internal assessment of this sales process ........................................................ 32
+5.1.4. Arguments raised by ČD and assessment by the Commission .................................. 33
+5.2. Sale process of [...] wagons to ČD in [...] 2011 and the link to the railjet option at
+Siemens ...................................................................................................................... 34
+5.2.1. Summary .................................................................................................................... 34
+5.2.2. The sales process ........................................................................................................ 34
+5.2.3. The Parties’ internal assessment of this sales process ............................................... 34
+5.2.4. Arguments raised by ČD and assessment by the Commission .................................. 37
+5.3. The meeting of [...] ČD and ÖBB in Vienna on [...] 2012 ....................................... 37
+5.3.1. Summary .................................................................................................................... 37
+5.3.2. Meetings and collusive contacts ................................................................................. 38
+5.3.3. Arguments raised by ČD and the Commission’s assessment .................................... 40
+5.3.4. Arguments raised by ÖBB and the Commission’s assessment .................................. 41
+5.4. ÖBB’s cancellation of an envisaged sale to ČD in 2012 to circumvent a right of first
+refusal of RegioJet ...................................................................................................... 43
+5.4.1. Summary .................................................................................................................... 43
+5.4.2. Meetings and collusive contacts ................................................................................. 43
+5.4.3. Arguments raised by ČD and assessment by the Commission .................................. 47
+5.5. Sale of [...] wagons to ČD on [...] 2013 ................................................................... 50
+5.5.1. Summary .................................................................................................................... 50
+5.5.2. Meetings and collusive contacts in the sales process ................................................. 51
+5.5.3. Arguments raised by ČD and assessment by the Commission .................................. 53
+5.6. The offer of initially [...], later [...], wagons by ÖBB to ČD (partly uncompleted) . 54
+
+EN 3 EN
+
+5.6.1. Summary .................................................................................................................... 54
+5.6.2. The sales process ........................................................................................................ 54
+5.6.3. Meetings and collusive conducts ............................................................................... 56
+5.6.4. Arguments raised by ČD and the Commission’s assessment .................................... 61
+5.7. Sale of [...] wagons ([...] wagons and [...] wagons) to ČD in [...] 2014 ................. 63
+5.7.1. Summary .................................................................................................................... 63
+5.7.2. The sales process ........................................................................................................ 63
+5.7.3. Meetings and collusive contacts ................................................................................. 64
+5.7.4. Arguments raised by ČD and the Commission’s assessment .................................... 66
+5.8. The meeting between [...] ČD and ÖBB on [...] 2014 ............................................. 67
+5.8.1. Summary .................................................................................................................... 67
+5.8.2. Meetings and collusive contacts ................................................................................. 67
+5.8.3. Arguments raised by ČD and the Commission’s assessment .................................... 69
+5.9. Sale of [...] wagons and of [...] wagons to ČD in [...] 2014 .................................... 69
+5.9.1. Summary .................................................................................................................... 69
+5.9.2. The offer of ÖBB and ČD's declaration of interest .................................................... 70
+5.9.3. Meetings and collusive contacts ................................................................................. 70
+5.9.4. Arguments raised by ČD and the Commission’s assessment .................................... 75
+5.10. The [...] ...................................................................................................................... 77
+5.10.1. Summary .................................................................................................................... 77
+5.10.2. Meetings and contacts ................................................................................................ 77
+5.10.3. Arguments raised by ČD and assessment by the Commission .................................. 79
+5.11. Sale of [...] ÖBB [...] wagons on [...] 2015 to [...] and ÖBB's previous pledge not
+to sell them to RegioJet .............................................................................................. 80
+5.11.1. Summary .................................................................................................................... 80
+5.11.2. The initial offer of ÖBB and reactions from bidders ................................................. 80
+5.11.3. Meetings and collusive contacts ................................................................................. 81
+5.11.4. Arguments raised by ČD and the Commission’s assessment .................................... 84
+5.12. Sale [...] wagons to [...] in [...] 2016 ....................................................................... 86
+5.12.1. Summary .................................................................................................................... 86
+5.12.2. The initial offer of ÖBB ............................................................................................. 86
+5.12.3. Meetings and collusive contacts ................................................................................. 86
+5.12.4. The sales process ........................................................................................................ 88
+5.12.5. Arguments raised by ČD and the Commission’s assessment .................................... 89
+5.13. The meeting of [...] ČD and ÖBB in [...] on [...] ..................................................... 90
+5.13.1. Summary .................................................................................................................... 90
+
+EN 4 EN
+
+5.13.2. Meetings and collusive contacts ................................................................................. 90
+5.13.3. Arguments raised by ČD and the Commission’s assessment .................................... 91
+5.14. The exchange of letters between [...] ČD and ÖBB in [...] 2015 [...] 2016 and the
+respective reactions of the Parties .............................................................................. 91
+5.14.1. Summary .................................................................................................................... 91
+5.14.2. Letter from ČD to ÖBB of [...]2015 [...] and ÖBB’s reply of [...] 2016 ................. 91
+5.14.3. The meeting between ČD and ÖBB on [...] 2016 and the subsequent reactions of the
+Parties ......................................................................................................................... 92
+5.14.4. Arguments raised by the ČD and the Commission’s assessment .............................. 93
+5.15. ÖBB’s public sale announcement for various wagons and electric railcars of
+February 2016 ............................................................................................................ 94
+5.15.1. Summary .................................................................................................................... 94
+5.15.2. Documentary evidence ............................................................................................... 94
+5.15.3. Arguments raised by ČD and the Comm
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+.]
+
+ČD 31 940 000
+
+9.5. Adjustment of the basic amount
+(1151) In relation to each undertaking, the Commission may reflect in the fine imposed any
+aggravating and/or mitigating circumstances, such as the ones listed, in a nonexhaustive way, in Points 28 and 29 of the Guidelines on fines.
+(1152) The Commission considers that in the case at hand there are neither for ÖBB nor for
+ČD any aggravating or mitigating circumstances present.
+Arguments raised by ČD and assessment by the Commission
+(1153) ČD argues that the Commission should take into account, at least as mitigating
+circumstance, the inadequate length of the investigation which infringed ČD’s rights
+of defence as it made it difficult for ČD to ascertain and document what had
+happened, also due to the leaving of employees.950
+(1154) The Commission disagrees with this. The duration of the investigation in the present
+case was not disproportionate. Insofar as there were delays in the investigation, the
+Commission points to the fact that considerable delays in the proceedings were
+caused by ČD, that repeatedly asked for extension of deadlines (up to 3 months) for
+replies to requests for information (see above section 3), frequently alluding to
+recurrent changes in ČD’s management951 or holiday periods to justify its extension
+requests952. Moreover, ČD submitted replies to such requests that contained
+inconsistencies (see the Commission’s RFI of 13 March 2024953 pointing to such
+inconsistencies in ČD’s previous RFI-replies on turnover figures).
+
+949 [...]
+950 [...]
+951 [...]
+952 [...]
+953 [...]
+
+EN 184 EN
+
+(1155) Insofar as ČD submits that the passage of time made it difficult for ČD to ascertain
+and document what had happened, the Commission points out that ČD was informed
+about the subject-matter of the Commission’s investigation at the latest by the
+Commission’s inspection decision of June 2016, i.e. around six months after the end
+of the period of the infringement. From that moment, ČD knew that it was under
+investigation and was therefore under the obligation to “to act with greater diligence
+and to take all appropriate measures in order to preserve such evidence as might
+reasonably be available to them”.954 ČD’s spontaneous submission of September
+2016955 shows that ČD had a rather precise picture of the scope of the investigation
+quite early in the proceedings and thus should have acted accordingly with respect to
+the preservation of evidence.
+(1156) Moreover, ČD is of the view that the Commission overlooked further mitigating
+circumstances, like ČD’s cooperation in the proceedings, ČD’s limited involvement,
+and that the conduct had been terminated before the Commission’s intervention.956
+(1157) The Commission rejects this, as the criteria listed in Point 29 of the fines Guidelines
+are not fulfilled. ČD has not been particularly cooperative in the proceedings.
+Concerning ČD’s involvement in the cartel, the concept of “substantially limited
+involvement” in Point 29 of the Guidelines on fines generally applies to an
+exclusively passive role, which was certainly not ČD’s case, as is already apparent
+from the [...] (see above in recitals (374), (422), (503), (505), (555), (564), (567),
+(587)). Finally, termination is considered as mitigating circumstance only when there
+is a causal link between the interventions of the Commission and the termination of
+its infringement957 and moreover is not available in case of secret agreements, in
+particular cartels; these circumstances are not present in the case.
+9.5.1. Specific increase for deterrence
+(1158) The Commission sets fines at a level which is sufficient to ensure deterrence. In so
+doing, the Commission may increase the fine on undertakings that have a particularly
+large turnover beyond the sales of goods or services to which the infringement relates
+(Point 30 of the Guidelines on fines).
+(1159) No deterrence multiplier is considered necessary in the present case.
+9.6. Application of the 10% turnover limit
+(1160) In the present case, for none of the Parties the fine exceeds 10% of its total turnover
+in the business year preceding the date of the adoption of this Decision (Article 23(2)
+of Regulation 1/2003).
+9.7. Application of the Leniency Notice
+(1161) [...]
+
+954 Judgment of the Court of Justice of 28 January 2021, Qualcomm and Qualcomm Europe v Commission,
+C-466/19, ECLI:EU:C:2021:76, paragraph 114.
+955 [...]
+956 [...]
+957 Judgment of the Court of Justice of 26 September 2013, Alliance One International v Commission, C-
+679/11 P, ECLI:EU:C:2013:606, paragraph 80; Judgment of the General Court of 17 December 2015,
+Orange Polska v Commission, T-486/11, ECLI:EU:T:2015:1002, paragraph 213.
+
+EN 185 EN
+
+(1162) ČD claims ÖBB’s leniency application was made in bad faith and unduly induced by
+the Commission and can therefore not be relied upon.958 The Commission rejects
+these allegations as entirely unsubstantiated.
+(1163) [...]
+(1164) [...]
+(1165) [...]
+(1166) [...]
+(1167) [...]
+(1168) [...]
+(1169) [...]
+(1170) [...]
+(1171) [...]
+(1172) Overall, ÖBB cooperated fully, on a continuous basis and expeditiously. Considering
+the timing and extent of added value provided by ÖBB, the Commission sets the
+percentage of the reduction of fine for ÖBB at 45%.
+9.8. Inability to pay
+(1173) According to point 35 of the Guidelines on fines, “In exceptional cases, the
+Commission may, upon request, take account of the undertaking’s inability to pay in
+a specific social and economic context. It will not base any reduction granted for this
+reason in the fine on the mere finding of an adverse or loss-making financial
+situation. A reduction could be granted solely on the basis of objective evidence that
+imposition of the fine as provided for in these Guidelines would irretrievably
+jeopardise the economic viability of the undertaking concerned and cause its assets
+to lose all their value.”
+(1174) ČD argues that imposing a fine on it would have severe financial consequences for
+ČD so that point 35 of the Guidelines on fines should apply.959
+(1175) However, at the time of the adoption of this Decision, there are no indications that
+the conditions of point 35 of the Guidelines on fines could be met. ČD has not
+shown, on the basis of objective evidence, that the fine would irretrievably jeopardise
+its economic viability and cause ČD’s assets to lose all their value.
+
+958 [...]
+959 [...]
+
+EN 186 EN
+
+9.9. Conclusion: final amount of individual fines
+(1176) The fines imposed pursuant to Article 23(2)(a) of Regulation (EC) No 1/2003 are as
+follows:
+Table 6: Final amount of fines
+
+Undertaking Fine (EUR)
+
+ÖBB 16 712 000
+
+ČD 31 940 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+České dráhy, a.s., Österreichische Bundesbahnen -Holding Aktiengesellschaft, ÖBB-
+Personenverkehr Aktiengesellschaft, and ÖBB-Technische Services-Gesellschaft mbH have
+infringed Article 101(1) of the Treaty by preventing, hindering or restricting the access of
+RegioJet a.s. to used railway wagons for long-distance passenger transport in the markets for
+the provision of domestic long-distance rail passenger transport services in Czechia as well as
+for the provision of international long-distance rail passenger transport services between
+Austria and Czechia on the Prague - Vienna route.
+The duration of the infringement was from 9 May 2012 until 21 January 2016.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) České dráhy, a.s.: EUR 31 940 000
+(b) Österreichische Bundesbahnen-Holding Aktiengesellschaft, ÖBB-
+Personenverkehr Aktiengesellschaft, and ÖBB-Technische Services-
+Gesellschaft mbH, jointly and severally: EUR 16 712 000
+The fines shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40401
+After the expiry of this period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an action pursuant to Article 263 of the Treaty is brought before the Court of Justice of
+the European Union against this Decision, the fine shall be covered by its due date, either by
+providing an acceptable financial guarantee or by making a provisional payment of the fine in
+
+EN 187 EN
+
+accordance with Article 108 of Regulation (EU, Euratom) 2024/2509 of the European
+Parliament and of the Council960.
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred
+to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+– České dráhy, a.s., Nábřeží L. Svobody 1222, 11015 Praha 1, Czechia,
+– Österreichische Bundesbahnen-Holding Aktiengesellschaft, Am Hauptbahnhof 2,
+1100 Vienna, Austria,
+– ÖBB-Personenverkehr Aktiengesellschaft, Am Hauptbahnhof 2, 1100 Vienna,
+Austria,
+– ÖBB-Technische Services-Gesellschaft mbH, Am Hauptbahnhof 2, 1100 Vienna,
+Austria.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+Done at Brussels, 23.10.2024
+For the Commission
+
+(Signed)
+
+Margrethe VESTAGER
+Executive Vice-President
+
+960 Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024
+on the financial rules applicable to the general budget of the Union (recast) (OJ L, 2024/2509, 26.9.2024).
+
+EN 188 EN
+
+EN
+
+ANNEX
+
+to the
+
+COMMISSION DECISION
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+(AT.40401 - Second-hand Rolling Stock)
+
+Map of long-distance lines in Czechia
+(timetable 2014/2015)961
+
+961 [...]
+
+EN 189 EN

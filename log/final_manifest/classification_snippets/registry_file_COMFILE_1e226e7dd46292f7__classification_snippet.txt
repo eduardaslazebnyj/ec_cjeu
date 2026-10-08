@@ -1,0 +1,492 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE EUROPÄISCHE KOMMISSION
+
+Brüssel, 11.11.2009
+K(2009)8682 final
+
+WICHTIGER HINWEIS:
+
+NICHTVERTRAULICHE ÖFFENTLICHE FASSUNG DER URSPRUNGSENTSCHEIDUNG, WELCHE DIE IM
+BESCHLUSS C(2001)727 VOM 8. FEBRUAR 2010 VORGENOMMENEN ÄNDERUNGEN, SOWIE DIE
+TEILWEISE AUFHEBUNG DURCH DEN BESCHLUSS C(2011)4612 VOM 30. JUNI 2011 UND ÄNDERUNG
+DURCH DEN BESCHLUSS C(2011)4651 VOM 30. JUNI 2011EINSCHLIESST.
+
+ENTSCHEIDUNG DER KOMMISSION
+Vom 11.11.2009
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+(COMP/38589 – WÄRMESTABILISATOREN)
+
+(Nur der deutsche, der englische und der französische Text sind verbindlich)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16 Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln1,
+insbesondere auf Artikel 7 und Artikel 23 Absatz 2,
+
+angesichts der Entscheidung der Kommission vom 17. März 2009 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nachdem den beteiligten Unternehmen gemäß Artikel 27 Absatz 1 der Verordnung (EG) Nr.
+1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission vom 7 April 2004
+
+1 ABl. L 1 vom 4.1.2003, S.1.
+DE DE
+1
+
+über die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82 EG-Vertrag durch
+die Kommission2, Gelegenheit gegeben wurde, sich zu den Beschwerdepunkten zu äußern,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+in Kenntnis des Abschlussberichts des Anhörungsbeauftragten in dieser Sache3,
+
+In Erwägung nachstehender Gründe:
+
+2 ABl. L 123 vom 27.04.2004, S. 18.
+3 ABl. L
+DE DE
+2
+
+1 Einleitung......................................................................................................................8
+
+2 Die vom verfahren betroffene Branche ........................................................................8
+2.1 Die Produkte ......................................................................................................................8
+2.2 Die Marktteilnehmer........................................................................................................11
+2.2.1 Akzo...........................................................................................................................11
+2.2.2 [*]...............................................................................................................................12
+2.2.3 Akcros........................................................................................................................13
+2.2.4 Elf Aquitaine, Arkema France und CECA ................................................................14
+2.2.5 Baerlocher..................................................................................................................16
+2.2.6 Chemson ....................................................................................................................18
+2.2.7 Chemtura....................................................................................................................21
+2.2.8 [*]...............................................................................................................................23
+2.2.9 Faci.............................................................................................................................24
+2.2.10 Reagens..................................................................................................................24
+2.2.11 AC Treuhand..........................................................................................................25
+2.2.12 Andere Unternehmen auf dem Markt für Wärmestabilisatoren in Europa............26
+2.2.13 CEFIC ....................................................................................................................26
+2.3 Beschreibung des betroffenen Marktes............................................................................27
+2.4 Der Handel zwischen Mitgliedstaaten und mit Vertragsparteien des EWR-Abkommens
+29
+3 Das Verfahren.............................................................................................................29
+
+4 Die Sachverhaltsdarstellung .......................................................................................33
+4.1 Die Beweislage ................................................................................................................33
+4.2 Die verfahrensgegenständlichen Kartelle........................................................................33
+4.3 Rolle von AC Treuhand...................................................................................................35
+4.3.1 Die Rolle von AC Treuhand ......................................................................................35
+4.3.2 Von der Natur der AC Treuhand-Treffen..................................................................36
+4.3.3 Die Mengen- und Preisabsprachen, sowie deren Überwachung................................37
+4.3.4 Die “rot” - und “rosa”-Blätter, sowie andere Mittel zum Informationsaustausch.....39
+4.4 Die Treffen anlässlich von CEFIC-Untergruppensitzungen............................................40
+4.5 Weiterer Treffen und Absprachen ...................................................................................41
+4.6 Die Kontakte und ihre Chronologie.................................................................................42
+4.6.1 Das Jahr1987..............................................................................................................43
+4.6.1.1 Das Zinnstabilisatorenkartell .............................................................................43
+4.6.1.2 Das ESBO/Ester-Kartell ....................................................................................44
+4.6.2 Das Jahr 1988.............................................................................................................45
+4.6.2.1 Das Zinnstabilisatorenkartell .............................................................................45
+4.6.2.2 Das ESBO/Ester-Kartell ....................................................................................46
+4.6.3 Das Jahr1989..............................................................................................................46
+4.6.3.1 Das Zinnstabilisatorenkartell .............................................................................46
+4.6.3.2 Das ESBO/Ester-Kartell ....................................................................................47
+DE DE
+3
+
+4.6.4 Das Jahr 1990.............................................................................................................48
+4.6.4.1 Das Zinnstabilisatorenkartell .............................................................................48
+4.6.4.2 Das ESBO/Ester-Kartell ....................................................................................48
+4.6.5 Das Jahr 1991.............................................................................................................49
+4.6.5.1 Das Zinnstabilisatorenkartell .............................................................................49
+4.6.5.2 ESBO/Ester-Kartell............................................................................................49
+4.6.6 Das Jahr1992..............................................................................................................50
+4.6.6.1 Das Zinnstabilisatorenkartell .............................................................................50
+4.6.6.2 Das ESBO/Ester-Kartell ....................................................................................52
+4.6.7 Das Jahr 1993.............................................................................................................53
+4.6.7.1 Das Zinnstabilisatorenkartell .............................................................................53
+4.6.7.2 Das ESBO/Ester-Kartell ....................................................................................54
+4.6.8 Das Jahr 1994.............................................................................................................55
+4.6.8.1 Das Zinnstabilisatorenkartell .............................................................................55
+4.6.8.2 ESBO/Ester-Kartell............................................................................................56
+4.6.9 Das Jahr 1995.............................................................................................................57
+4.6.9.1 Das Zinnstabilisatorenkartell .............................................................................57
+4.6.9.2 ESBO/Ester-Kartell............................................................................................61
+4.6.10 Das Jahr 1996.........................................................................................................62
+4.6.10.1 Das Zinnstabilisatorenkartell .........................................................................62
+4.6.10.2 ESBO/Ester-Kartell........................................................................................64
+4.6.11 Das Jahr 1997.........................................................................................................65
+4.6.11.1 Das Zinnstabilisatorenkartell .........................................................................65
+4.6.11.2 Das ESBO/Ester-Kartell ................................................................................68
+4.6.12 Das Jahr 1998.........................................................................................................68
+4.6.12.1 Das Zinnstabilisatorenkartell .........................................................................68
+4.6.12.2 Das ESBO/Ester-Kartell ................................................................................70
+4.6.13 Das Jahr 1999.........................................................................................................76
+4.6.13.1 Das Zinnstabilisatorenkartell .........................................................................76
+4.6.13.2 ESBO/Ester-Kartell........................................................................................77
+4.6.14 Das Jahr 2000.........................................................................................................79
+4.6.14.1 Das Zinnstabilisatorenkartell und das ESBO/Ester-Kartell...........................79
+4.6.15 Das Jahr 2001.........................................................................................................80
+5 Die Anwendung des Artikel 81 EG-Vertrag und des Artikel 53 EWR-Abkommen..81
+5.1 Das Verhältnis zwischen EG-Vertrag undEWR-Abkommen..........................................81
+5.2 Die Zuständigkeit.............................................................................................................81
+5.3 Die Anwendung des Artikel 81 Absatz 1 EG-Vertrag und des Artikel 53 Absatz 1
+EWR-Abkommen ......................................................................................................................81
+5.3.1 Vereinbarungen und abgestimmte Verhaltensweisen................................................82
+5.3.1.1 Die Grundsätze...................................................................................................82
+5.3.1.2 Anwendung im vorliegenden Falle ..................................................................85
+5.3.1.2.1 Das Zinnstabilisatorenkartell........................................................................85
+5.3.1.2.2 Das ESBO/Ester-Kartell...............................................................................86
+5.3.1.2.3 AC Treuhands Rolle bei der Zuwiderhandlung ...........................................88
+5.4 Die Ausführungen der Parteien in Beantwortung der Mitteilung der Beschwerdepunkte
+93
+DE DE
+4
+
+5.4.1 Argumente der Parteien wonach die Beweislage zur Feststellung eines Kartells nicht
+ausreiche ................................................................................................................................93
+5.4.2 AC Treuhand: ihre Rolle bei der Zuwiderhandlungen, ihre Argumente in der
+Erwiderung auf die Mitteilung der Beschwerdepunkte und die Beurteilung durch die
+Kommission...........................................................................................................................99
+5.4.2.1 Die Bewertung und Schlussfolgerung der Kommission.....................................99
+5.4.3 Eine einzige, komplexe und fortdauernde Zuwiderhandlung..................................101
+5.4.3.1 Prinzipien.........................................................................................................101
+5.4.3.2 Anwendung auf den vorliegenden Fall ............................................................103
+5.4.3.2.1 Eine einheitliche Zuwiderhandlung bei Zinnstabilisatoren, eine einheitliche
+Zuwiderhandlung bei ESBO/Estern.............................................................................103
+5.4.3.2.2 Das andauernde Fortbestehen beider Zuwiderhandlungen; Zeitraum 1996-
+1997 105
+5.4.4 Beschränkung des Wettbewerbs ..............................................................................116
+5.4.4.1 Grundsätze .......................................................................................................116
+5.4.4.2 Anwendung auf den vorliegenden Fall............................................................116
+5.4.5 Beanstandungen betreffend die Untersuchung der Kommission und die
+vermeintliche Verletzung der Verteidigungsrechte .............................................................120
+5.4.5.1 Behauptete Unregelmäßigkeiten im Verfahren ...............................................121
+5.4.5.2 Verletzung der Verteidigungsrechte ................................................................127
+5.4.6 Auswrikung auf den Handel zwischen Mitgliedstaaten und EWR-Vertragsstaaten
+133
+5.4.6.1 Grundsätze .......................................................................................................133
+5.4.6.2 Anwendung auf den vorliegenden Fall............................................................134
+5.4.7 Wettbewerbsrechtliche auf Österreich, Finnland, Island, Liechtenstein, Norwegen
+und Schweden anwendbare Bestimmungen.........................................................................134
+5.5 Nichtanwendung des Artikel 81 Absatz 3 EG-Vertrag und Artikel 53 Absatz 3 EWR-
+Abkommen...............................................................................................................................135
+6 Adressaten dieser Entscheidung ...............................................................................135
+6.1 Grundsätze .....................................................................................................................135
+6.2 Anwendung auf den vorliegenden Fall....................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+*].
+
+790. [*]855 [*].856[*] 857
+
+791. [*].
+
+792. [*].
+
+793. [*].
+
+794. [*].
+
+795. Aus dem oben Angeführten folgt, dass die Kommission beschlossen hat, den
+Rechtssubjekten, die einen Teil des Unternehmens [*] bilden, eine Ermäßigung der
+Geldbuße [gemäß Ziffer 35 der Leitlinien] zu gewähren und die Anträge von [*] und [*]
+[gemäß Ziffer 35 der Leitlinien] abzuweisen.
+
+854 [*].
+855 [*].
+856 [*].
+857 [*].
+DE DE
+208
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artike1
+
+1. Die folgenden Unternehmen haben gegen Artikel 81 Absatz 1 EG-Vertrag und – seit 1.
+Januar 1994 – gegen Artikel 53 EWR-Abkommen verstoßen, indem sie sich in den
+genannten Zeiträumen an einer Reihe von Vereinbarungen und/oder abgestimmten
+Verhaltensweisen im Bereich Zinnstabilisatoren im EWR, die aus der Festsetzung von
+Preisen, Aufteilung des Marktes unter Zuweisung von Lieferquoten, Aufteilung und
+Zuteilung von Kunden und Austausch wirtschaftlich sensibler Informationen
+insbesondere über Kunden, Produktions- und Liefermengen bestanden, beteiligt
+haben:
+
+a) Akzo Nobel N.V., von 24. Februar 1987 bis 21. März 2000;
+
+b) Akzo Nobel Chemicals GmbH, von 24. Februar 1987 bis 28. Juni 1993;
+
+c) Akcros Chemicals Ltd, von 28. Juni 1993 bis 21. März 2000;
+
+d) – g) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+h) Elf Aquitaine S.A., von 16. März 1994 bis 31. März 1996 and von
+9. September 1997 bis 21. März 2000;
+
+i) Arkema France, von 16. März 1994 bis 31. März 1996 and von
+9. September 1997 bis 21. März 2000;
+
+j) CECA SA, von 16. März 1994 bis 31. März 1996 and von
+9 September 1997 bis 21. März 2000;
+
+k) MRF Michael Rosenthal GmbH, von 12. Oktober 1990 bis 21. März
+2000;
+
+l) Baerlocher GmbH, von 24. Februar 1987 bis 21. März 2000;
+
+m) Baerlocher Italia S.p.A., von 22. Juni 1994 bis 21. März 2000;
+
+n) Baerlocher UK Limited, von 28. März 1995 bis 17. September 1997;
+
+o) Chemtura Corporation, von 29. Mai 1998 bis 21. März 2000;
+
+p) Chemtura Vinyl Additives GmbH, von 12. Dezember 1997 bis 21. März
+2000;
+
+q) – r)[*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+s) Reagens S.p.A., von 20. November 1992 bis 21. März 2000;
+DE DE
+209
+
+t) AC-Treuhand AG, von 1. Dezember 1993 bis 21. März 2000.
+2. Die folgenden Unternehmen haben gegen Artikel 81 Absatz 1 EG-Vertrag und – seit
+1. Januar 1994 – gegen Artikel 53 EWR-Abkommen verstoßen, indem sie sich in den
+genannten Zeiträumen an einer Reihe von Vereinbarungen und/oder abgestimmten
+Verhaltensweisen im Bereich ESBO/Ester im EWR, die aus der Festsetzung von
+Preisen, Aufteilung des Marktes unter Zuweisung von Lieferquoten, Aufteilung und
+Zuteilung von Kunden und Austausch wirtschaftlich sensibler Informationen
+insbesondere über Kunden, Produktions- und Liefermengen bestanden, beteiligt
+haben:
+
+a) Akzo Nobel N.V., von 11. September 1991 bis 22. März 2000;
+
+b) Akzo Nobel Chemicals B.V., von 11. September 1991 bis 28. Juni 1993;
+
+c) Akcros Chemicals Ltd, von 28. Juni 1993 bis 22. März 2000;
+
+d) – g) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+h) Elf Aquitaine S.A., von 11. September 1991 bis 26. September 2000;
+
+i) Arkema France, von 11. September 1991 bis 26. September 2000;
+
+j) CECA SA, von 11. September 1991 bis 26. September 2000;
+
+k) GEA Group AG, von 11. September 1991 bis 17. Mai 2000;
+
+l) Chemson Polymer-Additive AG, von 30. September 1995 bis 26. September
+2000;
+
+m) Aachener Chemische Werke Gesellschaft für glastechnische Produkte und
+Verfahren mbH, von 11. September 1991 bis 17. Mai 2000;
+
+n) Chemson GmbH, von 17. Mai 2000 bis 26. September 2000;
+
+o) Chemtura Corporation, von 29. Mai 1998 bis 26. September 2000;
+
+p) Chemtura Vinyl Additives GmbH, von 12. Dezember 1997 bis 26. September
+2000;
+
+q) – r) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+s) Faci S.p.A., von 6. November 1996 bis 26. September 2000;
+
+t) AC-Treuhand AG, von 1. Dezember 1993 bis 26. September 2000.
+
+Artikel 2
+DE DE
+210
+
+Für die in Artikel 1 genannte(n) Zuwiderhandlung(en) im Bereich Zinnstabilisatoren, werden
+folgende Geldbußen verhängt:
+
+1) – 3) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+4) Akzo Nobel N.V., Akzo Nobel Chemicals GmbH und Akcros Chemicals Ltd
+haften gesamtschuldnerisch für: EUR 1 580 000
+
+5) Akzo Nobel N.V. und Akcros Chemicals Ltd haften gesamtschuldnerisch für:
+EUR 4 421 000
+Geändert durch Beschluss C(2011)4651 vom 30. Juni 2011
+
+6) Akzo Nobel N.V. und Akzo Nobel Chemicals GmbH haften
+gesamtschuldnerisch für: EUR 9 820 000
+
+7) Akzo Nobel N.V. haftet für EUR 5 979 000
+Geändert durch Beschluss C(2011)4651 vom 30. Juni 2011
+
+8) – 9); [*] Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+10) MRF Michael Rosenthal GmbH, Baerlocher GmbH, Baerlocher Italia S.p.A und
+Baerlocher UK Limited haften gesamtschuldnerisch für:EUR 1 000 000
+
+11) Elf Aquitaine S.A., Arkema France und CECA SA haften
+gesamtschuldnerisch für: EUR 3 864 000
+
+12) Arkema France haftet für: EUR 3 477 600
+
+13) Elf Aquitaine S.A. haftet für: EUR 2 704 800
+
+14) Chemtura Corporation und Chemtura Vinyl Additives GmbH haftet für:
+EUR 0
+
+15) [*] Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+16) Reagens S.p.A. haftet für: EUR 10 791 000
+
+17) AC-Treuhand AG haftet für: EUR 174 000.
+
+Für die in Artikel 1 Absatz 2 genannte(n) Zuwiderhandlung(en) im Bereich ESBO/Ester,
+werden folgende Geldbußen verhängt:
+
+18) - 20) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+DE DE
+211
+
+21) Akzo Nobel N.V., Akzo Nobel Chemicals B.V. und Akcros Chemicals Ltd
+haften gesamtschuldnerisch für: EUR 2 033 000;
+
+22)Akzo Nobel N.V. und Akcros Chemicals Ltd haften gesamtschuldnerisch für
+EUR 3 968 000;
+Geändert durch Beschluss C(2011)4651 vom 30. Juni 2011
+
+23)Akzo Nobel N.V. und Akzo Nobel Chemicals B.V. haften
+gesamtschuldnerisch für: EUR 3 467 000;
+
+24)Akzo Nobel N.V. haftet für: EUR 9 332 000;
+Geändert durch Beschluss C(2011)4651 vom 30. Juni 2011
+
+25) - 27) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+28) Elf Aquitaine S.A., Arkema France und CECA SA, haften
+gesamtschuldnerisch für: EUR 7 154 000;
+
+29)Arkema France haftet für: EUR 6 438 600;
+
+30)Elf Aquitaine S.A. haftet für: EUR 5 007 800;
+
+31)a) GEA Group AG, Aachener Chemische Werke Gesellschaft für
+glastechnische Produkte und Verfahren mbH und Chemson Polymer-Additive
+AG haften gesamtschuldnerisch für: EUR 1 086 129;
+Geändert durch Beschluss C(2010)727 vom 8. Februar 2010
+
+31) b) GEA Group AG and Chemson Polymer-Additive AG haften
+gesamtschuldnerisch für: EUR 827 842;
+Geändert durch die Beschluss C(2010)727 vom 8. Februar 2010;
+
+32)GEA Group AG haftet für EUR 1 432 229; Geändert
+durch Beschluss C(2010)727 vom 8. Februar 2010
+
+33)Chemson Polymer-Additive AG und Chemson GmbH haften
+gesamtschuldnerisch für EUR 137 606;
+
+34)Chemson GmbH haftet für: EUR 317 794;
+
+35)Chemtura Corporation und Chemtura Vinyl Additives GmbH,
+haften gesamtschuldnerisch für: EUR 0;
+
+36) [*]; Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+37)Faci S.p.A haftet für : EUR 5 940 000;
+
+38)AC-Treuhand AG haftet für: EUR 174 000.
+
+DE DE
+212
+
+Die Geldbußen sind binnen drei Monaten nach dem Datum der Bekanntgabe dieser Entscheidung -
+an das auf den Namen der Kommission der Europäischen Gemeinschaften lautende Konto zu
+bezahlen:
+BBVA
+Banco Bilbao Vizcaya Argentaria S.A.
+Avenue des Arts, 43
+B-1040 BRUXELLES
+IBAN: BE76 6420 0290 0095
+SWIFT: BBVABEBB
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der Europäischen
+Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Tag des Monats angewandt wird, in
+dem diese Entscheidung erlassen worden ist, zuzüglich 3,5 Prozentpunkte.
+
+Artikel 3
+
+Die in Artikel 1 genannten Unternehmen stellen die in Artikel 1 genannten Zuwiderhandlungen
+unverzüglich ab, soweit dies nicht bereits geschehen ist.
+
+Sie unterlassen die Wiederholung aller in Artikel 1 beschriebenen Handlungen und
+Verhaltensweisen sowie aller Handlungen und Verhaltensweisen, die einen ähnlichen oder
+gleichen Zweck bzw. eine ähnliche oder gleiche Wirkung haben können.
+
+Artikel 4
+
+Diese Entscheidung ist gerichtet an:
+Akzo Nobel N.V., Strawinskylaan 2555, NL-1077 ZZ Amsterdam, Niederlande
+
+Akzo Nobel Chemicals GmbH, Kreuzauer Strasse 46, 52355 Düren Niederau, Deutschland
+
+Akzo Nobel Chemicals B.V., Stationsstraat 77, NL-3811 MH Amersfoort, Niederlande
+
+Akcros Chemicals Ltd, Lankro Way, PO Box 1, Eccles, Manchester - M30 OBH,
+Großbritanien
+
+[*] Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+Elf Aquitaine S.A., 2, Place Jean Millier, La Défense 6, 92400 Courbevoie, Frankreich
+
+Arkema France, 420, rue d'Estienne d'Orves, F-92705 Colombes Cedex, Frankreich
+
+CECA SA, 89, Boulevard National, F-92257 La Garenne-Colombes Cedex, Frankreich
+
+MRF Michael Rosenthal GmbH, Freisinger Str. 1, D-85716 Unterschleißheim, Deutschland
+DE DE
+213
+
+Baerlocher GmbH, Freisinger Strasse 1, D-85716 Unterschleißheim, Deutschland
+
+Baerlocher Italia S.p.A., Via San Colombano 62/A, 26900 Lodi, Italien
+
+Baerlocher UK Limited, Moss Hall Road, Bury, Lancashire BL8 7JJ, Großbritanien
+
+GEA Group AG, Dorstener Str. 484, 44809 Bochum, Deutschland
+
+Chemson Polymer-Additive AG, Industriestrasse 19, A-9601 Arnoldstein, Österreich
+
+Aachener Chemische Werke Gesellschaft für glastechnische Produkte und Verfahren mbH,
+Adenauerstraße 20, Europark C3, D-52146 Würselen, Deutschland
+
+Chemson GmbH, Hermann-Heinrich-Gossen-Str. 3, 50858 Köln, Deutschland
+
+Chemtura Corporation, 199, Benson Road, Middlebury CT 06749, USA
+
+Chemtura Vinyl Additives GmbH, Chemiestr. 22, 68623 Lampertheim, Deutschland
+
+[*] Aufgehoben durch Beschluss K(2011)4612 vom 30. Juni 2011
+
+Faci S.p.A., Via Privata Devoto 36, 16042 Carasco (GE), Italien
+
+Reagens S.p.A., Via Codronchi 4, 40016 San Giorgio di Piano (BO), Italien
+
+AC-Treuhand AG, Tödistrasse 47, CH-8027 Zürich, Schweiz
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäss Artikel 256 EG-Vertrag und Artikel 110
+EWR-Abkommen.
+
+Brüssel, den 11. November 2009
+
+Für die Kommission
+
+Mitglied der Kommission
+
+DE DE
+214
+
+DE DE
+215

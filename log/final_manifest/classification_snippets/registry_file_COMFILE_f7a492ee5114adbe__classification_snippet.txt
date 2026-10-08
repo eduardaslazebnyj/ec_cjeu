@@ -1,0 +1,474 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+Brussels, 15.11.2011
+C (2011) 8209 final
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 15.11.2011
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(Case COMP/39.592 - Standard & Poor's)
+
+(Only the English text is authentic)
+
+Parts of this text have been edited to
+ensure that confidential information is
+not disclosed; those parts are enclosed
+in square brackets and shown thus [...]
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 4
+2. The Parties .................................................................................................................... 4
+3. Procedural Steps Under Regulation (EC) No 1/2003 .................................................. 4
+4. Preliminary Assessment ............................................................................................... 5
+4.1. Relevant markets .......................................................................................................... 5
+4.1.1. Product market ............................................................................................................. 5
+4.1.2. Geographic market ....................................................................................................... 7
+4.2. Position of the parties on the relevant market / Dominant position ............................. 7
+4.3. Practices raising concerns ............................................................................................ 8
+4.3.1. S&P's charging policy for indirect users ...................................................................... 9
+4.3.2. S&P's charging policy for direct users ......................................................................... 9
+4.3.3. Intellectual property rights in US ISINs..................................................................... 10
+4.4. Effect on trade between Member States ..................................................................... 10
+5. Proposed Commitments ............................................................................................. 10
+6. Commission Notice Pursuant to Article 27(4) ........................................................... 11
+6.1. Contracts between S&P and indirect end users .......................................................... 12
+6.2. CUSIP non-extraction clauses.................................................................................... 12
+6.3. Restriction on the bulk redistribution of ISIN records by end users .......................... 12
+6.4. Limitation of the geographic scope of the Commitments to the EEA ....................... 13
+6.5. The commitments only refer to US ISINs and not to other ISINs issued and
+distributed by S&P as a substitute NNA .................................................................... 14
+6.6. The material scope of ISIN use is too narrow ............................................................ 14
+6.7. The contracts attached to the commitments should be optional only ........................ 14
+6.8. Conclusion.................................................................................................................. 15
+7. Proportionality of the revised commitments .............................................................. 15
+8. Conclusion.................................................................................................................. 16
+
+2EN EN
+
+COMMISSION DECISION
+
+of 15.11.2011
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(Case COMP/39.592 - Standard & Poor's)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 6 January 2009 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Statement of Objections of 13 November 2009,
+
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+2 OJ L 1, 4.1.2003, p.1.
+3 The final report of the Hearing Officer of 26 October 2011.
+
+3EN EN
+
+1. SUBJECT MATTER
+(1) This Decision is addressed to [McGraw-Hill Companies Inc.]∗ ("McGraw-Hill") and
+concerns the charging of licensing fees for the supply of the US International
+Securities Identification Numbers ("ISINs") within the EEA by Standard & Poor's
+("S&P").
+
+(2) In its Statement of Objections of 13 November 2009, which constitutes a preliminary
+assessment within the meaning of Article 9(1) of Regulation (EC) No 1/2003, the
+Commission came to the provisional conclusion that S&P had infringed Article 102
+of the Treaty and Article 54 of the EEA Agreement by setting unfairly high fees for
+the supply of US ISINs.
+
+2. THE PARTIES
+(3) S&P is a [division]∗∗ of McGraw-Hill engaged in financial services. S&P is the only
+allocator of US ISINs and the only operator to receive first-hand information from all
+US securities issuers.
+
+(4) The initiation of proceedings against S&P originates from a complaint filed jointly
+by the European Fund and Asset Management Agency (EFAMA), which is the
+representative association for the European investment management industry, the
+French and German asset management associations (respectively, AFG4 and BVI5)
+as well as the financial institution data user associations IPUG6 (United Kingdom)
+and SIPUG7 (Switzerland).
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(5) On 16 July 2008 EFAMA and the other user associations mentioned in recital 4
+above submitted a complaint against S&P.
+
+(6) On 6 January 2009 the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003. On 13 November 2009 it
+adopted a Statement of Objections setting out its competition concerns.
+
+(7) The Statement of Objections was notified to McGraw-Hill by letter of 16 November
+2009. Access to the file was granted to McGraw-Hill the same day.
+
+(8) On 7 April 2011, S&P submitted commitments (the "Commitments") to the
+Commission in response to the Statement of Objections while disagreeing with the
+Commission's provisional findings.
+
+∗
+Should read as "The McGraw-Hill Companies, Inc.".
+∗∗
+Should read as "subsidiary".
+
+4 Association Française de la Gestion Financière (French Asset Management Association).
+5 BVI German Investment and Asset Management Association.
+6 Information Providers User Group.
+7 Swiss Information Provider User Group.
+
+4EN EN
+
+(9) On 14 May 2011 a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case
+and the Commitments and inviting interested third parties to give their observations
+on the Commitments within one month following publication.
+
+(10) On [11 July 2011]∗ and 26 July 2011 the Commission informed S&P of the
+observations received from interested third parties following the publication of the
+notice. On [14 September 2011]∗∗ S&P submitted a revised proposal for
+commitments (the "Revised Commitments").
+
+(11) On 25 October 2011 the Advisory Committee on Restrictive Practices and Dominant
+Positions was consulted. On 26 October 2011 the Hearing Officer issued his final
+report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+4.1.1. Product market
+
+(12) The relevant market in these proceedings is the market for first-hand electronic
+distribution and licensing of US ISINs (records and numbers) via data feeds. Other
+companies which distribute ISINs are not first-hand distributors, as they are not the
+source of the ISINs. Beyond the ISIN itself, a very limited number of additional data
+elements are necessary in order to uniquely identify a specific security or other
+financial instrument. The ISIN and these minimum descriptive data elements are
+together referred to as the ISIN record. The ISIN record is normally comprised of the
+ISIN number, the issuer (long) name, and the issue description. Nominal value and
+Currency (for equity type instruments) and Interest and Maturity (for debt type
+instruments) should only be part of the record as additional elements if this
+information is not part of the issue description.
+
+(13) US ISINs are used by banks and other financial institutions in order to identify
+financial instruments issued in the US in inter-bank communications, asset and
+portfolio valuation, clearing and settlement, front office operations in particular in
+relation to bonds, custody issues, internal reporting and reporting to authorities,
+reference data management, etc.
+
+(14) Two groups of users of US ISINs can be distinguished. First, S&P distributes ISINs
+to Information Service Providers ("ISPs"), that is to say, financial data vendors, and
+to some financial institutions which wish to obtain their numbers directly from S&P
+(direct users). Most financial institutions, however, prefer to obtain ISINs from ISPs
+together with other data rather than directly from S&P (indirect users). S&P charges
+both direct and indirect users a license fee for the distribution and the use of ISINs.
+
+∗
+Should read as "12 July 2011".
+∗∗
+Should read as "13 September 2011".
+
+5EN EN
+
+(15) The ISIN system was developed by the International Organization for
+Standardization ("ISO") as ISO standard 6166, in response to the increase in
+securities transactions at international level. US ISINs are based on CUSIPs8, which
+are the securities identifiers developed first for the domestic market in the US.
+
+(16) The ISO standard 6166 is the only unique, standardised and internationally
+recognised identification system for securities. Designated national numbering
+agencies ("NNAs")9 have the responsibility of allocating ISINs for their respective
+territories. To that effect, the issuer of a new security files a request with draft
+offering information and related documentation. The NNA reviews those documents
+and allocates one or several ISINs to the security or securities issued. Once allocated,
+the ISIN number is introduced into the NNA's database, together with additional
+elements collected by the NNA, and communicated to the issuer.
+
+(17) Securities issued in the US receive a CUSIP (9-digit code) together with a US ISIN
+(12-digit code). However, CUSIPs are national identifiers that cannot be used for
+international securities transactions, for which US ISINs are necessary. For example,
+CUSIPs cannot be used for international inter-bank communications and can neither
+be used for clearing and settlement nor for reporting purposes in the Union.
+
+(18) As regards other national identifiers, national securities identification systems only
+cover securities issued in their respective countries. Outside the US, those systems
+generally10 do not cover securities issued in the US at all. National identifiers are
+thus not substitutes for US ISINs.
+
+(19) Certain service providers such as exchanges or global ISPs have developed their own
+securities identification systems (such as Bloomberg Tickers, Reuters Instrument
+Codes (RICs) or S&P's US stock Ticker symbols. However, those proprietary
+identifiers do not offer the same coverage as ISINs11 in terms of types of securities
+covered. Moreover, there are a number of operations in which ISINs cannot be
+replaced by alternative identifiers. These are inter-bank communications, asset and
+portfolio valuation, clearing and settlement, front office operations in relation to
+bonds, custody issues, internal reporting or reporting to authorities, reference data
+management, and all other legally and economically sensitive operations which
+require the highest degree of security and accuracy. Also, only NNAs are required to
+allocate a number when approached by an issuer. In contrast, the allocation of
+proprietary identifiers is at the discretion of the system owner.
+
+8 CUSIPs are the national identifiers on which the US ISINs are based by adding a country code and a
+control number. CUSIP stands for Committee on Uniform Security Identification Procedures.
+9 There is generally only one NNA per country. However, one NNA can operate in several countries.
+Indeed, in countries where no NNA is in operation, or where, for any reason, the NNA is not in a
+position to allocate an ISIN, a substitute NNA will allocate the ISINs to securities issued in the country
+concerned.
+10 In some exceptional cases though (SEDOLs in the United Kingdom and Ireland, Valoren in Switzerland
+for example) the local NNA has adapted its system in order to also attribute numbers to certain
+international securities. However, those codes are only attributed to the most important securities and/or
+those international securities traded on the national – United Kingdom or Swiss – market places.
+11 For instance, in the equities field, private securities can only be identified by ISINs, since no Bloomberg
+tickers or RICs are allocated to such securities. Also, ISINs cover all fixed income instruments whereas
+proprietary identifiers are typically limited to debt instruments issued by companies listed at a stock
+exchange.
+
+6EN EN
+
+(20) The electronic distribution of US ISINs is distinct from the distribution of additional
+financial information. ISIN records and additional financial information12 serve very
+different purposes. The ISIN record is used to identify a security whereas the
+additional financial information allows, for instance, traders to monitor the markets
+and asset managers to evaluate investment opportunities.
+
+(21) The electronic distribution of US ISINs by way of data feed, whereby data can be
+downloaded and stored, should be distinguished from other distribution me
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e business of making available
+ISIN Records in a direct datafeed or file download to third parties (who are
+generally institutions and not retail customers) in their capacity of providing
+data processing services, software services and/or other outsourced data
+management services on behalf of such third parties (including for the avoidance
+of doubt custodian, accounting, paying agent, listing agent and similar
+services).Service Bureaus are generally entities who have historically entered
+into distribution agreements with S&P/CSB (not end user subscription
+agreements) as a result of their needs for broad data distribution rights to cover
+the bulk transmission of data to their own institutional customers.
+
+"S&P" means Standard & Poor's Financial Services LLC, a wholly owned
+subsidiary of MGH.
+
+"S&P/CSB" means Standard & Poor’s, acting in its capacity as the manager of
+CSB.
+
+"US ISIN" means the US international securities identification number as issued
+from time to time by S&P/CSB or any other MGH entity as the official NNA for
+the United States.
+
+"US ISIN Record Masterfile" means the compilation of ISIN Records as
+maintained by S&P/CSB.
+
+"Use within the EEA" means the use of US ISINs or ISIN Records received by
+an End User located within the EEA for any communications, contacts and
+information exchanges conducted in the normal course of such End User’s
+business as at the date the relevant ISIN Record Subscription Agreement is
+concluded, provided that such communications, contacts or information
+exchanges do not include Bulk Distribution (except as is necessary to comply
+with applicable regulatory reporting requirements and/or central bank
+operations) or include other specific activities that would characterize such
+usage as a Service Bureau or ISP as defined in these Commitments. For the
+avoidance of doubt, “Use within the EEA” shall also permit the following
+activities: (a) communications, contacts and information exchanges with,
+
+22EN EN
+
+including Bulk Distribution to, any EEA Affiliate; and (b) communications,
+contacts and information exchange with, excluding Bulk Distribution to, any
+Non-EEA Affiliate, although this is without prejudice to S&P/CSB’s right to
+require a subscription agreement with any Non-EEA Affiliate that wishes to use
+US ISINs or ISIN Records in its own business operations.
+
+SECTION B. COMMITMENTS
+
+1. MGH commits to offering to deliver ISIN Records, via the US ISIN Record
+Masterfile, directly from S&P/CSB to both ISPs and Service Bureaus for
+distribution within the EEA and End Users for Use within the EEA. This
+shall not preclude ISPs, Service Bureaus or End Users from obtaining ISIN
+Records from sources other than through the direct delivery from S&P/CSB
+pursuant to Paragraph 2 below. S&P/CSB will make available the US ISIN
+Record Masterfile in a data feed format via an FTP delivery on a daily
+basis.The US ISIN Record Masterfile shall be made available as a
+standalone service separate and apart from any Additional Data.
+
+2. S&P/CSB shall have the right to enter into contracts (collectively, the
+"ISIN Record Subscription Agreements") with ISPs, Service Bureaus and
+End Users who elect to receive the ISIN Records directly from S&P/CSB.
+The ISIN Record Subscription Agreements to be offered by S&P/CSB to
+individual ISPs / Service Bureaus / End Users will be substantially in the
+form of model contracts, compliant with the present Commitments, to be
+posted on S&P/CSB's website. S&P/CSB commits to posting the model
+ISIN Record Subscription Agreements, which will have been sent to the
+Commission in advance, on S&P/CSB's website within one week of the
+Effective Date.
+
+3. The price of the US ISIN Record Masterfile to ISPs, Service Bureaus and
+End Users under the terms of these Commitments shall, for the first year
+following the Implementation Date, be the Initial Price. In subsequent years,
+during the term of these Commitments, annually with effect from each
+anniversary of the Effective Date, MGH may revise the price only in line
+with the Consumer Price Index for Urban Consumers, All Items, as issued
+by the Bureau of Labor Statistics, U.S. Department of Labor, over the prior
+twelve (12) month period.
+
+4. If ISPs, Service Bureaus and End Users choose not to obtain ISIN Records
+directly from S&P/CSB, but from sources other than through the direct
+delivery from S&P/CSB pursuant to Paragraph 2 above (excluding the
+ANNA Service Bureau as contemplated under Paragraph 7 below), MGH
+commits to ensuring that S&P/CSB will not impose any contracts upon such
+ISPs or Service Bureaus for distribution within the EEA, and such End
+Users for the Use within the EEA, of ISIN Records (except as and to the
+
+23EN EN
+
+extent contemplated pursuant to the ISIN Record Subscription Agreements)
+and will not charge such ISPs or Service Bureaus for distribution within the
+EEA, or such End Users for the Use within the EEA, of ISIN Records.
+Service Bureaus shall be entitled to obtain ISIN Records from sources other
+than through the direct delivery from S&P/CSB (e.g., indirectly through
+ISPs) without having to pay the price of the US ISIN Record Masterfile to
+S&P/CSB for distribution of ISIN Records within the EEA, provided that
+such Service Bureau has entered into an ISIN Record Subscription
+Agreement substantially in the form of the applicable model contract which
+will be posted on S&P/CSB's website pursuant to Paragraph 2 above.
+
+5. Within one (1) month after the Effective Date, S&P/CSB shall inform
+Impacted ISPs, Service Bureaus and End Users that they will have the right
+to early termination of their customer agreements (in the case where a
+customer agreement covers more than just the usage and/or distribution of
+US ISINs in the EEA, the right to early termination of only the EEA portion
+of their customer agreement) by providing written notice to S&P/CSB (such
+early termination to become effective on the Implementation Date, or such
+later date as mutually agreed between the customer and S&P/CSB).
+Impacted ISPs, Service Bureaus and End Users will then have the options
+to: (a) subscribe to the US ISIN Record Masterfile under the applicable
+ISIN Record Subscription Agreement; (b) continue their existing CSB
+database service; and/or (c) subscribe to other commercial database products
+as may be offered by S&P and/or S&P/CSB from time to time.
+
+6. Nothing in these Commitments shall be interpreted to mean that a CSB
+customer will be excused or released from any obligation or liability, if any,
+accruing under its existing customer agreement(s) for services rendered by
+CSB prior to termination of a customer agreement pursuant to Paragraph 5
+above. In the event of such termination, the post-termination rights and
+obligations of CSB and the customer will be as provided under the
+applicable law.
+
+7. At its option, S&P/CSB shall have the right to fulfil its obligation under
+these Commitments of making the ISIN Record available directly to both
+ISPs and Service Bureaus for distribution within the EEA and End Users for
+Use within the EEA by providing the US ISIN Record Masterfile to ISPs,
+Service Bureaus and End Users: (a) directly from the existing facilities of
+S&P/CSB, (b) through a new ISIN Record service bureau that may be
+established by S&P/CSB or MGH, and/or (c) through the facilities of the
+ANNA Service Bureau.
+
+8. For the avoidance of doubt, nothing in these Commitments shall in any way
+preclude MGH, S&P, S&P/CSB or any of their affiliates from offering or
+
+24EN EN
+
+distributing commercial database products consisting of the ISIN Record
+integrated with Additional Data, whether to ISPs, Service Bureaus, End
+Users or any other customer, on the basis of its existing distribution model
+or any other commercial model it may choose to adopt from time to time in
+its sole discretion.
+
+9. Without prejudice to Paragraph 7 above, the remedies under these
+Commitments shall not apply to the ANNA Service Bureau. S&P/CSB shall
+continue to operate the ANNA Service Bureau on behalf of ANNA in
+accordance with its contractual obligations to ANNA in relation to the
+operation of the ANNA Service Bureau.
+
+SECTION C. TERM AND REVIEW
+
+10. These Commitments shall be implemented by MGH within five (5) months
+of the Effective Date.
+
+11. These Commitments will be applicable for a duration of five (5) years from
+the Implementation Date. These Commitments will automatically expire,
+with immediate effect, if MGH or S&P (or its S&P/CSB business) no longer
+operates as the US NNA.
+
+12. Without prejudice to the general provision of Article 9(2) of Regulation
+1/2003, MGH may request the Commission to reopen proceedings with a
+view to modifying these Commitments where there has been a material
+change in any of the facts on which the Commission's Decision pursuant to
+Article 9(1) of Regulation 1/2003 was based.
+
+13. In addition, and without prejudice to the provisions of Article 9(2) of
+Regulation 1/2003, the Commission may, on its own initiative, review these
+Commitments if there has been a material change in any of the facts on
+which the Commission's Decision pursuant to Article 9(1) of Regulation
+1/2003 was based.
+
+14. On an annual basis following the Implementation Date, during the term of
+these Commitments MGH shall submit to the Commission a confidential
+report on the implementation of the Commitments. [...].
+
+25EN EN
+
+ANNEX A
+
+Definition of ISIN Record
+
+Minimum descriptive elements for each category/issue type for inclusion with
+the US ISIN Record Masterfile Service
+
+Minimum Data Fields
+
+Equity Instruments Debt Instruments
+Elements M / C Elements M / C
+
+ISIN M ISIN M
+Issuer Long Name M Issuer Long Name M
+Issue Description M Issue Description M
+Nominal Value C Interest C
+Currency C Maturity C
+
+The conditional elements ("C") are only to be delivered if the information is not part of the issue description and so
+long as S&P/CSB collects such conditional elements from the issuer/requester of the applicable ISIN identifier.
+
+Legend
+M Mandatory
+C Conditional
+
+26EN EN

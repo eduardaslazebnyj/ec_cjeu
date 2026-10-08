@@ -1,0 +1,255 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52023AT40547(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52023AT40547(01)
+Help
+Print
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40547 – Styrene Monomer (Text with EEA relevance) 2023/C 145/08
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40547 – Styrene Monomer (Text with EEA relevance) 2023/C 145/08
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29).) Case AT.40547 – Styrene Monomer (Text with EEA relevance) 2023/C 145/08
+C/2022/8507
+OJ C 145, 27.4.2023, pp. 11–12
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+27.4.2023
+EN
+Official Journal of the European Union
+C 145/11
+Final Report of the Hearing Officer
+(
+1
+)
+Case AT.40547 – Styrene Monomer
+(Text with EEA relevance)
+(2023/C 145/08)
+The draft decision, addressed to (a) INEOS Limited, INEOS Europe AG, INOVYN Enterprises Limited and INEOS Styrolution UK Limited (together referred to as ‘INEOS’), (b) Synthomer Deutschland GmbH, Synthomer (UK) Limited
+(
+2
+)
+and Synthomer plc
+(
+3
+)
+(together referred to as ‘Synthomer’), (c) Trinseo PLC
+(
+4
+)
+and Trinseo Europe GmbH (together referred to as ‘Trinseo’), (d) Synbra Holding B.V. and BEWI RAW B.V
+(
+5
+)
+. (together referred to as ‘Synbra’), (e) O.N. Sunde AS and SUNPOR Kunststoff Gesellschaft m.b.H. (together referred to as ‘Sunpor’), and (f) Synthos S.A., Synthos Styrenics Services B.V. and Black Forest SICAV-SIF (together referred to as ‘Synthos’) (collectively, ‘the Parties’), concerns a single and continuous infringement of Article 101 of the TFEU and Article 53 of the Agreement on the European Economic Area (‘EEA’) within the entire EEA.
+The infringement is described as an agreement or concerted practice by which the participants had bilateral and multilateral exchanges of sensitive commercial and pricing-related information and coordinated their behaviour in connection with a price element related to the purchase of styrene monomer, namely the Styrene Monthly Contract Price or ‘SMCP’. The infringement took place from 1 May 2012 to 30 June 2018.
+On 17 July 2020, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004
+(
+6
+)
+against the Parties
+(
+7
+)
+.
+Following settlement discussions
+(
+8
+)
+and settlement submissions
+(
+9
+)
+in accordance with Article 10a(2) of Regulation (EC) No 773/2004, the Commission adopted, on 29 September 2022, a statement of objections (the ‘Statement of Objections’) addressed to the Parties on 30 September 2022.
+In their respective replies to the Statement of Objections, the Parties confirmed, pursuant to Article 10a(3) of Regulation (EC) No 773/2004, that the Statement of Objections reflected the contents of their settlement submissions and that they therefore remained committed to following the settlement procedure.
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision deals only with objections in respect of which the Parties have been afforded the opportunity of making known their views. I conclude that it does so.
+In the course of the settlement proceedings, one of my predecessors examined a request made by Sunpor to the Hearing Officer pursuant to Article 15(2) of Decision 2011/695/EU and paragraph 18 of the Settlement Notice
+(
+10
+)
+in relation to the use of video conferencing for the settlement discussions during the Covid-19 pandemic. He concluded that such use in this case did not entail any infringement of Sunpor’s right to be heard, right of defence, right to legal representation, or the principle of equal treatment
+(
+11
+)
+. In reaching that conclusion, the Hearing Officer took into account, in particular, that neither the right to be heard, nor the principle of respect for the rights of the defence, nor Regulation (EC) No 773/2004, nor the Settlement Notice require meetings to be held physically, that the Directorate-General for Competition offered all parties the same options, and that it is necessary to avoid undue delays in the conduct of the administrative procedure.
+In view of all of the above, and taking into account that the Parties have not addressed any other requests or complaints to the Hearing Officer, I consider that the effective exercise of the procedural rights of the Parties to the proceedings in this case has been respected.
+Brussels, 28 November 2022.
+Eric GIPPINI FOURNIER
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+).
+(
+2
+)
+Formerly Synthomer Limited.
+(
+3
+)
+Formerly Yule Catto & Co plc.
+(
+4
+)
+Trinseo PLC is the legal and economic successor company of Trinseo S.A., ultimate parent of Trinseo Europe GmbH during the infringement period. On 8 October 2021, Trinseo S.A. was merged into Trinseo PLC.
+(
+5
+)
+Formerly BEWiSynbra RAW B.V. and before that, Synbra Technology B.V.
+(
+6
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p.18
+).
+(
+7
+)
+As regards Trinseo, on 17 July 2020, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004 against Trinseo S.A. By Decision adopted on 26 September 2022, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004 against Trinseo PLC, as the legal and economic successor of Trinseo S.A. (see footnote 4).
+(
+8
+)
+The settlement meetings took place between 21 September 2020 and 30 June 2022.
+(
+9
+)
+The Parties submitted their formal requests to settle between [...]. In particular, on [...], Trinseo PLC acknowledged the outcome of the settlement meetings held with Trinseo S.A. and submitted its formal request to settle.
+(
+10
+)
+Under Article 15(2) of Decision 2011/695/EU, parties to the proceedings in cartel cases which engage in settlement discussions pursuant to Article 10a of Regulation (EC) No 773/2004, may call upon the hearing officer at any stage during the settlement procedure in order to ensure the effective exercise of their procedural rights. See also paragraph 18 of Commission Notice 2008/C 167/01 on the conduct of settlement procedures in view of the adoption of Decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (
+OJ C 167, 2.7.2008, p. 1
+).
+(
+11
+)
+Letter or Mr. Wouter Wils to Sunpor of 15 October 2020.
+Top

@@ -1,0 +1,467 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+5.10.2001 EN Official Journal of the European Communities L 265/15
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 18 July 2001
+
+relating to proceedings pursuant to Article 81 of the EC Treaty and Article 53 of the Agreement on
+the European Economic Area
+
+(Case COMP.D.2 37.444 — SAS Maersk Air and Case COMP.D.2 37.386 — Sun-Air versus SAS and
+Maersk Air)
+
+(notified under document number C(2001) 1987)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(2001/716/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EEC) No 3975/87 of 14 December 1987 laying down the procedure
+for the application of the rules on competition to undertakings in the air transport sector (1), as last
+amended by Regulation (EEC) No 2410/92 (2), and in particular Article 3 and Article 12(2) thereof,
+
+Having regard to the Commission Decision of 31 January 2001 to initiate proceedings in these cases,
+
+Having given the parties concerned the opportunity to make known their views on the objections raised by
+the Commission and the opportunity to develop their arguments at an oral hearing, pursuant to Article 16
+of Regulation (EEC) No 3975/87 and Article 3(4) and Article 5 of Commission Regulation (EC) No
+2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86
+of the EC Treaty (3),
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Whereas:
+
+I. THE PARTIES
+
+A. SCANDINAVIAN AIRLINES SYSTEM
+
+(1) Scandinavian Airlines System (‘SAS’) is a consortium owned by SAS Sverige AB (3/7), SAS Danmark
+A/S (2/7) and SAS Norge ASA (2/7). Each of the three companies is 50 % owned by the State and
+50 % by industry. According to SAS 2000 annual report, the turnover of SAS in 2000 was
+SEK 44 481 million (EUR 4 917 million).
+
+SAS is part of the Star Alliance (4) and serves 105 scheduled destinations (40 within Scandinavia, 56
+in the rest of Europe and nine outside Europe).
+
+(1) OJ L 374, 31.12.1987, p. 1.
+(2) OJ L 240, 24.8.1992, p. 18.
+(3) OJ L 354, 30.12.1998, p. 18.
+(4) With Air Canada, Air New Zealand, All Nippon Airways (ANA), Ansett Australia, Austrian Airlines, British Midland,
+Lauda Air, Lufthansa, Mexicana Airlines, Singapore Airlines, Thai Airways International, United Airlines and Varig
+Airlines.
+
+L 265/16 EN Official Journal of the European Communities 5.10.2001
+
+B. MAERSK AIR A/S
+
+(2) Maersk Air A/S is a Danish company owned by the A. P. Møller group, which is also active in other
+activities, such a shipping and oil and gas. The A. P. Møller group also controls Maersk Air Ltd, UK.
+Maersk Air A/S and Maersk Air Ltd, UK together form the Maersk Air group. The Maersk Air group
+controls 49 % of AS Estonian Air. According to the 2000 preliminary annual accounts of the A. P.
+Møller group, the turnover of the Maersk Air group in 2000 was DKK 3 422 million (EUR 458,6
+million).
+
+Maersk Air A/S (‘Maersk Air’) operates four Danish domestic routes and 15 scheduled international
+routes, to and from Copenhagen and Billund.
+
+II. THE PROCEDURE
+
+(3) By letter of 8 March 1999, SAS and Maersk Air notified to the Commission a cooperation
+agreement, dated 8 October 1998, and five ancillary agreements. The cooperation agreement entered
+into force on 28 March 1999. The parties applied for negative clearance under Article 3(2) of
+Regulation (EEC) No 3975/87 and for exemption under Article 5 of that Regulation.
+
+(4) By letter of 23 November 1998, Sun-Air of Scandinavia A/S (‘Sun-Air’), a small Danish airline that
+operates as a British Airways franchisee, submitted a complaint to the Commission against the
+cooperation between SAS and Maersk Air. The complaint was registered on 7 January 1999. In
+relation with the SAS/Maersk Air cooperation, Sun-Air stated that:
+
+‘there is a history of SAS working far more closely, coordinating far more business activities with
+its partner airlines than it has announced publicly. It is this surreptitious cooperation that I [the
+chief executive officer of Sun-Air] asked the Commission to investigate.’
+
+(5) In the course of the preliminary enquiry that followed the notification and the complaint, it appeared
+that, coinciding with the entry into force of the cooperation agreement, Maersk Air had withdrawn
+from the Copenhagen-Stockholm route where it had until then been competing with SAS. It also
+appeared that, at the same moment, SAS had stopped flying on the Copenhagen-Venice route and
+Maersk Air had started operations on this route. Finally, it appeared from the preliminary enquiry
+that SAS had withdrawn from the Billund-Frankfurt route, leaving Maersk Air — its previous
+competitor on the route — as the only carrier. These entries and withdrawals were not notified as
+part of the agreement between SAS and Maersk Air.
+
+(6) Given the likelihood that these entries and withdrawals had not been unilaterally decided and that
+the SAS/Maersk Air cooperation extended beyond what the parties had notified, by Decision of 9
+June 2000, the Commission ordered SAS, Maersk Air and the A.P. Møller group (Maersk Air's parent
+company) to submit to an investigation pursuant to Article 14(3) of Council Regulation No 17 of 6
+February 1962, first Regulation implementing Articles 85 and 86 of the Treaty (1) and Article 11(3)
+of Regulation (EEC) No 3975/87. The inspections were carried out on 15 and 16 June 2000.
+
+(7) A few days after the inspection, on 22 June 2000, Maersk Air voluntarily submitted to the
+Commission additional information that had been kept at the home of one of its former employees.
+
+(8) By letter of 24 August 2000, in response to a request for information of 1 August 2000, SAS
+transmitted to the Commission one volume with the title ‘private files’. By letter of 13 September
+2000, SAS informed the Commission that more additional files had appeared after the SAS
+employees returned from their summer holidays. Two files with these additional documents were
+attached to the letter of 13 September 2000.
+
+(9) The documents obtained as a result of the inspection confirmed that the agreement between SAS and
+Maersk Air was broader that what the parties had notified to the Commission.
+
+(10) By letter of 12 October 2000, SAS and Maersk Air submitted a supplementary application for
+negative clearance under Article 3(2) of Regulation (EEC) No 3975/87 and for exemption under
+Article 5 of that Regulation. This supplementary notification related to the extension of the parties'
+cooperation to four additional routes and contained new technical annexes to the cooperation
+agreement (as well as modifications of the existing implementing agreements) that had been agreed
+after the initial notification was submitted.
+
+(1) OJ 13, 21.2.1962, p. 204/62.
+
+5.10.2001 EN Official Journal of the European Communities L 265/17
+
+(11) The Commission analysed both the notified and the non-notified aspects of the cooperation and
+decided, on 31 January 2001, to initiate proceedings and send a statement of objections to SAS and
+to Maersk Air, in accordance with Article 3(1) and Article 16(1) of Regulation (EEC) No 3975/87
+and Article 3(1) of Regulation (EC) No 2842/98. The parties received the statement of objections on
+2 February 2001. The statement of objections related to the non-notified aspects of the cooperation
+that the Commission discovered as a result of the inspection and to those notified aspects that
+cannot be understood in isolation from the non-notified aspects, such as the cooperation on the
+Billund-Frankfurt and Copenhagen-Venice routes. In the statement of objections, the Commission
+took the preliminary view that SAS and Maersk Air infringed Article 81 of the Treaty and Article 53
+of the EEA Agreement and that the infringement of Community law might be regarded as very
+serious. The Commission also informed the parties that it intended to impose fines.
+
+(12) According to Article 5(2) of Regulation (EEC) No 3975/87, when a notification (‘application’, in the
+wording of the Regulation) is submitted, the Commission publishes a summary of the application
+and invites comments, if it judges the application admissible, is in possession of all the available
+evidence and has not taken any action, pursuant to Article 3 of the Regulation, to terminate an
+infringement of Articles 81 and 82 of the Treaty. Thereafter, unless the Commission notifies
+applicants, within 90 days of such publication, that there are serious doubts as to the applicability of
+Article 81(3), the notified agreement is deemed exempt (Article 5(3)). This procedure is known as the
+‘objections’ procedure.
+
+(13) The Commission has not published the notice provided for in Article 5(2), so that the 90-day period
+laid down in Article 5(3) did not begin to run. In the present case, the objections procedure provided
+for in Article 5(2) does not apply, since the statement of objections sent to the parties constitutes
+action within the meaning of Article 3 of Regulation (EEC) No 3975/87.
+
+(14) In their responses of 4 April 2001 to the Commission's statement of objections, the parties
+acknowledge the facts and the existence of the infringements as described in the statement of
+objections. The parties also responded that they did not wish to request an oral hearing. In their
+responses, the parties limit their comments to those elements which could affect the Commission's
+calculation of the fine, such as the gravity and the duration of the infringements and the parties'
+behaviour after the June 2000 inspection. Finally, the parties declare their intention to negotiate a
+new cooperation agreement, compatible with Community competition law.
+
+III. THE NOTIFIED AGREEMENTS
+
+A. THE 8 OCTOBER 1998 COOPERATION AGREEMENT
+
+The main content of the cooperation agreement
+
+(15) In the notification of 9 March 1999, SAS and Maersk Air indicate that the cooperation agreement
+includes two main arrangements: (a) code-share on a number of Maersk Air routes (four domestic
+and nine international), thereby making it possible for SAS to market seats in the code-shared flights
+and (b) FFP participation, which allows Maersk Air passengers to earn points on SAS' FFP (called
+‘EuroBonus’), and, conversely, to allow EuroBonus members to redeem the points they have on
+Maersk Air flights. The FFP cooperation covers all of Maersk Air's routes.
+
+(16) The main clauses of the cooperation agreement are:
+
+(a) the parties remain independent and retain their own corporate identity, brand name and capacity
+to take autonomous decisions;
+
+(b) in circumstances where SAS is not in a position to operate certain routes or flights to/from
+Copenhagen or to/from Jutland, SAS will invite Maersk Air to start operations on such routes
+(subject to SAS' regulatory, commercial and strategy considerations);
+
+L 265/18 EN Official Journal of the European Communities 5.10.2001
+
+(c) the costs for services provided by one party to the other under the implementing agreements
+shall not be less favourable than the costs for such services offered by such party to any third
+carrier;
+
+(d) each party shall develop at its own cost automated procedures to provide the non-operating
+carrier (1) with its seat inventory information, in order to enable the non-operating carrier to sell
+seats under its own designator code;
+
+(e) both parties undertake to achieve the shortest possible connection time between flights. In
+particular, Maersk Air will coordinate its schedules of the code-shared flights, to maximise
+passenger connection opportunities and minimise the waiting time for connecting passengers;
+
+(f) the parties shall as soon as technically feasible provide passengers travelling on the code-shared
+flights with through check-in, seat assignments, boarding passes, documentation checks, baggage
+tags and FFP credits for connecting flights.
+
+The routes covered by the notified cooperation agreement
+
+(17) The cooperation agreement does not specify the individual routes affected by the cooperation. It
+simply states (in point 3.1) that the parties shall enter into a code-sharing agreement in respect of
+routes operated by Maersk Air. Conversely, the agreement foresees the possibility that similar
+code-sharing agreements in respect of routes operated by SAS may also be established.
+
+(18) According to the information provided by the parties, the cooperation agreement affects the routes
+operated by Maersk Air between the following city pairs.
+
+Domestic routes in Denmark:
+
+— Copenhagen-Billund
+
+— Copenhagen-Esbjerg
+
+— Copenhagen-Bornholm
+
+— Billund-Aalborg
+
+International routes:
+
+— Copenhagen-Athens
+
+— Copenhagen-Faroe Islands*
+
+— Copenhagen-Kristiansand
+
+— Copenhagen-London (Gatwick)
+
+— Copenhagen-Venice
+
+— Billund-Amsterdam*
+
+— Billund-Brussels*
+
+— Billund-Frankfurt
+
+— Billund-Faroe Islands*
+
+— Billund-London (Gatwick)
+
+— Billund-Nice
+
+— Billund-Paris*
+
+— Billund-Stockholm.
+
+(19) As regards the individual routes on which the parties cooperate, the following should be pointed out.
+
+(a) SAS and Maersk Air do not code-share on the following five routes, marked with an asterisk (*)
+above: Billund-Brussels (which Maersk Air operates in code-share with Sabena), Billund-Paris
+(which Maersk Air operates in code-share with Air France), Billund-Amsterdam (code-share with
+KLM), Billund-Faeroe Islands and Copenhagen-Faeroe Islands. The EuroBonus participation agreement however applies to all the above routes.
+
+(1) The non-operating carrier is the marketing carrier, who sells tickets for the code-shared flights but does not operate
+the aeroplane.
+
+5.10.2001 EN Official Journal of the European Communities L 265/19
+
+It appears from the documents obtained during the inspection that the decision not to terminate
+all of Maersk Air's code-sharing agreements on the occasion of the entry into force of the SAS
+cooperation, and to maintain instead certain routes where Maersk Air code-shared with other
+airlines was taken by Maersk Air in coordination with SAS, with the aim of avoiding visibility
+and ‘problems with the Commission’ (record of the 17 July 1999 meeting between SAS and
+Maersk Air) (1). The parties foresaw (as reflected in the status report of 5 September 1998) that
+the remaining Maersk Air cooperation with carriers other than SAS would continue during the
+initial cooperation stage (‘phase 1’) but terminate at a later stage (‘phase 2’).
+
+(b) Among the international routes on which the parties code-share, there are certain routes where
+the entry into force of the cooperation agreement did not result in one of the parties ceasing
+operations on the route concerned. These Maersk Air-operated routes are the following: Copenhagen-Athens, Copenhagen-Kristiansand, Copenhagen-London (Gatwick), Billund-London
+(Gatwick) and Billund-Stockholm.
+
+(c) The Copenhagen-Venice and Billund-Frankfurt routes, which were covered by the notification,
+are examined below.
+
+B. THE NOTIFIED IMPLEMENTING AG
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+clared termination vis-a-vis SAS. The letter to SAS does not clearly
+and unambiguously express the will to terminate the agreements; rather, it could be interpreted as an
+attempt to reassure SAS about the declarations that Maersk Air had made to the Commission. At the
+time, the parties were not yet aware of the position that the Commission would take in the
+statement of objections. The Commission therefore concludes that the infringements can only be
+deemed terminated at the earliest as from 15 February 2001, when SAS declared vis-a-vis Maersk Air
+that it did not consider itself as being bound by the market-sharing agreements.
+
+(113) Consequently, the infringements lasted from 5 September 1998 until 15 February 2001, that is, for
+two years, five months and ten days.
+
+(114) SAS and Maersk Air have committed an infringement of medium duration. In the Commission's
+practice, infringements of medium duration are, in general, infringements that last between one and
+five years. For infringements of medium duration, the Commission applies an increase of up to 50 %
+of the amount determined for the gravity of the infringement. In the present case, the starting point
+of the fine is increased by 25 %.
+
+Conclusion on the basic amounts
+
+(115) The Commission accordingly sets the basic amount of the fines at EUR 43 750 000 for SAS and
+EUR 17 500 000 for Maersk Air.
+
+B.2. AGGRAVATING AND ATTENUATING CIRCUMSTANCES
+
+Aggravating circumstances
+
+(116) There are no aggravating circumstances.
+
+Attenuating circumstances
+
+(117) Maersk Air points out that it is a first time offender and claims that the Commission should consider
+this to constitute an attenuating circumstance.
+
+(118) This argument cannot be accepted. First, Maersk Air is a fully-owned subsidiary of A. P. Møller,
+which is well aware of the consequences of infringing Community competition law. The documents
+obtained from the on-site inspections show that the A. P. Møller management was kept informed at
+all times of the progress of the negotiations with SAS and endorsed the agreements that Maersk Air
+reached with SAS. Second, not only did Maersk Air have the knowledge and infrastructure to
+recognise that its behaviour violated competition law, but, as is clear from the evidence in the
+Commission's file it was positively aware of the infringement and nevertheless decided to implement
+the market-sharing.
+
+(119) The extent of the cooperation by the undertakings in the proceedings is examined below, in the
+context of the application of the Commission notice on the non-imposition or reduction of fines in
+cartel cases (‘the leniency notice’) (1). Outside the scope of the leniency notice, there are no
+attenuating circumstances.
+
+(1) OJ C 207, 18.7.1996, p. 4.
+
+L 265/40 EN Official Journal of the European Communities 5.10.2001
+
+B.3. APPLICATION OF THE LENIENCY NOTICE
+
+(120) Both SAS and Maersk Air argue that they cooperated with the Commission from the time of the
+on-site inspections on 15 and 16 June 2000. They invoke the application of sections B(d) (1) and
+D.2 (2) of the leniency notice.
+
+(121) As regards the application of section B of the leniency notice, it is apparent that the conditions in
+points (a) to (e) of section B are cumulative and not alternative. In the present case, neither of the
+parties informed the Commission about the existence of the market-sharing agreements before the
+Commission undertook the investigations on 15 June 2001. Condition (a) of section B is therefore
+not fulfilled and the application of section B of the notice is not possible.
+
+(122) The ‘status reports’ and the document of 16 July 1998 on the policy regarding international routes
+from Copenhagen constituted the key evidence that enabled the Commission to initiate the procedure leading to the present decision. This evidence was obtained in the course of the on-site
+inspections on 15 and 16 June 2000. For this reason, section C (3) of the leniency notice does not
+apply.
+
+(123) As regards the application of section D.2, first indent, the Commission notes that:
+
+— at the end of the on-site inspection, Maersk Air offered to the Commission services to hold a
+meeting with [a Maersk Air representative], who at that moment had already left Maersk Air.
+[That Maersk Air representative] had a key role in Maersk Air's negotiation with SAS during
+1998. This meeting took place at the Maersk Air offices on 22 June 2000 and on that occasion
+Maersk Air handed over to the Commission representatives the ‘private files’ that [the Maersk Air
+representative] had kept in his Copenhagen home. These files helped the Commission establish
+the actual evolution of the negotiations and the precise scope of the agreement,
+
+— by contrast, the information provided by SAS only served to confirm what the Commission
+already knew. Unlike the documents provided by Maersk Air, the ‘additional files’ transmitted by
+SAS were not provided spontaneously after the inspection, but pursuant to a request for
+information.
+
+(124) As regards the application of the second indent of section D.2 of the leniency notice, neither SAS
+nor Maersk Air contested the facts contained in the statement of objections.
+
+(1) Section B of the leniency notice reads:
+‘B. NON–IMPOSITION OF A FINE OR A VERY SUBSTANTIAL REDUCTION IN ITS AMOUNT
+An entreprise which:
+(a) informs the Commission about a secret cartel before the Commission has undertaken an investigation,
+ordered by decision, of the enterprises involved, provided that it does not already have sufficient information
+to establish the existence of the alleged cartel;
+(b) is the first to adduce evidence of the cartel's existence;
+(c) puts an end to its involvement in the illegal activity no later than the time at which it discloses the cartel;
+(d) provides the Commission with all the relevant information and all the documents and evidence available to it
+regarding the cartel and maintains continuous and complete cooperation throughout the investigation;
+(e) has not compelled another enterprise to take part in the cartel and has not acted as an instigator or played a
+determining role in the illegal acitivity,
+will benefit from a reduction of at least 75 % of the fine or even from total exemption from the fine that would
+have been imposed if it had not cooperated.’
+(2) Section D of the leniency notice provides:
+‘D. SIGNIFICANT REDUCTION IN A FINE
+1. Where the enterprise cooperates without having met all the conditions set out in sections B or C, it will
+benefit from a reduction of 10 % to 50% of the fine that would have been imposed if it had not cooperated.
+2. Such cases may include the following:
+— before a statement of objections is sent, an enterprise provides the Commission with information, documents or other evidence which materially contribute to establishing the infringement,
+— after receiving a statement of objections, an enterprise informs the Commission that it does not substantially contest the facts on which the Commission bases its allegations.’
+(3) Section C of the leniency notice provides:
+‘C. SUBSTANTIAL REDUCTION IN A FINE
+Enterprises which both satisfy the conditions set out in section B, points (b) to (e) and disclose the secret cartel after
+the Commission has undertaken an investigation ordered by decision on the premises of the parties to the cartel
+which has failed to provide sufficient grounds for initiating the procedure leading to a decision, will benefit from a
+reduction of 50 % to 75 % of the fine.’
+
+5.10.2001 EN Official Journal of the European Communities L 265/41
+
+(125) In view of the foregoing, the fine to be imposed on Maersk Air should be reduced by 25 %, and that
+imposed on SAS, by 10 %,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Scandinavian Airlines System (‘SAS’) and Maersk Air A/S (‘Maersk Air’) have infringed Article 81 of the
+Treaty and Article 53 of the EEA Agreement, by agreeing to:
+(a) an overall market-sharing agreement, according to which SAS would not operate on Maersk Air's
+routes out of Jutland and Maersk Air would not be able to launch services on routes from Copenhagen
+which SAS operates or wishes to operate, and an agreement to respect the share-out of the domestic
+routes;
+(b) specific market-sharing agreements regarding individual international routes, and in particular:
+(i) the agreement pursuant to which Maersk Air would cease flying between Copenhagen and
+Stockholm as from 28 March 1999 and obtain compensation for its withdrawal;
+(ii) in compensation for Maersk Air's withdrawal from the Copenhagen-Stockholm route, the agreement pursuant to which SAS would stop operating between Copenhagen and Venice at the end of
+March/beginning of April 1999 and Maersk Air would start operations on the route at the same
+moment;
+(iii) the agreement according to which SAS would stop flying on the Billund-Frankfurt route in January
+1999.
+
+Article 2
+
+For the infringements referred to in Article 1, a fine of EUR 39 375 000 shall be imposed on SAS, and a
+fine of EUR 13 125 000 shall be imposed on Maersk Air.
+
+Article 3
+
+The fine determined in Article 2 shall be paid in euro within three months of the date of notification of this
+Decision into the following bank account of the Commission of the European Communities:
+Account No 642-0029000-95
+IBAN BE76 6420 0290 0095
+Banco Bilbao Vizcaya Argentaria (BBVA) SA
+Avenue des Arts/Kunstlaan, 43
+B-1040 Brussels
+(SWIFT code: BBVABEBB)
+
+After the expiry of the three-month period, interest shall be payable at the rate charged by the European
+Central Bank to its main refinancing operations on the first working day of the month in which this
+Decision was adopted, plus 3,5 percentage points, namely 8,04 %.
+
+Article 4
+
+This Decision is addressed to:
+SAS, Scandinavian Airlines System
+Frösundaviks Allé, 1
+S-195 87 Stockholm
+and
+Maersk Air A/S
+Copenhagen Airport South
+DK-2791 Dragør.
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels, 18 July 2001.
+
+For the Commission
+
+Mario MONTI
+
+Member of the Commission

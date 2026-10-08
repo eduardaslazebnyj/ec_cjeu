@@ -1,0 +1,625 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39861 – YEN INTEREST
+RATE DERIVATIVES
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 4/12/2013
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 4.12.2013
+C(2013) 8602 final
+
+COMMISSION DECISION
+
+of 4.12.2013
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39861 – Yen Interest Rate Derivatives)
+
+addressed to
+UBS AG and UBS Securities Japan Co., Ltd.
+The Royal Bank of Scotland Group plc, The Royal Bank of Scotland plc
+Deutsche Bank Aktiengesellschaft
+Citigroup Inc., Citigroup Global Markets Japan Inc.
+JPMorgan Chase & Co., JPMorgan Chase Bank, National Association, J.P. Morgan
+Europe Limited
+R.P. Martin Holdings Ltd, Martin Brokers (UK) Ltd
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 7
+
+2. BACKGROUND.......................................................................................................... 8
+
+2.1. The product concerned ................................................................................................. 8
+
+2.2. The undertakings subject to the proceedings ............................................................... 9
+
+2.2.1. UBS .............................................................................................................................. 9
+
+2.2.2. RBS .............................................................................................................................. 9
+
+2.2.3. Deutsche Bank ............................................................................................................. 9
+
+2.2.4. Citigroup ...................................................................................................................... 9
+
+2.2.5. JPMorgan ................................................................................................................... 10
+
+2.2.6. RP Martin ................................................................................................................... 10
+
+2.2.7. ICAP ........................................................................................................................... 10
+
+3. PROCEDURE ............................................................................................................ 11
+
+4. DESCRIPTION OF THE EVENTS ........................................................................... 13
+
+4.1. Common description of the different bilateral infringements: nature, scope and
+functioning ................................................................................................................. 13
+
+4.1.1. The anticompetitive practices of the participating banks ........................................... 14
+
+4.1.2. Facilitation of the different infringements [...] ......................................................... 14
+
+4.1.2.1. [...] ............................................................................................................................ 14
+
+4.1.2.2. RP Martin's facilitation of the UBS/DB 2008-09 infringement ................................. 14
+
+4.1.2.3. [...] ............................................................................................................................ 15
+
+4.1.2.4. [...] ............................................................................................................................ 15
+
+4.1.3. [...] ............................................................................................................................ 15
+
+4.2. Participation in the respective bilateral infringements, nature and duration of
+involvement ................................................................................................................ 15
+
+4.2.1. UBS/JPM 2007 infringement ..................................................................................... 15
+
+4.2.2. UBS/RBS 2007 infringement ..................................................................................... 15
+
+4.2.3. UBS/RBS 2008 infringement ..................................................................................... 16
+
+4.2.4. UBS/DB 2008-09 infringement ................................................................................. 16
+
+4.2.5. Citi/RBS 2010 infringement ...................................................................................... 17
+
+4.2.6. Citi/DB 2010 infringement ........................................................................................ 17
+
+EN 3 EN
+
+4.2.7. Citi/UBS 2010 infringement ...................................................................................... 17
+
+5. LEGAL ASSESSMENT ............................................................................................ 18
+
+5.1. Application of Article 101 of the Treaty and Article 53 of the EEA Agreement ...... 18
+
+5.1.1. The nature of the infringements ................................................................................. 18
+
+5.1.1.1. Agreements and concerted practices .......................................................................... 18
+
+5.1.1.2. Single and continuous infringement........................................................................... 19
+
+5.1.2. Restriction of competition .......................................................................................... 20
+
+5.1.3. Effect on trade between Member States and between contracting parties to the EEA
+Agreement .................................................................................................................. 21
+
+5.1.4. Non-applicability of Article 101(3) of the Treaty ...................................................... 22
+
+6. DURATION OF ADDRESSEES' PARTICIPATION IN THE INFRINGEMENTS 22
+
+7. LIABILITY ................................................................................................................ 23
+
+7.1. UBS/JPM 2007 infringement ..................................................................................... 24
+
+7.1.1. UBS ............................................................................................................................ 24
+
+7.1.2. JPMorgan ................................................................................................................... 24
+
+7.2. UBS/RBS 2007 infringement ..................................................................................... 24
+
+7.2.1. UBS ............................................................................................................................ 24
+
+7.2.2. RBS ............................................................................................................................ 24
+
+7.3. UBS/RBS 2008 infringement ..................................................................................... 25
+
+7.3.1. UBS ............................................................................................................................ 25
+
+7.3.2. RBS ............................................................................................................................ 25
+
+7.4. UBS/DB 2008-09 infringement ................................................................................. 25
+
+7.4.1. UBS ............................................................................................................................ 25
+
+7.4.2. Deutsche Bank ........................................................................................................... 25
+
+7.4.3. RP Martin ................................................................................................................... 26
+
+7.5. Citi/RBS 2010 infringement ...................................................................................... 26
+
+7.5.1. Citigroup .................................................................................................................... 26
+
+7.5.2. RBS ............................................................................................................................ 26
+
+7.6. Citi/DB 2010 infringement ........................................................................................ 26
+
+7.6.1. Citigroup .................................................................................................................... 26
+
+7.6.2. Deutsche Bank ........................................................................................................... 27
+
+EN 4 EN
+
+7.7. Citi/UBS 2010 infringement ...................................................................................... 27
+
+7.7.1. Citigroup .................................................................................................................... 27
+
+7.7.2. UBS ............................................................................................................................ 27
+
+8. REMEDIES ................................................................................................................ 27
+
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 27
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003 ............................................................. 28
+
+8.3. Calculation of the fines .............................................................................................. 28
+
+8.3.1. The value of sales ....................................................................................................... 29
+
+8.3.2. Determination of the basic amount ............................................................................ 31
+
+8.3.2.1. Gravity ........................................................................................................................ 31
+
+8.3.2.2. Duration ...................................................................................................................... 31
+
+8.3.2.3. Additional amount ...................................................................................................... 33
+
+8.3.2.4. Calculations and conclusions on basic amounts ........................................................ 33
+
+8.3.3. Adjustment to the basic amount: aggravating or mitigating circumstances .............. 34
+
+8.4. Application of the 10% turnover limit ....................................................................... 35
+
+8.5. Application of the Leniency Notice ........................................................................... 35
+
+8.5.1. Citigroup: reductions of fines that would otherwise have been imposed .................. 36
+
+8.5.2. Deutsche Bank: reductions of fines that would otherwise have been imposed ......... 36
+
+8.5.3. RP Martin: reduction of fines that would otherwise have been imposed .................. 36
+
+8.5.4. RBS: reduction of fines that would otherwise have been imposed ............................ 37
+
+8.6. Application of the Settlement Notice ......................................................................... 37
+
+8.7. Conclusion: final amount of individual fines to be imposed in this Decision ........... 37
+
+EN 5 EN
+
+COMMISSION DECISION
+
+of 4.12.2013
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39861 – Yen Interest Rate Derivatives)
+
+addressed to
+UBS AG and UBS Securities Japan Co., Ltd.
+The Royal Bank of Scotland Group plc, The Royal Bank of Scotland plc
+Deutsche Bank Aktiengesellschaft
+Citigroup Inc., Citigroup Global Markets Japan Inc.
+JPMorgan Chase & Co., JPMorgan Chase Bank, National Association, J.P. Morgan
+Europe Limited
+R.P. Martin Holdings Ltd, Martin Brokers (UK) Ltd
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,1
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty,2
+and in particular Article 10a thereof,
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU" or "the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of
+this Decision, references to Articles 101 and 102 of the Treaty should be understood as references to
+Articles 81 and 82, respectively, of the EC Treaty where appropriate. The Treaty also introduced certain
+changes in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". The terminology of the Treaty will be used throughout this Decision. The Agreement
+creating the European Economic Area is referred to as the "EEA Agreement" in this Decision.
+2 OJ L 123, 27.4.2004, p. 18.
+
+EN 6 EN
+
+Having regard to the Commission decisions of 12 February 2013 and 29 October 2013
+initiating proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,3
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) The addressees of this Decision participated in one or more separate infringements of
+Article 101 of the Treaty on the Functioning of the European Union (hereinafter
+referred to as the "Treaty" of "TFEU") and Article 53 of the Agreement creating the
+European Economic Area (hereinafter referred to as the "EEA Agreement").
+
+(2) Each of the infringements consists of agreements and/or concerted practices covering
+the territories of the contracting parties to the EEA Agreement the object of which
+was the restriction and/or distortion of competition in relation to Japanese Yen
+Interest Rate Derivatives (hereinafter referred to as "Yen Interest Rate Derivatives"
+or "YIRDs"), referenced to the Japanese Yen LIBOR (he
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+o them for settlement is added to their
+leniency reward.
+
+(168) As a result of the application of the Settlement Notice, the amount of the fines to be
+imposed on UBS, RBS, Deutsche Bank, Citigroup, JPMorgan, and RP Martin is
+reduced by 10% and this reduction is added to their leniency reward.
+
+8.7. Conclusion: final amount of individual fines to be imposed in this Decision
+
+(169) The fines imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are as
+follows:
+
+Table 22: UBS/JPM 2007 infringement
+
+Undertaking Fines (in EUR)
+
+UBS 0
+
+JPMorgan 79 897 000
+
+EN 37 EN
+
+Table 23: UBS/RBS 2007 infringement
+
+Undertaking Fines (in EUR)
+
+UBS 0
+
+RBS 24 154 000
+
+Table 24: UBS/RBS 2008 infringement
+
+Undertaking Fines (in EUR)
+
+UBS 0
+
+RBS 38 452 000
+
+Table 25: UBS/DB 2008-09 infringement
+
+Undertaking Fines (in EUR)
+
+UBS 0
+
+Deutsche Bank 195 031 000
+
+RP Martin 247 000
+
+Table 26: Citi/RBS 2010 infringement
+
+Undertaking Fines (in EUR)
+
+Citigroup 47 795 000
+
+RBS 197 450 000
+
+Table 27: Citi/DB 2010 infringement
+
+Undertaking Fines (in EUR)
+
+Citigroup 0
+
+Deutsche Bank 64 468 000
+
+EN 38 EN
+
+Table 28: Citi/UBS 2010 infringement
+
+Undertaking Fines (in EUR)
+
+Citigroup 22 225 000
+
+UBS 0
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, from 19 January 2007 until 21 February 2007:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd.;
+
+(b) JPMorgan Chase & Co., JPMorgan Chase Bank, National Association
+and J.P. Morgan Europe Limited.
+
+2. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, 8 February 2007 until 1 November 2007:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd.;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc.
+
+3. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, from 7 May 2008 until 3 November 2008:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd.;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc.
+
+4. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+
+EN 39 EN
+
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd. from 18 September 2008
+until 10 August 2009;
+
+(b) Deutsche Bank Aktiengesellschaft from 18 September 2008 until 10
+August 2009;
+
+(c) R.P. Martin Holdings Ltd and Martin Brokers (UK) Ltd, as a facilitator,
+from 29 June 2009 until 10 August 2009.
+
+5. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, from 3 March 2010 until 22 June 2010:
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc.;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc.
+
+6. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, from 26 March 2010 until 18 June 2010:
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc.;
+
+(b) Deutsche Bank Aktiengesellschaft.
+
+7. The following undertakings have infringed Article 101 of the Treaty and
+Article 53 of the EEA Agreement by participating, during the periods indicated
+below, in agreements and/or concerted practices covering the territories of the
+contracting parties to the EEA Agreement, which had as its object the
+restriction and/or distortion of competition in the YIRDs sector within the
+EEA, from 28 April 2010 until 3 June 2010:
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc.;
+
+(b) UBS AG and UBS Securities Japan Co., Ltd.
+
+EN 40 EN
+
+Article 2
+
+1. For the infringement referred to in Article 1 paragraph 1, the following fines
+are imposed:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd. jointly and severally liable:
+EUR 0;
+
+(b) JPMorgan Chase & Co., JPMorgan Chase Bank, National Association
+and J.P. Morgan Europe Limited jointly and severally liable: EUR 79 897
+000.
+
+2. For the infringement referred to in Article 1 paragraph 2, the following fines
+are imposed:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd. jointly and severally liable:
+EUR 0;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc jointly and severally liable: EUR 24 154 000.
+
+3. For the infringement referred to in Article 1 paragraph 3, the following fines
+are imposed:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd. jointly and severally liable:
+EUR 0;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc jointly and severally liable: EUR 38 452 000.
+
+4. For the infringement referred to in Article 1 paragraph 4, the following fines
+are imposed:
+
+(a) UBS AG and UBS Securities Japan Co., Ltd. jointly and severally liable:
+EUR 0;
+
+(b) Deutsche Bank Aktiengesellschaft: EUR 195 031 000;
+
+(c) R.P. Martin Holdings Ltd and Martin Brokers (UK) Ltd jointly and
+severally liable: EUR 247 000.
+
+5. For the infringement referred to in Article 1 paragraph 5, the following fines
+are imposed:
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc. jointly and
+severally liable: EUR 47 795 000;
+
+(b) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland
+plc jointly and severally liable: EUR 197 450 000.
+
+6. For the infringement referred to in Article 1 paragraph 6, the following fines
+are imposed:
+
+EN 41 EN
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc. jointly and
+severally liable: EUR 0;
+
+(b) Deutsche Bank Aktiengesellschaft: EUR 64 468 000.
+
+7. For the infringement referred to in Article 1 paragraph 7, the following fines
+are imposed:
+
+(a) Citigroup Inc. and Citigroup Global Markets Japan Inc. jointly and
+severally liable: EUR 22 225 000;
+
+(b) UBS AG and UBS Securities Japan Co., Ltd. jointly and severally liable:
+EUR 0.
+
+The fines shall be paid in euro within three months of the date of notification of this Decision to
+the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1–2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Ref.: European Commission – BUFI / AT. 39861
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date by either providing an acceptable bank guarantee or making a provisional
+payment of the fine in accordance with Article 90 of Commission Delegated Regulation (EU) No
+1268/2012.85
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred
+to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+85 OJ L 362, 31.12.2012, p. 1.
+
+EN 42 EN
+
+Article 4
+
+This Decision is addressed to
+
+(a) UBS AG, Bahnhofstraße 45, 8001 Zürich, Switzerland;
+
+(b) UBS Securities Japan Co., Ltd., East Tower Otemachi First Square, 5-1,
+Otemachi 1-chome, Chiyoda-ku, Tokyo 100-0004, Japan;
+
+(c) The Royal Bank of Scotland Group plc, 36 St Andrew Square, Edinburgh, EH2
+2YB, United Kingdom;
+
+(d) The Royal Bank of Scotland plc, 36 St Andrew Square, Edinburgh, EH2 2YB,
+United Kingdom;
+
+(e) Deutsche Bank Aktiengesellschaft, Taunusanlage 12, 60325 Frankfurt (Main),
+Germany;
+
+(f) Citigroup Inc., 399 Park Avenue, New York, NY 10043, U.S.A.;
+
+(g) Citigroup Global Markets Japan Inc., Shin Marunouchi Building, 5-1
+Marunouchi 1-chome, Chiyoda-ku, Tokyo 100-6520, Japan;
+
+(h) JPMorgan Chase & Co., 270 Park Avenue, New York, NY 10017, U.S.A.;
+
+(i) JPMorgan Chase Bank, National Association, 1111 Polaris Parkway,
+Columbus, Ohio 43240, U.S.A.;
+
+(j) J.P. Morgan Europe Limited, 25 Bank Street, Canary Wharf, London, E14 5JP,
+United Kingdom;
+
+(k) R.P. Martin Holdings Ltd, Cannon Bridge, 25 Dowgate Hill, London EC4R
+2BB, United Kingdom;
+
+(l) Martin Brokers (UK) Ltd, Cannon Bridge, 25 Dowgate Hill, London EC4R
+2BB, United Kingdom.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 4.12.2013
+
+For the Commission
+Joaquín ALMUNIA
+Vice-President
+
+EN 43 EN

@@ -1,0 +1,149 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31990D0046
+90/46/EEC: Commission Decision of 12 January 1990 relating to a proceeding under Article 85 of the EEC Treaty (IV/32.006 - Alcatel Espace/ANT Nachrichtentechnik) (Only the French and German texts are authentic)
+Official Journal L 032 , 03/02/1990 P. 0019 - 0026
+*****
+COMMISSION DECISION
+of 12 January 1990
+relating to a proceeding under Article 85 of the EEC Treaty
+(IV/32.006 - Alcatel Espace/ANT Nachrichtentechnik)
+(Only the French and German texts are authentic)
+(90/46/EEC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Economic Community,
+Having regard to Council Regulation No 17 of 6 February 1962 First Regulation implementing Articles 85 and 86 of the Treaty (1), as last amended by the Act of Accession of Spain and Portugal, and in particular Articles 6 and 8 thereof,
+Having regard to the application for negative clearance and the notification for exemption, submitted pursuant to Articles 2 and 4 of Regulation No 17 on 28 July 1986 by Alcatel Espace SA, Courbevoie, and ANT Nachrichtentechnik GmbH, Backnang, concerning the agreement between them signed on 11 February 1986,
+Having regard to the summary of the application and notification published (2) pursuant to Article 19 (3) of Regulation No 17,
+After consultation with the Advisory Committee for Restrictive Practices and Dominant Positions,
+Whereas:
+I. THE FACTS
+A. Introduction
+(1) On 28 July 1986 Alcatel Espace SA, France (hereinafter ATES) and ANT Nachrichtentechnik GmbH, Germany (hereinafter ANT) notified an agreement to the Commission.
+(2) The purpose of the agreement is to promote research and development (R&D) of certain space electronic equipment in the field of civil radio communications and broadcasting satellites and data transmission to, from and between satellites and/or space vehicles throughout the world, as well as to promote joint exploitation of the results and a degree of joint marketing.
+(3) The object of the notification was to apply for negative clearance or alternatively to qualify for exemption under Article 85 (3) of the EEC Treaty, pursuant to Articles 2 and 4 of Regulation No 17.
+B. The parties
+(4) ATES is directly controlled by Alcatel Cit (France), a subsidiary of Alcatel NV the world No 2 manufacturer of communication equipment and systems. ATES is the principal manufacturer, in the Alcatel Group, of space electronic equipment carried on board satellites and/or space vehicles. The 1986 turnover of ATES was FF 813 million (ECU 120 million). During the same period ATES's turnover in the field covered by the agreement was FF 481,5 million (ECU 71 million).
+(5) ANT is one of the leading companies in Germany in the field of telecommunication technology. The shareholders of ANT are Robert Bosch GmbH (83 %) and Allianz Versicherungs AG (17 %). In 1986, ANT achieved an overall turnover of DM 1 256 million (ECU 590 million), and during the
+same period the turnover in the field covered by the agreement was DM 124 million (ECU 58 million).
+C. The agreement
+(6) The main provisions of the agreement are as follows:
+(a) The field covered by the agreement is the space segment of communication systems using satellites and/or space vehicles and/or communication subsystems operating on board satellites and/or space vehicles for civilian use in the area of:
+- civil satellite radio communication services, and direct broadcast television services,
+- data transmission to, from and between satellites and/or space vehicles for the purpose of telemetry, tracking and command, observation or others.
+(b) The parties will cooperate in research and development activities in the field, in order to avoid duplication of R&D effort, and will combine their resources for the exploitation of the results through rationalization of manufacturing, servicing and testing of such systems, as well as through cooperation in the bidding and negotiations for contracts in the field. This will normally be achieved by allocation of the development and production of each item of equipment to one or other party. The agreement contains guidelines for the allocation of the various items of equipment between the parties. However, given the large variations in the equipment carried on each individual satellite (or small set of satellites), these guidelines are supplemented by a procedure for allocating the work in any particular satellite project.
+Nothing in the agreement prohibits either party from engaging in any activity outside the scope of the agreement which is not incompatible with the parties' obligations.
+(c) Procedures for the cooperation
+(i) Each party will normally make its best effort to specify satellite payloads and subsystems for which it is responsible in such a way that equipment developed by the other party can be used in the best possible conditions.
+(ii) Both parties will regularly inform each other of their R&D programme regarding equipment in the field.
+(iii) After final allocation, by mutual agreement, to one party of certain equipment, the procedure will be as follows:
+- before commencing development of such equipment each party shall consult the other about the objectives to be achieved, in particular performance, cost and delivery schedules,
+- the developing party will be responsible for R&D funding,
+- the developing party will be responsible for R&D activities and production of its allocated equipment, but will fully inform the other party of the results of its R&D,
+- if the developing party subcontracts parts of the R&D or production of its allocated equipment, it will give priority to the other party,
+- the other party will not independently develop the same equipment,
+- the other party will procure equipment from the developing party. If the developing party's proposal does not meet the requirements in terms of performance, price and delivery schedule, competing proposals may be requested from other suppliers subject to prior consultation and close cooperation.
+(d) Relevant patents owned by either party, and patents which a party is entitled to sublicense, will be communicated to the other party and the latter will have a royalty-free and non-exclusive licence to perform its activities in the field.
+In the case of inventions conceived jointly by employees of both parties, patent applications for such inventions will be filed in the name of both parties.
+(e) Each party agrees to keep secret the confidential information it receives from the other party, and to use and disclose it only for the purposes intended under the agreement. On expiry of the agreement, each party will return its copies of all confidential information it received from the other party. The confidentiality obligations will end five years after expiry of the agreement.
+(f) Meetings between appropriate personnel of both parties will take place to discuss matters such as technical aspects, marketing and sales. In addition, the parties will inform each other regularly of outside developments of a technical or commercial nature that have come to their attention and which may be pertinent to their R&D activities in the field or the exploitation of the results.
+(g) (i) Executive committee
+Each of the parties will appoint three members to an executive committee. The decisions of the executive committee will be taken unanimously and will bind both parties. The executive committee will be responsible for establishing general policies and guidelines relative to performance of the agreement and its future evolution.
+(ii) Steering committee
+The steering committee will also consist of three members representing each party. Its decisions must be taken unanimously and will be binding. If no unanimous decision can be reached, the matter will be submitted to the executive committee.
+The role of the steering committee is to take - in compliance with execution committee guidelines - main decisions relating to the marketing, technical and industrial policies. Such decisions will include determination of projects and relevant strategies, cooperation in marketing activities, execution of cooperation in R&D and production activities, and decisions on sharing of equipment.
+(h) Exploitation of results
+The exploitation of results can be carried out in three ways:
+(i) jointly marketed projects - which are activities where both parties manufacture and supply as the result of a successful bid submitted to a customer by both parties acting as co-contractors;
+(ii) individually marketed projects - which are activities where only one party acts as main contractor/supplier;
+(iii) independently marketed projects - which are activities where only one party manufactures and supplies equipment of its own manufacture.
+In each case of jointly or individually marketed projects, including calls for tenders, the strategy and the determination of which party will be the main contractor will be decided by the steering committee.
+The party acting as main contractor in any individually marketed projects will ensure as far as possible that the other party will be the subcontractor/supplier for all equipment concerned by the agreement, which the main contractor does not manufacture.
+Either party remains free to pursue independently marketed projects.
+Each party agrees to supply to the other party any equipment and spare parts thereof which the other party may request.
+(i) The agreement has an initial term of five years. It will be automatically extended for three-year periods, unless terminated by one party giving at least one year's written notice.
+After the notice of termination of the agreement, licence rights under patents may be extended by request of the licensed party, subject to the parties agreeing upon reasonable and non-discriminatory conditions.
+(j) Should negotiation fail to resolve any dispute which may arise, the parties agree that it be finally settled by arbitration.
+(k) Appendix 1 to the agreement lists and recommends a division of the following equipment between the parties:
+- receiver (RCVR),
+- input multiplexer (IMUX),
+- channel amplifier (CAMP),
+- high power amplifier (HPA),
+- output multiplexer (OMUX),
+- TTC transponder.
+This equipment covers only a relatively small part of the quipment covered by the agreement, and none of it can be considered as a final product, which are complete satellites. The listed devices are incorporated in subsystems such as repeater subsystems, tracking, telemetry and command subsystems. None of the equipment listed above can be used in areas outside space.
+(1) OJ No 13, 21. 2. 1962, p. 204/62.
+(2) OJ No C 179, 15. 7. 1989, p. 9.
+D. The product and the market
+Nature of demand
+(7) The markets for satellites and their components are unusual in that each satellite (or small set of satellites) is a unique project requiring newly developed, or at least highly adapted, components assembled to an individual design dependent on the particular requirements of the customer. This, when combined with the high technology involved, normally implies that each new satellite project requires a substantial input of R&D, which is closely integrated with the production of the satellite and its components, each of which is close to being a prototype. Moreover satellites obviously need to be robust and reliable, but as lightweight as possible. These factors, taken together, imply that satellite customers and their prime contractors insist on a very high degree of cooperation with all the parties involved in the development of any particular satellite.
+Market shares and competitive position
+(8) There are a large number of competitors for manufacturing and sales of the equipment covered by the agreement: about 18 in the EEC, three in Sweden, six in the United States, two in Canada and three in Japan.
+The table gives estimates of the worldwide space related turnover of the principal satellite producers in Europe and the rest of the world:
+(million ecus)
+1.2 // // // Non European // // Hughes // [ . . . ] (1) // General Electric // [ . . . ] // European // // British Aerospace // [ . . . ] // Matra // [ . . . ] // Aerospatiale // [ . . . ] // MBB // [ . . . ] // Selenia Spazio // [ . . . ] // Alcatel Espace // [ . . . ] // Marconi // [ . . . ] // Aeritalia // [ . . . ] // ANT // [ . . . ] // //
+As can be seen from these figures, Alcatel and ANT's combined turnover in this area is less than several other European manufacturers and is many times less than that of some non-European manufacturers.
+Even if the relevant market is narrowly defined as the items covered by the field of cooperation, and is geographically restricted to EC-based customers, the parties' combined market share is under 20 %. If account is taken of the worldwide market, or of the overall satellite market, their combined market share is much lower.
+Moreover, there is thought to be a substantial 'learning curve' for all aspects of satellite production, so that the more similar space projets a firm is involved with (both civil and military), the more effectively it can develop and produce new satellites or their components. This effect particularly benefits the United States space industry, where the number of space projects is higher than in Europe, the overall budgets allocated to space activities in the United States and Europe in 1986 being as follows:
+(billion US $)
+1.2 // // // USA // // - Department of Defense // 14 // - NASA // 7 // // // Total // 21 // // // Europe // // - National budgets // 0,84 // - European Space Agency (ESA) // 1,36 // // // Total // 2,20 // //
+(Source: Euroconsult.)
+Thus, taking advantage of their strong worldwide positions and of the size of their domestic market, certain non-European space manufacturers can afford R&D budgets and/or financial and commercial resources far exceeding those of their European competitors and can therefore cover a much wider range of activities in space electronic equipment, subsystems and systems.
+This may explain why European manufacturers only compete at the subsytem level and at the equipment level, whilst other manufacturers compete at the full final product level, which naturally influences the structure of competition.
+The share of the parties of the total cost of a satellite (launch excluded) may vary significantly from a very low percentage when their procurement is limited to a single device to, exceptionally, about half, if they are responsible for the whole payload of a telecommunications satellite.
+For all these reasons, Community companies with only relatively small involvement in satellite
+technology find it difficult to compete with other larger non-European competitors.
+These factors have allowed non-European competitors to win the contracts for a number of recent EC projects such as the Astra/SES and British Satellite Broadcasting direct broadcasting satellites.
+The geographical market
+(9) In view of the high prices of the final products, transport costs to the launch site are un
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+en Member States.
+(16) The agreement therefore falls within the scope of Article 85 (1) of the Treaty.
+B. Regulation (EEC) No 418/85
+(17) Commission Regulation (EEC) No 418/85 (3) provides that the categories of research and development agreements the contents of which are in accordance with its conditions, are exempted by category from the prohibition of Article 85 (1) of the Treaty. Moreover, the exemption may be extended to certain agreements containing other restrictions by means of an 'opposition' procedure.
+The agreement establishes a cooperation structure between the parties that goes beyond the object and scope of Regulation (EEC) No 418/85 and the parties have not asked the Commission to apply the 'opposition' procedure. In fact, the cooperation between the parties is not limited to R&D and exploitation of the results, but extends to the marketing of the products. So, when they have agreed to bid jointly for the contract for a satellite, they obviously must agree on the bid price and so are restricted in their determination of prices. This implies, inter alia, that the agreement falls within the scope of Article 6 (d) of that Regulation. Therefore, even though the parties' Community market share is below 20 %, Regulation (EEC) No 418/85 is not applicable to the present case, nor could it be extended to cover this case by means of the opposition procedure.
+C. Article 85 (3) of the EEC Treaty
+(18) The jointly agreed programme of research and development by the contracting parties is such as to promote technical and economic progress.
+The equipment covered by the agreement is technically very sophisticated. Its development is extremely costly and requires a high degree of skill. The efforts and risks involved, if they could be supported independently by the parties, would most certainly not lead to results as rapid, efficient and economic as those envisaged.
+The level of individual R&D investment is intended to remain the same for each party, which will lead to a more efficient use of this expenditure. The degree of specialization for certain equipment achieved by both parties by means of this optimization of R&D investment will enable the parties to develop a wider product range of equipment to be offered to customers.
+Under every space programme each piece of equipment is developed as a prototype and the rationalization expected will lead to the supply of higher-quality equipment at lower costs. Moreover, repetitive development experience, on equipment prototypes belonging to the same class, may result in the parties reaching a level of production comparable to that already achieved by other manufacturers of satellites. Given the number and importance of other competitors in this field it is most unlikely that the reduction of competition between these two competitors will allow them to increase their prices in any significant way.
+The cooperation deriving from the agreement is excepted to lead not only to improved and more rapid technical solutions, but also to avoid duplication of R&D effort, hence allowing the achievement of cost savings.
+The agreement thus contributes to promoting technical progress. This benefit can be excepted to be passed on to customers in terms of improved products.
+(19) The agreement only imposes restrictions on the parties which are indispensable to the attainment of these objectives.
+The field covered by the agreement and the objectives of the R&D programme are well defined. Nothing under the agreement prohibits either party from engaging in any activity outside the scope of the agreement or constitutes a commitment to a final apportionment of the equipment covered by the agreement.
+The slight preference given to the other party in terms of subcontracting is merely an element of the somewhat complex arrangement for specialization of R&D and production.
+The fact that each party is bound not do to develop certain equipment entrusted to the other flows from that very rationalization which is the reason for their expected improved results and increased competitiveness.
+(20) The nature of demand in this case implies that the option of joint R&D, joint manufacturing, but separate marketing is not practical. This results from the close cooperation that is necessary between the customer, prime stallite contractor and subcontractors (such as the parties). Customers and their prime contractors insist on knowing, in great detail, who has manufactured which items, and all the relevant technical detail as there is normally no way of repairing a satellite once in orbit. Competition normally takes place by customers' calling for tenders which are then submitted by consortia formed on a case-by-case basis. If separate marketing were attempted, then in any project for which both parties wished to bid, each party would have, at the same time, to promote its own package, and to assist the other in promoting that party's rival package to the final customer, either within one consortium or as part of rival consortia. Thus the same technical experts would have, twice over, to describe and promote an identical technical package to the same customer. In this context the customer may have doubts as to whether the two parties, having failed to cooperate commercially on a joint bid, could in fact successfully cooperate technically. This might lead them to buy elsewhere. This implies that, in this particular case, the benefits of joint R&D and joint manufacture can only be achieved if they are combined with a degree of joint marketing.
+Moreover, the agreement allows for independent actions (independently marketed projects) and/or usual contractual schemes of relations, e.g. co-contracting (jointly marketed projects), subcontracting and/or purchasing (individually marketed projects). Competitive conditions in terms of performance, price and delivery schedules are required for procurement by and between the parties who are allowed to consider competing proposals from third parties and to purchase from them.
+In the case of independently marketed projects, which either party is free to pursue, the party which did not develop an item of equipment can obtain it either by buying it from the developing party, or by procuring it from third parties who offer better conditions in terms of performance, price and delivery schedules.
+The above implies that where, exceptionally, separate marketing is a viable option, the parties may choose it.
+(21) The parties' market share, however defined, is not high, and there are many other large manufacturers both within the Community and elsewhere in the world who are active or potential competitors in the common market. Some of these have a larger range of products and far larger sales than the parties. Thus the agreement, on its own, could not allow the parties to eliminate competition in the common market for these products.
+(22) Accordingly, all the conditions set out in Article 85 (3) of the EEC Treaty are fulfilled.
+D. Article 8 of Regulation No 17
+(23) Pursuant to Article 8 (1) of Regulation No 17, a decision in application of Article 85 (3) of the Treaty is to be issued for a specified period and conditions and obligations may be attached thereto.
+(24) The agreement can be authorized under Article 85 (3) from the date of notification, namely 28 July 1986, and until termination of the agreement, but in any case not later than 31 December 1996.
+(25) The conditions for exemption are fulfilled for the stated period, in the light of the special circumstances in this case.
+(26) The exemption relates solely to the notified agreement, and does not cover any extensions in the scope of the agreement. In this case, the structure necessary to obtain the benefits of R&D cooperation and manufacturing specialization requires a much higher degree of coordination between the parties than would be acceptable in more usual specialization or R&D cooperation agreement, and in this respect may be closer to the degree of coordination achieved in a joint venture.
+This makes it necessary for the Commission to monitor whether this agreement, in combination with other joint actions by the parties, may lead to a substantial reduction of competition, as such a reduction might imply that the conditions necessary for an exemption would no longer be valid. Accordingly this Decision must be conditional on the parties promptly informing the Commission of the conclusion of any agreement or contract which modifies, replaces, or cancels the notified agreement; or any important joint activity by the parties relating to space electronic equipment outside the terms of the notified agreement,
+HAS ADOPTED THIS DECISION:
+Article 1
+Pursuant to Article 85 (3) of the EEC Treaty, the provisions of Article 85 (1) are hereby declared inapplicable to the agreement signed on 11 February 1986 between Alcatel Espace SA and ANT Nachrichtentechnik GmbH, and notified on 28 July 1986.
+Article 2
+The following obligation is attached to the declaration in Article 1:
+- the parties shall inform the Commission without delay of contracts or agreements concluded between themselves by which the notified Agreement is modified, replaced or cancelled,
+- each party shall further inform the Commission of any other contracts or agreements it concludes, either with third parties or with the other party, which relate to joint activities in the field of electronic space equipment, provided such contracts or agreements relate to major business issues (in volume or in strategic importance) and cannot be considered cooperation in respect of single projects.
+Article 3
+This Decision shall apply with effect from 28 July 1986 and shall apply until 31 December 1996.
+Article 4
+This Decision is addressed to:
+1. Alcatel Espace SA, 11 avenue Dubonnet, F-92107 Courbevoie.
+2. ANT Nachrichtentechnik GmbH, Gerberstrasse 33, D-7150 Backnang.
+Done at Brussels, 12 January 1990.
+For the Commission
+Leon BRITTAN
+Vice-President
+(1) OJ No L 53, 22. 2. 1985, p. 5.

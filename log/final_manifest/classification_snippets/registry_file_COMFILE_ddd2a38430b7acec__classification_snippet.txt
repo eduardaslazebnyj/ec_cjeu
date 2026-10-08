@@ -1,0 +1,552 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN
+COMMISSION
+
+Brussels, 9.7.2014
+C(2014) 4955 final
+
+COMMISSION DECISION
+
+of 9.7.2014
+
+addressed to
+- Servier S.A.S.
+- Servier Laboratories Limited
+- Les Laboratoires Servier
+- Biogaran
+- Krka, tovarna zdravil, d.d., Novo mesto
+- Lupin Limited
+- Mylan Laboratories Limited
+- Mylan Inc.
+- Niche Generics Limited
+- Teva UK Limited
+- Teva Pharmaceutical Industries Ltd
+- Teva Pharmaceuticals Europe B.V.
+- Unichem Laboratories Limited
+
+relating to a proceeding under Article 101 and Article 102 of the Treaty on the
+Functioning of the European Union
+
+AT.39612 – PERINDOPRIL (SERVIER)
+
+(Only the English and French texts are authentic)
+
+EN EN
+
+Contents
+Introduction ................................................................................................................................ 5
+1 The Parties .................................................................................................................... 8
+1.1 Servier .......................................................................................................................... 8
+1.2 Generic companies, which entered into a reverse payment settlement with Servier,
+and which are addressees of this Decision ................................................................... 9
+1.3 API producers that sold their enabling technology to Servier but are not addressees of
+this Decision ............................................................................................................... 13
+2 Procedure .................................................................................................................... 14
+2.1 Chronology of the Commission's investigation ......................................................... 14
+2.2 Main evidence relied on and procedural steps ........................................................... 15
+3 Regulatory framework ............................................................................................... 18
+3.1 Patent system .............................................................................................................. 18
+3.2 Marketing Authorisation ............................................................................................ 20
+3.3 The European Pharmacopoeia.................................................................................... 22
+3.4 Pricing and Reimbursement ....................................................................................... 23
+4 Practices under investigation...................................................................................... 24
+4.1 Overview of practices and underlying strategies ....................................................... 24
+4.2 Acquisition of IPRs .................................................................................................... 60
+4.3 Patent settlements ....................................................................................................... 94
+5 Assessment of patent settlement agreements between Servier and its counterparties
+under Article 101 of the Treaty ................................................................................ 239
+5.1 General competition law assessment of patent settlement agreements .................... 239
+5.2 Assessment of the Niche/Unichem Settlement Agreement ..................................... 291
+5.3 Assessment of the Matrix Settlement Agreement .................................................... 324
+5.4 Assessment of the Teva Settlement Agreement ....................................................... 346
+5.5 Assessment of the Krka agreements ........................................................................ 385
+5.6 Assessment of the Lupin Settlement ........................................................................ 440
+5.7 Application of Article 101(3) of the Treaty ............................................................. 492
+5.8 Duration of the infringements of Article 101 of the Treaty ..................................... 508
+6 Final product market ................................................................................................ 511
+6.1 Supply and demand structure ................................................................................... 512
+6.2 Description of perindopril ........................................................................................ 514
+6.3 Description of the universe ...................................................................................... 541
+6.4 Overview of the facts concerning the sales of perindopril ....................................... 554
+6.5 Assessment of dominance on the product market .................................................... 606
+
+EN 2 EN
+
+7 Technology market ................................................................................................... 662
+7.1 Introduction .............................................................................................................. 662
+7.2 The relevant technology market ............................................................................... 664
+7.3 Dominance in the perindopril API technology market ............................................ 679
+8 Economic and legal assessment of Servier's acquisition of technology and patent
+settlements concluded by Servier under Article 102 of the Treaty .......................... 698
+8.1 Servier's general strategy to delay generic entry ...................................................... 699
+8.2 Assessment of the Azad Technology Acquisition ................................................... 706
+8.3 Servier's strategy to remove the close sources of competition as implemented through
+a series of patent settlement agreements with generic companies ........................... 736
+8.4 The Azad Technology Acquisition and the reverse payment patent settlements
+constitute a single and continuous infringement of Article 102 of the Treaty ......... 748
+9 Addressees of this decision ...................................................................................... 758
+9.1 Principles .................................................................................................................. 758
+9.2 Servier ...................................................................................................................... 760
+9.3 Niche and Unichem .................................................................................................. 763
+9.4 Matrix (now called Mylan Laboratories Limited) ................................................... 767
+9.5 Teva .......................................................................................................................... 774
+9.6 Krka .......................................................................................................................... 775
+9.7 Lupin ........................................................................................................................ 775
+10 Remedies and fines .................................................................................................. 776
+10.1 Remedies .................................................................................................................. 776
+10.2 Fines ......................................................................................................................... 776
+11 Conclusion................................................................................................................ 806
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 9.7.2014
+
+addressed to
+- Servier S.A.S.
+- Servier Laboratories Limited
+- Les Laboratoires Servier
+- Biogaran
+- Krka, tovarna zdravil, d.d., Novo mesto
+- Lupin Limited
+- Mylan Laboratories Limited
+- Mylan Inc.
+- Niche Generics Limited
+- Teva UK Limited
+- Teva Pharmaceutical Industries Ltd
+- Teva Pharmaceuticals Europe B.V.
+- Unichem Laboratories Limited
+
+relating to a proceeding under Article 101 and Article 102 of the Treaty on the
+Functioning of the European Union
+
+AT.39612 – PERINDOPRIL (SERVIER)
+
+(Only the English and French texts are authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union1,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decisions of 2 July 2009 and 27 July 2012 to initiate
+proceedings in this case,
+
+1 OJ, C 115, 9/5/2008, p.47. Any reference to the European Union or its Member States in this Decision
+should be understood as not including Croatia, since Croatia was not a Member State of the European
+Union at the time of the investigated conduct, in the period from 2004 until 2009.
+2 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU", hereafter also referred to as "the Treaty"). The two sets of provisions are, in substance,
+identical. For the purposes of this Decision, references to Articles 101 and 102 of the Treaty should be
+understood as references to Articles 81 and 82, respectively, of the EC Treaty where appropriate. The
+TFEU also introduced certain changes in terminology, such as the replacement of "Community" by
+"Union" and "common market" by "internal market". Where the meaning remains unchanged, the
+terminology of the TFEU will be used throughout this Decision.
+
+EN 4 EN
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty,3
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,4
+
+Whereas:
+
+INTRODUCTION
+(1) Perindopril is a so-called angiotensin converting enzyme (ACE) inhibitor used for
+the treatment of cardiovascular diseases e.g. high blood pressure. Once confirmed as
+a successful treatment for a patient in an initial trial period, the patient typically takes
+the medicine over many years and is unlikely to switch to an alternative medicine,
+even when these alternatives become significantly cheaper than perindopril due to
+generic entry.
+(2) Perindopril became Servier's most successful product, with annual global sales for
+the years 2006 and 2007 exceeding USD 1 billion (making it a blockbuster drug),5
+accounting for approximately 30% of Servier's total turnover. According to Servier's
+own data (collected for the thirteen largest EU national markets), its average annual
+operating margins over the production and distribution of plain perindopril in the
+period 2000-2008 exceeded [90–100]* % in every year, making perindopril a highly
+profitable product.
+(3) Generic entry for products like perindopril typically leads to two notable changes in
+the market. First, there is a significant decrease in prices6 and secondly there are
+substantial volume shifts from the originator company to the generic companies.
+Servier therefore had strong incentives to delay generic entry for as long as possible.
+(4) Servier started to devise, constantly update and implement its anti-generics strategy
+from the late 1990s onwards, if not before. Generic entry on the most important
+markets, such as the United Kingdom of Great Britain and Northern Ireland
+(hereinafter "the UK" or "the United Kingdom") and France, would happen, in
+principle, after the expiry of the perindopril compound patent – as extended by the
+supplementary protection certificate ("SPC") - in 2003/2005.7 Servier pursued its
+objective to delay or prevent generic entry by making use of a great variety of
+instruments. This Decision does not qualify each and every one of these practices as
+infringements but they all form part of Servier's overall and comprehensive strategy
+
+3 OJ L 123, 27.4.2004, p. 18.
+4 OJ not yet published.
+5 In FY2005, Servier reported the turnover of EUR [400–500]* million (USD [500–600]* million, based
+on the ECB exchange rate of USD/EUR 1.2042 on 30 September 2005) generated with the sales of
+plain perindopril in EU25 (ID7619).
+6 For example, price drops of up to 90% were observed upon generic entry to the UK market. Please see
+section 6.4.1.4 for greater detail.
+7 For the precise dates of SPC expiries, please consult Table 2 in section 4.1.1.2. Also, see
+paragraph (68).
+
+EN 5 EN
+
+against generic companies. They are thus relevant to fully understand the
+infringements described in the Decision. For the UK market, Servier noted on the eve
+of actual generic entry in July 2007, that its anti-generics strategy had been very
+successful: "*4 years gained = great success".8
+(5) The most important elements of Servier's anti-generic strategy can be summarised as
+follows. Between 2000 and 2005, Servier applied for and obtained a number of
+process and crystalline form patents, which Servier internally referred to as
+"*blocking patent" or "*paper patent". According to Servier's own assessment, some
+of them involved "zero inventive activity".9 The broadest protection resulted from the
+EP 1 296 947 patent (hereinafter "the '947 patent") for the "alpha crystalline form".10
+This patent was perceived by generic companies as the most significant obstacle to
+market entry. Ultimately it was annulled, first in certain national jurisdictions, like
+the Court of Appeal of England and Wales ("the Court of Appeal").11 The European
+Patent Office ("EPO") also revoked the patent in May 2009.
+(6) In the period from 2001 to 2009, there were a limited number of technologies for the
+production of perindopril that would not be covered by Servier's patents. Servier
+followed the market very closely. When Servier learnt that a producer of active
+pharmaceutical ingredients ("API") claimed to have found an alternative – possibly
+non-infringing - way to produce perindopril, Servier acquired these technologies and
+removed them as a competitive source from the market. In fact, Servier bought two
+technologies, one in 2001 from [company name and nationality]* and one in 2004
+from Swiss company Azad. Servier purchased the latter with the explicit purpose to
+"strengthen the defense mechanism"12 for perindopril. Through these acquisitions,
+Servier not only eliminated direct competition from the patent holders themselves but
+also removed them as a source of essential inputs (notably supplies of API, and
+licences) for other potential generic entrants. The generic companies noted on this
+practice: "once an API manufacturer has got around the process patents, Servier has
+bought the company, sourcing API has been very difficult ".13
+(7) When Servier learnt about generic co
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+sion,
+(1) Servier S.A.S.; Les Laboratoires Servier; Servier Laboratories Limited;
+Biogaran; Niche Generics Limited; Unichem Laboratories Limited; Matrix
+Laboratories Limited (now Mylan Laboratories Limited); Mylan Inc.; Teva UK
+Limited; Teva Pharmaceuticals Europe B.V.; Teva Pharmaceutical Industries
+Ltd; Krka, tovarna zdravil, d.d., Novo mesto; and Lupin Limited should be
+held liable for the infringement of Article 101 of the Treaty, and fines should
+be imposed on them pursuant to Article 23(2) of Regulation (EC) No 1/2003;
+(2) Servier S.A.S. and Les Laboratoires Servier should be held liable for the
+infringement of Article 102 of the Treaty and fines should be imposed on them
+pursuant to Article 23(2) of Regulation (EC) No 1/2003.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings infringed Article 101 of the Treaty by participating in an
+agreement, for the period of the infringement indicated below, covering all Member
+States except Italy and Croatia, as follows:
+(a) Unichem:
+(i) Niche Generics Limited;
+(ii) Unichem Laboratories Limited.
+(b) Servier:
+(i) Servier S.A.S.;
+(ii) Les Laboratoires Servier;
+(iii) Servier Laboratories Limited;
+(iv) Biogaran.
+The start date of the infringement was 8 February 2005, except as regards: Latvia,
+where the infringement started on 1 July 2005; Bulgaria and Romania, where the
+infringement started on 1 January 2007; and Malta, where the infringement started on
+1 March 2007.
+The end date of the infringement was 15 September 2008, except as regards: the
+United Kingdom, where the infringement ended on 6 July 2007; and the Netherlands,
+where the infringement ended on 12 December 2007.
+
+Article 2
+The following undertakings infringed Article 101 of the Treaty by participating in an
+agreement, for the period of the infringement indicated below, covering all Member
+States except Italy and Croatia, as follows:
+(a) Mylan:
+
+EN 806 EN
+
+(i) Mylan Laboratories Limited (formerly known as Matrix Laboratories
+Limited), for the entire period of this infringement;
+(ii) Mylan Inc., from 8 January 2007 until the end date of the infringement.
+(b) Servier:
+(i) Servier S.A.S., for the entire period of this infringement;
+(ii) Les Laboratoires Servier, for the entire period of this infringement.
+The start date of the infringement was 8 February 2005, except as regards: Latvia,
+where the infringement started on 1 July 2005; Bulgaria and Romania, where the
+infringement started on 1 January 2007; and Malta, where the infringement started on
+1 March 2007.
+The end date of the infringement was 15 September 2008, except as regards: the
+United Kingdom, where the infringement ended on 6 July 2007; and the Netherlands,
+where the infringement ended on 12 December 2007.
+
+Article 3
+The following undertakings infringed Article 101 of the Treaty by participating, from
+13 June 2006 to 6 July 2007, in an agreement covering the United Kingdom:
+(a) Teva:
+(i) Teva UK Limited;
+(ii) Teva Pharmaceuticals Europe B.V.;
+(iii) Teva Pharmaceutical Industries Ltd.
+(b) Servier:
+(i) Servier S.A.S.;
+(ii) Les Laboratoires Servier;
+(iii) Servier Laboratories Limited.
+
+Article 4
+The following undertakings infringed Article 101 of the Treaty by participating, for
+the period of the infringement indicated below, in three agreements which constitute
+a single and continuous infringement, covering all Member States except Croatia, the
+Czech Republic, Hungary, Latvia, Lithuania, Poland, Slovakia and Slovenia:
+(a) Krka:
+(i) Krka, tovarna zdravil, d.d., Novo mesto.
+(b) Servier:
+(i) Servier S.A.S.;
+(ii) Les Laboratoires Servier.
+The start date of the infringement was 27 October 2006, except as regards: Bulgaria
+and Romania, where the infringement started on 1 January 2007; Malta, where the
+infringement started on 1 March 2007; and Italy, where the infringement started on
+13 February 2009.
+
+EN 807 EN
+
+The end date of the infringement was 6 May 2009, except as regards: the United
+Kingdom, where the infringement ended on 6 July 2007; and the Netherlands, where
+the infringement ended on 12 December 2007.
+
+Article 5
+The following undertakings infringed Article 101 of the Treaty by participating, for
+the period of the infringement indicated below, in an agreement covering all Member
+States except Croatia:
+(a) Lupin:
+(i) Lupin Limited.
+(b) Servier:
+(i) Servier S.A.S.;
+(ii) Les Laboratoires Servier.
+The start date of the infringement was 30 January 2007, except as regards: Malta,
+where the infringement started on 1 March 2007; and Italy, where the infringement
+started on 13 February 2009.
+The end date of the infringement was 6 May 2009, except as regards: the United
+Kingdom, where the infringement ended on 6 July 2007; the Netherlands, where the
+infringement ended on 12 December 2007; and France, where the infringement
+ended on 16 September 2008.
+
+Article 6
+
+The following undertakings infringed Article 102 of the Treaty by devising and
+implementing through a technology acquisition and five reverse payment patent
+settlement agreements, for the period of the infringement indicated below, an
+exclusionary strategy which amounted to a single and continuous infringement,
+covering the perindopril formulation market in France, the Netherlands, Poland and
+the United Kingdom and the market for perindopril API technology:
+(a) Servier:
+(i) Servier S.A.S.;
+(ii) Les Laboratoires Servier.
+The start date of the infringement was 9 November 2004. The end date of the
+infringement was 6 May 2009, except as regards: the United Kingdom, where the
+infringement ended on 6 July 2007; and the Netherlands, where the infringement
+ended on 12 December 2007.
+
+Article 7
+
+1. For the infringement referred to in Article 1, the following fines are imposed:
+(a) Niche Generics Limited and Unichem Laboratories Limited, jointly and
+severally liable: EUR 13 968 773;
+(b) Servier S.A.S.; Les Laboratoires Servier; Servier Laboratories Limited, and
+Biogaran, jointly and severally liable: EUR 131 532 600.
+
+EN 808 EN
+
+2. For the infringement referred to in Article 2, the following fines are imposed:
+(a) Mylan Laboratories Limited: EUR 17 161 140, of which EUR 8 045 914,
+jointly and severally liable with Mylan Inc.;
+(b) Servier S.A.S. and Les Laboratoires Servier, jointly and severally liable:
+EUR 79 121 700.
+
+3. For the infringement referred to in Article 3, the following fines are imposed:
+(a) Teva UK Limited; Teva Pharmaceuticals Europe B.V. and Teva
+Pharmaceutical Industries Ltd, jointly and severally liable: EUR 15 569 395;
+(b) Servier S.A.S.; Les Laboratoires Servier and Servier Laboratories Limited,
+jointly and severally liable: EUR 4 309 000.
+
+4. For the infringement referred to in Article 4, the following fines are imposed:
+(a) Krka, tovarna zdravil, d.d., Novo mesto: EUR 10 000 000;
+(b) Servier S.A.S. and Les Laboratoires Servier, jointly and severally liable:
+EUR 37 661 800.
+
+5. For the infringement referred to in Article 5, the following fines are imposed:
+(a) Lupin Limited: EUR 40 000 000;
+(b) Servier S.A.S. and Les Laboratoires Servier, jointly and severally liable:
+EUR 37 102 100.
+
+6. For the infringement referred to in Article 6, the following fines are imposed:
+(a) Servier S.A.S.: EUR 41 270 000,
+of which EUR 41 270 000, jointly and severally liable with Les Laboratoires
+Servier.
+
+The fines shall be credited, in euros, within a period of three months from the date of notification
+of this Decision to the following bank account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI /AT.39612
+
+After the expiry of this period, interest will automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking must cover the
+fine by the due date, either by providing an acceptable financial guarantee, or by making a
+
+EN 809 EN
+
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/20124143.
+
+Article 8
+The undertakings listed in Articles 1 to 6 shall refrain from repeating any act or conduct
+described in Articles 1 to 6, and from any act or conduct having the same or similar object or
+effect.
+
+Article 9
+This Decision is addressed to:
+
+Servier S.A.S. 50 rue Carnot
+
+Société par actions simplifiée 92284 Suresnes cedex
+
+France
+
+Servier Laboratories Limited Rowley, Wexham Springs
+
+Private company limited by shares Framewood Road, Wexham, Slough
+
+SL3 6PJ
+
+United Kingdom
+
+Les Laboratoires Servier 50 rue Carnot
+
+Société par actions simplifiée 92284 Suresnes cedex
+
+France
+
+Biogaran 15 boulevard Charles de Gaulle
+
+Société par actions simplifiée 92707 Colombes cedex
+
+France
+
+Krka, tovarna zdravil, d.d., Novo mesto Šmarješka cesta 6
+
+8501 Novo mesto
+
+Slovenia
+
+4143 OJ L 362, 31.12.2012, p. 1.
+
+EN 810 EN
+
+Lupin Limited B/4 Laxmi Towers
+
+Bandra Kurla Complex
+
+Mumbai
+
+400 051 Maharashtra
+
+India
+
+Mylan Laboratories Limited Plot No. 564/A/22
+
+Road No. 92
+
+Jubilee Hills
+
+Hyderabad 500 034
+
+Andhra Pradesh
+
+India
+
+Mylan Inc. 1000 Mylan Boulevard
+
+Canonsburg
+
+PA, 15317
+
+United States
+
+Niche Generics Limited 1 The Cam Centre
+
+Wilbury Way
+
+Hitchin
+
+Hertfordshire
+
+SG4 0TW
+
+United Kingdom
+
+Unichem Laboratories Limited Unichem Bhavan
+
+Prabhat Estate
+
+Off S. V. Road
+
+Jogeshwari (West)
+
+Mumbai – 400 102
+
+India
+
+EN 811 EN
+
+Teva UK Limited Ridings Point
+
+Whistler Drive
+
+Castleford
+
+West Yorkshire, WF 10 5HX
+
+United Kingdom
+
+Teva Pharmaceuticals Europe B.V. Piet Hein Building, Piet Heinkade 107
+
+1019 GM Amsterdam
+
+The Netherlands
+
+Teva Pharmaceutical Industries Ltd 5 Basel Street
+
+P.O. Box 3190
+
+49131 Petach Tikva
+
+Israel
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+
+Done at Brussels, 9 July 2014
+
+For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+EN 812 EN

@@ -1,0 +1,619 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION EUROPÉENNE
+
+AFFAIRE N° AT.39610 - Câbles électriques
+
+(Les textes en langues anglaise, française, allemande et italienne sont les seuls faisant foi.)
+
+PROCEDURE CARTEL
+
+Règlement (CE) n° 1/2003 du Conseil
+
+Articles 7 et 23(2) Règlement (CE) n° 1/2003 du Conseil
+
+Date: 02/04/2014
+
+Ce texte n'est publié qu'à fin d'information. Un résumé de la présente décision est publié dans
+toutes les langues de l'UE au Journal officiel de l'Union européenne.
+
+Certains passages du présent document ont été supprimés afin qu'aucune information
+confidentielle ne soit divulguée. Ces passages sont remplacés par un résumé non confidentiel
+figurant entre crochets ou sont indiqués par le symbole [...].
+
+FR FR
+
+TABLE DES MATIÈRES
+
+1. Le secteur objet de la procédure ................................................................................... 6
+1.1. Les produits couverts par l’infraction .......................................................................... 6
+1.2. Les opérateurs du marché impliqués dans l’infraction ................................................ 8
+1.3. Description du secteur ................................................................................................ 12
+1.3.1. L’offre ........................................................................................................................ 12
+1.3.2. La demande ................................................................................................................ 13
+1.4. Commerce interétatique ............................................................................................. 14
+2. L’enquête de la Commission ...................................................................................... 14
+3. Description des faits ................................................................................................... 17
+3.1. Origine de l’entente .................................................................................................... 17
+3.2. Objectifs de l’entente ................................................................................................. 17
+3.3. Mise en œuvre de l’entente ........................................................................................ 17
+3.3.1. Mécanismes d’attribution de la configuration A/R de l’entente ................................ 19
+3.3.1.1. Territoires nationaux .................................................................................................. 19
+3.3.1.2. Territoires d’exportation ............................................................................................ 21
+3.3.1.3. Territoires libres ......................................................................................................... 22
+3.3.1.4. Communications et contrôle entre R et A .................................................................. 23
+3.3.2. Mécanismes d’attribution de la configuration européenne de l’entente .................... 27
+3.3.2.1. Communications et contrôles entre membres R ......................................................... 28
+3.4. Chronologie des contacts clés .................................................................................... 29
+3.5. Arguments des parties concernant la fiabilité des preuves ...................................... 131
+3.6. Discussion et conclusions concernant les éléments de preuve ................................. 132
+4. Application de l’article 101, paragraphe 1, du traité et de l’article 53, paragraphe 1,
+de l’accord EEE ........................................................................................................ 134
+4.1. Lien entre le traité et l’accord EEE .......................................................................... 134
+4.2. Compétence .............................................................................................................. 134
+4.2.1. Arguments des parties .............................................................................................. 135
+4.2.2. Discussion et conclusions ........................................................................................ 135
+4.3. Application des règles de concurrence en l’espèce .................................................. 136
+4.3.1. Article 101, paragraphe 1, du traité et article 53, paragraphe 1, de l’accord EEE ... 136
+4.3.2. Accords et pratiques concertées ............................................................................... 137
+4.3.2.1. Principes ................................................................................................................... 137
+4.3.2.2. Arguments des parties .............................................................................................. 140
+
+FR 2 FR
+
+4.3.2.3. Discussion et conclusions ........................................................................................ 141
+4.3.3. Infraction unique et continue ................................................................................... 148
+4.3.3.1. Principes ................................................................................................................... 148
+4.3.3.2. Arguments des parties .............................................................................................. 150
+4.3.3.3. Application et conclusions ....................................................................................... 151
+4.3.4. Restriction de la concurrence ................................................................................... 174
+4.3.4.1. Principes ................................................................................................................... 174
+4.3.4.2. Arguments des parties .............................................................................................. 175
+4.3.4.3. Discussion et conclusions ........................................................................................ 176
+4.3.5. Effet sur le commerce entre États membres et entre les parties contractantes à
+l’accord EEE ............................................................................................................ 186
+4.3.5.1. Principes ................................................................................................................... 186
+4.3.5.2. Arguments des parties .............................................................................................. 187
+4.3.5.3. Discussion et conclusions ........................................................................................ 187
+4.3.6. Application de l’article 101, paragraphe 3, du traité et de l’article 53, paragraphe 3,
+de l’accord EEE ........................................................................................................ 188
+4.3.7. Dispositions des règles de concurrence applicables à l’Islande, au Liechtenstein et à
+la Norvège ainsi qu’aux pays de l’élargissement de l’Union de 2004 et 2007 ........ 189
+5. Destinataires ............................................................................................................. 189
+5.1. Principes ................................................................................................................... 189
+5.2. Application en l’espèce ............................................................................................ 194
+5.2.1. Nexans ...................................................................................................................... 194
+5.2.2. Pirelli/Prysmian/Goldman Sachs ............................................................................. 198
+5.2.3. Sumitomo et Hitachi ................................................................................................ 220
+5.2.4. JPS ............................................................................................................................ 221
+5.2.5. Furukawa et Fujikura ............................................................................................... 224
+5.2.6. VISCAS.................................................................................................................... 224
+5.2.7. ABB.......................................................................................................................... 234
+5.2.8. Brugg ........................................................................................................................ 235
+5.2.9. Sagem/Safran/Silec .................................................................................................. 235
+5.2.10. Silec/General Cable .................................................................................................. 236
+5.2.11. Showa et Mitsubishi ................................................................................................. 236
+5.2.12. EXSYM Corporation ............................................................................................... 237
+5.2.13. nkt ............................................................................................................................. 246
+5.2.14. LS Cable ................................................................................................................... 248
+5.2.15. Taihan ....................................................................................................................... 248
+
+FR 3 FR
+
+6. Durée de l’infraction ................................................................................................ 249
+6.1. Date de début pour chaque entreprise ...................................................................... 249
+6.2. Date de fin pour chaque entreprise ........................................................................... 252
+7. SANCTIONS ........................................................................................................... 260
+7.1. Article 7 du règlement (CE) n° 1/2003 .................................................................... 260
+7.2. Article 23, paragraphe 2, du règlement (CE) n° 1/2003 .......................................... 261
+7.3. Montant de base de l'amende ................................................................................... 261
+7.3.1. Méthode pour la fixation de l'amende ...................................................................... 261
+7.3.2. La valeur des ventes ................................................................................................. 262
+7.3.2.1. Argumentation des parties et conclusions ................................................................ 265
+7.3.2.2. Conclusions concernant la valeur des ventes et la répartition prévue au point 18 des
+lignes directrices pour le calcul des amendes .......................................................... 269
+7.3.3. Détermination du montant de base de l'amende ....................................................... 273
+7.3.3.1. Gravité ...................................................................................................................... 274
+7.3.3.2. Durée ........................................................................................................................ 277
+7.3.3.3. Montant additionnel ................................................................................................. 279
+7.3.3.4. Calcul des montants de base et conclusions ............................................................. 280
+7.4. Ajustements du montant de base .............................................................................. 281
+7.4.1. Circonstances aggravantes ....................................................................................... 281
+7.4.2. Circonstances atténuantes ........................................................................................ 281
+7.4.3. Argumentation des parties et conclusions de la Commission .................................. 282
+7.4.4. Coefficient multiplicateur de dissuasion .................................................................. 288
+7.5. Application de la limite de 10% du chiffre d'affaires .............................................. 288
+7.6. Application de de la communication sur la clémence .............................................. 290
+7.6.1. ABB.......................................................................................................................... 291
+7.6.2. JPS, Sumitomo et Hitachi ........................................................................................ 291
+7.6.3. Mitsubishi ................................................................................................................. 293
+7.7. Application rétroactive des lignes directrices pour le calcul des amendes .............. 293
+7.8. Absence de capacité contributive ............................................................................. 294
+7.1. Partage des amendes en cas de responsabilité conjointe et solidaire ....................... 295
+7.2. Montant final des amendes....................................................................................... 296
+
+FR 4 FR
+
+DÉCISION DE LA COMMISSION
+
+du 2.4.2014
+
+adressée à:
+ABB AB, ABB Ltd, Brugg Kabel AG, Kabelwerke Brugg AG Holding, Nexans France
+SAS, Nexans SA, nkt cables GmbH, NKT Holding A/S, Prysmian Cavi e Sistemi S.r.l.,
+Prysmian S.p.A.,The Goldman Sachs Group, Inc., Pirelli & C. S.p.A., Safran SA, Silec
+Cable, SAS, General Cable Corporation, Sumitomo Electric Industries, Ltd., Hitachi
+Metals, Ltd., J-Power Systems Corporation, Furukawa Electric Co. Ltd., Fujikura Ltd.,
+VISCAS Corporation, SWCC SHOWA HOLDINGS CO., LTD., Mitsubishi Cable
+Industries, Ltd., EXSYM Corporation, LS Cable & System Ltd., Taihan Electric Wire
+Co., Ltd.,
+relative à une procédure d’application de l’article 101 du traité sur le fonctionnement de
+l’Union européenne et de l’article 53 de l’accord sur l’Espace économique européen
+AT.39610 - Câbles électriques
+
+(Les textes en langues anglaise, française, allemande et italienne sont les seuls faisant foi.)
+LA COMMISSION EUROPÉENNE,
+vu le traité sur le fonctionnement de l’Union européenne,1
+
+vu l’accord sur l’Espace économique européen,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre
+des règles de concurrence prévues aux articles 81 et 82 du traité,2 et notamment son article 7
+et son article 23, paragraphe 2,
+
+vu la décision de la Commission du 30 juin 2011 d'engager la procédure dans cette affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission conformément à l’article 27, paragraphe 1, du
+règlement (CE) n° 1/2003 et à l’article 12 du règlement (CE) n° 773/2004 de la Commission
+du 7 avril 2004 relatif aux procédures mises en œuvre par la Commission en application des
+articles 81 et 82 du traité,3
+
+après consultation du comité consultatif en matière d’ententes et de positions dominantes,
+
+1 JO C 115 du 09.05.2008, p. 47.
+2 JO L 1 du 04.01.2013, p. 1. Depuis le 1er décembre 2009, les articles 81 et 82 du traité
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+sentant d'entreprise Courriel sur l’attribution du projet britannique «Ormonde».415
+A1] (Nexans), [représentant
+d'entreprise EF2],
+[représentant d'entreprise
+E1] (VISCAS)
+411. 4 avril 2008 [représentant d'entreprise Échange de courriels sur les travaux de réparation à Oslofjord
+B1] (Prysmian), (Norvège) pour Statnett.416
+[représentant d'entreprise
+A2] (Nexans)
+412. 9–10 avril 2008 [représentant d'entreprise Réunion bilatérale sur des commandes de projets, futurs
+Tokyo A1], [représentant projets.417
+d'entreprise A2] (Nexans),
+[représentant d'entreprise
+EF2], [représentant
+d'entreprise E1] (VISCAS)
+413. 10 avril 2008 [représentant d'entreprise Réunion bilatérale. Selon EXSYM et Showa, aucun sujet
+Tokyo A1], [représentant contraire à la concurrence n'a été abordé. Aucune autre
+d'entreprise A2] (Nexans), information disponible.418
+[représentant d'entreprise
+G2] (EXSYM)
+414. 10 avril 2008 [représentant d'entreprise Réunion bilatérale. JPS demande à ne plus être contactée,
+Tokyo A1], [représentant pour des raisons de conformité.419
+d'entreprise A2] (Nexans),
+[représentant d'entreprise
+C1], [représentant
+d'entreprise D4] (JPS)
+415. 24 avril 2008 [représentant d'entreprise Échange de courriels sur plusieurs projets EEE et non-EEE.
+B1] (Prysmian), 420
+[représentant d'entreprise
+A2] (Nexans)
+416. 2 juin 2008 [représentant d'entreprise Réunion bilatérale dans le cadre de la conférence CRU,
+A2] (Nexans), [représentant Barcelone, Espagne. Aucune autre information disponible.421
+d'entreprise B4]
+(Prysmian), [représentant
+d'entreprise I3] (ABB)
+417. 6–10 juin 2008 [représentant d'entreprise Échange de courriels sur l'attribution de projets dans les
+G2] (EXSYM), territoires à l'exportation.422
+[représentant d'entreprise
+A1] (Nexans)
+418. 9 juin 2008 [représentant d'entreprise Courriel concernant l'attribution de projets dans les territoires
+EF2], [représentant à l'exportation.423
+d'entreprise E1] (VISCAS),
+[représentant d'entreprise
+A2], [représentant
+d'entreprise A1] (Nexans)
+
+415 ID [...] inspection chez Nexans.
+416 ID [...] inspection chez Nexans.
+417 ID [...], inspection chez Nexans; ID [...] réponse de VISCAS du 2 septembre 2010 à la demande de
+renseignements du 31 mars 2010.
+418 ID [...], inspection chez Nexans; ID [...], réponse d’EXSYM à la communication des griefs du
+7 septembre 2012.
+419 [...]
+420 ID [...] inspection chez Nexans.
+421 ID [...], réponse de Prysmian du 7 mai 2010 à la demande de renseignements du 31 mars 2010.
+422 ID [...], inspection chez Nexans.
+423 ID [...], inspection chez Nexans.
+
+55
+
+ANNEXE II: NOMS ET FONCTIONS DES PERSONNES CONCERNEES PAR LA PRESENTE DECISION
+
+Nexans France SAS "représentants d'entreprise A"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise A1] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise A2] ID [...] [...] [...]
+[...] [...]
+[représentant d'entreprise A3] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+Nexans SA
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise A4] ID [...] [...] [...]
+[...] [...]
+
+Nexans Iberia SL
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise A5] ID [...] [...] [...]
+
+[...] [...]
+
+[représentant d'entreprise A6]
+
+[représentant d'entreprise A7]
+
+Prysmian Cavi e Sistemi Energia S r l. "représentants d'entreprise B"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise B1] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise B2] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+1
+
+[...] [...]
+[représentant d'entreprise B3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise B4] ID[...] [...] [...]
+[...] [...].
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise B5] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise B6]
+[représentant d'entreprise B7] [...]
+[représentant d'entreprise B8]
+[représentant d'entreprise B9]
+[représentant d'entreprise B10]
+
+Sumitomo Electric Industries, Ltd. "représentant d'entreprise C"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise C1] ID[...] [...]) [...]
+[...] [...]
+[...] [...]
+
+[représentant d'entreprise C2] ID[...] [...] [...].
+[...] [...]
+[...] [...]
+[...] [...].
+[...] [...].
+[...] [...].
+[représentant d'entreprise C3] [...] [...]
+
+Hitachi Cable Ltd. "représentants d'entreprise D"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise D1] ID[...] [...] [...]
+[...] [...]
+[...] [...].
+
+2
+
+[représentant d'entreprise D2] ID[...] [...] [...]
+
+[...] [...]
+
+[représentant d'entreprise D3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise D4] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise D5]
+
+J-Power Systems Corporation " représentants d'entreprise CD"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise CD1]ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise C1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise D3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise C2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise D5] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+[représentant d'entreprise CD2]
+
+3
+
+Furukawa Electric Co. Ltd "représentants d'entreprise E"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise E1] ID[...] [...] [...]
+
+[représentant d'entreprise E2] ID[...], [...]
+ID[...]
+
+[représentant d'entreprise E3] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+Fujikura Ltd. "représentants d'entreprise F"
+
+Nom Durée / fonction Personne morale
+
+[représentant d'entreprise F1] ID [...] [...]
+
+[représentant d'entreprise F2] ID [...] [...] [...]
+
+[...] [...]
+
+[représentant d'entreprise F3] ID [...] [...] [...]
+
+[...] [...]
+
+4
+
+VISCAS Corporation "représentants d'entreprise EF"
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise E1] ID [...] [...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise EF1] ID[...] [...] [...]
+
+[représentant d'entreprise EF2] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+
+représentant d'entreprise EF3] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+
+[représentant d'entreprise EF4] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+[...] [...]
+[représentant d'entreprise F2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise E3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise F3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+5
+
+Showa Electric Wire & Cable Co. Ltd. "représentants d'entreprise G "
+
+Nom Durée / fonction Personne morale
+
+[représentant d'entreprise G1] ID[...] [...] [...]
+
+[représentant d'entreprise G2] ID[...] [...] [...]
+
+[...] [...]
+
+Mitsubishi Cable Industries, Ltd. "représentants d'entreprise H "
+
+Nom Durée / fonction Personne morale
+
+[représentant d'entreprise H1] ID[...] [...] [...]
+
+EXSYM Corporation "représentants d'entreprise GH"
+
+Nom Durée / fonction Personne morale
+
+[représentant d'entreprise H1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+[...] [...]
+[représentant d'entreprise G1] ID[...] [...] [...]
+
+[...] [...]
+[...] [...]
+[représentant d'entreprise G2] ID[...] [...] [...]
+[...] [...]
+
+ABB AB et ABB Power Technologies AB, ABB Power Technology Products AB, ABB High Voltage
+Cables AB "représentants d'entreprise I "
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise I1] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise I2] ID[...] [...] [...]
+
+[représentant d'entreprise I3] ID[...] [...] [...]
+[...] [...]
+
+[...] [...]
+
+[...] [...]
+
+[représentant d'entreprise I4] ID[...] [...] [...]
+
+[...] [...]
+[représentant d'entreprise I5]
+
+6
+
+[représentant d'entreprise I6]
+[représentant d'entreprise I7]
+[représentant d'entreprise I8]
+[représentant d'entreprise I9]
+
+Brugg Kabel AG -"représentants d'entreprise J "
+
+[représentant d'entreprise J1] [...] [...]
+ID[...]
+
+[...] [...]
+[représentant d'entreprise J2] [...] [...]
+ID[...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise J3] [...] [...]
+ID[...] [...] [...]
+
+[...] [...]
+
+nkt cables GmbH "représentants d'entreprise K "
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise K1] ID[...] [...] [...]
+[...] [...]
+[représentant d'entreprise K2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise K3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise K4]
+
+7
+
+Silec Cable, SAS "représentants d'entreprise L "
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise L1] [...] [...]
+ID[...] [...] [...]
+ID[...]
+ID[...]
+ID[...]
+[représentant d'entreprise L2] [...] [...]
+ID[...]
+[...] [...]ID[...]
+ID[...]
+ID[...]
+[représentant d'entreprise L3]
+
+LS Cable & System Ltd. "représentants d'entreprise M "
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise M1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+[...] [...]
+
+[représentant d'entreprise M2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise M3] ID [...] [...] [...]
+[représentant d'entreprise M4] [...] [...]
+
+[représentant d'entreprise M5] [...] [...]
+
+[représentant d'entreprise M6] [...] [...]
+
+[représentant d'entreprise M7] [...] [...]
+
+8
+
+Taihan Electric Wire Co., Ltd. "représentant d'entreprises M "
+
+Nom Durée / fonction Personne morale
+[représentant d'entreprise N1] ID[...] [...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[représentant d'entreprise N2]
+
+[représentant d'entreprise N3]
+
+[représentant d'entreprise X]
+[représentant d'entreprise Y]
+
+9

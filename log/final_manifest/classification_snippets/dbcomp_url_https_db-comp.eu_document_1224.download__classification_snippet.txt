@@ -1,0 +1,467 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 11 November 2009
+C(2009)8682 final
+
+IMPORTANT NOTICE:
+
+NON-CONFIDENTIAL VERSION OF THE ORIGINAL DECISION FOR
+PUBLICATION, FOLLOWING AMENDING DECISION C(2001)727 OF 8
+FEBRUARY 2010, REPEALING DECISION C(2011)4612 OF 30 JUNE 2011
+AND AMENDING DECISION C(2011)4651 OF 30 JUNE 2011.
+
+COMMISSION DECISION
+of 11.11.2009
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+(COMP/38589 – HEAT STABILISERS)
+
+(Only the English, French and German languages are authentic)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, and in
+particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decision of 17 March 2009 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003 and
+Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct
+of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case3,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1.
+2 OJ L 123, 27.4.2004, p. 18.
+3 OJ
+2
+EN EN
+
+1 Introduction...................................................................................................................8
+
+2 The industry subject to the proceedings .......................................................................8
+2.1 The products ......................................................................................................................8
+2.2 The market players ..........................................................................................................10
+2.2.1 Akzo...........................................................................................................................10
+2.2.2 [*]...............................................................................................................................12
+2.2.3 Akcros........................................................................................................................12
+2.2.4 Elf Aquitaine, Arkema France and CECA.................................................................13
+2.2.5 Baerlocher..................................................................................................................15
+2.2.6 Chemson ....................................................................................................................16
+2.2.7 Chemtura....................................................................................................................19
+2.2.8 [*]...............................................................................................................................21
+2.2.9 Faci.............................................................................................................................22
+2.2.10 Reagens..................................................................................................................22
+2.2.11 AC Treuhand..........................................................................................................23
+2.2.12 Other undertakings on the European market for heat stabilisers ...........................24
+2.2.13 CEFIC ....................................................................................................................24
+2.3 Description of the market ................................................................................................25
+2.4 Trade between Member States and Contracting Parties to the EEA Agreement.............27
+3 Procedure ....................................................................................................................28
+
+4 Description of the events ............................................................................................31
+4.1 Evidence ..........................................................................................................................31
+4.2 The cartels........................................................................................................................31
+4.3 AC Treuhand's role..........................................................................................................33
+4.3.1 The role of AC Treuhand...........................................................................................33
+4.3.2 Characteristics of the AC Treuhand meetings ...........................................................34
+4.3.3 Quota and price arrangements and monitoring..........................................................34
+4.3.4 “Red” and “pink papers” and other means of information exchange ........................36
+4.4 Meetings on the occasion of CEFIC's sub-groups meetings ...........................................38
+4.5 Other meetings and arrangements ...................................................................................38
+4.6 Chronology of contacts....................................................................................................39
+4.6.1 1987............................................................................................................................40
+4.6.1.1 Tin stabilisers cartel...........................................................................................40
+4.6.1.2 ESBO/esters cartel .............................................................................................41
+4.6.2 1988............................................................................................................................42
+4.6.2.1 Tin stabilisers cartel...........................................................................................42
+4.6.2.2 ESBO/esters cartel .............................................................................................43
+4.6.3 1989............................................................................................................................43
+4.6.3.1 Tin stabilisers cartel...........................................................................................43
+4.6.3.2 ESBO/esters cartel .............................................................................................44
+4.6.4 1990............................................................................................................................44
+
+3
+EN EN
+
+4.6.4.1 Tin stabilisers cartel...........................................................................................44
+4.6.4.2 ESBO/esters cartel .............................................................................................45
+4.6.5 1991............................................................................................................................45
+4.6.5.1 Tin stabilisers cartel...........................................................................................45
+4.6.5.2 ESBO/esters cartel .............................................................................................46
+4.6.6 1992............................................................................................................................47
+4.6.6.1 Tin stabilisers cartel...........................................................................................47
+4.6.6.2 ESBO/esters cartel .............................................................................................48
+4.6.7 1993............................................................................................................................49
+4.6.7.1 Tin stabilisers cartel ...........................................................................................49
+4.6.7.2 ESBO/esters cartel .............................................................................................50
+4.6.8 1994............................................................................................................................51
+4.6.8.1 Tin stabilisers cartel...........................................................................................51
+4.6.8.2 ESBO/esters cartel .............................................................................................52
+4.6.9 1995............................................................................................................................53
+4.6.9.1 Tin stabilisers cartel...........................................................................................53
+4.6.9.2 ESBO/esters cartel .............................................................................................57
+4.6.10 1996........................................................................................................................57
+4.6.10.1 Tin stabilisers cartel.......................................................................................57
+4.6.10.2 ESBO/esters cartel .........................................................................................59
+4.6.11 1997........................................................................................................................60
+4.6.11.1 Tin stabilisers cartel.......................................................................................60
+4.6.11.2 ESBO/esters cartel .........................................................................................62
+4.6.12 1998........................................................................................................................63
+4.6.12.1 Tin stabilisers cartel.......................................................................................63
+4.6.12.2 ESBO/esters cartel .........................................................................................64
+4.6.13 1999........................................................................................................................70
+4.6.13.1 Tin stabilisers cartel.......................................................................................70
+4.6.13.2 ESBO/esters cartel .........................................................................................71
+4.6.14 2000........................................................................................................................72
+4.6.14.1 Tin stabilisers cartel and ESBO/esters cartel.................................................72
+4.6.15 2001........................................................................................................................74
+5 Application of Article 81 of the Treaty and Article 53 of the EEA Agreement.........75
+5.1 Relationship between the Treaty and the EEA Agreement .............................................75
+5.2 Jurisdiction.......................................................................................................................75
+5.3 Application of Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement ....75
+5.3.1 Agreements and concerted practices..........................................................................76
+5.3.1.1 Principles............................................................................................................76
+5.3.1.2 Application in the present case ..........................................................................78
+5.3.1.2.1 Tin stabilisers cartel .....................................................................................78
+5.3.1.2.2 ESBO/esters cartel........................................................................................80
+5.3.1.2.3 AC Treuhand's role in the infringements .....................................................81
+5.4 The parties' comments in response to the Statement of Objections.................................85
+5.4.1 The parties' arguments that the evidence does not suffice to prove the cartels .........85
+5.4.2 AC Treuhand: its role in the infringements, its arguments in response to the
+Statement of Objections and the Commission's assessment..................................................90
+4
+EN EN
+
+5.4.2.1 The Commission's appraisal and conclusion.....................................................91
+5.4.3 Single, complex and continuous infringement...........................................................92
+5.4.3.1 Principles...........................................................................................................92
+5.4.3.2 Application in the present case..........................................................................94
+5.4.3.2.1 One single infringement for tin stabilisers, one single infringement for
+ESBO/esters ...................................................................................................................94
+5.4.3.2.2 Continuity of both infringements; the period 1996-1997.............................96
+5.4.4 Restriction of competition........................................................................................105
+5.4.4.1 Principles..........................................................................................................105
+5.4.4.2 Application in the present case ........................................................................106
+5.4.5 Claims regarding the Commission's investigation and alleged violation of rights of
+defence.................................................................................................................................109
+5.4.5.1 Alleged procedural irregularities .....................................................................109
+5.4.5.2 Alleged violation of rights of defence .............................................................115
+5.4.6 Effect upon trade between Member States and between EEA Contracting Parties.120
+5.4.6.1 Principles..........................................................................................................120
+5.4.6.2 Application in the present case ........................................................................120
+5.4.7 Provisions of competition rules applicable to Austria, Finland, Iceland,
+Liechtenstein, Norway and Sweden.....................................................................................121
+5.5 Non-Application of Article 81(3) of the Treaty and Article 53(3) of the EEA Agreement
+121
+6 Addressees of the present proceedings.....................................................................122
+6.1 Principles .......................................................................................................................122
+6.2 Application to this case......................................................................................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+105/82, 108/82 and 110/82, IAZ International Belgium and
+Others v Commission [1983] ECR 3369, paragraphs 54 and 55, and Joined Cases C-189/02 P, C-202/02 P,
+C-205/02 P to C-208/02 P and C-213/02 P, Dansk Rørindustri and Others v Commission [2005] ECR I-
+5425, paragraph 327, Case C-308/04 P, SGL Carbon AG v Commission [2006] ECR I-5977, paragraph 105.
+847 [*].
+848 [*].
+849 [*]
+850 [*].
+851 [*].
+852 [*].
+853 [*].
+854 [*].
+855 [*].
+856 [*].
+187
+EN EN
+
+(795) It follows from the above that the Commission has decided to grant a fine reduction
+for inability to pay to the entities which form part of the [*] undertaking and to reject
+the requests for inability to pay from [*] and [*].
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1) The following undertakings have infringed Article 81(1) of the Treaty and - from 1 January
+1994 - Article 53 of the EEA Agreement by participating, for the periods indicated, in a
+complex of agreements and/or concerted practices in the tin stabilisers sector covering the
+EEA and consisting of fixing prices, allocating markets through sales quotas, allocating
+customers and exchanging commercially sensitive information in particular on customers,
+production and sales:
+
+(a) Akzo Nobel N.V., from 24 February 1987 until 21 March 2000;
+
+(b) Akzo Nobel Chemicals GmbH, from 24 February 1987 until 28 June 1993;
+
+(c) Akcros Chemicals Ltd, from 28 June 1993 until 21 March 2000;
+
+(d) - (g); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+(h) Elf Aquitaine S.A., from 16 March 1994 until 31 March 1996 and from 9
+September 1997 until 21 March 2000;
+
+(i) Arkema France, from 16 March 1994 until 31 March 1996 and from 9
+September 1997 until 21 March 2000;
+
+(j) CECA SA, from 16 March 1994 until 31 March 1996 and from 9 September
+1997 until 21 March 2000;
+
+(k) MRF Michael Rosenthal GmbH, from 12 October 1990 until 21 March 2000;
+
+(l) Baerlocher GmbH, from 24 February 1987 until 21 March 2000;
+
+(m)Baerlocher Italia S.p.A., from 22 June 1994 until 21 March 2000;
+
+(n) Baerlocher UK Limited, from 28 March 1995 until 17 September 1997;
+
+(o) Chemtura Corporation, from 29 May 1998 until 21 March 2000;
+
+(p) Chemtura Vinyl Additives GmbH, from 12 December 1997 until 21 March
+2000;
+
+188
+EN EN
+
+(q) - (r); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+(s) Reagens S.p.A., from 20 November 1992 until 21 March 2000;
+
+(t) AC-Treuhand AG, from 01 December 1993 until 21 March 2000.
+
+2) The following undertakings have infringed Article 81(1) of the Treaty and - from 1 January
+1994 - Article 53 of the EEA Agreement by participating, for the periods indicated, in a
+complex of agreements and/or concerted practices in the ESBO/esters sector covering the
+EEA and consisting of fixing prices, allocating markets through sales quotas, allocating
+customers and exchanging commercially sensitive information in particular on customers,
+production and sales:
+
+(a) Akzo Nobel N.V., from 11 September 1991 until 22 March 2000;
+
+(b) Akzo Nobel Chemicals B.V., from 11 September 1991 until 28 June 1993;
+
+(c) Akcros Chemicals Ltd, from 28 June 1993 until 22 March 2000;
+
+(d) - (g); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+(h) Elf Aquitaine S.A., from 11 September 1991 until 26 September 2000;
+
+(i) Arkema France, from 11 September 1991 until 26 September 2000;
+
+(j) CECA SA, from 11 September 1991 until 26 September 2000;
+
+(k) GEA Group AG, from 11 September 1991 until 17 May 2000;
+
+(l) Chemson Polymer-Additive AG, from 30 September 1995 until 26 September
+2000;
+
+(m)Aachener Chemische Werke Gesellschaft für glastechnische Produkte und
+Verfahren mbH, from 11 September 1991 until 17 May 2000;
+
+(n) Chemson GmbH, from 17 May 2000 until 26 September 2000;
+
+(o) Chemtura Corporation, from 29 May 1998 until 26 September 2000;
+
+(p) Chemtura Vinyl Additives GmbH, from 12 December 1997 until 26 September
+2000;
+
+(q) – (r); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+(s) Faci S.p.A., from 06 November 1996 until 26 September 2000;
+
+(t) AC-Treuhand AG, from 1 December 1993 until 26 September 2000.
+
+189
+EN EN
+
+Article 2
+
+For the infringement(s) in the tin stabiliser sector referred to in Article 1, the following fines
+are imposed:
+1) - 3); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+4) Akzo Nobel N.V., Akzo Nobel Chemicals GmbH and Akcros Chemicals Ltd
+are jointly and severally liable for: EUR 1 580 000;
+
+5) Akzo Nobel N.V. and Akcros Chemicals Ltd are jointly and severally liable
+for: EUR 4 421 000;
+amended by Decision C(2011)4651 of 30 June 2011
+
+6) Akzo Nobel N.V. and Akzo Nobel Chemicals GmbH are jointly and severally
+liable for: EUR 9 820 000;
+
+7) Akzo Nobel N.V. is liable for EUR 5 979 000;
+amended by Decision C(2011)4651 of 30 June 2011
+
+8) - 9); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+10) MRF Michael Rosenthal GmbH, Baerlocher GmbH, Baerlocher Italia S.p.A.
+and Baerlocher UK Limited are jointly and severally liable for:
+EUR 1 000 000;
+
+11) Elf Aquitaine S.A., Arkema France and CECA SA are jointly and severally
+liable for: EUR 3 864 000;
+
+12) Arkema France is liable for: EUR 3 477 600;
+
+13) Elf Aquitaine S.A. is liable for: EUR 2 704 800;
+
+14) Chemtura Corporation and Chemtura Vinyl Additives GmbH are jointly and
+severally liable for: EUR 0;
+
+15) ; [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+16) Reagens S.p.A. is liable for: EUR 10 791 000;
+
+17) AC-Treuhand AG is liable for: EUR 174 000.
+
+For the infringement(s) in the ESBO/esters sector referred to in Article 1(2), the following
+fines are imposed:
+190
+EN EN
+
+18) - 20); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+21) Akzo Nobel N.V., Akzo Nobel Chemicals B.V. and Akcros Chemicals Ltd are
+jointly and severally liable for: EUR 2 033 000;
+
+22) Akzo Nobel N.V. and Akcros Chemicals Ltd are jointly and severally liable for
+EUR 3 968 000;
+amended by Decision C(2011)4651 of 30 June 2011
+
+23) Akzo Nobel N.V. and Akzo Nobel Chemicals B.V. are jointly and severally for:
+EUR 3 467 000;
+
+24) Akzo Nobel N.V. is liable for: EUR 9 332 000;
+amended by Decision C(2011)4651 of 30 June 2011
+
+25) - 27); [*] repealed by Decision C(2011)4612 of 30 June 2011
+
+28) Elf Aquitaine S.A., Arkema France and CECA SA,
+are jointly and severally liable for EUR 7 154 000;
+
+29) Arkema France is liable for: EUR 6 438 600;
+
+30) Elf Aquitaine S.A. is liable for: EUR 5 007 800;
+
+31) a) GEA Group AG, Aachener Chemische Werke Gesellschaft für
+glastechnische Produkte und Verfahren mbH and Chemson Polymer-Additive AG
+are jointly and severally liable for EUR 1 086 129 ;
+amended by Decision C(2010)727 of 8 February 2010
+
+31) b) GEA Group AG and Chemson Polymer-Additive AG are jointly and
+severally liable for EUR 827 842;
+amended by Decision C(2010)727 of 8 February 2010
+
+32) GEA Group AG is liable for: EUR 1 432 229;
+amended by Decision C(2010)727 of 8 February 2010
+
+33) Chemson Polymer-Additive AG and Chemson GmbH are jointly and severally
+liable for: EUR 137 606;
+
+34) Chemson GmbH is liable for: EUR 317 794;
+
+35) Chemtura Corporation and Chemtura Vinyl Additives GmbH are jointly and
+severally liable for: EUR 0;
+
+36) [*]; repealed by Decision C(2011)4612 of 30 June 2011
+
+37) Faci S.p.A is liable for: EUR 5 940 000;
+
+191
+EN EN
+
+38) AC-Treuhand AG is liable for: EUR 174 000.
+The fines shall be paid in euro within three months of the date of the notification of this decision
+to the bank account held in the name of the European Commission with:
+BBVA
+Banco Bilbao Vizcaya Argentaria S.A.
+Avenue des Arts, 43
+B-1040 BRUXELLES
+IBAN: BE76 6420 0290 0095
+SWIFT: BBVABEBB
+After the expiry of that period, interest shall automatically be payable at the interest rate applied by
+the European Central Bank to its main refinancing operations on the first day of the month in which
+this Decision is adopted plus 3.5 percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred to
+in that Article in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+Akzo Nobel N.V., Strawinskylaan 2555, NL-1077 ZZ Amsterdam, Nederland
+
+Akzo Nobel Chemicals GmbH, Kreuzauer Strasse 46, 52355 Düren Niederau, Germany
+
+Akzo Nobel Chemicals B.V., Stationsstraat 77, NL-3811 MH Amersfoort, Nederland
+
+Akcros Chemicals Ltd, Lankro Way, PO Box 1, Eccles, Manchester - M30 OBH, UK
+
+[*] repealed by Decision C(2011)4612 of 30 June 2011
+
+Elf Aquitaine S.A., 2, Place Jean Millier, La Défense 6, 92400 Courbevoie, France
+
+Arkema France, 420, rue d'Estienne d'Orves, F-92705 Colombes Cedex, France
+
+CECA SA, 89, Boulevard National, F-92257 La Garenne-Colombes Cedex, France
+
+MRF Michael Rosenthal GmbH, Freisinger Str. 1, D-85716 Unterschleißheim, Germany
+
+Baerlocher GmbH, Freisinger Strasse 1, D-85716 Unterschleißheim, Germany
+
+Baerlocher Italia S.p.A., Via San Colombano 62/A, 26900 Lodi, Italy
+
+192
+EN EN
+
+Baerlocher UK Limited, Moss Hall Road, Bury, Lancashire BL8 7JJ, UK
+
+GEA Group AG, Dorstener Str. 484, 44809 Bochum, Deutschland
+
+Chemson Polymer-Additive AG, Industriestrasse 19, A-9601 Arnoldstein, Austria
+
+Aachener Chemische Werke Gesellschaft für glastechnische Produkte und Verfahren mbH,
+Adenauerstraße 20, Europark C3, D-52146 Würselen, Germany
+
+Chemson GmbH, Hermann-Heinrich-Gossen-Str. 3, 50858 Köln, Germany
+
+Chemtura Corporation, 199, Benson Road, Middlebury CT 06749, USA
+
+Chemtura Vinyl Additives GmbH, Chemiestr. 22, 68623 Lampertheim, Germany
+
+[*] repealed by Decision C(2011)4612 of 30 June 2011
+
+Faci S.p.A., Via Privata Devoto 36, 16042 Carasco (GE), Italy
+
+Reagens S.p.A., Via Codronchi 4, 40016 San Giorgio di Piano (BO), Italy
+
+AC-Treuhand AG, Tödistrasse 47, CH-8027 Zürich, Switzerland
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the EEA
+Agreement.
+
+Done at Brussels, 11 November 2009 For the Commission
+
+Member of the Commission
+
+193
+EN EN

@@ -1,0 +1,211 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 26 XI 2008
+
+in einem Verfahren nach Artikel 82 EG-Vertrag und Artikel 54 EWR-Abkommen
+
+(Sachen COMP/39.388 – Deutscher Stromgroßhandelsmarkt und COMP/39.389 – Deutscher Regelenergiemarkt)
+
+(Nur der englische Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln $^{1}$ , insbesondere auf Artikel 9 Absatz 1,
+
+gestützt auf die Entscheidung der Kommission vom 7. Mai 2008 über die Einleitung eines Verfahrens in dieser Sache,
+
+nach Mitteilung der in der vorläufigen Beurteilung vom 7. Mai 2008 formulierten Bedenken,
+
+nach dem betroffenen Dritten nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 des Rates Gelegenheit gegeben wurde, zu den Verpflichtungszusagen Stellung zu nehmen, mit denen diese Bedenken ausgeräumt werden sollen,
+
+nach Stellungnahme des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten,
+
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+
+## 1. GEGENSTAND
+
+(1) Diese Entscheidung ist an die E.ON AG, Düsseldorf (nachstehend „E.ON“ genannt) gerichtet; Gegenstand ist die Zurückhaltung von Kapazität, die Abschreckung Dritter in die Stromerzeugung auf dem deutschen Stromgroßhandelsmarkt zu investieren, die Begünstigung verbundener Unternehmen auf dem deutschen Regelenergiemarkt und die Behinderung von Stromerzeugern anderer Mitgliedstaaten, Regelenergie auf den Regelenergiemarkten von E.ON zu verkaufen.
+
+(2) In ihrer vorläufigen Beurteilung vom 7. Mai 2008 kam die Kommission zu dem vorläufigen Schluss, dass E.ON gemeinsam mit RWE und Vattenfall Europe eine beherrschende Stellung auf dem deutschen Stromgroßhandelsmarkt innehat und dass Grund zu der Annahme besteht, dass die E.ON vorgeworfene Praxis, Kapazität zurückzuhalten und Dritte von Investitionen in die Stromerzeugung auf dem deutschen Stromgroßhandelsmarkt abzuschrecken, mit Artikel 82 EG-Vertrag2 unvereinbar sein könnte. Die Kommission kam ferner zu dem vorläufigen Schluss, dass E.ON auf dem Nachfragemarkt für Sekundärregelenergie eine beherrschende Stellung innehat und dass Grund zu der Annahme besteht, dass die E.ON vorgeworfene Praxis, verbundene Unternehmen auf dem deutschen Regelenergiemarkt zu begünstigen und Stromerzeuger anderer Mitgliedstaaten daran zu hindern, Regelenergie auf den Regelenergiemärkten von E.ON zu verkaufen, mit Artikel 82 EG-Vertrag unvereinbar sein könnte.
+
+## 2. DIE PARTEIEN
+
+(3) E.ON ist ein deutsches Unternehmen, das in den Bereichen Energieerzeugung, -transport, -verteilung und -versorgung (in erster Linie Strom und Erdgas) in Deutschland, weiteren EU-Mitgliedstaaten sowie weltweit tätig ist. Im Jahr 2007 belief sich der Umsatz von E.ON auf 68,731 Mrd. EUR3.
+
+## 3. VERFAHRENSSCHRITTE IM RAHMEN DER VERORDNUNG (EG) NR. 1/2003
+
+(4) Die Untersuchung stützte sich auf Nachprüfungen in den Geschäftsräumen von E.ON im Mai und Dezember 2006 $^{4}$ und auf Maßnahmen zur Sachaufklärung in Form von Auskunftsverlangen in den Jahren 2006 bis 2008.
+
+(5) Am 7. Mai 2008 leitete die Kommission mit Blick auf die Annahme einer Entscheidung nach Kapitel III der Verordnung (EG) Nr. 1/2003 ein Verfahren ein und legte ihre wettbewerbsrechtlichen Bedenken in einer vorläufigen Beurteilung nach Artikel 9 Absatz 1 der Verordnung dar.
+
+(6) Diese Beurteilung wurde E.ON mit Schreiben vom 7. Mai 2008 zugestellt.
+
+(7) E.ON teilte am 27. Mai 2008 mit, dass sie der vorläufigen Beurteilung nicht zustimme und unterbreitete der Kommission ein Verpflichtungsangebot (nachstehend „Verpflichtungen“ genannt).
+
+(8) Am 12. Juni 2008 veröffentlichte die Kommission nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 eine Bekanntmachung im Amtsblatt der Europäischen Union, die eine Zusammenfassung der wettbewerbsrechtlichen Bedenken sowie die Aufforderung an betroffene Dritte enthält, innerhalb eines Monats nach Veröffentlichung der Bekanntmachung zu den vorgeschlagenen Verpflichtungen Stellung zu nehmen.
+
+(9) Am 24. Juli 2008 und am 9. September 2008 setzte die Kommission E.ON von den auf die Bekanntmachung hin eingegangenen Stellungnahmen betroffener Dritter in Kenntnis. Am 15. Oktober 2008 übermittelte E.ON ein überarbeitetes Verpflichtungsangebot.
+
+(10) Am 3. November 2008 wurde der Beratende Ausschuss für Kartell- und Monopolfragen angehört. Am 10. November 2008 legte der Anhörungsbeauftragte seinen Abschlussbericht vor.
+
+## 4. VORLÄUFIGE BEURTEILUNG: GROSSHANDELSMARKT
+
+## 4.1. Relevante Märkte
+
+Sachlich relevanter Markt
+
+(11) In der vorläufigen Beurteilung wurde als sachlich relevanter Markt der Stromgroßhandelsmarkt (Stromimporte und Stromerzeugung zum Weiterverkauf) angenommen. Dies entspricht der Entscheidungspraxis der Kommission $^{5}$ und dem Abschlussbericht über die Untersuchung des Energiesektors (nachstehend „Sektoruntersuchung“ genannt) $^{6}$ .
+
+## Räumlich relevanter Markt
+
+(12) Nach der vorläufigen Beurteilung (Beurteilungszeitraum 2002-2007) wurde als räumlich relevanter Markt das Gebiet der Bundesrepublik Deutschland angenommen. Dies entspricht der Entscheidungspraxis der Kommission und den Schlussfolgerungen der Sektoruntersuchung.
+
+## 4.2. Marktstellung der Parteien auf dem relevanten Markt / Beherrschende Stellung
+
+(13) Die Kommission vertrat in ihrer vorläufigen Beurteilung die Auffassung, dass es zwar aufgrund der besonderen Merkmale des Stromsektors zulässig sein kann, dass die größten Stromerzeuger auf ein und demselben Markt – selbst bei geringer Marktpräsenz – jeweils für sich genommen eine beherrschende Stellung einnehmen (d. h. im Sinne der Rechtsprechung in nennenswertem Maße von ihren Mitbewerbern, Kunden und Verbrauchern unabhängig agieren), dass aber im vorliegenden Fall der deutsche Stromgroßhandelsmarkt von den drei Betreibern E.ON, RWE und Vattenfall Europe im Sinne von Artikel 82 EG-Vertrag gemeinsam beherrscht wird. Dieser Standpunkt stützte sich a) auf die Struktur des deutschen Stromgroßhandelsmarkts, b) auf die Merkmale des Stromgroßhandelsmarktes, c) die Umsetzung einer gemeinsamen Strategie durch E.ON, RWE und Vattenfall und d) auf erhebliche Marktzutrittsschranken.
+
+(14) Bei dem deutschen Stromgroßhandelsmarkt handelt es sich um einen stark konzentrierten Markt und die Marktanteile von RWE, E.ON und Vattenfall blieben zwischen 2002 und 2006 $^{8}$ nicht nur zusammengenommen, sondern auch einzeln betrachtet relativ konstant (siehe Tabelle 1).
+
+Tabelle 1: Erzeugter Strom – Anteil am Verbrauch (%); 2002-2006\*
+
+<table><tr><td>Jahr</td><td>E.ON</td><td>RWE</td><td>Vattenfall</td><td>Gesamt</td></tr><tr><td>2002</td><td>[20-30]%</td><td>[30-40]%</td><td>[10-20]%</td><td>75%</td></tr><tr><td>2003</td><td>[20-30]%</td><td>[30-40]%</td><td>[10-20]%</td><td>75%</td></tr><tr><td>2004</td><td>[20-30]%</td><td>[30-40]%</td><td>[10-20]%</td><td>70%</td></tr><tr><td>2005</td><td>[20-30]%</td><td>[20-30]%</td><td>[10-20]%</td><td>67%</td></tr><tr><td>2006</td><td>[20-30]%</td><td>[20-30]%</td><td>[10-20]%</td><td>67%</td></tr></table>
+
+(15) E.ON, RWE und Vattenfall kontrollieren nicht nur den größten Teil der Kapazität, sondern haben zusammen mit EnBW auch praktisch die Kontrolle über die verhältnismäßig kostengünstigen Stromerzeugungstechnologien (Kernkraft, Wasserkraft und Braunkohle). Auf E.ON, RWE und Vattenfall entfallen zusammen 77 % der gesamten Kapazität zur kostengünstigen Stromerzeugung in Deutschland; ein wesentlicher Teil der verbleibenden Kapazität entfällt auf EnBW.
+
+(16) Auf dem Großhandelsmarkt sind E.ON, RWE und Vattenfall die einzigen Nettoverkäufer $^{9}$ mit Überkapazitäten, und sie sind sich dieser Tatsache bewusst. Diese Marktstellung ermöglicht es ihnen, auf dem Stromgroßhandelsmarkt unabhängiger zu agieren als andere Anbieter wie z. B. EnBW, die Kapazitätsengpässe haben.
+
+(17) Bei RWE, E.ON und Vattenfall handelt es sich außerdem jeweils um vertikal integrierte Unternehmen mit beträchtlichen Beteiligungen an Unternehmen der nachgelagerten Märkte (insbesondere an Stadtwerken, die Strom an Endkunden verkaufen).
+
+(18) E.ON, RWE und Vattenfall sind über ein Netz von Vereinbarungen über Stromerzeugung und Großhandel verbunden.
+
+(19) Darüber hinaus wurden folgende Merkmale des Stromgroßhandelsmarkts festgestellt, die eine gemeinsame Marktbeherrschung ermöglichen:
+
+\- Das Produkt ist homogen, da es als Standardprodukt verkauft wird und es entwickelt sich zudem nicht weiter.
+
+\- Der Strompreis ist transparent $^{10}$ ; dasselbe gilt für die Stromerzeugung $^{11}$ .
+
+\- Das Marktwachstum ist gering.
+
+(20) der, der vorläufigen Beurteilung der Kommission zufolge könnten E.ON, RWE und Vattenfall des Weiteren eine gemeinsame Preiserhöhungsstrategie vereinbart haben. Sie kann aufgrund der bestehenden strukturellen Verbindungen in der Stromerzeugung und aufgrund der großen Transparenz unter den betroffenen Betreibern umgesetzt werden. Dies funktioniert, weil die Betreiber direkt reagieren können, wenn ein Beteiligter gegen die Vereinbarung verstößt. Auf der Produktionsseite kann ein Unternehmen, das Kapazität zurückhält, angesichts dieser Transparenz sofort erkennen, wenn ein anderes Unternehmen seine Stromerzeugung steigert, und mit einer Steigerung kontern. Im Bereich der Preise können die Unternehmen sofort auf Preisangebote auf außerbörslichen Märkten reagieren und einen Preiskampf beginnen.
+
+(21) Schließlich kommt hinzu, dass ein Markteintritt durch Investitionen in neue Stromerzeugungskapazität nur sehr beschränkt möglich ist und durch Importe nur geringer Wettbewerbsdruck auf die deutschen Stromerzeuger ausgeübt wird. Wie in der vorläufigen Beurteilung dargelegt, beträgt die durchschnittliche stündliche Import-Export-Gesamtkapazität im Verhältnis zur installierten Erzeugungskapazität in Deutschland für 2004 16% $^{12}$ und ist seitdem gleich geblieben. Folglich ist der Wettbewerbsdruck durch Importe in Deutschland nach wie vor gering.
+
+(22) Deshalb können E.ON, RWE und Vattenfall ihre feste Marktstellung auf dem Stromgroßhandelsmarkt aufrechterhalten.
+
+(23) Bei ihrer Marktuntersuchung erhielt die Kommission jedoch eine Stellungnahme, nach der es strukturelle sowie Kostenunterschiede zwischen E.ON und RWE einerseits und Vattenfall andererseits gebe. Vattenfall solle deshalb nicht zu der Gruppe von Unternehmen mit gemeinsamer Marktmacht gerechnet werden. Dies entspreche der Entscheidungspraxis in Deutschland $^{13}$ .
+
+(24) Für die Zwecke dieser Entscheidung kann die Frage offengelassen werden, ob RWE, E.ON und Vattenfall – wie in der vorläufigen Beurteilung geschehen – oder lediglich RWE und E.ON gemeinsam als marktbeherrschend anzusehen sind. In beiden Fällen wäre E.ON als Unternehmen zu betrachten, das an einer gemeinsamen beherrschenden Stellung beteiligt ist.
+
+## 4.3. Wesentlicher Teil des Gemeinsamen Marktes
+
+(25) In der vorläufigen Beurteilung vertrat die Kommission die Auffassung, dass der deutsche Stromgroßhandelsmarkt einen wesentlichen Teil des Gemeinsamen Marktes im Sinne des Artikels 82 EG-Vertrag darstellt. Der deutsche Stromgroßhandelsmarkt war mit durchschnittlich 550 TWh in den letzten drei Jahren der größte Großhandelsmarkt Europas. Auf ihn entfällt ein Anteil von rund 20 % des Gesamtstromverbrauchs in der Europäischen Union und er erstreckt sich auf das Gebiet des größten EU-Mitgliedstaates.
+
+## 4.4. Wettbewerbsrechtlich bedenkliche Praktiken
+
+(26) Der vorläufigen Beurteilung der Kommission zufolge bestand Grund zur Annahme, dass E.ON seine beherrschende Stellung auf dem Großhandelsmarkt im Sinne von Artikel 82 EG-Vertrag missbräuchlich ausgenutzt haben könnte, indem es verfügbare Stromerzeugungskapazität kurzfristig zurückhielt und Dritte davon abschreckte, in die Stromerzeugung auf dem deutschen Stromgroßhandelsmarkt zu investieren.
+
+(27) Die Anwendung von Artikel 82 EG-Vertrag wird nicht durch die Tatsache verhindert, dass der Missbrauch durch E.ON allein begangen sein könnte und nicht notwendigerweise durch alle in Frage stehenden marktbeherrschenden Unternehmen. Nach ständiger Rechtsprechung können sich Unternehmen, die über eine gemeinsame marktbeherrschende Stellung verfügen, allein oder gemeinsam missbräuchlich verhalten. Es ist ausreichend, dass sich das missbräuchliche Verhalten auf die gemeinsame beherrschende Stellung der Unternehmen auf dem Markt bezieht. Der Missbrauch muss lediglich als Ausdruck einer solchen gemeinsamen marktbeherrschenden Stellung identifiziert werden können. $^{14}$
+
+## Kurzfristiges Zurückhalten von Versorgungskapazitäten
+
+(28) Der vorläufigen Beurteilung der Kommission zufolge bestand Grund zur Annahme, dass E.ON geplant haben könnte, verfügbare Versorgungskapazität (durch Beschränkung der Stromerzeugung in bestimmten Kraftwerken) zurückzuhalten und so einen Anstieg der Strompreise zum Nachteil der Verbraucher zu bewirken.
+
+(29) Strom kann auf unterschiedlichste Weise unter Verwendung verschiedenster Brennstoffe und Technologien mit unterschiedlichen Kostenstrukturen erzeugt werden. Die Sektoruntersuchung $^{15}$ ergab, dass die Preise auf kurzfristigen Wettbewerbsmärkten bei ausreichender Versorgungskapazität von den kurzfristigen Grenzkosten (short run marginal cost – SRMC) des Kraftwerks bestimmt werden, das die letzte zur Nachfragedeckung erforderliche Stromeinheit erzeugt. Bei den SRMC handelt es sich hauptsächlich um die Brennstoffkosten und andere variable Produktionskosten eines Kraftwerks. Das letzte zur Bedarfsdeckung benötigte Kraftwerk, auch Grenzkraftwerk genannt, ist zugleich das mit den höchsten SRMC aller zu einem bestimmten Zeitpunkt eingesetzten Kraftwerke.
+
+(30) In diesem Zusammenhang ist hervorzuheben, dass die SRMC des preisbestimmenden Kraftwerks nicht nur über die Einnahmen des Betreibers des Grenzkraftwerks entscheiden, sondern auch über diejenigen aller anderen Kraftwerke, die zu einem bestimmten Zeitpunkt zur Stromerzeugung herangezogen werden. In Schaubild 1 ist diese „Merit-Order“ grafisch dargestellt.
+
+Schaubild 1: Darstellung einer theoretischen Merit-Order
+![](images/be44f974771a4f7456ef0bc60dd68cabd8b29530fd087e8d9ceb2e87e639be6f.jpg)
+Quelle: Sektoruntersuchung. Hinweis: Dieser Graph ist lediglich eine abstrakte Darstellung und spiegelt unter Umständen nicht das tatsächliche Kostenverhältnis zwischen den verschiedenen Erzeugungsarten wider. Auch CO2-Zertifikate wurden nicht berücksichtigt.
+
+(31) Die Vielzahl unterschiedlicher Technologien geht auch aus der Merit-Order des deutschen Kraftwerksportfolios hervor (Schaubild 2) $^{16}$ .
+
+Schaubild 2: Merit-Order-Kurve – Deutschland
+![](images/13bb40ab06ab4af1f4fb6e82a34078b35595452eaec2d40540d1e2434b2a7b84.jpg)
+Quelle: Stromstudie (2007) $^{17}$ . Hinweis: Diese Merit-Order-Kurve wurde aus dem Monatsdurchschnitt der verfügbaren installierten Kapazität der einzelnen Stromerzeugungsanlagen zu den Grenzkosten der An
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+eugung/-versorgung und in der Stromübertragung.
+
+## Veräußerung von Erzeugungskapazität
+
+(81) Verhaltensorientierte Abhilfemaßnahmen könnten die Wettbewerbsprobleme auf dem Stromgroßhandelsmarkt nicht so wirksam beheben wie die Veräußerung von Erzeugungskapazität. Die Bedenken hinsichtlich des Zurückhaltens von Erzeugungskapazität beziehen sich auf Hunderte von Stunden pro Jahr und auf eine große Anzahl an Kraftwerken. Wie oben dargelegt, wird der Preis auf dem kurzfristigen Markt in Deutschland jeden Tag stündlich über Tagesauktionen festgelegt. Ferner verwaltet E.ON ein Portfolio von über fünfzig Kraftwerken, die sich alle durch zahlreiche technische Aspekte wie z. B. die Brennstoffart und die Erzeugungstechnologie (ausschlaggebend für die Betriebskosten) und in der Erzeugungskapazität unterscheiden. Deshalb wäre eine Abhilfemaßnahme mit dem Ziel, das stündliche Bieterverhalten von E.ON für eine Vielzahl an Kraftwerken zu überwachen, sehr schwer zu verwirklichen gewesen. Selbst wenn eine verhaltensorientierte Abhilfemaßnahme zur Überwachung des Bietverhaltens umsetzbar wäre, hätte sie aller Wahrscheinlichkeit nach eine höhere Belastung für E.ON bedeutet als die strukturelle, von E.ON freiwillig vorgeschlagene Lösung, einen beträchtlichen Teil seiner Erzeugungskapazität zu veräußern.
+
+(82) Des Weiteren besteht das erhebliche Risiko einer andauernden oder wiederholten Zuwiderhandlung in der Form des vermeintlichen Zurückhaltens von Kapazität, das praktisch in der Struktur des Unternehmens angelegt ist. Der vorläufigen Beurteilung der Kommission zufolge besteht Grund Grund zur Annahme, dass zwischen 2002 und 2007 verfügbare Erzeugungskapazität über hunderte von Stunden, d. h. wiederholt und andauernd über mehrere Jahre, zurückgehalten worden sein könnte. Dieses dem Unternehmen vorgeworfene Verhalten war aufgrund der Zusammensetzung des Stromerzeugungsportfolios von E.ON möglich. Wie bereits erläutert, ist E.ON Eigentümerin und Betreiberin eines umfangreichen Portfolios von Kraftwerken, die über die gesamte Merit-Kurve verteilt sind. Durch diese Stellung hatte E.ON die Möglichkeit, eine rentable Strategie zu verfolgen, die darin bestand, verfügbare Erzeugungskapazität zurückzuhalten (also die Stromerzeugung bestimmter Kraftwerke zu begrenzen), um einen Anstieg der Strompreise zum Nachteil der Verbraucher zu bewirken.
+
+(83) Die öffentliche Konsultation nach Artikel 27 Absatz 4 der Verordnung 1/2003 bestätigte, dass die Veräußerung von Erzeugungskapazität eine Verpflichtung ist, die grundsätzlich geeignet ist, die Wettbewerbsproblematik auf dem deutschen Strommarkt zu beheben. In keiner der Stellungnahmen zur Veräußerung der Erzeugungskapazität wurde eine verhaltensorientierte Abhilfemaßnahme oder auch eine weniger belastende strukturelle Abhilfemaßnahme genannt.
+
+(84) Die von E.ON vorgeschlagene Auswahl der Kraftwerke nach Brennst und und Technologie war erforderlich und verhältnismäßig, um die Wettbewerbsproblematik auf dem Stromgroßhandelsmarkt beheben zu können. Um nach einer erfolgreichen Strategie – wie sie in der vorläufigen Beurteilung erläutert wurde – Kapazität zurückhalten zu können, muss man ein Kraftwerksportfolio besitzen und betreiben, das Kraftwerke überall auf der Merit-Kurve umfasst, d. h. Grundlastkraftwerke und flexible Anlagen. Deshalb müssen sich unter den zu veräußernden Kraftwerken auch Kraftwerke befinden, die mit unterschiedlichen Brennstoffen und Technologien betrieben werden (Wasserkraft, Kernkraft, Braunkohle, Steinkohle, Erdgas und Pumpspeicher) und somit das Portfolio von E.ON widerspiegeln.
+
+(85) Die Veräußerungsverpflichtung ist auch deshalb notwendig und ver verhältnismäßig, weil damit auch die Problematik der Abschreckung von Investoren angegangen wird. Durch die Veräußerung dieser Kraftwerke wird es für tatsächliche und potenzielle Wettbewerber leichter, Zugang zu neuen Kraftwerken und zu Kraftwerken zu bekommen, deren Eigentümer sie nicht sind. Der Erwerb dieser Art der Erzeugungskapazität wird es Wettbewerbern ermöglichen, ein ausgeglicheneres Portfolio zusammenzustellen und über mehr Kapazität zu verfügen, um Wettbewerbsdruck auf die etablierten Unternehmen auf dem Stromgroßhandelsmarkt auszuüben. Außerdem werden diese Wettbewerber Zugang zu neuen Standorten erhalten, wodurch sie mit neuen Kraftwerken noch mehr Erzeugungskapazität (wieder) aufbauen können.
+
+## Veräußerung des Netzes
+
+(86) Mit verhaltensorientierten Abhilfemaßnahmen könnten die Bedenken hinsichtlich des Regelenergiemarktes nicht so wirksam behoben werden wie mit der Veräußerung der Übertragungsnetzsparte von E.ON, die dessen Höchstspannungsnetz (380/220 kV), den Systembetrieb der E.ON-Regelzone sowie damit zusammenhängende Aktivitäten umfasst. Der Regelenergiemarkt ist auf viertelstündlicher Basis organisiert und wird vom Systembetreiber kontinuierlich verwaltet. Deshalb wäre eine Abhilfemaßnahme mit dem Ziel, das viertelstündliche Kaufverhalten von E.ON zu kontrollieren, sehr schwer zu verwirklichen gewesen. Selbst wenn eine verhaltensorientierte Abhilfemaßnahme zur Überwachung des Kaufverhaltens von E.ON handhabbar wäre, hätte sie eine höhere Belastung für E.ON bedeutet als die strukturelle, von E.ON freiwillig vorgeschlagene Lösung, sein Netz zu veräußern.
+
+(87) Des Weiteren besteht das erhebliche Risiko einer andauernden oder wiederholten vermeintlichen Zuwiderhandlung, das praktisch in der Struktur des Unternehmens angelegt ist. Laut vorläufiger Beurteilung besteht Grund zur Annahme, dass E.ON in den vergangenen Jahren systematisch mehr teure Sekundärregelenergie von seinen eigenen verbundenen Unternehmen als Tertiärregelenergie aus dem wettbewerbsorientierten Umfeld gekauft haben könnte. Auch wurden Bedenken geäußert, E.ON habe grenzüberschreitende Markteintritte aus anderen Mitgliedstaaten im deutschen Netz verhindert. Diese Formen des Verhaltens sind in diesem Fall und unter Berücksichtigung der Elemente, welche die Grundlage der vorläufigen Beurteilung bilden, auf einen inhärenten Interessenkonflikt bei E.ON als vertikal integrierten Stromkonzerns zurückzuführen, der sowohl die Stromübertragung als auch die Stromerzeugung und -versorgung kontrolliert.
+
+(88) Die Veräußerung der Übertragungsnetzsparte von E.ON, die das E.ON-Höchstspannungsnetz (380/220 kV), den Systembetrieb der E.ON-Regelzone sowie damit verbundene Aktivitäten umfasst, ist notwendig und verhältnismäßig. Die Regelungsfunktion ist auf die Höchstspannungsebene beschränkt. Der Eigentümer des Höchstspannungsnetzes entscheidet über die Beschaffung von Regelleistung in seiner Regelzone. Deshalb wird die Veräußerung des Höchstspannungsnetzes die Verbindungen zwischen E.ON als Stromkonzern im Stromerzeugungsgeschäft und seiner Stellung als Netzeigentümer mit Verantwortlichkeiten in der Stromübertragung und Regelung aufheben.
+
+## Sonstige Bestimmungen in den Verpflichtungen
+
+(89) Die übrigen Punkte der Verpflichtungen, wie die Aufrechterhaltung der Lebensfähigkeit der zu veräußernden Unternehmensteile, die Verpflichtung zur getrennten Geschäftsführung und die Klauseln über Ring-Fencing, Abwerbeverbot, Sorgfalts- und Berichtspflicht sowie die Rolle des Treuhänders sind Übergangs- und Zusatzbestimmungen. Diese Bestimmungen sind notwendig, um sicherzustellen, dass die von E.ON angebotenen Verpflichtungen umgesetzt werden. Die Bestimmungen sind verhältnismäßig. Sie spiegeln ferner die gängige Praxis der Kommission in Zusammenschlussverfahren bei Abhilfemaßnahmen in Form von Veräußerungen nach der Mitteilung der Kommission über im Rahmen der Verordnung (EWG) Nr. 4064/89 des Rates und der Verordnung (EG) Nr. 447/98 der Kommission $^{32}$ zulässige Abhilfemaßnahmen wider.
+
+## 9. SCHLUSSFOLGERUNG
+
+(90) Mit dem Erlass einer Entscheidung nach Artikel 9 Absatz 1 der Verordnung (EG) Nr. 1/2003 erklärt die Kommission von Unternehmen angebotene Verpflichtungen, mit denen sie die von der Kommission in ihrer vorläufigen Beurteilung geäußerten Bedenken ausräumen wollen, für verbindlich. Diese Entscheidung enthält keine Schlussfolgerung zu der Frage, ob eine Zuwiderhandlung vorgelegen hat oder noch vorliegt. Bei ihrer Beurteilung, ob die angebotenen Verpflichtungen ausreichen, um die Bedenken der Kommission auszuräumen, und zugleich verhältnismäßig sind, stützt sich die Kommission auf ihre vorläufige Beurteilung, in der sie nach entsprechender Untersuchung und Analyse ihren vorläufigen Standpunkt dargelegt hat, und auf die Stellungnahmen Dritter, die nach der Veröffentlichung der entsprechenden Bekanntmachung nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 des Rates eingegangen sind.
+
+(91) Angesichts der angebotenen Verpflichtungen besteht für die Kommission kein Anlass zum Tätigwerden mehr, weshalb das Verfahren unbeschadet des Artikels 9 Absatz 2 der Verordnung (EG) Nr. 1/2003 des Rates einzustellen ist.
+
+(92) Die Kommission behält sich das Recht vor, Untersuchungen und Verfahren nach Artikel 81 und 82 EG-Vertrag und Artikel 53 und 54 EWR-Abkommen im Hinblick auf Praktiken einzuleiten, die nicht Gegenstand dieser Entscheidung sind.
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+## Artikel 1
+
+Die im Anhang aufgeführten Verpflichtungen sind für die E.ON AG und alle ihre Tochtergesellschaften verbindlich.
+
+## Artikel 2
+
+Das Verfahren in dieser Sache wird eingestellt.
+
+## Artikel 3
+
+Diese Entscheidung ist gerichtet an
+
+E.ON AG, E.ON-Platz 1, D-40479 Düsseldorf
+
+und alle ihre Niederlassungen, namentlich:
+
+E.ON Energie AG, Brienner Straße 40, D-80333 München
+
+E.ON Energy Trading AG, Holzstraße 6, D-40221 Düsseldorf
+
+E.ON Kraftwerke GmbH, Tresckowstraße 5, D-30457 Hannover
+
+E.ON Kernkraft GmbH, Tresckowstraße 5, D-30457 Hannover
+
+E.ON Wasserkraft GmbH, Luitpoldstraße 27, D-84034 Landshut
+
+Donau Wasserkraft AG, Blutenburgstrasse 20, D-80636 München
+
+Gemeinschaftskraftwerk Veltheim GmbH, Möllberger Str. 387, D-32457 Porta Westfalica
+
+E.ON Netz GmbH, Bernecker Straße 70, D-95448 Bayreuth
+
+Brüssel, den 26 XI 2008
+
+Für die Kommission
+
+Neelie KROES
+
+Mitglied der Kommission

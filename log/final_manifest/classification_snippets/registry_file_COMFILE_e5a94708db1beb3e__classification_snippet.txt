@@ -1,0 +1,574 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 27.11.2002
+C(2002)4570 final
+
+DÉCISION DE LA COMMISSION
+
+du 27.11.2002
+
+relative à une procédure d’application de l’article 81 du traité CE
+
+Affaire COMP/E-1/37.152 – Plaques en plâtre
+(Les textes en langues allemande, anglaise, française et néerlandaise
+sont les seuls faisant foi.)
+
+FR
+
+FR 1 FR
+
+TABLE DES MATIÈRES
+
+1. Partie I – Les faits .................................................................................................... 5
+
+1.1. Résumé de l’infraction ............................................................................................. 5
+
+1.2. La procédure ............................................................................................................ 7
+
+1.2.1. Vérifications au titre de l’article 14, paragraphe 3, du règlement n° 17 ..................... 7
+
+1.2.2. Demandes de renseignements au titre de l’article 11 du règlement n° 17 .................. 7
+
+1.2.3. La procédure administrative ..................................................................................... 8
+
+1.2.4. Mesures antérieures de la Commission..................................................................... 8
+
+1.3. L’industrie des plaques en plâtre .............................................................................. 9
+
+1.3.1. Le produit ................................................................................................................ 9
+
+1.3.2. Le marché des plaques en plâtre............................................................................. 10
+
+1.3.2.1. L’offre ................................................................................................................... 10
+
+1.3.2.2. La demande............................................................................................................ 13
+
+1.3.2.3. La tarification......................................................................................................... 13
+
+1.3.2.4. Le commerce transfrontalier................................................................................... 14
+
+1.3.2.5. Le marché pertinent au sens de la présente procédure............................................. 14
+
+1.3.3. Les producteurs...................................................................................................... 15
+
+1.3.3.1. BPB ................................................................................................................... 15
+
+1.3.3.2. Knauf ................................................................................................................... 15
+
+1.3.3.3. Lafarge ................................................................................................................... 17
+
+1.3.3.4. Gyproc ................................................................................................................... 17
+
+1.3.3.5. Les autres producteurs............................................................................................ 18
+
+1.3.4. La restructuration du secteur................................................................................... 18
+
+1.4. Détails de l’infraction............................................................................................. 20
+
+1.4.1. La réunion de Londres entre BPB et Knauf en 1992............................................... 20
+
+1.4.2. L’échange des données sur les volumes de ventes sur les quatre principaux marchés
+européens de 1992 à 1998 ...................................................................................... 26
+
+1.4.2.1. Modalités ............................................................................................................... 26
+
+1.4.2.2. Objectif des parties dans leur participation à l’échange d’informations................... 32
+
+1.4.3. Echanges d’informations sur les volumes et parts de marché concernant le marché
+britannique ............................................................................................................. 46
+
+FR 2 FR
+
+1.4.4. Echange de données relatives aux hausses de prix sur le marché britannique.......... 51
+
+1.4.5. Discussions visant à la stabilisation du marché allemand et échanges d’informations
+sur les volumes....................................................................................................... 54
+
+1.4.5.1. Historique .............................................................................................................. 54
+
+1.4.5.2. Les discussions visant à la stabilisation du marché allemand lors des réunions de
+Versailles en juin 1996, Bruxelles en décembre 1997 et La Haye en mai 1998....... 56
+
+1.4.5.3. Les échanges de données sur les volumes de ventes sur le marché allemand suite à la
+réunion de Versailles.............................................................................................. 66
+
+1.4.6. Echanges de données relatives aux hausses de prix sur le marché allemand............ 71
+
+1.5. Preuves économiques en vue de démontrer l’absence d’entente.............................. 96
+
+2. Partie II – Appréciation juridique ........................................................................... 98
+
+2.1. Application des règles de concurrence.................................................................... 98
+
+2.1.1. Valeur des déclarations comme preuve de l’infraction à l’article 81, paragraphe 1, du
+traité ................................................................................................................... 98
+
+2.1.2. Accords et pratiques concertées.............................................................................. 99
+
+2.1.3. Notion d’accord complexe et continu ................................................................... 101
+
+2.1.4. Notion d’infraction unique ................................................................................... 101
+
+2.2. Nature de l’infraction en l’espèce......................................................................... 103
+
+2.3. Restriction de la concurrence................................................................................ 114
+
+2.4. Effet sur le commerce entre États membres.......................................................... 115
+
+2.5. Durée de l’infraction unique................................................................................. 116
+
+2.6. Responsabilité de l’infraction ............................................................................... 117
+
+2.6.1. Considérations générales...................................................................................... 117
+
+2.6.2. BPB ................................................................................................................. 117
+
+2.6.3. Knauf Westdeutsche Gipswerke........................................................................... 117
+
+2.6.4. Lafarge ................................................................................................................. 118
+
+2.6.5. Gyproc ................................................................................................................. 120
+
+2.6.6. Etex ................................................................................................................. 121
+
+3. Mesures correctives.............................................................................................. 121
+
+3.1. Article 3 du règlement n° 17................................................................................. 121
+
+3.2. Article 15, paragraphe 2, du règlement n° 17........................................................ 121
+
+3.2.1. Considérations générales...................................................................................... 121
+
+FR 3 FR
+
+3.2.2. Montant des amendes........................................................................................... 122
+
+3.2.2.1. Le montant de base............................................................................................... 122
+
+3.2.2.2. Circonstance aggravante : récidive ....................................................................... 129
+
+3.2.2.3. Circonstances atténuantes..................................................................................... 131
+
+3.2.2.4. Conclusion sur les montants des amendes avant application de la communication sur
+la clémence ......................................................................................................... 136
+
+3.2.2.5. Application de la communication sur la clémence ................................................ 136
+
+3.2.2.6. Montant final des amendes infligées dans la présente procédure........................... 138
+
+ANNEXE .......................................................................................................................... 141
+
+FR 4 FR
+
+DÉCISION DE LA COMMISSION
+
+du 27.11.2002
+
+relative à une procédure d’application de l’article 81 du traité CE
+
+Affaire COMP/E-1/37.152 – Plaques en plâtre (Les textes en langues allemande,
+anglaise, française et néerlandaise
+sont les seuls faisant foi.)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu le règlement n° 17 du Conseil du 6 février 1962, premier règlement d’application des
+articles 85 et 86 du traité1, modifié en dernier lieu par le règlement (CE) n° 1216/19992, et
+notamment ses articles 3 et 15,
+
+vu la décision de la Commission du 18 avril 2001 d’ouvrir la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission, conformément à l’article 19, paragraphe 1, du
+règlement n° 17 et au règlement (CE) n° 2842/98 de la Commission du 22 décembre 1998
+relatif à l’audition dans certaines procédures fondées sur les articles 85 et 86 du traité CE3,
+
+après consultation du comité consultatif en matière d’ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire,
+
+CONSIDERANT CE QUI SUIT:
+
+1. PARTIE I – LES FAITS
+
+1.1. Résumé de l’infraction
+
+(1) Les entreprises suivantes sont destinataires de la présente décision pour infraction à
+l’article 81 du traité :
+
+– BPB PLC (ci-après : « BPB »)
+
+– Gebrüder Knauf Westdeutsche Gipswerke KG (ci-après : « Knauf
+Westdeutsche Gipswerke »)
+
+– Société Lafarge SA (ci-après : « Lafarge »)
+
+– Gyproc Benelux NV (ci-après : « Gyproc »)
+
+FR 5 FR
+
+(2) BPB, Knauf4, Lafarge et Gyproc ont conclu et participé sans discontinuer à un accord
+complexe et continu contraire à l’article 81, paragraphe 1, du traité et qui s’est manifesté par
+les comportements suivants, constitutifs d’accords ou de pratiques concertées :
+
+– les représentants de BPB et Knauf se sont rencontrés à Londres en 1992 et ont
+exprimé la volonté commune de stabiliser les marchés du territoire de
+l’Allemagne (ci-après : « marché allemand »), du territoire du Royaume-Uni
+(ci-après : « marché britannique »), du territoire de la France (ci-après :
+« marché français »), des territoires des Pays-Bas, de la Belgique et du
+Luxembourg (ci-après : « marché du Benelux ») ;
+
+– les représentants de BPB et Knauf ont mis en place, à partir de 1992, des
+systèmes d’échange d’informations, auxquels Lafarge et ensuite Gyproc ont
+adhéré, portant sur leurs volumes de ventes sur les marchés allemand, français,
+britannique et du Benelux des plaques en plâtre ;
+
+– les représentants de BPB, Knauf et Lafarge se sont, à diverses reprises,
+informés réciproquement à l’avance des hausses de prix sur le marché
+britannique ;
+
+– faisant face à des développements particuliers du marché allemand, les
+représentants de BPB, Knauf, Lafarge et Gyproc se sont rencontrés à Versailles
+en 1996, à Bruxelles en 1997 et à La Haye en 1998 en vue de se répartir ou tout
+au moins de stabiliser le marché allemand;
+
+– les représentants de BPB, Knauf, Lafarge et Gyproc se sont informés
+réciproquement, à diverses reprises et se sont concertés sur l’application de
+hausses de prix sur le marché allemand entre 1996 et 1998.
+
+(3) La durée de participation à l’infraction des entreprises concernées est la suivante :
+
+– BPB : du 31 mars 1992, au plus tard, au 25 novembre 1998
+
+– Knauf : du 31 mars 1992, au plus tard, au 25 novembre 1998
+
+– Lafarge : du 31 août 1992, au plus tard, au 25 novembre 1998
+
+– Gyproc : du 6 juin 1996, au plus tard, au 25 novembre 1998
+
+1.2. La procédure
+
+1.2.1. Vérifications au titre de l’article 14, paragraphe 3, du règlement n° 17
+
+(4) Le 25 novembre 1998, suite à des informations reçues5, et agissant conformément à des
+décisions de la Commission en vertu de l’article 14, paragraphe 3, du règlement n°17, des
+agents de la Commission, accompagnés de représentants des autorités compétentes des États
+membres concernés, ont procédé à des vérifications simultanées et inopinées auprès des
+entreprises suivantes :
+
+– BPB (Royaume-Uni)
+
+– British Gypsum Ltd (Royaume-Uni),
+
+FR 6 FR
+
+– BPB Placo SA (France),
+
+– Rigips GmbH (Allemagne),
+
+– BPB Italia SA (Italie),
+
+– Knauf (Allemagne),
+
+– Lafarge Plâtres International SA (France),
+
+– Gyproc (Belgique).
+
+(5) Le 1er juillet 1999, la Commission a effectué d’autres vérifications en application de
+l’article 14, paragraphe 3, chez Etex SA (ci-après : « Etex ») en Belgique et chez Lafarge Gips
+GmbH en Allemagne.
+
+1.2.2. Demandes de renseignements au titre de l’article 11 du règlement n° 17
+
+(6) Le 27 janvier 1999, la Commission a adressé une demande de renseignements au titre de
+l’article 11 du règlement n° 17 à BPB portant sur des références figurant dans des documents
+obtenus durant la vérification effectuée dans ses locaux au mois de novembre 1998. BPB a
+fourni sa réponse le 17 mars 19996, en y joignant une note à la Commission7, dans laquelle il
+reconnaît certaines infractions à l’article 81 limitées à l’échange de renseignements
+commerciaux, mais en soutenant qu’elles n’avaient pas ou peu eu d’incidence sur la
+concurrence et niant avoir connaissance du moindre accord ou entente sur le partage du
+marché allemand. Le 28 mai 1999, BPB a également communiqué une déclaration8 dans
+laquelle cette entreprise nie avoir eu connaissance d’un accord sur la fixation de parts de
+marché en Allemagne et y avoir participé. Le 21 septembre 1999, la Commission a adressé
+une seconde demande de renseignements à BPB. BPB a fourni une réponse le 28 octobre
+19999. Le 30 mars 2000, la Commission a adressé une troisième demande de renseignements
+à BPB. BPB a fourni une réponse le 18 mai 200010.
+
+(7) La Commission a adressé des demandes de renseignements au titre dudit article 11 à
+Knauf le 8 juillet 1999 et à Lafarge et Etex le 21 septembre 1999, dans lesquelles la
+Commission a demandé des informations portant sur des documents qu’elle a obtenus dans
+les locaux de ces entreprises durant les vérifications de novembre 1998 et juillet 1999. Knauf
+a répondu le 14 septembre 1999, Lafarge le 29 octobre 1999 et Gyproc le 2 novembre 1999.
+Gyproc a par ailleurs remis à la Commission, le 1er septembre 1999, une déclaration faisa
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rcules/Commission, Recueil 1991, p. II-1711, points 255, 258-261.
+
+378 Arrêt précité dans l'affaire Hüls/Commission, points 158 à 166, et arrêt précité dans l’affaire
+HFB/Commission, points 213 et 216.
+
+379 Arrêt pécité dans l’affaire Hüls/Commission, points 163 à 165 et arrêt précité dans l’affaire
+HFB/Commission, point 217.
+
+380 Arrêt précité dans l'affaire Commission/Anic Partecipazioni SpA, point 81.
+
+381 Arrêt précité dans les affaires SA Cimenteries CBR e.a./Commission, points 4025 et suivants.
+
+382 Arrêt précité dans l’affaire Hercules/Commission, point 264.
+
+383 Arrêt précité dans l’affaire PVC II, point 696, confirmé par l’arrêt précité , dans l’affaire
+L.M.V./Commission e.a.
+
+384 Arrêt précité dans l’affaire Commission/Anic Partepazioni, points 131 et 132.
+
+385 Ibid., point 43.
+
+386 Ibid., point 83.
+
+387 Voir le considérant (489).
+
+388 Arrêt du Tribunal de première instance du 24 octobre 1991, dans l’affaire T-1/89, Rhône Poulenc
+SA/Commission, Recueil 1991, p. II-867, point 126.
+
+389 Deuxième réponse de BPB à la demande de renseignements, p. 36.8129.
+
+FR 131 FR
+
+390 Réponse de Knauf à la communication des griefs, p. 29-30.
+
+391 Réponse de BPB à la communication des griefs, point 6.2.3.
+
+392 Voir les considérants (57) et (61).
+
+393 Réponse de BPB à la communication des griefs, p.108.
+
+394 Arrêt précité dans l’affaire HFB/Commission, point 200.
+
+395 Réponse de Knauf à la communication des griefs, p.31.
+
+396 Voir les considérants (58) et (59).
+
+397 Voir le considérant (106).
+
+398 Voir les considérants (111) et (113).
+
+399 Réponse de Knauf à la communication des griefs, p. 22.
+
+400 Arrêt précité dans l’affaire Thyssen Stahl AG/Commission, point 404.
+
+401 Ibid., point 675.
+
+402 Voir les considérants (162) et (163).
+
+403 Arrêt précité dans l’affaire Thyssen Stahl AG/Commission, points 403 et suivants.
+
+404 Arrêt de la Cour de justice du 28 mai 1998, dans l’affaire C-7/95, John Deere/Commission, Recueil
+1998 , p. I-3111, points 88 à 90.
+
+405 Cette caractéristique du marché est confirmée par les entreprises destinataires de la présente décision,
+voir notamment la réponse de BPB à la communication des griefs, p. 26 ;
+
+406 Voir le considérant (139).
+
+407 Arrêt de la Cour de justice du 31 mars 1993, dans l’affaire C-89/85, Ahlström/Commission, Recueil
+1993, I-1307, point 175 et arrêt précité dans l’affaire Trefilunion/Commission, point 79.
+
+408 Arrêt précité dans l’affaire HFB/Commission, points 216 et 217.
+
+409 Voir les considérants (127) et suivants, particulièrement (136) à (140).
+
+410 Voir les considérants (158) à (161); la Commission précise qu’il existe certains éléments de fait selon
+lesquels Gyproc a participé à des comportements pouvant être qualifiés d’anticoncurrentiels avant la tenue de la
+réunion de Versailles (voir le considérant (471)). Toutefois, en ce qui concerne ces comportements, la
+Commission n’est pas en mesure d’apporter la preuve nécessaire que Gyproc savait ou aurait dû savoir qu’il
+adhérait à l’accord de Londres portant sur l’échange d’informations entre [représentants de haut niveau] sur les
+quatre marchés principaux.
+
+411 Voir les considérants (171) et suivants.
+
+412 Voir les considérants (447) et (448).
+
+413 Voir notamment les considérants (229), (251) et (260).
+
+FR 132 FR
+
+414 Voir le considérant (219).
+
+415 Voir le considérant (216).
+
+416 Arrêts du Tribunal de première instance du 20 mars 2002, dans l’affaire T-23/99, LR AF/Commission,
+Recueil 2002, p. II-1705, point 39.
+
+417 Déclaration de Gyproc à la Commission, p.35.7790.
+
+418 Voir le considérant (265).
+
+419 Arrêt précité dans l’affaire HFB/Commission, point 206.
+
+420 Voir le considérant (272).
+
+421 Arrêt précité dans l’affaire SA Cimenteries CBR ea/ Commission, point 1849.
+
+422 Arrêt précité dans l’affaire Tate & Lyle/Commission, point 58.
+
+423 Ibid., points 60 et 61.
+
+424 Voir le considérant (211).
+
+425 Voir notamment les considérants (441), (452), (461), (469), (470), (475) et (477).
+
+426 Arrêt de la Cour de justice du 28 mars 1984, dans l’affaire 29 et 30/83, CRAM &
+Reihnzink/Commission, Recueil 1984, 1679, point 26 et arrêt de la Cour de justice du 8 novembre 1983, dans
+l’affaire 96/82, IAZ/Commission, Recueil 1983, page 3369, points 22 et suivants.
+
+427 Arrêt de la Cour de justice du 21 janvier 1999, dans les affaires jointes C-215/96 et C-216/96, Bagnasco
+e.a., Recueil 1999, p I-161, points 47 et 48.
+
+428 Arrêt de la Cour de justice du 28 avril 1998, dans l'affaire C-306/96, Javico et Javico AG/Yves Saint
+Laurent Parfums SA, Recueil 1998, p. I-1983, points 16 et 17 et arrêt du Tribunal de première instance du 15
+septembre 1998 dans l'affaire T-374/94, European Night Services, Recueil 1998, p. II-3141, point 136.
+
+429 Arrêt du Tribunal de première instance du 10 mars 1992, dans l'affaire T-13/89, Imperial Chemical
+Industries/Commission, Recueil 1992, p. II-1021, point 304.
+
+430 Arrêt de la Cour de justice du 29 octobre 1980, dans les affaires jointes 209 à 215 et 218/78, Van
+Landewyck e.a./Commission, Recueil 1980, p. 3125, point 170.
+
+431 Voir les considérants (136), (455) et (456).
+
+432 Concernant le fait que Gyproc a participé à des comportements anticoncurrentiels avant cette date, voir
+la note 410.
+
+433 Voir les considérants (158), (161) et (457).
+
+434 Arrêt précité dans l’affaire HFB/Commission, point 231 et arrêts du Tribunal de première instance du
+14 mai 1998, dans l’affaire T-295/94, Buchmann/Commission, Recueil 1998, p. II-813, point 121, et dans
+l’affaire T-310/94, Gruber + Weber/Commission, Recueil 1998, p. II-1043, point 140.
+
+435 Arrêt précité dans l’affaire Commission/Anic Partecipazioni, points 83 et 203.
+
+436 Voir notamment l’arrêt précité dans l’affaire HFB/Commission, points 54 et suivants.
+
+FR 133 FR
+
+437 Ibid., points 66-67 ; voir aussi l’arrêt du Tribunal de première instance du 11 mars 1999, dans l’affaire
+T-156/94, Aristrain/Commission, Recueil1999, p.II-645, points 119 et suivants.
+
+438 Voir l’arrêt précité dans l’affaire SA Cimenteries CBR e.a./Commission, point 5040.
+
+439 Réponses des 19 septembre et 9 octobre 2002 à la demande d’information de la Commission.
+
+440 La dénomination sociale de Lafarge Plâtres international SA (anciennement dénommée Compagnie du
+Plâtre jusqu’au 10 août 1995) est devenue Lafarge Gypsum International le 15 août 2000.
+
+441 Arrêt de la Cour de justice du 16 novembre 2000, dans l’affaire C-286/98, Stora Kopparbergs
+Bergslags/Commission, Recueil point 29 ; arrêt de la Cour de justice du 25 octobre 1983,dans l’affaire 107/82,
+AEG/Commission, Recueil 1983, p. 3151, point 50 ; arrêt du Tribunal de première instance du 1er avril 1993,
+dans l’affaire T-65/89, BPB/Commission, Recueil 1993, p. II-389, point 149 et arrêt précité dans l’affaire
+LVM/Commission, points 960-961.
+
+442 Voir le considérant (43) et le site internet de Lafarge : www.Lafarge.com.
+
+443 Note de M. [G] du 8 août 2001 adressée à M. [..., responsable juridique de Lafarge] et transmise au
+conseiller-auditeur en annexe à un courrier de l’avocat de Lafarge.
+
+444 Voir les considérants (80), (290) et (302).
+
+445 Réponse de Lafarge à la communication des griefs, page 174.
+
+446 Voir le considérant (133).
+
+447 Voir le considérant (134).
+
+448 Réponse de Lafarge à la communication des griefs, p. 174.
+
+449 Réponse du 26 août 2002 à la demande d’information de la Commission, p.10.
+
+450 Ibid.
+
+451 Voir l’arrêt précité dans l’affaire SA Cimenteries CBR e.a./Commission, point 5040.
+
+452 Réponse d’Etex à la communication des griefs, p. 24.
+
+453 Voir l’arrêt précité, dans l’affaire IAZ, point 45, et l’arrêt du Tribunal de première instance du 13
+décembre 2001, dans les affaires jointes T-45/98 et T-47/98, Krupp-Thyssen, Recueil 2001, p. II-3757, point
+200.
+
+454 Réponse à la communication des griefs, p.40-47.
+
+455 JO C 9, 14.1.1998.
+
+456 Réponse à la communication des griefs, p.41-42.
+
+457 Réponse à la communication des griefs, p. 123-125.
+
+458 Réponse à la communication des griefs, p.8, 49, 58-59.
+
+459 Ibid., 125.
+
+460 Réponse à la communication des griefs, p. 68-69.
+
+FR 134 FR
+
+461 Réponse à la communication des griefs, p.42-44.
+
+462 Arrêt précité dans l’affaire John Deere Ltd/Commission, points 88-90.
+
+463 Voir, par exemple, l'arrêt du Tribunal de première instance du 14 mai 1998 dans l'affaire T-354/94,
+Stora Kopparbergs Bergslags AB/Commission ("Carton"), Recueil 1998, p. II-2111, point 170 ; voir aussi l’arrêt
+précité dans l’affaire PVC II, points 745-748.
+
+464 Voir l’arrêt précité dans l’affaire PVC II, point 748.
+
+465 Réponse de Gyproc à la communication des griefs, p. 44.
+
+466 Réponse à la communication des griefs, pp.46-47.
+
+467 Arrêt du 20 mars 2002, dans l’affaire T-31/99, ABB Asea Brown Boveri Ltd/Commission, Recueil
+2002, p. II-1881.
+
+468 Comme indiqué au considérant (509), le chiffre d’affaires retenu pour Lafarge pour l’imposition d’une
+amende est celui de l’« entreprise », au sens de l’article 81, paragraphe 1, du traité, dirigée par Lafarge, cette
+entreprise ayant commis l’infraction, c’est-à-dire le chiffre d’affaires mondial réalisé par l’ensemble des sociétés
+du groupe dirigé par Lafarge.
+
+469 Voir également la décision 2002/405/CE de la Commission du 20 juin 2001 relative à une procédure
+d'application de l'article 82 du traité CE , Michelin (J.O. L 143 du 31.5./2002; p. 1, considérants 361-363).
+
+470 Réponse à la communication des griefs, p.127-128.
+
+471 Réponse à la communication des griefs, p.48-49.
+
+472 Ibid., p.49.
+
+473 Réponse à la communication des griefs, pp.14-23, pour l’entente au niveau européen des [représentants
+de haut niveau], pp.27-35, pour l’infraction relative au marché allemand, pp.25-26, pour le marché britannique,
+p.48.
+
+474 Ibid., p.50.
+
+475 Réponse à la communication des griefs, p.122-123.
+
+476 Ibid., p.123.
+
+477 Ibid.
+
+478 Ibid.
+
+479 Réponse à la communication des griefs, p.126.
+
+480 Ibid, p.121-122.
+
+481 Réponse à la communication des griefs, pp.121-123, 125-126.
+
+482 Réponse à la communication des griefs, pp.19-23.
+
+483 Réponse à la communication des griefs, pp.51-53.
+
+FR 135 FR

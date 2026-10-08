@@ -1,0 +1,385 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+CASE AT.39563 – Retail Food Packaging
+
+(Only the German, English, French and Italian texts are authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 24/06/2015
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 24.6.2015
+C(2015) 4336 final
+
+COMMISSION DECISION
+
+of 24.6.2015
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39563 – Retail Food Packaging)
+
+(Only the German, English, French and Italian texts are authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 7
+2. The industry subject to the proceedings ....................................................................... 9
+2.1. The products covered by the infringement ................................................................... 9
+2.2. The market players involved in the cartels ................................................................ 10
+2.2.1. Linpac ......................................................................................................................... 10
+2.2.2. Vitembal ..................................................................................................................... 11
+2.2.3. Sirap-Gema ................................................................................................................ 11
+2.2.4. Coopbox ..................................................................................................................... 12
+2.2.5. Silver Plastics ............................................................................................................. 14
+2.2.6. Magic Pack ................................................................................................................. 14
+2.2.7. Nespak ........................................................................................................................ 15
+2.2.8. Huhtamäki .................................................................................................................. 15
+2.2.9. Propack ....................................................................................................................... 16
+2.2.10. Ovarpack .................................................................................................................... 16
+2.2.11. Distributors ................................................................................................................. 16
+2.3. Description of the sector ............................................................................................ 17
+2.4. Trade within EEA ...................................................................................................... 17
+3. Procedure.................................................................................................................... 18
+3.1. The Commission's investigation ................................................................................ 18
+4. Description of the events ............................................................................................ 21
+4.1. Italy (18 June 2002 – 17 December 2007) ................................................................. 21
+4.1.1. Basic principles and structure of the cartel ................................................................ 21
+4.1.1.1. General price increases and exchange of information ............................................... 21
+4.1.1.2. Allocation of clients ................................................................................................... 22
+4.1.1.3. Bid rigging of tenders organised by some major GDO clients .................................. 23
+4.1.2. Anti-competitive activities in the 1980's and 1990's .................................................. 24
+4.1.3. Chronology of events ................................................................................................. 25
+4.1.3.1. Year 2002 ................................................................................................................... 25
+4.1.3.2. Year 2003 ................................................................................................................... 33
+4.1.3.3. Year 2004 ................................................................................................................... 37
+4.1.3.4. Year 2005 ................................................................................................................... 46
+4.1.3.5. Year 2006 ................................................................................................................... 58
+4.1.3.6. Year 2007 ................................................................................................................... 68
+4.1.3.7. Year 2008 ................................................................................................................... 74
+
+EN 2 EN
+
+4.2. South-West Europe (2 March 2000 – 13 February 2008) .......................................... 75
+4.2.1. Basic principles and structure of the cartel ................................................................ 75
+4.2.2. The cartel history........................................................................................................ 76
+4.2.3. Chronology of events ................................................................................................. 77
+4.2.3.1. The price increases in Spain in 2000 .......................................................................... 77
+4.2.3.2. Coopbox's entry into the Portuguese market (2000-2001) ......................................... 79
+4.2.3.3. Contacts between 2001 and 2008 ............................................................................... 79
+4.3. North-West Europe (13 June 2002 – 29 October 2007) ............................................ 79
+4.3.1. Basic principles and structure of the cartel ................................................................ 79
+4.3.2. The cartel history........................................................................................................ 79
+4.3.3. Chronology of events ................................................................................................. 79
+4.3.3.1. The price increase in spring/summer 2002 ................................................................ 79
+4.3.3.2. The price increase in summer/autumn 2004 .............................................................. 79
+4.3.3.3. Bilateral exchange of information and kick off for the MAP IK in 2005 .................. 79
+4.3.3.4. Bilateral exchange of information in 2006 ................................................................. 79
+4.3.3.5. The price increase in the Netherlands in 2006 ........................................................... 79
+4.3.3.6. The price increase in autumn 2006 ............................................................................ 79
+4.3.3.7. Agreement in the framework of the MAP IK in autumn 2007 .................................. 79
+4.3.3.8. Bilateral and smaller multilateral contacts between competitors 2007 ...................... 79
+4.4. Central and Eastern Europe (5 November 2004 – 24 September 2007) .................... 79
+4.4.1. Basic principles and structure of the cartel ................................................................ 79
+4.4.2. The cartel history........................................................................................................ 79
+4.4.3. The chronology of events ........................................................................................... 79
+4.5. France (3 September 2004 – 24 November 2005) ..................................................... 79
+4.5.1. Basic principles and structure of the cartel ................................................................ 79
+4.5.2. The cartel history........................................................................................................ 79
+4.5.3. Chronology of events ................................................................................................. 79
+4.6. Discussion and findings regarding the evidence ........................................................ 79
+5. Application of Article 101 of the Treaty and Article 53 of the EEA Agreement ...... 79
+5.1. Relationship between the Treaty and the EEA Agreement ........................................ 79
+5.2. Jurisdiction ................................................................................................................. 79
+5.3. Application of competition rules ................................................................................ 79
+5.3.1. Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement ..................... 79
+5.3.2. Agreements and concerted practices .......................................................................... 79
+5.3.2.1. Principles .................................................................................................................... 79
+
+EN 3 EN
+
+5.3.2.2. Findings – Italy .......................................................................................................... 79
+5.3.2.3. Findings – South West Europe (SWE)....................................................................... 79
+5.3.2.4. Findings – North-West Europe (NWE)...................................................................... 79
+5.3.2.5. Findings – Central and Eastern Europe (CEE) .......................................................... 79
+5.3.2.6. Findings - France........................................................................................................ 79
+5.3.3. Single and continuous infringement ........................................................................... 79
+5.3.3.1. Principles .................................................................................................................... 79
+5.3.3.2. Arguments of the parties ............................................................................................ 79
+5.3.3.3. Discussion and findings ............................................................................................. 79
+5.3.3.4. Single and continuous infringement – Italy ............................................................... 79
+5.3.3.5. Single and continuous infringement – South-West Europe (SWE) ........................... 79
+5.3.3.6. Single and continuous infringement –North-West Europe (NWE) ........................... 79
+5.3.3.7. Single and continuous infringement – Central and Eastern Europe (CEE) ............... 79
+5.3.3.8. Single and continuous infringement – France ............................................................ 79
+5.3.4. Restriction of competition .......................................................................................... 79
+5.3.5. Effect upon trade between EU Member States .......................................................... 79
+5.4. Application of Article 101(3) of the Treaty ............................................................... 79
+6. Addressees of this decision ........................................................................................ 79
+6.1. General principles ...................................................................................................... 79
+6.2. Italy ............................................................................................................................ 79
+6.2.1. Linpac ......................................................................................................................... 79
+6.2.2. Sirap-Gema ................................................................................................................ 79
+6.2.3. Nespak ........................................................................................................................ 79
+6.2.4. Vitembal ..................................................................................................................... 79
+6.2.5. Magic Pack ................................................................................................................. 79
+6.2.6. Coopbox ..................................................................................................................... 79
+6.3. South-West Europe (SWE) ........................................................................................ 79
+6.3.1. Linpac ......................................................................................................................... 79
+6.3.2. Vitembal ..................................................................................................................... 79
+6.3.3. Coopbox ..................................................................................................................... 79
+6.3.4. Huhtamäki/ONO Packaging....................................................................................... 79
+6.3.5. Ovarpack .................................................................................................................... 79
+6.4. North-West Europe (NWE)........................................................................................ 79
+6.4.1. Linpac ......................................................................................................................... 79
+6.4.2. Vitembal ..................................................................................................................... 79
+
+EN 4 EN
+
+6.4.3. Huhtamäki .................................................................................................................. 79
+6.4.4. Silver Plastics ............................................................................................................. 79
+6.5. Central and Eastern Europe (CEE) ............................................................................ 79
+6.5.1. Linpac ......................................................................................................................... 79
+6.5.2. Sirap-Gema/Petruzalek .............................................................................................. 79
+6.5.3. Coopbox ..................................................................................................................... 79
+6.5.4. Propack ....................................................................................................................... 79
+6.6. France ......................................................................................................................... 7
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+2002 to 29
+October 2007.
+4. The following undertakings infringed Article 101 of the Treaty by participating, for
+the periods indicated, in a single and continuous infringement, which consisted of
+several separate infringements, in the foam trays for retail food packaging sector and
+covering the territory of the Czech Republic, Hungary, Poland and Slovakia (jointly
+referred to as "CEE"):
+
+EN 268 EN
+
+(a) LINPAC Packaging Polska Sp zo.o., LINPAC Packaging Kereskedelmi
+Korlátolt Felelősségű Társaság, LINPAC Packaging Spol S.r.o., LINPAC
+Packaging S.r.o., LINPAC Packaging GmbH and LINPAC Group Ltd,
+from 5 November 2004 to 24 September 2007;
+(b) Petruzalek GmbH, Petruzalek Kft., Petruzalek s.r.o., Petruzalek Spol.
+s.r.o., Sirap-Gema S.p.A. and Italmobiliare S.p.A., from 5 November
+2004 to 24 September 2007;
+(c) Coopbox Eastern s.r.o. from 5 November 2004 to 24 September 2007,
+CCPL S.c. from 8 December 2004 to 24 September 2007.
+(d) PROPACK Kft. from 13 December 2004 to 15 September 2006, Bunzl
+plc from 1 July 2005 to 15 September 2006. Propack Kft. and Bunzl plc
+are liable for the infringement insofar as it relates to Hungary.
+5. The following undertakings infringed Article 101 of the Treaty by participating, for
+the periods indicated, in a single and continuous infringement, which consisted of
+several separate infringements in the foam trays for retail food packaging sector and
+covering the territory of France:
+(a) LINPAC France SAS, LINPAC Distribution SAS and Linpac Group Ltd,
+from 3 September 2004 to 24 November 2005;
+(b) Sirap France S.A.S., Sirap-Gema S.p.A. and Italmobiliare S.p.A., from 3
+September 2004 to 24 November 2005;
+(c) VITEMBAL SOCIETE INDUSTRIELLE SAS and VITEMBAL
+HOLDING SAS, from 3 September 2004 to 24 November 2005;
+(d) COVERIS RIGID (AUNEAU) FRANCE SAS and Huhtamäki Oyj, from
+3 September 2004 to 24 November 2005;
+(e) Silver Plastics S.à r.l., Silver Plastics GmbH and Johannes Reifenhäuser
+Holding GmbH & Co. KG, from 29 June 2005 to 5 October 2005.
+
+Article 2
+1. For the infringement referred to in Article 1.1, the following fines are imposed:
+(a) LINPAC Packaging Verona S.r.l. and LINPAC Group Ltd, jointly and
+severally: EUR 0;
+(b) Sirap-Gema S.p.A. and Italmobiliare S.p.A., jointly and severally: EUR
+29 738 000;
+(c) NESPAK S.p.A. and GROUPE GUILLIN SA, jointly and severally:
+EUR 4 996 000;
+(d) VITEMBAL HOLDING SAS: EUR 295 000;
+(e) Magic Pack Srl: EUR 3 263 000;
+(f) Poliemme S.r.l.: EUR 321 000;
+(g) Poliemme S.r.l., Coopbox Group S.p.A. and CCPL S.c., jointly and
+severally: EUR 10 382 000;
+(h) Coopbox Group S.p.A. and CCPL S.c., jointly and severally: EUR 11
+434 000.
+
+EN 269 EN
+
+2. For the infringement referred to in Article 1.2, the following fines are imposed:
+(a) LINPAC Packaging Pravia S.A.: EUR 0;
+(b) LINPAC Packaging Holdings S.L., LINPAC Group Ltd and LINPAC
+Packaging Pravia S.A., jointly and severally: EUR 0;
+(c) VITEMBAL HOLDING SAS: EUR 295 000;
+(d) Coopbox Hispania S.l.u. and CCPL S.c., jointly and severally: EUR 9
+660 000;
+(e) Coopbox Hispania S.l.u.: EUR 1 295 000;
+(f) Ovarpack Embalagens S.A.: EUR 67 000.
+3. For the infringement referred to in Article 1.3, the following fines are imposed:
+(a) LINPAC Packaging GmbH and LINPAC Group Ltd, jointly and
+severally: EUR 0;
+(b) VITEMBAL GmbH Verpackungsmittel and VITEMBAL HOLDING
+SAS, jointly and severally: EUR 265 000;
+(c) Huhtamaki Flexible Packaging Germany GmbH & Co. KG and
+Huhtamäki Oyj, jointly and severally: EUR 10 727 000;
+(d) Huhtamaki Flexible Packaging Germany GmbH & Co. KG: EUR 79 000;
+(e) Silver Plastics GmbH, Silver Plastics GmbH & Co. KG and Johannes
+Reifenhäuser Holding GmbH & Co. KG, jointly and severally: EUR 20
+317 000.
+4. For the infringement referred to in Article 1.4, the following fines are imposed:
+(a) LINPAC Packaging Polska Sp zo.o., LINPAC Packaging Kereskedelmi
+Korlátolt Felelősségű Társaság, LINPAC Packaging Spol S.r.o., LINPAC
+Packaging S.r.o., LINPAC Packaging GmbH and LINPAC Group Ltd,
+jointly and severally: EUR 0;
+(b) Petruzalek GmbH, Petruzalek Kft., Petruzalek s.r.o., Petruzalek Spol.
+s.r.o., Sirap-Gema S.p.A. and Italmobiliare S.p.A., jointly and severally:
+EUR 943 000;
+(c) Coopbox Eastern s.r.o. and CCPL S.c., jointly and severally: EUR 591
+000;
+(d) Coopbox Eastern s.r.o.: EUR 11 000.
+(e) PROPACK Kft. and Bunzl plc, jointly and severally: EUR 53 000;
+(f) PROPACK Kft.: EUR 12 000.
+5. For the infringement referred to in Article 1.5, the following fines are imposed:
+(a) LINPAC France SAS, LINPAC Distribution SAS and LINPAC Group
+Ltd, jointly and severally: EUR 0;
+(b) Sirap France S.A.S., Sirap-Gema S.p.A. and Italmobiliare S.p.A., jointly
+and severally: EUR 5 207 000;
+(c) VITEMBAL HOLDING SAS: EUR 265 000;
+
+EN 270 EN
+
+(d) COVERIS RIGID (AUNEAU) FRANCE SAS and Huhtamäki Oyj,
+jointly and severally: EUR 4 756 000;
+(e) Silver Plastics S.à r.l., Silver Plastics GmbH and Johannes Reifenhäuser
+Holding GmbH & Co. KG, jointly and severally: EUR 893 000.
+The fines shall be credited in euro within three months of the date of notification of this
+Decision to the following account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39563
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date by either providing an acceptable bank guarantee or making a provisional
+payment of the fine in accordance with Article 90 of Commission Delegated Regulation (EU) No
+1268/20121256.
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+LINPAC Group Ltd, Wakefield Road, Featherstone, West Yorkshire, WF7 5DE,
+United Kingdom;
+LINPAC Packaging Verona S.r.l., Via Monte Pastello 40, IT- 37057 VR San Giovanni
+Lupatoto, Verona, Italy;
+LINPAC Packaging Pravia S.A., Vegafriosa, La Calzada, E-33128 Pravia, Spain;
+LINPAC Packaging Holdings S.L., Vegafriosa, La Calzada, E-33128 Pravia, Asturias,
+Spain;
+LINPAC Packaging GmbH, Deltastrasse 1, D-27721 Ritterhude, Germany;
+
+1256
+Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L 362, 31.12.2012, p. 1–111).
+
+EN 271 EN
+
+LINPAC Packaging Polska Sp zo.o., Ul Zwirowa, 53/55, PL-05506 Wladyslawów,
+Poland;
+LINPAC Packaging Kereskedelmi Korlátolt Felelősségű Társaság, Depo, 3/A,
+Törökbálint, HU-2045, Hungary;
+LINPAC Packaging Spol S.r.o., Cerna Ulice 1457, CZ-29501 Mnichovo Hradiste
+Czech Republic;
+LINPAC Packaging S.r.o., Vasinova 61, SK-94901 Nitra, Slovakia;
+LINPAC France SAS, Parc D'Activités de Kerguilloten, F-56920 Noyal-Pontivy,
+France;
+LINPAC Distribution SAS, Parc D'Activités de Kerguilloten, F-56920 Noyal-Pontivy,
+France;
+Ovarpack Embalagens S.A., Z. Ind. de Ovar, Rua de Cabo Verde, 3881-902 Ovar,
+Portugal;
+Italmobiliare S.p.A., Via Borgonuovo 20, 20120 Milan, Italy;
+Sirap-Gema S.p.A., Via Industriale 1/3, 25028 Verolanuova, Brescia, Italy;
+Petruzalek GmbH, Gewerbepark Mitterfeld 8, A-2523 Tattendorf – Vienna, Austria;
+Petruzalek Kft., Sörház Utca 3/b, HU – 1222, Budapest, Hungary;
+Petruzalek s.r.o., Bratislavská č.p. 3228, č.o. 50, 690 02 Breclav, Czech Republic;
+Petruzalek Spol. s.r.o., Domové role 71, 821 05 Bratislava, Slovakia;
+Sirap France S.A.S., Route Nationale 7, 13550 Noves, France;
+VITEMBAL HOLDING SAS, Usine St André, 30210 Remoulins, France;
+VITEMBAL SOCIETE INDUSTRIELLE SAS, Usine St André, 30210 Remoulins,
+France;
+VITEMBAL España, S.L., C/ Lluis Vives, 35 bajos, 08402 Granollers, Barcelona,
+Spain;
+VITEMBAL GmbH Verpackungsmittel, Kopernikusstrasse, 21, 50126 Bergheim/Erft,
+Germany;
+CCPL S.c., Via Gandhi 8, 42123 Reggio Emilia, Italy;
+Coopbox Group S.p.A., Via Gandhi 8, 42123 Reggio Emilia, Italy;
+Poliemme S.r.l., Via Gandhi 8, 42123 Reggio Emilia, Italy;
+Coopbox Hispania S.l.u., Poligono Saprelorca CTRA NAC. 240 KM, 260 Parcelas 13
+– 17, 30817 Lorca, Murcia, Spain;
+Coopbox Eastern s.r.o., Trenčianska 17, SK-915 01 Nové Mesto n/V, Slovakia;
+Huhtamäki Oyj, Miestentie 9, 02150 Espoo, Finland;
+Huhtamaki Flexible Packaging Germany GmbH & Co. KG, Heinrich-Nicolaus-Strasse
+6, 87671 Ronsberg, Germany;
+COVERIS RIGID (AUNEAU) FRANCE SAS, 10 Route de Roinville, 28700 Auneau
+- Cedex, France;
+
+EN 272 EN
+
+Johannes Reifenhäuser Holding GmbH & Co. KG, Spicher Strasse 46, D-53844
+Troisdorf, Germany;
+
+Silver Plastics GmbH & Co. KG, Godesberger Str.9, 53842 Troisdorf, Germany;
+
+Silver Plastics GmbH, Godesberger Str.9, 53842 Troisdorf, Germany;
+
+Silver Plastics S.à r.l., 611 rue Paul Boucherot, ZAC Object'Ifs Sud, 14123 Ifs, France;
+
+GROUPE GUILLIN SA, Avenue du Maréchal de Lattre de Tassigny – Zone
+industrielle, 25290 Ornans, France;
+
+NESPAK S.p.A., Via Damano 1, 48024 Massa Lombarda (RA), Italy;
+
+Magic Pack Srl, Via del Lavoro 1, 26030 Gadesco Pieve Delmona (Cremona), Italy;
+
+Bunzl plc, York House, 45 Seymour Street, London W1H 7JT; United Kingdom;
+
+PROPACK Kft., H-2310 Szigetszentmiklós, Kántor út 10, Hungary;
+
+ONO PACKAGING PORTUGAL SA, Avenida Antonio Augusto de Aguiar, 19 – 4°
+Dto, Sala B, 1050 012 Lisboa, Portugal.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 24.6.2015
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 273 EN

@@ -1,0 +1,482 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+BESCHLUSS DER KOMMISSION
+
+vom 3.12.2009
+
+in einem Verfahren nach Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 54 EWR-Abkommen
+
+(Sache COMP/39.316 – Gaz de France)
+
+(Nur der französische Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DIE EUROPÄISCHE KOMMISSION –
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten
+Wettbewerbsregeln1, insbesondere auf Artikel 9 Absatz 1,
+
+gestützt auf die Entscheidung der Kommission vom 16. Mai 2008, in dieser Sache ein
+Verfahren einzuleiten,
+
+nachdem in der vorläufigen Beurteilung vom 22. Juni 2009 Bedenken geäußert wurden,
+
+nachdem interessierten Dritten gemäß Artikel 27 Absatz 4 der Verordnung (EG)
+Nr. 1/2003 Gelegenheit gegeben wurde, zu den zur Ausräumung der Bedenken
+angebotenen Verpflichtungszusagen Stellung zu nehmen2,
+
+nach Stellungnahme des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+in Kenntnis des Abschlussberichts der Anhörungsbeauftragten in dieser Sache,
+
+in Erwägung nachstehender Gründe:
+
+1. GEGENSTAND
+
+(1) Dieser Beschluss ist an die GDF Suez S.A. sowie ihre Tochtergesellschaften
+GRTgaz S.A. („GRTgaz“) und Elengy S.A. („Elengy“) und die von diesen
+kontrollierten Unternehmen (nachstehend zusammen „GDF Suez“ genannt)
+gerichtet und betrifft das Verhalten von GDF Suez auf den französischen
+Gasmärkten und insbesondere auf den Märkten für Importkapazitäten und
+Gasbelieferung.
+
+(2) In ihrer vorläufigen Beurteilung vom 22. Juni 2009 kam die Kommission zu dem
+vorläufigen Ergebnis, dass GDF Suez auf den Märkten für Importkapazitäten und
+Gasbelieferung in den Bilanzausgleichszonen des Gastransportnetzes von
+GRTgaz eine beherrschende Stellung innehat. In der vorläufigen Beurteilung
+äußerte die Kommission Bedenken, dass GDF Suez seine marktbeherrschende
+Stellung im Sinne von Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union („AEUV“)3 missbräuchlich ausgenutzt haben könnte, indem
+es den Zugang zu den Gasimportkapazitäten in den Bilanzausgleichszonen des
+Netzes von GRTgaz dauerhaft abschottete, was in diesen Zonen den Wettbewerb
+
+1 ABl. L 1 vom 4.1.2003, S. 1. Mit Wirkung vom 1. Dezember 2009 sind an die Stelle der Artikel 81
+und 82 EG-Vertrag die Artikel 101 und 102 des Vertrags über die Arbeitsweise der Europäischen
+Union (AEUV) getreten. Die Artikel 81 und 82 EG-Vertrag und die Artikel 101 und 102 AEUV sind
+im Wesentlichen identisch. Im Rahmen dieses Beschlusses sind Bezugnahmen auf die Artikel 101 und
+102 AEUV als Bezugnahmen auf die Artikel 81 und 82 EG-Vertrag zu verstehen, wo dies angebracht
+ist.
+
+2 ABl. C 156 vom 9.7.2009, S. 25.
+
+3 Jede Bezugnahme auf Artikel 102 AEUV bezieht sich im Folgenden grundsätzlich auf Artikel 102
+AEUV und Artikel 54 EWR-Abkommen.
+
+auf den nachgelagerten Gasbelieferungsmärkten beeinträchtigt habe. Diese
+Abschottung sei eine Folge der Langzeitbuchung des Großteils der
+Gasimportkapazitäten, der Begrenzung der Aufnahmekapazität des neuen
+Flüssiggasterminals in Fos Cavaou, der bei der Zuteilung der Langzeitkapazitäten
+dieser Importinfrastruktur angewandten Verfahren und der strategischen
+Begrenzung der Investitionen in zusätzliche Importkapazitäten am
+Flüssiggasterminal von Montoir de Bretagne.
+
+2. ADRESSAT
+
+(3) Das Unternehmen GDF Suez, das 2008 aus der Fusion von Gaz de France S.A.
+und Suez S.A. (nachstehend „GDF“ genannt) hervorgegangen ist, zählt zu den
+wichtigsten Energielieferanten weltweit und ist auf jeder Stufe der
+Wertschöpfungskette des Strom- und Gassektors vertreten. Der Gesamtkonzern
+GDF Suez erzielte 2008 einen Umsatz von 83 Mrd. EUR. In Frankreich ist GDF
+der ursprüngliche vertikal integrierte Betreiber im Erdgassektor. 2007 verkaufte
+GDF [...]* TWh (rd. [...] Mrd. m3) Erdgas an französische Kunden. Das
+Gastransportnetz auf französischem Gebiet steht weitgehend im Eigentum von
+GRTgaz, einer Tochtergesellschaft von GDF, und wird auch von dieser
+verwaltet4. Eine weitere GDF-Tochtergesellschaft, Elengy, besitzt und verwaltet
+die beiden bislang in Frankreich betriebenen Flüssiggasterminals. Elengy ist
+außerdem mit rund 70 % an der Eigentümergesellschaft des neuen
+Flüssiggasterminals beteiligt, der im Laufe des Jahres 2009 in Fos Cavaou in
+Südfrankreich in Betrieb genommen werden soll. Elengy soll die operative
+Verwaltung dieses neuen Terminals übernehmen. Storengy, eine weitere GDF-
+Tochtergesellschaft, ist Eigentümerin der meisten Gasspeicher in Frankreich.
+Außerdem kontrolliert GDF das Energiehandelsunternehmen Gaselys und ist
+Minderheitsaktionär der Frankreich vorgelagerten Gasleitungen5.
+
+3. VERFAHRENSABLAUF NACH DER VERORDNUNG (EG) NR. 1/2003
+
+(4) Die Untersuchung beruht auf den Ergebnissen einer im Mai 2006 in den
+Geschäftsräumen von GDF durchgeführten Nachprüfung6 sowie auf den
+
+* Einige Textstellen dieses Beschlusses wurden so abgefasst, dass vertrauliche Angaben nicht offengelegt
+werden; die betreffenden Textteile stehen in eckigen Klammern und sind durch einen Asterisk (*)
+gekennzeichnet.
+
+4 Seit der Zusammenlegung der Bilanzausgleichszonen Nord, Ost und West zu einer einzigen
+Bilanzausgleichszone im Januar 2009 besteht das Fernleitungsnetz von GRTgaz aus zwei
+Bilanzausgleichszonen für H-Gas (Bilanzausgleichszone Nord und Bilanzausgleichszone Süd) und aus
+einer einzigen für L-Gas (Bilanzausgleichszone Nord-B). Das Fernleitungsnetz im Südwesten
+Frankreichs wiederum gehört der Total-Tochter TIGF S.A. („TIGF“) und wird von dieser auch
+verwaltet. Das Netz von TIGF bildet eine eigene Bilanzausgleichszone.
+
+5 Dies sind die MEGAL durch Deutschland und die SEGEO durch Belgien (GDF Suez hat seine
+SEGEO-Beteiligung unlängst in Anwendung von Nummer 30 seiner Verpflichtungen in der Sache
+COMP/M.4180 – GDF/Suez, abgetreten).
+
+6 Nachprüfungsentscheidung vom 5. Mai 2006 in der Sache COMP/B-1/39.316, mit der die Gaz de
+France S.A. angewiesen wurde, sich einer Nachprüfung nach Artikel 20 Absatz 4 der Verordnung
+(EG) Nr. 1/2003 des Rates zu unterziehen.
+
+Informationen, die die Kommission aufgrund von Auskunftsverlangen erhielt, die
+sie zwischen 2006 und 2009 an GDF Suez und andere Marktbeteiligte richtete.
+
+(5) Am 16. Mai 2008 leitete die Kommission gegen GDF ein Verfahren nach
+Artikel 2 der Verordnung (EG) Nr. 773/2004 der Kommission vom 7. April 2004
+über die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82
+EG-Vertrag durch die Kommission7 ein.
+
+(6) Am 22. Juni 2009 nahm die Kommission eine vorläufige Beurteilung nach
+Artikel 9 Absatz 1 der Verordnung (EG) Nr. 1/2003 an, in der sie ihre
+wettbewerbsrechtlichen Bedenken bezüglich des Verhaltens von GDF Suez auf
+den französischen Gasmärkten darlegte. Die Beurteilung wurde GDF Suez S.A.,
+GRTgaz und Elengy mit Schreiben vom 22. Juni 2009 übermittelt.
+
+(7) Am 24. Juni 2009 bot GDF Suez der Kommission in Reaktion auf die vorläufige
+Beurteilung gemäß Artikel 9 Absatz 1 der Verordnung (EG) Nr. 1/2003
+Verpflichtungszusagen an. Am 14. August 2009 übermittelte GDF Suez eine
+Stellungnahme zu der vorläufigen Beurteilung, in der das Unternehmen deren
+wichtigsten Ergebnissen widersprach.
+
+(8) Am 9. Juli 2009 veröffentlichte die Kommission im Amtsblatt der Europäischen
+Union eine Bekanntmachung gemäß Artikel 27 Absatz 4 der Verordnung (EG)
+Nr. 1/2003, in der sie den Sachverhalt sowie den Inhalt der
+Verpflichtungszusagen zusammenfasste und interessierte Dritte aufforderte,
+innerhalb von zwei Monaten ab Veröffentlichung der Bekanntmachung zu den
+Verpflichtungszusagen Stellung zu nehmen.
+
+(9) Am 21. September 2009 informierte die Kommission GDF Suez über die
+Stellungnahmen, die infolge der Veröffentlichung der Bekanntmachung
+eingegangen waren. Am 21. Oktober 2009 übermittelte GDF Suez geänderte
+Verpflichtungszusagen.
+
+(10) Am 9. November 2009 wurde der Beratende Ausschuss für Kartell- und
+Monopolfragen gehört. Am 17. November 2009 legte die Anhörungsbeauftragte
+ihren Abschlussbericht vor.
+
+4. VORLÄUFIGE BEURTEILUNG
+
+4.1. Relevante Märkte
+
+4.1.1. Sachlich relevante Märkte
+
+(11) Gemäß der bisherigen Entscheidungspraxis der Kommission wurde in der
+vorläufigen Beurteilung zwischen Märkten für die Gasbelieferung einerseits und
+infrastrukturbezogenen Märkten andererseits unterschieden8.
+
+7 ABl. L 123 vom 27.4.2004, S. 18.
+
+8 Vgl. z. B. die Entscheidungen der Kommission in den Sachen COMP/M.4180 – GDF/Suez,
+Erwägungsgründe 341 und 342, sowie COMP/M.3410 – Total/GDF, Erwägungsgründe 15 bis 19.
+
+(12) Innerhalb der Gasbelieferungsmärkte wurde in der vorläufigen Beurteilung
+zwischen dem Markt für die Belieferung von Weiterverteilern wie etwa örtlichen
+Verteilungsunternehmen (Großhandel) und dem Markt für die Belieferung von
+Endkunden (Einzelhandel) unterschieden9.
+
+(13) Auf Ebene der Belieferung von Endkunden war nach der vorläufigen Beurteilung
+der Kommission eine weitere Unterteilung des sachlich relevanten Marktes
+möglich, und zwar zum einen in einen Markt für die Belieferung mit Gas über das
+Gasfernleitungsnetz und einen Markt für die Belieferung mit Gas über das
+Verteilnetz, und zum anderen nach Art der Kunden (Privatkunden, gewerbliche
+und industrielle Kunden). In Frankreich sind nur große industrielle Endkunden
+direkt ans Fernleitungsnetz angeschlossen. Der Bedarf und die
+Verbrauchsgewohnheiten dieser Kunden unterscheiden sich erheblich von denen
+der an das Verteilnetz angeschlossenen Normalkunden10. Was die Belieferung
+über die Verteilnetze angeht, so vertrat die Kommission die Auffassung, dass
+zwischen Privatkunden und Nichtprivatkunden unterschieden werden kann, da
+diese beiden Arten von Kunden recht unterschiedliche Verbrauchsgewohnheiten
+und Bedürfnisse haben11.
+
+(14) In Bezug auf die gasinfrastrukturbezogenen Märkte grenzte die Kommission in
+ihrer vorläufigen Beurteilung einen Markt für Gasimportkapazitäten ab, der
+sowohl die Importkapazitäten der Gasleitungen als auch die der
+Flüssiggasterminals einschließt. Innerhalb dieses Marktes unterschied die
+Kommission zwischen festen und unterbrechbaren (einschließlich der bedingten)
+Kapazitäten.
+
+(15) Gemäß ihrer bisherigen Entscheidungspraxis unterschied die Kommission in ihrer
+vorläufigen Beurteilung zudem zwischen hochkalorischem H-Gas und
+niederkalorischem L-Gas12, und zwar sowohl beim Markt für Importkapazitäten
+als auch beim Belieferungsmarkt.
+
+4.1.2. Räumlich relevante Märkte
+
+(16) Im Einklang mit ihrer bisherigen Entscheidungspraxis13 vertrat die Kommission
+in ihrer vorläufigen Beurteilung die Auffassung, dass angesichts der
+unterschiedlichen Bedingungen für den Gastransport in eine
+Bilanzausgleichszone bzw. zwischen den Bilanzausgleichszonen sowie angesichts
+der unterschiedlichen Marktanteile der Lieferanten in den einzelnen Zonen die
+
+9 Vgl. z. B. die Entscheidungen der Kommission in den Sachen COMP/M.4180 – GDF/Suez,
+Erwägungsgründe 375 bis 379, sowie COMP/M.3410 – Total/GDF, Erwägungsgrund 21.
+
+10 Vgl. Entscheidung der Kommission in der Sache COMP/M.4180 – GDF/Suez, Erwägungsgründe 355
+bis 361.
+
+11 Vgl. Entscheidung der Kommission in der Sache COMP/M.4180 – GDF/Suez, Erwägungsgründe 371
+bis 374.
+
+12 Vgl. Entscheidung der Kommission in der Sache COMP/M.4180 – GDF/Suez, Erwägungsgründe 64
+bis 69 und 344 bis 345.
+
+13 Vgl. z. B. die Entscheidungen der Kommission in den Sachen COMP/M.4180 – GDF/Suez,
+Erwägungsgründe 380 bis 385, sowie COMP/M.3410 – Total/GDF, Erwägungsgründe 31 bis 34.
+
+räumlich relevanten Belieferungsmärkte den einzelnen Bilanzausgleichszonen des
+französischen Fernleitungsnetzes entsprechen.
+
+(17) Was den Markt für Gasimportkapazitäten anbelangt, so wurde in der vorläufigen
+Beurteilung der Schluss gezogen, dass die Kapazitäten sämtlicher
+Gasimportinfrastrukturen in jeder Bilanzausgleichszone des französischen
+Transportnetzes einschließlich der Verbindungskapazitäten zwischen den
+Bilanzausgleichszonen des GRTgaz-Netzes als zu einem einzigen relevanten
+räumlichen Markt gehörend angesehen werden können14.
+
+4.1.3. Die beherrschende Stellung von GDF Suez auf den relevanten Märkten
+
+(18) In der vorläufigen Beurteilung kam die Kommission vorläufig zu dem Ergebnis,
+dass GDF Suez in jeder Bilanzausgleichszone des GRTgaz-Netzes auf den
+Märkten für Gasimportkapazitäten und Gasbelieferung eine beherrschende
+Stellung innehat.
+
+(19) In Bezug auf die Gasimportkapazitäten in Frankreich stellte die Kommission fest,
+dass alle wichtigen Grenz-Einspeisepunkte im Fernleitungsnetz15 sowie die
+Verbindungsleitungen zwischen der Nord- und der Südzone des GRTgaz-Netzes
+der GDF-Tochter GRTgaz gehören und von ihr verwaltet werden. Der
+vorläufigen Beurteilung zufolge verfügt GDF zudem über den Großteil der
+Kapazitäten an diesen Einspeise- und Verbindungspunkten. Des Weiteren stellte
+die Kommission fest, dass die GDF-Tochter Elengy die derzeit in Betrieb
+befindlichen bzw. demnächst in Frankreich in Betrieb gehenden
+Flüssiggasterminals besitzt und verwaltet und dass GDF Suez in diesen Terminals
+über einen Großteil der Kapazitäten verfügt.
+
+(20) Die vorläufige Beurteilung der Kommission zeigt, dass GDF Suez in Bezug auf
+die Gasimportkapazitäten in jeder Bilanzausgleichszone des GRTgaz-Netzes eine
+beherrschende Stellung innehat.
+
+(21) Was den Gasbelieferungsmarkt angeht, so stellte die Kommission in ihrer
+vorläufigen Beurteilung fest, dass zahlreiche Hindernisse den Eintritt in den
+französischen Markt erschweren. Zu diesen Hindernissen gehören die
+Schwierigkeiten in Verbindung mit dem Erwerb von Gas aus internationalen
+Quellen, den Engpässen bei den Importkapazitäten und dem begrenzten Zugang
+zu Gasspeichern. Die starke Position von GDF auf den Märkten für
+Gasbelieferung, die das Unternehmen seiner vertikalen Integration auf allen
+Stufen der Wertschöpfungskette verdankt, ist infolge der langfristigen
+Kapazitätsbuchungen durch GdF (siehe Abschnitt 4.3.1) auf absehbare Zeit
+gesichert. In Anbetracht dieser Umstände kam die Kommission in der vorläufigen
+Beurteilung zu dem Schluss, dass kein derzeitiger oder potenzieller Wettbewerber
+auf den französischen Märkten in der Lage ist, GDF seine Marktmacht streitig zu
+machen.
+
+14 Vgl. Entscheidung der Kommission in der Sache COMP/M.3410 – Total/GDF, Erwägungsgründe 23
+bis 26.
+
+15 Dunkerque, Taisnières-H, Taisnières-B und Obergailbach.
+
+(22) Die vorläufige Beurteilung der Kommission zeigt, dass GDF in jeder
+Bilanzausgleichszone des GRTgaz-Netzes auf dem Markt für die Belieferung von
+Weiterverteilern (Großhandel) und auf dem Markt für die Belieferung von
+Endkunden (Einzelhandel) eine beherrschende Stellung innehat16.
+
+4.2. Wesentlicher Teil des Binnenmarktes
+
+(23) In der vorläufigen Beurteilung kam die Kommission zu dem Ergebnis, dass jede
+Bilanzausgleichszone des GRTgaz-Transportnetzes einen wesentlichen Teil des
+Binnenmarktes im Sinne von Artikel 102 AEUV darstellt. Die
+Bilanzausgleichszonen Nord, Nord-B und Süd des GRTgaz-Netzes sind nämlich
+von der Fläche und der Bevölkerungszahl her so groß wie mehrere
+Mitgliedstaaten zusammen17. Außerdem betrug der Gasverbrauch 2007 i
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+.
+
+(76) [Angaben zum Inhalt des vertraulichen Anhangs der Verpflichtungszusagen von
+GDF Suez]*
+
+(77) Dagegen hatten andere Bemerkungen Dritter keine Auswirkungen auf die
+endgültige Gestalt der Zusagen.
+
+(78) So scheint ein Gas-Release-Programm angesichts des Gesamtumfanges der von
+GdF Suez zeitnah freigegebenen Kapazitäten nicht notwendig zu sein.
+Tatsächlich führen die Zusagen zur Kapazitätsfreigabe dazu, dass dritte
+Lieferanten schon vom 1. Oktober 2010 an selbst beträchtliche Mengen an Gas
+nach Frankreich importieren können. Angesichts dieser rasch wirksamen Freigabe
+wäre es unverhältnismäßig, von GdF Suez noch zusätzlich eine Freigabe
+erheblicher Gasmengen im Rahmen eines Gas-Release-Programms in diesem
+Mitgliedstaat zu fordern.
+
+(79) Zur Freigabe von Kapazitäten an den Flüssiggasterminals ist festzustellen, dass
+die freigegebene Menge der Aufnahmekapazität von 1 Mrd. m3/Jahr an einem
+Flüssiggasterminal der minimalen LNG-Kapazität entspricht, die die Lieferanten
+wegen der besonderen Eigenschaften der LNG-Lieferkette – d. h. monatliche
+Lieferung einer Menge Flüssiggas, die der durchschnittlichen Kapazität der
+derzeit in Betrieb befindlichen Flüssiggastanker von rund 140 000 m3 entspricht –
+langfristig bei den Erzeugern beziehen. Eine weitere Aufsplitterung der
+Kapazität, die GDF Suez an den Flüssiggasterminals von Montoir de Bretagne
+und Fos Cavaou freizugeben beabsichtigt, in Tranchen von weniger als 1 Mrd.
+m3/Jahr würde den meisten Lieferanten, die regelmäßig Flüssiggas an diesen
+Terminals einspeisen wollen, die Nutzung dieser Kapazität erschweren.
+
+(80) Aus eben diesem Grund ist in den endgültigen Verpflichtungszusagen
+vorgesehen, dass eine Kapazität von 0,175 Mrd. m3/Jahr am Terminal von Fos
+Cavaou vorrangig den Lieferanten zugeteilt wird, die im Rahmen der
+Entscheidung der CRE vom 16. Mai 2007 Kapazitäten an diesem Terminal
+gebucht haben (dabei handelte es sich um Kapazitäten von 0,825 Mrd. m3/Jahr).
+
+7.3. Zusagen bezüglich der Beschränkung des Anteils von H-Gas-
+Importkapazitäten
+
+(81) Die Zusage von GdF Suez, ab dem 1. Oktober 2014 zehn Jahre lang seine
+Kapazitätsbuchungen auf weniger als 50 % der gesamten festen
+Langzeiteinspeisekapazitäten für H-Gas in die Bilanzausgleichszonen Nord und
+Süd des GRTgaz-Netzes und in französisches Gebiet insgesamt zu beschränken,
+erlaubt es dritten Lieferanten, selbst hinreichende Langfristkapazitäten für den
+Import von H-Gas zu erhalten, was ihnen erlauben wird, mittelfristig die
+marktbeherrschende Stellung von GdF Suez auf den französischen
+Gasbelieferungsmärkten anzugreifen. Die Dauer der Zusagen von GDF Suez
+hinsichtlich der Beschränkung seiner Buchungen von H-Gas-Importkapazitäten
+ist insbesondere im Hinblick auf die durchschnittliche Buchungsdauer von GdF
+Suez notwendig und angemessen.
+
+(82) Eine Beschränkung der Kapazitätsbuchungen von GDF Suez auf weniger als
+50 % an jedem H-Gas-Einspeisepunkt in französisches Gebiet und an den
+Verbindungsleitungen zwischen der Bilanzausgleichszone Nord und der
+
+Bilanzausgleichszone Süd des GRTgaz-Netzes dagegen wäre gemessen an den
+von der Kommission in der vorläufigen Beurteilung festgestellten
+Wettbewerbsproblemen unverhältnismäßig. Gegenstand dieses Verfahrens ist
+nämlich die mutmaßliche Abschottung der Gasimportkapazitäten in jeder
+Bilanzausgleichszone des GRTgaz-Netzes, und zwar global auf Ebene jeder
+Bilanzausgleichszone und nicht isoliert an jedem einzelnen Einspeisepunkt dieser
+Bilanzausgleichszonen.
+
+(83) In diesem Zusammenhang ist darauf hinzuweisen, dass der Zugang zu den
+Kapazitäten der Verbindungsleitungen von der Bilanzausgleichszone Nord in die
+Bilanzausgleichszone Süd des GRTgaz-Netzes in dieser Richtung nicht von GDF
+Suez abgeschottet wird, da GDF Suez weniger als die Hälfte der vermarktbaren
+festen Kapazitäten gebucht hat. Außerdem wurden die Kapazitäten der
+Verbindungsleitungen zwischen der Bilanzausgleichszone Nord und der
+Bilanzausgleichszone Süd in Richtung Nord-Süd gemäß einer Entscheidung der
+CRE allen interessierten Lieferanten proportional zu ihrer Nachfrage für einen
+Zeitraum von höchstens vier Jahren im Rahmen eines transparenten,
+diskriminierungsfreien Verfahrens zugeteilt35.
+
+(84) Die Einführung verbindlicher Zwischenstufen für die Absenkung der Buchungen
+von GDF Suez in der Zeit zwischen dem Inkrafttreten der Verpflichtungen und
+dem 1. Oktober 2014 ist angesichts der Selbstverpflichtung von GDF Suez,
+zeitnah in Frankreich beträchtliche Gasimportkapazitäten freizugeben, ebenfalls
+nicht erforderlich. Außerdem würde eine derartige Verpflichtung GDF Suez
+deutlich weniger Spielraum lassen, um der Verpflichtung nachzukommen, seine
+Kapazitätsbuchungen bis zum 1. Oktober 2014 auf weniger als 50 % abzusenken.
+Eine solche Auflage ginge zu weit, weil die Möglichkeit besteht, dass sich die
+Schaffung neuer Gasimportkapazitäten in Frankreich in dem Zeitraum zwischen
+dem Inkrafttreten der Verpflichtungen und dem 1. Oktober 2014 verzögert.
+
+7.4. Zusagen bezüglich L-Gas
+
+(85) Die Verpflichtung von GDF Suez, den für GRTgaz bereitgestellten Swap-Dienst
+für H-Gas und L-Gas zu praktisch denselben Bedingungen fortzusetzen, damit
+GRTgaz den regulierten Dienst zur Umwandlung von H-Gas in L-Gas auch
+künftig gewährleisten kann, angemessen, um die Bedenken der Kommission
+auszuräumen, was die Abschottung der Importkapazitäten für L-Gas in
+Frankreich und die fehlende Möglichkeit dritter Lieferanten angeht, seine
+beherrschende Stellung auf dem französischen Belieferungsmarkt für H-Gas
+streitig zu machen. Somit eröffnet diese Verpflichtung dritten Lieferanten den
+Zugang zu einer L-Gas-Quelle auf französischem Gebiet zu wirtschaftlichen
+Bedingungen, die ihnen einen wirksamen Wettbewerb mit GDF Suez
+ermöglichen.
+
+35 Entscheidung der CRE vom 25. Oktober 2007 über die Zuteilung der vermarktbaren Kapazitäten der
+Verbindungsleitungen zwischen der Bilanzausgleichszone Nord und der Bilanzausgleichszone Süd
+des GRTgaz-Netzes und der Schnittstelle zwischen den Netzen von GRTgaz und TIGF ab dem 1.
+Januar 2009 (Décision de la Commission de régulation de l'énergie du 25 octobre 2007 relative à
+l'attribution des capacités commercialisables à la liaison entre les zones Nord et Sud du réseau de
+GRTgaz et à l'interface entre les réseaux GRTgaz et TIGF à compter du 1er janvier 2009).
+
+7.5. Zusagen zur Sicherstellung der Erfüllung der Zusagen
+
+(86) Schließlich stellt die Verpflichtungszusage von GDF Suez, einen unabhängigen
+Treuhänder zu ernennen, eine notwendige und angemessene Maßnahme dar, um
+die Einhaltung der Verpflichtungszusagen durch GDF Suez zu gewährleisten.
+Eine solche Maßnahme entspricht im Übrigen der gefestigten
+Entscheidungspraxis der Kommission bei Abhilfemaßnahmen im Rahmen von
+Zusammenschlussverfahren36 und der Anwendung der Artikel 101 und 102
+AEUV37.
+
+7.6. Schlussfolgerung
+
+(87) Insgesamt erlauben es die von GDF Suez angebotenen Verpflichtungszusagen,
+die Abschottung des Zugangs zu den Gasimportkapazitäten für H-Gas durch GDF
+Suez in verhältnismäßiger Weise zu beenden. Die Verpflichtungen sind somit
+strukturell bedeutsam für die Fähigkeit dritter Lieferanten, in die französischen
+Belieferungsmärkte für H-Gas einzutreten.
+
+(88) Die öffentliche Konsultation gemäß Artikel 27 Absatz 4 der Verordnung (EG)
+Nr. 1/2003 bestätigte, dass die Verpflichtungszusagen von GDF Suez angemessen
+und notwendig sind, um die von der Kommission festgestellten
+wettbewerbsrechtlichen Bedenken auf den französischen Gasmärkten
+auszuräumen.
+
+8. SCHLUSSFOLGERUNG
+
+(89) Durch Annahme eines Beschlusses nach Artikel 9 Absatz 1 der Verordnung (EG)
+Nr. 1/2003 erklärt die Kommission die endgültigen Verpflichtungszusagen, die
+von den betreffenden Unternehmen angeboten wurden, um die von der
+Kommission in der vorläufigen Beurteilung geäußerten Bedenken auszuräumen,
+für diese Unternehmen für bindend. Mit diesem Beschluss wird keine Aussage
+darüber getroffen, ob eine Zuwiderhandlung vorgelegen hat oder noch vorliegt.
+Die von der Kommission vorgenommene Einschätzung der Frage, ob die
+angebotenen endgültigen Verpflichtungszusagen einerseits ausreichend sind, um
+ihre wettbewerbsrechtlichen Bedenken auszuräumen, und andererseits
+verhältnismäßig sind, beruht zum einen auf ihrer vorläufigen Beurteilung, die sie
+auf Grundlage ihrer Untersuchungen und Analysen vorgenommen hat, und zum
+anderen auf den Stellungnahmen Dritter infolge der Veröffentlichung einer
+Bekanntmachung gemäß Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003.
+
+(90) In Anbetracht der von GDF Suez angebotenen endgültigen
+Verpflichtungszusagen besteht für ein Tätigwerden der Kommission kein Anlass
+
+36 Siehe Mitteilung der Kommission über nach der Verordnung (EG) Nr. 139/2004 des Rates und der
+Verordnung (EG) Nr. 802/2004 der Kommission zulässige Abhilfemaßnahmen (ABl. C 267 vom
+22.10.2009, S. 1).
+
+37 Siehe Entscheidung der Kommission vom 12. April 2006 in der Sache COMP/38.348 – Repsol C.P.P.
+SA, die Entscheidung vom 26. November 2008 in der Sache COMP/39.388 – Deutscher
+Stromgroßhandelsmarkt und die Entscheidung in der Sache COMP/39.389 – Deutscher
+Regelenergiemarkt sowie die Entscheidung vom 18. März 2009 in der Sache COMP/39.402 –
+Gasmarktabschottung durch RWE.
+
+mehr, so dass das Verfahren unbeschadet der Vorschriften des Artikels 9 Absatz 2
+der Verordnung (EG) Nr. 1/2003 einzustellen ist –
+
+HAT FOLGENDEN BESCHLUSS ERLASSEN:
+
+Artikel 1
+
+Die GDF Suez S.A., ihre Tochtergesellschaften und die von diesen kontrollierten
+Unternehmen werden durch die beigefügten Verpflichtungen gebunden.
+
+Artikel 2
+
+Für ein Tätigwerden der Kommission besteht kein Anlass mehr, so dass das Verfahren in
+dieser Sache einzustellen ist.
+
+Artikel 3
+
+Dieser Beschluss ist an die GDF SUEZ S.A., 22, rue du Docteur Lancereaux, 75392
+PARIS CEDEX 08, Frankreich, sowie ihre Tochtergesellschaften, insbesondere
+
+– GRTgaz S.A. COURCELLOR 1, 2 Rue Curnonsky, 75017 PARIS, Frankreich
+
+– Elengy S.A. COURCELLOR 1, 2 Rue Curnonsky, 75017 PARIS, Frankreich
+
+gerichtet.
+
+Brüssel, den 3.12.2009 Für die Kommission
+
+Neelie KROES
+Mitglied der Kommission

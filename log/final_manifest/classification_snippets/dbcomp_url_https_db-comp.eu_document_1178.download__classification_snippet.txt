@@ -1,0 +1,708 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39258 – Airfreight
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 09/11/2010
+
+This is a provisional non-confidential version. The definitive nonconfidential version will be published as soon as it is available.
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that information which has been claimed by the
+addressees as being confidential, is not disclosed; those parts are replaced by square brackets
+with an asterisk: [*]
+
+EUROPEAN COMMISSION
+
+Brussels, 9.11.2010
+C(2010) 7694 final
+
+COMMISSION DECISION
+
+of 9.11.2010
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+
+Article 53 of the EEA Agreement
+
+and Article 8 of the Agreement between the European Community and the Swiss
+Confederation on Air Transport
+
+Case COMP/39258 - Airfreight
+
+(ONLY THE DUTCH, ENGLISH AND FRENCH TEXTS ARE AUTHENTIC)
+
+EN
+
+COMMISSION DECISION
+
+of 9.11.2010
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+
+Article 53 of the EEA Agreement
+
+and Article 8 of the Agreement between the European Community and the Swiss
+Confederation on Air Transport
+
+Case COMP/39258 - Airfreight
+
+(ONLY THE DUTCH, ENGLISH AND FRENCH TEXTS ARE AUTHENTIC)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union1,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to the Agreement between the European Community and the Swiss
+Confederation on Air Transport,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty2, and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decision of 18 December 2007 to initiate proceedings
+in this case,
+
+1 With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101
+and 102, respectively, of the Treaty on the Functioning of the European Union ("TFEU"). The two
+sets of provisions are, in substance, identical. For the purposes of this Decision, references to
+Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and 82 of the
+EC Treaty where appropriate.
+2 OJ L 1, 4.1.2003, p.1.
+
+2EN
+
+Having given the undertakings concerned the opportunity to make known their views on
+the objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No
+1/2003 and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004
+relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82
+of the Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions4,
+
+Having regard to the final report of the hearing officer in this case5,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision relates to a single and continuous infringement of Article
+101 of the Treaty on the Functioning of the European Union (‘TFEU’),
+Article 53 of the Agreement on the European Economic Area (‘the EEA
+Agreement’) and Article 8 of the Agreement between the European
+Community and the Swiss Confederation on Air Transport ('the Swiss
+Agreement')6, covering the EEA7 territory and Switzerland by which the
+addressees coordinated their pricing behaviour in the provision of
+airfreight services [*] with respect to various surcharges and the
+payment of commission payable on surcharges.
+
+(2) Pricing contacts between airlines providing airfreight services ('carriers')
+initially started in respect of the fuel surcharge ('FSC'). Carriers
+contacted each other regarding the introduction of a FSC, the FSC
+mechanism, disclosure of anticipated increases (or decreases) and
+commitments to follow increases. These contacts started initially with a
+smaller group of carriers and spread to include all addressees of this
+Decision.
+
+(3) Cooperation spread to other areas without affecting the application of the
+FSC. Accordingly, carriers cooperated in the introduction and
+application of the security surcharge ('SSC') as well. Like the FSC, the
+SSC was also an element of the overall price.
+
+3 OJ L 123, 27.4.2004, p. 18.
+4 OJ
+5 OJ
+6 OJ L 114, 30.04.2002, p.73-90.
+7 "EEA" refers to the Member States of the European Union ('EU') and the Contracting Parties of the
+European Economic Area, such as amended over time. The EEA comprises the Member States
+together with Iceland, Liechtenstein and Norway. From 1995 to 1 May 2004, the Member States of
+the EU were Belgium, Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg,
+Netherlands, Portugal, Spain, United Kingdom, Austria, Sweden and Finland (EU 15). From 1 May
+2004, ten countries joined the EU, namely, Czech Republic, Estonia, Cyprus, Latvia, Lithuania,
+Hungary, Malta, Poland, Slovenia and Slovakia and formed together EU 25 (EEA 18 until 1 May
+2004 and EEA 28 from 1 May 2004 onwards).
+
+3EN
+
+(4) The aim of the contacts was to remove pricing uncertainty from the
+market by ensuring that surcharges were introduced and increases (or
+decreases) of the surcharge levels were applied in full without exception.
+
+(5) Furthermore, the carriers extended their cooperation to refusing to pay
+commission to freight forwarders on surcharges. By refusing to pay
+commission the carriers ensured that surcharges did not become subject
+to competition through the negotiation of discounts with customers.
+
+(6) The duration of the infringement is from December 1999 to 14 February
+2006 (for the duration for specific undertakings see Section 7).
+
+2. THE SECTOR SUBJECT TO THE PROCEEDINGS
+
+2.1. Airfreight transport services
+(7) Airlines providing airfreight services primarily offer the transport of
+cargo usually by air to freight forwarders, who arrange the carriage of
+these goods including associated services and formalities on behalf of
+shippers.
+
+(8) There are four different types of air cargo carriers: airlines with only
+dedicated freighter air planes carrying cargo; airlines with 'belly space'
+cargo capacity on passenger flights; airlines with both dedicated
+freighter air planes and 'belly space' cargo capacity (combination
+airlines); and integrators with dedicated freighters providing both
+integrated express delivery services and general cargo services (DHL,
+FEDEX, UPS, etc.).
+
+(9) No airline is able to reach all major cargo destinations in the world with
+its own network with sufficient frequencies, therefore agreements among
+carriers to increase their network coverage or improve their schedule are
+common. Such agreements can take various forms, such as a simple
+capacity purchase or some degree of costs and revenue sharing. Within
+the industry, they are often referred to as 'joint ventures' even when they
+are in reality only capacity purchase agreements. In addition, carriers
+also form multilateral alliances. An airline alliance is an agreement
+between two or more airlines to cooperate on a substantial level.
+Alliances provide a network of connectivity and convenience for
+international freight transport. The largest cargo alliances are WOW and
+SkyTeam.
+
+(10) Cargo airlines quote to customers freight rates on a per kilogram basis
+(either actual weight or 'chargeable weight' according to a formula that
+accounts for volume of low-density cargo) for their various services to
+various destinations. Such rates are negotiated with forwarders (and
+more rarely directly with the shippers) either on a long-term basis
+(typically one traffic season, namely, six months), or on an ad hoc basis.
+Pricing complexity is considerable and typically local sales organisations
+have a certain degree of flexibility in negotiating rates with individual
+customers depending on supply and demand. To the negotiated rates,
+
+4EN
+
+cargo airlines add various surcharges, including at times surcharges to
+cover the costs of fuel or additional security measures.
+
+(11) Airfreight services are offered from one airport (airport of origin) to
+another (airport of destination), and are covered by an air waybill.
+Generally, the transport between the airport of origin and the airport of
+destination is carried out by air. Where convenient for the carrier all or
+part of it may be carried out by other means, in particular by road, for
+example, over relatively short distances or where goods are transferred
+from the airport of origin to another intermediate airport where they are
+embarked on an aircraft bound for the airport of destination.
+
+2.2. The undertakings subject to the proceedings
+
+2.2.1. Air Canada ('AC')
+(12) Air Canada is a subsidiary of the ACE Aviation Holdings Inc. (or
+'ACE'), the holding company of the Air Canada Group. ACE was
+incorporated on 29 June 2004 and holds 75% controlling ownership of
+Air Canada8.
+
+(13) Air Canada is a Canadian registered air carrier offering domestic and
+international, passenger and freight transportation services. Air Canada
+provides freight services using the cargo capacity on Air Canada
+international passenger flights and chartered all freighter aircraft. AC
+Cargo, a nearly wholly-owned subsidiary of Air Canada, is not active at
+the international level. AC Cargo manages freight services only on
+domestic flights and on flights between Canada and the United States9.
+
+(14) AC's global annual turnover in 2005 was EUR 6 268.9 million of which
+EUR 414.26 million were generated by air cargo services.10 Its global
+annual turnover in 2009 was EUR 6 144.48 million.11
+
+2.2.2. Air France-KLM Group
+(15) [*]
+
+(16) [*]
+
+(17) Therefore, the Air France-KLM Group comprises a holding company
+'Air France-KLM' with two airline operating subsidiaries: 'Société Air
+France' and 'KLM N.V.' Air France-KLM Group is a member of the
+
+8 Air Canada's reply of 18 January 2007 to the Commission's request for information of 19 December
+2006, file p. 30455.
+9 Air Canada's reply of 18 January 2007 to the Commission's request for information of 19 December
+2006, file p. 30453.
+10 2006 Annual report, Air Canada, p. 72. CAD 9 458 million and CAD 625 million converted into
+EUR by using average exchange rate (1 EUR = 1, 5087 CAD) of European Central Bank for 2005.
+http://www.aircanada.com/en/about/investor/documents/2006_ar.pdf
+11 Air Canada's reply of 21 September 2010 to the Commission's request for information of 16
+September 2010.
+
+5EN
+
+SkyTeam alliance12 and a member of the SkyTeam Cargo alliance13,
+both founded in 2000.
+
+(18) Freight transport is operated by the cargo divisions of the two
+subsidiaries. [*]
+
+(19) The Group's global turnover was EUR 19 078 million in fiscal year
+2004-2005.14 Total revenues from the cargo business amounted to EUR
+2 490 million.15 The Group's worldwide annual turnover in financial year
+2009-2010 was EUR 20 994 million.16
+
+(20) [*]
+
+2.2.3. Société Air France ('AF')
+(21) Société Air France, [*], has three main activities: passenger airline
+transport, cargo transport and maintenance services. Société Air France
+operates a network with its principal hub for international operations at
+Paris Charles de Gaulle airport, France. Between 1995 and 1999, the
+French State was the majority shareholder of Air France. In 1999, Air
+France was floated on the Paris stock exchange and this continued until
+15 September 2004.
+
+(22) [*]
+
+2.2.4. KLM N.V. ('KL')
+(23) KLM N.V. has four main activities: passenger airline transport, cargo
+transport, maintenance services and the operation of charter and lowcost/low-fare scheduled services by its subsidiary Transavia. KLM N.V.
+operates a network with its principal hub at Amsterdam Schiphol airport,
+The Netherlands. KLM N.V. has an agreement with Northwest Airlines
+covering principally operations on North Atlantic routes and related
+feeder routes.
+
+(24) Airfreight transportation services are provided by KLM Cargo, which is
+a division of KLM N.V.
+
+(25) The worldwide annual turnover of KLM N.V. in financial year 2004-
+2005 was EUR 6 442 million17 of which EUR 1 358 million were
+
+12 Members of the SkyTeam alliance are: AeroMexico, Air France, Delta Air Lines, Korean Air,
+Alitalia and CSA Czech Airlines (since 2001), Continental Airlines, Northwest Airlines and KLM
+(since September 2004), Aeroflot-Russian Airlines (since April 2006).
+13 Members of the SkyTeam Cargo alliance are: AeroMexico Cargo, Air France Cargo, Alitalia Cargo,
+CSA Cargo, Delta Air Logistics, KLM Cargo, Korean Air Cargo, Northwest Cargo.
+14 Air France-KLM 2004-2005 Reference document (filed with the French Autorité des marchés
+financiers), p. 8.
+15 Air France-KLM 2004-2005 Reference document (filed with the French Autorité des marchés
+financiers), p. 45.
+16 Air France-KLM's reply of 21 September 2010 to the Commission's request for information of 16
+September 2010.
+17 KLM: 2005/2006 in Review New Horizon, p. 4.
+
+6EN
+
+generated by air cargo services in the six months to 30 September
+2005.18
+
+2.2.5. British Airways Plc ('BA')
+(26) British Airways Plc is the United Kingdom's largest international
+scheduled airline. The airline's two main operating bases are London's
+two main airports (Heathrow and Gatwick). The BA group consists of
+British Airways Plc and a number of subsidiaries, in particular British
+Airways Holidays Limited and BA Connect Ltd.
+
+(27) Airfreight transportation services are provided by British Airways World
+Cargo, which is a division of British Airways Plc.
+
+(28) The global annual turnover of BA Group in financial year 2004-2005
+was EUR 11 457.69 million, of which EUR 706.84 million were
+generated by air cargo services19. Its global annual turnover in financial
+year 2009-2010 was EUR 9 025.45 million.20
+
+2.2.6. Cargolux Airlines International S.A. ('CV')
+(29) Cargolux Airlines International S.A. is registered as a 'société anonyme'
+under the laws of the Grand Duchy of Luxembourg. The main
+shareholder is Luxair S.A. with a stake of 34.9%. It was founded in
+1970.
+
+(30) CV is an all air-cargo airline and an integrated transportation company.
+The transportation of freight is the company’s main business.
+
+(31) CV's global annual turnover in 2005 was EUR 1 162.28 million21. Its
+global annual turnover in 2009 was EUR 941 873 048.22
+
+2.2.7. Cathay Pacific Airways Limited ('CX')
+(32) Cathay Pacific Airways Limited is an international airline based in Hong
+Kong operating scheduled passenger and cargo services to 103
+destinations worldwide. It was founded in 1946. Between 1999 and
+
+18 Air France–KLM report of 23 November 2006 (Turnover from cargo services was not published for
+the full year).
+http://corporate.klm.com/assets/files/Trafficresults/20062311Resultats1ersemestre0607Eng.pdf
+19 2004-2005 Annual Report British Airways (2004-2005 Annual Report & Accounts), p. 10.
+GBP 7.813 billion and GBP 482 million converted into EUR by using average exch
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ N.V. from 21 December 1999 until 14 February 2006;
+
+d) British Airways Plc from 22 January 2001 until 14 February 2006;
+
+e) Cargolux Airlines International S.A. from 22 January 2001 until 14 February
+2006;
+
+f) Lufthansa Cargo AG from 14 December 1999 until 7 December 2005;
+
+g) Deutsche Lufthansa AG from 14 December 1999 until 7 December 2005;
+
+h) SWISS International Air Lines AG from 2 April 2002 to 7 December 2005;
+
+i) Martinair Holland N.V. from 22 January 2001 until 14 February 2006;
+
+j) SAS AB from 17 August 2001 until 14 February 2006;
+
+k) SAS Cargo Group A/S from 1 June 2001 until 14 February 2006;
+
+l) SCANDINAVIAN AIRLINES SYSTEM Denmark - Norway - Sweden from
+13 December 1999 until 28 December 2003.
+
+Article 2
+The following undertakings infringed Article 101 of the TFEU by participating in an
+infringement that comprised both agreements and concerted practices through which they
+coordinated various elements of price to be charged for airfreight services on routes
+between airports within the European Union and airports outside the EEA, for the
+following periods:
+a) Air Canada from 1 May 2004 until 14 February 2006;
+
+b) Air France-KLM from 1 May 2004 until 14 February 2006;
+
+c) Société Air France from 1 May 2004 until 14 February 2006;
+
+217EN
+
+d) KLM N.V. from 1 May 2004 until 14 February 2006;
+
+e) British Airways Plc from 1 May 2004 until 14 February 2006;
+
+f) Cargolux Airlines International S.A. from 1 May 2004 until 14 February 2006;
+
+g) Cathay Pacific Airways Limited from 1 May 2004 until 14 February 2006;
+
+h) Japan Airlines Corporation from 1 May 2004 until 14 February 2006;
+
+i) Japan Airlines International Co., Ltd. from 1 May 2004 until 14 February 2006;
+
+j) LAN Airlines S.A. from 1 May 2004 until 14 February 2006
+
+k) LAN Cargo S.A. from 1 May 2004 until 14 February 2006
+
+l) Lufthansa Cargo AG from 1 May 2004 until 7 December 2005;
+
+m) Deutsche Lufthansa AG from 1 May 2004 until 7 December 2005;
+
+n) SWISS International Air Lines AG from 1 May 2004 until 7 December 2005;
+
+o) Martinair Holland N.V. from 1 May 2004 until 14 February 2006;
+
+p) Qantas Airways Limited from 1 May 2004 until 14 February 2006;
+
+q) SAS AB from 1 May 2004 until 14 February 2006;
+
+r) SAS Cargo Group A/S from 1 May 2004 until 14 February 2006;
+
+s) Singapore Airlines Cargo Pte Ltd from 1 May 2004 until 14 February 2006;
+
+t) Singapore Airlines Limited from 1 May 2004 until 14 February 2006.
+
+Article 3
+The following undertakings infringed Article 53 of the EEA Agreement by participating
+in an infringement that comprised both agreements and concerted practices through
+which they coordinated various elements of price to be charged for airfreight services on
+routes between airports in countries that are Contracting Parties of the EEA Agreement
+but not Member States and third countries, for the following periods:
+a) Air Canada from 19 May 2005 until 14 February 2006;
+
+b) Air France-KLM from 19 May 2005 until 14 February 2006;
+
+c) Société Air France from 19 May 2005 until 14 February 2006;
+
+d) KLM N.V. from 19 May 2005 until 14 February 2006;
+
+e) British Airways Plc from 19 May 2005 until 14 February 2006;
+
+218EN
+
+f) Cargolux Airlines International S.A. from 19 May 2005 until 14 February 2006;
+
+g) Cathay Pacific Airways Limited from 19 May 2005 until 14 February 2006;
+
+h) Japan Airlines Corporation from 19 May 2005 until 14 February 2006;
+
+i) Japan Airlines International Co., Ltd. from 19 May 2005 until 14 February 2006;
+
+j) Lufthansa Cargo AG from 19 May 2005 until 7 December 2005;
+
+k) Deutsche Lufthansa AG from 19 May 2005 until 7 December 2005;
+
+l) SWISS International Air Lines AG from 19 May 2005 until 7 December 2005;
+
+m) Martinair Holland N.V. from 19 May 2005 until 14 February 2006;
+
+n) Qantas Airways Limited from 19 May 2005 until 14 February 2006;
+
+o) SAS AB from 19 May 2005 until 14 February 2006;
+
+p) SAS Cargo Group A/S from 19 May 2005 until 14 February 2006;
+
+q) Singapore Airlines Cargo Pte Ltd from 19 May 2005 until 14 February 2006;
+
+r) Singapore Airlines Limited from 19 May 2005 until 14 February 2006;
+
+Article 4
+The following undertakings infringed Article 8 of the Agreement between the European
+Community and the Swiss Confederation on Air Transport by participating in an
+infringement that comprised both agreements and concerted practices through which they
+coordinated various elements of price to be charged for airfreight services on routes
+between airports within the European Union and airports in Switzerland, for the
+following periods:
+a) Air France-KLM from 1 June 2002 until 14 February 2006;
+
+b) Société Air France from 1 June 2002 until 14 February 2006;
+
+c) KLM N.V. from 1 June 2002 until 14 February 2006;
+
+d) British Airways Plc from 1 June 2002 until 14 February 2006;
+
+e) Cargolux Airlines International S.A. from 1 June 2002 until 14 February 2006;
+
+f) Lufthansa Cargo AG from 1 June 2002 until 7 December 2005;
+
+g) Deutsche Lufthansa AG from 1 June 2002 until 7 December 2005;
+
+h) SWISS International Air Lines AG from 1 June 2002 until 7 December 2005;
+
+i) Martinair Holland N.V. from 1 June 2002 until 14 February 2006;
+
+j) SAS AB from 1 June 2002 until 14 February 2006;
+
+219EN
+
+k) SAS Cargo Group A/S from 1 June 2002 until 14 February 2006;
+
+l) SCANDINAVIAN AIRLINES SYSTEM Denmark - Norway - Sweden from 1
+June 2002 until 28 December 2003;
+
+Article 5
+For the infringements referred to in Articles 1 to 4, the following fines are imposed:
+a) Air Canada: EUR 21 037 500;
+
+b) Air France-KLM and Société Air France jointly and severally:
+EUR 182 920 000;
+
+c) KLM N.V.: EUR 2 720 000;
+
+d) KLM N.V. and Air France-KLM jointly and severally:
+EUR 124 440 000;
+
+e) British Airways Plc: EUR 104 040 000;
+
+f) Cargolux Airlines International S.A.: EUR 79 900 000;
+
+g) Cathay Pacific Airways Ltd: EUR 57 120 000;
+
+h) Japan Airlines Corporation, and Japan Airlines International Co., Ltd. jointly
+and severally: EUR 35 700 000;
+
+i) LAN Airlines S.A. and LAN Cargo S.A. jointly and severally: EUR 8 220 000;
+
+j) Lufthansa Cargo AG and Deutsche Lufthansa AG jointly and severally:
+EUR 0;
+
+k) SWISS International Air Lines AG: EUR 0;
+
+l) SWISS International Air Lines AG and Deutsche Lufthansa AG jointly and
+severally: EUR 0;
+
+m) Martinair Holland N.V.: EUR 29 500 000;
+
+n) Qantas Airways Limited: EUR 8 880 000;
+
+o) SCANDINAVIAN AIRLINE SYSTEM Denmark – Norway - Sweden:
+EUR 5 355 000;
+
+p) SAS Cargo Group A/S and SCANDINAVIAN AIRLINE SYSTEM Denmark –
+Norway - Sweden jointly and severally: EUR 4 254 250;
+
+q) SAS Cargo Group A/S, SCANDINAVIAN AIRLINE SYSTEM Denmark –
+Norway - Sweden and SAS AB jointly and severally: EUR 5 265 750
+
+r) SAS Cargo Group A/S and SAS AB jointly and severally: EUR 32 984 250
+
+220EN
+
+s) SAS Cargo Group A/S: 22 308 250
+
+t) Singapore Airlines Cargo Pte Ltd and Singapore Airlines Limited jointly and
+severally: EUR 74 800 000.
+
+The fines shall be paid in euro, within three months of the date of the notification of this
+decision to the bank account held in the name of the European Commission with:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+SWIFT: BCEELULL
+
+Ref.: "European Commission - BUFI / COMP/39258"
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day
+of the month in which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall
+cover the fine by the due date by either providing an acceptable bank guarantee or
+making a provisional payment of the fine in accordance with Article 85a(1) of
+Commission Regulation (EC, Euratom) No 2342/20021317.
+
+Article 6
+The undertakings listed in Articles 1 to 4 shall immediately bring to an end the
+infringements referred to in those Articles, insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Articles 1 to 4, and
+from any act or conduct having the same or similar object or effect.
+
+Article 7
+This Decision is addressed to:
+
+Air Canada
+7373 Cote-Vertu Blvd. West – Zip 1276
+Saint-Laurent (Quebec) H4S 1Z3
+Canada
+
+Air France-KLM
+2, rue Robert Esnault Pelterie
+75007 Paris
+France
+
+Société Air France
+45, rue de Paris
+
+1317 OJ L 357, 31.12.2002, p. 1.
+
+221EN
+
+95747 Roissy Charles-de-Gaulle CEDEX
+France
+
+KLM N.V.
+Amsterdamseweg 55
+1182 GP Amstelveen
+Nederland
+
+British Airways Plc
+Waterside
+Speedbird Way
+Harmondsworth
+West Drayton
+UB7 0GB
+England
+
+Cargolux Airlines International S.A.
+Luxembourg Airport
+2990 Sandweiler
+Luxembourg
+
+Cathay Pacific Airways Limited
+35/F Two Pacific Place
+88 Queensway
+Hong Kong
+
+Japan Airlines Corporation
+4-11, Higashi-shinagawa 2-chome,
+Shinagawa-ku
+Tokyo 140-8637
+Japan
+
+Japan Airlines International Co., Ltd.
+4-11, Higashi-shinagawa 2-chome
+Shinagawa-ku
+Tokyo 140-8637
+Japan
+
+LAN Airlines S.A.
+Avenida Presidente Riesco 5711 – Piso 20
+Las Condes
+Santiago
+Chile
+
+LAN Cargo S.A.
+6500 N.W. 22 Street
+Miami, Florida 33156
+USA
+
+Lufthansa Cargo AG
+Am Grünen Weg 1
+
+222EN
+
+65451 Kelsterbach
+Deutschland
+
+Deutsche Lufthansa AG
+Von-Gablenz-Straße 2-6
+50679 Köln
+Deutschland
+
+SWISS International Air Lines AG
+Malzgasse 15
+4052 Basel
+Switzerland
+
+Martinair Holland N.V.
+Piet Guilonardweg 17
+1117 EE Schiphol Oost
+Nederland
+
+Qantas Airways Limited
+Qantas Centre
+Level 9, Building A
+203 Coward Street
+Mascot, NSW 2020
+Australia
+
+SAS AB
+Frösundaviks Allé 1
+Solna
+195 87 Stockholm
+Sverige
+
+SAS Cargo Group A/S
+Kystvejen 40
+2770 Kastrup
+Denmark
+
+SCANDINAVIAN AIRLINES SYSTEM Denmark - Norway - Sweden
+Frösundaviks Allé 1
+Solna
+195 87 Stockholm
+Sverige
+
+Singapore Airlines Cargo Pte Ltd
+09-D Airline House
+25 Airline Road
+Singapore 819829
+
+Singapore Airlines Limited
+08-D Airline House
+25 Airline Road
+Singapore 819829
+
+223EN
+
+This Decision shall be enforceable pursuant to Article 299 TFEU and Article 110 of the
+EEA agreement.
+Done at Brussels, 9.11.2010
+
+For the Commission
+
+224EN

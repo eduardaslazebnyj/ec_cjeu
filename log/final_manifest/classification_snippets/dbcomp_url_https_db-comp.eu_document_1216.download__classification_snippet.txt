@@ -1,0 +1,643 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 31.05.2006
+C(2006) 2098 final
+
+COMMISSION DECISION
+
+of
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+and Article 53 of the EEA Agreement
+
+(Case COMP/F/38.645 - Methacrylates)
+
+(Only the English and French texts are authentic)
+
+Version to be notified to:
+
+Degussa AG
+Röhm GmbH & Co. KG
+Para-Chemie GmbH
+ICI PLC
+Quinn Barlo Ltd
+Quinn Plastics NV
+Quinn Plastics GmbH
+Lucite International Ltd
+Lucite International UK Ltd
+
+(Text with EEA relevance)
+
+EN
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. SUMMARY OF THE INFRINGEMENT................................................................6
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS.......................................7
+
+2.1. The products under investigation..............................................................................8
+
+2.2. The addressees of this Decision..................................................................................9
+
+2.2.1. “Atofina” (Total SA, Elf Aquitaine SA, Arkema SA, Altuglas International SA
+and AltumaxEurope SAS)..............................................................................................9
+
+2.2.2. “Degussa” (Degussa AG, Röhm GmbH & Co. KG and Para-Chemie GmbH).........10
+
+2.2.3. “ICI” (ICI PLC) .........................................................................................................11
+
+2.2.4. “Lucite” (Lucite International Limited and Lucite International UK Limited).........12
+
+2.2.5. “Barlo” (Quinn Barlo Ltd, Quinn Plastics NV and Quinn Plastics GmbH)..............12
+
+2.3. Description of the industry.......................................................................................13
+
+2.3.1. General remarks .........................................................................................................13
+
+2.3.2. The supply...................................................................................................................14
+
+2.3.3. The demand.................................................................................................................14
+
+2.3.4. The geographic scope of the industry.........................................................................14
+
+2.3.5. EEA sales value ..........................................................................................................14
+
+2.3.6. Inter-state trade ..........................................................................................................14
+
+3. PROCEDURE...........................................................................................................15
+
+3.1. The Commission's investigation ..............................................................................15
+
+4. DESCRIPTION OF EVENTS.................................................................................16
+
+4.1. General remarks .......................................................................................................16
+
+4.2. Overview of the infringement as regards all three products ................................16
+
+4.2.1. Dates and locations of meetings.................................................................................16
+
+4.2.2. Influencing the price level via price agreements........................................................17
+
+4.2.3. Implementation and monitoring of the price agreements...........................................18
+
+4.2.4. Exchange of other confidential market information...................................................19
+
+4.3. PMMA-moulding compounds .................................................................................20
+
+4.3.1. Initial collusive contacts.............................................................................................20
+
+4.3.2. Meetings and contacts between competitors ..............................................................20
+
+EN 2 EN
+
+4.4. PMMA-solid sheet.....................................................................................................20
+
+4.4.1. Initial collusive contacts.............................................................................................20
+
+4.4.2. Meetings and contacts between competitors ..............................................................20
+
+4.5. PMMA-sanitary ware...............................................................................................20
+
+4.5.1. Initial collusive contacts.............................................................................................20
+
+4.5.2. Meetings and contacts between competitors ..............................................................20
+
+5. THE Treaty and the EEA Agreement.....................................................................21
+
+5.1. Relationship between the Treaty and the EEA Agreement..................................21
+
+5.2. Jurisdiction................................................................................................................21
+
+6. Application of Article 81 of the Treaty and Article 53 of the EEA
+Agreement..................................................................................................................21
+
+6.1. Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement..................21
+
+6.2. The nature of the infringement in the present case...............................................22
+
+6.2.1. Agreements and concerted practices..........................................................................22
+
+6.2.1.1. Principles ....................................................................................................................22
+
+6.2.1.2. Application to the case................................................................................................25
+
+6.2.2. Single and continuous infringement ...........................................................................26
+
+6.2.2.1. Principles ....................................................................................................................26
+
+6.2.2.2. Application to the case................................................................................................27
+
+6.3. Restriction of competition........................................................................................29
+
+6.4. Application of Article 81(3) of the Treaty and Article 53(3) of the EEA
+Agreement..................................................................................................................32
+
+6.5. Effect upon trade between Member States and between EEA
+Contracting Parties...................................................................................................32
+
+6.6. Addressees of the Decision .......................................................................................33
+
+6.6.1. Principles....................................................................................................................33
+
+6.6.2. Addressees of this Decision ........................................................................................35
+
+6.6.3. “Degussa” (Degussa AG, Röhm GmbH & Co. KG and Para-Chemie GmbH).........35
+
+6.6.4. “Atofina” (Total SA, Elf Aquitaine SA, Arkema SA, Altuglas International SA
+and Altumax Europe SAS)...........................................................................................36
+
+6.6.5. ICI PLC.......................................................................................................................40
+
+6.6.6. “Lucite” (Lucite International Ltd and Lucite International UK Ltd).......................43
+
+EN 3 EN
+
+6.6.7. “Barlo” (Quinn Barlo Ltd, Quinn Plastics NV and Quinn Plastics GmbH)..............44
+
+6.6.8. Conclusions.................................................................................................................45
+
+6.7. Duration of the infringement...................................................................................46
+
+6.7.1. Beginning of the infringement.....................................................................................46
+
+6.7.2. End of the infringement...............................................................................................46
+
+7. REMEDIES...............................................................................................................47
+
+7.1. Article 7 of Regulation (EC) No 1/2003 ..................................................................47
+
+7.2. Article 23(2) of Regulation (EC) No 1/2003............................................................47
+
+8. THE BASIC AMOUNT OF THE FINES...............................................................48
+
+8.1. Gravity.......................................................................................................................48
+
+8.1.1. Nature of the infringement..........................................................................................48
+
+8.1.2. The actual impact of the infringement........................................................................48
+
+8.1.3. The size of the relevant geographic market................................................................51
+
+8.1.4. The Commission’s conclusion on the gravity of the infringement..............................51
+
+8.2. Differential treatment...............................................................................................51
+
+8.3. Sufficient deterrence.................................................................................................52
+
+8.4. Duration of the infringement ......................................................................................56
+
+8.5. Conclusion on the basic amounts................................................................................57
+
+9. Aggravating and mitigating circumstances.................................................................57
+
+9.1. Aggravating circumstances.........................................................................................58
+
+9.1.1. Repeated infringement................................................................................................58
+
+9.1.2. Role of leader or instigator of the infringement .........................................................61
+
+9.2. Mitigating circumstances .........................................................................................61
+
+9.2.1. Passive and/or minor role in the infringement...........................................................61
+
+9.2.2. Non-implementation in practice of the offending agreements or practices................62
+
+9.2.3. Early termination of the infringement ........................................................................64
+
+9.2.4. Introduction of a compliance programme ..................................................................65
+
+9.2.5. Absence of benefit.......................................................................................................65
+
+9.2.6. Crisis in the Methacrylates sector ..............................................................................65
+
+9.2.7. Cooperation outside the Leniency Notice...................................................................66
+
+EN 4 EN
+
+9.2.8. Other factors...............................................................................................................66
+
+9.3. Conclusion on aggravating and mitigating circumstances ...................................67
+
+9.4. Application of the 10% turnover limit....................................................................68
+
+10. APPLICATION OF THE LENIENCY NOTICE..................................................68
+
+10.1. Degussa ......................................................................................................................68
+
+10.2. Atofina........................................................................................................................69
+
+10.3. Lucite..........................................................................................................................69
+
+10.3.1. Immunity under point 23 of the Leniency Notice........................................................70
+
+10.4. ICI ..............................................................................................................................70
+
+10.4.1. Timing of ICI’s leniency application ..........................................................................71
+
+10.5. Conclusion on the application of the Leniency Notice...........................................72
+
+11. FINAL AMOUNTS OF THE FINES TO BE IMPOSED IN THIS
+PROCEEDING .........................................................................................................72
+
+EN 5 EN
+
+COMMISSION DECISION
+
+of
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53
+of the EEA Agreement
+
+(Case COMP/F/38.645 - Methacrylates)
+
+(Only the English and French texts are authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules of competition laid down in Articles 81 and 82 of the EC
+Treaty1 and, in particular, Articles 7(1) and 23(2) thereof,
+
+Having regard to the Commission decision of 17 August 2005 to initiate proceedings
+in this case,
+
+Having given the undertakings concerned the opportunity to make known their views
+on the objections raised by the Commission pursuant to Article 27(1) of Regulation
+EC No 1/2003 and Commission Regulation (EC) No 2842/98 of 22 December 1998
+on the hearing of parties in certain proceedings under Articles 85 and 86 of the EC
+Treaty,2
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,3
+
+Having regard to the final report of the Hearing Officer in this case,4
+
+WHEREAS:
+
+1. SUMMARY OF THE INFRINGEMENT
+
+1 OJ L 1, 4.1.2003, p.1. Regulation as amended by Regulation (EC) No 411/2004 (L 68,
+6.3.2004, p.1).
+2 OJ L 354, 30.12.1998, p. 18.
+3 OJ C 285, 22.11.2006, p.4.
+4 OJ C 285, 22.11.2006, p.2.
+
+EN 6 EN
+
+(1) This Decision is addressed to the following legal entities:
+
+• Degussa AG
+
+• Röhm GmbH & Co. KG
+
+• Para-Chemie GmbH
+
+• Total SA
+
+• Elf Aquitaine SA
+
+• Arkema SA
+
+• Altuglas International SA
+
+• Altumax Europe SAS
+
+• ICI PLC
+
+• Lucite International Ltd
+
+• Lucite International UK Ltd
+
+• Quinn Barlo Ltd
+
+• Quinn Plastics NV
+
+• Quinn Plastics GmbH
+
+(2) The addressees of this Decision participated in a single and continuous
+infringement of Article 81 of the Treaty and Article 53 of the EEA
+Agreement in the Methacrylates industry involving three products:
+
+– Polymethyl-methacrylate (PMMA)-moulding compounds;
+– Polymethyl-methacrylate (PMMA)-solid sheet and;
+– Polymethyl-methacrylate (PMMA)-sanitary ware.
+
+(3) The infringement started on 23 January 1997 at the latest and lasted until 12
+September 2002. It covered the whole territory 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ncy Notice, the Commission will
+not take the period 1 March 2001 until 12 September 2002 into account
+for the purpose of the fine.
+
+10.4. ICI
+
+EN 70 EN
+
+(416) ICI applied for leniency on 18 October 2004, after the Commission had
+received leniency submissions from Degussa (20 December 2002),
+Atofina (3 April 2003) and Lucite (11 July 2003).
+
+(417) Pursuant to the Leniency Notice, the Commission has examined ICI’s
+submission in the chronological order in which submissions have been
+made to evaluate whether it constitutes significant added value within
+the meaning of point 21 of the Leniency Notice. Based on these criteria
+the Commission informed ICI that the evidence submitted by ICI does
+not represent significant added value within the meaning of the
+Leniency Notice.
+
+(418) As regards ICI’s arguments that their submission comprised significant
+added value, the number of times the Commission cites ICI’s documents
+in a Statement of Objections or a Decision clearly does not indicate
+significant added value in itself. Indeed, even the total number of
+documents relied upon is not in itself critical but, rather, how the content
+of the documents provided, by its very nature and/or its level of detail,
+enabled the Commission to strengthen its ability to prove the facts in
+question. As ICI correctly observes, contemporaneous documents are
+more probative than non contemporaneous documents.
+
+(419) Of the references to ICI documents in this Decision (out of a total of 168
+documents provided to the Commission), some are of use in terms of
+background information only, for example, on some aspects of
+implementation. However, the documents did not enable the
+Commission to prove the facts of the case. At the time of ICI’s
+application, the Commission had already received sufficient decisive
+evidence from other undertakings to prove the facts. The Commission
+also does not consider that ICI qualifies for any reduction for cooperation outside the Leniency Notice.
+
+10.4.1. Timing of ICI’s leniency application
+
+(420) In its reply to the SO, ICI suggested that it was prevented from making a
+leniency application as it had sold its ICI Acrylics business unit to
+Lucite before the start of this case and was in some way discriminated
+against. The Commission rejects this argument. The purpose of the
+Leniency Notice is to encourage undertakings involved in cartel
+activities to come forward on a voluntary basis and cooperate with the
+Commission. This objective would be undermined if the Commission
+were to allow undertakings who have not voluntarily come forward and
+cooperated with the Commission to escape responsibility for their
+actions by claiming they were no longer able to make an application. In
+any case ICI was involved in the cartel for a period of almost three years
+before it sold its ICI Acrylics business unit to Lucite on 2 November
+1999. The 1996 Leniency Notice114 applied from July 1996 and ICI
+
+114 OJ 1996 C 207/4.
+
+EN 71 EN
+
+therefore had the opportunity to make a leniency application when it still
+owned the ICI Acrylics business unit.
+
+(421) As regards ICI’s claims that the Commission in some way
+disadvantaged ICI vis-a-vis other parties by excluding it from the
+investigation and discouraging Lucite from informing ICI of the
+investigation, the Commission rejects these claims in entirety. Part of
+ICI’s interpretation of the Commission’s letter of 8 May 2003 to Lucite,
+in which the Commission responded to questions from Lucite about
+whether to approach ICI is correct, namely that the Commission
+declined to take a position on whether Lucite should contact ICI. The
+Commission’s view was, and remains, that this was a matter for Lucite
+to decide. The Commission letter simply confirmed to Lucite how the
+Leniency Notice operated, namely that conditional immunity was no
+longer available and that leniency cannot be applied for or granted
+jointly, but only by or to an individual company. The interpretation of
+this letter and subsequently action by Lucite was for Lucite to decide.
+Finally, contrary to ICI’s indications, the Commission is not under an
+obligation of any kind to inform participating undertakings in the cartel
+of its investigation.
+
+10.5. Conclusion on the application of the Leniency Notice
+
+(422) In conclusion, the following reductions of the fines that would otherwise
+have been imposed will be granted:
+
+(a) Degussa - immunity from fines;
+
+(b) Atofina - reduction of 40%; and
+
+(c) Lucite - reduction of 30% and immunity under point 23 of the
+Leniency Notice for the period 1 March 2001 until 12 September 2002.
+
+11. FINAL AMOUNTS OF THE FINES TO BE IMPOSED IN THIS
+PROCEEDING
+
+(423) In conclusion, the fines to be imposed pursuant to Article 23(2) of
+Regulation (EC) No 1/2003 are as follows:
+
+(a) Degussa AG, Röhm GmbH & Co. KG and Para-Chemie GmbH, jointly
+and severally liable: EUR 0
+
+(b) Arkema SA, Altuglas International SA and Altumax Europe SAS,
+jointly and severally liable: EUR 219.13125 million. Of this amount
+Total SA is held jointly and severally liable for EUR 140.4 million and
+Elf Aquitaine SA is held jointly and severally liable for EUR 181.35
+million;
+
+(c) ICI PLC : EUR 91.40625 million;
+
+(d) Lucite International Ltd and Lucite International UK Ltd, jointly and
+severally liable: EUR 25.025 million; and
+
+EN 72 EN
+
+(e) Quinn Barlo Ltd, Quinn Plastics NV and Quinn Plastics GmbH, jointly
+and severally liable: EUR 9 million.
+
+EN 73 EN
+
+.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81 of the Treaty and Article 53 of
+the EEA Agreement by participating, during the periods indicated, in a complex of
+agreements and concerted practices in the Methacrylates industry which covered the
+whole EEA territory and which consisted of discussing prices, agreeing,
+implementing and monitoring price agreements either in the form of price increases,
+or at least stabilisation of existing price levels; discussing the passing on of additional
+service costs to customers; exchange of commercially important and confidential
+market and / or company relevant information and participating in regular meetings
+and other contacts to facilitate the infringement..
+
+(a) Degussa AG, from 23 January 1997 until 12 September 2002;
+
+(b) Röhm GmbH & Co. KG, from 23 January 1997 until 12 September
+2002;
+
+(c) Para-Chemie GmbH, from 23 January 1997 until 12 September 2002;
+
+(d) Total SA from Total, from 1 May 2000 until 12 September 2002;
+
+(e) Elf Aquitaine SA, from 23 January 1997 until 12 September 2002;
+
+(f) Arkema SA, from 23 January 1997 until 12 September 2002;
+
+(g) Altuglas International SA, from 23 January 1997 until 12 September
+2002;
+
+(h) Altumax Europe SAS, from 23 January 1997 until 12 September 2002;
+
+(i) ICI PLC, from 23 January 1997 until 1 November 1999;
+
+(j) Lucite International Ltd, from 2 November 1999 until 12 September
+2002;
+
+(k) Lucite International UK Ltd, from 2 November 1999 until 12
+September 2002;
+
+(l) Quinn Barlo Ltd, from 30 April 1998 until 21 August 2000;
+
+(m) Quinn Plastics NV, from 30 April 1998 until 21 August 2000; and
+
+(n) Quinn Plastics GmbH, from 30 April 1998 until 21 August 2000.
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+EN 74 EN
+
+(a) Degussa AG, Röhm GmbH & Co. KG and Para-Chemie GmbH :
+EUR 0;
+
+(b) Arkema SA, Altuglas International SA and Altumax Europe SAS,
+jointly and severally liable: EUR 219.13125 million; of this amount
+Total SA is jointly and severally liable for EUR 140.4 million and Elf
+Aquitaine SA is jointly and severally liable for EUR 181.35 million;
+
+(c) ICI PLC : EUR 91.40625 million;
+
+(d) Lucite International Ltd and Lucite International UK Ltd, jointly and
+severally liable : EUR 25.025 million; and
+
+(e) Quinn Barlo Ltd, Quinn Plastics NV and Quinn Plastics GmbH, jointly
+and severally liable: EUR 9 million.
+
+The fines shall be paid in euros, within three months of the date of the notification of
+this Decision, to the following account:
+
+Account No: 375-1017300-43 of the European Commission with
+
+ING, Agence Bruxelles-Européenne, Rond Point Schuman 5, B-1040 Brussels
+
+(SWIFT code BBRUBEBB – IBAN code BE66 3751 0173 0043)
+
+After expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first
+day of the month in which this Decision is adopted, plus 3.5 percentage points,
+namely 6,09%.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the
+infringements referred to in that Article, in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from
+any act or conduct having an identical or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+Degussa AG
+Corporate Centre
+Bennigsenplatz 1
+DE - 40474 Düsseldorf
+
+Röhm GmbH & Co. KG
+Kirschenallee
+DE - 64293 Darmstadt
+
+EN 75 EN
+
+Para-Chemie GmbH
+Hauptstraße 53
+AT - 2440 Gramatneusiedl
+
+Total SA
+2, place de la Coupole
+La Défense 6
+FR – 92400 Courbevoie
+
+Elf Aquitaine SA
+2, place de la Coupole
+La Défense 6
+FR – 92400 Courbevoie
+
+Arkema SA
+4-8, Cours Michelet
+La Défense 10
+FR - 92800 Puteaux
+
+Altuglas International SA
+6, Cours Michelet
+Cedex 52
+FR - 92063 Paris La Défense
+
+Altumax Europe SAS
+6, Cours Michelet
+Cedex 52
+FR - 92063 Paris La Défense
+
+ICI PLC
+20 Manchester Square
+UK - London, W1U 3AN
+
+Lucite International Ltd
+Queens Gate
+15-17 Queens Terrace
+Southampton
+UK - Hampshire SO14 3 BP
+
+Lucite International UK Ltd
+POB 34
+Orchard Mill
+Duckworth Street
+Darwen
+UK - Lacashire BB3 1QB
+
+Quinn Barlo Ltd
+c/f Quinn Hotel Limited,
+
+EN 76 EN
+
+Dublin Hotel
+IE - Cavan, County Cavan
+
+Quinn Plastics NV
+Leukaard 1
+BE - 2440 Geel
+
+Quinn Plastics GmbH
+Gassnerallee 40
+DE - 55120 Mainz
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article
+110 of the EEA Agreement.
+
+Done at Brussels,
+
+For the Commission,
+
+Neelie KROES
+Member of the Commission
+
+EN 77 EN

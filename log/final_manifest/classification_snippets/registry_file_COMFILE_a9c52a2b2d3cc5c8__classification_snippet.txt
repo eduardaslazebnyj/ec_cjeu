@@ -1,0 +1,482 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+PROJET
+
+FR
+
+FR FR
+
+PROJET
+
+Projet de
+
+DÉCISION DE LA COMMISSION
+
+du [...] 2004
+
+sur la législation postale allemande relative aux services de routage, et notamment à
+l'accès des intermédiaires pour l'autoprestation et des groupeurs au réseau postal
+public et aux tarifs spéciaux correspondants
+
+(Le texte en langue allemande est le seul faisant foi.)
+
+(00/00/CE)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne, et notamment son article 86
+paragraphe 3,
+
+après avoir donné aux autorités allemandes et à Deutsche Post AG, par lettres des 28
+novembre 2003, 4 décembre 2003, 24 mai 2004, 25 mai 2004 et 13 juillet 2004, et lors de
+réunions tenues les 24 mai 2004 et 30 juin 2004 respectivement, l'occasion de faire
+connaître leur point de vue au sujet des griefs formulés par la Commission sur la
+législation législation postale allemande relative aux services de routage, et notamment à
+l'accès des intermédiaires pour l'autoprestation et des groupeurs au réseau postal public et
+aux tarifs spéciaux correspondants,
+
+considérant ce qui suit:
+
+1. LES FAITS
+
+1.1 La mesure étatique en cause
+
+1. L'article 51, paragraphe 1, de la loi postale allemande («PostG») accorde une
+licence exclusive à Deutsche Post AG («DPAG») pour le transport commercial
+d'envois postaux de moins de 100 g et d'un coût inférieur de trois fois au tarif de
+base. Cette disposition n'est pas applicable aux expéditeurs qui souhaitent prendre
+en charge eux-mêmes le transport de leurs envois postaux réservés, à condition de
+ne pas le faire sur une base commerciale pour le compte d'autrui. Le transport est
+défini comme la levée, l'acheminement et la distribution d'envois postaux au
+destinataire (article 4, point 3, PostG).
+
+2. À titre d'exception, l'article 51, paragraphe 1, deuxième phrase, point 5, PostG
+autorise les prestataires commerciaux à lever des envois postaux réservés pour le
+compte de l'expéditeur («im Auftrage des Absenders») et de les déposer au point
+d'accès le plus proche du réseau DPAG ou à un autre point d'accès dans la même
+municipalité.
+
+3. L'article 28, paragraphe 1, PostG permet aux consommateurs d'introduire des envois
+de courrier dans le réseau postal à des points d'accès situés en aval du point d'accès
+
+2
+
+PROJET
+
+le plus proche. Cet accès en aval donne lieu à des tarifs postaux réduits, reflétant
+l'économie de coûts réalisée par DPAG par rapport au service standard englobant
+toute la gamme des services offerts de levée, de tri pour l'acheminement et de
+distribution.
+
+4. À la demande de plusieurs clients de DPAG, l'autorité réglementaire allemande des
+télécommunications et de la poste («RegTP») a établi les conditions dans lesquelles
+les consommateurs peuvent déposer des envois de correspondance et bénéficier de
+tarifs réduits à l'un des 83 centres de tri de DPAG en Allemagne1. Ces décisions font
+une distinction entre le centre de tri de sortie (Briefzentrum Abgang, «BZA»), le
+centre situé près de l'expéditeur d'un envoi de correspondance, et le centre de tri
+d'entrée (Briefzentrum Eingang, «BZE»), situé près du destinataire.
+
+Point d'accès le plus Centre de tri de sortie Centre de tri d'arrivée
+Expéditeur proche Destinataire
+= «BZAw» «BZE»
+bureau de poste/boîte
+aux lettres
+
+5. Les tarifs réduits varient selon que les envois sont déposés au centre de tri de sortie
+ou au centre de tri d'entrée. Dans le premier cas, la réduction dépend du nombre
+d'envois par catégorie (pour des lettres standard):
+
+Réduction Nombre d'envois par catégorie
+5% 5 000 – 10 000
+8% 10 001 – 15 000
+12% 15 001 – 20 000
+16% 20 001 – 25 000
+20% > 25 000
+
+Au centre de tri d'entrée, la réduction est de 23 % à partir de 500 envois par
+catégorie.
+
+6. Ces tarifs réduits ne sont accordés que si les envois sont préparés en respectant
+certaines exigences qualitatives, par exemple s'ils sont prétriés selon les deux
+premiers chiffres du code postal, affranchis, lisibles par machine et transportés en
+conteneurs spéciaux munis d'un code barres de DPAG.
+
+7. Dans le cadre de la réglementation générale des tarifs postaux, RegTP a légèrement
+rabaissé les réductions applicables à compter du 1er janvier 2004 par décision du
+24 septembre 20032.
+
+1 Décision BK 5b-00/076 du 15 septembre 2000, décisions BK5a-00/110 (Stuttgarter
+Lebensversicherung) et BK5a-00/114 (Württembergische Gemeindeversicherung) du 16 octobre 2000
+et décision BK 5a-01/004 du 12 mars 2001, ci-après les «décisions RegTP».
+
+2 Décision BK 5b-03/101.
+
+3
+
+PROJET
+
+Au centre de tri de sortie, les nouvelles réductions sont les suivantes:
+
+Réduction Nombre d'envois par catégorie
+3% 5 000 – 10 000
+6% 10 001 – 15 000
+10% 15 001 – 20 000
+14% 20 001 – 25 000
+18% > 25 000
+
+Au centre de tri d'entrée, la réduction est de 21 % à partir de 500 envois par
+catégorie.
+
+8. En dehors du secteur réservé, ces tarifs réduits s'appliquent aussi bien aux
+expéditeurs qu'à leurs intermédiaires. À l'intérieur du secteur réservé, les décisions
+RegTP restreignent toutefois l'accès aux centres de tri d'entrée et de sortie de DPAG
+(c'est-à-dire les centres BZA et BZE) et les tarifs réduits applicables aux envois
+déposés par les expéditeurs eux-mêmes. Les «transporteurs commerciaux» d'envois
+postaux n'ont pas accès aux centres de tri et aux tarifs réduits correspondants.
+D'après l'interprétation que RegTP fait de l'article 51, paragraphe 1, deuxième
+phrase, point 5, de PostG, l'acheminement du point d'accès le plus proche ou d'un
+autre point d'accès situé dans la même municipalité au centre de tri de sortie tombe
+dans le secteur réservé.
+
+9. RegTP fait toutefois observer que l'article 51, paragraphe 1, deuxième phrase,
+point 5, PostG autorise les transporteurs commerciaux à bénéficier de tarifs réduits
+pour le compte d'un expéditeur bien précis i) s'ils déposent des envois auprès de
+DPAG au point d'accès le plus proche du réseau DPAG ou à un autre point d'accès
+dans la même municipalité; ii) s'ils le font pour le compte et au nom d'un seul
+expéditeur; et iii) si l'expéditeur a passé un accord sur l'accès aux centres de tri et les
+tarifs réduits avec DPAG3.
+
+10. Or, en pratique, les points d'accès locaux de DPAG (autres que les centres de tri) ne
+sont pas équipés pour traiter les envois en nombre. Généralement, les volumes
+importants de courrier sont apportés par un camion qui s'adosse à une plateforme
+spéciale pour déposer le courrier mis en conteneurs, mais les bureaux de poste ne
+disposent pas de telles plateformes. Par conséquent, les centres de tri sont les seuls
+points d'accès préparés pour recevoir et traiter les gros volumes d'envois postaux,
+dont le dépôt donne lieu à des tarifs postaux favorables (tarifs réduits). Les
+entreprises commerciales ne peuvent donc pas en bénéficier, même au niveau local.
+
+11. Pour conclure, sous le régime actuel, les sociétés commerciales de routage, qu'elles
+agissent en tant qu'intermédiaires qui déposent le courrier pour le compte d'un seul
+émetteur ou en tant que groupeurs pour le compte de plusieurs expéditeurs, ne
+peuvent obtenir de réductions de quantité pour la remise d'envois postaux à des
+centres de tri de sortie ou d'entrée, ni, eu égard à la situation logistique aux points
+
+3 Rapport annuel 2001 de RegTP, p. 91.
+
+4
+
+PROJET
+
+d'accès locaux de DPAG, de réductions de quantité pour l'accès au réseau en aval
+d'une manière générale.
+
+1.2 L'application pratique de l'article 51, paragraphe 1, deuxième phrase,
+point 5
+
+1.2.1 Les groupeurs: accès physique aux centres de tri, mais pas de droit
+aux tarifs réduits
+
+12. Comme les envois en nombre ne peuvent être déposés physiquement aux points
+d'accès locaux, et nonobstant l'article 51, paragraphe 1, deuxième phrase, point 5,
+DPAG accepte en pratique les envois postaux remis par les entreprises
+commerciales de routage aux centres de tri. Elle n'accorde cependant aucune
+réduction si les fournisseurs de services postaux y déposent des envois postaux
+groupés et prétriés provenant de plusieurs émetteurs (courrier groupé).
+
+1.2.2 Les intermédiaires pour l'autoprestation: accès physique aux centres
+de tri et tarifs réduits pour le compte de l'expéditeur, mais pas
+d'accords sur l'accès aux centres de tri et les réductions tarifaires
+
+13. Par contre, DPAG accorde aux intermédiaires pour l'autoprestation les tarifs réduits
+applicables même dans le périmètre du secteur réservé, à condition que i) la société
+considérée agisse exclusivement pour le compte d'un seul expéditeur et ii) que
+l'expéditeur ait conclu un accord sur l'accès aux centres de tri et les réductions
+tarifaires avec DPAG. Dans ce cas, la société doit prouver que les envois
+proviennent d'un seul expéditeur et produire une liste de distribution
+(«Einlieferungsliste») donnant des renseignements sur les destinataires, et
+notamment les deux premiers chiffres du code postal.
+
+14. Se fondant sur les décisions RegTP, DPAG refuse toutefois de passer des accords
+sur l'accès aux centres de tri et les réductions tarifaires («Teilleistungsverträge»)
+avec des intermédiaires pour l'autoprestation. DPAG interprète le libellé de
+l'article 51, paragraphe 1, deuxième phrase, point 5 «pour le compte de
+l'expéditeur») dans ce sens que les accords sur l'accès aux centres de tri et les
+réductions tarifaires ouvrant le droit aux tarifs réduits, ne doivent être conclus
+qu'avec les expéditeurs d'envois en nombre eux-mêmes et non avec leurs
+intermédiaires. Par conséquent, la société de routage doit acquitter le tarif postal
+plein et la réduction est versée directement à l'expéditeur4.
+
+1.2.3 Conclusion
+
+15. Par conséquent, la pratique est un peu moins stricte que le régime juridique
+proprement dit. Les intermédiaires commerciaux pour l'autoprestation et les
+groupeurs font donc l'objet des restrictions suivantes:
+
+(1) les intermédiaires pour l'autoprestation ne peuvent passer d'accords sur
+l'accès aux centres de tri et les réductions tarifaires avec DPAG. Ils sont
+donc obligés de divulguer l'identité et les caractéristiques de la demande de
+
+4 Renseignements fournis par DPAG dans ses lettres des 25 mai 2004 et 13 juillet 2004 et lors d'une
+réunion du 30 juin 2004.
+
+5
+
+PROJET
+
+leurs clients pour bénéficier de ces tarifs. De surcroît, les réductions sont
+versées directement à leurs clients, ce qui empêche les intermédiaires de
+décider eux-mêmes s'ils veulent répercuter la réduction intégralement ou en
+partie seulement, en conservant une certaine marge;
+
+(2) les groupeurs ne peuvent bénéficier d'aucune réduction de quantité pour
+l'accès en aval.
+
+1.3 Les services en cause
+
+16. Les services en cause sont les services de routage pour les envois postaux expédiés
+à partir du territoire de l'Allemagne. Ils comprennent plusieurs opérations de
+traitement des envois postaux, entre la détermination du contenu par l'émetteur des
+envois et leur acceptation par DPAG dans le cadre de ses services réservés5. Le
+routage peut inclure l'une ou plusieurs des opérations suivantes: conditionnement
+des envois (impression, mise sous enveloppe, étiquetage et affranchissement),
+collecte, dépôt dans des sacs ou conteneurs de courrier respectant certaines normes,
+groupage et tri plus ou moins fin par destination et dépôt aux points d'accès de
+DPAG.
+
+17. Les envois postaux étaient traditionnellement préparés et acheminés vers des points
+d'accès adéquats par les expéditeurs eux-mêmes. Or, depuis la libéralisation, les
+gros expéditeurs confient de plus en plus souvent ces opérations à des
+intermédiaires qui préparent et prétrient le courrier avant de le remettre à l'opérateur
+postal pour distribution finale. Les gros clients ne considèrent donc plus les services
+de courrier, de distribution et les services logistiques comme des éléments d'appui
+isolés, mais comme ceux d'une offre intégrée. Tenant compte de facteurs tels que la
+charge, les systèmes de planification des ressources de l'entreprise et la
+sous-traitance, ces sociétés recherchent des systèmes modernes, l'amélioration du
+cash-flow et la simplification des processus. L'un des éléments moteurs de la
+sous-traitance est la réduction des coûts, et notamment les économies sur les coûts
+d'affranchissement.
+
+18. Par conséquent, les grosses sociétés de routage cherchent à offrir l'ensemble des
+services de routage allant du conditionnement des envois à leur acheminement vers
+un point d'accès de DPAG. Les sociétés de routage plus petites offrent une gamme
+de services plus ou moins étendue et complexe visant des segments de marché bien
+déterminés: on distingue les regroupeurs, qui effectuent exclusivement des travaux
+de tri et de préparation; les intégrateurs, qui offrent une gamme de prestations plus
+ou moins étendue dans la chaîne du marketing direct, depuis les études de marketing
+jusqu'à la gestion des envois, etc.
+
+19. En outre, il existe en Allemagne diverses sociétés régionales d'acheminement du
+courrier, dont plusieurs étaient des services de distribution spéciaux des journaux
+régionaux (les «Briefdienste») et qui fournissent à la fois des services de préparation
+
+5 La Commission a délimité pour la première fois un marché de services de routage du courrier pour les
+envois expédiés à partir du territoire de la France dans sa décision COMP/37.133 (Snelpd/France) du
+23 octobre 2001 relative à l'absence de contrôle exhaustif et indépendant des conditions tarifaires et
+techniques appliquées par La Poste aux entreprises de routage pour l'accès à ses services réservés
+(considérants 54 et suivants), JO L 120 du 7.5.2002, p. 19.
+
+6
+
+PROJET
+
+du courrier et des services d'acheminement6. Ces sociétés collectent les envois
+auprès de leurs clients, les regroupent et les prétrient en fonction de leur destination.
+Les envois adressés à la même région selon le code postal ou à une région voisine
+ne sont généralement pas introduits dans le réseau postal public, mais distribués par
+la société d'acheminement. En dépit de la licence exclusive de DPAG, ces sociétés
+d'acheminement sont autorisées à assurer cette distribution si elle constitue un
+service à valeur ajoutée au sens de l'article 51, paragraphe 1, deuxième phrase,
+point 4, comme la distribution le jour même, la distribution le lendemain, collecte
+après 17 h le jour 1, distribution avant midi le jour 2), distribution à une date précise
+ou traçage des envois7. Les envois adressés à une région postale voisine sont
+normalement transmis à une société d'acheminement du courrier disposant d'un
+réseau de distribution dans cette région. Seul le reste des envois collectés est remis à
+DPAG pour acheminement.
+
+20. D'après les renseignements fournis à la Commission, le volume du marché allemand
+des services de routage était estimé entre 5 et 17 milliards d'euros8 en 2001. DPAG
+offre des services d'étiquetage, d'affranchissement et autres services de préparation
+et fait office de fournisseur de services par défaut pour le tri et l'acheminement si
+l'expéditeur (ou son intermédiaire) choisit de déposer l'envoi auprès de l'un des
+points d'accès les plus proches. Comme dans le cas des autres fournisseurs
+traditionnels du service universel, cette progressio
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+era venue à expiration, le 31 décembre 2007 90.
+
+139. En accordant aux gros expéditeurs un accès en aval et les réductions tarifaires y
+afférentes, conformément à l’article 58 et seq. PostG, le gouvernement allemand a
+inévitablement choisi d'ouvrir son réseau aux sociétés de groupage de la même
+façon. Cette obligation existe indépendamment du fait de savoir si l’Allemagne
+aurait pu réserver certains types de transport de courrier. Le fait est que le
+gouvernement a renoncé au droit - pour autant qu'il ait existé - de réserver les
+activités concernées en accordant des avantages à un groupe de clients (les
+expéditeurs) pour lesquels un principe rigoureux de non-discrimination avait déjà
+été consacré par la communication postale et confirmé par la directive postale
+modifiée. Il est intéressant de noter à cet égard que le gouvernement allemand
+lui-même n’a jamais affirmé que le fait de refuser un accès en aval effectif aux
+sociétés de groupage était conforme à l'article 7 de la directive postale, mais que
+seule DPAG a avancé cet argument.
+
+2.7 Arguments relatifs au choix de la Commission de contester la loi postale
+allemande au titre des règles de concurrence
+
+140. DPAG a affirmé à plusieurs reprises qu’il serait plus approprié que la Commission
+conteste la loi postale allemande en invoquant le fait qu’elle est contraire à
+l’article 7 de la directive postale et qu’elle engage une procédure en vertu de
+l’article 226 du traité91. DPAG estime qu’en contestant la loi postale au titre des
+règles de concurrence, la Commission contourne l’article 226 ainsi que les garanties
+procédurales qu’il comporte pour l’État membre concerné.
+
+141. Selon une jurisprudence constante, la Commission exerce ses pouvoirs de contrôle
+de façon discrétionnaire dans l'intérêt général de la Communauté. C’est à elle qu’il
+appartient de déterminer s’il convient d’engager une procédure, mais elle n’est en
+aucune façon tenue de le faire en cas d’infraction supposée au traité92. Par
+
+89 Le marché des services postaux est l’un des marchés sur lesquels le Conseil européen s’est concentré
+lors de sa réunion de Lisbonne les 23 et 24 mars 2000 et pour lequel la Commission, le Conseil et les
+États membres ont demandé une accélération de la libéralisation.
+
+90 Déclaration du gouvernement allemand de juillet 2004 concernant le rapport d’activité de la RegTP
+pour 2002/2003 et le rapport spécial de la commission des monopoles sur l'«Intensification de la
+concurrence dans le secteur des télécommunications, consolidation du monopole postal».
+
+91 Lettre du 25 mai 2004, p. 21 et argument avancé lors de la réunion du 30 juin 2004.
+
+92 Arrêt du 22 juin 1993 dans l’affaire 243/89, Commission/Danemark, Rec. 1993, p. I-3353, point 30;
+arrêt du 27 novembre 1990 dans l’affaire 200/88, Commission/Grèce, Rec. 1990, p. I-4299, point 9;
+38
+
+PROJET
+
+conséquent, en cas d’infractions parallèles à plusieurs dispositions du traité, la
+Commission est libre d’intenter une action contre une seule de ces infractions,
+contre les deux ou encore de s’abstenir de toute action. En l’espèce, la Commission
+a décidé d'engager une procédure sur la base des règles de concurrence sans exclure,
+toutefois, d'engager par la suite une action pour infraction à la directive postale, sur
+une autre base juridique. L’argument de DPAG doit donc être repoussé.
+
+2.8 Argument lié à la demande pendante de décision préjudicielle
+
+142. Dans sa lettre du 29 septembre 2004, DPAG fait valoir que le fait que le Tribunal
+administratif de Cologne ait introduit, le 30 juin 2004, une demande de décision
+préjudicielle sur l’interprétation du principe de non-discrimination prévu à
+l’article 12, cinquième tiret, de la directive postale modifiée, empêche la
+Commission d’adopter une décision dans la présente affaire. DPAG affirme
+notamment que les arrêts Delimitis et Masterfoods93 énoncent un principe général
+interdisant à la Commission d’adopter des décisions qui pourraient susciter des
+conflits avec la future jurisprudence de la Cour.
+
+143. Les arrêts cités par DPAG soulignent la primauté du rôle de la Commission dans les
+affaires de concurrence vis-à-vis des juridictions nationales: lorsque des juridictions
+nationales se prononcent sur des accords ou des pratiques qui ont déjà fait l’objet
+d’une décision de la Commission, elles ne peuvent prendre des décisions allant à
+l’encontre de celle de la Commission. Lorsqu’elles se prononcent sur des accords ou
+des pratiques susceptibles de faire l’objet ultérieurement d’une décision de la
+Commission, il résulte de l’obligation de coopération loyale qu'elles doivent, afin
+d’éviter d’adopter une décision allant à l’encontre de celle de la Commission,
+surseoir à statuer jusqu’à ce que la Commission ait adopté une décision. Toutefois,
+ces principes ne sont pas applicable au rôle de la Commission vis-à-vis des
+juridictions européennes. S’il n’existe aucun rapport hiérarchique entre les
+juridictions nationales et la Commission et si seule l'obligation de coopération
+loyale permet d'éviter des décisions conflictuelles, toutes les décisions de la
+Commission peuvent être contestées devant les juridictions européennes. Il n’existe
+donc aucun risque de décisions conflictuelles entre la Commission et les juridictions
+européennes en dernière instance et il n’existe aucune obligation de surseoir à
+statuer pour la Commission. L’argument de DPAG doit donc être repoussé.
+
+2.9 Effet sur les échanges entre États membres
+
+144. Les mesures nationales mentionnées ci-dessus sont susceptibles d'affecter les
+échanges entre États membres. Le courrier confié à des sociétés de routage peut
+provenir de sociétés implantées dans d'autres États membres, dont les activités
+transfrontalières peuvent de ce fait être affectées par une distorsion de la
+concurrence, tout autant que les activités des sociétés de routage implantées dans
+
+arrêt du 17 mai 1990 dans l’affaire C-87/89, Sonito et autres/Commission, Rec. 1990, p. I-1981,
+points 6 et 7.
+
+93 Arrêt du 28 février 1991 dans l'affaire C-234/89, Delimitis/Henninger Bräu, Rec. 1991, p. I-935,
+point 47 ; arrêt du 14 décembre 2000 dans l’affaire C-344/88, Masterfoods et HB, Rec. 2000,
+p. I-11369, points 52 et 56.
+
+39
+
+PROJET
+
+des États membres autres que l’Allemagne et qui pourraient souhaiter s’implanter en
+Allemagne afin d’y proposer leurs services94. La possibilité de grouper des envois
+est même particulièrement attractive pour les concurrents non allemands, qui traitent
+un volume comparativement faible d’envois destinés à l’Allemagne et pourraient
+avoir besoin du groupage pour atteindre des volumes leur permettant de bénéficier
+de réductions tarifaires. L’interdiction de fournir ces services pourrait donc
+constituer une barrière à l’entrée sur le marché allemand.
+
+3. CONCLUSION
+
+145. La Commission reconnaît que la République fédérale d’Allemagne prévoit de
+modifier sa loi postale afin de mettre un terme à l’infraction. Toutefois, il n’est pas
+possible d’exclure que cette modification, si elle est uniquement destinée à adapter
+le régime légal à la pratique actuelle de DPAG, ne résolve que partiellement les
+problèmes rencontrés par les intermédiaires pour l'autoprestation et ne règle en rien
+la situation juridique des sociétés de groupage. En outre, la Commission note que le
+gouvernement allemand prévoit d’appliquer l’article 51, paragraphe 1, deuxième
+phrase, point 5, PostG, tel qu’il est interprété dans son contexte législatif par la
+RegTP, jusqu’à ce que la modification entre en vigueur. C’est pourquoi la
+Commission estime que la République fédérale d’Allemagne, en n'adoptant aucune
+mesure provisoire contraignante mettant fin à l'application des dispositions
+incriminées, en maintenant ainsi la restriction limitant le dépôt d'envois postaux par
+les intermédiaires pour l'autoprestation au point d'accès le plus proche de
+l'expéditeur ou à un autre point d'accès situé dans la même commune et en ôtant aux
+sociétés de groupage privées toute possibilité de bénéficier de réductions tarifaires
+pour tous les types d'accès en aval au réseau postal, enfreint l'article 86,
+paragraphe 1, en liaison avec l'article 82, du traité95.
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+L’article 51, paragraphe 1, deuxième phrase, point 5, de la loi postale allemande,
+telle qu’elle est interprétée dans son contexte législatif par la RegTP, est contraire à
+l’article 86, paragraphe 1, en liaison avec l’article 82, du traité CE, dans la mesure
+où cette disposition empêche les sociétés de courtage privées, qu’elles agissent en
+tant qu’intermédiaire pour l’autoprestation pour le compte d’un seul émetteur ou en
+tant que groupeur pour le compte de plusieurs émetteurs, d’obtenir des réductions
+tarifaires quantitatives lorsqu'elles remettent des envois dans des centres de tri de
+sortie ou d'entrée et aussi, compte tenu de la situation de la logistique dans les points
+d'accès locaux de DPAG, d'obtenir la moindre réduction tarifaire quantitative pour
+l'accès au réseau en aval.
+
+94 Voir l’arrêt du 1er février 1978, affaire 19/77, Miller contre Commission, Rec. 1978, p. 131, point 15
+et point 48 des conclusions de l'avocat général Jacobs rendues avant l'arrêt du 23 avril 1991 dans
+l’affaire C-41/90, Höfner contre Macrotron, Rec. 1991, p. I-1979.
+
+95 Le fait qu’une législation nationale soit en cours de modification est sans pertinence dès lors que cette
+modification n’est pas mise en œuvre avant l'expiration du délai imparti par la Commission: arrêt du
+11 août 1995 dans l'affaire C-433/93, Commission des Communautés européennes contre République
+fédérale d’Allemagne, Rec. 1995, p. I-2303.
+
+40
+
+PROJET
+
+Article 2
+
+L’Allemagne informe la Commission, dans un délai de deux mois à compter de la
+date de notification de la présente décision, des mesures qu'elle aura prises pour
+mettre fin à l’infraction mentionnée à l'article premier.
+
+Article 3
+
+La République d’Allemagne est destinataire de la présente décision.
+
+Fait à Bruxelles, le [...].
+
+Par la Commission
+
+Mario Monti
+
+Membre de la Commission
+
+41

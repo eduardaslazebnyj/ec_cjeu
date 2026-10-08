@@ -1,0 +1,499 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition
+
+CASE AT.40160
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7(2) Regulation (EC) 773/2004
+
+Date: [17/5/2017]
+
+This text is made available for information purposes only.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those
+parts are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu.
+
+EUROPEAN COMMISSION
+
+Brussels, 17.5.2017
+C(2017) 3435 final
+
+Harada Ltd.
+85 Cromwell Road,
+London, 5W7 5BW
+United Kingdom
+
+Subject: Case COMP/AT.40160 – Foreclosure of money transmittance market
+Commission Decision rejecting the complaint and supplementary complaint
+(Please quote this reference in all correspondence)
+
+Dear Madam/Sir,
+
+(1) The European Commission (Commission') hereby informs you that it has decided to
+reject Harada Ltd’s ('Harada') complaint against Clearing Bank 1 ('Clearing Bank 1')
+and its supplementary complaint against Clearing Bank 1 and other clearing banks in the
+United Kingdom (‘UK’), pursuant to Article 7(2) of the Commission Regulation (EC)
+773/2004.1
+
+(2) Clearing banks are banks that have direct access to the clearing system and clear
+transactions for other non-clearing banks (known as ‘Agency Banks’). The four primary
+clearing banks in the UK are Clearing Bank 1, Clearing Bank 2 (' Clearing Bank 2'),
+Clearing Bank 3 ('Clearing Bank 3') and Clearing Bank 4 ('Clearing Bank 4') (together
+referred to as the 'UK Clearing Banks'). Agency Banks rely on the services provided by
+the UK Clearing Banks to have access to the UK's payment system and to clear their
+transactions.
+
+1. THE COMPLAINT
+
+(3) By letter dated 6 November 2013, Harada requested the Commission to launch an
+investigation into Clearing Bank's 1 decision to close Harada's bank account. Harada
+alleged that, by refusing to provide banking services to it and other Money Service
+Businesses ('MSBs'), Clearing Bank 1 has abused a dominant position in the market for
+
+1 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, Official Journal L 123, 27.04.2004, pages 18-24.
+
+2
+
+the provision of banking services to MSBs in the UK2. Harada also claimed the existence
+of a concerted practice between:
+
+(a) the UK Clearing Banks to prevent Agency Banks from providing banking
+services to MSBs; and
+
+(b) Clearing Bank 1, Western Union and other downstream undertakings to
+withdraw the provision of banking services to MSBs.
+
+(4) On 17 December 2013, Harada lodged a supplementary complaint claiming that the UK
+Clearing Banks have:
+
+(a) entered into an agreement to exclude MSBs from banking services; and,
+
+(b) forced the Agency Banks to conform to the concerted practice of the UK
+Clearing Banks referred to in paragraph 3(a) above.
+
+(5) On 23 January 2014, the Commission sent questions by e-mail to Harada, to which
+Harada replied on 3 February 2014.
+
+(6) On 5 February 2014, Harada provided further clarifications at a meeting at DG
+Competition in Brussels.
+
+(7) On 9 April 2014, the Commission sent additional questions by e-mail to Harada. On 16
+April 2014, the Commission and Harada held a conference call to discuss the information
+requested. Harada replied to the additional questions on 28 April 2014.
+
+(8) On 15 July 2014, Harada informed the Commission that it had brought the allegations
+contained in its complaint and supplementary complaint to the attention of Members of
+the European Parliament ('MEPs'). Harada also informed the Commission that the
+European Union Electoral Association (‘EUEA’)3 had published information about
+Harada’s complaint and supplementary complaint on EUEA’s web site.
+
+(9) On 5 August 2014, the Commission issued a request for information ('RFI') to Clearing
+Bank 1 and sent, with Harada’s consent, Harada’s complaint and supplementary
+complaint to Clearing Bank 1. Clearing Bank 1 replied to the RFI on 10 and 31 October
+2014. It also submitted observations on Harada’s complaint and supplementary complaint
+on 10 October 2014.
+
+(10) On 13 March 2015, the Commission issued RFIs to Clearing Bank 2, Clearing Bank 3,
+Clearing Bank 4, Metro, Citibank, Al Rayan Bank, Banco do Brasil, The Joint Money
+Laundering Steering Group ('JMLSG')4, the Wolfsberg Group5, and the European
+
+2 The term 'Money Service Business' ('MSB') is used in the UK to describe any undertaking operating: (1)
+currency exchange services, (2) money remittance services or (3) cheque cashier services.
+3 See http://www.euelec.eu/initiatives/
+4 The JMLSG is a body made up of the leading UK trade associations in the financial services industry, including
+the British Bankers' Association. Its aim is to promulgate good practice in countering money laundering and to
+give practical assistance in interpreting the UK Money Laundering Regulations. This is primarily achieved by
+the publication of industry guidance.
+
+See http://www.jmlsg.org.uk/
+
+3
+
+Payment Institutions Federation ('EPIF')6. The Commission received replies to these
+RFIs between 2 April 2015 and 5 May 2015.
+
+(11) On 5 August 2015, the Commission issued a RFI to the Association of UK Payment
+Institutions ('AUKPI')7, to which the AUKPI replied on 7 September, 21 September and
+30 September 2015. The Commission also had contacts with the AUKPI to discuss the
+issue of bank account closures in the UK. As part of its reply to the RFI, AUKPI
+submitted to the Commission a report summarising the results of a survey it had
+conducted during the summer of 2015 among present and former AUKPI members, other
+payment institutions and electronic money institutions in relation to bank account
+closures ('AUKPI survey')8.
+
+(12) On 23 May 2016 the Commission informed Harada of its intention to reject the
+complaint and supplementary complaint ('Article 7(1) letter'). On that same day, the
+Commission provided Harada with access to the documents on which the Article 7(1)
+letter was based.
+
+(13) On 6 July 2016, Harada made additional observations in response to the Article 7(1)
+letter ('reply to the Article 7(1) letter').
+
+(14) On 5 December 2016 the Commission sent a RFI to Western Union, to which Western
+Union replied on 23 January 2017.
+
+(15) On 23 March 2017, the Commission provided Harada with access to the Summary of the
+Briefing Paper submitted by Western Union in reply to the Commission's RFI. On 15
+May 2017, Harada has not made any observations on that document.
+
+2. BACKGROUND TO THE COMPLAINT
+
+2.1.1. Barclays closure of Harada's account
+
+(16) Harada is an MSB engaged in the provision of currency exchange services and, until
+2013, money remittance services.
+
+5 The Wolfsberg Group is an association of several global banks (Banco Santander, Bank of America, Bank of
+Tokyo Mitsubishi-UFJ, Barclays, Citibank, Credit Suisse, Deutsche Bank, Goldman Sachs, HSBC, JP Morgan
+Chase, Societé Générale, Standard Chartered Bank, UBS) aimed at developing frameworks and guidance for
+the management of financial crime risks.
+
+See http://www.wolfsberg-principles.com/index.html
+6 EPIF is an international non-profit association founded in June 2011 in response to the adoption of the Payment
+Services Directive (PSD).
+
+See http://www.paymentinstitutions.eu/
+7 AUKPI represents Payment Institutions regulated by the Financial Conduct Authority. Its principal role is to
+provide a forum where member firms can come together to discuss and collectively respond to issues of
+common concern. They also represent the interests of their industry to law makers, regulators, banks and other
+financial institutions and consumers at both UK and European level.
+
+See http://www.ukmta.org/Home.aspx
+8 "Access to UK Bank Accounts for Payment and E-Money Institutions. A report with recommendations
+commissioned by the AUKPI. September 2015" (DOC ID 465).
+
+4
+
+(17) Following Barclays' closure of its account, Harada brought an action against Barclays
+before the High Court of Justice of England and Wales (‘the High Court’) alleging that,
+by closing its bank account, Barclays had infringed Article 102 TFEU and section 18(2)
+of the Competition Act 1998.
+
+(18) By judgment dated 5 November 20139, the High Court granted an interim injunction
+ordering Barclays to refrain from closing Harada’s bank account until trial or further
+order (‘the November 2013 Judgment’). Following that judgment, Barclays presented
+Harada with an estimated schedule of costs for the trial of approximately £5.6m. Harada
+subsequently withdrew from the proceedings.
+
+(19) Since the closure of its account by Barclays, Harada has been unable to find alternative
+banking services.
+
+2.1.2. The regulation of MSBs in the UK
+
+(20) In the UK, MSBs are registered at, and supervised by, the Financial Conduct Authority
+('FCA') and Her Majesty's Revenue and Customs ('HMRC').
+
+(21) Most MSBs are non-bank Payment Institutions ('PI') subject to the Payment Service
+Directive PSD10 and the EU Anti Money Laundering ('AML') Directive.11 The previous
+version of the AML Directive12 has been implemented in the UK by the Money
+Laundering Regulations 2007.13 The previous version of the AML Directive and the
+Money Laundering Regulations 2007 will hereinafter be referred to as the ‘AML
+legislation’.
+
+(22) Since 2011, the UK Clearing Banks have met at different fora to discuss how to deal with
+the application of the AML legislation:
+
+(i) the CIB and Markets AML forum. This forum was established by Citibank in
+August 2011. It holds quarterly roundtable discussions with other large
+corporate & investment banks on issues related to the AML legislation14. The
+question of how to approach MSB client due diligence has been raised within
+the forum15;
+
+9 [2013] EWHC 3379 (Ch).
+10 Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment
+services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and
+Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC.
+11 Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of
+the use of the financial system for the purposes of money laundering or terrorist financing, amending
+Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive
+2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, OJ L 141,
+05.06.2015, p. 73.
+12 Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of
+the use of the financial system for the purpose of money laundering and terrorist financing, OJ L 309,
+25.11.2005, p. 15.
+13 SI 2007 No. 2157.
+14 [...] reply to the Commission RFI (DOC ID 240, [...].)
+15 [...] response to the Commission RFI Part II (DOC ID 674, [...].
+
+5
+
+(ii) the British Bankers' Association ('BBA'). The BBA organises a number of
+panels under its “Financial Crime Policy Group” (FCPG) that discusses issues
+relevant to MSBs and the AML legislation on a regular basis. The BBA held 15
+meetings in 2014 and 2015 and among the topics discussed and actions taken
+were "(...) to inform, develop and support delivery of the BBA’s financial crime
+strategy and external engagement on financial crime in the UK and
+internationally, including relationships with other international groupings
+(...)16 and (...)"to examine the industry arrangements for international level
+strategic engagement on financial crime (...); (...) has consulted a range of
+members on how the BBA can best support their efforts to address fraud,
+including wholesale and smaller BBA member banks (...)"17.
+
+(iii) the MSB Expert Meeting of 31 July 2013. The meeting was organised by the
+BBA. The FCA, Her Majesty’s Treasury, the Serious Organised Crime
+Agency18, a number of MSBs and several banks [...] were invited to attend. The
+primary purpose of the meeting was to discuss financial crime risk associated
+with the provision of banking services to MSBs. It was organised in advance of
+a roundtable meeting on MSBs hosted by the UK’s Economic Secretary to the
+Treasury on 7 August 201319;
+
+(iv) the US-UK Public-Private Working Group. This working group was set up by
+the US and UK Treasuries to engage in discussions with major US and UK
+financial institutions to discuss financial crime management issues, including
+the subject of de-risking20;
+
+(v) the Wolfsberg Group. This association of thirteen global banks founded in
+2000 aims to develop frameworks and guidance for the management of financial
+crime risks, particularly with respect to Know Your Customer, Anti-Money
+Laundering and Counter Terrorist Financing policies. The minutes of the six
+meetings held by the Wolfsberg Group between 2013 and 2015 (the 'Minutes')
+indicate that the group regularly discussed AML issues and performed lobbying
+actions on behalf of its members21;
+
+16 [...] response to the Commission RFI (DOC ID 205-119, [...]).
+17 [...] response to the Commission RFI (DOC ID 205-122, [...].
+18 Currently the National Crime Agency.
+19 [...] Commission RFI, (DOC ID 675, [...]).
+20 [...] response to the Commission RFI, (DOC ID 675, [...] )
+21 See minutes of the call [...] response to the Commission RFI, (DOC ID 628): "(...) the Wolfsberg Group may
+be able to assist highlighting these consequences by way of coordinating the lobbying – ensuring that the right
+people in the right places deliver a consistent message" (page 2); also that "FIs are de-risking for AML
+purposes as they believe they are unable to manage the risk. The cost of compliance is also a factor" (page 1);
+finally, one of the participants to the call, mentions that the "de-risking decision making considers the risk v.
+income. Costs from a compliance angle needs to be balanced with revenue" (page 1). See also the Minutes of
+the various meetings held by the Wolfsberg Group - Appendix II [...] response to the Commission RFI, (DOC
+ID 628, page 9): "There is a lack of co-ordination between national regulators resulting in conflicting levels of
+enforcement action and therefore uncertainty in firms. (...) This has led to some institutions leaving countries
+and whole sectors because they see the risks as too difficult to manage based on a zero tolerance environment
+created by the regulatory inspection regime in many instances applying standards retrospectively"; DOC ID
+628, page 12: "(...) the Group discussed the 'effectiveness' of the AML framework and how best to increase
+
+6
+
+(vi) the Joint Money Laundering Steering Group ('JMLSG'). This forum is made
+up of the leading UK trade associations in the financial services industry. Its aim
+is to promulgate good practice in countering money laundering and to give
+practical assistance in interp
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ place, the discussions among the UK Clearing Banks do not refer to any
+strategic or commercially sensitive information such as prices, names of customers or
+individual assessment criteria46.
+
+(51) In the second place, there is no evidence to indicate that the participants in the meetings
+outlined in paragraph 21 above discussed commercially sensitive information.
+
+(52) Second, there is no evidence that the UK Clearing Banks have engaged in a concerted
+practice to prevent Agency Banks from providing banking services to MSBs47.
+
+(53) In the first place, the UK Clearing Banks48 appear to have adopted different strategies in
+relation to MSBs:
+
+45 [...] on De-risking on November, 1, 2013 - [Minutes RFI – D (2015) 023929] [...] response to the Commission
+RFI, (DOC ID 628, page 1).
+46 Case C-286/13 P Dole Food and Dole Fresh Fruit Europe v Commission, EU:C:2015:184, paragraph 120.
+Guidelines on the applicability of Article 101 of the Treaty on the Functioning of the European Union to
+horizontal co-operation agreements, OJ 2011 C11/14, point 61.
+47 Joined Cases C-89/85, C-104/85, C-114/85, C-116/85, C-117/85 and C-125/85 to C-129/85 Woodpulp II,
+EU:C:1993:120, paragraphs 70-71.
+
+12
+
+(a) In 2013, UK Clearing Bank 1 carried out a review of its MSB client portfolio
+to lower its exposure to risk. That review did not result in UK Clearing Bank
+1 withdrawing from the MSB sector as a whole;
+
+(b) In 2015, UK Clearing Bank 2 defined MSBs as 'prohibited clients' and 'has
+not knowingly taken on any new MSBs customers since 2012';
+
+(c) UK Clearing Bank 3 does not have a policy to exit the MSB sector as a
+whole;
+
+(d) UK Clearing Bank 4 seems to have adopted a policy of refusing to take on
+board new MSB clients.
+
+(54) This is confirmed by the results of the AUKPI survey according to which UK Clearing
+Banks have provided a variety of different reasons for refusals to open accounts and
+account closures, varying from 'appetite loss for the MSB sector/ change in policy' to 'too
+low a volume' and 'insufficient capital'.
+
+(55) In the second place, closures of bank accounts by each of the UK Clearing Banks seem to
+have taken place at different times49:
+
+(a) The figures provided by UK Clearing Bank 1 indicate that most of the
+account closures ([40-60]% of UK Clearing Bank 1 MSBs clients) occurred
+in 2013 and 2014. UK Clearing Bank 1 carried out a first review of its policy
+towards MSBs in 2012, while most of the account closures were the outcome
+of its 2013 Corporate Bank Review;
+
+(b) The figures provided by UK Clearing Bank 2 indicate that most of the bank
+account closures ([80-100]% of UK Clearing Bank 2 MSBs clients) occurred
+between 2012 and 2013. According to UK Clearing Bank 2, it started
+reviewing its AML policy in 2010 and carried out a partial exit in 2011;
+
+(c) The figures provided by UK Clearing Bank 3 show an increase of [20-40]%
+in the number of MSBs served between 2011 and 2014. UK Clearing Bank 3
+reviewed its policy in 2013 while not barring MSBs as a higher risk business
+type; and
+
+(d) The figures provided by UK Clearing Bank 4 indicate that it has, on average,
+closed the accounts of [5-25]% MSB clients per year between 2011 and 2014.
+
+According to UK Clearing Bank 4, in 2011 its risk appetite towards MSBs
+was highly cautious but it had no plans to withdraw from the MSB sector,
+although it had a more cautious approach to certain MSBs (e.g. money
+remitters, to which they would be generally closed).
+
+(56) Third, there appear to be only three isolated instances where UK Clearing Banks may
+have limited the ability of Agency Banks to provide banking services to MSBs50. These
+
+48 See DOC ID 669.
+49 See DOC ID 668.
+
+13
+
+three incidents can be contrasted with the large number of banks that are able to provide
+banking services to MSBs.
+
+5.1.2.2. Existence of a concerted practice between Clearing Bank 1and
+larger MSBs such as Western Union to withdraw the provision of
+banking services to MSBs
+
+(57) The Commission concludes that there is a limited likelihood of establishing the existence
+of a concerted practice between Clearing Bank 1and larger MSBs such as Western Union
+to withdraw the provision of banking services to MSBs, and thus an infringement of
+Article 101 TFEU.
+
+(58) First, Harada has provided no evidence to support this allegation.
+
+(59) Second, the investigative measures that the Commission has undertaken have not
+uncovered any evidence pointing to the existence of discussions between Clearing Bank
+1and larger MSBs such as Western Union relating to a common policy and/or strategy
+toward MSBs or to an exchange of strategic or commercial sensitive information such as
+prices, names of customers or individual assessment criteria51.
+
+5.2. The scope of the investigation required and the likelihood of finding further
+evidence supporting Harada's allegations
+
+(60) The Commission has carried-out an in-depth investigation into the allegations in Harada's
+complaint and supplementary complaint. Given the outcome of that investigation and the
+publication of Harada’s complaint and supplementary complaint by the EUEA, it is
+unlikely that further investigation would bring to light further evidence supporting
+Harada's allegations.
+
+5.3. The UK Competition and Markets Authority and the English courts appear
+well-placed to handle the matters raised
+
+(61) The Commission concludes that both the UK Competition and Markets Authority and the
+English courts appear well-placed to handle the matters raised by Harada’s complaint and
+supplementary complaint.
+
+(62) First, the UK Competition and Markets Authority appears well-placed to deal with the
+allegations raised because:
+
+(a) the impact of the alleged practices are essentially confined to the territory of the UK;
+and
+
+(b) the Competition and Markets Authority is competent to apply Articles 101 and 102
+TFEU.
+
+50 [...] reply to the Commission's [...] reply to the Commission's RFI ([...]); and [...] reply to Commission's RFI
+([...]).
+51 See Case C-286/13 P Dole Food and Dole Fresh Fruit Europe v Commission, EU:C:2015:184, paragraph 120.
+Guidelines on the applicability of Article 101 of the Treaty on the Functioning of the European Union to
+horizontal co-operation agreements, OJ 2011 C11/14, point 61
+
+14
+
+(63) Second, as confirmed by the November 2013 Judgment, the English courts appear wellplaced to deal with the allegations raised in Harada’s complaint and supplementary
+complaint:
+
+(a) The English courts are in a position to gather the factual information necessary to
+evaluate whether the conduct complained of by Harada constitutes an infringement
+of Article 101 or 102 TFEU52.
+
+(b) The English Courts are able to examine whether the conduct complained of by
+Harada:
+
+– restricts competition within the meaning of Article 101(1) TFEU53;
+
+– benefits from an exemption under Article 101(3) TFEU54; and
+
+– infringes Article 102 TFEU55.
+
+(c) The English courts can provide legal remedies to safeguard Harada's rights in a
+satisfactory manner56. These include applying the nullity sanction provided for in
+Article 101(2) TFEU and awarding damages for breach of Articles 101 and 102
+TFEU. In the event of doubt, the English courts may also seek a preliminary ruling
+from the Court of Justice.
+
+(64) Third, reasons pertaining to procedural economy and the sound administration of justice
+militate in favour of the allegations raised in Harada's complaint and in the
+supplementary complaint being considered by the English courts before which Harada
+has already brought certain of those allegations57.
+
+52 Case T-427/08 CEAHR v Commission, EU:T:2010:517, paragraph 173.
+53 Case T-24/90 Automec v Commission, EU:T:1992:97, paragraphs 90 and 92.
+54 Article 6 and recital 4 of Regulation No 1/2003.
+55 Case T-119/09 Protégé International v Commission, EU:T:2012:421, paragraph 78.
+56 Case T-70/15 Trajektna luka Split v Commission, EU:T:2016:592, paragraphs 45-46 and 50.
+57 Case T-70/15 Trajektna luka Split v Commission, EU:T:2016:592, paragraph 49.
+
+15
+
+6. CONCLUSION
+
+(65) In view of the above, the Commission, in its discretion to set priorities, has come to the
+conclusion that there are insufficient grounds for conducting a further investigation into
+the alleged infringements and consequently rejects the complaint pursuant to Article 7(2)
+of Regulation No. 773/200458.
+
+7. PROCEDURE
+
+7.1. Possibility to challenge this Decision
+
+(66) An action may be brought against this Decision before the General Court of the European
+Union, in accordance with Article 263 TFEU.
+
+7.2. Confidentiality
+
+(67) The Commission reserves the right to send a copy of this Decision, or parts thereof, to
+[...]. Moreover, the Commission may decide to make this Decision public on its website,
+or a summary thereof.59 If required for the protection of legitimate interests of the
+complainant, the published version of the Decision will not identify the complainant.
+Absent any response within the deadline, the Commission will assume that you do not
+consider that the Decision contains confidential information and that it can be published
+on the Commission’s website.
+
+(68) The published version of the Decision may conceal your identity upon your request and
+only if this is necessary for the protection of your legitimate interests.
+
+(69) Therefore, if you consider that certain parts of this Decision contain confidential
+information I would be grateful if within two weeks from the date of receipt you would
+inform [...] or [...]. Please identify clearly the information in question and indicate why
+you consider it should be treated as confidential.
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+58 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, Official Journal L 123, 27.04.2004, pages 18-24.
+59 See paragraph 150 of the Commission notice on best practices for the conduct of proceedings concerning
+Articles 101 and 102 TFEU, OJ 2011/C 308/06.
+
+16

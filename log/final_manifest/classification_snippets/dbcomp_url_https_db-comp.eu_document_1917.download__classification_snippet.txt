@@ -1,0 +1,485 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+NON-CONFIDENTIAL VERSION∗
+
+Brussels, 20.6.2011
+SG-Greffe(2011) D/10046
+
+C(2011) 4505 final
+
+Virgin Atlantic Airways Limited
+The Office
+Manor Royal
+Crawley, RH10 9NU
+United Kingdom
+Att. [...]
+General Counsel
+
+Subject: Case COMP/39.596 – British Airways/American Airlines/Iberia
+Decision rejecting Virgin Atlantic's complaint of 30 January 2009
+(Please quote this reference in all correspondence)
+
+Dear [...],
+
+1. INTRODUCTION
+
+(1) This decision concerns the complaint of Virgin Atlantic Airways (hereinafter
+referred to as "Virgin Atlantic") dated 30 January 2009 lodged with the European
+Commission (hereinafter referred to as “the Commission”) against British
+Airways Plc. (hereinafter referred to as “BA”), American Airlines, Inc.
+(hereinafter referred to as “AA”), and Iberia Líneas Aéreas de España, S.A.
+(hereinafter referred to as “IB”). This complaint refers to alleged violations of
+Article 101 of the Treaty on the Functioning of the European Union (hereinafter
+referred to as “the Treaty”)1 in connection with the intention of BA, AA and IB
+(hereinafter jointly referred to as “the parties”) to set up a revenue-sharing joint
+venture covering all their passenger air transport services on the routes between
+
+∗ This version of the Commission Decision of 20 June 2011 does not contain any business secrets or
+other confidential information.
+
+1 With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101
+and 102, respectively, of the Treaty on the Functioning of the European Union. The two sets of
+provisions are in substance identical. For the purposes of this Decision references to Articles 101 and
+102 of the Treaty on the Functioning of the European Union should be understood as references to
+Articles 81 and 82 of the EC Treaty when appropriate. The Treaty on the Functioning of the
+European Union also introduced certain changes in terminology, such as the replacement of
+"Community" by "Union". The terminology of the Treaty on the Functioning of the European Union
+will be used throughout this Decision.
+
+Europe and North America (hereinafter referred to as “transatlantic routes”). This
+decision also refers to the other submissions made by Virgin Atlantic by which it
+provided additional information/explanations on the above matter, in particular
+Virgin Atlantic's main contributions listed in the table below.
+
+No Document Date
+
+1 Virgin Atlantic's presentation to the case-team 02-Oct-08
+
+2 Virgin Atlantic's response to Commission's request for 03-Nov-08
+information ("RFI") of 14 October 2008
+
+3 Virgin Atlantic's response to RFI of 13 October 2008 19-Nov-08
+
+4 Virgin Atlantic's OAG data update 05-Dec-08
+
+5 Virgin Atlantic's submission re Form C 30-Jan-09
+
+6 Virgin Atlantic's response to RFI of 5 March 2009 08-Apr-09
+
+7 Virgin Atlantic's response to RFI of 9 June 2009 18-Jun-09
+
+8 Virgin Atlantic's submission re Frontier Economic Analysis 25-Jun-09
+
+9 Virgin Atlantic's response to RFI of 24 June 2009 15-Jul-09
+
+10 Virgin Atlantic's considerations of potential remedies 31-Jul-09
+
+11 Virgin Atlantic's submission of paper re New York JFK and 18-Aug-09
+Newark airports
+
+12 Virgin Atlantic's letter re Iberia's minimum connecting time 18-Aug-09
+
+13 Virgin Atlantic's letter re renegotiated Iberia's minimum 7-Sep-09
+connecting time
+
+14 Virgin Atlantic's letter re use of MIDT data 22-Oct-09
+
+15 Virgin Atlantic's comments on the Statement of Objections 12-Nov-09
+
+16 Virgin Atlantic's submission re New York airports and report 18-Dec-09
+of the Port Authority of New York and New Jersey
+("PANYNJ")
+
+17 Virgin Atlantic's response to informal market test 02-Feb-10
+
+18 Virgin Atlantic's response to Commission's question of 3 08-Feb-10
+February 2010 and comments on the parties' special prorate
+agreements paper
+
+19 Virgin Atlantic's submission re follow-up to 9 February 12-Feb-10
+meeting
+
+20 Letter from [Virgin Atlantic] to [Commission] 18-Feb-10
+
+21 Virgin Atlantic's submission re analytical approach behind 02-Mar-10
+proposed commitments
+
+22 Letter from [Virgin Atlantic] to [Commission] 10-Mar-10
+
+23 Letter from [Virgin Atlantic] to [Commission] re Article 9 07-Apr-10
+
+24 Virgin Atlantic's response to formal market test 09-Apr-10
+
+2
+
+25 Letter from [Virgin Atlantic] to [Commission] re interim 21-Apr-10
+measures
+
+26 Virgin Atlantic's response to Commission's question on fare 1-May-10
+combinability and SPAs of 16 April 2010
+
+27 Virgin Atlantic's letter requesting access to additional 4-Jun-10
+documents/information
+
+28 Virgin Atlantic's response to the Article 7(1) letter 15-Jun-10
+
+29 Virgin Atlantic's submission of GLA report on London 2-Jul-10
+airports
+
+(2) By letter of 12 May 2010, the Commission has informed Virgin Atlantic of the
+Commission's intent to reject the complaint, pursuant to Article 7(1) of
+Commission Regulation (EC) No 773/20042 (hereinafter referred to as “the
+Article 7(1) letter”). Virgin Atlantic replied on 15 June 2010.
+
+(3) For the reasons set out below, the Commission considers that there is no sufficient
+degree of European Union interest for conducting a further investigation into the
+alleged infringements and rejects Virgin Atlantic's complaint pursuant to Article
+7(2) of Regulation (EC) No 773/2004.
+
+2. SUMMARY OF THE COMPLAINT AND LATER SUBMISSIONS OF VIRGIN ATLANTIC
+
+(4) In its complaint Virgin Atlantic alleges that the revenue-sharing joint venture
+between BA, AA and IB covering all their passenger air transport services on
+transatlantic routes infringes Article 101 of the Treaty.
+
+(5) The complaint outlines that BA, AA and IB agreed to implement a Joint Business
+Agreement (hereinafter referred to as "JBA") which provides for extensive
+scheduling and pricing coordination on transatlantic routes, including revenue
+sharing. The complaint alleges that in effect BA and AA intend to merge their
+transatlantic operations.
+
+(6) The complaint states that the geographic scope of the proposed cooperation
+includes the six transatlantic routes on which BA and AA currently offer
+competing non-stop service, namely London Heathrow-New York John F.
+Kennedy International Airport (hereinafter referred to as "JFK"), London
+Heathrow-Chicago, London Heathrow-Los Angeles, London Heathrow-Boston,
+London Heathrow-Miami and London Heathrow-Dallas/Fort Worth. In that
+respect, the complaint alleges that London Heathrow is a separate market from
+other London airports for time-sensitive passengers. Time-sensitive passengers
+are defined in the complaint as passengers who are primarily sensitive to time.
+The complaint alleges that the best way to measure time-sensitive passengers is
+identifying the passengers travelling for business purposes. The complaint further
+alleges that New York Newark Liberty International Airport (hereinafter referred
+
+2 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by
+the Commission pursuant to Articles 81 and 82 of the EC Treaty, OJ L 123, 27.04.2004, p. 18.
+
+3
+
+to as "Newark") and New York JFK airport are also separate markets. It also
+alleges that non-stop services are the only relevant competitive services for timesensitive passengers on London Heathrow-U.S. routes. The complaint furthermore
+alleges that restrictions of competition also exist on the corporate deals market in
+London and the wider London Heathrow market, with potential impact on all
+routes to the U.S. served from London Heathrow.
+
+(7) The complaint alleges that the proposed cooperation would have a detrimental
+effect on competition, as it would (1) create or strengthen the parties' dominant
+position, in terms of capacity shares, frequency shares and/or passenger shares, on
+the six transatlantic routes on which BA and AA currently compete and overlap,
+(2) strengthen BA's and AA's dominant position on the wider London Heathrow
+market brought about by BA/AA's combined slot holdings at London Heathrow,
+making BA/AA by far the largest player on London Heathrow-U.S. routes, and (3)
+create a dominant position on the corporate deals market in London.
+
+(8) The complaint further outlines in this respect that BA's and AA's joint market
+position will be disproportionately strong in respect of two key passenger groups
+that are vital to commercially viable operation on transatlantic routes. These are
+(1) time-sensitive passengers, who have greater price elasticity and generate
+higher yields and who place particular value on network reach, schedule and
+frequency, and (2) connecting passengers who form a substantial proportion of
+passengers on many transatlantic routes, and who enable carriers to operate
+services to additional destinations and at greater frequencies than point-to-point
+traffic volumes would allow for, and thereby make these carriers' networks and
+schedules more attractive to time-sensitive passengers.
+
+(9) The complaint outlines that the central constraint on any potential competition is
+the lack of slots at London Heathrow, the most important airport for EU-U.S.
+traffic, in particular at commercially viable times for transatlantic services.
+
+(10) The complaint alleges that this market power will enable BA and AA to raise
+fares, lessen service levels, and inhibit innovation. Furthermore, it will enable BA
+and AA to raise rivals' costs for two reasons: (1) BA and AA will have a greater
+network reach and frequencies which other carriers will need to compensate for,
+and (2) it will enable BA and AA to negatively influence their contracts with
+competitors, for example by only providing access to connecting passengers at
+commercially disadvantageous terms or not at all. In particular, the complaint
+refers to the likelihood of the parties restricting access to connecting traffic for
+Virgin Atlantic. The complaint alleges that this raising of rivals' costs would have
+further detrimental impact on the viability of competitors, in turn enhancing BA's
+and AA's market power.
+
+(11) The complaint finally argues that alleged efficiencies do not outweigh the
+appreciable restrictive effects of the JBA and the agreements do not merit
+exemption under Article 101(3) of the Treaty.
+
+4
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(12) On 30 January 2009, Virgin Atlantic lodged a complaint with the Commission
+against the parties' joint venture pursuant to Article 7 of Regulation (EC) No
+773/2004.
+
+(13) On 8 April 2009, the Commission opened proceedings concerning the agreements
+concluded by the parties, in relation to cooperation in passenger air transport
+services on transatlantic routes. The Commission conducted an extensive
+investigation, which included requests for information pursuant to Article 18 of
+Council Regulation (EC) No 1/20033 sent to the parties and third parties,
+econometric analysis of data and a passenger survey conducted at London
+Heathrow airport.
+
+(14) On 31 July 2009, Virgin Atlantic submitted a Remedies Paper with its proposals
+for commitments from the parties. As set out in further detail below, many of
+Virgin Atlantic's proposals were taken into account in the commitment proposal
+subsequently made by the parties.
+
+(15) On 29 September 2009, the Commission adopted a Statement of Objections
+setting out competition concerns identified during the investigation. The
+Statement of Objections was notified to the parties on 1 October 2009. A nonconfidential version of the Statement of Objections was sent to Virgin Atlantic on
+13 October 2009. Virgin Atlantic provided comments on the Statement of
+Objections on 12 November 2009.
+
+(16) On 9 December 2009, the parties submitted their final joint reply to the Statement
+of Objections disagreeing with the Commission's provisional findings. The parties
+waived their right to an Oral Hearing. On 9 December 2009, the parties also
+submitted a paper on the alleged efficiencies resulting from their cooperation
+within the meaning of Article 101(3) of the Treaty. On 21 December 2009, the
+Commission sent the parties a list of questions concerning this paper, to which
+they replied on 8 January 2010.
+
+(17) Between 4 December 2009 and 25 January 2010, the parties submitted several
+commitments proposals to the Commission, seeking to address the identified
+concerns.
+
+(18) On 26 January 2010, the Commission launched an informal market test of the
+commitments proposed by the parties on 25 January 2010 by sending requests for
+information pursuant to Article 18 of Regulation (EC) No 1/2003 to 11 third
+parties, including Virgin Atlantic. On 26 February 2010, in particular in light of
+the replies received from Virgin Atlantic and other third parties, non-confidential
+versions of which had been then provided to the parties, the parties offered
+revised commitments (hereinafter referred to as "the Commitments").
+
+3 Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+competition laid down in Articles 81 and 82 of the Treaty
+Official Journal L 1, 04.01.2003, p. 1-25.
+
+5
+
+(19) On 10 March 2010, the Commission launched a formal market test by publishing
+a notice in the Official Journal of the European Union4 pursuant to Article 27(4)
+of Regulation (EC) No 1/2003, summarising the case and the Commitments and
+inviting third parties to submit their observations on the Commitments within one
+month following publication (hereinafter referred to as "Article 27(4) Notice").
+Virgin Atlantic submitted its observations on 9 April 2010.
+
+(20) On 15 April 2010, the Commission informed the parties of the observations made
+by interested third parties on the Commitments following the publication of the
+Article 27(4) Notice. On 27 April 2010, the parties submitted their observations
+on the third parties' comments.
+
+(21) On 12 May 2010, the parties submitted amended commitments.
+
+(22) On 18 May 2010, the Commission informed Virgin Atlantic, in accordance with
+Article 7(1) of Regulation (EC) No 773/2004, that it took the preliminary view
+that, in the event that the commitments offered by the parties would be made
+binding upon them on the basis of Article 9 of Regulation (EC) No 1/2003, there
+would not be a sufficient degree of European Union interest for conducting a
+further investigation into the alleged infringement. On 15 June 2010, Virgin
+Atlantic submitted further comments.
+
+(23) On 25 June 2010, the parties submitted further amended commitments
+(hereinafter referred to as "the Final Commitments"), incorporating one minor
+change5 compared to the commitments of 12 May 2010.
+
+(24) On 9 July 2010, the Advisory Committee on Restrictive Practices and Dominant
+Positions was consulted. On 12 July 2010, the Hearing Officer issued his final
+report.
+
+(25) On 14 July 2010, the Commission adopted a decision pursuant to Article 9 of
+Regulation (EC) No 1/2003 (hereinafter referred to as "the Article 9 decision”)
+making the Final Commitments binding upon the parties. On the same day, the
+Commission published a full version of the Final Commitments on its webpage6.
+On 3 August 2010, a copy of the Article 9 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+more, the "most favoured nation" benchmark which
+should be applied on a feeder route by feeder route basis should allow competitors
+to obtain more favourable terms than in the previous version of the commitments.
+It therefore significantly increases the attractiveness of the SPA commitment.
+Given this considerable improvement of the SPA commitment it is proportionate
+to have some limitations on the operation of the "most favoured nation"
+benchmark. Overall, the terms of the SPA are attractive.
+
+(292) The Commission concludes that none of above-mentioned comments of Virgin
+Atlantic is founded, and that they therefore do not challenge the adequacy and the
+proportionality of the Final Commitments.
+
+(293) The Commission notes that this assessment is confirmed by the fact that, after
+adoption of the Article 9 decision in the present case, Virgin Atlantic has
+concluded SPAs with BA and IB, and at the time of writing is finalizing its SPA
+with AA, on the basis of the Final Commitments.
+
+64
+
+8.4.5.4. Coverage of a sufficient number and spread of fare classes
+
+(294) Virgin Atlantic considers that the procedure for determining the number and
+identity of fare classes available under an SPA is unclear and, in practice, likely to
+be cumbersome and subject to the possibility of manipulation by the parties151.
+Virgin Atlantic puts forward four arguments in support of its position.
+
+(295) First, it is unclear why the number of fare classes should be limited by reference
+to prior agreements concluded by the parties152. Second, it is unclear how the fare
+classes would be selected in instances where the parties do not have any SPA on
+the route concerned153. Third, fare classes that are available under existing
+agreements may change over time. Accordingly, a potential entrant would have no
+means of knowing the fare classes that are available under an SPA in advance.
+Virgin Atlantic considers that the commitments instead must oblige the parties to
+make available a specific number of fare classes with a reasonable spread of fare
+classes across all cabins154. Fourth, Virgin Atlantic is concerned that the spread of
+fare classes which could be obtained under the SPA would not be favourable155.
+
+(296) The Commission disagrees with these points.
+
+(297) First, there is nothing novel in the fact that the commitment package foresees that
+SPA terms are defined by reference to existing agreements that the parties have
+concluded with other carriers. Indeed, SPA terms in previous cases were also built
+on that principle156. What matters is that the basket of agreements used as a
+benchmark in the Final Commitments is likely to include agreements which are
+favourable to new entrants. The Commission considers that to be the case.
+
+(298) Second, contrary to what Virgin Atlantic claims, the fare classes are not defined
+on a route by route basis. The entrant can choose any fare class that is included in
+a pre-existing agreement, and apply it to all routes, regardless of whether that fare
+class has been included in an existing SPA on a given route157.
+
+151 Ibidem, paragraph 5.36.
+
+152 Ibidem, paragraph 5.38.
+
+153 Ibidem, paragraph 5.39.
+
+154 Ibidem, paragraph 5.41.
+
+155 Ibidem, paragraph 5.39.
+
+156 Case No COMP/M.3280 Air France/KLM, Commitments Package, Clause 8; Case No
+COMP/M.3770 Lufthansa/Swiss, Commitments Package, Clause 9; Case No COMP/M.5335
+Lufthansa/SN Airholding, Commitments Package, Clause 5; Case No COMP/M.5440
+Lufthansa/Austrian Airlines, Commitments Package, Clause 5.
+
+157 Pursuant to the commitment package, the entrant can choose any fare class that is included in a preexisting agreement. In case pre-existing agreements for the feeder route concerned provide for fare
+classes other than the ones requested by the entrant, the applicable rate would be calculated by
+applying a ratio of the average difference in fares as between the fare class selected by the entrant
+and the fare class that is available to another party.
+
+65
+
+(299) Third, the Final Commitments also address the fact that fare classes that are
+available under pre-existing agreements may change over time. The entrant has
+the choice between (i) continuing to have access to the fare classes available at the
+date of the commitments, irrespective of whether the fare classes that are available
+under the agreements used as benchmark later change over time, and (ii) gaining
+access to additional or more attractive fare classes, should such fare classes be
+included in agreements with other carriers during the lifetime of the
+commitments. This is actually more favourable than Virgin Atlantic's suggestion
+that those fare classes would be fixed throughout the lifetime of the Final
+Commitments. That would make it impossible for interested carriers to gain
+access to additional or more attractive fare classes, should such fare classes be
+included in agreements with other carriers during the lifetime of the Final
+Commitments.
+
+(300) Fourth, under the Final Commitments, and contrary to what it seems to argue,
+Virgin Atlantic can benefit from the most favourable spread of fare classes that
+each of the parties grants to any other carrier. Its concerns on this point are
+therefore unfounded.
+
+(301) The Commission concludes that none of the above-mentioned comments of
+Virgin Atlantic is founded, and that they therefore do not challenge the adequacy
+and the proportionality of the Final Commitments.
+
+8.4.5.5. Availability of SPA commitment for existing competitor services
+on the London-Dallas, London-Boston and London-New York
+routes
+
+(302) Virgin Atlantic submitted that the parties should also commit to enter into SPAs
+for existing competitor services on the London-Dallas, London-Boston and
+London-New York routes158.
+
+(303) On those routes, and contrary to the routes on which an SPA remedy is offered to
+existing competitors even if they do not increase service159, the Commission has
+found that competitors' services rely on connecting passengers from the parties
+only to a limited extent. The Commission has not identified that the agreements
+between the parties would result in further actual or potential restrictive effects by
+means of the parties restricting access to connecting traffic travelling on those
+routes. The Commission does not see a need to revise its concerns in light of the
+comments it received pursuant to the Article 27(4) Notice or the Article 7(1)
+letter. An extension of the commitment to existing competitor services on those
+routes is therefore unjustified on that basis.
+
+(304) The Commission also finds that a commitment from the parties to conclude an
+SPA for existing competitor's services on the London-Dallas, London-Boston and
+London-New York routes is unjustified because it would disincentivise the launch
+of new services. On those routes, competitors are able to increase their services by
+
+158 Virgin Atlantic's response to Article 27(4) Notice of 9 April 2010, sections 3.12 and 3.13; Virgin
+Atlantic's response to Article 7(1) of 15 June 2010, paragraphs 5.21 – 5.34.
+
+159 London-Chicago, London-Miami and Madrid-Miami.
+
+66
+
+using the parties' slot commitments. Under the Final Commitments, competitors
+who increase their services on these routes can then conclude an SPA that covers
+both their new and their existing services on the routes. The Commission
+considers that commitment from the parties to conclude an SPA with existing
+competitors on those routes that choose not to increase their services would not be
+appropriate nor proportionate to address its competition concerns on those routes.
+
+(305) The Commission's view is that, contrary to what Virgin Atlantic suggests,
+accepting such a commitment would be also inconsistent with the very purpose of
+the slot commitments, which is to encourage entry on the routes where they are
+offered. Indeed, competitors that also have existing services on these routes may
+be disincentivised from increasing their services if they can instead opt for an
+SPA (possibly in combination with fare combinability) in relation to their existing
+services. Instead, the prospect of being able to conclude an SPA both for its
+existing and new services acts to bolster the parties' competitors' incentives to
+increase their services, in particular on the basis of the slot commitments. The
+SPA commitment is construed to exactly have that intended effect, so that there is
+full consistency between the various elements of the Final Commitments.
+
+(306) The Commission concludes that it is not appropriate or proportionate for the
+parties to also offer an SPA for existing competitor services on the London-
+Dallas, London-Boston and London-New York routes.
+
+9. CONCLUSION
+
+(307) In the light of the Final Commitments offered, the Commission considered that
+there were no longer grounds for action on its part in this case. Therefore, on 14
+July 2010 the Commission brought to an end the proceedings by adopting the
+Article 9 decision making the Final Commitments binding upon the parties for a
+period of ten years160.
+
+(308) The Commission has come to the conclusion that by virtue of the Article 9
+decision making the Final Commitments binding upon the parties the identified
+competition concerns are met in a satisfactory way and there is no sufficient
+European Union interest in the further investigation of the present complaint.
+Therefore the Commission rejects the complaint of Virgin Atlantic.
+
+(309) An action challenging this Decision may be brought before the General Court of
+the European Union in accordance with Article 263 of the Treaty.
+
+Done at Brussels, SG fills in the date For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+160 The duration or the scope of the Final Commitments may be adjusted after five years from the date of
+the adoption of the Article 9 decision pursuant to the review clause contained in the Final
+Commitments. If necessary, the Final Commitments may also be renewed, or similar remedies
+imposed on the parties, after the expiry of the ten year period.
+
+67

@@ -1,0 +1,493 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DÉCISION DE LA COMMISSION
+
+du 5 Mars 2008
+
+concernant l’octroi ou le maintien par la République hellénique de droits en faveur
+de Public Power Corporation S.A. pour l’extraction de lignite
+
+(Texte présentant de l’intérêt pour l’EEE)
+
+(Le texte en langue grecque est le seul faisant foi)
+
+1. LES FAITS ............................................................................................................. 4
+
+1.1. La société....................................................................................................... 4
+
+1.1.1. Les statuts de la société .................................................................... 4
+
+1.1.2. Les activités de la société.................................................................. 5
+
+1.2. Le secteur grec du lignite ............................................................................... 7
+
+1.2.1. Introduction concernant le lignite...................................................... 7
+
+1.2.2. Le cadre juridique et réglementaire ................................................. 10
+
+1.2.3. La liste des gisements de lignite de la Grèce .................................... 12
+
+1.2.4. Les décisions prises par la République hellénique concernant
+les gisements publics....................................................................... 14
+
+1.2.4.1. Les gisements de Dráma et Elassona pour lesquels
+seuls des droits d’exploration ont été octroyés................. 15
+
+1.2.4.2. Les gisements publics pour lesquels des droits
+d’exploration et d’exploitation ont été octroyés............... 16
+
+1.2.4.3. Les autres gisements publics pour lesquels AUCUN
+droit n’a été octroyé........................................................ 19
+
+1.2.4.4. Conclusion concernant l’octroi de concessions sur
+les gisements publics........................................................ 20
+
+1.2.5. La production de lignite et l’impact des droits de PPC..................... 20
+
+1.3. Le secteur grec de l’électricité...................................................................... 23
+
+1.3.1. Présentation du cadre législatif et réglementaire .............................. 24
+
+1.3.2. La production d’électricité.............................................................. 27
+
+1.3.2.1. Capacité installée............................................................. 27
+
+1.3.2.2. Les processus d’autorisation de nouvelles centrales ......... 31
+
+(a) Introduction .................................................................... 31
+
+(b) Licences pour les centrales fonctionnant à partir de
+sources d’énergie renouvelables et les centrales
+électro calogènes............................................................. 32
+
+(c) Licences pour les centrales autres que celles
+fonctionnant à partir de sources d’énergie
+renouvelables et les centrales électro calogènes................ 33
+
+(d) Conclusion concernant l’octroi de licences....................... 38
+
+1.3.2.3. La production réelle et le rôle spécifique du lignite .......... 38
+
+1.3.3. Les importations............................................................................. 43
+
+1.3.4. Le marché de gros .......................................................................... 45
+
+1.3.5. Le transport et la distribution d’électricité en Grèce ........................ 48
+
+1.3.6. La fourniture d’électricité au détail.................................................. 48
+
+2. LA PROCEDURE................................................................................................. 50
+
+2
+
+2.1. La plainte et la lettre de mise en demeure...................................................... 50
+
+2.2. Les réponses de la République hellénique et de PPC..................................... 51
+
+2.2.1. Concernant le marché de la fourniture de lignite.............................. 51
+
+2.2.2. Concernant les droits de PPC en matière d’exploitation de
+lignite ............................................................................................. 51
+
+2.2.3. Concernant la production d’électricité à partir de lignite.................. 52
+
+2.3. Les autres faits présentés par la République hellénique après la réponse
+à la lettre de mise en demeure....................................................................... 53
+
+2.4. La lettre de mise en demeure supplémentaire ................................................ 54
+
+2.5. Les réponses de la République hellénique et de PPC à la lettre de mise
+en demeure supplémentaire........................................................................... 55
+
+2.6. Autres lettres................................................................................................ 57
+
+3. AUTRES PROCEDURES..................................................................................... 58
+
+3.1. Procédure engagée sur la base des règles en matière d’aides d’État............... 58
+
+3.2. Procédure relative à la directive 2003/54/CE ................................................ 59
+
+4. APPRECIATION.................................................................................................. 59
+
+4.1. Applicabilité de l’article 86 du traité CE ....................................................... 60
+
+4.2. Mesure étatique contraire aux articles 82 et 86 ............................................. 60
+
+4.2.1. Les marchés en cause...................................................................... 61
+
+4.2.1.1. Les marchés de produits en cause.................................... 61
+
+4.2.1.2. Les marchés géographiques en cause............................... 63
+
+4.2.2. Position dominante ......................................................................... 65
+
+4.2.2.1. Le lignite......................................................................... 65
+
+4.2.2.2. Le marché de gros de l’électricité .................................... 66
+
+4.2.3. La partie substantielle du marché commun ...................................... 66
+
+4.2.4. L’incompatibilité de la mesure étatique ........................................... 67
+
+4.2.4.1. Le cadre juridique............................................................ 67
+
+4.2.4.2. Les mesures étatiques...................................................... 67
+
+4.2.4.3. Analyse ........................................................................... 68
+
+4.2.4.4. Conclusion...................................................................... 83
+
+4.2.5. Absence de justification au titre de l’article 86, paragraphe 2........... 83
+
+4.2.6. Effet sur les échanges entre États membres ..................................... 84
+
+4.2.7. Mesures correctives........................................................................ 84
+**************
+
+3
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne, et notamment son article 86,
+paragraphe 3,
+
+ayant donné aux autorités grecques et à Public Power Corporation S.A. (PPC), par lettres
+datées du 1er avril 2004, du 3 mai 2004, du 21 septembre 2005 et du 18 octobre 2006, la
+possibilité de faire connaître leur point de vue sur les griefs soulevés par la Commission en
+ce qui concerne la législation grecque relative aux droits d’extraction de lignite,
+
+considérant ce qui suit:
+
+1. LES FAITS
+
+1.1. La société
+
+1. PPC est une société dont le siège se situe dans la ville d’Athènes, en Grèce. Figurant
+parmi les plus grandes entreprises industrielles de Grèce en termes d’actif immobilisé1,
+PPC est principalement active en Grèce, et ce, dans les secteurs de l’électricité et du
+lignite. PPC employait 26 208 personnes fin 2006, année au cours de laquelle elle a
+réalisé des recettes de 4 787 millions d’euros et obtenu un bénéfice net après impôts
+de 22 millions d’euros.
+
+1.1.1. Les statuts de la société
+
+2. PPC a été créée en 1950 par la loi grecque n° 14682 en tant qu’entreprise publique à
+100 % bénéficiant du droit exclusif de produire, transporter et fournir de l’électricité
+dans toute la Grèce.
+
+3. En 1996, la loi n° 2414/1996 relative à la modernisation des entreprises publiques a
+accordé à la République hellénique le droit de transformer PPC en société par actions
+détenue par un actionnaire unique, la République hellénique.
+
+4. Conformément à l’article 43 de la loi grecque n° 2773/1999 relative à la libéralisation
+du marché de l’électricité, portant notamment transposition de la directive 96/92/CE3,
+la première directive communautaire libéralisant le marché de l’électricité, ainsi qu’au
+décret présidentiel n° 333/2000, PPC a été transformée le 1er janvier 2001 en société
+anonyme au capital de 222 milliards GDR (650 millions EUR). Le 12 décembre 2001,
+PPC a émis pour la première fois des actions à la Bourse d’Athènes ainsi que des GDR
+(Global Depositary Receipts, certificats internationaux d’actions étrangères) à la
+
+1 Au total, l’actif de PPC s’élevait à 12 938 millions d’euros à la fin 2006, selon les résultats financiers
+consolidés pour 2006 publiés par PPC le 30 mars 2007 (disponibles sur le site web de PPC à l’adresse
+http://www.dei.gr).
+
+2 Journal officiel de la République hellénique, volume A, numéro 169.
+
+3 Directive 96/92/CE du Parlement européen et du Conseil du 19 décembre 1996 concernant des règles
+communes pour le marché intérieur de l’électricité.
+Journal officiel L 027 du 30/01/1997, pp. 0020-0029.
+
+4
+
+Bourse de Londres. La République hellénique a ensuite vendu une partie de ses
+actions en décembre 2002 et octobre 2003.
+
+5. Selon les termes de l’article 43, paragraphe 3, de la loi n° 2773/1999, la participation
+de la République hellénique au capital de PPC ne peut en aucun cas être inférieure à
+51 % des actions avec droit de vote de la société, ni même après une augmentation de
+capital. PPC est donc contrôlée par la République hellénique. Les actionnaires actuels
+de PPC sont indiqués dans le tableau ci-dessous:
+
+Tableau 1: Structure de l’actionnariat de PPC au 31.12.2006
+
+Actionnaire % d’actions
+
+République hellénique 51,12
+
+OAP – PPC (fonds de pension des salariés de PPC)4 3,81
+
+Fidelity Investments 5
+
+Flottant. Bourses d’Athènes et de Londres 40,07
+
+6. Selon l’article 8 des statuts de PPC, approuvés par le décret présidentiel n° 333/2000,
+si un actionnaire acquiert plus de 5 % des actions de PPC, ses droits de vote à
+l’assemblée générale des actionnaires sont limités à 5 %. Cette limite ne s’applique pas
+à la République hellénique.
+
+1.1.2. Les activités de la société
+
+7. PPC, dont les principaux domaines d’activité économique sont l’électricité et le lignite,
+est principalement active en Grèce. En 2005, PPC a produit 96 % de l’électricité
+produite en Grèce5 et 97 % du lignite produit en Grèce6. PPC intervient également sur
+d’autres marchés, notamment ceux des télécommunications, de l’ingénierie, des
+services de conseils et des services commerciaux techniques.
+
+8. En ce qui concerne le secteur de l’électricité, PPC, qui détenait auparavant le
+monopole légal, est aujourd’hui le principal producteur et fournisseur d’électricité en
+Grèce. S’agissant de la fourniture d’électricité, PPC est le principal fournisseur pour
+les clients éligibles et est tenue d’exécuter plusieurs autres tâches en vertu du cadre
+réglementaire grec. Premièrement, PPC est le fournisseur exclusif de tous les clients
+
+4 Le fonds de pension des salariés de PPC a été créé en application de l’article 34 de la loi grecque
+n° 2773/1999 relative à la privatisation de PPC, article qui qualifie ce fonds de public.
+
+5 Source: Rapport annuel 2005 de PPC.
+
+6 En 2005, PPC a produit 67,3 millions de tonnes de lignite (source: PPC) sur une production totale
+grecque de 69,1 millions de tonnes (source: Market Report 1/2007 d’Euracoal).
+
+5
+
+non éligibles (article 26, paragraphe 1, de la loi n° 2773/1999) en Grèce.
+Deuxièmement, PPC est le fournisseur de dernier recours pour les clients éligibles qui
+n’ont pas choisi un autre fournisseur (article 26, paragraphe 2, de la loi n° 2773/1999).
+Troisièmement, PPC est le fournisseur et l’acheteur exclusifs pour les îles non
+interconnectées (article 11, paragraphe 3, de la loi n° 2773/1999). Parallèlement à ces
+activités de production et de fourniture d’électricité, PPC est le propriétaire exclusif
+des actifs des réseaux de transport et de distribution de l’État membre et gère le réseau
+de distribution mais pas le réseau de transport, celui-ci étant géré par HTSO (Hellenic
+Transmission System Operator), détenu à hauteur de 51 % par la République
+hellénique et de 49 % par des producteurs proportionnellement à leurs actifs (soit
+essentiellement PPC aujourd’hui).
+
+9. Pour ce qui est du secteur du lignite, PPC est le principal producteur de lignite en
+Grèce, le deuxième dans l’Union européenne et le cinquième à l’échelle mondiale7.
+
+10. Si la majorité des activités de production et de fourniture d’électricité et d’extraction
+de lignite sont exercées par PPC elle-même, PPC exerce également ces activités ainsi
+que d’autres activités par le biais de filiales8. Le graphique ci-dessous (élaboré à partir
+du dernier rapport annuel de PPC) montre les principales filiales et les actionnaires
+minoritaires de PPC.
+
+PPC S.A.
+
+00 % 100 % 49,00 % 28,60 % 100 % 100 %
+
+HTSO S.A LARCO S.A
+PPC RHODES PPC Hellenic general mining PPC PPC RENEWABLES Transmission and TELECOMMUNICATIONS S.A Cretes S.A.
+Operator metallurgical S.A System
+S.A. S.A.
+
+50 % - 1 SHARE
+
+WIND PPC
+HOLDING NV
+
+11. En 20069, PPC a réalisé des recettes d’un montant total de 4 787 millions EUR, dont
+4 442 millions issus des ventes d’énergie (d’électricité essentiellement), un résultat net
+avant intérêts, impôts, dépréciations et amortissement (EBITDA) de
+740 millions EUR et un bénéfice net d’exploitation de 22 millions EUR. La baisse des
+bénéfices réalisés par PPC en 2005 et 2006 s’explique, selon les rapports annuels et
+
+7 Source: rapports annuels 2004 et 2005 de PPC.
+
+8 En particulier, PPC Rhodes, PPC Renewables et PPC Wind interviennent dans le secteur de la
+production d’électricité tandis que Larko intervient dans le secteur de l’extraction (exploitation d’une
+petite mine; voir point 1.2.3).
+
+9 Source: résultats financiers consolidés 2006 publiés par PPC le 30 mars 2007.
+
+6
+
+communiqués de presse de PPC10, essentiellement par la hausse du prix des
+combustibles liquides et du gaz nécessaires à la production d’électricité, ainsi que par
+la hausse du prix de revient de l’électricité11 qui a été plus importante que
+l’augmentation des recettes générées par les ventes au détail enregistrée au cours des
+mêmes années12.
+
+Tableau 2 - Caractéristiques financières de PPC13
+
+Année 2002 2003 2004 2005 2006
+
+Chiffre d’affaires 3 420 706 3 897 519 4 095 013 4 290 900 4 787 400
+(milliers d’euros)
+
+EBITDA (milliers 1 027 849 1 138 328 1 210 058 906 800 739 700
+d’euros)
+
+Bénéfice net 479 962 304 628 293 126 135 700 22 100
+d’exploitation
+(milliers d’euros)
+
+Actifs (milliers 10 486 241 10 459 418 11 216 125 12 662 600 12 938 100
+d’euros)
+
+1.2. Le secteur grec du lignite
+
+1.2.1. Introduction concernant le lignite
+
+12. Le lignite est un combustible solide qui est surtout utilisé 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+% du total des réserves de lignites
+exploitables254. A ce stade, la Commission considère que cette proportion des réserves
+totales de lignite exploitables constitue la proportion minimale à mettre à disposition
+des concurrents de PPC afin de pouvoir assurer effectivement que ces concurrents
+puissent soumettre PPC à des pressions concurrentielles sur le marché de gros de
+l'électricité255. Cette proportion des réserves de lignite exploitables pouvant être mise à
+disposition des concurrents pourrait augmenter sur le long terme dès lors que les
+réserves restantes de lignite qui n'ont pas encore fait l'objet d'une exploration à ce jour
+s'avèrent exploitables256. La même proportion minimale de réserves exploitables
+allouées devrait encore être mise à disposition des concurrents de PPC dans le cas où
+la République hellénique décidait de ne pas mettre à disposition des réserves
+
+252 Il s’agit essentiellement des gisements de Achlada et Vevi.
+
+253 Il s’agit essentiellement des gisements de Dráma et Elassona.
+
+254 Le rapport de 40 % ne tient pas compte du fait que PPC est également approvisionné en lignite par la
+mine de Achlada, dont les réserves représentent environ 3 % des réserves exploitables. Dans la
+pratique, l'accès potentiel est, dans l'état actuel des choses, légèrement inférieur à 40 % des réserves
+exploitables totales.
+
+255 Les concurrents de PPC ont besoin de capacité alimentée au lignite pour deux raisons. Premièrement
+ils ont besoin de la capacité de base dans leur portefeuille de génération (voir le point 215) et il y a
+peu d'autre capacité de base disponible. Deuxièmement, ils ont besoin d'exercer une pression
+concurrentielle sur PPC dans les périodes hors-pointe (quand la capacité au lignite doit fixer le prix
+pour autant qu'une contrainte sur la capacité au lignite ne force pas recours à des centrales à gaz plus
+chères). La capacité au lignite représente l'essentiel de la capacité de base en Grèce, le reste étant
+constituant des centrales hydroélectriques (partiellement) et des sources d'énergie renouvelables (voir
+le Tableau 14). Ainsi, en assumant que la relation entre les réserves de lignite et la capacité de
+génération au lignite est à peu près semblable pour tous les sites, 40% de réserves de lignite
+représentent moins de 40% mais au minimum un tiers de la capacité de production de base. Ceci est
+considéré un minimum pour exercer des contraintes concurrentielle durant les périodes hors pointe
+et pour permettre aux concurrents d'avoir suffisamment de capacité de base pour construire des
+portefeuilles de génération équilibrés.
+
+256 Les réserves totales non exploitées par PPC représentent 52 % de l'ensemble des réserves de lignite,
+celles d'Achlada représentant 2,4 % des réserves totales.
+
+85
+
+exploitables supplémentaires, ou le faisait dans une moindre mesure que ce qui est
+envisagé actuellement.
+
+248. Compte tenu de ces éléments et pour assurer que les effets de l'infraction soient
+supprimés, il est impératif que des mesures assurant aux concurrents de PPC un accès
+au lignite soit mis en place. Dans le cadre de la politique de la République hellénique,
+axée sur la poursuite de la production d'électricité à partir du lignite en Grèce, la
+Commission est en mesure, à ce stade, de définir les mesures que la République
+hellénique pourrait, séparément ou globalement, adopter.
+
+248.1. La République hellénique pourrait réattribuer certains des droits dont PPC
+jouit actuellement. Dans ce cas, étant donné que les gisements sont liés à des
+centrales implantées à proximité, l'accès aux gisements devrait se doubler d'un
+transfert des droits de propriété ou d'utilisation des centrales correspondantes;
+
+248.2. La République hellénique pourrait organiser l'attribution de nouveaux
+droits d'exploitation aux concurrents de PPC, impliquant que PPC ne puisse
+obtenir ces droits d'exploitation que si aucune autre offre fiable n'est disponible.
+Par ailleurs, cette mesure pourrait être accompagnée, en ce qui concerne la
+production d'électricité, par l'organisation, sur la base de l'article 6 de la directive
+CE/2003/54, de procédures de sélection publiques ouvertes et nondiscriminatoires, à l'exclusion de PPC, pour les futures centrales au lignite utilisant
+le lignite des gisements encore à attribuer.
+
+249. Il revient à la République hellénique d'adopter des mesures efficaces pour supprimer
+les effets de l'infraction. Il faut noter que, si la République hellénique révisait sa
+politique d'allocation de droits d'exploitations supplémentaires sur des réserves de
+lignite en Grèce, les mesures devraient être alignées avec cette politique révisée.
+
+250. Enfin, la Commission est consciente de la nécessité de faire en sorte que des mesures
+soient adoptées afin de rapidement renforcer la concurrence sur le marché de gros de
+l'électricité. La Commission est également consciente du fait que, dès lors que les
+mesures correctives consisteraient en l'attribution aux concurrents de PPC de
+nouveaux droits d'exploitation sur les gisements de lignite exploitables disponibles, ces
+mesures correctives n'auraient pas un effet immédiat257. Pour ne pas laisser les effets
+des mesures infractionnelles se poursuivre pendant une longue période et afin d’inciter
+à mettre rapidement en place les mesures correctives, il s’avère nécessaire d’envisager
+des mesures transitoires. Par exemple, il pourrait donc être nécessaire de permettre
+
+257 L’exploitation de ces gisements n’aura pas lieu immédiatement et la production d’électricité à partir
+du lignite extrait de ces gisements ne sera pas possible avant plusieurs années: la construction d’une
+nouvelle centrale demande cinq ans au minimum selon les dernières pratiques (voir point 92) et
+l’octroi de la licence correspondante un an de plus au moins. Concernant, par exemple, le gisement
+de Vevi des droits pourraient être accordés dans un futur proche, mais la procédure d’autorisation de
+la centrale correspondante n’a pas encore démarré, en conséquence de quoi la production d’électricité
+à partir du lignite extrait du gisement de Vevi ne commencera pas avant six ans. En ce qui concerne
+les gisements de Dráma et Elassona, il se peut que la procédure d’attribution des droits d’exploitation
+ne soit conclue qu’un ou deux ans après la date d’adoption de la présente décision. Si on part du
+principe que l’aménagement des mines de lignite et la construction des centrales auront lieu en même
+temps, cette mesure corrective n’aura pas d’effet sur le marché de gros de l’électricité avant au moins
+six ans (pour ce qui concerne le gisement de Vevi) et n’aurait pas d’effets significatifs sur le marché
+de gros de l’électricité (pour les gisements de Dráma et Elassona) avant sept à huit ans minimum.
+
+86
+
+aux futurs propriétaires de centrales au lignite concurrentes des centrales de PPC de
+produire de l'électricité à partir de lignite. De telle sorte qu'ils puissent, en exploitant
+leurs centrales, concurrencer PPC. Il revient à la République hellénique d'adopter des
+mesures transitoires efficaces si les mesures qu'elle adopte pour supprimer
+effectivement les effets de l'infraction ne le font que dans quelques années.
+
+251. Dans les deux mois suivants la notification de cette décision, la République Hellénique
+devrait informer la commission des mesures qu'elle entend adopter afin de se
+conformer à cette décision. Compte tenu de ce que les remèdes puissent impliquer la
+modification du cadre législatif et l'organisation de mesures transitaires si besoin est, il
+est considéré nécessaire d'accorder un délai plus long à la République Hellénique pour
+adopter et mettre en œuvre les mesures pertinentes. Ce délai ne saurait dépasser huit
+(6+2) mois à compter de la notification de cette décision. En tout état de cause, la
+République Hellénique devrait s'abstenir d'adopter toute mesure qui pourrait aggraver
+la situation.
+
+252. Si la République hellénique ne se conformait pas à ses obligations dans les délais
+impartis, et en particulier si les remèdes envisagés ou mis en œuvre n'étaient asp
+satisfaisant, la Commission garde la possibilité ou bien d'entamer une action sur la base
+de l'Article 226 ou d'adopter une autre décision sur la base de l'Article 86 du Traité
+pour établir des mesures spécifiques corrigeant les effets anticoncurrentiels de
+l'infraction présente.
+
+87
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article 1
+
+L’article 22, paragraphe 1, du décret législatif n° 4029/1959, l’article 3, paragraphe 1, de
+la loi n° 134/1975 et les décisions ministérielles de 1976, 1988 et 1994 (Décisions du
+ministre de l’industrie, de l’énergie et des technologies publiées au Journal officiel de la
+République hellénique du 3 mars 1976, volume B, numéro 282, du 24 août 1988,
+volume B, numéro 596, et du 22 août 1994, volume B, numéro 633) sont contraires à
+l’article 86, paragraphe 1, lu en liaison avec l’article 82 du traité CE, dans la mesure où ils
+accordent et maintiennent des droits privilégiés en faveur de PPC pour l’exploitation de
+lignite en Grèce, créant ainsi une situation d’inégalité de chances entre les opérateurs
+économiques en ce qui concerne l’accès aux combustibles primaires aux fins de la
+production d’électricité et permettant à PPC de maintenir ou de renforcer sa position
+dominante sur le marché de gros de l’électricité de la Grèce en excluant toute nouvelle
+entrée sur le marché ou en y faisant obstacle.
+
+Article 2
+
+La République hellénique informe la Commission, dans un délai de deux mois à compter
+de la notification de la présente décision, des mesures qu’elle a l'intention de prendre pour
+corriger les effets anticoncurrentiels des mesures étatiques visées à l’article premier
+
+Ces mesures seront adoptées et mise en œuvre dans les huit mois à compter de cette
+décision.
+
+La République hellénique doit s'abstenir d'adopter toute mesure qui pourrait aggraver la
+situation.
+
+Article 3
+
+La République hellénique est destinataire de la présente décision.
+
+Fait à Bruxelles, le 5 Mars 2008.
+
+Pour la Commission
+
+Neelie Kroes
+Membre de la Commission
+
+88

@@ -1,0 +1,404 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+31 . 12. 94 Official Journal of the European Communities No L 354/75
+
+COMMISSION DECISION
+
+of 15 December 1994
+
+relating to a proceeding pursuant to Article 85 of the EC Treaty and Article 53 of the
+EEA Agreement
+
+(IV/34.768 — International Private Satellite Partners)
+
+(Only the English and Italian texts are authentic)
+
+(Text with EEA relevance)
+
+(94/895/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, has been formed to provide (a) international
+business telecommunications services to businesses
+Having regard to the Treaty establishing the European in Europe and North America using its own
+satellite system on a one-stop shop basis; and (b)Community,
+to offer bulk transmission capacity to third parties,
+to the extent that the capacity of the satellites is
+Having regard to the Agreement on the European not fully utilized by IPSP or its partners.
+Economic Area,
+
+Following the entering into force of the EEA
+Having regard to Council Regulation No 17 of Agreement, the parties requested the Commission
+6 February 1962, First Regulation implementing on 14 February 1994 to extend the notification to
+Articles 85 and 86 of the Treaty (*), as last amended by cover also Article 53 of the EEA Agreement.
+the Act of Accession of Spain and Portugal, and in Following such request the Commission started the
+particular Articles 2, 6 and 8 thereof, relevant cooperation procedure with the EFTA
+Surveillance Authority.
+Having regard to the application for negative clearance
+and the notification for exemption, submitted pursuant
+to Articles 2 and 4 of Regulation No 17 on 28 June 1993 B. THE PARTIES
+by the parties concerned below,
+(a.a) The partners
+Having regard to the request made by the parties on
+14 February 1994, to extend the application and (2) Orion Satellite Corporation (hereinafter referred to
+notification to Article 53 of the EEA Agreement, as 'OrionSat'), which is a company organized
+under the laws of the State of Delaware, created by
+its ultimate parent company, Orion NetworkHaving regard to the summaries of the application and
+Systems, to serve as the general partner in IPSP. Itnotification published (2) pursuant to Article 19 (3 ) of
+holds the United States Federal Communications
+Regulation No 17,
+Commission (hereinafter referred to as 'the FCC')
+licence to construct, launch and operate IPSP's two
+After consultation with the Advisory Committee on satellites and has broad authority to manage and
+Restrictive Practices and Dominant Positions, control IPSP's development and operations.
+
+Whereas: Orion Network Systems, which is also a limited
+partner ~in IPSP, provides telecommunications
+• facilities and services, in particular point-to-point
+transmission services using subleased capacity.
+I. THE FACTS
+
+OrionSat, as general partner, has a [. . .] (3) interest
+A. INTRODUCTION in the partnership that has to be added to an
+additional [. . .] held by Orion Network Systems.
+( 1 ) On 28 June 1993, 20 agreements relating to the
+creation of a company were notified to the (3 ) British Aerospace Communications, which is a
+Commission. The company, International Private limited partner of IPSP belonging to the British
+Satellite Partners (hereinafter referred to as IPSP) Aerospace group (hereinafter referred to as 'BAe')
+has been created under the form of a limited of companies, and formed by the latter specifically
+partnership organized under United States law, and for the purpose of investing in IPSP.
+
+n OJ No 13, 21 . 2. 1962, p. 204/62. (3) [. . .] Blanks between square brackets indicate business
+(2) OJ No C 305, 11 . 11 . 1993, p. 13 and OJ No C 159, 10. 6. secrets deleted pursuant to Article 21 (2) of Regulation
+1994, p. 2. No 17.
+
+No L 354/76 Official Journal of the European Communities 31 . 12. 94
+
+It holds a [. . .] interest in IPSP. The British satellites (through Matra Marconi Space), defence,
+Aerospace Group is mainly engaged in the design telecommunication and CAD-CAM equipment,
+and manufacture of civil and military aircraft, automobile transportation, publishing,
+guided weapon systems, satellites and sub-systems, broadcasting, movie production and advertising. Its
+payloads and launch vehicle equipments and motor overall turnover in 1992 was FF 55 000 million
+vehicles. In particular, it is the prime contractor for (ECU 8 350 million).
+the IPSP satellites.
+
+(8 ) STET — Societa Finanziaria Telefonica per Azioni,
+The total turnover of the BAe group in 1992 was which is an Italian company whose majority
+£ 9 977 million (ECU 13 000 million). shareholder is the Istituto per la Ricostruzione
+Industriale (hereinafter referred to as 'IRI'), the
+(4 ) COM DEV Satellite Communications Ltd, which is largest Italian State company. STET's institutional
+a limited partner of IPSP in which it holds a [. . .] function, as IRI's holding company for the
+interest. It was incorporated specifically by its telecommunications sector, is to guarantee the
+ultimate parent company, COM DEV Ltd, for the coordination of financial and commercial aspects
+purpose of investing in IPSP. in the provision of telecommunications services,
+manufacturing products and network installation.
+The COM DEV group is an important supplier of STET as limited partner holds a [. . .] interest in
+satellite payloads subsystems for communications, IPSP.
+space science and remote sensing applications.
+
+As will be described later, STET will have the
+(5) General Dynamics Commercial Launch Services, exclusive responsibility for promoting the sale of
+which is a limited partner of IPSP in which it holds IPSP satellite capacity and international business
+a [. . .] interest. It provides spacecraft launch telecommunications services in Italy and 'Eastern
+services and will also provide such services for the
+Europe'. IPSP satellites.
+
+It belongs to the General Dynamics Co. which is (9) Trans-Atlantic Satellite, Inc., which is a subsidiary
+engaged in the manufacture and sale of weapon of the Japanese company Nissho Iwai Co., formed
+systems and platforms, space transportation, and mainly for the purpose of investing in-IPSP where
+building materials. The consolidated turnover of it holds a [. . .] interest. In addition it will also
+work as a subcontractor to BAe for certain General Dynamics Co., in 1991 was US $ 8 751
+million (ECU 7 250 million). components of the IPSP satellites. In this respect it
+obtained a turnover of US $ 3 million (ECU 2,5
+million) for the year ending 31 March 1992.(6) Kingston Communications International Ltd
+(hereinafter referred to as 'Kingston'), which is a
+limited partner of IPSP in which it holds a [. . .] Nissho Iwai Co. is a general trading company
+interest. It was incorporated specifically by its active in trade in, and import and export of all
+parent company, Kingston Communications (Hull) types of domestic Japanese and foreign
+pic, for the purpose of investing in IPSP. merchandise. Its turnover in the year ending
+31 March 1992 was ECU 86 700 million. The
+Kingston Communications (Hull) pic is a United Nissho Iwai Group has a substantial interest in a
+Kingdom company, being the licensed operator of number of companies in the telecommunications
+the public switched telephone network in the city business. In particular, it participates in the capital
+of Hull and its surrounding area. of Satellite Japan Corporation, a Japanese satellite
+operator, the main business of which is to sell bulk
+Kingston Communications (Hull) pic and BAe have transponder capacity in Japan only. This company
+incorporated a jointly controlled joint venture, was merged with the Japanese company JC-Sat.
+Kingston Satellite Services Ltd, intended to act as The merger was cleared by the Commission last
+the agent of both parent companies in discussions year.
+with IPSP concerning the offering of IPSP
+services.
+
+The 1991 total turnover of the Kingston group (b.b) The limited partnership
+was £ 59 million (ECU 77 million).
+(10) IPSP has been organized first to provide
+(7) MCN Sat. US, which is a United States corporation international business telecommunications services
+formed with the primary purpose of holding the (e.g. internal corporate networks, bulk data
+investment of the French group Matra-Hachette in transfer, data collection and transport, fax and
+IPSP where it holds a [. . .} interest. electronic document distribution, and network
+services by satellite and using very small aperture
+The Matra-Hachette group is active in aerospace, terminals (hereinafter referred to as 'VSATs') to
+in particular in the manufacture of various types of multinational companies on a 'one-stop shop',
+
+31 . 12. 94 Official Journal of the European Communities No L 354/77
+
+'end-to-end' basis covering North America and (17) Customers of IPSP will have to install two-way
+Europe; and secondly, to offer transmission VSATs on their premises in order to access the
+capacity on its satellites to the extent capacity is services.
+not fully utilized by IPSP and its partners.
+
+(11 ) The closing of IPSP under the notified structure 2 . Financial contribution
+started in 1982 when OrionSat filed an application
+with the FCC for a licence to operate an
+international satellite system. Following the ( 18 ) The complex financial arrangements supporting
+granting of the licence, OrionSat initiated, in 1988, IPSP are as follows:
+the process of consultation with Intelsat. The
+consultation lasted one year and, once finished in (a) the partners have invested a total of US $ 90
+1989, OrionSat entered into a contract with BAe million in equity distributed according to their
+as prime contractor for the construction and respective interests in IPSP. OrionSat's
+launch of the satellite system. At the same time and contribution as general partner amounts to US
+through the closing of the partnership, at the end $ 30 million made up of the FCC licence,
+of 1991, OrionSat held discussions and certain contract rights and other tangible and
+negotiations with prospective partners and intangible assets;
+negotiated a loan financing package from an
+international consortium of banks. (b) in addition they have obtained a senior debt
+facility of up to US $ 251 million for the first
+( 12) Under the terms of the FCC's licence, IPSP or its satellite from a syndicate of international
+customers were not allowed to interconnect the banks;
+IPSP satellite facilities with a switched telephone
+network for the purpose of providing (c) certain of IPSP's partners have committed
+telecommunications services. However, in additional funds for an amount of US $ 9
+December 1993, the FCC adopted a new policy million;
+pursuant to which it is now possible for separate
+satellite systems (like IPSP) to apply to carry up to (d) furthermore, with a view to guaranteeing IPSP
+1 250 64-kbps equivalent circuits of public a sufficient level of utilization of the satellites'
+switched traffic. capacity, the limited partners have also agreed
+to lease capacity on the satellites up to a total
+amount of [. . .], and of [. . .] transponders. As
+will be described later that capacity could be
+1 . Service and facilities re-leased by the limited partners to customers
+of IPSP;
+( 13) IPSP intends to build, launch and operate
+high-power Ku-band telecommunication satellites (e) finally, the limited partners have entered into
+to be positioned in orbital positions 37°5 W and additional contingent lease capacity contracts
+47° W longitude. The first satellite, built using the with IPSP that will require them to make
+Eurostar platform — developed jointly by BAe and additional contributions to IPSP in exchange
+Matra Marconi Space through a joint venture for additional transmission capacity up to
+called Satcom International — will contain 28 [. . .] transponders, in case of negative cash
+transponders of 54 MHz bandwidth and six flow, to allow IPSP to service the senior
+transponders of 36 MHz bandwidth, that will debt.
+make 1 728 MHz of usable communications
+capacity per satellite. The geographical reach
+('footprint') of the satellites will cover much of
+North America, much of the EEA and portions of 3. Central management and integrated operations
+central and eastern Europe.
+(19) As IPSP has been created to provide services to
+(14) It is expected that the first satellite will be customers on the basis of a fully interconnected
+operational by December 1994 and the second network enabling the provision of uniform services
+sometime thereafter. Their design life will be 12 at uniform prices, the general partner is given
+years. exclusive responsibility for management and
+control of IPSP and, subject to certain limited
+(15 ) Prior to the launching and operation of its own rights of review and approval by the limited
+satellites, IPSP will provide the services by relying partners, has broad authority to carry out the
+on leased facilities. development, operation and marketing and
+promotion of IPSP's business.
+( 16) In addition, IPSP will operate its own tracking,
+telemetry and command facilities being built in the (20) This control by OrionSat is also a requirement of
+US to control the satellites, that will be backed up the FCC in order that the licence that OrionSat
+by additional facilities to be built in Italy. holds can be transferred to IPSP.
+
+No L 354/78 Official Journal of the European Communities 31 . 12. 94
+
+4. Marketing and distribution It is significant that most of the alliances in the
+telecommunications field being announced
+(21 ) IPSP will market and distribute its services with the nowadays include provisions to enter the
+assistance of a number of local marketing and value-added segment (sometimes as a first step of a
+operating companies that will be nominated by broader alliance), and in particular the provision of
+IPSP as representative agents or distributors. Apart advanced value-added services to the world's
+from STET, which is the exclusive distributor for biggest corporations.
+Italy and the exclusive representative agent for a
+group of countries collectively referred to in the (26) The services can be provided to customers either
+agreements as 'eastern Europe' (Austria, Hungary, using terrestrial facilities and establishing physical
+Poland, Romania, Bulgaria, Malta, the former links by means of coaxial or optical-fibre cables, or
+USSR, the former Czechoslovakia and the former using satellite facilities and VSATs. It is widely
+Yugoslavia), such agents or distributors will work accepted that satellites are particularly
+on a non-exclusive basis. They may, but need not, recommended as regards customers' locations in
+be limited partners. As in some Member States remote territories and in areas having a very poor
+terrestrial infrastructure. licences to provide uplink services are not available
+yet, IPSP will have to work with the national
+telecommunications operators (hereinafter referred (27) Although some of the other alliances being
+to as 'TOs') which will iact as agents. This situation announced include also the provision of services by
+is expected to last until the Community's satellite as part of a basket of 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+by the existing bilateral TREATY AND ARTICLE 53 OF THE EEA
+AGREEMENT TO CONTRACTUAL arrangements between TOs, under which each
+PROVISIONS
+one provides its own facilities within its own
+country. This means that each national TO
+prices its portion of the network separately,
+contracts with the customer seperately, and (59) The following provisions fall outside both
+bills it separately, for a set of services that is Article 85 ( 1 ) of the EC Treaty and 53 ( 1 ) of the
+often not uniform in all territories involved EEA Agreement:
+given the different technical features of each
+network involved. In this respect, the result of
+— the fact that STET is nominated exclusive a combined network so created is as strong as
+its weakest link and so, the number of services distributor of IPSP's services in Italy while the
+and the features thereof are those supported Italian market is regulated. This provision
+by the less performant national network merely reflects the fact that under Italian law
+involved. In addition, operational matters such STET still enjoys exclusive rights in some of the
+as monitoring quality, correcting faults and areas to be addressed by IPSP. Even in the
+providing customer service are also performed absence of the agreement, no other company
+would have been able to distribute IPSP's separately.
+services in Italy,
+
+— provisions concerning the nomination of STET National TOs are becoming increasingly aware
+as exclusive representative agent in 'eastern of the importance of the market for
+Europe' apart from Austria. As the countries international business telecommunications and
+concerned are outside the EC and the EEA,
+of the inconveniences resulting from the
+these provisions do not produce any situation described. As indicated, they are
+appreciable effect in the EEA. trying to overcome them by forming consortia
+with other TOs to offer such services (and, in
+most cases, to do other things). Some of them
+have already been notified to the (60) The following provisions are to be considered as
+Commission. non-appreciable restrictions of competition:
+
+— As regards the agreements relating to the Italian
+(56) The creation and implementation of IPSP, by territory, the exclusive right to promote the sale
+introducing a new competitor, may be expected to of IPSP's services in Italy granted to STET after
+increase the level of competition in a fast-growing deregulation has occurred is not an appreciable
+segment of the overall telecommunications market, restriction of competition because:
+until very recently reversed to companies holding
+exclusive rights. This would help to accelerate the (a) IPSP's services are by definition
+pace at which new and uniform services are offered international, so that Italian customers can
+to customers and to improve their price and sign a contract for the same services with
+performance. agents or distributors not located in Italy
+through their subsidiaries or facilities
+outside Italy,
+
+(57) The impact in the market for bulk satellite (b) potential customers of IPSP will be big
+transmission capacity is expected to be positive as corporations often having facilities in
+well as quite imporant, in particular, because the several countries,
+creation of IPSP means creating an alternative, and
+private, supplier of space segment capacity to the (c) as the only exclusivity remaining after
+incumbent and very strong ISOs and to national
+liberalization will be the exclusivity to
+systems controlled by national TOs. Thus, IPSP
+promote the sale of the IPSP's services in
+would mean increasing the choice available to
+Italy, IPSP's agents and distributors other
+service providers demanding space segment than STET will be free to sell the IPSP's
+capacity. services in Italy,
+
+(d) STET is not prevented from dealing with
+(58 ) In conclusion, the implementation of IPSP, one of competitors of IPSP, and
+the first private ventures to enter the evolving
+telecommunications market, falls outside the scope (e) most importantly, IPSP is expected to have
+of .both Article 85 ( 1 ) of the EC Treaty and a market share below 5% of the two
+Article 53 ( 1 ) of the EEA Agreement. markets concerned.
+
+31 . 12. 94 Official Journal of the European Communities No L 354/85
+
+— As regards the agreements relating to the is to succeed in gaining a presence in the
+Austrian territory, the above reasoning markets it will address.
+concerning the Italian territory is also valid. In
+addition, the exclusive rights that STET has, as (62) Ancillary restraints are to be assessed together with
+agent for IPSP, are more limited than those the company created. In this respect, as IPSP has
+STET has as regards Italy (see recitals 51, 52 been concluded not to fall within the scope of
+and 53), given that IPSP can address itself Article 85 ( 1 ) of the EC Treaty and of
+directly to customers and that limited partners Article 53 ( 1 ) of the EEA Agreement, then neither
+can market capacity and/or services obtained do the provisions detailed above,
+from other satellite systems and even services
+making use of satellite capacity obtained from
+IPSP.
+HAS ADOPTED THIS DECISION:
+
+(61 ) For the following reasons, the provisions detailed
+Article 1 below, while putting restraints on the partners'
+freedom of action, are concluded to be directly
+On the basis of the facts in its possession, the related and necessary to IPSP, and do not exceed
+what the creation and operation of IPSP requires. Commission has no grounds for action under
+Consequently they are to be treated, under the Article 85 ( 1 ) of the EC Treaty and Article 53 ( 1 ) of the
+competition rules of the EC Treaty and of the EEA EEA Agreement in respect of the notified agreements
+relating to the creation of the International Private Agreement, as ancillary restraints.
+Satellite Partners company (IPSP).
+
+(a) The non-competition provision is ancillary
+because it refers only to the general partner Article 2
+and is a locigal consequence of the sole
+responsibility granted to it. The provision is On the basis of the facts in its possession, the
+aimed at ensuring that the general partner Commission has no grounds for action under
+devotes itself to the management of IPSP's Article 85 ( 1 ) of the EC Treaty and Article 53 ( 1 ) of the
+business on a full-time basis. As for limited EEA Agreement in respect of the non-competition
+partners, as indicated above, they are free to obligation on the general partner under Article 7.06 of
+compete with IPSP. the Limited Partnership Agreement, the 'most favoured
+nation' provisions under Article 16.02 of the Limited
+(b) The 'most favoured nation' provisions are Partnership Agreement, under Article 16.01 of each
+ancillary because they are intended to ensure Capacity Agreement, under Article 21.01 of each
+that IPSP treats each limited partner, which Contingent Capacity Agreement, under Articles 4.5 and
+will normally also be a customer of IPSP, on 15.1 of the Service Provision and Distribution Agreement
+an equal basis — but not on more favourable for Italy, under Article 3.5 of the Capacity Sale
+terms — as regards the other limited partners Agreement for Eastern Europe and under Articles 4.4 and
+and, in particular, third party customers, with 15.11 of the Service Provision Agreement for Eastern
+no investment made in IPSP. Europe, and in respect of the preference to be given to
+limited partners under Article 2 of the Preferred Bidder
+Agreement, the appointment of STET as exclusive
+(c) The preference to be given to limited partners distributor of IPSP in Italy under Article 2 of the Service
+in respect of certain calls for tenders issued by
+Provision and Distribution Agreement for Italy and the
+IPSP, under the Preferred Bidder Agreement,
+appointment of STET as exclusive representative agent of
+can also be considered ancillary on the basis
+IPSP under Articles 2 of the Representative Agent
+that a certain preference towards limited
+Agreement for the Sale of Satellite Capacity in Eastern
+partners seems natural, in exchange for the
+Europe and of the Service Provision and Representative
+substantial amounts of money they have
+Agent Agreement for Eastern Europe.
+invested in the venture, and considering that
+most of them are themselves active in different
+segments of the aerospace market, and so are Article 3
+manufacturers of equipment of the same kind
+as that required by IPSP. It has also to be This Decision is addressed to:
+noted that the provision, as it reads, does not
+give limited partners any advantages as to International Private Satellite Partners, L.P.,
+price or other terms and so it is not expected 2440 Research Boulevard, Suite 400
+to produce any appreciable foreclosure effect Roekville, Maryland 20850
+affecting the competitive position of third USA
+parties. In any event, and given both the
+structure of the relevant markets and in Orion Satellite Corporation
+particular the presence of powerful incumbent 2440 Research Boulevard, Suite 400
+companies, any abusive interpretation of this Roekville, Maryland 20850
+provision seems to be excluded if the venture USA
+
+No L 354/86 Official Journal of the European Communities 31 . 12. 94
+
+British Aerospace Communications Inc., STET — Società Finanziaria Telefonica per Azioni
+Suite 500, 13873 Park Center Road Corso d'Italia 41
+Herndon, Virginia 22071 1-00198 Rome
+USA
+Trans-Atlantic Satellite, Inc.,
+COM DEV Satellite Communications Ltd c/o Nissho Iwai American Corporation
+155 Sheldon Drive 1211 Avenue of the Americas
+Cambridge, Ontario N1R 7H6 New York, N.Y. 10036
+Canada USA
+
+Kingston Communications International Limited General Dynamics Commercial Launch Services, Inc.,
+Telephone House, 9444 Balboa Avenue
+Carr Lane San Diego, California 92123
+GB-Hull HU1 3RE USA.
+
+MCN SAT U.S., Inc.,
+c/o Matra Aerospace, Inc.,
+1735 Jefferson Davis Highway
+Suite 810 Done at Brussels, 15 December 1994
+Arlington, Virginia
+USA
+
+Orion Network Systems For the Commission
+2440 Research Boulevard, Suite 400
+Karel VAN MIERT
+Rockville, Maryland 20850
+USA Member of the Commission

@@ -1,0 +1,539 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39984
+Romanian Power Exchange / OPCOM
+
+(Only the Romanian text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1 / 2003 and
+Commission Regulation (EC) 773 / 2004
+
+Article 7 Regulation (EC) 1 / 2003
+
+Date: 05/03/2014
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 5.3.2014
+C(2014) 1342 final
+
+COMMISSION DECISION
+
+of 5.3.2014
+
+addressed to
+S.C. OPCOM S.A. and C.N.T.E.E. Transelectrica S.A.
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) *
+(AT.39984 - Romanian Power Exchange/OPCOM)
+
+(Only the Romanian text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 6
+
+2. The addressees of the decision ..................................................................................... 6
+
+2.1. Transelectrica ............................................................................................................... 6
+
+2.2. OPCOM........................................................................................................................ 7
+
+3. Procedure...................................................................................................................... 7
+
+4. The services concerned by the Decision ...................................................................... 9
+
+4.1. The Romanian wholesale electricity market ................................................................ 9
+
+4.1.1. Regulated wholesale market ...................................................................................... 10
+
+4.1.2. Competitive wholesale market ................................................................................... 10
+
+4.2. Trading on the competitive wholesale market ........................................................... 10
+
+4.3. The Romanian power exchange ................................................................................. 11
+
+4.3.1. Trading on the power exchange ................................................................................. 11
+
+4.3.2. Conditions for trading on the power exchange .......................................................... 14
+
+5. The practices which are the subject of the Decision .................................................. 14
+
+5.1. The VAT registration requirement ............................................................................. 14
+
+5.2. Implications of the VAT registration requirement ..................................................... 17
+
+6. Legal and economic assessment................................................................................. 19
+
+6.1. The relevant product market ...................................................................................... 19
+
+6.1.1. Demand side substitutability ...................................................................................... 20
+
+6.1.2. Supply side substitutability ........................................................................................ 21
+
+6.1.3. Assessment of OPCOM’s arguments concerning product market definition ............ 21
+
+6.1.4. Conclusion on the relevant product market ............................................................... 22
+
+6.2. The relevant geographic market ................................................................................. 22
+
+6.3. Undertaking ................................................................................................................ 24
+
+6.4. OPCOM’s dominant position on the relevant market ................................................ 26
+
+6.5. Dominance in a substantial part of the internal market .............................................. 27
+
+7. The abusive behaviour ............................................................................................... 28
+
+7.1. OPCOM’s VAT requirement ..................................................................................... 29
+
+7.2. Impact on competition and consumers ....................................................................... 37
+
+EN 3 EN
+
+7.3. Objective justification and efficiencies ...................................................................... 40
+
+7.3.1. Risk of criminal charges against OPCOM if it does not collect VAT ....................... 41
+
+7.3.2. Exposure of OPCOM to a potential cash-flow mismatch .......................................... 42
+
+7.3.3. No efficiencies ........................................................................................................... 49
+
+7.3.4. Conclusion.................................................................................................................. 49
+
+7.4. Conclusion on the abusive behaviour ........................................................................ 49
+
+7.5. Duration of the infringement ...................................................................................... 50
+
+7.5.1. Date of commencement of the infringement .............................................................. 50
+
+7.5.2. Date of termination of the infringement..................................................................... 50
+
+7.5.3. Conclusion on duration .............................................................................................. 51
+
+8. Effect on trade between Member States ..................................................................... 51
+
+9. Liability for the infringement ..................................................................................... 52
+
+9.1. Transelectrica's arguments and the Commission's assessment .................................. 53
+
+9.1.1. Separate entities ......................................................................................................... 53
+
+9.1.2. Decisive influence ...................................................................................................... 56
+
+9.1.3. Strategic decisions taken or approved by the Ministry .............................................. 58
+
+9.2. Conclusion on liability ............................................................................................... 63
+
+10. Remedies and fines .................................................................................................... 63
+
+10.1. Remedies under Article 7 of Regulation 1/2003 ........................................................ 63
+
+10.2. Fines under Article 23(2) of Regulation 1/2003 ........................................................ 63
+
+10.3. Basic amount of the fine ............................................................................................ 64
+
+10.3.1. Calculation of the value of sales ................................................................................ 64
+
+10.3.2. Gravity........................................................................................................................ 65
+
+10.3.3. Duration...................................................................................................................... 66
+
+10.3.4. Conclusion on the basic amount of the fine ............................................................... 66
+
+10.4. Adjustments to the basic amount ............................................................................... 66
+
+10.5. Conclusion on the final amount of the fine ................................................................ 67
+
+11. Conclusion.................................................................................................................. 67
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of 5.3.2014
+
+addressed to
+S.C. OPCOM S.A. and C.N.T.E.E. Transelectrica S.A.
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) *
+(AT.39984 - Romanian Power Exchange/OPCOM)
+
+(Only the Romanian text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union1,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission Decision of 6 December 2012 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation No 1/2003 and
+Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1 OJ, C 115, 9.5.2008, p. 47.
+2 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+(‘TFEU’). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+where appropriate, references to Articles 81 and 82 of the EC Treaty should be understood as references
+to Articles 101 and 102, respectively, of the TFEU. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and ‘common market’ by ‘internal
+market’. Where the meaning remains unchanged, the terminology of the TFEU will be used throughout
+this Decision.
+3 OJ L 123, 27.4.2004, p. 18.
+
+EN 5 EN
+
+1. INTRODUCTION
+
+(1) This Decision concerns an abuse of dominance by the operator of the only power
+exchange in Romania, S.C. OPCOM S.A., registered as Operatorul Pieței de Energie
+Electrică și de Gaze Naturale "OPCOM" S.A. (‘OPCOM’) on the market for services
+facilitating short-term electricity trading in Romania. OPCOM discriminated against
+companies on the basis of their nationality/place of establishment, thereby restricting
+competition on the wholesale electricity market in Romania.
+
+(2) By the present Decision, the Commission will establish that OPCOM abused its
+dominant position by requiring all participants on the Day-Ahead and Intraday
+Markets of the power exchange to have a Romanian VAT registration and
+consequently to establish business premises in Romania, even though foreign traders
+already have a VAT registration in their home country.
+
+(3) This requirement constitutes a discrimination against traders established in an EU
+Member State other than Romania (‘EU traders’) in violation of Article 102 of the
+Treaty.
+
+2. THE ADDRESSEES OF THE DECISION
+
+(4) The present Decision is addressed to the legal entities OPCOM and its parent
+company C.N.T.E.E. Transelectrica S.A., registered as Compania Națională de
+Transport al Energiei Electrice "Transelectrica" S.A. (‘Transelectrica’) that form
+part of the same undertaking.
+
+2.1. Transelectrica
+
+(5) Transelectrica was set up in 2000 pursuant to Government Decision no. 627/2000, as
+a joint stock company under Romanian law. It is the only company that performs the
+function of Transmission System Operator (‘TSO’) in Romania. Transelectrica does
+not operate in other countries.
+
+(6) Transelectrica provides together with its subsidiaries: (i) electricity transmission
+services; (ii) system services (operational management of the power system); (iii)
+electricity trading services (through its subsidiary OPCOM). These activities are
+performed by virtue of the Electricity and Natural Gas Law no. 123/2012 (‘Energy
+Act’) under a licence issued by the Romanian Energy Regulator, the Autoritatea
+Națională de Reglementare în Domeniul Energiei (‘Energy Regulator’), which is
+valid until 2025.4
+
+(7) Previously wholly owned and currently majority owned by the Romanian State,
+Transelectrica has, since August 2006, been listed on the Bucharest Stock
+Exchange.5 In 2012, the Transelectrica group’s6 reported turnover was EUR 610
+million, with a net profit of EUR 10.7 million.7
+
+4 Transelectrica, Annual Report 2011, p. 107.
+5 Transelectrica’s shares are held by the Romanian State (58.68 %), legal persons (20.3 %), the Property
+Fund (13.5 %) and natural persons (7.7 %).
+
+EN 6 EN
+
+(8) Transelectrica owns 100 % of the shares of OPCOM.
+
+2.2. OPCOM
+
+(9) OPCOM was set up in 2001 pursuant to Government Decision no. 627/2000, as a
+joint stock company and 100 % owned subsidiary of Transelectrica.
+
+(10) The Energy Regulator granted OPCOM a licence to operate a power exchange in
+Romania in December 2001. By virtue of this licence OPCOM facilitates electricity
+trading on the wholesale electricity market in Romania.
+
+(11) OPCOM started operations on the Day-Ahead Market in June 2005 and on the
+Centralized Market for Bilateral Contracts in December 2005. As of July 2011,
+OPCOM also operates an Intraday Market. Furthermore, OPCOM administers the
+Green Certificates Market (as of 2005) and the Greenhouse Gas Emission
+Certificates Market (as of 2010).
+
+(12) OPCOM’s reported turnover in 2011 was EUR 3.9 million, with a net profit of
+EUR 436 000.8 In 2012, OPCOM’s turnover was EUR 3.65 million with a net profit
+of EUR 137 000.9
+
+3. PROCEDURE
+
+(13) On 6 December 2012 the Commission decided to initiate proceedings within the
+meaning of Article 2(1) of Commission Regulation No 773/2004 and Article 11(6) of
+Council Regulation (EC) No 1/2003 in the present case (‘Regulation 773/2004’ and
+‘Regulation 1/2003’ respectively).
+
+(14) During the investigation, the Commission sent several requests for information
+(‘RFIs’) pursuant to Article 18 of Regulation 1/2003 to OPCOM, to parties that
+could offer substitutable services (i.e. brokers), as well as to market participants that
+either purchased or were interested in purchasing electricity with delivery within
+Romania.
+
+(15) Two state of play meetings were held with OPCOM and Transelectrica, the first on
+14 May 2013 and the second on 29 November 2013.
+
+(16) On 29 May 2013, the Commission notified a Statement of Objections (‘SO’) to
+OPCOM and its parent company Transelectrica. The Commission took the
+preliminary view that OPCOM held a dominant position on the market for services
+facilitating electricity trading at wholesale level in Romania and was abusing its
+dominant position by imposing discriminatory requirements on EU traders for
+participation on its Day-Ahead and Intraday markets.
+
+6 OPCOM is not included in the consolidated financial statements of Transelectrica.
+7 Transelectrica, Annual Directorate’s Report - 2012 Consolidated Report, p. 10.
+8 OPCOM, Annual Report 2011, p. 38.
+9 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+alue of sales to which the infringement relates.
+
+(304) On this basis, the estimated value of sales to which the infringement relates is
+EUR 1 741 400 for the Day-Ahead market and EUR 616 700 for the Intraday market,
+i.e. 65 % of OPCOM’s turnover.
+
+(305) In its reply to the letter of facts, OPCOM claims that the Commission’s intention to
+allocate 65 % of total costs to the spot markets has no objective rationale. The
+
+227 OJ C 210, 1.09.2006, p. 2-5.
+228 Guidelines on fines, point 13.
+229 Values in EUR on the basis of the European Central Bank reference average exchange rate for 2012, i.e.
+Romanian leu/EUR = 4.4593
+230 OPCOM’s reply of 05 November 2013 to the Commission’s RFI (2013/107444).
+
+EN 64 EN
+
+breakdown of costs for 2012 would be a mere estimation. OPCOM considers this
+estimation to be unreliable because (i) the share of the Day Ahead Market in total
+transactions has increased significantly after adoption of the Energy Act in 2012, and
+(ii) whilst the ratio between the estimated costs on the Intraday Market and those on
+the Day-Ahead Market is 36 %, the ratio between the volumes traded on the two spot
+markets in 2012 is only 0.07 %.
+
+(306) The Commission rejects OPCOM's arguments. Since OPCOM's turnover consists of
+the fees it receives from Transelectrica which in turn are based on OPCOM's cost
+estimate, an allocation of the value of sales based on OPCOM's costs relating to the
+Day Ahead and Intraday Markets is the most relevant breakdown to establish the
+value of sales. Since OPCOM does not charge a fee based on volumes traded since
+its turnover is not related to the amount of transactions, a breakdown based on
+volumes traded or transactions would not be meaningful as a proxy for OPCOM's
+value of sales. OPCOM was unable to provide the Commission with a breakdown of
+OPCOM's revenues by type of market for 2012.231 The Commission therefore
+determined the value of sales to calculate the fine on the best available figures.232
+
+10.3.2. Gravity
+
+(307) In order to determine the proportion of the value of sales to be considered as basic
+amount, the Commission will have regard to a number of factors to assess the gravity
+of the infringement, such as the nature of the infringement, the market share, the
+geographic scope of the infringement and/or whether or not the infringement has
+been implemented.233
+
+10.3.2.1. Nature of the infringement
+
+(308) The infringement concerns an abuse of a dominant position in the form of
+discrimination on the basis of nationality/place of establishment. OPCOM's
+requirement that all participants on the spot markets on the power exchange hold a
+Romanian VAT registration, and must therefore be established in Romania prevented
+foreign based participants from entering the market. This requirement restricts access
+to the domestic electricity market. This type of abuse has already been the subject of
+several Commission decisions and judgments of the EU courts and constitutes a clear
+infringement of Article 102 of the Treaty.234
+
+10.3.2.2. Market share
+
+(309) On the relevant market OPCOM has never faced any significant competition. In
+addition to its de facto monopoly until 2012 (market share of 99 %), since end of
+
+231 OPCOM’s reply of 1 March 2013 to the Commission’s RFI of 22 February 2013.
+232 Guidelines on fines, point 15 and 16.
+233 Guidelines on fines, point 20.
+234 Judgment of 30 April 1974 in Case 155/73 Sacchi (ECR 1974, p. 409, paragraph 17); Judgment of 14
+February 1978 in Case 27/76 United Brands v Commission, (ECR 1978, p. 207, paragraphs 232-233),
+Judgment of 2 March 1983 in Case 7/82 GVL v Commission (ECR 1983, p. 483), Judgment of 22
+November 2001 in Case T-139/98 AAMS v Commission (ECR 2001, p. II-3413).
+
+EN 65 EN
+
+July 2012 OPCOM has a de jure monopoly for facilitating electricity trading on the
+spot markets.235
+
+10.3.2.3. Geographic scope
+
+(310) The infringement covers the whole territory of Romania.236
+
+10.3.2.4. Conclusion on the gravity of the infringement
+
+(311) In view of the above, in particular in view of the nature of the infringement and
+OPCOM's market shares, the proportion of the value of sales to be used to establish
+the basic amount of the fine to be imposed on OPCOM and Transelectrica should be
+10 %.
+
+10.3.3. Duration
+
+(312) For the Day-Ahead Market the requirement to hold a Romanian VAT registration is
+laid down in OPCOM's ‘Convention on Participation in the Day-Ahead Market’
+which became applicable on 30 June 2008. For the Intraday Market the requirement
+is stated in OPCOM's ‘Convention on Participation in the Intraday Market’ which
+became applicable on 14 July 2011. Since both the Day-Ahead Market as well as the
+Intraday Market form part of the same relevant product market and the imposed VAT
+registration requirement in both Conventions constitutes one single infringement, the
+relevant start date for the overall infringement is 30 June 2008. However, when
+calculating the fine the Commission will take into account that the infringement
+regarding the Intraday Market started only on 14 July 2011.
+
+(313) As regards the end of the infringement, the Commission considers that OPCOM's
+ended the infringement on 16 September 2013, when OPCOM submitted for the
+opinion of the Energy Regulator amended draft Conventions on participation in the
+Day-Ahead Market and Intraday Market, presumably without a Romanian VAT
+registration requirement (see paragraph 231).
+
+(314) Therefore, the overall duration of the infringement to be taken into account for the
+calculation of the fine amounts to 5 years, 2 months and 16 days for the day ahead
+market and 2 years, 2 months and 2 days for the intraday market, respectively. For
+the purposes of the calculation of the fine, the amount determined in recital (304)
+above should be multiplied by 5.16 for the day-ahead market and 2.16 for the
+intraday market to take account of the duration.
+
+10.3.4. Conclusion on the basic amount of the fine
+
+(315) On the basis of the above, the basic amount of the fine to be imposed should
+therefore be EUR 1 031 000.
+
+10.4. Adjustments to the basic amount
+
+(316) There are no aggravating or mitigating circumstances in this case.
+
+235 See section 6.4.
+236 See section 6.2.
+
+EN 66 EN
+
+(317) The final amount of the fine does not exceed 10 % of the total turnover of the
+undertaking.237
+
+(318) Therefore, no adjustment to the basic amount is applied.
+
+10.5. Conclusion on the final amount of the fine
+
+(319) In applying the foregoing, the final amount to be imposed pursuant to Article 23(2)
+of Regulation 1/2003 should be EUR 1 031 000.
+
+11. CONCLUSION
+
+(320) In light of the considerations set out in this Decision, the Commission:
+
+(a) finds that Transelectrica and its subsidiary OPCOM have committed a single
+and continuous infringement of Article 102 of the Treaty from 30 June 2008
+until at least 16 September 2013, by requiring EU traders wishing to participate
+on the Day-Ahead Market and the Intraday Market in Romania to obtain a
+Romanian VAT registration.
+
+(b) requires Transelectrica and its subsidiary OPCOM to bring the infringement to
+an end and to refrain from taking measures having an equivalent effect to the
+conduct identified as abusive.
+
+237 Article 23(2) Regulation (EU) No 1/2003
+
+EN 67 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Compania Națională de Transport al Energiei Electrice "Transelectrica" S.A. (‘C.N.T.E.E.
+Transelectrica S.A.’) and its subsidiary Operatorul Pieței de Energie Electrică și de Gaze
+Naturale "OPCOM" S.A. ('SC OPCOM S.A.') have committed a single and continuous
+infringement of Article 102 of the Treaty from 30 June 2008 until at least 16 September 2013 in
+the form of discrimination, by requiring EU traders wishing to participate on the Day-Ahead
+Market and the Intraday Market in Romania to obtain a Romanian VAT registration.
+
+Article 2
+
+For the infringement referred to in Article 1, a fine of EUR 1 031 000 is imposed on C.N.T.E.E.
+Transelectrica S.A and S.C. OPCOM S.A., being jointly and severally liable for the payment
+of the entire fine.
+
+The fine shall be paid in euro, within three months of the date of notification of this Decision, to
+the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / AT.39984
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fine by the due date by either providing an acceptable bank guarantee or making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.238
+
+Article 3
+
+C.N.T.E.E. Transelectrica S.A. and its subsidiary SC OPCOM S.A. shall immediately bring to
+an end the infringement referred to in Article 1 in so far as it has not already done so.
+
+238 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L362, 31.12.2012, p.1).
+
+EN 68 EN
+
+C.N.T.E.E. Transelectrica S.A. and its subsidiary SC OPCOM S.A. shall refrain from
+repeating any act or conduct described in Article 1, and from any act or conduct having the same
+or equivalent object or effect.
+
+Article 5
+
+This Decision is addressed to
+
+(a) C.N.T.E.E. Transelectrica S.A., 2-4 Olteni Street, sector 3, 030786 Bucharest,
+Romania, and
+
+(b) S.C. OPCOM S.A., 16-18 Hristo Botev Blvd., sector 3, 030236 Bucharest, Romania.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty
+
+Done at Brussels, 5.3.2014
+
+For the Commission
+Joaquín ALMUNIA
+Vice-President
+
+EN 69 EN

@@ -1,0 +1,448 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+CASE AT.39727
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+Date: 10/04/2013
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN COMMISSION
+
+Brussels, 10/04/2013
+SG-Greffe
+C(2013) 1997 FINAL
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 10/04/2013
+
+addressed to:
+
+CEZ, a.s.
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(AT/39727 - CEZ)
+
+(Only the English text is authentic)
+
+EN 2 EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter.......................................................................................................... 4
+2. The Undertaking Concerned..................................................................................... 5
+3. Procedural Steps Under Regulation No 1/2003......................................................... 5
+4. Preliminary Assessment ........................................................................................... 5
+4.1. Relevant markets...................................................................................................... 5
+4.1.1. Product market......................................................................................................... 5
+4.1.2. Geographic market................................................................................................... 6
+4.2. Position of the parties on the relevant market / Dominant position............................ 7
+4.3. Substantial part of the internal market ...................................................................... 9
+4.4. Practices raising concerns......................................................................................... 9
+4.5. Effect on trade between Member States.................................................................. 11
+5. Proposed Commitments.......................................................................................... 11
+6. Commission Notice Pursuant to Article 27(4)......................................................... 12
+7. Proportionality of the amended commitments......................................................... 17
+8. Conclusion............................................................................................................. 18
+
+ANNEX............................................................................................................................... 21
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 10/04/2013
+
+addressed to:
+CEZ, a.s.
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+Case AT.39727 - CEZ
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1
+("Regulation (EC) No 1/2003"), in particular Article 9(1) thereof,
+Having regard to the Commission decision of 11 July 2011 to initiate proceedings in this case,
+Having expressed concerns in the preliminary assessment of 26 June 2012,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1. SUBJECT MATTER
+(1) The present Decision concerns CEZ's conduct on the market for generation and
+wholesale supply of electricity in the Czech Republic, in particular pre-emptive
+booking of capacities in the Czech electricity transmission network with the aim of
+hindering the entry of competitors into the market.
+(2) In its preliminary assessment of 26 June 2012, the Commission came to the
+provisional conclusion that CEZ holds a dominant position on the market for the
+generation and wholesale supply of electricity in the Czech Republic and that the
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+('TFEU'). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the TFEU will be used throughout this Decision.
+
+EN 4 EN
+
+suspected conduct of making a pre-emptive reservation in the electricity transmission
+network raised concerns as to its compatibility with Article 102 of the Treaty.
+
+2. THE UNDERTAKING CONCERNED
+(3) The state owned2 undertaking CEZ is the incumbent operator on the Czech electricity
+market. CEZ is present in a number of areas of the electricity and lignite sectors in
+the Czech Republic (lignite mining and trading, electricity generation, distribution,
+trading and supply) and several other countries in Europe. In 2011, CEZ's turnover
+amounted to EUR 8,530 million3.
+
+3. PROCEDURAL STEPS UNDER REGULATION NO 1/2003
+(4) On 11 July 2011, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003.
+(5) On 8 August 2011, the company [...] submitted to the Commission a complaint
+pursuant to Article 7 of Regulation (EC) No 1/2003 against CEZ.
+(6) On 26 June 2012, the Commission adopted a preliminary assessment as referred to in
+Article 9(1) of Regulation (EC) No 1/2003 which set out the Commission’s
+preliminary competition concerns; these related to CEZ's pre-emptive reservation
+made on the Czech electricity transmission network which may have prevented
+competitors from entering the market for generation and wholesale supply of
+electricity. This assessment was notified to CEZ on 28 June 2012.
+(7) On 3 July 2012, CEZ submitted commitments to the Commission in response to the
+preliminary assessment.
+(8) On 10 July 2012, a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/20034, summarising the
+case and the commitments and inviting interested third parties to give their
+observations on the commitments within one month of publication.
+(9) On 30 August, 4 September and 6 September 2012, the Commission informed CEZ
+of the observations received from interested third parties following the publication of
+the notice.
+(10) On 6 March 2013, CEZ submitted an amended commitment proposal.
+
+4. PRELIMINARY ASSESSMENT
+4.1. Relevant markets
+4.1.1. Product market
+(11) According to the preliminary assessment the product market was considered to be
+generation and wholesale supply of electricity. This includes the electricity generated
+
+2 Majority shareholder (69,78% as of 31 December 2010) is the State through the Ministry of Finance
+(69,37%) and the Ministry of Labor and Social Affairs (0.41%).
+3 CEZ Group Annual Report 2011, p. 11. CEZ's consolidated turnover was converted from CZK to EUR
+with 2011 average exchange rate of CZK/EUR 24.590 as reported by the European Central Bank.
+4 OJ C 202, 10.7.2012, p. 1–2
+
+EN 5 EN
+
+in and imported into the relevant geographic area through interconnectors. This is in
+line with the decisional practice of the Commission.5
+4.1.2. Geographic market
+(12) The preliminary assessment concluded that, for the purpose of this case, the Czech
+market for generation and wholesale supply of electricity is national. This was based
+on the different structures of the supply in the Czech Republic and in the
+neighbouring countries6, the different fuel mix of the power plants in the Czech
+Republic and in the neighbouring countries7 (implying different merit order curves8
+across these countries9) and existence of congestion at interconnection points with
+neighbouring Member States10.
+(13) This is consistent with the recent decision of the Czech NCA (Office for the
+Protection of Competition) which concluded that the Czech market for generation
+and wholesale supply of electricity is national11.
+
+5 See for example the following Commission Decisions: Case No COMP/M.4180 Gaz de France/Suez
+(2006), paragraph 674; Case No COMP/M.5224 EDF/British Energy (2008), paragraph 10ff; Case No
+COMP/M.5467 RWE/Essent (2009), paragraph 23.
+6 In 2010, the share in the total generation of the largest operator was 73% in the Czech Republic, approx.
+40% in Austria, 28% in Germany, 17% in Poland and 81% in Slovakia. For Austria, see p. 71, Verbund
+Annual Report 2010, and for the rest of the countries, see Eurostat, at:
+http://epp.eurostat.ec.europa.eu/tgm/printTable.do?tab=table&plugin=1&language=en&pcode=tsier060
+&printPreview=true
+7 The generation mix in the relevant countries is summarised as follows. Regarding Germany and the
+Czech Republic, it is noted that the solid fuels category represents mainly lignite generation in the
+Czech Republic while in Germany it is divided in approximately equal parts between lignite and hard
+coal.
+Solid fuels (hard coal and lignite): Austria 5%, Czech Rep. 55%, Germany 42%, Poland 87%, Slovakia
+15%;
+Nuclear: Austria 0%, Czech Rep. 33%, Germany 23%, Poland 0%, Slovakia 54%;
+Renewables: Austria 67%, Czech Rep. 6%, Germany 16%, Poland 6%, Slovakia 19%;
+Gas: Austria 20%, Czech Rep. 5%, Germany 14%, Poland 4%, Slovakia 9%;
+Other: Austria 8%, Czech Rep. 1%, Germany 5%, Poland 3%, Slovakia 3%;
+See European Commission, DG Energy, Country fiches - EU 27 Member States, at:
+http://ec.europa.eu/energy/observatory/countries/countries_en htm (consulted on 11 March 2013)
+8 In power markets, the supply curve is called the “merit order curve” and goes from the least to the most
+expensive technology taking account only of the marginal variable costs (mostly fuel costs): wind,
+hydro, nuclear, lignite, coal, natural gas, and gas turbines units.
+9 This implies different production costs (and power prices) across these countries. This was also pointed
+out by CEZ during the proceedings: "The Czech Republic is a net exporting country due to excess
+capacity and favorable variable cost. As a result, the forward price and the average spot price tend to
+be lower than the prices in neighboring markets." See CEZ, reply to the request for information
+pursuant to Article 18 of Regulation (EC) No 1/2003, 22 August 2011 (p. 10).
+10 The only exception was the interconnection with Slovakia since the introduction of market coupling in
+2009.
+Nevertheless, the prices for Slovak futures products traded in 2012 on the Power Exchange Central
+Europe tended to be marginally higher than the prices for the equivalent Czech products. It should also
+be noted that the Czech Republic has been for many years a net exporter in relation to Slovakia and that
+the actual imports from Slovakia remained relatively limited. This provides an indication that these
+markets remain distinct.
+11 Decision S492/2011/KS - CEZ/Energotrans of 20 June 2012.
+
+EN 6 EN
+
+4.2. Position of the parties on the relevant market / Dominant position
+(14) In the preliminary assessment, the Commission took the preliminary view that CEZ
+was, during the relevant period (2007 – 2012), most likely dominant on the market
+for the generation and wholesale supply of electricity in the Czech Republic. This
+view was based on (a) the structure of the Czech wholesale electricity market, (b)
+CEZ's vertical integration and control over certain types of electricity generation and
+(c) high barriers to entry.
+(15) CEZ is the largest electricity producer in the Czech Republic in terms of effective
+generation12. Currently, CEZ has few competitors, and their shares of the market
+remain limited13.
+
+12 CEZ is also the biggest electricity producer in the Czech Republic in terms of installed capacity. Its
+share in installed capacity in the Czech Republic was consistently above 60% over the period 2006-11.
+13 The 2010 individual shares of CEZ's largest competitors, Sokolovská Uhelná and Energetický a
+pr•myslový holding, were [0-5]% and [5-10]% respectively.
+
+EN 7 EN
+
+Table 1: Share of CEZ on the Czech generation and wholesale supply market, 2006-201114
+
+Year
+TWh
+2006 2007 2008 2009 2010 2011
+Net generation15 [50-60] [60-70] [50-60] [50-60] [50-60] [50-60]
+Imports16 [0-5] [0-5] [0-5] [0-5] [0-5] [0-5] CEZ
+Net generation +
+[50-60] [60-70] [50-60] [50-60] [50-60] [50-60]
+imports
+Net generation17 77.9 81.4 77.1 76.0 79.5 81.0
+Imports18 11.5 10.2 8.5 8.6 6.6 10.5 Czech Republic
+Net generation +
+89.3 91.6 85.6 84.6 86.1 91.5
+imports
+
+CEZ's share (%) [60-70] [60-70] [60-70] [60-70] [60-70] [60-70]
+
+(16) CEZ is a vertically integrated utility which, besides electricity generation, is present
+in a number of areas of the electricity and lignite sectors in the Czech Republic
+(lignite mining and trading, electricity distribution, trading and supply). CEZ enjoys
+unparalleled access to the cheapest sources of generation, nuclear and lignite: CEZ
+has exclusive access to nuclear power, and controls large parts19 of available lignite
+deposits. The company also controls the largest distribution system operator.
+(17) According to the Commission's preliminary findings, entering the Czech electricity
+generation and wholesale supply market remains difficult. Given the structure of the
+
+14 This includes the electricity generated in and imported into the relevant geographic area through
+interconnectors.
+15 See CEZ, reply to request for information pursuant to Article 18 of Regulation (EC) No 1/2003 of 22
+August 2011 (p. 4) and CEZ, submission of 6 March 2013 (p. 1).
+16 See CEZ, reply request for information pursuant to Article 18 of Regulation (EC) No 1/2003 of 22
+August 2011 (p. 9) and CEZ, submission of 6 March 2013 (p. 1).
+17 See 2011 annual report of the Czech Energy Regulatory Office (p. 7), at:
+http://www.eru.cz/user_data/files/statistika_elektro/rocni_zprava/2011/Rocni_zprava_ES_CR_FINAL.p
+df
+18 See 2011 annual report of the Czech Energy Regulatory Office (p. 4), 2010 annual report of the Czech
+Energy Regulatory Office, 2008 annual report of the Czech Energy Regulatory Office and 2006 annual
+report of the Czech Energy Regulatory Office, at:
+http://www.eru.cz/user_data/files/statistika_elektro/rocni_zprava/2011/Rocni_zprava_ES_CR_FINAL.p
+df
+http://eru.cz/user_data/files/statistika_elektro/rocni_zprava/201
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+k between the buyer, in its capacity as
+heat generator, and CEZ, acting as operator of the heating network. The handover
+point for heat delivery shall be the interface between the respective power plant and
+the heating distribution system located at the edge of the power plant. CEZ also
+explained that the price of the supplied heat (which includes the heating network
+costs) is controlled by the Energy Regulatory Office.
+(68) One respondent pointed out that the Chvaletice power plant has been primarily used
+by CEZ to supply ancillary services. However, for 2013-2014, CEZ chose not to bid
+for ancillary services. As a result, the Chvaletice power plant is expected to produce
+less electricity than in previous years.
+(69) In reply to this observation, CEZ explained36 that bidding for ancillary services was
+not possible for the Chvaletice power plant since the power plant has not secured
+sufficient lignite supplies beyond the end of 2012. It will be for the buyer to secure
+sufficient lignite supplies. Nevertheless, given that the ancillary services are
+allocated by the Czech TSO in three time horizons (for two calendar years, for one
+calendar year, and within a year), the buyer will have the opportunity to bid for
+ancillary services requested by the TSO in the course of the years 2013/2014. In
+addition, it is likely that the Czech TSO will request such services also under the
+short term allocation scheme in which the buyer will be able to participate.
+(70) One respondent noted that in the period 2014-2018, the Pocerady power plant may
+be subject to output limitations by the Czech TSO due to limited transmission
+capacity unless CEZ commits to correspondingly curtail the output of its other power
+plants connected to the same substation in the transmission network.
+(71) In view of this comment, CEZ amended37 its proposed commitments by accepting
+that any possible transmission network constraints should be borne only by CEZ,
+thereby ensuring that the Pocerady power plant can be operated without grid access
+limitations38.
+
+34 See for modifications pages 25 and 29 of the commitments.
+35 See for modifications pages 21 and 25 of the commitments.
+36 See CEZ, submission of 18 September 2012 (p. 4)
+37 See for modifications page 18 of the commitments.
+38 Provided that the buyer will carry out the existing schedule of ecological upgrade of the Pocerady
+power plant. That schedule foresees a technological outage of 4 months for two of the generating units
+in Pocerady.
+
+EN 16 EN
+
+(72) It was further noted by one respondent that CEZ retains the control over water supply
+and water treatment facilities for the Pocerady power plant. The respondent
+suggested clarifying in the commitments that CEZ shall commit to transfer the
+required water supply facilities, including relevant water pipes, as well as the water
+treatment and processing facilities.
+(73) With regard to this comment, CEZ explained that the lignite-fired and the gas-fired
+power plant at the Pocerady site will share the water supply and treatment facilities.
+CEZ modified39 its proposed commitments to foresee that a contract would be
+entered into under which CEZ would retain the ownership of the water treatment
+facilities and the buyer of the Pocerady power plant would be entitled to source raw
+water in sufficient volumes for the unconstrained operation of the plant and at the
+price at which it is purchased from the original supplier; the water treatment and
+processing services would be provided on a cost plus basis.
+(74) Overall, therefore, the observations received did not allow the Commission to
+identify new competition concerns and contained no points such as to make the
+Commission reconsider the concerns it expressed in the preliminary assessment.
+However, the replies to the market test raised some doubts as to the suitability of the
+Detmarovice power plant to meet the identified competition concerns. In order to
+take account of the results of the market test, CEZ removed the Detmarovice power
+plant from the list of proposed commitments.
+(75) The proposed divestiture of any of the three remaining generation assets would
+enable a new credible market entry on the scale corresponding to the size of a project
+which could have been pursued by a competitor of CEZ. Hence, they represent a
+suitable remedy to the competition concerns identified in the preliminary assessment.
+(76) The Commission therefore maintains the position that it took in the notice pursuant
+to Article 27(4) of Regulation (EC) No 1/2003, namely that the commitments are
+adequate to meet the competition concerns expressed in the preliminary assessment.
+(77) CEZ submitted the final version of the commitments on 6 March 2013. In addition to
+removing the Detmarovice power plant (see recitals (52) - (56)), CEZ introduced
+additional modifications (see recitals (63) - (73)) in order to take account of the
+suggested partial adjustments and/or clarifications of the commitments received in
+accordance with the notice pursuant to Article 27(4) of Regulation (EC) No 1/2003
+and accepted by the Commission (see recitals (63) - (73)).
+
+7. PROPORTIONALITY OF THE AMENDED COMMITMENTS
+(78) According to settled case law the principle of proportionality requires that the
+measures adopted by Community institutions must not exceed what is appropriate
+and necessary for attaining the objective pursued.40 When there is a choice between
+several appropriate measures, recourse must be had to the least onerous, and the
+disadvantages caused must not be disproportionate to the aims pursued.41
+
+39 See for modifications page 18 of the commitments.
+40 Case T-260/94 Air Inter v Commission [1997] ECR II-997, paragraph 144, and Case T-65/98 [2003]
+ECR II – 4653 Van den Bergh Foods v Commission, paragraph 201.
+41 Case 265/87 Schräder [1989] ECR 2237, paragraph 21, and Case C-174/05 Zuid-Hollandse
+Milieufederatie and Natuur en Milieu [2006] ECR I – 2243, paragraph 28. For the application of the
+
+EN 17 EN
+
+(79) The commitments in their final form allay the Commission's competition concerns
+expressed in the preliminary assessment. Given that the conduct which gave rise to
+the Commission's concerns consisted of pre-emptive booking of transmission
+capacity which in turn effectively prevented new entry into the Czech electricity
+market, transfer of some of CEZ's generation capacity to a competitor represents a
+clear-cut solution to the identified competition concerns. Transfer of generation
+capacity is necessary in this case as no other type of remedy can address the effects
+of CEZ's conduct.
+(80) The divestiture of approximately 800 – 1 000 MW of generation capacity constitutes
+a structural remedy which has been offered by CEZ on a voluntary basis in the
+context of a procedure according to Article 9 of Regulation (EC) No 1/2003 to
+address the concerns of the Commission on the Czech market for generation and
+wholesale supply of electricity. The public consultation according to Article 27 (4) of
+Regulation (EC) No 1/2003 has confirmed that the commitments offered by CEZ
+were sufficient to address the Commission’s concerns without imposing
+disproportionate conditions on either CEZ or third parties.
+(81) The commitments in their final form are sufficient to address the concerns identified
+by the Commission in its preliminary assessment without being disproportionate.
+(82) The remaining elements of the commitments are transitional and ancillary to the
+main commitments. These include the preservation of the viability of the business to
+be divested, the hold-separate obligations, and the provisions on ring-fencing, nonsolicitation, due diligence and reporting as well as the role conferred upon the
+Trustee. These provisions are necessary to ensure the implementation of the
+commitments offered by CEZ. They are also proportionate. Finally, they reflect the
+standard practice of the Commission in case of divestiture remedies in merger
+proceedings according to the Commission notice on remedies acceptable under
+Council Regulation (EEC) No 4064/89 and under Commission Regulation (EC) No
+447/98.42
+
+8. CONCLUSION
+(83) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes the commitments proposed by the undertaking concerned
+binding upon it. Recital 13 of the Preamble to the Regulation (EC) No 1/2003 states
+that such a decision should not conclude whether or not there has been or still is an
+infringement. The Commission’s assessment of whether the commitments offered
+are sufficient to meet its concerns is based on its preliminary assessment,
+representing the preliminary view of the Commission based on the underlying
+investigation and analysis, and the observations received from third parties following
+the publication of a notice pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+(84) In the light of the commitments offered, the Commission considers that there are no
+longer grounds for action on its part and, without prejudice to Article 9(2) of
+
+principle of proportionality specifically to Commission decisions adopted under Article 9 of the
+Regulation (EC) 1/2003, see Case C-441/07 P European Commission v Alrosa Company Ltd [2010]
+ECR I – 5949, paragraphs 38-41 and 46-50.
+42 OJ C 267, 22.10.2008, p. 1–27
+
+EN 18 EN
+
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+(85) The Commission retains full discretion to investigate and to open proceedings under
+Article 102 of the Treaty and Article 54 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision.
+
+EN 19 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The commitments as listed in the Annex shall be binding on CEZ, a.s.
+
+Article 2
+It is hereby concluded that there are no longer grounds for action.
+
+Article 3
+This Decision is addressed to:
+CEZ, a.s.
+Duhová 2/1444
+Praha 4
+140 53
+Czech Republic
+Done at Brussels,
+
+For the Commission
+Joaquín ALMUNIA
+Vice-President
+
+EN 20 EN
+
+ANNEX
+THE COMMITMENTS
+
+EN 21 EN

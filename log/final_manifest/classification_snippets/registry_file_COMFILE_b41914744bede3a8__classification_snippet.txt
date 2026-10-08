@@ -1,0 +1,638 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 23 Januar 2008
+
+notifiziert unter der Dokumentennummer C(2008)282 final
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+Sache COMP/38.628 - Nitril-Butadien-Kautschuk
+
+(NUR DER DEUTSCHE UND DER ENGLISCHE TEXT SIND VERBINDLICH)
+
+(Text von Bedeutung für den EWR)
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. Einleitung................................................................................................................. 6
+
+1.1. Adressaten................................................................................................................ 6
+
+1.2. Zusammenfassung der Zuwiderhandlung.................................................................. 6
+
+2. Der von dem Verfahren betroffene Wirtschaftszweig ............................................... 6
+
+2.1. Das Produkt ............................................................................................................. 6
+
+2.2. Die Marktteilnehmer ................................................................................................ 7
+
+2.2.1. Die von dem Verfahren betroffenen Unternehmen.................................................... 7
+
+2.2.2. Sonstige Anbieter..................................................................................................... 8
+
+2.3. Beschreibung des Wirtschaftszweigs........................................................................ 8
+
+2.3.1. Marktwert und -volumen.......................................................................................... 8
+
+2.3.2. Räumliche Ausdehnung des Marktes........................................................................ 8
+
+2.4. Handel zwischen den Mitgliedstaaten....................................................................... 8
+
+3. Verfahren................................................................................................................. 9
+
+3.1. Die Untersuchung der Kommission.......................................................................... 9
+
+3.2. Mitteilung der Beschwerdepunkte und Anhörung................................................... 10
+
+3.3. Untersuchungen und Verfahren in anderen Ländern ............................................... 10
+
+4. Sachverhalt ............................................................................................................ 11
+
+4.1. Grundzüge des Kartells .......................................................................................... 11
+
+4.1.2. Die verschiedenen Beteiligten und ihre jeweiligen Positionen in den Unternehmen 11
+
+4.2. Die Geschichte des Kartells.................................................................................... 11
+
+5. Anwendung von Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-
+Abkommen ............................................................................................................ 11
+
+5.1. Verhältnis von EG-Vertrag und EWR-Abkommen................................................. 11
+
+5.2. Gerichtliche Zuständigkeit...................................................................................... 11
+
+5.3. Anwendung der Wettbewerbsregeln ....................................................................... 12
+
+DE 2 DE
+
+5.3.1. Vereinbarungen und abgestimmte Verhaltensweisen: allgemeine Prinzipien........... 12
+
+5.3.2. Anwendung im vorliegenden Fall........................................................................... 14
+
+5.3.3. Eine einzige fortdauernde Zuwiderhandlung........................................................... 19
+
+5.3.4. Einschränkung oder Verfälschung des Wettbewerbs............................................... 21
+
+5.3.5. Auswirkung auf den Handel zwischen Mitgliedstaaten und zwischen EWR-
+Vertragsparteien..................................................................................................... 22
+
+6. Adressaten dieser Entscheidung und Dauer der Zuwiderhandlung ......................... 23
+
+6.1.1. Adressaten.............................................................................................................. 23
+
+6.1.2. Dauer der Zuwiderhandlung ................................................................................... 25
+
+7. Abhilfemaßnahmen................................................................................................ 25
+
+7.1. Artikel 7 der Verordnung (EG) Nr. 1/2003............................................................. 25
+
+7.2. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003............................................. 26
+
+7.3. Grundbetrag der Geldbuße ..................................................................................... 26
+
+7.3.1 Methodik................................................................................................................ 26
+
+7.3.2 Der Wert der verkauften Waren oder Dienstleistungen ........................................... 26
+
+7.3.3 Schwere der Zuwiderhandlung ............................................................................... 27
+
+7.3.4 Der auf den Umsatzanteil anzuwendende Prozentsatz............................................ 28
+
+7.3.5 Dauer ..................................................................................................................... 28
+
+7.3.6 Der auf den Zusatzbetrag anzuwendende Prozentsatz............................................. 28
+
+7.3.7 Berechnung des Grundbetrags und Schlussfolgerungen.......................................... 29
+
+7.4. Anpassung des Grundbetrags.................................................................................. 29
+
+7.4.1 Erschwerende Umstände ........................................................................................ 29
+
+7.4.2 Mildernde Umstände .............................................................................................. 29
+
+7.4.3 Abschreckung ........................................................................................................ 30
+
+7.4.4 Schlussfolgerungen zu den Grundbeträgen ............................................................. 30
+
+7.5. Anwendung der Umsatzobergrenze von 10 % ........................................................ 30
+
+7.6. Anwendung der Kronzeugenregelung..................................................................... 31
+
+7.6.1 Bayer ..................................................................................................................... 31
+
+7.6.2 Zeon....................................................................................................................... 32
+
+DE 3 DE
+
+7.6.3 Schlussfolgerung zur Anwendung der Kronzeugenregelung ................................... 33
+
+7.7. Höhe der in dieser Entscheidung zu verhängenden Geldbußen .............................. 33
+
+DE 4 DE
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 23 Januar 2008
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+Sache COMP/38.628 - Nitril-Butadien-Kautschuk
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN -
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 EG-Vertrag niedergelegten Wettbewerbsregeln,
+insbesondere auf Artikel 7 und Artikel 23 Absatz 2,
+
+gestützt auf den Beschluss der Kommission vom 4. Mai 2007, in dieser Sache ein Verfahren
+einzuleiten,
+
+nachdem den beteiligten Unternehmen gemäß Artikel 27 Absatz 1 der Verordnung (EG) Nr.
+1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission vom
+7. April 2004 über die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82
+EG-Vertrag durch die Kommission1 Gelegenheit gegeben wurde, sich zu den
+Beschwerdepunkten der Kommission zu äußern,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen2,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten in dieser Sache3,
+
+in Erwägung nachstehender Gründe:
+
+1 ABl. L 123 vom 27.4.2004, S. 18. Geändert durch Verordnung (EG) Nr. 1792/2006 (ABl. L 362 vom
+20.12.2006, S. 1).
+2 ABl. C 86 vom 15.4.2009, S. 3 und 4.
+3 ABl. C 86 vom 15.4.2009, S. 5 und 6.
+
+DE 5 DE
+
+1. EINLEITUNG
+
+1.1. Adressaten
+
+1. Die Kommission leitete gegen folgende Gesellschaften ein Verfahren wegen
+Verletzung des Artikels 81 EG-Vertrag und des Artikels 53 des EWR-Abkommen ein:
+
+– Bayer AG
+
+– Zeon Europe GmbH
+
+– Zeon Chemicals Europe Ltd.
+
+– Zeon Corporation
+
+1.2. Zusammenfassung der Zuwiderhandlung
+
+2. Die Adressaten der vorliegenden Entscheidung waren an einer einzigen komplexen
+und fortdauernden Zuwiderhandlung gegen Artikel 81 EG-Vertrag und Artikel 53
+EWR-Abkommen mit dem gemeinsamen Ziel beteiligt, den Wettbewerb auf dem
+Markt für Acrylnitril-Butadien-Kautschuk (nachstehend „NBR“) im Europäischen
+Wirtschaftsraum insbesondere durch die gegenseitige Versicherung ihrer
+Preisabsichten, die Koordinierung einer gleichzeitigen Preiserhöhung und den
+Austausch von Informationen über Preisstrategien, Kapazitäts- und Auslastungsgrade
+zu verzerren. Die Zuwiderhandlung, die Gegenstand dieser Entscheidung ist, dauerte
+mindestens vom 9. Oktober 2000 und bis 30. September 2002.
+
+2. DER VON DEM VERFAHREN BETROFFENE WIRTSCHAFTSZWEIG
+
+2.1. Das Produkt
+
+3. NBR ist ein synthetischer Kautschuk, der durch Copolymerisation von Acrylnitril und
+Butadien gewonnen wird. Unter der Bezeichnung NBR sind verschiedene
+Zusammensetzungen zusammengefasst, die sich hinsichtlich ihrer jeweiligen
+Acrylnitrilanteile, Mooney-Werte und Polymerisationsgrade voneinander
+unterscheiden. Aufgrund seiner Öl- und Kraftstoffbeständigkeit und sonstigen guten
+physikalischen Eigenschaften sowie des großen thermischen Anwendungsbereichs ist
+NBR ein vielfältig verwendbarer Kautschuk. NBR wird vor allem in der
+Automobilindustrie für Tank- und Mineralölschläuche, Dichtungen, Dichtungsringe
+und für Wasserbehandlungsanlagen verwendet. Außerdem dient er zur Herstellung
+von Rollabdeckungen, Wasserschläuchen, Fließbändern und Dichtungen aller Art.
+NBR lässt sich mit PVC zu NBR/PVC-Verschnitten mischen.
+
+DE 6 DE
+
+2.2. Die Marktteilnehmer
+
+2.2.1. Die von dem Verfahren betroffenen Unternehmen
+
+4. Im letzten Jahr der in dieser Entscheidung beschriebenen Zuwiderhandlung, in 2002,
+wurde der NBR-Markt im Europäischen Wirtschaftsraum von drei Unternehmen,
+Bayer, Zeon und [einem weiteren Wettbewerber] dominiert. Die vorliegende
+Entscheidung ist an zwei dieser drei Unternehmen, nämlich Bayer und Zeon, gerichtet.
+
+2.2.1.1. Bayer
+
+5. Der in Leverkusen ansässige Chemiekonzern Bayer AG (nachstehend „Bayer“)
+produziert eine große Bandbreite von Chemikalien, Kunststoffen, Arzneimitteln und
+anderen Erzeugnissen. Bis zum 31. Dezember 2002 war er in verschiedene
+Arbeitsgebiete gegliedert, die in mehrere Geschäftsbereiche und diese wiederum in
+Geschäftsfelder unterteilt waren. NBR war angesiedelt im Arbeitsgebiet Polymere,
+Geschäftsbereich Kautschuk („GB KA“), Geschäftsfeld Festkautschuk.
+
+6. Am 30. September 2004 wurden die NBR-Tätigkeiten von Bayer einem neuen
+Unternehmen mit Namen Lanxness Deutschland GmbH übertragen. Die Lanxness
+Deutschland GmbH war bis zu ihrem Börsengang am 28. Januar 2005 unter dem
+Namen Lanxness AG eine 100%ige Tochtergesellschaft von Bayer. Die Lanxness AG
+ist von diesem Verfahren nicht betroffen.
+
+7. Bayer lässt NBR in La Wantzenau, Frankreich, und in Sarnia, Canada, fertigen. In
+Leverkusen wird seit 2002 kein NBR mehr produziert.
+
+8. Der weltweite Gesamtumsatz von Bayer belief sich im Jahr 2001 auf
+30 275 Mio. EUR und auf 28 956 Mio. EUR im Jahr 2006. Im gleichen Jahr belief
+sich der Umsatz, den Bayer im EWR mit NBR erzielte, auf 52,4 Mio. EUR.
+
+9. NBR wird von Bayer unter den Markenbezeichnungen Peruban und Krynac
+vertrieben.
+
+2.2.1.2. Zeon
+
+10. Das Unternehmen Zeon Corporation mit Firmensitz in Japan ist in Europa durch zwei
+Haupttochtergesellschaften vertreten: Die Zeon Europe GmbH mit Sitz in Düsseldorf
+und Zeon Chemicals Europa Ltd. im Vereinigten Königreich (die drei Unternehmen
+werden nachstehend „Zeon“ genannt). Zeon Chemicals Europe Ltd. ist eine 100%ige
+Tochtergesellschaft von Zeon Corporation. 18,5% der Anteile an der Zeon Europe
+GmbH befinden sich in Besitz von Zeon Chemicals Europe Ltd., die übrigen 81,5%
+gehören Zeon Corporation.
+
+11. Zeons Produktionsstandort für NBR ist Barry im Vereinigten Königreich.
+
+DE 7 DE
+
+12. Der weltweite Gesamtumsatz der Zeon-Gruppe belief sich im Jahr 2001 auf
+1 749 Mio. EUR und auf 1 928 Mio. EUR im Jahr 2006. Im gleichen Jahr belief sich
+der Umsatz, den Zeon im EWR mit NBR erzielte, auf 27,993 Mio. EUR.
+
+2.2.2. Sonstige Anbieter
+
+13. Neben den Adressaten dieser Entscheidung und [einem weiteren Wettbewerber], die
+die wichtigsten NBR-Lieferanten im EWR sind, gibt es mehrere andere
+Marktteilnehmer, die den EWR-Markt mit begrenzten Mengen an NBR beliefern.
+Diese Hersteller mit Sitz in den Vereinigten Staaten, Südamerika bzw. Asien sind von
+dem Verfahren in dieser Sache nicht betroffen.
+
+2.3. Beschreibung des Wirtschaftszweigs
+
+2.3.1. Marktwert und -volumen
+
+14. Den Schätzungen von Bayer zufolge belief sich der NBR-Markt 2001 weltweit auf
+308 500 t und in Europa auf rund 78 000 t.
+
+15. Ausgehend von den Umsätzen, die Bayer und Zeon mit NBR im EWR erzielten,
+sowie den Schätzungen ihrer eigenen Marktanteile und der ihrer Wettbewerber (die
+vertraulich sind), schätzt die Kommission, dass sich der Gesamtwert der NBR-
+Verkäufe im EWR 2001 auf 145,3 Mio.EUR belief. Die Kommission schätzt die
+entsprechenden NBR-Marktanteile von Bayer, Zeon und ihren Wettbewerbern im
+EWR wie folgt:
+
+Bayer 36,06 %
+
+Zeon 19,27 %
+
+andere 44,67 %.
+
+2.3.2. Räumliche Ausdehnung des Marktes
+
+16. Der NBR-Markt hat weltweite Ausmaße. Die wichtigsten Lieferanten sind in allen
+Hauptwirtschaftsregionen der Welt präsent und operieren weltweit.
+
+2.4. Handel zwischen den Mitgliedstaaten
+
+17. Die europäische NBR-Produktion konzentriert sich auf einige wenige Standorte. Wie
+bereits erwähnt befinden sich die NBR-Produktionsstätten von Zeon im Vereinigten
+Königreich (Barry) und die von Bayer in Frankreich (La Wantzenau).
+
+18. Der EWR-Markt wird von diesen wenigen Produktionsstandorten und durch
+Einfuhren von außerhalb des EWR versorgt. Insbesondere wurden NBR-Abnehmer in
+den fünfzehn Mitgliedstaaten in den Jahren 2000-2002 von Bayer beliefert. Die
+Hauptabnehmer von Zeon befanden sich in 8-9 Mitgliedstaaten, geringere Mengen
+von NBR wurden dennoch in 14 Mitgliedstaaten geliefert. Der NBR-Markt war also in
+
+DE 8 DE
+
+dem für diese Entscheidung maßgeblichen Zeitraum durch erhebliche Handelsströme
+zwischen den Mitgliedstaaten gekennzeichnet. Beide Unternehmen verkauften NBR
+auch nach Norwegen, d.h. in eine Vertragspartei des EWR-Abkommens.
+
+19. Auf dem NBR-Markt ist folglich ein beträchtliches Handelsvolumen zwischen den
+EU-Mitgliedstaaten und den Vertragsparteien des EWR-Abkommens zu verzeichnen.
+
+3. VERFAHREN
+
+3.1. Die Untersuchung der Kommission
+
+20. (.
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+kann sie die Geldbuße gegen Unternehmen erhöhen, die besonders
+hohe Umsätze mit Waren oder Dienstleistungen, die nicht mit der Zuwiderhandlung in
+Zusammenhang stehen, erzielt haben“.
+
+185. Der weltweite Gesamtumsatz der Zeon-Gruppe belief sich im Jahr 2006 auf
+1 928 Mio. EUR. Auf die gegen Zeon zu verhängende Geldbuße wird kein
+Multiplikator angewandt.
+
+186. Der weltweite Gesamtumsatz von Bayer belief sich im Jahr 2006 auf 28 956 Mio.
+EUR. Bayer hat besonders hohe Umsätze mit Waren oder Dienstleistungen, die nicht
+mit der Zuwiderhandlung im Zusammenhang stehen, erzielt. Um zu gewährleisten,
+dass die Geldbuße eine hinreichend abschreckende Wirkung entfaltet, sollte unter
+Berücksichtigung der Umstände des Falles auf die gegen Bayer zu verhängende
+Geldbuße ein Multiplikator von 1,1 angewandt werden.
+
+7.4.4 Schlussfolgerungen zu den Grundbeträgen
+
+187. Der angepasste Grundbetrag der gegen Bayer zu verhängenden Geldbuße sollte wie
+folgt berechnet werden:
+
+Umsatzanteil: = 16 768 000 EUR
+
+Zusatzbetrag: = 8 384 000 EUR
+
+Angepasster Grundbetrag insgesamt: = 41 250 000 EUR
+
+188. Dangepasste Grundbetrag der gegen Zeon zu verhängenden Geldbuße sollte mit dem
+Grundbetrag übereinstimmen.
+
+7.5. Anwendung der Umsatzobergrenze von 10 %
+
+189. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 lautet: „Die Geldbuße für jedes
+an der Zuwiderhandlung beteiligte Unternehmen oder jede beteiligte
+Unternehmensvereinigung darf 10 % seines bzw. ihres jeweiligen im
+vorausgegangenen Geschäftsjahr erzielten Gesamtumsatzes nicht übersteigen.“
+
+190. Die angepassten Grundbeträge für die gegen Bayer und Zeon zu verhängenden
+Geldbußen betragen weniger als 10 % ihres jeweiligen Gesamtumsatzes im Jahr 2001
+(siehe Abschnitte 7.3.2 und 7.4.4). Es ist also nicht erforderlich, den Betrag der
+Geldbußen zu verringern, um der Anwendung derUmsatzobergrenze von 10 %
+Rechnung zu tragen.
+
+DE 30 DE
+
+7.6. Anwendung der Kronzeugenregelung
+
+191. Sowohl Bayer als auch Zeon beantragten die Anwendung der Kronzeugenregelung.
+Sie kooperierten in unterschiedlichen Ermittlungsphasen mit der Kommission, um in
+den Genuß der in der Kronzeugenregelung vorgesehenen Vorteile zu gelangen.
+
+7.6.1 Bayer
+
+192. (...), trat Bayer am 30. Januar 2003 an die Kommission heran und bekundete seinen
+Wunsch, mit der Kommission auf der Grundlage der Kronzeugenregelung
+zusammenzuarbeiten. (...)
+
+193. (...)
+
+194. (...) Die von Bayer vorgelegten Informationen waren für die Kommission (...) von
+Wert (...).
+
+195. Am 29. März 2007 wurde Bayer mitgeteilt, dass die Kommission die Absicht hat, dem
+Unternehmen gemäß der Kronzeugenregelung eine Ermäßigung der Geldbuße von
+30 % bis 50 % zu gewähren.
+
+196. Bayer war das erste Unternehmen, das die Anforderungen gemäß Ziffer 21 der
+Kronzeugenregelung erfüllte. (...) Die Kronzeugenregelung verlangt nicht, dass der
+Kronzeuge Beweise für die gesamte Zeit der Zuwiderhandlung vorlegt, um die
+Anforderungen für eine Ermäßigung der Geldbuße zu erfüllen. Der Umfang, in
+welchem jedoch die den Anforderungen gemäß Ziffer 21 der Kronzeugenregelung
+entsprechenden Beweismittel erheblichen Mehrwert beitragen, hängt, unter anderem,
+davon ab, ob sie sich auf die ganze Zuwiderhandlung beziehen oder lediglich auf
+bestimmte (begrentzte) Teile davon (siehe Ziffer 23 Buchstabe b der
+Kronzeugenregelung, die auf den "Umfang" des Mehrwerts verweist). (...)
+
+197. Daher sollte Bayer eine Ermäßigung der Geldbuße um 30% gewährt werden.
+
+198. (...)
+
+199. (...)
+
+200. (...)
+
+201. (...)
+
+202. (...)
+
+203. (...)
+
+204. (...)
+
+205. (...)
+
+DE 31 DE
+
+206. (...)
+
+207. (...) Gemäß Ziffer 23, letzter Unterabsatz, der Kronzeugenregelung gilt, dass falls
+ein Unternehmen Beweise für "der Kommission bis dahin unbekannte Sachverhalte"
+mit unmittelbarem Einfluss auf Schwere bzw. Dauer des mutmaßlichen Kartells
+vorlegt, die Kommission diese Faktoren bei der Festsetzung der Geldbuße gegen ein
+Unternehmen unberücksichtigt lässt.
+
+208. (...) Jedoch, (...), lieferte Bayer so wenige Beweismittel, dass sie zur Feststellung
+einer Zuwiderhandlung, oder bestimmter Sachverhalte, die die Dauer der
+Zuwiderhandlung unmittelbar beeinflussen würden, nicht ausreichend waren und eine
+Bestätigung durch (...) benötigt wurde. (...) Die Sachverhalte hinsichtlich des
+Zeitraums (...) konnten nur anhand der Zusammenlegung von Informationen, die von
+(...) vorgebracht wurden, ermittelt werden. Daher waren es die zusammengeführten
+Informationen, und nicht alleine Bayer's Vorbringen, die die Dauer des mutmaßlichen
+Kartells unmittelbar beeinflussten.
+
+209. (...)
+
+210. (...)
+
+7.6.2 Zeon
+
+211. Am 27. August 2003, d.h. 5 Monate nach der von der Kommission angeordneten
+Untersuchung in den Geschäftsräumen von Zeon Chemicals Europe Ltd. (am 27. und
+28. März 2003) und nachdem eine Drittpartei Angaben geliefert und Bayer einen
+Antrag auf Ermäßigung der Geldbuße gestellt hatte, traten die Rechtsvertreter von
+Zeon Corporation an die Kommission heran und erklärten, dass Zeon Corporation zu
+einer Zusammenarbeit mit der Kommission im Rahmen der Kronzeugenregelung
+bereit sei. (...).
+
+212. (...)
+
+213. (...) Aufgrund dieser Beweise konnte die Kommission die Dauer der
+Zuwiderhandlung auf den Zeitraum 2000—2001 ausdehnen und die fraglichen
+Sachverhalte rechtlich einwandfrei nachweisen.
+
+214. Am 29. März 2007 wurde Zeon mitgeteilt, dass die Kommission die Absicht hat, dem
+Unternehmen gemäß der Kronzeugenregelung eine Ermäßigung der Geldbuße von
+20 % bis 30 % zu gewähren.
+
+215. (...) Zeon hat daher einen erheblichen Mehrwert auf in Bezug auf den Zeitraum vor
+dem Treffen in Neapel beigetragen.
+
+216. Zeon war das zweite Unternehmen, das die Anforderungen gemäß Ziffer 21 der
+Kronzeugenregelung erfüllte. In seiner Erwiderung auf die Mitteilung der
+Beschwerdepunkte führt Zeon an, dass ihm aufgrund der Qualität seiner
+Informationen eine Ermäßigung um 30 % zustehe. (...)
+
+DE 32 DE
+
+217. Insgesamt, auch unter Berücksichtigung der Zeit, zu der sein Antrag auf Ermäßigung
+der Geldbuße einging, und des Umstandes, dass Zeon teilweiser Geldbußenerlass für
+einen wesentlichen Zeitraum, auf den sich seine Vorbringen bezogen, gewährt wird
+(siehe unten), sollte Zeon daher eine Ermäßigung der Geldbuße um 20 % gewährt
+werden.
+
+218. In seiner Erwiderung auf die Mitteilung der Beschwerdepunkte macht Zeon geltend,
+dass es (...) der Kronzeugenregelung Anspruch auf (...), da es der Kommission (...)
+geliefert hatte, (...).
+
+219. (...)
+
+220. Unter Berücksichtigung der vorgenannten Umstände sollte Zeon (...)
+
+221. Der teilweise Geldbußenerlass führt dazu, dass Zeon der auf den Umsatzanteil
+bezogene Teil der Geldbuße ermäßigt wird. Der Zusatzbetrag sollte jedoch
+unverändert bleiben, da dieser Teil der Geldbuße nicht von der Dauer der
+Zuwiderhandlung abhängt.
+
+7.6.3 Schlussfolgerung zur Anwendung der Kronzeugenregelung
+
+222. Die gegen Bayer zu verhängende Geldbuße nach Anwendung der
+Kronzeugenregelung sollte wie folgt berechnet werden :
+
+Umsatzanteil: = 16 768 000 EUR
+
+Zusatzbetrag: = 8 384 000 EUR
+
+Geldbuße insgesamt = 28 870 000 EUR
+
+223. Die gegen Zeon zu verhängende Geldbuße nach Anwendung der
+Kronzeugenregelung sollte wie folgt berechnet werden:
+
+Umsatzanteil: = 2 239 440 EUR
+
+Zusatzbetrag: = 4 478 880 EUR
+
+Geldbuße insgesamt = 5 360 000 EUR
+
+7.7. Höhe der in dieser Entscheidung zu verhängenden Geldbußen
+
+224. Gemäß Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 werden folgende
+Geldbußen verhängt:
+
+- Bayer 28 870 000 EUR
+
+- Zeon 5 360 000 EUR
+
+DE 33 DE
+
+- Zeon Corporation 5 360 000 EUR
+
+davon gesamtschuldnerisch mit:
+
+- Zeon Europe GmbH 5 360 000 EUR
+
+- Zeon Chemicals Europe Ltd. 5 360 000 EUR
+
+DE 34 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen haben durch ihre Beteiligung an einer einzigen und
+fortdauernden Zuwiderhandlung, die den gesamten EWR betraf und in deren Rahmen sie
+Preiserhöhungen vereinbarten und koordinierten, einander ihre Absicht bekundeten, die
+Preiserhöhungen durchzuführen und Informationen über ihre Preispolitik auf dem Markt für
+Acrylnitril-Butadien-Kautschuk (NBR) austauschten, vom 9. Oktober 2000 bis zum
+30. September 2002 gegen Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+verstoßen:
+
+(a) Bayer AG;
+
+(b) Zeon Corporation;
+
+(c) Zeon Europe GmbH;
+
+(d) Zeon Chemicals Europe Ltd.
+
+Artikel 2
+
+Für die in Artikel 1 genannten Zuwiderhandlungen werden folgende Geldbußen festgesetzt:
+
+(a) Bayer AG: 28 870 000 EUR ;
+
+(b) Zeon Corporation, Zeon Europe GmbH und Zeon Chemicals Europe Ltd.
+Gesamtschuldnerisch haftbar: 5 360 000 EUR.
+
+Die Geldbußen sind binnen drei Monaten nach Zustellung dieser Entscheidung in Euro auf
+folgendes Konto einzuzahlen:
+
+Konto Nr.
+
+0050915991 der Europäischen Kommission bei:
+
+ING BANK N.V.
+Financial Plaza
+Bijlmerdreef, 109
+NL-1102 BW AMSTERDAM
+
+(CODE SWIFT: INGBNL2AXXX – Code IBAN: NL22INGB0050915991)
+
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Tag des Monats
+angewandt wird, in dem diese Entscheidung erlassen worden ist, zuzüglich 3,5 Prozentpunkte.
+
+DE 35 DE
+
+Artikel 3
+
+Die in Artikel 1 genannten Unternehmen stellen die in diesem Artikel genannten
+Zuwiderhandlungen unverzüglich ein, soweit dies nicht bereits geschehen ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 genannten Handlungen oder
+Verhaltensweisen sowie von allen Handlungen oder Verhaltensweisen ab, die denselben oder
+einen ähnlichen Zweck bzw. dieselbe oder eine ähnliche Wirkung haben.
+
+Artikel 4
+
+Diese Entscheidung ist gerichtet an:
+
+BAYER AG
+Kaiser-Wilhelm-Allee
+D-51368 Leverkusen
+Deutschland
+
+ZEON CORPORATION
+1-6-2, Marunouchi
+Chiyoda-ku, Tokyo
+100-8246 Japan
+
+ZEON CHEMICALS EUROPE LTD.
+Sully, Vale of Glamorgan
+CF64 5ZE
+United Kingdom
+
+ZEON EUROPE GMBH
+Niederkasseler Lohweg 177
+D-40547 Düsseldorf
+Deutschland
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag und Artikel 110
+EWR-Abkommen.
+
+Brüssel, den 23. Januar 2008
+
+Für die Kommission
+
+Neelie KROES
+Mitglied der Kommission
+
+DE 36 DE

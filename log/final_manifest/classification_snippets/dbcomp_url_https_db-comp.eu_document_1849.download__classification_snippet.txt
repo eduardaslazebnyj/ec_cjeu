@@ -1,0 +1,406 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+L 331/40 EN Official Journal of the European Communities 15.12.2001
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 25 July 2001
+
+relating to a proceeding under Article 82 of the EC Treaty
+
+(COMP/C-1/36.915 — Deutsche Post AG — Interception of cross-border mail)
+
+(notified under document number C(2001) 1934)
+
+(Only the German text is authentic)
+
+(Text with EEA relevance)
+
+(2001/892/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 17 of 6 February 1962, the first Regulation implementing Articles
+81 and 82 of the Treaty (1), as last amended by Regulation No 1216/1999 (2), and in particular Article 3
+and Article 15(2) thereof,
+
+Having regard to the complaint lodged by the British Post Office on 4 February 1998, alleging infringement
+of Article 82 of the Treaty by Deutsche Post and requesting the Commission to put an end to this
+infringement,
+
+Having regard to the Commission decision of 25 May 2000 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the objections
+raised by the Commission in accordance with Article 19(1) of Regulation No 17 and with Commission
+Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under
+Articles 85 and 86 of the EC Treaty (3),
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Whereas:
+
+I. FACTS
+
+A. The complainant
+
+(1) The British Post Office (BPO) is the public postal operator (PPO) in the UK (4). The BPO is primarily
+active in domestic and international letter and parcel delivery.
+
+(1) OJ 13, 21.2.1962, p. 204/62.
+(2) OJ L 148, 15.6.1999, p. 5.
+(3) OJ L 354, 30.12.1998, p. 18.
+(4) On 26 March 2001 the BPO changed its name to Consignia plc, which is a public limited company wholly owned
+by the UK Government. For the purposes of this Decision, however, the name ‘British Post Office (BPO)’ is retained.
+
+15.12.2001 EN Official Journal of the European Communities L 331/41
+
+B. The respondent
+
+(2) Deutsche Post AG (DPAG) is the PPO of Germany (5). In 1995 the former Deutsche Bundespost
+Postdienst was transformed into a state-owned limited company — DPAG. In the autumn of 2000
+the German State sold 33 % of its DPAG shares through an initial public offering (IPO). In 2000 the
+total turnover of the DPAG group of companies amounted to EUR 32,7 billion (EUR 22,4 billion in
+1999) (6). The mail division of DPAG is highly profitable (7). In 2000 the operating profit of the mail
+division amounted to approximately EUR 2 billion (compared with EUR 1 billion in 1999) (8). The
+total turnover of the mail division remained stable: EUR 11,73 billion in 2000, as against
+EUR 11,67 billion in 1999 (9). The operating profit of the entire DPAG group of companies was
+approximately EUR 2,38 billion in 2000 (10).
+
+C. The complaint
+
+(3) On 4 February 1998 the BPO filed a complaint against DPAG pursuant to Article 3 of Regulation No
+17. In the complaint it was alleged that, since 1996, the BPO had faced an increasing number of
+refusals from DPAG to distribute cross-border bulk mailings coming from the UK, unless the BPO
+paid a surcharge corresponding to the German domestic tariff minus terminal dues. The BPO
+maintains that the contested mailings constitute ordinary cross-border mail, whereas DPAG states
+that these mailings are so-called A-B-A remail (see section D below).
+
+(4) The BPO alleged that DPAG had repeatedly delayed the release of contested mailings even though the
+BPO had — in order to get the mail released — agreed to pay the difference between the terminal
+dues (see section D below) payable for delivering cross-border mail and the full domestic tariff. Since
+mailings of the contested type are often time-sensitive, additional delays harm the BPO and its
+customers commercially as well as financially. The BPO stated that DPAG's repeated refusal to deliver
+cross-border mailings unless a surcharge is paid, on the incorrect basis that these mailings are A-B-A
+remail, constitutes an abuse of a dominant position contrary to Article 82 of the EC Treaty.
+Moreover, the delayed release of intercepted mailings — despite the agreement of the BPO to meet
+DPAG's claims — allegedly constitutes another abuse of a dominant position.
+
+D. Factual and regulatory background
+
+The postal monopoly in Germany
+
+(5) The core activity of DPAG is the domestic collection, sorting and delivery of letter mail. DPAG is
+obliged by law to provide basic, uniform postal services at affordable prices all over Germany, the
+so-called universal service obligation (USO) (11). Certain postal services in Germany are subject to a
+statutory monopoly which has been granted to DPAG, whereas other services are performed by
+DPAG in competition with private operators (12). In addition, DPAG provides international mail
+services through bilateral or multilateral arrangements with other PPOs. The domestic tariffs in
+Germany are the highest in the Community (13).
+
+(5) The Deutsche Post group of companies now markets itself under the name Deutsche Post World Net. For the
+purposes of this Decision, the name Deutsche Post AG (DPAG) is used.
+(6) DPAG Annual Report 2000, published on 2 May 2001. For the purposes of this Decision, the Commission consistently uses the irrevocable conversion rate adopted by the Council on 31 December 1998 when converting German
+marks into euro even in cases where the particular amount concerned a period of time prior to that date.
+(7) The Mail Division of DPAG comprises the business divisions Mail Communication (letters, packages and parcels
+except express), Direct Marketing and Press Distribution. DPAG Annual Report 2000.
+(8) Profit from operative activities before amortisation and goodwill (EBITA). DPAG Annual Report 2000.
+(9) DPAG Annual Report 2000.
+(10) Profit from operative activities before amortisation and goodwill (EBITA). DPAG Annual Report 2000.
+(11) Postal Act (Postgesetz) of 22 December 1997, Bundesgesetzblatt 1997, Part I, No 88, 30 December 1997.
+(12) Section 51 of the Postal Act.
+(13) See Tarifvergleich Briefpost — Inlandstarife bis 20 g, June 1999, Referat 212, Regulierungsbehörde für Telekommunikation und Post (RegTP — the national regulatory authority in Germany). The present domestic tariff for a first class
+letter in the first weight step is EUR 0,56 (DEM 1,10).
+
+L 331/42 EN Official Journal of the European Communities 15.12.2001
+
+(6) The postal monopoly granted to DPAG comprises the collection, forwarding and delivery of
+domestic mail, the forwarding and delivery of incoming cross-border mail and the collection and
+forwarding of outgoing cross-border mail. All letters and addressed catalogues weighing less than
+200 grams whose postage does not exceed five times the corresponding tariff in the lowest weight
+step are subject to the monopoly. However, the monopoly does not cover bulk mailings (comprising
+at least 50 items with identical content where each item weighs more than 50 grams) or certain
+value-added services (14). DPAG's exclusive licence expires on 31 December 2002 (15).
+
+(7) The total turnover of the overall German market for letter mail (including domestic mail and
+cross-border mail) has been estimated at EUR 9,7 billion in 1998, of which some EUR 2,6 billion
+was formally open to competition (i.e. fell outside the reserved area). However, the approximately
+250 licensees which, in addition to DPAG, were active on the German letter market in that year
+accounted for only a fraction of that amount — EUR 55 million, i.e. 2 % of the market segment
+theoretically open to competition (16). This figure is confirmed by the national regulatory authority
+(NRA) in Germany, which has estimated the market shares of DPAG on this market at 99,2 % in
+1998 and 98,7 % in 1999 (17).
+
+Cross-border letter mail
+
+(8) The system by which postal administrations compensate each other for the delivery of cross-border
+mail on each others behalf is known as the terminal dues system. Under this arrangement, the
+receiving PPO is remunerated for the delivery of cross-border mail by the sending PPO. These
+delivery charges are called terminal dues (18).
+
+(9) The collection and forwarding of outgoing cross-border letter mail has been de jure or de facto
+liberalised in most EU Member States. Although competitors have entered this market in a number
+of Member States, the PPOs still dominate their home markets (19). The liberalisation of outgoing
+cross-border letter mail has facilitated the provision of remail services. DPAG has — in contrast to
+most other Community PPOs — taken a tough stance against postal operators providing outgoing
+cross-border letter mail services in Germany. DPAG has taken these operators to court and has
+obtained German court rulings stating that companies offering outward cross-border letter mail
+services infringe the German postal monopoly. Competing operators have been ordered by the
+courts to cease offering these services (20).
+
+(10) As regards the market for the forwarding and delivery of incoming cross-border letter mail, the
+situation is quite different. In all Member States practically all incoming letter mail is handled by the
+incumbent PPOs (21). Directive 97/67/EC of the European Parliament and of the Council of 15
+December 1997 on common rules for the development of the internal market of Community postal
+services and the improvement of quality of service (the Postal Directive) — which entered into force
+in 1998 — opened only a fraction of this market to competition (22).
+
+(14) DPAG's monopoly was reduced as of 1 January 1998 when the monopoly threshold for identical bulk mailings was
+reduced from 100 grams to 50 grams. Section 51(4) of the Postal Act exempts certain value-added services from the
+postal monopoly.
+(15) Section 47 of the Postal Act provides that RegTP shall, every two years, present a report to the legislative bodies of
+Germany. Inter alia, the report shall include RegTPs observations on the possible necessity of maintaining the exclusive licence under Section 51 beyond the date set forth therein (i.e. 31 December 2002).
+(16) KEP Nachrichten, No 51/17, December 1999 (document 1146 in the Commission file).
+(17) Mid-2000 Report of RegTP, p. 62, as published on its website (www.regtp.de).
+(18) See Commission Decision 1999/695/EC REIMS II, Case COMP/36.748 (OJ L 275, 26.10.1999, p. 17). The REIMS II
+agreement entered into force on 1 April 1999. The Commission has adopted a decision pursuant to Article 81(3) of
+the Treaty which exempts the agreement until 31 December 2001. The PPOs of all Member States except TPG of
+the Netherlands are signatories to this agreement, in which terminal dues are expressed as a percentage of domestic
+tariffs in the receiving country. Terminal dues were increased annually, provided that the receiving PPO met certain
+quality of service standards. As of 1 January 2001, the terminal dues were increased to the level of 70 %.
+(19) Liberalisation of Incoming and Outgoing Intra-Community Cross-border Mail, p. 25. In this study, seven Community PPOs
+were asked to estimate their own market shares in 1996. The estimated shares for outgoing cross-border mail varied
+between 80 and 100 %.
+(20) See, for instance, Deutsche Post AG gegen TNT Mailfast GmbH, ref. 31 O 796/93, Cologne Regional Court, 14 April
+1994; TNT Mailfast GmbH gegen Deutsche Post AG, ref. U (Kart) 31/94, Düsseldorf Higher Regional Court, 23 April
+1996; DHL Worldwide Express GmbH gegen Deutsche Post AG, judgment of the Düsseldorf Higher Regional Court, 23
+April 1996.
+(21) Liberalisation of Incoming and Outgoing Intra-Community Cross-border Mail, pp. 22 and 38. Seven Community PPOs
+estimated that their market shares for incoming cross-border letter mail in 1996 varied between 95 and 100 %.
+(22) OJ L 15, 21.1.1998, p. 14. The Directive opened some 3 % of PPOs total mail turnover to competition. In practice,
+PPOs have retained everything but a very small share of the business theoretically open to competition.
+
+15.12.2001 EN Official Journal of the European Communities L 331/43
+
+Remail
+
+(11) Remailing can be described as the practice of re-routing mail between countries utilising a combination of conventional transport services, express services and other postal services. Specialist remailing
+firms tender international bulk mailings to postal operators on behalf of clients in other countries
+(commercial remailing). Although remail services were initially provided by private firms, PPOs
+themselves have become increasingly involved in remailing activities.
+
+(12) Remailing becomes economically viable when postal tariffs vary significantly between different
+countries, as is the case within the Community. The greater the difference between a given country's
+high domestic tariffs and the low terminal dues which its PPO receives for delivering incoming
+cross-border mail, the greater becomes the possibility for profitable remailing. In other words, if
+terminal dues in the receiving country are low compared to the domestic tariffs in that country, the
+sending PPO is able to charge a cross-border tariff which is significantly lower than the normal
+domestic tariff in the receiving country. It thus becomes profitable to transport mail emanating from
+country A to country B and have it posted back to country A or to a third country (country C).
+
+(13) If German firms re-route their domestic mail via the UK, the turnover of UK postal operators will
+increase at the cost of DPAG's. It is in the commercial interest of PPOs of countries with high postal
+tariffs (such as Germany) to impede remailing, whereas PPOs of countries with low cross-border
+tariffs — thus likely transition countries for remail — have a commercial interest in encouraging
+remail.
+
+(14) Two types of remailing are relevant for the assessment of the present case, namely so-called A-B-A
+and A-B-C remailing. In its judgment in Joined Cases C-147/97 and C-148/97 Deutsche Post AG v
+Gesellschaft für Zahlungssysteme mbH and Citicorp Kartenservice GmbH (23) the Court of Justice of the
+European Communities described these practices in the following manner.
+
+A-B-A remail:
+
+letters come from State A but are posted in State B for delivery in State A,
+
+A-B-C remail:
+
+letters come from State A but are posted in State B for delivery in State C.
+
+Centralised mail distribution
+
+(15) As a consequence of the ongoing integration of Community markets, many transnational companies
+now demand postal services tailor-made for their own requirements as regards cost, delivery speed
+and other service elements. In order to minimise production and distribution costs and maximise
+economies of scale and scope, these companies demand ‘one-stop-shop’ service solutions to all their
+mail distribution needs. To an increasing extent, transnational companies are thus centralising their
+mailing activities to a lim
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+oming from the UK, the Commission finds
+that DPAG: (i) limits the production of services on the German market for the forwarding and
+delivery of incoming cross-border letter mail to the prejudice of consumers and (ii) limits postal
+operators opportunities to compete on the UK market for outgoing cross-border letter mail bound
+for Germany to the prejudice of consumers. DPAG's behaviour in this respect therefore infringes
+Article 82 of the Treaty and in particular subparagraph (b) of its second paragraph.
+
+F. Effect on trade between Member States
+
+(179) Trade between Member States is affected due to the international nature of cross-border mail.
+
+G. Article 86(2) of the Treaty
+
+(180) In so far as postal operators are under a statutory duty to provide certain services they may be
+considered to be undertakings entrusted with the operation of a service of general economic interest
+within the meaning of Article 86(2) of the Treaty. If this is the case, the competition rules apply only
+in so far as this does not obstruct their performance of the particular tasks assigned to them.
+However, the Article 86(2) derogation does not apply if the development of trade is affected to such
+an extent as would be contrary to the interests of the Community.
+
+L 331/76 EN Official Journal of the European Communities 15.12.2001
+
+Arguments put forward by DP
+
+(181) Prior to the Commission's issue of its Statement of Objections on 25 May 2000, DPAG did not at
+any time invoke the Article 86(2) derogation as a justification for its behaviour in the case at hand.
+However, in its reply to the Commission's Statement of Objections, DPAG claimed that DPAG
+always invokes this provision in relevant proceedings. This provision was invoked by DPAG in the
+GZS/Citicorp case and in particular in respect of the mailings from Citicorp which — in DPAG's
+view — were no different from the mailings concerned in the present case.
+
+(182) In its judgment in the GZS/Citicorp case the Court of Justice concluded that, as long as there is no
+system for terminal dues which covers the costs of the receiving PPO, the application of Article 25
+UPU 1989 remains a necessary instrument which DPAG may use in order to fulfil its services of
+general economic interest. Therefore, the Commission may not use Article 82 in a manner which
+restricts DPAG's possibilities to charge the full domestic tariff by invoking Article 25 UPU 1989 (224).
+
+Assessment
+
+(183) DPAG must be considered to be an undertaking entrusted with the operation of a service of general
+economic interest within the meaning of Article 86(2) of the Treaty. As stated above, the senders of
+the disputed mailings in the present case are not resident in Germany. The considerations of the
+Court of Justice in the GZS/Citicorp judgment regarding Article 86(2) are therefore irrelevant to the
+case at hand. The present Decision does not restrict DPAG's rights to justifiably invoke Article 25
+UPU 1994 or Article 43 UPU 1999.
+
+(184) The Commission considers that DPAG could rely upon Article 86(2) only if it could be shown — on
+the basis of transparent, detailed and reliable internal cost accounting and objective and reliable
+market data — that the application of the competition rules in the present case would obstruct
+DPAG's activities to such an extent that the financial equilibrium of the universal service would be
+jeopardised. DPAG has failed to demonstrate how and to what extent its financial equilibrium would
+be affected.
+
+(185) The Commission finds that DPAG's ability to fulfil its universal service obligations would not be
+jeopardised by the application of the competition rules in the case at hand. First, incoming
+cross-border mail from the UK only generates a fraction of DPAG's total revenue. Second, postal
+tariffs in Germany are high and the letter services division of DPAG is highly profitable (225). Third,
+DPAG's overall financial strength is considerable.
+
+(186) In any event, the Commission considers that DPAG's abusive behaviour affects the development of
+trade to an extent that is contrary to the interests of the Community. For this reason alone, the
+Article 86(2) derogation is not applicable.
+
+H. Article 3 of Regulation No 17
+
+(187) Pursuant to Article 3 of Regulation No 17, where the Commission, upon application or upon its
+own initiative finds that there is an infringement of Article 82 of the Treaty, it may by decision
+require the undertakings concerned to bring such an infringement to an end.
+
+(188) The ‘material definition of sender’ as interpreted by DPAG in the present case and the measures taken
+by DPAG when applying this definition, are incompatible with Community law. The abusive
+behaviour described above has been going on at least since September 1996, i.e. the earliest point in
+time for which there is evidence in the present case of normal cross-border mail having been
+intercepted, surcharged and delayed by DPAG (226). The Memorandum of Understanding between the
+parties of October 2000 does not contain a satisfactory solution for the future handling of incoming
+cross-border mail by DPAG (227). Although delays are likely to be less frequent in the future as a
+consequence of the Memorandum, DPAG continues to surcharge normal cross-border mail which it
+classifies as virtual A-B-A remail. The undertaking submitted by DPAG on 1 June 2001 does not
+bring the infringement described above to an immediate end (228). The abuse must therefore be
+considered ongoing.
+
+(224) DPAG reply to the Statement of Objections, p. 40.
+(225) See section I.B. above.
+(226) See section I.E., subsection ‘Gant — The 1996 autumn catalogue’, above.
+(227) See section I.F above.
+(228) See section I.G — ‘Undertaking’, above. According to point (iv) of DPAG's undertaking, the latter will enter into
+force three months after the Commission's decision has been notified to DPAG.
+
+15.12.2001 EN Official Journal of the European Communities L 331/77
+
+(189) The Commission must ensure with certainty that DPAG will genuinely and permanently terminate
+the infringement described in Section II.E above. In order to ensure that DPAG will for the future
+refrain from any action which may have the same or similar object or effect, the Commission finds it
+necessary to adopt a decision in this respect.
+
+I. Article 15 of Regulation No 17
+
+(190) Under Article 15 of Regulation No 17, an infringement of Article 82 of the EC Treaty which has
+been committed either intentionally or negligently may be sanctioned by the imposition of a fine of
+up to 1 million euro or alternatively of up to 10 % of the turnover of the undertaking in the
+preceding business year, whichever is the greater.
+
+(191) DPAG must have been aware of the fact that the behaviour in question — i.e. the interception,
+surcharging and delaying of a large number of cross-border letter mail items from another Member
+State — impeded significantly the free flow of mail between the UK and Germany and that this
+behaviour had adverse effects on competition to the detriment of the BPO and the senders. Bearing
+this in mind, the Commission concludes that the infringement was committed at least by negligence
+by DPAG.
+
+(192) An infringement of the competition rules like the present one should normally be penalised by fines
+varying in accordance with the gravity and duration of the infringement. However, in certain cases
+the Commission may impose a symbolic fine on the undertaking that has committed an infringement. For the following reasons, the Commission deems it appropriate to impose on DPAG only a
+symbolic fine of EUR 1 000.
+
+(193) DPAG has behaved in a manner which — at least partially — is in accordance with the case law of
+German courts. Despite the fact that the Commission considers that DPAG's behaviour in some
+respects goes beyond what can be determined with certainty from German case law, it must be
+concluded that the said case law resulted in a situation where the legal situation was unclear.
+Moreover, at the time when the majority of the interceptions, surcharging and delays in the present
+case took place, no Community case law existed that concerned the specific context of cross-border
+letter mail services. Finally, the undertaking submitted by DPAG will introduce a detailed procedure
+for the processing of incoming cross-border letter mailings which will avoid practical difficulties and
+facilitate the detection of future infringements, should they occur,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Deutsche Post AG has infringed Article 82 of the EC Treaty by intercepting, surcharging and delaying
+incoming cross-border letter mailings from the UK sent by senders outside Germany but containing a
+reference in its contents to an entity residing in Germany.
+
+Article 2
+
+Deutsche Post AG shall immediately bring to an end the infringement referred to in Article 1 in so far as it
+has not already done so and shall refrain in the future from repeating any act or conduct described in
+Article 1.
+
+Article 3
+
+For the infringement referred to in Article 1, a fine of EUR 1 000 is hereby imposed on Deutsche Post AG.
+
+The fine shall be paid, within three months of the date of notification of this Decision, into bank account
+No 642-0029000-95 (IBAN BE 76 6420 0290 0095, Code SWIFT: BBVABEBB) of the European Commission, Banco Bilbao Vizcaya Argentaria BBVA Avenue des Arts 4, B-1040 Brussels. After the expiry of that
+period interest shall be automatically payable at the interest rate applied by the European Central Bank to
+its main refinancing operations on the first working day of the month in which this Decision is adopted,
+plus 3,5 percentage points, namely 8,05 %.
+
+L 331/78 EN Official Journal of the European Communities 15.12.2001
+
+Article 4
+
+This Decision is addressed to:
+
+Deutsche Post AG,
+Heinrich-von-Stephan-Strasse 1,
+D-53175 Bonn
+
+Article 5
+
+This Decision shall be enforceable pursuant to Article 256 of the EC Treaty.
+
+Done at Brussels, 25 July 2001.
+
+For the Commission
+
+Mario MONTI
+
+Member of the Commission

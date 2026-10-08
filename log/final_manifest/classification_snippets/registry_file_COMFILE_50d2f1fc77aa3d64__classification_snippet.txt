@@ -1,0 +1,357 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+24.2.2004 DE Amtsblatt der Europäischen Union L 56/1
+
+II
+
+(Nicht veröffentlichungsbedürftige Rechtsakte)
+
+KOMMISSION
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 11. Juni 2002
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+
+in der Sache COMP/36.571/D-1 — Österreichische Banken („Lombard Club“)
+
+(Bekannt gegeben unter Aktenzeichen K(2002) 2091)
+
+(Nur der deutsche Text ist verbindlich)
+
+(2004/138/EG)
+
+INHALTSVERZEICHNIS
+
+Seite
+
+1. Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+2. Der österreichische Bankenmarkt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+3. Betroffene Unternehmen und Produkte . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+4. Das Verfahren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+4.1. Der Anlass . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+4.2. Die Nachprüfungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+4.3. Die Auskunftsverlangen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+4.4. Die Reaktion der Unternehmen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+5. Hintergrund, Aufbau, Funktionsweise und Zweck des „Lombard“-netzwerks . . . . . . . . . . . . . . . . . . . . . . 8
+
+5.1. Hintergrund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+5.2. Die einzelnen Runden, deren Beziehung zueinander und die Rolle der Spitzeninstitute . . . . . 10
+
+5.3. Der Ablauf der Runden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+5.4. Der Zweck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+6. Chronologische Darstellung: Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+7. Chronologische Darstellung 1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+8. Chronologische Darstellung 1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+9. Chronologische Darstellung 1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+10. Chronologische Darstellung 1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+11. Chronologische Darstellung 1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+L 56/2 DE Amtsblatt der Europäischen Union 24.2.2004
+
+12. Sonderrunden (Auswahl) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+12.1. Exportclub, Exportlombard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+12.2. Zahlungsverkehr . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+12.3. „Regionale Runden“ bzw. Bundesländerrunden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+13. Die wichtigsten Argumente der Parteien zum Sachverhaltsteil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+13.1. Zu den spezifischen historischen, gesellschaftlichen, wirtschaftspolitischen und sozialen
+Aspekten des Lombard-Netzwerks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+13.2. Zu den Auswirkungen des Lombard-Netzwerks am österreichischen Bankenmarkt . . . . . . . . 52
+
+14. Rechtliche Würdigung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+14.1. Zur Anwendbarkeit des Wettbewerbsrechts auf den Bankensektor . . . . . . . . . . . . . . . . . . . . . . . 53
+
+14.2. Zur Zuständigkeit der Kommission für das Jahr 1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+14.3. Artikel 81 EG-Vertrag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+14.3.1. Vereinbarung und abgestimmte Verhaltensweise: Rechtsprechung . . . . . . . . . . . . . 56
+
+14.3.2. Vereinbarung und abgestimmte Verhaltensweise: Art des Verstoßes im vorliegenden Fall . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+14.3.3. Ziel oder Zweck der Beschränkung des Wettbewerbs . . . . . . . . . . . . . . . . . . . . . . . . . 58
+
+14.3.4. Auswirkung auf den Handel zwischen den Mitgliedstaaten . . . . . . . . . . . . . . . . . . . . 59
+
+14.4. Unternehmen, gegen die ein Verstoß festgestellt wird . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+
+14.4.1. Auswahl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+
+14.4.2. Zurechnungsfragen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+
+14.5. Dauer des Verstoßes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+15. Zum Umfang der Antwortpflicht der Unternehmen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+16. Abhilfen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+16.1. Artikel 3 der Verordnung Nr. 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+16.2. Artikel 15 Absatz 2 der Verordnung Nr. 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+16.2.1. Verschulden: Vorsatz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+16.2.2. Allgemeine Erwägungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+16.2.3. Grundbetrag der Geldbußen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+16.2.3.1. Schwere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+16.2.3.2. Dauer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+
+16.2.3.3. Schlussfolgerung hinsichtlich der Grundbeträge . . . . . . . . . . . . . . . . . . 69
+
+16.2.4. Mildernde Umstände . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+16.2.5. Zwischenergebnis vor Anwendung der Bonusregelung 1996 . . . . . . . . . . . . . . . . . . 72
+
+16.2.6. Anwendung der Bonusregelung 1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+
+16.2.7. Endbeträge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+
+24.2.2004 DE Amtsblatt der Europäischen Union L 56/3
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN — (2) Bei der Ermittlung des Sachverhalts konnte sich die
+Kommission auf eine große Anzahl sichergestellter Originaldokumente aus dem relevanten Zeitraum — z. B.
+gestützt auf den Vertrag zur Gründung der Europäischen Sitzungsprotokolle, Aktenvermerke, Telefonprotokolle,
+Gemeinschaft, Korrespondenz — stützen. Ausdrücklicher Zweck —
+und weitgehende Wirkung — dieser Absprachen war die
+Einschränkung des Wettbewerbs. Es handelt sich dabeigestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar
+um einen klaren und eindeutigen Verstoß gegen Arti-1962 — Erste Durchführungsverordnung zu den Artikeln 85
+kel 81 EG-Vertrag, der mit einer Geldbuße zu ahndenund 86 des Vertrages (1), zuletzt geändert durch die Verordist.nung (EG) Nr. 1/2003 (2), insbesondere auf Artikel 3 und 15,
+
+in Anbetracht des Beschlusses der Kommission vom 11. Sep-
+(3) Diese Entscheidung ist wie folgt aufgebaut: Einleitendtember 1999, das Verfahren in dieser Sache einzuleiten,
+werden einige für das Verständnis dieses Falles wichtige
+Eigenheiten des österreichischen Bankenmarktes dargenachdem den beteiligten Unternehmen gemäß Artikel 19 stellt (Kapitel 2). Darauf folgt eine kurze Beschreibung
+Absatz 1 der Verordnung Nr. 17 sowie gemäß der Verordnung der wichtigsten beteiligten Banken und Bankengruppen
+(EG) Nr. 2842/98 der Kommission vom 22. Dezember 1998 — zugleich Adressaten dieser Entscheidung — sowie
+über die Anhörung in bestimmten Verfahren nach Artikel 85 der vom Kartell umfassten Produkte/Dienstleistungen
+und 86 EG-Vertrag (3) Gelegenheit gegeben wurde, sich zu den (Kapitel 3). Nach einem kurzen Überblick über die
+von der Kommission in Betracht gezogenen Beschwerdepunk- wichtigsten Verfahrensschritte (Kapitel 4) werden Hinterten zu äußern, grund, organisatorischer Aufbau, Funktionsweise und
+Zweck der Gesprächsrunden des Lombard-Netzwerkes
+erläutert (Kapitel 5). Es folgen chronologische Darstelin Kenntnis des Abschlussberichts des Anhörungsbeauftragten lungen der wichtigsten Kartellbesprechungen der Jahin dieser Sache (4), re 1994 bis 1998 (Kapitel 6 bis 11). Ein eigenes Kapitel
+ist ausgewählten Sonderrunden gewidmet (Kapitel 12).
+Danach wird auf die wichtigsten Argumente der Unter-nach Anhörung des Beratenden Ausschusses für Kartell- und
+nehmen zum Sachverhaltsteil eingegangen. Die rechtli-Monopolfragen,
+che Würdigung des Sachverhalts (Kapitel 14), einige
+Erwägungen zu verfahrensrechtlichen Fragen (Kapiin Erwägung nachstehender Gründe: tel 15) sowie die Erörterung der erforderlichen Sanktionen (Kapitel 16) stehen am Ende dieser Entscheidung.
+
+1. EINLEITUNG
+
+2. DER ÖSTERREICHISCHE BANKENMARKT
+
+(1) Absprachen unter den österreichischen Banken — vor
+allem über Konditionen und Gebühren — hatten in
+Österreich eine lange Tradition und beruhten bis in die (4) Es mag am bis vor einigen Jahren sehr hohen Anteil
+achtziger Jahre zum Teil auf gesetzlicher Grundlage (5). öffentlichen Eigentums im österreichischen Bankwesen
+Im Laufe der Jahre hatten die Banken ein engmaschiges gelegen haben, dass das Ertragsbewusstsein gegenüber
+Netz inhaltlich umfassender und organisatorisch eng dem Streben nach mehr Umsatz und höheren Marktanvernetzter Gesprächsrunden geschaffen, in deren Rah- teilen in den Hintergrund getreten war. Nach eigenem
+men sie — bis zum Tag der unangekündigten Nach- Bekunden waren die zuständigen Bankmanager nicht in
+prüfungen durch die Kommission im Juni 1998 — der Lage, betriebswirtschaftlich verantwortungsvoll zu
+regelmäßig, im Durchschnitt jeden vierten Arbeitstag, kalkulieren (6). Vor allem im Privatkreditgeschäft hatte
+ihr Verhalten hinsichtlich aller wesentlicher Wettbe- dies vor dem Hintergrund stagnierender Kreditnachfrage
+werbsparameter koordinierten. Da ihnen die kartell- zu einem Überangebot (7) und in der Folge zu abnehmenrechtliche Relevanz dieser Absprachen bewusst war, den Zinsmargen für die Banken geführt.
+bemühten sie sich (allerdings weitgehend erfolglos),
+durch Vermeidung, Tarnung und Vernichtung von
+Besprechungsprotokollen die Spuren ihrer Treffen zu
+verwischen bzw. zu beseitigen. (6) 42.290 (RLB).
+(7) Die Zahl der Bankstellen und Bankmitarbeiter, gemessen an
+der Bevölkerungszahl, liegt in Österreich deutlich über dem
+(1) ABl. 13 vom 21.2.1962, S. 204/62. Durchschnitt in der Gemeinschaft. Banken haben grundsätzlich
+(2) ABl. L 1 vom 4.1.2003, S. 1. zwei Ertragsstandbeine: Den Nettozinsertrag — als weitaus bedeu-
+(3) ABl. L 354 vom 30.12.1998, S. 18. tendste Einnahmequelle — und den Ertrag aus Dienstleistungs-
+(4) ABl. C 48 vom 24.2.2004. und Provisionsgeschäften. Vereinfacht und zusammengefasst kann
+(5) Mit 1. Januar 1994 — dem Datum des Beitritts Österreichs zum gesagt werden, dass das Überangebot und die schwache Kredit-
+Europäischen Wirtschaftsraum — waren allerdings die letzten nachfrage in Österreich Druck auf die Zinsmargen ausübten und
+noch verbliebenen Rechtsgrundlagen für allfällige Absprachen daher nur geringe Zuwächse beim Nettozinsertrag ermöglichten,
+weggefallen. während sich die Provisionseinnahmen dynamisch entwickelten.
+
+L 56/4 DE Amtsblatt der Europäischen Union 24.2.2004
+
+(5) Wettbewerb, der zu sinkenden Margen — bis hin zu ren zu können und die Wirksamkeit eines allfälligen
+Preisen unter den Durchschnittskosten — führt, wird Geheimwettbewerbs — etwa durch Abweichungen von
+von den betroffenen Unternehmen regelmäßig als „ru- öffentlich bekannt gemachten Zinssätzen — zu miniinös“ empfunden. In einer solchen Situation bestehen mieren, führten die österreichischen Banken regelmäßig
+für diese grundsätzlich zwei Möglichkeiten. Entweder es umfangreiche Testveranlagungen — so genannte „Konkommt durch stetig fallende Erträge zur Marktbereini- kurrenzbeobachtungen“ — bei ihren Wettbewerbern
+gung (Marktaustritt oder Kapazitätsreduktion im Zuge durch und vereinbarten „laufenden Direktkontakt bei
+einer Konzentration) oder die Marktteilnehmer versu- vermuteten/seitens der Kunden behaupteter/vermeintchen, den durch das Überangebot induzierten Wettbe- lich festgestellter Abweichungen“ von Absprachen (13).
+werb so weit wie möglich zu beschränken und so den „Sollten Offerte bekannt werden, die den [vereinbarten]
+Preisverfall zu bremsen oder gar zu stoppen. Die Folge Grundsätzen widersprechen“, übernahm eines der Karsind dann überhöhte Preise und die künstliche Aufrecht- tellmitglieder „die Koordination und Klärung der Sacherhaltung ineffizienter Marktstrukturen. verhalte“ (14). Dass derartige Testveranlagungen die Regel
+waren, ergibt sich auch aus einem Protokoll einer
+Kartellbesprechung vom Juli 1994, dem zufolge der
+Bank Austria-Vertreter vorschlägt, „im August auf Konkurrenzbeobachtungen zu verzichten“ (15). In vielen Fäl-
+(6) Die österreichischen Banken haben sich — jedenfalls len erwies sich freilich die Versuchung, die vereinbarten
+auch — für die zweite Variante entschieden: Da das Konditionen dennoch zu unterschreiten und dadurch
+mögliche Szenario einer Marktbereinig
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+en Unter- menten ersichtlichen Sachverhalt allerdings beträchtlich
+lagen und Informationen ankommen werde. Die Reduk- und erweckt den Eindruck, als sei über Zinssätze,
+tion einer allfälligen Geldbuße würde in diesem Sinne Gebühren oder Ähnliches bloß ganz selten und am
+direkt proportional zum Mehrwert stehen. Rande gesprochen worden. Die zahllosen nachgewiesenen Absprachen und wettbewerbsbeschränkenden Diskussionen über Zinssätze, Gebühren und andere Wettbe-
+(550) Dieser Mehrwert lässt sich leicht ermitteln, denn er
+werbsparameter werden systematisch ausgeblendet. So
+ergibt sich zum einen aus jenen Tatsachen, die sich
+findet sich in der Zusammenfassung aller Sitzungen
+weder aus den bei den Nachprüfungen sichergestellten
+von Wiener und Bundes-Aktiv- und/oder Passivrunden,
+noch aus den in Befolgung der Auskunftsverpflichtung
+Privatkredit- und Freiberuflerrunden, Minilombard- und
+übermittelten bzw. zu übermitteln gewesenen Unterla-
+Controller-Runden nicht ein einziger Hinweis auf einen
+gen ergeben (im Folgenden „neue Tatsachen“), und zum
+konkreten Zinssatz oder eine Gebühr.
+anderen aus Erläuterungen, die das Verständnis der
+Kommission fördern. Nur neue Tatsachen und dem
+besseren Verständnis dienliche Erläuterungen sind ge- (555) Die Beschwerdepunkte und in der Folge die vorliegende
+eignet, der Kommission die Feststellung der Zuwider- Entscheidung zeichnen dagegen — strikt auf der Grundhandlung zu erleichtern. lage von Dokumenten aus dem relevanten Zeitraum —
+ein völlig anderes Bild. Exemplarisch für die selektive
+(551) Die Kommission konnte unter den mit der gemeinsamen und die Wirklichkeit beschönigende Vorgangsweise der
+Sachverhaltsdarstellung vorgelegten Schriftstücken keine Banken ist deren Darstellung der Lombardclub-Sitzung
+solchen identifizieren, welche neue Tatsachen betreffen. vom 8. Mai 1996, nach welcher es dort lediglich zu
+Die Banken waren auf diesbezügliche Anfrage der Kom- ganz allgemeinen Ermahnungen der OeNB gekommen
+mission dazu ebenso wenig in der Lage. Es handelt sich sein soll. Die anhand von Dokumenten nachgewiesene
+bei den vorgelegten Unterlagen vielmehr um jene, die Tatsache, dass die [Vertreter] bei dieser Sitzung nicht
+einerseits bereits sichergestellt und andererseits im Rah- weniger als 15 Maßnahmen — von konkreten Mindestmen der Auskunftsverlangen übermittelt wurden bzw. zinssätzen für eine Vielzahl von Bankprodukten über
+zu übermitteln gewesen waren. Mangels neuer Tatsachen Mindestaufschläge bis hin zu Werbebeschränkungen —
+brachte die — wenn auch quantitativ umfangreiche und beschlossen hatten, bleibt schlicht unerwähnt.
+chronologisch geordnete — Dokumentenvorlage der
+Kommission daher keinen Mehrwert. Dies gilt im selben
+Maße für die von BA kurz nach Übermittlung der (556) Weiter folgt die gemeinsame Sachverhaltsdarstellung
+gemeinsamen Sachverhaltsdarstellung zusätzlich vorge- einem grundsätzlich anderen Aufbau als die Beschwerdelegten Unterlagen. punkte bzw. die Entscheidung, da sie jede einzelne
+Gesprächsrunde isoliert und — im Sinne der Behauptung
+der Banken, es habe kein institutionalisiertes Netzwerk
+(552) Dazu kommt noch, dass die Banken offenbar nicht gegeben — unter systematischer Ausblendung der
+alle von der Kommission angeforderten Dokumente vielfältigen Vernetzungen und Querverbindungen zwiübermittelt hatten. Das Protokoll über die „Haller Ban- schen den Runden darstellt. Die sich aus den Dokumenkenrunde“ am 25. Mai 1998, dessen Authentizität nicht ten eindeutig ergebende Leitungsfunktion des Lombardcbestritten wurde, wurde der Kommission zum Beispiel lubs wird sogar ausdrücklich bestritten.
+erst im Januar 2001 von einer Person übermittelt, die
+auf der Geheimhaltung ihrer Identität bestand (542). Auch
+mit der Beantwortung der ergänzenden Beschwerde- (557) Diese gemeinsame Darstellung diente daher nicht der
+punkte legten die Banken erstmals Protokolle von Aufklärung — deren es angesichts der sehr zahlreichen
+Gesprächsrunden vor, welche bereits aufgrund der Aus- und eindeutigen Dokumente im Übrigen gar nicht
+kunftsverlangen vorzulegen gewesen wären und auch in bedurfte — sondern vielmehr der Wertung der Sachverder gemeinsamen Sachverhaltsdarstellung nicht enthal- halts. Einer Wertung allerdings, welche jener der Komten waren (543). mission diametral widersprach. Als „Zusammenarbeit“,
+die eine Verminderung der Geldbuße zur Folge haben
+(553) Die gemeinsame Sachverhaltsdarstellung selbst geht könnte, kann dieses ausschließlich zum Zweck der
+tatsächlich über den Umfang der abgefragten Informa- Verteidigung der Banken erstellte Dokument, das sich
+tion hinaus. Zum einen, weil sie den — in den Auskunfts- in Inhalt, Darstellung und Wertung massiv von den
+Beschwerdepunkten und der vorliegenden Entscheidung
+unterscheidet, jedenfalls nicht gelten.
+(542) 45.049.
+(543) Daran ändert auch der Umstand nichts, dass in der vorliegenden
+Entscheidung die in den ergänzenden Beschwerdepunkten erho- (544) Diese Beschreibung macht allein ein Drittel der gemeinsamen
+benen Vorwürfe nicht aufrecht erhalten werden. Sachverhaltsdarstellung aus.
+
+L 56/74 DE Amtsblatt der Europäischen Union 24.2.2004
+
+(558) Das Nichtbestreiten des in den Beschwerdepunkten Preise, Gebühren und Werbemaßnahmen beteiligt waren, die
+festgestellten Sachverhalts kann grundsätzlich die Ver- im Zeitraum von 1. Januar 1995 bis 24. Juni 1998 den Zweck
+fahrensführung beschleunigen und/oder die Feststellung verfolgten, den Wettbewerb auf dem Markt für Bankprodukte
+und Verfolgung von Zuwiderhandlungen erleichtern und Bankdienstleistungen in Österreich einzuschränken.
+und daher eine Herabsetzung der Geldbuße rechtfertigen (545).
+Artikel 2
+(559) Im vorliegenden Fall erscheint es nur folgerichtig, dass
+die Banken den ausschließlich auf der Grundlage der in Die in Artikel 1 genannten Unternehmen stellen, falls dies noch
+ihren Geschäftsräumen sichergestellten und später von nicht geschehen ist, die in Artikel 1 genannte Zuwiderhandlung
+ihnen im Rahmen der Auskunftsverpflichtung übermit- unverzüglich ein.
+telten Dokumente geschilderten Sachverhalt in der Folge
+nicht bestreiten. Außerdem wäre angesichts der hunderte
+sichergestellten Protokolle, Vermerke und ähnlicher Do- Sie sehen von einer Wiederholung jeglicher Handlung oder
+kumente ein Bestreiten des Sachverhalts nur schwer Verhaltensweise ab, die den gleichen Zweck wie diese Zuwidervorstellbar gewesen. Dennoch hätte eine Bestreitung des handlung verfolgt oder die gleiche Wirkung hat.
+Sachverhalts sowie die nachfolgende Auseinandersetzung mit einem derartigen Vorbringen Ressourcen der
+Kommission gebunden und so das Verfahren verlängert. Artikel 3
+Das Nichtbestreiten führte demnach zu einer Arbeitsersparnis für die Kommission und rechtfertigt daher Wegen der in Artikel 1 genannten Zuwiderhandlung werden
+eine Herabsetzung der Geldbuße um 10 %. folgende Geldbußen verhängt:
+
+16.2.7. Endbeträge
+Erste Bank der oesterreichischen Sparkassen
+(560) Abschließend setzt die Kommission die Geldbußen AG 37,69 Mio. EUR
+gemäß Artikel 15 Absatz 2 der Verordnung Nr. 17 wie
+folgt fest: Raiffeisen Zentralbank Österreich Aktiengesellschaft 30,38 Mio. EUR
+
+Erste (einschließlich GiroCredit und Bank Austria Aktiengesellschaft 30,38 Mio. EUR
+einschließlich Erste vor Fusion) 37,69 Mio. EUR
+
+Bank für Arbeit und Wirtschaft Aktiengesell- RZB 30,38 Mio. EUR
+schaft 7,59 Mio. EUR
+BA (einschließlich CA) 30,38 Mio. EUR
+Österreichische Postsparkasse Aktiengesell-
+BAWAG 7,59 Mio. EUR schaft 7,59 Mio. EUR
+
+PSK (einschließlich PSK-B) 7,59 Mio. EUR
+Österreichische Volksbanken-Aktiengesell-
+ÖVAG 7,59 Mio. EUR schaft 7,59 Mio. EUR
+
+NÖ Hypo 1,52 Mio. EUR Niederösterreichische Landesbank-Hypothekenbank Aktiengesellschaft 1,52 Mio. EUR
+RLB (einschließlich RBW) 1,52 Mio. EUR
+
+Raiffeisenlandesbank Niederösterreich-Wien
+AG 1,52 Mio. EUR
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Artikel 4
+Erste Bank der oesterreichischen Sparkassen AG; Raiffeisenzentralbank Österreich Aktiengesellschaft, Bank Austria Akti-
+Die durch Artikel 3 verhängten Geldbußen sind innerhalb vonengesellschaft, Bank für Arbeit und Wirtschaft Aktiengeselldrei Monaten ab Zustellung dieser Entscheidung auf dasschaft, Österreichische Postsparkassen Aktiengesellschaft,
+nachstehende Bankkonto der Europäischen Kommission ein-Österreichische Volksbanken-Aktiengesellschaft, Niederösterzuzahlen:reichische Landesbank-Hypothekenbank Aktiengesellschaft
+und Raiffeisenlandesbank Niederösterreich-Wien AG haben
+gegen Artikel 81 Absatz 1 EG-Vertrag verstoßen, indem sie an Kontonummer: 642-0029000-95
+Vereinbarungen und abgestimmten Verhaltensweisen über Code IBAN: BE76 6420 0290 0095
+Code SWIFT: BBVABEBB
+Banco Bilbao Vizcaya Argentaria (BBVA) SA
+(545) Vgl. Gericht erster Instanz, Urteil vom 14. Mai 1998, Rs. T-347/ Avenue des Arts, 43
+94, Mayr-Melnhof/Kommission, Slg. 1998, S. II-1751, Rn. 331. B1040 Bruxelles/Brussel
+
+24.2.2004 DE Amtsblatt der Europäischen Union L 56/75
+
+Nach Ablauf dieser Frist werden Zinsen zu dem Satz fällig, der Österreichische Postsparkasse Aktiengesellschaft
+von der Europäischen Zentralbank bei ihren Hauptrefinanzie- Georg-Coch-Platz 2
+rungsgeschäften am ersten Tag des Monats angewandt wird, in A1018 Wien
+dem diese Entscheidung erlassen worden ist, zuzüglich 3,5
+Prozentpunkte, somit ingesamt 6,75 %. Österreichische Volksbanken-Aktiengesellschaft
+Peregringasse 3
+A1090 Wien
+Artikel 5
+Niederösterreichische Landesbank-Hypothekenbank Aktiengesellschaft
+Diese Entscheidung ist gerichtet an: Kremser Gasse 20
+A3100 St. Pölten
+Erste Bank der oesterreichischen Sparkassen AG
+Graben 21 Raiffeisenlandesbank Niederösterreich-Wien AG
+A1010 Wien Friedrich Wilhelm Raiffeisenplatz 1
+A1020 Wien
+Raiffeisen Zentralbank Österreich Aktiengesellschaft
+Am Stadtpark 9
+Diese Entscheidung ist ein vollstreckbarer Titel nach Arti-A1030 Wien
+kel 256 EG-Vertrag.
+
+Bank Austria Aktiengesellschaft
+Brüssel, den 11. Juni 2002.Vordere Zollamtsstraße 13
+A1030 Wien
+Für die Kommission
+Bank für Arbeit und Wirtschaft Aktiengesellschaft
+Mario MONTI
+Seitzergasse 2-4
+A1010 Wien Mitglied der Kommission

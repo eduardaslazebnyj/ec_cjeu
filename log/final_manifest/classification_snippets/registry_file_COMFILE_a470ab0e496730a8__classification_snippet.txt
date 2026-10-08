@@ -1,0 +1,575 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FI
+
+FI FI
+
+EUROOPAN YHTEISÖJEN KOMISSIO
+
+Bryssel, 16.12.2003
+
+C(2003) 4820 Lopullinen CORR.
+
+KOMISSION PÄÄTÖS,
+
+tehty 16 päivänä joulukuuta 2003,
+
+EY:n perustamissopimuksen 81 artiklan ja ETA-sopimuksen 53 artiklan mukaisesta
+
+menettelystä
+
+(Asia COMP/E-1/38.240 – Teollisuusputket)
+
+(Ainoastaan italian-, ranskan-, saksan- ja suomenkieliset tekstit ovat todistusvoimaiset)
+
+(ETA:n kannalta merkityksellinen teksti)
+
+FI FI
+
+SISÄLLYSLUETTELO
+
+KOMISSION PÄÄTÖS, EY:n perustamissopimuksen 81 artiklan ja ETA-sopimuksen 53
+artiklan mukaisesta menettelystä................................................................................................ 1
+
+B – KUPARISTEN TEOLLISUUSPUTKIEN TEOLLISUUS................................................. 7
+
+1. Tuote ............................................................................................................................ 7
+
+2. Cuproclima Quality Association.................................................................................. 8
+
+3. Markkinatoimijat.......................................................................................................... 9
+
+3.1. Tuottajat, joita menettely koskee ................................................................................. 9
+
+3.1.1. Outokumpu................................................................................................................... 9
+
+3.1.2. Wieland Werke........................................................................................................... 10
+
+3.1.3. KME-ryhmittymä....................................................................................................... 11
+
+3.1.3.1. Keskeiset yksiköt ....................................................................................................... 11
+
+3.1.3.2. Oikeudelliset ja taloudelliset siteet SMI/KME-ryhmittymän sisällä ......................... 12
+
+3.2. Muita merkittäviä LWC-putkien tuottajia.................................................................. 15
+
+3.2.1. Halcor......................................................................................................................... 15
+
+3.2.2. Feinrohren .................................................................................................................. 15
+
+3.3 Kyseisillä markkinoilla aikaisemmin toimineet kilpailijat ........................................ 15
+
+3.3.1 Sameton (myöhemmin Nuova Samim)...................................................................... 15
+
+3.3.2 Desnoyers................................................................................................................... 15
+
+3.3.3 Buntmetall.................................................................................................................. 16
+
+4. Koko, arvo ja markkinaosuudet ................................................................................. 16
+
+5. Jäsenvaltioiden välinen kauppa.................................................................................. 18
+
+C – MENETTELY ................................................................................................................... 18
+
+6. Tutkinta ja sakkojen määräämättä jättämistä tai alentamista vuoden 1996
+tiedonannon perusteella koskevat pyynnöt ................................................................ 18
+
+7. Väitetiedoksianto ja sitä seuraava menettely ............................................................. 20
+
+D – TAPAHTUMIEN KUVAUS ............................................................................................ 20
+
+8. Kartellin organisaatio................................................................................................. 20
+
+8.1. Johdanto ..................................................................................................................... 20
+
+2
+
+8.2. Epävirallinen yhteistyö Cuprocliman puitteissa ........................................................ 21
+
+8.2.1. Epävirallisten kokousten kulku.................................................................................. 21
+
+8.2.2. Ulkopuolisten osallistuminen..................................................................................... 22
+
+8.2.2.1. Kutsun tarkoitus ......................................................................................................... 22
+
+8.2.2.2. Desnoyers................................................................................................................... 23
+
+8.2.2.3. Buntmetall.................................................................................................................. 23
+
+9. Pääperiaatteet ............................................................................................................. 24
+
+9.1. Tavoitehinnoista ja muista kaupan ehdoista sopiminen............................................. 24
+
+9.2. Markkinaosuuksien ja asiakkaiden jakaminen........................................................... 26
+
+9.3. Valvonta- ja soveltamismekanismi ............................................................................ 27
+
+9.3.1. Markkinajohtajajärjestely........................................................................................... 27
+
+9.3.2. Luottamuksellisen tiedon vaihto ................................................................................ 28
+
+10. Kartellin toiminta aikajärjestyksessä ......................................................................... 30
+
+10.1. Yleiskatsaus ............................................................................................................... 30
+
+10.2. Kokousten ja muiden tapahtumien yksityiskohdat .................................................... 30
+
+10.2.1. 1980-luvun loppupuoli............................................................................................... 30
+
+10.2.2. 1990-luvun alkupuolisko............................................................................................ 32
+
+10.2.3. Cuprocliman sääntöjen uudelleen määrittely 1990-luvun puolivälissä ..................... 38
+
+10.2.4. Vuodet 1997–1999..................................................................................................... 40
+
+10.2.5. Viimeinen jakso, vuodet 1999–2001 ......................................................................... 44
+
+E.PERUSTAMISSOPIMUKSEN 81 ARTIKLAN 1 KOHDAN JA ETA-SOPIMUKSEN 53 ARTIKLAN 1 K
+
+11. perustamissopimuksen 81 artiklan 1 kohta ja ETA-sopimuksen 53 artiklan 1 kohta 46
+
+11.1. Soveltamisala ............................................................................................................. 46
+
+11.2. Oikeudellinen toimivalta............................................................................................ 47
+
+12. Kilpailusääntöjen rikkomisen luonne......................................................................... 47
+
+12.1.1. Sopimukset ja yhdenmukaistetut menettelytavat....................................................... 47
+
+12.1.2. Yksi jatkuva rikkominen............................................................................................ 49
+
+12.1.3. Tarkasteltavana olevan kilpailusääntöjen rikkomisen luonne.................................... 50
+
+12.1.3.1.Sopimus ja/tai yhdenmukaistettu menettelytapa........................................................ 50
+
+12.1.3.2.Rikkomisen jatkuvuus................................................................................................ 52
+
+13. Kilpailun rajoittaminen .............................................................................................. 54
+
+3
+
+14. Kartellin vaikutus jäsenvaltioiden ja ETA-sopimuksen osapuolten väliseen kauppaan56
+
+F – OSOITUS........................................................................................................................... 57
+
+15. Vanhentumisajan soveltaminen ................................................................................. 57
+
+16. Vastuu kilpailusääntöjen rikkomisesta....................................................................... 58
+
+16.1. Yleiset periaatteet....................................................................................................... 58
+
+16.2. Vastuukysymykset tarkasteltavana olevassa asiassa.................................................. 59
+
+16.2.1. Outokumpu Oyj:n vastuu........................................................................................... 59
+
+16.2.2. Vastuukysymykset SMI/KME-ryhmittymässä .......................................................... 61
+
+16.2.3 Yritysseuraannot ........................................................................................................ 63
+
+17. yritykset, joille päätös on osoitettu ............................................................................ 64
+
+G. - RIKKOMISEN KESTO.................................................................................................... 65
+
+18. Rikkomisen alkamis- ja päättymisajankohta.............................................................. 65
+
+19. Jaksot, jolloin kartellitoiminta oli vähentynyt............................................................ 66
+
+19.1 Outokummun sulkeminen kartellin ulkopuolelle....................................................... 66
+
+19.2 Muut osanottajat......................................................................................................... 68
+
+H – Oikeuskeinot...................................................................................................................... 69
+
+18. Asetuksen N:o 17 3 artikla........................................................................................ 69
+
+19. Asetuksen N:o 17 15 artiklan 2 kohta....................................................................... 70
+
+19.1.1. Yleiset huomiot.......................................................................................................... 70
+
+21.2 Sakkojen perusmäärä ................................................................................................. 70
+
+21.12.1 Vakavuus................................................................................................................... 70
+
+21.2.2 Erilainen kohtelu........................................................................................................ 77
+
+21.2.3 Estävä vaikutus .......................................................................................................... 79
+
+21.2.4 Rikkomisen kesto....................................................................................................... 80
+
+21.2.5 Rinnakkaisissa menettelyissä mahdollisesti määrättävät sakot ................................. 82
+
+19.1.2. Päätelmä sakkojen perusmääristä............................................................................... 83
+
+21.3 Raskauttavat olosuhteet.............................................................................................. 83
+
+21.4 Lieventävät seikat............................................................................................................. 84
+
+21.5 Liikevaihdon 10 prosentin rajan soveltaminen .......................................................... 91
+
+21.6 Vuonna 1996 annetun sakkojen määräämättä jättämistä tai lieventämistä koskevan
+tiedonannon soveltaminen.......................................................................................... 92
+
+4
+
+21.6.1. Outokumpu................................................................................................................. 92
+
+21.6.2. Wieland Werke............................................................................................................. 94
+
+21.6.3 KME.............................................................................................................................. 95
+
+21.6.4. Päätelmä vuonna 1996 annetun sakkojen määräämättä jättämistä tai lieventämistä
+koskevan tiedonannon soveltamisesta ....................................................................... 98
+
+21.7. Maksukyky...................................................................................................................... 98
+
+21.8. Tässä menettelyssä määrättyjen sakkojen määrä .......................................................... 100
+
+5
+
+KOMISSION PÄÄTÖS,
+
+tehty 16 päivänä joulukuuta 2003,
+
+EY:n perustamissopimuksen 81 artiklan ja ETA-sopimuksen 53 artiklan mukaisesta
+
+menettelystä
+
+(Asia COMP/E-1/38.240 – Teollisuusputket)
+
+(Ainoastaan italian-, ranskan-, saksan- ja suomenkieliset tekstit ovat todistusvoimaiset)
+
+(ETA:n kannalta merkityksellinen teksti)
+
+EUROOPAN YHTEISÖJEN KOMISSIO, joka
+
+ottaa huomioon Euroopan yhteisön perustamissopimuksen,
+
+ottaa huomioon sopimuksen Euroopan talousalueesta,
+
+ottaa huomioon 6 päivänä helmikuuta 1962 annetun neuvoston asetuksen N:o 17 eli
+perustamissopimuksen 85 ja 86 artiklan ensimmäisen täytäntöönpanoasetuksen1, ja erityisesti
+sen 3 artiklan ja 15 artiklan 2 kohdan,
+
+ottaa huomioon 2 päivänä heinäkuuta 2003 tehdyn komission päätöksen menettelyn
+aloittamisesta asiassa,
+
+on antanut asetuksen N:o 17 19 artiklan 1 kohdan ja kuulemisesta tietyissä
+perustamissopimuksen 85 ja 86 artiklan mukaisissa menettelyissä 22 päivänä joulukuuta 1998
+annetun komission asetuksen (EY) N:o 2842/982 nojalla asianomaisille yrityksille tilaisuuden
+esittää huomautuksensa komission niitä vastaan esittämistä väitteistä,
+
+on kuullut kilpailurajoituksia ja määräävää markkina-asemaa käsittelevää neuvoa-antavaa
+komiteaa,3
+
+ottaa huomioon kuulemismenettelyistä vastaavan neuvonantajan loppukertomuksen,
+
+SEKÄ KATSOO SEURAAVAA:
+
+A – JOHDANTO
+
+1 EYVL 13, 21.2.1962, s. 204/62, asetus sellaisena kuin se on viimeksi muutettuna asetuksella (EY) N:o
+1216/1999, EYVL L 148, 15.6.1999, s. 5.
+2 EYVL L 354, 30.12.1998, s. 18.
+3 EUVL ...
+
+6
+
+(1) Tämä päätös on osoitettu seuraaville yrityksille:
+
+– Wieland Werke AG
+
+– Outokumpu Oyj
+
+– Outokumpu Copper Products Oy
+
+– KM Europa Metal AG
+
+– Tréfimétaux SA
+
+– Europa Metalli SpA.
+
+(2) Yritykset, joille päätös on osoitettu, ovat yhdessä syyllistyneet Euroopan yhteisön
+perustamissopimuksen 81 artiklaan sekä Euroopan talousalueesta tehdyn sopimuksen
+53 artiklaan kohdistuneeseen yhteen, monimutkaiseen ja jatkuvaan rikkomiseen lähes
+koko Euroopan talousalueella sopimalla keskenään hintatavoitteista ja muista
+teollisuusputkien kaupallisista ehdoista, koordinoimalla hinnankorotuksia, sopimalla
+asiakkaiden ja markkinaosuuksien jakamisesta, valvomalla kilpailunvastaisten
+menettelyjen noudattamista markkinajohtajajärjestelyn avulla sekä vaihtamalla tietoja
+myynnistä, markkinaosuuksista ja hinnoista Cuproclima Quality Association -nimisen
+yhdistyksen välityksellä ainakin 3 päivästä toukokuuta 1988 22 päivään maaliskuuta
+2001.
+
+B – KUPARISTEN TEOLLISUUSPUTKIEN TEOLLISUUS
+
+1. TUOTE
+
+(3) Kupariputket jaetaan tavallisesti kahteen tuoteryhmään: i) vesi-, öljy-, kaasu- ja
+lämmityslaitteissa käytettävät vesi- ja viemäriputket ja ii) teollisuusputket, jotka
+jaetaan alaryhmiin käyttötarkoituksen mukaan. Teollisuusputkien tärkein käyttökohde
+määrällisesti mit
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ka mukaan komissio oli saanut
+vain hyvin rajoitettuja kuvauksia kilpailunvastaisista järjestelyistä ennen KME:n
+vastausta komission tietopyyntöön, kuten edellä (418) kappaleessa jo on huomautettu.
+Niiden kokousten osalta, jotka vain KME paljasti ja/tai joita ei mainittu
+väitetiedoksiannossa, komissio huomauttaa, että väitetiedoksiannon tarkoitus ei ollut
+mainita kattavasti kaikkia yhdistyksen virallisia kokouksia, vaan siinä pikemminkin
+keskityttiin epävirallisiin kokouksiin, joihin sisältyi kilpailunvastaisia näkökohtia.
+KME ei kuitenkaan erityisesti maininnut, mihin kokouksiin sisältyi kilpailunvastainen
+tarkoitus.
+
+(421) Komissio toteaa, että KME ei ollut ensimmäinen yritys, joka esitti komissiolle
+ratkaisevat todisteet teollisuusputkialan kartellista, kuten sakkojen määräämättä
+jättämisestä tai lieventämisestä vuonna 1996 annetun tiedonannon B jakson
+b kohdassa edellytetään, eikä se sen vuoksi täytä C jaksossa esitettyjä edellytyksiä,
+joissa viitataan B jakson b–e kohdassa esitettyihin edellytyksiin. Vuoden 1996
+tiedonannon D jakson mukaan yritys, joka ei täytä kaikkia B tai C jaksossa määrättyjä
+ehtoja, voi silti saada huomattavan, 10–50 prosentin alennuksen siihen sakkoon, joka
+sille olisi muutoin määrätty.
+
+(422) Saatuaan väitetiedoksiannon KME ilmoitti komissiolle, ettei se kiistä niiden seikkojen
+olemassaoloa, joihin komission esittämät väitteet perustuvat.
+
+(423) Harkittuaan kaikkia näitä olosuhteita komissio katsoo, että KME täyttää sakkojen
+määräämättä jättämistä tai lieventämistä koskevan vuoden 1996 tiedonannon D jakson
+2 kohdan ensimmäisessä ja toisessa luetelmakohdassa määrätyt ehdot ja alentaa sille
+määrättävää sakkoa 30 prosenttia siihen sakkoon nähden, joka sille olisi määrätty,
+jollei se olisi tehnyt yhteistyötä komission kanssa. Alennus on 10 prosenttia suurempi
+kuin Wieland Werkelle myönnetty alennus, koska KME paljasti sakkojen alentamista
+koskevassa pyynnössään kilpailunvastaisten järjestelyjen olemassaolon 1980-luvulta
+lähtien (tarkkaa alkamisajankohtaa kuitenkaan mainitsematta) eikä vasta vuodesta
+1993 lähtien, jolloin kartellitoiminta alkoi Wielandin sakkojen alentamista koskevan
+pyynnön mukaan. KME mainitsi myös useita vuonna 1999 pidettyjä ns.
+työryhmäkokouksia ((168) kappale), joita muut osapuolet eivät ole maininneet ja
+auttoi komissiota arvioimaan kartellitoiminnan laajuutta niin sanotun hiljaisen kauden,
+eli vuodesta 1997 vuoteen 1999, aikana.
+
+(424) Näin ollen KME-ryhmittymän yrityksille määrätyn kokonaissakon suuruus on 39,81
+miljoonaa euroa (KME-ryhmittymä 18,99 miljoonaa euroa, KME AG 10,41 miljoonaa
+euroa ja EM-TMX 10,41 miljoonaa euroa).
+
+21.6.4. Päätelmä vuonna 1996 annetun sakkojen määräämättä jättämistä tai lieventämistä
+koskevan tiedonannon soveltamisesta
+
+(425) Kun otetaan huomioon yritysten, joille tämä päätös on osoitettu, komission kanssa
+tekemän yhteistyön luonne ja vuonna 1996 annetussa sakkojen määräämättä jättämistä
+
+97
+
+tai lieventämistä koskevassa tiedonannossa määrätyt ehdot, komissio alentaa
+asianomaisille yrityksille määrättäviä sakkoja seuraavasti:
+
+a) Outokumpu: alennus 50 %
+
+b) KME: alennus 30 %
+
+c) Wieland Werke: alennus 20 %
+
+21.7. Maksukyky
+
+(426) [KME:n esittämät väitteet kyvyttömyydestä maksaa sakko]
+
+(427) [KME:n esittämät väitteet kyvyttömyydestä maksaa sakko]
+
+(428) [Tiivistelmä KME:n toimittamista luottamuksellisina pidettävistä tiedoista]
+
+(429) Komissio huomauttaa myös, että vaikka KME ja sen tytäryhtiöt [...], niitä ei voida
+pitää vaikeuksissa olevina yrityksinä. KME maksoi vuonna 2002
+osakkeenomistajilleen osinkoa ja oletti korjaustoimenpiteiden avulla voivansa vuonna
+2003 selviytyä menestyksellisesti maailmantalouden vaikeissa olosuhteissa. Sen
+vuoden 2002 vuosikertomuksessa todetaan myös, että KME AG:n taseessa sen
+omaisuus- ja pääomarakenne sekä ulkomaankaupan katesuhde ovat tyydyttävät. EM:n
+tappiot vuonna 2002 johtuivat satunnaisista eristä, mutta sen
+kokonaiskäyttökateprosentti oli kaiken kaikkiaan positiivinen. TMX puolestaan voi
+odotettujen säästöjen avulla parantaa tulostaan huomattavasti vuoden 2003 toisen
+puoliskon aikana.331
+
+(430) Lisäksi komissio toteaa, että niiden SMI-ryhmittymän konsolidoitujen
+tilinpäätösasiakirjojen mukaan, jotka se on toimittanut komissiolle, ryhmittymän
+nettovoitto oli 5,1 miljoonaa euroa tilikautena 1996-1997, 19,1 miljoonaa euroa
+tilikautena 1997-1998, 33,5 miljoonaa euroa tilikautena 1998-1999, 46,9 miljoonaa
+euroa tilikautena 1999-2000, 38,6 miljoonaa euroa tilikautena 2000-2001 ja 6,8
+miljoonaa euroa heinäkuusta joulukuuhun 2001 ulottuvalla kuuden kuukauden
+jaksolla. Lopputuloksena on 150 miljoonaa euroa. Vuonna 2002 ryhmittymä kärsi
+ensimmäistä kertaa tappion, joka oli 19,3 miljoonaa euroa. On huomattava, että
+vuonna 2002 KME jatkoi laajentumistaan hankkimalla omistukseensa erään
+kilpailijansa (Yorkshire Copper Tube Ltd.) ja myymällä yhtiön, joka ei kuulunut sen
+pääasialliseen liiketoimintaan. Vuotta 2003 koskevat arviot osoittavat tappioita
+ryhmittymän kaikille kolmelle yritykselle, mutta osana
+uudelleenjärjestelysuunnitelmasta aiheutuvia lisäkustannuksia ne eivät todennäköisesti
+näy tulevaisuuden tilikausien tuloksissa.
+
+(431) [...] Oikeuskäytännön mukaan on joka tapauksessa niin, että jos komissiolla
+katsottaisiin olevan velvollisuus ottaa sakkoa määrätessään huomioon yrityksen
+tappiota tuottava taloudellinen tilanne, ”se merkitsisi perusteettoman kilpailuedun
+
+331 KME:n, EM:n ja TMX:n vuoden 2002 tilinpäätös, joka on liitetty väitetiedoksiantoon annettuun
+vastaukseen.
+
+98
+
+antamista niille yrityksille, jotka ovat vähiten sopeutuneita markkinatilanteeseen”.332
+Vieläkin paremmin perustein sakon alentaminen yrityksiltä, jotka eivät ole
+vaikeuksissa, vaan pääasiassa joutuvat selviytymään senhetkisissä
+markkinaolosuhteissa, antaisi niille suuremman kilpailuedun suhteessa muihin
+tuottajiin.
+
+21.8. Tässä menettelyssä määrättyjen sakkojen määrä
+
+(432) Komissio määrittää neuvoston asetuksen N:o 17 15 artiklan 2 kohdan nojalla
+määrättävät sakot seuraavasti:
+
+– Outokumpu Oyj ja Outokumpu Copper Products OY 18,13 miljoonaa euroa
+
+– Wieland Werke AG 20,79 miljoonaa euroa
+– KM Europa Metal AG, Tréfimétaux SA
+ja Europa Metalli SpA (KME-ryhmittymä) 18,99 miljoonaa euroa
+– KM Europa Metal AG 10,41 miljoonaa euroa
+
+– Europa Metalli SpA ja Tréfimétaux SA 10,41 miljoonaa euroa
+
+332 Yhdistetyt asiat 96/82–102/82, 104/82, 105/82, 108/82 ja 110/82, NV IAZ International Belgium ym. v.
+komissio (Kok. 1983, s. 3369, 55 kohta); asia T-319/94, Fiskeby Board AB v. komissio (Kok. 1998, s.
+II-1331, 76 kohta).
+
+99
+
+ON TEHNYT TÄMÄN PÄÄTÖKSEN:
+
+1 artikla
+
+Seuraavat yritykset ovat rikkoneet perustamissopimuksen 81 artiklan 1 kohdan määräyksiä ja,
+1 päivästä tammikuuta 1994, ETA-sopimuksen 53 artiklan 1 kohdan määräyksiä
+osallistumalla jäljempänä määriteltyinä ajanjaksoina sopimusten ja yhdenmukaistettujen
+menettelytapojen kokonaisuuteen, joka muodostui hinnoista sopimisesta ja markkinoiden
+jakamisesta teollisuusputkien alalla:
+
+a) Wieland Werke AG: 3 päivästä toukokuuta 1988 22 päivään maaliskuuta 2001;
+
+b) Outokumpu Oyj: erikseen 3 päivästä toukokuuta 1988 30 päivään joulukuuta 1988
+ja solidaarisesti Outokumpu Copper Products OY:n kanssa 31 päivästä
+joulukuuta 1988 22 päivään maaliskuuta 2001;
+
+c) Outokumpu Copper Products OY: 31 päivästä joulukuuta 1988 22 päivään
+maaliskuuta 2001 (solidaarisesti Outokumpu Oyj:n kanssa);
+
+d) KM Europa Metal AG: erikseen 3 päivästä toukokuuta 1988 19 päivään
+kesäkuuta 1995 ja solidaaristesti Tréfimétaux SA:n ja Europa Metalli SpA:n kanssa
+20 päivästä kesäkuuta 1995 22 päivään maaliskuuta 2001;
+
+e) Europa Metalli SpA: solidaarisesti Tréfimétaux SA:n kanssa 3 päivästä
+toukokuuta 1988 19 päivään kesäkuuta 1995 ja solidaarisesti KM Europa Metal
+AG:n ja Tréfimétaux SA:n kanssa 20 päivästä kesäkuuta 1995 22 päivään
+maaliskuuta 2001;
+
+f) Tréfimétaux SA: solidaarisesti Europa Metalli SpA:n kanssa 3 päivästä
+toukokuuta 1988 19 päivään kesäkuuta 1995 ja solidaarisesti KM Europa Metal
+AG:n sekä Europa Metalli SpA:n kanssa 20 päivästä kesäkuuta 1995 22 päivään
+maaliskuuta 2001.
+
+2 artikla
+
+Edellä 1 artiklassa tarkoitetuista rikkomisista määrätään seuraavat sakot:
+
+a) Wieland Werke: 20,79 miljoonaa euroa
+
+b) Outokumpu Oyj ja Outokumpu Copper Products OY solidaarisesti: 18,13 miljoonaa euroa
+c) KM Europa Metal AG, Tréfimétaux SA
+ja Europa Metalli SpA solidaarisesti: 18,99 miljoonaa euroa.
+d) KM Europa Metal AG: 10,41 miljoonaa euroa
+
+e) Europa Metalli SpA ja Tréfimétaux SA solidaarisesti: 10,41 miljoonaa euroa
+
+100
+
+Sakot on maksettava kolmen kuukauden kuluessa tämän päätöksen tiedoksiantamisesta
+seuraavalle tilille:
+
+Euroopan komission tili nro :
+
+001-3953713-69
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Brussels
+
+(Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537 1369)
+
+Tämän määräajan jälkeen peritään ilman eri toimenpiteitä korkoa, jota Euroopan
+keskuspankki soveltaa perusrahoitusoperaatioissaan sen kuukauden ensimmäisenä päivänä,
+jona tämä päätös on tehty; korkoon lisätään 3,5 prosenttiyksikköä eli korko on yhteensä 5,5
+prosenttia.
+
+3 artikla
+
+Edellä 1 artiklassa mainittujen yritysten on lopetettava välittömästi kyseisessä artiklassa
+tarkoitettu rikkominen, mikäli näin ei ole vielä tapahtunut.
+
+Yritysten on pidätyttävä vastedes harjoittamasta 1 artiklassa tarkoitettua toimintaa ja
+toteuttamasta toimenpiteitä, joilla on vastaavia tavoitteita tai seurauksia.
+
+4 artikla
+
+Tämä päätös on osoitettu seuraaville yrityksille:
+
+1. Wieland Werke AG
+
+Graf-Arco-Strasse 36
+
+89079 Ulm
+
+SAKSA
+
+2. Outokumpu Oyj
+
+Riihitontuntie 7 D
+
+02200 Espoo
+
+SUOMI
+
+3. Outokumpu Copper Products Oy
+
+Riihitontuntie 7 A
+
+02200 Espoo
+
+101
+
+SUOMI
+
+4. KM Europa Metal AG
+
+Klosterstrasse 29
+
+49074 Osnabrück
+
+SAKSA
+
+5. Europa Metalli S.p.A
+
+Via dei Barucci, 2
+
+50127 Firenze
+
+ITALIA
+
+6. Tréfimétaux S.A
+
+11 bis, rue de l'hôtel de ville
+
+92411 Courbevoie
+
+RANSKA.
+
+Tämän päätöksen täytäntöönpanoon sovelletaan perustamissopimuksen 256 artiklaa.
+
+Tehty Brysselissä 16 päivänä joulukuuta 2003.
+
+Komission puolesta
+
+Mario MONTI
+Komission jäsen
+
+102
+
+103

@@ -1,0 +1,547 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 9.12.2004
+
+.C(2004)
+VVER
+
+V
+VV
+
+DÉCISION DE LA COMMISSION
+
+du
+
+relative à une procédure d'application de l'article 81 du traité CE et de l'article 53 de
+l'accord EEE
+
+(Affaire COMP / E-2 / 37.533 - Chlorure de choline)
+
+(Les textes en langues allemande, anglaise et française sont les seuls faisant foi.)
+(Texte présentant de l'intérêt pour l'EEE)
+
+FR FR
+
+TABLE DES MATIÈRES DÉCISION DE LA COMMISSION relative à une procédure
+d'application de l'article 81 du traité CE et de l'article 53 de l'accord EEE (Affaire COMP /
+E-2 / 37.533 - Chlorure de choline) (Les textes en langues allemande, anglaise et française
+sont les seuls faisant foi.) ....................................................................................................... 2
+
+DÉCISION DE LA COMMISSION relative à une procédure d'application de l'article 81 du
+traité CE et de l'article 53 de l'accord EEE (Affaire COMP / E-2 / 37.533 - Chlorure de
+choline) (Les textes en langues allemande, anglaise et française sont les seuls faisant foi.). 5
+
+I. Introduction........................................................................................................................ 6
+
+II. Le secteur concerné par la procédure................................................................................. 6
+
+1. Le produit ................................................................................................................ 6
+
+2. Producteurs concernés par la procédure.................................................................... 7
+
+2.1. Akzo Nobel.............................................................................................................. 7
+
+2.2. BASF....................................................................................................................... 8
+
+2.3. Bioproducts.............................................................................................................. 8
+
+2.4. Chinook ................................................................................................................... 9
+
+2.5. DuCoa...................................................................................................................... 9
+
+2.6. UCB....................................................................................................................... 10
+
+3. Autres opérateurs du secteur................................................................................... 10
+
+3.1. Ertisa...................................................................................................................... 10
+
+3.2. ICI ......................................................................................................................... 11
+
+3.3. Transformateurs ..................................................................................................... 11
+
+3.4. Le Conseil européen des industries chimiques (CEFIC).......................................... 12
+
+4. Taille, valeur et parts de marché............................................................................. 13
+
+4.1. Dimension géographique du secteur du chlorure de choline.................................... 13
+
+4.2. Échanges entre les parties à l'accord EEE............................................................... 15
+
+III. Procédure....................................................................................................................... 17
+
+5. L'enquête de la Commission................................................................................... 17
+
+6. Enquêtes menées dans d'autres pays ....................................................................... 20
+
+IV. Description des faits....................................................................................................... 21
+
+7. Les preuves documentaires..................................................................................... 21
+
+FR 2 FR
+
+8. L'organisation de l'entente...................................................................................... 22
+
+9. Fonctionnement de l'entente au niveau mondial...................................................... 23
+
+9.1. Éléments généraux................................................................................................. 23
+
+9.2. Contacts anticoncurrentiels initiaux........................................................................ 25
+
+9.3. L'accord de Ludwigshafen...................................................................................... 28
+
+9.4. Contacts anticoncurrentiels de suivi........................................................................ 33
+
+9.5. Autres contacts entre les producteurs européens et nord-américains........................ 36
+
+10. Fonctionnement de l'entente au niveau européen .................................................... 37
+
+10.1. Généralités............................................................................................................. 37
+
+10.2. Contacts anticoncurrentiels spécifiques .................................................................. 40
+
+V. Application de l'article 81, paragraphe 1, du traité et de l'article 53, paragraphe 1, de
+l'accord EEE........................................................................................................................ 47
+
+11. Relation entre le traité et l'accord EEE.................................................................... 47
+
+12. Compétence ........................................................................................................... 47
+
+13. Application de l'article 81 du traité et de l'article 53 de l'accord EEE...................... 47
+
+13.1. Article 81, paragraphe 1, du traité et article 53, paragraphe 1, de l'accord EEE....... 47
+
+13.2. Accords et pratiques concertées.............................................................................. 48
+
+13.2.1. Principes ................................................................................................................ 48
+
+13.2.2. Application ............................................................................................................ 50
+
+13.3. La notion d'infraction unique et continue................................................................ 53
+
+13.3.1. Principes ................................................................................................................ 53
+
+13.3.2. Application ............................................................................................................ 54
+
+13.4. Restrictions de concurrence.................................................................................... 56
+
+13.5. Effets sur les échanges entre États membres et entre parties contractantes à l'accord
+EEE........................................................................................................................ 57
+
+13.6. Durée de l'infraction............................................................................................... 58
+
+13.7. Destinataires de la présente décision....................................................................... 59
+
+13.7.1. Akzo Nobel............................................................................................................ 59
+
+13.7.2. Chinook ................................................................................................................. 62
+
+13.7.3. Ertisa...................................................................................................................... 62
+
+VI. Mesures correctives ....................................................................................................... 63
+
+FR 3 FR
+
+14. Article 3 du règlement n° 17 et article 7 du règlement (CE) n° 1/2003.................... 63
+
+15. Article 15, paragraphe 2, du règlement n° 17 et article 23, paragraphe 2, du
+règlement (CE) n° 1/2003....................................................................................... 63
+
+16. Le montant de base des amendes............................................................................ 65
+
+16.1. Gravité ................................................................................................................... 65
+
+16.1.1. Nature de l'infraction.............................................................................................. 65
+
+16.1.2. Impact concret de l'infraction ................................................................................. 65
+
+16.1.3. Taille du marché géographique en cause................................................................. 67
+
+16.1.4. Conclusions de la Commission sur la gravité de l'infraction.................................... 67
+
+16.2. Traitement différencié ............................................................................................ 68
+
+16.3. Caractère dissuasif suffisant ................................................................................... 68
+
+16.4. Durée de l'infraction............................................................................................... 69
+
+16.5. Conclusion sur les montants de base....................................................................... 69
+
+17. Circonstances aggravantes et atténuantes................................................................ 70
+
+17.1. Circonstances aggravantes...................................................................................... 70
+
+17.1.1. Récidive................................................................................................................. 70
+
+17.2. Circonstances atténuantes....................................................................................... 70
+
+17.2.1. Cessation précoce de l'infraction ............................................................................ 70
+
+17.2.2. Non-application des accords................................................................................... 71
+
+17.2.3. Durée de l'enquête.................................................................................................. 71
+
+17.2.4. Situation de crise.................................................................................................... 71
+
+17.2.5. Mesures disciplinaires et programme de mise en conformité .................................. 72
+
+17.2.6. Coopération effective en dehors du cadre de la communication sur la clémence de
+1996....................................................................................................................... 72
+
+17.3. Conclusion sur les circonstances aggravantes et atténuantes................................... 73
+
+18. Application de la communication sur la clémence de 1996..................................... 73
+
+18.1. BASF..................................................................................................................... 73
+
+18.2. UCB....................................................................................................................... 75
+
+18.3. Akzo Nobel............................................................................................................ 76
+
+18.4. Conclusion sur l'application de la communication sur la clémence de 1996............ 77
+
+19. Montants des amendes infligées dans la présente procédure.................................... 78
+
+FR 4 FR
+
+DÉCISION DE LA COMMISSION
+
+du
+
+relative à une procédure d'application de l'article 81 du traité CE et de l'article 53 de
+l'accord EEE
+
+(Affaire COMP / E-2 / 37.533 - Chlorure de choline)
+
+(Les textes en langues allemande, anglaise et française sont les seuls faisant foi.)
+(Texte présentant de l'intérêt pour l'EEE)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre
+des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 7,
+paragraphe 1, et son article 23, paragraphe 2,
+
+vu la décision de la Commission du 22 mai 2003 d'ouvrir la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises intéressées la possibilité de faire connaître leurs points de
+vue au sujet des griefs retenus par la Commission, conformément à l'article 19, paragraphe 1,
+du règlement n° 17 du 6 février 1962, premier règlement d'application des articles 85 et 86 du
+traité2, à l'article 27, paragraphe 1, du règlement (CE) n° 1/2003 et au règlement (CE)
+n° 2842/98 de la Commission du 22 décembre 1998 relatif à l'audition dans certaines
+procédures fondée sur les articles 81 et 82 du traité CE3,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire4,
+
+[*] Les crochets marqués d'un astérisque signalent la suppression de passages confidentiels.
+
+1 JO L 1 du 4.1.2003, p. 1. Règlement modifié par le règlement (CE) n° 411/2004 (JO L 68 du 6.3.2004,
+p. 1).
+2 JO 13 du 21.2.1962, p. 204/62. Règlement modifié en dernier lieu par le règlement (CE) n° 1216/1999
+(JO L 148 du 15.6.1999, p. 5).
+3 JO L 354 du 30.12.1998, p. 18.
+4 JO [...], [...], p. [...].
+
+FR 5 FR
+
+CONSIDERANT CE QUI SUIT:
+
+I. Introduction
+
+(1) La présente décision est adressée aux entreprises suivantes, qui sont des producteurs
+de chlorure de choline:
+
+Akzo Nobel N.V, Akzo Nobel Nederland B.V., Akzo Nobel Chemicals International
+B.V., Akzo Nobel Chemicals B.V. et Akzo Nobel Functional Chemicals B.V.,
+conjointement et solidairement (ci-après «Akzo Nobel»);
+
+BASF A.G. (ci-après «BASF»);
+
+Bioproducts Incorporated (ci-après «Bioproducts»);
+
+Chinook Group Limited Partnership et Chinook Group Limited, conjointement et
+solidairement (ci-après «Chinook»);
+
+DuCoa, L.P. (ci-après «Ducoa»);
+
+UCB S.A. (ci-après «UCB»).
+
+(2) La présente décision porte sur une infraction à l'article 81, paragraphe 1, du traité
+instituant la Communauté européenne et, à compter du 1er janvier 1994, à l'article 53,
+paragraphe 1, de l'accord sur l'Espace économique européen , commise par les
+destinataires et qui s'est étendue à l'ensemble de l'Espace économique européen.
+
+(3) La Commission a ouvert une enquête sur le secteur du chlorure de choline au niveau
+mondial, après avoir reçu, en avril 1999, une demande d'application de mesures de
+clémence émanant du producteur américain Bioproducts. L'enquête a couvert une
+période allant de 1992 à fin 1998 (ci-après dénommée «période en cause»).
+
+II. Le secteur concerné par la procédure
+
+1. LE PRODUIT
+
+(4) Le chlorure de choline appartient à la famille des sels d'ammonium quaternaire et sa
+formule chimique est (CH3)3N(C1)(CH2CH2OH). Le chlorure de choline s'obtient par
+réaction du triméthylamine (TMA) avec de l'oxyde d'éthylène et de l'acide
+chlorhydrique.
+
+(5) Le chlorure de choline fait partie du groupe de vitamines hydrosolubles B complexe
+(vitamine B4). Il est principalement utilisé dans l'industrie de l'alimentation animale,
+en particulier pour
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ions au niveau mondial, elle n'avait jamais été partie à aucun accord au
+niveau mondial258. Aux considérants (138) et (140), la Commission a repoussé cette
+allégation, la jugeant non fondée. C'est pourquoi, comme UCB a effectivement
+contesté, après avoir reçu la communication des griefs, un élément essentiel des faits
+sur lesquels la Commission fonde ses accusations, à savoir sa participation à l'accord
+de Ludwigshafen, elle n'est pas habilitée à bénéficier d'une réduction pour ne pas avoir
+contesté la matérialité des faits sur lesquels la Commission fonde ses accusations.
+
+(231) Compte tenu des différents éléments de coopération mentionnés aux
+considérants (227) à (230), la Commission estime qu'UCB est habilitée à bénéficier
+d'une réduction de 30 % du montant de l'amende qui lui aurait été autrement infligée.
+Comme BASF avant elle, UCB n'a pas été la première entreprise à fournir des preuves
+décisives de l'existence de l'entente. C'est pourquoi les sections B et C de la
+communication sur la clémence de 1996 ne s'appliquent pas à UCB. Pour ce qui est de
+la section D, qui prévoit la possibilité d'accorder des réductions de 10 à 50 %, la
+Commission a décidé d'accorder à UCB 30 % en vertu de cette section, pour deux
+raisons. Premièrement, les preuves écrites, contemporaines de l'infraction, ainsi que la
+description des arrangements européens qui ont été communiquées par UCB n’étaient
+
+258 Réponse d'UCB à la communication des griefs, pp. 2, 8 et 13 notamment.
+
+FR 75 FR
+
+pas complets, tant en ce qui concerne leur portée que l'importance des détails fournis.
+En particulier, des documents écrits à l’époque ont été fourni seulement pour l’année
+1994 et pas pour la période de 1995 à 1998. Deuxièmement, ainsi qu'il a été dit au
+considérant (230), la réduction dont UCB peut bénéficier est affectée par le fait qu'elle
+a contesté, à tort, la matérialité des faits sur lesquels la Commission fonde ses
+accusations.
+
+18.3. Akzo Nobel
+
+(232) Le 26 juillet 1999, Akzo Nobel a répondu à la demande de renseignements de la
+Commission du 22 juin 1999, en fournissant une brève description des arrangements
+au niveau mondial. Cette description fournie volontairement n'a pas ajouté grandchose aux informations dont la Commission disposait déjà à l'époque. Akzo Nobel a
+également joint à sa communication plusieurs documents contemporains de ces
+réunions. La plupart d'entre eux, ou des documents similaires, étaient déjà en
+possession de la Commission. En outre, ces documents doivent être considérés comme
+ayant été fournis en réponse à la demande de renseignements de la Commission, et
+non sur une base volontaire. Toutefois, même s'ils avaient été fournis volontairement,
+ils n'auraient matériellement pas contribué à confirmer l'existence de l'infraction
+commise.
+
+(233) Le 8 janvier 2002, Akzo Nobel a communiqué volontairement un rapport sur les
+arrangements européens, qui donnait une description détaillée du contenu de ces
+arrangements, y compris un nombre considérable de renseignements qu'UCB n'avait
+pas fournis. Il faisait également état de cinq réunions au niveau européen qu'UCB
+n'avait pas mentionnées. Enfin, il fournissait un certain nombre de comptes rendus
+détaillés des réunions organisées au niveau européen en 1996 et 1997, établis à
+l'époque des faits. Ces renseignements et ces preuves, joints à ceux déjà fournis par
+UCB, ont permis à la Commission d'établir la preuve de toute l’étendue et de la durée
+de la composante européenne de l'infraction. Toutefois, la Commission note qu'Akzo
+Nobel a communiqué son rapport sur les arrangements européens deux ans et demi
+après qu'UCB a fourni sa communication sur ces mêmes arrangements, un retard dont
+il convient de tenir compte pour l'établissement des réductions accordées dans le cadre
+des mesures de clémence.
+
+(234) Le rapport d'Akzo Nobel du 8 janvier 2002 mentionnait également certaines
+allégations d'activités anticoncurrentielles menées par elle-même, UCB et Ertisa sur le
+marché espagnol. Toutefois, les éléments de preuve apportés en l'occurrence étaient
+globalement insuffisants pour que la Commission puisse retenir les faits ainsi allégués
+contre les entreprises en question. Cette partie du rapport d'Akzo Nobel ne peut donc
+pas être prise en considération aux fins de la réduction de son amende en vertu de la
+communication sur la clémence de 1996.
+
+(235) Après avoir reçu la communication des griefs, Akzo Nobel a informé la Commission
+qu'elle ne contestait pas la matérialité des faits sur lesquels la Commission fonde ses
+accusations, à l'exception de certaines corrections factuelles que la Commission a
+acceptées.
+
+(236) Comme BASF et UCB avant elle, Akzo Nobel n'a pas été la première entreprise à
+fournir des éléments déterminants pour prouver l'existence de l'entente. Par
+conséquent, les sections B et C de la communication sur la clémence de 1996 ne
+
+FR 76 FR
+
+s'appliquent pas à Akzo Nobel. En ce qui concerne la section D, qui prévoit la
+possibilité d'accorder des réductions de 10 à 50 %, la Commission, compte tenu des
+différents éléments de coopération mentionnés aux considérants (232) à (235),
+considère qu'Akzo Nobel est habilitée à bénéficier d'une réduction de 30 % du montant
+de l'amende qui lui aurait été autrement infligée. Cette appréciation tient notamment
+compte du fait que, d'une part, le rapport d'Akzo Nobel sur les arrangements européens
+présentait à peu près la même valeur, pour la Commission, que les renseignements et
+les preuves sur ces mêmes arrangements communiqués précédemment par UCB, mais
+lui sont parvenus deux ans et demi plus tard, et que, d'autre part, Akzo Nobel,
+contrairement à UCB, n'avait pas contesté la matérialité des faits sur lesquels la
+Commission fonde ses accusations. C'est pourquoi les deux entreprises méritent une
+réduction identique.
+
+18.4. Conclusion sur l'application de la communication sur la clémence de 1996
+
+(237) En conclusion, la Commission accorde à BASF, à UCB et à Akzo Nobel les réductions
+suivantes des amendes qui leur auraient été autrement infligées:
+
+- BASF une réduction de 20 %;
+
+- UCB une réduction de 30 %;
+
+- Akzo Nobel une réduction de 30 %.
+
+19. MONTANTS DES AMENDES INFLIGEES DANS LA PRESENTE PROCEDURE
+
+(238) En conclusion, les amendes à infliger en vertu de l'article 15, paragraphe 2, du
+règlement n° 17 et de l'article 23, paragraphe 2, du règlement n° 1/2003 doivent être
+les suivantes:
+
+– Akzo Nobel 20,99 millions d'euros
+
+– BASF 34,97 millions d'euros
+
+– UCB 10,38 millions d'euros,
+
+FR 77 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Les entreprises suivantes ont enfreint l'article 81, paragraphe 1, du traité et, à compter du
+1er janvier 1994, l'article 53, paragraphe 1, de l'accord EEE en participant, durant les périodes
+indiquées, à un ensemble d'accords et de pratiques concertées ayant porté sur la fixation des
+prix, le partage des marchés et des actions concertées contre les concurrents dans le secteur du
+chlorure de choline dans l’EEE:
+
+a) Akzo Nobel N.V, avec Akzo Nobel Nederland B.V., Akzo Nobel Chemicals
+International B.V., Akzo Nobel Chemicals B.V. et Akzo Nobel Functional
+Chemicals B.V., du 13 octobre 1992 au 30 septembre 1998;
+
+b) BASF A.G., du 13 octobre 1992 au 30 septembre 1998;
+
+c) Bioproducts Incorporated, du 13 octobre 1992 au 14 avril 1994;
+
+d) Chinook Group Limited Partnership, avec Chinook Group Limited, du 13 octobre
+1992 au 14 avril 1994;
+
+e) DuCoa, L.P., du 13 octobre 1992 au 14 avril 1994;
+
+f) UCB S.A., du 13 octobre 1992 au 30 septembre 1998.
+
+Article 2
+
+Les amendes suivantes sont infligées pour les infractions visées à l'article 1er:
+
+a) Akzo Nobel N.V, Akzo Nobel Nederland B.V., Akzo Nobel Chemicals International
+B.V., Akzo Nobel Chemicals B.V. et Akzo Nobel Functional Chemicals B.V.,
+conjointement et solidairement: 20,99 millions d'euros
+
+b) BASF A.G. 34,97 millions d'euros
+
+c) UCB S.A. 10,38 millions d'euros
+
+Ces amendes sont à payer en euro dans un délai de trois mois à compter de la date de
+notification de la présente décision, sur le compte bancaire suivant:
+
+Compte n°
+
+001-3953713-69 de la Commission européenne auprès de
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Bruxelles
+(Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537 1369)
+
+À l'expiration de ce délai, des intérêts sont automatiquement dus, au taux appliqué par la
+Banque centrale européenne à ses principales opérations de refinancement le premier jour du
+mois au cours duquel la présente décision a été adoptée, majoré de 3,50 points de
+pourcentage, c.à.d 5,53 %.
+
+FR 78 FR
+
+Article 3
+
+Les entreprises visées à l'article 1er mettent fin immédiatement aux infractions visées audit
+article, dans la mesure où elles ne l'ont pas déjà fait.
+
+Elles s'abstiennent à l’avenir de tout acte ou comportement visés à l'article 1er ainsi que de
+tout acte ou comportement ayant un objet ou un effet identique ou similaire.
+
+Article 4
+
+Les entreprises suivantes sont destinataires de la présente décision:
+
+1. Akzo Nobel N.V.
+Velperweg 76
+6824 BM Arnhem
+Pays-Bas
+
+2. Akzo Nobel Nederland B.V.
+Velperweg 76
+6824 BM Arnhem
+Pays-Bas
+
+3. Akzo Nobel Chemical International B.V.
+Stationsplein 4
+3818 LE Amersfoort
+Pays-Bas
+
+4. Akzo Nobel Chemicals B.V.
+Stationsplein 4
+3818 LE Amersfoort
+Pays-Bas
+
+5. Akzo Nobel Functional Chemicals B.V.
+Stationsplein 4
+3818 LE Amersfoort
+Pays-Bas
+
+6. BASF A.G.
+Central Legal Dept
+67056 Ludwigshafen
+Allemagne
+
+7. Bioproducts Incorporated
+320 Springside Drive, Suite 300
+Fairlawn, Ohio 44333-2435
+Etats-Unis
+
+8. Chinook Group Limited Partnership
+446 Lyndock Street, Suite 100A
+Corunna, Ontario, N0N 1G0
+Canada
+
+FR 79 FR
+
+9. Chinook Group Limited
+446 Lyndock Street, Suite 100A
+Corunna, Ontario, N0N 1G0
+Canada
+
+10. DuCoa, L.P.
+125 Elizabeth Road
+New Rochelle, New York 10804
+Etats-Unis
+
+11. UCB S.A.
+Allée de la Recherche, 60
+1070 Bruxelles
+Belgique
+
+La présente décision forme titre exécutoire conformément à l'article 256 du traité et à
+l'article 110 de l'accord EEE.
+
+Fait à Bruxelles, le
+
+Par la Commission,
+Neelie KROES
+Membre de la Commission
+
+FR 80 FR

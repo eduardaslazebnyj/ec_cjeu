@@ -1,0 +1,504 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+CASE AT.40305 – Network sharing - Czech Republic
+
+COMMITMENTS OFFERED TO THE EUROPEAN COMMISSION
+PURSUANT TO ARTICLE 9 OF COUNCIL REGULATION (EC) NO 1/2003
+
+1 INTRODUCTION
+
+1.1 In accordance with Article 9 of Council Regulation (EC) No 1/2003 (Regulation 1/2003),
+CETIN a.s., formerly Česká telekomunikační infrastruktura a.s. (“CETIN”) offers the
+following commitments (“Commitments”) to the European Commission (“Commission”)
+in full response to the Commission's concerns against CETIN and PPF Group N.V.
+(“PPFGNV”) in Case AT.40305 - Network sharing - Czech Republic.
+
+1.2 On 25 October 2016, the Commission opened formal proceedings against T-Mobile Czech
+Republic a.s. (“TMCZ”), CETIN and O2 Czech Republic a.s. (“O2”) regarding the
+network sharing agreements between TMCZ and CETIN on 2G, 3G and 4G technology
+(“Investigation”), namely:
+
+ The network sharing agreement of 29 October 2013 between TMCZ and CETIN
+(together “Parties”) covering 2G and 3G (“2G/3G NSA”); and
+
+ The network sharing agreement of 2 May 2014 between the Parties covering 4G (“4G
+NSA”) (the 2G/3G NSA and the 4G NSA are together referred to as the “NSAs”).
+
+1.3 On 7 August 2019, the Commission addressed the Statement of Objections No. C(2019)
+6021 final to TMCZ, CETIN and O2 and, on 14 February 2020, the Statement of
+Objections No. C(2020)961 final to PPFGNV and Deutsche Telekom AG (“DT”) (both
+Statements of Objections collectively referred to as the “SO”). Following the responses of
+the Parties and the Oral Hearing held in September 2020, the Commission reviewed its
+concerns in the Preliminary Assessment (“PA”) C(2021) 6483 final addressed to CETIN,
+O2, PPFGNV,TMCZ and DT on 30 August 2021.
+
+1.4 CETIN offers the Commitments to meet the Commission’s concerns on the understanding
+that the Commission will adopt a decision pursuant to Article 9 of Council Regulation
+1/2003 making the Commitments binding, concluding that there are no grounds for further
+action against CETIN, PPFGNV or any of their subsidiaries, and closing the Investigation
+(the “Commitment Decision”).
+
+1.5 The Commitments are conditional upon the Commission making substantially the same
+commitments binding on TMCZ.
+
+1.6 Consistent with Article 9 of Regulation 1/2003, these Commitments, which relate only to
+the NSAs, are made without prejudice to CETIN's position that its NSAs do not infringe
+Article 101 TFEU or any other competition law or other laws of the European Union or its
+Member States. The Commitments cannot be interpreted as an acknowledgement by
+CETIN that any of the allegations made in the SO and/or the PA are valid.
+
+1
+
+1.7 Capitalized terms in these Commitments shall have the meaning ascribed to them in
+Section 10.
+
+2 NETWORK MODERNIZATION COMMITMENT: PROVIDE MULTI STANDARD
+RAN EQUIPMENT IN THE MID BAND LAYERS (1800MHZ AND 2100MHZ).
+
+2.1 CETIN will implement multi standard RAN equipment in the Mid Band layers (1800 MHz
+and 2100 MHz) of its master area of the shared network (“Master Area”) which allows
+each Party to independently decide which radio access technology (including 4G and 5G) it
+wants to use on each frequency within the Mid Bands. With this commitment, each Party is
+able to speed up roll-out and refarming of Mid Bands spectrum to more efficient
+technologies, in particular 5G. This will allow the individual increase of LTE and 5G usage
+in the Mid Bands according to the Party specific needs.
+
+2.2 This commitment allows the Parties to deploy both band layers (1800 MHz and 2100MHz)
+on all existing sites where, by the end of March 2021, at least one Mid Band layer has been
+active, i.e., [1500-2000] sites in the CETIN Master Area (as identified in Annex 1),
+resulting in overall increased LTE capacity and a faster 5G roll-out for the CZ consumers.
+
+2.3 To achieve the above commitment, CETIN will replace existing RAN equipment
+(“Existing RAN Equipment”) in CETIN Master Area on sites where 1800MHz and/or
+2100MHz has been already installed by the end of March 2021, including both hardware
+(“HW”) and software (“SW”), in the Mid Bands (1800MHz and 2100MHz) by multistandard RAN equipment (“the Network Modernization Commitment”).
+
+2.4 The Network Modernization Commitment will occur within [less than 5 years] of the
+Commencement Date in accordance with the below roll-out plan. As from the
+Commencement Date, any new deployment in the Mid Bands will be multi-standard
+capable.
+
+Table: network modernization rollout plan
+
+[Network Modernization rollout plan per year]
+
+2.5 The Network Modernization Commitment would give each Party the full flexibility to
+individually decide how, where and when to deploy or change or activate a specific access
+technology, as it suits the Party ́s business needs, without being dependent on additional
+network changes or HW changes required by the other Party. Such a commitment also
+ensures that each Party benefits from full freedom in the deployment of new technologies,
+in particular with regard to the ability to refarm spectrum for new technologies. This would
+substantially increase each operator ́s flexibility for capacity build out and facilitate a faster
+5G capacity roll-out on the Mid Bands.
+
+2
+
+3 SETTING AND REVIEW OF THE FINANCIAL CONDITIONS FOR
+UNILATERAL DEPLOYMENTS
+
+3.1 CETIN will modify the financial conditions for Unilateral Deployments to follow a costbased principle. Accordingly, within 3 months of the Commencement Date, the Price List
+for Unilateral Deployments will be reviewed so that prices for Unilateral Deployments are
+based on incremental costs (“Incremental Costs”), with no margin for overheads. For the
+avoidance of doubt, the applicable prices for each type of Unilateral Deployment will be
+the same for both Parties (“Single Pricing”). The applicable prices under the Single Pricing
+will be [cost information] Incremental Costs of each Party for the relevant type of
+Unilateral Deployment.
+
+3.2 To the above effect, each Party will deliver to the Monitoring Trustee its proposal of the
+Price List to be applied in respect of each type of Unilateral Deployments, together with the
+calculations of the related costs and relevant background materials. The joint Price List will
+then be set-up by the Monitoring Trustee, within one month from receiving the proposal of
+both Parties, on the basis of the principle set out in clause 3.1. (i.e., Single Pricing and [cost
+information] the Incremental Costs of each Party). For the avoidance of doubts, the
+Incremental Costs calculations (as well as the related information and background
+materials) of the Parties shall never be exchanged between the Parties. In case of
+disagreement with the price provided by either Party, the Monitoring Trustee will inform
+such Party in writing of the reasons for the disagreement and the proposed alternative price
+and give it the opportunity to respond orally and in writing. If the disagreement persists, the
+Monitoring Trustee will report to the Commission in accordance with paragraph 6.8 (f).
+
+3.3 The Price List will be applicable within one month of the confirmation by the Monitoring
+Trustee. Subsequently, the Parties to the NSAs will assess the necessity to review the Price
+List on a [...] basis, aligned with the potential changes in Incremental Costs. To that end,
+each Party will follow the same procedure as under paragraph 3.2.
+
+4 IMPROVEMENT OF THE NSAS CONTRACTUAL PROVISIONS AS REGARDS
+INFORMATION EXCHANGE
+
+4.1 Within 2 months of the Commencement Date, CETIN will agree to modify the NSAs to
+further limit the information exchange between the Parties in the following manner.
+
+Streamline the governance structure:
+
+ CETIN will streamline governance level committees and meetings, specifically by:
+
+o Removing the strategic level (including steering committee) from the governance
+and collaboration model to keep only the tactical level and operational level, and
+
+o Adapting existing contacts lists and roles in the NSAs accordingly.
+
+ CETIN will implement additional ring-fencing between workgroups, by:
+
+3
+
+o Limiting workgroups to technical staff only; making as a general rule that nontechnical staff are prohibited from attending meetings discussing specific technical
+solutions; meetings involving non-technical staff will only take place to the extent
+objectively necessary and under defined rules for their participation.
+
+o Streamlining and possibly reducing the number of meetings of workgroups so that
+it is strictly limited to a minimum number necessary to ensure NSAs operation.
+
+o Simplifying the current description of the management structure and
+responsibilities: Parties to be represented in principle by technicians delegated to
+the respective technical workgroups; structure with different levels of management
+to be streamlined.
+
+o For situations where the input of non-technical staff is essential, organizing
+meetings with strictly specified and restricted agenda and scope of information.
+scrutiny by in-house compliance officer and/or in-house legal counsel will be
+required for such meetings. Involvement of certain non-technical staff (such as
+marketing staff) will be prohibited in any case.
+
+o Inserting a mechanism ensuring that the workgroups are staffed on a need-to-know
+basis.
+
+ CETIN will provide further details as to the information flows specific to workgroups, by:
+
+o Updating and refining the list of categories of information that can particularly be
+exchanged within each respective workgroup based on the principle that the
+information exchanged should be limited to the specific tasks/subject-areas dealt
+with by each workgroup. Other workgroups, dealing with other agendas, should
+have access to different sets of information.
+
+o Strictly limiting access to documents to the members of a respective workgroup.
+
+o Specifying in a greater detail what NSA information may be handed out to the
+non-technical staff and setting pre-defined communication filters (Chinese walls).
+The information communicated should be limited to the facts necessary for
+development / innovations of the respective operator’s own network and should be
+shared, to the extent feasible, in aggregated format.
+
+o Classifying Commercially Sensitive Information (defined in the NSAs) as
+Prohibited Information which cannot be exchanged at all.
+
+o Inserting provisions mandating monitoring of compliance with the rules on
+exchange of information by a Monitoring Trustee for a pre-defined time period.
+
+4
+
+Update or remove NSAs provisions referring to specific information exchanges:
+
+ Removing the reference to the possibility of potential cooperation in the area of spectrum
+sharing and add references to the applicable competition guidelines and information
+exchange rules.
+
+ Removing the obligation to annually discuss changes of [information about the setup of
+the NSAs] and replacing it with discussions on a need-to-know basis (under specified
+conditions, e.g. in case of [information about the setup of the NSAs], as an evaluation of
+aggregate data).
+
+ Streamlining or adapting the clause concerning [information about the setup of the
+NSAs].
+
+No exchange of traffic and capacity forecasts:
+
+ CETIN will explicitly prohibit the exchange of capacity forecasts (i.e., information on
+expected number of installations of new services in a particular period) and traffic
+forecasts by classifying these as “Prohibited Information”, and remove any related
+references in the NSA.
+
+4.2 The specific modifications to the wording to the 4G NSA and the 2G/3G NSA are attached
+in Annex 2.
+
+Reflecting the separation of CETIN and O2
+
+ The changes will reflect the separation of O2 and CETIN that took place after the
+conclusion of the NSAs, recognizing in particular that CETIN does not reveal to any of
+the MNOs any information concerning individual upgrades for any of the MNOs unless
+objectively necessary.
+
+5 NO EXTENSION OF THE NSAS TO PRAGUE AND BRNO
+
+5.1 Unless mandated by public authority or regulation, CETIN commits to continue not to
+extend its NSAs with TMCZ to cover [...] macro deployments in the frequency- bands [...]
+in Prague and Brno (the “Prague and Brno Commitment”). For the avoidance of doubt,
+the Prague and Brno Commitment does not alter CETIN’s ability to maintain or conclude
+[...] agreements, or ad-hoc sharing agreements in relation to specific (i) locations such as
+metro undergrounds, tunnels, transport corridors and historic areas, or (ii) solutions such as
+dedicated B2B solutions, with TMCZ and/or any other operator.
+
+5.2 The Prague and Brno Commitment will apply until [end date within 7-10 years].
+
+6 MONITORING TRUSTEE
+
+6.1 CETIN and TMCZ shall appoint a Monitoring Trustee to monitor CETIN's compliance
+with these Commitments.
+
+5
+
+6.2 The Trustee shall be independent of CETIN or any other undertaking directly or indirectly
+controlled or affiliated with CETIN and shall possess the necessary qualifications to carry
+out its mandate and shall neither have nor become exposed to any conflict of interest. In
+particular, members of the Trustee team shall not provide services to or become employees
+of CETIN or its affiliates neither during the Trustee mandate nor for a period of three years
+following termination of the Trustee mandate. The Trustee shall be remunerated equally by
+CETIN and TMCZ in a way that does not impede the independent and effective fulfilment
+of its mandate.
+
+Proposal by the Parties
+
+6.3 No later than one week after the Commencement Date, CETIN and TMCZ will submit a
+list of at least two persons whom they propose to appoint as the Monitoring Trustee to the
+Commission for approval. The proposal shall contain sufficient information for the
+Commission to verify that the proposed Trustee fulfils the requirements set out in
+paragraph 6.2 above and shall include:
+
+(a) the full terms of the proposed mandate, which shall include all provisions necessary
+to enable the Trustee to fulfil its duties under these Commitments; and
+
+(b) the outline of a plan which describes how the Trustee intends to carry out its
+assigned tasks.
+
+Approval or rejection by the Commission
+
+6.4 The Commission shall have the discretion to approve or reject the proposed Trustee(s) and
+to approve the proposed mandate subject to any modifications it deems necessary for the
+Trustee to fulfil its obligations. If only one name is approved, CETIN shall appoint or cause
+to be appointed, the individual or institution concerned as Trustee, in accordance with the
+mandate approved by the Commission. If more than one name is approved, CETIN and
+TMCZ shall be free to choose the Trustee to be appointed from among the names approved.
+The Trustee shall be appointed within one week of the Commission's approval, in
+accordance with the mandate approved by the Commission.
+
+New proposal by the Parties
+
+6.5 If all the proposed Trustees are rejected, CETIN and TMCZ will submit the names of at
+least two more individuals or institutions within one week of being informed of the
+rejection, in accordance with the requirements and the procedure set out in paragrap
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nce with the Commitments. The work plan will distinguish
+two monitoring periods:
+
+ from the Commencement Date until [year when Network Modernization
+Commitment ends], where the Monitoring Trustee will have to review compliance
+with sections 2 to 4;
+
+ as from [year when Network Modernization Commitment ends] until [year when
+the Prague and Brno Commitment ends], where the Monitoring Trustee will have to
+review compliance with sections 3 to 5 only;
+
+ as from [year when the Prague and Brno Commitment ends] until the end of
+Commitment Period, where the Monitoring Trustee will have to review compliance
+with sections 3 and 4 only.
+
+(b) such work plan will be discussed with the Parties beforehand. In case of
+disagreement with either Party on the work plan, the Monitoring Trustee will inform
+the Parties in writing of the reasons for the disagreement and the proposed alternative
+work plan and give them the opportunity to respond orally and in writing. If the
+disagreement persists, the Monitoring Trustee will report to the Commission in
+accordance with paragraph 6.8(f).
+
+(c) provide to the Commission, sending TMCZ and CETIN a non-confidential copy at
+the same time, a written report within 6 months of the Commencement Date, and
+every 6 months thereafter, on TMCZ's compliance with the Commitments. As of
+[year when Network Modernization Commitment ends], such report will be provided
+on an annual basis;
+
+(d) report in writing to the Commission, sending TMCZ and CETIN a non-confidential
+copy at the same time, if it concludes on reasonable grounds that TMCZ or CETIN is
+failing to comply with these Commitments;
+
+(e) reply to questions from the Commission with additional information or its views for
+the purpose of assessing TMCZ's compliance with the Commitments; and
+
+(f) propose to TMCZ such measures as the Trustee considers necessary to ensure
+TMCZ’s compliance with the Commitments, and the Trustee shall propose necessary
+measures to the Commission in the event that TMCZ does not comply with the
+Trustee’s proposal within the timeframe set by the Trustee.
+
+7
+
+Duties and Obligations on TMCZ
+
+6.9 TMCZ shall provide and cause its advisors to provide the Monitoring Trustee with all such
+co-operation, assistance and information, as the Monitoring Trustee may reasonably require
+to perform its tasks. The Trustee shall have full and complete access, subject to reasonable
+notice, to any of TMCZ's books, records, documents, management or other personnel,
+facilities, sites and technical information, save for legally privileged material, necessary for
+fulfilling its duties under the Commitments, and TMCZ shall provide the Trustee upon
+request with copies of any such document. TMCZ shall make available to the Monitoring
+Trustee one or more offices on their premises and shall be available for meetings in order to
+provide the Trustee with all information that is reasonably necessary for the performance of
+its tasks.
+
+6.10 TMCZ and CETIN shall, on an equal basis, indemnify the Monitoring Trustee and its
+employees and agents (each an “Indemnified Party”) and hold each Indemnified Party
+harmless against, and hereby agrees that an Indemnified Party shall have no liability to
+TMCZ for any liabilities arising out of the performance of the Monitoring Trustee’s duties
+under the Commitments, except to the extent that such liabilities result from the willful
+default, recklessness, negligence or bad faith of the Monitoring Trustee, its employees,
+agents or advisors.
+
+Replacement, discharge and reappointment of the Trustee
+
+6.11 If the Trustee ceases to perform its functions under the Commitments or for any other good
+cause, including the exposure of the Trustee to a conflict of interest:
+
+(a) the Commission may, after hearing the Trustee, require TMCZ and CETIN to
+replace the Trustee; or
+
+(b) TMCZ and CETIN, with the prior approval of the Commission, may replace the
+Trustee.
+
+6.12 If the Trustee is removed, the Trustee may be required to continue in its function until a
+new Trustee is in place to whom the Trustee has effected a full hand over of all relevant
+information. The new Trustee shall be appointed in accordance with the procedure referred
+to above.
+
+6.13 Beside the removal according to clause 6.11, the Trustee shall cease to act as Trustee only
+after the Commission has discharged it from its duties after all the Commitments with
+which the Trustee has been entrusted have been implemented. However, the Commission
+may at any time require the reappointment of the Trustee if it subsequently appears that the
+relevant commitments might not have been fully and properly implemented.
+
+7 DURATION OF THE COMMITMENTS
+
+7.1 The Commitments will take effect on and from the Commencement Date.
+
+8
+
+7.2 Without prejudice to Article 9(2) of Council Regulation 1/2003 and clause 5.2, the
+Commitments will remain in force until 28 October 2033.
+
+8 REVIEW CLAUSE
+
+8.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003,
+TMCZ may request the Commission to review and modify the Commitments where there
+has been a material change in any of the relevant facts, law or circumstances on which the
+Commission's Decision pursuant to Article 9(1) of Council Regulation 1/2003 was based.
+For the avoidance of doubt, any modification or termination by CETIN of its own
+commitments towards the Commission or any non-fulfillment thereof as well as any early
+termination of any of the NSAs will be considered as a material change.
+
+8.2 Without prejudice to the provisions of Article 9(2) of Council Regulation 1/2003, the
+Commission may, on its own initiative, review these Commitments if there has been a
+material change in any of the facts on which the Commission's Decision pursuant to Article
+9(1) of Council Regulation 1/2003 was based.
+
+9 NO CIRCUMVENTION
+
+9.1 Without prejudice to the general provision of Article 9(2) of Council Regulation 1/2003,
+TMCZ shall not circumvent or attempt to circumvent these Commitments in any way. For
+the avoidance of doubt, the mere fact that a network sharing agreement is concluded with
+regards to the 5G technology shall not constitute circumvention of the Commitments.
+
+10 DEFINITIONS
+
+2G/3G NSA: network sharing agreement of 29 October 2013 between TMCZ and CETIN
+covering 2G and 3G.
+
+4G NSA: the network sharing agreement of 2 May 2014 between the Parties covering 4G.
+
+CETIN: CETIN a.s., formerly Česká telekomunikační infrastruktura a.s.
+
+Commencement Date: the date on which TMCZ and CETIN are both notified by the
+Commission of the adoption of the final decision accepting these Commitments pursuant to
+Article 9 of Regulation 1/2003 and closing case AT.40305.
+
+Commission: the European Commission.
+
+Commitments: the commitments recorded in this document.
+
+Commitment Decision: the Commission’s decision pursuant to Article 9 Regulation (EC) No
+1/2003 in case AT.40305 accepting the Commitments submitted hereby.
+
+Commitment Period: a period from the Commencement Date until 28 October 2033.
+
+DT: Deutsche Telekom AG.
+
+9
+
+Existing RAN Equipment: all RAN Equipment already installed in the Mid Bands at the
+Commencement Date which is not already multi-standard capable.
+
+HW: hardware.
+
+Incremental Cost: in respect of a Unilateral Deployment by one the Parties, the total cost
+incurred due to such additional Unilateral Deployment being produced. The costs will be
+calculated in a manner consistent with International Financial Reporting Standards and include
+[cost information]. The Incremental Cost excludes overheads.
+
+Investigation: the Commission formal proceedings in Case COMP/40.305.
+
+Master Area: area of the shared network that is operated by TMCZ under the NSAs.
+
+Mid-Bands: the 1800MHz and 2100MHz frequency bands.
+
+Network Modernization Commitment: replacing all Existing RAN Equipment in the Mid-Bands
+by multi-standard RAN equipment in the manner and extent specified in Section 2.
+
+Monitoring Trustee: the trustee to be appointed pursuant to Section 6.
+
+NSAs: both the 2G/3G NSA and the 4G NSA.
+
+O2: O2 Czech Republic a.s.
+
+PA: Preliminary Assessment No C(2021) 6483 final addressed to TMCZ and DT on 30 August
+2021.
+
+Parties: TMCZ and CETIN (each being a “Party”).
+
+PPFGNV: PPF Group N.V.
+
+Prague and Brno Commitment: TMCZ commitment to continue not to enter into active network
+sharing with CETIN in Prague and Brno as further specified in Section 5.
+
+Price List: list of prices applicable for Unilateral Deployments under the NSAs (incl. Annex 9 to
+the 2G/3G NSA and/or Annex 9 to the 4G NSA, as applicable).
+
+RAN Equipment: radio units, including related HW and SW, baseband cards.
+
+RAN Mid Bands Equipment: RAN Equipment used for either of the Mid Bands.
+
+Single Pricing shall have the meaning specified in Clause 3.1.
+
+SO: both the Statement of Objections of 7 August 2019 No. C(2019) 6021 final sent to TMCZ,
+CETIN and O2 and the Statement of Objections of 14 February 2020 No. C(2020)961 final sent
+to PPFGNV and DT.
+
+SW: software.
+
+10
+
+TMCZ: T-Mobile Czech Republic a.s.
+
+Unilateral Deployments: deployments made by the one Party under the NSAs in the area where
+it operates the shared network at the request and for the benefit of the other Party.
+
+TMCZ
+07.06.2022
+
+______________________________
+
+11
+
+Annex 1: List of sites covered by the Network Modernization Commitment
+
+Given the overall volume of the sites involved and the duration and timeline of the Network
+Modernization Commitment, it cannot be excluded that, due to practical reasons, there could be
+some changes in the list of sites that will be effectively modernized in accordance with the
+Network Modernization Commitment in comparison with the list provided in this Annex. If any
+such change occurs, it will not affect the minimum number of the sites subject to the Network
+Modernization Commitment roll-out plan mentioned in Article 2.4.
+
+[List of sites covered by the Network Modernization Commitment]
+
+12
+
+Annex 2: Amendments to the NSAs
+
+[Modifications to contractual provisions of the NSAs]
+
+13

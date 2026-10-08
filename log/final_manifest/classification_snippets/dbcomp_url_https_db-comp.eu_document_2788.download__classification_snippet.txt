@@ -1,0 +1,424 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40840 - GUCCI
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 14/10/2025
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 14.10.2025
+C(2025) 6810 final
+
+COMMISSION DECISION
+
+of 14.10.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40840 – Gucci)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION ...................................................................................................... 3
+2. UNDERTAKING SUBJECT TO THE PROCEEDINGS .......................................... 4
+3. PROCEDURE ............................................................................................................. 5
+4. DESCRIPTION OF THE EVENTS ............................................................................ 6
+4.1. RPM ............................................................................................................................. 6
+4.1.1. The product scope ........................................................................................................ 6
+4.1.2. Conduct: overview ....................................................................................................... 7
+4.1.3. Monitoring and enforcement ........................................................................................ 7
+4.1.4. Agreement of retailers .................................................................................................. 8
+4.1.5. Buy-back agreements ................................................................................................... 9
+4.1.6. Gucci’s RPM practice served to protect Gucci’s price strategy .................................. 9
+4.1.7. Geographic scope ......................................................................................................... 9
+4.1.8. Duration ....................................................................................................................... 9
+4.2. Online sales restrictions ............................................................................................. 10
+4.2.1. Product scope ............................................................................................................. 10
+4.2.2. Conduct ..................................................................................................................... 10
+4.2.3. Geographic scope ....................................................................................................... 10
+4.2.4. Duration ..................................................................................................................... 10
+5. LEGAL ASSESSMENT ........................................................................................... 11
+5.1. Jurisdiction ................................................................................................................ 11
+5.2. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement11
+5.2.1. Agreements and/or concerted practices ..................................................................... 11
+5.2.2. Single and continuous infringement........................................................................... 12
+5.2.3. Restriction of competition .......................................................................................... 13
+5.2.4. Effect upon trade between Member States and between EEA Contracting Parties .. 15
+5.2.5. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement .................................................................................................................. 15
+6. LIABILITY ................................................................................................................ 16
+7. REMEDIES ............................................................................................................... 16
+7.1. Article 7 of Regulation 1/2003 ................................................................................... 16
+7.2. Article 23(2) and (3) of Regulation 1/2003 – Fines ................................................... 17
+7.3. Setting of the fines ..................................................................................................... 17
+7.3.1. Value of sales ............................................................................................................. 17
+7.3.2. Determination of the basic amount of the fine ........................................................... 18
+
+1
+
+7.3.2.1. Gravity ....................................................................................................................... 18
+7.3.2.2. Duration ..................................................................................................................... 18
+7.3.2.3. Additional amount ...................................................................................................... 19
+7.3.3. Adjustments to the basic amount of the fine: aggravating or mitigating circumstances
+.................................................................................................................................... 19
+7.3.4. Deterrence .................................................................................................................. 19
+7.3.5. Application of the 10% turnover limit ....................................................................... 19
+7.3.6. Cooperation reduction ................................................................................................ 19
+7.4. Conclusion: final amount of the fine to be imposed ................................................. 20
+
+2
+
+COMMISSION DECISION
+
+of 14.10.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40840 – Gucci)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty on
+the Functioning of the European Union 1, and in particular Article 7 and Article 23(2) and (3)
+thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty on
+the Functioning of the European Union 2,
+Having regard to the Commission decision of 4 July 2024 to initiate proceedings in this case,
+
+Having given the undertaking concerned the opportunity to make known its views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This decision (the “Decision”) relates to a single and continuous infringement of
+Article 101(1) of the Treaty on the Functioning of the European Union (the “Treaty”)
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union.
+The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty of Lisbon,
+references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as references to
+Articles 101 and 102 of the Treaty when appropriate.
+2 OJ L 123, 27.4.2004, p. 18.
+
+3
+
+and Article 53(1) of the Agreement on the European Economic Area (the “EEA
+Agreement”) in the high-end fashion sector.
+(2) The infringement consisted of an anti-competitive conduct in the form of a companywide resale price maintenance (the “RPM”) strategy implemented by Guccio Gucci
+S.p.A. (“Gucci”) over several years vis-à-vis its online and offline independent
+retailers3 in the high-end fashion sector. It covered most of the products
+designed/sold by Gucci, including, in particular, women and men “ready to wear”
+clothes, childrenswear, leather goods, shoes, fashion accessories, jewellery and
+eyewear. In addition, Gucci imposed online sales restrictions concerning the socalled “Diana” handbag on its retailers.
+(3) The RPM practice covered the entire European Economic Area (the “EEA”) and
+lasted from 30 April 2015 until the beginning of the unannounced inspection on 18
+April 2023. The online sales restrictions also covered the entire EEA and lasted from
+8 July 2021 until 31 December 2021.
+(4) This Decision is addressed to the following legal entities: Gucci and its parent
+company Kering, S.A. (“Kering”, together with Gucci jointly referred to as the
+“Undertaking”)
+
+2. UNDERTAKING SUBJECT TO THE PROCEEDINGS
+(5) Gucci is an Italian luxury fashion company specialising in the design and sale of
+luxury fashion products, such as leather goods, clothing for women, men, and
+children, shoes and other fashion accessories. Gucci is a fully owned subsidiary of
+Kering, a publicly listed company. Gucci was founded in 1921 and acquired by
+Kering’s predecessor in 1999.
+(6) The relevant legal entities for the purpose of the present proceedings are:
+(a) Gucci, with its registered address at Via dei Tornabuoni 73/R, 50123 Florence,
+Italy, as direct infringer; and
+(b) Kering, with its registered address at 40 rue de Sèvres, 75007 Paris, France, as
+Gucci’s parent company.
+(7) For the financial year 2024, Gucci’s worldwide turnover was approx. EUR [7.3
+billion – 8.1 billion] and its turnover in the EEA was approx. EUR [1.4 billion – 1.7
+billion]. Kering’s worldwide turnover in 2024 amounted to EUR 17.2 billion.
+(8) Gucci has implemented a dual-distribution model and sells its products through the
+following sales channels:
+(a) Direct sales: Gucci’s own brick-and-mortar (physical) stores, including
+physical concessions in department stores, Gucci’s own online shop and
+marketplaces.
+(b) Indirect sales: distribution through retailers operating under a wholesale or
+franchisee model (both brick-and-mortar and/or online stores).4
+(9) Historically, the retailers operated under a wholesale model where the retailer
+acquired a certain stock of Gucci products and ownership to these products and was
+in turn free to set the final retail price of these products. In 2019, Gucci introduced a
+
+3 Any reference hereinafter to “retailers” automatically implies that these are independent from Gucci.
+4 In addition, as results from paras (19) and (20) below, Gucci receives royalties revenues generated from
+the sale of eyewear and beauty products.
+
+4
+
+selective distribution system in the EEA for its online and brick-and-mortar retailers;
+this included its main online retailers.5 Between 2021 and 2022, Gucci moved some
+of the more prominent online retailers of Gucci products to a so-called e-concession
+model,6 which, according to Gucci, qualifies as an agency agreement, thus leaving
+the decision on the final retail price with Gucci.7
+
+3. PROCEDURE
+(10) Between 18 and 21 April 2023, the Commission carried out an unannounced
+inspection under Article 20(4) of Regulation (EC) No 1/20038 at the premises of
+Gucci (Italy). It continued the inspection at the premises of the Commission in
+Brussels (Belgium) from 10 to 14 July 2023.
+(11) Between November 2023 and April 2024, the Undertaking and the Commission held
+pre-cooperation discussions, at first, about the available options for the Undertaking
+to cooperate with the Commission, and afterwords, regarding the main features and
+first steps of the cooperation procedure.
+(12) On [...], the Undertaking submitted in writing a statement on its willingness to enter
+into a cooperation procedure with the Commission.9
+(13) The Commission initiated proceedings on 4 July 2024.
+(14) During the course of the investigation and cooperation discussions, the Commission
+sent several requests for information under Article 18 of Regulation 1/2003.
+(15) Cooperation discussions between the Undertaking and the Commission took place
+between 9 October 2024 and 3 June 2025. During those discussions, the Commission
+informed the Undertaking of the objections it envisaged raising against it and
+disclosed the evidence in the Commission file used to establish these objections. The
+Undertaking was given access to a list of all the documents in the file. The
+Undertaking was also informed on the fines parameters likely to be applied and
+provided with an estimation of the range of fines likely to be imposed by the
+Commission.
+(16) The Undertaking gave its views on the objections that the Commission envisaged
+raising against it. The Undertaking's comments were, where appropriate, taken into
+account. At the end of the cooperation discussions, the Undertaking considered that
+there was a sufficient common understanding as regards the potential objections, the
+fines parameters and the estimation of the range of likely fine to continue the
+cooperation process.
+
+5 [...]. The selective distribution system was first limited to women’s and menswear and was also
+extended to kids’ apparel in 2021.
+6 More specifically, the following retailers were moved from the wholesale model to the e-concession
+model (the date indicated after each retailer is the signature date of the respective first e-concession
+agreement): [...].
+7 The Commission does not, within the scope of this procedure, take a position on whether the econcession model as agreed between Gucci and some of its retailers qualifies as a genuine agency
+agreement as set out in paras 29-46 of the Communication from the Commission on Guidelines on
+vertical restraints, 2022/C 248/01 (the “Guidelines on Vertical Restraints”).
+8 Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+competition laid down in Articles 81 and 82 of the Treaty on the Functioning of the European Union
+(the “Regulation 1/2003”).
+9 [...].
+
+5
+
+(17) Therefore, on [...] the Undertaking submitted a formal request to settle this case in
+view of the adoption of a decision pursuant to Articles 7 and 23 of Regulation 1/2003
+(the ‘Settlement Submission’). The Settlement Submission contained:
+(a) an acknowledgement in clear and unequivocal terms of the Undertaking’s
+liability for the infringement su
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+mount can still be reduced pursuant to point 37 of the Guidelines on fines, if
+applicable. The fine must ultimately be sufficiently deterrent and proportionate.
+7.3.1. Value of sales
+(97) The basic amount of the fine to be imposed on the undertakings concerned is to be
+set by reference to the value of their sales79, that is, the value of the undertakings’
+sales of goods or services to which the infringement directly or indirectly related in
+the relevant geographic area within the EEA. In this case, the relevant value of sales
+
+77 Under Article 5 of Council Regulation (EC) No 2894/94 of 28 November 1994 concerning
+arrangements of implementing the Agreement on the European Economic Area "the Community rules
+giving effect to the principles set out in Articles 85 and 86 [now Articles 101 and 102] of the EC Treaty
+[...] shall apply mutatis mutandis". (OJ L 305/6 of 30 November 1994)
+78 Guidelines on the method of setting fines imposed pursuant to Article 23(2)(a) of Regulation 1/2003,
+OJ C 210, 1.09.2006, p. 2.
+79 Point 12 of the Guidelines on fines.
+
+17
+
+is Gucci’s sales of the products identified in Subsections 4.1.1 and 4.2.1 above in the
+EEA.
+(98) The products sold in both the indirect (through retailers, online and offline) and
+direct channels (by Gucci’s own shops, online and offline) are considered. Exclusive
+products (i.e., the products reserved for Gucci’s own distribution in its direct online
+and offline channels) are not included.
+(99) The Commission normally takes the sales made by the undertakings during the last
+full business year of their participation in the infringement80. If the last year is not
+sufficiently representative, the Commission may take into account another year
+and/or other years for the determination of the value of sales. In the case at hand, as
+the sales fluctuated significantly over the duration of the infringement (due partly to
+the COVID-19 pandemic), yearly average sales (over the duration of the
+infringement) constitute a more appropriate basis and are thus used to determine the
+value of sales.
+(100) The Undertaking has confirmed the relevant value of sales for the calculation of the
+fines in its Settlement Submission.
+(101) Accordingly, the Commission takes into account the following value of sales: EUR
+[...].
+7.3.2. Determination of the basic amount of the fine
+(102) The basic amount consists of an amount of up to 30% of an undertaking's relevant
+sales, depending on the degree of gravity of the infringement and multiplied by the
+number of years of the undertaking's participation in the infringement.81
+7.3.2.1. Gravity
+(103) The basic amount is calculated by applying a “gravity percentage” of up to 30% to
+the value of sales. The gravity of the infringement determines the percentage of the
+value of sales taken into account in setting the fine. In assessing the gravity of the
+infringement, the Commission will have regard to a number of factors, such as the
+nature of the infringement, the combined market share of all the undertakings
+concerned, the geographic scope of the infringement and/or whether or not the
+infringement has been implemented.
+(104) Given the specific circumstances of this case, taking into account the vertical nature
+of the agreement (which is often less damaging to competition than horizontal
+agreements) and the geographic scope of the conduct described in Section 4 as EEA
+wide, the proportion of the value of sales retained to calculate the basic amount is set
+at 8%.
+7.3.2.2. Duration
+(105) In assessing the fine to be imposed on the Undertaking, the Commission will also
+take into consideration the duration of the infringement, as described in Section 4
+above. The increase for duration will be calculated on the basis of days.
+(106) Gucci’s conduct lasted from 30 April 2015 until 18 April 2023 (2911 days), which
+leads to a duration multiplier of 7.96.
+
+80 Point 13 of the Guidelines on fines.
+81 Point 19 of the Guidelines on fines.
+
+18
+
+7.3.2.3. Additional amount
+(107) Point 25 of the Guidelines on fines allows the increase of the variable amount by a
+percentage between 15% and 25% of the relevant value of sales, irrespective of the
+duration of the infringement, to deter undertakings from entering into anticompetitive
+agreements.
+(108) In the present case, the Commission does not apply any additional amount.
+7.3.3. Adjustments to the basic amount of the fine: aggravating or mitigating circumstances
+(109) The Commission may consider aggravating circumstances that result in an increase
+of the basic amount. These circumstances are listed in a non-exhaustive way in
+point 28 of the Guidelines on fines. The Commission may also consider mitigating
+circumstances that result in a reduction of the basic amount. These circumstances are
+listed in a non-exhaustive way in point 29 of the Guidelines on fines.
+(110) The Commission does not in the present case consider any aggravating or mitigating
+circumstances.
+7.3.4. Deterrence
+(111) Particular attention should be paid to the need to ensure that fines have a sufficiently
+deterrent effect; to that end, the fine to be imposed on undertakings which have a
+particularly large turnover beyond the sales of goods or services to which the
+infringement relates may be increased.82
+(112) In this particular case, the Commission does not apply such increase for deterrence.
+7.3.5. Application of the 10% turnover limit
+(113) The fine imposed for the single and continuous infringement will not exceed 10% of
+the Undertaking’s total turnover relating to the business year preceding the date of
+the Commission decision pursuant to Article 23(2) of Regulation 1/2003.83
+7.3.6. Cooperation reduction
+(114) Gucci has cooperated with the Commission early in the procedure and beyond its
+legal obligation to do so by (1) revealing a restriction of competition which was not
+known to the Commission until then – Gucci disclosed to the Commission, on its
+own initiative, the online sales restriction described above in Subsection 4.2; (2)
+providing additional evidence representing significant added value compared to the
+evidence already in the Commission's possession and strengthening the
+Commission's ability to prove the infringement as a result – Gucci provided the
+Commission with a comprehensive and detailed explanation of the RPM practice,
+corroborated by new evidence and useful explanations on aspects that do not surface
+from the actual content of the documents themselves, for instance because they
+occurred over phone calls with retailers which were intentionally done orally; these
+explanations were uncovered during interviews held internally at the company with
+employees involved in the infringement, of which extensive quotes were provided to
+the Commission, which also proved useful when describing the relevant facts of the
+conduct; (3) acknowledging the infringement of Article 101 of the Treaty and Article
+53 of the EEA Agreement arising from the conduct; and (4) waiving certain
+procedural rights, resulting in administrative efficiencies.
+
+82 Point 30 of the Guidelines on fines.
+83 Article 23(2) of Regulation 1/2003.
+
+19
+
+(115) The Commission rewards that cooperation by reducing the fine to be imposed by
+50% pursuant to point 37 of the Guidelines on fines.
+7.4. Conclusion: final amount of the fine to be imposed
+(116) The fine to be imposed pursuant to Article 23(2) of Regulation 1/2003 is the
+following: EUR 119 674 000.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Guccio Gucci S.p.A. has infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating in a single and continuous infringement consisting of resale price
+maintenance and online sales restrictions implemented vis-à-vis its online and offline retailers
+in the high-end fashion sector, covering the entire EEA.
+The duration of the infringement was from 30 April 2015 until 18 April 2023.
+
+Article 2
+For the infringement referred to in Article 1, the following fine is imposed on Guccio Gucci
+S.p.A. and its parent company Kering S.A., jointly and severally liable: EUR 119 674 000.
+The fine shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40840
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an action pursuant to Article 263 of the Treaty is brought before the Court of Justice of
+the European Union against this Decision, the fine/fines shall be covered by its/their due date,
+either by providing an acceptable financial guarantee or by making a provisional payment of the
+fine in accordance with Article 108 of Regulation (EU, Euratom) 2024/2509 of the European
+Parliament and of the Council.84
+
+Article 3
+Guccio Gucci S.p.A. shall immediately bring to an end the infringement referred to in Article 1
+insofar as it has not already done so.
+It shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+84 Regulation (EU, Euratom) No 2024/2509 of the European Parliament and of the Council of 23 September
+2024 on the financial rules applicable to the general budget of the Union (OJ L 2024/2509, 26.09.2024)
+
+20
+
+Article 4
+This Decision is addressed to:
+(a) Guccio Gucci S.p.A., with its registered address at Via dei Tornabuoni 73/R,
+50123 Florence, Italy; and
+(b) Kering S.A., with its registered address at 40 rue de Sèvres, 75007 Paris,
+France,
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 14.10.2025
+
+For the Commission
+
+(Signed)
+Teresa RIBERA
+Executive Vice-President
+
+21

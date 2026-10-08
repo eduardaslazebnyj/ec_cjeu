@@ -1,0 +1,537 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE COMP/39736
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 18/06/2012
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+1
+EN
+
+EUROPEAN COMMISSION
+
+Brussels, 18/06/2012
+SG-Greffe
+C(2012) 4028 FINAL
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 18/06/2012
+
+addressed to:
+
+Areva SA
+Siemens AG
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(COMP/39736 - SIEMENS/AREVA)
+
+(Only the English text is authentic)
+
+2
+EN
+
+TABLE OF CONTENTS
+
+1. SUBJECT MATTER .................................................................................................. 5
+
+2. THE PARTIES............................................................................................................ 5
+
+3. PROCEDURAL STEPS UNDER REGULATION NO 1/2003................................. 6
+
+4. PRELIMINARY ASSESSMENT............................................................................... 7
+
+4.1. Relevant markets
+
+4.2. Position of the parties on the relevant market................................................... 9
+
+4.3. Practices raising concerns ............................................................................... 11
+
+4.4. Effect on trade between Member States.......................................................... 26
+
+5. PROPOSED COMMITMENTS ............................................................................... 26
+
+6. COMMISSION NOTICE PURSUANT TO ARTICLE 27(4).................................. 27
+
+7. PROPORTIONALITY OF THE COMMITMENTS................................................ 27
+
+8. CONCLUSION......................................................................................................... 28
+
+3
+EN
+
+COMMISSION DECISION
+
+of 18/06/2012
+
+addressed to:
+- Areva SA
+- Siemens AG
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 21 May 2010 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Preliminary Assessment of 16 December 2011,
+
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have become
+Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union ("TFEU"). The
+two sets of provisions are, in substance, identical. For the purposes of this decision, references to Articles
+101 and 102 of the TFEU should be understood as references to Articles 81 and 82, respectively, of the EC
+Treaty where appropriate. The TFEU also introduced certain changes in terminology, such as the
+replacement of "Community" by "Union" and "common market" by "internal market". Where the meaning
+remains unchanged, the terminology of the TFEU will be used throughout this Decision.
+
+4
+EN
+
+1. SUBJECT MATTER
+
+(1) This Decision is addressed to Areva SA and Siemens AG and concerns a noncompete obligation and a confidentiality obligation agreed between Siemens AG and
+Areva SA in a broad field of products within the field of civil nuclear technology.
+
+(2) In 2001, Siemens AG ("Siemens") and Framatome SA ("Framatome"), the
+predecessor of Areva SA ("Areva"), created the full-function joint venture Areva NP
+SAS ("Areva NP" or "the JV"), in which they combined their respective business
+activities in relation to nuclear power plants ("NPPs"). The Shareholders' Agreement2
+between the parent companies of the JV includes a non-compete obligation ("NCO").
+This NCO not only covers the lifetime of the JV but, in its original form, was to
+continue for a period of 8 to 11 years after Siemens' loss of joint control of the JV
+("post-JV NCO"). The post-JV duration of the NCO was later reduced by an arbitral
+award to approximately four years.3 The Shareholders' Agreement also contains a
+confidentiality clause which has the same duration as the NCO.
+
+(3) In its Preliminary Assessment of 16 December 2011, the Commission came to the
+provisional conclusion that the post-JV NCO, and the post-JV confidentiality
+obligation in so far as it has the same effects as a non-compete obligation, raised
+concerns as to their compatibility with Article 101 TFEU, due to their broad scope
+and duration.
+
+2. THE PARTIES
+
+(4) Siemens is a German public limited company and the ultimate parent of the Siemens
+group, which is active in, inter alia, the sectors of information technology, healthcare,
+industry and energy with the latter comprising the manufacturing of power
+generation, transmission and distribution, and oil and gas devices.
+
+(5) Areva is a French public limited company and a worldwide provider of power
+generation solutions. It is controlled by the French Atomic Energy Commission
+(Commissariat à l'énergie atomique et aux énergies alternatives – CEA - holding
+79% of the shares of Areva) which in turn is controlled by the French State.4 In the
+nuclear sector, the products and services offered by Areva cover all stages of the
+nuclear fuel cycle with the exception of final waste disposal. Some of those activities
+are carried out by its subsidiary Areva NC (formerly Cogema) while others are
+carried out by Areva NP.
+
+(6) Areva NP was established in 2001 as a full-function joint venture (originally called
+Framatome ANP), in which Siemens and Areva (at that time Framatome) combined
+
+2 The Shareholders' Agreement relating to Areva NP, as submitted by Siemens in its complaint of 16 October
+2009, annex 1, is hereinafter referred to as the "Shareholder's Agreement" without any further reference to
+the file.
+3 Arbitral award of 16 May 2011, International Chamber of Commerce.
+4 See Areva's Reference Document 2009, page 227.
+
+5
+EN
+
+their respective activities in relation to NPPs. The acquisition of joint control of the
+JV by Siemens and Framatome was notified to the Commission under Council
+Regulation (EC) No 4064/89 of 21 December 1989 on the control of concentrations
+between undertakings 5 on 7 July 2000 and declared compatible with the internal
+market on 6 December 2000.6 Siemens has been a minority shareholder with 34% in
+Areva NP, while Areva has held the remaining 66% and the industrial leadership.7
+The Shareholders' Agreement provides for a put-option whereby Siemens has a right
+to sell to Areva its shares in Areva NP for a price to be determined. On 27 January
+2009, Siemens gave notice of termination of the JV to Areva. All assets, know-how
+and personnel that were contributed by Siemens to Areva NP at its creation as well as
+all assets, know-how and personnel that Areva NP gained during its lifetime remain
+with Areva NP.
+
+(7) Areva NP is active in the design and construction of the nuclear island ("NI") for
+nuclear power plants (as well as certain corresponding components), engineering,
+safety instrumentation and control, modernisation, maintenance and repair services as
+well as the design and manufacture of nuclear fuel assemblies.
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(8) On 16 October 2009, Siemens filed a complaint with the Commission, followed by a
+supplementary complaint on 17 February 2010, in relation to Article 101 TFEU and
+Article 53 of the EEA Agreement. The complaints were later withdrawn by Siemens.
+
+(9) On 21 May 2010 the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003 and on 16 December 2011
+adopted a Preliminary Assessment as referred to in Article 9(1) of Regulation (EC)
+No 1/2003 which set out the Commission’s competition concerns. Those concerns
+related to the contractual restrictions as regards a broad field of products within the
+field of civil nuclear technology, agreed between Siemens and Areva in the
+framework of their former joint venture Areva NP.
+
+(10) On 16 February 2012, Areva and Siemens submitted commitments ("the
+Commitments") to the Commission in reaction to the Preliminary Assessment.
+
+(11) On 14 March 2012 a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case
+and the Commitments and inviting interested third parties to submit their
+observations on the Commitments within one month of publication.
+
+5 OJ L 395, 30.12.1989, p. 1. That Regulation has been replaced by Council Regulation (EC) No 139/2004 of
+20 January 2004 on the control of concentrations between undertakings (OJ L 24, 29.1.2004, p. 1). In this
+Decision, references to the "Merger Regulation" will be to either Regulation (EC) No 4064/89 or Regulation
+(EC) No 139/2004, whichever is applicable.
+6 See Commission Decision of 6 December 2000 in Case COMP/M.1940 – Framatome/Siemens/Cogéma/JV.
+7 [...]. See notification in the case COMP/M.5481 Areva SA/Areva NP, pages 22-24. See also Siemens'
+complaint of 16 October 2009, pages 6, 7.
+
+6
+EN
+
+(12) The Commission informed Areva, on 17 April 2012, and Siemens, on 18 April 2012,
+of the outcome of the market test following the publication of the notice. On 6 June
+2012 the Advisory Committee on Restrictive Practices and Dominant Positions was
+consulted. On 8 June 2012 the Hearing Officer issued his final report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+(13) The Commission's preliminary conclusion is that the post-JV NCO mainly prevents
+Siemens from competing against Areva NP in its core business, namely NIs and
+nuclear services, as well as nuclear fuel assemblies. The post-JV NCO also extends
+to components for the NI, and the conventional island ("CI"), preventing the supply
+of such components by Siemens to Areva's competitors. The Commission takes the
+preliminary view that the markets for the individual components should be
+considered in their role as inputs to the mainly affected markets, namely NIs and
+nuclear services.
+
+4.1.1. Nuclear islands
+
+(14) The Commission's preliminary view is that the two principal parts of a complete
+NPP, that is to say, the NI and the CI, form two distinct relevant product markets.
+The NI is the nuclear part of a reactor, whereas the CI consists mainly of the turbo
+generator set and its auxiliary system. This approach is consistent with the
+Commission’s past decision practice.8 It is also considered that it is not necessary to
+distinguish further between reactor types9 or reactor generations for the NI.
+
+(15) As considered in the Decisions Areva NP/MHI/ATMEA and Toshiba/Westinghouse,
+the geographic market for the supply of NI to utilities in the EEA could be
+worldwide, potentially excluding suppliers from a number of countries with export
+restrictions or an exclusive focus on their home countries leading to a reduced
+worldwide or "accessible" market. However, the exact delineation of the geographic
+market can be left open in this case as it does not change the outcome of the analysis.
+
+4.1.2. Conventional islands for NPPs
+
+(16) The Commission considers that CIs for NPPs form a distinct relevant product
+market. Although many components of the CI are also integrated in non-nuclear
+
+8 See Decision in Case COMP/M.1940 Framatome/Siemens/Cogema/JV; see also Commission Decision of 19
+September 2006 in Case COMP/M.4153 Toshiba/Westinghouse.
+9 The two main types of reactors are Pressurised Water Reactors (PWRs, the most common reactor type
+world-wide and in particular in the EEA) and Boiling Water Reactors (BWRs). Both types are also referred
+to as so-called Light Water Reactors (LWRs) and account for almost 88% of the world's commercial
+reactors. Other main reactor types include gas-cooled reactors (GCRs), pressurised heavy water reactors
+(PHWRs), fast breeders and so-called VVER's (the Russian version of the PWR). See Decision in Case
+COMP/M.4153 Toshiba/Westinghouse, paragraphs 15, 16 and 17.
+
+7
+EN
+
+power plants, the Commission takes the preliminary view that there is no use for CIs
+specifically engineered for NPPs outside of NPPs.
+
+(17) The Commission has previously left open the geographic market definition in
+relation to steam turbines, considering a worldwide and an EEA-wide market.10 For
+the purpose of this case, the exact geographic market delimitation can again be left
+open.
+
+4.1.3. Nuclear services
+
+(18) According to the Preliminary Assessment, a market for nuclear services has to be
+considered. Utilities buy nuclear services for their NPPs from NI suppliers or from
+specialised service providers. That market not only comprises services such as
+inspection, maintenance, engineering and repair, but also the supply of the related
+components, since the service companies usually also replace components in the
+framework of their activity. For this market level, it is not necessary to look at
+individual components markets, but rather at the overall nuclear service covering any
+components which might be needed for the supply of the relevant services. Utilities
+are likely to want to receive all services and components in the framework of
+maintenance or repairs from one source. This view is in line with the results of the
+investigation in the Toshiba/Westinghouse case. No further distinction according to
+reactor types was supported by the market investigation in that case.11
+
+(19) With respect to the geographic market definition, the Commission decision in
+Toshiba/Westinghouse left open the question of whether the market is worldwide or
+smaller (excluding some countries, such as Japan, or EEA-wide).12 The Commission
+takes the preliminary view that the geographic scope of the market for nuclear
+services is similar to the one for NIs, since the suppliers of NIs usually also supply
+nuclear services and the same export restrictions as well as other geographic
+limitations will apply. For the purpose of this case, the exact market delimitation can
+again be left open.
+
+4.1.4. Components for NIs
+
+(20) Components (or "subassemblies") are sold by component producers to NI suppliers
+who integrate th
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e on a certain number of specified
+markets (essentially NI, nuclear services and nuclear fuel assemblies), and only for a
+limited duration of three years following Areva's acquisition of sole control over
+Areva NP. For the duration exceeding those three years, the post-JV falls therefore
+under Article 101(1) TFEU.
+
+(93) Moreover, the Commission takes the preliminary view that the post-JV NCO was not
+ancillary to the acquisition of sole control by Areva over Areva NP, and therefore
+
+65 See, for example, Commission Decision of 30 April 1992 in Case COMP/M.197 Solvay-Laporte/Interox,
+paragraph 50.
+
+25
+EN
+
+may fall within the scope of Article 101(1) TFEU, in so far as it applies to markets
+where Areva NP was not active with own products.
+
+(94) Finally, the Commission comes to the preliminary conclusion that, to the extent it
+falls within the scope of Article 101(1) TFEU, the post-JV NCO does not meet the
+conditions set out in Article 101(3) TFEU.
+
+(95) The preliminary conclusion of the Commission is that the post-JV confidentiality
+clause66, insofar as it relates to the use of Areva NP's confidential business
+information by Siemens, amounts to a non-compete obligation which can be
+considered ancillary to the acquisition by Areva of sole control over Areva NP to the
+same extent and within the same limits as the post-JV NCO as described above (see
+section 4.3.2.3 (iii)).
+
+(96) To the extent that the post-JV confidentiality clause relating to the use of Areva NP's
+confidential business information is not ancillary, the Commission considers
+preliminarily that it would represent a restriction of competition between Siemens
+and Areva that would fall under the prohibition of Article 101(1) TFEU, and would
+not fulfil the conditions of Article 101(3) TFEU. The restriction would cover the
+same markets as the post-JV NCO.
+
+4.4. Effect on trade between Member States
+
+(97) The Commission concluded in its Preliminary Assessment that the agreement would
+have a direct actual and potential influence on the pattern of trade. The direct
+consequence of the agreement would be to remove one actual competitor of Areva
+NP (or potential competitor, depending on the products concerned) on a number of
+markets for a period of up to 4 years (originally 8 to 11 years).67 The agreement
+would also prevent Siemens from supplying components to Areva NP's competitors.
+Areva NP is active in the whole of the EEA, and before the creation of the JV,
+Siemens was active in several Member States. The markets for the supply of NIs,
+nuclear services, nuclear fuel assemblies, CIs and the NI components are all wider
+than national. The post-JV NCO and the confidentiality clause would cover a
+significant part of an overall NPP, which would represent considerable economic
+value both worldwide and within the EEA.
+
+(98) The Commission therefore considered in its Preliminary Assessment that the post-JV
+NCO and the confidentiality clause insofar as it amounts to a post-JV NCO would
+have an appreciable effect on trade between Member States.
+
+5. PROPOSED COMMITMENTS
+
+(99) The key elements of the Commitments offered by Areva and Siemens on 16 February
+2012 were as follows:
+
+66 As defined and agreed upon by Siemens and Areva in their Shareholders' Agreement.
+67 Following the reduction of the post-JV NCO duration to 4 years by the arbitral award.
+
+26
+EN
+
+– The Parties commit to set aside the post-JV NCO as it was agreed in the
+Shareholders' Agreement and modified following the arbitral award, and to
+implement the following rules as regards the possibility for Siemens to
+compete with Areva NP after Areva's acquisition of sole control over Areva
+NP.
+
+– The Parties commit to allow Siemens to compete against Areva NP, without
+any restriction, as from the date at which Siemens lost joint control over Areva
+NP (16 October 2009), with the exception of activities directly related to the
+nuclear island of NPPs ("Areva NP Core Products and Core Services") which
+are specified in an exhaustive list.
+
+– Competition by Siemens against Areva NP will only be prevented in relation to
+Areva NP Core Products and Core Services for a duration of three years
+following Areva's acquisition of sole control over Areva NP, and more
+precisely until 16 October 2012.
+
+– Until 16 October 2012 Siemens will be prevented from using any confidential
+information in relation to Areva NP Core Products and Core Services to which
+it may have had access during the lifetime of the JV; Siemens will, however,
+remain bound by a non-disclosure obligation in relation to Areva NP's
+corporate constitution and administration documents also beyond that date; in
+relation to Areva NP's confidential written technical information, Siemens is
+bound by both a non-use and non-disclosure obligation even beyond October
+2012.
+
+6. COMMISSION NOTICE PURSUANT TO ARTICLE 27(4) OF REGULATION (EC) NO
+1/2003
+
+(100) In response to the publication on 14 March 2012 of a Notice pursuant to Article 27(4)
+of Regulation (EC) No 1/2003, the Commission received no responses from
+interested third parties arguing for a modification of the Commitments.
+
+(101) Therefore, there is no need for the Commission to reconsider its position as
+expressed in the Preliminary Assessment. In view of the results of the market test, the
+Commission maintains the view that it took in the Notice pursuant to Article 27(4)of
+Regulation (EC) No 1/2003, namely that the Commitments are adequate to meet the
+competition concerns expressed in the Preliminary Assessment.
+
+7. PROPORTIONALITY OF THE COMMITMENTS
+
+(102) The Commitments are sufficient to address the concerns identified by the
+Commission in its Preliminary Assessments without being excessive.
+
+(103) The Commitments are sufficient since they fully address the Commission's concerns
+as set out in its Preliminary Assessment both with respect to the product scope
+covered by the post-JV NCO and the confidentiality obligation as well as with
+respect to the duration of the clauses. The Commission had concluded that at
+
+27
+EN
+
+maximum a duration of three years could be acceptable for a post-JV NCO under
+Article 101 TFEU for the markets in which Areva NP has been active with own
+products, in particular the markets for NIs, nuclear services and nuclear fuel
+assemblies. The same assessment applied to the confidentiality clause insofar as it
+amounts to a post-JV NCO. The definition of "Areva NP Core products and Core
+services" corresponds to that product scope. The Commitments reduce the duration
+of the clauses concerned, that is to say, the post-JV NCO and the post-JV
+confidentiality clause containing a non-use obligation for confidential business
+information, to three years after Siemens' loss of joint control over Areva NP. The
+Commitments therefore fully address the concerns identified by the Commission in
+its Preliminary Assessment.
+
+(104) The Commitments are not excessive since there is no less restrictive means for
+addressing the Commission's concerns than to lift the clauses insofar as they apply to
+product markets and for a duration that exceeds what can be accepted as ancillary or
+covered by Article 101(3) of the Treaty. The reduced scope and duration of the NCO
+(and the confidentiality clause to the extent it has the same effect) as a result of the
+Commitments continue to ensure a sufficient protection for Areva against facilitated
+competition by Siemens. Protection is still applicable in relation to Areva NP Core
+Products and Services until 16 October 2012. It is for those products and services,
+and for that duration, that protection of Areva NP's confidential business information
+is warranted in order to protect Areva against facilitated competition by Siemens that
+could threaten the acquisition of the full value of Areva NP by Areva. In addition,
+protection against disclosure of Areva NP's corporate constitution and administration
+documents is maintained beyond 16 October 2012, as well as a protection against
+disclosure and use of Areva NP's confidential technological know-how.
+
+(105) The Commitments will be made binding on Siemens and Areva.
+
+8. CONCLUSION
+
+(106) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes the Commitments, offered by the undertakings concerned to
+meet the Commission’s concerns expressed in its Preliminary Assessment, binding
+upon them. Recital 13 of the Preamble to Regulation (EC) No 1/2003 states that such
+a decision should not conclude whether or not there has been or still is an
+infringement. The Commission’s assessment of whether the Commitments offered
+are sufficient to meet its concerns is based on its Preliminary Assessment,
+representing the preliminary view of the Commission based on the initial
+investigation, and an analysis of the observations received from third parties
+following the publication of a Notice pursuant to Article 27(4) of Regulation (EC)
+No 1/2003.
+
+(107) In the light of the Commitments offered, the Commission considers that there are no
+longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+
+28
+EN
+
+(108) The Commission retains full discretion to investigate and open proceedings under
+Article 101 of the Treaty and Article 53 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Commitments in the Annex shall be binding on Areva SA and Siemens AG.
+
+Article 2
+
+There are no longer grounds for action in this case as regards the post-JV NCO and the
+confidentiality clause agreed between Areva SA and Siemens AG in the Shareholders'
+Agreement of 2001 on the creation of Areva NP.
+
+Article 3
+
+This Decision is addressed to:
+
+Siemens AG
+
+Otto-Hahn-Ring 6
+
+81739 München
+
+D - Germany
+
+Areva SA
+
+33 rue La Fayette
+
+F - 75 442 - Paris cedex 09
+
+France
+
+Done at Brussels,
+
+[SIGNED]
+For the Commission
+Joaquín ALMUNIA
+Vice-President
+
+29
+EN

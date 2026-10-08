@@ -1,0 +1,97 @@
+Brussels, 20.5.2009
+
+SG-Greffe(2009) D/2924
+
+## Subject: Case COMP/C-3/39.391 EFIM (Please quote this reference in all correspondence)
+
+(1) I refer to your complaint of 13 February 2006 lodged with the Commission against various manufacturers of inkjet printers and printer supplies, namely Hewlett Packard, Lexmark, Epson, and Canon regarding alleged violations of Article 81 and 82 of the EC Treaty in connection with the market for "ink tanks" / "ink cartridges". I also refer to your letters of 18/12/2006, 20/12/2006, 04/07/2006, 15/09/206, 14/03/2007, 13/04/2007, 05/06/2007, 05/11/2007, 03/12/2007, 11/03/2008 and 16/05/2008, 21/05/2008, 09/07/2008, 15/09/2008, 10/11/2008, and 11/11/2008 by which you provided additional information on the above matter, as well as Mr Hellström's letter of 11 December 2007, and the Commission's letter of 26 May 2008 ["Article 7 letter"] addressed to you in that matter and your response to the Article 7 letter of 9 July 2008.
+
+(2) For the reasons set out below, the Commission considers that there is no sufficient degree of Community interest for conducting a further investigation into the alleged infringement(s) and rejects your complaint pursuant to Article 7(2) of the Commission Regulation (EC) 773/2004 $^{1}$ .
+
+## 1. THE COMPLAINT
+
+(3)) In your complaint you alleged that printer manufacturers Hewlett Packard, Lexmark, Epson and Canon infringed Articles 81 EC and 82 EC by illegally excluding inkjet cartridge (re-)manufacturers such as Pelikan from their inkjet cartridges' aftermarkets through patenting strategies, the use of microchips and of recollection programs to shorten the supply of empty cartridges. You are requesting access to the market of ink cartridges produced by the four printer manufacturers, mainly through the providing of information about the intellectual property rights protecting inkjet cartridges and, in the alternative, the license of these intellectual property rights $^{2}$ .
+
+(4) In your complaint of 13 February 2006 you alleged in particular that the manufacturers of printer supplies "achieved and defended [a monopoly position] through several different forms of abusive conduct (exclusion and defensive strategies). "3 You stressed that to the extent third party suppliers are still offering products in the individual ink cartridges markets, they are increasingly being displaced.
+
+(5) You further alleged that "there are indications of a joint conduct by the key printer manufacturers with respect to the printer supplies markets."4
+
+(6) However, in your submission of 13 February 2006 you only provided information regarding an alleged abuse of dominant position and no information regarding the alleged infringement of Article 81 EC. In your response to the Article 7 letter of 9 July 2008 you refer again to the complaint of 13 February 2006 for evidence. However, the Section 7.5 (pages 41-44) of your complaint deals with allegations of "collective market dominance" and as you correctly note in paragraph 45 of your response these allegations fall under Article 82 EC. As the Court of First Instance held in its Airtours judgment of 6 June 2002, that you refer to, a collective dominant position would make each member of the dominant oligopoly consider to "adopt on a lasting basis a common policy on the market with the aim of selling at above competitive prices, without having to enter into an agreement or resort to a concerted practice within the meaning of Article 81 EC."5 Therefore, the Commission does not understand the information in that Section as referring to a potential infringement of Article 81 EC.
+
+(7) In view of the fact that there are no indications in your complaint of an infringement of Article 81 EC, such as indicia of the existence of an agreement, concertedcerted practice or a decision of an association of undertakings, the Commission has not further investigated this allegation. It is for the complainant to bring to the Commission's notice the matters of fact and of law underlying its complaint. $^{6}$
+
+## 2. ASSESSMENT
+
+## 2.1. Introduction
+
+(8) According to the settled case-law of the Community Courts, the Commission is not required to conduct an investigation of each complaint it receives. $^{7}$ The Community courts have also recognized that the Commission has discretion in its treatment of complaints. $^{8}$ In particular, the Commission is entitled to give differing degrees of priority and refer to the Community interest in order to determine the degree of priority to be applied to the various complaints brought before it. $^{9}$
+
+(9) In assessing the Community interest as regards the continuation of the investigation of a case the Commission may in particular balance (i) the significance of the alleged infringement in view of the functioning of the common market, (ii) the probability of establishing the existence of the infringement and (iii) the scope of the investigation required. $^{10}$
+
+(10) As regards your complaint, the Commission considers that the further investigation of the alleged foreclosure strategies would be disproportionate in light of the complexity of the investigation required and the limited likelihood of establishing (proof of) an infringement of Article 82 EC.
+
+(11) It should be underlined that the Commission does not assess the case on substantive issues, and even if it had done so, given the limited amount of indicia provided by you in your complaint, and the conclusions reached in earlier cases, it would have been unlikely that an infringement of the Article 82 EC would have been found. The reasons for this are set out in more detail below.
+
+2.2. Complexity of the investigation required, limited likelihood of establishing proof of infringements and disproportionality of further investigation
+
+(12) Further investigation into the matter would be disproportionate in view of the complexity of the investigation required and the limited likelihood of establishing the (proof of) an infringement of Article 82 EC.
+
+(13) For the current case the reasoning of the Commission in its rejection of the complaints in the Pelikan/Kyocera case and the Info-Lab/Ricoh case are informative, because the principles applied in these cases are of importance for determining the likelihood of establishing (proof of) an infringement of Article 82 EC with regard to your complaint. In Pelikan/Kyocera $^{11}$ , Pelikan argued that Kyocera was dominant on the market for Kyocera-compatible toner consumables although it had no significant market power in the relevant printer market. This raised the issue whether a company could be considered as dominant on the consumables market where there was no dominance in the upstream market, i.e. the relevant printer market. Central to this issue is the existence of a close link between these two markets. $^{12}$ Where a close link exists, competition on the primary market can constrain companies' behaviour on the secondary market.
+
+(14) The Commission held that the market for supply of toners and/or other consumables for printers of a specific brand must be considered a separate market. It argued, firstly, that Kyocera-compatible consumables are not interchangeable with the consumables for the brands of other machine manufacturers. Secondly, it considered that there is "a specific structure of supply and demand for Kyocera consumables, independent of the market structure for the supply of the primary equipment". It further found that Kyocera did not enjoy a dominant position on any relevant market and that even if it did there was no evidence of behaviour that could then be considered abusive. The Commission did not find that Kyocera enjoyed a dominant position in the market for consumables for Kyocera printers despite its large market share on this market. This was because Kyocera was subject to intense competition on the "primary" market - that for printers- and circumstances on the market were such that this competition also restrained its behaviour on the "secondary" market for its own printer consumables. $^{13}$
+
+(15) The Commission found that the printer market and the consumables market were interrelated in such a way that the competition on the printer market resulted in effective discipline in the secondary market. $^{14}$ Purchasers of printers were well informed about the price charged for consumables and appeared to take this into account in their decision to purchase a printer. The lifetime of a printer and the balance between the capital cost of a printer and the total cost of consumables for that printer over its lifetime were such that consumers would have a strong incentive to switch printer brand if the price of consumables for that brand were raised. The complexity and cost of printers was such that the costs of switching from one brand to another were not excessive. $^{15}$
+
+(16) The Commission held that dominance on the aftermarket was excluded “to the extent that a customer (i) can make an informed choice including lifecycle pricing, that he (ii) is likely to make such an informed choice accordingly, and that, (iii) in case of an apparent policy of exploitation being pursued in one specific aftermarket, a sufficient number of customers would adapt their purchasing behaviour at the level of the primary market (iv) within a reasonable time.” $^{16}$
+
+(17) The Commission considered it to be decisive when assessing dominance on the aftermarket in the Pelikan/Kyocera case whether, should Kyocera start raising prices for its consumables, such behaviour would trigger an adaptation in the purchasing pattern of new customers. The Commission held that such an adaptation would take place on the printer market. $^{17}$
+
+(18) The second informative case is a complaint by Info-Lab, a manufacturer of toner for photocopiers, against Ricoh, a photocopier manufacturer. Info-Lab alleged that Ricoh abused its dominant position on the market for toner cartridges compatible with certain Ricoh photocopiers and protected by Ricoh intellectual property rights by refusing to supply Info-Lab with empty toner cartridges, which would enable Info-Lab to compete with Ricoh in the sale of filled toner cartridges. $^{18}$ On 7 January 1999 the Commission rejected the complaint.
+
+(19) The Commission was of the opinion that a company cannot be obliged to such forced cooperation with prospective market-players, except under exceptional circumstances according to the essential facilities case-law. In the Info-Lab case the Commission considered that the sole purpose of selling empty cartridges would be to enable Info-Lab to compete with Ricoh in the market for filled toner cartridges.
+
+(20) The Commission considered furthermore that the application of Article 82 EC could only be envisaged were Ricoh to have a dominant position on the consumables market, which would allow it to act independently of possible competitors and especially to be free in setting prices. The Commission established that Ricoh was the only undertaking selling filled toner cartridges compatible with Ricoh photocopiers. However, according to the Commission's investigation, Ricoh had no dominant position in the photocopiers market. $^{19}$
+
+(21) The Commission then applied the four criteria developed in the Pelikan/Kyocera case and found that the former, toner cartridges market was closely linked to the photocopiers market and that Ricoh could not be considered to have a dominant position. $^{20}$
+
+(22) The principles applied in these cases can be used as well for determining the likelihood of establishing (proof of) an infringement of Article 82 EC with regard to your complaint.
+
+(23) Firstly, it appears on the basis of a preliminary examination that none of the four companies is prima facie in a dominant position on the primary market. According to the figures you provided on the inkjet printers market, the primary market, Hewlett Packard has a market share of around 43%, Epson and Canon have market shares of around 22% and 16% respectively and Lexmark around 14%. $^{21}$ The figures you provided also indicate that these market shares have been subject to changes. Your submission says for example that "Canon shows significant increase in 2003-2004" and that for Hewlett Packard "stehen die Margen wegen des harten Wettbewerbs unter Druck." $^{22}$ You also indicated that on the national markets of several Member States these four companies have different market shares on the market for inkjet printers. Therefore, it appears that all four printer manufacturers are subject to intense competition on the primary market for printers.
+
+(24) Your response to the Article 7 letter of 9 July 2008 does not provide additional facts or arguments that would lead to a different conclusion being reached on a dominant position on the primary market of any of these four printer manufacturers. Rather, the figures you provided yourself in your submission of 16 May 2008 give further evidence that the market shares have been subject to further changes after the entrance of Kodak on the market in 2007 with the introduction of its "EasyShare" inkjet printers. As your submission states, "Kodak is aiming for a No.2 slot [in the lucrative colour inkjet sector]." $^{23}$ The evidence in your 16 May 2008 submission of industry analysts' positive evaluations of Kodak's chances to gain market share gives further reason to believe that Kodak is a serious competitor. $^{24}$
+
+(25) Secondly, as outlined above, the various markets for cartridges compatible with a certain printer brand may constitute separate relevant aftermarkets, but dominance on the aftermarket can be excluded if competition on the printer market results in effective discipline in the secondary market. Even if each of the various markets for cartridges constitute separate relevant markets, given the evidence provided by you in your complaint, it is unlikely that the primary market and the aftermarkets are not closely linked in view of the above-mentioned criteria. This would lead to the conclusion that there is no dominance of the four printer manufacturers on their respective aftermarkets for the purposes of assessing your complaint.
+
+(26) Your response's main argument appears to be that the Commission is incorrect in following the approach and the criteria applied in the Pelikan/Kyocera and Info-Lab/Ricoh cases, but you have not brought forward any arguments or evidence that would lead to different criteria being applied or to a different conclusion being reached.
+
+(27) In your response to the Article 7 letter of 9 July 2008 you state that "there are no uniform and objective assessment criteria according to which the print costs can be established per page for specific printers/ ink cartridge types. It was stressed that all the information given to consumers yields no objective or correct picture owing to the lack of uniform assessment criteria. Also, no reliable information is available for the consumer, or the consumer is not interested when buying a printer." $^{25}$
+
+(28) However, your submission of 16 May 2008 states that "Kodak, using a divergent strategy, is seeking to raise the prices of printers and lower those of printer accessories" $^{26}$ and provides evidence that Kodak actively communicates the prices per page of their printers to the consumers. $^{27}$ The evidence you provided yourself from the Kodak website shows that Kodak provides a comparison of the prices per page of the Kodak printers versus other printers, and the evidence shows furthermore that several newspaper articles highlighted this information making it easily accessible to consumers. $^{28}$
+
+(29) Finally, in your response to the Article 7 letter of 09 July 2008 you put forward that "With its request for comprehensive information it has gone far to inquire into the facts of the case. The replies to the request for information have provided the Commission with more profound knowledge, so that, as far as Community interest is concerned, no objective reason exists for a different classification of the EFIM's antitrust complaint and the resulting priority." $^{29}$
+
+(30)) However, the Commission is not under an obligation, once it has taken investigative measures following the submission of a complaint to adopt a decision as to whether either Article 81 or Article 82 EC, or both, have been infringed or not. As the Court of First Instance held: "the Commission may take a decision to shelve a complaint for lack of a sufficient Community interest not only before commencing an investigation of the case but also after taking investigative measures, if that course seems appropriate to it at that stage of the procedure." $^{30}$ An obligation to adopt a decision "would not only be contrary to the very wording of Article 3(1) of Regulation No 17 [now Article
+
+7 of Regulation No 1/2003], according to which the Commission "may" adopt a decision concerning the existence of the alleged infringement" but "would also conflict with the settled case-law of the Court of Justice and Court of First Instance cited in paragraph 62 above according to which a complainant has no right to obtain from the Commission a decision." $^{31}$ However, even if in the current case the Commission has taken investigative measures, there is insufficient likelihood of being able to establish the existence of the infringements complained of, taking into account the limited amount of indicia provided by the complainants and its unconvincing nature.
+
+## 2.3. Conclusion
+
+(31) Although we do not assess the case on substantive issues, given the points outlined above regarding the limited amount of indicia provided by you in your complaint, and the conclusions reached in earlier cases, it is unlikely that an infringement of the Article 82 EC would be found.
+
+(32) To improve the effectiveness of competition policy it is essential to focus on conduct which is likely to harm competition, and consequently consumers, which does not appear to be the case in the current case. $^{32}$ Given the limited likelihood of establishing the proof of an infringement of Article 82, and the substantial investigatory resources which the Commission would have to invest in order to establish evidence for their existence, allocating the resources necessary to further investigate the case would be disproportionate. Furthermore, I would like to draw your attention to the fact that according to settled case law, Articles 81 and 82 of the EC Treaty produce direct effects in the relations between individuals and confer rights which, in particular the national courts must safeguard. $^{33}$
+
+## 3. CONCLUSION
+
+(33) In view of the above considerations, the Commission has come to the conclusion that there is no sufficient degree of Community interest for conducting a further investigation into the alleged infringement(s) and consequently rejects the complaint.
+
+## 4. PROCEDURE
+
+(34) An action challenging this Decision may be brought before the Court of First Instance of the European Communities in accordance with Article 230 of the EC Treaty.
+
+For the Commission
+
+![](images/42bae3025ba610ec8435bd520ec0980553103b7cff290b4464b7583865fcf6f3.jpg)
+
+Neelie KROES
+
+Member of the Commission

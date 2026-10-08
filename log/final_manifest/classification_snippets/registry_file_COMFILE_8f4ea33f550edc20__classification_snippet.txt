@@ -1,0 +1,244 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XC0925(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XC0925(01)
+Help
+Print
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39952 — Power Exchanges) (notified under document C(2014) 1204 final)
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39952 — Power Exchanges) (notified under document C(2014) 1204 final)
+Summary of Commission Decision of 5 March 2014 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.39952 — Power Exchanges) (notified under document C(2014) 1204 final)
+OJ C 334, 25.9.2014, pp. 5–6
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+25.9.2014
+EN
+Official Journal of the European Union
+C 334/5
+SUMMARY OF COMMISSION DECISION
+of 5 March 2014
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.39952 — Power Exchanges)
+(notified under document C(2014) 1204 final)
+(Only the English text is authentic)
+(2014/C 334/06)
+On 5 March 2014, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The decision relates to a single and continuous infringement of Article 101 of the Treaty and Article 53 of the EEA agreement relating to electricity spot trading services. Electricity spot trading services are provided by power exchanges to facilitate trade of spot electricity products. They include services to facilitate the actual trading itself (that is running a power exchange), the management of the implicit allocation of cross-border interconnection capacities through market coupling, and services to third parties for the development and operation of spot electricity trading. The decision is addressed to EPEX Spot (‘EPEX’) and to Nord Pool Spot AS (‘NPS’).
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(2)
+In February 2012, the Commission carried out unannounced inspections at the premises of EPEX (in France) and NPS (in Finland, Norway and Sweden).
+(3)
+The Commission initiated proceedings in this case on 22 March 2013. Settlement discussions took place between 3 June 2013 and 14 November 2013. Subsequently, EPEX and NPS (jointly referred to as ‘the parties’) submitted to the Commission their formal request to settle pursuant to Article 10a(2) of Regulation (EC) No 773/2004. On 11 December 2013, the Commission adopted a statement of objections and the parties both confirmed that its content reflected their submissions and that they remained committed to follow the settlement procedure. The Advisory Committee on restrictive practices and dominant positions issued a favourable opinion on 20 February 2014 and the Commission adopted the Decision on 5 March 2014.
+2.2.
+Addressees and duration of the infringement
+(4)
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA agreement by participating, during the periods indicated below, in anti-competitive activities with respect to spot trading services:
+(a)
+EPEX from 21 June 2011 until 7 February 2012;
+(b)
+NPS from 21 June 2011 until 7 February 2012.
+2.3.
+Summary of the infringement
+(5)
+EPEX and NPS engaged in a non-competition arrangement covering all their electricity spot trading services in the EEA and beyond. The aim was to restrict competition between them, to protect their traditional strongholds, and agree on expansion to new countries, while maintaining the power balance between them. The parties generally agreed not to compete with one another. The agreement included, in particular, an allocation of territories.
+(6)
+A continuous set of anti-competitive contacts involving the parties was considered to have started at the latest on 21 June 2011 and to have ended on 7 February 2012. Contacts between the parties took the form of physical meetings, telephone and video calls and e-mails. They involved senior management at both parties.
+2.4.
+Remedies
+(7)
+The fine has been calculated in line with the 2006 Guidelines on Fines
+(
+2
+)
+. The decision imposes fines on both EPEX and NPS.
+2.4.1.
+Basic amount of the fine
+(8)
+The basic amount of fine is set at 16 % of each undertaking’s sales of electricity spot trading services in the EEA.
+(9)
+The basic amount is multiplied by the number of years of participation in the infringement in order to take fully into account the duration of the participation for each undertaking in the infringement.
+2.4.2.
+Adjustments to the basic amount
+2.4.2.1.
+Aggravating and mitigating circumstances
+(10)
+There are no aggravating or mitigating circumstances in this case.
+2.4.2.2.
+Specific increase for deterrence
+(11)
+In this case, there is no need to increase the fine in order to achieve a sufficiently deterrent effect.
+2.4.3.
+Application of the 10 % turnover limit
+(12)
+In the case at hand, (on the basis of the latest available turnover figures), the fines for both parties exceed 10 % of their total turnover in 2012. Therefore, the fines for both parties are capped at 10 % of their respective total turnover.
+2.4.4.
+Settlement
+(13)
+As a result of the application of the Settlement Notice
+(
+3
+)
+, the amount of the fines to be imposed on EPEX and NPS is reduced by 10 %.
+3.
+FINES IMPOSED BY THE DECISION
+(14)
+For the infringement referred to above, the following fines are imposed:
+(a)
+EPEX Spot: EUR 3 651 000;
+(b)
+Nord Pool Spot AS: EUR 2 328 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+OJ C 210, 1.9.2006, p. 2
+.
+(
+3
+)
+OJ C 167, 2.7.2008, p. 1
+.
+Top

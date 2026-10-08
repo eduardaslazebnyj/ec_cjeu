@@ -1,0 +1,232 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52017XX0915(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52017XX0915(02)
+Help
+Print
+Final Report of the Hearing Officer — Yen Interest Rate Derivatives (YIRD) (AT.39861)
+Final Report of the Hearing Officer — Yen Interest Rate Derivatives (YIRD) (AT.39861)
+Final Report of the Hearing Officer — Yen Interest Rate Derivatives (YIRD) (AT.39861)
+OJ C 305, 15.9.2017, pp. 8–9
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+15.9.2017
+EN
+Official Journal of the European Union
+C 305/8
+Final Report of the Hearing Officer
+(
+1
+)
+Yen Interest Rate Derivatives (YIRD)
+(AT.39861)
+(2017/C 305/07)
+1.
+Introduction
+This case has followed a so-called hybrid settlement procedure. The Commission decided to conclude the case under the settlement procedure for the six settling parties
+(
+2
+)
+whereas the standard procedure was followed for ICAP.
+2.
+Investigation
+2.1.
+On 12 February 2013, the European Commission (‘Commission’) initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003
+(
+3
+)
+against UBS AG, UBS Securities Japan Co., Ltd, The Royal Bank of Scotland Group plc, The Royal Bank of Scotland plc, Deutsche Bank Aktiengesellschaft, Citigroup Inc., Citigroup Global Markets Japan Inc., JPMorgan Chase & Co, JPMorgan Chase Bank, National Association, J.P. Morgan Europe Limited, R.P. Martin Holdings Ltd, and Martin Brokers (UK) Ltd, (together ‘the settling parties’).
+2.2.
+On 29 October 2013 the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against ICAP plc, ICAP Management Services Ltd, and ICAP New Zealand Ltd (‘ICAP’).
+3.
+Settlement procedure
+3.1.
+Following settlement discussions and settlement submissions in accordance with Article 10a(2) of Regulation (EC) No 773/2004
+(
+4
+)
+, the Commission adopted a statement of objections (‘SO’), on 29 October 2013, addressed to the settling parties.
+The settling parties were alleged to have participated between 2007 and 2010 in one or more of seven bilateral infringements of Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement, distinct and separate from one another. These infringements concern Japanese Yen Interest Rate Derivatives (‘YIRDs’), referenced to the Japanese Yen LIBOR and in the case of one infringement, also YIRDs referenced to the Euroyen TIBOR. The parties sought to influence the levels of the Yen LIBOR and/or Euroyen TIBOR in order to positively affect the banks' trading positions for derivatives that use these rates as part of their settlement terms.
+3.2.
+Following the settling parties' confirmation that the allegations contained in the SO reflected the contents of their settlement submissions, on 4 December 2013, the Commission adopted a settlement decision, addressed to all the settling parties, and imposed fines on Citigroup, DB, JPMorgan, RBS and RP Martin.
+3.3.
+On 12 November 2013, after one meeting with the case team of the Directorate-General for Competition (‘DG Competition’), ICAP withdrew from the settlement procedure. The investigation against ICAP thus reverted and continued under the standard procedure (see hereafter).
+4.
+Standard procedure in relation to ICAP
+4.1.
+On 6 June 2014 the Commission adopted a SO against ICAP. The Commission alleges that ICAP participated, as a facilitator, in six separate infringements of Article 101 TFEU, in relation to the YIRD sector.
+4.2.
+DG Competition had initially granted ICAP a time-limit of four weeks to reply to the SO, which it extended by two weeks following ICAP's request. Upon ICAP's request, I further extended the time limit to reply to the SO by two extra weeks, until 14 August 2014.
+4.3.
+In its reply to the SO, ICAP submitted a number of complaints alleging that the Commission had breached the presumption of innocence, ICAP's right of defence and the principles of good administration. All these claims have been duly addressed in the draft decision.
+4.4.
+The oral hearing took place on 12 September 2014.
+4.5.
+Following the oral hearing, ICAP requested and obtained access to the settlement decision. DG Competition provided a short time period to ICAP to submit further written observations. In reply to ICAP's request for an extension of the deadline, I informed ICAP that the time limit granted by DG Competition was sufficient to allow it to verify the settlement decision, in particular in relation to the fines methodology that the Commission applied to RP Martin as facilitator and to make further comments in this respect.
+4.6.
+On 9 October 2014, ICAP submitted to DG Competition a late request for further access to an unspecified number of documents concerning certain turnover-related information that had been submitted to the Commission by the settling banks. DG Competition rejected this request and accordingly ICAP referred the matter to me on 17 October 2014.
+4.7.
+On 5 November 2014, I rejected ICAP's request, in particular on the basis that there is no general right for a party to obtain the sales data of the other parties during the administrative phase, even if, after the imposition of a fine in a decision, that data may be considered indirectly relevant for the calculation of the fine of the requesting party. Moreover, in the present case, I considered that the information contained in the SO did not justify the need to access the sales data of the other parties on the basis of ICAP's rights of defence.
+4.8.
+Finally, on 8, 9 and 16 October 2014, ICAP made submissions specifically relating to the Commission's allegations in the Statement of Objections. DG Competition considered all these additional submissions in its draft decision.
+5.
+Conclusion
+5.1.
+Pursuant to Article 16 of Decision 2011/695/EU, I have examined whether the draft decision addressed to ICAP deals only with objections in respect of which ICAP has been afforded the opportunity of making known its views, and I have come to a positive conclusion.
+5.2.
+In view of the above, I consider that the effective exercise of ICAP's procedural rights in this case has been respected.
+Brussels, 30 January 2015.
+Joos STRAGIER
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+).
+(
+2
+)
+Decision of the Commission of 4 December 2013. The Hearing Officer already presented a final report pursuant to Article 16 of Decision 2011/695/EU at the occasion of the adoption of the Decision of the Commission of 4 December 2013.
+(
+3
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+4
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+).
+Top

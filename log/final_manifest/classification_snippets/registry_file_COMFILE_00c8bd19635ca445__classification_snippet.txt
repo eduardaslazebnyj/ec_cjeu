@@ -1,0 +1,226 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52012XC0204(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52012XC0204(02)
+Help
+Print
+Summary of Commission Decision of 15 November 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.592 — Standard & Poor's) (notified under document C(2011) 8209) Text with EEA relevance
+Summary of Commission Decision of 15 November 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.592 — Standard & Poor's) (notified under document C(2011) 8209) Text with EEA relevance
+Summary of Commission Decision of 15 November 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.592 — Standard & Poor's) (notified under document C(2011) 8209) Text with EEA relevance
+OJ C 31, 4.2.2012, pp. 8–9
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+4.2.2012
+EN
+Official Journal of the European Union
+C 31/8
+Summary of Commission Decision
+of 15 November 2011
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case COMP/39.592 — Standard & Poor's)
+(notified under document C(2011) 8209)
+(Only the English text is authentic)
+(Text with EEA relevance)
+2012/C 31/05
+On 15 November 2011, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+PRELIMINARY COMPETITION CONCERNS
+(1)
+In its statement of objections of 13 November 2009, which constitutes a preliminary assessment within the meaning of Article 9(1) of Regulation (EC) No 1/2003, the Commission came to the provisional conclusion that Standard & Poor's (S&P), a subsidiary of The McGraw-Hill Companies, Inc., had infringed Article 102 of the Treaty and Article 54 of the EEA Agreement by setting unfairly high fees for the supply of US International Securities Identification Numbers (ISINs).
+(2)
+US ISINs are used by banks and other financial institutions in order to identify financial instruments issued in the US in inter-bank communications, asset and portfolio valuation, clearing and settlement, front office operations in particular in relation to bonds, custody issues, internal reporting and reporting to authorities, reference data management, etc.
+(3)
+The ISIN system was developed by the International Organisation for Standardisation (‘ISO’) as ISO standard 6166, in response to the increase in securities transactions at international level. US ISINs are based on CUSIPs
+(
+2
+)
+, which are the securities identifiers developed first for the domestic market in the US. The ISO standard 6166 designates S&P as the responsible National Numbering Agency (NNA) for the US. S&P has therefore a dominant position on the market for the allocation of ISINs according to the ISO standard 6166 but also on the market for first-hand electronic distribution and licensing of US ISINs via data feeds. Although other companies also distribute ISINs, for instance, the information service providers (ISPs), those ‘second’ or ‘third’ hand distributors are primarily users and redistributors but not the source of the ISINs.
+(4)
+The ISO standard 6166 was developed at international level as a public service to the financial services industry. Under ISO's cost recovery principle, NNAs must not charge, for the distribution of ISINs, more than necessary to recover the costs incurred for such distribution and only if they are the direct supplier of ISINs. Furthermore, according to the same principle, in the absence of a direct supply, NNAs should not charge for the mere use of ISINs. In other words, charges to direct users should observe the cost recovery principle and there should be no charges to indirect users. In this case, the ISO cost recovery principle provides a strong and useful indication for the assessment whether the prices charged by S&P are unfair within the meaning of Article 102 of the Treaty.
+(5)
+On that basis, the statement of objections expressed the concern that S&P's licensing fees for US ISINs are unfair for several reasons. Firstly, S&P applies a licensing fee vis-à-vis indirect users, which is not in line with the aforementioned principles. Secondly, the licensing fees that S&P demands from direct users significantly exceed the costs incurred for that activity.
+2.
+COMMITMENT DECISION
+(6)
+S&P offered commitments pursuant to Article 9 of Regulation (EC) No 1/2003 to meet the Commission's competition concerns.
+(7)
+On 14 May 2011, a notice was published in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case and the commitments and inviting interested third parties to give their observations on the commitments within one month following publication. On 12 and 26 July 2011, the Commission informed S&P of the observations received from interested third parties following the publication of the notice. On 13 September 2011, S&P submitted a revised proposal for commitments (the ‘revised commitments’).
+(8)
+By Decision of 15 November 2011, pursuant to Article 9 of Regulation (EC) No 1/2003, the Commission made the revised commitments binding on S&P for five years. The key elements of the commitments offered by S&P are summarised below.
+(9)
+S&P committed to abolish all charges to indirect users for the use of US ISINs within the EEA. This implies, firstly, that all indirect users currently having a licensing agreement with S&P allowing them to use US ISINs within the EEA will no longer pay licensing fees. Secondly, S&P committed not to impose licensing fees on any indirect user which does not currently have a contract with S&P.
+(10)
+In respect of direct users and ISPs or service bureaus (that is to say, outsourced data management service providers) that decide to obtain US ISINs from S&P and not from ISPs, S&P commits to distribute US ISIN records separately from other added value information, via an FTP
+(
+3
+)
+delivery on a daily basis. Having regard to S&P’s cost data, the initial price of that service will be set at USD 15 000 per annum.
+(11)
+Direct and indirect users as well as ISPs which currently have a contractual relationship in place with S&P for the use and/or distribution of US ISINs within the EEA, will, following notification from S&P, have a right to early termination of their existing contracts with S&P, effective from the implementation date
+(
+4
+)
+. As of the implementation date they will be able to choose between subscribing to the new US ISIN Record Service, continuing with their existing contracts or subscribing to any other product S&P offers.
+(12)
+The commitments will be implemented within five months from the date when this Decision is notified to S&P. S&P will communicate the exact date (the ‘implementation date’) to the Commission.
+(13)
+The effect of the commitments is limited to the EEA. This means that direct and indirect users of the new service must be located within the EEA. S&P committed to submit a yearly confidential report to the Commission on the implementation of the commitments. The commitments will apply for five years, starting from the implementation date.
+(14)
+However, S&P intends to impose certain restrictions on the use of US ISIN records. Both direct and indirect users will be required to conclude an agreement with S&P that prohibits the extraction of CUSIPs from the US ISIN data as well as the bulk redistribution and resale of US ISINs to companies other than affiliates located within the EEA. The agreements between indirect users and their ISPs will contain the same clauses. ISPs and service bureaus will have the right to redistribute US ISIN records in bulk format, but they may not extract CUSIPs from the US ISIN data. ISPs will be allowed to redistribute US ISIN records to their affiliates, but not to other ISPs.
+(15)
+The Advisory Committee on restrictive practices and dominant positions issued a favourable opinion on the adoption of the decision on 25 October 2011. On 26 October 2011, the Hearing Officer issued his final report.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+CUSIPs are the national identifiers on which the US ISINs are based by adding a country code and a control number. CUSIP stands for Committee on Uniform Security Identification Procedures.
+(
+3
+)
+File Transfer Protocol.
+(
+4
+)
+The date on which S&P will make available the US ISIN Record Masterfile in data feed format via FTP delivery.
+Top

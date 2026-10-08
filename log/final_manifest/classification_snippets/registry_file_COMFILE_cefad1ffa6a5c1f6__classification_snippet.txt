@@ -1,0 +1,460 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 20 XII 2006
+K (2006) 6765
+
+ENTSCHEIDUNG DER KOMMISSION
+vom 20 XII 2006
+
+in einem Verfahren nach Artikel 65 EGKS-Vertrag
+
+(Sache COMP/39.234 – Legierungszuschlag, Neuentscheidung)
+
+(Nur der deutsche Text ist verbindlich)
+
+FASSUNG ZUR ÜBERMITTLUNG AN:
+THYSSENKRUPP STAINLESS AG
+
+INHALTSVERZEICHNIS
+I. VERFAHREN.................................................................................................................... 5
+A. Einleitung ....................................................................................................................... 5
+B. Verfahren in Verbindung mit Fall IV/35.814................................................................. 5
+1. Beschwerdepunkte vom 24. April 1997..................................................................... 5
+2. Der Sonderfall TKS.................................................................................................... 6
+3. Entscheidung 98/247/EGKS der Kommission vom 21. Januar 1998 ........................ 7
+4. Rechtsmittelverfahren ................................................................................................ 7
+C. Verfahren im Rahmen von COMP/39.234..................................................................... 8
+II. KARTELLVERLETZUNG AUS DER SICHT DES JAHRES 1998 ............................... 9
+A. Sachverhalt..................................................................................................................... 9
+1. Die Erzeugnisse.......................................................................................................... 9
+2. Der räumliche Markt ................................................................................................ 10
+3. Das an der Kartellrechtsverletzung beteiligte Unternehmen.................................... 11
+B. Vorgeschichte: Der Legierungszuschlag und seine Berechnung................................. 11
+C. Das Verhalten der Unternehmen im Dezember 1993 und im Januar 1994.................. 12
+1. Die Madrider Zusammenkunft vom 16. Dezember 1993 ........................................ 13
+a) Teilnehmer ........................................................................................................... 13
+b) Gegenstand........................................................................................................... 13
+c) Wahl der Formel und der Referenzwerte............................................................. 14
+d) Anwendungszeitpunkt.......................................................................................... 16
+e) Fax vom 20. Dezember 1993 ............................................................................... 17
+2. Der Verlauf nach der Madrider Zusammenkunft..................................................... 18
+D. Anwendung des Legierungszuschlags ......................................................................... 20
+III. RECHTLICHE WÜRDIGUNG................................................................................... 22
+A. Die Rechtsgrundlage .................................................................................................... 22
+1. Der EGKS-Vertrag................................................................................................... 22
+2. Die Mitteilung von 2002 .......................................................................................... 23
+3. Lex mitior................................................................................................................. 26
+B. Materiell rechtliche Aspekte des Kartellverhaltens nach Artikel 65 § 1 EGKS-Vertrag
+29
+1. Allgemeines.............................................................................................................. 29
+a) Kartell................................................................................................................... 29
+b) Gegenstand, Auswirkung und Dauer des Kartells ............................................... 30
+(1) Gegenstand und Auswirkung des Kartells ................................................... 30
+(2) Dauer des Verstoßes..................................................................................... 31
+(3) Argumentation der Beteiligten..................................................................... 31
+c) Ergebnis zu Artikel 65 § 1 EGKS-Vertrag........................................................... 31
+C. Nichtanwendbarkeit von Artikel 65 § 2 EGKS-Vertrag.............................................. 32
+D. Adressat dieser Entscheidung....................................................................................... 32
+1. Die Haftung der TKS für das Verhalten der TS-AG................................................ 32
+a) Die Erklärung der TKS vom 23. Juli 1997........................................................... 32
+b) Das Rechtsmittelurteil des Gerichtshofs .............................................................. 33
+c) TKS ist nicht der wirtschaftliche Nachfolger von TS-AG................................... 35
+d) Kartellrechtliche Rechtsnachfolge - das Urteil „Enichem Anic“......................... 35
+e) Privatautonomone Erklärung................................................................................ 36
+f) Die Entscheidung der Kommission „MCAA“ ..................................................... 36
+E. Die Wiederaufnahme des Verfahrens .......................................................................... 37
+F. res iudicata/ne bis in idem............................................................................................ 37
+G. Verjährung.................................................................................................................... 39
+
+2
+
+H. Formelle Unzulänglichkeit der neuen Beschwerdepunkte........................................... 40
+I. Akteneinsicht................................................................................................................ 41
+IV. Sanktionen.......................................................................................................................... 41
+1. Anwendbarkeit von Artikel 65 § 5 EGKS-Vertrag.................................................. 41
+2. Feststellung der Höhe der Geldbusse....................................................................... 42
+a) Schwere des Verstoßes......................................................................................... 42
+b) Dauer des Verstoßes............................................................................................. 43
+c) Erschwerende und mildernde Umstände.............................................................. 43
+d) Außergewöhnliche Umstände .............................................................................. 43
+e) Lex mitior............................................................................................................. 44
+f) Kronzeugenregelung von 1996 ........................................................................... 44
+
+3
+
+ENTSCHEIDUNG DER KOMMISSION
+vom 20 XII 2006
+
+in einem Verfahren nach Artikel 65 EGKS-Vertrag
+
+(Sache COMP/39234 – Legierungszuschlag, Neuentscheidung)
+
+(nur der deutsche Text ist verbindlich)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN −
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft für Kohle und Stahl,
+insbesondere auf Artikel 65,
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Umsetzung der Wettbewerbsregeln gemäß Artikel 81 und 82 des Vertrages1,
+
+gestützt auf die Entscheidung der Kommission vom 5. April 2006 das Verfahren im
+gegenständlichen Fall teilweise wieder aufzunehmen,
+
+gestützt auf die der Kommission vorliegenden Informationen und die gemäß Artikel 47 des
+EGKS-Vertrags erfolgten Nachprüfungen,
+
+gestützt auf die schriftlichen Stellungnahmen gemäß Artikel 36 EGKS-Vertrag,
+
+gestützt auf die Auskunftsersuchen gemäß Artikel 18 der Verordnung (EG) Nr. 1/2003,
+
+nach Aufforderung des beteiligten Unternehmens zur Stellungnahme zu den von der
+Kommission mitgeteilten Beschwerdepunkten gemäß Artikel 27 Absatz 1 der Verordnung (EG)
+Nr. 1/2003 und der Verordnung (EG) Nr. 773/2004 der Kommission vom 7. April 2004 über
+die Durchführung von Verfahren auf der Grundlage der Artikel 81 und 82 EG-Vertrag durch
+die Kommission2,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,3
+
+gestützt auf den Endbericht des Anhörungsbeauftragten in diesem Fall4,
+
+in Erwägung nachstehender Gründe:
+
+1 ABl. L 1vom 4.1.2003, S.1.
+
+2 ABl. L 123 vom 27.4.2004, S. 18.
+
+3
+
+4
+
+4
+
+I. VERFAHREN
+
+A. Einleitung
+(1) Die vorliegende Entscheidung (COMP/39.234) betrifft die Wiederaufnahme des
+Verfahrens IV/35.814 (Legierungszuschlag), welches mit Entscheidung 98/247/EGKS
+der Kommission endete5. Letztgenannte Entscheidung wurde aufgrund eines
+Verfahrensfehlers vom Gericht Erster Instanz der Europäischen Gemeinschaften mit
+Urteil vom 13. Dezember 2001 in den verbundenen Rechtssachen T-45/98 und T 47/98
+(Krupp Thyssen Stainless GmbH und Acciai Terni Spa/Kommission)6 und vom
+Gerichtshof im Rechtsmittelverfahren mit Urteil vom 14. Juli 2005 in den verbundene
+Rechtssachen C-65/02 P und C-73/02 P, (ThyssenKrupp Stainless GmbH und
+ThyssenKrupp Acciai speciali Terni SpA/Kommission)7 teilweise aufgehoben.
+
+(2) Adressat der vorliegenden Entscheidung ist die juristische Person ThyssenKrupp
+Stainless AG (vormals ThyssenKrupp Stainless GmbH, vormals Krupp Thyssen
+Stainless GmbH, vormals Krupp Thyssen Nirosta GmbH, vormals Krupp Nirosta
+GmbH, nachstehend: TKS), wenngleich die Entscheidung die Zuwiderhandlung der
+juristischen Person Thyssen Stahl AG (nachstehend: TS-AG, nunmehr Thyssen Stahl
+GmbH) betrifft.
+
+B. Verfahren in Verbindung mit Fall IV/35.814
+
+1. Beschwerdepunkte vom 24. April 1997
+
+(3) Aufgrund von Informationen in der Fachpresse sowie informeller Klagen einiger
+Verbraucher hat die Kommission eine Untersuchung über die Anwendung eines unter
+der Bezeichnung "Legierungszuschlag" bekannten gemeinsamen Aufpreises durch die
+Hersteller von nichtrostendem Stahl durchgeführt.
+
+(4) Gemäß Artikel 47 EGKS-Vertrag hat die Kommission am 16. März 1995 eine
+Reihe von Herstellern ersucht, ihr verschiedene Informationen über diese
+Preisänderungen, die Formeln oder Methoden zur Berechnung der angewandten Höhe,
+die Umstände und das Datum der Erstanwendung dieser Methode sowie deren seitherige
+Anwendungen oder Änderungen zu übermitteln.
+
+(5) Auf der Grundlage der vorliegenden Informationen und insbesondere der Kopien
+von Rundschreiben der Hersteller, in denen diese den Kunden die Änderung der
+Berechnungsgrundlagen des Legierungszuschlags ankündigten, hat die Kommission am
+19. Dezember 1995 19 Unternehmen eine Mitteilung der Beschwerdepunkte übersandt.
+
+(6) Nach Einsichtnahme in die Akten haben die Unternehmen Anfang 1996 ihre
+Antworten auf diese Beschwerdepunkte übermittelt.
+
+5 ABl. L 100 vom 1.4. 1998, S. 55.
+
+6 Slg. 2001, S. II-3757.
+
+7 Noch nicht veröffentlicht.
+
+5
+
+(7) Aufgrund dieser Antworten stellte die Kommission neue Ermittlungen an. So
+fanden gemäß Artikel 47 EGKS-Vertrag Nachprüfungen statt und wurden
+Auskunftsersuchen geschickt.
+
+(8) Am 24. April 1997 sandte die Kommission an acht Unternehmen
+Beschwerdepunkte. In ihren Antworten haben die Unternehmen ausdrücklich auf die
+Möglichkeit verzichtet, ihre Argumente in einer Anhörung geltend zu machen.
+
+2. Der Sonderfall TKS
+
+(9) Während des laufenden Verwaltungsverfahrens, genau ab 1. Januar 1995, übernahm
+eine der von der Kommission untersuchten juristischen Personen, nämlich TKS, den
+von dem Verfahren erfassten Geschäftsbereich für nichtrostenden Flachstahl einer
+anderen von der Kommission untersuchten juristischen Person, nämlich TS-AG.
+
+(10) Die juristische Person TS-AG, welche nach dem 1. Januar 1995 als Unternehmen
+fortbestand, und auch noch heute besteht, war in der kartellrelevanten Produktgruppe
+[siehe Randnummer (30)] seit dem 1. Januar 1995 und während des gesamten
+Verwaltungsverfahrens IV/35.814, also bis Anfang 1998, nicht mehr wirtschaftlich tätig.
+
+(11) Die Vertreter von TKS wollten auch die Vertretung der TS-AG abdecken, und
+zwar spezifisch für Sachverhalte, die zumindest bis auf das Jahr 1993 zurückgehen.
+Auf Verlangen der Vertreter der TKS sowie der TS-AG sollte die Kommission
+überhaupt jeglichen weiteren Schriftverkehr ausschließlich an TKS senden, egal ob es
+um Handlungen der TKS oder der TS-AG ging.
+
+(12) Dieser Aufforderung folgte die Kommission jedoch zunächst nicht und
+behandelte weiterhin beide juristischen Personen als getrennte Verfahrensparteien.
+Dennoch hat TKS oft Anfragen der Kommission an TKS und TS-AG in einem
+einzigen Schreiben beantwortet und damit beide Unternehmen abgedeckt. Besonders
+illustrativ ist das Schreiben vom 17. Dezember 1996. Dieses Schreiben sollte die
+Kooperationsbereitschaft beider Unternehmen darlegen und der Kommission bei der
+Sachverhaltsaufklärung behilflich sein. Diese Kooperation wurde dann auch
+tatsächlich in der endgültigen Entscheidung der Kommission bei der
+Bußgeldberechnung begünstigend im Rahmen der Mitteilung der Kommission über
+die Nichtfestsetzung oder die niedrigere Festsetzung von Geldbußen in Kartellsachen8
+von 1996 (nachstehend: Kronzeugenregelung) berücksichtigt9.
+
+(13) Trotz dieser Umstände hat die Kommission die Beschwerdepunkte vom 24.
+April 1997 getrennt an TKS und TS-AG gesandt. In der Antwort auf die Mitteilung
+der Beschwerdepunkte10 weist TS-AG ausdrücklich noch einmal darauf hin, dass TKS
+die juristische Verantwortung für TS-AG übernommen hat. Gleichwohl antwortete
+TS-AG in eigenem Namen auf die Mitteilung der Beschwerdepunkte.
+
+8 ABl.C 207 vom 18.7. 1996, S. 4.
+
+9 Siehe Fußnote 5, Rdn. 101.
+
+10 Schreiben vom 30. Juni 1997, Seite 2.
+
+6
+
+(14) Um diese Situation weiter zu klären, richtete TKS am 23. Juli 1997 ein
+Schreiben an die Kommission in welchem sie erklärte: „...im Zusammenhang mit dem
+im Betreff genannten Verfahren [Sache IV/35.814] haben Sie gegenüber dem
+Rechtsvertreter der [TS-AG] ... um eine ausdrückliche Bestätigung der [TKS] gebeten,
+dass diese infolge der Übertragung des Geschäftsbereichs Rostfrei-Flach der [TS-AG]
+die Verantwortung für etwaige Verhaltensweisen der Thyssen Stahl AG [TS-AG]
+übernimmt, soweit Rostfrei Flachprodukte, die Gegenstand des genannten Verfahrens
+sind, und zwar auch, soweit sie bis ins Jahre 1993 zurückreichen, betroffen sind. Dies
+bestätigen wir Ihnen hiermit ausdrücklich.“.
+
+(15) Die Kommission hat sich dann ab 23. Juli 1997 verfahrensmäßig insofern auf
+diese Situation eingestellt als nur mehr TKS als Verfahrensbeteiligte angesehen
+wurde. Die drei Monate zuvor an alle potentiellen Kartellteilnehmer geschickten
+Beschwerdepunkte wurden TKS in ihrer Rolle als Verantwortungsträger von TS-AG
+nicht noch einmal zugeschickt.
+
+3. Entscheidung 98/247/EGKS der Kommission vom 21.
+Januar 1998
+
+(16) Am 21. Januar 1998 stellte die Kommission durch die Entscheidung
+98/247/EGKS in d
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rz 2006 hatte die TS-AG im
+Geschäftsjahr 2004/2005 einen Gesamtumsatz von über 15 Mrd. EUR. 10% davon,
+und damit die Höchstgrenze unter dem EG-Vertrag, sind 1,5 Mrd. EUR.
+
+(168) Es folgt daraus , dass die Anwendung des EG-Vertrages in concreto nicht
+vorteilhafter wäre als der EGKS-Vertrag, es sei denn die Kommission würde mit der
+Geldbuße den Höchstbetrag unter dem EG-Vertrag von 1,5 Mrd. EUR überschreiten.
+
+2. Feststellung der Höhe der Geldbusse
+
+(169) Um die Höhe der Geldbuße zu bestimmen wendet die Kommission die Leitlinien
+für das Verfahren zur Festsetzung von Geldbußen, die gemäß Artikel 15 Absatz 2 der
+Verordnung Nr. 17 und gemäß Artikel 65 Absatz 5 EGKS-Vertrag festgesetzt wurden98
+an. Diese Leitlinien finden Anwendung, unabhängig davon ob es sich um Geldbußen
+nach dem EG- oder EGKS-Vertrag handelt. In Bezug auf die Herabsetzung der Geldbuße
+ist das Verhalten sowohl der TS-AG als auch der TKS im Verwaltungsverfahren
+hinsichtlich der Zuwiderhandlung der TS-AG relevant.
+
+(170) Im vorliegenden Fall zieht die Kommission ausnahmsweise - um die
+Gleichbehandlung bei der Bußgeldfestsetzung zwischen allen Unternehmen, welche
+die Kommission mit der Entscheidung 98/247/EGKS sanktioniert hat, zu garantieren, -
+die Tatsache in Betracht, dass sie in der Entscheidung 98/247/EGKS schon einmal
+über den Bußgeldbetrag gegen TKS für das Verhalten der TS-AG entschieden hat.
+
+a) Schwere des Verstoßes
+
+98 ABl. C 9 vom 14.1.1998, S.3.
+
+42
+
+(171) In Anbetracht der Entscheidung 98/247/EGKS und unter Wahrung des Prinzips
+der Gleichbehandlung der Entscheidungsadressaten geht die Kommission für den
+Gegenstand dieses Falles davon aus, dass Vereinbarungen oder abgestimmte Praktiken,
+die eine einheitliche Erhöhung eines Preiselements zum Gegenstand haben, einen
+schweren Verstoß gegen das Gemeinschaftsrecht darstellen. TKS und TS-AG
+begründeten diesen Beschluss im Ausgangsverfahren mit der kritischen Wirtschaftslage
+aufgrund der gestiegenen Legierungskurse in Verbindung mit dem Rückgang der Preise
+für nichtrostenden Stahl. Die Kommission bestreitet nicht das Recht jedes einzelnen
+Unternehmens, zur Lösung dieser Situation unabhängig voneinander festgelegte
+Maßnahmen zu ergreifen; die Abstimmung nahezu aller Hersteller von Flachprodukten
+aus nichtrostendem Stahl über den Inhalt dieser Maßnahmen ist jedoch unannehmbar.
+
+(172) Angesichts des offenkundigen Charakters des Verstoßes sind symbolische
+Geldbußen nicht angemessen. Aus diesen Gründen wird die Höhe der Geldbuße, die der
+Schwere des Verstoßes entspricht, auf 4 Mio Euro festgesetzt.
+
+b) Dauer des Verstoßes
+
+(173) Die Abstimmung begann mit der Madrider Zusammenkunft am 16. Dezember
+1993 und endete am 31. Dezember 1994. Da der Verstoß länger als ein Jahr dauerte, ist
+der Grundbetrag um 10% zu erhöhen.
+
+c) Erschwerende und mildernde Umstände
+
+(174) Im vorliegenden Fall gewährt die Kommission - in Anbetracht der
+Entscheidung vom 98/247/EGKS und unter Wahrung des Prinzips der
+Gleichbehandlung der Entscheidungsadressaten - 10% als mildernden Umstand für die
+wirtschaftliche Situation des Sektors.
+
+(175) TKS beantragt auch, dass ihre Zusammenarbeit als Mitwirkung außerhalb des
+Anwendungsbereichs der Kronzeugenregelung gewertet werden soll, da sie den
+Rechtsverstoß nicht bestreitet.
+
+(176) Die Kommission vertritt die Auffassung, dass das Nichtbestreiten des
+Rechtsverstoßes auf der vorletzten Seite der Beantwortung der Mitteilung der
+Beschwerdepunkte - nachdem sogar ein ganzes Kapitel der Unanwendbarkeit des
+EGKS-Vertrages gewidmet und die Unmöglichkeit TKS für das Verhalten der TS-AG
+verantwortlich zu machen als horizontales Zentralthema herausarbeitet wurde, sowie
+in Anbetracht der Tatsache, dass die Entscheidung 98/247/EGKS durch die
+Rechtsprechung in Bezug auf die relevanten Rechtsprinzipien einer solchen
+Zuwiderhandlung bestätigt wurde-, in keiner Weise dazu beigetragen hat, dass die
+Kommission die Zuwiderhandlung mit Hilfe von TKS leichter nachweisen konnte.
+Daher ist die Kommission der Ansicht, dass es keine sonstigen Umstände gibt, die
+eine Ermäßigung der Geldbußen außerhalb des Anwendungsbereichs der
+Kronzeugenregelung rechtfertigen würden.
+
+d) Außergewöhnliche Umstände
+
+43
+
+(177) In der Entscheidung 98/247/EGKS wurde der Grundbetrag der Geldbuße für
+TKS (in Bezug auf das Verhalten von TS-AG) unter Einbeziehung des genannten
+mildernden Umstandes bereits auf 3,960 Mio EUR festgesetzt. Ebenfalls mit
+Entscheidung 98/247/EGKS wurden weitere Unternehmen in demselben
+Bußgeldverfahren mit einem Bußgeld belegt. Um die Gleichbehandlung der TKS bei
+der Bußgeldfestsetzung mit diesen anderen Unternehmen zu garantieren, sollte die
+Geldbuße im vorliegenden Verfahren wiederum auf 3,960 Mio EUR festgesetzt
+werden.
+
+e) Lex mitior
+
+(178) Die Höhe der Geldbuße von 3,960 Mio EUR überschreitet weder den im EGKS-
+Vertrag noch den im EG-Vertrag festgesetzten Höchstbetrag. Es folgt aus den
+Überlegungen der Randnummer (162), dass die Kommission zu Recht Artikel 65 § 5
+EGKS-Vertrag im vorliegenden Fall zur Berechnung der Geldbusse anwendet.
+
+f) Kronzeugenregelung von 199699
+(179) Bei der Prüfung der Voraussetzungen für die Anwendung der
+Kronzeugenregelung ist darauf hinzuweisen, dass dieses Verfahren das
+Ausgangsverfahren ab jenem Punkt wiederholt, an welchem der Verfahrensfehler
+begangen worden ist, also nach dem 23. Juli 1997 [siehe Randnummer(135)ff.].
+Handlungen, die vor diesem Zeitpunkt im Ausgangsverfahren gesetzt worden sind,
+werden auch in diesem Verfahren berücksichtigt.
+
+(180) TKS kann weder in den Genuss der Bestimmungen von Punkt B) noch Punkt C)
+der Kronzeugenregelung kommen, da die Kartellbildung der Kommission weder vor der
+Nachprüfung angezeigt wurde, noch hat das Unternehmen, nachdem die Kommission
+eine Nachprüfung vorgenommen hat, die keine ausreichenden Gründe für die Eröffnung
+eines Verfahrens im Hinblick auf den Erlass einer Entscheidung geliefert hat, die
+geheime Absprache angezeigt100.
+
+(181) TKS kann jedoch in den Genuss der Bestimmungen von Punkt D) "Spürbar
+niedrigere Festsetzung der Geldbuße" kommen.
+
+(182) Im Rahmen des Ausgangsverfahrens hat TKS mit Schreiben vom 17. Dezember
+1996 bei der Aufklärung des Sachverhalts in Bezug auf TS-AG mitgewirkt [siehe
+Randnummer (12)]. Dies rechtfertigt, unter Berücksichtigung des Urteils des Gerichts,
+eine Herabsetzung des Betrags der Geldbuße um 20 % auf 3,168 Mio EUR101.
+
+99 Die Mitteilung aus dem Jahre 1996 findet in diesem Fall Anwendung, da Nummer 28 der Mitteilung 2002
+(Mitteilung der Kommission über den Erlass und die Ermäßigung von Geldbussen in Kartellsachen, ABL. C
+45 vom 19.2.2002, S.3) festlegt, dass die Mitteilung 2002 erst auf jene Anträge von Unternehmen
+anwendbar ist, die ab dem 14. Februar 2002 gestellt wurden.
+
+100 Siehe Fußnote 6, Rdnr. 233.
+
+101 Siehe Fußnote 6, Rdnr. 281.
+
+44
+
+(183) In ihrer Antwort vom 17. Mai 2006 auf die Mitteilung der Beschwerdepunkte
+von 2006 hat TKS ausdrücklich erklärt, dass sie die in den Beschwerdepunkten
+vorgehaltenen Tatsachen in den Jahren 1993 bis Januar 1998 nicht bestreitet, und dass
+die nicht bestrittenen Tatsachen einen Verstoß gegen Artikel 65 § 1 EGKS-Vertrag
+dargestellt haben. Die Kommission vertritt die Auffassung, dass das Nichtbestreiten
+der Tatsachen für einen Zeitraum, der mit dem entscheidungsrelevanten Zeitraum
+nicht korrespondiert, und in Bezug auf keine konkrete juristische Person sowie das
+Nichtbestreiten der Anwendung des EGKS-Vertrages auf die unbestrittenen Tatsachen
+auf der vorletzten Seite der Beantwortung der Mitteilung der Beschwerdepunkte -
+nachdem sogar ein ganzes Kapitel der Unanwendbarkeit des EGKS-Vertrages
+gewidmet und die Unmöglichkeit TKS für das Verhalten der TS-AG verantwortlich zu
+machen als horizontales Zentralthema herausarbeitet wurde -, sowie in Anbetracht der
+Tatsache, dass die Entscheidung 98/247/EGKS durch die Rechtsprechung in Bezug
+auf die Zuwiderhandlung als solche bestätigt wurde, in keiner Weise dazu beigetragen
+hat, dass die Kommission die Zuwiderhandlung mit Hilfe von TKS leichter
+nachweisen konnte. Daher ist die Kommission der Ansicht, dass dieser Erklärungen
+von TKS kein kooperatives Element beigemessen werden kann, welche eine zusätzliche
+Herabsetzung der Geldbuße rechtfertigen könnte.
+
+45
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Die Thyssen Stahl GmbH (vorher Thyssen Stahl AG) hat zwischen 16. Dezember 1993 und 31.
+Dezember 1994 durch abgestimmte Änderung der Referenzwerte der Formel zur Berechnung
+des Legierungszuschlags und durch Anwendung dieser Änderung gegen Artikel 65 § 1 EGKS-
+Vertrag verstoßen, wobei diese Handlungsweise die Beschränkung und Verfälschung des
+normalen Wettbewerbs im Gemeinsamen Markt sowohl zum Ziel als auch zur Folge hatte.
+
+Artikel 2
+1. Wegen der in Artikel 1 genannten Verstöße wird eine Geldbuße in Höhe von 3 168 000
+EUR festgesetzt:
+2. Da die juristische Person ThyssenKrupp Stainless AG mit Schreiben vom 23. Juli 1997
+die Verantwortung für das Verhalten der juristischen Person Thyssen Stahl AG übernommen hat,
+wird die Geldbuße der ThyssenKrupp Stainless AG auferlegt.
+
+Artikel 3
+Die gemäß Artikel 2 Absatz 1 festgesetzte Geldbuße ist binnen drei Monaten ab Zustellung
+dieser Entscheidung in Euro an die Kommission der Europäischen Gemeinschaften, auf das
+nachfolgende Konto, zu zahlen.
+Kontonummer: 642-0029000-95 der Europäischen Kommission
+Banco Bilbao Vizcaya Argentaria S.A., Avenue des Arts, 43
+B-1040 Brüssel
+SWIFT Code: BBVABEBB
+IBAN Code: BE76 6420 0290 0095
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Tag des Monats, in
+dem diese Entscheidung erlassen worden ist, angewandt wird, zuzüglich 3,5 Prozentpunkte, d.h.
+6,8 %.
+
+Artikel 4
+Diese Entscheidung ist gerichtet an:
+ThyssenKrupp Stainless AG
+Kaiser Wilhelm Strasse 100
+D-47166 Duisburg
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag.
+
+Brüssel, 20 XII 2006
+Für die Kommission
+
+Andris PIEBALGS
+
+Mitglied der Kommission
+
+46

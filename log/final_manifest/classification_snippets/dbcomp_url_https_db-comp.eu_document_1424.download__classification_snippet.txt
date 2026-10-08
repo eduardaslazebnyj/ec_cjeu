@@ -1,0 +1,406 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+No L 341 /66 Official Journal of the European Communities 30. 12. 94
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 12 December 1994
+
+relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the
+EEA Agreement
+(Case No IV/34.891 — Fujitsu AMD Semiconductor)
+
+(Only the English text is authentic)
+(Text with EEA relevance)
+
+(94/823/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, Whereas
+
+Having regard to the Treaty establishing the European
+Community, A. THE FACTS!
+
+Having regard to Council Regulation No 17 of 6 February I. The notification
+1962, First Regulation implementing Articles 85 and 86
+of the Treaty ('), as last amended by the Act of Accession
+of Spain and Portugal, and in particular Articles 2, 6 and
+8 thereof, (1) On 21 October 1993, Fujitsu Limited notified a
+joint venture agreement and five related agreements
+it had entered into with Advanced Micro Devices,
+Inc.Having regard to Article 53 and to Protocol 21 of the
+Agreement on the European Economic Area,
+The related agreements include : a technology
+cross-licence agreement, a joint development agree
+Having regard to the application for negative clearance of ment, a joint venture licence agreement and reci
+a joint venture agreement and five related agreements, procal investments agreements.
+and the notification for exemption thereof, submitted by
+Fujitsu Limited, pursuant to Articles 2 and 4 of Regula The notification has been made unilaterally by
+tion No 17, on 21 October 1993, Fujitsu Limited with the consent and cooperation
+of Advanced Micro Devices, Inc. The Commission
+has been asked to issue a negative clearance or to
+Having regard to the request made by the parties on 11 grant an individual exemption pursuant to Article
+February 1994 to extend the application and notification 85 (3) of the EC Treaty.
+to Article 53 of the EEA Agreement,
+Following the entry into force of the EEA Agree
+ment, the parties requested the Commission on
+Havinf regard to the summary of the application and 11 February 1994 to extend the notification so as
+notification published (2) pursuant to Article 19 (3) of to cover Article 53 of the EEA Agreement.
+Regulation 17 and to Article 3 of Protocol 21 of the EEA
+Agreement,
+(2) The joint venture company, Fujitsu AMD Semicon
+ductor Limited ('the JV), has been created under
+After consultation with the Advisory Committee on Japanese law and will design, construct and operate
+Restrictive Practices and Dominant Positions, a plant in Japan to produce semiconductor wafers
+of certain types of non-volatile memory ('NVM'),
+(') OJ No 13, 21 . 2. 1962, p. 204/62. namely Electrically Programmable Read Only
+0 OJ No C 153, 4. 6. 1994, p. 11 . Memories ('Eproms') and flash memories.
+
+30. 12. 94 Official Journal of the European Communities No L 341 /67
+
+II. The parties agreement, becomes insolvent, changes ownership/
+management, or ceases to be a one-third share
+holder of the JV, the other party will have the
+option, among other things, of purchasing the first(3) Fujitsu Limited ('Fujitsu ; is the ultimate parent of a
+party's shares, dissolving the JV, or terminating the group of companies that manufacture and sell
+JV agreement and either or both of the investment information-processing equipment, telecommuni
+cations equipment, and electronic devices. agreements.
+
+The consolidated turnover of the Fujitsu group in
+the fiscal year 1992 was approximately US $ 29,8
+billion. Although an important producer of (8) The JV, which is expected to come on-line by
+Eproms, Fujitsu sold practically no flash memory 1995, will produce in Japan wafers of Eproms and
+before 1993, for which calendar year it had a very flash memories through processes with geometries
+limited turnover in this market segment. of 0,5 micron or less (meaning that the finest line
+on the circuits are 5/10 000 000 of a metre in width
+or less, corresponding to 1/200 of a human hair)
+(4) Advanced Micro Devices, Inc. ('AMD ) is a US that will be used by the JV or the parties to make
+company specialized in the production and sale of NVM devices. In fact, wafers are unfinished
+semiconductors and related devices, particularly products which must be cut into chips (dice) which
+known for its production of Intel 386 (and recently (i) are assembled into packaged devices that are
+486) 'clone' microprocessors. AMD's 1992 turnover then incorporated into electronics equipment or (ii)
+was approximately US $ 1,5 billion. are incorporated into memory cards. These NVM
+devices (the packaged devices and the memory
+cards) will be produced either by the JV or by the
+parent companies (or their subsidiaries). Each party
+shall be entitled to purchase 45 % of JVs total
+III. The agreements production. The remaining 10 % is to be allocated
+by the board of directors of the JV which may
+decide to sell it directly on the market ; in that
+The Joint Venture Agreement case, according to the JV Licence Agreement (see
+recital 17 below), the JV can sell its production
+only in certain Asian countries. The parent com
+(5) The JV will be a company with limited liability panies (or their subsidiaries) will sell NVM devices
+established under Japanese law. Fujitsu will hold to OEMs or will use them for their own production
+50,5 % and AMD 49,95 % of the JV's capital of information technology and electronic consumer
+stock. The maximum authorized capital of the JV goods. According to the notification, wafers account
+will be Y 40 billion (approximately ECU 325 for more than half of the final product price.
+million).
+
+Fujitsu will hold a majority of the seats on the
+board of directors. Most decisions require a simple
+(9) Although both Eproms and flash memory are majority vote : however, some major business deci
+existing products, the highest performance wafer sions [...](') require qualified majority approval.
+currently in commercial use is produced through
+processes with geometries of 0,8 micron. Therefore,
+the product of the JV will be a new generation of
+(6) The parties may not sell their shares in the JV for product.
+five years. Thereafter, if either party sells its shares,
+it must grant the other party the right of first
+refusal to purchase them. So long as the parties
+hold shares in the JV, they will be precluded from
+manufacturing NVMs that are or may be competi (10) For the entire duration of the agreement, the
+tive with the JV, or employing or soliciting for parties are prohibited from competing with the JV.
+employment any person employed by the JV. The agreement also contains an ex-post non-com
+petition provision. According to this provision, if
+either party sells its shares in the JV for any reason
+(7) The agreement will be valid for so long as the JV within 10 years from the date on which the JV
+remains in existence, unless terminated earlier by Agreement becomes effective, that party will be
+mutual agreement. If either party breaches the precluded for two years following the date of such
+sale from (i) engaging in manufacturing any NVM
+that is, or may be competitive, with the JV and that
+(') In the published version of the Decision, some information
+embodies, incorporates or is subject to any intellec has hereinafter been omitted, pursuant to the provisions of
+Article 21 of Regulation No 17 concerning non-disclosure of tual property right owned by the other party or
+business secrets. developed pursuant to the Joint Development
+
+No L 341/68 Official Journal of the European Communities 30. 12. 94
+
+Agreement or the Joint Venture Licence Agree insolvency, or a change in control of the other
+ment, or (ii) employing or soliciting for employ party.
+ment any person employed by the JV. Nonetheless,
+under the terms of the Technology Cross-Licence
+Agreement, the party will be able to continue its
+research and development effords based on the Joint Development Agreement
+licensed technology, which it can use to manufac
+ture NVMs after the two-year period has passed.
+
+(14) Through a Joint Development Committee the
+parties will collaborate in the development of
+(11) The notification contains five supplemental agree product and process technologies necessary to
+ments related to the establishment of the JV. manufacture NVMs. Each party will bear its costs
+of joint development. The IPR developed by either
+or both of the parties under the Joint Development
+Agreement will be jointly owned by the parties. If
+either party independently develops patented IPR,
+without access to confidential information of the
+Technology Cross-Licence Agreement other party, that party will solely own that IPR.
+That party will grant the JV and, where appro
+priate, the other party a licence to use the IPR
+developed under the Joint Development Agree
+(12) The parties grant each other reciprocal non-exclu ment, whether jointly or individually owned. sive and non-transferable licences under their
+respective intellectual property rights ('IPRs') to
+make and dispose in any possible way of semicon
+ductive materials and semiconductor products (15) The Joint Development Agreement will terminate
+anywhere in the world, with the exception of automatically on the termination of the Joint
+NVMs and memory cards. For these latter products, Venture Licence Agreement or on the occurrence
+the parties grant each other reciprocal licences to of a 'transitional event'. Each party is also given the
+make, assemble, package, test, or use them world option to terminate if the other party breaches the
+wide ; but the reciprocal licence to sell, lease or Agreement, becomes insolvent, changes owner
+otherwise dispose of them is limited to certain ship/management, or ceases to be a one-third
+specified territories. In Europe, for five years from shareholder of the JV.
+the first sale in the EEA market of each new NVM
+or memory card, Fujitsu is granted a licence to sell
+in the United Kingdom and Ireland, and AMD to (16) Upon termnination of the Agreement for any
+sell in the rest of the EEA. Unsolicited sales are reason, the parties will continue to own jointly the
+allowed. After the five-year period each party can jointly developed IPR and to have the unlimited
+sell throughout the EEA. Outside the EEA territory, right to use and license that IPR. Although the
+the Asian countries are essentially reserved to parties may freely license the jointly-developed
+Fujitsu and the American countries to AMD. technology after termination of the JV, they may
+not assign their ownership interests in the jointly
+developed IPR without permission from the other
+party.
+(13) This agreement remains in effect for the longer of
+10 years or until the date of any of the following
+'transitional events' :
+
+— termination or expiration of the Joint Venture Joint Venture Licence Agreement
+Agreement,
+
+— dissolution of the JV,
+(17) Fujitsu and AMD each grant the JV a non-exclu
+or sive, non-transferable licence to use their IPR to
+make, have made, and use NVMs anywhere in the — Fujitsu or AMD ceasing to be a shareholder of
+world and to sell, lease or otherwise dispose of the JV.
+NVMs in certain Asian countries and, in the case of
+AMD's licence to the JV, in Japan.
+Upon the occurrence of a 'transitional event', the
+agreement automatically terminates and the Fujitsu and AMD will be paid by the JV a royalty
+licences relating to NVMs and memory cards will of [...]% on net sales (to them) of the JV's
+become worldwide licences.
+products.
+
+The parties are also given the right to terminate The JV grants the parties a non-exclusive, non
+this Agreement on grounds of non-performance, transferable, worldwide licence to use its IPR.
+
+30. 12. 94 Official Journal of the European Communities No L 341/69
+
+(1 8) The Agreement will terminate on the occurrence of using a new-generation product technology, the 0,5
+a 'transitional event'. Each party has the option to micron (or less) technology. This process techno
+terminate the Agreement if the other party brea logy will narrow the space between various circuit
+ches the Agreement, becomes insolvent, changes elements in the wafer, allowing it to hold more
+management/ownership, or ceases to be a one-third transistors and, therefore, to store more information
+shareholder of the JV. and to process it faster.
+
+Reciprocal Investments Agreements (22) The main characteristic of NVMs is their ability to
+retain stored data even after the power supply is
+(19) Fujitsu and AMD will enter into reciprocal invest cut. Among NVMs, flash memory devices have
+ment agreements, under the terms of these agree advantages over Eproms because they are erased
+ments, Fujitsu is obligated to purchase direct from more quickly, without removing the memory
+AMD a certain number of AMD shares, not to device from the system. For the time being the
+exceed 5 % of AMD's outstanding common stock. price of flash memory is considerably higher than
+AMD for its part must purchase a much smaller that of Eprom. This is why flash memory is
+amount of Fujitsu stock on the open market. The currently used only in the high end of the product
+parties are free to sell their reciprocal investments market using NVMs.
+after [ . . . ] years.
+The relevant geographical market
+
+IV. The market (23) Generally speaking, NVM devices are freely traded
+in substantial volumes all over the world. There are
+The relevant product market neither particular price differences nor national
+barriers to entry. Costs of transport are negligible.
+(20) According to the parties, wafers do not constitute a Therefore, the relevant geographical market for this
+separate market from the market for semiconductor case should be considered the world as a whole.
+devices because they are products rarely put on the
+market before being cut into chips and incorpo The existing structure of the market
+rated into NVM devices. Therefore, they claim that
+the relevant product market in this case is the (24) The worldwide value of the segment for Eproms
+market for NVM devices which is composed of was US $ 1 358 million in 1991 and 1 253 million
+Eprom and flash memory devices. This question in 1992. For flash memory there are no data avai
+may remain open since the assessment of this case lable for 1991 (or before); for 1992 the worldwide
+would not change if wafers constituted a separate value was US $ 239 million, but this segment is
+market. expected to grow almost 10 times by 1996 (see
+recital 26 below). The values of the European sub
+(21) An Eprom is a non-volatile semiconductor memory markets in 1992 were US $ 293 million for Eproms
+device that is programmable electrically and and US $ 71 million for flash memory respectively.
+erasable using ultraviolet light. Flash memory, on
+the other hand, is a non-volatile semiconductor (25) Revenues in 1991 and 1992 and worldwide market
+memory device that is both electrically program shares of the major companies active in the two
+mable and electrically erasable, permitting speedier market segments under consideration are sum
+erasure than is the case with an Eprom. As indi marized in the following tables (source : Dataquest
+cated above, the JV's products wi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+devices.
+
+30. 12. 94 Official Journal of the European Communities No L 341/73
+
+(38) The agreements will affect trade within the EEA in caught by the prohibition in Article 85 (1) and
+that the relevant products are traded in large Article 53 (1).
+volumes across the whole territory of the EEA.
+
+Non-restrictive provisions However, the Commission considers that these
+agreements fulfil the conditions governing the
+applicability of Article 85 (3) and Article 53 (3).
+(39) The Commission considers the following provi
+sions in the notified agreements as non-restrictive
+of competition.
+Improvement ofproduction of goods or ofpromo
+tion of technical or economic progress and benefits
+1 . Indefinite duration of the technology for the consumers
+cross-licence
+
+The cross-licence will remain in force for 10 years (41) The wafers produced by the JV will be used either
+or the life of the JV whichever is the longer. There by the JV or by the parties (or their subsidiaries) to
+fore, the licences for the different technologies are produce highly sophisticated new semiconductor
+of a potentially indefinite duration. However, as devices, which will in turn make possible the deve
+they are non-exclusive licences, the Commission lopment of increasingly smaller, faster, more reli
+considers that their indefinite duration is not able, and more energy-efficient electronic system
+caught by Articles 85 (1) and 53 (1). products, ranging from computers to consumer
+products such as portable telephones and voice
+electronic mail. This will lead to technical and
+2. Cross-investment Agreements economic progress that will directly benefit con
+sumers through the dissemination of higher
+performance innovative products. The provisions of the Cross Investment Agree
+ments fall outside the scope of Article 85 (1 ) and
+Article 53 (1) because they will not allow either
+party to take control or to influence the competi Indispensability of the restrictions
+tive behaviour of the other. The parties' investment
+in each other is minimal : Fujitsu will not own
+more than 5 % of AMD's outstanding shares and
+AMD will own only about 0,5 % of Fujitsu's (42) In the semiconductor industry, success with new
+outstanding shares. These acquisitions of minority products largely depends on timely entry into the
+interests in each other are not accompanied by any market. New product lines require considerable
+form of cross-representation in the boards of direc investment. This investment is risky, considering
+tors.
+the short lives of these products. The JV will allow
+each parent substantially to reduce these costs and
+risks. In its turn, this sharing of costs and risks will
+3. Territorial partition of the market allow both parents to continue to invest part of outside the EEA
+their financial and technical resources in the deve
+lopment of a variety of semiconductor products
+other than NVMs. This continued production is The Commission takes the view that, since the
+essential for the overall success of the parties in the contractual provisions defining the parties' respec
+semiconductor market. Therefore, the Commission tive sales territories outside the EEA do not limit
+takes the view that the restriction of competition the parties' ability to trade on the EEA market for
+inherent in the formation of the JV is indis the products which are the subject of the agree
+pensable in so far as it represents the most efficient ments, they do not restrict competition and/or
+affect trade within the EEA. Therefore Articles 85 and quick way to bring to the market a new
+generation of high-technology products which (1) and 53 (1) are not applicable.
+combines the parties' complementary areas of
+expertise. Furthermore, the Commission takes the
+view that the cooperation between Fujitsu and
+AMD does not extend further than is necessary to
+II. Articles 85 (3) EC Treaty and 53 (3) EEA obtain the benefits of the JV. Each of the parties
+Agreement will continue to compete in a range- of other
+product markets, limiting their cooperative efforts
+to the development and manufacture of the NVMs.
+(40) As has been demonstrated above, the Joint Venture The conditions of competition in these markets
+agreement and the territorial provision included in rule out the possibility of any coordination of
+the Technology Cross-Licence Agreement are competitive behaviour between the parties.
+
+No L 341 /74 Official Journal of the European Communities 30. 12. 94
+
+(43) As for the independent territorial restriction (see successful launch of the products and thus the
+recital 12) it has to be noted that it is not absolute. success of the parties' overall investment.
+Although the parties may only engage in active
+sales in their licensed territories for five years from No substantial elimination of competition
+the date of the first commercial sale, unsolicited
+sales, leases and other dispositions of NVMs and
+memory cards are allowed throughout the EEA at (45) In accordance with Article 85 (3) (b) and Article 53
+any time. Moreover, customers are completely free (3) (b), the JV will not afford AMD and Fujitsu the
+to export NVMs, memory cards, and all other opportunity to eliminate competition in a substan
+products that are the subject matter of the licences tial part of the market for NVMs. By the time the
+anywhere in the world. This means that customers JV is expected to come on line, flash memory
+from outside the territory can engage purchasing devices will have replaced Eproms for many appli
+organizations and agents within the territory to cations. This segment of the market is currently
+purchase NVMs for export anywhere in the world. dominated by Intel. The appearence on the market
+Customers from outside the territory can also travel of the JV's products will increase the competition
+to the territory to purchase NVMs and memory on the market. In addition, the parties will also face
+cards for export. Finally, customers from outside strong competition from other recent alliances.
+the EEA are free to export to the EEA for sale here. Neither AMD nor a fortiori Fujitsu is likely to
+acquire, as a result of the JV, a dominant position
+in the EEA market for flash memories.
+
+In the light of the foregoing, and considering that
+the customers of the parties will be major manufac
+turers of electronic products having facilities in C. DURATION OF THE EXEMPTION
+several countries, such passive sales are a real possi
+bility, thereby minimizing the anticompetitive
+effect of the ban on active sales.
+(46) Pursuant to Article 8 of Regulation No 17, a deci
+sion under Article 85 (3) of the Treaty is to be
+issued for a specified period. Pursuant to Article 6
+of that Regulation, the date from which such a
+(44) Furthermore, the Commission accepts the parties decision takes effect cannot be earlier than the date
+claim that limiting for an initial period the parties' of notification. The same principles apply for the
+active sales territories to those where they already decisions under Article 53 (3) of the EEA Agree
+have an established infrastructure (Fujitsu is par ment. In accordance with those Articles, in the
+ticularly strong on the United Kingdom and Irish present case, the decision, in so far as it grants
+markets where it has manufacturing facilities ; exemption, should take effect from the date of
+AMD has a strong presence in the rest of Europe), notification and last for 10 years, that is from 21
+will increase the chances of success in what is, in October 1993 to 20 October 2003,
+effect, a new product introduction, in that they will
+be able to offer customers faster deliveries, better
+service and lower cost.
+
+HAS ADOPTED THIS DECISION :
+
+In particular, as far as memory cards are concerned,
+the Commission agrees with the parties that, at Article 1
+least at the beginning, Fujitsu and AMD will have
+to invest a significant amount of effort in tailoring
+these products for their customers. These products On the basis of the information at its disposal, the
+will be sold to a variety of manufacturers which will Commission has no grounds for action under Article 85
+incorporate them as components in their own elec (1) of the EC Treaty or Article 53 (1) of the EEA Agree
+tronic products. For this to be done successfully, ment in respect of the following notified agreements
+the customers will need advice, back-up and some entered into by Fujitsu and AMD :
+adaptation of the products. This can be done more
+efficiently by Fujitsu and AMD in the areas where — the Joint Development Agreement dated 26 March
+they have established after-sales networks. 1993,
+— the Joint Venture Licence Agreement dated 16 April
+1993,
+
+— the Investment Agreement of Fujitsu Limited inves
+Accordingly, in the circumstances the restrictions ting in Advanced Micro Devices, Inc. dated 26 March
+can be justified as being necessary to ensure the 1993,
+
+30. 12. 94 Official Journal of the European Communities No L 341 /75
+
+— the Investment Agreement of Advanced Micro Article 3
+Devices, Inc. investing in Fujitsu Limited, dated 26
+This Decision is addressed to :
+March 1993,
+1 . Fujitsu Limited,
+— the Technology Cross-Licence Agreement dated 26 1015 Kamikodanaka,
+March 1993, with the exception of the territorial Nakahara-ku,
+provision concerning the EEA contained in its Kawasaki-shi,
+Attachment B.
+Kanagawa-ken 211 ,
+JAPAN.
+2. Advanced Micro Devices, Inc.,
+Article 2 901 Thompson Place,
+PO Box 3453,
+Sunnyvale,
+In accordance with Article 85 (3) of the EC Treaty and California 940088-3453,
+Article 53 (3) of the EEA Agreement, the provisions of USA.
+Article 85 (1 ) and Article 53 (1) are hereby declared inap
+plicable for the period from 21 October 1993 to 20
+October 2003 to the Joint Venture Agreement entered Done at Brussels, 12 December 1994.
+into by Fujitsu and AMD on 30 March 1993 and to the
+territorial provision concerning the EEA included in For the Commission
+Attachment B of the Technology Cross-Licence Agree Karel VAN MIERT
+ment entered into by Fujitsu and AMD on 26 March
+1993. Member of the Commission

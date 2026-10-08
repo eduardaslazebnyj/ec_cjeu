@@ -1,0 +1,469 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DÉCISION DE LA COMMISSION
+
+relative à une procédure d’application de l’article 102 du traité sur le
+fonctionnement de l'Union européenne et de l’article 54 de l’accord EEE
+
+(Affaire COMP/39.386 – Contrats à Long Terme France)
+
+(Le texte en langue française est le seul faisant foi)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+LA COMMISSION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l'Union européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en
+œuvre des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment
+son article 9, paragraphe 1,
+
+vu la décision prise par la Commission, le 18 juillet 2007, d’engager la procédure dans la
+présente affaire,
+
+après avoir exprimé des préoccupations dans la communication des griefs du 19
+décembre 2008,
+
+après avoir donné aux tiers l’occasion de présenter leurs observations en vertu de
+l’article 27, paragraphe 4, du règlement (CE) n° 1/2003, sur les engagements présentés
+pour répondre à ces préoccupations2,
+
+après consultation du comité consultatif en matière d’ententes et de positions
+dominantes,
+
+vu le rapport final du conseiller-auditeur3,
+
+considérant ce qui suit:
+
+1. OBJET
+
+(1) La présente décision concerne EDF S.A., ses filiales, notamment Electricité de
+Strasbourg S.A., et les entreprises qu’elles contrôlent (ensemble, ci-après «EDF»)
+et concerne le comportement d'EDF sur le marché français de la fourniture
+d'électricité aux grands clients industriels. Elle est adressée à EDF S.A. et
+Electricité de Strasbourg S.A.
+
+(2) Dans sa communication des griefs du 19 décembre 2008, la Commission est
+parvenue à la conclusion provisoire qu'EDF détient une position dominante sur le
+marché de la fourniture d'électricité aux grands clients industriels en France.
+Selon l’évaluation préliminaire de la Commission, telle qu'elle ressort de sa
+communication des griefs, EDF est susceptible d'avoir abusé de sa position
+
+1 JO L 1 du 4.1.2003, p. 1. A compter du 1er décembre 2009, les articles 81 et 82 du traité CE sont
+devenus respectivement les articles 101 et 102 du traité sur le fonctionnement de l'Union européenne
+(«TFUE»). Dans les deux cas, les dispositions sont, en substance, identiques. Aux fins de la présente
+décision, les références faites aux articles 101 et 102 du TFUE s'entendent, s'il y a lieu, comme faites
+respectivement aux articles 81 et 82 du traité CE.
+
+2 JO C 262 du 4.11.2009, p. 32.
+
+3 Rapport final du conseiller-auditeur dans l'affaire COMP/39.386 Contrats à Long Terme France, du 3
+mars 2010.
+
+2
+
+dominante au sens de l'article 102 du traité sur le fonctionnement de l'Union
+européenne (ci-après «le TFUE»)4:
+
+– d'une part, en concluant des contrats de fourniture qui, du fait de leur champ
+d'application c'est-à-dire le volume total couvert par l'ensemble de ces contrats,
+leur durée et leur nature, limitent d'une façon significative les possibilités pour
+d'autres entreprises de conclure des contrats de fourniture d'électricité avec des
+grands clients industriels en France en tant que fournisseur principal ou
+fournisseur secondaire;
+
+– d'autre part, en incluant dans ses contrats de fourniture avec des grands clients
+industriels des restrictions à la revente.
+
+(3) Selon la Commission, ces pratiques auraient eu pour effet d'entraver l'entrée des
+fournisseurs alternatifs sur le marché français et de renforcer le manque de
+liquidité sur le marché du négoce, retardant ainsi la libéralisation effective du
+marché de l'électricité.
+
+2. DESTINATAIRES
+
+(4) EDF S.A. est l'opérateur historique sur les marchés de l'électricité en France.
+Cette société est la maison mère du groupe EDF. De par la loi française, l'État
+français en est l'actionnaire majoritaire et doit détenir au moins 70% de son
+capital. Il en détenait au 31 décembre 2008, 84,7% du capital et des droits de
+vote. A travers EDF S.A. et des sociétés qu'elle contrôle directement ou
+indirectement, EDF est présente en France et dans le reste du monde dans un
+certain nombre d'activités.
+
+(5) EDF a réalisé 53.3% de son chiffre d'affaires consolidé en 2008 en France. Ses
+activités dans ce pays comprennent la production, le transport (via sa filiale RTE,
+gestionnaire du réseau de transport), la distribution, la fourniture et le négoce
+d'électricité. Il résulte des déclarations d'EDF qu'EDF S.A. contrôle, directement
+ou indirectement, un certain nombre de sociétés actives actuellement sur les
+marchés français de l'électricité (indépendamment du fait que ces sociétés soient,
+ou non, établies en France).
+
+(6) EDF S.A. contrôle notamment Electricité de Strasbourg S.A., dont elle détient
+89% du capital, qui est la seule société détenue par EDF S.A. également active en
+France sur le marché de la fourniture au détail, notamment aux grands clients
+industriels. Cette société exerce les activités de distributeur d'électricité auprès de
+communes dans le Bas-Rhin au titre de contrats de concession.
+
+4 Lorsqu’il est fait référence, dans la présente décision, à l'article 102 du TFUE, ce sont à la fois
+l'article 102 du TFUE et l'article 54 de l'accord EEE qui sont visés.
+
+3
+
+3. DEROULEMENT DE LA PROCEDURE EN VERTU DU REGLEMENT (CE) N° 1/2003
+
+(7) Le 7 novembre 2006, la Commission a envoyé une demande de renseignements à
+EDF concernant ses contrats de fourniture conclus avec des grands clients
+industriels. Les renseignements demandés concernaient notamment les volumes
+contractuels par client ainsi que les quantités annuelles minimales que chaque
+client s'engage à prélever auprès d'EDF, les volumes d'électricité effectivement
+prélevés par ces derniers, et la durée des contrats.
+
+(8) Le 18 juillet 2007, la Commission a informé EDF du fait qu'elle avait ouvert une
+procédure au titre de l'article 2, paragraphe 1, du règlement (CE) n° 773/2004 de
+la Commission du 7 avril 2004 relatif aux procédures mises en œuvre par la
+Commission en application des articles 81 et 82 du traité CE5 et de l'article 11,
+paragraphe 6, du règlement (CE) n° 1/2003. Suite à l'ouverture de la procédure,
+une investigation approfondie a été conduite impliquant notamment des demandes
+de renseignements adressées à EDF et à des tiers considérées comme utiles pour
+l'instruction de l'affaire.
+
+(9) Par lettre datée du 24 avril 2008, le conseiller-auditeur a informé la société
+Iberdrola qu'elle avait démontré un intérêt suffisant pour être admise comme
+tierce partie au sens de l'article 27, paragraphe 3, du règlement (CE) n° 1/2003.
+De même, l'Union des Industries Utilisatrices d'Energie (UNIDEN), ainsi que les
+sociétés KalibraXE, Rhodia Energy, Solvay Energie France, Rio Tinto Alcan et
+UPM-Kymmene ont par la suite été admises comme tierces parties au sens dudit
+article par lettres datées respectivement du 10 février 2009 (KalibraXE), du 9
+mars 2009 (UNIDEN), du 25 mars 2009 (Rhodia Energy, Solvay Energie France,
+Rio Tinto Alcan) et du 31 mars 2009 (UPM-Kymmene).
+
+(10) Le 19 décembre 2008, la Commission a adopté une communication des griefs
+conformément aux dispositions de l’article 27, paragraphe 1, du règlement (CE)
+n° 1/2003 et de l'article 10, paragraphe 1, du règlement (CE) n° 773/2004, dans
+laquelle elle expose ses préoccupations concernant la compatibilité du
+comportement d'EDF sur le marché français de la fourniture d'électricité aux
+grands clients industriels avec les règles de la concurrence. Cette communication
+des griefs a été notifiée à EDF S.A. et à Electricité de Strasbourg S.A. le 23
+décembre 2008.
+
+(11) Le 4 mars 2009 (Electricité de Strasbourg S.A.) et le 9 mars 2009 (EDF S.A.),
+EDF a présenté des observations écrites sur la communication des griefs de la
+Commission, exprimant son désaccord avec les principales conclusions de celleci.
+
+(12) Le 2 avril 2009 s'est tenue une audition au cours de laquelle EDF ainsi que trois
+des tierces parties (Iberdrola, KalibraXe et UNIDEN) ont pu présenter oralement
+leurs arguments. Les sociétés EDF, Iberdrola, KalibraXe, Rhodia Energy, Solvay
+Energie France et UNIDEN ont présenté des observations écrites à la
+Commission à la suite de l'audition.
+
+5 JO L 123 du 27.4.2004, p. 18.
+
+4
+
+(13) Le 14 octobre 2009, EDF a proposé des engagements afin de répondre aux
+préoccupations identifiées par la Commission dans sa communication des griefs.
+
+(14) Le 4 novembre 2009 une communication a été publiée au Journal officiel de
+l’Union européenne, en vertu de l’article 27, paragraphe 4, du
+règlement (CE) n° 1/2003, résumant l’affaire et les engagements proposés, et
+invitant les tierces parties intéressées à présenter leurs observations sur lesdits
+engagements dans un délai de un mois à compter de la date de publication de
+ladite communication.
+
+(15) Le 10 et le 14 décembre 2009, la Commission a informé EDF des observations
+reçues de la part des tierces parties intéressées à la suite de la publication de la
+communication. Le 5 février 2010, EDF a soumis une proposition d'engagements
+modifiée.
+
+(16) Le 1er mars 2010, le comité consultatif en matière d’ententes et de positions
+dominantes a été consulté. Le 3 mars 2010, le conseiller-auditeur a rendu son
+rapport final.
+
+4. ÉVALUATION PRÉLIMINAIRE
+
+4.1. Marchés en cause
+
+4.1.1. Marchés de produits en cause
+
+(17) Conformément à sa pratique décisionnelle antérieure concernant le secteur de
+l'électricité, la Commission a identifié au niveau de la fourniture d'électricité au
+détail aux clients finaux trois marchés distincts6: (i) la fourniture d'électricité aux
+grands clients industriels et commerciaux; (ii) la fourniture d'électricité aux petits
+clients industriels et commerciaux; (iii) la fourniture d'électricité aux clients
+résidentiels.
+
+(18) S'agissant plus précisément du marché de la fourniture aux grands clients
+industriels et commerciaux, la Commission a opéré dans sa communication des
+griefs une distinction entre, d'une part, les clients ayant exercé leur éligibilité, et,
+d'autre part, les autres clients7, une distinction soutenue par le régulateur français
+de l'énergie (la Commission de régulation de l'énergie, ci-après «la CRE») et
+l'autorité française de la concurrence8. Le marché pertinent ne concerne que les
+clients ayant exercé leur éligibilité. Cette distinction est justifiée par un certain
+nombre de particularités propres au secteur réglementé ainsi qu'aux différences
+entre le tarif réglementé et le prix auquel les fournisseurs alternatifs sont en
+mesure de fournir leur électricité. Il en résulte que les consommateurs qui sont
+actuellement fournis sous le régime des prix réglementés n'ont pas ou peu
+
+6 Voir notamment l'affaire COMP / M. 4180 GDF / SUEZ.
+7 Voir également l'affaire COMP / M. 4180 GDF / SUEZ.
+8 Voir notamment l'affaire COMP/M. 4180 GDF / SUEZ considérants 346-353. La pratique
+décisionnelle de l'autorité française de la concurrence est d'ailleurs assimilable à celle de la
+Commission. Voir notamment la décision 07-MC-04 du 28 juin 2007 relative à une demande de
+mesures conservatoires de la société Direct Energie.
+5
+
+d'incitation à accepter une offre d'un fournisseur alternatif, même dans le cas de
+variations faibles mais non transitoires du tarif réglementé d'un coté, et de l'autre
+des prix du marché pour les clients ayant exercé leur éligibilité.
+
+(19) Pour distinguer les grands clients ayant exercé leur éligibilité des clients plus
+petits, la Commission a estimé qu'il convenait d'opérer une distinction selon le
+volume de consommation, et a considéré que le marché pertinent devait se limiter
+à la fourniture aux grands clients pour les sites dont la consommation annuelle est
+égale ou supérieure à 7GWh/an9. Ce seuil correspond à un des seuils de
+consommation retenus par la législation française pour définir les critères de
+l'éligibilité lors de la transposition de la réglementation communautaire. Les
+clients dont la consommation excède ce seuil sont aisément identifiables par les
+fournisseurs, et font l'objet d'offres contractuelles spécifiques. L'arbitrage par les
+clients entre les différentes conditions contractuelles adressées aux différentes
+catégories de clients est impossible du fait de l'existence de restrictions à la
+revente contenues dans les contrats. En outre, les volumes de consommation bien
+plus substantiels des grands clients industriels, et les particularités de leur profil
+requièrent des opérateurs de plus grande taille et disposant de moyens de
+production. Ainsi, les fournisseurs actifs sur le marché des grands clients
+industriels sont largement différents de ceux qui opèrent sur le marché des petits
+clients. Compte tenu de la barrière à l'entrée que représente l'accès à la capacité
+de production sur le marché français, la Commission a conclu qu'une
+augmentation faible mais non transitoire des prix sur le marché de la fourniture
+aux grands clients industriels ne se traduirait pas par l'arrivée sur ce marché des
+fournisseurs actuellement présents sur le marché de la fourniture aux petits
+clients.
+
+(20) La Commission a néanmoins considéré qu'il n'y avait pas lieu de distinguer au
+sein du marché pertinent entre les entreprises bénéficiant du tarif réglementé
+transitoire d’ajustement du marché (ci-après «le TarTAM») et les entreprises n'en
+bénéficiant pas. En effet, si ce dispositif a eu pour effet de réduire les
+changements de fournisseurs sur les grands et moyens sites10 et de limiter la
+concurrence sur les prix sur le marché libre, dans la mesure où le prix du
+TarTAM est inférieur au prix du marché, le changement de fournisseur sur le
+marché libre constitue une réelle possibilité, d'ailleurs utilisée en 2007 par une
+partie significative des grands clients industriels fournis au TarTAM. La
+Commission considère donc que les contrats au prix du marché constituent des
+produits substituables pour des consommateurs fournis au TarTAM. En effet, tous
+les fournisseurs sur le marché libre sont en mesure de proposer le bénéfice du
+TarTAM à leurs clients, et ce dispositif laisse subsister toutes les clauses
+contractuelles autres que le prix. Un client au TarTAM peut dès lors souhaiter
+changer de fournisseur pour bénéficier d'un contrat plus souple, avec des termes
+de paiement ou d'autres clauses plus favorables. Par ailleurs, le prix de fourniture
+redevient un critère de sélection sur la période finale du contrat, dans la mesure
+
+9 Du fait du niveau de consommation élevé dont il est question, ces clients sont qualifiés de grands
+clients industriels, tant dans la communication des griefs que dans la présente décision.
+
+10 Rapport annuel CRE juin 2007 (p. 80).
+
+6
+
+où de nombreux clients consultent les fournisseurs d'électricité sur des périodes
+allant au-delà de la date de fin d'application du TarTAM.
+
+(21) Dans sa communication des griefs, la Commission a exclu du marché pertinent la
+fourniture d'électricité pour la compensation des pertes de réseau, soutenue en
+cela notamment par la CRE, compte tenu des différences de caractéristiques tant
+du coté de l'offre que du coté de la demande entre ces deux marchés. Par ailleurs,
+la Commission a exclu du marché pertinent l'au
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e, si cette réduction de part de marché devait se vérifier de manière
+non occasionnelle (deux années consécutives), elle résulterait nécessairement
+
+20 JO L 211 du 14.8.2009, p. 55.
+
+21 Dans sa décision du 11.10.2007 dans l'affaire COMP/37966 – Distrigaz, le seuil retenu était le
+suivant: soit la part de marché de la société devenait de 40% ou moins, soit l'écart de part de marché
+entre Distrigaz et son premier concurrent était inférieur à 20%.
+
+20
+
+d'une modification significative des conditions de concurrence sur le marché
+pertinent et le maintien des engagements ne serait plus justifié.
+
+(90) Au vu de ce qui précède, il n'apparaît pas pertinent ni nécessaire de réduire ce
+seuil ou d'y adjoindre un seuil complémentaire relatif à l'écart de part de marché
+entre EDF et son principal concurrent.
+
+7.3. Engagements relatifs à la suppression des clauses de restriction à la revente
+
+(91) Les engagements proposés par EDF répondent de manière nécessaire et
+proportionnée aux préoccupations exprimées par la Commission dans sa
+communication des griefs au sujet de l'imposition de restrictions à la revente par
+EDF dans ses contrats de fourniture conclus avec les grands clients industriels.
+
+(92) Tout d'abord, afin de répondre aux préoccupations de la Commission, il était
+nécessaire que la disparition des restrictions soit garantie tant pour les contrats
+futurs que pour les contrats en cours. Ainsi, EDF s'engage à modifier ses
+conditions générales et particulières de vente afin de refléter l'absence de
+restriction à la revente dans ses relations contractuelles avec les grands clients
+industriels à l'avenir. S'agissant des contrats en cours, cet engagement est
+complété par une information systématique des grands clients industriels d'EDF
+par celle-ci, que toute clause dans les documents contractuels ayant pour objet ou
+pour effet de restreindre leur possibilité de revente de l'électricité fournie par EDF
+sera réputée non écrite, et qu'une telle revente n'est plus restreinte. Cette
+information aura pour effet d'immédiatement clarifier la situation auprès des
+clients concernés.
+
+(93) Par ailleurs, afin de remédier aux effets de l'imposition de clauses restreignant la
+revente dans ses contrats de fourniture, il est nécessaire qu'EDF, en plus de ne
+plus restreindre dans le futur la revente par ses grands clients industriels de
+l'électricité qu'elle leur fournit, s'engage positivement à faciliter ladite revente par
+ces clients. Ainsi, un grand client industriel pourra demander à EDF de substituer
+au site de soutirage contractuellement défini, un ou plusieurs autres sites de
+soutirage sur le(s)quel(s) certains volumes contractuels seront acheminés par
+EDF. Ainsi, un grand client industriel pourra demander à EDF d'acheminer
+certains volumes d'électricité sur le site d'un autre grand client industriel auquel il
+aura revendu certains volumes, sous réserve du respect des contraintes techniques
+et réglementaires afférentes à ce type d'opération.
+
+(94) Il est à noter que, suite aux observations reçues par la Commission, il est apparu
+nécessaire de renforcer certains aspects des engagements proposés afin de
+garantir leur efficacité. En premier lieu, la distinction entre l'engagement
+"négatif" de ne plus restreindre la revente par le grand client industriel de
+l'électricité achetée auprès d'EDF (revente à un autre client, industriel ou non, ou
+sur le marché de gros), et l'engagement positif pour EDF de réacheminer
+l'électricité sur un ou plusieurs autres sites de soutirage, a été clarifiée.
+
+(95) En deuxième lieu, certaines précisions ont été apportées suite aux observations
+reçues afin de réduire les possibilités de détournement ou de contournement des
+engagements d'EDF. Il a notamment été précisé que l'usage de la faculté de
+revente par un grand client industriel, ne donnera lieu a la perception d'aucun frais
+
+21
+
+ni d'aucune pénalité, qu'elle soit directe ou indirecte comme par exemple la perte
+d'un avantage pour le grand client industriel en cas de revente. Avec le même
+objectif, EDF s'est également engagée à ce que les volumes revendus par le client
+soient réputés achetés ou consommés au titre du ou des contrats conclus avec
+EDF. Ainsi, lorsque l'acquisition de certains avantages pour le client sera liée à
+une condition de volumes d'électricité achetés auprès d'EDF, le fait que lesdits
+volumes soient consommés par le client, ou revendus à un tiers, n'aura pas
+d'incidence, ce qui garantit une plus grande effectivité des engagements.
+
+(96) Enfin, suite aux observations reçues, le préavis dont EDF peut exiger le respect
+en cas de substitution d'un ou plusieurs sites de soutirage au site de soutirage
+initialement prévu au contrat, a été qualifié. Afin d'éviter qu'une durée excessive
+de ce préavis ne fasse échec en pratique à une possibilité de revente effective par
+un client en cas de baisse temporaire de ses besoins en électricité, EDF s'est
+engagée à ce que le préavis n'excède pas ce qui est techniquement nécessaire pour
+qu'EDF puisse procéder en temps utile aux déclarations nécessaires pour
+l'équilibrage du système.
+
+(97) La prise en compte dans les engagements des diverses contraintes techniques
+d'EDF concernant son engagement positif consistant à acheminer l'électricité
+achetée par un grand client industriel, à sa demande, sur un autre site de soutirage
+que celui initialement prévu au contrat, permet de conclure que les engagements
+proposés constituent une solution proportionnée aux préoccupations de
+concurrence identifiées par la Commission dans sa communication des griefs
+s'agissant des restrictions à la revente dans les contrats de fourniture d'EDF.
+
+7.4. Engagements relatifs au contrôle du respect des engagements
+
+(98) L'engagement d'EDF concernant le contrôle du respect de ses engagements
+apparaît à la fois nécessaire et suffisant afin de garantir le respect par EDF de ses
+engagements. Les données du marché, et notamment les volumes remis
+annuellement sur le marché, devront être auditées par un tiers indépendant. Sur
+cette base, un rapport annuel sera rédigé par EDF et transmis à la Commission et
+à la CRE.
+
+(99) La Commission considère que l'audit des données d'EDF, combinée avec le
+contrôle de la part de la Commission et de la CRE sur la base du rapport annuel
+d'EDF ainsi que la vigilance des acteurs de marché, est suffisant.
+
+(100) Il est d'ailleurs à noter que l'envoi du rapport annuel a la CRE est en pleine
+conformité avec un des objectifs généraux des autorités de régulation, visé à
+l'article 36 g) de la directive 2009/72/CE, qui est d'assurer que les clients
+bénéficient du fonctionnement efficace des marchés nationaux, de promouvoir
+une concurrence effective et de contribuer à garantir la protection des
+consommateurs.
+
+7.5. Conclusion relative aux engagements
+
+(101) Les engagements proposés par EDF permettront de manière proportionnée de
+mettre un terme au verrouillage du marché français de la fourniture d'électricité
+aux grands clients industriels en France et, ainsi, de garantir qu'il existera une
+
+22
+
+véritable possibilité pour les clients de s'approvisionner auprès de fournisseurs
+alternatifs, et pour ces derniers une réelle possibilité sur une période de temps
+significative, d'entrer sur le marché ou de s'y développer. Par ailleurs, en
+supprimant toute restriction à la revente de l'électricité fournie par EDF, voire en
+facilitant une telle revente dans certaines conditions, les engagements proposés
+permettront aux clients concernés de gérer leurs approvisionnements en électricité
+avec plus de facilité et de flexibilité, et pourront, à terme, renforcer la liquidité du
+marché de gros en France.
+
+(102) Au vu des résultats de la consultation publique menée conformément à l'article
+27, paragraphe 4, du règlement (CE) n° 1/2003, il apparaît que les engagements
+d'EDF, tels que modifiés, sont appropriés et nécessaires pour résoudre les
+problèmes de concurrence identifiés par la Commission sur le marché français de
+la fourniture d'électricité aux grands clients industriels ayant exercé leur
+éligibilité.
+
+8. CONCLUSION
+
+(103) En adoptant une décision en vertu de l’article 9, paragraphe 1, du règlement (CE)
+n° 1/2003, la Commission donne force obligatoire aux engagements finaux
+proposés par les entreprises concernées afin de résoudre les problèmes de
+concurrence relevés dans sa communication des griefs. La présente décision ne
+prend pas position sur l’existence passée ou actuelle d’une éventuelle infraction.
+L’évaluation faite par la Commission, afin de déterminer si, tout en étant
+proportionnés, les engagements proposés suffisent à résoudre les problèmes de
+concurrence qu’elle a relevés, est fondée sur l’évaluation préliminaire à laquelle
+elle a procédé à l’issue de son enquête et de son analyse et qui est contenue dans
+sa communication des griefs, ainsi que sur les observations reçues des tiers à la
+suite de la publication d’une communication en vertu de l’article 27, paragraphe
+4, du règlement (CE) n° 1/2003.
+
+(104) Au regard des engagements finaux proposés par EDF, la Commission estime qu'il
+n'y a plus lieu pour elle d’agir et que la procédure engagée en l'espèce doit donc
+être clôturée, sans préjudice des dispositions de l'article 9, paragraphe 2, du
+règlement (CE) n° 1/2003,
+
+23
+
+A ADOPTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Conformément à l'étendue des engagements proposés par EDF S.A. pour la totalité du
+groupe EDF, les engagements en annexe sont rendus obligatoires pour EDF S.A., et
+les entités juridiques sous son contrôle direct ou indirect, incluant sa filiale Electricité de
+Strasbourg S.A.
+
+Article 2
+
+Il n'y a plus lieu d’agir pour la Commission et il est mis fin à la procédure dans la
+présente affaire.
+
+Article 3
+
+La présente décision est adressée à:
+
+- EDF S.A. 22-30, Avenue de Wagram F – 75382 Cedex 08 et
+
+- Electricité de Strasbourg S.A. 26, boulevard du Président Wilson F - 67953
+Strasbourg Cedex 9.
+
+Fait à Bruxelles, le 17 mars 2010
+
+Par la Commission
+
+Joaquín ALMUNIA
+
+Vice-Président de la Commission
+
+24

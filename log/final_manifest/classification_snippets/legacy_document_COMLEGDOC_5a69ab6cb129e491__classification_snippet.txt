@@ -1,0 +1,363 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+25. 1 . 91 Amtsblatt der Europäischen Gemeinschaften Nr. L 19/25
+
+II
+
+(Nicht veröffentlichungsbedürftige Rechtsakte)
+
+KOMMISSION
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 12. Dezember 1990
+
+in einem Verfahren gemäß Artikel 85 des EWG-Vertrags
+in der Sache Nr. IV/32.363 — KSB/Goulds/Lowara/ITT
+
+(Nur der deutsche, der englische und der italienische Text sind verbindlich)
+
+' (91/38/EWG)
+
+DIE KOMMISSION DER EUROPAISCHEN in Erwägung nachstehender Gründe :
+GEMEINSCHAFTEN —
+
+gestützt auf den Vertrag zur Gründung der Europäischen I. SACHVERHALT
+Wirtschaftsgemeinschaft,
+A. Das Verfahren
+gestützt auf die Verordnung Nr. 17 des Rates vom 6.
+Februar 1962 — Erste Durchführungsverordnung zu den ( 1) Mit Schreiben vom 5. Juni 1987 haben KSB,
+Artikeln 85 und 86 des EWG-Vertrags ('), zuletzt geändert Lowara, Goulds und ITT eine von ihnen am 5.
+durch die Akte über den Beitritt Spaniens und Portugals, November 1985 geschlossene Vereinbarung zur
+insbesondere auf die Artikel 2, 4, 6 und 8, Gründung eines Gemeinschaftsunternehmens, der
+Quattro-Tech SA, angemeldet.
+im Hinblick auf den von den Firmen KSB Aktiengesell
+schaft, Frankenthal, Deutschland (nachstehend KSB), Schon bei dieser Anmeldung kündigten die
+Lowara SpA, Montecchio, Italien (nachstehend Lowara), Vertragspartner eine Änderung des ursprünglichen
+Goulds Pumps Inc., Seneca Falls, New York, USA Kooperationsvertrags an. Mit Schreiben vom 4.
+(nachstehend Goulds), ITT Fluid Handling Division, New August 1987 haben sie die beiden Nachfolgeverein
+Jersey, USA (nachstehend ITT) am 5. Juni 1987 einge barungen vom 22. Juli 1987, die Vereinbarung über
+reichten Antrag auf Erteilung eines Negativattests, hilfs die gemeinsame Forschung, Entwicklung und
+weise auf eine Freistellungserklärung für die beiden von Produktion und die Produktionsvereinbarung
+ihnen am 22. Juli 1987 geschlossenen Vereinbarungen vorgelegt. Sie beantragen die Erteilung eines Nega
+über die gemeinsame Forschung, Entwicklung und tivattests nach Artikel 2 der Verordnung Nr. 17
+Produktion der flüssigkeitsführenden Teile (wet end) einer oder hilfsweise eine Freistellung nach Artikel 85
+einstufigen, einströmigen Radialkreiselpumpe aus Chrom Absatz 3 des EWG-Vertrags.
+nickelstahlblech und die von den vier Parteien mit
+Lowara als Hersteller am gleichen Tag geschlossene B. Die beteiligten Unternehmen
+Produktionsvereinbarung zur Herstellung dieser Teile, (2) Die KSB Aktiengesellschaft (KSB) ist der bedeu
+im Hinblick auf die Veröffentlichung (2) des wesentlichen tendste europäische Pumpenhersteller mit Sitz in
+Inhalts des Antrags und der Anmeldung nach Artikel 19 Frankenthal/ Pfalz, Deutschland. Sie hat Tochterge
+sellschaften im Gemeinsamen Markt und in DrittAbsatz 3 der Verordnung Nr. 17,
+ländern. KSB erwarb im Jahr 1986 den größten
+nach Anhörung des Beratendens Ausschusses für Kartell französischen Pumpenhersteller, Ets. Pompes
+und Monopolfragen, Guinard, mit Sitz in Courbevoie. Mit diesem
+Erwerb ist KSB der größte Pumpenhersteller der
+(') ABl. Nr. 13 vom 21 . 2. 1962, S. 204/62. Welt geworden . Der konsolidierte Gesamtumsatz
+(j ABl. Nr. C 259 vom 12. 10. 1989, S. 5. der KSB belief sich im Jahr 1987 auf 1 379
+
+Nr. L 19/26 Amtsblatt der Europäischen Gemeinschaften 25 . 1 . 91
+
+Millionen DM. Rund [ . . .] % (') dieses Umsatzes etwa [ . . .] % des Gesamtumsatzes der ITT Corpo
+wurden im Bereich Pumpen erzielt. ration aus. Die Fluid Transfer Division,
+einschließlich Bell & Gosset, erzielte etwa [ . . .] %
+Die Goulds Pumps Inc. mit Sitz in Seneca Falls, des Umsatzes der Fluid Technology Corporation
+New York, USA, ist, zusammen mit ihrer am 5. (ungefähr [ . : .] % des Gesamtumsatzes der ITT
+November 1985 zu 100 % erworbenen Tochter, der Corporation).
+Lowara SpA, hinter KSB und einer japanischen
+Firma der drittgrößte Pumpenhersteller der Welt.
+Im Jahr 1986 betrug der Gesamtumsatz der C. Das Produkt
+Gruppe 356,226 Millionen Dollar. Darin einge
+schlossen sind 44,482 Millionen Dollar Umsätze
+der Lowara SpA (Geschäftsbericht 1986). Auch
+(3) Die Kooperationsvereinbarung betrifft die Entwick Goulds hat wie KSB ein weitgefächertes Angebot
+lung und Herstellung der flüssigkeitsführenden von Pumpen. Lowara ist in die „Water Technolo
+Teile einer einstufigen, einströmigen Radialkreisel gies Group" von Goulds eingegliedert. Nach dem
+Geschäftsbericht 1986 hat Goulds seit 1981 mehr pumpe. Diese Teile werden im CAD/CAE
+Verfahren (Computer Aided Engineering) aus tief als 20 Millionen Dollar für Forschung und
+gezogenem Chromnickelstahl so entwickelt, daß sie Entwicklung ausgegeben.
+bei möglichst geringer Gehäusewandstärke einen
+Die Lowara SpA mit Sitz in Montecchio Maggiore möglichst hohen Innendruck aushalten und zur
+(VI), Italien, gegründet im Jahr 1968, hat das Produktion in Großserie geeignet sind. Durch
+Know-how für die Chromnickelstahlblechteile beide Elemente (Gehäusewandstärke und Großse
+zunächst für Pumpen kleineren Durchmessers rieneinbau) werden Rationalisierungseffekte erzielt.
+entwickelt. Obwohl jetzt 100 %ige Tochtergesell Die flüssigkeitsführenden Teile, in den Vereinba
+schaft von Goulds, ist sie immer noch einer der rungen als Einheiten bezeichnet, sind ein Unterteil,
+vier Partner der Zusammenarbeit. Sie hat Ende das von jedem Partner mit anderen Teilen zu einer
+1987 mit der Herstellung der neuen flüssigkeits vollständigen Pumpe zusammengesetzt wird. Die
+führenden Teile für alle Partner begonnen. Nach Pumpe ist so konstruiert, daß ihre Innenteile
+dem Geschäftsbericht 1987 betrug der Gesamtum demontiert werden können, ohne das Gehäuse von
+satz der Lowara SpA im Jahr 1987 99 985 der Rohrleitung zu lösen (back pull-out design). Mit
+Millionen Lire, das sind 139 Millionen DM. den Produkten, die Gegenstand der Kooperation
+sind, werden mit Pumpen aus tiefgezogenem Edel
+Die ITT Corporation setzt sich aus neun Haupt stahl in Serienfertigung Fördermengen im höheren
+abteilungen zusammen. Eine davon ist die ITT Leistungsbereich erzielt. Die Förderströme bei den
+Fluid Technology Corporation, mit der die ITT großen Nennweiten werden bis zu 240 m3/h
+Corporation im Jahr 1987 ihre Produktionsstätten erreichen. Mit ergänzenden Baureihen in der
+und Verkaufsgesellschaften für Flüssigkeitstechnik herkömmlichen Gußtechnologie werden weit
+weltweit zusammengefaßt hat. Eine der größten größere Förderströme erreicht. Auch bisher schon
+Abteilungen der ITT Fluid Technology Corpora wurden von einigen Herstellern (Hilge, Lowara,
+tion ist die ITT Fluid Transfer Division (im Vertrag Grundfos, Ebara) Pumpen unter Verwendung von
+noch als Fluid Handling Division bezeichnet) mit Edelstahlblech produziert.
+Sitz in Midland Park, New Jersey. Sie ist der wirk
+liche Partner der Zusammenarbeit und wird Gegenüber den konventionellen, zumeist aus
+deshalb nachfolgend als ITT bezeichnet. Ihre Grauguß hergestellten Teilen führt die Verwendung
+größte Abteilung ist ITT Bell & Gosset mit Sitz in des rostfreien Chromnickelstahls zu erheblichen
+Morton Grove, Illinois. Die unter den Vertrag Vorteilen :
+fallenden Pumpen werden durch ITT Bell & Gosset
+verkauft.
+Die Korrosionsbeständigkeit des Materials erlaubt
+es, eine Chromnickelstahlpumpe für viele Flüssig ITT ist als Pumpenhersteller in Europa nach dem
+keiten, von reinem Wasser bis hin zu leichten Verkauf der Loewe Pumpenfabrik GmbH, Lüne
+burg, Deutschland, im Jahr 1988 an den dänischen Säuren und Laugen, zu verwenden. Für den Käufer
+hat dies den Vorteil, daß er statt vieler Pumpen, die Pumpenhersteller Grundfos mit folgenden Tochter
+aus verschiedenen, dem jeweiligen Fördergut ange gesellschaften vertreten : der Flygt AB, Lindas,
+paßten Werkstoffen hergestellt sind, im Prinzip nur Schweden, mit ihren europäischen Tochtergesell
+diesen einen Pumpentyp der Multimedienpumpe schaften, der AB Grindex, Händen, Schweden
+benötigt. sowie ITT Marlow und ITT Jabsco, Vereinigtes
+Königreich. Nach dem Geschäfsbericht 1987
+Wegen der Verwendung von gewalztem Chromnik betrug der Gesamtumsatz der ITT Corporation
+19 525 Millionen Dollar. Der von der Fluid kelstahlblech als Ausgangsmaterial sind alle medi
+umberührten Innenflächen glatt. Dadurch werden Technology Corporation erzielte Umsatz macht
+die durch Wandreibung verursachten Strömungs
+verluste reduziert, was mit Energieeinsparungen
+(') In der veröffentlichten Fassung dieser Entscheidung wurden verbunden ist. Die Rostfreiheit der wasserfüh
+gemäß Artikel 21 der Verordnung Nr. 17 bezüglich der Wah
+rung von Geschäftsgeheimnissen nachfolgend einige Angaben renden Teile gewährleistet, daß das transportierte
+ausgelassen. Fördergut nicht verschmutzt.
+
+25. 1 . 91 Amtsblatt der Europäischen Gemeinschaften Nr. L 19/27
+
+Bei dem konventionellen Pumpenwerkstoff nach DIN 24 255), vertikale Pumpen sowie
+Grauguß handelt es sich um ein sprödes Material. sonstige einstufige, einströmige Radialkreisel
+Im Gegensatz hierzu ist der zähe Werkstoff pumpen (z. B. U-turn-Pumpen). Da die Pumpen,
+Chromnickelstahl besser in der Lage, hohen Druck die Gegenstand der Vereinbarung sind, Förder
+und Erschütterungen aufzunehmen, ohne daß ströme von 240 mJ bis 250 m 3 erreichen sollen
+Brüche oder Risse auftreten, und dies bei sehr (vergleiche die von KSB vorgelegten Prospekte),
+unterschiedlichen Temperaturen von — 30 bis + sind Pumpen mit dieser Leistung mit einzube
+110° Celsius. ziehen. Nicht in den relevanten Markt einzube
+ziehen sind mehrstufige Pumpen, Chemiepumpen, Hinzu kommt, daß das Gewicht der neuen Teile
+soweit es um den Transport anderer chemischer nur 1 /4 des Gewichts der ihnen entsprechenden
+Substanzen als die in Randziffer 3 genannten konventionellen Graugußteile beträgt.
+Säuren und Laugen geht, Abwasserpumpen und
+(4) Zum Zeitpunkt des Abschlusses der Vereinbarung Heizungsumwälzpumpen . Der räumlich relevante
+zur Gründung der „Quattro-Tech SA", dem 5 . Markt umfaßt das Gesamtgebiet des Gemeinsamen
+November 1985, hatten die ursprünglichen Partner Marktes, da die Pumpen in allen Mitgliedstaaten
+der Zusammenarbeit KSB und Lowara die mit der regelmäßig angeboten und nachgefragt werden.
+Entwicklung der Pumpen verbundenen vielfältigen (8) Nach den Ausführungen der anmeldenden Parteien
+technischen Probleme noch nicht gelöst. Nach den gibt es in der Gemeinschaft etwa 70 Wasser
+der Kommission von den Parteien vorgelegten pumpen-Hersteller. Außerdem würden konventio
+Unterlagen (Sitzungsprotokolle, Berichte, Korre nelle Graugußpumpen in zunehmendem Maße aus
+spondenz bis zum Februar 1988) wurden diese Drittländern geliefert. In der Gemeinschaft
+Probleme auf zahlreichen Sitzungen, an denen alle bestünden ein scharfer Preis- und Qualitätswettbe
+Partner teilnahmen, behandelt. Dabei wurde jeweils werb und Uberkapazitäten. Der großen Zahl der
+beschlossen, welcher Beitrag zu ihrer Lösung von Anbieter steht allerdings gegenüber, daß KSB der
+den einzelnen Partnern zu leisten war. In diesem
+größte Pumpenhersteller nicht nur Europas,
+Rahmen haben sich ITT und Goulds mit sondern auch der Welt ist. Die Firma schätzt ihren
+folgenden Problemkreisen befaßt : Marktanteil in der Bundesrepulik Deutschland und,
+Gehäuse-Design, Steifigkeitsuntersuchungen, nach dem Erwerb von Ets. Pompes Guinard, in
+Vibrations- und Geräuschtests, Laufrad-Design Frankreich auf über [ . . .] %, in den Benelux
+und Tests zu seiner Stabilität, hydraulische Ländern auf zwischen [ . . .] und [ . . .] % und in
+Messungen, Untersuchungen des Einflusses der Italien allein auf über [...] % . Ihren EG-Marktan
+Form des Strömungsraums auf das hydraulische teil schätzt sie auf etwa [ . . .] % .
+Leistungsvermögen, Befestigung und Anpas Der Marktanteil in Italien erreicht mit dem von
+sung der wasserführenden Teile an die übrigen Lowara (rund [ . . .] %) einen Wert von ungefähr
+Pumpenteile, Abdichtungsfragen, Probleme der [...] % . Die Marktanteile von Goulds und ITT in
+Schweißungen sowie die Frage einer perma der Gemeinschaft insgesamt und in ihren
+nenten Qualitätssicherung bei der Serienferti einzelnen Mitgliedstaaten sind nach den Angaben
+gung. der Partner nach dem Verkauf der Loewe Pumpen
+(5) Die technische Zusammenarbeit dauert an. Nach fabrik GmbH durch ITT im Jahr 1988 unbedeu
+tend. Nach diesem Verkauf beziffern die Partner
+Angaben der Partner geht es dabei insbesondere
+ihren gemeinsamen Anteil in der Gemeinschaft auf noch um folgende Arbeitsbereiche :
+rund [...] % . Bei der Anmeldung haben sie ihn
+Dauererprobung der Prototypen der Pumpen auf [ . . .] % geschätzt.
+großer Leistungen und großer Nennweite, Fest
+Wettbewerber der Anmelder haben deren Marktan legung von Qualitätskontrollplänen sowie fort
+teil in Deutschland, Frankreich und Italien bedeu laufende Qualitätssicherung und Verbesserung
+für alle Größen. tend höher eingeschätzt, wobei sie den sachlich
+relevanten Markt auf Wassernormpumpen nach
+(6) Im Jahr 1988 hat jeder der vier Partner eine erste DIN 24 255 mit Förderströmen bis zu 100 m3/h
+Serie der neuen Chromnickelstahlpumpen auf den beschränken wollen. Die Zahl der Wasserpumpen
+Markt gebracht. Hersteller in der Gemeinschaft, die als Wettbe
+werber zählten, betrage nur etwa 15. Ein wesent
+D. Der Markt licher Preiswettbewerb unter ihnen finde nicht statt
+und die aus Drittländern importierten Pumpen
+(7) Die Pumpen, die Gegenstand der Kooperation seien nach Quantität und Qualität kein Wett
+sind, lassen sich dem Markt für einstufige, einströ bewerbsfaktor.
+mige Radialkreiselpumpen für Wasser mit einer
+Nennweite des Austrittsstutzens ab 25 mm Durch Aus dem Vortrag der Anmelder und der Stellung
+messer (ohne Abwasserpumpen) zuordnen. Zu nahme der Wettbewerber ergibt sich, daß KSB
+diesen im folgenden als Wasserpumpen bezeich allein gegenüber den anderen Anbietern auf dem
+neten Pumpen gehören insbesondere Block Gesamtgebiet des Gemeinsamen Marktes in der
+pumpen mit axialen Eintrittsstutzen, Blockpumpen Bundesrepublik, in Frankreich und in den
+mit Inline-Gehäuse und Naßläufermotor, soweit sie Benelux-Ländern und, zusammen mit Goulds/
+nicht Heizungsumwälzpumpen sind, Lagerträger Lowara, auch in Italien eine relativ starke Stellung
+pumpen (einschließlich der Wassernormpumpen hat.
+
+Nr. L 19/28 Amtsblatt der Europäischen Gemeinschaften 25. 1 . 91
+
+E. Die angemeldeten Vereinbarungen des Erwerbs der damit verbundenen Patente
+und die Herstellung der für die Produktion
+(9) Wie oben (Randziffer 1 ) erwähnt, sind an die Stelle erforderlichen Werkzeuge . Diese Teile sollen
+der Vereinbarung zur Gründung eines Gemein ausschließlich an die Partner der Zusammenar
+schaftsunternehmens vom 5. November 1985 zwei beit verkauft werden (Ziffer 1.2).
+Vereinbarungen vom 22. Juli 1987 getreten,
+— Die Arbeiten an dem Projekt werden von den
+— das Agreement for Joint Research, Develop Partnern auf gemeinsamen Sitzungen
+ment and Production (Joint Agreement) beschlossen und dann in Arbeitsteilung durch
+und das geführt, wobei die Durchführung von
+Forschungs- und Entwicklungsarbeiten und der — Production Agreement.
+Kauf der erforderlichen Werkzeuge von jedem
+Während ursprünglich das Gemeinschaftsunter Partner im eigenen Namen erfolgen (Ziffer 2.1
+und 3.5). nehmen die Forschungs- und Entwicklungsarbeiten
+sowie die Produktion der
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ die mit der Hilfe von ITT und Goulds Pumpen des Block I, die zögernder verläuft, als
+gelöst worden sind oder noch gelöst werden, weil sich die Partner das vorgestellt hatten. Unter diesen
+die vorgelegten Informationen dafür sprechen, daß Umständen ist davon auszugehen, daß die meisten
+die Einbeziehung beider Unternehmen in die anderen Unternehmen dort, wo der Marktführer
+Kooperation auch deshalb sinnvoll war, weil sich versucht hat, das mit den Investitionen verbundene
+ohne sie die weitere Entwicklung der Pumpen Risiko auf mehrere zu verteilen, genau das gleiche
+nicht gelohnt hätte. Die Gesamtkosten für getan hätten. Es ist deshalb zumindest während
+Forschung und Entwicklung sowie für die Ferti einer Einführungsperiode nicht zu beanstanden,
+gungseinrichtungen für die neuen Pumpen lassen daß KSB und Lowara trotz der oben beschriebenen
+sich auf etwa [ . . .] bis [ . . .] Millionen DM schätzen. Auswirkungen auf den Wettbewerb die Zusam
+Das entspricht etwa einem Drittel des Jahresum menarbeit mit Goulds und ITT anderen Lösungen
+satzes von KSB mit allen unter die Marktdefinition vorgezogen haben. Für diese Lösung spricht, daß
+fallenden Pumpen, der etwa [ . . .] % des konsoli sie die Vorteile der technischen Zusammenarbeit
+dierten Gesamtumsatzes im Jahr 1987 ausmacht. bei Forschung und Entwicklung mit der Sicherung
+Bei Lowara würden [ . . .] Millionen DM ungefähr des Absatzes einer hinreichenden Anzahl der flüs
+[ . . .] % des konsolidierten Gesamtumsatzes des sigkeitsführenden Teile verbindet.
+Jahres 1987 entsprechen, wobei der durchschnitt
+liche Umsatz mit den unter die Marktdefinition
+fallenden Pumpen in den Jahren 1985 — 1988 Die Kommission geht nach alledem davon aus, daß
+nach den Angaben von Lowara nur etwa [ . . .] % die Zusammenarbeit der Partner für die Entwick
+dieses Umsatzes ausmacht. Abgesehen davon, daß lung der neuen Pumpe unerläßlich war.
+
+25. 1 . 91 Amtsblatt der Europäischen Gemeinschaften Nr. L 19/35
+
+Dauer der Zusammenarbeit schalten. Das beruht besonders darauf, daß die
+neuen Pumpen erst auf dem Markt eingeführt(30) Bei der Beurteilung der Geltungsdauer der Ver
+werden müssen, wo sie sich dem Wettbewerb der
+einbarungen, nämlich zehn Jahre, vom 22. Juli
+übrigen Anbieter mit klassischen Pumpen gegen 1987 an gerechnet, für das Joint Agreement und
+übersehen. Da die Einführung zögernder als zehn Jahre, vom 1 . Januar 1988 an gerechnet, für
+geplant verläuft, ist noch nicht abzusehen, ob und das Pfoduction Agreement, ist zu berücksichtigen,
+in welchem Umfang sich die neuen Wasser daß die Arbeiten an den Block-I-Pumpen inzwi
+pumpen gegenüber den konventionellen durch schen abgeschlossen sind. Die Pumpen sind
+setzen werden. Die von den Wettbewerbern ausge zumeist im Handel. Von den Block-II-Pumpen
+sind drei Dimensionen technisch vollendet und im drückten Befürchtungen erscheinen deshalb,
+zumindest gegenwärtig, nicht begründet. Mai 1989 auf dem Markt eingeführt worden. Die
+Markteinführung für sechs weitere Typen ist 1990
+erfolgt, beziehungsweise für den Beginn des Jahres C. Artikel 8 der Verordnung Nr. 17
+1991 vorgesehen. Die Forschungs- und Entwick
+lungsarbeiten für die letzten drei Dimensionen (34) Schon jetzt ist aber zu berücksichtigen, daß der
+sind zunächst noch zurückgestellt worden. Bei der Marktanteil aller Partner in der Gemeinschaft nach
+Zusammenarbeit geht es also hinsichtlich der ihrer eigenen Schätzung einen Wert erreicht, der
+Block-I-Pumpen um eine gemeinsame Verwertung dicht an der Schwelle liegt, von der ab die Grup
+und hinsichtlich der Block-II-Pumpen noch um penfreistellung für Forschung und Entwicklung
+eine gemeinsame Forschung und Entwicklung, die nicht mehr gilt, und daß dieser Marktanteil von
+allerdings mit Ausnahme der letzten drei den Wettbewerbern bedeutend höher eingeschätzt
+Baugrößen kurz vor dem Abschluß steht. wird. Es handelt sich um einen Grenzfall, der die
+Kommission zu einer Einzelfallentscheidung(31 ) Nach Artikel 3 Absatz 1 der Verordnung (EWG) veranlaßt. Dabei beruhen ihre Bedenken auf der
+Nr. 418/85 gilt die in Artikel 1 der Verordnung
+starken Stellung von KSB, dem größten Pumpen vorgesehene Freistellung für die Dauer der Durch
+hersteller der Welt, in den zentralen Mitglied führung des Forschungs- und Entwicklungspro
+staaten des Gemeinsamen Marktes. Angesichts gramms und, falls eine gemeinsame Verwertung
+dieser Stellung, verbunden mit der Tatsache, daß der Ergebnisse stattfindet, für einen weiteren Zeit von den beiden amerikanischen Partnern Goulds
+raum von fünf Jahren, falls die Partner der Zusam
+die neuen Pumpen nur über Lowara und ITT sie menarbeit keine Wettbewerber sind. Sind die
+überhaupt nicht auf dem europäischen Markt Partner, so wie im vorliegenden Fall, Wettbewerber,
+vertreibt und daß Lowara im Vergleich zu KSB gilt eine solche Freistellung nach Artikel 3 Absatz
+wirtschaftlich relativ unbedeutend ist, kann nicht
+2 nur, wenn bei Abschluß der Vereinbarung der
+Anteil aller Partner zusammen im Gemeinsamen ausgeschlossen werden, daß eine erfolgreiche
+Markt oder in einem wesentlichen Teil desselben Einführung der Pumpen in der Zukunft die
+Struktur des relevanten europäischen Marktes nicht mehr als 20 % ausmacht. Artikel 3 Absatz 3
+entscheidend beeinflußt. Die noch andauernden
+i verlängert diese Freistellung nach Ablauf des Fünf
+Forschungs- und Entwicklungsarbeiten an den jahreszeitraums nur, wenn der Anteil aller Partner
+zusammen weiterhin unter 20 % bleibt. Pumpen des Blocks II werden wahrscheinlich
+demnächst abgeschlossen werden. Die Gefahr
+(32) Bei der Behandlung dieses Falls als eine Freistel struktureller Veränderungen des Marktes wird
+lung durch eine Einzelfallentscheidung sieht die durch die Tatsache verstärkt, daß Dritte während
+Kommission bei der Ausübung der ihr nach der Dauer der Zusammenarbeit keinerlei Zugang
+Artikel 8 Absatz 1 der Verordnung Nr. 17 oblie zu dem Know-how der Beteiligten haben.
+genden Verpflichtung, die Gültigkeitsdauer einer
+Freistellungserklärung festzulegen, keinen Anlaß, (35) Demgegenüber haben zwar alle Partner auf die
+von der in der Verordnung (EWG) Nr. 418/85 gegenwärtig zögernd verlaufende Markteinführung
+vorgesehenen Frist abzuweichen. hingewiesen. Aus den vorgelegten Zahlen ergibt
+sich aber, daß diese Einführung in den USA
+Nach den Auskünften der Partner sind die Pumpen
+zögernder verläuft als in Europa und daß KSB auf
+des Blocks I erstmals durch KSB im Frühjahr 1988
+dem europäischen Markt etwas erfolgreicher war.
+im Gemeinsamen Markt in den Verkehr gebracht
+Die Kommission muß angesichts dieser Umstände
+worden. Die Kommission geht davon aus, daß dies
+darüber wachen, daß eine möglicherweise eintre
+am 1 . Juni 1988 geschehen ist. Es erscheint daher tende Veränderung der Marktstrukturen keine
+angemessen, die für den Fall gemeinsamer Verwer Wirkung hat, die sie zur Überprüfung ihrer Einzel
+tung der Ergebnisse in Artikel 3 Absatz 2 in
+freistellungsentscheidung veranlassen könnte.
+Verbindung mit Absatz 1 der Verordnung (EWG)
+Nr. 418/85 vorgesehene fünfjährige Freistellungs Es erscheint deshalb angemessen, die Parteien nach
+dauer zu übernehmen . Die Freistellung gilt Artikel 8 Absatz 1 der Verordnung Nr. 17 zur
+demnach bis zum 31 . Mai 1993 . Vorlage eines Berichts über die Entwicklung der
+Mangelnder Ausschluß des Wettbewerbs Zusammenarbeit zu verpflichten, der folgende
+Informationen enthält :
+(33) Gegenwärtig eröffnen die Vereinbarungen keine
+Möglichkeiten, für einen wesentlichen Teil der — eine Schilderung des technischen Fortgangs der
+betreffenden Waren den Wettbewerb auszu Zusammenarbeit :
+
+Nr. L 19/36 Amtsblatt der Europäischen Gemeinschaften 25. 1 . 91
+
+— die in den einzelnen Mitgliedstaaten erzielten zwischen den Unternehmen KSB Aktiengesellschaft, ITT
+Jahresumsätze mit den Pumpen, die unter die Industries, Goulds Pumps Inc. und Lowara SpA geschlos
+in Randziffer 7 aufgeführte Marktdefinition senen Vereinbarungen für nicht anwendbar erklärt.
+fallen, sowie die mit den Pumpen des neuen
+Typs erzielten Jahresumsätze. Dabei ist das Artikel 2
+jeweilige Gesamtvolumen des Marktes für die
+unter die Marktdefinition fallenden Pumpen Jedes der vier Unternehmen hat 1991 und 1993, jeweils
+anzugeben. Die Angaben zu den Jahresum Ende März, einen Bericht über die Entwicklung der
+sätzen und zu dem Marktvolumen sind nach
+Zusammenarbeit vorzulegen, der die in der Randziffer 35
+ihrem Wert in Ecu und nach der Stückzahl zu dieser Entscheidung aufgezählten Angaben enthält.
+machen.
+
+Dieser Bericht ist zweimal, 1991 und 1993, jeweils Artikel 3
+Ende März, Vorzulegen .
+Diese Entscheidung ist gerichtet an :
+Unerläßlichkeit der gemeinsamen Verwertung
+1 . KSB AG,
+(36) Die Kommission hat eine gemeinsame Verwertung Postfach 225,
+der Ergebnisse von Forschung und Entwicklung Johann-Klein-Straße 9,
+während eines bestimmten Zeitraums nach ihrem D-6710 Frankenthal/Pfalz ;
+Beginn im Prinzip akzeptiert (vgl. den neunten
+Erwägungsgrund der Verordnung (EWG) Nr. 2. Goulds Pumps Inc.,
+418/85). Angesichts der von den Wettbewerbern 240 Fall Street,
+vorgetragenen Bemerkungen hat die Kommission Seneca Falls,
+aber Grund zu der Annahme, daß die gemeinsame USA-New York 13148 ;
+Verwertung in diesem Fall, die Wettbewerbern 3. Lowara SpA,
+jeden Zugang zu den von Lowara hergestellten I-36075 Montecchio Maggiore,
+wasserführenden Teilen der Pumpen versagt, ihrer Vicenza ;
+Tendenz nach die jetzt schon starke Stellung der
+Partner, insbesondere von KSB, auf dem Gemein 4. ITT Corporation,
+samen Markt verstärkt. Nach Ablauf der Freistel Fluid Technology Group,
+lung kann die gemeinsame Verwertung der Ergeb PO Box 200,
+nisse aller Voraussicht nach nicht mehr als uner 445, Godwin Avenue,
+läßlich angesehen werden, wenn die Ausschließ Midland Park,
+lichkeit von Herstellung und Vertrieb den Partnern USA-New Jersey 07432.
+der Zusammenarbeit vorbehalten bleibt —
+
+Brüssel, den 12. Dezember 1990
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN :
+
+Für die Kommission Artikel 1
+Leon BRITTAN
+Artikel 85 Absatz 1 des Vertrages wird für die Zeit vom
+22. Juli 1987 bis 31 . Mai 1993 auf die am 22. Juli 1987 Vizepräsident

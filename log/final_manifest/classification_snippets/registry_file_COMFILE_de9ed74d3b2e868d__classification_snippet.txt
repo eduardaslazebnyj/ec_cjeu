@@ -1,0 +1,610 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+38.620
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 03.05.2006
+C(2006) 1766 final
+
+.
+
+...
+
+COMMISSION DECISION
+
+of 03.05.2006
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+and Article 53 of the EEA Agreement
+
+(Case COMP/F/38.620 – Hydrogen Peroxide and Perborate)
+
+(Only the English, French and Italian texts are authentic)
+
+Public Version
+
+(Text with EEA relevance)
+
+.
+
+EN 1 EN
+
+TABLE OF CONTENTS
+
+1. SUMMARY OF THE INFRINGEMENT ............................................................... 7
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDING ........................................ 7
+
+2.1. The products ............................................................................................................... 7
+
+2.2. The Market Players .................................................................................................. 10
+
+2.2.1. Akzo Nobel, Akzo Nobel Chemicals Holding and EKA Chemicals..................... 10
+
+2.2.2. Degussa ...................................................................................................................... 11
+
+2.2.3. [deleted] (and Ausimont) .......................................................................................... 13
+
+2.2.4. Ausimont (currently Solvay Solexis) ...................................................................... 13
+
+2.2.5. FMC Corporation/FMC Foret ................................................................................ 14
+
+2.2.6. Kemira ....................................................................................................................... 15
+
+2.2.7. L’Air Liquide/Chemoxal ......................................................................................... 16
+
+2.2.8. Snia/Caffaro .............................................................................................................. 17
+
+2.2.9. Solvay ........................................................................................................................ 18
+
+2.2.10. Total/Elf Aquitaine/Arkema ................................................................................... 19
+
+2.3. Description of the market ........................................................................................ 21
+
+2.3.1. The supply ................................................................................................................. 21
+
+2.3.2. The demand .............................................................................................................. 23
+
+2.3.3. Geographic scope ..................................................................................................... 23
+
+3. PROCEDURE .......................................................................................................... 23
+
+3.1. The Commission’s investigation ............................................................................. 24
+
+3.2. Previous investigations............................................................................................. 26
+
+3.3. The main evidence relied on in this Decision ......................................................... 26
+
+3.4. Inter-state Trade ...................................................................................................... 27
+
+4. DESCRIPTION OF EVENTS ................................................................................ 28
+
+4.1. Technical developments in pulp bleaching: a limited switch from ECF to TCF
+technology by customers of HP ............................................................................... 28
+
+4.2. Captive production: the switching from PBS to PCS ........................................... 28
+
+4.3. Nordic countries: expansion of the producers active in Scandinavia to
+continental Europe ................................................................................................... 29
+
+EN 2 EN
+
+4.4. Former German Democratic Republic (GDR). New plants built using available
+State aid ..................................................................................................................... 29
+
+4.5. Organisation and structure of the cartel ................................................................ 30
+
+4.5.1. General organisation ................................................................................................ 30
+
+4.5.2. The essential features of the collusive behaviour .................................................. 30
+
+4.6. The operation of the cartel ...................................................................................... 31
+
+4.6.1. The general framework for the meetings between competitors: initial meetings
+.................................................................................................................................... 31
+
+4.6.1.1. Initial meetings regarding HP ................................................................................. 31
+
+4.6.1.2. Initial meetings regarding PBS ............................................................................... 31
+
+4.6.1.3. Other bilateral and multilateral meetings between Degussa and other
+competitors in the years 1992-1994 regarding HP ................................................ 31
+
+4.6.2. Meetings during the period of infringing behaviour ............................................ 31
+
+4.6.3. Years 2001-2002, other bilateral contacts between competitors regarding both
+HP and PBS .............................................................................................................. 74
+
+5. THE TREATY AND THE EEA AGREEMENT .................................................. 74
+
+5.1. Relationship between the Treaty and the EEA Agreement ................................. 74
+
+5.2. Jurisdiction ............................................................................................................... 74
+
+6. APPLICATION OF ARTICLE 81 OF THE TREATY AND ARTICLE 53 OF
+THE EEA AGREEMENT ....................................................................................... 74
+
+6.1. Article 81(1) of the Treaty and Article 53 (1) of the EEA Agreement ................ 74
+
+6.2. The nature of the infringement in the present case .............................................. 75
+
+6.2.1. Agreements and concerted practices ...................................................................... 75
+
+6.2.1.1. Principles concerning agreements and concerted practices ................................. 75
+
+6.2.1.2. Application to the case ............................................................................................. 78
+
+6.2.2. Single and continuous infringement ....................................................................... 83
+
+6.2.2.1. Principles ................................................................................................................... 83
+
+6.2.2.2. Application to the case ............................................................................................. 84
+
+6.3. Restriction of competition ....................................................................................... 88
+
+6.4. Effect upon trade between Member States and between EEA Contracting
+Parties ........................................................................................................................ 90
+
+6.5. Provisions of competition rules applicable to Austria, Finland, Iceland,
+Liechtenstein, Norway and Sweden ........................................................................ 91
+
+6.6. Duration of the unlawful behaviour ....................................................................... 91
+
+EN 3 EN
+
+6.6.1. Beginning of the infringement................................................................................. 91
+
+6.6.2. End of the infringement ........................................................................................... 92
+
+6.6.3. Application of the limitation period ....................................................................... 95
+
+6.7. Addressees of the Decision ....................................................................................... 96
+
+6.7.1. Principles ................................................................................................................... 96
+
+6.7.2. Addressees of the present Decision ......................................................................... 99
+
+6.7.3. Akzo Nobel NV, Akzo Nobel Chemicals Holding AB and EKA Chemicals AB . 99
+
+6.7.4. Degussa AG ............................................................................................................. 100
+
+6.7.5. FMC Corporation and FMC Foret SA ................................................................ 100
+
+6.7.6. Kemira OYJ ............................................................................................................ 102
+
+6.7.7. L’Air Liquide SA and Chemoxal SA .................................................................... 102
+
+6.7.8. Snia SpA and Caffaro Srl ...................................................................................... 104
+
+6.7.9. Solvay SA/NV ......................................................................................................... 105
+
+6.7.10. Solvay Solexis SpA ................................................................................................. 106
+
+6.7.11. [deleted] .................................................................................................................... 106
+
+6.7.12. Total SA, Elf Aquitaine SA and Arkema SA ....................................................... 107
+
+6.8. Conclusions ............................................................................................................. 110
+
+7. REMEDIES ............................................................................................................ 111
+
+7.1. Article 7 of Regulation (EC) No 1/2003 ................................................................ 111
+
+7.2. Article 23(2) of Regulation (EC) No 1/2003 ......................................................... 111
+
+8. THE BASIC AMOUNT OF THE FINES ............................................................ 112
+
+8.1. Gravity .................................................................................................................... 112
+
+8.1.1. Nature of the infringement .................................................................................... 113
+
+8.1.2. The actual impact of the infringement ................................................................. 113
+
+8.1.3. The size of the relevant geographic market ......................................................... 113
+
+8.1.4. Conclusion on the gravity of the infringement .................................................... 113
+
+8.1.5. Differential treatment ............................................................................................ 114
+
+8.1.6. Sufficient deterrence .............................................................................................. 115
+
+8.2. Duration of the infringement ................................................................................ 116
+
+8.3. Conclusion on the basic amounts .......................................................................... 117
+
+9. AGGRAVATING AND ATTENUATING CIRCUMSTANCES ...................... 117
+
+EN 4 EN
+
+9.1. Aggravating circumstances ................................................................................... 117
+
+9.1.1. Recidivism ............................................................................................................... 117
+
+9.2. Attenuating circumstances .................................................................................... 119
+
+9.2.1. Early termination of the infringement ................................................................. 119
+
+9.2.2. Minor and/or passive role ...................................................................................... 119
+
+9.2.3. Non-implementation .............................................................................................. 121
+
+9.2.4. Crisis situation ........................................................................................................ 122
+
+9.2.5. Absence of benefit .................................................................................................. 123
+
+9.2.6. Cooperation outside the 2002 Leniency Notice ................................................... 123
+
+9.3. Conclusion on aggravating and attenuating circumstances ............................... 124
+
+9.4. Application of the 10% turnover limit ................................................................. 124
+
+10. APPLICATION OF THE 2002 LENIENCY NOTICE ...................................... 124
+
+10.1. Degussa .................................................................................................................... 125
+
+10.2. EKA ......................................................................................................................... 125
+
+10.3. Atofina (Arkema) ................................................................................................... 126
+
+10.4. Solvay ...................................................................................................................... 127
+
+10.5. Solexis ...................................................................................................................... 129
+
+10.6. Kemira ..................................................................................................................... 129
+
+10.7. Conclusion on the application of the 2002 Leniency Notice ............................... 130
+
+11. THE AMOUNTS OF THE FINES IMPOSED IN THIS PROCEEDING ................................ 130
+
+Remark :
+
+Throughout the decision, '[Deleted]' signifies a passage which was removed for publication
+purposes by the Commission, while'[name of the company]' replaces one of the addresses'
+names.
+
+EN 5 EN
+
+D
+
+COMMISSION DECISION
+
+of 03.05.2006
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+and Article 53 of the EEA Agreement
+
+(Case COMP/F/38.620 – Hydrogen Peroxide and Perborate)
+
+(Only the English, French and Italian texts are authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1
+and, in particular, Articles 7(1) and 23(2) thereof,
+
+Having regard to the Commission Decision of 26 January 2005 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation EC No 1/2003
+and Articles 10 and 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relati
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ concerning an infringement
+in the HP and PBS industry. For factual details, see recitals (68)-(70). In particular, in
+relation to the claim that Solvay’s application preceded that of Atofina, it is noted that
+neither the telephone call of the morning of 3 April 2003 nor the fax sent at midday
+contained any information about the infringement.
+
+(521) The meeting of 4 April 2003 was scheduled in agreement with Solvay. In any case, as
+set out in recital (69), on 3 April 2003 at 15.50hrs (that is before Solvay’s request of
+17.24hrs) Atofina had already sent its leniency application by fax to the Commission.
+
+425 The party quoted from the paragraph 550 of the Commission decision Austrian Banks – ‘Lombard
+Club’ of 11 June 2002, in OJ (2004) L 56/1, which reads as follows: “The added value is easy to
+determine: it is the sum of, first, any facts that were not ascertained from the inspections, or from the
+documents that were provided or ought to have been provided in accordance with the duty to supply
+information (new facts), and, second, any explanations that facilitated the Commission’s understanding
+of the case. Only new facts and explanations that assist better comprehension will make it easier for the
+Commission to establish the infringement”.
+426 See judgment Tokai v Commission, cited in footnote 349, paragraph 390.
+
+EN 128 EN
+
+(522) Therefore the Commission rejects Solvay’s argument.
+
+(523) As already stated in recital (513), the time, scope and value of the submissions have to
+be taken into account when establishing the level of the reduction within the band
+assigned. The Commission considers that, as to the timing, the first submission by
+Solvay containing significant added value occurred on 4 April 2003. An additional
+statement was submitted on 17 May 2004. As regards the scope, the documents
+concern the Europe-wide cartel for both products. As regards the value, basically
+Solvay submitted evidence which enabled the Commission to corroborate certain of
+the information already provided by Degussa and Atofina and which is used widely in
+the present Decision.
+
+(524) Based on the foregoing, the Commission grants Solvay a 10% reduction of the fine
+that would otherwise have been imposed on it.
+
+10.5. Solexis
+
+(525) On 7 July 2003 Solexis submitted an application under the Leniency Notice including
+a statement by the company regarding both HP and PBS.
+
+(526) The Commission has examined Solexis’ submission, applying its practice of
+examining each submission of evidence in the chronological order in which
+submissions are made and evaluating for each submission whether it, together with the
+value accorded to any previous submissions by the same applicant, constitutes
+significant added value within the meaning of point 21 of the Leniency Notice. Based
+on these criteria the Commission has concluded that the evidence submitted by Solexis
+does not represent significant added value within the meaning of the Leniency Notice.
+This is because Solexis’ submission of 7 July 2003 merely included for the time period
+1997 until 1999 information [deleted] already known to the Commission prior to
+Solexis’ leniency application.
+
+10.6. Kemira
+
+(527) On 18 September 2003 Kemira submitted an application under the Leniency Notice
+for HP regarding sales in Northern Europe including a corporate statement with 11
+annexes.
+
+(528) The Commission has examined Kemira’s submission, applying its practice of
+examining each submission of evidence in the chronological order in which
+submissions have been made and evaluating for each submission whether it, together
+with the value accorded to any previous submissions by the same applicant, constitutes
+significant added value within the meaning of point 21 of the Leniency Notice. Based
+on these criteria the Commission has concluded that the evidence submitted by Kemira
+did not represent significant added value within the meaning of the Leniency Notice.
+The information from Kemira only relates to a small part of the market whilst the
+investigation of the Commission covers the EEA-market. Furthermore the facts
+
+EN 129 EN
+
+provided by Kemira were already known to the Commission prior to Kemira’s
+leniency application.
+
+10.7. Conclusion on the application of the 2002 Leniency Notice
+
+(529) In conclusion, Degussa, EKA, Arkema and Solvay should be granted the following
+reductions of the fines that would otherwise have been imposed on them:
+
+- Degussa immunity
+
+- Akzo Nobel / Akzo Nobel Chemicals 40 %
+Holding / EKA Chemicals
+
+- Total / Elf Aquitaine / Atofina (now 30 %
+Arkema)
+
+- Solvay 10 %
+
+11. THE AMOUNTS OF THE FINES IMPOSED IN THIS PROCEEDING
+
+(530) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003
+should therefore be as follows:
+
+(a) Akzo Nobel NV, Akzo Nobel Chemicals Holding AB and EKA
+Chemicals AB, jointly and severally: EUR 25.2 million;
+
+(b) Degussa AG: EUR 0;
+
+(c) [deleted]: EUR 58.125 million, of which EUR 25.619 million jointly
+and severally with Solvay Solexis SpA;
+
+(d) FMC Corporation and FMC Foret S.A., jointly and severally: EUR 25
+million;
+
+(e) Kemira OYJ: EUR 33 million;
+
+(f) L’Air Liquide SA and Chemoxal SA: EUR 0;
+
+(g) Snia SpA and Caffaro Srl, jointly and severally: EUR 1.078 million;
+
+(h) Solvay SA/NV: EUR 167.062 million;
+
+(i) Arkema SA: EUR 78.663 million, of which EUR 42 million jointly
+and severally with Total SA and EUR 65.1 million jointly and
+severally with Elf Aquitaine SA.
+
+EN 130 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81(1) of the Treaty and Article 53 of the
+EEA Agreement by participating, for the periods indicated, in a single and continuous
+infringement regarding hydrogen peroxide and sodium perborate, covering the whole EEA
+territory, which consisted mainly of exchanges between competitors of information on prices
+and sales volumes, agreements on prices, agreements on reduction of production capacity in
+the EEA and monitoring of the anti-competitive arrangements:
+
+(a) Akzo Nobel NV, from 25 February 1994 until 31 December 1999;
+
+(b) Akzo Nobel Chemicals Holding AB, from 31 January 1994 until 31
+December 1999;
+
+(c) EKA Chemicals AB, from 31 January 1994 until 31 December 1999;
+
+(d) Degussa AG, from 31 January 1994 until 31 December 2000;
+
+(e) [deleted];
+
+(f) FMC Corporation, from 29 May 1997 until 13 December 1999;
+
+(g) FMC Foret S.A., from 29 May 1997 until 13 December 1999;
+
+(h) Kemira OYJ, from 31 January 1994 until 31 December 2000;
+
+(i) L’Air Liquide SA, from 12 May 1995 until 31 December 1997;
+
+(j) Chemoxal SA, from 12 May 1995 until 31 December 1997;
+
+(k) Snia SpA, from 29 May 1997 until 31 December 1998;
+
+(l) Caffaro Srl, from 29 May 1997 until 31 December 1998;
+
+(m) Solvay SA/NV, from 31 January 1994 until 31 December 2000;
+
+(n) Solvay Solexis SpA, from 12 May 1995 until 31 December 2000;
+
+(o) Total SA, from 30 April 2000 until 31 December 2000;
+
+(p) Elf Aquitaine SA, from 12 May 1995 until 31 December 2000;
+
+(q) Arkema SA, from 12 May 1995 until 31 December 2000.
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+EN 131 EN
+
+(a) Akzo Nobel NV, Akzo Nobel Chemicals Holding AB and EKA
+Chemicals AB, jointly and severally: EUR 25.2 million;
+
+(b) Degussa AG: EUR 0;
+
+(c) [deleted]: EUR 58.125 million, of which EUR 25.619 million jointly
+and severally with Solvay Solexis SpA;
+
+(d) FMC Corporation and FMC Foret S.A., jointly and severally: EUR 25
+million;
+
+(e) Kemira OYJ: EUR 33 million;
+
+(f) L’Air Liquide SA and Chemoxal SA: EUR 0;
+
+(g) Snia SpA and Caffaro Srl, jointly and severally: EUR 1.078 million;
+
+(h) Solvay SA/NV: EUR 167.062 million;
+
+(i) Arkema SA: EUR 78.663 million, of which EUR 42 million jointly
+and severally with Total SA and EUR 65.1 million jointly and
+severally with Elf Aquitaine SA.
+
+The fines shall be paid in Euros, within three months of the date of the notification of this
+Decision, to the following account:
+
+Account N°
+
+375-1017300-43 of the European Commission with:
+
+ING - Agence Bruxelles-Européenne, Rond-Point Schuman, 5 B-1040 Brussels
+
+(Code SWIFT BBRUBEBB – Code IBAN BE66 3751 0173 0043)
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month
+in which this Decision is adopted, plus 3.5 percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+EN 132 EN
+
+AKZO NOBEL NV
+Velperweg 76
+NL - 6824 BM ARNHEM
+
+AKZO NOBEL CHEMICALS HOLDING AB
+P.O. BOX 11500
+SE – 10061 STOCKHOLM
+
+ARKEMA SA
+4-8, cours Michelet
+F – 92800 PUTEAUX
+
+CAFFARO Srl
+Via Borgonuovo, 14
+I – 20121 MILANO
+
+CHEMOXAL SA
+75, Quai d’Orsay
+F – 75007 PARIS
+
+DEGUSSA AG
+Bennigsenplatz, 1
+D - 40474 DÜSSELDORF
+
+[deleted]
+
+EKA CHEMICALS AB
+SE – 44580 BOHUS
+ELF AQUITAINE SA
+2, place de la Coupole
+La Défense 6
+F – 92078 Paris La Défense Cedex
+
+FMC Corporation
+1735 Market Street
+US – PHILADELPHIA, PA 19103
+
+FMC Foret SA
+Plaza Xavier Cugat, 2 - Edificio C, planta 3
+Parque de Oficinas Sant Cugat Nord
+E - 08174 SANT CUGAT DEL VALLÉS (BARCELONA)
+
+KEMIRA OYJ
+Porkkalankatu, 3 - P.O. Box 330
+FIN - 00101 HELSINKI
+
+L'AIR LIQUIDE S.A.
+75, Quai d’Orsay
+F – 75321 PARIS
+
+SNIA SpA
+Via Borgonuovo, 14
+
+EN 133 EN
+
+I – 20121 MILANO
+
+SOLVAY SA/NV
+Rue du Prince Albert, 33
+B – 1050 BRUXELLES/BRUSSEL
+
+SOLVAY SOLEXIS SpA
+Via Turati, 12
+I – 20121 MILANO
+
+TOTAL S.A.
+2 Place de la Coupole
+La Défense 6
+F - 92078 Paris La Défense Cedex
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 03.05.2006
+
+For the Commission
+
+Neelie Kroes
+Member of the Commission
+
+EN 134 EN

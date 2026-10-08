@@ -1,0 +1,514 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39230 – RIO TINTO ALCAN
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 20/12/2012
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 20.12.2012
+C(2012) 9439 final
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 20.12.2012
+
+addressed to
+
+- Rio Tinto plc
+- Rio Tinto International Holdings Limited
+- Rio Tinto Alcan Inc
+- Rio Tinto France SAS
+- Aluminium Pechiney SAS
+- Electrification Charpente Levage SASU
+
+relating to a proceeding under Articles 101 and 102 of the Treaty on the Functioning of
+the European Union and Articles 53 and 54 of the EEA Agreement
+
+in Case COMP/39230 – Rio Tinto Alcan
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter...............................................................................................................5
+
+2. The Parties ....................................................................................................................5
+
+3. Procedural Steps Under Regulation No 1/2003............................................................6
+
+4. Preliminary Assessment................................................................................................7
+
+4.1. Relevant markets...........................................................................................................7
+
+4.1.1. The tying market: licensing of aluminium smelting technology..................................7
+
+4.1.1.1. Product market..............................................................................................................7
+
+4.1.1.2. Geographic market......................................................................................................10
+
+4.1.2. The tied market: the market for PTAs ........................................................................11
+
+4.1.2.1. Product market............................................................................................................11
+
+4.1.2.2. Geographic market......................................................................................................11
+
+4.2. Position of the parties on the relevant markets / Dominant position of Rio Tinto
+Alcan in the tying market............................................................................................11
+
+4.2.1. The tying market: licensing of aluminium smelting technology................................12
+
+4.2.1.1. Market structure: large market share of Rio Tinto Alcan on the relevant technology
+market .........................................................................................................................12
+
+4.2.1.2. Barriers to entry and expansion ..................................................................................14
+
+4.2.1.3. Limited possibilities for customers to switch technology providers ..........................14
+
+4.2.1.4. Lack of countervailing buyer power of customers .....................................................14
+
+4.2.1.5. Assessment of competitive constraints from existing technology competitors..........15
+
+4.2.2. The tied market: the market for PTAs ........................................................................16
+
+4.3. Practices raising concerns...........................................................................................16
+
+4.3.1. Abuse of a dominant position pursuant to Article 102 of the Treaty .........................16
+
+4.3.1.1. Distinct products.........................................................................................................17
+
+4.3.1.2. Anti-competitive foreclosure......................................................................................18
+
+4.3.1.3. Rio Tinto Alcan's efficiency claims............................................................................22
+
+4.3.1.4. Preliminary conclusion on abuse of a dominant position pursuant to Article 102 of
+the Treaty....................................................................................................................24
+
+4.3.2. Agreements prohibited pursuant to Article 101 of the Treaty....................................24
+
+4.3.2.1. Agreement...................................................................................................................25
+
+EN 2 EN
+
+4.3.2.2. Effect of restricting competition.................................................................................25
+
+4.3.2.3. Appreciable restriction of competition .......................................................................26
+
+4.3.2.4. Application of Article 101(3) of the Treaty................................................................26
+
+4.3.2.5. Preliminary conclusion on agreements prohibited pursuant to Article 101 of the
+Treaty..........................................................................................................................28
+
+4.4. Effect on trade between Member States .....................................................................28
+
+5. Proposed Commitments..............................................................................................28
+
+6. Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003..........29
+
+7. Revised Commitments................................................................................................30
+
+8. Proportionality of the Commitments ..........................................................................32
+
+8.1. Principles ....................................................................................................................32
+
+8.2. Application in the present case...................................................................................32
+
+9. Conclusion ..................................................................................................................34
+
+ANNEX.....................................................................................................................................35
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 20.12.2012
+
+addressed to
+
+- Rio Tinto plc
+- Rio Tinto International Holdings Limited
+- Rio Tinto Alcan Inc
+- Rio Tinto France SAS
+- Aluminium Pechiney SAS
+- Electrification Charpente Levage SASU
+
+relating to a proceeding under Articles 101 and 102 of the Treaty on the Functioning of
+the European Union and Articles 53 and 54 of the EEA Agreement
+
+in Case COMP/39230 – Rio Tinto Alcan
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 20 February 2008 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Statement of Objections of 20 February 2008 and the
+preliminary assessment of 11 July 2012,
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the TFEU will be used throughout this Decision.
+
+EN 4 EN
+
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Council Regulation (EC) No 1/2003 on the commitments offered to meet
+those concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+Whereas:
+
+1. SUBJECT MATTER
+
+(1) The present Decision is addressed to Rio Tinto plc ("Rio Tinto"), Rio Tinto
+International Holdings Limited, Rio Tinto Alcan Inc, Rio Tinto France SAS,
+Aluminium Pechiney SAS ("AP") and Electrification Charpente Levage SASU
+("ECL") (collectively, the "Addressees" or "Rio Tinto Alcan") and concerns certain
+contractual practices of Rio Tinto Alcan relating to the licensing of aluminium
+reduction (smelting) technology and the supply of pot tending assemblies ("PTAs"),
+i.e. specialty cranes used in aluminium reduction plants (smelters).
+
+(2) In its preliminary assessment2 of 11 July 2012, the Commission came to the
+provisional conclusion that Rio Tinto Alcan's practice of contractually tying the
+licensing of its AP aluminium smelting technology to the purchase of PTAs
+exclusively from Rio Tinto's subsidiary ECL raised concerns as to its compatibility
+with Articles 101 and 102 of the Treaty and Articles 53 and 54 of the EEA
+Agreement. The preliminary assessment expressed the concern that Rio Tinto Alcan's
+contractual practice might produce negative effects on innovation and prices and
+result in anti-competitive foreclosure on the PTA market.
+
+2. THE PARTIES
+
+(3) Rio Tinto is a fully integrated primary aluminium producer, supplying bauxite,
+alumina and aluminium. Following Rio Tinto’s acquisition of Alcan Inc on 1 January
+2008, Alcan Inc and Rio Tinto Canada Holdings Inc (a subsidiary of Rio Tinto)
+merged to become Rio Tinto Alcan Inc, a wholly-owned subsidiary of Rio Tinto
+International Holdings Limited, itself a direct wholly-owned subsidiary of Rio Tinto
+plc. 3
+
+(4) AP is a wholly owned subsidiary of Rio Tinto France SAS, itself a wholly owned
+subsidiary of Rio Tinto Alcan Inc. AP, which is based in France, has traditionally
+
+2 In the preliminary assessment of 11 July 2012, the Commission maintained the findings and the legal
+and economic assessments set out in the Statement of Objections of 20 February 2008, except where
+these were not consistent with the revised market definitions of the preliminary assessment or if
+expressly indicated otherwise. The Statement of Objections was annexed to, and thus forms part of, the
+preliminary assessment. For the purposes of this Decision, references to the preliminary assessment
+must be understood as comprising as well, when appropriate, the findings and assessment in the
+Statement of Objections.
+3 In its decision of 2 October 2007 in Case COMP/M.4827 – Rio Tinto / Alcan, the Commission declared
+the acquisition of Alcan Inc by Rio Tinto compatible with the internal market and the EEA agreement.
+
+EN 5 EN
+
+been a leading supplier of technology for the design and operation of aluminium
+smelters.
+
+(5) ECL, a wholly owned subsidiary of AP, is also based in France and focuses on the
+manufacturing and supply of mechanical equipment used in the production of
+primary aluminium and especially of PTAs.
+
+(6) The addressees are regarded as one undertaking within the meaning of Articles 101
+and 102 of the Treaty.
+
+(7) Groupe Réel ("Réel") is a French group developing, manufacturing and servicing
+special mechanical equipment used in various industrial sectors including
+aluminium, nuclear and defence. It is active in the market for mechanical equipment
+for aluminium smelters through its fully owned German subsidiary NKM Noell
+Special Cranes GmbH ("NKM"), which manufactures and sells PTAs.
+
+3. PROCEDURAL STEPS UNDER REGULATION NO 1/2003
+
+(8) On 24 May 2005, the Commission received a complaint from Réel and its subsidiary
+NKM (collectively, "Réel" or "the complainant"), according to which a substantial
+part of the market for aluminium smelting (pot) handling equipment was foreclosed
+to suppliers of such equipment as the result of the practice of AP to contractually tie
+the licences of its leading aluminium smelting technology to the purchase of pot
+handling equipment (including specialty cranes) from ECL.
+
+(9) On 20 February 2008 the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003 and notified a Statement of
+Objections to Alcan Inc, Alcan France SAS, AP and ECL. Having heard Rio Tinto
+Alcan on 14 July 2008 and after carrying out an additional investigation, the
+Commission adopted, on 11 July 2012, a preliminary assessment as referred to in
+Article 9(1) of Regulation (EC) No 1/2003, which set out the Commission’s
+competition concerns. These concerns related to the compatibility of the contractual
+tying of the licensing of aluminium smelting technology to the acquisition of PTAs
+with Articles 101 and 102 of the Treaty. The preliminary assessment was notified to
+Rio Tinto, Rio Tinto International Holdings Limited, Rio Tinto Alcan Inc, Rio Tinto
+France SAS, AP and ECL by letters of 11 July 2012.
+
+(10) On 3 August 2012, Rio Tinto Alcan submitted commitments ("the initial
+commitment proposal") to the Commission in reaction to the preliminary assessment.
+
+(11) On 10 August 2012 a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case
+and the initial commitment proposal and inviting interested third parties to give their
+observations on the commitments within one month of publication.
+
+(12) On 17 September 2012 the Commission informed Rio Tinto Alcan of the
+observations received from interested third parties following the publication of the
+notice. On 9 November 2012 Rio Tinto Alcan submitted an amended commitment
+proposal ("the revised commitment proposal”).
+
+EN 6 EN
+
+(13) On 28 November 2012 the Advisory Committee on Restrictive Practices and
+Dominant Positions was consulted. On 29 November 2012 the Hearing Officer
+issued his final report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+4.1.1. The tying market: licensing of aluminium smelting technology
+
+4.1.1.1. Product market
+
+(14) The Commission reached the preliminary conclusion that the tying market consists of
+the market for the licensing of aluminium smelting technology to third parties,
+excluding smelter capacities using in-house technologies.
+
+The aluminium reduction (smelting) technology transfer package
+
+(15) Aluminium reduction (smelting) technology is transferred pursuant to a licence
+agreement. The technology licence is acquired as a part of a technology transfer
+package generally consisting of (i) engineering know-how for the construction of a
+primary aluminium smelter; (ii) operational know-how for the
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ition of Monitoring Expert if
+those initially proposed are rejected by the Commission).
+
+(128) Sixth, the revised commitment proposal strengthens the role of the Monitoring
+Expert and, more generally, the mechanisms for the monitoring of the correct
+implementation of the commitments. It is now explicitly stated that the Monitoring
+Expert will act on behalf of the Commission to ensure Rio Tinto Alcan’s compliance
+with its obligations under the commitments, and that the Commission may give
+orders or instructions to the Monitoring Expert in order to ensure compliance with
+the commitments. Rio Tinto Alcan, in turn, is not entitled to give instructions to the
+Monitoring Expert to the extent that such instructions would interfere with the
+Monitoring Expert’s ability to comply with its duties and obligations. Furthermore,
+the Monitoring Expert must inform the Commission, before adopting a negative prequalification decision, a pre-qualification decision including mitigation measures or a
+decision declaring that a recommended PTA supplier no longer complies with the
+applicable specifications, of its intended decision and the reasons for such a decision.
+Finally, Rio Tinto Alcan must inform the Monitoring Expert without delay of any
+TTAs or intended TTAs which it considers as falling outside the scope of the
+commitments; the Monitoring Expert will inform the Commission accordingly
+without delay.
+
+EN 31 EN
+
+8. PROPORTIONALITY OF THE COMMITMENTS
+
+8.1. Principles
+
+(129) The principle of proportionality requires that the measures adopted by institutions of
+the Union must be suitable and not exceed what is appropriate and necessary for
+attaining the objective pursued.60
+
+(130) In the context of Article 9 of Regulation No 1/2003, application of the principle of
+proportionality is confined to verifying, first, that the commitments in question
+address the concerns expressed by the Commission in its preliminary assessment
+and, second, that the undertakings concerned have not offered less onerous
+commitments that also address those concerns adequately.61 When carrying out that
+assessment, the Commission must take into consideration the interests of third
+parties.62 Finally, it has to be ensured that the commitments offered and made
+binding do not manifestly go beyond what was necessary to address the concerns
+identified by the Commission in its preliminary assessment.63
+
+8.2. Application in the present case
+
+(131) The Commission considers that, further to the modifications and clarifications
+introduced in the Revised Commitment Proposal, the commitments offered by Rio
+Tinto Alcan address the competition concerns identified by the Commission in its
+preliminary assessment and they are proportionate to those concerns. These concerns
+relate to the contractual practices of Rio Tinto Alcan of tying the licences of its AP
+aluminium technology to the purchase of PTAs exclusively supplied by its subsidiary
+ECL.
+
+(132) The Commission considers that the scope of the proposed commitments is
+appropriate and sufficient to address these concerns. The commitments cover all
+families of AP smelting technologies currently commercialised (the very successful
+AP-18 and AP-30/AP-40 families) as well as their future developments. While the
+commitments do not include future AP technology families, currently being
+developed and not yet commercialised, the Commission considers that this exclusion
+is not likely to affect significantly the viability of alternative suppliers of PTAs.
+Those technology families are not expected to be commercialised on a large scale
+during the next years (not only because they do not appear to be mature enough yet,
+but also due to their technical characteristics, notably their very high energy
+consumption). Furthermore, while the commitments will apply to future TTAs, they
+will also cover future expansions of existing smelters, in particular tenders for PTAs
+associated with the retrofitting or upgrading of an existing smelter or pot line.
+
+(133) Furthermore, the geographic scope of the commitments coincides with that of the
+relevant markets (both for the "tied" and the "tying" products), as preliminarily
+
+60 See for instance, Case T-260/94 Air Inter v. Commission [1997] ECR II-997, paragraph 144 and Case
+T-65/98 Van den Bergh Foods v. Commission [2003] ECR II-4653, paragraph 201.
+61 Case C-441/07 P Commission v Alrosa, [2010] ECR I-5949, paragraph 41.
+62 Ibid.
+63 Case C-441/07 P Commission v Alrosa, [2010] ECR I-5949, paragraph 120.
+
+EN 32 EN
+
+defined in the present decision, and it is therefore adequate. As to the duration of the
+commitments, the proposed five year period seems sufficient to enable alternative
+suppliers of PTAs to build up the necessary reputation on the market, particularly
+with regard to the AP smelting technology. The duration of the commitments seems
+in line also with the current development cycle of modern smelting technologies.
+Furthermore, in so far as the commitments will cover projects for which a request for
+a technology tender is made within five years, even if the tenders and orders for the
+PTA (as it is always the case) are not carried out until later on, the practical effects of
+the commitments will be felt beyond this time horizon.
+
+(134) The Commission also considers that the exclusion, under the material ownership
+interest clause, of smelters owned by Rio Tinto Alcan or where the latter is a
+strategic industrial shareholder is in principle justified. The proposed 25% ownership
+interest threshold is fixed at a sufficiently high level (notably in view of the
+investments necessary in these markets) as to prevent Rio Tinto Alcan from
+artificially circumventing the commitments by the mere acquisition of small
+shareholdings in the relevant smelter projects. In practice, this threshold ensures that
+only projects where Rio Tinto Alcan is likely to have a significant degree of
+influence are excluded, without making the implementation of the commitments
+unnecessarily and disproportionately complex. For the avoidance of doubt, it shall
+also be observed that, above this 25% ownership interest threshold, the commitments
+do not preclude smelter companies from organising competitive tenders for PTAs,
+when the relevant contracts allow indeed such possibility.
+
+(135) With regard to the pre-qualification process and other procedural steps, the
+commitments, further to the improvements and clarifications introduced by Rio Tinto
+Alcan in the revised commitment proposal, seem adequate to ensure an objective and
+non-discriminatory pre-qualification of alternative PTA suppliers and may
+reasonably be expected to be based on, and conducted according to, industry
+practice. In particular, these improvements and clarifications address the main
+procedural issues raised during the market test, as described above. The
+commitments also set out a monitoring mechanism aimed at ensuring the respect of
+their effective implementation.
+
+(136) As the initial commitment proposal did not adequately address the Commission's
+concerns, in the revised commitment proposal Rio Tinto Alcan has
+offered commitments which address these concerns. Rio Tinto Alcan has not offered
+less onerous commitments that also address those concerns adequately. Moreover,
+the revised commitment proposal does not manifestly go beyond what is necessary to
+address the concerns identified by the Commission in its preliminary assessment.
+
+(137) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that responded to the notice published on 10
+August 2012 pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+
+(138) This decision makes binding the commitments offered on 9 November 2012 by Rio
+Tinto Alcan.
+
+EN 33 EN
+
+9. CONCLUSION
+
+(139) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes the commitments proposed by the undertakings concerned
+binding upon them. Recital 13 of the Preamble to Regulation (EC) No 1/2003 states
+that such a decision should not conclude whether or not there has been or still is an
+infringement. The Commission’s assessment of whether the commitments offered
+are sufficient to meet its concerns is based on its preliminary assessment,
+representing the preliminary view of the Commission based on its investigation and
+analysis, and the observations received from third parties following the publication
+of a notice pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+
+(140) In the light of the revised commitment proposal, the Commission considers that there
+are no longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+
+(141) The Commission retains full discretion to investigate and to open proceedings under
+Articles 101 or 102 of the Treaty and Articles 53 or 54 of the EEA Agreement as
+regards practices that are not the subject matter of this Decision.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The commitments as listed in the Annex shall be binding on the addressees until 20 January
+2018.
+
+Article 2
+
+It is hereby concluded that there are no longer grounds for action by the Commission, and the
+proceedings in this case should therefore be brought to an end.
+
+Article 3
+
+This Decision is addressed to:
+
+Rio Tinto plc, 2, Eastbourne Terrace, London W2 6LG, UK;
+
+Rio Tinto International Holdings Limited, 2, Eastbourne Terrace, London W2 6LG, UK;
+
+Rio Tinto Alcan Inc, 1188, Sherbrooke Street West, Montréal Québec H3A 3G2, CANADA;
+
+Rio Tinto France SAS, La Défense 2, 17, place des Reflets, F- 92400 Courbevoie, FRANCE;
+
+Aluminium Pechiney SAS, 725, Rue Aristide Bergès, 38341 Voreppe, FRANCE; and
+
+Electrification Charpente Levage SASU, 100, rue Chalant, 59790 – Ronchin, FRANCE.
+
+EN 34 EN
+
+Done at Brussels, 20.12.2012
+
+For the Commission
+
+Vice-President
+Joaquín ALMUNIA
+Vice-President
+
+EN 35 EN
+
+ANNEX
+
+THE COMMITMENTS
+
+EN 36 EN

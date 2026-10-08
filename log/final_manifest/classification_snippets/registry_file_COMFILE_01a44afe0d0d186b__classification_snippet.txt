@@ -1,0 +1,228 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52007XX0206(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52007XX0206(01)
+Help
+Print
+Opinion of the Advisory Committee on restrictive practices and dominant positions given at its 370th meeting on 15 March 2004 concerning a preliminary draft decision in Case COMP/C-3/37.792 — Microsoft
+Opinion of the Advisory Committee on restrictive practices and dominant positions given at its 370th meeting on 15 March 2004 concerning a preliminary draft decision in Case COMP/C-3/37.792 — Microsoft
+Opinion of the Advisory Committee on restrictive practices and dominant positions given at its 370th meeting on 15 March 2004 concerning a preliminary draft decision in Case COMP/C-3/37.792 — Microsoft
+OJ C 26, 6.2.2007, pp. 2–3
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+6.2.2007
+EN
+Official Journal of the European Union
+C 26/2
+Opinion of the Advisory Committee on restrictive practices and dominant positions given at its 370th meeting on 15 March 2004 concerning a preliminary draft decision in Case COMP/C-3/37.792 — Microsoft
+(2007/C 26/02)
+The Advisory Committee agrees with the following:
+I. QUESTIONS SPECIFIC TO THE INTEROPERABILITY ELEMENT OF THE CASE
+A. Market Definition
+1.
+The Commission's assessment of the relevant product markets as
+a)
+‘client PC operating systems’; and
+b)
+‘work group server operating systems’.
+2.
+The Commission's assessment of the relevant geographic market for both of the above-referenced product markets as world-wide; and
+B. Dominant Position
+1.
+That Microsoft has a ‘dominant position’ in the ‘client PC operating systems’ market for purposes of Article 82 of the EC Treaty and Article 54 of the EEA Agreement.
+C. Abuse of a Dominant Position
+1.
+That Microsoft has abused its dominant position in the relevant market of ‘client PC operating systems’ by refusing to supply its competitors with ‘interoperability information’ which is necessary for them to be able to viably compete in the work group server operating system market.
+2.
+That Microsoft's refusal to supply interoperability information poses a risk of elimination of competition in the ‘work group server operating systems’ market (where Microsoft has already achieved significant market power) and limits technical development to the prejudice of consumers.
+3.
+That Microsoft does not have an objective justification for refusing to supply the interoperability information to its competitors.
+II. QUESTIONS SPECIFIC TO THE MEDIA PLAYER ELEMENT OF THE CASE
+A. Market Definition
+1.
+The Commission's assessment of the relevant product markets as
+a)
+‘client PC operating systems’; and
+b)
+‘streaming media players’.
+2.
+That ‘client PC operating systems’ and ‘streaming media players’ are separate products.
+3.
+The Commission's assessment of the relevant geographic market for both of the above-referenced product markets as world-wide.
+B. Dominant Position
+1.
+That Microsoft has a ‘dominant position’ in the ‘client PC operating systems’ market for purposes of Article 82 of the EC Treaty and Article 54 of the EEA Agreement.
+C. Abuse of a Dominant Position
+1.
+That Microsoft has abused its dominant position in the relevant market of client PC operating systems by tying its product ‘Windows Media Player’ with it.
+2.
+That Microsoft's tying of ‘Windows Media Player’ with its client PC operating system poses a serious risk of foreclosing competition and stifling innovation in the market for media players.
+3.
+That Microsoft does not have an objective justification for tying its ‘Windows Media Player’ with its client PC operating systems.
+III. QUESTIONS COMMON TO BOTH THE INTEROPERABILITY AND THE MEDIA PLAYER ELEMENTS OF THE CASE
+A. Effect of Microsoft's actions and/or omissions on trade between the Member States
+1.
+That the actions and/or omissions attributable to Microsoft in the Commission's Draft Decision appreciably affect trade between the Member States and ‘Contracting Parties’ for purposes of Article 82 of the EC Treaty and Article 54 of the EEA Agreement?
+B. Remedies
+1.
+With regards to the interoperability element of the case:
+a)
+that the remedy of requiring disclosure of ‘Interoperability Information’ as more fully set forth in the Draft Decision, is appropriate; and
+b)
+that the mechanism for ensuring implementation and compliance with this remedy is appropriate.
+2.
+With regards to the media player element of the case,
+a)
+that the remedy of requiring Microsoft to offer to purchasers a version of its client PC operating system without Windows Media Player, and the means of ensuring the same, is appropriate; and
+b)
+that the mechanism for ensuring implementation and compliance with this remedy is appropriate.
+C. Fines
+1.
+Serious infringements sufficient for imposition of a fine
+a.
+That the infringements, as set forth in the Draft Decision, are appropriate for the imposition of a fine;
+b.
+That Microsoft has committed a very serious infringement of both Article 82 of the EC Treaty and Article 54 of the EEA Agreement; and
+c.
+That the abuses as set forth in the Draft Decision are EEA-wide in scope for purposes of the calculation of a fine.
+2.
+Period of time for which fine should be calculated
+a.
+That the duration of Microsoft's infringements, as set forth in the Draft Decision, is five (5) years and five (5) months
+3.
+Aggravating or attenuating circumstances
+a.
+That there are no aggravating or attenuating circumstances that would affect the level of the fine.
+IV.
+The Advisory Committee asks the Commission to take into account all the other points raised during the discussion.
+Top

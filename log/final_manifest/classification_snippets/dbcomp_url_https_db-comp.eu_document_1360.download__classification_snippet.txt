@@ -1,0 +1,442 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+6.12.1999 EN Official Journal of the European Communities L 312/1
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 15 September 1999
+
+relating to a proceeding under Article 81 of the EC Treaty
+
+(Case IV/36.539  British Interactive Broadcasting/Open)
+
+(notified under document number C(1999/2935))
+
+(Only the English text is authentic)
+
+(1999/781/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, I. THE FACTS
+
+Having regard to the Treaty establishing the European
+Community,
+A. INTRODUCTION
+
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86 of the
+(1) On 13 June 1997, the parties notified to theTreaty (1), as last amended by Regulation (EC) No 1216/
+Commission the creation of a joint venture company,1999 (2), and in particular Articles 6 and 8 thereof,
+British Interactive Broadcasting Ltd (BiB, now named
+Open) and requested negative clearance and/or
+exemption pursuant to Regulation No 17. BiB's parent
+Having regard to the application for negative clearance and the
+companies are BSkyB Ltd, BT Holdings Limited, Midland
+notification for exemption submitted, pursuant to Articles 2
+Bank plc and Matsushita Electric Europe (Headquarters)
+and 4 of Regulation No 17, on 13 June 1997,
+Limited.
+
+Having regard to the summary of the application and (2) BiB is to provide a new type of service, digital
+notification published pursuant to Article 19(3) of Regulation interactive television services, to consumers in the
+No 17 (3), United Kingdom. This involves putting in place the
+necessary infrastructure and services to allow
+companies, such as banks, supermarkets and travel
+After consultation with the Advisory Committee for Restrictive agents, to interact directly with the consumer. An
+Practices and Dominant Positions; important element of this infrastructure is a digital settop box. BiB will subsidise the retail selling price of
+digital satellite set-top boxes, satellite dishes and low-
+Whereas: noise blocks (4) (LNBs).
+
+(1) OJ 13, 21.2.1962, pp. 204 to 62. (4) A low-noise block converter (LNB) detects the signal relayed from
+(2) OJ L148, 15.6.1999, p. 5. the feed, converts it to an electrical current, amplifies it and lowers
+(3) OJ C 322, 21.10.1998, p. 6. its frequency.
+
+L 312/2 EN Official Journal of the European Communities 6.12.1999
+
+(3) The same infrastructure will be used by television 3. Midland Bank plc
+companies, as it will allow them to integrate
+interactivity into their services: for instance, interactive
+advertisements and voting in quiz shows.
+
+(8) Midland Bank plc is a public limited company
+authorised by the Bank of England to carry on a
+banking business. It is part of the HSBC group of
+(4) BiB will also provide certain services direct to the
+companies and a direct subsidiary of the holding
+consumer, such as e-mail, walled garden Internet
+company, HSBC Holdings plc. Midland and the other access (5) and downloading of computer games. Its
+companies in the HSBC group provide a range of
+service is expected to begin in the autumn of 1999.
+banking and financial services in the United Kingdom
+and around the world.
+
+4. Matsushita Electric Europe (Headquarters) B. THE PARTIES
+Limited
+
+(9) Matsushita Electric Europe (Headquarters) Limited
+1. BT Holdings Limited (Matsushita) is a wholly-owned subsidiary of Matsushita
+Electric Industrial Co. Ltd. (MEI). MEI is a designer,
+developer and manufacturer of electronic and electrical
+products and associated software and information
+technology for home, industrial and commercial uses.
+(5) BT Holdings Limited is a wholly-owned subsidiary of
+The MEI group operates world-wide and manufactures
+British Telecommunications plc (BT). BT is licensed to
+and/or trades through a number of subsidiaries in the
+run certain telecommunications services in the United
+United Kingdom and other Member States.
+Kingdom. It supplies telephone exchange lines to homes
+and businesses; local, trunk and international (to and
+from the United Kingdom) telephone calls and other
+telecommunications services and equipment for
+customers' premises.
+C. THE RELEVANT MARKETS
+
+(10) BiB will be principally active on the digital interactive
+2. British Sky Broadcasting Ltd television services market and on the technical services
+market. Two of its parent companies, BSkyB and BT, are
+present in markets which are closely related to one or
+more of these markets.
+
+(6) British Sky Broadcasting Ltd (BSkyB) is a wholly-owned
+subsidiary of British Sky Broadcasting Group plc. News
+Corporation owns 39,88% of the shares of BSkyB
+Group plc's shares.
+1. Product markets
+
+(7) BSkyB is a broadcaster of analogue pay television (paytv) services delivered by the ASTRA satellites for direct- (a) Digital interactive television services
+to-home (DTH) and cable reception in the United
+Kingdom and Ireland. BSkyB operates at both retail and
+wholesale levels in these areas. It launched a digital
+satellite pay-tv service on 1 October 1998 using the
+(11) The following services will form part of the BiB digital digital set-top box, satellite dish and low-noise block
+interactive television service: home banking, home which BiB will subsidise. BSkyB Group is also active in
+shopping, holiday and travel services, down-loading of the provision of conditional access services and other
+games, learning on-line, entertainment and leisure, sorts, technical services necessary for pay television.
+motor world, a limited collection of walled garden
+Internet sites provided by a third party and e-mail and
+(5) The parties use this term to describe access to a limited amount of public services. BiB describes retailers which offer goods
+Internet content. or services over its infrastructure as content providers.
+
+6.12.1999 EN Official Journal of the European Communities L 312/3
+
+(12) In the view of the Commission, the digital interactive services will increase the number of potential customers
+television services market is a separate market. for the content providers' services. The television
+interface will also allow content providers access to a
+unique mass market for their products or services,
+reaching potentially almost 100% of British households.
+
+(13) In defining product markets, the most important factor
+is evaluation of demand substitutability. Given that
+digital interactive television services, such as those to be
+offered by BiB, are not currently available throughout
+the United Kingdom (6), past data does not exist to (16) End-user demand substitutability for a package of
+evaluate the likely response of customers to a interactive services is distinguishable from demand
+hypothetical small, non-transitory change in relative substitutability of the individual services which form
+prices of BiB's services and possible substitutes (7). part of the package or from close alternative sources of
+Demand substitutability can also be assessed by supply for the customers of BiB's services such as highcomparing the characteristics of products or services in street retailing or interactive services via personal
+order to determine whether they are particularly suited computers. The digital interactive television services and
+to satisfy constant needs and are only to a limited pay-television services are different markets.
+extent interchangeable with other products or
+services (8).
+
+(17) As it explained in recitals 18 to 23, this conclusion is
+based on the different characteristics of the types of
+(14) The Commission contacted BiB's main prospective goods and services provided and on the consumers'
+customers and the main companies in the industry to views on their substitutability which mean that
+ask for their views about the boundaries of the relevant customers will not be in a position to switch easily to
+market and to obtain the necessary factual evidence to available alternative products and/or services or to
+reach a conclusion. In this context, the Commission also suppliers located elsewhere.
+has taken into account the fact that content providers'
+willingness to pay BiB to be part of its service, and their
+likely reaction to a small permanent increase in the
+price charged, will ultimately depend on the attitude of
+end-users. It is therefore the retail-demand
+substitutability for digital interactive television services
+which is determinant in defining the upstream market
+of the supply of digital interactive television services by
+service providers, such as BiB, to content providers.
+Market distinct from high-street retailing
+
+(15) Prospective content providers have confirmed to the
+Commission that it is the breadth of the package of
+services which will attract them to a digital interactive
+television services platform, as they believe that it is the (18) Retailing services represent only one part of the typical
+availability of a broad range of services which will package of services forming digital interactive television
+attract consumers (9). In other words, such a range of services. E-mail, downloading of computer games,
+limited Internet access and information services will also
+form part of the package. There are economies of scope
+(6) However, commercial trials in limited areas are underway. in the provision of such a package of services, because
+(7) See Commission Notice on the definition of the relevant market for the infrastructure required for each of the individual
+the purposes of Community competition law, (OJ C 372,
+services is the same. BiB will market this package of
+9.12.1997, p. 5).
+services and has entered into an agreement with BSkyB(8) In its judgment of 26 November 1998, in Case C-7/97, Oscar
+Bronner GmbH Co. KG v Mediaprint [1998] ECR I-7791, the Court to this end. The promotion of an interactive service
+of Justice repeated the formula (paragraph 33) that the market for brand, distinct from that of the individual content
+the product or service in question comprises all the products or providers, strongly suggests that BiB regards its own
+services which in view of their characteristics are particularly suited services as distinct from those of high-street retailing.
+to satisfy constant needs and are only to a limited extent
+interchangeable with other products or services (Case 31/80 L'Oréal
+v De Nieuwe AMCK [1980] ECR 3775, paragraph 25; Case C-62/86
+AKZO v Commission [1991] ECR I-3359, paragraph 51).
+(9) An operator explained that what seems clear  is that shopping is
+not a sufficient stand alone reason for customers to want to invest
+(19) The characteristics of the retailing services of the type to in the equipment for such services. The offer must be part of a
+larger offer, including entertainment and education, which again be offered by BiB and high-street retailing are markedly
+favours the BSkyB based channel as it is part of the wider digital different. For example, the range of products or services
+relaunch of the network. offered on-line by retailers is likely to be far more
+
+L 312/4 EN Official Journal of the European Communities 6.12.1999
+
+limited than what is available in high-street shops. This interactivity can be integrated into traditional broadcast
+is most likely to be the case with perishable goods, such entertainment channels.
+as food, or bulky goods where storage and delivery
+charges would be high. There will be a price difference
+between goods or services purchased in the high street
+(22) This distinction is confirmed by the reaction of some
+and those obtained via a package of digital interactive
+retailers (12) who have said that they will target different
+television services, if only on account of the delivery
+customers using different brands belonging to the same
+charge. In terms of price, it seems that consumers
+group of companies when providing digital interactive
+would be willing to pay a premium for the convenience
+services available via television sets and personal
+of home shopping (10).
+computers (13).
+
+(20) It follows from the above that the market for digital
+interactive television services is separate from that for Market separate from pay television
+the traditional retailing of goods and services in high
+streets.
+
+(23) Finally, the demand for, and characteristics and intended
+use of, pay-television services are largely different from
+those of digital interactive television services, the former
+being largely entertainment services, the latter being
+largely transactional or informational services (14). The
+Distinction between markets for digital interactive services business scope of interactive television service providers
+available via televisions and those available via personal such as BiB excludes forms of entertainment where
+computers viewing itself is the primary form of entertainment for
+the viewer, such as pay-television channels. The digital
+interactive television services market is complementary
+to and separate from, that for pay-television.
+
+(21) Both the demand-substitutability test and differences in
+the characteristics of interactive services available via
+television sets and via personal computers lead to the
+conclusion that they are separate product markets. A (b) Pay-television
+small permanent increase in the price of such services
+available via televisions is unlikely to be constrained by
+the existence of services available on personal
+computers. While television sets are ubiquitous, in the (24) Pay-television constitutes a product market separate
+United Kingdom only some 25% of households have a from that for free-access television, namely advertisingpersonal computer and fewer than half of these are financed television and television financed wholly or
+equipped with a modem. Moreover, the relatively high partly through licence fees (15). While, in the case of feecost of personal computers means that the switching and advertising-financed television, there is a trade
+cost for end-users would be high. The parties themselves relationship only between the programme supplier and
+have pointed out that consumer demand for services the advertising industry, in the case of pay-television
+available via television is different from that for services there is a trade relationship between the programme
+delivered via personal computers. They point to supplier and the viewer as subscriber. The conditions of
+differences both in purchase prices of televisions and competition are accordingly different for the two types
+personal computers and in their characteristics of of television. Whereas in the case of fee- and
+use (11). Digital interactive services delivered to
+televisions can also be distinguished from services
+delivered to personal computers by the fact that (12) We see BiB and the current Internet offers as being differing
+customer groups, rather than two ways to reach the same group.
+mass market development on on-line retail requires a TV interface
+(10) Binary Compass Enterprises Report, 1997, by David Reibstein and rather than a PC/internet channel which we see as being relatively
+Sunil Gupta The online reta
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+
+
+List of notified agreements and chronology of their provision to Commission
+
+1. In the notification the parties referred to a number of different agreements, not all of which were supplied with the
+notification. In response to a request for clarification from the Commission, the parties stated in a letter of 6
+August 1997 that the following 16 agreements were notified:
+
+1. The joint venture agreement and its annexes
+
+2. EPG content design, look and feel
+
+3. Start-up costs
+
+4. Business plan and annual operating plan and budget
+
+5. Agreed form completion board/extraordinary general meeting resolutions
+
+6. Agreed form taste and ethics policy
+
+7. Memorandum and Articles of Association
+
+8. Box specification
+
+9. Transponder capacity term sheet
+
+10. Marketing services agreement
+
+11. Technology transfer and licensing agreement
+
+12. Content provider terms
+
+13. Initial commitments agreement
+
+14. Digital terrestrial television commitments  deleted in agreements of 4 August 1998
+
+15. Subordinated loan agreement
+
+16. Funding loan agreement.
+
+2. By letter of 30 March 1998, the parties provided the Commission with final drafts of 3 more agreements, dated 27
+March 1998, which they requested form part of the notification:
+
+1. Transaction management system agreements, (between BiB and Midland)
+
+2. Merchant acquiring agreement (between BiB and Midland)
+
+3. Mondex agreements (between BiB and Midland).
+
+3. By letter of 14 July 1998, the parties provided the Commission with a revised draft of the joint venture agreement
+itself, dated 6 May 1998, without its annexes. Some of the amendments were made to address the Commission's
+concerns.
+
+4. By letter of 25 September 1998, the parties provided the Commission with copies of the joint venture agreement
+and its annexes which were completed by the parties on 4 August 1998. The digital terrestrial television
+commitments agreement (referred to above at point 14) was deleted from the completed agreements, while the
+
+6.12.1999 EN Official Journal of the European Communities L 312/35
+
+marketing services agreement (referred to above at point 10) was subdivided into two separate agreements: the
+marketing contributions services agreement and the advertising and promotional services agreement. Two new
+agreements were signed, namely a loan agreement and the marketing contributions recovery agreement.
+
+5. An incorrect version of one of the completed agreements concerning the payment of subsidy was provided at that
+time. The correct version was provided to the Commission on 9 November 1998 in response to a request for
+information.
+
+L 312/36 EN Official Journal of the European Communities 6.12.1999
+
+ANNEX II
+
+Affected party: means any interested party who is at the relevant time delivering broadcast and/or interactive services
+through BiB boxes (or who is committed to do so and is preparing to commence such services) and who has current
+non-disclosure agreement.
+
+Another party: means another member of the BSkyB Group, a member of the BiB Group, a BiB Party or a third party.
+
+BiB box or BiB boxes means digital interactive set-top boxes sold with the benefit of marketing contributions
+provided by BiB.
+
+BiB box specification: means British Sky Broadcasting STB Specification Issue 3.00 of 30 July 1997, British Sky
+Broadcasting STB Specification V3.0 Errata V5.0 and British Sky Broadcasting STB Technical Guidelines Version V1.2
+of 23 October 1997 as updated and amended from time to time.
+
+BSkyB Group: means British Sky Broadcasting Group plc.
+
+Conditional access provider: means a person who is licensed to provide conditional access services pursuant to the
+class licence granted by the Secretary of State on 7 January 1997 under Section 7 of the Telecommunications Act 1984
+for the running of telecommunications systems for the provision of conditional access services.
+
+Functional change: means information which is intended to be implemented to become technical information and
+which comprises software intended to be downloaded into BiB boxes for the delivery of broadcast and/or interactive
+services, but excluding:
+
+ downloads to address problems affecting the operation of software already in BiB boxes,
+
+ downloads related to security of BiB boxes or to the security of any conditional access system or access control
+system utilised for broadcasts and/or interactive services accessible through BiB boxes.
+
+Interested partiy: means any broadcaster, cable operator, telecommunications operator, digital terrestrial television
+platform operator or satellite direct to home platform operator, whether for broadcast only or for interactive services or
+for any combination thereof, including BiB Services Co.
+
+Marketing contributions: means the subsidy which BiB will provide for BiB boxes, as set out in Clause 16 of the JVA
+and the marketing services agreement.
+
+Non-disclosure agreement: means the standard form confidentiality agreement, which BSkyB or SSSL may require an
+interested party to enter into before making available a list of technical information to that interested party and which
+must be current in the event that an affected party or an interested party is to have access to any information the
+subject of Condition No 9.
+
+Non-SSSL digital television decoders: means decoders which do not contain the conditional access technology
+employed by SSSL.
+
+Purpose: means, in respect of any interested party, the purpose of utilising the features of BiB boxes to deliver
+broadcast services, whether or not interactive, through BiB boxes and no other purpose.
+
+Request: means a written request for any item or items of technical information or for a list of technical information
+in either case for the purpose.
+
+Required manner: means in respect of any request or other communication by an interested party or conditional
+access provider:
+
+ to BSkyB: a registered letter sent to BSkyB's registered office addressed to the head of regulatory affairs,
+
+ to BiB: a registered letter sent to BiB's registered office addressed to the compliance officer.
+
+6.12.1999 EN Official Journal of the European Communities L 312/37
+
+Simulcrypt: means the use of the European common scrambling algorithm in two populations of digital television
+decoders, each population containing a different conditional access technology, in order to facilitate the ability of
+retailers of digital television services using either of such conditional access technologies to opt to offer their services to
+consumers via digital television decoders containing the other conditional access technology (subject to such other
+population of decoders containing the requisite level of functionality for the type of services proposed to be offered by
+such retailer) together with the associated synchronisation of the two technologies required to implement such process.
+
+Supplemental technical agreement: means any appropriate licensing agreement which BSkyB or SSSL may require in
+relation to the release of a specific item of technical information.
+
+Technical information: means information about the current functional technical characteristics of BiB boxes, including
+the BiB box specification, which is the subject of completed technical specifications in written and/or diagrammatic
+form, but excluding:
+
+ information, including information in relation to proprietary technology, which it is essential for a conditional
+access services supplier or access control services supplier and/or any of its technology suppliers to maintain in
+strict confidence in order to protect the security and integrity of its systems, or of the conditional access services or
+access control services which it supplies or intends to supply and/or its ability to provide a secure and confidential
+service to each of its customers, and
+
+ information which any member of the BiB Group, BSkyB or SSSL has a statutory duty or obligation under any
+regulatory licence binding upon it or SSSL to maintain in confidence, and
+
+ information which any member of the BiB Group, BSkyB or SSSL is contractually bound to maintain in confidence
+and has no right to divulge to third parties, and
+
+ information required exclusively for the purpose of manufacturing a box, and
+
+ in respect of SSSL, any information which does not relate to the operational and functional aspects of BiB boxes,
+which arise from the design of the conditional access or access control system or from the design of the electronic
+programme guide,
+
+and, for the avoidance of doubt, the above definition of technical information does not include creative information
+about the manner in which the functional technical characteristics of BiB boxes may be utilised for broadcasting and
+interactive applications.
+
+Transfer pricing guidelines: means the OECD transfer pricing guidelines for multinational enterprises and tax
+administrations, as updated from time to time.
+
+British regime: means the British regime for conditional access and access control services, which incorporates the
+British implementation of the relevant parts of Directive 95/47/EC of the European Parliament and of the Council,
+namely:
+
+ the Advanced Television Services Regulations 1996 (as amended) (SI 1996 Nos 3151 and 3197), and
+
+ the Conditional Access Services Class Licence granted on 7 January 1997 pursuant to Section 7 of the
+Telecommunications Act 1984, and
+
+ the Telecommunications Class Licence (TSL) as revoked and re-issued on 31 December 1997 pursuant to Section
+7 of the Telecommunications Act 1984, and
+
+ any re-enactment, re-issue or amendment of the above or any of them, provided that the reference in Condition
+No 15 to Regulation 11(4)-(8) of the Advanced Television Services Regulations 1996 is to that Regulation as in
+force at the date of publication of the Article 19(3) Notice/Decision.
+
+By way of explanation, the British regime contains provisions for the resolution by the Director-General for
+Telecommunications of disputes in a number of ways.

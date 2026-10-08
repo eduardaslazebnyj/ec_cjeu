@@ -1,0 +1,317 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52015XC0228(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52015XC0228(02)
+Help
+Print
+Summary of Commission Decision of 21 October 2014 (Case AT.39924 — Swiss Franc Interest Rate Derivatives) (Bid Ask Spread Infringement) (notified under document C(2014) 7602)
+Summary of Commission Decision of 21 October 2014 (Case AT.39924 — Swiss Franc Interest Rate Derivatives) (Bid Ask Spread Infringement) (notified under document C(2014) 7602)
+Summary of Commission Decision of 21 October 2014 (Case AT.39924 — Swiss Franc Interest Rate Derivatives) (Bid Ask Spread Infringement) (notified under document C(2014) 7602)
+OJ C 72, 28.2.2015, pp. 14–16
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+28.2.2015
+EN
+Official Journal of the European Union
+C 72/14
+Summary of Commission Decision
+of 21 October 2014
+(Case AT.39924 — Swiss Franc Interest Rate Derivatives)
+(Bid Ask Spread Infringement)
+(notified under document C(2014) 7602)
+(Only the English text is authentic)
+(2015/C 72/10)
+On 21 October 2014, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union (the ‘Treaty’) and Article 53 of the Agreement creating the European Economic Area (the ‘EEA Agreement’). In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The Decision relates to a single and continuous infringement. The addressees of the Decision participated in an infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement in the sector of certain short term over the counter Swiss Franc Interest Rate Derivatives of a maturity of up to 24 months (‘ST OTC CHF Interest Rate Derivatives’ or ‘ST OTC CHIRDs’ for short).
+(2)
+ST OTC CHIRDs are financial products that are used by corporations, financial institutions, hedge funds, and other global undertakings to manage their interest rate risk exposure (hedging, for both borrowers and investors) and to generate fees as an intermediary or for speculation purposes. According to the Bank for International Settlements OTC derivatives statistics, interest rate derivatives, which include ST OTC CHIRDs, constitute the largest segment of all OTC derivatives products. In June 2013, outstanding CHF denominated interest rate derivatives had a gross market value of USD 113 billion
+(
+2
+)
+.
+(3)
+The specific types of ST OTC CHIRDs concerned by the infringement were limited to: (i) forward rate agreements
+(
+3
+)
+(referenced to Swiss Franc LIBOR) and (ii) swaps
+(
+4
+)
+, which include overnight index swaps (referenced to the Swiss Franc TOIS
+(
+5
+)
+) and interest rate swaps (referenced to Swiss Franc LIBOR).
+(4)
+The Decision is addressed to (hereinafter ‘the addressees’):
+—
+The Royal Bank of Scotland Group plc and The Royal Bank of Scotland plc (hereinafter ‘RBS’),
+—
+UBS AG (hereinafter ‘UBS’),
+—
+JPMorgan Chase & Co. and JPMorgan Chase Bank, National Association (hereinafter ‘JPMorgan’), and
+—
+Credit Suisse Group AG, Credit Suisse International and Credit Suisse Securities (Europe) Limited (hereinafter ‘Credit Suisse’).
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(5)
+The case was opened on the basis of an immunity application by RBS on 9 August 2011. On [...], UBS applied for a reduction of fines under the Leniency Notice and on [...], JPMorgan applied for a reduction of fines under the Leniency Notice.
+(6)
+On 24 July 2013, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against the addressees of the Decision with a view to engaging in settlement discussions with them. Settlement meetings with the parties took place and the parties subsequently submitted to the Commission their formal requests to settle pursuant to Article 10a(2) of Regulation (EC) No 773/2004
+(
+6
+)
+, solely for the purpose of reaching a settlement with the Commission in the present proceeding and without prejudice to any other proceedings (the ‘settlement submissions’).
+(7)
+On 23 September 2014, the Commission adopted a Statement of Objections and all of the parties confirmed that it reflected the contents of their settlement submissions and that they remained committed to following the settlement procedure. The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 17 October 2014 and the Commission adopted the Decision on 21 October 2014.
+2.2.
+Addressees and Duration
+(8)
+The eight addressees of the Decision have participated in a cartel, infringing therefore Article 101 of the Treaty and Article 53 of the EEA Agreement in the period from 7 May 2007 to 25 September 2007.
+2.3.
+Summary of the Infringement
+(9)
+The parties to the infringement — RBS, UBS, JPMorgan and Credit Suisse — engaged in the following anti-competitive conduct: traders at RBS, UBS, JPMorgan and Credit Suisse agreed to quote wider, fixed bid ask spreads on the relevant ST OTC CHIRDs for trades with third parties (including interdealer brokers), whilst maintaining narrower bid-ask-spreads for trades amongst themselves. The term bid ask spread refers to the difference between the bid price and the ask price quoted on a particular contract. The bid price is the price at which a trader is willing to buy a particular contract, and the ask price is the price at which a trader is willing to sell a particular contract. The aim of these contacts was to lower the banks' own transaction costs and maintain liquidity between each other whilst seeking to impose wider spreads on third parties and thus increase the banks' profits. An associated objective of this collusive behaviour was to impede the ability of other market players to compete on the same terms as the main four players.
+(10)
+The geographic scope of the infringement covered the entire EEA.
+2.4.
+Remedies
+(11)
+The Decision applies the 2006 Guidelines on Fines
+(
+7
+)
+. With the exception of RBS, the Decision imposes fines on all the entities listed in point (4) above.
+2.4.1.
+Basic amount of the Fine
+(12)
+The basic amount of the fine to be imposed on the undertakings concerned is to be set by reference to the value of sales, the fact that the infringement is by its very nature amongst the most harmful restrictions of competition, the duration and geographic scope of the cartel and an additional amount to deter undertakings from entering into such illegal practices.
+(13)
+The Commission normally takes the sales made by the undertakings during the last full business year of their participation in the infringement
+(
+8
+)
+. It may however depart from this practice, should another reference period be more appropriate in view of the characteristics of the case
+(
+9
+)
+.
+(14)
+With respect to this infringement, the Commission calculated the annual value of sales for RBS, UBS, JPMorgan and Credit Suisse on the basis of the notional amounts traded of the ST OTC CHIRDs contracts referenced to Swiss Franc LIBOR or to Swiss Franc TOIS and entered into with EEA-located counterparties during the months corresponding to the undertakings' participation in the infringement, which are subsequently annualised. In recognition of the particular characteristics of the ST OTC CHIRDs sector and of the nature of the infringement, the Commission reduced these notional amounts by applying a uniform factor representing the bid ask spread.
+2.4.2.
+Adjustment to the basic amount: aggravating or mitigating circumstances
+(15)
+The Commission did not apply any aggravating or mitigating circumstances.
+2.4.3.
+Application of the 10 % turnover limit
+(16)
+Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed on each undertaking for each infringement shall not exceed 10 % of its total turnover relating to the business year preceding the date of the Commission decision.
+(17)
+In this case, none of the fines exceed 10 % of an undertaking's total turnover relating to the business year preceding the date of this Decision.
+2.4.4.
+Application of the 2006 Leniency Notice
+(18)
+The Commission granted full immunity from fines to RBS. The Commission also granted a 30 % reduction of the fine to UBS and a 25 % reduction of the fine to JPMorgan for their cooperation in the investigation.
+2.4.5.
+Application of the Settlement Notice
+(19)
+As a result of the application of the Settlement Notice, the amount of the fines to be imposed on RBS, UBS, JPMorgan and Credit Suisse was reduced by 10 % and this reduction was added to any leniency reward.
+3.
+CONCLUSION
+(20)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003:
+Undertaking
+Fines (in EUR)
+RBS
+0
+UBS
+12 650 000
+JPMorgan
+10 534 000
+Credit Suisse
+9 171 000
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+Bank for International Settlements; http://www.bis.org/statistics/dt21a21b.pdf
+(
+3
+)
+A forward rate agreement is an agreement between two counterparties to fix the interest rate today for a certain time period in the future and payable on a specified notional amount.
+(
+4
+)
+A swap is an agreement in which two counterparties agree to exchange (or swap), at specific intervals and for a set term, streams of future interest rate payments.
+(
+5
+)
+TOIS is the Swiss Franc Tomorrow/next unsecured lending rate. It is used as reference rate for Swiss Franc denominated overnight index swaps.
+(
+6
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty establishing the European Community (
+OJ L 123, 27.4.2004, p. 18
+).
+(
+7
+)
+OJ C 210, 1.9.2006, p. 2
+.
+(
+8
+)
+Point 13 of the Guidelines on fines.
+(
+9
+)
+Case T-76/06,
+Plasticos Españoles (ASPLA)
+v
+Commission
+, not yet reported, paragraphs 111-113.
+Top

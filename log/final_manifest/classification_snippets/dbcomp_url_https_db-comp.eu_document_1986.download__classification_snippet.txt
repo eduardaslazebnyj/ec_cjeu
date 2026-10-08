@@ -1,0 +1,400 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40153 E-book MFNs and
+related matters (Amazon)
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 04/05/2017
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 4.5.2017
+C(2017) 2876 final
+
+COMMISSION DECISION
+
+of 4.5.2017
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Case AT.40153 – E-book MFNs and related matters
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 4
+2. The Undertaking Concerned ........................................................................................ 5
+3. Procedural Steps Under Regulation (EC) No 1/2003 .................................................. 6
+4. Preliminary Assessment ............................................................................................... 6
+4.1. Background .................................................................................................................. 6
+4.1.1. General overview of the e-books distribution market .................................................. 6
+4.1.2. Amazon's Parity Clauses .............................................................................................. 9
+4.2. Relevant markets ........................................................................................................ 13
+4.2.1. Principles .................................................................................................................... 13
+4.2.2. Relevant product markets ........................................................................................... 13
+4.2.3. Relevant geographic markets ..................................................................................... 15
+4.3. Amazon's dominance in the relevant markets ............................................................ 17
+4.3.1. Principles .................................................................................................................... 17
+4.3.2. Amazon's dominance ................................................................................................. 18
+4.4. Substantial part of the common market ..................................................................... 20
+4.5. Practices raising concerns .......................................................................................... 20
+4.5.1. Principles .................................................................................................................... 20
+4.5.2. The Business Model Parity Clause in English and German language e-book
+agreements.................................................................................................................. 22
+4.5.2.1. The potential effects of the Business Model Parity Clause on the emergence of
+alternative business models ........................................................................................ 22
+4.5.2.2. The potential effects of the Business Model Parity Clause on entry and expansion at
+the e-book distribution level and the strengthening of Amazon's dominant position 26
+4.5.3. The Selection Parity Clauses in English and German language e-book agreements . 27
+4.5.3.1. The potential effects of the Selection Parity Clauses on the development of e-books
+that are not primarily text ........................................................................................... 27
+4.5.3.2. The potential effects of the Selection Parity Clauses on entry and expansion at the ebook distribution level and the strengthening of Amazon's dominant position ......... 29
+4.5.4. The Agency Price Parity Clause, the Discount Pool Provision and the Promotion
+Parity Clause in English language e-book agency agreements .................................. 32
+4.5.4.1. The potential effects of the Retail Price Parity Provisions on entry and expansion at
+the e-books retail distribution level and the strengthening of Amazon's dominant
+position ....................................................................................................................... 33
+4.5.4.2. The potential effects of the Retail Price Parity Provisions to reduce competition at the
+e-books retail distribution level .................................................................................. 34
+4.5.4.3. The Discount Pool Provision ..................................................................................... 35
+
+EN 2 EN
+
+4.5.5. The Retail Price Notification Provision, the Promotion Notification Provision in
+Amazon's English language agency agreements and its policy to request retail price
+parity on e-books ........................................................................................................ 36
+4.5.6. The Wholesale Price Parity Clause in English and German language e-book reseller
+agreements.................................................................................................................. 37
+4.5.7. The potentially mutually reinforcing effects of Amazon's Parity Clauses ................. 38
+4.6. Effect on trade between Member States ..................................................................... 38
+5. Initial Commitments................................................................................................... 39
+6. Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003 ......... 40
+6.1. Summary of the main comments from third parties during the Market Test ............. 40
+6.1.1. Overall adequacy ........................................................................................................ 40
+6.1.2. Definitions .................................................................................................................. 40
+6.1.3. Scope and timing of Amazon's obligations ................................................................ 40
+6.1.4. Duration of the commitments..................................................................................... 41
+6.1.5. Retaliation, non-circumvention and monitoring of compliance ................................ 41
+6.1.6. Additional comments ................................................................................................. 41
+6.2. The revision of the Initial Commitments in the light of the Market Test .................. 41
+6.3. Proportionality of the Final Commitments ................................................................ 43
+6.3.1. Principles .................................................................................................................... 43
+6.3.2. Application in the present case .................................................................................. 43
+6.3.3. Definitions .................................................................................................................. 44
+6.3.4. Scope and timing of the Final Commitments ............................................................. 44
+6.3.5. Duration of the commitments..................................................................................... 45
+6.3.6. Retaliation, non-circumvention and monitoring of compliance ................................ 45
+6.3.7. Additional comments ................................................................................................. 46
+7. Conclusion.................................................................................................................. 46
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 4.5.2017
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Case AT.40153 – E-book MFNs and related matters
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 9(1) thereof,
+Having regard to the Commission Decisions of 11 June 2015 and 9 December 2016 to initiate
+proceedings in this case,
+Having expressed concerns in the Preliminary Assessment of 9 December 2016,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1. SUBJECT MATTER
+(1) The present Decision concerns Amazon.com, Inc., and its directly and indirectly
+controlled entities, including Amazon EU S.à.r.l., Amazon Media EU, S.à.r.l. (to
+which Amazon EU S.à.r.l. contributed its digital business) and Amazon Digital
+Services, LLC (via its predecessor Amazon Digital Services, Inc.). For the purpose
+of this Decision, they are jointly referred to as "Amazon".
+(2) This Decision concerns certain most favoured nation (MFN) clauses or parity clauses
+("parity clauses") and similar provisions introduced in agreements between Amazon
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The TFEU also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the TFEU will be used throughout this Decision.
+
+EN 4 EN
+
+and E-book Suppliers2 in the European Economic Area ("EEA"). Such clauses
+require E-book Suppliers (i) to notify Amazon of more favourable or alternative
+terms and conditions they offer elsewhere and/or (ii) to make available to Amazon
+terms and conditions which directly or indirectly depend on the terms and conditions
+offered to another E-book Retailer.3
+(3) In its preliminary assessment of 9 December 2016 (the "Preliminary Assessment")
+the Commission raised concerns as to the compatibility of the aforementioned parity
+clauses with Article 102 of the Treaty and Article 54 of the EEA Agreement.
+(4) While Amazon disagrees with the conclusions reached by the Commission in its
+Preliminary Assessment, it nevertheless has offered commitments under Article 9(1)
+of Regulation (EC) No 1/2003 to meet the concerns expressed by the Commission.
+The present Decision makes those commitments binding on Amazon.
+
+2. THE UNDERTAKING CONCERNED
+(5) Amazon.com, Inc. is a US-based corporation first incorporated in 1994 with its
+principal corporate offices in Seattle, Washington, USA. Amazon.com, Inc. is active
+in online retail, e-commerce services, digital content, web and infrastructure
+computing services. Its primary source of revenue is the sale of a wide range of
+products and services to customers. The products offered include merchandise and
+content purchased for resale from vendors and those offered by third-party sellers.
+Amazon.com, Inc. also manufactures and sells electronic devices, including Kindle
+e-book readers, Fire tablets, Fire TVs, Echo, and Fire phones. It also offers inter alia
+services such as cloud computing services, fulfilment services, (that is to say, a
+service whereby Amazon stores, picks, packs, ships, and provides customer service
+for products sold by others), publishing, including self-publishing services (Kindle
+Direct Publishing (KDP)), digital content subscriptions and advertising.
+(6) In the EEA, Amazon.com, Inc.'s e-book business is carried out principally by the
+following two entities:
+(1) Amazon EU S.à.r.l., incorporated in Luxembourg, is a 100% owned subsidiary
+of Amazon.com, Inc., [description of the corporate activities of Amazon EU
+S.à.r.l.]. On 1 November 2014, Amazon EU S.à.r.l. contributed its digital
+business, including its e-book vendor contracts, to Amazon Media EU, S.à.r.l.
+(2) Amazon Media EU, S.à.r.l., incorporated in Luxembourg, is also a 100%-
+owned subsidiary of Amazon.com, Inc. [description of the corporate activities
+of Amazon Media EU, S.à.r.l].
+
+2 The terminology "E-book Supplier" is used in order to encompass all entities that hold the necessary
+rights to license e-books to e-books retailers or sell e-books directly to consumers. As such, "E-book
+Suppliers" include e-book publishers and certain intermediaries (for instance, wholesalers or
+aggregators).
+3 The terminology "E-book Retailer" for the purposes of this document includes any person or entity that
+lawfully sells (or seeks to lawfully sell) e-books to consumers in one or more countries in the EEA, or
+through which an E-book Supplier, under an agency agreement, sells e-books to consumers in one or
+more countries in the EEA. An E-book Supplier is an E-book Retailer to the extent that the E-book
+Supplier sells e-books directly to consumers or sells e-books through an agent under an agency
+agreement.
+
+EN 5 EN
+
+(7) Amazon Digital Services, Inc. is a US entity [description of the corporate activities
+of Amazon Digital Services, Inc.]. Amazon Digital Services, Inc. is now a Limited
+Liability Company ("LLC"), and is 100%-owned by Amazon.com, Inc.
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+(8) On 11 June 2015 the Commission initiated proceedings pursuant to Article 2 of
+Commission Regulation (EC) No 773/20044 against Amazon.com, Inc. and Amazon
+EU S.à.r.l. with a view to adopting a Decision under Chapter III of Regulation (EC)
+No 1/2003. On 9 December 2016, proceedings were also initiated against Amazon
+Digital Services, LLC and Amazon Media EU, S.à.r.l.5
+(9) On 9 December 2016, the Commission adopted, pursuant to Article 9(1) of
+Regulation (EC) No 1/2003, the Preliminary Assessment which set out the
+Commission’s competition concerns relating to certain parity clauses and similar
+provisions introduced in Amazon's agreements with E-book Suppliers. The
+Preliminary Assessment was notified to Amazon by letter of 9 December 2016.
+(10) On 13 January 2017, Amazon submitted draft commitments ("the Initial
+Commitments") to the Commission in response to the Preliminary Assessment. On
+26 January 2017, a notice was publ
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ments accordingly comply with the principle of proportionality.
+
+57 See for instance, Case T-260/94 Air Inter v. Commission, ECLI:EU:T:1994:265, paragraph 144; Case
+T-65/98 Van den Bergh Foods v. Commission, ECLI:EU:T:2003:281, paragraph 201; Case T-76/14
+Morningstar v Commission, ECLI:EU:T:2016:481, paragraph 84.
+58 Case C-441/07 P Commission v Alrosa, ECLI:EU:C:2010:377, paragraph 41. Case T-76/14
+Morningstar v Commission, ECLI:EU:T:2016:481, paragraphs 45 and 86.
+59 Case C-441/07 P Commission v Alrosa, ECLI:EU:C:2010:377, paragraph 41.
+60 Case T-76/14 Morningstar v Commission, ECLI:EU:T:2016:481, paragraph 40; Case C-441/07 P
+Commission v Alrosa, ECLI:EU:C:2010:377, paragraph 94.
+
+EN 43 EN
+
+6.3.3. Definitions
+(183) The Commission considers that the modified definitions used in the Final
+Commitments (see Section 6.2) are sufficient to address adequately the concerns
+expressed by the Commission in the Preliminary Assessment.
+(184) In particular, the Final Commitments address adequately the concerns identified by
+the Commission in its Preliminary Assessment insofar as they ban the use of the
+Parity Clauses for a period of five years for all e-books distributed by Amazon
+through retail e-book distribution agreements to consumers regardless of their genre.
+(185) Regarding the comments received arguing for the extension of the scope of the
+commitments to print books, apps and audio-books, the Commission notes that any
+possible concerns related to Parity Clauses for such books or apps in general fall
+outside the scope of the current proceedings and of the concerns expressed in the
+Preliminary Assessment, which is limited to the retail distribution of e-books and
+without prejudice to possible concerns in other markets. With regard to the inclusion
+of apps, the Commission notes that the Final Commitments cover not only traditional
+text-only e-books but also e-books containing "additional interactive/multimedia
+material [...] or functionalities [...] beyond the text and images found in the physical
+books." Moreover, the definition of Sale in the Final Commitments was expanded
+and now explicitly encompasses "bundling [of e-books] with physical books or
+digital content." This definition is applied throughout the Final Commitments.
+(186) Similarly, regarding the comments received concerning the exclusion of sales of ebooks through educational and/or library channels, the Commission notes that this is
+consistent with the scope of the current proceedings and the concerns expressed in
+the Preliminary Assessment, which are limited to the distribution of e-books through
+retail channels and is without prejudice to possible concerns in other markets.
+(187) Regarding the requested inclusion of e-books published through Amazon's selfpublishing programmes in the scope of the commitments, the Commission does not
+have any evidence that Amazon's self-publishing programmes contain Parity
+Clauses. Moreover, the scope of the Commission's current investigation was
+confined to Amazon's distribution agreements with publishers and other e-Book
+Suppliers and did not extend to agreements Amazon enters into with authors that
+wish to publish through Amazon's self-publishing programmes, without prejudice to
+possible concerns in this market.
+(188) Finally, the exclusion from the Final Commitments of a limited number of
+agreements whereby Amazon provides substantial non-standard services not related
+to e-book distribution in relation to comic books and graphic novels does not call
+into question the adequacy of the Final Commitments as such services fall outside
+the scope of the Commission's investigation.
+6.3.4. Scope and timing of the Final Commitments
+(189) The Commission considers that the scope and timing of Amazon's obligations as set
+out in the Final Commitments are sufficient to address adequately the concerns
+expressed by the Commission in its Preliminary Assessment.
+(190) First, the Final Commitments prohibit Amazon from introducing any of the relevant
+Parity Clauses in any new e-book agreement from the Effective Date.
+(191) Second, the Final Commitments prohibit Amazon from enforcing any of the Parity
+Clauses contained in existing agreements as of the Effective Date, with the exception
+
+EN 44 EN
+
+of the Discount Pool Provision. As regards the Discount Pool Provision, the
+Commission notes that such a provision is only included in a small number of e-book
+agreements which will automatically expire at the latest [expiry date of Amazon's ebook distribution agreements with certain E-book Suppliers] (or earlier if the E-Book
+Supplier decides to terminate the relevant e-book agreement in its entirety pursuant
+to the Final Commitments). Consequently, as the Final Commitments prohibit
+Amazon from introducing any Discount Pool Provision in any new e-book
+agreements, Amazon will not be able to benefit from any Discount Pool Provision as
+from the expiry, [expiry date of Amazon's e-book distribution agreements with
+certain E-book Suppliers], of those e-book agreements that currently include a
+Discount Pool Provision. The Commission further notes that only one of the E-book
+Suppliers concerned by a Discount Pool Provision commented on the Initial
+Commitments; that E-book Supplier indicated that the Discount Pool Provision only
+had a limited impact on it.
+(192) Third, the Commission considers that it is not necessary that Amazon modify its
+existing e-book agreements in order to remove the Parity Clauses from those
+agreements. The obligation on Amazon not to enforce the relevant clauses in existing
+agreements is sufficient as it has the same or similar effect to the removal of the
+clauses from Amazon's e-book agreements. Therefore, requiring the modification of
+existing e-book agreements in order to remove the relevant clauses would not be
+more effective in addressing the competition concerns identified by the Commission
+in its Preliminary Assessment. Moreover, it may have unintended effects on the
+competitive situation of Amazon's trading partners.
+6.3.5. Duration of the commitments
+(193) The five-year duration of the Final Commitments is sufficient to address adequately
+the concerns expressed by the Commission in its Preliminary Assessment. A longer
+period would go beyond what is necessary to protect competition in the fast-moving
+markets for the retail distribution of E-books to consumers.
+6.3.6. Retaliation, non-circumvention and monitoring of compliance
+(194) With regard to compliance with its commitments, the Commission considers, first,
+that the Final Commitments contain a far-reaching non-circumvention clause which
+prohibits Amazon from engaging in any conduct that would directly or indirectly, by
+act or omission, lead to similar anti-competitive effects as those identified in the
+Preliminary Assessment.
+(195) Second, a breach of the Final Commitments could lead to the application of a number
+of measures provided for in Regulation (EC) No 1/2003, namely reopening of the
+proceedings pursuant to Article 9(2), imposing a fine pursuant to Article 23(2)(c),
+and/or the imposition of periodic penalty payments pursuant to Article 24(1)(c).
+(196) Third, as regards specific comments made during the Market Test in relation to the
+monitoring of Amazon's compliance with its commitments, the Commission takes
+into account the clarifications contained in the Final Commitments as regards the
+Monitoring Trustee's powers, as well as Commission's powers under Regulation
+(EC) 1/2003, to request all relevant information to ensure Amazon's compliance with
+the Final Commitments.
+
+EN 45 EN
+
+6.3.7. Additional comments
+(197) The issue of interoperability of Amazon's e-book readers and e-book formats goes
+beyond the competition concerns expressed by the Commission in its Preliminary
+Assessment and therefore does not need to be addressed in the Final Commitments.
+
+7. CONCLUSION
+(198) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes commitments, offered by the undertakings concerned to meet the
+Commission’s concerns, as expressed in its Preliminary Assessment, binding upon
+them. Recital 13 of the Preamble to the Regulation (EC) No 1/2003 states that such a
+decision should not conclude whether or not there has been or still is an
+infringement.
+(199) The Commission’s assessment of whether the commitments offered by Amazon are
+adequate to address its concerns as set out in the Preliminary Assessment is based on
+the underlying investigation and analysis, and the observations received from third
+parties following the publication of a notice pursuant to Article 27(4) of Regulation
+(EC) No 1/2003.
+(200) In the light of the Final Commitments offered, the Commission considers that there
+are no longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+(201) The Commission retains full discretion to investigate and open proceedings under
+Articles 101 and 102 of the Treaty and Articles 53 and 54 of the EEA Agreement as
+regards practices that are not the subject matter of this Decision.
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Final Commitments as contained in the Annex shall be binding on Amazon.com, Inc.,
+Amazon EU S.à.r.l., Amazon Digital Services, LLC and Amazon Media EU, S.à.r.l. for a
+period of five years from the date of notification of this Decision.
+
+Article 2
+There are no longer grounds for action by the Commission in this case.
+
+Article 3
+This Decision is addressed to:
+
+Amazon.com, Inc.
+410 Terry Avenue North
+Seattle, Washington 98109-5210
+United States of America
+
+EN 46 EN
+
+Amazon EU S.à.r.l.
+5, Rue Plaetis
+2338 Luxembourg
+Luxembourg
+
+Amazon Digital Services, LLC
+410 Terry Avenue North
+Seattle, Washington 98109-5210
+United States of America
+
+Amazon Media EU, S.à.r.l.
+5, Rue Plaetis
+2338 Luxembourg
+Luxembourg
+
+Done at Brussels, 4.5.2017
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 47 EN

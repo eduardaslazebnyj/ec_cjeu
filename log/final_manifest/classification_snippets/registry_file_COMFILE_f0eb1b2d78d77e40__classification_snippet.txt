@@ -1,0 +1,471 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+
+Addendum
+
+Extended RIC Licence (EEA Real-Time Consolidated Datafeed Switching)
+
+This Addendum should be read in conjunction with and is subject to the terms of the
+Agreement between [Name of TR entity] ("TR") and [Name of Client] (“Client”)
+dated [Insert Date] (the "Agreement") on the basis that Client is an Eligible
+Customer for the purpose of the Commitment.1 In the event of any discrepancy
+between the terms of this Addendum and of the Agreement in connection with the
+subject matter of this Addendum, the terms of this Addendum shall prevail. Subject to
+this Addendum, all terms of the Agreement remain unaffected. For the avoidance of
+doubt, the incorporation of the terms of the Agreement does not create any obligation
+on Client to subscribe or continue to subscribe to any TR data or other services after
+subscribing to the Extended RIC Licence (subject to the cancellation and termination
+terms of the Eligible Customer's contract for any existing services).
+
+1. Extended RIC Licence (Switching)
+
+In consideration for the Charges set out herein and in Schedule I hereto, TR hereby
+grants Client a non-exclusive, non-transferable, licence to use the number of Eligible
+RICs specified in Schedule I in its Applications to access, identify and retrieve realtime financial data analogous to that contained in the TR Consolidated Real-Time
+Datafeed Service from a third party vendor’s Consolidated Real-Time Datafeed solely
+to facilitate Switching, subject to the conditions set out in this Addendum (the
+"Extended RIC Licence"):
+
+1.1 The Extended RIC Licence takes effect on the Effective Date and will
+continue for so long as Client pays the Charges subject to termination pursuant
+to Clause 3 below, facilitating Client Switching at any time under the
+Extended RIC Licence at Client's discretion (i.e. not limited to the five year
+term of the Commitment).
+
+1.2 The Extended RIC Licence is granted globally to Client to facilitate Switching
+in one or more of Client's Applications wherever located, provided that Client
+has genuine business operations in the EEA.
+
+1.3 The Extended RIC Licence will initially cover, at Client’s option, a number of
+Eligible RICs no greater than the number licensed to Client under its TR
+Consolidated Real-Time Datafeed Service as part of the Business Activity or
+Activities within which usage is licensed under its TR Consolidated Real-
+Time Datafeed Service as at the Effective Date. Subsequently, Client can
+
+1 Either Reuters Services Contract/Reuters Business Principles (RSC/RBP), Reuters Master Services Agreement, Thomson
+Reuters Services Contract/Thomson Reuters Business Principles (TRSC/TRBP), Reuters Global Agreement (RGA) or Thomson
+Reuters Global Agreement (TRGA) and any successors thereof, as appropriate.
+
+19161-3-655-v25.2 - 1 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+increase or decrease (to any number greater than zero) the number of Eligible
+RICs covered within the relevant Business Activity under the Extended RIC
+Licence to facilitate Switching upon execution of an amended Schedule I,
+subject to payment of applicable Charges.
+
+1.4 Client wishing to subscribe to the Extended RIC Licence but who does not
+require immediate activation of the rights granted therein for the purpose of
+Switching may subscribe to the Extended RIC Licence with a subscription
+level of zero Eligible RICs at any time during the 5 year period during which
+the Extended RIC Licence is available for subscription, subject to payment of
+the Administration Fee. Client can trigger the full set of rights set out in its
+Extended RIC Licence (including its rights to usage of RICs, to RIC updates
+and to enable a Third Party Developer to develop a Switching Tool on its
+behalf) at any time by subscribing to any number of Eligible RICs greater than
+zero under the licence. In the absence of such an increase in the subscription,
+any Extended RIC Licence with zero Eligible RICs will automatically expire 2
+years after the expiry of the Commitment.
+
+1.5 Attributed OTC RICs may be included as Eligible RICs in the scope of the
+Extended RIC Licence at the request of Client and subject to the express
+consent of the relevant contributor. TR shall promptly seek such consent from
+the relevant contributor on Client’s request. Attributed OTC RICs where the
+content is only contributed to TR are excluded. For the avoidance of doubt, if
+a relevant contributor starts contributing such content at any time to the third
+party Consolidated Real-time Datafeed vendor to which Client has Switched,
+the relevant Attributed OTC RICs can be included as Eligible RICs in the
+Extended RIC Licence in accordance with the process set out in this Clause
+1.5.
+
+1.6 Client may use the Extended RIC licence to support the relevant Business
+Activity to store and use the number of Eligible RICs specified in Schedule I
+for the sole purpose of Switching, including associating such RICs with the
+corresponding Official Code, along with standard venue and currency
+identifiers as well as any other proprietary identifier that the Client is
+permitted to use by a third party datafeed vendor in its Security Master
+Database (subject to Clause 3 below).
+
+1.7 Subject to Clause 1.8, Client may Distribute Eligible RICs solely for the
+purpose of Switching to other Applications.
+
+1.8
+a) If Client wishes to avail itself at its option of Distribution and
+Redistribution rights to use RICs as the main identifier for any
+information in straight-through processing (irrespective of Client’s
+Switching purpose), Client may, at its option, subscribe to the TPL in
+addition to this Extended RIC Licence.
+
+(b) Subject to Clause 1.7 and 1.8(a) above, Client may not Distribute or
+Redistribute Eligible RICs under this Extended RIC Licence.
+
+19161-3-655-v25.2 - 2 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+1.9 For the avoidance of doubt, third party vendors of a Consolidated Real-Time
+Datafeed are not eligible for and shall not in any circumstance have any rights
+under the Extended RIC Licence, irrespective of whether they subscribe to the
+TR Consolidated Real-Time Datafeed Service or any part thereof for any
+reason.
+
+1.10 TR will provide Client with regular updates of Eligible RICs in line with the
+Client's subscription, together with such cross-referencing information as is
+necessary to identify uniquely the underlying real-time market data, to the
+extent such Eligible RICs and cross-referencing information are carried on TR
+Consolidated Real-Time Datafeed Service, thereby facilitating mapping to the
+alternative vendor’s symbology as part of a Switching Tool. Where applicable,
+such cross-referencing information will include, for example, the relevant
+venue, source, currency and/or description as well as the corresponding
+Official Code (where Client has obtained a licence for the Official Code from
+the appropriate third party). These updates will be made available on the same
+frequency as existing RIC updates are provided to TR data customers. TR will
+use reasonable efforts to assist Client in the resolution of data queries in
+respect of the cross-referencing information provided by TR insofar as
+required to develop and maintain an effective Switching Tool, where this is
+within TR's reasonable control. TR will exercise reasonable care and skill in
+providing Client with the support described in this Clause 1.10, i.e. the same
+level of service as provided by TR to customers of the TR Consolidated Real-
+Time Datafeed Service.
+
+1.11 In the event that Client wishes to retain its subscription to the TR Consolidated
+Real-Time Datafeed Service for the purpose of Switching, TR undertakes to
+continue to make it available to the Client on the current applicable terms for a
+period of not less than 12 months from the Effective Date, subject to TR's
+standard termination rights for cause under the Agreement. For the avoidance
+of doubt, nothing in this Clause affects (i) Client’s right to issue a cancellation
+notice for the TR Consolidated Real-Time Datafeed Service in accordance
+with the terms of the Agreement which becomes effective at any time during
+the above period; and (ii) both parties’ right to continue the Agreement
+relating to the TR Consolidated Real-Time Datafeed Service after that period
+should they desire to do so, subject to the existing cancellation and termination
+provisions of the Agreement.
+
+1.12 TR reserves the right to discontinue any aspect of the updates provided
+pursuant to Clause 1.10 that it ceases to provide as part of other client services
+in the ordinary course of its business by giving Client not less than 6 months
+notice.
+
+2. Development of Switching Tools by or on behalf of Client
+
+2.1 This Addendum grants the licence rights required by Client to develop,
+maintain and update a Switching Tool using the Extended RIC Licence to
+facilitate Switching. For the avoidance of doubt, if Client wishes to access the
+TR API for any development purpose, Client will continue to require a TR
+
+19161-3-655-v25.2 - 3 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+customer TR API development licence and support irrespective of whether the
+access relates to Switching.
+
+2.2 Client may purchase a Switching Tool from TR if TR makes one available, or
+from any Third Party Developer with the required Third Party Developer RIC
+Licence as set out in the Commitment. For the avoidance of doubt, Client may
+also purchase other software applications from a Third Party Developer,
+whose development requires access to the TR API, irrespective of whether the
+access relates to Switching, provided the Third Party Developer is a member
+of TR's Partner Access Program for the TR API. In order to give evidence of
+its right to develop a Switching Tool and use the Extended RIC Licence,
+Client will provide a copy of this Addendum to the Third Party Developer and
+will keep the Third Party Developer informed of any changes in its
+subscription level from time to time. TR hereby waives the confidentiality
+obligations of the Agreement for this specific purpose.
+
+2.4 As an alternative to the above, Client may use a Third Party Developer to
+assist in the development, maintenance and update of a Switching Tool for
+Client’s own internal use, under its Extended RIC Licence. After completion
+of any such development work by a Third Party Developer on behalf of Client
+or termination of the maintenance arrangement for any reason, the Third Party
+Developer will be required to delete any RICs from its software, hardware or
+other devices or systems, subject to any rights it may enjoy separately as a
+subscriber to a Third Party Developer RIC Licence.
+
+2.5 Client may maintain the cross-referencing file included in any Switching Tool
+it develops or purchases, using the RIC updates provided by TR pursuant to
+Clause 1.10. In addition, the Third Party Developer may, at Client's option,
+operate, maintain and update the TR cross-referencing file as part of the
+Switching Tool at Client's premises which can involve installation, operation
+and maintenance of servers and other infrastructure performing software
+upgrades, and the delivery to Client's premises of regular updates of the crossreferencing file for use by Client in its Switching Tool as part of an ongoing
+maintenance of such Switching Tool.
+
+2.6 Subject to the above and to any other specific right granted under the
+Agreement, Client will not Redistribute or allow Eligible RICs to be received
+by, accessed, stored, manipulated, processed or otherwise used by any third
+party software, hardware or other device.
+
+3. Termination
+
+Notwithstanding the perpetual nature of the Extended RIC Licence,
+
+3.1 Client may (i) reduce the set of Eligible RICs which it subscribes to, (ii)
+cancel its subscription to the Extended RIC Licence, and/or (iii) terminate the
+Addendum at any time by giving TR not less than 3 months’ notice. For the
+avoidance of doubt, cancellation or termination of the Extended RIC Licence
+for any reason will cause the regular updates referenced under Clause 1.10 to
+terminate at the same time.
+
+19161-3-655-v25.2 - 4 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+
+3.2 TR may terminate the Addendum immediately:
+
+3.2.1 in the event of any material breach by Client of the conditions set out herein
+(including without limitation a breach of Clause 2.5), provided that the
+Addendum will continue if Client remedies a breach within 30 days of receipt
+of written notice of the breach.
+
+3.2.2 without notice if:(a) the Client enters into a composition with its creditors; (b)
+a court order is made for the winding up of the Client; (c) an effective
+resolution is passed for the winding up of the Client (other than for the
+purposes of amalgamation or reconstruction); or (d) the Client has a receiver,
+manager, administrative receiver or administrator appointed in respect of it.
+
+3.3 Subject to TR’s right under Clause 3.2, unless Client notifies TR to the
+contrary, the Addendum, together with those terms and conditions of the
+Agreement which are necessary for the interpretation and enforcement of the
+Extended RIC Licence (including the regular updates referenced under
+Clause1.10) shall survive termination or expiry of the Agreement and shall
+continue in full force and effect.
+
+3.4 In the event of termination or expiry of the Addendum, Client will fully delete
+all Eligible RICs from the relevant Server-based Applications, View Charge
+Interfaces and other devices where they have been stored except to the extent
+required by any applicable laws or regulations.
+
+3.5 In the event of any dispute arising between TR and Client in relation to the
+application of Clauses 1.2 or 3.2.1 of the Extended RIC Licence or Clauses 6.4
+and 6.5 of the Commitment, the matter shall be referred for resolution at a
+senior executive level between representatives of TR and the Client. Failing
+resolution, the matter shall be submitted promptly to administered expertise in
+each case in accordance with the procedure contained in Schedule II.
+
+4. Charges
+
+4.1 The charges for the Extended RIC Licence are set out in Schedule I.
+
+4.2 TR may, effective on the first day of each January, annually increase such
+charges by no more than the change in the consumer price index being the
+percentage increase of the most recently published 12 months OECD Major
+Seven All Items index.
+
+4.3 In addition to Clause 4.2, TR may amend the fees during the period identified
+in Clause 2.3 of the Commitment under the conditions set out by Clause 6.2 of
+the Commitment and/or Article (9)2 of Council Regulation No. 1/2003.
+Thereafter, TR may amend the fees from time to time provided that any such
+change is objectively justified and is unlikely to undermine the effectiveness
+of the Commitment. In both cases, any such change will be effective on the
+first day of January following the notice of change to the customer.
+
+19161-3-655-v25.2 - 5 - 70-4045
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rce of real-time financial data for consumption
+in one or more of the Client's Applications, subject to Clause 1.2 of this
+Addendum.
+
+“Switching Tool” - an application (whether developed in software or
+hardware) that consumes and includes a file or database cross-referencing
+Eligible RICs to the corresponding symbols of a third party vendor’s
+Consolidated Real-Time Datafeed service to assist customers subscribing to
+the Extended RIC Licence for the purpose of Switching.
+
+"TPL" – The existing ‘Transaction Processing Licence’ offered by TR and any
+successor of the Transaction Processing Licence which enables clients to use
+RICs as an identifier within straight through processing on the terms contained
+therein and which is made commercially available to all prospective customers
+irrespective of whether they subscribe to any other TR services, as further
+described on TR's customer zone at https://customers.reuters.com/home/.
+
+“Third Party Developer” - a developer of Switching Tools excluding
+
+(i) any vendor, re-seller or re-distributor of Market Data which requires
+symbology for identification and navigation; and
+
+(ii) any developer that is directly or indirectly controlling, controlled by or
+under common control with a vendor, re-seller or re-distributor as described in
+(i).
+
+An entity will be deemed to control another entity if it has the power to direct
+or cause the direction of the management or policies of such entity, whether
+through the ownership of voting securities, by contract, or otherwise.
+
+19161-3-655-v25.2 - 10 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+“Third Party Developer RIC Licence” – a RIC usage licence granted to a Third
+Party Developer in the form attached to the Commitment which licenses a
+Third Party Developer to use Eligible RICs for the purpose of testing,
+modifying, supplying and/or maintaining and updating a Switching Tool to
+Clients to facilitate Switching.
+
+"TR API" - the Application Programming Interface, relevant documentation and
+technical support to Thomson Reuters market data platform and feeds.
+
+“TR Consolidated Real-Time Datafeed Service” - any Thomson Reuters licence for
+the supply by Thomson Reuters of its Consolidated Real-Time Datafeed for
+consumption in Applications. This definition covers: (i) the RT Service; (ii)
+Global Datafeed Licences for use in Applications; and (iii) any remaining
+licences of the legacy Thomson Reuters 2000 or 3000 service to the extent
+licensed on a substantially similar basis to the RT Service.
+
+“TR Group” – TR, its Affiliates, and their predecessors and assigns.
+
+“View Charge” - the charge paid or payable by an RT Service client to license an
+individual user to receive only real-time market data licensed under the RT
+Service, for viewing, validating and manipulating purposes, distributed by an
+associated Server-based Application licensed or licensable under the same RT
+Service.
+
+“View Charge Interface” – an individual user application associated with Serverbased Applications licensed or licensable as a View Charge under RT Service.
+
+19161-3-655-v25.2 - 11 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+Schedule I
+to Addendum
+
+Extended RIC Licence (EEA Real-Time Consolidated Datafeed Switching)
+
+Number of Unique Eligible RICs per Client Fee per month
+month
+
+TOTAL
+
+19161-3-655-v25.2 - 12 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+
+Schedule II
+to Addendum
+
+Dispute Resolution Procedure in relation to Clauses 1.2 or 3.2.1 of the Extended
+RIC Licence or Clauses 6.4 and 6.5 of the Commitment
+
+1. The following procedure shall be applied in good faith in order to resolve any dispute
+arising from or in connection with the application of Clauses 1.2 or 3.2.1 of the Extended
+RIC Licence or Clauses 6.4 and 6.5 of the Commitment ("Dispute").
+
+(a) In the event of a Dispute, the initiating party may send notice, with a copy to the
+Monitoring Trustee, to the other party specifying the Dispute in reasonable detail and
+requesting a meeting (which may be in person, by telephone or videoconference) to
+resolve it. The parties will meet for this purpose as soon as reasonably practicable and
+in any event no later than ten (10) days of service of the notice. Such meeting will be
+attended by a senior executive of each of the parties with authority to resolve the
+Dispute. The parties shall use all reasonable endeavours during the thirty (30) days
+following service of the notice to resolve through negotiation the Dispute specified in
+the notice. The Monitoring Trustee shall be invited to the meeting and also has the
+right to seek clarifications.
+
+(b) If the Dispute is not resolved in accordance with Clause 1 (a) above within thirty (30)
+days of service of the notice, then either party may within ten (10) days after the
+expiry of the period, submit the Dispute in writing to administered expertise
+proceedings in accordance with the Rules of Expertise ("Rules") of the International
+Chamber of Commerce ("ICC") which shall govern the determination of the Dispute
+except to the extent otherwise set out herein.
+
+(c) The expert appointed by the International Centre for Expertise of the ICC ("Centre")
+under the Rules ("Expert") will be a suitably experienced, independent and qualified
+lawyer selected from a pool of experts identified by the Centre who have had no
+material relationship with either of the parties in the three (3) years preceding the date
+of appointment. The Expert shall sign a declaration to the effect that there are no
+circumstances known to him likely to give rise to justifiable doubts as to his
+independence and impartiality. The Expert shall assume a continuing duty to disclose
+any such circumstances, if such circumstances should arise after the date of such
+declaration and before the Expert determination is concluded. The parties hereby
+agree that the involvement of the Expert in a previous dispute resolution with another
+TR Client will not be regarded as affecting his/her independence and impartiality and
+will not therefore disqualify him/her from this process.
+
+(d) The parties shall within twenty (20) days of the Expert’s appointment, each submit
+written submissions to the Expert and/or send documents to him in relation to the
+Dispute and to each other and ten (10) days thereafter shall submit any written replies
+they wish to make to the Expert and to each other.
+
+(e) In addition, the parties shall if requested make available to the Expert any
+documentation or information that the Expert considers reasonably necessary in
+reaching his decision on the issues between the parties, including but not limited to,
+full access to all correspondence and other documentation and materials relating to
+
+19161-3-655-v25.2 - 13 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+the Addendum and/or the Commitments, having regard to the deadline for a decision
+as set out at Clause 1(g).
+
+(f) The Expert shall, in addition, have the right, subject to prior notification and consent
+from the parties, to seek any independent legal, technical or other expert assistance as
+he considers reasonably necessary in relation to any matters giving rise to the
+Dispute, having regard to the timeframe set out at Clause 1(g). The Expert is also
+entitled to consult the Monitoring Trustee in all stages of the procedure.
+
+(g) Unless the parties agree otherwise, the Expert shall be required to give his decision
+within ninety (90) days of his appointment. The parties agree to be bound by the
+determination of the Expert whose decision shall, except in the case of fraud or
+manifest error, be final and binding on the parties and neither be subject to appeal nor
+challenge for any reason.
+
+(h) All negotiations between the parties and Expert determinations in accordance with
+this Clause 1 shall be conducted in strict confidence and shall not be used in evidence
+or referred to in any way without the prior written consent of both parties, except
+insofar as necessary to assist other Experts appointed in other similar disputes arising
+in connection with the Addendum and/or the Commitments to reach a decision
+(whereby a non-confidential version of the Expert's decision, and of the written
+reports provided by the Monitoring Trustee to the European Commission in
+accordance with paragraph 6(b) and (c) of Annex V of the Commitment shall be
+provided to the relevant other Expert).
+
+(i) Liability for the fees of the Expert (including any legal, technical or other expert
+sought by the Expert, , with the exception of the Monitoring Trustee who is paid in all
+instances by Thomson Reuter) and the costs (including legal costs) of the parties
+shall be borne in such proportions as the Expert shall determine in his absolute
+discretion. In addition, the separate fees paid by both parties in equal share to the
+Centre in accordance with the Rules will be re-appointed in line with the Expert
+determination above, and the parties agree to reimburse the other accordingly within
+thirty (30) days in respect of any overpaid fees.
+
+(j) Thomson Reuters shall send a copy of the Expert's decision to the Monitoring Trustee
+within 5 (five) days from the receipt of the decision.
+
+(k) Notwithstanding any other provisions in this Clause 1, nothing herein shall prevent
+the parties from taking steps to preserve or enforce the Expert's decision in a court of
+competent jurisdiction as set out in the underlying contract between the parties.
+
+19161-3-655-v25.2 - 14 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+19 November 2012
+SIGNED for and on behalf of SIGNED for and on behalf of
+[TR entity Name] [Client Name]
+
+____________________________ ____________________________
+
+Name: .................................................. Name: .......................................
+
+Title : .................................................. Title: ........................................
+
+Date:........................................
+
+19161-3-655-v25.2 - 15 - 70-40459995

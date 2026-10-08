@@ -1,0 +1,562 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 16.12.2003
+C(2003)4820 final
+
+DÉCISION DE LA COMMISSION
+
+du 16.12.2003
+
+relative à une procédure d'application de l'article 81 du traité CE
+
+et de l'article 53 de l'accord EEE
+
+(Affaire COMP/E-1/38.240 – Tubes industriels)
+
+(Les textes en langues allemande, finnoise, française et italienne sont les seuls faisant
+foi.)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+FR FR
+
+TABLE DES MATIÈRES
+
+DÉCISION DE LA COMMISSION relative à une procédure d'application de l'article 81 du
+traité CE et de l'article 53 de l'accord EEE ................................................................................ 1
+
+A - INTRODUCTION ............................................................................................................... 7
+
+B – LE SECTEUR DES TUBES INDUSTRIELS EN CUIVRE .............................................. 8
+
+1. Le produit..................................................................................................................... 8
+
+2. Association pour la qualité Cuproclima....................................................................... 8
+
+3. Les entreprises présentes sur le marché ..................................................................... 10
+
+3.1. Producteurs visés par la présente procédure .............................................................. 10
+
+3.1.1. Outokumpu................................................................................................................. 10
+
+3.1.2. Wieland Werke........................................................................................................... 11
+
+3.1.3. Le groupe KME ......................................................................................................... 11
+
+3.1.3.1. Les entreprises en cause............................................................................................. 11
+
+3.1.3.2. Liens juridiques et économiques au sein du groupe SMI/KME ................................ 13
+
+3.2. Autres producteurs importants de tubes en couronnes............................................... 16
+
+3.2.1. Halcor......................................................................................................................... 16
+
+3.2.2. Feinrohren .................................................................................................................. 16
+
+3.3. Anciens concurrents................................................................................................... 16
+
+3.3.1. Sameton (devenue par la suite Nuova Samim) .......................................................... 16
+
+3.3.2. Desnoyers................................................................................................................... 16
+
+3.3.3. Buntmetall.................................................................................................................. 17
+
+4. Taille et valeur du marché et parts de marché............................................................ 17
+
+5. Commerce entre États membres................................................................................. 18
+
+C - PROCÉDURE.................................................................................................................... 19
+
+6. Enquête et demandes d’application de la communication de 1996 sur la clémence . 19
+
+7. Adoption de la communication des griefs et suite de la procédure ........................... 21
+
+D - DESCRIPTION DES FAITS............................................................................................. 21
+
+8. L’organisation de l’entente ........................................................................................ 21
+
+8.1. Introduction................................................................................................................ 21
+
+2
+
+8.2. Coopération non officielle dans le cadre de Cuproclima........................................... 22
+
+8.2.1. Tenue des réunions non officielles............................................................................. 22
+
+8.2.2. Participation d’entreprises extérieures....................................................................... 23
+
+8.2.2.1. Objectif des invitations adressées à ces entreprises................................................... 23
+
+8.2.2.2. Desnoyers................................................................................................................... 24
+
+8.2.2.3. Buntmetall.................................................................................................................. 24
+
+9. Les principes fondamentaux de l’entente................................................................... 25
+
+9.1. Fixation d’objectifs de prix et d’autres conditions commerciales ............................. 25
+
+9.2. Répartition des parts de marché et des clients ........................................................... 27
+
+9.3. Mécanisme de surveillance et de mise en œuvre ....................................................... 28
+
+9.3.1. Système des chefs de file pour les marchés ............................................................... 28
+
+9.3.2. Échange d’informations confidentielles..................................................................... 30
+
+10. Chronologie du fonctionnement de l’entente............................................................. 31
+
+10.1. Aperçu général ........................................................................................................... 31
+
+10.2. Informations détaillées sur les réunions et autres événements................................... 32
+
+10.2.1. Fin des années 80 ....................................................................................................... 32
+
+10.2.2. Première moitié des années 90................................................................................... 34
+
+10.2.3. Redéfinition des «règles de Cuproclima» vers le milieu des années 90 .................... 40
+
+10.2.4. La période 1997-1999 ................................................................................................ 42
+
+10.2.5. La période finale 1999-2001...................................................................................... 47
+
+E.APPLICATION DE L’ARTICLE 81, PARAGRAPHE 1, DU TRAITÉ ET DE L'ARTICLE 53, PARAGRA
+
+11. Article 81, paragraphe 1, du traité et article 53, paragraphe 1, de l'accord EEE ....... 49
+
+11.1. Applicabilité............................................................................................................... 49
+
+11.2. Compétence................................................................................................................ 50
+
+12. Nature de l’infraction................................................................................................. 50
+
+12.1.1. Accords et pratiques concertées................................................................................. 50
+
+12.1.2. Infraction unique et continue ..................................................................................... 52
+
+12.1.3. Nature de l'infraction dans la présente affaire............................................................ 53
+
+12.1.3.1.Accord et/ou pratique concertée ................................................................................ 53
+
+12.1.3.2.Caractère continu de l’infraction................................................................................ 55
+
+13. Restriction de concurrence......................................................................................... 57
+
+3
+
+14. Effets sur le commerce entre États membres et entre parties contractantes à l'accord
+EEE ............................................................................................................................ 59
+
+F - DESTINATAIRES ............................................................................................................. 60
+
+15. Applicabilité de la prescription.................................................................................. 60
+
+16. Responsabilité de l’infraction .................................................................................... 61
+
+16.1. Principes généraux ..................................................................................................... 61
+
+16.2. Responsabilités dans la présente affaire..................................................................... 62
+
+16.2.1. Responsabilité d’Outokumpu OYj............................................................................. 62
+
+16.2.2. Responsabilités au sein du groupe SMI/KME ........................................................... 64
+
+16.2.3. Entreprises ayant succédé à d’autres.......................................................................... 67
+
+17. Destinataires de la présente décision ......................................................................... 67
+
+G - DUREE DE L'INFRACTION............................................................................................ 69
+
+18. Dates de début et de fin de l’infraction retenues pour les besoins de la présente
+procédure.................................................................................................................... 69
+
+19. Périodes d’activité reduite.......................................................................................... 70
+
+19.1. Exclusion d’Outokumpu ............................................................................................ 70
+
+19.2. Les autres participants................................................................................................ 72
+
+H - MESURES CORRECTIVES............................................................................................. 73
+
+20. Article 3 du règlement n° 17...................................................................................... 73
+
+21. Article 15, paragraphe 2, du règlement n° 17 ............................................................ 74
+
+21.1. Remarques d'ordre général......................................................................................... 74
+
+21.2. Montant de base des amendes.................................................................................... 74
+
+21.2.1. Gravité........................................................................................................................ 74
+
+21.2.2. Traitement différencié................................................................................................ 81
+
+21.2.3. Effet dissuasif............................................................................................................. 84
+
+21.2.4. Durée de l'infraction................................................................................................... 85
+
+21.2.5. Amendes potentielles dans des procédures parallèles................................................ 87
+
+21.2.6. Conclusion relative aux montants de base ................................................................. 88
+
+21.3. Circonstances aggravantes ......................................................................................... 88
+
+21.4. Circonstances atténuantes .......................................................................................... 89
+
+21.5. Application du plafond de 10 % du chiffre d'affaires ................................................ 96
+
+4
+
+21.6. Application de la communication de 1996 sur la clémence....................................... 97
+
+21.6.1. Outokumpu................................................................................................................. 97
+
+21.6.2. Wieland Werke........................................................................................................... 99
+
+21.6.3. KME......................................................................................................................... 100
+
+21.6.4. Conclusion sur l'application de la communication de 1996 sur la clémence........... 104
+
+21.7. Capacité de payer..................................................................................................... 104
+
+21.8. Montant des amendes infligées dans le cadre de la présente procédure .................. 105
+
+DÉCISION DE LA COMMISSION
+
+du 16.12.2003
+
+relative à une procédure d'application de l'article 81 du traité CE et de l'article 53 de
+
+l'accord EEE
+
+(Affaire COMP/E-1/38.240 – Tubes industriels)
+
+(Les textes en langues allemande, finnoise, française et italienne sont les seuls faisant
+foi.)
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement n° 17 du Conseil du 6 février 1962, premier règlement d’application des
+articles 85 et 86 du traité1, et notamment son article 3 et son article 15, paragraphe 2,
+
+vu la décision de la Commission du 2 juillet 2003 d'ouvrir la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l'occasion de faire connaître leur point de vue au
+sujet des griefs retenus par la Commission, conformément à l'article 19, paragraphe 1, du
+
+1 JO 13 du 21.2.1962, p. 204/62. Règlement modifié en dernier lieu par le règlement (CE) n° 1216/1999
+(JO L 148 du 15.6.1999, p. 5).
+
+5
+
+règlement n° 17 et au règlement (CE) n° 2842/98 de la Commission du 22 décembre 1998
+relatif à l'audition dans certaines procédures fondées sur les articles 85 et 86 du traité CE2,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire3,
+
+CONSIDERANT CE QUI SUIT:
+
+A - INTRODUCTION
+
+(1) Les entreprises suivantes sont destinataires de la présente décision :
+
+– Wieland Werke AG
+
+– Outokumpu Oyj
+
+– Outokumpu Copper Products OY
+
+– KM Europa Metal AG
+
+– Tréfimétaux SA
+
+– Europa Metalli SpA.
+
+(2) Les entreprises destinataires de la présente décision ont participé, en violation de
+l’article 81 du traité et de l’article 53 de l’accord EEE, à une infraction unique,
+complexe et continue, étendue à la quasi-totalité du territoire de l’EEE, dans le cadre
+de laquelle elles se sont entendues sur des objectifs de prix et d’autres conditions
+commerciales pour les tubes industriels, ont coordonné des augmentations de prix, se
+sont partagé les clients et les parts de marché, et ont surveillé la mise en œuvre de
+leurs arrangements anticoncurrentiels en désignant des chefs de file pour les marchés
+et en échangeant des informations sur les ventes, les parts de marché et les prix dans le
+cadre de l’association pour la qualité Cuproclima, du 3 mai 1988, au moins, au
+22 mars 2001.
+
+B – LE SECTEUR DES TUBES INDUSTRIELS EN CUIVRE
+
+1. LE PRODUIT
+
+(3) Dans les tubes de cuivre, on distingue généralement deux groupes de produits: i) les
+tubes sanitaires (appelés aussi tubes de plomberie), qui sont utilisés dans les
+installations d’eau, de gaz, de chauffage et de transport de combustible, et ii) les tubes
+industriels,
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e communication n'avait pas pour objectif de mentionner d'une manière
+exhaustive la totalité des réunions officielles de l'association, mais de mettre l'accent
+sur les réunions non officielles comportant des aspects anticoncurrentiels. Or, KME
+n'a pas indiqué précisément quelles étaient les réunions dont l'objectif était
+anticoncurrentiel.
+
+(421) La Commission relève que KME n'a pas été la première entreprise à lui fournir des
+éléments déterminants pour prouver l'existence de l'entente dans le secteur des tubes
+industriels, comme l'exige le titre B, point b), de la communication de 1996 sur la
+clémence, et n'entre donc pas dans la catégorie prévue au titre C, qui renvoie aux
+conditions exposées au titre B, points b) à e) de ladite communication. Selon le titre D
+de la communication de 1996 sur la clémence, une entreprise qui ne satisfait pas à
+toutes les conditions exposées aux titres B ou C de ladite communication peut
+néanmoins bénéficier d'une réduction significative de 10 à 50 % du montant de
+l'amende qui lui aurait été infligée en l'absence de coopération.
+
+(422) Après avoir reçu la communication des griefs, KME a informé la Commission qu'elle
+ne contestait pas la matérialité des faits sur lesquels celle-ci fondait ses accusations.
+
+(423) En tenant dûment compte de toutes ces circonstances, la Commission considère que
+KME remplit les conditions prévues au titre D, paragraphe 2, premier et second tirets,
+de la communication de 1996 sur la clémence et lui accorde par conséquent une
+réduction de 30 % du montant de l'amende qui lui aurait sinon été infligée si elle
+n'avait pas coopéré avec la Commission. Cette réduction dépasse de 10 % celle
+accordée à Wieland Werke, car, dans sa demande de mesures de clémence, KME a
+dénoncé l'existence des dispositifs anticoncurrentiels depuis les années 80 (le point de
+départ exact n’a pas été mentionné), contre 1993, date avancée par Wieland dans sa
+demande de mesures de clémence comme marquant le début de l'entente. KME a
+également révélé un certain nombre de réunions de "groupe de travail" en 1999
+(considérant (168)), qui n’ont pas été mentionnées par les autres participants, et KME
+a aidé la Commission d’apprécier l’étendue de l’activité du cartel pendant la "période
+d'accalmie" de 1997 à 1999.
+
+(424) Le montant total de l'amende infligée aux entreprise du groupe KME est donc de 39,81
+millions d'euros (groupe KME 18,99 millions d'euros ; KME AG 10,41 millions
+d'euros ; et EM et TMX 10,41 millions d'euros).
+
+101
+
+21.6.4. Conclusion sur l'application de la communication de 1996 sur la clémence
+
+(425) En conclusion, eu égard à la nature de leur coopération et aux conditions prévues par
+la communication de 1996 sur la clémence, la Commission accorde aux destinataires
+de la présente décision les réductions suivantes du montant des amendes qui leur sont
+infligées:
+
+a) groupe Outokumpu: une réduction de 50 %
+
+b) groupe KME: une réduction de 30 %
+
+c) Wieland Werke: une réduction de 20 %
+
+21.7. Capacité de payer
+
+(426) [Les arguments presentés par KME afin de justifier l’incapacité de payer une amende]
+
+(427) [Les arguments presentés par KME afin de justifier l’incapacité de payer une amende]
+
+(428) [Sommaire des informations confidentielles fournies par KME]
+
+(429) La Commission observe que KME et ses filiales, [...], ne peuvent être considérées
+comme des entreprises en difficulté. KME a distribué un dividende à ses actionnaires
+en 2002 et prévu qu'en 2003, les mesures d'assainissement prises lui permettraient de
+tirer son épingle du jeu dans un contexte économique mondial difficile. D'après son
+rapport annuel de 2002 également, le bilan de KME AG fait apparaître que la structure
+de ses actifs et de son capital est satisfaisante ainsi que ses ratios de couverture. Les
+pertes enregistrées par EM en 2002 étaient imputables à des éléments extraordinaires,
+la marge brute d'exploitation étant largement positive. En ce qui concerne TMX, son
+rapport annuel de 2002 indique que les économies escomptées permettront à
+l'entreprise d'améliorer considérablement ses résultats au cours du second semestre de
+2003331.
+
+(430) La Commission constate aussi que, selon les comptes consolidés du groupe SMI (la
+société mère SMI + le groupe KME) qui ont été remis par KME dans sa réponse
+écrite, le groupe a atteint un bénéfice net de 5,1 millions d’euros dans l’exercice
+comptable de 1996-1997; 19,1 millions d’euros en 1997-1998; 33,5 millions d’euros
+en 1998-1999; 46,9 millions d’euros en 1999-2000; 38 ,6 millions d’euros en 2000-
+2001 et 6,8 millions d’euros pour l’exercice semestriel de juillet à décembre 2001.
+Ceci donne un total de 150 millions d’euros. En 2002, le groupe a pour la première
+fois enregistré une perte de 19,3 millions d’euros. Il se doit de souligner qu’en 2002,
+KME a continué son expansion en rachetant un concurrent (Yorkshire Copper Tube
+Ltd) et en vendant une entreprise qui n’appartenait pas à son activité de base. Les
+estimations pour 2003 indiquent des pertes pour les trois entreprises du groupe,
+cependant vu qu’une partie de l’augmentation des coûts est apparentée au plan de
+restructuration, ils ne sont pas sujets de réapparaître dans les futurs exercices
+comptables.
+
+(431) [...] Toutefois, selon la jurisprudence, "la reconnaissance d'une obligation imposant à
+la Commission de tenir compte de la situation financière déficitaire d'une entreprise
+
+331 Comptes annuels de KME, EM et TX pour 2002, joints à la réponse à la communication des griefs.
+
+102
+
+reviendrait à procurer un avantage concurrentiel injustifié aux entreprises les moins
+adaptées aux conditions du marché"332. A fortiori, une réduction du montant de
+l'amende infligée à des entreprises qui ne sont pas en difficulté, mais aux prises surtout
+avec les conditions générales actuelles du marché, leur conférerait un avantage
+concurrentiel plus important par rapport aux autres producteurs.
+
+21.8. Montant des amendes infligées dans le cadre de la présente procédure
+
+(432) En conclusion, la Commission fixe comme suit le montant des amendes infligées en
+application de l'article 15, paragraphe 2, du règlement n° 17:
+
+– Outokumpu Oyj et Outokumpu Copper Products OY: 18,13 millions d'euros
+
+– Wieland Werke AG: 20,79 millions d'euros
+– KM Europa Metal AG, Tréfimétaux SA
+et Europa Metalli SpA : 18,99 millions d’euros
+– KM Europa Metal AG: 10,41 millions d'euros
+
+– Europa Metalli SpA et Tréfimétaux SA : 10,41 millions d’euros
+
+332 Affaires jointes 96/82 à 102/82, 104/82, 105/82, 108/82 et 110/82 IAZ et autres/Commission,
+Recueil 1983, p. 3369, point 55; affaire T-319/94, Fiskeby Board/Commission, Recueil 1998,
+p. II-1331, point 76.
+
+103
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Les entreprises suivantes ont enfreint les dispositions de l'article 81, paragraphe 1, du traité et,
+à compter du 1er janvier 1994, de l'article 53, paragraphe 1, de l'accord EEE, en participant,
+pour les périodes indiquées, à un ensemble d'accords et de pratiques concertées consistant à
+fixer les prix et à se répartir les marchés dans le secteur des tubes industriels:
+
+a) Wieland Werke AG, du 3 mai 1988 au 22 mars 2001;
+
+b) Outokumpu Oyj, à titre individuel du 3 mai 1988 au 30 décembre 1988, et
+solidairement avec Outokumpu Copper Products OY du 31 décembre 1988 au
+22 mars 2001;
+
+c) Outokumpu Copper Products OY, du 31 décembre 1988 au 22 mars 2001
+(solidairement avec Outokumpu Oyj);
+
+d) KM Europa Metal AG, à titre individuel du 3 mai 1988 au 19 juin 1995, et
+solidairement avec Tréfimétaux SA et Europa Metalli SpA du 20 juin 1995 au 22
+mars 2001;
+
+e) Europa Metalli SpA., solidairement avec Tréfimétaux SA du 3 mai 1988 au 19 juin
+1995, et solidairement avec KM Europa Metal AG et Tréfimétaux SA du 20 juin
+1995 au 22 mars 2001;
+
+f) Tréfimétaux SA, solidairement avec Europa Metalli SpA du 3 mai 1988 au 19 juin
+1995 et solidairement avec KM Europa Metal AG et Europa Metalli SpA du 20 juin
+1995 au 22 mars 2001.
+
+Article 2
+
+Les amendes suivantes sont infligées pour les infractions visées à l'article 1er:
+
+a) Wieland Werke AG: 20,79 millions d'euros
+b) Outokumpu Oyj et Outokumpu Copper Products OY,
+solidairement: 18,13 millions d'euros
+
+c) KM Europa Metal AG, Tréfimétaux SA et Europa Metalli SpA,
+solidairement: 18,99 millions d'euros
+d) KM Europa Metal AG 10,41 millions d'euros
+
+e) Europa Metalli SpA et Tréfimétaux SA, solidairement 10,41 millions d'euros
+
+104
+
+Les amendes sont versées dans un délai de trois mois à compter de la date de notification de la
+présente décision sur le compte bancaire suivant:
+
+Compte n°:
+
+001-3953713-69 de la Commission européenne auprès de:
+Banque FORTIS, Rue Montagne du Parc 3, 1000 Bruxelles
+
+(Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537 1369)
+
+À l'expiration dudit délai, des intérêts seront automatiquement dus au taux appliqué par la
+Banque centrale européenne à ses principales opérations de refinancement le premier jour du
+mois au cours duquel la présente décision est adoptée, majoré de 3,5 points de pourcentage,
+soit un taux de 5,5%.
+
+Article 3
+
+Les entreprises visées à l'article 1er mettent immédiatement fin, dans la mesure où elles ne
+l'ont déjà fait, aux infractions visées audit article.
+
+Elles s'abstiennent de tout accord ou comportement visés à l'article 1er, ainsi que de tout acte
+ou comportement ayant un objet ou un effet identique ou équivalent.
+
+Article 4
+
+Les entreprises suivantes sont destinataires de la présente décision:
+
+1. Wieland Werke AG
+
+Graf-Arco-Strasse 36
+
+89079 Ulm
+
+ALLEMAGNE
+
+2. Outokumpu Oyj
+
+Riihitontuntie 7 D
+
+02201 Espoo
+
+FINLANDE
+
+3. Outokumpu Copper Products OY
+
+Riihitontuntie 7 A
+
+02201 Espoo
+
+105
+
+FINLANDE
+
+4. KM Europa Metal AG
+
+Klosterstrasse 29
+
+49074 Osnabrück
+
+ALLEMAGNE
+
+5. Europa Metalli SpA.
+
+Via dei Barucci, 2
+
+50127 Florence
+
+ITALIE
+
+6. Tréfimétaux S.A
+
+11 bis, rue de l'Hôtel de ville
+
+92411 Courbevoie
+
+FRANCE
+
+La présente décision forme titre exécutoire conformément à l’article 256 du traité.
+
+Fait à Bruxelles, le 16.12.2003
+
+Par la Commission
+
+Mario MONTI
+Membre de la Commission
+
+106

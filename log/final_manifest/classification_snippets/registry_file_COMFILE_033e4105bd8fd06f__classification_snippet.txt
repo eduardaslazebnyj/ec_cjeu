@@ -1,0 +1,298 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52021AT40178(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52021AT40178(02)
+Help
+Print
+Summary of Commission Decision of 8 July 2021 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40178 – Car Emissions) (Notified under document number C(2021) 4955 final) (Only the German text is authentic) (Text with EEA relevance) 2021/C 458/11
+Summary of Commission Decision of 8 July 2021 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40178 – Car Emissions) (Notified under document number C(2021) 4955 final) (Only the German text is authentic) (Text with EEA relevance) 2021/C 458/11
+Summary of Commission Decision of 8 July 2021 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40178 – Car Emissions) (Notified under document number C(2021) 4955 final) (Only the German text is authentic) (Text with EEA relevance) 2021/C 458/11
+C/2021/4955
+OJ C 458, 12.11.2021, pp. 16–19
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+12.11.2021
+EN
+Official Journal of the European Union
+C 458/16
+SUMMARY OF COMMISSION DECISION
+of 8 July 2021
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.40178 – Car Emissions)
+(Notified under document number C(2021) 4955 final)
+(Only the German text is authentic)
+(Text with EEA relevance)
+(2021/C 458/11)
+On 8 July 2021, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union (and Article 53/54 of the EEA agreement). In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+On 8 July 2021, the Commission adopted a Decision concluding that the addressees of this Decision participated in a single and continuous infringement of Article 101 of the Treaty on the Functioning of the European Union (‘the Treaty’) and Article 53 of the EEA Agreement.
+(2)
+This Decision concerns anti-competitive conduct in connection with the development of selective catalytic reduction (‘SCR’)-systems for passenger cars with diesel engine. The anti-competitive conduct took place from 25 June 2009 to 1 October 2014 (‘the relevant period’).
+(3)
+The decision is addressed to the following legal entities that belong to the following undertakings (hereafter ‘the parties’):
+—
+DAIMLER: Daimler AG
+—
+VW: Volkswagen Aktiengesellschaft, Audi Aktiengesellschaft and Dr. Ing. h.c. F. Porsche Aktiengesellschaft
+—
+BMW: Bayerische Motoren Werke Aktiengesellschaft
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(4)
+DAIMLER applied for immunity pursuant to the Leniency Notice
+(
+2
+)
+and reported on 9 December 2015 relevant anti-competitive contacts. On 4 July 2016, VW applied for leniency. In October 2017, the Commission carried out inspections in the premises of BMW, DAIMLER, Audi and Volkswagen. On 18 September 2018, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004 against the parties. On 5 April 2019, the Commission adopted a Statement of Objections in ordinary procedure.
+(5)
+Subsequently the parties had full access to the parts of the file relevant for the infringement here at issue. The parties replied to the Statement of Objections after several prolongations of the deadline and indicated that they would be interested in settlement discussions. On 2 February 2021, the Commission formally offered the parties to switch to the settlement route. All parties responded that they were prepared to enter into settlement discussions. By 28 April 2021, the parties introduced their formal settlement submissions to the Commission. On 21 May 2021, the Commission adopted a Statement of Objections under the settlement procedure. All the parties replied that it corresponded to the content of their settlement submissions.
+(6)
+On 5 July 2021, the Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion.
+2.2.
+Summary of the infringement
+(7)
+The coordination of DAIMLER, VW and BMW concerned the development of SCR-systems for diesel passenger cars that they developed and produced for the EEA and sold there
+(
+3
+)
+. The parties agreed on 25 June 2009 on the use of small AdBlue tanks for the EEA with an effective range of 10 000 km which in their view corresponded for most car manufacturers to tank sizes of 8 to 10 litres and comparable AdBlue refill intervals. Smaller AdBlue tanks had advantages in terms of vehicle weight (and therefore fuel consumption and CO2-emissions) and available construction space. In 2011, DAIMLER, VW and BMW confirmed the medium-term goal of moving to smaller AdBlue tanks for Europe and therefore to shorter ranges between AdBlue refills. On this basis, DAIMLER, VW and BMW coordinated envisaged AdBlue tank sizes and ranges until 1 October 2014. However, DAIMLER, VW and BMW did not actually introduce uniform AdBlue tank sizes or ranges. Actual tank sizes remained well above the volumes discussed.
+(8)
+Assumed average AdBlue consumption can be deduced from AdBlue tank size and range between two refills of a car with liquid SCR-system. DAIMLER, VW and BMW based the decision of 25 June 2009 in favour of a range of 10 000 km (corresponding to AdBlue tank sizes of 8 to 10 litres for most car manufacturers) on an assumed average AdBlue-consumption of 0,8 to 1,0 litres per 1 000 km.
+(9)
+The manufacturers were aware that, with even higher quantities of AdBlue, more effective NO
+x
+-cleaning beyond regulatory requirements would have been possible under certain real driving conditions for various vehicle models (‘over-fulfilment’). Larger quantities of AdBlue would have led to a shorter range or required bigger AdBlue tanks.
+(10)
+Against this background, DAIMLER, VW and BMW signalled to each other through their common understanding that AdBlue-consumption would increase with introduction of stricter regulatory requirements that they did not strive for over-fulfilment.
+(11)
+In addition, DAIMLER, VW and BMW exchanged information on the characteristics of different vehicle models in terms of AdBlue tank sizes, ranges and assumed average consumption for the EEA. This exchange of information increased the transparency that already existed between them in respect of possible uses of certain aspects of SCR-technology. DAIMLER, VW and BMW also discussed the possibility of placing vehicle models on the market, which complied with regulatory requirements already before they became obligatory (‘pre-fulfilment’).
+(12)
+The meeting of the parties on 25 June 2009, where the parties agreed AdBlue tank sizes and ranges, should be determined as start of the infringement. 1 October 2014, when the parties confirmed during a meeting that an understanding on uniform tank size would not be possible, should be determined as end date.
+(13)
+The previously described agreements and/or concerted practices concerning SCR-systems for new diesel passenger car models in the form of a restriction of competition by object constitute an infringement of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement.
+(14)
+This procedure exclusively concerns a coordination on technical aspects, not on prices, costs or quantities.
+2.3.
+Addressees
+2.3.1.
+Daimler
+(15)
+Daimler AG as direct participant is liable for the infringement throughout the relevant period.
+2.3.2.
+VW
+(16)
+Volkswagen Aktiengesellschaft (as direct participant throughout the relevant period, as well as as parent company of Audi Aktiengesellschaft throughout the relevant period and of Dr. Ing. h.c. F. Porsche Aktiengesellschaft from 7 December 2009 until 1 October 2014) and Audi Aktiengesellschaft, as direct participant throughout the relevant period, are jointly and severally liable for the infringement.
+(17)
+Dr. Ing. h.c. F. Porsche Aktiengesellschaft as direct participant is liable for the infringement throught the relevant period and jointly and severally liable with Volkswagen Aktiengesellschaft and Audi Aktiengesellschaft for the period from 7 December 2009 until 1 October 2014.
+2.3.3.
+BMW
+(18)
+Bayerische Motoren Werke Aktiengesellschaft as direct participant is liable for the infringement throughout the relevant period.
+2.4.
+Remedies
+(19)
+The decision applies the 2006 Guidelines on Fines
+(
+4
+)
+.
+2.4.1.
+Basic amount of the fine
+(20)
+For the calculation of the relevant value of sales, the turnover is used, which the parties achieved in 2013, the last full business year of their participation in the infringement, with sales of new diesel passenger cars with SCR-system. In view of the nature and the geographic scope of the infringement, the proportion of the value of sales taken into account is 16 %. This amount is multiplied by the number of years or by fractions of the year respectively of the parties’ participation in the infringement. The multiplier for the duration of the infringement is calculated on the basis of calendar days. All parties participated in the infringement throughout the entire period of the infringement.
+Duration (in days)
+Multiplication factor
+1 925
+5,27
+(21)
+In order to deter the parties to participate in a cartel the variable amount is increased, irrespective of the duration of the parties’ participation in the infringement, with a percentage of the relevant turnover (so-called ‘entry fee’) set at 16 %.
+2.4.2.
+Adjustments to the basic amount
+(22)
+No aggravating circumstances were found. As mitigating factor, the fact was taken into account that the Commission had no previous enforcement practice as regards sanctioning cartels solely on the basis of an infringement of Article 101(1)(b) of the Treaty. The Commission therefore considered it appropriate to exceptionally reduce the fines to be imposed by 20 % for all parties.
+2.4.3.
+Application of the 10 % turnover limit
+(23)
+None of the fines calculated for any of the parties exceeds 10 % of the undertaking’s total turnover in 2020.
+2.4.4.
+Application of the 2006 Leniency Notice: Reduction of the fines
+(24)
+DAIMLER was the first undertaking to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice. Therefore DAIMLER was granted immunity from fines.
+(25)
+Taking into account the time of the application and the added value of the information, the fine for VW was reduced by 45 %.
+2.4.5.
+Application of the Settlement Notice
+(26)
+In application of the Settlement Notice, the fine to be imposed on each party was reduced by an additional 10 %.
+3.
+CONCLUSION
+(27)
+Pursuant to Article 23(2) of Regulation (EC) No 1/2003, the following fines were imposed:
+a)
+Daimler AG: EUR 0;
+b)
+Volkswagen Aktiengesellschaft, Audi Aktiengesellschaft and Dr. Ing. h.c. F. Porsche Aktiengesellschaft, jointly and severally: EUR 466 172 000;
+Volkswagen Aktiengesellschaft and Audi Aktiengesellschaft, jointly and severally: EUR 36 190 000;
+c)
+Bayerische Motoren Werke Aktiengesellschaft: EUR 372 827 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+Commission notice on immunity from fines and reduction of fines in cartel cases (
+OJ C 298, 8.12.2006, p. 17
+).
+(
+3
+)
+Porsche did not develop, produce or apply data in its own SCR-systems in the relevant period.
+(
+4
+)
+OJ C 210, 1.9.2006, p. 2
+.
+Top

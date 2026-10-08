@@ -1,0 +1,527 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+L 56/76 EN Official Journal of the European Union 24.2.2004
+
+COMMISSION DECISION
+
+of 23 October 2003
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+Case COMP/C/38.170 — REIMS II renotification
+
+(notified under document number C(2003) 3892)
+
+(Only the Spanish, Danish, German, Greek, English, French, Italian, Dutch, Portuguese, Finnish and Swedish
+texts are authentic)
+
+(Text with EEA relevance)
+
+(2004/139/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, negative clearance pursuant to Article 81(1) of the EC
+Treaty and Article 53(1) of the EEA Agreement or an
+Having regard to the Treaty establishing the European Com- exemption pursuant to Article 81(3) of the EC Treaty
+munity, and Article 53(3) of the EEA Agreement, upon the
+expiry of the exemption granted by the Commission in
+Having regard to the Agreement on the European Economic its decision of 15 September 1999 (the 1999 exemption
+Area, decision) (5).
+
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86 of (2) The REIMS II Agreement is the instrument by which
+the Treaty (1), as last amended by Regulation (EC) No 1/ certain public postal operators (PPOs) (6) collectively
+2003 (2), and in particular Articles 2, 6 and 8 thereof, determine terminal dues. Terminal dues are the remuneration that PPOs pay each other for the delivery of
+Having regard to the application for negative clearance and incoming cross-border mail. The receiving PPO is
+the notification with a view to an exemption submitted remunerated by the sending operator for the delivery of
+pursuant to Articles 2 and 4 of Regulation No 17 on 18 June the latter’s cross-border mail.
+2001,
+
+Having regard to the Commission decision of 14 April 2003
+to initiate proceedings in this case, (3) In the Agreement, terminal dues are expressed as a
+percentage of domestic tariffs in the receiving country.
+Having regard to the summary of the application and notifi- The original REIMS II Agreement was first notified to
+cation published pursuant to Article 19(3) of Regulation the Commission in 1997. It received an exemption in
+No 17 (3), 1999. According to the original REIMS II-Agreement,
+terminal dues were to increase over a transitional period
+After consulting the Advisory Committee on Restrictive Prac- until they reached a maximum of 80 % of domestic
+tices and Dominant Positions, tariffs in 2001. In the 1999 Exemption Decision,
+however, the Commission only exempted the Agreement
+Having regard to the final report of the Hearing Officer in this until the end of 2001 and limited the exemption to a
+case (4), level of terminal dues not higher than 70 % of domestic
+tariffs.
+Whereas:
+
+1. INTRODUCTION
+(5) Commission Decision 1999/695/EC in Case No COMP/36.748
+— REIMS II) (OJ L 275, 26.10.1999, p. 17).
+(1) On 18 June 2001, the REIMS II (remuneration of
+(6) PPOs are corporations or government departments with the
+mandatory deliveries of cross-border mails) Agreement primary obligation of providing universal postal services across
+was notified to the Commission with a view to obtaining the national territory, often at a unitary price. They are also obliged
+to provide international postal services passing international mail
+(1) OJ 13, 21.2.1962, p. 204/62. to PPOs in other countries for distribution abroad and delivering
+(2) OJ L 1, 4.1.2003, p. 1. incoming international mail. In the context of the notified
+(3) OJ C 94, 23.4.2003, p. 3. Agreement, PPO refers to both public and private postal operators
+(4) OJ C 48, 24.2.2004. which are subject to a universal delivery service obligation.
+
+24.2.2004 EN Official Journal of the European Union L 56/77
+
+(4) In limiting the duration of the exemption until the end postal services and the improvement of quality of
+of 2001, the Commission stated that the final increase service (10) (the Postal Directive), as amended by Directive
+of 80 % of the domestic tariff should only take place 2002/39/EC (11) (the Amending Directive). Most of the
+after the Commission had had the opportunity to review Parties have been assigned a reserved sector to ensure
+the system on the basis of proper cost accounting data. their ability to provide the universal service. The Parties
+The Commission also made the exemption subject to also provide other services which are not part of the
+the fulfilment by the Parties of several conditions and universal postal service obligation.
+obligations (7).
+
+(5) The renotification in 2001 included a request for a
+renewal of the exemption. In the renotified version of
+the REIMS II Agreement, the 80 % level would not be 3. LEGAL AND FACTUAL BACKGROUND
+reached until 1 January 2004 and two intermediate steps
+were introduced (73,3 % on 1 January 2002 and 76,6 %
+on 1 January 2003). A short summary of the notification
+was published in the Official Journal of the European 3.1. Remuneration for the delivery of incoming inter-
+Communities inviting third parties to comment (8). This national mail items (terminal dues)
+was followed in April 2003 by the Notice pursuant to
+Article 19(3) of Regulation No 17 which set out the
+Commission’s preliminary view and gave third parties
+an opportunity to comment on the proposed favourable 3.1.1. The UPU system
+approach.
+
+(8) Under the Universal Postal Convention (UPU Convention) (12), members of the Universal Postal Union (the
+UPU) (13), involving almost all countries in the world,
+agree to provide domestic delivery services for incoming
+2. THE PARTIES TO THE PROCEEDINGS
+cross-border mail. The obligation is a mandatory part of
+the UPU and underpins the worldwide postal network
+which exists today. Originally, PPOs did not compensate
+(6) Thirteen PPOs had signed the original REIMS II Agree- each other for cross-border mail because mail flows
+ment on 9 July 1997. Four more PPOs have since joined. between countries were assumed to be in balance.
+At the date of the renotification on 18 June 2001, the However, in the 1960s, large imbalances in the flows of
+17 Parties to the REIMS II Agreement (the Parties) cross-border mail occurred with the result that PPOs in
+comprised: Österreichische Post AG, La Poste/De Post some countries were incurring delivery costs for
+(Belgium), Post Danmark AS, Finland Post, La Poste incoming mail without generating sufficient revenue
+(France), Deutsche Post, Hellenic Post ELTA, Iceland from outgoing mail to cover these costs.
+Post, An Post (Ireland), Poste Italiane, Entreprise des
+Postes & Télécommunications (Luxembourg), Posten
+Norge AS (Norway), CTT Correios de Portugal, Sociedad
+Estatal Correos y Telégrafos (Spain), Sweden Post, Swiss (9) To compensate receiving PPOs, a system of payments,
+Post and Consignia plc, now Royal Mail Group plc called terminal dues, was established in 1969. Under
+(United Kingdom) (9). The REIMS II Parties are the this system, a receiving PPO was paid a specified rate,
+incumbent PPOs in their respective States. based on weight, for incoming mail which it was
+required to deliver. However, this system resulted in a
+divergence between cost and remuneration (14).
+
+(7) The business of the Parties is the transportation and
+delivery of documents and goods. All of the Parties are
+universal service providers as defined in Article 2(13) of
+(10) OJ L 15, 21.1.1998, p. 14. Directive 97/67/EC of the European Parliament and of
+(11) OJ L 176, 5.7.2002, p. 21.
+the Council of 15 December 1997 on common rules for
+(12) The Universal Postal Convention, agreed to and signed by
+the development of the internal market of Community governments at the UPU Congress, concerns the formation of a
+single postal territory, freedom of transit, standardisation of
+postage rates, the institution of arbitration proceedings and the
+establishment of terminal dues.
+(13) The UPU was founded in 1874 and forms the framework for
+(7) See Article 2 of the 1999 Exemption Decision, op. cit. postal relations between its members. The UPU is an organisation
+(8) OJ C 195, 11.7.2001, p. 11. of governments and was recognised as a special agency of the
+(9) Swiss Post is not a notifying party since it has not signed the United Nations in 1947.
+notification to the Commission. (14) See recital 9 of the 1999 Exemption Decision.
+
+L 56/78 EN Official Journal of the European Union 24.2.2004
+
+(10) In 1989, a recommendation of the Conférence Euro- (15) The first, second and third indents of Article 13(1) of
+péenne des Administrations des Postes et Télécommuni- the Postal Directive provide that:
+cations (15) (CEPT), which was subsequently implemented through a number of bilateral agreements concluded
+‘— terminal dues shall be fixed in relation to the costs
+between CEPT members, brought terminal dues closer
+of processing and delivering incoming cross-border
+to costs (16). They were, nevertheless, still based on an
+mail,
+average across the participating administrations and, as
+is generally recognised, did not cover costs (17).
+— levels of remuneration shall be related to the quality
+of service achieved,
+
+(11) Since 1989, the UPU system has made progress in
+orienting terminal dues to costs. The 1999 Beijing UPU — terminal dues shall be transparent and non-dis-
+Convention contains special terminal dues provisions criminatory’.
+applicable to exchanges between industrialised
+countries (18).
+
+3.1.2.2. L i b e r a l i s a t i o n
+
+3.1.2. The Postal Directive
+(16) To date, only two Member States (Sweden and Finland)
+have abolished their postal monopolies. PPOs in all
+(12) The main regulatory framework with regard to cross- other Member States benefit from a reserved area by
+border mail and terminal dues, as far as Community law virtue of national law in which they have the exclusive
+is concerned, is the Postal Directive. right to provide a range of postal services. The boundaries within which Member States are entitled to reserve
+specified postal services are indicated in the Postal
+Directive.(13) The Postal Directive contains important provisions with
+regard to terminal dues and liberalisation of the outgoing
+cross-border mail market.
+(17) Article 7 of the Postal Directive defines the degree of
+liberalisation for both incoming and outgoing crossborder mail.
+3.1.2.1. T e r m i n a l d u e s
+
+(18) As far as domestic mail and the delivery of incoming
+(14) With regard to terminal dues, recital 27 of the Postal cross-border mail are concerned the first subparagraph
+Directive states that of Article 7(1) of the Postal Directive provides as follows:
+
+‘the remuneration for the provision of the intra-Com- ‘To the extent necessary to ensure the maintenance of
+munity cross-border mail service, without prejudice to universal service, Member States may continue to reserve
+the minimum set of obligations derived from Universal services to universal service provider(s). Those services
+Postal Union acts, should be geared to cover the costs of shall be limited to the clearance, sorting, transport
+delivery incurred by the universal service provider in the and delivery of items of domestic correspondence and
+country of destination’. incoming cross-border correspondence, whether by
+accelerated delivery or not, within both of the following
+weight and price limits. The weight limit shall be
+100 grams from 1 January 2003 and 50 grams from
+(15) The CEPT was a restricted subgroup of the UPU which, up to 1 January 2006. These weight limits shall not apply as
+1992, brought together both the regulators and the operators of from 1 January 2003 if the price is equal to, or more
+the European postal and telecommunication authorities. In than, three times the public tariff for an item of
+September 1992, a major reform of the CEPT was undertaken
+correspondence in the first weight step of the fastest
+and the CEPT adopted a new constitution which reserved
+category, and, as from 1 January 2006, if the price is membership to regulatory authorities. The operators created
+their own organisation, PostEurope. equal to, or more than, two and a half times this tariff’.
+(16) The CEPT system took account of total weight and number of
+items with payment based on a rate per item and a rate per
+kilogram. It recognised that the composition of mail in one (19) The conveyance of outgoing cross-border mail, however,
+direction may well differ from the composition in the other. is not included in the list of services which Member
+(17) See, for example, recital 10 of the 1999 Exemption Decision. See
+States may continue to reserve pursuant to Article 7 of
+also the judgment of the Court of Justice in Joined Cases C-147/
+the Postal Directive. Therefore that service is completely 97 and C-148/97, Deutsche Post AG v GZS Gesellschaft für
+Zahlungssysteme mbH (GZS) and Deutsche Post AG v Citicorp liberalised as of 1 January 2003. However, in order to
+Kartenservice GmbH, [2000] ECR 1-825, paragraph 54. safeguard the provision of the universal postal service,
+(18) Article 48(2) of the 1999 UPU Convention fixes a ceiling of 60 % the fourth subparagraph of Article 7(1) of the Postal
+of the charge for a 20 gram letter in the domestic service. Directive provides that:
+
+24.2.2004 EN Official Journal of the European Union L 56/79
+
+‘To the extent necessary to ensure the provision of (25) The first Supplementary Agreement was signed on
+universal service, for example when certain sectors of 22 September 1998 and related primarily to the link
+postal activity have already been liberalised or because between terminal dues and quality of service and Level 3
+of the specific characteristics particular to the postal access.
+services in a Member State, outgoing cross-border mail
+may continue to be reserved within the same weight and
+price limits’. (26) On 14 January 2000, the Parties signed the second
+Supplementary Agreement, the aim of which was, on the
+one hand, to implement the Commission’s conditions set
+(20) The concrete consequence of that new regime, which out in Article 2(1) of the 1999 Exemption Decision and,
+applies from 1 January 2003, is that the conveyance of on the other hand, to take into account the accession of
+outgoing cross-border mail is open to competition Swiss Post to the REIMS II Agreement.
+unless the exception provided for in the fourth subparagraph of Article 7(1) applies.
+
+(27) On 4 April 2000, the Parties signed the third Supplementary Agreement, the key features of which were to ensure
+4. THE REIMS II AGREEMENT end-to-end quality of service and to review the quality
+of service standards. As regards the former, the third
+Supplementary Agreement contemplated the inclusion
+4.1. The exemption of the original REIMS II Agreement of the measurement of the performance of sending
+PPOs with respect to outgoing mail in a future model
+refinement and the application of appropriate quality-
+(21) The original REIMS II Agreement (19) was notified to of-service targets and penalties as of 2002. As regards
+the Commission in 1997. On that occasion, after a the quality-of-service standards, the previous version of
+preliminary examination, t
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+oste Entreprise des Postes &
+Article 53(3) of the EEA Agreement, the provisions of Muntcentrum/Centre Monnaie Télécommunications
+Article 81(1) of the Treaty and Article 53(1) of the EEA B-1000 Brussels 8a, Avenue Monterey
+Agreement are declared inapplicable to the REIMS II (remuner- L-2020 Luxembourg
+ation of mandatory deliveries of cross-border mails) Agreement, as amended for the last time by the fifth Supplementary
+Agreement of 24 January 2003, from 1 January 2002 until Post Danmark AS Posten Norge AS
+31 December 2006. Headquarters Biskop Gunnerusgt 14
+Tietgensgade 37 NO-0001 Oslo, Norway
+DK-1566 Copenhagen V
+
+2. The exemption provided for in paragraph 1 shall be
+subject to compliance with the conditions set out in Articles 2 Finland Post Corporation CTT Correios de Portugal, SA
+and 3. (Suomen Posti Oyj) Rua de José, 20
+Postintaival 7 P-1166-001 Lisboa
+FI-00230 Helsinki
+
+Article 2
+La Poste Sociedad Estatal Correos y
+Siège social Telégrafos, SA
+Level 3 access between the REIMS II Parties 44 boulevard de Vaugirard Vía de Dublín 7
+F-75757 Paris Cedex 15 E-28070 Madrid
+
+The Parties to the Reims II Agreement shall take all the
+necessary steps in order to grant each other effective access to Deutsche Post AG Posten Sverige AB
+the generally available domestic rates in the country of delivery Zentrale S-105 00 Stockholm
+(Level 3 access). In order to facilitate such access, the Parties Charles-de-Gaulle-Str. 20
+shall relax domestic rules for other Parties where such rules D-53113 Bonn
+are not justified and could in practice prevent other Parties
+from having Level 3 access.
+Hellenic Post ELTA Royal Mail Group plc
+1 Apellou Street 148 Old Street
+GR-10188 Athens London EC1V 9HQ,Where it is not in their power to relax domestic rules, the
+United KingdomParties shall use their best efforts vis-à-vis the relevant national
+authorities to remove those rules.
+
+Iceland Post An Post
+Storhofdi 29 General Post Office
+Article 3 IS-110 Reykjavik, Iceland O’Connell Street
+Dublin 1, Ireland
+
+Non-discriminatory third-party access to REIMS II terminal dues and conditions Done at Brussels, 23 October 2003.
+
+The Parties shall grant third-party postal operators competing For the Commission
+with the Parties for the provision of outgoing cross-border
+mail services in any other REIMS II country access to terminal Mario MONTI
+dues and other special arrangements on the same conditions
+as those applied to other Parties, in accordance with Annex V. Member of the Commission
+
+24.2.2004 EN Official Journal of the European Union L 56/97
+
+ANNEX I
+
+Quality-of-service improvements
+
+(Business secrets)
+
+REIMS REIMS
+On-time % On-time % Progress
+penalty penalty
+performance performance 2002 vs
+threshold threshold
+2001 2002 2001
+2001 2002
+
+Österreichische Post AT 93 [...] (*) 93 [...] (*) [...] (*)
+
+The Belgian Post Group BE 93 [...] (*) 93 [...] (*) [...] (*)
+
+Swiss Post CH 93 [...] (*) 93 [...] (*) [...] (*)
+
+Post Denmark DK 93 [...] (*) 93 [...] (*) [...] (*)
+
+Finland Post Corporation FI 93 [...] (*) 93 [...] (*) [...] (*)
+
+An Post IE 93 [...] (*) 93 [...] (*) [...] (*)
+
+Iceland Post IS 93 [...] (*) 93 [...] (*) [...] (*)
+
+Postes et Télécommunications LU 93 [...] (*) 93 [...] (*) [...] (*)
+
+Posten Norge NO 93 [...] (*) 93 [...] (*) [...] (*)
+
+Posten SE 93 [...] (*) 93 [...] (*) [...] (*)
+
+Deutsche Post DE 93 [...] (*) 93 [...] (*) [...] (*)
+
+La Poste FR 90 [...] (*) 90 [...] (*) [...] (*)
+
+Royal Mail Group plc UK 90 [...] (*) 90 [...] (*) [...] (*)
+
+Poste Italiane IT 90 [...] (*) 90 [...] (*) [...] (*)
+
+CTT Correios de Portugal PT 91,5 [...] (*) 93 [...] (*) [...] (*)
+
+Correos y Telégrafos ES 85 [...] (*) 85 [...] (*) [...] (*)
+
+Hellenic Post ELTA EL 80 [...] (*) 85 [...] (*) [...] (*)
+
+(*) Business secrets.
+
+L 56/98 EN Official Journal of the European Union 24.2.2004
+
+ANNEX II
+
+Parties’ cost-to-revenue ratios
+
+Austria
+
+United Kingdom
+
+Spain
+
+Luxembourg
+
+Portugal
+
+Belgium
+
+Ireland
+
+Finland
+
+Norway
+
+Denmark
+
+France
+
+Greece
+
+Sweden
+
+Germany
+
+Italy
+
+Iceland
+
+24.2.2004 EN Official Journal of the European Union L 56/99
+
+ANNEX III
+
+Structure of the outgoing cross-border mail markets (1)
+
+Market
+volume USP’s share Main competitors
+(× 1 000) (2)
+
+Austria 8 500 [...] (*) 1. Deutsche Post AG; 2. TNT; 3. Globe Mail
+
+Belgium 10 357 [...] (*) 1. La Poste Fr.; 2. TNT (Mailfast); 3. DHL International; 4. Royal
+Mail; 5. Belgian Mailhouse (A. Baeke)
+
+Denmark 9 905 [...] (*) 1. DHL; 2. TNT; 3. IRS (International Remail System);
+4. Deutsche Post AG; 5. Sweden Post
+
+Finland 2 258 [...] (*) 1. DHL; 2. TNT; 3. UPS
+
+France 31 900 [...] (*)
+
+Germany 25 997 [...] (*) 1. TNT; 2. UPS; 3. FedEx; 4. Logitrans; 5. Post Office International Services; 6. Swiss Post
+
+Greece 3 102 [...] (*) None
+
+Iceland 3 310 [...] (*) DHL
+
+Ireland 6 110 [...] (*) 1. Royal Mail plc; 2. Deutsche Post World Net; 3. DHL; 4. TNT;
+5. Transnet Ltd
+
+Italy 11 092 [...] (*) 1. Swiss Post; 2. TNT; 3. DHL; 4. UPS; 5. Royal Mail
+
+Luxembourg 4 821 [...] (*) N/A
+
+Norway 2 523 [...] (*) 1. DHL; 2. TNT
+
+Portugal 3 979 [...] (*) 1. DHL; 2. TNT; 3. SEUR; 4. Chronopost
+
+Spain 11 940 [...] (*) 1. DHL; 2. TNT; 3. SEUR; 4. Royal Mail; 5. IFCC
+
+Sweden 6 361 [...] (*)
+
+Switzerland 17 032 [...] (*) N/A
+
+United Kingdom 45 271 [...] (*) 1. Deutsche Post; 2. La Poste Fr.; 3. Swiss Post; 4. Mercury
+International; 5. Pharos International Ltd
+
+(*) Business secrets.
+
+(1) The data contained in the table are contained in the business secrets Annex to the notification and relate to the year 2000.
+(2) From REIMS II countries.
+
+L 56/100 EN Official Journal of the European Union 24.2.2004
+
+ANNEX IV
+
+Structure of the incoming cross-border mail markets (1)
+
+Market
+volume USP’s share Main competitors
+(× 1 000) (2)
+
+Austria 109 235 [...] (*)
+
+Belgium 119 478 [...] (*) BD (Belgique Diffusion) Direct
+
+Denmark 80 658 [...] (*) 1. DHL; 2. TNT; 3. Forbruger Kontaky; 4. Dansk Total
+Distribution; 5. Dansk Distributionscenter
+
+Finland 34 536 [...] (*) 1. DHL; 2. TNT; 3. UPS
+
+France 272 000 [...] (*)
+
+Germany 482 492 [...] (*) 1. Royal Mail; 2. TNT; 3. La Poste Fr.; 4. Swiss Post; 5. Mercury
+Post
+
+Greece 22 085 [...] (*) None
+
+Iceland 1 870 [...] (*) DHL
+
+Ireland 124 700 [...] (*) 1. DHL; 2. TNT; 3. Erin Swiftpost Ltd 4. Transnet Ltd
+
+Italy 168 491 [...] (*) None
+
+Luxembourg 26 912 [...] (*) N/A
+
+Norway 53 847 [...] (*) None
+
+Portugal 33 382 [...] (*) 1. DHL; 2. TNT; 3. SEUR; 4. Chronopost
+
+Spain 134 196 [...] (*) 1. DHL; 2. SEUR; 3. UPS; 4. MRW; 5. TNT
+
+Sweden 75 661 [...] (*)
+
+Switzerland 192 418 [...] (*) N/A
+
+United Kingdom 198 997 [...] (*) 1. DHL; 2. TNT 3. FedEx; 4. UPS; 5. Deutsche Post AG
+
+(*) Business secrets.
+
+(1) The data contained in the table are contained in the business secrets Annex to the notification and relate to the year 2000.
+(2) From REIMS II countries.
+
+24.2.2004 EN Official Journal of the European Union L 56/101
+
+ANNEX V
+
+Non-discriminatory third-party access
+
+Each REIMS II Party shall provide to any third-party postal operator competing with REIMS II Parties for the
+provision of outgoing cross-border mail services in any other REIMS II country delivery of inbound cross-border
+mail in its country at terminal dues and on conditions which are non-discriminatory as compared to those that the
+REIMS II Party offers to the REIMS II Party in the sender’s country. This obligation is limited to mail from senders in
+REIMS II countries and to requests from third-party postal operators that:
+
+i) are entitled to provide outgoing cross-border mail services under the domestic rules applicable in the sender’s
+country and provided that outbound cross-border mail has been liberalised for the mail items in question in
+the country in which the mail was produced and those through which it may have transited;
+
+ii) are competitors of the REIMS II Parties for the provision of these services; and
+
+iii) enter into an agreement with the delivering REIMS II Party, pursuant to which they agree to:
+
+— comply with REIMS operational conditions and requirements, including participation in the quality-ofservice measurement systems (1),
+
+— pay the terminal dues offered to the REIMS II Party in the sender’s country plus an appropriate share of
+the cost of administering REIMS and the extra cost incurred by handling their mail as compared to mail
+from other REIMS Parties, if any,
+
+— pay the delivering REIMS II Party’s domestic rates for mail items tendered under this obligation that fall
+under the exception set out below,
+
+— upon request, post adequate security for such payments,
+
+— endeavour to provide specimens of larger quantities of business mail items,
+
+— respect the reserved area of the REIMS II Party and provide all their incoming reserved mail to be delivered
+by the REIMS II Party.
+
+This obligation does not apply to domestic mail. Furthermore, this obligation shall not apply to mail items that
+senders residing in the country of the delivering REIMS II Party post or cause to be posted in a foreign country
+with the object of benefiting from lower rates available through this obligation. Within the limits of the present
+and future case-law of the Court of Justice, the latter exception to the obligation shall apply both to mail items
+made up in the sender’s country of residence and then carried across the frontier and to mail items made up in
+a foreign country.
+
+The same conditions regarding third-party access apply to any other special arrangements on tariffs and rates
+to be applied between REIMS II Parties contained in the Agreement. This is in particular true as regards
+conditions of access to Level 3 rates and for delivery of cross-border direct mail in accordance with the REIMS
+II IDM Agreement. Such rates must be made available to third-party operators competing with REIMS II Parties
+for the provision of outgoing cross-border mail services in any other REIMS II country, on conditions which
+are non-discriminatory as compared to those that the delivering REIMS II Party offers to the REIMS II Party in
+the sender’s country.
+
+(1) Currently UNEX and Diagnostic.

@@ -1,0 +1,498 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of 3.12.2009
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(Case COMP/39.316 – Gaz de France)
+
+(Only the French text is authentic)
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty1, and in particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 16 May 2008 to initiate proceedings in this
+case,
+
+Having expressed concerns in its preliminary assessment of 22 June 2009,
+
+Having given interested third parties the opportunity to submit their observations
+pursuant to Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to
+meet those concerns2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+Whereas:
+
+1. SUBJECT
+
+(1) This Decision is addressed to GDF Suez SA, its subsidiaries, in particular
+GRTgaz SA ("GRTgaz") and Elengy SA ("Elengy"), and the companies
+controlled by them (together referred to as “GDF Suez”), and concerns the
+behaviour of GDF Suez on the French gas markets, in particular the markets for
+the import and supply of gas.
+
+(2) In its preliminary assessment of 22 June 2009 the Commission provisionally
+concluded that GDF Suez held a dominant position on the gas import and supply
+markets in the balancing zones of the GRTgaz transport network. The
+Commission's preliminary assessment took the view that GDF Suez might have
+abused its dominant position within the meaning of Article 102 of the Treaty on
+the Functioning of the European Union (TFEU)3 by foreclosing for a long period
+access to gas import capacities in the balancing zones of the GRTgaz transport
+network, thereby restricting competition on the downstream gas supply markets in
+those zones. The Commission argued that this foreclosure was a result of the
+
+1 OJ L 1, 4.1.2003, p. 1. From 1 December 2009, Articles 81 and 82 of the EC Treaty became Articles
+101 and 102 respectively of the TFEU. The substance of the two articles was not changed. For the
+purposes of this Decision, the references to Articles 101 and 102 of the TFEU are understood to refer
+to Articles 81 and 82 of the EC Treaty, where appropriate.
+
+2 OJ C 156, 9.7.2009, p. 25.
+
+3 In the following text a reference to Article 102 TFEU is to be understood as a reference to both Article
+102 TFEU and Article 54 of the EEA Agreement.
+
+2
+
+long-term reservation of most gas import capacity, the determination of the
+reception capacity and the procedures for allocating long-term capacity at the new
+Fos Cavaou LNG terminal, and the strategic limitation of investment in additional
+import capacity at the Montoir de Bretagne LNG terminal.
+
+2. ADDRESSEE
+
+(3) GDF Suez, which was created by the merger in 2008 between Gaz de France SA
+("GDF") and Suez SA, is one of the world’s main energy suppliers, present in the
+entire economic chain of the electricity and natural gas sector. In 2008 the GDF
+Suez group recorded a turnover of EUR 83 billion. In France GDF is the
+incumbent, vertically integrated operator in the natural gas sector. In 2007 it sold
+[...]* TWh (around [...] Gm3) of natural gas to French customers. GRTgaz, a
+subsidiary of GDF, owns and operates the gas transport network in most of
+France4. Another subsidiary of GDF, Elengy, owns and operates the two French
+LNG terminals currently in service. Elengy also has a stake of around 70% in the
+capital of the company that owns a new LNG terminal which is due to come on
+stream in 2009 at Fos Cavaou in southern France. Elengy will be in charge of the
+operational management of this new terminal. Storengy, another GDF subsidiary,
+owns most of the gas storage sites in France. Lastly, GDF controls an energy
+trading company, Gaselys, and has minority shareholdings in gas pipelines that
+are upstream from France.5
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(4) The investigation was based on the results of an inspection at GDF's premises in
+May 20066 and further fact-finding carried out inter alia following various
+requests for information to GDF Suez and other market participants between 2006
+and 2009.
+
+(5) On 16 May 2008 the Commission initiated proceedings against GDF, pursuant to
+Article 2 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating
+
+* Some parts of this text have been deleted to avoid divulging confidential information: these parts have
+been indicated by square brackets and marked with an asterisk.
+
+4 Following the merging of the North, East and West balancing zones into a single balancing zone with
+effect from January 2009, the GRTgaz transport network is divided into two balancing zones for H gas
+known as the North and South zones, and one balancing zone for B gas, known as the North-B zone.
+The gas transport network in south-western France is owned and operated by TIGF SA ("TIGF"), a
+subsidiary of Total SA. TIGF’s network constitutes a separate balancing zone.
+
+5 MEGAL, which crosses Germany, and SEGEO, which crosses Belgium (GDF Suez recently sold its
+stake in the latter pursuant to paragraph 30 of GDF Suez's commitments to the Commission in Case
+COMP/M.4180 GDF/Suez).
+
+6 Inspection decision of 5 May 2006 in Case COMP/B-1/39.316 ordering Gaz de France SA to undergo
+an inspection under Article 20(4) of Council Regulation No 1/2003.
+
+3
+
+to the conduct of proceedings by the Commission pursuant to Articles 81 and 82
+of the EC Treaty7.
+
+(6) On 22 June 2009 the Commission adopted a preliminary assessment pursuant to
+Article 9(1) of Regulation (EC) No 1/2003 in which it set out its competition
+concerns in relation to GDF Suez’s behaviour on the French gas markets. That
+assessment was notified to GDF Suez SA, GRTgaz and Elengy by letter of
+22 June 2009.
+
+(7) On 24 June 2009 GDF Suez proposed commitments within the meaning of Article
+9(1) of Regulation (EC) No 1/2003 in response to the Commission’s preliminary
+assessment. On 14 August 2009 GDF Suez submitted comments disagreeing with
+the Commission’s main findings in the preliminary assessment.
+
+(8) On 9 July 2009 the Commission published a notice in the Official Journal of the
+European Union pursuant to Article 27(4) of Regulation (EC) No 1/2003,
+summarising the case and the proposed commitments and inviting interested third
+parties to give their observations on the commitments within two months
+following publication of the notice.
+
+(9) On 21 September 2009 the Commission informed GDF Suez of the observations
+received from interested third parties following the publication of the notice. On
+21 October 2009 GDF Suez submitted amended commitments.
+
+(10) On 9 November 2009 the Advisory Committee on Restrictive Practices and
+Dominant Positions was consulted. On 17 November 2009 the Hearing Officer
+issued her final report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+4.1.1. Relevant product markets
+
+(11) In line with its previous decision-making practice, the Commission distinguished
+in its preliminary assessment between the markets for the supply of gas and the
+markets relating to gas infrastructure8.
+
+(12) In the gas supply markets the preliminary assessment makes a distinction between
+the wholesale supply of gas to shippers, such as local distribution companies, and
+retail supply to final customers9.
+
+7 OJ L 123, 27.4.2004, p. 18.
+
+8 See for example the Commission decisions in Cases COMP/M.4180 GDF/Suez, paragraphs 341-342,
+and COMP/M.3410 Total/GDF, paragraphs 15-19.
+
+9 See for example the Commission decisions in Cases COMP/M.4180 GDF/Suez, paragraphs 375-379,
+and COMP/M.3410 Total/GDF, paragraph 21.
+
+4
+
+(13) In its preliminary assessment the Commission considered that it was possible to
+subdivide the product market further, into supply via the transmission network
+and supply via the distribution network, on the one hand, and supply by type of
+customer - household, professional or industrial - on the other. In France only
+major industrial final consumers are directly connected to the transmission
+network. The needs and consumption habits of this type of customer are
+somewhat different to those of the average consumer connected to the distribution
+network10. In the case of supply via distribution networks, the Commission found
+that a distinction could be drawn between non-household customers and
+household customers – two categories which have somewhat different consumer
+habits and needs11.
+
+(14) As regards the markets relating to gas infrastructure, the Commission in its
+preliminary assessment defined a market in gas import capacity, including import
+capacity via gas pipelines and via LNG terminals. Within this market it
+distinguished between firm capacity and interruptible (including conditional)
+capacity.
+
+(15) Finally, in line with its previous decision-making practice, the Commission made
+a distinction in its preliminary assessment between H gas, with a high calorific
+value, and B gas, with a low calorific value, both in the gas import capacity
+market and in the gas supply markets12.
+
+4.1.2. Relevant geographic markets
+
+(16) In line with its previous decision-making practice13, the Commission in its
+preliminary assessment found that each balancing zone of the transport network
+in France constituted a geographic market for the supply of gas because of the
+different conditions for transporting gas to and between those zones and the
+differences between the zones in terms of suppliers’ market shares.
+
+(17) As regards the market for gas import capacity, the preliminary assessment
+concluded that the capacities of all the gas import infrastructures in each
+balancing zone of the transport network in France, including interconnection
+capacity between the balancing zones of the GRTgaz network, could be
+considered as belonging to a single relevant geographic market14.
+
+10 See for example the Commission decision in Case COMP/M.4180 GDF/Suez, paragraphs 355-361.
+
+11 See for example the Commission decision in Case COMP/M.4180 GDF/Suez, paragraphs 371-374.
+
+12 See for example the Commission decision in Case COMP/M.4180 GDF/Suez, paragraphs 64-69 and
+344-345.
+
+13 See for example the Commission decisions in Cases COMP/M.4180 GDF/Suez, paragraphs 380-385
+and COMP/M.3410 Total/GDF, paragraphs 31-34.
+
+14 See for example the Commission decision in Case COMP/M.3410 Total/GDF, paragraphs 23-26.
+
+5
+
+4.1.3. GDF Suez’s dominant position on the relevant markets
+
+(18) In its preliminary assessment the Commission provisionally concluded that GDF
+Suez held a dominant position on the gas import and supply markets in each of
+the balancing zones of the GRTgaz transport network.
+
+(19) As regards gas import capacity in France, the Commission noted that all the main
+gas-pipeline border entry points15 and the interconnection between the North and
+South zone of the GRTgaz network were owned and operated by GRTgaz, a
+subsidiary of GDF. Furthermore, GDF was the main owner of capacity across all
+these entry and interconnection points. Finally, Elengy, a subsidiary of GDF,
+owned and operated the LNG terminals currently in service or about to come into
+service in France, and GDF Suez was the main holder of capacity at these
+terminals.
+
+(20) The Commission found in its preliminary assessment that GDF Suez held a
+dominant position in the market for gas import capacity in each of the balancing
+zones of the GRTgaz network.
+
+(21) As regards the supply of gas, the Commission demonstrated in its preliminary
+assessment that there were numerous barriers to entry to the French market
+because of difficulties relating to international purchases of gas, bottlenecks in
+import capacity and limited access to storage. GDF’s strong position in the gas
+supply markets, achieved by vertical integration throughout the economic chain,
+was guaranteed in the foreseeable future because of its reservation of long-term
+capacity (see section 4.3.1). In view of these facts, the preliminary assessment
+concluded that no current or potential competitor on the French markets was able
+to challenge GDF’s market power.
+
+(22) In its preliminary assessment, therefore, the Commission concluded that GDF
+enjoyed a dominant position in the wholesale supply market and the retail supply
+markets within each balancing zone of the GRTgaz network16.
+
+4.2. Substantial part of the internal market
+
+(23) In its preliminary assessment the Commission took the view that each of the
+balancing zones of the GRTgaz transport network represented a substantial part of
+the internal market within the meaning of Article 102 TFEU. The North, North-B
+and South balancing zones of the GRTgaz network were comparable to some
+Member States in terms of surface area and population size17. Moreover, in 2007
+
+15 Dunkirk, Taisnières-H, Taisnières-B and Obergailbach.
+
+16 In the South-West balancing zone, where the transport network is owned and operated by TIGF, the
+Commission’s preliminary assessment concluded that GDF enjoyed a dominant position as regards
+retail supplies to household customers and professional customers connected to the distribution
+network.
+
+17 See Case C-475/99 Ambulanz Glöckner [2001] ECR I-8089, paragraph 38, in which the Court of
+Justice held that the German Land of Rheinland-Pfalz might constitute a substantial part of the internal
+market as it “covers a territory of almost 20 000 km2 and has a high number of inhabitants, around
+four million, which is higher than the population of some Member States”.
+
+6
+
+consumption of gas in the North zone was around 26 Gm3, in the North-B zone
+around 4.5 Gm3 and in the South zone around 13 Gm3; these annual consumption
+figures were higher than that of some Member States18.
+
+4.3. Practices giving rise to competition concerns
+
+(24) In the preliminary assessment the Commission stated that GDF Suez might have
+abused its dominant position on the relevant markets contrary to Article 102
+TFEU by foreclosing for a long period access to gas import capacity in each of
+the balancing zones of the GRTgaz network, thereby restricting competition on
+the markets for the supply of gas in each of those zones.
+
+(25) The Commission argued that the foreclosure was a result of the long-term
+reservation of most of the import capacity in the balancing zones of the GRTgaz
+network (see section 4.3.1), the determination of reception capacity and the
+procedures for allocating long-term capacity at the new Fos Cavaou LNG
+terminal (see section 4.3.2), and the strategic limitation of investment in
+additional import capacity at the Montoir de Bretagne LNG terminal (see section
+4.3.3).
+
+4.3.1. Practices concerning the long-term reservation of import capacity in France
+
+(26) In its preliminary assessment the Commission found that GDF Suez’s gas
+infrastructure and import capacity in Fr
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+y.33 Moreover,
+such a substitution would balance the capacities sold at pipeline entry points with
+those sold at LNG terminals, to the benefit of certain shippers, particularly the
+smaller ones, who might have difficulties setting up an LNG supply chain.
+
+(74) However, the Commission considers that the commitment to release 32 GWh/day
+at the Dunkirk entry point must be made contingent on [details concerning the
+condition governing fulfilment of the commitment]*.34
+
+(75) In the Commission's opinion, such an agreement between GDF Suez and [details
+concerning the condition governing fulfilment of the commitment]* must be
+concluded within the two months following the notification of this Decision, so as
+not to delay the implementation of the capacity release commitments. In the
+absence of such an agreement, GDF Suez will release a second block of 1
+Gm3/year at the Montoir de Bretagne LNG terminal. While this solution does not
+have the same advantages in terms of diversification of entry points, the increased
+competitive pressure on GDF Suez and the effects of opening up the French gas
+supply markets would be globally equivalent.
+
+(76) [Information concerning the content of the confidential annex containing the
+commitments subscribed to by GDF Suez]*
+
+(77) Conversely, other comments made by third parties could not be accepted.
+
+(78) A gas release programme does not seem to be necessary given the total volume of
+capacity which GDF Suez undertakes to release in the near future. As a result of
+these commitments, third-party shippers will be able to import significant
+volumes of gas into France from 1 October 2010. Moreover, it would be
+manifestly disproportionate to ask GDF Suez to sell large volumes of gas in
+France within a gas release scheme in addition to selling significant import
+capacities in the near future.
+
+(79) Regarding the release of capacities at LNG terminals, it should be pointed out that
+a reception capacity of 1 Gm3/year of gas in an LNG terminal corresponds to the
+minimum LNG capacity that shippers generally contract on a long-term basis
+from producers. This is because of features specific to the functioning of an LNG
+supply chain, namely monthly delivery of a volume of LNG corresponding to the
+average capacity of the LNG tankers currently in operation (approximately
+
+33 With the sole exception of the Fos Tonkin LNG terminal which, due to LNG ship size limitations,
+cannot be used by the majority of LNG ships currently in operation.
+
+34 [Details concerning the condition governing fulfilment of the commitment]*
+
+15
+
+140 000 m3). As a result, fragmenting the capacity which GDF Suez intends to
+sell at the Montoir de Bretagne and Fos Cavaou LNG terminals into sublots of
+less than 1 Gm3/year would make the capacity difficult to use for shippers
+wishing to unload LNG into these terminals on a regular basis.
+
+(80) For the same reason, the final commitments provide for the allocation of a
+capacity of 0.175 Gm3/year in the Fos Cavaou terminal primarily to shippers who
+had subscribed to capacities at this terminal in accordance with the CRE decision
+of 16 May 2007 amounting to 0.825 Gm3/year.
+
+7.3. Commitments relating to restricting the share of H gas import capacities
+
+(81) GDF Suez's commitment to limit its reservations for ten years from 1 October
+2014 to less than 50% of the total firm long-term entry capacity in H gas in the
+GRTgaz North and South balancing zones and throughout French territory will
+enable third-party shippers to obtain sufficient long-term H gas import capacities
+in France, which will put them in a position in the medium term to challenge GDF
+Suez's dominant position on H gas supply markets in France. The duration of
+GDF Suez's commitments concerning the limitation of its reservations of H gas
+import capacities in France is both proportionate and necessary considering the
+average length of GDF Suez's capacity reservations.
+
+(82) Limiting to less than 50% the capacity reserved by GDF Suez at each H gas entry
+point in France and at the interconnection between the North and South balancing
+zones of the GRTgaz network would be disproportionate compared with the
+competition problems identified by the Commission in the preliminary
+assessment. These proceedings concern the alleged foreclosure by GDF Suez of
+gas import capacities into each one of the balancing zones of the GRTgaz
+network, with each zone being considered globally, and not at each individual
+entry point to these zones.
+
+(83) In addition, with regard to the interconnection between the North and South zones
+of the GRTgaz network, it must be emphasised that the capacity at this point in
+the north-to-south direction is not in fact foreclosed by GDF Suez, since the firm
+capacities reserved by GDF Suez are less than half of the firm marketable
+capacity. Moreover the interconnection capacities between the North and South
+zones in the north-to-south direction have been allocated to all interested shippers
+for a maximum of four years, in proportion to their requests, by means of a
+transparent, non-discriminatory procedure, organised following a CRE decision35.
+
+(84) Lastly, it is not necessary to include binding interim thresholds in order to reduce
+the share of capacity reservations of GDF Suez between the date of entry into
+force of the commitments and 1 October 2014, given GDF Suez's commitment to
+release substantial capacities for the import of gas into France in the near future.
+In addition, a commitment of this nature would very significantly reduce GDF
+Suez's flexibility to fulfil the commitment of limiting to less than 50% the share
+
+35 Decision of the CRE of 25 October 2007 concerning the assignment of marketable capacities at the
+link between the North and South zones of the GRTgaz network and at the interface between the GRT
+gaz and TIGF networks from 1 January 2009.
+
+16
+
+of capacity reserved by it by 1 October 2014. This would be an excessive
+constraint given the possibility of a delay in the entry into service of new
+capacities for gas importation into France during the period between the date on
+which the commitments take effect and 1 October 2014.
+
+7.4. Commitments relating to B gas
+
+(85) GDF Suez's commitment to continue, under more or less identical conditions to
+those in force, with the swap service involving H gas and B gas supplied to
+GRTgaz so that the latter can ensure the continuation of the regulated service of
+converting H gas into B gas, is a proportionate response to the concerns expressed
+by the Commission regarding the foreclosure of B gas import capacities in France
+and the inability of other shippers to challenge GDF Suez's dominant position on
+the French B gas supply market. This commitment will allow other shippers to
+have access to B gas supplies on French territory under financial conditions that
+enable them to compete effectively with GDF Suez.
+
+7.5. Commitments relating to monitoring the compliance with the commitments
+
+(86) GDF Suez's commitment concerning the appointment of an independent trustee is
+an appropriate and necessary measure to guarantee that GDF Suez respects its
+commitments. This measure is also in line with the Commission's usual practice
+as regards remedies in proceedings in respect of mergers36 and the application of
+Articles 101 and 102 TFEU37.
+
+7.6. Conclusion
+
+(87) The commitments proposed by GDF Suez will put an end to the long-term
+foreclosure of access to gas import capacities by GDF Suez and will therefore
+have an important structural effect on the ability of other shippers to gain access
+to French H gas supply markets.
+
+(88) The public consultation pursuant to Article 27(4) of Regulation (EC) No 1/2003
+has confirmed that GDF Suez's commitments are proportionate and necessary to
+address the competition concerns identified by the Commission on the French gas
+markets.
+
+8. CONCLUSION
+
+(89) By adopting a d decision pursuant to Article 9(1) of Regulation (EC) No 1/2003,
+the Commission makes the final commitments offered by the undertakings to
+address the competition concerns expressed in its preliminary assessment binding
+upon them. This Decision does not take up a position as to whether or not there
+
+36 See the Commission notice on remedies acceptable under Council Regulation (EC) No 139/2004 and
+under Commission Regulation (EC) No 802/2004, OJ C 267, 22.10.2008, p.1.
+
+37 See the Commission decisions of 12 April 2006 in Case COMP/38.348 Repsol CPP SA, 26 November
+2008 in Cases COMP/39.388 German electricity wholesale market and 39.389 German electricity
+balancing market; and 18 March 2009 in Case 39.402 RWE gas foreclosure.
+
+17
+
+has been or still is an infringement. The Commission’s assessment of whether the
+final commitments offered are sufficient to meet its concerns and at the same time
+proportionate is based on the preliminary assessment it made following its
+investigation and analysis, and the observations received from third parties
+following the publication of a notice pursuant to Article 27(4) of Regulation (EC)
+No 1/2003.
+
+(90) In the light of the final commitments offered by GDF Suez, the Commission
+considers that there are no longer grounds for action on its part and, without
+prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings in this
+case should therefore be brought to an end,
+
+18
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The attached commitments are made binding on GDF Suez SA, its subsidiaries, in
+particular GRTgaz SA and Elengy SA, and all undertakings controlled by them.
+
+Article 2
+
+There are no longer grounds for action by the Commission, and the proceedings in this
+case are terminated.
+
+Article 3
+
+This Decision is addressed to GDF Suez SA, 22 rue du Docteur Lancereaux, 75392
+PARIS cedex 08 and to all its subsidiaries, in particular
+
+- GRTgaz SA, Courcellor 1, 2 Rue Curnonsky, 75017 Paris, and
+
+- Elengy SA, Courcellor 1, 2 Rue Curnonsky, 75017 Paris.
+
+Done at Brussels, 3 December 2009 For the Commission
+
+Neelie KROES
+Member of the Commission
+
+19

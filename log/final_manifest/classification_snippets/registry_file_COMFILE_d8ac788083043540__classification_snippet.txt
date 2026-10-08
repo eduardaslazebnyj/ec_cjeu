@@ -1,0 +1,472 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39847 – E-BOOKS
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 25/07/2013
+
+This text is made available for information purposes only. A summary of this decision will be published in all EU languages
+in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those parts are replaced by a
+non-confidential summary in square brackets or are shown as [...].
+
+EUROPEAN COMMISSION
+
+Brussels, 25.7.2013
+C(2013) 4750
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 25.7.2013
+
+addressed to:
+Penguin Random House Limited (formerly The Penguin Publishing Company Limited)
+and Penguin Group (USA), LLC (formerly Penguin Group (USA), Inc.)
+- relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+in Case COMP/39.847/E-Books
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 5
+2. The Parties.................................................................................................................... 5
+3. Procedural Steps Pursuant to Regulation (EC) No 1/2003 .......................................... 7
+4. Preliminary Assessment ............................................................................................... 8
+4.1. Background .................................................................................................................. 8
+4.1.1. The e-book industry ..................................................................................................... 8
+4.1.2. Amazon's USD 9.99 pricing policy.............................................................................. 8
+4.1.3. The Five Publishers' search for a collective and global response ................................ 9
+4.2. Practices raising concerns ............................................................................................ 9
+4.2.1. Common global plan to convert the sale of e-books to an agency model with the
+same key pricing terms ................................................................................................ 9
+4.2.2. Implementation of the common global plan in the United States .............................. 11
+4.2.2.1. The agency agreements between each of the Five Publishers and Apple.................. 11
+4.2.2.2. The conversion of Amazon and other retailers to the agency model ......................... 11
+4.2.3. Implementation of the common global plan in the EEA............................................ 12
+4.2.3.1. The agency agreements between each of the Five Publishers and Apple.................. 12
+4.2.3.2. Common features of each of the agency agreements for UK, French and German
+titles ............................................................................................................................ 13
+4.2.3.3. The conversion of Amazon and other retailers to the agency model for UK titles and
+the adoption of that model for French and German titles .......................................... 13
+4.2.4. The likely consequences for the retail price of e-books in the EEA .......................... 15
+4.3. Preliminary legal assessment ..................................................................................... 15
+4.3.1. Concerted practice...................................................................................................... 15
+4.3.1.1. Principles regarding the existence of a concerted practice ........................................ 15
+4.3.1.2. Application in this case .............................................................................................. 17
+4.3.1.3. Conclusion ................................................................................................................. 18
+4.3.2. Restriction of competition.......................................................................................... 19
+4.3.2.1. Principles.................................................................................................................... 19
+4.3.2.2. Application in this case .............................................................................................. 19
+4.3.2.3. Conclusion ................................................................................................................. 20
+
+2EN EN
+
+4.3.3. Effect on trade between Member States..................................................................... 20
+4.3.3.1. Principles.................................................................................................................... 20
+4.3.3.2. Application in this case .............................................................................................. 20
+4.3.3.3. Conclusion ................................................................................................................. 20
+4.3.4. Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement ..................... 21
+5. Commitments ............................................................................................................. 21
+5.1. Termination of agency agreements ............................................................................ 21
+5.2. Price-setting discretion for retailers during a period of two years ("cooling-off
+period")....................................................................................................................... 21
+5.3. Ban on price MFN clauses for a period of five years ................................................ 22
+6. Comments Received in Response to the Commission's Notice Pursuant to Article
+27(4) of Regulation (EC) No 1/2003 ......................................................................... 22
+7. Assessment of the Commitments in Light of the Observation received in response to
+the Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003 ... 22
+7.1. Purpose of the Commitments ..................................................................................... 22
+7.2. Duration of the Commitments.................................................................................... 24
+8. Proportionality of the Commitments.......................................................................... 24
+8.1. Principles.................................................................................................................... 24
+8.2. Application in this case .............................................................................................. 24
+9. Cultural diversity........................................................................................................ 25
+9.1. Principles.................................................................................................................... 25
+9.2. Application in this case .............................................................................................. 25
+10. Conclusion ................................................................................................................. 25
+
+ANNEX .................................................................................................................................... 27
+
+3EN EN
+
+COMMISSION DECISION
+
+of 25.7.2013
+
+addressed to:
+Penguin Random House Limited (formerly The Penguin Publishing Company Limited)
+and Penguin Group (USA), LLC (formerly Penguin Group (USA), Inc.)
+- relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+in Case COMP/39.847/E-Books
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 9(1) thereof,
+
+Having regard to the Commission Decision of 1 December 2011 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Preliminary Assessment of 1 March 2013,
+
+Having regard to the commitments offered on 16 April 2013 to meet those concerns,
+
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The Treaty also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". Where the meaning remains unchanged, the terminology of the Treaty will be used throughout
+this Decision.
+2 OJ C 112, 19.4.2013, p. 9.
+
+4EN EN
+
+Whereas:
+
+1. SUBJECT MATTER
+
+(1) This Decision is addressed to Penguin Random House Limited (formerly The
+Penguin Publishing Company Limited) and Penguin Group (USA), LLC (formerly
+Penguin Group (USA), Inc.) ('Penguin') and concerns conduct by Penguin in relation
+to the sale of e-books to consumers.
+
+(2) In its preliminary assessment of 1 March 2013 ('Preliminary Assessment'), the
+Commission expressed concerns regarding Penguin’s participation in a concerted
+practice that may have existed between and among Penguin, Hachette Livre SA
+('Hachette'), HarperCollins Publishers Limited and HarperCollins Publishers, L.L.C.
+('Harper Collins'), Georg von Holtzbrinck GmbH & Co. KG and Verlagsgruppe
+Georg von Holtzbrinck GmbH ('Holtzbrinck/Macmillan'), Simon & Schuster, Inc.,
+Simon & Schuster (UK) Ltd and Simon & Schuster Digital Sales, Inc. ('Simon &
+Schuster') and Apple Inc. ('Apple'). The possible concerted practice may have related
+to a common global strategy for the sale of e-books with the aim of raising retail
+prices (or avoiding "low" retail prices in the first place). Penguin’s participation in
+the concerted practice raised concerns as to the compatibility of Penguin's conduct
+with Article 101 of the Treaty and Article 53 of the Agreement on the European
+Economic Area ('EEA Agreement').
+
+(3) Penguin, Hachette, Harper Collins, Holtzbrinck/Macmillan and Simon & Schuster
+are hereinafter collectively referred to as the 'Five Publishers'.
+
+(4) On 12 December 2012, the Commission adopted a decision pursuant to Article 9 of
+Regulation 1/2003 addressed to Hachette, Harper Collins, Holtzbrinck/Macmillan
+and Simon & Schuster (the 'Four Publishers') and Apple. The decision made the
+commitments offered by the Four Publishers and Apple binding and closed
+proceedings in their respect. Penguin was not an addressee of that decision. That
+decision is hereinafter referred to as the 'Decision of 12 December 2012'.
+
+(5) The Commission’s concerns as identified in the Preliminary Assessment do not relate
+to the legitimate use of the agency model for the sale of e-books. Penguin remains
+free to enter into agency agreements in line with the commitments made binding on
+it by this Decision, in so far as those agreements and their provisions do not infringe
+Union competition legislation.
+
+2. THE PARTIES
+
+(6) At the time of the Preliminary Assessment, Penguin was a division of Pearson plc, an
+international media company with market-leading businesses in education, business
+information, and consumer publishing. Pearson plc had operations in, among others,
+the United States (Penguin Group (USA), Inc.) and the United Kingdom (The
+Penguin Publishing Company Limited, The Penguin Group (a division of Pearson plc)
+and Dorling Kindersley Holdings Limited).
+
+5EN EN
+
+(7) On 5 April 2013, pursuant to Article 6(1)(b) of Regulation (EC) No 139/2004 on the
+control of concentrations between undertakings3, the Commission declared as
+compatible with the common market the transaction contemplating the creation of a
+joint venture known as Penguin Random House, combining parts of the publishing
+businesses of Bertelsmann SE & Co., KGaA and Pearson plc ('Transaction').4
+
+(8) On 1 July 2013, the Transaction was completed. As a result, Penguin Group (USA),
+Inc. has changed its name to Penguin Group (USA), LLC5 and The Penguin
+Publishing Company Limited has changed its name to Penguin Random House
+Limited.6 The Penguin Group (a division of Pearson plc) has ceased to exist7 and its
+assets have been or shortly will be transferred to Penguin Random House Limited or
+Penguin Group (USA), LLC. The publishing assets of Dorling Kindersley Holdings
+Limited have been transferred to Penguin Random House Limited or its subsidiaries
+(over which Penguin Random House Limited exercises decisive influence).8
+
+(9) Hachette is a publishing group owned by Lagardère SCA, a company listed on the
+Paris stock exchange. The Hachette group is mainly active in France, the United
+Kingdom, Spain and the United States. The Hachette group publishes titles mainly in
+French, English and Spanish.
+
+(10) Harper Collins is a publishing group owned by News Corporation, an international
+media corporation with its headquarters in the United States. Harper Collins is
+mainly active in the United Kingdom and in the United States and publishes titles
+mainly in English.
+
+3 OJ L 24, 29.1.2004, p.1.
+4 Case No COMP/M.6789 – Bertelsmann/Pearson/Penguin Random House.
+5 In a letter dated 15 July 2013, Penguin Group (USA), LLC confirmed that Penguin Group (USA), LLC
+is the legal successor of Penguin Group (USA), Inc. Penguin Group (USA), LLC also confirmed that
+Penguin Group (USA), LLC can be an addressee of this Decision instead of Penguin Group (USA), Inc.
+without any further procedural steps being necessary.
+6 In a letter dated 15 July 2013, Penguin Random House Limited confirmed that the name Penguin
+Random House Limited refers to the same legal entity formerly called The Penguin Publishing
+Company Limited. Penguin Random House Limited also confirmed that Penguin Random House
+Limited can be an addressee of this Decision instead of The Penguin Publishing Company Limited
+without any further procedural steps being necessary.
+7 In letters dated 15 July 2013, Pearson plc, Penguin Group (USA), LLC and Penguin Random House
+Limited confirmed that The Penguin Group (a division of Pears
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ations which are not
+linked to the competition concerns expressed in the Preliminary Assessment, namely
+the use of differing file formats and digital rights management ('DRM') which may
+render certain e-book files readable only on certain types of e-book readers, and
+Amazon's strong market position in the EEA.
+
+7. ASSESSMENT OF THE COMMITMENTS IN LIGHT OF THE OBSERVATION RECEIVED IN
+RESPONSE TO THE COMMISSION NOTICE PURSUANT TO ARTICLE 27(4) OF
+REGULATION (EC) NO 1/2003
+
+7.1. Purpose of the Commitments
+
+(107) In the Preliminary Assessment, the Commission took the preliminary view that the
+concerted practice that may have existed among and between the Five Publishers and
+Apple had the object of preventing, restricting or distorting competition in the EEA.
+
+(108) In the Decision of 12 December 2012, the Commission considered that the
+conditions of competition that existed in the EEA prior to the possible concerted
+practice should be substantially re-established ('competitive reset'). Each of the Four
+Publishers and Apple offered commitments that would bring about that competitive
+reset by causing the termination of relevant agency agreements and agreeing to
+certain restraints when renegotiating their commercial arrangements for e-books.
+
+22EN EN
+
+(109) As stated in the Decision of 12 December 2012, the Commission considered that
+mere termination of the relevant agency agreements would not be sufficient to
+remove the possibility that the Four Publishers and Apple could replicate the pricing
+terms resulting from their possible concerted practice or use them as reference points
+in subsequent renegotiations. That is why the commitments offered by each of the
+Four Publishers and Apple included additional restraints on their conduct when
+renegotiating e-books arrangements. Those restraints included, as regards the Four
+Publishers, both a "cooling-off" period and a price MFN ban, and, as regards Apple,
+a retail price MFN ban.
+
+(110) The Commission considered that the commitments offered by each of the Four
+Publishers would substantially reduce the possibility that the Four Publishers and
+Apple would be able to recreate the effects of the price MFN clause that, in the
+Commission's preliminary view, had acted as a "commitment device" and enabled
+the joint conversion to the agency model with the same key terms. The Commission
+also considered that the commitments offered by each of the Four Publishers would
+provide a level of pricing discretion for retailers and/or agents distributing e-book
+titles, which would be reasonably comparable to the discretion they enjoyed before
+the possible concerted practice.
+
+(111) The Commission further considered that the commitments offered by Apple would
+lead to the termination of its agency agreements with Penguin and the removal of
+retail price MFN clauses contained in agreements between Apple and any e-book
+publisher (in addition to such clauses being removed from the agreements between
+each of the Four Publishers and retailers other than Apple).
+
+(112) The Commission, in addition, considered that the commitments offered by each of
+the Four Publishers and Apple, taken together, would create, over a sufficient period
+of time, conditions for a competitive reset. The commitments would result in
+sufficient uncertainty regarding the future intentions of publishers and retailers
+regarding the choice of business models (that is to say, wholesale, agency or a novel
+model) and the pricing terms used therein. They would also decrease incentives for
+each of the Four Publishers and Apple to renegotiate agreements for e-books with the
+same key terms.
+
+(113) Penguin's Commitments will add to the competitive reset brought about by the
+Decision of 12 December 2012.
+
+(114) Firstly, Penguin's Commitments will result in termination of relevant agency
+agreements between Penguin and retailers (in addition to the agency agreements
+between Penguin and Apple which had to be terminated under the commitments
+made binding on Apple by the Decision of 12 December 2012).
+
+(115) Secondly, under Penguin’s Commitments, the two year "cooling-off" period will now
+apply to all Penguin e-book titles offered by Apple and other retailers.
+
+(116) Thirdly, under Penguin's Commitments, the price MFN ban will apply to any
+renegotiated agreement between Penguin and retailers (in addition to the application
+of the retail price MFN ban to any renegotiated agreement between Penguin and
+Apple, as foreseen by the commitments made binding on Apple by the Decision of
+12 December 2012).
+
+23EN EN
+
+(117) The Commission considers that taken together, the Commitments offered by
+Penguin, in light of the commitments of the Four Publishers and Apple made binding
+by the Decision of 12 December 2012, will further contribute to creating, over a
+sufficient period of time, conditions for a competitive reset.
+
+(118) The Commission therefore considers that the Commitments offered by Penguin are
+adequate to meet the concerns expressed by the Commission in its Preliminary
+Assessment.
+
+7.2. Duration of the Commitments
+
+(119) The Commitments will be binding for a total period of five years, except for the
+"cooling-off" period which will be binding for a total period of two years from the
+date of notification of this Decision. The duration of the Commitments is adequate. If
+the Commitments were to be binding for a shorter period, that duration would be
+insufficient to meet the competition concerns identified by the Commission in its
+Preliminary Assessment.
+
+8. PROPORTIONALITY OF THE COMMITMENTS
+
+8.1. Principles
+
+(120) The principle of proportionality requires that the measures adopted by institutions of
+the Union must be suitable and not exceed what is appropriate and necessary for
+attaining the objective pursued28.
+
+(121) In the context of Article 9 of Regulation (EC) No 1/2003, the application of the
+principle of proportionality requires the Commission to assess, first, that the
+commitments in question address the concerns expressed by the Commission in its
+Preliminary Assessment and, second, that the undertakings concerned have not
+offered less onerous commitments that also address those concerns adequately. When
+carrying out that assessment, the Commission must take into consideration the
+interests of third parties29.
+
+8.2. Application in this case
+
+(122) The Commitments offered by Penguin, as set out in Section 5, adequately address the
+Commission's concerns expressed in the Preliminary Assessment.
+
+(123) Moreover, Penguin has not offered less onerous commitments that also adequately
+address the Commission's concerns.
+
+(124) The Commission has taken into consideration the interests of third parties, including
+those of the interested third party that responded to the Market Test.
+
+28 See for instance, Case T-260/94 Air Inter v. Commission [1997] ECR II-997, paragraph 144 and Case
+T-65/98 Van den Bergh Foods v. Commission [2003] ECR II-4653, paragraph 201.
+29 Case C-441/07 P Commission v Alrosa [2010] ECR I-5949, paragraph 41.
+
+24EN EN
+
+9. CULTURAL DIVERSITY
+
+9.1. Principles
+
+(125) In accordance with Article 167(4) of the Treaty, when applying Article 101 of the
+Treaty, the Commission must "take cultural aspects into account in its action [...] in
+order to respect and to promote the diversity of [...] cultures". Accordingly, in the
+application of Article 101 of the Treaty, the Commission is required to take into
+consideration the objective of respecting and promoting cultural diversity, in
+particular where the application of Article 101 of the Treaty concerns an activity
+linked to culture30.
+
+9.2. Application in this case
+
+(126) The purpose of the Commitments is to further contribute to restoring the conditions
+of competition in the market prior to the possible concerted practice. The
+Commission considers that in making the Commitments binding on Penguin, cultural
+diversity in the EEA will not be adversely affected.
+
+10. CONCLUSION
+
+(127) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes the Commitments, offered by Penguin to meet the Commission’s
+concerns expressed in its Preliminary Assessment, binding on Penguin. Recital 13 of
+Regulation (EC) No 1/2003 provides that the decision should not conclude whether
+or not there has been or there still is an infringement.
+
+(128) The Commission’s assessment of whether the Commitments offered by Penguin are
+adequate to address its concerns expressed in its Preliminary Assessment represents
+the preliminary view of the Commission based on its underlying investigation and
+analysis and the observations received from third parties following the publication of
+a notice pursuant to Article 27(4) of Regulation (EC) 1/2003.
+
+(129) In light of the Commitments offered by Penguin, the Commission considers that
+there are no longer grounds for action on its part and, without prejudice to Article
+9(2) of Regulation (EC) No 1/2003, the proceedings in this case should therefore be
+brought to an end.
+
+(130) The Commission retains full discretion to investigate and open proceedings pursuant
+to Article 101 of the Treaty and Article 53 of the EEA Agreement as regards
+practices that are not the subject matter of this Decision,
+
+HAS ADOPTED THIS DECISION:
+
+30 Case T-451/08 Föreningen Svenska Tonsättares Internationella Musikbyrå u.p.a. (Stim) v Commission,
+paragraphs 73 and 87.
+
+25EN EN
+
+Article 1
+
+The Commitments listed in the Annex shall be binding on Penguin for a period of five years
+from the notification of this Decision.
+
+Article 2
+
+It is hereby concluded that there are no longer grounds for action by the Commission, and the
+proceedings in this case should therefore be brought to an end.
+
+Article 3
+
+This Decision is addressed to:
+Penguin Random House Limited
+80 Strand
+London
+WC2R 0RL
+United Kingdom
+
+Penguin Group (USA), LLC
+375 Hudson Street
+New York
+NY 10014
+USA
+Done at Brussels,
+
+For the Commission
+[...]
+
+Vice-President
+
+26EN EN
+
+ANNEX
+
+Commitments offered by Penguin
+
+27EN EN

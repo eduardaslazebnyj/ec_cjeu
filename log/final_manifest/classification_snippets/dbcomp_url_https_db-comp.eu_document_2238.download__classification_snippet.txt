@@ -1,0 +1,393 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40135 FOREX
+(Sterling Lads)
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 02/12/2021
+
+This text is made available for information purposes only. A summary of this decision is published
+in all EU languages in the Official Journal of the European Union.
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those
+parts are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 2.12.2021
+C(2021) 8613 final
+SENSITIVE*: COMP Operations
+
+COMMISSION DECISION
+
+of 2.12.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40135-FOREX (Sterling Lads)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 4
+2. The industry subject to the proceedings ....................................................................... 5
+2.1. The product .................................................................................................................. 5
+2.2. Undertakings subject to these proceedings .................................................................. 7
+2.2.1. The Addressees ............................................................................................................ 7
+2.2.1.1. UBS .............................................................................................................................. 7
+2.2.1.2. Barclays ........................................................................................................................ 7
+2.2.1.3. RBS .............................................................................................................................. 7
+2.2.1.4. HSBC ........................................................................................................................... 7
+2.2.2. The other participating undertaking ............................................................................. 8
+2.2.2.1. [non-addressee] ............................................................................................................ 8
+3. Procedure...................................................................................................................... 8
+4. Description of the events ............................................................................................ 10
+4.1. Nature, scope and functioning.................................................................................... 10
+4.1.1. Evolution and duration of Sterling Lads membership ............................................... 10
+4.1.2. Arrangements reached within the chatroom............................................................... 11
+4.1.2.1. Underlying understanding to participate in the relevant private multilateral chatroom
+.................................................................................................................................... 11
+4.1.2.2. Extensive exchange of information amongst competitors pursuant to the underlying
+understanding ............................................................................................................. 12
+4.1.2.3. Occasional instances of coordination facilitated by the exchange of information..... 16
+4.2. Participation in the conduct ........................................................................................ 16
+5. Legal Assessment ....................................................................................................... 17
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 17
+5.1.1. Agreements and/or concerted practices...................................................................... 17
+5.1.1.1. Principles .................................................................................................................... 17
+5.1.1.2. Application to this case .............................................................................................. 20
+5.1.2. Restriction and/or distortion of competition .............................................................. 21
+5.1.2.1. Principles .................................................................................................................... 21
+5.1.2.2. Application to this case .............................................................................................. 22
+5.1.3. Single and continuous infringement........................................................................... 23
+5.1.3.1. Principles .................................................................................................................... 23
+5.1.3.2. Application to this case .............................................................................................. 25
+
+1EN EN
+
+5.1.4. Effect upon trade (between Members States and between the EEA contracting
+parties) ........................................................................................................................ 26
+5.1.4.1. Principles .................................................................................................................... 26
+5.1.4.2. Application to this case .............................................................................................. 27
+5.1.5. Non-applicability of Article 101(3) of the Treaty and of Article 53(3) of the EEA
+Agreement .................................................................................................................. 27
+5.1.5.1. Principles .................................................................................................................... 27
+5.1.5.2. Application to this case .............................................................................................. 27
+5.1.6. Conclusion regarding the application of Article 101 of the Treaty and Article 53 of
+the EEA Agreement ................................................................................................... 28
+6. Addressees.................................................................................................................. 28
+6.1. Principles .................................................................................................................... 28
+6.2. Application to this case .............................................................................................. 29
+6.2.1. UBS ............................................................................................................................ 29
+6.2.2. Barclays ...................................................................................................................... 29
+6.2.3. RBS ............................................................................................................................ 30
+6.2.4. HSBC ......................................................................................................................... 31
+6.3. Addressees of this Decision ....................................................................................... 31
+6.3.1. UBS ............................................................................................................................ 31
+6.3.2. Barclays ...................................................................................................................... 31
+6.3.3. RBS ............................................................................................................................ 31
+6.3.4. HSBC ......................................................................................................................... 32
+7. Duration of the infringement ...................................................................................... 32
+8. Remedies .................................................................................................................... 33
+8.1. Article 7 of Regulation (EC) No 1/2003 – Termination of the infringement ............ 33
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Determination of the applicable fines
+.................................................................................................................................... 33
+8.2.1. Calculation of the fines .............................................................................................. 34
+8.2.1.1. The value of sales ....................................................................................................... 34
+8.2.1.2. Determination of the basic amount ............................................................................ 42
+8.2.1.3. Adjustment to the basic amount: ................................................................................ 45
+9. Conclusion: final amount of individual fines to be imposed in this Decision ........... 47
+
+2EN EN
+
+COMMISSION DECISION
+
+of 2.12.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40135-FOREX (Sterling Lads)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,1
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,2
+and in particular Articles 7 and 23(2) thereof,
+
+Having regard to Commission Decision of 27 October 2016 to initiate proceedings in this
+case,3
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+
+1 OJ C 115, 9.5.2008, p. 47.
+2 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union (“the
+Treaty”). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and 82,
+respectively, of the EC Treaty when where appropriate. The Treaty also introduced certain changes in
+terminology, such as the replacement of “Community” by “Union” and “common market” by “internal
+market”.
+3 For the purposes of this Decision, although the United Kingdom withdrew from the European Union as of
+1 February 2020, according to Article 92 of the Agreement on the withdrawal of the United Kingdom of
+Great Britain and Northern Ireland from the European Union and the European Atomic Energy
+Community (OJ L 29, 31.1.2020, p. 7), the Commission continues to be competent to apply Union law as
+regards the United Kingdom for administrative procedures which were initiated before the end of the
+transition period.
+Therefore, for the purposes of this Decision, the EEA is understood to cover the 27 Member States of the
+European Union (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta,
+Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden) and the United
+Kingdom, as well as Iceland, Liechtenstein and Norway. Accordingly, any references made to the EEA in
+this Decision are meant to also include the United Kingdom.
+
+3EN EN
+
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty,4
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision concerns a single and continuous infringement of Article 101 of the
+Treaty on the Functioning of the European Union (“the Treaty”) and Article 53 of the
+Agreement on the European Economic Area (“the EEA Agreement”). The single and
+continuous infringement, for which the addressees of this Decision are held liable,
+consisted in an underlying understanding reached among certain individual traders
+(“the participating traders”) and implemented by them to exchange - on a multilateral
+private chatroom and on an extensive and recurrent basis - certain current or forwardlooking commercially sensitive information about certain of their trading activities
+and to occasionally coordinate their trading activity with respect to Forex (FX)5 spot
+trading of G10 currencies. The G10 currencies concerned by this Decision comprise
+the USD and CAD, JPY, AUD, NZD, GBP, EUR, CHF, SEK, NOK and DKK (in
+other words 11 currencies altogether, which corresponds to the market convention
+for currencies covered by the G10 designation).
+(2) The infringement lasted from 25 May 2011 to 12 July 2012.
+(3) This Decision is addressed to the following legal entities (hereinafter the
+“Addressees”):
+(a) UBS AG (hereinafter “UBS”);
+(b) Barclays PLC, Barclays Services Limited (currently known as Barclays
+Execution Services Limited)6 and Barclays Bank PLC (collectively
+“Barclays”);
+(c) The Royal Bank of Scotland Group plc (currently known as NatWest Group
+plc)7 and The Royal Bank of Scotland plc (currently known as NatWest
+Markets Plc)8 (collectively “RBS”);9
+
+4 OJ L 123, 27.4.2004, p. 18.
+5 The term “foreign exchange” (‘Forex’ or ‘FX’) refers to the trading of currencies, which happens in a
+decentralised manner. It includes all aspects of buying, selling and exchanging currencies at current or
+determined prices. The foreign exchange rate is the rate at which one currency will be exchanged for
+another. Since currencies are always traded in pairs, in foreign exchange there is not such a thing as a
+currency's absolute value but a relative value compared with other currencies. The market price of one
+currency is set in a given currency pair, that is, a value if it is exchanged against another.
+6 On 21 April 2020, the Commission learnt that Barclays Services Limited changed its name to Barclays
+Execution Services Limited ([...]).
+7 On 22 July 2020, The Royal Bank of Scotland Group plc changed its name to NatWest Group plc ([...]).
+8 On 30 April 2018, The Royal Bank of Scotland plc changed its name to NatWest Markets Plc ([...]).
+9 For clarity reasons, when referring to NatWest Group plc and NatWest Markets Plc in this Decision the
+Commission will use the acronym RBS, that collectively corresponds to The Royal Bank of Scotland
+
+4EN EN
+
+(d) HSBC Holdings 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+y
+[...] of an appropriate bid-ask spread. The factor of [...] is considered to reflect the
+additional revenues resulting from the trading on own account activities, which are
+separate from the market making revenues but depend on the trading opportunities
+procured by the currency positions held by traders following their market making
+operations.
+(183) Against this background, and considering that trading on own account mostly occurs
+via the interdealer market (and so not through trades with end-customers), the
+Commission bases the bid-ask spread level for the proxy for trading revenues on
+public sources related to interdealer trades.112 Based on such sources, the
+Commission considers it appropriate, in its discretion, to set the bid-ask spread at a
+level comprised between [...] and [...] basis points for all parties to the proceedings.
+On this basis the applicable bid-ask spread is set at [...] basis point.
+(e) Total adjustment factor
+(184) In view of the above, in determining the proxy for the value of sales for the
+infringement, the Commission applies to the notional amounts of each Addressee an
+adjustment factor of [...] basis points, being the sum of:
+• [...] basis point representing [...] of [...] basis points, the bid-ask spread level
+supported by the evidence on the file based on an objective methodology, as a
+proxy for market making revenues; and
+• [...] basis point representing [...] of [...] basis point, the bid-ask spread level
+observed on the interdealer segment of the market based on public sources, as a
+proxy for trading on own account revenues.
+(185) The Commission considers that the concepts of market making revenues and trading
+on own account revenues are inherently interlinked. If not hedged immediately, a FX
+spot transaction of G10 currencies for which a market maker has earned half of the
+bid-ask spread generates an open risk position that can further generate additional
+trading revenues. Conversely, an open risk position generating trading revenues may
+be hedged by entering into a FX spot transaction of G10 currencies generating
+additional market making revenues.
+(186) The adjustment factors selected for both market making and trading activities are
+considered the most appropriate and reasonable because they follow the
+Commission’s practice in previous decisions concerning the same financial activity,
+FX spot trading of G10 currencies, and adopted in the framework of the same file.113
+Moreover, these adjustment factors were considered reasonable and therefore
+expressly accepted by all the settling parties in both those procedures and also in the
+settlement procedure followed in parallel to the procedure concerned by this
+decision.
+(f) Conclusion of the proxy for the value of sales
+
+112 See for instance Understanding FX Liquidity (The Review of Financial Studies, Volume 28, Issue 11, 1
+November 2015, Pages 3073–3108), page 3080.
+113 Commission Decisions of 16 May 2019 in cases AT 40135 – Forex (Essex Express) and Forex (Three
+Way Banana Split).
+
+39EN EN
+
+factor to the fine to be imposed on HSBC. On this basis, it is appropriate to apply a
+multiplier to the fines to be imposed of 1.1 on HSBC.
+(c) Application of the 10% turnover limit
+(206) Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed on each
+undertaking for each infringement shall not exceed 10% of its total turnover relating
+to the business year preceding the date of the Commission Decision.
+(207) In this case, none of the fines exceeds 10% of the undertaking’s total turnover
+relating to the business year preceding the date of this Decision.121
+(d) Application of the 2006 Leniency Notice
+(208) On 2 July 2014, UBS was granted conditional immunity from fines in relation to the
+present infringement pursuant to point 8(a) of the Leniency Notice. There are neither
+indications that UBS has failed to fulfil its cooperation obligations under point 12 of
+the Leniency Notice, nor that it has taken steps to coerce other undertakings to join
+the infringement or to remain in it. Therefore, the Commission considers that UBS
+should be granted immunity from fines for the present infringement.
+(209) The Commission also received applications for reduction of fines from RBS,
+Barclays and HSBC. In accordance with point 29 of the Leniency Notice, the
+Commission came to the preliminary conclusion on 27 October 2016 that the
+evidence submitted by RBS, Barclays and HSBC constituted significant added value
+within the meaning of points 24 and 25 of the Leniency Notice and that the
+undertakings have so far met the conditions of points 12 and 27 of the same Notice.
+(210) RBS was the first undertaking to submit an application for reduction of fines which
+both referred to the existence of the STG Lads chatroom and accompanied it with
+[...]. Furthermore, RBS provided, before any other applicant did, comprehensive
+explanations of some communications among traders that detailed their
+anticompetitive nature.
+(211) For these reasons, RBS’ reduction of fines application adds significant added value
+to the Commission’s investigation in this case. RBS also met the requirements of
+points 12 and 27 of the Leniency Notice. As a result the fine to be imposed on RBS
+is reduced by 50 %.
+(212) Barclays was the second undertaking to submit an application for reduction of fines
+in relation to the STG Lads infringement and did so at an early stage of the
+investigation. Barclays provided evidence relating to the infringement that was not
+previously in the Commission’s possession as well as explanations on the
+anticompetitive behaviour in general.
+(213) For these reasons, Barclays’ reduction of fines application adds significant added
+value to the Commission’s investigation in this case. Barclays also met the
+requirements of points 12 and 27 of the Leniency Notice. As a result the fine to be
+imposed on Barclays is reduced by 30 %.
+
+121 The Commission requested the banks to provide their total turnover on both a gross and a net basis. The
+fines do not exceed 10% of the total turnover for any of the undertakings concerned irrespective of the
+total turnover used (gross or net).
+
+44EN EN
+
+(214) HSBC was the third undertaking to submit an application for reduction of fines in
+relation to the STG Lads infringement. HSBC provided [...] relating to the
+infringement that was not previously in the Commission’s possession, even though
+this [...] was submitted at a late stage of the investigation and is quantitatively less
+significant than the one provided by the other leniency applicants.
+(215) For these reasons, HSBC’s reduction of fines application adds significant added
+value to the Commission’s investigation in this case. HSBC also met the
+requirements of points 12 and 27 of the Leniency Notice. As a result the fine to be
+imposed on HSBC is reduced by 15 %.
+(e) Application of the Settlement Notice
+(216) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% turnover cap has been applied having regard to the Guidelines on fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement is added to their
+leniency reward.
+(217) Pursuant to the Settlement Notice, the amount of the fines to be imposed on the
+Addressees of the proceedings should be reduced by 10% and that such reductions
+should be added to any leniency reward granted.
+
+45EN EN
+
+BANQUE ET CAISSE D’EPARGNE DE L’ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: EC/ BUFI/AT.40135
+
+After the expiry of this period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046.122
+
+Article 3
+The undertakings listed in Article 1 shall refrain from repeating any act or conduct described in
+Article 1, and from any act or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to
+(a) UBS AG with registered offices at Bahnhofstraße 45, 8001 Zürich,
+Switzerland;
+(b) Barclays PLC with registered offices at 1 Churchill Place, London, E14 5HP,
+United Kingdom;
+(c) Barclays Execution Services Limited with registered offices at 1 Churchill
+Place, London, E14 5HP, United Kingdom (formerly, “Barclays Capital
+Services Limited”);
+(d) Barclays Bank PLC with registered offices at 1 Churchill Place, London,
+E14 5HP, United Kingdom;
+(e) NatWest Group plc with registered offices at 36 St Andrew Square, Edinburgh,
+EH2 2YB, United Kingdom;
+(f) NatWest Markets Plc with registered offices at 36 St Andrew Square,
+Edinburgh, EH2 2YB, United Kingdom.
+(g) HSBC Holdings plc with registered offices at 8 Canada Square, London,
+E14 5HQ, United Kingdom; and
+
+122 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the Union, amending Regulations (EU) No
+1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No
+1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing
+Regulation (EU, Euratom) No 966/2012 (OJ L 193, of 30.7.2018, p.80).
+
+47EN EN
+
+(h) HSBC Bank plc with registered offices at 8 Canada Square, London, E14 5HQ,
+United Kingdom.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 2.12.2021
+
+For the Commission
+Margrethe VESTAGER
+Executive Vice-President
+
+48EN EN

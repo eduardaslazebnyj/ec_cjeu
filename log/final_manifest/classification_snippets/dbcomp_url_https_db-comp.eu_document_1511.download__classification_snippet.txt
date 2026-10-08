@@ -1,0 +1,431 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+26. 2. 88 Official Journal of the European Communities No L 52/51
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 22 December 1987
+
+relating to a proceeding under Article 85 of the EEC Treaty
+(IV/32306 —> Olivetti/Canon)
+
+(Only the English and Italian texts are authentic)
+
+(88/88/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, to give negative clearance for, or, alternatively, to
+exempt under Article 85 (3) of the EEC Treaty
+Having regard to the Treaty establishing the European certain agreements between them concerning the
+Economic Community, formation of Olivetti-Canon Industriale SpA
+('OCI'), a joint venture incorporated in Italy.
+Having regard to Council Regulation No 1 7 of 6 February
+1962, First Regulation implementing Articles 85 and 86
+of the Treaty ('), as last amended by the Act of Accession
+of Spain and Portugal, and in particular Articles 4, 6 and (2) The scope of OCI is to develop, design and manu
+8 thereof, facture copying machine products, laser beam
+printer products and facsimile products. The activi
+Having regard to the application for negative clearance ties of OCI are to develop in two phases. During
+and notification by Ing. C. Olivetti & C, SpA, on the one Phase I it will mainly manufacture copying
+hand, and Canon Inc., on the other hand, of joint venture machine products in the speed-range of 10 to 20
+agreements and related agreements, concerning mainly copies per minute. In Phase II, the parties may
+designing, developing and manufacturing certain co pying decide to produce, in addition to copying machine
+machine products, laser beam products and facsimile products, other office automation products such as
+products, laser beam printer products and facsimile products.
+The production of higher-speed copying machines
+Having regard to the summary of the application and may also be considered. Phase II is expected to
+notification published (2) pursuant to Article 19 (3) of start in early 1989.
+Regulation No 17,
+
+After consulting the Advisory Committee on Restrictive
+Practices and Dominant Positions,
+
+Whereas :
+B. The parties
+
+\ I. THE FACTS
+
+A. The notification (3) Ing. C. Olivetti & C SpA, Ivrea, Italy heads the
+Olivetti Group ('Olivetti'). This is a multinational
+(1) On 1 April 1987 the companies Ing. C. Olivetti & group whose activities include data processing and
+C, SpA and Canon Inc. requested the Commission office automation (word processors, personal
+computers, terminals, printers, telecommunications
+0) OJ No 13, 21 . 2. 1962, p. 204/62. equipment) and office products such as typewriters
+0 OJ No C 282, 20. 10. 1987, p. 2. and copying machines.
+
+No L 52/52 Official Journal of the European Communities 26. 2. 88
+
+In 1985 its turnover was Lit 6 140 billion, the net and segments 1 to 6 (the latter from 91 cpm
+profit Lit 503 billion, and the R&D expenditure upwards). Between PC products and segment 6
+284 billion (4,6 % of the turnover). The workforce products average prices vary between roughly
+was 48 944 people. $1 000 and $130 000. For the purposes of this
+proceeding three representative relevant markets
+may be considered, each of them embracing
+In 1985, the trend of the previous years had been substantially interchangeable copiers : low-end
+confirmed, i.e. the proportion of data processing range (PC to segment 2 : up to 30 cpm), mid-end
+and office automation in total turnover had range (segments 3 and 4 : 31 to 75 cpm) and high
+increased (84,8 % ; 1984 : 80,6 %) especially for end range (segments 4 to 6 : from 70 cpm
+personal computers (29,5 % ; 1984 : 16,9 %) and upwards). This does not preclude a certain inter
+printers (7,2 % ; 1984 : 4,9 %). The R&D propor changeability between these three segments.
+tion had increased some 24 % compared with
+1984. Copying machines represented 2,3 % in
+1985 (2,4 % in 1984).
+(8) The copying machines currently manufactured by
+OCI (10 to 20 cpm) belong to segment 1 (1 to 20)
+(4) Canon Inc., Tokyo, is the head of a multinational and to the low range market. In the EEC market
+group ('Canon'). The group's turnover in 1986 was there are many competitors.
+Yen 889 billion (—7 % compared with 1985). Its
+. main activities are business machines (circa 74 %
+of the turnover) (copying machines circa 42 %,
+(9) In the low-end range market the number of units other business machines circa 32 %), cameras and
+sold and market shares for Western Europe were as optical products. R&D expenditure represented
+follows (2) : 6,2 % of turnover in 1986 (5,2 % in 1985). The
+workforce is 35 498 people (10 % fully employed
+in R&D activities). 70 % of Canon sales are outside
+Japan. 1986
+
+Units sold Market shares
+C000) (%)
+
+Canon 196,0 23,7
+C. The markets affected by the joint venture Rank Xerox 74,5 9,0
+Minolta 64,3 7,8
+Olivetti, Triumph Adler 60,8 7,3
+Mita 54,2 6,6(5) For all the products involved the EEC represents an
+Toshiba 54,0 6.5
+area in which the conditions of competition are
+Sharp 45.0 5,3
+similar for all suppliers. National laws do not make Nashua 39.1 4.6
+' trade between Member States difficult, nor do costs Ricoh 37,0 4,3
+of transport or consumer preferences. The EEC
+market is situated in the context of a worldwide Source : Dataquest, September 1987.
+market with a high number of competitors mainly
+More than 10 manufacturers followed with market from third countries.
+shares varying down to less than 1 %.
+
+(a) Copying machines
+
+As to the products sold on an OEM basis (i.e. to
+Original Equipment Manufacturers), they are (6) For the customers, copiers are not all sufficiently included in the market shares of the OEM vendors
+interchangeable to compete with each other in and not in those of the OEM manufacturers.
+terms of price, speed (copies per minute), physical
+characteristics and additional facilities (sorter, etc.).
+Manufacturers and suppliers use some forms of
+market segmentation. (10) In the mid- and high ranges, to which the joint
+venture activity may be extended in the future,
+Olivetti has had no significant activity except a sale
+(7) Dataquest analysis of the plain-paper copier of 3 000 units many years ago. Canon has a market
+market ('), which is the most widely-used, breaks share of 6,7 % for mid-range and 1,4 % for high
+down the sector into seven ranges, according to the range machines.
+number of copies per minute which the machine
+can produce : personal copiers (PC) (1 to 12 cpm)
+(2) No data for EEC is available but the main areas of sale are all
+in the EEC, to such an extent that for the purposes of this
+(') Only plain-paper copying process machines are .considered, as proceeding Europe's market shares can be taken into account
+this process has practically replaced all the others. in the place of EEC ones.
+
+26. 2. 88 Official Journal of the European Communities No L 52/53
+
+(11) From the 1970s, when plain paper copiers started (b) Facsimile
+to be manufactured in the EEC, the number of
+EEC manufacturers has progressively diminished.
+The main producers Rank Xerox (United (14) The facsimile market is expanding greatly in the
+Kingdom) and Oce (Netherlands) apart, some of EEC. The units sold in 1986 were 200 000. The
+the smaller companies in terms of number of growth rate in 1986 and 1987 ranged from 9 to
+models manufactured were unable to keep pace 17 % in the various countries. The compound
+with innovation and reducing prices in office annual growth rate forecast for 1987 to 1991 is
+copying, which have mainly come from Japanese 46 %. The market shares of the main suppliers in
+companies. Most converted their business (totally 1986 were as follows :
+orpartially) to Original Equipment Manufacturers'
+(OEM) distribution of Japanese machines (distribu
+tors under their own brand name of OEM Market shares
+products). Olivetti and Develop (Germany) conti 1986 (%)
+nued to manufacture, in the low range only. In
+addition, Olivetti's subsidiary Triumph Adler Panasonic 21.4
+(Germany) currently distributes, on an OEM basis, Canon 19,7
+copiers of the Japanese company Mita. Telic Alcatel 10,1
+NEC 11.5
+Kalle-Infotec 8,6
+Toshiba 5,5
+Olivetti 2,5
+(12) Japanese companies have progressively set up
+manufacturing points in the EEC. As to their sales Source : Dataquest.
+of imports from outside the EEC an anti-dumping
+duty (') under Council Regulation (EEC) No (15) The Olivetti group s facsimile sales of 5 050 units
+2176/84 (2) was imposed. Canon had previously set in 1986 were limited to Italy and Spain. In 1985
+up two plants, one in Germany in 1972 (for high sales of the Olivetti group in Italy represented
+speed machines) and the other in France in 1984 24 % of all sales in that country (Canon 7,9 %). All
+(for PCs). Toshiba has formed a 60/40 % joint sales of the Olivetti group are on an OEM basis,
+venture with Rhone-Poulenc. Minolta has acquired from Sharp Co. of Japan. By virtue of the joint
+the control of the German company Develop. venture agreement, the Olivetti group is prepared
+Ricoh has set up a plant in the United Kingdom, to switch from Sharp to Canon equipment.
+and subsequently decided to add a new production
+facility.
+(16) Canon has a full line of products, from desk-top
+models to sophisticated broadcasting facsimile and
+G4 machines, which makes it one of the EEC
+Olivetti s OEM sales represented about 60 % of its leaders in this field. In 1986/87 Canon introduced
+turnover for copiers in 1986 and 46 % in the first the G4 machines to serve the digital telecommuni
+half of 1987 (as an effect of the joint venture which cation systems which are used in certain countries
+started operating in March 1987). The two remai not only for their pilot project of Integrated
+ning major manufacturers in Europe are Rank Services Digital Network (ISDN) but also for exis
+Xerox (United Kingdom, Netherlands and France) ting digital networks, and the Multimedia Phone
+and Oce (Netherlands). Rank Xerox manufactures MMP-10, a telephone which can transmit images
+the full range and Oce the upper range. from PC computers and word processors to facsi
+mile transceivers.
+
+(c) Laser beam printers(13) Canon in the past has introduced major innova
+tions in the field of copying machines. In 1986 it
+launched the largest number of new products in its
+(17) The laser beam printer is considered as the ideal 20 years' activity in that field : in every segment at
+least one new model was introduced. A new model computer printer for today, and especially for the
+future. It presents many advantages over the tradi (NP-8000) has strengthened its position in the
+tional computer printer in terms of the variety of high-speed copiers. Canon has also introduced new
+functions it can fulfil, speed, print quality, ease of products in the three major fields where it is a
+use and cost. Sales are growing very rapidly every leader : personal copiers, colour and digital techno
+where (in Europe 4 400 units in 1984 and 26 300 logies (full colour copiers).
+units in 1985 ; average annual growth in units sold
+1988 to 1990, 48 % ; 1985 to 1991 , 69,7 %). Prices
+(') This was imposed provisionally on 21 August 1986, and defi are diminishing. Many companies are entering the
+nitively on 23 February 1987 (OJ No L 54, 24. 2. 1987, p. 12) market, including most of the main computer on copiers of up to 75 cpm. An antidumping duty of 20 %
+was imposed on Canon. companies. Laser printers vary in speed from six to
+(2) OJ No L 201 , 30. 7. 1984, p. 1 . 120 pages ' per minute.
+
+No L 52/54 Official Journal of the European Communities 26. 2. 88
+
+(18) Despite the number of competitors (mostly Japa manufactured by the joint venture are currently
+nese companies, Ricoh, Hitachi, Kyochene, Fujitsu, supplied by Olivetti ; the rest are supplied by
+Toshiba and Mita), the two most significant laser Canon and by third companies.
+printer manufacturers in the world are Canon for
+the low-end range and Xerox for the medium and
+high range. Canon has now the basic technology to
+produce the colour laser printer which has been
+introduced in 1986. Canon has sold for OEM resale E. The content of the agreements
+in europe ans in North America (to Hewlett
+Packard, Apple and others).
+(22) The agreements notified are as follows :
+
+— Master business agreement,
+(19) The estimated market shares (in value) of the main
+vendors of non-impact printers under 20 pages per — Licence agreement for copying machines
+minute in Western Europe (EEC data is not avai (Olivetti),
+lable) are as follows :
+— Technical assistance and licence agreement for
+copying machines (Canon),
+
+1985 — Non-disclosure agreement,
+
+Turnover Share — Subscription agreement,
+(%) Vendor ($ million)
+— Shareholders' agreement and by-laws.
+Hewlett-Packard (Canon
+engine) 41,5 30
+Canon < 25,0 18
+Apple 16,2 12 (23) The main content of those agreements is as follows.
+Ricoh 14,8 11
+Xerox 13,3 10
+(a) Master business agreement (dated 1 7 December
+Source : Internationa! Data Corporation. 1986)
+
+(20) The Olivetti group only sold a few units in 1984
+and 1985, procured from Hitachi Co. Ltd (a This is the principal agreement which sets up the
+machine with an Olivetti proprietary interface for principles of the joint venture, its scope and func
+Olivetti's captive market). The Olivetti subsidiary tioning. Its main provisions are as follows :
+concerned has recently started procuring laser
+printer engines from Canon on an OEM basis. — the scope of the JVC is to develop, design and
+manufacture copying machine products, laser
+beam printer products and facsimile products
+(section 2.1 ),
+
+— in phase I, the JVC shall manufacture the
+models of copying machines manufactured by
+. D. The main issues of the cooperation Olivetti copiers division and certain Canon
+models with a speed of 10 to 20 cpm. Such
+manufacture will be covered by licences from
+Olivetti and Canon. Currently, the JVC has
+exclusive manufacturing rights for Europe with(21) The Canon-Olivetti joint venture company, OCI
+respect to the copying machines which will be (hereafter 'the JVC), is a manufacturing operation
+manufactured by the joint venture (sections 2.2 owned by Olivetti as to 50 % plus one share and
+and 4.1.1), by Canon as to 50 % minus one share. It is based
+at Olivetti's reprographic factory in Aglie (Italy), — in phase II it is envisaged that the JVC shall
+which employs 350 people and which currently manufacture, in addition to copying machines,
+produces 42 000 copiers yearly. It is planned to the other products within its scope, as deter
+treble this amount in two years. The products mined by the parties. Higher-speed copiers may
+manufactured by the joint venture are sold inde also be considered (sections 2.2 and 4.2.1 ). The
+pendently by the two partners, mainly through PC segment is not within the scope of the JVC,
+their own distribution networks. Olivetti is transfer
+ring both its copier research and production activi — the parties give to the JVC their respective
+ties to the JVC. Canon will make a substantial development expertize in the field covered by
+investment in the JVC over 1987 and 1988 and the company that is necessary to achieve the
+wi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n question are likely to affect
+trade between Member States. The products manu
+factured by the joint venture are for marketing
+(49) The following obligations pursuant to the licensing inter alia throughout the EEC. The licence agree
+agreements do not constitute appreciable restric ments also concern the EEC territory.
+
+No L 52/60 Official Journal of the European Communities 26. 2. 88
+
+B. Article 85 (3) highly sophisticated products as facsimile and,
+even more, laser printers (which are considered
+products for the future). It is reasonable to
+expect that the combination of this technology
+with that of an also R&D-oriented EEC under(53) The notified agreements quality for an exemption
+under Article 85 (3) as they offer benefits for the taking will contribute to improving the techno
+Community competition policy which outweigh logical patterns of the EEC industry and ulti
+the effects restrictive of competition. mately its competitivity. This will result in
+improving production and distribution and
+technical progress;
+
+The benefits of the cooperation
+
+Consumers' share of the benefits of the agreements
+
+(54) The joint venture contributes to improving tech
+nical and economic progress for the following
+(55) Consumers will benefit from the introduction into
+reasons :
+the markets involved of new products which are
+the result of the improvement of the technology
+excepted from the joint venture will finally be
+(a) on all the markets involved, and in which the passed on to the consumers in terms of competing
+parties are competing, the technology is fast prices, as the markets involved are highly competi
+moving and the degree of competition high. In tive.
+order to compete efficiently, the undertakings
+on those markets have to offer products which
+are the result of the most up-to-date techno
+logy, at competitive prices. Up-to-date techno Indispensability of the agreements to achieve those
+logies, however, require large investments in benefits
+research and development. The expansion of
+production in the EEC which is the effect of
+the joint venture enables the parties to spread
+the costs of these investments over a larger (56) The benefits of the increase of research and deve
+numer ofproducts : otherwise the costs of those lopment, the improvement of technology dand the
+products would be too high for producers to be strengthening of the competitivity of the European
+able to sell them at a competitive price. industry through the transfer of technology could
+not be achieved without the joint venture. Without
+that cooperation, costs of R&D and production
+The joint venture is therefore apt to avoid duplica would be spread over a smaller number of units,
+tion in costs of development. and this would result in either an insufficient
+improvement of the products manufactured by one
+or both of the companies, or higher prices of those
+Research does not fall directly within the scope of products. The grant of a licence would not have
+the joint venture. However, by virtue of the obliga allowed the transfer of technology to the same
+tion on the partners to communicate to the JVC extent as in allowed by a joint venture. The major
+the continuing flow of their expertize, and on involvement of the partners inherent in a manufac
+Canon the improvements of the research carried turing joint venture permits a permanent and
+out independently, this research is tightly linked to intense flow of technology.
+the activity of the joint venture. Research will also
+be stimulated by avoiding the duplication of its
+costs.
+(57) The following restrictions are economically
+connected with the joint venture and therefore
+(b) The joint venture enables a transfer of the indispensable for its correct functioning :
+benefit of advanced technology to Olivetti, a
+Community undertaking, in markets where
+technology is of crucial importance. An impor (a) the obligation to endeavour to promote and sell
+tant part of the transferred technology comes the products of the joint venture and to
+from an undertaking, Canon, which is a leader purchase a minimum volume from the latter.
+of innovation and whose policy is The investments in development and produc
+R&D-oriented, as is shown by the percentage of tion capacities in the framework of a joint
+the turnover and work force involved in R&D venture and the transfer of technology to it
+and its significant past and present achieve would not be conceivable if the partners them
+ments. It is within the scope of the joint selves could, by purchasing substantially else
+venture that this transfer be extended to such where, hamper the necessary return on capital ;
+
+26. 2. 88 Official Journal of the European Communities No L 52/61
+
+(b) the obligation of mutual agreement for each tured are not affected, especially those for the PC
+partner's sales outside its group and under segment. (This segment accounts for a substantial
+trademarks designated by it and essentially part of the relevant market and thus influences
+based on the other's technology. This obligation considesrably the partners' market shares, especially
+is intended to prevent the technology deve Canon's). More than half of Olivetti's sales wesres
+loped by a partner being used in manufacturing on an OEM basis. As to facsimile, Olivetti is an
+a product which through the other partner OEM supplier, not a manufacturer. The markets
+would be sold by a third undertaking in compe involved are competitive in the EEC because of the
+tition with the former. As the joint venture is number and size of suppliers who cannot be
+set up to manufacture 'captive' products for the deemed to cease being a sufficient counterweight.
+parties, it would be against its purpose for it to As the parties are independent in regard to sales,
+manufacture products for the partners's compe there is no significant risk of on appreciable
+titors ; increase of the degree of concentration.
+
+(c) the obligation on each partner to sell under its Duration of the exemption
+brand name and in its own network. It has the
+purpose of making the identification of the
+product coincide with that of the partner's
+network and therefore to maintain the distinc (59) In accordance with Article 8 (1) of Regulation No
+tion between the production within the joint 17, a decision in application of Article 85 (3) of the
+venture and the separate distribution by the Treaty is issued for a specified period.
+partners. It is also apt to avoid the linkage of
+joint venture products with third competitors
+through any distribution or trademark licence
+agreement ;
+(60) In the case of production joint ventures requiring
+substantial long-term investments and concerning a
+new product not yet fully established on the
+market, a period of 12 years appears indispensable
+(d) the exclusive nature of the licence to the joint to enable the parties to rely on the enforceability of
+venture for manufacturing. The risks of setting the agreements and to obtain a satisfactory return
+up the joint venture along with the financial on their capital.
+investments and transfer of technology could
+not be reasonably undertaken if the parties
+could not rely on that exclusivity ;
+
+(61) Due to the fact that an important benefit expected
+for the purpose of exemption is the transfer of
+advanced technology as indicated in paragraph 54
+(e) the limitation of the licensed products and and that as to some of the products covered by the
+territory. Such restriction should enable the exemption the joint venture will operateonly in a
+joint venture to concentrate its manufacturing second phase, it is appropriate to enable the
+efforts on those products and its exclusive terri Commission to satisfy itself that the conditions of
+tory. Article 85 (3) continue to be fulfilled.
+
+For that purpose, in application of Article 8 (1) of
+Regulation No 17, the present decision will impose No elimination of competition
+on its addressees an obligation.
+
+(a) to provide the Commission, at the latest on 30
+March every two years of the exemption period
+(58) Competition is restricted to an appreciable extent starting from 30 March 1988, with a report on
+by the notified agreements which bring together a the overall asctivities of the joint venture and
+leader in the EEC relevant market and another the overall application of the exempted agree
+important supplier. However, they do not eliminate ments ;
+competition in respect of a substantial part of the
+products in question. As to the low-range copiers (b) to inform the Commission of any new agree
+market, in which the partners' market shares are ment in relation to the exempted agreements
+important, the partners' production structures other and of any modification or extension of those
+than those related to the segment jointly manufac exempted agreements,
+
+No L 52/62 Official Journal of the European Communities 26. 2. 88
+
+HAS ADOPTED THIS DECISION : of the joint venture and the overall application of the
+exempted agreements,
+Article 1 2. to inform the Commission of any new agreement in
+relation to the exempted agreements and of any modi
+1 . The provisions of Article 85 (1) of the EEC Treaty fication or extension of those exempted agreements.
+are hereby declared inapplicable, by virtue of Article 85
+(3), to the joint venture agreement and related agreements Article 3
+concluded between Ing C. Olivetti & C, SpA and Canon
+Inc. and notified by them. This Decision is addressed to :
+(i) Ing. C. Olivetti 8t C, SpA, Via G. Jervis 77, 1-10015
+2. Paragraph 1 shall apply in respect of each agreement Ivrea,
+from the date of its notification (I April 1987) to 1 April
+1999. (ii) Canon Inc., 30-2 Shimomaruka 3 Chome,
+Ohta-ku, Tokio, Japan.
+
+Article 2
+Done at Brussels, 22 December 1987.
+The following obligations are hereby imposed on the
+addresses of this Decision :
+For the Commission
+1 . to provide the Commission, at the latest on 30 March Peter SUTHERLAND
+every two years of the exemption period starting from
+30 March 1988, with a report on the overall activities Member of the Commission

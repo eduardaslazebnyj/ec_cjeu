@@ -1,0 +1,201 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52012XX0121(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52012XX0121(02)
+Help
+Print
+Final Report of the Hearing Officer — COMP/39.692 — IBM Maintenance Services
+Final Report of the Hearing Officer — COMP/39.692 — IBM Maintenance Services
+Final Report of the Hearing Officer — COMP/39.692 — IBM Maintenance Services
+OJ C 18, 21.1.2012, p. 5–5
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+21.1.2012
+EN
+Official Journal of the European Union
+C 18/5
+Final Report of the Hearing Officer
+(
+1
+)
+COMP/39.692 — IBM Maintenance Services
+2012/C 18/05
+(1)
+On 23 July 2010, the Commission decided to open proceedings against International Business Machines Corporation (‘IBM’) for alleged abuse of dominance on the market for inputs needed in order to provide maintenance services of IBM's mainframe hardware and operating system software.
+(2)
+A preliminary assessment was adopted by the Commission on 1 August 2011 pursuant to Article 9(1) of Regulation (EC) No 1/2003
+(
+2
+)
+and notified to IBM on 2 August 2011. This preliminarily concluded that IBM may have refused to grant third party maintainers access to certain inputs required to provide maintenance services of IBM's mainframe hardware and operating system software, in violation of Article 102 of the Treaty on the Functioning of the European Union, in particular paragraph (b) thereof, and Article 54 of the Agreement on the European Economic Area.
+(3)
+On 14 September 2011, IBM submitted a first commitments proposal to address the concerns raised by the Commission in its preliminary assessment. On 20 September 2011, the Commission published a notice on the
+Official Journal of the European Union
+in accordance with Article 27(4) of Regulation (EC) No 1/2003, summarizing the case, the main content of the commitments, the proposed course of action and inviting third parties to submit comments on IBM's proposed commitments
+(
+3
+)
+. In response to the notice, the Commission received seven observations from interested third parties and informed IBM of these comments. IBM submitted a revised set of commitments on 24 October 2011.
+(4)
+In its decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the Commission makes the commitments offered by IBM binding upon it for a total period of five years and concludes that in light of the remedies offered, there are no longer grounds for action on its part, and thus the proceedings in this case should be brought to an end.
+(5)
+I did not receive any request or complaint from any party to the proceedings in the present case
+(
+4
+)
+. In view thereof, I consider that the effective exercise of the procedural rights of all participants in this case has been respected.
+Brussels, 5 December 2011.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings,
+OJ L 275, 20.10.2011, p. 29
+(‘Decision 2011/695/EU’).
+(
+2
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,
+OJ L 1, 4.1.2003, p. 1
+.
+(
+3
+)
+Notice published pursuant to Article 27(4) of Council Regulation (EC) No 1/2003 in Case COMP/39.692/IBM — Maintenance services,
+OJ C 275, 20.9.2011, p. 8
+.
+(
+4
+)
+In accordance to Article 15(1) of Decision 2011/695/EU, parties to the proceedings offering commitments pursuant to Article 9 of Regulation (EC) No 1/2003 may call upon the hearing officer at any stage of the procedure in order to ensure the effective exercise of their procedural rights.
+Top

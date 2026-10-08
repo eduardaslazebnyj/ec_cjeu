@@ -1,0 +1,482 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels,
+
+COMMISSION DECISION
+
+of 7 October 2008
+
+on the Slovakian postal legislation relating to hybrid mail services
+
+EN 1 EN
+
+COMMISSION DECISION
+
+of 7 October 2008
+
+on the Slovakian postal legislation relating to hybrid mail services
+
+(Only the Slovakian text is authentic)
+
+C(2008) 5912THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community, and in particular to
+Article 86(3) thereof,
+
+Having given the Slovak authorities and Slovenská pošta, a. s. the opportunity, by letter of
+formal notice of 17 June 2008 to make known their views on the objections raised by the
+Commission with regard to the Slovak postal legislation relating to hybrid mail services
+
+Whereas:
+
+1. THE FACTS
+
+1. The present case concerns hybrid mail services. In the present decision, hybrid mail
+service is defined as a service whereby the content of communications is
+electronically transmitted to the service provider, electronically processed and
+converted into the physical form of a letter mail item (printed and enveloped) and
+then physically delivered to the addressee.
+
+1.1. The national measure in question
+
+2. In the Slovak Republic, Act No. 507/2001 Coll. on Postal Services as amended by
+Act No.15/2004 (hereafter the "Postal Act") contains the legislative rules on postal
+services.1 According to § 1 (2) of the Postal Act, the Postal Act implements the
+Postal Directives of the EU.2 Prior to 1 April 2008, the relevant sections of the Postal
+Act had the following wording:
+
+1 The Postal Act can be accessed, in the Slovak original, as well as in an English translation, on the
+website of the Slovak Postal Regulatory Office, http://www.posturad.sk.
+2 Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 on common
+rules for the development of the internal market of Community postal services and the improvement of
+quality of service, OJ L 15/14 of 21.1.1998, as amended by Directive 2002/39 of 10 June 2002, OJ L
+176/21 of 5.7.2002 (hereafter: "the Postal Directive"). Directive 97/67/EC has since been further
+amended through Directive 2008/6 of 20 February 2008, OJ L 52/3 of 27.2.2008. According to Article
+2(1) of that Directive, the Member States shall implement the amending rules until 31 December 2010.
+By derogation to Article 2, certain Member States (amongst which Slovakia) may postpone the
+
+EN 2 EN
+
+"§ 2 Postal Services
+
+Postal services involved clearance, sorting, transport and delivery of postal items (§
+4).
+
+§ 4 Postal Items
+
+(1) Postal items are communications or items addressed and laid out in the final
+form in which they are to be delivered by the provider of the universal service.
+
+§ 5 Postal Company
+
+(1) A postal company is an entrepreneur providing postal services.
+
+(2) The provision of postal services occurs if the scope of business of the
+entrepreneur is clearance and delivery of communications and items that are postal
+items under § 4.
+
+(3) A postal company may provide postal services only under the trade license,
+within scope of a general authorisation (§ 14) and under conditions stipulated by this
+Act.
+
+...
+
+(4) An item of correspondence is a communication in written form on any kind of
+physical medium to be delivered at the address indicated by the sender on the item
+itself or on its wrapping. Books, catalogues, newspapers, and periodicals shall not
+be regarded as items of correspondence but they may be included in the content of
+letter items or parcels.
+
+§ 7 Postal Reservation
+
+(1) Postal reservation means postal services reserved for the universal service
+provider only.
+
+(2) Postal reservation comprises clearance (collection) and distribution of
+
+(a) items of correspondence and direct mail items up to 50 g in weight;
+
+(b) items of correspondence to be delivered to the addressees in person involved in
+legal proceedings and procedures before administrative bodies (hereafter referred to
+as "official item").
+
+(3) Postal reservation shall not apply to items of correspondence and direct mail
+items under paragraph 2 (a), if:
+
+(a) the postal charge for such an item is equal to or more than two and a half times
+the rate charged by the universal service provider for items of correspondence in the
+first weight step of the fastest standard category;
+
+implementation of this Directive until 31 December 2012, in order to continue to reserve services to
+universal service provider(s).
+
+EN 3 EN
+
+(b) such an item is a document accompanying items delivered at the same time; or
+
+(c) such an item is distributed within the domestic service by a postal company that
+has cleared (collected) this item abroad.
+
+§ 23 Agreement on Providing a Postal Service
+
+(1) Postal services shall be provided on the basis of an agreement on providing a
+postal service (hereafter referred to as "'the agreement"') between the postal
+company and the sender. Under the agreement, the postal company shall undertake
+to deliver the postal item cleared (collected) or payment remitted to the addressee
+under the postal terms and conditions, and the sender shall undertake to pay the
+postal charge according to the tariff.
+
+(2) The type of the postal service and the postal charge are essential particulars of
+the agreement. The agreement is deemed to be concluded when the postal item is
+cleared (collected).
+
+(3) The sender's rights arising from the agreement shall come under the prescription
+period after one year of the date when the postal item is cleared (collected); if the
+postal item is stored, of the expiration date of the period of storage (§ 31 paragraph
+6). "
+
+3. On 5 March 2004, the Postal Regulatory Office adopted a general authorisation for
+providing postal services under the Postal Act (hereafter the "General
+Authorisation") in accordance with § 14 of the Postal Act.3 Prior to 18 July 2008 the
+relevant sections of the General Authorisation read as follows:
+
+Article 1 – General provisions
+
+"1. General Authorisation for providing postal services (hereafter referred to as
+"authorisation") is decision stipulating general conditions of providing postal
+services by postal companies on territory of the Slovak Republic.
+
+2. Postal service includes clearance and distribution of postal items.
+
+3. Clearance of postal items is admission of postal items from sender and collection
+by postal company.
+
+4. Distribution of postal items is their sorting, transport and delivery to the
+addressee to the place according the address or by other agreed way.
+
+5. Document exchange and hybrid mail do not satisfy terms according the § 2 and 4
+of the Act No. 507/2001 Coll. on Postal services as amended by Act No. 15/2004
+Coll. (hereafter referred to as "Act") and they are not considered the postal service
+according the Act.
+
+(...)"
+
+3 Bulletin of the Ministry of Transport, Post and Telecommunications of 5 March 2004.
+
+EN 4 EN
+
+4. Since hybrid mail was thus not considered a postal service under national law, it
+could not fall within the reserved area, that is the services reserved to the postal
+incumbent Slovenská Pošta a.s. (hereafter "Slovenská Pošta"). On that basis, market
+players gradually entered the hybrid mail market and customers tendered for hybrid
+mail services.
+
+5. On 8 March 2005, Prvá Doručovacia (hereafter "PD"), a Slovak company asked the
+Postal Regulatory Office in writing for clarification of the status of hybrid mail
+services in relation to the reserved area. PD's request was worded as follows:
+
+"Recently, we keep having problems with the interpretation of the legal status and
+validity of the postal reservation. Since we cannot find a general definition for the
+hybrid mail, we ask the Postal Regulatory Office for its statement that:
+
+The items that are not delivered to the distribution company in completely prepared
+condition, and the company has to process them before distribution by packaging
+them, addressing them and presorting them, etc... are not considered to be an item of
+the Universal postal service and are not subjected to the postal reservation."
+
+6. By letter of 22 March 2005, the Postal Regulatory Office answered as follows:
+
+"A hybrid mail item in electronic form is not correspondence under Section 4 (4) and
+Section 7 (2) [of the Act on Postal Services], but a hybrid mail item in written form
+constitutes correspondence under these provisions of the Act. You have not specified
+in your letter the form in which the item will be delivered to your company. If it is
+delivered in electronic form and you will transform it into written form, the provision
+of Section 4 (4) on correspondence and the related provision of Section 7 (2) on
+collecting and distribution of correspondence will not be satisfied. The postal service
+provided in such a way is not subject to postal reservation. The statements in §4,
+section 4, §7, section 2 and §42, section 6 will be fulfilled in case the item will be
+delivered to you in written form, into which it was transformed by another person on
+demand of the sender. In such case it would mean the violation of the postal
+reservation, because the person who was transforming the item from electronic form
+in to the written form carried out a posting of correspondence on behalf of sender.”
+
+7. On 8 September 2006, the Postal Regulatory Office published in the Bulletin of the
+Ministry of Transport, Post and Telecommunications a proposal for an amendment of
+the General Authorisation for providing postal services4. The objective of this
+amendment was to change the wording of Article 1(5) of the General Authorisation.
+Indeed, under the proposal, that Article, which so far was providing that hybrid mail
+is not a postal service, was to read: "hybrid mail is a postal service".
+
+8. On 2 October 2006, the Ministry for transport, Post and Telecommunications
+submitted comments. It notably explained: "The inclusion of the hybrid mail service
+under postal services brings out the question of the mutual relationship between
+hybrid mail and the universal postal service and, specifically, the reserved area. In
+finding the solution on this issue, we would recommend to take especially into
+consideration the provisions of the Green Book of 1992 (point 3.7), Directive
+97/67/EC together with the Communication of the Commission on the application of
+
+4 Bulletin of the Ministry of Transport, Post and Telecommunications of 8 September 2006.
+
+EN 5 EN
+
+competition law in the postal sector (...) (98/C 39/02) (point 2.4), especially insofar
+as the relevant markets are concerned. Furthermore, we would like to draw your
+attention, for example, to the decision of the Commission no. 2001/176/EC related to
+the provision of hybrid mail services in Italy (enclosed). At the same time, we
+recommend to you that you consult the solution of the issue of hybrid mail with the
+Antimonopoly Office of the Slovak Republic."
+
+9. However, on 6 October 2006, the Antimonopoly Office of the Slovak Republic
+indicated that, in its view, the draft General Authorisation would infringe the Postal
+Act as well as EU law5. Indeed, the national competition authority stated that:
+
+"by qualifying hybrid mail as a postal service, the Postal Office is going beyond § 2
+and § 4 of Act num. 570/2001 on Postal Services". The new authorisation "would
+enlarge the application of the Act 570/2001 on Postal Services, which is in theory not
+lawful". Moreover, it indicated that the "Ratification of this proposed amendment
+could be considered as an infringement of Art. 86(1) of the EC Treaty in conjunction
+with Art. 82 of the EC Treaty".
+
+10. In the same vein, TNT Post Slovensko (hereinafter "TNT"), which recently started
+providing hybrid mail services in Slovakia, lodged a detailed statement to the Postal
+Regulatory Office in October 2006 to protest against the proposed amendment:
+
+"the hybrid service provider provides services where the provider receives an order
+or communication in electronic form from the ordering party, based on which it
+carries out the specific activity of producing the obtained electronic information in
+printed form and creating a postal item. Collection of the postal item pursuant to
+Section 4 (1) of the Act on Postal Services therefore does not take place in the case of
+hybrid mail. The provider only subsequently produces the item in its physical form
+and consequently delivers it to the person as instructed by the ordering party”.
+
+11. The Postal Regulatory Office replied to TNT on 5 December 2006, indicating that
+the amendment would not be adopted owing to the arguments raised by TNT and
+other objecting parties:
+
+"After reviewing your objections and the resulting request, the proposal for change
+of the concerned provision and overall contribution to the regulation of market of
+postal services have been reconsidered. We inform you that your objections were
+reflected and the Art. 1 (5) [the provision that qualified hybrid mail as a postal
+service] was released from the changes of the General Authorisation. [...] With
+respect to the objections and standpoints of other parties concerned we assume that
+the release of Art. 1 (5) from the proposed change of General Authorisation is a
+clear expression of their evaluation and reflection."
+
+12. As announced by the Postal Regulatory Office, the draft amendment was in fine not
+adopted.
+
+5 Letter from the Antimonopoly Office of the Slovak Republic to the Postal Regulatory Office of 6
+October 2006.
+
+EN 6 EN
+
+13. On 30 March 2007, TNT sought clarification from the Ministry of Transport, Post
+and Telecommunications as to whether any legislation was in preparation with a
+view to changing the applicable framework.
+
+14. The Ministry replied on 10 April 2007 that that was not the case:
+
+"With respect to the provision of postal services, MTPT SR currently does not
+prepare any amendment to Act No. 507/2001 Coll. on Postal Services as amended."
+
+15. In June 2007, Slovenská Pošta lodged a complaint with the Postal Regulatory Office
+against Direct Marketing a.s. ("Direct Marketing") which is PD's mother company.
+The background of that complaint was a marketing campaign by UniCredit Bank
+Slovakia and ABB Bank, which had recently merged. As part of that campaign,
+correspondence content was electronically transferred to Direct Marketing, which
+printed that content and handed over these items to PD. PD then distributed the
+items. Slovenská Pošta alleged that this activity infringed its exclusive right and
+submitted that the service in question fell within the reserved area. Slovenská Pošta
+lodged a number of similar complaints in 2007 and 2008 for an alleged breach of the
+postal monopoly, none of which having reached a final decision so far.
+
+16. In a decision dated 25 September 2007, the Postal Regulatory Office rejected the
+complaint and stated:
+
+"According to the Postal Service Act, there is no unambiguous obligation to deliver
+mail exclusively through the network of the universal service provider. Any physical
+or legal person can choose the mode of d
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+asis, the assumption
+
+51 This figure is the result of a "optimistic scenario". The "pessimistic scenario" would according to
+Slovenská Pošta lead to revenues losses of about 1.3 billion SKK.
+
+EN 37 EN
+
+according to which the delivery of all bulk mail items may potentially be diverted
+from it is consequently not supported by facts.
+
+187. Third, the material made available to the Commission by the Slovak government and
+by Slovenská Pošta as factual background for their submission on Article 86(2) do
+not support the contention according to which Slovenská Pošta would lose at least
+20% of the market for the delivery of bulk mail in general by 2010, in a market
+environment where prices would have already gone down by 30%. Against this
+background, such a scenario has not been observed in Sweden52, Germany or the UK
+where postal market have been liberalised where postal incumbents were able to
+sustain their market share above 90% despite competition.
+
+188. Fourth, the Slovak government itself conceded that the bulk mail segment has been
+growing significantly in Slovakia over the two last years: "The favourable financial
+situation of Slovenská pošta is currently influenced by the favourable trend in the
+area of mail submitted in bulk, such as invoices and account statements".53
+According to Slovenská Pošta's annual reports, the growth in value of this segment in
+terms of revenues was indeed 13.58% in 2007 and 20.58% in 2006. According to the
+data submitted by Slovenská Pošta, the growth in volume was indeed 11% in 2007.
+Moreover, in the studies on the cost of the universal service mentioned above,
+Slovenská Pošta indicated that the number of delivered items per inhabitant in
+Slovakia is currently low compared to the EU average, which suggests that the
+segment still has a significant growth potential in the long term54. The assumption
+under which the mail volume will remain unchanged is thus not supported by facts.
+
+189. Fifth, Slovenská Pošta's assumption according to which prices may decrease by 30%
+is purely speculative. A price decrease requires first an alleviation of the pricing
+obligations currently imposed on Slovenská Pošta. In this context, the VAT
+advantage which has been granted to Slovenská Pošta as a result of its universal
+service obligation will enable Slovenská Pošta to maintain higher net prices than its
+competitors for clients which are exempted from VAT themselves, such as financial
+institutions, thus limiting the impact on the potential decline of prices on Slovenská
+Pošta. Moreover, a decrease in prices would further accelerate market growth in
+volume, thus limiting the impact in terms of revenues.
+
+190. Finally, the Commission notes that Slovenská Pošta did not deduct from the alleged
+loss in revenues any cost saving a reduced output would entail and did therefore not
+provide the Commission with a reliable estimate of the overall impact of allegedly
+reduced output on its profitability.
+
+191. On the basis of the above, no evidence supports the assertion that the financial
+stability of Slovenská Pošta's postal services would be threatened.
+
+192. The Commission therefore considers that the Slovak government and Slovenská
+Pošta did not provide sufficient evidence that the maintenance of the liberalisation of
+
+52 In Sweden, the market has been liberalised since 1993. Posten still has a market share above 90% (both
+in value and volume) on the addressed mail segment.
+53 Letter of the Slovak government dated 1 July 2008, comments to point 100-108 of the letter of formal
+notice.
+54 Slovenská Pošta's internal cost model annexed to the letter of 28 August 2008.
+
+EN 38 EN
+
+hybrid mail would jeopardise the achievement of the universal service or that such
+service could not be carried out under economically acceptable conditions.55
+
+193. Finally, the Slovak Republic would still have to establish that the extension of the
+postal monopoly to hybrid mail delivery is proportionate to the needs of universal
+service. In the Air Inter case, for instance, the CFI rejected the Article 86(2) defence
+considering that the applicant had "...not argued and still less established that,
+following the entry into force of Regulation No 2408/92, there was no appropriate
+alternative system capable of ensuring regional development and in particular of
+ensuring that loss-making routes continue to be financed." 56 In RTT57, the ECJ held
+that the exclusion or restriction of competition on the market for telephone
+equipment could not be justified under Article 86(2). It stated that the aim of
+ensuring that the equipment meets the essential requirement of the safety of the
+users, the safety of operating the network and the protection of the public networks
+could also be achieved by less restrictive means, e.g. by laying down specifications
+and establishing a procedure for type-approval.
+
+194. In this respect, neither the Slovak Republic nor Slovenská Pošta have established that
+the reservation of the delivery of hybrid mail would constitute the most proportionate
+measure to ensure the achievement of the universal service or that such service could
+not be carried out under economically acceptable conditions, taking into account the
+investments made by private operators to enter this market. Furthermore, given the
+uncertainty as regards the determination of any revenue losses and further taking into
+account that in any event the alleged negative effects on Slovenská Pošta's
+profitability would not occur before 2010 in a context where market opening is in
+any case due on 31 December 2012, it does not stem from the facts that the
+reservation of hybrid mail delivery would be proportionate to the needs of universal
+service.
+
+3.2.3. Extension of the monopoly is not necessary to ensure the quality of postal service
+provided by Slovenská Pošta's competitors
+
+195. The Slovak Authorities further submit that the status quo "might impair the quality of
+the postal services provided in Slovakia". They argue that alternative postal operators
+have destroyed postal items: "After 1 April 2008 it has been demonstrated that
+certain items of mail up to 50g have been distributed by alternative operators; some
+cases have been documented by the police. The mail items concerned were found in
+rubbish bins and did not bear the logo of Slovenská Pošta a.s., i.e. they were not
+distributed by means of the distribution network of Slovenská Pošta58 ".
+
+196. The Commission cannot accept this line of argument. First, under competitive
+conditions postal service providers have an obvious incentive to ensure that mail
+items entrusted to them are delivered to the recipients. Contracts are concluded
+
+55 See also Case T-260/94 Air Inter [1997] ECR II-997, paragraph 142.where the Court rejected the
+applicants claim related to Article 90 (2) EC [now Article 86(2)] observing that "It does not put a figure
+on the probable loss of revenue if other air carriers are allowed to compete with it on the two routes in
+question. Nor has it shown that that loss of income will be so great that it will be forced to abandon
+certain routes forming part of its network."
+56 Case T-260/94 Air Inter [1997] ECR II-997, paras. 138-143.
+57 Case C-18/88 RTT [1991] ECR I-5941.
+58 See answer of the Slovak Government of 27 June 2008.
+
+EN 39 EN
+
+accordingly. In particular, postal operators commit themselves to achieve certain
+quality targets. If they do not reach these targets and do not satisfy their customers,
+they risk losing these customers to competitors featuring a higher quality
+performance.
+
+197. Moreover, Article 9 of the Postal Directive allows Member States to condition the
+granting of authorisations to certain requirements in terms of quality, availability and
+performance of the postal services. To the extent that competitive forces are not
+sufficient to prevent postal items ending up in rubbish bins, this authorisation regime
+constitutes a much less intrusive and more flexible tool to ensure high quality
+standards. Against this background, the Commission considers that it is
+disproportionate to extend Slovenská Pošta's monopoly on the grounds that
+alternative postal operators have in some instances provided a service of bad quality.
+
+198. In its letter of 26 September 2008, Slovenská Pošta further alleges that the
+employment contracts of certain of its competitors are illegal. However, even if this
+were correct, it can properly be addressed under labour law and cannot justify the
+extension of postal reservation.
+
+3.2.4. Conclusion
+
+199. On the basis of the above, the Slovak government and Slovenská Pošta have failed to
+prove that the extension of the postal monopoly to hybrid mail services was
+necessary for the universal service to be provided under economically acceptable
+conditions.
+
+200. Pursuant to Article 86 (3) EC Treaty, "[T]he Commission shall ensure the
+application of the provisions of this Article and shall, where necessary, address
+appropriate directives or decisions to Member States."
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Article 5(2) of Act No. 507/2001 Coll. on Postal Services as amended, the General
+Authorization of the Postal Regulatory Office of 18 July 2008, the interpretation of these acts
+and their preceding versions by the Slovak authorities, in particular by the Postal Regulatory
+Office, as well as enforcement measures undertaken against private operators, are contrary to
+Article 86(1) of the EC Treaty, read in conjunction with Article 82 of the EC Treaty to the
+extent that they reserve to Slovenská Pošta the delivery of hybrid mail items which was
+previously open to competition and that they enforce such a reservation.
+
+Article 2
+The Slovak Republic shall inform the Commission, within one month of being notified of this
+decision, of the measures it has taken to put an end to the infringement identified in Article 1.
+
+Article 3
+
+This Decision is addressed to the Slovak Republic.
+
+EN 40 EN
+
+Done at Brussels,
+
+For the Commission
+[...]
+Member of the Commission
+
+EN 41 EN

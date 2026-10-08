@@ -1,0 +1,644 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+38.899
+
+DE DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 24.01.2007
+C(2006) 6762 endgültig
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 24.01.2007
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+Sache COMP/F/38.899 – GASISOLIERTE SCHALTANLAGEN
+
+(Nur der deutsche, der englische, der französische und der italienische Text sind
+verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DE DE
+
+INHALT
+.
+A - Einführung .......................................................................................................................... 7
+
+1. ADRESSATEN ........................................................................................................... 7
+
+2. ZUSAMMENFASSUNG DER ZUWIDERHANDLUNG ...................................... 8
+
+3. WERT DES WELTMARKTS .................................................................................. 8
+
+B. Vom Verfahren betroffene Branche .................................................................................. 9
+
+4. DIE BRANCHE DER GASISOLIERTEN SCHALTANLAGEN ......................... 9
+
+4.1. Produkt........................................................................................................................ 9
+
+4.2. Verfahrensbeteiligte ................................................................................................. 10
+
+4.2.1. ABB ............................................................................................................................ 10
+
+4.2.2. ALSTOM.................................................................................................................... 10
+
+4.2.3. AREVA ...................................................................................................................... 12
+
+4.2.4. Fuji ............................................................................................................................. 12
+
+4.2.5. Hitachi ....................................................................................................................... 13
+
+4.2.6. JAEPS ........................................................................................................................ 13
+
+4.2.7. Melco .......................................................................................................................... 13
+
+4.2.8. Schneider ................................................................................................................... 14
+
+4.2.9. Siemens ...................................................................................................................... 15
+
+4.2.10. TM T&D .................................................................................................................... 15
+
+4.2.11. Toshiba ...................................................................................................................... 15
+
+4.2.12. VA Technologie ......................................................................................................... 16
+
+4.3. Angebot von GIS-Projekten .................................................................................... 17
+
+4.4. Nachfrage nach GIS-Projekten ............................................................................... 18
+
+4.5. Zwischenstaatlicher Handel .................................................................................... 18
+
+C. Verfahren ........................................................................................................................... 18
+
+5. ERMITTLUNG DER KOMMISSION .................................................................. 18
+
+DE 2 DE
+
+D. Sachverhalt ......................................................................................................................... 20
+
+6. ORGANISATION UND FUNKTIONSWEISE DES KARTELLS ..................... 20
+
+6.1. Überblick über Umfang und Inhalt der GIS-Absprachen ................................... 20
+
+6.2. Übereinkunft, traditionelle Schwerpunkte der Unternehmen auf den
+Inlandsmärkten zu respektieren ............................................................................. 23
+
+6.3. Reservierte europäische Länder (europäische 'Stammländer') .......................... 24
+
+6.4. Kartellbestimmungen für GIS-Projekte außerhalb der 'Stammländer': GQ-
+Agreement und EQ-Agreement ................................................................................ 25
+
+6.4.1. Rahmenbestimmungen ............................................................................................ 25
+
+6.4.2. Unternehmen und Kontingente .............................................................................. 26
+
+6.4.3. Interne Organisation des Kartells............................................................................. 29
+
+6.4.4. Besonderheiten der Zuteilung europäischer Projekte (außerhalb der Stammländer)
+.................................................................................................................................... 31
+
+6.5. Umsetzung, Kontrolle und Durchsetzung der Kartellregeln und Verheimlichung
+des Kartells ............................................................................................................... 32
+
+6.5.1. Umsetzung der Kartellvereinbarungen .................................................................... 32
+
+6.5.2. Überwachung der Kartellvereinbarungen ................................................................ 33
+
+6.5.3. Durchsetzung der Kartellregeln................................................................................ 34
+
+6.5.4. Vorkehrungen zur Geheimhaltung von Treffen und Kontakten ............................ 34
+
+6.6. Chronologische Übersicht über die Entwicklung des Kartells ............................ 35
+
+6.6.1. Zusammenkünfte des Kartells .................................................................................. 36
+
+6.6.1.1. Unterbrechung der Kartellbeteiligung von Siemens und Hitachi ..................... 36
+
+6.6.1.2. Unterbrechung der Kartelltätigkeit von VA TECH und Schneider ................. 37
+
+6.6.1.3. Fortsetzung des Kartells nach dem Weggang von VA TECH/Schneider ......... 37
+
+6.6.1.4. Wiederaufnahme der Kartellbeteiligung von Siemens, VA TECH und Hitachi
+37
+
+6.6.1.5. Kartelltreffen zwischen März 2002 und Mai 2004 .............................................. 38
+
+6.6.2. Ende des Kartells ....................................................................................................... 38
+
+E. Rechtliche Würdigung ...................................................................................................... 39
+
+DE 3 DE
+
+7. ANWENDUNG VON ARTIKEL 81 EG-VERTRAG UND ARTIKEL 53 EWR-
+ABKOMMEN ........................................................................................................... 39
+
+7.1. EG-Vertrag und EWR-Abkommen........................................................................ 39
+
+7.1.1. Verhältnis von EG-Vertrag und EWR-Abkommen ................................................. 39
+
+7.1.2. Zuständigkeit ............................................................................................................ 39
+
+7.2. Anwendung von Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen ...... 39
+
+7.2.1. Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen ........................................ 39
+
+7.2.2. Art der Zuwiderhandlung im vorliegenden Fall ...................................................... 40
+
+7.2.2.1. Vereinbarungen und abgestimmte Verhaltensweisen ........................................ 40
+
+7.2.2.1.1. Grundsätze ........................................................................................................... 40
+
+7.2.2.1.2. Anwendung auf die vorliegende Sache .............................................................. 42
+
+7.2.2.2. Eine einzige fortdauernde Zuwiderhandlung ...................................................... 51
+
+7.2.2.2.1. Grundsätze ........................................................................................................... 51
+
+7.2.2.2.2. Anwendung auf die vorliegende Sache .............................................................. 52
+
+7.2.3. Beschränkung des Wettbewerbs ............................................................................... 60
+
+7.2.3.1. Grundsätze .............................................................................................................. 60
+
+7.2.3.2. Anwendung auf die vorliegende Sache ................................................................. 60
+
+7.2.4. Auswirkung auf den Handel zwischen Mitgliedstaaten und zwischen EWR-
+Vertragsparteien ........................................................................................................ 62
+
+7.2.4.1. Grundsätze .............................................................................................................. 62
+
+7.2.4.2. Anwendung auf die vorliegende Sache ................................................................. 63
+
+7.2.5. In Österreich, Finnland, Island, Liechtenstein, Norwegen und Schweden
+anzuwendende Bestimmungen des Wettbewerbsrechts ........................................... 65
+
+7.2.6. Dauer der Teilnahme an der Zuwiderhandlung ...................................................... 65
+
+7.2.7. Adressaten der Entscheidung ................................................................................... 68
+
+7.2.7.1. Grundsätze .............................................................................................................. 68
+
+7.2.7.2. Anwendung auf diesen Fall ................................................................................... 71
+
+ABB Ltd. ................................................................................................................................. 71
+
+DE 4 DE
+
+ALSTOM ................................................................................................................................. 71
+
+AREVA .................................................................................................................................... 77
+
+Fuji ........................................................................................................................................... 80
+
+Hitachi ..................................................................................................................................... 82
+
+JAEPS ...................................................................................................................................... 83
+
+Melco ....................................................................................................................................... 86
+
+Schneider ................................................................................................................................. 87
+
+Siemens AG ............................................................................................................................. 90
+
+Toshiba .................................................................................................................................... 91
+
+VA TECH ................................................................................................................................ 93
+
+8. ABHILFEN ............................................................................................................. 101
+
+8.1. Artikel 7 der Verordnung (EG) Nr. 1/2003 ......................................................... 101
+
+8.2. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 ........................................ 102
+
+8.3. Grundbetrag der Geldbußen ................................................................................ 102
+
+8.3.1. Schwere der Zuwiderhandlung ............................................................................. 102
+
+8.3.1.1. Art der Zuwiderhandlung ................................................................................... 102
+
+8.3.1.2. Konkrete Auswirkungen auf den Markt ............................................................ 103
+
+8.3.1.3. Umfang des räumlich relevanten Marktes ......................................................... 103
+
+8.3.1.4. Schlussfolgerung zur Schwere ............................................................................. 104
+
+8.3.2. Unterschiedliche Behandlung ............................................................................... 104
+
+8.3.3. Hinreichende Abschreckung .................................................................................. 106
+
+8.3.4. Dauer der Zuwiderhandlung .................................................................................. 107
+
+8.3.4.1. ABB ........................................................................................................................ 107
+
+8.3.4.2. ALSTOM und AREVA ........................................................................................ 107
+
+8.3.4.3. Fuji, Hitachi und JAEPS ..................................................................................... 108
+
+8.3.4.4. Melco und Toshiba ............................................................................................... 108
+
+8.3.4.5. Schneider und VA TECH/Siemens Aktiengesellschaft Österreich .................. 109
+
+DE 5 DE
+
+8.3.4.6. Siemens .................................................................................................................. 109
+
+8.3.4.7. Schlussfolgerung zu den Grundbeträgen ........................................................... 109
+
+8.4. Erschwerende und mildernde Umstände ............................................................. 111
+
+8.4.1. Erschwerende Umstände ....................................................................................... 111
+
+8.4.1.1. Erneute Zuwiderhandlung .................................................................................. 111
+
+8.4.1.2. Rolle des Anführers .............................................................................................. 111
+
+8.4.2. Mildernde Umstände ............................................................................................. 112
+
+8.4.2.1. Passive oder 'Mitläuferrolle' ............................................................................... 112
+
+8.4.2.2. Nichtumsetzung der Absprachen und fehlender Gewinn ................................ 113
+
+8.4.2.3. Vorzeitiges Abstellen der Zuwiderhandlung ..................................................... 114
+
+8.4.2.4. Erzwungene Teilnahme ....................................................................................... 114
+
+8.4.3. Schlussfolgerung zu den erschwerenden und mildernden Umständen ............. 114
+
+8.5. Anwendung der 10 %-Umsatzschwelle ................................................................ 116
+
+8.6. Anwendung der Kronzeugenregelung.................................................................. 117
+
+- ABB .......................................................................................................................... 117
+
+- Anträge auf Ermäßigung von Geldbußen .......
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e Beantwortung der Mitteilung der Beschwerdepunkte
+ebenfalls für diesen Zweck gezählt werden sollte. [...]
+
+(549) Fuji beschrieb [...] Fuji bestritt jedoch seine persönliche Teilnahme nach September
+2000 und seine Haftung für die von JAEPS begangene Zuwiderhandlung.
+
+(550) In Anbetracht der Tatsache, dass der Antrag von Fuji nach Versendung der Zustellung
+der Mitteilung der Beschwerdepunkte erfolgt ist, und des Inhalts des Antrags geht die
+Kommission davon aus, dass die Angaben von Fuji der Kommission nicht dazu
+verhalfen, den betreffenden Sachverhalt über das Bekannte hinaus nachzuweisen, da
+Fuji bereits festgestellte Sachverhaltselemente bestätigte, die bereits von der
+Kommission aufgrund anderer Beweise hinreichend nachgewiesen wurden. Es lieferte
+auch keine Gründe für neue Beschwerdepunkte. Der Beitrag der Angaben von Fuji
+erbrachte daher keinen erheblichen Mehrwert im Vergleich zu den Informationen, die
+
+DE 120 DE
+
+sich bei Antragstellung bereits im Besitz der Kommission befanden, und rechtfertigen
+damit nicht die Gewährung einer Ermäßigung der Geldbuße für Fuji nach der
+Kronzeugenregelung.
+
+- Schlussfolgerung
+
+(551) ABB sollte der Erlass der Geldbuße gewährt werden, die andernfalls gegen das
+Unternehmen festgesetzt worden wäre.
+
+8.7. Die Beträge der mit diesem Verfahren festzusetzenden Geldbußen
+
+(552) Es sollten somit gemäß Artikel 23 Absatz 2 der Verordnungen (EG) Nr. 1/2003 die
+folgenden Geldbußen festgesetzt werden:
+
+Tabelle XIII: verhängte Geldbußen
+
+Juristische Personen (EUR)
+ABB Ltd. 0
+ALSTOM (Société Anonyme) 65 025 000
+
+wovon
+
+gesamtschuldnerisch mit AREVA T&D SA 53 550 000
+AREVA T&D SA gesamtschuldnerisch mit ALSTOM (Société 53 550 000
+Anonyme)
+
+von dem Betrag von AREVA T&D SA, AREVA SA, AREVA
+T&D Holding SA und AREVA T&D AG gesamtschuldnerisch 25 500 000
+mit AREVA T&D SA für
+Fuji Electric Holdings Co., Ltd, und Fuji Electric Systems Co, 3 750 000105
+Ltd., gesamtschuldnerisch
+
+wovon
+
+gesamtschuldnerisch mit Hitachi Ltd. und Japan AE Power 1 350 000
+Systems Corporation
+Hitachi Ltd. 51 750 000106
+
+wovon
+
+gesamtschuldnerisch mit Hitachi Europe Ltd 48 375 000
+
+und
+
+gesamtschuldnerisch mit Japan AE Power Systems, Fuji 1 350 000
+Electric Holdings Co., Ltd., und Fuji Electric Systems Co, Ltd.
+
+105 Dieser Betrag besteht aus EUR 2 400 000 für die Zuwiderhandlung bis zum 1. Oktober 2002 und aus
+EUR 1 350 000 für die Zuwiderhandlung nach diesem Zeitpunkt.
+106 Dieser Betrag besteht aus EUR 48 375 000 für die Zuwiderhandlung bis zum 1. Oktober 2002 und aus
+EUR 3 375 000 für die Zuwiderhandlung nach diesem Zeitpunkt.
+
+DE 121 DE
+
+Mitsubishi Electric Corporation 118 575 000107
+
+wovon
+
+gesamtschuldnerisch mit Toshiba Corporation 4 650 000
+
+Toshiba Corporation 90 900 000108
+
+wovon
+
+gesamtschuldnerisch mit Mitsubishi Electric Corporation 4 650 000
+
+Schneider Electric SA 8 100 000
+
+wovon
+
+gesamtschuldnerisch mit Siemens Transmission & Distribution 4 500 000
+SA und Nuova Magrini S.p.A
+
+Siemens Transmission & Distribution Ltd 22 050 000
+
+wovon
+
+gesamtschuldnerisch mit Siemens Transmission & Distribution
+SA und Nuova Magrini SpA 17 550 000
+
+und
+
+gesamtschuldnerisch mit Siemens Aktiegesellschaft Österreich
+und VA TECH Transmission & Distribution GmbH & Co KEG 12 600 000
+
+Siemens AG 396 562 500
+
+107 Dieser Betrag besteht aus EUR 111 600 000 für die Zuwiderhandlung bis zum 1. Oktober 2002 und aus
+EUR 6 975 000 für die Zuwiderhandlung nach diesem Zeitpunkt.
+108 Dieser Betrag besteht aus EUR 81 600 000 für die Zuwiderhandlung bis zum 1. Oktober 2002 und aus
+EUR 9 300 000 für die Zuwiderhandlung nach diesem Zeitpunkt.
+
+DE 122 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Die nachstehenden Unternehmen haben gegen Artikel 81 EG-Vertrag und Artikel 53 EWR-
+Abkommen verstoßen, indem sie in den angegebenen Zeiträumen im EWR an einer
+Gesamtheit von Vereinbarungen und abgestimmten Verhaltensweisen betreffend den Sektor
+„Gasisolierte Schaltanlagen“ teilgenommen haben:
+a) ABB Ltd. vom 15. April 1988 bis 2. März 2004;
+
+b) ALSTOM (Société Anonyme) vom 15. April 1988 bis 8. Januar 2004;
+
+c) AREVA SA von 9. Januar 2004 bis 11. Mai 2004;
+
+d) AREVA T&D AG vom 22. Dezember 2003 bis 11. Mai 2004;
+
+e) AREVA T&D Holding SA von 9. Januar 2004 bis 11. Mai 2004;
+
+f) AREVA T&D SA vom 7. Dezember 1992 bis 11. Mai 2004;
+
+g) Fuji Electric Holdings Co., Ltd. vom 15. April 1988 bis 11. Mai 2004;
+
+h) Fuji Electric Systems Co, Ltd. vom 15. April 1988 bis 11. Mai 2004;
+
+i) Hitachi Ltd. vom 15. April 1988 bis 31. Dezember 1999 und vom 2. Juli 2002 bis
+11. Mai 2004;
+
+j) Hitachi Europe Ltd. vom 15. April 1988 bis 31. Dezember 1999 und vom 2. Juli 2002 bis
+30. September 2002;
+
+k) Japan AE Power Systems Corporation vom 1. Oktober 2002 bis 11. Mai 2004;
+
+l) Mitsubishi Electric Corporation vom 15. April 1988 bis 11. Mai 2004;
+
+m) Nuova Magrini Galileo S.p.A. vom 15. April 1988 bis 13. Dezember 2000 und vom 1.
+April 2002 bis 11. Mai 2004;
+
+n) Schneider Electric SA vom 15. April 1988 bis 13. Dezember 2000;
+
+o) Siemens AG vom 15. April 1988 bis 1. September 1999 und vom 26. März 2002 bis
+11. Mai 2004;
+
+p) Siemens Aktiengesellschaft Österreich vom 20. September 1998 bis 13. Dezember 2000
+und vom 1. April 2002 bis 11. Mai 2004;
+
+q) Siemens Transmission & Distribution Ltd. vom 15. April 1988 bis 13. Dezember 2000 and
+vom 1. April 2002 bis 11. Mai 2004;
+
+r) Siemens Transmission & Distribution SA vom 15. April 1988 bis 13. Dezember 2000 und
+vom 1. April 2002 bis 11. Mai 2004;
+
+DE 123 DE
+
+s) Toshiba Corporation vom 15. April 1988 bis 11. Mai 2004;
+
+t) VA TECH Transmission & Distribution GmbH & Co KEG vom 20. September 1998 bis
+13. Dezember 2000 und vom 1. April 2002 bis 11. Mai 2004.
+
+Artikel 2
+Für die in Artikel 1 genannten Zuwiderhandlungen werden folgende Geldbußen festgesetzt:
+a) ABB Ltd.: EUR 0;
+
+b) ALSTOM (Société Anonyme): EUR 11 475 000;
+
+c) ALSTOM (Société Anonyme): EUR 53 550 000, gesamtschuldnerisch mit AREVA
+T&D SA. Von dem Betrag von AREVA T&D SA (EUR 53 550 000), AREVA SA,
+AREVA T&D Holding SA und AREVA T&D AG gesamtschuldnerisch mit AREVA
+T&D SA: EUR 25 500 000;
+
+d) Fuji Electric Holdings Co., Ltd. gesamtschuldnerisch mit Fuji Electric Systems Co,
+Ltd.: EUR 2 400 000;
+
+e) Hitachi Ltd.: EUR 50 400 000, wovon gesamtschuldnerisch mit Hitachi Europe Ltd.:
+EUR 48 375 000;
+
+f) Japan AE Power Systems Corporation gesamtschuldnerisch mit Electric Holdings Co.,
+Ltd., Fuji Electric Systems Co, Ltd. und Hitachi Ltd.: EUR 1 350 000;
+
+g) Mitsubishi Electric Corporation: EUR 113 925 000;
+
+h) Mitsubishi Electric Corporation gesamtschuldnerisch mit Toshiba Corporation:
+EUR 4 650 000;
+
+i) Toshiba Corporation: EUR 86 250 000;
+
+j) Schneider Electric SA: EUR 3 600 000;
+
+k) Schneider Electric SA gesamtschuldnerisch mit Siemens Transmission & Distribution
+SA und Nuova Magrini Galileo S.p.A.: EUR 4 500 000;
+
+l) Siemens Transmission & Distribution Ltd.: EUR 22 050 000, wovon
+
+i) gesamtschuldnerisch mit Siemens Transmission & Distribution SA und Nuova
+Magrini Galileo S.p.A.: EUR 17 550 000, und
+
+ii) gesamtschuldnerisch mit Siemens Aktiengesellschaft Österreich und VA TECH
+Transmission & Distribution GmbH & Co KEG: EUR 12 600 000;
+
+m) Siemens AG: EUR 396 562 500;
+
+DE 124 DE
+
+Die Geldbußen sind innerhalb von drei Monaten ab dem Datum der Zustellung dieser
+Entscheidung in Euro auf folgendes Konto einzuzahlen:
+
+Konto Nr.:
+733-9061900-93 der Europäischen Kommission bei
+KBC Bank, Rond-Point Schuman 4, B-1040 Brüssel
+(SWIFT-Kode KREDBEBB – IBAN-Kode BE98 7339 0619 0093)
+
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte am ersten Tag des Monats,
+in dem diese Entscheidung erlassen worden ist, angewandt wird, zuzüglich 3,5 Prozentpunkte.
+
+Artikel 3
+Die in Artikel 1 genannten Unternehmen haben die in dem genannten Artikel genannte
+Zuwiderhandlung unverzüglich abzustellen, sofern dies noch nicht erfolgt ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 genannten Handlungen oder
+Verhaltensweisen sowie von allen Maßnahmen mit gleichem Zweck oder gleicher Wirkung
+ab.
+
+Artikel 4
+Diese Entscheidung ist gerichtet an:
+
+ABB LTD.
+Affolternstrasse 44
+PO Box 8131
+CH – 8050 Zürich
+Schweiz
+
+ALSTOM (Société anonyme)
+3, Avenue André Malraux
+Le Sextant
+FR - 92309 Levallois Perret Cedex
+Frankreich
+
+AREVA SA
+33 rue Lafayette
+F-75442 Paris Cédex 09
+Frankreich
+
+AREVA T&D AG
+Carl Sprecherstrasse 3
+CH - 5036 Oberentfelden
+Schweiz
+
+AREVA T&D HOLDING SA
+33 rue Lafayette
+F-75442 Paris Cédex 09
+Frankreich
+
+DE 125 DE
+
+AREVA T&D SA
+Tour Areva
+1 Place de la Coupole
+FR - 92084 Paris La Défense
+Frankreich
+
+FUJI ELECTRIC HOLDINGS CO., LTD
+11-2 Osaki 1-Chome
+Shinagawa-ku
+Tokyo 141-0032
+Japan
+
+FUJI ELECTRIC SYSTEMS CO., LTD
+11-2 Osaki 1-Chome
+Shinagawa-ku
+Tokyo 141-0032
+Japan
+
+HITACHI LTD.
+6-6, Marounichi 1 Chome
+Chiyoda-ku
+Tokyo 100-8010
+Japan
+
+HITACHI EUROPE LTD.
+Whitebrook Park
+Lower Cookham Road
+Maidenhead
+GB - Berkshire SL6 8YA
+Vereinigtes Königreich
+
+JAPAN AE POWER SYSTEMS CORPORATION
+8-3, Nishi-Shimbashi 3 Chome
+Minato-Ku
+Tokyo 105-0003
+Japan
+
+MITSUBISHI ELECTRIC CORPORATION
+2-7-3 Marunouchi
+Chiyoda-ku
+Tokyo 100-8310
+Japan
+
+NUOVA MAGRINI GALILEO S.P.A.
+Via Circonvallazione Est, 1
+IT - 24040 Stezzano
+Italien
+
+SCHNEIDER ELECTRIC SA
+
+DE 126 DE
+
+43-45, boulevard Franklin Roosevelt
+FR - 92500 Rueil-Malmaison
+Frankreich
+
+SIEMENS AG
+Freyeslebenstrasse 1
+DE - 91058 Erlangen
+Deutschland
+
+SIEMENS AG ÖSTERREICH
+Siemensstrasse 92
+AT - 1210 Wien
+Österreich
+
+SIEMENS TRANSMISSION & DISTRIBUTION LIMITED
+Sir William Siemens House
+Princess Road
+GB - Manchester M20 2UR
+Vereinigtes Königreich
+
+SIEMENS TRANSMISSION & DISTRIBUTION SA
+1, rue de la Neva
+FR - 38000 Grenoble
+Frankreich
+
+TOSHIBA CORPORATION
+1-1, Shibaura 1-Chome
+Minato-Ku
+Tokyo 105-8001
+Japan
+
+VA TECH TRANSMISSION & DISTRIBUTION GMBH & CO KEG
+Penzinger Strasse 76
+AT - 1140 Wien
+Österreich
+
+Diese Entscheidung ist gemäß Artikel 256 EG-Vertrag und Artikel 110 EWR-Abkommen
+vollstreckbar.
+Brüssel, den
+
+Für die Kommission
+Neelie KROES
+Mitglied der Kommission
+
+DE 127 DE

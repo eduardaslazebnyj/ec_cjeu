@@ -1,0 +1,386 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPÄISCHE KOMMISSION
+GD Wettbewerb
+
+SACHE AT.39523 - SLOVAK TELEKOM
+
+ANTITRUST VERFAHREN
+
+Verordnung (EG) Nr. 1/2003 des Rates
+
+Artikel 7 Verordnung (EG) Nr. 1/2003 des Rates
+
+Datum: 15/10/2014
+
+Dieser Text wird allein zum Zwecke der Information zugänglich gemacht. Eine
+Zusammenfassung dieses Beschlusses ist in allen Amtssprachen der EU im Amtsblatt der
+Europäischen Union veröffentlicht.
+
+Teile dieses Textes wurden gelöscht, um die Vertraulichkeit bestimmter Angaben zu wahren.
+Diese Teile wurden durch eine nichtvertrauliche Zusammenfassung in eckigen Klammern
+oder durch [...] ersetzt.
+
+DE DE
+
+EUROPÄISCHE
+KOMMISSION
+
+Brüssel, den 15.10.2014
+C(2014) 7465 final
+
+BESCHLUSS DER KOMMISSION
+
+vom 15.10.2014
+
+in einem Verfahren nach Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 54 des Abkommens über den Europäischen
+Wirtschaftsraum
+
+(AT.39523 - Slovak Telekom)
+
+(Nur der deutsche und englische Text sind verbindlich)
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. Einleitung ............................................................................................................. 16
+2. Parteien des Verfahrens........................................................................................ 16
+2.1. Slovak Telekom a.s. („ST“) ................................................................................. 16
+2.1.1. Das Verhältnis zwischen den Anteilseignern von ST.......................................... 16
+2.1.2. Die Unternehmensstruktur von ST....................................................................... 17
+2.1.2.1. Der Vorstand ........................................................................................................ 17
+2.1.2.2. Der Aufsichtsrat ................................................................................................... 18
+2.1.2.3. Die Hauptversammlung der Anteilseigner........................................................... 18
+2.1.2.4. Die nicht satzungsgemäßen Gremien zur Leitung von ST – die Geschäftsführung
+.............................................................................................................................. 19
+2.2. Deutsche Telekom AG („DT“) ............................................................................ 19
+3. Verfahren.............................................................................................................. 19
+4. Die Branche: Slovak Telekom a.s. und andere relevante Marktteilnehmer, die in
+der Slowakischen Republik Breitbanddienste anbieten ....................................... 22
+4.1. Einleitung ............................................................................................................. 22
+4.2. Slovak Telekom a.s. ............................................................................................. 22
+4.2.1. Tätigkeit von ST im Telekommunikationssektor................................................. 22
+4.3. Andere relevante Marktteilnehmer....................................................................... 23
+4.3.1. Nationale Festnetzbetreiber.................................................................................. 24
+4.3.2. Festnetzbetreiber mit besonderem Schwerpunkt.................................................. 26
+4.3.3. Regionale und lokale Festnetzbetreiber ............................................................... 27
+4.3.4. Mobilfunkbetreiber............................................................................................... 28
+4.4. Rechtsrahmen für die Entbündelung von Teilnehmeranschlüssen in der
+Slowakischen Republik........................................................................................ 28
+4.5. Entbündelung von Metallleitungs-Teilnehmeranschlüssen ................................. 33
+4.6. Netzabdeckung des DSL-Netzes von ST, das nach der Entbündelung der
+Teilnehmeranschlüsse vom ST-eigenen Netz zur Bereitstellung von
+Breitbanddiensten für Endkunden genutzt werden kann...................................... 36
+4.6.1. Anzahl der Haushalte, die theoretisch über die Teilnehmeranschlüsse von ST mit
+Breitbanddiensten versorgt werden könnten........................................................ 36
+4.6.2. „Versorgungsabdeckung“ des Teilnehmeranschlussnetzes von ST..................... 39
+4.6.3. „Technische Abdeckung“ des Teilnehmeranschlussnetzes von ST..................... 41
+4.6.4. Anträge zur Bereitstellung von Breitbandzugängen für neue Endkunden von ST,
+die aufgrund von technischen Netzeinschränkungen abgelehnt wurden.............. 43
+4.6.5. Das Netz von ST, das Bestandteil der technischen Abdeckung ist, wird bei
+Weitem nicht voll genutzt .................................................................................... 44
+
+DE 3 DE
+
+4.6.6. Die Abdeckung des von ST betriebenen Netzes mit entbündelten
+Teilnehmeranschlüssen ist größer als die Abdeckung seines „DSL-fähigen
+Netzes“ ................................................................................................................. 47
+5. Marktabgrenzung ................................................................................................. 51
+5.1. Sachlich relevante Märkte.................................................................................... 51
+5.1.1. Einleitung ............................................................................................................. 51
+5.1.2. Der Endkundenmarkt („Massenmarkt“) für Breitbanddienste, die an einem festen
+Standort angeboten werden .................................................................................. 52
+5.1.2.1. Substituierbarkeit zwischen Festnetz- und Mobilfunk-Breitbanddiensten .......... 55
+5.1.2.1.1 Qualität von Festnetz- und Mobilfunk-Breitbanddiensten................................... 57
+5.1.2.1.2 Datentransfer-Profile von Festnetz- und Mobilfunk-Breitbanddiensten............. 64
+5.1.2.1.3. Preise für Festnetz- und Mobilfunk-Breitbanddienste ......................................... 67
+5.1.2.1.4. Wechsel zwischen Festnetz- und Mobilfunk-Breitbanddiensten......................... 71
+5.1.2.1.5. Quantitative Analyse von ST zur Schätzung der Nachfrage von Endkunden nach
+Breitband-Internetzugängen in der Slowakischen Republik................................ 72
+5.1.2.2. Schlussfolgerungen zum Ausschluss von Mobilfunk-Breitbanddiensten vom
+Endkundenmassenmarkt für Breitbanddienste..................................................... 76
+5.1.3. Der Vorleistungsmarkt für den Zugang zu entbündelten Teilnehmeranschlüssen
+.............................................................................................................................. 77
+5.1.3.1. Einleitung ............................................................................................................. 77
+5.1.3.2. Zugang zu entbündelten Teilnehmeranschlüssen................................................. 79
+5.1.3.2.1 Die Entbündelung von Glasfasernetzen ist nicht Teil des Vorleistungsmarktes für
+die Entbündelung von Metallleitungs-Teilnehmeranschlüssen............................ 79
+5.1.3.2.2 Die Entbündelung von Kabelnetzen ist nicht Teil des Vorleistungsmarktes für die
+Entbündelung von Metallleitungs-Teilnehmeranschlüssen ................................. 83
+5.1.3.2.3 Die Entbündelung von Netzen mit drahtlosen Festnetzzugängen in der
+Slowakischen Republik ist nicht möglich und ist nicht dem Markt für Zugänge zu
+entbündelten Teilnehmeranschlüssen zuzurechnen ............................................. 84
+5.1.3.2.4 Die Entbündelung der Mobilfunknetze ist nicht Teil des Vorleistungsmarktes für
+die Entbündelung von Metallleitungs-Teilnehmeranschlüssen............................ 86
+5.1.3.2.5 Breitbandzugänge auf der Vorleistungsebene (auf nationaler Ebene (IP-Ebene)
+oder auf regionaler Ebene (ATM/Ethernet)) sind nicht Teil des betreffenden
+Vorleistungsmarktes in der Slowakischen Republik............................................ 87
+5.1.3.2.6 Fazit der Kommission zur Abgrenzung des relevanten Vorleistungsmarktes für
+Zugänge zu entbündelten Teilnehmeranschlüssen............................................... 90
+5.1.3.3. Es ist nicht notwendig, die Unerlässlichkeit des Vorleistungs-Inputs entbündelter
+Teilnehmeranschlüsse für die Bereitstellung von Breitbanddiensten für
+Endkunden nachzuweisen, wie dies von ST in der Erwiderung auf die Mitteilung
+der Beschwerdepunkte behauptet wird ................................................................ 90
+
+DE 4 DE
+
+5.1.3.4. Es existiert keine Vorschrift, die verlangt, dass zunächst eine Analyse der
+betroffenen Endkundenmärkte durchgeführt wird, bevor ein Vorleistungsmarkt
+definiert werden kann........................................................................................... 92
+5.1.3.5. Bei der Abgrenzung des sachlich relevanten Marktes können unter anderem die
+rechtlich bindenden regulatorischen Verpflichtungen berücksichtigt werden..... 93
+5.1.3.6. Mittelbarer Wettbewerbsdruck auf dem Endkundenmarkt für Breitbanddienste
+sollte bei der Abgrenzung des Vorleistungsmarktes für den Zugang zu
+entbündelten Teilnehmeranschlüssen unberücksichtigt bleiben .......................... 96
+5.1.3.7. Schlussfolgerung zur Abgrenzung des relevanten Vorleistungs-Produktmarktes
+............................................................................................................................ 100
+5.1.4. Die räumlich relevanten Märkte......................................................................... 100
+5.1.4.1. Räumliche Ausdehnung des Endkundenmassenmarktes für an festen Standorten
+angebotene Breitbanddienste.............................................................................. 100
+5.1.4.2. Räumliche Ausdehnung des Vorleistungsmarktes für den Zugang zu entbündelten
+Teilnehmeranschlüssen ...................................................................................... 106
+5.1.4.2.1. Ansichten von ST und DT zur Abgrenzung des räumlich relevanten
+Vorleistungsmarktes für Zugänge zu entbündelten Teilnehmeranschlüssen ..... 107
+5.2. Schlussfolgerung ................................................................................................ 110
+6. Beherrschende Stellung...................................................................................... 111
+6.1.1. Einleitung ........................................................................................................... 111
+6.1.2. Beherrschende Stellung auf dem Vorleistungsmarkt für den entbündelten Zugang
+zu Teilnehmeranschlüssen.................................................................................. 112
+6.1.2.1. Struktur des Vorleistungsmarktes für den Zugang zu entbündelten
+Teilnehmeranschlüsse ........................................................................................ 112
+6.1.2.2. Hindernisse für einen Eintritt in den Vorleistungsmarkt für den Zugang zu
+entbündelten Teilnehmeranschlüssen................................................................. 112
+6.1.2.3. Fehlen einer ausgleichenden Nachfragemacht und einer angemessenen
+nachfrageseitigen Verhandlungsmacht .............................................................. 115
+6.1.2.4. Argumente von ST auf der Grundlage einer inkorrekten Abgrenzung des sachlich
+relevanten Marktes ............................................................................................. 116
+6.1.2.5. Mittelbarer Wettbewerbsdruck aufgrund des Wettbewerbs auf dem
+Endkundenmarkt ................................................................................................ 116
+6.1.2.6. Von ST vorgelegte quantitative Analyse, welche den mittelbaren
+Wettbewerbsdruck schätzt.................................................................................. 119
+6.1.2.7. Schlussfolgerung zur beherrschenden Stellung auf dem Vorleistungsmarkt für
+den Zugang zu entbündelten Teilnehmeranschlüssen........................................ 120
+6.1.3. Beherrschende Stellung auf dem Endkundenmassenmarkt für Breitbanddienste,
+die an einem festen Standort angeboten werden ................................................ 121
+6.1.3.1. Einleitung ........................................................................................................... 121
+6.1.3.2. Analyse der Marktanteile ................................................................................... 121
+
+DE 5 DE
+
+6.1.3.3. Die gegenwärtigen Wettbewerber üben keinen hinreichenden Wettbewerbsdruck
+auf ST aus........................................................................................................... 123
+6.1.3.4. Erhebliche Markteintritts- und -expansionshindernisse für alternative Anbieter
+............................................................................................................................ 129
+6.1.3.5. Die Kunden üben keine nennenswerte ausgleichende Nachfragemacht aus...... 132
+6.1.3.6. Argumente von ST ............................................................................................. 133
+6.1.3.7. Schlussfolgerung bezüglich der beherrschenden Stellung von ST auf dem
+Endkundenmassenmarkt für Breitbanddienste an einem festen Standort .......... 137
+7. Zugangsverweigerung ........................................................................................ 138
+7.1. Rechtsrahmen für die Bewertung der missbräuchlichen Zugangsverweigerung138
+7.2. Die Vorabverpflichtung zur Gewährung eines Zugangs für alternative Anbieter
+zu den entbündelten Teilnehmeranschlüssen wurde ST von der zuständigen
+slowakischen Regulierungsbehörde in Anwendung der geltenden
+Rechtsvorschriften auferlegt .............................................................................. 143
+7.3. Die Bedeutung eines effizienten Zugangs zu xDSL über den entbündelten
+Teilnehmeranschluss auf Vorleistungsebene für alternative Betreiber.............. 146
+7.4. Die Ausschluss-Strategie von ST zum Schutz der eigenen marktbeherrschenden
+Stellung auf dem relevanten Markt .................................................................... 150
+7.5. Alternative Anbieter waren sehr daran interessiert, Zugang zu den
+Teilnehmeranschlüssen von ST zu erhalten....................................................... 154
+7.5.1. Verhandlungen mit GTS Slovakia ..................................................................... 160
+7.5.2. Verhandlungen mit Slovanet.............................................................................. 163
+7.5.3. Antrag von Orange auf Eingreifen der TÚSR.................................................... 165
+7.6. Die unfairen Bedingungen von ST..................................................................... 166
+7.6.1. Der Vertragsprozess auf der Grundlage des Standardangebots für entbündelte
+Teilnehmeranschlüsse ........................................................................................ 166
+7.6.2. ST enthielt alternativen Anbietern für die Entbündelung von
+Teilnehmeranschlüssen notwendige Netzinformationen vor ............................. 169
+7.6.2.1. Das Standardangebot für entbündelte Teilnehmerans
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+legentlich zum Austausch allgemeiner Informationen
+zusammen. Sie erörtern und bewerten beispielsweise Methoden zur Kostensenkung
+oder allgemeine Standards hinsichtlich der IT-Infrastruktur“, und sie „bewerten
+gemeinsame Plattformen und IT-Systeme“.16 DT argumentiert ferner, DT suche keine
+Systeme und Plattformen für ST aus, sondern „erörter[e] Potenziale zur Auswahl
+gemeinsamer Systeme und Plattformen, um Synergien zu erschließen“;17 die
+Tochtergesellschaften und verbundenen Unternehmen könnten nach eigenem
+Ermessen entscheiden, ob sie diese Systeme und Plattformen tatsächlich einführen
+möchten. Außerdem ergänzt DT: „[I]m Allgemeinen erfolgen Konsultationen mit DT
+in Bezug auf IT-Systeme grundsätzlich nur, wenn ST beabsichtigt, von einem
+allgemeinen Standard der Gruppe abzuweichen. In jedem Fall unterliegen
+Entscheidungen über die Einführung von IP-Systemen oder Plattformen unverändert
+der alleinigen Verantwortung des Vorstands von ST.“18
+
+13 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 4-5,
+nicht vertrauliche Fassung Dok. ID3248.
+14 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 4-5,
+nicht vertrauliche Fassung Dok. ID3248.
+15 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 5,
+nicht vertrauliche Fassung Dok. ID3248.
+16 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 6,
+nicht vertrauliche Fassung Dok. ID3248.
+17 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 6,
+nicht vertrauliche Fassung Dok. ID3248.
+18 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 6,
+nicht vertrauliche Fassung Dok. ID3248.
+
+125. Der DT-Geschäftsbereich Human Resources International (HR International)
+kooperiert beim Austausch von Mitarbeitern mit ST. Der Austausch von Mitarbeitern
+ist in der „Vereinbarung über internationale Mitarbeiterüberlassungen“ geregelt.19
+Gemäß dieser Vereinbarung hat sich DT verpflichtet, „ST Mitarbeiter für die
+Erbringung von Leistungen im fachlichen Bereich und im Managementbereich
+bereitzustellen“, und ST verpflichtet sich, DT dafür eine entsprechende Vergütung zu
+zahlen. Die überlassenen Mitarbeiter bleiben Beschäftigte von DT.20 ST kann
+Mitarbeiter ablehnen, wenn die betreffenden Personen nicht in der Lage sind, die
+benötigten Aufgaben in angemessener Weise zu erfüllen. Die überlassenen Mitarbeiter
+unterstehen in ihrer Tätigkeit den Weisungen von ST. Überlassene Mitarbeiter, die der
+Geschäftsführung angehören, erhalten Weisungen vom Vorstand.21
+126. DT erläutert in diesem Zusammenhang: „[D]ie Hauptfunktion des DT-Bereichs
+HR International ist die Unterstützung der internationalen Tochtergesellschaften von
+DT bzw. der mit DT verbundenen internationalen Unternehmen und die Bereitstellung
+von Instrumenten im Personalbereich für diese Gesellschaften. [Beschreibung des
+Einstellungsverfahrens für überlassene Mitarbeiter].“22 Außerdem argumentiert DT,
+ST sei im Personalbereich und bei Einstellungsentscheidungen unabhängig; dies gelte
+auch für Entscheidungen des Vorstands von ST über höhere Führungskräfte.23
+127. Bezüglich sonstiger Geschäftsbereiche von DT, die mit ST in Kontakt stehen, verweist
+DT in der Antwort auf das Auskunftsverlangen auch auf die für Produkte und
+Innovationen, Recht (Rechtsangelegenheiten Auslandsbeteiligungen) und Brand-
+Management (am Sitz von DT im Zusammenhang mit der Nutzung der T-Marken
+beratend tätig) zuständigen Geschäftsbereiche.24 Die Abteilung
+Konzernkommunikation (2008 eingerichteter Geschäftsbereich International
+Communications) steht in Bezug auf Presse- und Öffentlichkeitsarbeit mit ST in
+Kontakt; gelegentlich wird der Wortlaut kritischer Mitteilungen abgestimmt. ST
+übermittelt DT Übersichten über die Berichterstattung in der slowakischen Presse und
+entwirft Pressemitteilungen über die Finanzergebnisse von ST. In diesem
+Zusammenhang argumentiert DT, ST könne Stellungnahmen von DT nach eigenem
+Ermessen berücksichtigen oder übergehen.25
+128. Neben den oben genannten Geschäftsbereichen von DT steht auch der Bereich TRIG
+(Treasury and International Business) in Kontakt mit ST. In einer E-Mail eines
+Mitarbeiters von DT vom 15. Februar 2006 an die Regulierungsabteilung bei ST wird
+erläutert, dass dieser „kürzlich eingerichtete Geschäftsbereich am Sitz von DT Dr. Eick
+als Finanzvorstand von DT unmittelbar berichtspflichtig [sei]. Dieser
+Geschäftsbereich befasst sich aus Sicht der Anteilseigner mit der Situation der
+
+19 Vereinbarung zwischen ST und DT über internationale Mitarbeiterüberlassungen vom 19. Dezember
+2003, Anhang RFI100624_Q3_Annex1 der Antwort von DT auf das Auskunftsverlangen der
+Kommission vom 24. Juni 2010, Dok. ID3250.
+20 Artikel 1 der Vereinbarung zwischen ST und DT über internationale Mitarbeiterüberlassungen vom
+19. Dezember 2003, Anhang RFI100624_Q3_Annex1 der Antwort von DT auf das Auskunftsverlangen
+der Kommission vom 24. Juni 2010, Dok. ID3250.
+21 Artikel 2 und 4 der Vereinbarung zwischen ST und DT über internationale Mitarbeiterüberlassungen
+vom 19. Dezember 2003, Anhang RFI100624_Q3_Annex1 der Antwort von DT auf das
+Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID3250.
+22 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 10,
+nicht vertrauliche Fassung Dok. ID3248.
+23 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 10,
+nicht vertrauliche Fassung Dok. ID3248.
+24 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 6-8,
+nicht vertrauliche Fassung Dok. ID3248.
+25 Antwort von DT auf das Auskunftsverlangen der Kommission vom 24. Juni 2010, Dok. ID2352, S. 8,
+nicht vertrauliche Fassung Dok. ID3248.
+
+Tochtergesellschaften und mit den verbundenen Unternehmen in Mittel- und
+Osteuropa.“26 Außerdem stellt die Kommission ausgehend von dem von DT in der
+Antwort auf das Auskunftsverlangen vorgelegten Unternehmensdiagramm27 fest, dass
+sich zahlreiche weitere Geschäftsbereiche mit Tochtergesellschaften und verbundenen
+Unternehmen in Südosteuropa beschäftigen; dies gilt beispielsweise für die Abteilung
+„Finance SEE“ die aus vier Geschäftsbereichen besteht, die u. a. für Financial
+Controlling und Functional Controlling sowie für die Bereiche Corporate Finance und
+Corporate Governance bei den Tochtergesellschaften und verbundenen Unternehmen
+in Südosteuropa zuständig sind.
+
+26 E-Mail vom 15. Februar 2006, Anhang Q_5_282 der Antwort von ST auf das Auskunftsverlangen der
+Kommission vom 24. Juni 2010, Dok. 3216.
+27 Unternehmensdiagramm DT, aus der die Stellung des Bereichs Area Management Slowakei innerhalb
+von DT hervorgeht (Anhang RFI_100624_Q2_Annex1 der Antwort von DT auf das
+Auskunftsverlangen der Kommission vom 24. Juni 2010), Dok. ID2350 (CD-Liste), nicht vertrauliche
+Fassung Dok. ID3249.
+
+Anhang IV (zu Fußnote 1797) – nur für DT
+
+„Durch den Kauf wird die Deutsche Telekom über ST die volle Managementkontrolle
+an der EuroTel (die z. Zt. durch starke Minoritätenrechte mitbestimmt wird) erhalten.
+Diese wird nur durch die bestehenden Minderheitsrechte des slowakischen Staates bei
+ST eingeschränkt, die sich im Wesentlichen auf [...] beziehen. In der Vergangenheit
+konnte hierzu immer Einigkeit zwischen den beiden Gesellschaftern der ST erzielt
+werden.“
+
+Anhang V (zu Randnummer 1292 Buchstabe a) – nur für DT
+
+[Bewertung einer Technologie-Strategie aus der Sicht der DT].
+
+Anhang VI (zu Randnummer 1292 Buchstabe b) – nur für DT
+
+[Kurze Beschreibung eines Projekts der ST aus der Sicht der DT und Begründung für
+eine Abstimmungsempfehlung].
+
+Anhang VII (zu Randnummer 1315) – nur für DT
+
+„Gerne bereiten wir eine entsprechende ‚Empfehlung‘ von Herrn Dr. Höhmann an die
+ST vor. Ohne eine solche, mit Nachdruck ausgesprochene ‚Bitte‘, halte ich es auch in
+Zukunft nicht für möglich, rechtzeitig solche Prozeße aufzufangen.“
+
+Anhang VIII (zu Fußnote 1894) – nur für DT
+
+„Gerne bereiten wir eine entsprechende ‚Empfehlung‘ von Herrn Dr. Höhmann an die
+ST vor. Ohne eine solche, mit Nachdruck ausgesprochene ‚Bitte‘, halte ich es auch in
+Zukunft nicht für möglich, rechtzeitig solche Prozeße aufzufangen.“
+
+Anhang IX (zu Fußnote 1895) – nur für DT
+
+[Erfahrungen von DT aus der Zusammenarbeit mit Unternehmen, an denen DT
+Anteile besitzt.]
+
+Anhang X (zu Randnummer 1347) – nur für DT
+
+„Die IMMs dienten [...] dazu, im Hinblick auf die in der Finanzplanung festgelegten
+Ziele, insbesondere EBITDA und Cash Flow, allgemein einen Überblick über die
+Geschäftsentwicklung der ST zu erhalten.“
+
+Anhang XI (zu Fußnote 2063) – nur für DT
+
+„Vorantreiben des „Projekts [β]“, um die Genehmigung über die DT-
+Vorstandsmitglieder in den Entscheidungsgremien von ST zu erhalten“
+
+Anhang XII (zu Fußnote 2083) – nur für DT
+
+„[Einschätzung des weiteren Vorgehens einer Abteilung von DT].“
+
+Anhang XIII (zu Fußnote 2123) – nur für DT
+
+[vertrauliche Zahl]
+
+Anhang XIV (zu Fußnote 2123) – nur für DT
+
+[vertrauliche Zahl]
+
+Anhang XV (zu Randnummer 1440) – nur für DT
+
+[DT interne Stellungnahme und Einschätzung der Risiken des Projekt λ und
+Schlußfolgerung, dass das Projekt nicht weiter verfolgt werden und beendet werden
+sollte.]
+
+Anhang XVI (zu Randnummer 1462) – nur für DT
+
+[Zitat aus einem vertraulichen Dokument].
+
+Anhang XVII (zu Fußnote 2163) – nur für DT
+
+„Durch den Kauf wird die Deutsche Telekom über ST die volle Managementkontrolle
+an der EuroTel (die z. Zt. durch starke Minoritätenrechte mitbestimmt wird) erhalten.
+Diese wird nur durch die bestehenden Minderheitsrechte des slowakischen Staates bei
+ST eingeschränkt, die sich im Wesentlichen [...] beziehen. In der Vergangenheit
+konnte hierzu immer Einigkeit zwischen den beiden Gesellschaftern der ST erzielt
+werden.“
+
+Anhang XVIII (zu Fußnote 2164) – nur für DT
+
+[Zitat aus einem vertraulichen Dokument].
+
+Anhang XIX (zu Randnummer 1465) – nur für DT
+
+[Zitat aus einem vertraulichen Dokument].

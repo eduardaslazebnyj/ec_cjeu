@@ -1,0 +1,471 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+L 239/18 EN Official Journal of the European Communities 6.9.2002
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 5 December 2001
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(Case No COMP/E-1/36 604 — Citric acid
+
+(notified under document number C(2001) 3923)
+
+(Only the German, English and Dutch texts are authentic)
+
+(Text with EEA relevance)
+
+(2002/742/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85
+and 86 of the Treaty (1), as last amended by Regulation (EC) No 1216/1999 (2), and in particular Articles 3
+and 15(2) thereof,
+
+Having regard to the Commission Decision of 28 March 2000 to open a proceeding in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the objections
+raised by the Commission pursuant to Article 19(1) of Regulation No 17 and Commission Regulation (EC)
+No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and
+86 of the EC Treaty (3),
+
+Having consulted the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,
+
+Whereas:
+
+PART I — FACTS
+
+A. SUMMARY OF THE INFRINGEMENT
+
+(1) This Decision is addressed to the following undertakings:
+— Archer Daniels Midland Company Inc.,
+— Cerestar Bioproducts BV,
+— F. Hoffmann-La Roche AG,
+— Haarmann & Reimer Corporation,
+— Jungbunzlauer AG.
+
+(1) OJ 13, 21.2.1962, p. 204/62.
+(2) OJ L 148, 15.6.1999, p. 5.
+(3) OJ L 354, 30.12.1998, p. 18.
+
+6.9.2002 EN Official Journal of the European Communities L 239/19
+
+(2) The infringement consists in the participation of those producers of citric acid in a continuing
+agreement and/or concerted action contrary to Article 81(1) of the Treaty and Article 53 of the EEA
+Agreement (from 1 January 1994) covering the whole of the EEA, by which they fixed market shares
+for citric acid, agreed on price targets for the product, agreed on price lists for the product, agreed to
+eliminate discounts for all but the five largest customers, and set up machinery to monitor and
+enforce their agreements.
+
+(3) The undertakings participated in the infringement from March 1991 until May 1995 in the case of
+Archer Daniels Midland Company Inc, Haarmann & Reimer Corporation, F. Hoffmann-La Roche AG
+and Jungbunzlauer AG, and from May 1992 until May 1995 in the case of Cerestar Bioproducts BV.
+
+B. THE CITRIC ACID INDUSTRY
+
+1. THE PRODUCT
+
+(4) Citric acid is widely distributed throughout nature, occurring in both plants and animals. It is used
+primarily in the food and beverage industry, where its high solubility, tart flavour, acidity and
+buffering capabilities make it the most widely adopted acidulent/preservative worldwide.
+
+(5) Citric acid was originally obtained by the physical extraction of the acid from lemon juice.
+Nowadays, the commercial production of citric acid is mostly accomplished by fermentation
+processes using either dextrose or beet molasses as raw material and Aspergillus niger mould as the
+fermenting organism. Fermentation can be carried out in deep tanks (submerged fermentation, which
+is the most commonly preferred method) or shallow pans (surface fermentation). Fermentation
+produces liquid citric acid. This is then purified, concentrated and crystallised.
+
+(6) There are various types of citric acid, and their moisture content varies. Citric acid monohydrate
+(CAH), with a moisture content of approximately 8 %, and citric acid anhydrous (CAA), with a
+moisture content of approximately 0,5 %, are mainly used in food and beverages. Citric acid solution
+with a moisture content of approximately 50 %, and tri-sodium citrate (a citric acid salt obtained
+through the neutralisation of citric acid by caustic soda), are used in detergents and other industrial
+sectors.
+
+(7) The applications of citric acid are varied and can be divided into four main groups.
+
+(8) Food and Beverages. This segment accounted for the largest share of citric acid consumption representing almost 60 % of the total Community market in 1994. The main application is in non-alcoholic beverages. Citric acid accounts for almost three quarters of total acidulent consumption in the
+Community (measured in volume). Other acidulents include malic acid and fumaric acid, but citric
+acid remains the overwhelming choice for this application, mainly because of its high solubility rate.
+
+(9) During the 1990s, the strong growth in the soft drink market in Western Europe led to increased
+consumption of citric acid. In the food sector, citric acid is used in jams, jellies, gelatine desserts,
+canned fruits and vegetables. It is used for improving the taste of ice cream, cake fillings and fruit
+creams. It also has certain uses in the meat and bakery industries (flour processing and as a baking
+additive).
+
+(10) Household detergents and cleansers. Citric acid and citrates were extensively introduced in detergents at
+the beginning of the 1990s to replace phosphates which were deemed to be environmentally
+damaging. They are used as non-phosphate co-builders, usually together with a builder such as
+zeolite, in heavy-duty powder laundry detergents. In the light-duty powders, builder concentrations
+are usually low and there is no need for the addition of a co-builder such as citrate. Citric acid and
+citrates are also used in surface-cleaning products.
+
+(11) The key advantages of citrates in detergent formulations are its biodegradability and the ease of its
+processing, particularly in formulations containing zeolite. To contain costs, large detergent companies usually buy citric acid and convert it on site to the required citrate.
+
+L 239/20 EN Official Journal of the European Communities 6.9.2002
+
+(12) Detergent use of citric acid in 1994 represented over 23 % of total citric acid consumption in
+Western Europe. The sector has a high price elasticity, and therefore the presence of citric acid very
+much depends on its being competitively priced.
+
+(13) Pharmaceuticals and cosmetics. The Western European market for citric acid used in this sector
+accounted for over 8 % of total citric acid consumption (1994). Pharmaceutical applications include
+both human and veterinary preparations. For human use, effervescent tablets and powders are the
+largest segment, followed by syrups and anticoagulants.
+
+(14) Industrial and other uses. In 1994 this sector represented over 9 % of total citric acid consumption in
+Western Europe. The main industrial use of citric acid is in coal power stations where it is used for
+the cleaning and de-sedimentation of furnace walls. Other technical applications for citric acid
+include its use in metal surface pre-treatment prior to coating and in industrial cleaning. For all these
+applications its substitution by other organic or mineral acids is possible.
+
+2. THE PRODUCERS
+
+(a) Archer Daniels Midland Company Inc.
+
+(15) Archer Daniels Midland Company Inc. (ADM) is the ultimate parent company of a group of
+companies processing corn, soybeans and wheat. ADM's corn by-products include syrups, sweeteners, citric and lactic acids, and ethanol. The company processes soybeans and other oilseeds into
+vegetable oils and by-products ranging from salad oils and margarine to industrial chemicals and
+pulp. ADM also produces wheat and durum flour for bakeries and pasta makers.
+
+(16) ADM owns or leases over 350 processing plants worldwide, including the world's largest soya bean
+processing facility in Europoort, Netherlands, the world's largest multiseed complex in Hamburg,
+Germany, and the world's largest softseed crushing plant in Erith, United Kingdom. ADM employs
+approximately 23 000 people worldwide and had a global turnover of EUR 13 935,95 million (USD
+12 876,82 million) in 2000.
+
+(17) ADM entered the citric acid market in 1991 as a result of its acquisition of Pfizer Chemical
+Corporation's production facilities in this market, taking over its plant at Ringaskiddy, Ireland.
+
+(b) Cerestar Bioproducts BV
+
+(18) Cerestar Bioproducts BV (Cerestar Bioproducts) is a wholly owned subsidiary of Cerestar SA, the
+European leader of starch-based products. The latter was listed on the Paris stock exchange on 2 July
+2001, following the division of the Eridania Béghin-Say group (EBS) into four independent entities
+and its subsequent dissolution. Cerestar S.A, which has 17 production sites and around 3 900
+employees worldwide, had pro forma sales of EUR 1 693,20 million in 2000. The Italian-based
+Montedison group currently holds approximately 54 % of its shares.
+
+(19) Until its break-up, EBS was one of the world's largest agro-industrial groups, active in the following
+market areas: sugar and derivatives, starch and derivatives, oilseed processing and marketing, animal
+nutrition, and olive oil, herbs and spices. In 2000, EBS had a turnover of EUR 9 805,3 million and
+employed approximately 21 700 people in over 30 countries at 165 production sites.
+
+(20) Before the demerger was carried out, Cerestar Bioproducts was a wholly-owned subsidiary of
+Cerestar Holding BV. The latter was a subsidiary of Eridania Béghin-Say SA, the ultimate parent
+company of EBS.
+
+6.9.2002 EN Official Journal of the European Communities L 239/21
+
+(21) Cerestar Bioproducts BV became responsible for the production, sale and marketing of citric acid
+following the acquisition by EBS, on 31 December 1991, of Biacor's citric acid plant in Italy. In
+2000, Cerestar Bioproducts BV reported sales of EUR 17,51 million.
+
+(c) Haarmann & Reimer Corporation
+
+(22) Haarmann & Reimer Corporation (Haarmann & Reimer) is a wholly-owned subsidiary of the Bayer
+Corporation (USA) which itself is a wholly-owned subsidiary of the German-based company Bayer
+AG.
+
+(23) Bayer AG is the ultimate parent company of a chemical and healthcare group comprising about 350
+individual companies in 150 countries. The Bayer group employs over 120 000 people worldwide,
+and reported turnover of EUR 30 791 million in 2000.
+
+(24) Between 1991 and 1995 the worldwide citric acid manufacturing facilities of the Bayer group were
+managed by Haarmann & Reimer through its Food Ingredients Division (Haarmann & Reimer FID)
+which itself was headquartered (until 1996) in Indiana, USA. Haarmann & Reimer directed the global
+sales of citric acid and was responsible for worldwide pricing throughout this period. Haarmann &
+Reimer FID had global sales of USD 293 million during 1996 and employed around 1 300 people.
+
+(25) In April 1996 responsibility for the business of Haarmann & Reimer FID was transferred to Bayer
+plc, a British subsidiary of Bayer AG, and subsequently sold in June 1998 to the Tate & Lyle group.
+
+(26) In 1999, Haarmann & Reimer reported sales of USD 200 million (EUR 187,62 million). Haarmann
+& Reimer [Corporation] is now a holding company controlling 51 % of the Haarmann & Reimer
+partnership. In 2000 the partnership itself achieved a turnover of USD 187,73 million (EUR 203,17
+million).
+
+(d) F. Hoffmann-La Roche AG
+
+(27) F. Hoffmann-La Roche AG (Hoffmann-La Roche) is a leading international company in its three main
+areas of operation: pharmaceuticals, diagnostics, and vitamins and fine chemicals.
+
+(28) The Hoffmann-La Roche group employs almost 65 000 people worldwide. Its overall turnover
+amounted to EUR 18 403 million in 2000. Sales by region in 2000 were 38 % in Europe, 37 % in
+North America, 10 % in Latin America, 12 % in Asia and 3 % in Africa, Australia and Oceania.
+
+(29) Citric acid sales are part of the Vitamins and Fine Chemicals division of the Group which achieved
+sales of EUR 2 314 million in 2000, representing 13 % of the Group's overall sales. Hoffmann-La
+Roche's citric acid manufacturing facilities are located in Tienen, Belgium, and are managed by its
+subsidiary, SA Citrique Belge NV (Citrique Belge).
+
+(e) Jungbunzlauer AG
+
+(30) Jungbunzlauer AG (Jungbunzlauer) is a Swiss-based group of companies currently headquartered in
+Basel. The group is ultimately controlled by the holding Jungbunzlauer Holding AG, all the shares of
+which are held by a family through the holding Montana AG. The headquarters of the group are
+located in the premises of Jungbunzlauer AG, the management company which, since 1993, has run
+the business owned by Jungbunzlauer Holding AG. Before 1993, the whole group was directed by
+Jungbunzlauer Ges.m.b.H, Vienna, Austria.
+
+(31) The Jungbunzlauer group is engaged in the manufacture and marketing of ingredients used in the
+food and beverages industry, and the pharmaceutical and cosmetics industry, as well as for various
+other industrial applications. It is one of the leading manufacturers of citric acid, xantham gum,
+citrates, gluconates and glucose.
+
+L 239/22 EN Official Journal of the European Communities 6.9.2002
+
+(32) The group employs approximately 500 people and has subsidiaries in five European countries
+(France, Germany, the Netherlands, Austria and Hungary) as well as in the United States of America,
+Singapore and Indonesia. Total turnover in 2000 was in the order of EUR 314 million. Jungbunzlauer's citric acid production facilities are currently located in Austria, Germany and France and
+Indonesia. A new citric acid plant is being built in Canada.
+
+(33) Over the period considered in the present Decision, all citric acid production was handled by
+Jungbunzlauer Ges.m.b.H. The latter also handled the distribution of the product until 1993, when
+this responsibility passed to another legal entity, namely Jungbunzlauer International AG.
+
+(34) The executives from the Jungbunzlauer group who were involved in the facts material to the present
+Decision were employed either by Jungbunzlauer Ges.m.b.H or by Jungbunzlauer AG. For the sake of
+clarity, and taking into account the fact that Jungbunzlauer Ges.m.b.H and Jungbunzlauer AG
+successively directed the whole group's operations, both entities will be referred to as ‘Jungbunzlauer’
+unless otherwise indicated.
+
+(f) Other producers
+
+(i) Chinese
+
+(35) The Chinese citric acid industry grew very substantially at the end of the 1980s and experienced a
+threefold increase in its annual production levels between 1990 and 1994, peaking at over
+200 000 mt (4)/year. The industry is heavily orientated towards the export market with domestic
+consumption accounting for around 20 % to 25 % of total production. All Chinese production is
+channelled through distributor companies and agents. There are very few large citric acid producers
+in the country and the total number of producers was estimated at 120 in 1994. Producers rely on
+potatoes from nearby farms for raw materials and the majority of fermentation processes are carried
+out in reduced facilities that can be operated with a low level of investment. The Chinese ci
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+d therefore falls, as such, within the ambit of an
+undertaking's duty under Article 11 of Regulation No 17 to reply fully to such requests.
+
+(319) The Commission accordingly concludes that Jungbunzlauer fulfils the condition set out in the first
+indent of Section D(2) of the Leniency Notice and grants Jungbunzlauer a 40 % reduction of the fine
+that would have been imposed if it had not cooperated with the Commission.
+
+(320) Haarmann & Reimer submits in its reply to the Statement of Objections that it cooperated with the
+Commission and provided it with a comprehensive description of the infringement. Indeed, on 28
+April 1999, Bayer plc filed an application under the Leniency Notice and provided a written
+statement supplementing its reply to the request for information of 3 March 1999.
+
+(321) The Commission accepts that an application under the Leniency Notice was filed on behalf of
+Haarmann & Reimer and that its cooperation began before a Statement of Objections was issued.
+Haarmann & Reimer's statement confirmed the vast majority of the meetings, the identity of the
+participants, as well as a number of the facts in question.
+
+(135) Jungbunzlauer's reply to the Statement of Objections [7706].
+
+6.9.2002 EN Official Journal of the European Communities L 239/63
+
+(322) The Commission notes nevertheless that a large part of the information provided was in reply to the
+request for information of 3 March 1999 and therefore falls, as such, within the ambit of an
+undertaking's duty under Article 11 of Regulation No 17 to reply fully to such requests.
+
+(323) The Commission accordingly concludes that Haarmann & Reimer fulfils the condition set out in the
+first indent of Section D(2) of the Leniency Notice and grants Haarmann & Reimer a 30 % reduction
+of the fine that would have been imposed if it had not cooperated with the Commission.
+
+(324) Hoffmann-La Roche did not formally file any application under the Leniency Notice. Nevertheless, in
+a letter of 28 July 1999, Hoffmann-La Roche confirmed its participation in the cartel and the
+purpose of the meetings related to it.
+
+(325) The Commission accordingly concludes that Hoffmann-La Roche fulfils the condition set out in the
+first indent of Section D(2) of the Leniency Notice and grants Hoffmann-La Roche a 20 % reduction
+of the fine that would have been imposed if it had not cooperated with the Commission.
+
+Conclusion on the application of the Leniency Notice
+
+(326) In conclusion, with regard to the nature of their cooperation and in the light of the conditions set
+out in the Leniency Notice, the Commission will grant to the addressees of the present Decision the
+following reductions of their respective fines:
+
+— Cerestar Bioproducts: a reduction of 90 %,
+
+— ADM: a reduction of 50 %,
+
+— Jungbunzlauer: a reduction of 40 %,
+
+— Haarmann & Reimer: a reduction of 30 %,
+
+— Hoffmann-La Roche: a reduction of 20 %.
+
+6. ‘Non bis in idem’
+
+(327) In assessing the fine to be imposed on each individual undertaking, the Commission has taken
+account, inter alia, of the gravity of the infringement and the respective duration of their participation, as well as of the role played by each undertaking in the collusive arrangements. Possible
+aggravating and/or mitigating circumstances have been considered. The importance of each undertaking in the citric acid industry and the impact of their respective conduct on competition have also
+been taken into account.
+
+(328) ADM, Cerestar Bioproducts, Haarmann & Reimer and Jungbunzlauer submit that the Commission
+should take account of, and deduct from any fine, the penalties imposed on them for the same
+conduct in the United States of America, and in some cases also in Canada.
+
+(329) According to ADM, there is no need in its case for further deterrence under the Community
+competition rules because of the fines and damages it has paid in lysine and citric acid matters in the
+United States of America. In October 1996, it pleaded guilty in a United States Federal Court to a
+criminal charge of conspiracy to restrain trade in lysine and citric acid in the United States of
+America and elsewhere. ADM underlines that the plea agreement also closed the United States
+authorities' sodium gluconate investigation into ADM.
+
+(330) Apart from those criminal fines, ADM submits that it settled consolidated United States class action
+law suits relating specifically to citric acid. ADM also suggests that the Commission should take into
+account the settlements it paid as a result of the shareholder derivative action brought against it,
+based in part on the behaviour which is the subject of the citric acid matter.
+
+L 239/64 EN Official Journal of the European Communities 6.9.2002
+
+(331) Jungbunzlauer AG, too, submits that in its case the Commission should take account of penalties
+imposed by the United States and Canadian authorities, because the acts challenged by the Commission and those authorities are the same. Jungbunzlauer refers to the United States and Canadian
+criminal fines imposed on it as a result of the plea agreements in 1997 and 1998, respectively, for
+‘inadmissible agreements in respect of the sale of citric acid and similar facts relating to sodium
+gluconate’. It claims that in the United States proceedings fines had already been imposed in respect
+of effects on the European market.
+
+(332) The Commission rejects in their entirety the arguments put forward by ADM, Cerestar Bioproducts,
+Haarmann & Reimer and Jungbunzlauer. The exercise by the United States of America and Canada of
+their criminal jurisdiction in respect of cartel acts can in no way limit or exclude the Commission's
+jurisdiction under Community competition law.
+
+(333) By virtue of the principle of territoriality, Article 81 of the Treaty is limited to acts likely to restrict
+competition in the internal market. In the same way, United States and Canadian antitrust laws are
+limited to their respective territorial scope. The United States and Canadian authorities only exercise
+jurisdiction to the extent that the conduct has a direct and intended effect on United States and
+Canadian commerce respectively. In fact, the plea agreements concluded with the United States
+authority confirms this for the United States procedure, when it states that ‘the volume of defendant's
+sales in the United States does not adequately reflect the effect on United States commerce of its
+participation in the worldwide conspiracy’.
+
+(334) Moreover, criminal fines imposed on individuals cannot in any event be taken into account because
+the present proceedings do not relate to natural persons.
+
+(335) Furthermore, the possibility that undertakings may have been required to pay damages in civil
+actions does not have any bearing on the fines to be imposed for infringing Community competition
+rules. Payments of damages in civil-law actions which have the objective of recouping the damage
+caused by cartels to individual companies or consumers cannot be compared with public-law
+penalties for illegal conduct.
+
+7. The final amounts of the fines imposed in the present proceedings
+
+(336) In conclusion, the fines to be imposed, pursuant to Article 15(2)(a) of Regulation No 17, are as
+follows:
+
+— Archer Daniels Midland Company Inc.: EUR 39,69 million,
+
+— Cerestar Bioproducts BV: EUR 170 000,
+
+— F. Hoffmann-La Roche AG: EUR 63,5 million,
+
+— Haarmann & Reimer Corporation: EUR 14,22 million,
+
+— Jungbunzlauer AG: EUR 17,64 million,
+
+HAS DECIDED AS FOLLOWS:
+
+Article 1
+
+Archer Daniels Midland Company Inc., Cerestar Bioproducts BV, F. Hoffmann-La Roche AG, Haarmann &
+Reimer Corporation and Jungbunzlauer AG have infringed Article 81(1) of the Treaty and Article 53(1) of
+the EEA Agreement by participating in a continuing agreement and/or concerted practice in the sector of
+citric acid.
+
+The duration of the infringement was as follows:
+
+— in the case of Archer Daniels Midland Company Inc., F. Hoffmann-La Roche AG, Haarmann & Reimer
+Corporation and Jungbunzlauer AG: from March 1991 until May 1995,
+
+— in the case of Cerestar Bioproducts BV: from May 1992 until May 1995.
+
+6.9.2002 EN Official Journal of the European Communities L 239/65
+
+Article 2
+
+The undertakings named in Article 1 shall immediately bring to an end the infringement referred to in
+Article 1, in so far as they have not already done so. They shall refrain from any act or conduct which, in
+object or effect, is the same as the infringement or equivalent thereto.
+
+Article 3
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Archer Daniels Midland Company Inc.: EUR 39,69 million,
+(b) Cerestar Bioproducts BV: EUR 170 000,
+(c) F. Hoffmann-La Roche AG: EUR 63,5 million,
+(d) Haarmann & Reimer Corporation: EUR 14,22 million,
+(e) Jungbunzlauer AG: EUR 17,64 million.
+
+Article 4
+
+The fines shall be paid, within three months of the date of notification of this Decision, into Bank Account
+No 642-0029000-95 (code SWIFT: BBVABEBB - code IBAN BE76 6420 0290 0095) of the European
+Commission with Banco Bilbao Vizcaya Argentaria (BBVA) SA, Avenue des Arts/Kunstlaan, 43, B-1040
+Brussels.
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied by the
+European Central Bank to its main refinancing operations on the first day of the month in which this
+Decision is adopted, plus 3,5 percentage points.
+
+Article 5
+
+This Decision is addressed to:
+
+(a) Archer Daniels Midland Company Inc.,
+4666 Faries Pkwy
+Decatur
+IL — 62525
+United States of America.
+
+(b) Cerestar Bioproducts BV
+Nijverheidstraat, 1
+4550 LA Sas van Gent
+Netherlands.
+
+(c) F. Hoffmann-La Roche AG
+Grenzacherstrasse 124
+CH-4070 Basel.
+
+(d) Haarmann & Reimer Corporation
+300 North Street
+Terterboro
+NJ — 07608-1204
+United States of America.
+
+(e) Jungbunzlauer AG
+St Alban — Vorstadt 90, Postfach
+CH-4002 Basel.
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels, 5 December 2001.
+
+For the Commission
+
+Mario MONTI
+
+Member of the Commission

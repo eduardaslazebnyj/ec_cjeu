@@ -1,0 +1,242 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+Decision - 2002/344 - EN - EUR-Lex
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 32002D0344
+Help
+Print
+2002/344/EC: Commission Decision of 23 October 2001 on the lack of exhaustive and independent scrutiny of the scales of charges and technical conditions applied by La Poste to mail preparation firms for access to its reserved services (Text with EEA relevance.)(notified under document number C(2001) 3186)
+2002/344/EC: Commission Decision of 23 October 2001 on the lack of exhaustive and independent scrutiny of the scales of charges and technical conditions applied by La Poste to mail preparation firms for access to its reserved services (Text with EEA relevance.)(notified under document number C(2001) 3186)
+2002/344/EC: Commission Decision of 23 October 2001 on the lack of exhaustive and independent scrutiny of the scales of charges and technical conditions applied by La Poste to mail preparation firms for access to its reserved services (Text with EEA relevance.)(notified under document number C(2001) 3186)
+OJ L 120, 7.5.2002, pp. 19–37
+(ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
+In force
+ELI:
+http://data.europa.eu/eli/dec/2002/344/oj
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+Avis juridique important
+|
+32002D0344
+2002/344/EC: Commission Decision of 23 October 2001 on the lack of exhaustive and independent scrutiny of the scales of charges and technical conditions applied by La Poste to mail preparation firms for access to its reserved services (Text with EEA relevance.)(notified under document number C(2001) 3186)
+Official Journal L 120 , 07/05/2002 P. 0019 - 0037
+Commission Decision
+of 23 October 2001
+on the lack of exhaustive and independent scrutiny of the scales of charges and technical conditions applied by La Poste to mail preparation firms for access to its reserved services
+(notified under document number C(2001) 3186)
+(Text with EEA relevance)
+(Only the French text is authentic)
+(2002/344/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community, and in particular Article 86(3) thereof,
+Having given the French authorities and La Poste the opportunity, by letters of 27 October 1999 and 30 November 1999 respectively, to make known their views on the objections raised by the Commission with regard to French postal legislation relating to mail preparation services,
+Whereas:
+1. THE FACTS
+1.1. The relevant services
+(1) This Decision relates exclusively to the relations between La Poste (the French postal service) and those of its commercial partners which are mail preparation firms operating in markets upstream of its own main activity, namely basic postal services. These commercial partners can be regarded both as:
+- users in so far as they act as a proxy for originators of mail, who entrust them with the delivery of their items to the offices of La Poste, and
+- suppliers of La Poste, in so far as they provide certain services in place of the public postal operator, upstream of the operations lying within the scope of its reserved area.
+Mail preparation is in all cases an activity upstream of acceptance of the items by La Poste as part of the services it provides within the reserved area. The very nature of mail preparation involves use of the reserved services. From a conceptual standpoint, and although in practice the various tasks involved are interlinked(1) in a continuum of services that are often provided by the same firms, the term "mail preparation" covers two different types of activity(2).
+1.1.1. Services provided on behalf of originators of mail
+(2) Mail preparation may firstly cover a service provided for the benefit of a mail originator. In such cases, the activity involves making up items (printing, enveloping or plastic wrapping, labelling, addressing and franking), collecting, bundling and sorting them and delivering them to the offices of La Poste.
+(3) Performing this type of activity for customers generating mail items could be likened to operating a mail room on behalf of larger companies(3). The Commission notice on the application of the competition rules to the postal sector and on the assessment of certain state measures relating to postal services(4) points out that "mail rooms of larger companies are now often operated by intermediaries, which prepare and presort mail before handing it over to the postal operator for final distribution". Mail preparation firms engaged in this activity can be treated as independent "intermediaries" between senders and La Poste. They alone are liable for the prepayment of postage to the latter.
+(4) Performance of these activities on behalf of originators of mail gives rise broadly to two types of remuneration, which are usually combined:
+- direct remuneration for services involving the making up of mail items, the supply of address lists, etc.,
+- remuneration for the intermediating role played by the mail preparation firms and for the benefit of access to favourable postal charges. Mail preparation firms can enter into "product contracts" with La Poste (and in particular the contract called Postimpact) which allow access to favourable postal rates (e.g. FRF 1,68 per item for 20000 items dispatched under the Postimpact contract, instead of FRF 2,7 per item at the Ecoplis bulk rate); broadly, the mail preparation firms pay La Poste the postal charges at the favourable rates applicable and then earn a margin by invoicing originators for more than the total postal charges they have actually paid to La Poste.
+1.1.2. Preparatory work performed in place of La Poste
+(5) Mail preparation may secondly cover services performed in place of La Poste. This activity involves making up and placing items in mailbags complying with certain standards, sorting to a greater or lesser degree by destination and delivering items to offices of La Poste designated by the latter for the purpose. In such an arrangement the mail preparation firms act as suppliers of La Poste. By allowing certain preparatory tasks to be externalised in this way, La Poste makes savings in handling operations and efficiency gains(5).
+Since 1990 La Poste has been remunerating mail preparation firms directly by means of remuneration "per thousand", in other words according to volumes posted, for preparatory tasks performed on its behalf, under "technical" contracts. The nature of the remuneration varies chiefly according to criteria to do with the quality of preparation of the items and the degree of sorting performed. Among these technical contracts, the "preparation" contract(6) plays a strategic role: unlike the other technical contracts, it enables the service provider to bundle items of a different nature and of low volume and thus to qualify for quality-based remuneration (whereas the volume thresholds applied normally reserve the benefit of quality-based remuneration solely for identical items posted in bulk). It should be noted that technical contracts are accessible only to mail preparation firms that have also entered into a product contract with La Poste and attain a given volume threshold in terms of the number of items posted.
+1.2. Mail preparation firms
+(6) Defined broadly(7), total turnover achieved on the mail preparation market (measured by aggregating the turnover generated by firms involved in mail preparation) has been estimated(8) at FRF 6,4 billion in 1998, broken down as follows:
+- FRF 3,5 billion generated by mail preparation firms proper,
+- FRF 2 billion generated by laser printing firms,
+- FRF 0,9 billion generated by parcelling specialists.
+The services provided by mail preparation firms have to do mainly with the making up of postal items and the performance of preparatory tasks in place of La Poste, as described in sections 1.1.1 and 1.1.2. To a lesser extent, some mail preparation firms also offer desktop publishing services (see below), hire out address lists, supply envelopes, etc. According to their predominant activity, there are three main kinds of mail preparation firms: those that make up postal items, those that bundle different types of item and those that perform sorting.
+Laser printing mail preparation firms are for their part more specialised in desktop publishing activities, i.e. the production of business correspondence using computerised data on behalf of high-volume mail originators. These firms offer desktop publishing services in addition to mail preparation proper(9).
+Parcelling is a specific mail preparation activity involving the making up of parcels and often including ancillary services (management of orders, storage, etc.). The present Decision does not relate to this activity or to the firms concerned.
+The reality behind this simplified classification is in fact more complex. Many mail preparation firms offer a more or less extensive and sophisticated range of services targeted more or less specifically at certain market segments and are engaged in activities belonging to all three categories outlined above. The analysis can therefore be refined by assigning mail preparation firms to a large number of subcategories according to the nature of their activity and the profile of their customers(10).
+(7) The following are active on the mail preparation market in France: on the one hand, private, independent mail preparation firms, such as the members of the Syndicat national des entreprises de logistique de Publicité Directe (hereinafter the SNELPD), a trade association, which offer mail preparation services to any originator of large volumes of mail and, on the other hand, La Poste, which offers mail preparation services either directly or indirectly via certain subsidiaries.
+(8) Private mail preparation companies and independent laser printing firms are usually small or medium-sized enterprises. Their average turnover is slightly more than FRF 15 million. The sector is, however, quite concentrated, with the 20 largest businesses accounting for around 55 % of total turnover.
+(9) La Poste and some of its subsidiaries offer their business customers services that compete directly with services offered by the mail preparation companies described.
+(10) La Poste thus offers franking, making up and posting services(11), in particular via the "Carré Pro" facilities at over 400 post offices. The turnover of the "Carré Pro" service, albeit difficult to isolate, is estimated by La Poste at some FRF 227 million in 1999(12).
+(11) The subsidiaries of La Poste that are active in the mail preparation sector concerned by this Decision are chiefly Datapost, Mikros and Dynapost. The activity of Datapost, a company set up in 1994 and specialising in desktop publishing services, overlaps with that of the laser printing mail preparation firms. Datapost offers, among other things, pure desktop publishing services (computerised sorting and preparation of mail production, printing, etc.) but also the enveloping, making up and delivery of items to the offices of La Poste. The company has around 165 employees and over 250 customers. Its turnover trebled between 1996 and 1999, rising from FRF 32 million to FRF 107 million. Datapost incurred heavy operating losses at least until 1999. In November 2000 La Poste acquired(13) the company Mikros(14), another major player in the desktop publishing and mail preparation business. That acquisition was followed by the creation of a "common pole" linking together Mikros and Datapost. The subsidiary Dynapost is for its part involved in the management of companies' internal mail but also provides collection, franking and sorting services(15). It has around 500 employees and generated turnover of FRF 275 million in 1999.
+(12) La Poste has not disputed the fact that it provides mail preparation services, either itself or via the subsidiaries described(16), whether acting as suppliers of La Poste or as users of its monopoly network(17). All in all, La Poste, both through its own products and via Datapost and Mikros, on the one hand, and Dynapost, on the other, is thought to have a share of at least 10 % of the mail preparation and desktop publishing market(18).
+(13) The services offered by mail preparation firms are therefore supplied to originators of mail in competition with La Poste and its subsidiaries. However, given La Poste's postal monopoly, mail preparation firms, in their dual capacity as users of the postal network and suppliers of services to the public operator, have no alternative but to accept the financial and technical conditions laid down by La Poste for the acceptance of mail processed by them. La Poste is thus an unavoidable partner for the satisfactory performance of the services offered by mail preparation firms to their customers.
+1.3. The applicable legislative and regulatory framework
+1.3.1. Principles governing relations between La Poste and its users and commercial partners and the monitoring of those relations
+(14) The Law of 2 July 1990 on the organisation of the public postal and telecommunications service(19) (hereinafter the 1990 Law) and the service obligations of La Poste, as approved by Decree No 90-1214 of 29 December 1990(20) lay down the conditions in which the services offered by the public operator are to be supplied and the rules governing its relations with both its users and its commercial partners.
+(15) Article 25 of the 1990 Law stipulates generally that the relations between La Poste and its users and suppliers and third parties "shall be governed by ordinary law". Article 23 of the service obligations of La Poste confirms that "relations between La Poste and users shall be governed by contracts under ordinary law".
+(16) With regard more specifically to relations with users, it is for La Poste, pursuant to Article 23(2) of its service obligations, to determine "the conditions of supply of its products and services". Article 23 adds that "La Poste may enter into contracts the terms of which are stipulated by agreement between the parties on the basis of a specific estimate of costs". In such cases, La Poste is under the additional obligation to distinguish between the reserved and competitive activities comprising the services offered: "in such cases, where La Pos
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ the development of the internal market of Community postal services and the improvement of quality of service, "clearance" is the first stage of those services which may be reserved for the universal service provider. It is defined in Article 2(4) as "the operation of collecting postal items deposited at access points". Access points are defined in Article 2(3) as "physical facilities, including letter boxes provided for the public either on the public highway or at the premises of the universal service provider, where postal items may be deposited with the public postal network by customers".
+(51) As amended by Article 19(I) of Law No 99-533 of 25 June 1999 laying down guidelines for sustainable regional development and amending Law No 95-115 of 4 February 1995 laying down guidelines for regional development (French Official Gazette of 29 June 1999, p. 9515).
+(52) These are of course cases in which the mail items in question fall below the weight limits and prices laid down by the French rules. According to the abovementioned GBC study carried out on La Poste's behalf, page 3, note 7, "20 to 30 % of items made up by mail preparation firms are not distributed by La Poste" because they are not covered by its monopoly.
+(53) See, inter alia, judgment of 23 April 1991 in Case C-41/90 Höfner v Macrotron [1991] ECR I-1979, point 28; judgment of 18 July 1991 in Case C-260/89 ERT [1991] ECR, I-2925, point 31; judgment of 19 May 1993 in Case C-320/91 Criminal proceedings against Paul Corbeau [1993] ECR I-2538, point 9; judgment of 10 December 1991 in Case C-179/90 Merci convenzionali porto di Genova SpA v Siderurgica Gabrielli SpA [1991] ECR I-5889, point 14; judgment of 17 July 1997 in Case C-242/95 GT-Link A/S v De Danske Statsbaner (DSB) [1997] ECR I-4453, point 35; judgment of 12 February 1998 in Case C-163/96 Criminal proceedings against Silvano Raso and others [1998] ECR, I-533, point 25.
+(54) Judgment of 9 November 1983 in Case 322/81 NV Nederlandsche Banden-Industrie-Michelin v Commission [1983] ECR 3461, point 28; judgment of 5 October 1994 in Case C-323/93 Société civile agricole du Centre d'insémination de la Crespelle v Coopérative d'élevage et d'insémination artificielle du département de la Mayenne [1994] ECR I-5077, point 17; judgment of 26 November 1998 in Case C-7/97 Oscar Bronner GmbH & Co. KG v Mediaprint Zeitungs- und Zeitschriftenverlag GmbH & Co. KG and others [1998] ECR I-7791, point 36.
+(55) Notice from the Commission on the application of the competition rules to the postal sector and on the assessment of certain state measures relating to postal services, OJ C 39, 6.2.1998, p. 7, point 2.6.
+(56) Judgment of 13 December 1991 in Case C-18/88 RTT v GB-Inno-BM [1991] ECR I-5941, points 24 and 25; judgment of 19 March 1991 in Case C-202/88 French Republic v Commission [1991] ECR, I-1223, point 51; judgment of 27 October 1993 in Joined Cases C-46/90 and C-93/91 Procureur du Roi v Lagauche and others [1993] ECR I-5284, point 44.
+(57) [1991] ECR I-5941, point 25.
+(58) Points 25 and 26.
+(59) Points 23 and 24.
+(60) Letter of 18 December 1998, cited in section 1.5.
+(61) It should also be pointed out that this procedure has not been in force since 1999.
+(62) See point 1.3.1.
+(63) In practice, scrutiny of the Postimpact rates seems to relate essentially to the absolute level of charges and not to the relevance of the volume thresholds giving access to the levels in this scale of charges.
+(64) The "catalogue" rates, which also affect the operations of SNELPD members, are also submitted to the minister for information purposes only since they relate to mail items which are not correspondence items covered by La Poste's exclusive rights. However, this Decision is not concerned with the procedures for monitoring these rates since La Poste is not the only partner available to mail preparation firms for the transport and distribution of such mail items.
+(65) See recital 23.
+(66) This draft itself follows on from a preliminary draft decree amending the service obligations of La Poste, a copy of which had been sent in February 2001 and which was not developed further.
+(67) These are powers of ex ante scrutiny of price aspects of La Poste's commercial offers (especially standard contracts) for access to its reserved services. The draft presented to the Commission does not change the current profile of commercial offers that are subject to scrutiny. Although it explicitly treats contracts negotiated with homogenous business categories as standard contracts, it does not change the current rule under which only standard contracts relating to reserved services are subject to ex ante scrutiny.
+(68) In this situation, the mail preparation firms constitute users of the postal network.
+(69) In this situation, the mail preparation firms constitute suppliers of La Poste.
+(70) This situation could cover cases where mail preparation firms constitue suppliers of La Poste or cases where they constitute users of its network.
+(71) In this respect, the draft decree presented in July 2001 does not go as far as was announced by the French authorities in their reply of 4 February 2000. At the time, the French authorities expressly stated that, under the future decree, standard contracts (whatever their subject matter) "would be subject to approval by the ministery"; they also included technical contracts in the concept of "standard contract" (memo of 4 February 2000, point 2.2.1).
+(72) These cover preparation and sorting services that fall partly under La Poste's universal service, but are in no way part of its reserved area.
+(73) For product contracts falling under the universal service (such as Postimpact) on the other hand, the arrangements under the draft decree do ensure that the ombudsman's opinion is followed by a decision by the supervisory authority.
+(74) See also the judgment of 27 October 1993 in Case C-69/91 Criminal proceedings against Decoster [1993] ECR I-5335, point 19.
+(75) Point 6.4 of the notice cited in footnote 55.
+(76) See Commission letter of 27 October 1999, p. 9.
+(77) Memo from the French authorities dated 4 February 2000, p. 6, third paragraph. In the third paragraph on p. 5 of the same memo, it is also stated that "the budget directorate and the Treasury directorate responsible for managing the State's assets are also involved, each where it is concerned and within the limits of its mandate".
+(78) In points 16, 17 and 22 of Decoster, cited above, the Court found that the different directorates of a single authority could not be regarded as independent of each other for the purposes of Articles 82 and 86 of the Treaty. It is all the more true that the mixing within the same directorates under the authority of one and the same minister of monitoring and state asset management tasks prevents these tasks being performed independently of one another.
+(79) According to point 1.2.1 of the French authorities' memo of 17 July 2001, "the ombudsman and his immediate colleagues fall expressly under the legislative and regulatory provisions restricting and submitting to a check for regularity their possibilities for employment in private firms at the end of their terms of office" (emphasis added). The French authorities are probably referring to Decree No 95-168 of 17 February 1995 on the carrying on of private activities by civil servants who have been released from active service or have definitively ceased their duties (French Official Gazette No 43 of 19 February 1995, p. 2717). However, this decree does not cover activities in a public undertaking. No provision seems to be made as regards the possibility of the ombudsman or his colleagues joining La Poste at the end of their terms of office, which could affect their neutrality in the performance of their tasks.
+(80) Judgment of 13 December 1991 in Case C-18/88 RTT v GB-Inno-BM [1991] ECR I-5941, points 23 and 24; Case C-163/96 Criminal proceedings against Silvano Raso and others [1998] ECR I-533, points 27 and 31.
+(81) From 6 million to 30 million.
+(82) This type of contract is considered by mail preparation firms to be the most advantageous of the technical contracts, as it allows the bundling of mailshots.
+(83) There were only 27 preparation contracts at the end of 1999 compared with 58 prior to the decisions described.
+(84) Routeurs ou prestataires de services - Synthèse de l'étude réalisée par le Cabinet GBC à la demande de La Poste, June 2000. On p. 2, we read: "If we exclude from the financial analysis mail order preparers, which come out best, operating margins in other mail preparation segments fluctuated in 1998 between 2 % and 4 %, and net margins between 0 % and 2 %".
+(85) Datapost's large deficit over a number of successive years is evidence of the reality of this advantage.
+(86) A letter to department managers from La Poste's director of mail dated 17 September 1999 is evidence of the awareness of these problems: "The various audits conducted recently on conditions of operation and billing for services related to the mail service (collection and delivery, franking on behalf of third parties, enveloping, addressing) clearly identified inconsistencies between national and local instructions, resulting in a certain lack of uniformity of operating arrangements or even pricing. This situation means that La Poste is running serious risks with regard to competition law (...)".
+(87) Certain forms of behaviour described by the SNELPD in its 1998 complaint, in particular the discrimination practised, seem to have originated in initiatives by certain department managers at La Poste with a view to optimising volumes. The abovementioned letter of 17 September 1999 was written precisely to discipline such practices.
+(88) See judgment of 1 February 1978 in Case 19/77 Miller v Commission [1978] ECR 131, point 15, and paragraph 48 of the opinion of Advocate General Jacobs prior to the judgment of 23 April 1991 in Case C-41/90 Höfner v Macrotron [1991] ECR I-1979.
+Top

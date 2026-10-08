@@ -1,0 +1,496 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+INHALTSVERZEICHNIS
+
+1. GEGENSTAND...................................................................................................... 3
+
+2. DER ADRESSAT ................................................................................................... 4
+
+3. VERFAHRENSSCHRITTE NACH DER VERORDNUNG (EG) NR.
+1/2003..................................................................................................................... 5
+
+4. VORLÄUFIGE BEURTEILUNG ........................................................................... 6
+
+4.1. Infrastrukturnetz für die Einfuhr von Erdgas nach Italien................................ 6
+
+4.2. Relevante Märkte........................................................................................... 8
+
+4.2.1. Sachlich relevante Märkte.............................................................. 8
+
+4.2.2. Räumlich relevante Märkte............................................................ 9
+
+4.3. Die beherrschende Stellung von ENI auf den relevanten Märkten ................. 10
+
+4.4. Wesentlicher Teil des Binnenmarkts ............................................................. 12
+
+4.5. Wettbewerbsrechtliche Bedenken: Lieferverweigerung ................................. 12
+
+4.5.1. Kapazitätshortung........................................................................ 14
+
+4.5.2. Kapazitätsverschlechterung......................................................... 15
+
+4.5.3. Strategisch motivierte Beschränkung der Investitionen ............. 15
+
+4.5.4. Schlussfolgerung........................................................................... 17
+
+4.6. Auswirkungen auf den Handel zwischen Mitgliedstaaten .............................. 17
+
+5. ANGEBOTENE VERPFLICHTUNGSZUSAGEN ............................................... 18
+
+6. BEKANNTMACHUNG DER KOMMISSION NACH ARTIKEL 27
+ABSATZ 4 DER VERORDNUNG (EG) NR. 1/2003............................................ 20
+
+7. VERHÄLTNISMÄSSIGKEIT DER ENDGÜLTIGEN
+VERPFLICHTUNGSZUSAGEN .......................................................................... 23
+
+Einführung ............................................................................................................ 23
+
+Veräußerung von Transportinfrastrukturen............................................................ 24
+
+Geeignetheit von CDP bzw. einer anderen vom italienischen Staat
+kontrollierten öffentlichen Einrichtung als Erwerber des
+Gasfernleitungsnetzgeschäfts in Österreich.................................................. 26
+
+Sonstige Verpflichtungszusagen............................................................................. 29
+
+8. SCHLUSSFOLGERUNG...................................................................................... 30
+
+BESCHLUSS DER KOMMISSION
+
+vom
+
+in einem Verfahren nach Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union (AEUV) und Artikel 54 des EWR-Abkommens
+
+(Sache COMP/39.315 – ENI)
+
+(Nur der italienische Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+2
+
+DIE EUROPÄISCHE KOMMISSION –
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 EG-Vertrag niedergelegten
+Wettbewerbsregeln1, insbesondere auf Artikel 9 Absatz 1,
+
+gestützt auf die Entscheidung der Kommission vom 21. Dezember 2007 zur Einleitung
+des Verfahrens in dieser Sache,
+
+gestützt auf die in der Mitteilung der Beschwerdepunkte vom 6. März 2009 formulierten
+Bedenken,
+
+nachdem interessierten Dritten nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003
+Gelegenheit gegeben wurde, zu den Verpflichtungszusagen Stellung zu nehmen, die
+unterbreitet wurden, um diese Bedenken auszuräumen,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten2,
+
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+
+1. GEGENSTAND
+
+(1) Der Beschluss ist an ENI Spa (nachstehend „ENI“ genannt) gerichtet und betrifft
+das Verhalten von ENI auf dem Markt für den Gastransport nach Italien und auf
+den Gasversorgungsmärkten in Italien.
+
+(2) Die Kommission kam in ihrer Mitteilung der Beschwerdepunkte zu dem
+vorläufigen Schluss, dass ENI eine beherrschende Stellung auf dem Markt für den
+Gastransport nach Italien sowie auf den Gasversorgungsmärkten in Italien innehat
+und dass ENI seine Erdgasfernleitungen in einer Art verwaltet und betreibt, die
+möglicherweise gegen Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union3 (nachstehend „AEUV“ genannt“) verstößt, weil die in Rede
+stehenden Praktiken von ENI möglicherweise darauf abzielen, den Zugang Dritter
+zu verfügbaren und neuen Kapazitäten zu beschränken. So könnte ENI durch eine
+Verweigerung der Bereitstellung von Erdgastransportleistungen die italienischen
+Gasversorgungsmärkten abgeschottet haben. Die konkrete Umsetzung dieser
+
+1 ABl. L 1 vom 4.1.2003, S. 1.
+
+2 Der Abschlussbericht des Anhörungsbeauftragten wurde am 13. September 2010 vorgelegt
+
+3 Mit Wirkung vom 1. Dezember 2009 sind an die Stelle der Artikel 81 und 82 EG-Vertrag die
+Artikel 101 und 102 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) getreten.
+Die Artikel 81 und 82 und die Artikel 101 und 102 AEUV sind im Wesentlichen identisch. Im
+Rahmen dieser Bekanntmachung sind Bezugnahmen auf die Artikel 101 und 102 AEUV als
+Bezugnahmen auf die Artikel 81 und 82 EG-Vertrag zu verstehen, wo dies angebracht ist.
+
+3
+
+Strategie bestand möglicherweise darin, dass ENI seinen Wettbewerbern den
+Zugang zu verfügbaren Transportkapazitäten verweigert (Kapazitätshortung),
+ihnen Kapazitäten in weniger nützlicher Form angeboten
+(„Kapazitätsverschlechterung“) und aus strategisch motivierten Gründen
+Investitionen in das unternehmenseigene internationale Fernleitungsnetz
+beschränkt hat („strategische Unterinvestition“).
+
+2. DER ADRESSAT
+
+(3) ENI ist ein vom italienischen Staat kontrolliertes Unternehmen, das auf vielen
+Stufen der Förderung, der Übertragung und der Versorgung im Energiesektor und
+insbesondere in den Bereichen Erdgas und Erdöl tätig ist. ENI ist ein voll
+integriertes Gasunternehmen und in der Förderung und Einfuhr von Erdgas4, in der
+Gasübertragung und -speicherung sowie in der nachgelagerten
+Gasweiterverteilung und Endkundenbelieferung5 tätig.
+
+(4) ENI bezieht Gas aus eigener Förderung in Italien und Libyen6 sowie über
+langfristige Verträge mit führenden Erdgasproduzenten (insbesondere in Russland,
+Norwegen, in den Niederlanden und Algerien).
+
+(5) ENI bietet ebenfalls internationale Erdgastransportleistungen an. So besitzt und
+kontrolliert ENI gemeinsam mit dem österreichischen Unternehmen OMV die
+Trans Austria Gasleitung GmbH (nachstehend „TAG GmbH“ genannt), die eine
+Fernleitung zwischen Baumgarten in der Nähe der österreichisch-slowakischen
+Grenze und Italien betreibt. Des Weiteren besitzt und kontrolliert ENI gemeinsam
+mit der deutschen E.ON Ruhrgas AG (nachstehend „E.ON“ genannt) die Trans
+Europa Naturgas Pipeline GmbH & Co. KG (nachstehend „TENP KG“ genannt),
+die zwischen der niederländisch-belgisch-deutschen Grenze bis nach Wallbach an
+der deutsch-schweizerischen Grenze verläuft. Das Erdgas, das durch die TENP-
+Fernleitung fließt, wird dann weiter über die Transitgas-Fernleitung, die in
+gemeinsamem Eigentum und unter gemeinsamer Kontrolle von ENI und der
+
+4 2007 verkaufte die ENI-Sparte Gas&Power [...] Mrd. m3 Erdgas; davon wurden [...] Mrd. m3 nach
+Italien transportiert.
+
+5 2007 belieferte ENI den italienischen Großhandelsmarkt mit rund [...] Mrd. m3 Erdgas (rund 50-
+70 % der Gesamtnachfrage). Auf Einzelhandelsebene lieferte ENI Erdgas an Erdgaskraftwerke sowie
+an Großkunden der Industrie mit Marktanteilen von mindestens 45-55%. Nach Auskünften der
+italienischen Regulierungsbehörde für Strom und Gas AEEG (Autorità per l'energie elettrica e il
+gas) kontrollierte ENI im Jahr 2008 noch 50-70% des in Italien verfügbaren Erdgases
+(Inlandsproduktion, Einfuhr und Gasverkäufe an der italienischen Grenze); siehe Jahresbericht der
+AEEG vom Juli 2008, S. 120 und den Strategieplan der AEEG für 2008-2011.
+
+6 ENI hält Anteile am Westlibyschen Erdgasprojekt (Western Libyan Gas Project – WLGP), bei dem es
+sich um ein Gemeinschaftsunternehmen handelt, an dem das WLGP und die libysche National Oil
+Corporation (NOC), ein staatliches Energieunternehmen, zu je 50 % beteiligt sind. Geschäftsbereiche
+des WLGP sind Exploration, Erdgasproduktion und der Transport von Erdgas von Libyen nach
+Italien. WLGP erhält Erdgas von der Offshore-Bohrinsel Bahr Essalam sowie an Land aus den Wafa-
+Erdgasfeldern.
+
+4
+
+schweizerischen Swissgas AG (nachstehend „Swissgas“ genannt) steht, durch die
+Schweiz nach Italien transportiert.
+
+(6) Im Jahr 2008 erwirtschaftete ENI einen Umsatz von 108 Mrd. EUR
+(Nettoverkäufe aus den Geschäften) und damit Nettogewinne von 21,7 Mrd. EUR
+(berichtigtes Betriebsergebnis) bzw. 8,8 Mrd. EUR7.
+
+3. VERFAHRENSSCHRITTE NACH DER VERORDNUNG (EG) NR. 1/2003
+
+(7) Die Untersuchung wurde von Amts wegen eingeleitet. Im Mai 20068 erfolgte eine
+Nachprüfung in den Geschäftsräumen von ENI; zur weiteren Ermittlung des
+Sachverhalts richtete die Kommission zwischen 2006 und 2008 unter anderem
+Auskunftsverlangen an ENI und andere Marktbeteiligte.
+
+(8) Am 20. April 2007 leitete die Kommission gegen ENI ein Verfahren nach Artikel 2
+der Verordnung (EG) Nr. 773/20049 zum Erlass einer Entscheidung nach
+Kapitel III der Verordnung (EG) Nr. 1/2003 ein.
+
+(9) Am 6. März 2009 nahm die Kommission gemäß Artikel 27 Absatz 1 der
+Verordnung (EG) Nr. 1/2003 in Verbindung mit Artikel 10 Absatz 1 der
+Verordnung (EG) Nr. 773/2004 eine Mitteilung der Beschwerdepunkte an, die
+mutmaßliche Verstöße von ENI gegen Artikel 102 AEUV betraf. Die Mitteilung
+der Beschwerdepunkte stellt gleichzeitig eine vorläufige Beurteilung im Sinne von
+Artikel 9 der Verordnung (EG) Nr. 1/2003 des Rates dar.
+
+(10) Die Mitteilung der Beschwerdepunkte wurde ENI mit Schreiben vom 9. März
+2009 übermittelt. Am 1. Oktober 2009 reagierte ENI auf die Mitteilung der
+Beschwerdepunkte, deren Schlussfolgerung das Unternehmen nicht zustimmte.
+Am 27. November 2009 fand eine mündliche Anhörung statt.
+
+(11) Am 4. Februar 2010 übermittelte ENI der Kommission Verpflichtungszusagen, mit
+denen das Unternehmen die von der Kommission in ihrer Mitteilung der
+Beschwerdepunkte vorgebrachten wettbewerbsrechtlichen Bedenken ausräumen
+wollte.
+
+(12) Am 5. März 2010 wurde eine Bekanntmachung gemäß Artikel 27 Absatz 4 der
+Verordnung (EG) Nr. 1/2003 im Amtsblatt veröffentlicht, in der die Bedenken der
+Kommission sowie die Verpflichtungszusagen zusammengefasst und interessierte
+Dritte aufgefordert wurden, innerhalb eines Monats ab Veröffentlichung der
+Bekanntmachung zu den Verpflichtungszusagen Stellung zu nehmen. Die
+Kommission erhielt insgesamt 14 Stellungnahmen.
+
+7 ENI: Ausgewählte und konsolidierte Daten (Jahresbericht 2008).
+
+8 Nachprüfungsentscheidung vom 5. Mai 2006 in der Sache COMP/B-1/39.315.
+
+9 Verordnung (EG) Nr. 773/2004 der Kommission vom 7. April 2004 über die Durchführung von
+Verfahren auf der Grundlage der Artikel 81 und 82 EG-Vertrag durch die Kommission (ABl. L 123
+vom 27.4.2004, S. 18).
+
+5
+
+(13) Am 27. April 2010 informierte die Kommission ENI über die Stellungnahmen
+interessierter Dritter, die nach der Veröffentlichung der Bekanntmachung
+eingegangen waren. Am 10. Mai 2010 übermittelte ENI als Reaktion auf die
+Stellungnahmen Dritter einige Hinweise zur Klarstellung. Am 24. Mai 2010
+übermittelte ENI weitere Auskünfte, um die die Kommission nach Artikel 18 der
+Verordnung (EG) Nr. 1/2003 gebeten hatte. Am 10. Juni 2010 unterrichtete die
+Kommission ENI über die Ergebnisse dieser zusätzlichen klärenden Auskünfte; am
+8. Juli 2010 legte ENI der Kommission überarbeitete Verpflichtungszusagen
+(nachstehend „endgültige Verpflichtungszusagen“ genannt) vor.
+
+(14) Am 9. September wurde der Beratende Ausschuss für Kartell- und Monopolfragen
+gehört. Am 13. September 2010 legte der Anhörungsbeauftragte seinen
+Abschlussbericht vor.
+
+4. VORLÄUFIGE BEURTEILUNG
+
+(15) Der Kommission liegen Anhaltspunkte dafür vor, dass ENI seine beherrschende
+Stellung auf dem Markt für den Erdgastransport nach Italien zum Schaden seiner
+Wettbewerber, des Wettbewerbs und letztlich auch der Verbraucher auf den
+nachgelagerten Versorgungsmärkten missbraucht hat.
+
+4.1. Infrastrukturnetz für die Einfuhr von Erdgas nach Italien
+
+(16) Italien ist ein Nettogasimporteur; Einfuhren und nationale Erdgasproduktion
+dienen fast ausschließlich der Deckung des inländischen Bedarfs; Gasausfuhren
+sind unbedeutend10.
+
+(17) Am Tag der Annahme der Mitteilung der Beschwerdepunkte konnte über die
+folgenden bestehenden und in Betrieb befindlichen Infrastrukturen Erdgas nach
+Italien transportiert werden:
+
+• Die transmediterrane und transtunesische Gasfernleitung (nachstehend
+gemeinsam „TTPC/TMPC“ genannt), über die algerisches Erdgas nach Italien
+eingeführt wird11;
+
+• die Greenstream-Fernleitung, über die libysches Erdgas nach Italien
+eingeführt wird12;
+
+10 Im Jahr 2007 lag der Inlandsverbrauch bei rund 85 Mrd. m3. Rund 74 Mrd. m3 wurden durch
+Importe, ca. 10 Mrd. m3 aus inländischer Produktion und der Rest aus Speicheranlagen gedeckt.
+
+11 Bei der italienisch-algerischen Achse handelt es sich um eine Untersee-Fernleitung (TRANSMED-
+Fernleitung) und einen Fernleitungsabschnitt durch Tunesien. Eigentümer der Untersee-Fernleitung
+ist die TransMediterranean Pipeline Company Limited (nachstehend „TMPC“ genannt), die zu
+gleichen Teilen im Besitz von ENI und Sonatrach (algerisches staatliches Gasunternehmen) steht und
+von diesen gemeinsam kontrolliert wird. Der tunesische Abschnitt des TTPC/TMPC-Netzes gehört
+dem tunesischen Staatsunternehmen Sotugat. ENI hält umfangreiche Kapazitätsrechte in der
+Größenordnung von 70 % bis 80 % an diesen Gasfernleitungen. 2007 wurden über die TTPC/TMPC-
+Gasfernleitung 22,5 Mrd. m3 Erdgas nach Italien eingeführt; dies entsprach rund 25 % des
+Inlandsverbrauchs.
+
+6
+
+• die TENP/Transitgas-Erdgasfernleitungen, über die nordeuropäisches Erdgas
+nach Italien eingeführt wird13;
+
+• die TAG-Fernleitung, über die russisches Erdgas nach Italien eingeführt
+wird14;
+
+• die slowenische Erdgasfernleitung, über die geringe Einfuhr- bzw.
+Ausfuhrmengen russischen Gases durch Slowenien nach Italien eingeführt
+werden;15
+
+• der Panigaglia-Terminal für Flüssigerdgas (LNG)16.
+
+In der Zwischenzeit wurden in begrenztem Umfang neue Infrastrukturen in Betrieb
+genommen17.
+
+(18) In der Mitteilung der Beschwerdepunkte heißt es, dass sich alle obengenannten
+Fernleitungen unter der alleinigen oder gemeinsamen Kontrolle von ENI befinden
+und dass ENI für diese Infrastrukturen nicht nur Inhaber umfangreicher
+Transportrechte ist, sondern auch einen wesentlichen Teil der verfügbaren
+Netzkapazitäten langfristig gebucht hat.
+
+(19) Außerdem kontrolliert ENI (gemeinsam mit E.ON) die TENP-Fernleitung18 und
+den Fernleitungsnetzbetreiber19, der Erdgastransportleistungen für rund 67 % der
+Kapazitätsrecht
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+hat CDP unter anderem Mehrheitsbzw. Minderheitsbeteiligungen an folgenden Unternehmen: ENI, TERNA, Poste
+Italiane, Tunnel di Genova und Fondi Italiani per le Infrastrutture SGR.
+
+(103) Satzungsgemäß besteht bei CDP hinsichtlich Organisation und Rechnungslegung
+eine Trennung zwischen den Tätigkeiten von allgemeinem wirtschaftlichem
+Interesse („gestione separata“) und den übrigen Tätigkeiten, die nicht von
+allgemeinem wirtschaftlichem Interesse sind und daher potenziell im Wettbewerb
+mit anderen Marktteilnehmern ausgeübt werden („gestione ordinaria“). Die für
+öffentliche Investitionen und Entwicklungsstrategien zuständigen Managementund Support-Abteilungen sind der „gestione separata“ zugeordnet, die für
+Infrastrukturvorhaben und strategische Projekte zuständige Abteilung dagegen der
+„gestione ordinaria“.56
+
+54 Siehe Konsolidierte Mitteilung der Kommission zu Zuständigkeitsfragen gemäß der Verordnung
+(EG) Nr. 139/2004 des Rates über die Kontrolle von Unternehmenszusammenschlüssen (ABl. C 95
+vom 16.4.2008, S. 1, Randnrn. 52 und 53).
+
+55 CDP ist durch die Umwandlung eines staatlichen Finanzinstituts in eine Aktiengesellschaft auf der
+Grundlage von Artikel 5 des Gesetzesdekrets 269 vom 30. September 2003 entstanden. Das
+Wirtschafts- und Finanzministerium hat eine Kontrollmehrheit von 70 % an CDP; die übrigen 30 %
+werden von einer Gruppe von Stiftungen aus dem Bankensektor gehalten.
+
+56 Diese neue Organisationsstruktur besteht seit dem 31. Dezember 2008.
+
+27
+
+(104) Die „gestione separata“ umfasst unter anderem die Verwaltung der
+Vermögenswerte und Funktionen, die zum Zeitpunkt der Umwandlung von CDP
+in eine Aktiengesellschaft auf das Wirtschafts- und Finanzministerium übertragen
+wurden, sowie Beratungsleistungen für staatliche Einrichtungen. [...].57 Zu dieser
+Sparte gehören auch die Anteile, die CDP an ENI hält. Daher kann davon
+ausgegangen werden, dass diese Beteiligung so verwaltet wird, als wenn es sich
+um eine unmittelbare Beteiligung des Wirtschafts- und Finanzministeriums handeln
+würde, und dass sie nur aus Gründen der Rechnungslegung CDP zugeordnet ist.58
+
+(105) Die übrigen Tätigkeiten von CDP fallen unter die „gestione ordinaria“. [...].
+
+(106) CDP kann als unabhängig von ENI betrachtet werden, sofern die TAG-Beteiligung
+an CDP im Rahmen seiner „gestione ordinaria“ übertragen wird.
+
+(107) CDP bildet, soweit es seine unter die „gestione ordinaria“ fallenden Beteiligungen
+betrifft, eine wirtschaftliche Einheit mit autonomer Entscheidungsbefugnis. [...].
+Es gibt keine personellen Verflechtungen zwischen CDP und ENI, und durch
+angemessene Schutzmaßnahmen ist sichergestellt, dass sensible Geschäftsdaten
+nicht zwischen den beiden Unternehmen ausgetauscht werden. [...].
+
+(108) Der Umstand, dass CDP eine Beteiligung an ENI hat, schließt nicht aus, dass CDP
+unabhängig ist, [...]. Diese Beteiligung ist in der Tat so einzuordnen, als wenn es
+sich um eine unmittelbar vom Wirtschafts- und Finanzministerium gehaltene
+Beteiligung handeln würde.
+
+(109) Die Kommission ist ferner davon überzeugt, dass CDP über die finanziellen Mittel,
+Kenntnisse und das Interesse verfügt, die erforderlich sind, um das zu veräußernde
+Geschäft als lebensfähigen und ernstzunehmenden Wettbewerber auszubauen.
+CDP ist ein finanziell gut aufgestelltes Unternehmen, das über ausgewiesene
+Kenntnisse bei der Verwaltung von Mehrheits- und Minderheitsbeteiligungen an
+mehreren wichtigen Unternehmen verfügt, die in verschiedenen
+Wirtschaftszweigen tätig sind, insbesondere im Infrastrukturbereich (darunter der
+Betrieb des italienischen Stromnetzes über die Beteiligung an TERNA). Zwar
+verfügt CDP möglicherweise derzeit noch nicht über spezielle Kenntnisse beim
+Betrieb von Gasfernleitungsnetzen, doch ist darauf hinzuweisen, dass der Kauf der
+von ENI gehaltenen Anteile an der TAG GmbH durch CDP zur Folge hat, dass die
+TAG GmbH gemeinsam von CDP und OMV kontrolliert wird und dass das letzte
+genannte Unternehmen sowie die TAG GmbH selbst offensichtlich über alle
+
+57 In CDP's Satzung wird nach Artikel 5 Absatz 9 des Gesetzesdekrets Nr. 269/2003 der Wirtschaftsund Finanzminister befugt, die allgemeine Politik der Sparte „gestione separata“ festzulegen und
+ferner nach Artikel 5 Absatz 11 des Gesetzesdekrets die Durchführungsbedingungen für die „gestione
+separata“, wie darin vorgesehen, festzulegen.
+
+58 Dies ist ausdrücklich in CDP's Satzung nach Artikel 5 Absatz 8 des Gesetzesdekrets Nr. 269/2003
+festgelegt, wo es heißt: Innerhalb von CDP wird ausschließlich für die Zwecke der Rechnungslegung
+und der Organisation ein separates System eingeführt (nachstehend „gestione separata“ genannt), das
+zur Erreichung des unternehmerischen Ziels von CDP im Einklang mit den Kriterien der
+Transparenz und der Wahrung des wirtschaftlichen Gleichgewichts verwaltet wird.
+
+28
+
+technischen und organisatorischen Kenntnisse verfügen, die erforderlich sind, um
+das Gastransportgeschäft wirksam zu verwalten.
+
+(110) Außerdem ist CDP derzeit weder unmittelbar noch mittelbar an Tätigkeiten in den
+Bereichen Erdgasbeschaffung, -transport und -versorgung beteiligt (abgesehen von
+seiner obengenannten Beteiligung an ENI), so dass der Erwerb der Beteiligung
+von ENI an TAG prima facie keinen Anlass zu wettbewerbsrechtlichen Bedenken
+gibt.
+
+(111) Daher kommt die Kommission zu dem Schluss, dass CDP ein geeigneter Erwerber
+für das zu veräußernde Österreich-Geschäft ist.
+
+(112) Sollte ENI seine Beteiligung an TAG nicht an CDP, sondern an eine andere vom
+italienischen Staat kontrollierte öffentliche Einrichtung verkaufen, muss der
+Erwerber gemäß den endgültigen Verpflichtungszusagen von der Kommission auf
+der Grundlage der in den Erwägungsgründen (99) und (100) genannten Kriterien
+genehmigt werden.
+
+Sonstige Verpflichtungszusagen
+
+(113) Außerdem hat sich ENI verpflichtet, in seiner Eigenschaft als Transportkunde bei
+den TAG-, TENP- und Transitgas-Fernleitungen keinen Transportvertrag zu
+verlängern oder zu erneuern59, außer im Hinblick auf etwaige künftige Auktionen
+oder andere öffentliche Zuteilungsverfahren für Gegenstromkapazitäten zur
+Versorgung anderer Märkte als dem italienischen Markt. Diese
+Verpflichtungszusage ist erforderlich und verhältnismäßig, um sicherzustellen, dass
+ENI nicht in der Lage sein wird, seine Kapazitätsrechte auf Kosten Dritter
+auszuweiten und damit die Wirksamkeit einer unabhängigen Zuteilung von
+verfügbaren Primärkapazitäten an andere Transportkunden zu untergraben. Die
+Verträge über den Erwerb von Gegenstromkapazitäten wirken sich nicht auf die
+Verfügbarkeit vorhandener Transportkapazitäten aus.
+
+(114) Die übrigen Bestandteile der Verpflichtungszusagen wie die Aufrechterhaltung der
+Lebensfähigkeit des zu veräußernden Geschäfts, die Pflicht zur getrennten
+Führung der Geschäfte, die Bestimmungen zur Abschottung des
+Informationsflusses, zum Abwerbungsverzicht, zu „Due Diligence“ und zur
+Berichterstattung sowie die Rolle des Treuhänders gelten nur vorübergehend und
+sind als Ergänzung zu den Hauptverpflichtungszusagen anzusehen. Diese
+ergänzenden Bestimmungen sind erforderlich, um die Umsetzung der von ENI
+angebotenen endgültigen Verpflichtungszusagen zu gewährleisten, und
+verhältnismäßig. Ferner tragen sie den in der Mitteilung der Kommission über im
+Rahmen der Verordnung (EG) Nr. 139/2004 des Rates und der Verordnung (EG)
+Nr. 802/2004 der Kommission zulässige Abhilfemaßnahmen60 dargelegten
+Standardanforderungen Rechnung, die die Kommission in
+
+59 Wie in Erwägungsgrund (72) dargelegt, gilt diese Verpflichtung vom 22. Dezember 2009 bis zum
+Closing der Veräußerungen.
+
+60 ABl. C 267 vom 22.10.2008, S. 1.
+
+29
+
+Zusammenschlussverfahren im Falle von Abhilfemaßnahmen in Form einer
+Veräußerung zugrunde legt.
+
+8. SCHLUSSFOLGERUNG
+
+(115) Mit einem Beschluss nach Artikel 9 Absatz 1 der Verordnung (EG) Nr. 1/2003
+erklärt die Kommission Verpflichtungszusagen, die von dem betreffenden
+Unternehmen angeboten wurden, um die von der Kommission in der Mitteilung
+der Beschwerdepunkte geäußerten Bedenken auszuräumen, für bindend für das
+Unternehmen. Mit diesem Beschluss wird keine Aussage darüber getroffen, ob
+eine Zuwiderhandlung vorgelegen hat oder noch vorliegt. Die Schlussfolgerung
+der Kommission, dass die endgültigen Verpflichtungszusagen verhältnismäßig und
+ausreichend sind, um ihre Bedenken auszuräumen, beruht zum einen auf ihrer
+Mitteilung der Beschwerdepunkte, die den vorläufigen Standpunkt der
+Kommission widerspiegelt, der sich auf die einschlägigen Untersuchungen und
+Analysen stützt, und zum anderen auf den Stellungnahmen Dritter infolge der
+Veröffentlichung einer Bekanntmachung nach Artikel 27 Absatz 4 der Verordnung
+(EG) Nr. 1/2003.
+
+(116) In Anbetracht der angebotenen Verpflichtungszusagen besteht für ein Tätigsein der
+Kommission kein Anlass mehr, so dass das Verfahren unbeschadet des Artikels 9
+Absatz 2 der Verordnung (EG) Nr. 1/2003 einzustellen ist. Diese Entscheidung ist
+unbeschadet der Umsetzung und Anwendung von Richtlinie 2009/73/EG und
+Verordnung 715/2009 (drittes Paket)61 zur Etablierung des Binnenmarktes für
+Energie und insbesondere zu den darin vorgesehen unterschiedlichen
+Entflechtungsmodellen.
+
+61 Richtlinie 2009/73/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über
+gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung der Richtlinie 2003/55/EG
+und Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009
+(ABl L 211/94 vom 14.8.2009) über die Bedingungen für den Zugang zu den
+Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1175/2005 (ABl L 211/36
+vom 14.8.2009).
+
+30
+
+HAT FOLGENDEN BESCHLUSS ERLASSEN:
+
+Artikel 1
+
+Die Verpflichtungszusagen im Anhang werden für ENI Spa und alle seine
+Tochtergesellschaften für bindend erklärt.
+
+Artikel 2
+
+Für ein Tätigwerden der Kommission besteht kein Anlass mehr, so dass das Verfahren in
+dieser Sache einzustellen ist.
+
+Artikel 3
+
+Dieser Beschluss ist an Eni S.p.A., Roma, Piazzale Mattei 1, gerichtet.
+
+Brüssel, den
+
+Für die Kommission
+
+Mitglied der Kommission
+
+31

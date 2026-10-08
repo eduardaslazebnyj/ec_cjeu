@@ -1,0 +1,366 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 17 October 2007
+
+NON-CONFIDENTIAL VERSION
+
+COMMISSION DECISION
+of 17 October 2007
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+in Case
+COMP/D1/38606 – GROUPEMENT DES CARTES BANCAIRES "CB"
+
+(Only the French text is authentic)
+
+1
+
+CONTENTS
+
+1. INTRODUCTION................................................................................................................ 7
+
+2. PROCEDURE....................................................................................................................... 7
+
+3. THE RELEVANT SECTOR............................................................................................... 9
+3.1. General ........................................................................................................................... 9
+3.2. Card payment systems in France................................................................................. 9
+3.2.1. CB cards................................................................................................................. 10
+3.2.2. Proprietary or store cards ..................................................................................... 11
+3.2.3. American Express and Diners Club cards ........................................................... 11
+4. GROUPEMENT DES CARTES BANCAIRES “CB”.................................................... 12
+4.1. Main members and secondary members; affiliates ................................................ 12
+4.2. The Chief Executive Officer....................................................................................... 13
+4.3. The Board of Directors ............................................................................................... 13
+4.5. General Meetings......................................................................................................... 14
+4.6. The Electronic Banking Steering Committee ........................................................... 15
+5. THE SYSTEM OF INTERCHANGE FEES IN FRANCE............................................ 15
+5.1. The CIP ........................................................................................................................ 16
+5.2. The CIR........................................................................................................................ 17
+6. WORK DONE ON THE CS 2002 PROJECT................................................................. 19
+6.1. Introduction................................................................................................................. 19
+6.2. Chronological development of the CS 2002 project................................................. 19
+6.2.1. Initial discussions on reform of the CB system prior to November 2001 ........... 19
+6.2.2. Policy decisions taken at the meeting on 9 November 2001................................ 22
+6.2.2.1. Establishment of a pricing system to shield participants in the COM
+from loss of income due to a reduction in the cardholder fee caused by the new
+entrants. The proceeds from the pricing system to be shared between the
+participants. 22
+6.2.2.2. Impeding new entrants 23
+6.2.2.3. Remit entrusted to the management of the Groupement 24
+6.2.3. Work by [consultancy firm] on the CS 2002 project in November-December
+2001.................................................................................................................................. 24
+6.2.4. January-April 2002: initial attempts at adjusting the pricing system and work
+leading to the creation of an “industrial and commercial company” (SIC)................. 26
+6.2.5. Decision taken in May 2002 to give priority to the “non-structural aspects” of
+the project ........................................................................................................................ 31
+6.2.6. The COM meeting on 29 May 2002: general agreement on the direction taken
+by the CS 2002 project..................................................................................................... 33
+6.2.7. Fine-tuning of the measures contemplated to ensure that new entrants were
+penalised but that none of the main members taking part in the COM would suffer
+(June-October 2002)........................................................................................................ 34
+6.2.8. The COM meeting on 11 October 2002................................................................ 49
+6.2.9. The formal adoption of the pricing measures in question by the Board of
+Directors (decisions of 8 and 29 November 2002) ......................................................... 50
+
+2
+
+7. THE NOTIFIED MEASURES ......................................................................................... 53
+7.1. Introduction – The “principles underlying” the notified measures ....................... 53
+7.2. Mechanism for regulating the acquiring function (MERFA) ................................. 55
+7.3. Reform of the membership fee................................................................................... 56
+7.4. Dormant members wake-up mechanism................................................................... 57
+7.5. New formula governing the distribution of voting rights among the members,
+rights to the Groupement’s assets and proceeds from membership and dormant
+members wake-up fees....................................................................................................... 59
+8. ADVANCEMENT OF THE CS 2002 PROJECT FOLLOWING SUBMISSION OF
+THE NOTIFICATION TO THE COMMISSION.............................................................. 59
+
+9. RELEVANT MARKET..................................................................................................... 61
+9.1. The product market: the payment cards issuance market...................................... 61
+9.1.1. Payment card issuance, acquiring of payment and withdrawal transactions
+and competition between systems.................................................................................... 61
+9.1.2. The relevant market does not include means of payment other than payment
+cards................................................................................................................................. 63
+9.1.3. The question whether or not proprietary or store cards and charge cards
+(Amex and Diners) should be included in the relevant market can remain open........ 64
+9.1.4. The market for issuance, being that in which the anticompetitive effects under
+examination occur, constitutes a market separate from those for acquiring and for
+card payment systems...................................................................................................... 65
+9.2. The relevant geographic market: France.................................................................. 68
+9.3. Conclusion.................................................................................................................... 68
+190. It follows from the above that the relevant market in which the anticompetitive
+effects falling to be examined occur is the market for payment card issuance in
+France, there being no need to specify whether the market is confined to CB cards
+alone or also comprises other cards such as proprietary or charge cards........................ 68
+
+10. LEGAL ASSESSMENT: INFRINGEMENT OF ARTICLE 81(1) OF THE EC
+TREATY ................................................................................................................................. 68
+10.1. Decision by an association of undertakings ........................................................... 69
+10.2. Restriction of competition ........................................................................................ 70
+10.2.1. Existence of a restriction of competition by object ............................................ 70
+10.2.1.1. The measures' very formula contradicts the objectives stated in the
+notification and does indeed restrict competition 71
+A. The measures (particularly the MERFA) are not appropriate
+instruments for encouraging acquiring and therefore result, either in an
+additional cost (payment of the fee), or in a limitation of card issuance... 72
+(1) A number of obstacles make it very difficult, in practice, for a new
+entrant to develop acquiring ......................................................................... 72
+(a) The acquiring market is almost exclusively in the hands of the
+main members ........................................................................................ 73
+(b) The importance of a local branch network that makes it possible
+to develop an overall, individualised and sustained relationship with
+merchants is essential............................................................................. 73
+
+3
+
+(c) The most profitable merchant sectors and areas to be equipped
+with ATMs have already been acquired .............................................. 74
+(2) By their very formula, the measures are not appropriate instruments
+for encouraging acquiring ............................................................................. 75
+B. The function of the MERFA is in contradiction with that ascribed by
+the Groupement to the interchange fees and those of the other measures77
+10.2.1.2. The object of restricting competition identified in the very formula of
+the measures is perfectly consistent with the true objectives of the measures, as
+expressed in statements made by the main members while the measures were
+being prepared 81
+A. The wish to hinder competition from new entrants and to penalise
+them ................................................................................................................. 81
+B. The wish to safeguard the main members' incomes............................... 82
+C. The wish to limit the reduction in the price of bank cards.................... 84
+10.2.1.3 Conclusion on the existence of a restriction of competition by object..... 88
+10.2.2. Restriction of competition by effect .................................................................... 88
+10.2.2.1. The effects the measures would have if they were implemented (if
+their suspension were lifted) 90
+A. The substantial lessening of the attractiveness of the offerings of new
+entrants through the fine-tuning of the measures....................................... 91
+1) The additional cost imposed on new entrants ......................................... 91
+a) The amount of the additional cost.................................................... 91
+b) The additional cost is not easily avoidable ...................................... 96
+2) The penalising of new entrants................................................................. 97
+3) The criteria used for fine-tuning and its effects...................................... 98
+a) The SIREN criterion.......................................................................... 98
+(b) The inclusion of ATMs in the MERFA formula.......................... 101
+c) The "groups of banks" criterion .................................................... 101
+B. The effects on the price of cards............................................................. 102
+C. The inhibiting effect on new entrants' issuing plans............................ 104
+D. The beneficial effects of the measures for the participants in the
+COM, including the safeguarding of their income.................................... 105
+E. The insulation of the French market for the issuance of bank cards . 107
+10.2.2.2. The existence of tangible effects on the market 108
+A. Effects produced during the period 1 January 2003 - 8 June 2004 .... 108
+1) The reduction of issuing plans ................................................................ 110
+2) The effects on the price of cards............................................................. 116
+B. Effects produced since the suspension of the measures on 8 June 2004126
+(1) The effects on issuing plans.................................................................... 127
+(2) The effects on the price of cards............................................................ 129
+(a) On new entrants.............................................................................. 129
+(b) On the main members.................................................................... 130
+
+4
+
+10.2.3. The restrictive effects of the measures are not outside the scope of
+Article 81(1) of the EC Treaty....................................................................................... 132
+10.2.4. Appreciable restriction of competition.............................................................. 134
+10.2.5. Trade between Member States is affected to an appreciable extent................ 135
+10.2.6. Conclusion on the applicability of Article 81(1) .............................................. 135
+11. ARTICLE 81(3) OF THE EC TREATY...................................................................... 136
+11.1. The first test in Article 81(3) of the EC Treaty: no contribution to improving
+the production or distribution of goods or to promoting technical or economic
+progress ............................................................................................................................. 137
+11.1.1. The argument based on alleged free riding lacks clarity................................ 138
+11.1.2 The alleged free riding on investments or on the “value derived from using
+the system” (“the first source” of free riding) is not proven ....................................... 139
+11.1.2.1. The argument based on alleged free riding oo investments or on the
+“value derived from using the system” lacks clarity 139
+11.1.2.2. There are several reasons that militate against justifying the measures
+(in particular the membership fees that vary according to the number of cards
+issued) by a need to remunerate investments 143
+A. The Groupement cannot justify the measures by costs far exceeding
+those borne in the interests of the system................................................... 143
+B. The remuneration of past investments or the “fair return on
+investment” ................................................................................................... 146
+C. The protection of future investments and the risk of “collapse” of the
+system ............................................................................................................ 147
+D. The basis of assessment of the fees at issue is incompatible with the
+principle of a remuneration of investment................................................. 149
+11.1.2.3. Conclusion on the free riding on investment 149
+11.1.3. Justifying the measures, and the MERFA in particular, as a mechanism for
+balancing the acquiring and issuing functions (remedy to the “second source” of
+free riding) is not acceptable......................................................................................... 149
+11.1.3.1.
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+o the Groupement, a reduction in the CIP would only exacerbate
+competition to acquire the large retailers, which generate major payment flows,
+without expanding affiliation in the sectors where the card is not yet widely accepted.
+It would lead only to a surplus of ATMs in the most profitable areas without resolving
+the lack of equipment in rural areas.
+
+496. However,
+- The Groupement states that its cards are increasingly accepted in the sectors that the
+MERFA was supposed to encourage, even though the measures have been
+suspended679. This indicates that the measures are not necessary to the penetration of
+the CB card in these sectors.
+- It is evident that the main members participating in the COM wished precisely to
+prevent the measures from increasing competition for the acquiring of merchants that
+already accepted CB cards (see for example recital 101(c) above).
+- The Commission does not recognise the superiority of the positive externalities
+generated by acquiring which the MERFA is designed to take into account (see for
+example recitals 439 to 442).
+- The Commission does not share the Groupement’s view that the MERFA serves a
+regulatory function that can in no circumstances be performed by the other
+commissions. It is possible that per transaction interchange fees as, for instance, the
+CIP and CIR perform a function of regulating externalities, as the Groupement argued
+until this case began680 681. One of the errors vitiating [the Groupement's consultant]’s
+economic study is precisely the absence of the CIP and CIR in his models.
+
+677 Paragraph 23 of the notification (file p. 8).
+678 See Annex IX to the Groupement’s reply dated 7 November 2003 (file pp. 3076 to 3077), which
+reproduces the notification of the CIP made on 20 December 1990 (Case 32746).
+679 According to the Groupement’s website (file p. 24643):
+“Consumer expectations ... : Where would you like to be able to use your bank card more often? (Sofres
+survey, September 2004, 931 holders of CB cards) 67% mentioned the health professions, 43% public
+services, 38% home deliveries, 34% taxis, 29% automatic cash machines, 24% markets.
+... The results: The card is increasingly accepted compared with 2003: at doctors +16%, dentists +30%,
+veterinary services +20%, medical laboratories +9%, retirement homes +29% hospitals +16%
+taxis+19%” (see: http://www.cartes-bancaires.com/FR/telechargements/chiffresCB2004FR.pdf).
+680 See recitals 230 and 493 above.
+
+167
+
+497. This analysis is confirmed by the statements made by the new entrants. S2P, for
+example, states: “The CIR is a mechanism for balancing commissions between banks
+with a pool of ATMs and banks which issue bank cards”682 According to GE Money
+Bank, Covefi and Axa “the CSR paid by card-issuing banks already compensates for
+the lack of a contribution to “interbanking” by their ATMs”683 “The CSR is paid per
+withdrawal by the card issuer to the acquirer (ATM owner). For this reason, we
+believe that the MERFA duplicates the CSR”684; “the closer a bank’s number of
+ATMs is to zero, the greater its liability for the CSR. The MERFA’s nominator makes
+the same penalising calculation as the CSR, as it measures the bank’s share of the
+total number of ATMs and uses it for 50% of the total nominator. Ultimately, it
+pursues the same balancing goal as the CSR, a charge introduced in order to reestablish a balance between the number of cardholders and investments in ATMs”685.
+
+498. An appropriate modulation of the CIP and CIR rates, in particular with reference to
+the type of merchant and the areas to be equipped, so as to facilitate, where necessary,
+the penetration of the card in certain sectors and areas, like in other card payment
+systems (see recital 490), could help to regulate the system if necessary, and with far
+fewer penalising effects, as the commissions are paid per transaction and do not
+penalise a business model.
+499. Not only do the measures duplicate the CIP and CIR, they also duplicate one another
+(MERFA, membership fee per card, additional fee and dormant members wake-up
+mechanism). Thus, the MERFA penalises what is deemed to be excessive issuing
+compared with acquiring, and issuance is also penalised by the membership fee based
+on the number of cards issued, the additional membership fee and the dormant
+members wake-up mechanism.
+
+500. As regards the other economic justifications cited by the Groupement (the measures
+help to keep pace with innovation, cope with the establishment of a European
+payments area and meet new security requirements), the Groupement does not show
+in what way the measures are indispensable, i.e. the least restrictive of all possible
+means of meeting the various objectives.
+
+501. It follows from the above that the Groupement does not show that the measures in
+question are indispensable: the objectives pursued by the measures in question can be
+achieved by other measures already in existence (appropriate modulation of the
+interchange fees); they also duplicate one another and the interchange fees. The
+measures in question therefore do not satisfy the third condition laid down in
+Article 81(3) of the Treaty.
+
+681 The present decision does not take a position on the lawfulness of the CIP/CIR interchange fees, nor on
+the role that they play or the real effects that they have as these CIP/CIR interchange fees currently stand,
+as stated in footnote 310 above.
+682 S2P’s reply of 13 July 2005 to the Commission’s request for information of 29 June 2005 (file pp. 24409
+and 25633).
+683 GE Money Bank’s reply of 21 July 2005 to the Commission’s request for information of 29 June 2005,
+p. 5, file p. 24660.
+684 Covefi's reply of 19 July 2005 to the Commission’s request for information of 29 June 2005 (file
+p. 24463).
+685 Axa Banque’s reply of 11 July 2005 to the Commission’s request for information of 29 June 2005 (file
+p. 24394).
+
+168
+
+11.4. The fourth test (the measures in question must not make it possible to
+eliminate competition in respect of a substantial part of the products in question)
+502. If only one of the tests in Article 81(3) is not met, this is enough to render the
+exemption laid down therein inapplicable. In this case, since the first three conditions
+are not met, it is not necessary to examine whether the fourth is. This does not rule out
+the possibility that the measures may make it possible to eliminate competition in
+respect of a substantial part of the products in question.
+
+11.5. Conclusion on the applicability of Article 81(3) of the EC Treaty
+503. It follows from the above that the anticompetitive decisions by an association of
+undertakings at issue satisfy none of the first three tests of exemptibility laid down in
+Article 81(3) of the EC Treaty. The Groupement’s decision is therefore contrary to
+the provisions of Article 81(1) of the EC Treaty and automatically void pursuant to
+Article 81(2) of the EC Treaty.
+
+12. LEGITIMATE INTEREST
+
+504. The Commission has a legitimate interest686 in pointing out the infringement, in
+ordering that it is put to an end and in prohibiting any repetition of it, particularly as
+the infringement is still ongoing687 and could even produce further effects688 if the
+Groupement decided to lift the mere suspension of the measures, as it stated that it
+envisages doing689.
+
+13. CONCLUSION
+
+505. Article 7 of Regulation No 1/2003 empowers the Commission, where it finds that
+there is an infringement of Article 81 of the EC Treaty, to require the undertakings
+concerned to bring the infringement to an end. In the light of the above, the
+Commission notes that the pricing measures notified by the Groupement which are
+tied to card issuance (MERFA, membership fee per card, additional fee and dormant
+members wake-up mechanism) are contrary to Article 81 of the EC Treaty.
+Consequently, the Commission orders that the Groupement withdraws these measures
+and refrains from entering into any agreement or concerted practice or taking any
+decision of an association of undertakings having a similar object or effect.
+
+686 Il convient à cet égard de remarquer que si, selon la jurisprudence de la Cour et du Tribunal de Première
+Instance des Commuautés européennes (affaires GVL et Sumitomo), la Commission doit particulièrement
+veiller à démontrer un intérêt légitime à adopter une décision constatant une infraction lorsque
+l’entreprise en cause a déjà mis fin à l’infraction avant l’adoption de la décision contestée, en l’espèce
+l’infraction continue.
+(Case 7/82 GVL v. Commission of 2 March 1983 [1983] ECR p.483, recitals 24 to 28 ;
+Joined Cases T-22/02 and T-23/02 Sumitomo Chemicals Co. Ltd and others v. Commission of 6 October
+2005 [2005] ECR II p. 4065, recitals 130 to 139).
+687 The measures have not been annulled by the Groupement, but merely suspended ; see recitals 259 and
+344 above.
+688 See Section 10.2.2.2. B., recitals 345 to 357, where it is explained that the measures continue to have
+effects after their suspension.
+689 See recital 344 and footnote 514 above.
+
+169
+
+HAS ADOPTED THIS DECISION:
+Article 1
+The pricing measures adopted by the Groupement des Cartes Bancaires “CB” (hereafter
+“the Groupement”) by decision of its Board of Directors on 8 and 29 November 2002, that
+is to say, the mechanism for regulating the acquiring function (“MERFA”), the membership
+fee per card and the additional membership fee, and the dormant members wake-up
+mechanism, are contrary to Article 81 of the EC Treaty.
+
+Article 2
+The Groupement shall bring to an end the infringement mentioned in Article 1 by
+withdrawing the notified pricing measures mentioned in this Article, in so far as it has not
+already done so.
+
+The Groupement refrains, in the future, from adopting any measure or behaviour having an
+identical or similar object or effect.
+
+Article 3
+This decision is addressed to:
+G.I.E. Groupement des Cartes Bancaires « CB »
+31, rue de Berri – Immeuble Monceau
+75008 Paris - France.
+
+Done at Brussels, 17 October 2007
+
+For the Commission
+
+Neelie Kroes
+Member of the Commission
+
+170

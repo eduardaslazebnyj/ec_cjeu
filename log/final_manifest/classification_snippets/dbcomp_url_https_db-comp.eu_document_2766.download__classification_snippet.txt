@@ -1,0 +1,400 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASES AT.40721 – MICROSOFT
+TEAMS and
+AT.40873 – MICROSOFT TEAMS II
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 9 Regulation (EC) 1/2003
+Date: 12/09/2025
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 12.9.2025
+C(2025) 6031 final
+
+COMMISSION DECISION
+
+of 12.9.2025
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Cases AT.40721 – Microsoft Teams and AT.40873 – Microsoft Teams II
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 3
+2. Procedural steps under Regulation 1/2003 ................................................................... 4
+3. The undertaking concerned .......................................................................................... 6
+4. Sector concerned .......................................................................................................... 6
+4.1. Products concerned ...................................................................................................... 6
+4.2. Transition to cloud computing and SaaS ..................................................................... 7
+5. Microsoft practices with regard to Teams .................................................................... 9
+6. Preliminary assessment .............................................................................................. 11
+6.1. Relevant markets ........................................................................................................ 11
+6.1.1. Principles .................................................................................................................... 11
+6.1.2. Application to this case .............................................................................................. 12
+6.2. Dominance ................................................................................................................. 18
+6.2.1. Principles .................................................................................................................... 18
+6.2.2. Application to this case .............................................................................................. 19
+6.3. Abuse of dominant position ....................................................................................... 20
+6.3.1. Principles .................................................................................................................... 20
+6.3.2. Application to this case .............................................................................................. 23
+6.4. Substantial part of the common market ..................................................................... 31
+6.5. Objective justification/efficiencies ............................................................................. 31
+6.6. Effect on trade between Member States ..................................................................... 31
+6.6.1. Principles .................................................................................................................... 31
+6.6.2. Application to this case .............................................................................................. 32
+6.7. Duration of the conduct .............................................................................................. 32
+6.8. Preliminary conclusion ............................................................................................... 33
+7. Proposed commitments .............................................................................................. 33
+7.1. The Initial Commitments ........................................................................................... 33
+7.2. Commission Notice pursuant to Article 27(4) ........................................................... 36
+7.3. Assessment of the Initial Commitments in light of the comments of Respondents to
+the Market Test .......................................................................................................... 36
+7.3.1. Availability of Commitments Suites with and without Teams .................................. 36
+7.3.2. Pricing and discounting .............................................................................................. 37
+7.3.3. Suites for frontline workers ........................................................................................ 39
+7.3.4. Notice of availability .................................................................................................. 39
+7.3.5. Switching opportunities ............................................................................................. 40
+
+1EN EN
+
+7.3.6. Effective interoperability with Microsoft Products and Services .............................. 41
+7.3.7. Teams Competitors integrating with the Microsoft 365 Apps and Teams. ............... 43
+7.3.8. Data portability ........................................................................................................... 44
+7.3.9. Duration ...................................................................................................................... 44
+7.4. The Final Commitments ............................................................................................. 45
+8. Effectiveness and proportionality of the Final Commitments ................................... 46
+8.1. Principles .................................................................................................................... 46
+8.2. Application in the present case .................................................................................. 46
+9. Periodic penalty payments ......................................................................................... 51
+9.1. Principles .................................................................................................................... 51
+9.2. Application to this case .............................................................................................. 51
+10. Conclusion.................................................................................................................. 52
+
+2EN EN
+
+COMMISSION DECISION
+
+of 12.9.2025
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU) and Article 54 of the EEA Agreement
+
+Cases AT.40721 – Microsoft Teams and AT.40873 – Microsoft Teams II
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union (“TFEU”),
+Having regard to the Agreement on the European Economic Area (“EEA Agreement”),
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty
+(“Regulation 1/2003”)1, in particular Article 9(1) thereof,
+Having regard to the Commission decisions of 27 July 2023 and 25 June 2024 to initiate
+proceedings in cases AT.40721 and AT.40873 respectively,
+Having expressed concerns in the Statement of Objections of 25 June 2024 (“SO”),
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation 1/2003 on the commitments offered to meet those concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision is addressed to Microsoft Ireland Operations Ltd (referred to as
+“Microsoft Ireland”), incorporated in Ireland, and Microsoft Corporation,
+incorporated in the United States of America (together with Microsoft Ireland
+referred to as “Microsoft”). It concerns the distribution and integration of Microsoft
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+(“TFEU”). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of “Community” by “Union” and “common market” by
+“internal market”. Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+
+3EN EN
+
+Teams (“Teams” or the “tied product”) with other Microsoft products in the
+European Economic Area (“EEA”)2.
+(2) In its Statement of Objections of 25 June 2024 (“SO”), the European Commission
+(“Commission”) came to the preliminary conclusion that certain business practices
+of Microsoft constitute an infringement of Article 102 TFEU and of Article 54 of the
+EEA Agreement.3
+(3) According to the preliminary conclusions of the SO, Microsoft has anticompetitively tied its Software-as-a-Service (“SaaS”) unified communications and
+collaboration solution (“SaaS UCC”), Teams, to its dominant SaaS productivity
+applications for professional use (“SaaS Productivity Applications for
+Professional Use”), namely Microsoft’s core SaaS Productivity Applications for
+Professional Use (Word, Excel, PowerPoint and Outlook) (“Microsoft SaaS
+Productivity Applications”),4 by means of its software suites for professional use
+that contain Microsoft SaaS Productivity Applications (“Microsoft Suites”)5.
+(4) The SO constitutes the Commission’s preliminary assessment within the meaning of
+Article 9(1) of Regulation 1/2003.
+(5) While Microsoft disagrees with the preliminary conclusions reached by the
+Commission in its SO, it has nevertheless offered commitments under Article 9(1) of
+Regulation 1/2003 to resolve the preliminary concerns expressed by the Commission.
+This Decision finds that Microsoft’s commitments, which are without prejudice to
+Microsoft’s current or future obligations under other regulations, remove these
+preliminary concerns. Furthermore, this Decision makes those commitments binding
+on Microsoft.
+
+2. PROCEDURAL STEPS UNDER REGULATION 1/2003
+(6) On 14 July 2020, the Commission received a complaint against Microsoft (the
+“Slack Complaint”) under Article 7 of Regulation 1/2003, lodged by Slack
+Technologies Ltd., a wholly owned subsidiary of Slack Technologies, LLC6, now
+owned by Salesforce, Inc. (together, and also including their eponymous product,
+“Slack”). This relates to Case AT.40721 – Microsoft Teams.
+(7) The Commission investigated Microsoft’s conduct, including sending requests for
+information (“RFIs”) pursuant to Article 18(2) and Article 18(3) of Regulation (EC)
+
+2 For the purposes of this Decision, references to the EEA should be understood as covering the 27
+Member States of the European Union (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia,
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania,
+Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden)
+as well as Iceland, Liechtenstein and Norway.
+3 References in the Decision to Article 102 TFEU, to effect on trade between Member States or to
+competition within the internal market are to be taken to include Article 54 of the EEA Agreement,
+effect on trade between Contracting Parties to the EEA Agreement, and competition within the territory
+covered by the EEA Agreement.
+4 Microsoft SaaS Productivity Applications are often sold together and fulfil the key functions of
+respectively word processing, spreadsheet editing, creation of presentations and email editing.
+5 In addition to Microsoft SaaS Productivity Applications and other productivity applications (e.g.
+OneNote), Microsoft Suites may also contain other applications (e.g. Defender, Entra ID, Intune,
+OneDrive, SharePoint, Teams) which, however, serve different functions from productivity
+applications.
+6 At the time, Slack Technologies, Inc.
+
+4EN EN
+
+No 1/2003 to Microsoft and to its competitors and customers in business application
+software.
+(8) On 20 July 2023, the Commission received a second complaint against Microsoft on
+its tying practices with Microsoft Teams (the “alfaview Complaint”) under Article 7
+of Regulation 1/2003, lodged by alfaview GmbH (together with its eponymous
+product, “alfaview”). This relates to Case AT.40873 – Microsoft Teams II.
+(9) On 27 July 2023, the Commission opened proceedings in Case AT.40721 –
+Microsoft Teams within the meaning of Article 2(1) of Council Regulation No
+773/2004 and Article 11(6) of Regulation 1/2003.
+(10) On 14 September 2023, Zoom Video Communications, Inc. (“Zoom”) submitted an
+application to be heard as a third person within the meaning of Article 27(3) of
+Regulation 1/2003 and Article 5 of Decision 2011/695/EU7. The Hearing Officer
+admitted Zoom as an interested third person to these cases on 13 October 2023.
+(11) On 17 October 2023, the Commission held a state-of-play meeting with Microsoft.
+(12) On 1 March 2024, Symphony Communication Services, LLC (“Symphony”)
+submitted an application to be heard as a third person within the meaning of Article
+27(3) of Regulation 1/2003 and Article 5 of Decision 2011/695/EU. The Hearing
+Officer admitted Symphony as an interested third person to these cases on 14 March
+2024.
+(13) On 12 June 2024, the Commission held a second state-of-play meeting with
+Microsoft.
+(14) On 25 June 2024, the Commission adopted an SO addressed to Microsoft. On the
+same day, the Commission initiated proceedings in case AT.40873 – Microsoft
+Teams II within the meaning of Article 2(1) of Council Regulation No 773/2004 and
+Article 11(6) of Regulation 1/2003.8 Microsoft responded to the SO on 9 October
+2024 (“RSO”).
+(15) On 24 July 2024, Google, LLC (“Google”) submitted an application to be heard as a
+third person within the meaning of Article 27(3) of Regulation 1/2003 and Article 5
+of Decision 2011/695/EU. The Hearing Officer admitted Google as an interested
+third person to these cases on 22 August 2024.
+(16) On 28 April 2025, Microsoft submitted commitments (the “Initial Commitments”)
+to the Commission to meet the preliminary concerns expressed by the SO.
+(17) On 8 May 2025, Telecom Italia S.p.A. (“TIM”) submitted an application to be heard
+as a third person within the meaning of Article 27(3) of Regulation 1/2003 and
+Article 5 of Decision 2011/695/EU. The Hearing Offi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n the illustration Teams
+Competitors’ SaaS UCC are not on the same side of the ribbon as Teams is,
+Microsoft explained that in those Outlook windows “the placement of these add-ins
+are [sic] (...) movable across the ribbon by users”.183 The Commission considers
+that a placement on the ribbon that can be moved by the user constitutes prominent
+placement and that such integration is sufficiently effective. Moreover, as also noted
+in recital (212) above, any dispute as to whether the placement of SaaS UCC is
+sufficiently prominent would be subject to the dispute resolution mechanism
+provided in paragraph 16 of the Final Commitments.
+(239) Fourth, an effective remedy to the tie requires that customers can overcome potential
+lock-in effects that may have arisen during the long period when the tie was in place.
+Customers create and store messages as well as other types of data while using SaaS
+UCC products, which they will wish to continue to rely on if they opt for a
+competing solution. For this reason, the commitments provide for a data portability
+obligation that enables customers to extract data for use in competing solutions, even
+if the customer continues to use Teams.
+(240) The Final Commitments also include provisions on non-circumvention, nonretaliation, reviewing the commitments, monitoring their implementation by a
+Monitoring Trustee, dispute resolution, and notice of availability of the Final
+Commitments (for more detail, see section 7.1). To address Respondents’
+concerns184 on the notice of availability, the Final Commitments185 were revised
+compared to the Initial Commitments to ensure that Microsoft provides equal
+visibility to Commitments Suites with Teams and Commitments Suites without
+Teams, even when marketed together with other Microsoft products (see recital
+(195)). Furthermore, the Final Commitments186 provide additional improvements
+compared to the Initial Commitments to ensure that Microsoft publishes information
+on its interoperability and data portability obligations on relevant developer-facing
+websites, thereby providing transparency and facilitating compliance with these
+obligations (see recital (197)). This ensures that Microsoft customers “know of the
+availability of the without Teams suites and of Microsoft’s commitments to ensure
+effective interoperability and data portability”187.
+(241) In addition to making the Final Commitments available to EEA customers, Microsoft
+announced in its May Blogpost that it decided to apply on a global basis the resulting
+availability and pricing of Commitments Suites with and without Teams, further
+enabling choice by customers with an international footprint.188 The Final
+Commitments also establish that the Monitoring Trustee may request from Microsoft
+information regarding the availability of Commitments Suites with and without
+Teams and Teams standalone and their associated pricing to non-EEA customers.189
+Given the importance of the availability of Commitments Suites without Teams at a
+lower price than Commitments Suites with Teams for the large number of customers
+
+183 See Microsoft’s submission of 8 July 2025, page 4 (ID 7079-1).
+184 See section 7.3.4.
+185 Final Commitments, paragraph 6(c).
+186 Final Commitments, paragraph 6(d).
+187 Final Commitments, paragraph 6.
+188 See May Blogpost, where Microsoft announced that it would “align the options and pricing for our
+suites and Teams service globally, as we’ve done in the past [and] continue making all versions of our
+frontline suites without Teams available globally”.
+189 Final Commitments, paragraph 17(g).
+
+50EN EN
+
+with international footprint, Microsoft’s decision is part of the factual background on
+which the Commission has assessed the effectiveness of the Final Commitments.
+(242) The need to ensure increased deterrence through the imposition of fines has been
+removed in the present case by the submission of the commitments which will be
+made legally binding and enforceable through the present decision. The Commission
+considers that the non-circumvention clause and the dispute resolution mechanism,
+together with the measures provided for in Regulation (EC) No 1/2003, namely the
+possibilities of reopening of the proceedings pursuant to Article 9(2) of that
+Regulation, imposing a fine pursuant to Article 23(2), point (c), of that Regulation or
+imposing periodic penalty payments pursuant to Article 24(1), point (c), of that
+Regulation, are sufficient to ensure effectiveness and to provide sufficient safeguards
+against non-compliance with the Final Commitments.
+(243) As regards the principle of proportionality, the Commission notes that Microsoft has
+not offered less onerous commitments in the RSO that would adequately and
+effectively address the Commission’s preliminary concerns.
+(244) The Commission has taken into consideration the interests of third parties, including
+those of the Respondents.
+(245) This Decision accordingly complies with the principle of proportionality.
+
+9. PERIODIC PENALTY PAYMENTS
+9.1. Principles
+(246) Pursuant to Article 24(1), point (c), of Regulation (EC) No 1/2003 and Article 5 of
+Council Regulation (EC) No 2894/94190, the Commission may, by decision, impose
+on undertakings or associations of undertakings periodic penalty payments not
+exceeding 5% of the average daily turnover in the preceding business year per day
+and calculated from the day appointed by the decision, in order to compel them to
+comply with a commitment made binding by a decision pursuant to Article 9 of
+Regulation (EC) No 1/2003.
+9.2. Application to this case
+(247) The Commission concludes that it is necessary to impose periodic penalty payments,
+pursuant to Article 24(1), point (c), of Regulation (EC) No 1/2003 and Article 5 of
+Regulation (EC) No 2894/94 if Microsoft were to fail to comply with the commitments
+made binding by this Decision.
+(248) In setting the level of the periodic penalty payments, the Commission considers that they
+must be sufficient to ensure compliance by Microsoft with this Decision. The
+Commission has also taken Microsoft’s significant financial resources into account.
+(249) Despite the Final Commitments, throughout the duration of those commitments
+Microsoft will maintain its control over its suites and its own SaaS UCC solution. Due to
+Microsoft’s market power and its potential conflicts of interest due it continuing to offer
+a SaaS UCC, it is key to ensure a sufficient level of deterrence to minimise any risk of
+circumvention, in addition to the monitoring of compliance with the commitments by the
+Monitoring Trustee.
+
+190 Council Regulation (EC) No 2894/94 of 28 November 1994 concerning arrangements for implementing
+the Agreement on the European Economic Area (OJ L 305, 30.11.1994, p. 6, ELI:
+http://data.europa.eu/eli/reg/1994/2894/oj).
+
+51EN EN
+
+(250) The results of the Market Test also highlighted such a risk of circumvention and the need
+to provide for the imposition of significant periodic penalty payments in case of breach
+and/or circumvention.
+(251) Consequently, in the event that Microsoft were to fail to comply with the commitments
+made binding by this Decision, the Commission imposes a daily periodic penalty
+payment of 5% of Microsoft’s average daily turnover in the business year preceding such
+failure to comply.
+
+10. CONCLUSION
+(252) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes commitments, offered by the undertakings concerned to meet the
+Commission’s concerns expressed in its preliminary assessment, binding upon them.
+Recital 13 of the Preamble to the Regulation (EC) No 1/2003 states that such a
+decision should not conclude whether or not there has been or still is an
+infringement.
+(253) The Commission’s assessment of whether the commitments offered are sufficient to
+meet its concerns is based on its SO, representing the preliminary view of the
+Commission based on the underlying investigation and analysis, and the observations
+received from third parties following the publication of a notice pursuant to Article
+27(4) of Regulation (EC) No 1/2003.
+(254) In the light of the Commitments offered, the Commission considers that there are no
+longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+(255) The Commission retains full discretion to investigate and open proceedings under
+Article 102 of the Treaty and Article 54 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision.
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Final Commitments as listed in the Annex shall be binding on the addressees of the
+Decision as identified in Article 4 for seven years, except for the provisions related to the
+Interoperability and Data Portability Commitments, as defined in the Final Commitments,
+which shall be binding on the addressees of the Decision as identified in Article 4 for ten
+years.
+
+Article 2
+It is hereby concluded that there are no longer grounds for action in this case as regards the
+conduct covered by this Decision.
+
+Article 3
+If the addressees of this Decision fail to comply with the Final Commitments made binding by
+Article 1, they shall incur a daily periodic penalty payment of 5% of the average daily
+turnover of the undertaking to which they belong in the business year preceding such a failure
+to comply.
+
+52EN EN
+
+Article 4
+This Decision is addressed to:
+Microsoft Corporation, a corporation organised under the laws of Washington with its
+principal place of business at One Microsoft Way, Redmond, Washington 98052-6399,
+United States of America
+and
+Microsoft Ireland Operations Limited, a company organised under the laws of Ireland, with its
+principal place of business at One Microsoft Place, South County Business Park,
+Leopardstown, Dublin 18, D18 P521, Ireland.
+
+Done at Brussels, 12.9.2025
+
+For the Commission
+
+Signed
+
+Teresa RIBERA
+Executive Vice-President
+
+53EN EN

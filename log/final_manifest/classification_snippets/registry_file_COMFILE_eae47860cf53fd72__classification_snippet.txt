@@ -1,0 +1,504 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+NICHTVERTRAULICHE FASSUNG
+
+EUROPÄISCHE KOMMISSION
+
+Brüssel, 8.12.2010
+C(2010) 8760 final
+
+BESCHLUSS DER KOMMISSION
+
+vom 8. Dezember 2010
+
+in einem Verfahren nach Artikel 101 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 53 EWR-Abkommen
+
+(Sache COMP/D-1/39.398 - Visa MIF)
+
+(Nur der englische Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+NICHTVERTRAULICHE FASSUNG
+
+BESCHLUSS DER KOMMISSION
+
+vom 8. Dezember 2010
+
+in einem Verfahren nach Artikel 101 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 53 EWR-Abkommen
+
+(Sache COMP/D-1/39.398 - Visa MIF)
+
+(Nur der englische Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DIE EUROPÄISCHE KOMMISSION –
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 101 und 102 des Vertrags niedergelegten
+Wettbewerbsregeln1, insbesondere auf Artikel 9 Absatz 1,
+
+im Hinblick auf die Entscheidung der Kommission vom 6. März 2008, das Verfahren in
+dieser Sache einzuleiten,
+
+nachdem sie ihre Bedenken in der Mitteilung der Beschwerdepunkte vom 3. April 2009
+zum Ausdruck gebracht hat,
+
+nachdem interessierten Dritten Gelegenheit gegeben wurde, gemäß Artikel 27 Absatz 4
+der Verordnung (EG) Nr. 1/2003 zu den unterbreiteten Verpflichtungszusagen Stellung
+zu nehmen2,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten vom 26. November 2010,
+
+1 ABl. L 1 vom 4.1.2003, S. 1. Mit Wirkung vom 1. Dezember 2009 sind an die Stelle der Artikel 81
+und 82 des Vertrags zur Gründung der Europäischen Gemeinschaft („EG-Vertrag“) die Artikel 101
+und 102 des Vertrags über die Arbeitsweise der Europäischen Union („Vertrag“) getreten. Die beiden
+Artikel sind der Sache nach identisch. Für die Zwecke dieser Entscheidung sind Bezugnahmen auf die
+Artikel 101 und 102 des Vertrags gegebenenfalls als Bezugnahmen auf die Artikel 81 und 82 EG-
+Vertrag zu verstehen. Der Vertrag hat ebenfalls bestimmte terminologische Änderungen eingeführt,
+wie etwa die Ersetzung von "Gemeinschaft" durch "Union" und "Gemeinsamer Markt" durch
+"Binnenmarkt". Die Terminologie des Vertrages wird in dieser Entscheidung durchgehend verwendet.
+
+2 ABl. C 138 vom 28.5.2010, S. 34.
+
+2
+
+NICHTVERTRAULICHE FASSUNG
+
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+
+1. GEGENSTAND
+
+(1) Dieser Beschluss richtet sich an Visa Europe Limited („Visa Europe“) und betrifft
+die von Visa Europe getroffene Festlegung des multilateral vereinbarten
+Interbankenentgelts („MIF“), das für grenzüberschreitende und bestimmte
+inländische3 Point-of-Sale-Transaktionen („POS“) mit VISA-, VISA-Electronund V-PAY-Privatkunden-Debitkarten mit sofortiger Belastung innerhalb des
+EWR („MIF für Debitkarten mit sofortiger Belastung) gilt.
+
+(2) In ihrer Mitteilung der Beschwerdepunkte vom 3. April 2009 („Mitteilung der
+Beschwerdepunkte“) legte die Kommission ihren vorläufigen Standpunkt dar,
+wonach Visa Europe Artikel 101 des Vertages und Artikel 53 des EWR-
+Abkommens verletzt hatte, als sie diese MIF festlegte.
+
+2. DIE PARTEIEN
+
+(3) Visa Europe ist eine Vereinigung von mehr als 5.000 europäischen Banken, die
+das weltweite Visa-Zahlungskartennetz ausschließlich im Visa-Europe-Gebiet
+(Visa Europe Territory) betreibt, das den EWR und einige andere Länder auf der
+Grundlage von Lizenzen umfasst, die aufgrund des Rahmenabkommens vom
+1. Oktober 2007 Visa Europe von Visa Inc. gewährt wurden.
+
+3. VERFAHRENSSCHRITTE GEMÄß VERORDNUNG (EG) NR. 1/2003
+
+(4) Am 6. März 2008 leitete die Kommission das Verfahren zum Erlass einer
+Entscheidung gemäß Kapitel III der Verordnung (EG) Nr. 1/2003 ein, und am
+3. April 2009 nahm sie eine Mitteilung der Beschwerdepunkte an, in der sie ihre
+wettbewerbsrechtlichen Bedenken darlegte. Die Mitteilung der
+Beschwerdepunkte stellt eine vorläufige Beurteilung im Sinne von Artikel 9
+Absatz 1 der Verordnung (EG) Nr. 1/2003 dar.
+
+(5) Am 15. Juni 2009, reichte EuroCommerce, ein internationaler Verband des Großund Einzelhandels, gemäß Artikel 7 der Verordnung (EG) Nr. 1/2003 eine
+Beschwerde gegen die MIF von Visa Europe ein.
+
+(6) Am 26. April 2010 bot Visa Europe Verpflichtungszusagen zu seinen MIF für
+Debitkarten mit sofortiger Belastung sowie zu bestimmten anderen Netzregeln an
+(„unterbreitete Verpflichtungszusagen“).
+
+3 Bei den Ländern, in denen Visa Europe MIF für Debitkarten mit sofortiger Belastung festlegt und Visa-
+Europe-Debitkarten mit sofortiger Belastung ausgestellt werden, handelt es sich um Griechenland, Irland,
+Island, Italien, Luxemburg und Ungarn (nur Prepaid-Karten), Malta, Niederlande (nur Prepaid-Karten)
+sowie Schweden.
+
+3
+
+NICHTVERTRAULICHE FASSUNG
+
+(7) Am 28. Mai 2010 wurde im Amtsblatt der Europäischen Union eine Mitteilung
+gemäß Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 mit einer kurzen
+Zusammenfassung der Sache und des wesentlichen Inhalts der
+Verpflichtungszusagen veröffentlicht, und interessierte Dritte wurden
+aufgefordert, ihre Bemerkungen hierzu binnen eines Monats nach der
+Veröffentlichung abzugeben.
+
+(8) Am 23. Juli 2010 informierte die Kommission Visa Europe über die
+Stellungnahmen, die von interessierten Dritten nach der Veröffentlichung der
+Mitteilung abgegeben wurden. Am 10. September 2010 unterbreitete Visa Europe
+einen abgeänderten Vorschlag für Verpflichtungen („überarbeitete
+Verpflichtungszusagen“).
+
+(9) Mit Schreiben vom 27. September 2010 teilte die Kommission EuroCommerce
+gemäß Artikel 7 Absatz 1 der Verordnung (EG) Nr. 773/2004 der Kommission
+vom 7. April 2004 über die Durchführung von Verfahren auf der Grundlage der
+Artikel 81 und 82 EG-Vertrag durch die Kommission4 mit, dass die
+überarbeiteten Verpflichtungszusagen die wettbewerbsrechtlichen Bedenken der
+Kommission bezüglich der MIF von Visa Europe für Debitkarten mit sofortiger
+Belastung zunächst ausräumen und sie zu dem vorläufigen Schluss veranlassen,
+dass die Europäische Union kein hinreichendes Interesse daran hat, die
+Beschwerde gegen die mutmaßliche Zuwiderhandlung bezüglich der MIF von
+Visa Europe für Debitkarten mit sofortiger Belastung weiter zu untersuchen.
+
+(10) Am 21. Oktober 2010 EuroCommerce beantwortete das Schreiben vom 27.
+September 2010. Der Beschwerdeführer wiederholte im Wesentlichen die
+Gründe, die er bereits in den Bemerkungen zu den Verpflichtungszusagen
+vorgetragen hat.
+
+(11) Am 26. November 2010 wurde der Beratende Ausschusses für Kartell- und
+Monopolfragen angehört. Am 26. November 2010 veröffentlichte der
+Anhörungsbeauftragte seinen Abschlussbericht.
+
+4. VORLÄUFIGE BEURTEILUNG
+
+4.1. Relevante Märkte
+
+4.1.1. Produktmarkt
+
+(12) In ihrer Mitteilung der Beschwerdepunkte hat die Kommission gemäß dem
+üblichen Verfahren5 zwischen einem vorgelagerten „Netzmarkt“ und
+nachgelagerten „Issuing-“ und „Acquiring“-Märkten unterschieden.
+
+4 ABl. L 123 vom 27.04.2004, S. 18.
+
+5 Entscheidung der Kommission C(2007) 6474 vom 19. Dezember 2007 in den Rechtssachen
+COMP/34.579 – MasterCard, COMP/36.518 – EuroCommerce und COMP/38.580 – Commercial
+Cardsrecital, Ziffer 278 und Entscheidung der Kommission 2002/914/EC vom 24. Juli 2002 in der
+
+4
+
+NICHTVERTRAULICHE FASSUNG
+
+(13) Beim vorgelagerten Netzmarkt handelt es sich um den Markt, in dem die
+Betreiber von Zahlungskartennetzen miteinander in Wettbewerb treten, um
+Finanzinstitute vom Beitritt zu ihrem Zahlungskartennetz zu überzeugen, und in
+dem sie den Instituten als Gegenleistung für die Gebühren Dienstleistungen
+anbieten.
+
+(14) Im nachgelagerten Bereich handeln die Finanzinstitute (i) als Acquirer für
+Händler, indem sie im Austausch für die Händlergebühr - Merchant Service
+Charge („MSC“) Kartenzahlungen akzeptieren, die normalerweise
+transaktionsbezogen sind, und (ii) als Issuer von Zahlungskarten an
+Karteninhaber, die normalerweise eine Jahresgebühr für die Karte entrichten
+müssen. Die auf den Acquiring- und Issuing-Märkten angebotenen
+Dienstleistungen ergänzen sich ihrem Charakter nach, unterscheiden sich jedoch
+in ihren Merkmalen und werden zwei unterschiedlichen Gruppen von Kunden
+gewährt (Händler und Karteninhaber). Zwar besteht zwischen der Nachfrage der
+Händler nach Kartenzahlungsdienstleistungen und der Karteninhaber ein gewisser
+Zusammenhang, doch ist das Verhalten der beiden Kundengruppen ganz
+unterschiedlich.
+
+(15) Aus Analysen der Angebots- und Nachfrageseite der Acquiring- und Issuing-
+Märkte geht hervor, dass weder der Erwerb noch die Ausgabe von Karten
+ausreichend ersetzbar sind, um in der Rolle als äquivalente Dienstleistung für ein
+anderes Zahlungsmittel, vor allem Bargeld, Scheck, Überweisung oder Zahlung
+durch Lastschrifteinzug, als Bestandteil ein und desselben Marktes angesehen
+werden zu können. Die Kommission hat offen gelassen, ob die Acquiring- und
+Issuing-Märkte weiter unterteilt werden sollten.
+
+(16) Daher ist die Kommission in ihrer Mitteilung der Beschwerdepunkte zu dem
+vorläufigen Schluss gelangt, dass es sich in diesem Verfahren beim relevanten
+Produktmarkt um den Acquiring-Markt für Zahlungskarten handelt.
+
+4.1.2. Räumlicher Markt
+
+(17) Nach der vorläufigen Beurteilung in der Mitteilung der Beschwerdepunkte tragen
+die Acquiring-Märkte ihrem Umfang nach noch immer einzelstaatlichen
+Charakter. Diese Schlussfolgerung beruhte auf den großen preislichen
+Unterschieden zwischen den Acquiring-Dienstleistungen in den einzelnen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, den
+sehr unterschiedlichen Marktstrukturen und der Tatsache, dass das
+grenzüberschreitende Acquiring begrenzt bleibt.
+
+4.2. Position der Parteien auf den relevanten Märkten
+
+(18) In der Mitteilung der Beschwerdepunkte gelangte die Kommission zu dem
+vorläufigen Schluss, dass Visa Europe auf den relevanten Märkten im Hinblick
+auf das Mitgliedernetz und die Zahl der ausgestellten VISA-, VISA-Electron- bzw.
+
+Rechtsache COMP/29.373 – Visa International – Multilateral Interchange Fee, ABl. L 318 vom
+22.11.2002, S. 17, Ziffer 43.
+
+5
+
+NICHTVERTRAULICHE FASSUNG
+
+V-PAY-Karten sowie im Hinblick auf die Zahl der sie im EWR akzeptierenden
+Händler eine starke Position innehat.
+
+4.3. Praktiken, die Bedenken hervorrufen
+
+(19) In der Mitteilung der Beschwerdepunkte gelangte die Kommission zu dem
+vorläufigen Schluss, dass Visa Europe, eine Vereinigung von Unternehmen,
+Artikel 101 des Vertrages und Artikel 53 des EWR-Abkommens verletzt hat,
+indem sie MIF festsetzte, die auf grenzüberschreitende und gewisse inländische6
+Point-of-Sale-Transaktionen mit VISA-, VISA-Electron- und V-PAY-
+Privatkunden-Zahlungskarten innerhalb des EWR angewandt werden.
+
+(20) Interbankenentgelte werden durch eine Händlerbank („Acquirer“) an eine
+Karteninhaberbank („Issuer“) für jede Transaktion gezahlt, die an einer
+Händlerverkaufsstelle mit einer Zahlungskarte vorgenommen wird. Wenn ein
+Karteninhaber eine Zahlungskarte benutzt, um Waren oder Dienstleistungen von
+einem Händler zu erwerben, zahlt der Händler eine (MSC) an seinen Acquirer.
+Der Acquirer behält einen Teil dieser Gebühr (die Gewinnmarge des Acquirers),
+ein Teil wird an den Issuer (die MIF) weitergegeben, und ein kleiner Teil wird an
+den Netzbetreiber gezahlt (in diesem Fall Visa Europe). In der Praxis wird ein
+großer Teil der MSC vom MIF bestimmt.
+
+(21) In der Mitteilung der Beschwerdepunkte werden Bedenken dahingehend
+geäußert, dass die MIF eine spürbare Beschränkung des Wettbewerbs in den die
+Akquirierung betreffenden Märkten zum Nachteil der Händler und – indirekt –
+deren Kunden bezwecken und bewirken. Die MIF scheinen insofern den Sockel
+anzuheben, auf dessen Grundlage Acquirer die MSC festsetzen, als sie einen
+bedeutenden Kostenteil verursachen, der alle Acquirer gleichermaßen betrifft.
+Nach dem vorläufigen Standpunkt der Kommission sind die MIF von
+Visa Europe objektiv betrachtet nicht unbedingt erforderlich. Die den
+Wettbewerb beschränkende Auswirkung in den die Akquirierung betreffenden
+Märkten wird verstärkt durch die Auswirkung der MIF auf die Netzbetreiber- und
+Kartenausstellermärkte, sowie durch andere Netzregeln und Praktiken
+(Verpflichtung zur Annahme aller Karten (sog. Honour All Card Rules —
+„HACR“); Gleichbehandlungsregel (sog. No Discrimination Rule — „NDR“);
+Zusammenfassung (sog. „Blending“)7 und Anwendung unterschiedlicher MIF in
+
+6 Siehe Fußnote 3.
+
+7 Das HACR ist eine Visa-Systemvorschrift, die Händler, die sich vertraglich verpflichtet haben,
+Zahlungen mit einer bestimmten Marke einer Karte (z.B. VISA, VISA Electron oder V PAY) zu
+akzeptieren, verpflichtet, alle Karten von solchen Marken zu akzeptieren, die ordnungsgemäß
+vorgelegt werden, ohne Unterscheidung und unabhängig von der Identität der ausstellenden Bank
+oder des Kartentyps innerhalb der Marke. Die No Discrimination Rule (NDR) ist eine Visa-
+Systemvorschrift, die Händler daran hindert, Aufpreise bei Transaktionen mit VISA, VISA Electron
+oder V PAY Zahlungskarten aufzuschlagen, wenn nicht regionales Recht ausdrücklich erfordert, dass
+es einem Händler gestattet ist, Aufpreise zu erheben. Blending ist eine Praktik der Acquirer, wodurch
+sie Händlern dieselbe MSC berechnen für die Akzeptierung von verschiedenen Zahlungskarten
+desselben Zahlungssystems (z.B. VISA Debit oder Kredit) oder für die Akzeptierung von
+Zahlungskarten, die zu verschiedenen Zahlungssystemen gehören (z.B. VISA- oder MasterCard-
+Kreditkarten). In der Mitteilung der Beschwerdepunkte hat die Kommission ihren vorläufigen Schluss
+dargelegt, dass solche Vorschriften und Praktiken die Fähigkeit der Händler vermindern, die
+
+6
+
+NICHTVERTRAULICHE FASSUNG
+
+8. Nach der Mitteilung der Beschwerdepunkte erfüllen die MIF
+zudem nicht die Vorraussetzungen für eine Freistellung gemäß Artikel 101
+Absatz 3 des Vertrages, indem sie Effizienzgewinne bewirken und Verbrauchern
+eine angemessene Beteiligung an den Effizienzgewinnen einräumen.
+
+(22) Die Mitteilung der Beschwerdepunkte wurde am 29. Mai 2009 auch an Visa Inc.
+und Visa International Service Association (die 'Global Visa Entities') gerichtet.
+Die gegen die Global Visa Entities erhobenen Beschwerdepunkte betreffen
+insbesondere die mögliche standardmäßige Anwendung der interregionalen MIF-
+Sätze, d. h. insofern als diese Gebühren auf grenzüberschreitende oder
+inländische Transaktionen Anwendung finden könnten, die mit VISA-
+Privatkundenzahlungskarten innerhalb des EWR abgewickelt werden, und ihre
+Mitwirkung an der Festlegung der HACR und der NDR.
+
+4.4. Auswirkungen auf den Handel zwischen Mitgliedstaaten und
+Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum
+
+(23) In der Mitteilung der Beschwerdepunkte gelangte die Kommission zu dem
+vorläufigen Schluss, dass die Vereinbarungen zwischen den Parteien geeignet
+sind, den Handel zwischen Mitgliedstaaten und den Vertragsparteien des EWR-
+Abkommens im Sinne von Artikel 101 Absatz 1 des Vertrages und Artikel 53
+Absatz 1 EWR-Abkommen spürbar zu beeinträchtigen. VISA-, VISA-Electronund V-PAY-Karten sind grenzüberschreitende Zah
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+r MIF, und ein fairer Anteil an dem sich ergebenden Nutzen würde nicht an die
+Kunden, das heißt die Händler und deren nachfolgende Käufer, weitergereicht.
+Solche MIF haben zur Folge, dass für die Händler Kartenzahlungen teurer als
+Barzahlungen werden. Die nachfolgenden Käufer kennen in der Regel die
+relativen Kosten der Karten- und Barzahlungen für die Händler nicht. Im
+Ergebnis würde der Gebrauch eher einer Karte als anderer Zahlungsmittel auf alle
+Käufer versteckte Kosten auferlegen, da die Händler MSC in ihren
+Einzelhandelspreisen widerspiegeln, die für die Kartennutzer und die Nutzer
+anderer Zahlungsmittel in der Regel gleich sind (Preisaufschläge sind in allen
+Vertragsstaaten des Abkommens über den EWR nicht gestattet; dort wo sie
+gestattet sind, werden sie nur von einer Minderheit der Händler praktiziert). Eine
+Herabsetzung des MIF auf das mit dem MIT in Einklang stehende Niveau würde
+sich daher durch eine Herabsetzung der MSC zum Vorteil der Händler sowie
+nachfolgend der Käufer, sowohl solcher die Kartennutzer als auch solcher die
+keine Kartennutzer sind, auswirken. In einem Wettbewerbsmarkt würde man von
+den Einzelhändlern erwarten, dass sie den Käufern eine angemessene Beteiligung
+an den herabgesetzten MIF einräumen.
+
+19 Siehe analog z.B. Randnummern 504, 506, Fußnote 570 und Annex 2 § 24 der
+Kommissionsentscheidung vom 19.12.2007 in den Fällen COMP/34.579 - Master Card,
+COMP/36.518 - EuroCommerce, COMP/38.580 - Commercial Cards (amtlich mitgeteilt als Dokument
+C(2007) 6474). Die nicht-vertrauliche Fassung der Entscheidung ist auf der Internetseite der GD
+Wettbewerb unter der case number COMP/34.579 abrufbar.
+
+17
+
+NICHTVERTRAULICHE FASSUNG
+
+(63) In der vorliegenden Sache sowie aus den oben angeführten Gründen wurde die
+vorgeschlagene gewichtete durchschnittliche Begrenzung des MIF für
+Debitkarten mit sofortiger Belastung auf 0,2 % anhand des MIT beurteilt.
+
+(64) Die Höhe der neuen MIF wurde durch Vergleich der Händlerkosten im Falle der
+Annahme von Barzahlungen mit denen für die Annahme von Kartenzahlungen
+errechnet. Die Berechnung der mit dem MIT im Einklang stehenden MIF wurde
+auf vier Studien gestützt, die von den Zentralbanken der Niederlande, Belgiens
+und Schwedens veröffentlicht wurden, und in denen die Kosten von
+Kartenzahlung mit denen der Barzahlung verglichen wurden.20 Diese
+Berechnungen können aktualisiert werden, wenn neue Erkenntnisse über die
+Kosten von Kartenzahlungen im Vergleich zu Barzahlungen gewonnen werden
+sollten.
+
+(65) Erstens wurden für jede Studie die Kosten und Vorteile ermittelt, die die Zahlung
+mit Debitkarte mit sofortiger Belastung und die Zahlung mit Bargeld für den
+Händler bewirken.
+
+(66) Zweitens wurden für jede Studie ausgehend von dieser Kosteninformation die
+Kostenfunktionen der Händler für diese Zahlungsinstrumente, d. h. Debitkarte mit
+sofortiger Belastung und Barzahlung, berechnet. Die Kostenfunktion eines
+Zahlungsinstruments bestimmt die Höhe der relevanten Kosten, die Händler im
+Durchschnitt im Zusammenhang mit der Gesamtzahl der Transaktionen und dem
+Gesamtwert der durchgeführten Transaktionen tragen müssen.
+
+(67) Drittens wurde für jede Studie eine eindeutige Kostenzahl auf der Grundlage der
+Kostenfunktion des jeweiligen Zahlungsinstruments berechnet. Für jede Studie
+wurden Kostenzahlen für Kreditkarten und Debitkarten mit späterer Belastung,
+Debitkarten mit sofortiger Belastung und Bargeld abgeleitet. Bei Debitkarten mit
+sofortiger Belastung wurde auch ein Zuschlag des Acquirers (das heißt die
+Summe der durchschnittlichen Gewinnmarge des Acquirers und Netzgebühren)
+eingerechnet.
+
+(68) Durch den Vergleich der MIF für Debitkarten mit sofortiger Belastung, die
+anhand der vier Studien errechnet wurden, liegt der von Visa Europe
+vorgeschlagene maximale gewichtete Durchschnitt für MIF für die Bezahlung mit
+Debitkarte mit sofortiger Belastung nicht über den Anforderungen des MIT. Ein
+höherer durchschnittlicher MIF-Satz würde den Händlern durch die MIF für die
+Zahlung mit Debitkarten mit sofortiger Belastung keine zusätzlichen Vorteile aus
+potenziellen Effizienzvorteilen bringen. Gleichzeitig begrenzen die überarbeiteten
+Verpflichtungszusagen lediglich die MIF-Sätze und hindern Visa Europe nicht an
+
+20 De Nederlandsche Bank, „Betalen Kost Geld“, März 2004 (mit einer Zusammenfassung, die unter
+dem Titel „The cost of payments“ im DNB Quarterly Bulletin veröffentlicht wurde); Daten aus dieser
+Studie wurden auch von Brits, H. und C. Winder in „Payments are no free lunch“, De Nederlandsche
+Bank Occasional Studies Vol. 3, No 2, 2005, verwendet. Banque Nationale de Belgique, „Couts,
+Avantages et Inconvenients des Differents Moyens de Paiement”, Dezember 2005. Bergman, M.,
+Guibourg, G. und Segendorf, B. „The Costs of Paying – Private and Social Costs of Cash and Card
+Payments“, Riksbank Research Paper Series No 112, 2007. EIM, ‘Het toonbankbetalingsverkeer in
+Nederland’, 2007.
+
+18
+
+NICHTVERTRAULICHE FASSUNG
+
+(69) Die überarbeiteten Verpflichtungszusagen sollten für vier Jahre ab Bekanntgabe
+des Beschlusses an Visa Europe für bindend erklärt werden. Der in den
+überarbeiteten Verpflichtungszusagen vorgesehene Zeitraum ist lang genug, um
+maßgebliche Veränderungen in den Marktpraktiken herbeizuführen und
+gleichzeitig sicherzustellen, dass die Auswirkungen der überarbeiteten
+Verpflichtungszusagen auf den Markt zu angemessener Zeit einer erneuten
+Prüfung unterzogen werden. Die Wettbewerbsbedingungen im EWR dürften sich
+angesichts der derzeitigen Marktentwicklungen (zum Beispiel Übergang zum
+einheitlichen Euro-Zahlungsverkehrsraum – SEPA)21 erheblich verändern.
+Potenzielle neue Wettbewerber und technologische Neuerungen wie die
+Einführung oder auch der Wegfall von internetgestützten oder mobilen
+Zahlungsplattformen sind ein wichtiger Teil dieses Wandels. Die
+Wahrscheinlichkeit, dass solche Entwicklungen erfolgen werden, könnte auf
+diesem Markt den Trend zu wirksamerem Wettbewerb und weiterem Druck auf
+MIF verstärken. Deshalb erscheint ein Zeitraum von vier Jahren vorläufig als
+geeignet.
+
+9. SCHLUSSFOLGERUNG
+
+(70) Durch die Annahme einer Entscheidung nach Artikel 9 Absatz 1 der
+Verordnung (EG) Nr. 1/2003 erklärt die Kommission Verpflichtungszusagen, mit
+denen Unternehmen die ihnen von der Kommission nach ihrer vorläufigen
+Beurteilung mitgeteilten Bedenken auszuräumen beabsichtigen, für diese
+verbindlich. In Erwägungsgrund 13 der Verordnung (EG) Nr. 1/2003 heißt es,
+dass in einer derartigen Entscheidung nicht die Frage zu beantworten ist, ob eine
+Zuwiderhandlung vorgelegen hat oder noch vorliegt. Bei ihrer Entscheidung, ob
+die unterbreiteten Verpflichtungszusagen ausreichen, um die Bedenken der
+Kommission auszuräumen, stützt sich die Kommission auf ihre vorläufige
+Beurteilung, in der sie nach entsprechender Untersuchung und Analyse ihre
+vorläufigen Schlussfolgerungen darlegt, sowie auf die Bemerkungen interessierter
+Dritter, die nach der Veröffentlichung der Zusammenfassung der Sache gemäß
+Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003 eingegangen sind.
+
+21 Die SEPA (einheitlicher Euro-Zahlungsverkehrsraum) ist eine Initiative, die von der Europäischen
+Bankenindustrie gestartet wurde und auf die Erschaffung eines vollständig integrierten Markts für
+Privatkundendienste in der Eurozone abzielt, ohne zwischen grenzüberschreitendem und nationalen
+Zahlungen in Euro zu unterscheiden. Im Zusammenhang mit Kartenzahlungen wurde ein
+Rahmenwerk – das heißt, eine Reihe von hochrangigen Prinzipien und Regeln - definiert. Das SEPA
+Karten-Rahmenwerk wird von einzelnen Kartensystemen eingeführt mit dem Ziel, einen integrierten
+SEPA Markt, in dem Kartenhalter im Ausland Zahlungen in Euro mit dem gleichen Nutzen und
+Komfort wie in ihrem Heimatländern tätigen können, zu erschaffen. Die Erreichung dieses Ziels
+könnte zum Ersatz von verschiedenen nationalen Systemen durch internationale Systeme führen, die
+schon eine Euro-weite Dimension haben; zu Verbindungen zwischen nationalen und internationalen
+Systemen, die planen, die ganze Euro-Zone abzudecken; und zum Markteintritt neuer, Euro-weiter
+Zahlungssysteme.
+
+19
+
+NICHTVERTRAULICHE FASSUNG
+
+(71) Angesichts der überarbeiteten Verpflichtungszusagen besteht für die Kommission
+keine Veranlassung mehr, bezüglich der MIF im Bereich der Debitkarten mit
+sofortiger Belastung von Visa Europe tätig zu werden. Unbeschadet der
+Bestimmungen von Artikel 9 Absatz 2 der Verordnung (EG) Nr. 1/2003 ist das
+Verfahren einzustellen.
+
+(72) Die überarbeiteten Verpflichtungszusagen beziehen sich nicht auf die MIF von
+Visa Europe, die für Transaktionen mit Privatkunden-Kreditkarten und
+Debitkarten mit späterer Belastung erhoben werden, die von der Kommission
+noch weiter zu untersuchen sind. Die Einstellung des Verfahrens auf der
+Grundlage der überarbeiteten Verpflichtungszusagen erfolgt auch unbeschadet
+des Rechts der Kommission, Verfahren gegen andere Visa-Netzwerkregeln wie
+HACR, in Bezug auf die Regeln für das grenzüberschreitende Acquiring, MIF für
+Transaktionen mit Firmenkundenkarten von Visa Europe oder interregionale MIF
+einzuleiten oder fortzuführen.
+
+(73) Die Verpflichtungszusagen wurden ausschließlich von Visa Europe angeboten.
+Folglich werden die Kartelluntersuchungen gegen die anderen Parteien des
+Verfahrens, d. h. Visa Inc. und Visa International Service Association (siehe
+Erwägungsgrund 22), bis zur weiteren Beurteilung.
+
+20
+
+NICHTVERTRAULICHE FASSUNG
+
+HAT FOLGENDEN BESCHLUSS ERLASSEN:
+
+Artikel 1
+
+Die überarbeiteten Verpflichtungszusagen im Anhang sind für Visa Europe Limited für
+vier Jahre ab Bekanntgabe dieses Beschlusses bindend.
+
+Artikel 2
+
+Es wird hiermit festgestellt, dass keine weitere Veranlassung besteht, in dieser Sache
+bezüglich des Interbankenentgelts von Visa Europe Limited tätig zu werden.
+
+Artikel 3
+
+Dieser Beschluss ist gerichtet an:
+
+Visa Europe Limited, 1 Sheldon Square, London W2 6TT, United Kingdom
+
+Brüssel, den Für die Kommission
+
+Joaquín Almunia
+Vizepräsident
+
+21
+
+NICHTVERTRAULICHE FASSUNG
+
+ANHANG
+
+ÜBERARBEITETE VERPFLICHTUNGSZUSAGEN
+
+22

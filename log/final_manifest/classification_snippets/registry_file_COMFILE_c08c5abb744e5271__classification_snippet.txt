@@ -1,0 +1,448 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of 15 June 2005
+
+relating to a proceeding under Article 82 of the EC Treaty and Article 54 of the EEA
+Agreement
+
+(Case COMP/A. 37.507/F3 – AstraZeneca)
+
+(ONLY THE ENGLISH AND SWEDISH TEXTS ARE AUTHENTIC)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, and
+in particular Article 7(1) and Article 23(2) thereof1.
+
+Having regard to the complaint lodged by Generics (UK) Limited and Scandinavian
+Pharmaceuticals Generics AB on 12 May 1999, alleging infringements of Article 82 of the
+Treaty and Article 54 of the EEA Agreement and requesting the Commission to put an end to
+those infringements,
+
+Having regard to the Commission decision of 25 July 2003 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19(1) of Council Regulation No 172
+and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties
+in certain proceedings under Article 85 and 86 of the Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case4,
+
+1 OJ L 1, 4.1, 2003, p.1. Regulation as amended by Regulation (EC) No 411/2004 (OJ L 68 of 6.3.2004,
+p. 1).
+2 First Regulation implementing Articles 85 and 86 of the Treaty (OJ 13, 21.2.1962, p. 204).
+3 OJ L 354, 30.12.1998, p. 18. Article 34(2) of Regulation (EC) No 1/2003 states that procedural steps
+taken under Regulation No 17 are to continue to have effect for the purposes of applying Regulation
+(EC) No 1/2003.
+4 OJ [...]-
+
+2
+
+Whereas:
+
+I. FACTS
+
+A. INTRODUCTION
+
+(1) On 12 May 1999 the company Generics (UK) Limited (hereinafter “Generics”) and
+the Swedish company Scandinavian Pharmaceuticals Generics AB (hereinafter “Scand
+Pharm”) lodged a joint complaint pursuant to Article 3 of Regulation No 17 against
+Astra AB. Generics and/or Scand Pharm, which belong to the same group5, will
+hereinafter be referred to collectively and individually as “the complainant”.
+
+(2) The complainant contends that Astra AB has abused its dominant position for
+omeprazole-based medicines (inter alia marketed as Losec) in a number of national
+markets within the EEA. Its main argument is that Astra AB has prevented it from
+bringing therapeutically equivalent generic versions of omeprazole to a number of
+EEA markets and has thus infringed Article 82 of the Treaty and Article 54 of the
+EEA Agreement.
+
+(3) Broadly speaking, this decision deals with two alleged abuses in connection with
+Astra’s strategy in relation to its applications for so-called supplementary protection
+certificates (hereinafter “SPC”) extending the protection for the active substance
+omeprazole in its anti-ulcer medicine Losec; and Astra’s strategy in relation to a
+switch (mainly in 1998) from capsule to tablet formulations of Losec.
+
+(4) The alleged abuses involve behaviour in several Contracting Parties within the EEA
+(notably Belgium, Denmark, Germany, the Netherlands, Norway, Sweden and the
+United Kingdom). As regards Norway, the Commission’s jurisdiction in this case
+derives from Article 56 (2), second sentence, of the EEA Agreement.
+
+(5) It should be mentioned at the outset that the said two alleged abuses respectively
+concern behaviour in relation to two distinct regulatory systems: a) the patent system
+whereby extra protection is granted under Community patent law in the form of SPCs
+for pharmaceutical products and b) the procedures and conditions under Community
+and national pharmaceutical law relating to the authorisation to market pharmaceutical
+products. However, both abuses have the same objective of preventing or delaying
+market entry of generic omeprazole based products.
+
+(6) Briefly, as regards the patent system, in Europe both patents and SPCs are granted by
+the national patent offices (national patents). Patents, but not SPCs, are also granted by
+the Munich-based European Patent Office under the European Patent Convention of
+1973 (European patents) to which inter alia all EEA Contracting Parties are parties. In
+order to obtain a European or national patent, the applicant has to fulfil certain
+substantive conditions such as industrial applicability, novelty and inventive step.
+Once granted, a European patent results in a “bundle” of national patents in those
+
+5 Scand Pharm and Generics form part of Merck Generics, the generic arm of Merck KGaA, a German
+pharmaceutical and chemicals company based in Darmstadt. Merck KGaA should not be confused with
+Merck & Co, the US research based company.
+
+3
+
+countries which were designated by the applicant. Enforcement issues relating to
+infringements and the validity of SPCs and patents – be they national patents or
+European patents – are dealt with by national courts in accordance with national patent
+law. The legal or natural person to whom a patent has been granted is a “patent
+holder”.
+
+(7) The procedure for granting patents should be distinguished from the Community and
+national legislation relating to the authorisation of pharmaceutical products. The latter
+body of law is applied by the issuing authorities (i.e. national medicinal authorities or
+the European Commission based on opinions by the European Medicines Evaluation
+Agency). In order to obtain a market authorisation for a pharmaceutical product, the
+applicant essentially has to prove the safety, efficacy and quality of the product to the
+said authorities. The legal or natural person to whom a market authorisation has been
+granted is a “holder of a market authorisation”.
+
+B. THE PARTIES
+
+1. ASTRAZENECA AND ITS PRECEDESSOR ASTRA
+
+(8) The alleged abuses in this case mainly concern conduct involving the Swedish
+company Astra AB6 based in Södertälje, the parent company of a research based
+pharmaceutical group, as well as certain of its subsidiaries, mainly two wholly owned
+subsidiaries in Mölndal in Sweden: AB Hässle7 and Astra Hässle AB8. Other
+companies involved in the alleged behaviour include subsidiaries within the Astra
+group in Södertälje9 and in the Nordic countries10. With effect from 6 April 1999,
+Astra AB merged with the United Kingdom company Zeneca Group Plc to form the
+United Kingdom company AstraZeneca Plc. As a result of the merger, Astra AB’s
+function as the group holding company has been assumed by the London-based
+holding company AstraZeneca Plc. Astra AB in Södertälje has remained in existence
+as a research and development, marketing and production company under the new
+name AstraZeneca AB, a wholly owned subsidiary of AstraZeneca Plc11. For ease of
+reference, companies within the Astra AB and AstraZeneca Plc groups will hereinafter
+be referred to as “AZ”.
+
+6 Until 20 June 1994 the registered name was in fact “Aktiebolaget Astra” [1932]. Note: page numbers on
+the Commission’s file are in brackets.
+7 AB Hässle is the proprietor of the key Losec related patents in this case [1853-1857, 1924-1928]. AB
+Hässle has been dormant since 1992 and has no staff [1925, 5379].
+8 For info on Astra Hässle AB (R & D company) see [1865 et seq, 4956, 7789]. Hässle Läkemedel AB in
+Mölndal is also a wholly owned by Astra AB. This subsidiary is a marketing company and the holder of
+the market authorisation for Losec in Sweden [1861, 1871 et seq, 4957, 7427].
+9 Another Södertälje based company relevant for this case – also wholly owned by Astra AB – is Astra
+Läkemedel AB (a marketing company) [4957].
+10 The Nordic subsidiaries – as they were named at the time of the behaviour relevant to this Decision -
+are principally Astra Norge AS, Astra Danmark A/S and Astra Finland Oy (Suomen Astra Oy until 1
+April 1998) which hold the market authorisations for Losec in the respective countries. Those three
+subsidiaries were wholly owned by Astra AB [7963, 8033, 8104, 8178, 8260, Vol 1, Annex 3.2 AZ
+Reply].
+11 Astra AB changed name to AstraZeneca AB with effect from 3 January 2000 [1891, 9266-9328].
+AstraZeneca Plc initially held a 99.7% stake of the shares in Astra AB which then increased to 100%.
+
+4
+
+(9) AZ is one of the world’s leading pharmaceutical and healthcare companies involved in
+inventing, developing and commercialising innovative products. Its pharmaceutical
+business is focused on a number of therapeutic areas including the gastrointestinal
+area, where AZ’s major products include notably Losec (the brandname used for most
+European markets, including most markets relevant in this case). Exceptional growth
+has characterised Losec’s market development since its launch in 198812. At the end of
+1993 it became the world’s third largest pharmaceutical (sales of USD 1.7 billion). In
+1998, 1999 and 2000, it became the best selling prescription medicine ever with sales
+of, respectively, USD 4.8 billion, USD 5.9 billion and USD 6.3 billion. In 1999 and
+2000, Losec accounted for almost 40% of AZ’s total sales.
+
+C. THE PROCEDURE
+
+(10) By Decision of 9 February 2000 pursuant to Article 14 (3) of Regulation No 17, the
+Commission required AZ, including its subsidiaries, to submit to an investigation at its
+premises in London and Södertälje concerning possible abuses of a dominant position.
+In 2002 and 2003, AZ also replied to three requests for information pursuant to Article
+11 of Regulation No 17.
+
+(11) On 29 July 2003, the Commission addressed a Statement of Objections to AstraZeneca
+AB and AstraZeneca Plc. The two addressees of the Statement of Objections
+submitted a joint reply on 3 December 2003 (hereinafter “AZ Reply”). A meeting was
+held between AZ and the Commission on 29 January 2004 to discuss certain economic
+evidence submitted as part of the AZ Reply. In connection with that meeting, AZ
+submitted various documents including memoranda dated 27 January 2004 and 11
+February 2004 inter alia addressing issues raised by the Commission at the meeting.
+On 13 February 2004, AZ provided the Commission with materials relating to the
+second abuse in this case.
+
+(12) An Oral Hearing took place on 16-17 February 2004. On 26 February 2004 the
+Commission sent a request for information pursuant to Article 11 of Regulation No 17
+to AZ requesting certain information relating mainly to the issue of dominance. The
+request partly concerned documents which the Commission had originally requested
+pursuant to Article 11 on 8 May 2003. On 12 March 2004, AZ replied to the request.
+Before that, on 8 March 2004, AZ submitted a memorandum to the Commission
+containing comments concerning the Oral Hearing. By letter of 23 November 2004 the
+Commission offered AZ the opportunity to comment on a number of factual elements
+and considerations in support of the objections already notified, but not explicitly
+referred to in the Statement of Objections, to which the Commission could refer in an
+eventual decision (“letter of facts). AZ provided its observations by letter of 21
+January 2005.
+
+D. THE PRODUCT LOSEC
+
+1. LOSEC: A PROPRIETARY MEDICINAL PRODUCT
+
+12 [2704].
+
+5
+
+(13) Losec is a so-called proprietary medicinal product (as defined by Article 1 (1) of
+Council Directive 65/65/EEC of 26 January 1965 on the approximation of provisions
+laid down by law, regulation or administrative action relating to medicinal products)13.
+Even though the terms “medicine”, “drug” and “pharmaceutical product” are not
+defined in Community pharmaceutical legislation, in this decision they will be used
+interchangeably with the term “medicinal product”.
+
+2. LOSEC’S ACTIVE SUBSTANCE AND ITS FORMULATIONS
+
+(14) The key component of a medicinal product is its active substance (sometimes called
+“active ingredient”). Novel active substances are often patented at an early stage of the
+research and development process. Substance patents normally provide the strongest
+legal protection for pharmaceutical products14 and are therefore the most valuable part
+of a medicinal product. The active substance in Losec is omeprazole.
+
+(15) The active substance of a medicinal product normally takes one of two forms. First,
+medicinal products may contain the active substance in its neutral form (often referred
+to as the “free base”). For Losec, the active substance is omeprazole in its neutral
+form. Alternatively, the active substance may be a derivative of the basic substance, in
+particular a salt derived from that substance. The choice between the free base and
+derivatives does not normally entail significant differences in terms of therapeutic
+effect. For Losec, there exist magnesium and sodium salt versions of omeprazole (see
+recitals (17)-(18)).
+
+(16) Medicinal products are marketed in various formulations (or “dosage forms”), such as
+capsules or tablets. The formulations are also often patented. Formulation patents do
+not in general offer the same degree of protection as substance patents, as other
+companies may circumvent the formulation patent by incorporating the active
+substance (if not patented) into a different formulation.
+
+(17) At its launch in Europe at the end of the 1980s, Losec was sold mainly in a capsule
+formulation. At the end of 1998, AZ withdrew the capsules in several European
+countries and replaced them by tablets with the brandname Losec MUPS (”Multi-Unit
+Pellet System”) with a magnesium salt of omeprazole as its active substance. Both the
+capsules and tablets come in three strengths (in terms of the active substance’s
+weight): 10, 20 and 40 mg.
+
+(18) Losec is also marketed as an intravenous injectable formulation (containing the
+sodium salt of omeprazole as its active substance) as well as in the form of a solution
+for infusion. These formulations are mainly used in hospital treatment. This decision
+however only concerns the oral formulations capsules and tablets in their various
+strengths.
+
+13 OJ 22, 9.2.1965, p. 369. Directive 65/65/EEC, with amendments, was incorporated into the EEA
+Agreement at point XIII.1 of Annex II thereto with effect from 1 January 1994. Directive 65/65/EEC, as
+amended, has been consolidated into Directive 2001/83/EC of the European Parliament and the Council
+of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311,
+28.11.2001, p. 67). This Decision will however refer to Directive 65/65/EEC, as amended, since it was
+applicable at the time of the behaviour in question.
+14 [2398].
+
+6
+
+3. THE PATENTS PROTECTING OMEPRAZOLE AND LOSEC
+
+(19) AZ’s patent protection for Losec protects omeprazole and other structurally related
+compounds15.
+
+(20) AZ filed its application for omeprazole with the European Patent Office on 3 April
+1979. In its application, AZ designated nine European Patent Convention States
+(Belgium, Luxembourg, the Netherlands, Switzerland, Germany, Fran
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+antages related to incumbency in the pharmaceutical sector.................................. 120
+
+(e) The relevance of price as a competition parameter in the pharmaceutical sector.......... 121
+
+(f) The relevance of monopsony buyers and price regulation in pharmaceutical prescription
+
+markets ................................................................................................................................... 123
+
+(g) The relevance of research and development, promotion as well as financial strength and
+
+resources................................................................................................................................. 125
+
+3. AZ’s dominance on the relevant geographic markets........................................................ 126
+
+(a) Belgium (tables 24 and 31)............................................................................................ 126
+
+(b) Denmark (tables 25 and 32)........................................................................................... 127
+
+212
+
+(c) Germany (tables 26 and 33)........................................................................................... 128
+
+(d) The Netherlands (tables 27 and 34)............................................................................... 130
+
+(e) Norway (tables 28 and 35)............................................................................................. 130
+
+(f) Sweden (tables 29 and 40)............................................................................................. 131
+
+(g) The United Kingdom (tables 30 and 37) ....................................................................... 132
+
+4. Conclusion on dominance.................................................................................................. 132
+
+D. THE FIRST ABUSE – AZ’S MISLEADING REPRESENTATIONS AS PART OF ITS SPC
+
+STRATEGY FOR OMEPRAZOLE ............................................................................................... 133
+
+1. Summary of AZ’s arguments.............................................................................................. 133
+
+2. The first abuse – the commission’s assessment ................................................................. 135
+
+3. The first stage of the abuse ................................................................................................ 136
+
+(a) AZ’s strategy for omeprazole and other products for which first technical market
+
+authorisation date in the Community is situated before 1 January 1988................................ 137
+
+(b) AZ’s decision to conceal and its instructions of 7 June 1993 for the omeprazole SPC
+
+applications............................................................................................................................. 139
+
+(c) AZ’s arguments and the Commission’s responses ........................................................ 142
+
+4. The second stage of the abuse............................................................................................ 146
+
+(a) Misleading representations before the Luxembourg patent office (June 1993) ............ 146
+
+(b) Misleading representations before the Belgian patent office (September-November 1993)
+
+....................................................................................................................................... 147
+
+(c) Misleading representations before the Dutch patent office (November-December 1993) ..
+
+....................................................................................................................................... 149
+
+(d) Misleading representations before the United Kingdom patent office (January-June
+
+1994) ...................................................................................................................................... 149
+
+(e) The real reasons for AZ’s withdrawal of its SPC application in Denmark (November
+
+1994) ...................................................................................................................................... 153
+
+(f) Misleading representations in AZ’s second round of SPC applications (December 1994) .
+
+....................................................................................................................................... 154
+
+213
+
+(g) Misleading representations before the Irish patent office (October 1995) .................... 155
+
+(h) Further misleading representations to the Belgian, Dutch, Finnish and Luxembourg
+
+patent offices (May 1998) ...................................................................................................... 155
+
+(i) Misleading representations in the context of proceedings brought before national courts
+
+by generic firms to invalidate AZ’s SPCs in Germany, Norway and Finland ....................... 155
+
+(j) Misleading representations in the German SPC proceedings........................................ 156
+
+(k) Misleading representations in the Norwegian SPC proceedings (February-May 1999) 157
+
+(l) Misleading representations in the Finnish SPC proceedings......................................... 157
+
+(m) General arguments by AZ and the Commission’s responses regarding the court
+
+proceedings (points (i), (j), (k) and (l) above)........................................................................ 157
+
+5. The Commission’s responses to AZ’s arguments related to the special treatment of
+
+intellectual property rights and the use of public procedures and regulation ........................... 159
+
+6. The commissions responses to AZ’s arguments regarding errors, patent aggents and
+
+councel acting without instructions and documents of which AZ did not become aware in a timely
+
+manner........................................................................................................................................ 161
+
+7. The anticompetitive effects of the abuse ............................................................................ 163
+
+(a) Effects on competition................................................................................................... 163
+
+(b) Effects on national health systems................................................................................. 166
+
+(c) Effects on consumers..................................................................................................... 166
+
+8. Conclusion on the first abuse............................................................................................. 166
+
+E. THE SECOND ABUSE – THE SELECTIVE CAPSULE DEREGISTRATION COMBINED
+
+WITH THE TABLET/CAPSULE SWITCH AS PART OF AZ’S LOSEC POST PATENT
+
+STRATEGY.................................................................................................................................... 167
+
+1. Summary of AZ’s arguments.............................................................................................. 168
+
+2. The second abuse – The Commissions assessment ............................................................ 170
+
+(a) Overall assessment ........................................................................................................ 170
+
+(b) AZ’s repeatedly stated aim to prevent or at least delay generic market entry and parallel
+
+trade ....................................................................................................................................... 171
+
+214
+
+(c) Geographic selectivity of the Losec capsule deregistration combined with the Losec
+
+MUPS tablet/Losec capsule switch ........................................................................................ 172
+
+(d) Blocking generic products and parallel imports to fill the gap in patent/SPC protection
+
+before the launch of esomeprazole......................................................................................... 174
+
+(e) Alleged absence of centralised strategy......................................................................... 174
+
+(f) No objective justifications for the exclusionary behaviour ........................................... 176
+
+3. The anticompetitive effects of the abuse ............................................................................ 183
+
+4. Conclusion on the second abuse........................................................................................ 186
+
+F. EFFECT ON TRADE BETWEEN MEMBER STATES ...................................................... 187
+
+G. LIABILITY FOR THE INFRINGEMENTS AND THE ADDRESSEES OF THIS DECISION
+
+................................................................................................................................................ 188
+
+1. The case law regarding the determination of liability....................................................... 188
+
+2. Liability for the infringements prior to the merger on 6 April 1999.................................. 189
+
+3. Liability for the infringements following the merger on 6 April 1999............................... 191
+
+H. REMEDIES............................................................................................................................ 193
+
+1. Article 15 (2) of regulation no 17 and article 23 (2) of regulation (EC) NO 1/2003 ........ 193
+
+2. The basic amount of the fine .............................................................................................. 193
+
+(a) Gravity of the infringements.......................................................................................... 193
+
+(b) Duration of the infringement ......................................................................................... 197
+
+3. Aggravating and mitigating circumstances ....................................................................... 197
+
+4. Application of the leniency notice...................................................................................... 198
+
+5. Amount of the fines............................................................................................................. 198

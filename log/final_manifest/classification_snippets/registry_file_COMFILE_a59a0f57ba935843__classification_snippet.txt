@@ -1,0 +1,657 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+0
+
+COMMISSION DECISION
+
+C(2002) 4349 final
+
+of
+
+14.11.2002
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA
+
+Agreement
+
+(Case COMP/37.396/D2 – Revised TACA)
+
+(Only the English text is authentic)
+
+1
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation
+implementing Articles 85 and 86 of the Treaty1, as last amended by Regulation (EC)
+No 1216/19992, and in particular Article 4(1) thereof,
+
+Having regard to Council Regulation (EEC) No 4056/86 of 22 December 1986 laying down
+detailed rules for the application of Articles 85 and 86 of the Treaty to maritime transport3, as
+
+amended by the Act of Accession of Austria, Finland and Sweden, and in particular the second
+
+subparagraph of Article 12(4) thereof,
+
+Having regard to the summary of the application4 published pursuant to Article 12(2) of
+
+Regulation (EEC) No 4056/86 and Article 12(2) of Regulation (EEC) No 1017/68 of the
+
+Council of 19 July 1968 applying rules of competition to transport by rail, road and inland
+waterway5, as last amended by the Act of Accession of Austria, Finland and Sweden,
+
+Having regard to the Commission’s letter of 4 August 1999 notifying the parties in accordance
+
+with Article 12(3) of Regulation (EEC) No 4056/86 that there were serious doubts as to the
+
+applicability of Article 81(3) to the notified agreement,
+
+Having regard to the summary of the notified agreement6 published pursuant to Article 23(3) of
+
+Regulation (EEC) No 4056/86 and Article 19(3) of Regulation No 17,
+
+1 OJ 13, 21.2.1962, p. 204/62.
+2 OJ L 148, 15.6.1999, p. 5.
+3 OJ L 378, 31.12.1986, p. 4.
+4 OJ C 125, 6.5.1999, p. 6.
+5 OJ L 175, 23.7.1968, p. 1
+6 OJ C 335, 29.11.2001, p. 12.
+
+2
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions and
+
+the Advisory Committee on Restrictive Practices and Dominant Positions in
+
+Maritime Transport,
+
+Whereas:
+
+1. INTRODUCTION
+
+1.1. Background
+
+1. On 16 September 1998 the Commission adopted Decision 1999/243/EC7 (‘the TACA
+
+Decision’), holding that a number of arrangements entered into within the framework of
+
+the Trans-Atlantic Conference Agreement (TACA) were contrary to Article 85(1) of the
+
+Treaty and did not fall within the scope of the block exemption contained in Article 3 of
+
+Regulation (EEC) No 4056/86. Nor did the arrangements in question qualify for
+
+individual exemption under Article 85(3). The arrangements to which the Decision
+
+related included inland price-fixing within the territory of the Community, the collective
+
+fixing of brokerage and freight-forwarder remuneration and the fixing of the terms and
+
+conditions on which conference members might enter into service contracts with shippers.
+
+2. The Commission also found that the members of the TACA had abused their collective
+
+dominant position, contrary to Article 86 of the Treaty, by altering the competitive
+
+structure of the market and placing restrictions on the availability and contents of service
+
+contracts. Fines in an aggregate amount of ECU 273 million were imposed for these
+
+abuses.
+
+3. The TACA parties’ application for the annulment of that decision is now before the Court
+of First Instance of the European Communities.8
+
+7 Case No IV/35.134 - Trans-Atlantic Conference Agreement, OJ L 95, 9.4.1999, p. 1.
+8 Joined Cases T-191/98, T-212/98, T-213/98 and T-214/98 Atlantic Container Line and Others v
+Commission.
+
+3
+
+1.2. Chronology
+
+4. On 29 January 1999, the members of TACA (‘the Parties’) notified the agreement which
+
+is the subject-matter of this decision (hereinafter referred to as ‘the Revised TACA’ or
+
+‘the Agreement’).
+
+5. On 6 May 1999, pursuant to Article 12(2) of Regulation (EEC) No 4056/86 and to Article
+
+12(2) of Regulation (EEC) No 1017/68, the Commission published a summary of the
+
+application in the Official Journal of the European Communities ("the Article 12(2)
+
+Notice") inviting interested parties to comment within 30 days from the date of
+
+publication of the Notice.
+
+6. On 4 June 1999, in response to the publication, the European Shippers’ Council (ESC)
+
+submitted comments in the form of what it claimed to be a formal complaint pursuant to
+Article 10 of Regulation (EEC) No 4056/86.9 Comments were also received from
+
+CLECAT (European Liaison Committee of Freight Forwarders), from Fédération des
+Entreprises de Transport et Logistique France ("TLF")10, (which represents transport and
+
+logistics companies, and from the Federation of Swedish Industries/Swedish Shippers’
+
+Council. On 15 July 1999, the Swedish Competition Authority sent a letter supporting
+
+some of the views expressed by the Swedish Shippers’ Council, in particular in relation to
+
+the confidentiality of individual service contracts. No other Member State commented.
+
+7. On 7 July 1999, the Director-General of the Directorate General for Competition sent the
+
+Parties a letter inviting them to amend the provisions of their agreement concerning the
+
+exchange of statistical information. The letter further informed the Parties that certain
+
+types of agreements and conduct in relation to the negotiation of service contracts which
+
+might restrict competition to a material degree could not be considered to be covered by
+the notification.11
+
+8. On the same date, the Director-General informed the ESC that, apart from the provisions
+
+of the agreement concerning the exchange of statistical information, there were
+
+insufficient grounds to raise serious doubts as to the applicability of Article 81(3). That
+
+9 Case COMP/37.527/D2 – ESC v Revised TACA.
+10 The TLF’s comments were also re-submitted by the CLECAT under the CLECAT’s name by letter of 5
+June.
+11 This concerned any agreement, understanding or concerted practice between the parties that they would
+when agreeing individual service contracts follow the standard form, content or price of agreement service
+contracts or use voluntarily service contracts guidelines in such a way that competition could be restricted to
+a material degree.
+
+4
+
+letter also informed the ESC that there was no scope for a complaint pursuant to Article
+
+10 of Regulation (EEC) No 4056/86 in the context of an objections procedure opened by
+
+a Commission notice published pursuant to Article 12(2) of that Regulation.
+
+9. On 14 July 1999, the ESC replied to the Commission's letter of 7 July 1999, stating inter
+
+alia that its comments against the ‘not-below-cost’ rule (see below recital 27) should also
+
+be considered a formal complaint under Article 10 of Regulation (EEC) No 1017/68.
+
+10. On 13 and 23 July 1999, the Parties informed the Commission that they were willing to
+
+amend the provisions referred to in the Commission’s letter of 7 July and would each
+
+provide the Commission, every six months, with information relating to their service
+
+contract activity. The letter did not however contain any specific information on how or
+
+when the agreements would be amended in order to remove the identified competition
+
+concerns.
+
+11. On 4 August 1999, within the period of 90 days provided for by Article 12(3) of
+Regulation (EEC) No 4056/8612 the Commission sent a letter to the Parties stating that
+
+there were serious doubts as to the applicability of Article 85(3) of the Treaty. In
+
+accordance with Article 12(3) of Regulation 4056/86 the Commission was then entitled to
+
+continue its investigations into the maritime aspects of the Revised TACA agreement.
+
+The fact that no serious doubts were raised with regard to the inland transport aspect of
+
+the Revised TACA meant that – on the assumption that it was severable from the aspects
+
+in respect of which the Commission did raise serious doubts – this aspect was deemed to
+
+be exempted for a period of three years from 6 May 1999.
+
+12. By letter dated 6 August 1999, the ESC was informed that the Commission had not raised
+
+serious doubts with respect to the inland transport aspects of the Revised TACA
+
+agreement. By letter of 27 September 1999, the ESC asked to be apprised of the reasons
+
+for that decision.
+
+13. On 12 October 1999, the Director-General of the Directorate General for Competition
+
+replied to the ESC, summarising the reasons for not raising serious doubts as regards the
+
+inland transport aspects of the Revised TACA. He also reiterated the Commission’s view
+
+12 Under Regulation (EEC) No 4056/86 (the main maritime transport regulation), the Commission has 90 days
+from the date of publication of the summary of the application to raise serious doubts and so continue its
+investigation into the case. The inland transport regulation, Regulation (EEC) No 1017/68, contains a nearly
+identical provision. If the Commission takes no action within the 90-day period, an agreement is
+
+5
+
+on the procedural status of comments made under the objections procedure (see above
+
+recital 8).
+
+14. Subsequently, the European Council of Transport Users (ECTU), which incorporates the
+
+ESC and certain other associations, submitted an application to the Court of First Instance
+
+seeking annulment of an act described as the Commission’s decision communicated in the
+form of the above letter to the ESC of 6 August 1999.13
+
+15. On 1 December 2000, the Parties submitted a supplementary notification, informing the
+
+Commission that they had amended the Revised TACA agreement to include a specific
+
+authority to make a co-ordinated temporary capacity withdrawal limited to the Christmas
+and New Year period 2000/2001.14
+
+16. On 29 November 2001, following further correspondence with the Parties, the
+
+Commission published a notice in the Official Journal indicating its intention to grant
+
+exemption to the remaining aspects of the Revised TACA pursuant to Article 23(3) of
+
+Regulation (EEC) No 4056/86 and to Article 19(3) of Regulation No 17 ("the Article
+
+23(3) Notice"). It invited interested parties to comment within 30 days from the date of
+
+publication of the Notice.
+
+17. On 12 December 2001, the ESC asked the Commission to provide further information
+
+about certain provisions of the Revised TACA and about the Commission’s reasons for
+
+proposing to grant exemption. Following a further exchange of correspondence and
+
+several meetings, the ESC submitted comments on 8 March 2002. Further comments
+
+were submitted on 24 April 2002.
+
+18. By letter dated 3 May 2002, the Parties requested a renewal of the exemption for all
+
+aspects of the Revised TACA falling within the scope of Regulation (EEC) No 1017/68.
+
+As that request will be the subject of a separate procedure, the inland transport aspects of
+
+automatically exempted for six years in relation to maritime transport and three years in relation to inland
+transport.
+13 Case T-224/99, ECTU and Others v Commission.
+14 The original version of the notified agreement contained a general authority according to which the parties
+could “regulate the carrying capacity offered by each of them” - see the Article 12(2) Notice -. Although the
+Parties considered that the 2000/2001 capacity regulation programme fell within the scope of the liner
+conference block exemption contained in Article 3 of Regulation (EEC) No 4056/86, they nevertheless
+thought prudent to notify that programme to the Commission. The general capacity regulation authority
+contained in the Agreement was subsequently modified at the Commission’s request (see below recitals 81
+et seq.).
+
+6
+
+the Revised TACA are described below only insofar as may be necessary for a full
+
+understanding of the Agreement.
+
+2. THE PARTIES
+
+19. Since the adoption of the TACA decision, six shipping lines have left the TACA,
+
+originally leaving eight parties to the Revised TACA. Since the date of notification, A.P.
+
+Møller Maersk has merged with Sea-Land Service, reducing the number of parties to
+
+seven:
+
+(1) Atlantic Container Line AB, established in Gothenburg, Sweden;
+
+(2) Hapag-Lloyd Container Line GmbH, established in Hamburg, Germany;
+
+(3) Mediterranean Shipping Company S.A., established in Geneva, Switzerland;
+
+(4) A.P. Moller – Maersk Sealand, established in Copenhagen, Denmark;
+
+(5) Nippon Yusen Kaisha, established in Tokyo, Japan;
+
+(6) Orient Overseas Container Line Ltd, established in Wanchai, Hong Kong;
+
+(7) P&O Nedlloyd Limited, established in London, United Kingdom.
+
+3. THE AGREEMENT
+
+3.1. Purpose and scope
+
+20. The purpose of the Revised TACA is stated to be to afford the Parties the opportunity to
+
+cooperate, as authorized by the Agreement, with respect to the provision of efficient and
+
+stable international liner shipping services for the carriage of cargo on routes within the
+
+geographic scope of the Trade as defined below.
+
+21. The Agreement covers eastbound and westbound shipping routes between (i) ports in the
+
+forty-eight contiguous states of the USA, and interior and coastal points in the USA via
+
+said ports and (ii) ports in Europe situated in latitudes from Bayonne, France to the North
+
+Cape, Norway (excluding non-Baltic ports in Russia, Mediterranean ports and ports in
+
+Spain and Portugal) and, except for inland transport services within the EEA as
+
+7
+
+summarised below (see recital 26), points in Europe via said non-excluded European
+
+ports, other than points in Spain or Portugal. Those routes are referred to as “the Trade”.
+
+3.2. Tariff rates
+
+22. The Revised TACA authorises the Parties to engage in the establishment, revision,
+
+maintenance and cancellation of (except for inland transport services within the EEA)
+
+rates (including charges and surcharges) and conditions, except for inland transport
+
+services with the EEA. Those rates and conditions agreed within the framework of the
+
+Revised TACA are referred to as “the Tariff”.
+
+3.3. Service contracts
+
+23. The TACA decision concluded that the members of the TACA at that time infringed
+
+Article 85 of the Treaty “by agreeing the terms and conditions on and under which they
+
+may enter into service contracts with shippers”. This concerned two main types of
+
+restriction: (i) where the agreement prevented the TACA members from entering into
+
+individual service contracts (‘ISCs’) with shippers or restricted their freedom to do so,
+
+and (ii) where the agreement restricted the terms which could be included in ISCs.
+
+24. The Revised TACA does not contain such restrictions; no restrictions are placed on the
+
+availability of ISCs. The provisions of the Revised TACA relating to service contracts
+
+may be summarised as follows:
+
+(1) The Parties are authorised to negotiate and enter into service contracts15 with any one
+
+or more shippers (conference service contracts, or “agreement service contracts"
+
+("ASCs”)) relating to services provided between ports within the EEA and ports and
+
+inland points outside the EEA. Such contracts may include a price for all services
+
+closely related to the activity of maritime transport, provided between the vessel and
+the port gate.16 Such contracts are to include certain essential terms including,
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ contracts or multicarrier service contracts).53
+
+49 See TACA Decision, recitals 454-462.
+50 Article 3.
+51 Article 6.
+52 Articles 4 and 7.
+53 Article 3 of the Decision contains no such prohibition. Instead, it concerns two main types of
+restriction: (i) where the agreement prevented TACA members from entering into individual service
+contracts with shippers or restricts their freedom to do so, and (ii) where the agreement restricted the
+terms which could be included in ISCs. The Revised TACA does not contain such restrictions; no
+restrictions are placed on the availability of ISCs.
+
+26
+
+10.1.1. Agreement service contracts (ASCs) and multicarrier service contracts
+
+(MSCs)
+
+90. The Agreement provides that the lines may enter into ASCs or MSCs, and adopt a
+
+standard form of ASC, relating to services provided between ports within the EEA and
+
+ports and inland points outside the EEA. As indicated above (recital 40), such contracts
+
+may include a price for all services, closely related to the activity of maritime transport,
+provided between the vessel and the port gate.54 To the extent that those provisions may
+
+be considered to be restrictive of competition, they do not fall under the liner conference
+block exemption contained in Regulation (EEC) No 4056/86,55 but they do qualify for
+
+individual exemption under Article 81(3). Two main benefits of service contracts were
+identified in the TACA decision:56 the provision of special services which improve the
+
+supply chain, and the contribution they make to price stability. Service contracts can also
+
+reduce search costs and administrative costs. The provision by the Revised TACA lines of
+
+ASCs and MSCs to shippers who want such contracts will contribute to stability, may
+
+make provision for special services, and will help reduce search, negotiation and
+monitoring costs.57
+
+91. Now that the availability of ISCs is not restricted – and indeed ISCs now constitute the
+
+preferred form of arrangement on the trade covered by the Revised TACA – it is
+
+sufficient that there are at least some cases where joint service contracts bring additional
+
+benefits for shippers as compared to ISCs. As the periodic reports supplied by the Parties
+
+show, some shippers have continued to opt for joint service contracts in an environment
+
+where ISCs are freely and widely available; this is in itself sufficient evidence that there
+
+are circumstances where joint service contracts bring benefits for shippers. The setting of
+
+a joint contract price is an essential and non-severable element of a joint service contract
+
+and is hence indispensable to the achievement of those benefits.
+
+92. Competition is unlikely to be eliminated within the meaning of Article 81(3). In addition
+
+to competition from outside the conference altogether, there is considerable internal
+
+competition from individual service contracts (see recital 46 above).
+
+54 For the list of charges that relate to such services, see footnote 16 above.
+55 See TACA decision, at recitals 454-462. See also TAA judgment, at paragraph 164.
+56 See recitals 472 to 476.
+57 It should be noted that the Commission has already accepted joint service contracting by deciding not
+to raise serious doubts against such arrangements in the Polfin Liner Conference case (OJ C396,
+19.12.1998, p. 10; IP/99/193).
+
+27
+
+10.2. Cargo-handling services in a port
+
+93. Conferences, including the TACA, had the practice of dividing their tariffs into five parts
+
+showing rates for each of the following services: inland transport to the port; cargo
+
+handling in the port (transfer from the mode of inland transport to the vessel); sea
+
+transport; cargo handling in the port of destination (transfer from the vessel to the mode
+of inland transport), and inland transport to the place of final destination.58 The Parties no
+
+longer agree prices for inland transport in the EEA. Thus, as far as the EEA is concerned,
+
+the Tariff sets prices only for cargo-handling in the port of departure or destination.
+
+94. While the Court of First Instance has not ruled on the precise dividing line between cargo
+
+handling services and maritime transport services, it has made clear that Regulation
+
+(EEC) No 4056/86 must be understood as applying only to transport by sea from port to
+port and that the maritime transport service ceases on arrival at the port.59 It follows that
+
+Tariff charges for cargo handling operations within the port can fall within the scope of
+
+the liner conference block exemption contained in that Regulation only to the extent that
+
+these operations are indivisible from the sea voyage (see recital 41 above).
+
+95. It is not, however, necessary in this procedure to identify with precision which operations
+
+fall into which category, because to the extent that the Revised TACA Tariff covers cargo
+
+handling services which fall outside the scope of Regulation (EEC) No 4056/86 but
+within that of Regulation No 17, it can be considered exemptable.60
+
+96. The cargo-handling services in question, provided within the port, are economically and
+
+physically closely connected to the maritime transport as such. These services have – at
+
+least since the advent of containerisation – generally been contracted for by carriers and
+
+invoiced directly to the latter by the cargo-handler (the terminal operator or stevedoring
+
+company). Transport users, particularly those with only small volumes to be shipped, may
+
+benefit from this situation as carriers will generally have greater bargaining power vis-àvis terminal operators and will be able to negotiate a price that is substantially lower than
+that which might have been obtained by the shipper.61 Against that background – and in
+
+58 TACA Decision, recital 96.
+59 FEFC judgment, at paragraphs 239-241.
+60 To the extent that cargo handling services fall within the scope of Regulation (EEC) No 1017/68, they
+fall outside the scope of this procedure.
+61 See for instance Lloyd’s List of 12.6.2002, page 5: ‘Speaking at the same conference [TOC 2002] P&O
+Ports’ chief operating officer Alistair Baillie urged terminal operators to have a complete re-think about
+pricing. Hard-pressed carriers are driving down terminal handling charges, “reducing the whole
+industry to sub-economic returns”. Furthermore, carriers are never able to retain any savings they
+
+28
+
+the very special circumstances of this case – the Commission will not object to the fixing
+
+of charges for these services by the Parties to the Revised TACA. The very special
+
+circumstances of this case include the fact that only a fraction of Revised TACA cargoes
+
+are carried under the conference Tariff, while by far the greatest part are carried under
+
+individual service contracts. The Commission has also taken account of the fact that the
+
+Revised TACA parties have a combined market share of no more than approximately
+
+50%. As a result, the Revised TACA Parties are subject to an unprecedented degree of
+
+internal and external competition and shippers have a plethora of alternatives to carriage
+
+under the conference Tariff.
+
+10.3. Conclusion
+
+97. For all of the above reasons, it is concluded that the aspects of the notified agreement
+
+referred to in recitals 89 to 96 above, falling outside the scope of Article 3 of Regulation
+
+(EEC) No 4056/86 but within the scope of that Regulation or of Regulation No 17, may
+
+infringe Article 81(1) of the Treaty but meet the criteria for exemption under Article
+
+81(3).
+
+11. DURATION OF EXEMPTION, CONDITIONS AND OBLIGATIONS
+
+98. Pursuant to Article 13 of Regulation (EEC) No 4056/86 and Article 8 of Regulation No
+
+17, a decision applying Article 81(3) of the Treaty is to indicate the period for which it is
+
+to be valid; normally such period should not be less than six years. The exemption in this
+
+case should take effect, for those elements of the Revised TACA falling within the scope
+
+of Regulation (EEC) No 4056/86, from the date of implementation of the Agreement (31
+
+December 1998), and for those elements falling within the scope of Regulation No 17,
+
+from the date of notification (29 January 1999), and should terminate six years from the
+
+date of publication in the Official Journal of the Commission Notice pursuant to Article
+
+12(2) of Regulation (EEC) No 4056/86.
+
+HAS ADOPTED THIS DECISION:
+
+obtain for themselves, instead passing them straight on to the customer rather than improving their own
+bottom lines, said Mr Baillie. For that reason he believes terminal operators should split their charges
+between shipping lines and shippers, the former paying for ship to shore cargo services and consignees
+billed for yard to gate moves. [...] Dividing services between cargo interests and carriers could form
+the basis of future pricing policies, Mr Baillie proposed, so reducing terminal operators’ exposure to
+weak ocean freight rates’.
+
+29
+
+Article 1
+
+Pursuant to Article 81(3) of the Treaty, the provisions of Article 81(1) of the Treaty
+
+are hereby declared inapplicable to those aspects of the Revised Trans-Atlantic
+
+Conference Agreement ("TACA") concerning joint service contracts and port
+
+handling, falling within the scope of Regulation (EEC) No 4056/86 and Regulation
+
+No 17, from 31 December 1998 in the case of Regulation (EEC) No 4056/86, and
+
+from 29 January 1999 in the case of Regulation No 17, and for a further period of six
+
+years from 6 May 1999.
+
+Article 2
+
+This Decision is addressed to:
+
+A.P. Møller-Maersk Sealand Atlantic Container Line AB
+
+50 Esplanaden Sydatlanten
+
+1098 Copenhagen K Skandiahamnen
+
+Denmark 403 36 Gothenburg
+
+Sweden
+
+30
+
+Hapag-Lloyd Container Linie GmbH Mediterranean Shipping Co S.A.
+
+Ballindamm 25 40 Av Eugene Pittard
+
+D-20095 Hamburg 1206 Geneva
+
+Germany Switzerland
+
+Nippon Yusen Kaisha Orient Overseas Container Line Limited
+
+CPO Box 1250 Harbour Centre
+
+Tokyo 100-91 25 Harbour Road
+
+Japan Wanchai
+
+Hong Kong
+
+P&O Nedlloyd Limited
+
+Beagle House
+
+Braham Street
+
+London E1 8EP
+
+Done at Brussels, For the Commission
+
+Mario MONTI
+
+Member of the Commission
+
+31

@@ -1,0 +1,626 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39610 - Power Cables
+
+(Only the English, French, German and Italian texts are authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Articles 7 and 23(2) Regulation (EC) 1/2003
+
+Date: 02/04/2014
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ........................................... 6
+1.1. The products covered by the infringement ................................................................... 6
+1.2. The market players that were involved in the infringement ........................................ 8
+1.3. Description of the sector ............................................................................................ 11
+1.3.1. The supply .................................................................................................................. 11
+1.3.2. The demand ................................................................................................................ 12
+1.4. Inter-state trade........................................................................................................... 13
+2. THE COMMISSION ́S INVESTIGATION .............................................................. 13
+3. DESCRIPTION OF THE EVENTS........................................................................... 15
+3.1. Origin of the cartel arrangements ............................................................................... 15
+3.2. Objectives of the cartel arrangement .......................................................................... 16
+3.3. Implementation of the cartel arrangements ................................................................ 16
+3.3.1. Allocation mechanisms of the A/R cartel configuration ............................................ 17
+3.3.1.1. Home Territories ........................................................................................................ 18
+3.3.1.2. Export territories ........................................................................................................ 20
+3.3.1.3. Free Territories ........................................................................................................... 20
+3.3.1.4. Communications and monitoring between R and A .................................................. 21
+3.3.2. Allocation mechanisms of the European cartel configuration ................................... 25
+3.3.2.1. Communications and monitoring between R ............................................................. 26
+3.4. Chronology of key contacts ....................................................................................... 27
+3.5. Arguments of the parties regarding the reliability of the evidence .......................... 109
+3.6. Discussion and findings regarding the evidence ...................................................... 110
+4. APPLICATION OF ARTICLE 101(1) OF THE TREATY AND ARTICLE 53(1) OF
+THE EEA AGREEMENT........................................................................................ 112
+4.1. Relationship between the Treaty and the EEA Agreement ...................................... 112
+4.2. Jurisdiction ............................................................................................................... 113
+4.2.1. Arguments of the parties .......................................................................................... 113
+4.2.2. Discussion and findings ........................................................................................... 113
+4.3. Application of the competition rules in this case ..................................................... 114
+4.3.1. Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement ................... 114
+4.3.2. Agreements and concerted practices ........................................................................ 115
+4.3.2.1. Principles .................................................................................................................. 115
+4.3.2.2. Arguments of the parties .......................................................................................... 118
+4.3.2.3. Discussion and findings ........................................................................................... 119
+
+EN 2 EN
+
+4.3.3. Single and continuous infringement ......................................................................... 125
+4.3.3.1. Principles .................................................................................................................. 125
+4.3.3.2. Arguments of the parties .......................................................................................... 127
+4.3.3.3. Discussion and findings ........................................................................................... 128
+4.3.4. Restriction of competition ........................................................................................ 148
+4.3.4.1. Principles .................................................................................................................. 148
+4.3.4.2. Arguments of the parties .......................................................................................... 149
+4.3.4.3. Discussion and findings ........................................................................................... 151
+4.3.5. Effect upon trade between Members States and between the EEA contracting parties
+.................................................................................................................................. 159
+4.3.5.1. Principles .................................................................................................................. 159
+4.3.5.2. Arguments of the parties .......................................................................................... 160
+4.3.5.3. Discussion and findings ........................................................................................... 161
+4.3.6. Application of Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement
+.................................................................................................................................. 161
+4.3.7. Provisions of competition rules applicable to Iceland, Liechtenstein and Norway, and
+to the 2004 and 2007 enlargement of the Union ...................................................... 162
+5. ADDRESSEES ........................................................................................................ 162
+5.1. Principles .................................................................................................................. 162
+5.2. Application to this case ............................................................................................ 167
+5.2.1. Nexans ...................................................................................................................... 167
+5.2.2. Pirelli/Prysmian/Goldman Sachs ............................................................................. 171
+5.2.3. Sumitomo and Hitachi.............................................................................................. 190
+5.2.4. JPS ............................................................................................................................ 191
+5.2.5. Furukawa and Fujikura ............................................................................................ 194
+5.2.6. VISCAS.................................................................................................................... 194
+5.2.7. ABB.......................................................................................................................... 202
+5.2.8. Brugg ........................................................................................................................ 203
+5.2.9. Sagem/Safran/Silec .................................................................................................. 203
+5.2.10. Silec/General Cable .................................................................................................. 204
+5.2.11. Showa and Mitsubishi .............................................................................................. 205
+5.2.12. EXSYM Corporation ............................................................................................... 205
+5.2.13. nkt ............................................................................................................................. 214
+5.2.14. LS Cable ................................................................................................................... 215
+5.2.15. Taihan ....................................................................................................................... 215
+6. DURATION OF THE INFRINGEMENT ............................................................... 215
+
+EN 3 EN
+
+6.1. Starting date for each undertaking ........................................................................... 215
+6.2. End date for each undertaking .................................................................................. 219
+7. REMEDIES .............................................................................................................. 226
+7.1. Article 7 of Regulation (EC) No 1/2003: ................................................................. 226
+7.2. Article 23(2) of Regulation (EC) No 1/2003 ........................................................... 226
+7.3. Basic amount of the fine .......................................................................................... 227
+7.3.1. Methodology for setting the fine .............................................................................. 227
+7.3.2. The value of sales ..................................................................................................... 227
+7.3.2.1. Arguments of the parties and findings ..................................................................... 230
+7.3.2.2. Conclusions on value of sales and attribution under point 18 of the Guidelines on
+fines .......................................................................................................................... 234
+7.3.3. Determination of the basic amount of the fine ......................................................... 237
+7.3.3.1. Gravity...................................................................................................................... 237
+7.3.3.2. Duration.................................................................................................................... 241
+7.3.3.3. Additional amount .................................................................................................... 242
+7.3.3.4. Calculation and conclusion on basic amounts ......................................................... 243
+7.4. Adjustments to the basic amount ............................................................................. 244
+7.4.1. Aggravating circumstances ...................................................................................... 244
+7.4.2. Mitigating circumstances ......................................................................................... 244
+7.4.3. Arguments of the parties and conclusions of the Commission ................................ 244
+7.4.4. Deterrence multiplier ............................................................................................... 250
+7.5. Application of the 10% turnover limit. .................................................................... 250
+7.6. Application of the Leniency Notice ......................................................................... 252
+7.6.1. ABB.......................................................................................................................... 252
+7.6.2. JPS, Sumitomo and Hitachi...................................................................................... 253
+7.6.3. Mitsubishi ................................................................................................................. 254
+7.7. Retroactive application of the Guidelines on fines .................................................. 255
+7.8. Inability to pay ......................................................................................................... 255
+7.9. Fines sharing in cases of joint and several liability .................................................. 256
+7.10. Final amount of the fines .......................................................................................... 257
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of 2.4.2014
+
+addressed to:
+ABB AB, ABB Ltd, Brugg Kabel AG, Kabelwerke Brugg AG Holding, Nexans France
+SAS, Nexans SA, nkt cables GmbH, NKT Holding A/S, Prysmian Cavi e Sistemi S.r.l.,
+Prysmian S.p.A., The Goldman Sachs Group, Inc., Pirelli & C. S.p.A., Safran SA, Silec
+Cable, SAS, General Cable Corporation, Sumitomo Electric Industries, Ltd., Hitachi
+Metals, Ltd., J-Power Systems Corporation, Furukawa Electric Co. Ltd., Fujikura Ltd.,
+VISCAS Corporation, SWCC SHOWA HOLDINGS CO., LTD., Mitsubishi Cable
+Industries, Ltd., EXSYM Corporation, LS Cable & System Ltd., Taihan Electric Wire
+Co., Ltd.,
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+AT.39610 - Power cables
+
+(Only the English, French, German and Italian texts are authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,1
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in in Articles 81 and 82 of the Treaty,2
+and in particular Article 7 and Article 23(2) thereof,
+Having regard to the Commission decision of 30 June 2011 to initiate proceedings in this
+case,
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to 81 and 82 of the Treaty,3
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the hearing officer in this case,4
+Whereas:
+
+1 OJ C 115, 9.5.2008, p. 47.
+2 OJ L 1, 4.1.2003, p. 1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in su
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+
+400 ID [...], Nexans inspection.
+401 ID [...], Nexans inspection.
+402 ID [...], Nexans inspection, ID [...] Nexans inspection, [...].
+403 ID [...], Prysmian inspection. See also: [...]
+404 ID [...], Nexans inspection. ID [...], Prysmian inspection.
+405 ID [...] Prysmian reply of 7 May 2010 to RFI of 31 March 2010.
+406 ID [...], Nexans inspection.
+
+56
+
+# Date and Known participants Known additional information on meeting, subjects
+Location discussed and source(s) of the evidence
+[company representative
+E1] (VISCAS)
+413. 10 April [company representative Bilateral meeting. According to EXSYM and Showa, no anti-
+2008 A1], [company competitive issues were discussed. No further information
+Tokyo representative A2] available.418
+(Nexans), [company
+representative H1]
+(EXSYM)
+414. 10 April [company representative Bilateral meeting. JPS demands not to be contacted, for
+2008 A1], [company compliance reasons.419
+Tokyo representative A2]
+(Nexans), [company
+representative C1],
+[company representative
+D4] (JPS)
+415. 24 April [company representative Email exchange on several EEA and non-EEA projects. 420
+2008 B1] (Prysmian), [company
+representative A2] (Nexans)
+416. 2 June 2008 [company representative Bilateral meeting in the context of CRU Conference,
+A2] (Nexans), [company Barcelona, Spain. No further information available.421
+representative B4]
+(Prysmian), [company
+representative I3] (ABB)
+417. 6-10 June [company representative Email exchange on allocation of projects in the export
+2008 H1] (EXSYM), [company territories.422
+representative A1] (Nexans)
+418. 9 June 2008 [company representative Email regarding allocation of projects in the export
+EF1], [company territories.423
+representative E1]
+(VISCAS), [company
+representative A2],
+[company representative
+A1] (Nexans)
+419. 7 July 2008 [company representative I3] Bilateral meeting. Price fixing, "Eirgrid" project, SM 220
+Swiss Hotel (ABB), [company kV.424
+in Zurich representative A2] (Nexans)
+420. 3-18 [company representative Bilateral contacts. Discussion on possible allocation of project
+October I3], [company "Belwind – SM, UG cables of 33/150 kV" in Belgium.425
+2008 representative I9] (ABB),
+Copenhagen [company representative
+A2], [company
+representative A7], other
+representative (Nexans)
+421. 25 October [company representative Email exchange on prices for a project. Possibly SM
+2008 B1] (Prysmian), [company interconnection – "380 kV - Sicily-Calabria".426
+representative A2] (Nexans)
+
+418 ID [...], Nexans inspection; ID [...], EXSYM reply to SO of 7 September 2012.
+419 [...].
+420 ID [...], Nexans inspection.
+421 ID [...], Reply Prysmian of 7 May 2010 to RFI of 31 March 2010.
+422 ID [...], Nexans inspection.
+423 ID [...], Nexans inspection.
+424 [...]
+425 [...].
+426 ID [...], Nexans inspection.
+
+58
+
+ANNEX II NAMES AND EMPLOYMENT RECORD OF INDIVIDUALS RELEVANT FOR THIS
+DECISION
+
+Nexans France SAS – "company representiatives A"
+
+Name Time frame / position Legal entity
+[company representative A1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[company representative A2] ID[...] [...] [...]
+[...] [...]
+[company representative A3] ID [...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+Nexans SA
+
+Name Time frame / position Legal entity
+[company representative A4] ID[...] [...] [...]
+[...] [...]
+
+Nexans Iberia SL
+
+Name Time frame / position Legal entity
+[company representative A5] ID[...] [...] [...]
+[...] [...]
+[company representative A6]
+[company representative A7]
+
+Prysmian Cavi e Sistemi Energia S r l. - "company representiatives B"
+
+Name Time frame / position Legal entity
+[company representative B1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative B2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+1
+
+[...] [...]
+[...] [...]
+[company representative B3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative B4] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative B5] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative B6]
+[company representative B7]
+[company representative B8]
+[company representative B9]
+[company representative B10]
+
+Sumitomo Electric Industries, Ltd. - "company representiatives C"
+
+Name Time frame / position Legal entity
+[company representative C1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+[company representative C2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative C3]
+
+Hitachi Cable Ltd. - "company representiatives D"
+
+Name Time frame / position Legal entity
+[company representative D1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[company representative D2] ID[...] [...] [...]
+
+2
+
+[...] [...]
+
+[company representative D3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[company representative D4] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative D5]
+
+J-Power Systems Corporation-"company representiatives CD"
+
+Name Time frame / position Legal entity
+[company representative CD1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative C1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative D3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative C2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative D5] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative CD2]
+
+Furukawa Electric Co. Ltd. - "company representiatives E"
+
+Name Time frame / position Legal entity
+
+3
+
+[company representative E1] ID[...] [...] [...]
+
+[company representative E2] ID[...], [...]
+ID[...]
+
+[company representative E3]ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+Fujikura Ltd. - "company representiatives F"
+
+Name Time frame / position Legal entity
+
+[company representative F1] ID[...] [...]
+
+[company representative F2] ID[...] [...] [...]
+
+[...] [...]
+
+[company representative F3] ID[...] [...] [...]
+
+[...] [...]
+
+VISCAS Corporation - "company representiatives EF "
+
+Name Time frame / position Legal entity
+[company representative E1] ID[...] [...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative EF1] ID[...] [...] [...]
+
+[company representative EF2] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+
+[company representative EF3] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+
+4
+
+[company representative EF4] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+[...] [...]
+[company representative F2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[company representative E3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative F3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+
+SWCC Showa Holdings Co., Ltd- "company representiatives G "
+
+Name Time frame / position Legal entity
+
+[company representative G1] ID[...] [...] [...]
+
+[company representative G2] ID[...] [...] [...]
+
+[...] [...]
+
+Mitsubishi Cable Industries, Ltd. - "company representiatives H "
+
+Name Time frame / position Legal entity
+
+[company representative H1] ID[...] [...] [...]
+
+EXSYM Corporation- "company representiatives GH"
+
+Name Time frame / position Legal entity
+
+[company representative H1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+[...] [...]
+[company representative G1] ID[...] [...] [...]
+
+[...] [...]
+[...] [...]
+[company representative G2] ID[...] [...] [...]
+[...] [...]
+
+ABB AB and ABB Power Technologies AB, ABB Power Technology Products AB, ABB High Voltage
+Cables AB - "company representiatives I "
+
+5
+
+Name Time frame / position Legal entity
+[company representative I1] ID[...] [...] [...]
+
+[...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative I2] ID[...] [...] [...]
+
+[company representative I3] ID[...] [...] [...]
+[...] [...]
+
+[...] [...]
+
+[...] [...]
+
+[company representative I4] ID[...] [...] [...]
+
+[...] [...]
+[company representative I5]
+[company representative I6]
+[company representative I7]
+[company representative I8]
+[company representative I9]
+
+Brugg Kabel AG -"company representiatives J "
+
+[company representative J1] [...] [...]
+ID[...]
+
+[...] [...]
+[company representative J2] [...] [...]
+ID[...]
+[...] [...]
+[...] [...]
+[company representative J3] [...] [...]
+ID[...] [...] [...]
+
+[...] [...]
+
+nkt cables GmbH - "company representiatives K "
+
+Name Time frame / position Legal entity
+[company representative K1] ID[...] [...] [...]
+[...] [...]
+[company representative K2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+6
+
+[company representative K3] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative K4]
+
+Silec Cable, SAS - "company representiatives L "
+
+Name Time frame / position Legal entity
+[company representative L1] [...] [...]
+ID[...] [...] [...]
+ID[...]
+ID[...]
+ID[...]
+[company representative L2] [...] [...]
+ID[...]
+[...] [...]ID[...]
+ID[...]
+ID[...]
+[company representative L3]
+
+LS Cable & Systems Ltd. - "company representiatives M "
+
+Name Time frame / position Legal entity
+[company representative M1] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+
+[...] [...]
+
+[company representative M2] ID[...] [...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative M3] ID [...] [...] [...]
+[company representative M4] [...] [...]
+
+[company representative M5] [...] [...]
+
+[company representative M6] [...] [...]
+
+[company representative M7] [...] [...]
+
+7
+
+Taihan Electric Wire Co., Ltd. - "company representiatives N "
+
+Name Time frame / position Legal entity
+[company representative N1] ID[...] [...] [...]
+
+[...] [...]
+[...] [...]
+[...] [...]
+[company representative N2]
+
+[company representative N3]
+
+[company representative X]
+[company representative Y]
+
+8

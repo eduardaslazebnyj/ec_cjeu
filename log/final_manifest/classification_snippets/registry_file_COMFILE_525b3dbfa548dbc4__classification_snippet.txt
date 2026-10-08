@@ -1,0 +1,143 @@
+## Annex IV
+
+Final Commitments – Holtzbrinck/Macmillan
+
+31 October 2012
+
+FOR SETTLEMENT PURPOSES ONLY WITHOUT PREJUDICE
+
+## COMMITMENTS OF HOLTZBRINCK CASE COMP/39.847 - E-Books
+
+In accordance with Article 9 of Council Regulation No 1/2003, Holtzbrinck gives the following commitments ("Commitments"), to address the preliminary competition concerns identified by the European Commission ("Commission") in Case 39.847 - E-Books and set out in the Commission's preliminary assessment dated 13 August 2012, and to enable the Commission to adopt a decision confirming that the Commitments meet its concerns ("Commitments Decision").
+
+These Commitments are provided on a without prejudice basis and do not constitute any admission by Holtzbrinck of infringement or liability. Holtzbrinck understands that, consistent with Article 9 of Regulation 1/2003, if the Commitments are ultimately accepted by the Commission, they will serve to close the Commission's proceedings opened on 1 December 2011 against Holtzbrinck's arrangements relating to the sale of E-books.
+
+For the avoidance of doubt, Holtzbrinck strongly contests that it has engaged in unlawful conduct contrary to Article 101 TFEU or Article 53 of the EEA Agreement or any other aspect of European Union or EEA competition law. These Commitments are therefore without prejudice to Holtzbrinck's position should the Commission or any other party decide to open proceedings or to commence any other legal action against Holtzbrinck.
+
+## I. DEFINITIONS
+
+A. "Agency Agreement" means an agreement between an E-book Publisher and an E-book Retailer under which the E-book Publisher Sells E-books to consumers through the E-book Retailer, which under the agreement acts as an agent of the E-book Publisher and is paid a commission in connection with the Sale of one or more of the E-book Publisher's E-books.
+
+B. "Agreed Funds" means the aggregate amount equal to the total commissions which Holtzbrinck pays to an E-book Retailer, over a period of at least one year, in connection with the Sale through that E-book Retailer of Holtzbrinck's E-books to consumers.
+
+C. "Apple" means (1) Apple, Inc., a California corporation with its principal place of business in Cupertino, California, and (2 iTunes Sarl, a Luxembourg limited liability company with its principal place of business in Luxembourg, their successors and assigns, their parents, subsidiaries, divisions, groups, affiliates, partnerships, and joint ventures, and their directors, officers, managers, agents, and employees.
+
+D. "E-book" means an electronically formatted book designed to be read on a computer, a handheld device, or other electronic devices capable of visually displaying E-books. For purposes of these Commitments, the term E-book does not include (1) an audio book, even if delivered and stored digitally; (2) a standalone specialized software application or "app" sold through an "app store" rather than through an e-book store (e.g., through Apple's "App Store" rather than through its "iBookstore" or "iTunes") and not designed to be executed or read by or through a dedicated E-book device; (3) a media file containing an electronically formatted book for which most of the value to consumers is derived from audio or video content contained in the file that is not included in the print version of the book; (4) self published E-books; and (5) electronic versions of children's picture books or (6) educational and scholarly titles as well as electronically formatted books that are sold through educational and/or library channels.
+
+E. "E-book Publisher" means any Person that, by virtue of a contract or other relationship with an E-book's author or other rights holder, owns or controls the necessary copyright or other authority (or asserts such ownership or control) over any E-book sufficient to distribute the E-book to E-book Retailers and to permit such E-book Retailers to Sell the E-book to consumers in the EEA. Holtzbrinck is an E-book Publisher. For the purposes of these Commitments an E-book Publisher is not an E-book Retailer except when it lawfully Sells (or seeks to lawfully Sell) directly E-books to consumers for another E-book Publisher or acts as an agent under an Agency Agreement for another E-book Publisher.
+
+F. "E-book Retailer" means any Person that lawfully Sells (or seeks to lawfully Sell) E-books to consumers in the EEA, or through which an E-book
+
+Publisher, under an Agency Agreement, Sells E-books to consumers in the EEA. For the purposes of these Commitments unless otherwise provided, Holtinzbrinck and all other Persons whose primary business is book publishing are not E-book Retailers. For the purposes of these Commitments, Apple is an E-book Retailer.
+
+G. "EEA" means those countries participating in the European Economic Area as of the date of the notification of the Commitments Decision and at any time thereafter during the term of these Commitments.
+
+H. "Effective Date" means the date upon which Holtzbrinck receives formal notification of a Commitment Decision by which the Commission makes the Commitments binding upon Holtzbrinck.
+
+I. "Holtzbrinck" means Verlagsgruppe Georg von Holtzbrinck GmbH and Georg von Holtzbrinck GmbH & Co. KG and their successors and assigns, subsidiaries, divisions and groups as well as their connected undertakings except where such connected undertaking engages in E-book publishing activity which is merely incidental to its other primary business activity.
+
+## J. "Implementation Date" means the earliest of
+
+1. the termination of an agreement between Holtzbrinck and an E-book Retailer that restricts, limits, or impedes that E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book, or to deviate from the List Price of any E-book, and/or to offer price discounts or, subject to Section III.A.3, any other form of promotions to encourage consumers to Purchase one or more E-books in the EEA;
+
+2. the date on which Holtzbrinck notifies an E-book Retailer in writing that Holtzbrinck will not enforce any term(s) in its agreement with that E-book Retailer that restrict, limit, or impede the E-book Retailer from setting, altering, or reducing the Retail Price of one or more E-books, or from deviating from the List Price of any E-book, and/or from offering price discounts or any other form of promotion to encourage consumers to Purchase one or more E-books in the EEA.
+
+K. "Including" means "including, but not limited to".
+
+L. "List Price" means the price set by Holtzbrinck for the Sale to consumers of a specific E-Book title under the terms of an Agency Agreement.
+
+M. "Person" means any natural person, corporation, company, partnership, joint venture, firm, association, proprietorship, agency, board, authority, commission, office, or other business or legal entity, whether private or governmental.
+
+N. "Price MFN" means a term in an agreement between Holtzbrinck and an E-book Retailer under which
+
+1. the Retail Price at which that E-book Retailer or, under an Agency Agreement, Holtzbrinck, Sells one or more E-books to consumers depends in any way on the Retail Price, or discounts from the List Price, at which any other E-book Retailer, or Holtzbrinck under an Agency Agreement with any other E-book Retailer, Sells the same E-book(s) to consumers; or
+
+2. the Wholesale Price at which Holtzbrinck Sells one or more E-books to or through that E-book Retailer depends in any way on the Wholesale Price at which Holtzbrinck Sells the same E-book(s) to or through any other E-book Retailer; or
+
+3 receives the revenue share or commission that an E-book Retailer receives from Holtzbrinck in connection with the Sale of one or more E-books to consumers depends in any way on the revenue share or commission that (a) any other E-book Retailer receives from Holtzbrinck in connection with the Sale of the same E-book(s) to consumers, or (b) that E-book Retailer receives from any other E-book Publisher in connection with the Sale of one or more of the other E-book Publisher's E-books.
+
+O. "Purchase" means a consumer's acquisition of one or more E-books as a result of a Sale.
+
+P. "Retail Price" means the price at which an E-book Retailer or, under an Agency Agreement, an E-book Publisher Sells an E-book to a consumer.
+
+Q. "Sale" means delivery of permanent access to a consumer to read one or more E-books (purchased alone, or in combination with other goods or services) in exchange for payment; "Sell" or "Sold" means to make or to have made a Sale of an E-book to a consumer.
+
+R. "Wholesale Price" means (1) the net amount, after any discounts or other adjustments, that an E-book Retailer pays to Holtzbrinck for an E-book that the E-book Retailer Sells to consumers; or (2) the List Price at which Holtzbrinck, under an Agency Agreement, Sells an E-book to consumers through an E-book Retailer, minus the commission or other payment that Holtzbrinck pays to the E-book Retailer in connection with or that is reasonably allocated to that Sale.
+
+## II. REQUIRED CONDUCT
+
+A at the same time.
+
+B. For each Agency Agreement entered into prior to the Effective Date between Holtzbrinck and an E-book Retailer other than Apple relating to the Sale of E-Books within the EEA that (1) restricts, limits, or impedes the E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book below the List Price or to offer price discounts or any other form of promotions to encourage consumers to Purchase one or more E-books, or (2) that contains a Price MFN, Holtzbrinck shall notify the E-book Retailer, at the latest within ten days of the Effective Date, that the E-book Retailer may terminate the agreement on thirty days' notice and shall, thirty days after the E-book Retailer provides such notice, release the E-book Retailer from the agreement. For each such agreement that the E-book Retailer has not given notice to terminate within seventy days after the Effective Date, Holtzbrinck shall, as soon as permitted under the agreement, take each step required under the agreement to cause the agreement to be terminated and not renewed or extended.
+
+C. Holtzbrinck shall furnish to the Commission (1) within seven days after the Effective Date, one complete copy of each agreement, executed, renewed, or extended on or after January 1, 2012, between Holtzbrinck and any E-book Retailer relating to the Sale of E-books, and, (2) thereafter, on a quarterly basis, each such agreement executed, renewed, or extended since Holtzbrinck's previous submission of agreements to the Commission. Where Holtzbrinck enters into a non-disclosure agreement with another E-book Publisher or an E-book Retailer, this non-disclosure agreement shall not prevent Holtzbrinck from providing to the Commission any kind of relevant information.
+
+## III. PROHIBITED CONDUCT
+
+A. With regard to the territories within the EEA covered by any of the agreements terminated in accordance with Sections II.A and II.B of these Commitments:
+
+1. For two years from the earlier of the Effective Date and the Implementation Date, Holtzbrinck shall not restrict, limit, or impede an E-book Retailer's ability to set, alter, or reduce the Retail Price of any E-book, or to deviate from the List Price of any E-book, and/or to offer price discounts or, subject to Section III.A.3, any other form of promotions to encourage consumers to Purchase one or more E-books; such two-year period shall run separately for each E-book
+
+Retailer. Holtzbrinck shall notify the Commission of such Date for each E-book Retailer within seven days.
+
+2. For two years from the earlier of the Effective Date and the Implementation Date, Holtzbrinck shall not enter into any agreement with any E-book Retailer that restricts, limits, or impedes the E-book Retailer from setting, altering, or reducing the Retail Price of one or more E-books, or to deviate from the List Price of any E-book, and/or from offering price discounts or subject to Section III.A.3 any other form of promotions to encourage consumers to Purchase one or more E-books in the EEA.
+
+3. The ability of an E-Book Retailer to offer any non-price promotion in accordance with paragraphs 1 and 2 is subject to Holtzbrinck's contractual obligations allowing Holtzbrinck to withhold an E-book due to a specific request made by its author or other content creator.
+
+B. Holtzbrinck shall not enter into any agreement with an E-book Retailer relating to the Sale of E-books that contains a Price MFN.
+
+## IV. NON-CIRCUMVENTION
+
+A. Holtzbrinck shall in any way not circumvent by actions and/or omissions any commitments contained in this document.
+
+B. After expiration of the prohibitions in Sections III.A of these Commitments, Holtzbrinck shall not be prohibited from unilaterally entering into or enforcing any agreement with an E-book Retailer that restricts, limits, or impedes the
+
+E-book Retailer from setting, altering, or reducing the Retail Price of any of Holtzbrinck's E-books or from deviating from the List Price or from offering price discounts or any other form of promotion to encourage consumers to Purchase any of Holtzbrinck's E-books.
+
+C. For the avoidance of doubt and without limitation, the following shall not be prohibited under these Commitments:
+
+1. Holtzbrinck's good faith decision not to pursue a promotional programme or arrangement proposed by an E-book Retailer;
+
+2. Holtzbrinck's good faith decision to offer its own promotional programme or arrangement with one or more E-book Retailers; or
+
+3. Holtzbrinck's good faith decision not to enter into, or not to remain, in business with an E-book Retailer.
+
+## V. PERMITTED CONDUCT
+
+A. Nothing in these Commitments shall prohibit Holtzbrinck from unilaterally
+
+1. compensating a retailer, including an E-book Retailer, for valuable marketing or other promotional services rendered; or
+
+2. setting a List Price as the basis of the amount Holtzbrinck will be entitled to receive in respect of each Sale of an E-Book title through an E-Book Retailer.
+
+B. Notwithstanding Section III.A of these Commitments, Holtzbrinck may enter into Agency Agreements with E-book Retailers in relation to the EEA under which the aggregate value of the price discounts or any other form of promotion to encourage consumers to Purchase one or more of Holtzbrinck's E-books (as opposed to advertising or promotions engaged in by the E-book Retailer not specifically tied or directed to Holtzbrinck's E-books) is restricted; provided that for the two year period as defined in Section III.A (1) such agreed restriction shall not interfere with the E-book Retailer's ability to reduce the Retail Price for any of Holtzbrinck's E-books below the List Price by using the Agreed Funds; and (2) Holtzbrinck shall not restrict, limit, or impede the E-book Retailer's use of the Agreed Funds to offer price discounts or, subject to Section III.A.3, any other form of price promotion to encourage consumers to Purchase one or more E-books; and (3) the method of accounting for the E-book Retailer's promotional activity does not restrict, limit, or impede the E-book Retailer from engaging in any form of retail activity or promotion.
+
+C. The details of any agreements reflecting the principles set out in subparagraphs V.B above will be subject to individual bilateral negotiations between Holtzbrinck and the intending E-book Retailer.
+
+## VI. NATIONAL LAW
+
+These Commitments are without prejudice to restrictions imposed by national law related to E-books that restricts, limits, or impedes the implementation of Section III.A and Section V.B above.
+
+## VII. DURATION OF COMMITMENTS
+
+Unless provided otherwise, these Commitments shall remain in force for a period of five years from the Effective Date.
+
+## VIII. REPORTING
+
+In 2017, the report relating to 2017 was provided by the Department of Statistics (DST) and the Department of Materials (DMD).
+
+## IX. REVIEW CLAUSE
+
+A. Without prejudice to the general provision of Article 9(2) of Regulation 1/2003, Holtzbrinck may request that the Commission reopens
+
+# proceedings with a view to modifying these Commitments where there has been a material change in any of the facts on which the Commitments Decision was based.
+
+31 October 2012
+
+![](images/6007f1780b8e03fe6b41c0f664a49045cbb8f3c7a64d2a23e64e607f1a533ab6.jpg)
+
+Dr. Kathrin Westermann, Noerr LLP
+
+[Duly authorized for and on behalf of Verlagsgruppe Georg von Holtzbrinck GmbH
+
+and Georg von Holtzbrinck GmbH & Co. KG]

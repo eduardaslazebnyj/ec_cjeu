@@ -1,0 +1,374 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition
+
+CASE AT.39740
+
+Google Search (Shopping)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 27/06/2017
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information/personal data is not
+disclosed. Those parts are shown as [...] or replaced by a non-confidential summary, or
+ranges, in square brackets.
+
+EUROPEAN
+COMMISSION
+
+Brussels, 27.6.2017
+C(2017) 4444 final
+
+COMMISSION DECISION
+
+of 27.6.2017
+
+relating to proceedings under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the Agreement on the European Economic Area
+
+(AT.39740 - Google Search (Shopping))
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 7
+2. Google's business activities .......................................................................................... 7
+2.1. The undertaking ........................................................................................................... 7
+2.2. Overview of Google's business activities ..................................................................... 8
+2.2.1. Google Search .............................................................................................................. 8
+2.2.2. Generic search results .................................................................................................. 8
+2.2.3. Online search advertising results ................................................................................. 9
+2.2.4. Specialised search results ........................................................................................... 10
+2.2.5. Google's comparison shopping service ...................................................................... 11
+2.2.6. Other Google products and services .......................................................................... 13
+3. Procedure .................................................................................................................... 13
+4. Google's allegations that the Commission's investigation suffers from procedural
+errors .......................................................................................................................... 22
+4.1. The Commission's alleged failure to assess the evidence properly ........................... 23
+4.2. The Commission's alleged failure to explain its preliminary conclusions properly .. 23
+4.3. The Commission's alleged failure to provide adequate access to minutes of meetings
+with third parties ........................................................................................................ 24
+4.4. The Commission's alleged failure to explain adequately why it reverted to the Article
+7 procedure ................................................................................................................. 25
+4.5. The Commission's alleged failure to provide sufficient information regarding the
+envisaged remedies .................................................................................................... 26
+5. Market Definition ....................................................................................................... 27
+5.1. Principles .................................................................................................................... 27
+5.2. The relevant product markets ..................................................................................... 28
+5.2.1. The market for general search services ...................................................................... 29
+5.2.1.1. The provision of general search services constitutes an economic activity ............... 29
+5.2.1.2. Limited demand side substitutability with other online services ............................... 30
+5.2.1.2.1. General search services versus content sites ............................................................ 30
+5.2.1.2.2. General search services versus specialised search services ..................................... 31
+5.2.1.2.3. General search services versus social networking sites ........................................... 33
+5.2.1.3. Limited supply side substitutability with other online services ................................. 34
+5.2.1.4. General search services on static devices versus mobile devices .............................. 34
+5.2.2. The market for comparison shopping services ........................................................... 35
+5.2.2.1. Comparison shopping services versus other specialised search services ................... 36
+5.2.2.2. Comparison shopping services versus online search advertising platforms .............. 37
+
+EN 2 EN
+
+5.2.2.3. Comparison shopping services versus online retailers ............................................... 38
+5.2.2.4. Comparison shopping services versus merchant platforms ....................................... 40
+5.2.2.5. Comparison shopping services versus offline comparison shopping tools ................ 54
+5.3. The relevant geographic markets ............................................................................... 55
+5.3.1. The national markets for general search services ...................................................... 55
+5.3.2. The national markets for comparison shopping services ........................................... 55
+6. Dominant position ...................................................................................................... 56
+6.1. Principles .................................................................................................................... 56
+6.2. Google's dominant position in the national markets for general search services ....... 57
+6.2.1. Market shares ............................................................................................................. 58
+6.2.2. Barriers to entry and expansion .................................................................................. 62
+6.2.3. The infrequency of user multi-homing and the existence of brand effects ................ 67
+6.2.4. Lack of countervailing buyer power .......................................................................... 70
+6.2.5. Google's argument that Google’s general search services are offered free of charge
+and the Commission's response .................................................................................. 70
+6.2.6. Static devices versus mobile devices ......................................................................... 71
+7. Abuse of a dominant position .................................................................................... 73
+7.1. Principles .................................................................................................................... 73
+7.2. The abusive conduct: the more favourable positioning and display, in Google’s
+general search results pages, of Google's own comparison shopping service
+compared to competing comparison shopping services ............................................. 76
+7.2.1. Google positions and displays, in its general search results pages, its own comparison
+shopping service more favourably compared to competing comparison shopping
+services ....................................................................................................................... 77
+7.2.1.1. The way competing comparison shopping services are positioned and displayed in
+Google’s general search results pages ........................................................................ 78
+7.2.1.1.1. The way competing comparison shopping services are positioned in Google's
+general search results pages ....................................................................................... 78
+7.2.1.1.2. The way competing comparison shopping services are displayed in Google's general
+search results pages .................................................................................................. 102
+7.2.1.2. The way that Google’s comparison shopping service is positioned and displayed in
+its general search results pages ................................................................................ 103
+7.2.1.2.1. The different ways that Google’s comparison shopping service is positioned in its
+general search results pages ..................................................................................... 103
+7.2.1.2.2. The different way that Google’s comparison shopping service is displayed in its
+general search results pages ..................................................................................... 109
+7.2.1.3. Google's arguments and the Commission's response ............................................... 110
+7.2.2. The importance of user traffic for comparison shopping services ........................... 120
+
+EN 3 EN
+
+7.2.3. The Conduct decreases traffic from Google's general search results pages to
+competing comparison shopping services and increases traffic from Google's general
+search results pages to Google's own comparison shopping service ....................... 123
+7.2.3.1. Analysis of user behaviour ....................................................................................... 124
+7.2.3.2. Impact of the Conduct on generic search traffic from Google's general search results
+pages to competing comparison shopping services ................................................. 126
+7.2.3.3. Impact of the Conduct on traffic to Google's own comparison shopping service ... 139
+7.2.3.4. Google's arguments and the Commission's response ............................................... 155
+7.2.4. The traffic diverted by the Conduct accounts for a large proportion of traffic to
+competing comparison shopping services and cannot be effectively replaced by other
+sources currently available to comparison shopping services .................................. 162
+7.2.4.1. Generic search traffic from Google's general search results pages accounts for a large
+proportion of traffic to competing comparison shopping services ........................... 163
+7.2.4.2. Generic search traffic from Google's general search results pages cannot be
+effectively replaced by other sources ....................................................................... 167
+7.2.4.2.1. Traffic from AdWords ........................................................................................... 167
+7.2.4.2.2. Mobile apps ............................................................................................................ 176
+7.2.4.2.3. Direct traffic ........................................................................................................... 178
+7.2.4.2.4. Other sources .......................................................................................................... 179
+7.3. The Conduct has potential anti-competitive effects on several markets .................. 179
+7.3.1. Potential anti-competitive effects in the national markets for comparison shopping
+services ..................................................................................................................... 180
+7.3.2. Potential anti-competitive effects of the Conduct in possible national markets for
+comparison shopping services and merchant platforms ........................................... 183
+7.3.3. Potential anti-competitive effects in the national markets for general search services
+.................................................................................................................................. 195
+7.4. Google's arguments with regard to the applicable legal test .................................... 196
+7.5. Objective justification and efficiency claims ........................................................... 197
+8. Jurisdiction ............................................................................................................... 199
+8.1. Principles .................................................................................................................. 199
+8.2. Application to this case ............................................................................................ 200
+9. Effect on trade between Member States ................................................................... 200
+9.1. Principles .................................................................................................................. 200
+9.2. Application to this case ............................................................................................ 201
+10. Duration .................................................................................................................... 202
+11. Addressees ................................................................................................................ 202
+11.1. Principles .................................................................................................................. 202
+11.2. Application to this case ............................................................................................ 203
+
+EN 4 EN
+
+12. Remedies .................................................................................................................. 203
+12.1. Principles .................................................................................................................. 203
+12.2. Application to this case ............................................................................................ 204
+13. Periodic penalty payments ....................................................................................... 206
+13.1. Principles .................................................................................................................. 206
+13.2. Application to this case ............................................................................................ 206
+14. Fines ......................................................................................................................... 207
+14.1. Principles .................................................................................................................. 207
+14.2. Intention or negligence ............................................................................................. 208
+14.3. Imposition of a fine notwithstanding commitment discussions ............................... 209
+14.4. Calculation of the fine .............................................................................................. 210
+14.4.1. Joint and several liability ......................................................................................... 210
+14.4.2. Basic amount of the fine ..................................................................................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+egulation, including the power to order that an infringement be brought to an end
+and the power to impose fines for that infringement.837
+(734) Fourth, it is only in strictly exceptional situations, such as where an undertaking’s
+cooperation has been decisive in establishing an infringement, that a fine may not be
+
+831 Case T-336/07, Telefónica SA v Commission, EU:T:2012:172, paragraphs 324-325.
+832 Case T-219/99, British Airways plc v Commission, EU:T:2003:343, paragraph 315; Case T-461/07 Visa
+Europe and Visa International Service v Commission, EU:T:2011:188, paragraph 252.
+833 Case 322/81, NV Nederlandsche Banden Industrie Michelin v Commission, EU:C:1983:313, paragraph
+107; Case T-321/05, AstraZeneca v Commission, EU:T:2010:266, paragraph 901; Case T-286/09, Intel
+Corp. v Commission, EU:T:2014:547, paragraph 1602; Case T-472/13 Lundbeck v Commission,
+EU:T:2016:449, paragraph 782.
+834 SO Response, paragraphs 465 and 466.
+835 SO Response, paragraph 467.
+836 Case C-441/07 P, Commission v Alrosa, EU:C:2010:377, paragraph 40; Case T-491/07 RENV CB v
+Commission, EU:T:2016:379, paragraph 470.
+837 Case T-491/07 RENV CB v Commission, EU:T:2016:379, paragraph 461.
+
+EN 209 EN
+
+imposed.838 In this case, however, Google's offer of commitments in no way assisted
+the Commission in establishing the infringement.
+
+14.4. Calculation of the fine
+14.4.1. Joint and several liability
+(735) The Commission has concluded that Alphabet is jointly and severally liable for the
+infringement as of 2 October 2015 (see section 11).
+(736) The Commission therefore concludes that Google and Alphabet should be held
+jointly and severally liable to pay the fine insofar as it relates to the period from that
+date.
+14.4.2. Basic amount of the fine
+14.4.2.1. The value of sales
+(737) The Commission concludes that the infringement directly or indirectly relates to the
+revenues generated by Google's comparison shopping service because the
+infringement is capable of having, or likely to have, anti-competitive effects in the
+national markets for comparison shopping services (see section 7.2).
+(738) For the purpose of the value of sales, the Commission therefore uses revenue
+generated by Google's comparison shopping service in each of the thirteen national
+markets in which the Conduct takes place (Austria, Belgium, the Czech Republic,
+Denmark, France, Germany, Italy, the Netherlands, Norway, Poland, Spain, Sweden
+and the United Kingdom). This includes revenues from the paid product results
+displayed in the Shopping Unit, revenues from the paid product results displayed on
+the standalone Google Shopping website and revenues obtained from bottom text ads
+displayed on the standalone Google Shopping website.
+(739) [...]839
+14.4.2.2. The last business year
+(740) In this case, there are no exceptional reasons to deviate from the basic principle that
+the fine should be based on the last full business year's revenues.
+(741) The Commission therefore concludes that the value of sales should be based on the
+revenues generated by Google's comparison shopping service during the last full
+business year of the infringement, namely 2016.
+14.4.2.3. Gravity
+(742) The Commission concludes that the proportion of the value of sales to be used to
+establish the basic amount of the fine should be [...]%.
+(743) In reaching this conclusion, the Commission takes into account the following factors:
+(a) the national markets for comparison shopping services and general search
+services are of significant economic importance. This means that any anticompetitive behaviour on these markets is likely to have a considerable impact;
+and
+
+838 Case C-681/11 Schenker & Co. and Others, EU:C:2013:404, paragraph 49; Case C-499/11 P Dow
+Chemical and Others v Commission, EU:C:2013:482, paragraph 47.
+839 [...]
+
+EN 210 EN
+
+Poland [...] [...] [...] [...]
+
+Spain [...] [...] [...] [...]
+
+Sweden [...] [...] [...] [...]
+
+United Kingdom [...] [...] [...] [...]
+
+Sources: See sections 14.4.2.1 and 14.4.2.4
+14.4.2.5. Additional amount
+(749) The Commission concludes that the basic amount should include an additional
+amount of [...]% of the relevant value of sales.840
+(750) In reaching this conclusion, the Commission takes into account the factors set out in
+recital (743) and the need to ensure that the fine imposed has a sufficient deterrent
+effect on undertakings of a similar size and with similar resources.841
+14.4.3. Adjustments to the basic amount
+14.4.3.1. Aggravating and mitigating circumstances
+(751) The Commission concludes that there are no aggravating or mitigating circumstances
+that should result in an increase or decrease in the basic amount of the fine.
+14.4.3.2. Specific increase for deterrence
+(752) The Commission concludes that the basic amount of the fine imposed should be
+multiplied by 1.3.
+(753) In reaching this conclusion, the Commission takes into account: (i) the need to
+ensure that the fine has a sufficiently deterrent effect not only on Google and
+Alphabet, but also on undertakings of a similar size and with similar resources,842
+and (ii) the fact that Alphabet had a particularly large turnover in 2016
+(approximately EUR 81 597 million) beyond the revenues generated by Google's
+comparison shopping service in each of the thirteen national markets in which the
+Conduct takes place.
+14.4.4. Final amount of the fine
+(754) The Commission concludes that the final amount of the fine to be imposed on
+Google should be EUR 2 424 495 000, of which EUR 523 518 000 jointly and
+severally with Alphabet.
+(755) Alphabet's turnover in the business year ending 31 December 2016 was
+approximately EUR 81 597 million. As the final amount of the fine set is below 10%
+of that figure, no adaptation is necessary.
+
+HAS ADOPTED THIS DECISION:
+
+840 This additional amount is split between Google, solely liable until 1 October 2015, and Google and
+Alphabet, jointly and severally liable as of 2 October 2015, in a pro-rata manner based on the
+corresponding duration of the Conduct.
+841 Case T-472/13 Lundbeck v Commission, EU:T:2016:449, paragraph 782.
+842 Case C-408/12 P YKK v Commission, EU:C:2014:2153, paragraph 93.
+
+EN 212 EN
+
+Article 1
+By positioning and displaying more favourably, in Google Inc.'s general search results pages,
+Google Inc.'s own comparison shopping service compared to competing comparison shopping
+services, the undertaking consisting of Google Inc. and also, since 2 October 2015, of Alphabet
+Inc. has infringed Article 102 of the Treaty and Article 54 of the Agreement on the European
+Economic Area. The infringement has been taking place in the following countries since the
+following dates:
+(a) as regards Google Inc.:
+– since January 2008 in Germany and the United Kingdom;
+– since October 2010 in France;
+– since May 2011 in Italy, the Netherlands, and Spain;
+– since February 2013 in the Czech Republic; and
+– since November 2013 in Austria, Belgium, Denmark, Norway, Poland and Sweden.
+(b) as regards, additionally, Alphabet Inc., since 2 October 2015, in each of the countries
+listed in point (a).
+The infringement is continuing in each of those countries as at the date of adoption of this
+Decision.
+
+Article 2
+For the infringement referred to in Article 1, the following fine is imposed:
+Google Inc.: EUR 2 424 495 000, of which EUR 523 518 000 jointly and severally with
+Alphabet Inc.
+The fine shall be credited in euros, within a period of three months from the date of notification
+of this Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39740
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an addressee of this Decision brings an action for annulment against the Decision, it shall
+cover the fine by the due date, either by providing an acceptable financial guarantee or by
+making a provisional payment of the fine in accordance with Article 90 of Commission
+Delegated Regulation (EU) No 1268/2012.843
+
+843 OJ L 362, 31.12.2012, p. 1.
+
+EN 213 EN
+
+Article 3
+The undertaking referred to in Article 1 shall, within 90 days from the date of notification of
+this Decision, bring effectively to an end the infringement referred to in that Article, in so far
+as it has not already done so.
+The undertaking referred to in Article 1 shall refrain from repeating any act or conduct
+described in Article 1, and from any act or conduct having the same or an equivalent object or
+effect.
+
+Article 4
+The undertaking referred to in Article 1 shall notify the Commission, within 60 days from the
+date of notification of this Decision, of the specific measures through which it intends to
+comply with this Decision.
+The undertaking referred to in Article 1 shall provide the Commission with periodic reports
+on the way it complies with this Decision. The first of those reports shall be sent on the day
+on which the undertaking brings the infringement effectively to an end. Subsequent reports
+shall be sent every four months from that day, for a period of five years from that day.
+
+Article 5
+If the undertaking referred to in Article 1 fails to comply with the orders set out in Articles 3
+and 4, the Commission hereby imposes a daily periodic penalty payment of 5% of its average
+daily turnover in the business year preceding such a failure to comply.
+
+EN 2 EN
+
+Article 6
+
+This Decision is addressed to Google Inc. and Alphabet Inc., both of 1600 Amphitheatre
+Parkway, Mountain View, CA 94043, United States of America.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+Agreement on the European Economic Area.
+Done at Brussels, 27.6.2017
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 2 EN

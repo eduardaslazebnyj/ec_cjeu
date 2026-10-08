@@ -1,0 +1,328 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+![](images/3f633606ba43e5aa5db52c2d87cb31cc0bf69fcd517623e2952806c3faf51b58.jpg)
+
+# CASE COMP/39605-CRT Glass
+
+(Only the English text is authentic)
+
+# CARTEL PROCEDURE Council Regulation (EC) 1/2003 and Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 19/10/2011
+
+This text is made available for information purposes only. A summary of this decision is published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those parts are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+![](images/d1eb45410a3396e188af5de483710efe0394b0a4486fd5bdc8f2525fc1845743.jpg)
+
+Brussels, 19.10.2011
+
+C(2011) 7436 final
+
+# COMMISSION DECISION
+
+of 19.10.2011
+
+# relating to proceedings under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (COMP/39605 CRT Glass)
+
+(Text with EEA relevance)
+
+Only the English text is authentic
+
+## TABLE OF CONTENTS
+
+1. INTRODUCTION....5
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS....5
+2.1. The product....5
+2.2. The undertakings subject to the proceedings....5
+2.2.1. Asahi Glass Co., Ltd....5
+2.2.2. Nippon Electric Glass Co., Ltd....6
+2.2.3. Samsung Corning Precision Materials Co., Ltd....6
+2.2.4. Schott AG....6
+3. PROCEDURE....6
+4. DESCRIPTION OF THE EVENTS....8
+4.1. Overview of the cartel....8
+4.1.1. General description....8
+4.1.2. Specific features in relation to the conduct of AGC....9
+4.1.3. Specific features in relation to the conduct of Schott....10
+4.2. Geographic scope of the cartel....10
+4.3. Duration....10
+5. APPLICATION OF ARTICLE 101(1) OF THE TREATY AND ARTICLE 53(1) OF THE EEA AGREEMENT....11
+5.1. Agreements and concerted practices....11
+5.2. Single and continuous infringement....12
+5.3. Restriction of competition....14
+5.4. Effect upon trade between Member States and between EEA Contracting Parties....14
+5.5. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement....15
+6. ADDRESSEES....15
+6.1. AGC....15
+6.2. NEG....15
+6.3. SCP....15
+6.4. Schott....16
+7. DURATION OF THE INFRINGEMENT....16
+
+8. REMEDIES....16
+8.1. Article 7 of Regulation (EC) No 1/2003....16
+8.2. Article 23(2) of Regulation (EC) No 1/2003....16
+8.3. Basic amount of the fine....17
+8.3.1. Calculation of the value of sales....17
+8.3.2. Determination of the basic amount of the fine....18
+8.3.2.1. Gravity....18
+8.3.2.2. Duration....19
+8.3.3. Determination of the additional amount....20
+8.3.4. Calculations and conclusions on basic amounts....20
+8.4. Adjustments to the basic amount of the fine....20
+8.4.1. Aggravating circumstances....20
+8.4.2. Mitigating circumstances....20
+8.4.3. Specific increase for deterrence....21
+8.5. Application of the 10% turnover limit....21
+8.6. Application of the Leniency Notice....22
+8.6.1. Immunity from fines....22
+8.6.2. Reduction of fines....22
+8.7. Application of the Settlement Notice....22
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision....22
+9. CONCLUSION....23
+
+# COMMISSION DECISION
+
+of XXX
+
+# relating to proceedings under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (COMP/39605 CRT Glass)
+
+(Text with EEA relevance)
+
+Only the English text is authentic
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union $^{1}$ ,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2, and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty $^{3}$ , as amended by Commission Regulation (EC) No 622/2008 of 30 June 2008 as regards the conduct of settlement procedures in cartel cases $^{4}$ , and in particular Article 10a thereof,
+
+Having regard to the Commission decision of 29 June 2010 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003 and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case $^{5}$ ,
+
+## Whereas:
+
+## 1. INTRODUCTION
+
+(1) This Decision relates to a single and continuous infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement in the sector of glass for Cathode Ray Tubes (“CRT Glass”). The infringement consisting of price coordination covered the entire EEA. Overall, the infringement lasted from 23 February 1999 until 27 December 2004.
+
+(2) This Decision is addressed to the following companies:
+
+• Asahi Glass Co., Ltd.;
+
+• Nippon Electric Glass Co., Ltd.;
+
+\- Samsung Corning Precision Materials Co., Ltd. (Samsung Corning Precision Glass Co., Ltd. until May 2010);
+
+• Schott AG.
+
+## 2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+## 2.1. The product
+
+(3) The product concerned by the anti-competitive conduct is glass supplied to manufacturers of Cathode Ray Tubes ("CRT Glass") and used for the production of Colour Picture Tubes ("CPTs") and Colour Display Tubes ("CDTs") $^{6}$ . CPTs are built into televisions. CDTs are built into computer monitors.
+
+## 2.2. The undertakings subject to the proceedings
+
+2.2.1. Asahi Glass Co., Ltd
+
+(4) The undertaking concerned is Asahi Glass Co., Ltd. with its registered office at Shin-Marunouchi Building, 1-5-1 Marunouchi, Chiyoda-ku, 100-8405 Tokyo, Japan ("AGC"). AGC is active in the manufacturing and sales of glass and glass-related products. The company is publicly listed and had a worldwide turnover in 2010 of approximately EUR 11 000 million.
+
+## 2.2.2. Nippon Electric Glass Co., Ltd
+
+(5) The undertaking concerned is Nippon Electric Glass Co., Ltd. with registered office at 7-1 Seiran 2-chome, Otsu, 520-8639 Shinga, Japan and its relevant subsidiaries ("NEG"). NEG is active in the production and sale of specialty glass products and glassmaking machinery. The company is publicly listed and had a worldwide turnover in 2010 of EUR 2 534 million.
+
+## 2.3. Samsung Corning Precision Materials Co., Ltd
+
+(6) The undertaking concerned is Samsung Corning Precision Materials Co., Ltd. (previously Samsung Corning Precision Glass Co., Ltd), with its registered office at 644-1 Jinpeong-dong, Gumi-se, Gyeongsangbuk-do, South Korea, its legal predecessor Samsung Corning Co., Ltd. ("SSC") and its relevant subsidiaries ("SCP"). SCP is active in the production of glass for CRT and Liquid Crystal Display ("LCD") products. SCP had a worldwide turnover in 2010 of EUR 3 590 million.
+
+## 2.2.4. Schott AG
+
+(7) The undertaking concerned is Schott AG with its registered office at Hattenbergstr. 10, 55122 Mainz, Germany, its legal predecessor Schott Glas and its relevant subsidiaries ("Schott"). Schott is active in developing and manufacturing specialty materials, components and systems and it had a worldwide turnover in 2010 of EUR 2 845 million. Schott closed its CRT Glass operations in 2006.
+
+## 3. PROCEDURE
+
+(8) [...], SCP applied for immunity under the Commission Notice on Immunity from fines and reduction of fines in cartel cases $^{7}$ (the "Leniency Notice"). SCP's immunity application was followed by a number of subsequent submissions made between [...] 2008 and [...] 2010, consisting of [...]. On 10 February 2009, SCP was granted conditional immunity from fines pursuant to point 8(a) of the Leniency Notice.
+
+(9) In March 2009, the Commission carried out unannounced inspections at the premises of Schott. Requests for information were sent by the Commission to the main CRT Glass producers [...].
+
+(10) [...] NEG applied for immunity or, alternatively, for a reduction of fines under the Leniency Notice. NEG supplemented its application by further submissions consisting [...] between [...] 2009 and [...] 2010.
+
+(11) [...] Schott submitted a formal application for a reduction of fines under the Leniency Notice.
+
+(12)) On 29 June 2010, the Commission initiated proceedings pursuant to Article 11(6) of Regulation (EC) No 1/203 and, by letter of 29 June 2010, formally requested SCP, AGC, NEG and Schott (together the "parties") to express in writing their interest to engage in settlement discussions. After all the parties had confirmed their willingness to engage in settlement discussions, discussions started on 13 July 2010.
+
+(13) Settlement meetings between the parties and the Commission took place between 13 July 2010 and 1 July 2011. During those meetings, the Commission informed the parties of the objections it envisaged raising against them and disclosed the evidence in the Commission file used to establish these objections. Between 13 July 2010 and 28 July 2010, the parties had access to the relevant file in the Commission premises, [...]. The parties were also given [...] documents in the file and a copy of evidence that had already been shown to them. Upon request, and in so far as it was justified by the parties to clarify their positions regarding a time period or any other aspect of the cartel, the parties were granted access to any additional document [...] in the case file. The parties were also provided with an estimation of the range of fines likely to be imposed by the Commission.
+
+(14) The parties gave their view on the objections which the Commission envisaged raising against them. The parties' comments were carefully considered by the Commission and, where appropriate, taken into account. At the end of the settlement discussions, all parties considered that there was a sufficient common understanding as regards the potential objections and the estimation of the range of likely fines to continue the settlement process.
+
+(15) [...], the parties submitted to the Commission their formal request to settle pursuant to Article 10a (2) of Regulation (EC) No 773/2004. In their settlement submissions, AGC, NEG, SCP and Schott acknowledged clearly and in an unequivocal manner their liability for an infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement, describing its object, the main facts, their legal qualification, including their role and the duration of their participation in the infringement, in accordance with the settlement discussions. The addressees of this Decision clearly and unequivocally acknowledged that they were responsible for the behaviour of their subsidiaries which were involved in the cartel (the "relevant subsidiaries"). The parties have also indicated the maximum amount of the fine as stated by the Commission and which they would accept to pay as part of a settlement procedure. In their respective settlement submissions, the parties confirmed that they had access to the evidence supporting the objections and had been granted sufficient opportunity to access other documents in the Commission's file. The parties also [...]the documents that were disclosed to them.
+
+(16) In their settlement submissions, in accordance with point 20 of the Commission Notice on the conduct of settlement procedures in view of the adoption of Decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases (the “Settlement Notice”) $^{8}$ , the parties also confirmed:
+
+\- that they had been sufficiently informed of the objections the Commission envisaged raising against them and having been given sufficient opportunity to make their views known to the Commission,
+
+\- that they did not envisage requesting further access to documents or to be heard again in an oral hearing, unless the Statement of Objections does not reflect their settlement submissions,
+
+\- that they agreed to receive the Statement of Objections and the final decision in a given language, in this case in English.
+
+(17) The parties also indicated the maximum amount of the fine that they anticipated would be imposed by the Commission and which they would accept to pay as part of a settlement procedure.
+
+(18) On 29 July 2011, the Commission adopted a Statement of Objections addressed to AGC, NEG, Schott and SCP. All the parties replied to the Statement of Objections by confirming that it corresponded to the contents of their settlement submissions and that they therefore remained committed to following the settlement procedure.
+
+(19) Having regard to the clear and unequivocal acknowledgments of all the parties to these proceedings described in their settlement submissions and to their clear and unequivocal confirmation that the Statement of Objections reflected their settlement submissions, it is concluded that the addressees of this Decision should be held liable for the infringement as described in Sections 4 to 7.
+
+## 4. DESCRIPTION OF THE EVENTS
+
+## 4.1. Overview of the cartel
+
+## 4.1.1. General description
+
+(20) AGC, NEG, SCP and Schott engaged in direct and indirect price coordination with a view of restricting price competition within the EEA in the CRT Glass sector. Overall, the cartel lasted from 23 February 1999 until 27 December 2004.
+
+(21) First, the cartel members directly coordinated prices for CRT Glass at bilateral and trilateral cartel meetings $^{9}$ . Throughout the duration of the cartel, they used a variety of means, including coordination of CRT Glass prices for specific customers and, occasionally, setting target prices for certain types of CRT Glass $^{10}$ .
+
+(22) Second, the cartel members indirectly coordinated prices, by establishing a high degree of transparency at the bilateral and trilateral meetings with respect to the past, present and future situation of their respective market positions in terms of price evolution, demand of major customers, their respective supply shares for major customers, ongoing output and capacity developments. $^{11}$ At least from March 2003 onwards, AGC, NEG and SCP also endeavoured to coordinate the output of CRT Glass. $^{12}$
+
+(23) Furthermore, all cartel members supplemented their price coordination activities by exchanging, through their marketing staff, on an ad hoc basis, confidential and sensitive market information, such as EEA sales, stock levels, customer developments, raw material costs and estimates of the demand and sales $^{13}$ .
+
+(24)) The cartel functioned on the basis of bilateral or trilateral meetings which were organised when a cartel member requested to discuss an issue with one or more competitors. $^{14}$ AGC did not attend trilateral meetings that took place in Europe. The trilateral meetings attended by Schott took place only in Europe. The meetings were complemented by further telephone and email contacts $^{15}$ .
+
+(
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+tigating circumstances
+
+(88) The basic amount of the fine may be reduced where there are mitigating circumstances. Point 29 of the Guidelines sets out a non-exhaustive list of such circumstances. Given the specific features in relation to the conduct of AGC and
+
+Schott, as described in Section 4.1 above, a reduction of the basic amount of the fine imposed on these two parties is justified due to mitigating circumstances.
+
+## (a) AGC
+
+(89) As described above in Section 4.1.2, AGC was involved only to a limited extent in the cartel in its early period (from 2 March 1999 to 14 July 2001). Therefore, the fine to be imposed on AGC is reduced by 15%.
+
+## (b) Schott
+
+(90) As described above in Section 4.1.3, Schott was involved in the cartel only to a limited extent in its later period (from 4 December 2002 to 10 May 2004). Therefore, the fine to be imposed on Schott is reduced by 15%.
+
+(91) Schott does not qualify for a reduction of the fine under the Leniency Notice since it did not submit evidence which at the time of its leniency application represented significant added value with respect to the evidence already in the Commission's possession. However, at an early stage of the procedure and before submitting its leniency application, Schott granted on a voluntary basis access to evidence and relevant information beyond what it was legally obliged to do. The contemporaneous evidence submitted by Schott on a voluntary basis strengthened the Commission's ability to prove the case. The fine to be imposed on Schott is therefore reduced by 18% in view of Schott's effective cooperation outside the scope of the Leniency Notice and beyond its legal obligation to do so.
+
+## 8.4.3. Specific increase for deterrence
+
+(92) Particular attention should be paid to the need to ensure that fines have a sufficiently deterrent effect; to that end, the fine to be imposed on undertakings which have a particularly large turnover beyond the sales of goods or services to which the infringement relates may be increased\$^{52}\$.
+
+(93) In this case, there is no need to increase the fine for achieving a sufficiently deterrent effect.
+
+## 8.5. Application of the 10% turnover limit
+
+(94) Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed on each undertaking must not exceed 10% of its total turnover in the preceding business year. In this particular case, the adjusted basic amounts do not exceed 10% of the total turnover of any of the undertakings. Therefore, it is not necessary to adjust the amounts in the light of the parties' turnover in 2010.
+
+## 8.6. Application of the Leniency Notice
+
+## 8.6.1. Immunity from fines
+
+(95) SCP submitted an immunity application [...] under the Leniency Notice. SCP was granted conditional immunity from fines on 10 February 2009. SCP's cooperation fulfilled the requirements under the Leniency Notice. SCP is, therefore, granted immunity from fines in this case.
+
+## 8.6.2. Reduction of fines
+
+(96) NEG applied for a reduction of fines based on the Leniency Notice [...]. NEG has provided with its leniency application important new evidence as well as corroborating information, thereby substantially strengthening the Commission's ability to prove the case and adding significant value to the Commission's investigation. In this case, NEG is the first (and only) undertaking to meet the requirements of points 24 and 25 of the Leniency Notice. Consequently, a reduction of the fine of 50% is granted to NEG.
+
+(97) Schott does not qualify for a reduction of the fine under the Leniency Notice since it did not submit evidence which at the time of its leniency application represented significant added value with respect to the evidence already in the Commission's possession.
+
+## 8.7. Application of the Settlement Notice
+
+(98) As foreseen in point 32 of the Settlement Notice, the reward for settlement results in a reduction of 10% of the amount of the fine to be imposed on a party after the 10% turnover cap has been applied having regard to the Guidelines on fines. Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency applicants, the reduction of the fine granted to them for settlement will be added to their leniency reward.
+
+(99) As a result of the application of the Settlement Notice, the amount of the fine to be imposed on NEG, Schott and AGC is reduced by 10%.
+
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision
+
+(100) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are set out in Table 4.
+
+## Table 4. Fines
+
+<table><tr><td>Undertaking</td><td>Fines (in EUR)</td></tr><tr><td>SCP</td><td>0</td></tr><tr><td>NEG</td><td>43 200 000</td></tr><tr><td>Schott</td><td>40 401 000</td></tr><tr><td>AGC</td><td>45 135 000</td></tr></table>
+
+## 9. CONCLUSION
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The following is: The following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: 1. The following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is: the following is.
+
+(a) Samsung Corning Precision Materials Co., Ltd. (Samsung Corning Precision Glass Co., Ltd. until May 2010) from 23 February 1999 to 27 December 2004;
+
+(b) Nippon Electric Glass Co., Ltd. from 23 February 1999 to 27 December 2004;
+
+(c)) Schott AG from 23 February 1999 to 10 May 2004;
+
+(d) Asahi Glass Co., Ltd. from 2 March 1999 to 4 October 2004.
+
+## Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a)) On Samsung Corning Precision Materials Co., Ltd.: EUR 0;
+
+(b) On Nippon Electric Glass Co., Ltd.: EUR 43 200 000;
+
+(c) On Schott AG: EUR 40 401 000;
+
+(d) On Asahi Glass Co., Ltd.: EUR 45 135 000.
+
+The fines shall be paid in EURO within three months of the date of notification of this Decision to the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1-2, Place de Metz
+
+L-1930 Luxembourg
+
+BIC: BCEELULL
+
+Ref: European Commission – BUFI/COMP/39605
+
+After the expiry of the period, the interest rate is 3.5% higher than the interest rate, and the interest rate is 3.5% lower than the interest rate.
+
+Where is the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of the case of 2002.
+
+## Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or conduct having the same or similar object or effect.
+
+## Article 4
+
+This Decision is addressed to:
+
+Samsung Corporation, Ltd., 644-645-646-647-648-649-650-651-652-653-654-655-656-657-658-659-660-661-662-663-664-665-666-667-668-669-670-671-672-673-674-675-676-677-678-679-680-681-682-683-684-685-686-687-688-689-690-691-692-693-694-695-696-697-698-699-700-701-702-703-704-705-706-707-708-709-710-711-712-713-714-715-716-717-718-719-720-721-722-723-724-725-726-727-728-729-730-731-732-733-734-735-736-737-738-739-740-741-742-743-744-745-746-747-748-749-750-751-752-753-754-755-756-757-758-759-760-761-762-763-764-765-766-767-768-769-770-771-772-773-774-775-776-777-778-779-780-781-782-783-784-785-786-787-788-789-790-791-792-793-794-795-796-797-798-799-800-801-802-803-804-805-806-807-808-809-810-811-812-813-814-815-816-817-818-819-820-821-822-823-824-825-826-827-828-829-830-831-832-833-834-835-836-837-838-839-840-841-842-843-844-845-846-847-848-849-850-851-852-853-854-855-856-857-858-859-860-861-862-863-864-865-866-867-868-869-870-871-872-873-874-875-876-877-878-879-880-881-882-883-884-885-886-887-888-889-890-891-892-893-894-895-896-897-898-899-900-901-902-903-904-905-906-907-908-909-910-911-912-913-914-915-916-917-918-919-920-921-922-923-924-925-926-927-928-929-930-931-932-933-934-935-936-937-938-939-940-941-942-943-944-945-946-947-948-949-950-951-952-953-954-955-956-957-958-959-960-961-962-963-964-965-966-967-968-969-970-971-972-973-974-975-976-977-978-979-980-981-982-983-984-985-986-987-988-989-990-991-992-993-994-995-996-997-998-999-1000-1001-1002-1003-1004-1005-1006-1007-1008-1009-1010-1011-1012-1013-1014-1015-1016-1017-1018-1019-1020-1021-1022-1023-1024-1025-1026-1027-1028-1029-1030-1031-1032-1033-1034-1035-1036-1037-1038-1039-1040-1041-1042-1043-1044-1045-1046-1047-1048-1049-1050-1051-1052-1053-1054-1055-1056-1057-1058-1059-1060-1061-1062-1063-1064-1065-1066-1067-1068-1069-1070-1071-1072-1073-1074-10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+Nippon Electric Glass Co., Ltd., 7-1 Seiran 2-chome, Otsu, 520-8639 Shinga, Japan
+
+Schott AG, Hattenbergstr. 10, 55122 Mainz, Germany
+
+As, Ltd., Shin-Marunouchi Building, 1-5-1, Marunouchi, Chiyoda-ku, Tokyo, 00-8405, Japan
+
+This is a result of a statement that the EEA has been evaluated by the EEA's agreement.
+
+For the Commission
+
+Vice-President
+
+[Table 6:

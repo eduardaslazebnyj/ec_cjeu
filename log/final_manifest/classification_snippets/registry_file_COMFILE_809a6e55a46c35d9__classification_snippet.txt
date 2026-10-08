@@ -1,0 +1,666 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 19.01.2005
+
+C(2004)4876 final
+
+COMMISSION DECISION
+
+of 19 January 2005
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+and Article 53 of the EEA Agreement
+
+(Case No COMP/E-1/.37.773 – MCAA)
+
+(Only the English, French and German texts are authentic)
+
+(Text with EEA relevance)
+
+EN
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. SUMMARY OF THE INFRINGEMENT................................................................. 5
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS.......................................... 6
+
+2.1. The product.............................................................................................................. 6
+
+2.2. The market players................................................................................................... 6
+
+2.2.1. Akzo Nobel NV, Akzo Nobel Nederland BV, Akzo Nobel Chemicals BV, Akzo
+Nobel Functional Chemicals BV, Akzo Nobel AB, Akzo Nobel Base Chemicals AB
+and Eka Chemicals AB............................................................................................. 6
+
+2.2.2. Hoechst AG ............................................................................................................. 8
+
+2.2.3. Clariant GmbH and Clariant AG .............................................................................. 8
+
+2.2.4. Atofina SA / Atochem.............................................................................................. 9
+
+2.2.5. Eka......................................................................................................................... 10
+
+2.3. Description of the market ....................................................................................... 10
+
+2.3.1. Supply.................................................................................................................... 10
+
+2.3.2. Demand.................................................................................................................. 11
+
+2.3.3. Other market information....................................................................................... 12
+
+2.4. Inter-state trade ...................................................................................................... 12
+
+3. PROCEDURE........................................................................................................ 12
+
+3.1. The Commission's investigation ............................................................................. 12
+
+3.2. Investigations and proceedings in other jurisdictions .............................................. 14
+
+4. DESCRIPTION OF THE EVENTS........................................................................ 14
+
+4.1. Preliminary observation: the documentary evidence ............................................... 14
+
+4.2. The cartel’s history................................................................................................. 15
+
+4.3. Organisation and structure of the cartel .................................................................. 15
+
+4.3.1. General .................................................................................................................. 15
+
+4.3.2. Organisational changes to the arrangements ........................................................... 16
+
+4.3.3. The role of [organisation]....................................................................................... 17
+
+4.4. The essential features of the cartel.......................................................................... 18
+
+4.4.1. Customer and volume allocation............................................................................. 18
+
+4.4.2. Price fixing and exchange of price information....................................................... 19
+
+4.4.3. Monitoring of volume quotas and prices................................................................. 20
+
+EN EN
+
+4.4.4. Compensation mechanism...................................................................................... 20
+
+4.5. The operation of the cartel...................................................................................... 20
+
+4.5.1. Details of meetings and contacts............................................................................. 20
+
+5. Application of Article 81 of the Treaty and Article 53(1) of the EEA Agreement ... 31
+
+5.1. Relationship between the EC Treaty and the EEA Agreement ................................ 31
+
+5.2. Jurisdiction............................................................................................................. 32
+
+5.3. Application of Article 81 of the EC Treaty and Article 53 of the EEA Agreement.. 32
+
+5.3.1. Article 81 of the Treaty and Article 53(1) of the EEA Agreement........................... 32
+
+5.3.2. Agreements and concerted practices....................................................................... 32
+
+5.3.3. Single and continuous infringement........................................................................ 35
+
+5.3.4. Restriction of competition ...................................................................................... 37
+
+5.3.5. Effect upon trade between Member States and between EEA Contracting Parties... 39
+
+5.3.6. Addressees of the decision...................................................................................... 40
+
+5.3.7. Duration of the infringement .................................................................................. 47
+
+5.4. Remedies ............................................................................................................... 49
+
+5.4.1. Article 3 of Regulation No 17 and Article 7 of Regulation (EC) No 1/2003............ 49
+
+5.4.2. Article 15(2) of Regulation No 17 and Article 23(2) of Regulation (EC) No 1/200349
+
+EN EN
+
+COMMISSION DECISION
+
+Of 19 January 2005
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty and Article 53 of the
+
+EEA Agreement
+
+(Case No COMP.37.773 – MCAA)
+
+(Only the English, French and German texts are authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation No 17 of 6 February 1962: First Regulation
+implementing Articles 85 and 86 of the Treaty1, and in particular, Article 3 and Article 15(2)
+thereof,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules of competition laid down in Articles 81 and 82 of the Treaty2 and,
+in particular, Articles 7(1) and 23(2) thereof,
+
+Having regard to the Commission decision of 7 April 2004 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19(1) of Regulation No 17, Article
+27(1) of Regulation EC No 1/2003, Commission Regulation (EC) No 2842/98 of 22
+December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86 of
+
+1 OJ 13 21.2.1962, p.204/62. Regulation as last amended by Regulation (EC) No 1216/1999 (OJ L 148,
+15.6.1999, p5).
+2 OJ L 1, 4.1.2003, p.1. Regulation as amended by Regulation (EC) No 411/2004 (L 68, 6.3.2004, p.1).
+
+EN EN
+
+the EC Treaty3 and Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty4
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case5,
+
+WHEREAS:
+
+1. SUMMARY OF THE INFRINGEMENT
+
+(1) This Decision imposing fines for an infringement of Article 81 of the Treaty and
+Article 53 of the EEA Agreement is addressed to the following undertakings:
+
+- Akzo Nobel NV
+
+- Akzo Nobel Nederland BV
+
+- Akzo Nobel Chemicals BV
+
+- Akzo Nobel Functional Chemicals BV
+
+- Akzo Nobel Base Chemicals AB
+
+- Eka Chemicals AB
+
+- Akzo Nobel AB
+
+- Atofina SA
+
+- Elf Aquitaine SA
+
+- Hoechst AG
+
+- Clariant GmbH
+
+- Clariant AG
+
+(2) The infringement consists of the participation of the above undertakings in a
+continuing agreement contrary to Article 81(1) of the Treaty and Article 53(1) of the
+EEA Agreement covering the Community and the EEA, by which they engaged in the
+following activities in the market for Monochloroacetic acid:
+
+- allocating volume quotas;
+
+- allocating customers;
+
+- agreeing concerted price increases;
+
+3 OJ L 354, 30.12.1998, p. 18.
+4 OJ L 123, 27.4.2004, p.18.
+5 OJ [ ...], [...], p. [...].
+
+EN EN
+
+- agreeing on a compensation mechanism in order to ensure the “proper”
+implementation of the quota system;
+
+- exchanging information on sales volumes and prices so as to monitor the
+implementation of the arrangements;
+
+- participating in regular meetings and other contacts in order to agree the above
+restrictions and to implement and/or modify them as required.
+
+The infringing agreement ran from at least January 1984 to May 19996.
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1.The product
+
+(3) Monochloroacetic acid (“MCAA”) is a strong and aggressively reactive organic acid
+which involves reacting acetic acid with chlorine. It is toxic and corrosive and requires
+special handling. It comes in liquid, flake and molten form.
+
+(4) Having regard to its toxicity and hazardous properties, MCAA is often presented as
+sodium monochloroacetate (“SMCA”) a white salt presented in soluble powder or
+granulated form. SMCA is not a derivative of MCAA but a different delivery form
+instead of the free acid to ensure greater safety. Consequently, both MCAA and
+SMCA are referred to throughout this Decision as MCAA.
+
+(5) MCAA is mainly used as a chemical intermediate for the synthesis of cellulose ethers,
+mainly carboxymethyl cellulose (“CMC”), which are employed in the manufacture of
+detergents, adhesives, drilling muds for deep wells, textile auxiliaries and thickeners
+used in foods, pharmaceuticals and cosmetics.
+
+(6) SMCA is also used as a chemical intermediate for the production of CMC, amphoteric
+surfactants, pigments, dyes and printing inks, paints, lacquers and varnishes, as well as
+pharmaceutical products and crop protection products, particularly selective herbicides
+and insecticides.
+
+2.2.The market players
+
+2.2.1. Akzo Nobel NV, Akzo Nobel Nederland BV, Akzo Nobel Chemicals BV, Akzo Nobel
+Functional Chemicals BV, Akzo Nobel AB, Akzo Nobel Base Chemicals AB and Eka
+Chemicals AB
+
+(7) The Akzo Nobel group of companies is active in the areas of healthcare, coatings,
+chemicals, and, until the end of 1999, was active in the area of fibres. The ultimate
+holding company of this group is Akzo Nobel NV, Arnhem7.
+
+6 See under the heading “Duration” for individualised dates.
+7 Homepage: www.akzo.com.
+
+EN EN
+
+(8) On an organisational level, the activities of Akzo Nobel NV were, until 1993-1994,
+organised in six "product-divisions", which were in turn further subdivided into
+different "product groups" and "management units". The division presidents of each
+"product division" reported to the Board of Management of the ultimate parent
+company Akzo Nobel NV. The MCAA activities formed part of the "Chemicals"
+product division.
+
+(9) Since1993-1994, the Akzo Nobel group has been organised on the basis of a two-layer
+structure: a "corporate centre" and, directly underneath, approximately 20 Business
+Units ("BU's"). The corporate centre co-ordinates the most important tasks with regard
+to general strategy of the group, finance, legal affairs and human resources. The BU's
+each have their own General Manager, management team and supporting services
+responsible for the entire operational management of the BU. The BU management
+operates within the limits of the financial and strategic targets set out by the corporate
+centre and is bound by the "Business Principles" and "Corporate Directives"
+applicable to the entire Akzo Nobel group. The person in charge of each organisational
+unit at a specific level has a duty to report on the activities to a higher level. As such,
+the MCAA sub-BU has to report on its activities to the (higher) Chemicals BU, which
+in turn reports back to the corporate centre.
+
+(10) The MCAA activities of the Akzo group were previously the responsibility of Akzo
+Salt and Basic Chemicals BV, which was renamed Akzo Chemicals BV in 1993 and
+renamed Akzo Nobel Chemicals BV in 1994. Since July 1997, the MCAA activities
+of the Akzo group have been concentrated in Akzo Nobel Functional Chemicals BV
+and Akzo Nobel Chemicals BV was transformed into a holding company, which in
+turn belongs to the holding company Akzo Nobel Nederland BV The latter is a wholly
+owned subsidiary of the ultimate holding company Akzo Nobel NV, Arnhem.
+
+(11) The MCAA activities of the Akzo group in Sweden, which were acquired in 1994
+through the merger with Nobel Industrier AB, are currently performed by Akzo Nobel
+Base Chemicals AB (previously named Eka Nobel Skoghall AB), a 100% subsidiary
+of Eka Chemicals AB (previously named Eka Nobel AB) and directly involved in the
+MCAA business). Eka Chemicals AB is in turn a 100% subsidiary of Akzo Nobel AB,
+the former Nobel Industrier AB, which became a fully owned subsidiary of Akzo
+Nobel NV after the merger. Since 2003, Eka Chemicals AB has been a 100%
+subsidiary of Akzo Nobel Chemicals Holding AB (Sweden), itself fully-owned by
+Akzo Nobel Chemicals International BV (Netherlands), which in turn is a 100%
+subsidiary of Akzo Nobel NV8. On an organisational level, Eka Chemicals AB's
+MCAA activities, including the production plant of Skoghall, became the
+responsibility of Akzo Nobel Chemicals BV's Business Unit Functional Chemicals9.
+
+(12) For reasons of clarity, "Akzo" is the name used hereafter for the actions undertaken
+by Akzo Nobel Chemicals BV until 30 June 1997 and by Akzo Nobel Functional
+Chemicals BV as from 1 July 1997. It also includes as from 25 February 1994 the
+actions undertaken by Akzo Nobel Base Chemicals AB and Eka Chemicals AB.
+
+8 See pages 7930-7936 of the file.
+9 See pages 6696-6709 (8272-8281) of the file.
+
+EN EN
+
+(13) Akzo Nobel NV's total world-wide turnover in 2003 was EUR 13 thousand million. Its
+world-wide and EEA-wide turnover relating to the MCAA business was as set out in
+Table 1 (in millions of euros):
+
+Table 1
+
+World-wide EEA-wide
+
+1996 69,7 51,1
+
+1997 77,4 57,4
+
+1998 75,9 55,6
+
+(14) Akzo Nobel Nederland BV, Akzo Nobel Chemicals BV and Eka Chemicals AB can be
+respectively allocated the following total world-wide turnover figures for 2003: EUR
+1,7 thousand million, EUR 46,6 million and EUR 30,6 million. Their respective EEAwide turnovers relating to MCAA for 1998 were EUR 31 million, EUR 31 million and
+EUR 24,6 million.
+
+2.2.2. Hoechst AG
+
+(15) Hoechst AG (or "Hoechst") is part of an international group of companies operating
+in the life science industry, specifically pharmaceuticals, agriculture and animal
+health. Since December 1999, Hoechst has 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+l
+entities. Accordingly, Clariant AG benefits from Clariant GmbH’s leniency
+application.
+
+-Atofina and Akzo
+
+(333) Neither Atofina or Akzo were the first to provide the Commission with decisive
+information on the MCAA cartel. Consequently, neither undertaking can benefit from
+Section B of the Leniency Notice and a very substantial reduction in the fine.
+
+Substantial reduction in a fine (“Section C”)
+
+-Atofina and Akzo
+
+(334) Again, neither Atofina or Akzo were the first to provide the Commission with decisive
+information on the MCAA cartel. Because they failed to satisfy point (b) of Section B
+neither undertaking can benefit from Section C of the Leniency Notice and a
+substantial reduction in the fine.
+
+Significant reduction of a fine (“Section D”)
+
+(335) Both Atofina and Akzo co-operated with the Commission. The extent of their cooperation is considered below to assess their level of entitlement to a significant
+reduction in the fine. Undertakings qualifying under this section may benefit from a
+reduction of 10-50% of the fine that would otherwise have been imposed in the
+absence of such cooperation.
+
+-Atofina
+
+(336) Atofina closely cooperated with the Commission, submitting information and evidence
+on 3 May 2000 and 26 May 2000 soon after the start of the Commission’s
+investigation into the MCAA cartel. Atofina’s leniency application therefore enables
+the company to benefit from Section D of the Leniency Notice.
+
+(337) Atofina qualifies for a significant reduction in a fine as it was the second undertaking
+to provide the Commission, before the Statement of Objections was issued, with
+information and evidence that materially contributed to the establishment of the
+existence of the MCAA cartel.
+
+(338) Additionally, Atofina did not contest the facts that the Commission relied upon to
+establish the existence of the MCAA cartel in its Statement of Objections.
+
+(339) The Commission concludes that Atofina fulfils the conditions set out in the first and
+second indent of point 2 of Section D of the Leniency Notice.
+
+(340) The information and evidence provided by Atofina was detailed and extensively relied
+upon by the Commission in this decision. In order to fully take into account the value
+
+EN EN
+
+of the information given in relation to the cartel arrangements, and the fact that
+Atofina did not contest the facts, the Commission will accordingly grant a 40%
+reduction of the fine that would have been imposed if it had not co-operated with the
+Commission.
+
+-Elf Aquitaine
+
+(341) In its reply to the Statement of Objections Elf Aquitaine SA submitted that it should be
+covered by the leniency application made by its subsidiary, Atofina. The Commission
+accepts this argument. Both Elf Aquitaine and Atofina are part of a single economic
+entity. Indeed, Atofina is owned for 98% by Elf Aquitaine since 1984. In this instance,
+therefore, there is a clear economic link between the two legal entities. Accordingly,
+Elf Aquitaine benefits from Atofina’s leniency application.
+
+-Akzo
+
+(342) Akzo qualifies for a significant reduction in a fine as it was the third undertaking to
+provide the Commission, before the Statement of Objections was issued, with
+information and evidence that corroborated the existence of the MCAA cartel. This
+was principally in the form of a memorandum submitted by Akzo on 25 July 2001, as
+supplemented by its memoranda of 21 December 2001 and 21 February 2003 along
+with supporting documents. Akzo’s leniency application enables the company to
+benefit from Section D of the Leniency Notice.
+
+(343) Furthermore, Akzo did not contest the facts that the Commission relied upon to
+establish the existence of the MCAA cartel in its Statement of Objections.
+
+(344) The Commission concludes that Akzo fulfils the conditions set out in the first and
+second indent of point 2 of Section D of the Leniency Notice.
+
+(345) The information and evidence provided by Akzo was detailed and has been relied
+upon by the Commission in this Decision. In order to fully take into account the value
+of the information given in relation to the cartel arrangements, and the fact that Akzo
+did not contest the facts, the Commission will accordingly grant a 25% reduction of
+the fine that would have been imposed if it had not co-operated with the Commission.
+
+(346) Akzo is entitled to a lesser reduction than Atofina as it was the third undertaking to
+provide information and evidence to the Commission.
+
+Conclusion on the application of the Leniency Notice
+
+(347) In conclusion, with regard to the nature of their co-operation and in the light of the
+1996 Leniency Notice, the following addresses of this Decision should be granted
+reductions of their respective fines as follows:
+
+- Clariant AG/Clariant GmbH: a reduction of 100%
+
+- Atofina/Elf Aquitaine: a reduction of 40%
+
+- Akzo (meaning Akzo Nobel Chemicals BV, Akzo Nobel Nederland BV, Akzo Nobel
+NV, Akzo Nobel Functional Chemicals BV, Akzo Nobel Base Chemicals AB, Eka Chemicals
+AB, Akzo Nobel AB): a reduction of 25%
+
+EN EN
+
+5. The final amounts of the fines imposed in these proceedings
+
+(348) In conclusion, the fines to be imposed, pursuant to Article 15(2) of Regulation No 17
+and Article 23(2) of Regulation (EC) No 1/2003, should be as follows:
+
+- Akzo Nobel Chemicals BV, Akzo Nobel Nederland BV, Akzo Nobel NV, Akzo
+Nobel Functional Chemicals BV, Akzo Nobel Base Chemicals AB, Eka Chemicals AB, and
+Akzo Nobel AB: EUR 84,38 million
+
+- Hoechst AG: EUR 74,03 million
+
+- Elf Aquitaine SA and Arkema SA (formerly known as Atofina SA), jointly and
+severally liable: EUR 45,00 million
+
+- Arkema SA (formerly known as Atofina SA): EUR 13,50 million
+
+- Clariant AG and Clariant GmbH jointly and severally liable: EUR 0
+
+(349) Akzo Nobel Base Chemicals AB, Eka Chemicals AB and Akzo Nobel AB should be
+held jointly and severally liable up to an amount of EUR 50,63 million. The other
+Akzo companies listed in recital 348 should be held jointly and severally liable for the
+full amount of the fine.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings infringed Article 81 of the Treaty by allocating volume quotas,
+allocating customers, agreeing concerted price increases, agreeing on a compensation
+mechanism, exchanging information on sales volumes and prices, and, participating in regular
+meetings and other contacts to agree and implement the above restrictions. The following
+undertakings’ behaviour also constituted an infringement of Article 53(1) of the EEA
+Agreement as from 1 January 1994.
+
+(a) Akzo Nobel Chemicals BV, Akzo Nobel Functional Chemicals BV, Akzo Nobel
+Nederland BV and Akzo Nobel NV, from 1 January 1984 to 7 May 1999;
+
+(b) Akzo Nobel Base Chemicals AB, Eka Chemicals AB and Akzo Nobel AB, from 15
+June 1993 to 7 May 1999;
+
+(c) Hoechst AG, from 1 January 1984 to 31 June 1997;
+
+(d) Elf Aquitaine and Arkema SA (formerly known as Atofina SA), from 1 January 1984
+to 7 May 1999;
+
+(e) Clariant AG, Clariant GmbH, from 1 July 1997 to 7 May 1999.
+
+EN EN
+
+Article 2
+
+For the infringements referred to in Article 1, the following fines are imposed:
+
+(a) Akzo Nobel Chemicals BV, Akzo Nobel Nederland BV, Akzo Nobel NV, Akzo
+Nobel Functional Chemicals BV, Akzo Nobel Base Chemicals AB, Eka Chemicals
+AB and Akzo Nobel AB EUR 84,38 million;
+
+(b) Hoechst AG EUR 74,03 million;
+
+(c) Elf Aquitaine SA and Arkema SA (formerly known as Atofina SA) jointly and
+severally EUR 45,00 million;
+
+(d) Arkema SA (formerly known as Atofina SA) EUR 13,50 million;
+
+(e) Clariant AG and Clariant GmbH jointly and severally EUR 0.
+
+Akzo Nobel Base Chemicals AB, Eka Chemicals AB and Akzo Nobel AB shall be
+jointly and severally liable for payment of the fine imposed in point (a) of the first
+paragraph, up to an amount of EUR 50,63 million. The other Akzo companies listed in
+that point shall be jointly and severally liable for the full amount of the fine.
+
+The fines shall be paid in euro, within three months of the date of the notification of this
+Decision to the following account:
+
+Account N°
+
+001-3953713-69 of the European Commission with FORTIS BANK SA, Rue
+Montagne du Parc, 3 at B-1000 Brussels (IBAN Code: BE71 0013 9537 1369;
+SWIFT Code: GEBABEBB)
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month
+in which this Decision was adopted, plus 3,5 percentage points, i.e. 5,59%.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+1. Akzo Nobel NV
+
+EN EN
+
+Velperweg 76
+
+NL - 6824 BM Arnhem
+
+The Netherlands
+
+2. Akzo Nobel Nederland BV
+
+Velperweg 76
+
+NL - 6826 BM Arnhem
+
+The Netherlands
+
+3. Akzo Nobel AB
+
+Sickla industrieväg 6, nacka
+
+SE – 100 61 Stockholm
+
+Sweden
+
+4. Akzo Nobel Chemicals BV
+
+Stationsplein 4
+
+NL – 3800 AE Amersfoort
+
+The Netherlands
+
+5. Akzo Nobel Functional Chemicals BV
+
+Barchman Wuytierslaan 10
+
+NL – 3800 AE Amersfoort
+
+The Netherlands
+
+6. Akzo Nobel Base Chemicals AB
+
+Anholmen
+
+EN EN
+
+SE – 663 29 Skoghall
+
+Sweden
+
+7. Eka Chemicals AB
+
+SE – 44580 Bohus
+
+Sweden
+
+8. Hoechst AG
+
+Legal Department
+
+K703
+
+Industriepark Hoechst
+
+D – 65926 Frankfurt-am-Main
+
+Germany
+
+9. Elf Aquitaine SA
+
+2, place de la Coupole
+
+La Défense
+
+F – 92078 Paris
+
+France
+
+10. Arkema SA (formerly known as Atofina SA)
+
+4-8 cours Michelet
+
+La Défense 10
+
+F – 92800 Puteaux
+
+France
+
+11. Clariant AG
+
+EN EN
+
+Rothausstrasse 61
+
+CH – 4132 Muttenz 1
+
+Switzerland
+
+12. Clariant GmbH
+
+Am Unisyspark 1
+
+D – 65843 Sulzbach/Taunus
+
+Germany
+
+This Decision shall be enforceable pursuant to Article 256 of the EC Treaty and Article 110
+of the EEA Agreement.
+
+Done at Brussels,
+
+For the Commission
+Neelie Kroes
+Member of the Commission
+
+EN EN

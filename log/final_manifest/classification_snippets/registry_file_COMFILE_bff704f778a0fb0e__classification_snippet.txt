@@ -1,0 +1,134 @@
+EUROPEAN COMMISSION
+COMPETITION DG
+
+The Director-General
+
+Brussels, 8 July 2021
+COMP.G.4/GM
+
+[addressee]
+
+Subject: Case AT.40178 – Car Emissions
+
+Dear Sir, Dear Madam,
+
+on 8 July 2021, the Commission adopted a decision in the cartel investigation referred to
+in the subject line. The decision concerns anti-competitive behaviour in connection with
+the development of selective catalytic reduction (SCR)-systems for diesel passenger cars.
+The anti-competitive conduct took place from 25 June 2009 to 1 October 2014 (‘the
+relevant period’). The conduct involved five German car manufacturers: Daimler AG
+(‘DAIMLER’), Volkswagen group with its operative group companies Volkswagen AG
+(‘Volkswagen’), Audi AG (‘Audi’) und Dr. Ing. h.c. F. Porsche AG (‘Porsche’)
+(Volkswagen, Audi and Porsche together ‘VW’) and BMW AG (‘BMW’).
+DAIMLER, VW and BMW (together ‘the Parties’) coordinated their market conduct in
+respect of SCR-systems used in passenger cars with diesel engine. They coordinated
+AdBlue tank sizes and ranges between two refills and exchanged information about
+assumed average AdBlue-consumption for the European Economic Area (‘EEA‘). The
+conduct was by its very nature capable of restricting competition with regard to product
+characteristics of their new diesel passenger car models relating to AdBlue tank sizes and
+refill ranges and relating to NOx-cleaning beyond regulatory requirements and, thereby,
+of limiting technical development in the field of NOx-cleaning with SCR-systems for
+new diesel passenger cars in the EEA and of limiting customer choice.
+
+DAIMLER, VW and BMW discussed a number of topics and aspects relevant for the
+development of SCR-systems. The decision of 8 July 2021 concerns only the conduct set
+out in it (and summarised above).
+With regards to the other areas of cooperation between DAIMLER, VW (or Volkswagen
+and Audi) and BMW in relation to the development of SCR-systems DG Competition
+sees no reason to further investigate as competition law infringement the following
+conduct, after having assessed the information available to it:
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu.
+
+- the joint development of a software platform for AdBlue dosing as such;
+Relevant reasons are that:
+
+ the actual use of the software platform rests on a data application
+(„Bedatung“) for the specific car model, which each car manufacturer
+implements individually; and
+ it is not apparent that the joint development of the software platform as
+such restricts the effectiveness of SCR-systems.
+
+- the decision to focus joint development on liquid SCR-systems;
+Relevant reasons are that:
+
+ the undertakings involved remain free to develop other SCR-technologies
+and bring them to the market; and
+ the undertakings involved remain free to develop other NOx-cleaning
+technologies than SCR-systems and bring them to the market.
+
+- the standardisation of the AdBlue filler neck;
+
+Relevant reasons are that:
+ the standardisation of the AdBlue filler neck enables the use of uniform
+refill bottles and pumps and therefore leads to considerable efficiency
+enhancements and cost savings, since for refilling AdBlue, all bottles on
+sale can be selected and all AdBlue pumps can be used; and
+
+ it is not apparent that standardised AdBlue filler necks have a negative
+impact on the effectiveness of SCR-systems.
+
+- the joint preparation of charge sheets for parts of SCR-systems;
+
+Relevant reasons are that:
+ the jointly prepared charge sheets set minimum quality requirements and
+that each party remains free to define further-reaching requirements; and
+ the jointly prepared charge sheets concern parts of SCR-systems and it is
+not apparent that they determine or restrict the effectiveness of SCRsystems.
+
+- the discussion of quality standards for AdBlue;
+
+Relevant reasons are that:
+ quality standard requirements for AdBlue enable AdBlue producers to
+offer a product suitable for all diesel passenger cars equipped with liquid
+SCR-systems; and
+ it is not apparent that quality standards for AdBlue have a negative impact
+on the effectiveness of SCR-systems.
+
+- the discussion of warning strategies aimed at ensuring the timely refill of
+AdBlue;
+
+Relevant reasons are that:
+
+2
+
+ it is not apparent that the AdBlue warning strategy would constitute a
+relevant criterion of differentiation for customers when selecting a diesel
+passenger car; and
+ a standardised warning strategy can be advantageous for customers when
+switching cars.
+
+- the discussion of the build-up of an appropriate infrastructure for AdBluesupply;
+
+Relevant reasons are that:
+ the car manufacturers require solutions for refilling AdBlue to bring diesel
+passenger cars with SCR-systems to the market;
+ for customer refill an adequate refill infrastructure must be put in place;
+ this applies to the extent that data required for determining the AdBlue
+demand to be expected are only shared in anonymised and aggregated
+form.
+
+- the discussion and preparation of a common position of the car manufacturers
+concerning future legislative proposals concerning car emission cleaning;
+
+Relevant reason is that
+
+ the discussion and preparation of a common position are limited to
+influencing future legislative measures and must not be used to coordinate
+market conduct.
+For further advice on compliant shaping of cooperation between competitors, see
+Regulation No. 1217/2010 of 14 December 2010 on the application of Article 101(3) of
+the Treaty (OJ L 335, 18.12.2010, p. 36) and the Commission Notice on the application
+of Article 101 of the Treaty on horizontal cooperation (OJ C 11, 14.1.2011, p. 1).
+
+This letter reflects the views of DG Competition as Commission service in charge of
+competition and does not constitute a Commission decision.
+
+Yours faithfully,
+
+Olivier GUERSENT
+
+3

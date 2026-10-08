@@ -1,0 +1,221 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52019XC1106(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52019XC1106(02)
+Help
+Print
+Summary of Commission Decision of 18 July 2019 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39711 — Qualcomm (predation)) (notified under document C(2019) 5361) (Only the English text is authentic) (Text with EEA relevance) 2019/C 375/07
+Summary of Commission Decision of 18 July 2019 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39711 — Qualcomm (predation)) (notified under document C(2019) 5361) (Only the English text is authentic) (Text with EEA relevance) 2019/C 375/07
+Summary of Commission Decision of 18 July 2019 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39711 — Qualcomm (predation)) (notified under document C(2019) 5361) (Only the English text is authentic) (Text with EEA relevance) 2019/C 375/07
+C/2019/5361
+OJ C 375, 6.11.2019, pp. 25–27
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+6.11.2019
+EN
+Official Journal of the European Union
+C 375/25
+Summary of Commission Decision
+of 18 July 2019
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case AT.39711 — Qualcomm (predation))
+(notified under document C(2019) 5361)
+(Only the English text is authentic)
+(Text with EEA relevance)
+(2019/C 375/07)
+On 18 July 2019, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003,
+(
+1
+)
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+Introduction
+(1)
+The Decision establishes that Qualcomm Inc. (‘Qualcomm’) infringed Article 102 of the Treaty on the Functioning of the European Union (‘TFEU’) and Article 54 of the Agreement on the European Economic Area (‘EEA Agreement’) by supplying certain quantities of three of its UMTS chipsets below cost with the intention of eliminating Icera, its main competitor at the time in the market segment offering advanced data rate performance (‘leading edge segment’).
+(2)
+The infringement lasted from 1 July 2009 to 30 June 2011.
+(3)
+On 5 July 2019 and 15 July 2019, the Advisory Committee on Restrictive Practices and Dominant Positions issued favourable opinions on the Decision pursuant to Article 7 of Regulation (EC) No 1/2003 and on the fine imposed on Qualcomm.
+2.
+Market definition
+(4)
+The Decision concludes that the relevant product market is the merchant market of baseband chipsets that are compliant with the UMTS standard (‘UMTS chipsets’).
+(5)
+The Decision concludes that the market for UMTS chipsets is worldwide in scope.
+3.
+Dominance
+(6)
+The Decision finds that Qualcomm held a dominant position in the worldwide market for UMTS chipsets at least from 1 January 2009 to 31 December 2011.
+(7)
+First, Qualcomm held a value-based market share of around 60 % in the worldwide market for UMTS chipsets during that period.
+(8)
+Second, the worldwide market for UMTS chipsets is characterised by the existence of a number of barriers to entry and expansion (e.g. significant initial investments in research and development to design UMTS chipsets and various barriers related to Qualcomm’s intellectual property rights).
+(9)
+Third, the commercial strength of Qualcomm’s chipset customers was not capable of affecting Qualcomm’s dominant position during that period.
+4.
+Abuse of a dominant position
+(10)
+The Decision establishes that Qualcomm abused its dominant position by supplying certain quantities of three of its UMTS chipsets (the MDM8200, MDM6200 and MDM8200A based chipsets) to two of its key customers, Huawei and ZTE, below cost with the intention of eliminating Icera, its main competitor at the time in the leading edge segment of the UMTS chipset market.
+(11)
+By containing Icera’s growth at the two key customers in this segment, which consisted at the time almost exclusively of chipsets used in mobile broadband devices, Qualcomm intended to prevent Icera, a small and financially constrained start-up, from gaining the reputation and scale necessary to challenge Qualcomm’s dominance in the UMTS chipset market, in particular in view of the expected growth potential of the leading edge segment due to the global take-up of smart mobile devices, thus depriving original equipment manufacturers in this segment from access to an alternative source of chipsets for their mobile phones and reducing consumer choice.
+(12)
+Qualcomm’s pricing practices took place in the context of Icera increasing its market traction as a viable supplier of leading edge UMTS chipsets which posed a growing threat to Qualcomm’s chipset business. To make sure that Icera’s business could not reach a size critical to Qualcomm’s market position, Qualcomm took preventive actions in the form of price concessions targeted at two strategically important customers, Huawei and ZTE, because it considered that Icera’s development prospects were dependent on its ability to establish a business relationship with either of these companies. Qualcomm’s preventive actions were based on a multi-chipset strategy covering its three leading edge chipsets that competed with Icera’s most advanced chipsets at the time, which aimed in particular at protecting Qualcomm’s strong position in the high-volume segment of chipsets for use in mobile phones, which Icera was planning to enter once it would have gained a foothold in the segment of chipsets for use in mobile broadband devices.
+(13)
+The analysis of the prices charged by Qualcomm to Huawei and ZTE and Qualcomm’s costs for the manufacturing of these chipsets demonstrates that Qualcomm sold certain amounts of these chipsets below long-run average incremental costs, and, in any case, below average total costs, as well as a limited amount of MDM6200 based chipsets below average variable costs. The results of the price-cost test are consistent with contemporaneous Qualcomm internal evidence that demonstrates Qualcomm’s exclusionary intent
+vis-à-vis
+Icera.
+(14)
+The Decision concludes that Qualcomm did not provide a valid objective justification or efficiency defence for its conduct.
+(15)
+The Decision concludes that Qualcomm’s predatory sales towards Huawei and ZTE form, taken together, a single and continuous infringement.
+5.
+Jurisdiction
+(16)
+The Decision concludes that the Commission has jurisdiction to apply Article 102 TFEU and Article 54 of the EEA Agreement to Qualcomm’s infringement, since it was both implemented and capable of having substantial, immediate and foreseeable effects in the EEA.
+6.
+Effect on trade
+(17)
+The Decision concludes that Qualcomm’s conduct had an appreciable effect on trade between Member States and between the Contracting Parties to the EEA.
+7.
+Fines and remedies
+(18)
+At the time of the adoption of the Decision, Qualcomm’s infringement had come to an end. The Decision, however, requires Qualcomm to refrain from repeating the conduct described in the Decision and from any act or conduct that would have the same or an equivalent object or effect as the conduct described in the Decision.
+(19)
+The fine imposed on Qualcomm for the infringement is calculated on the basis of the principles laid out in the 2006 Guidelines on the method of setting fines imposed pursuant to Article 23(2)(a) of Regulation (EC) No 1/2003. The Decision concludes that the final amount of the fine to be imposed on Qualcomm should be EUR 242 042 000.
+(
+1
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+Top

@@ -1,0 +1,464 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(Case COMP/39.386 – Long-term contracts France)
+
+(Only the French text is authentic)
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 18 July 2007 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Statement of Objections dated 19 December 2008,
+
+Having given third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Council Regulation (EC) No 1/2003 on the commitments offered to
+address these concerns2,
+
+Having consulted the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer3,
+
+Whereas:
+
+1. SUBJECT
+
+(1) This Decision concerns EDF S.A., its subsidiaries, in particular Electricité de
+Strasbourg S.A., and the undertakings that they control (taken together, 'EDF')
+and concerns EDF's behaviour in the French market for the supply of electricity to
+large industrial customers.
+
+(2) In its Statement of Objections dated 19 December 2008, the Commission
+concluded provisionally that EDF holds a dominant position in the market for the
+supply of electricity to large industrial customers in France. The Commission's
+preliminary assessment, as set out in the Statement of Objections, is that EDF may
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty
+became Articles 101 and 102 of the Treaty on the Functioning of the European Union ("TFEU").
+In both cases, the substance of the two provisions remained identical. For the purposes of this
+Decision, references to Articles 101 and 102 TFEU should be taken to mean Articles 81 and 82
+of the EC Treaty where appropriate.
+2 OJ C 262, 4.11.2009, p. 32.
+3 Final Report of the Hearing Officer in Case COMP/39.386 Long-term Contracts France of
+3 March 2010.
+
+2
+
+have abused its dominant position within the meaning of Article 102 of the Treaty
+on the Functioning of the European Union (hereafter "the TFEU")4:
+
+– by concluding supply contracts which, by virtue of their scope, i.e. the total
+volume covered by all the contracts, their duration and their nature, significantly
+limit the possibilities for other undertakings to conclude contracts for the supply of
+electricity with large industrial customers in France as the principal or secondary
+supplier;
+
+– by including resale restrictions in its supply contracts with large industrial
+customers.
+
+(3) The Commission considers that the effect of these practices has been to impede the
+entry of alternative suppliers to the French market and exacerbate the lack of
+liquidity in the trading market, thereby delaying the effective liberalisation of the
+electricity market.
+
+2. ADDRESSEES
+
+(4) EDF S.A. is the incumbent operator in electricity markets in France. The company
+is the parent company of the EDF group. Under French law, the French State is
+the majority shareholder in EDF and must hold at least 70% of EDF's share
+capital. On 31 December 2008 it held 84.7 % of the capital and of the voting
+rights. Through EDF S.A. and the companies that it controls directly or indirectly,
+EDF is involved in a number of activities in France and the rest of the world.
+
+(5) In 2008 EDF generated 53.3% of its consolidated turnover in France. Its activities
+in the country comprise the generation, transmission (via its subsidiary RTE, the
+transmission network operator), distribution, supply and trading of electricity.
+EDF has stated that EDF S.A. controls, directly or indirectly, a number of
+companies that are currently active in French electricity markets (independently of
+whether or not the companies are established in France).
+
+(6) In particular, EDF S.A. has an 89 % controlling stake in Electricité de Strasbourg
+S.A. the only company owned by EDF that is also active in France in the retail
+supply market, in particular to large industrial customers. The company distributes
+electricity to local authorities in the Bas-Rhin département under concessionary
+contracts.
+
+3. PROCEEDINGS UNDER REGULATION (EC) NO 1/2003
+
+(7) On 7 November 2006 the Commission sent EDF a request for information
+concerning its supply contracts concluded with large industrial customers. The
+information requested concerned, in particular, the contract volumes per customer
+
+4 References in this Decision to Article 102 TFEU should be taken to mean references to
+Article 102 TFEU and Article 54 of the EEA Agreement.
+
+3
+
+and the minimum annual quantities that each customer undertakes to buy from
+EDF, the volumes of electricity actually bought, and the duration of the contracts.
+
+(8) On 18 July 2007 the Commission notified EDF that it had initiated proceedings
+under Article 2(1) of Commission Regulation (EC) No 773/2004 of 7 April 2004
+relating to the conduct of proceedings by the Commission pursuant to Articles 81
+and 82 of the EC Treaty5 and Article 11(6) of Regulation (EC) No 1/2003.
+Following the initiation of proceedings, a detailed investigation was carried out,
+including in particular requests for information sent to EDF and to third parties
+that were considered useful for the investigation of the case.
+
+(9) By letter dated 24 April 2008 the Hearing Officer informed the company Iberdrola
+that it had shown a sufficient interest to justify being recognised as a third party
+within the meaning of Article 27(3) of Regulation (EC) No 1/2003. Likewise,
+Union des Industries Utilisatrices d'Energie (UNIDEN), and the companies
+KalibraXE, Rhodia Energy, Solvay Energie France, Rio Tinto Alcan and
+UPM-Kymmene were subsequently recognised as third parties within the meaning
+of the same Article by letters dated 10 February 2009 (KalibraXE), 9 March 2009
+(UNIDEN), 25 March 2009 (Rhodia Energy, Solvay Energie France, Rio Tinto
+Alcan) and 31 March 2009 (UPM-Kymmene) respectively.
+
+(10) On 19 December 2008 the Commission adopted a Statement of Objections in
+accordance with Article 27(1) of Regulation (EC) No 1/2003 and Article 10(1) of
+Regulation (EC) No 773/2004, which sets out its concerns regarding the
+compatibility of EDF's behaviour in the French market for the supply of electricity
+to large industrial customers with the competition rules. The Statement of
+Objections was notified to EDF S.A. and Electricité de Strasbourg S.A. on
+23 December 2008.
+
+(11) On 4 March 2009 (Electricité de Strasbourg S.A.) and on 9 March 2009 (EDF
+S.A.) EDF submitted written observations on the Commission's Statement of
+Objections and expressed disagreement with its main findings.
+
+(12) On 2 April 2009 a hearing was held, during which EDF and three of the third
+parties (Iberdrola, KalibraXe and UNIDEN) presented their arguments orally.
+Following the hearing, EDF, Iberdrola, KalibraXe, Rhodia Energy, Solvay Energie
+France and UNIDEN submitted written observations to the Commission.
+
+(13) On 14 October 2009 EDF proposed commitments to address the concerns
+identified by the Commission in its Statement of Objections.
+
+(14) On 4 November 2009 a notice pursuant to Article 27(4) of
+Regulation (EC) No 1/2003 was published in the Official Journal of the European
+Union summarising the case and the proposed commitments, and inviting
+interested third parties to submit their comments on the commitments no later than
+one month following the date of publication of the notice.
+
+5 OJ L 123, 27.04.2004, p. 18
+
+4
+
+(15) On 10 and 14 December 2009 the Commission notified EDF of the comments
+received from interested third parties following publication of the notice. On 5
+February 2010 EDF proposed amended commitments.
+
+(16) On 1 March 2010 the Advisory Committee on Restrictive Practices and Dominant
+Positions was consulted. On 3 March 2010 the Hearing Officer submitted his final
+report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+4.1.1. Relevant product markets
+
+(17) In accordance with its previous decision-making practice concerning the electricity
+sector, the Commission has identified three distinct markets for the retail supply of
+electricity to final customers6: (i) the supply of electricity to large industrial and
+commercial customers; (ii) the supply of electricity to small industrial and
+commercial customers; and (iii) the supply of electricity to residential customers;
+
+(18) With regard, more specifically, to the market for the supply of large industrial and
+commercial customers, the Commission drew a distinction in its Statement of
+Objections between customers who have exercised their eligibility and other
+customers7, a distinction that is supported by the French energy regulator (La
+Commission de régulation de l'énergie, hereafter "the CRE") and the French
+competition authority8. The relevant market concerns only those customers who
+have exercised their eligibility. This distinction is justified by a number of features
+specific to the regulated sector and to the price differentials between the regulated
+tariff and the price at which alternative suppliers are able to supply their electricity.
+The result is that consumers who are currently supplied under the regime of
+regulated prices have little or no incentive to accept an offer from an alternative
+supplier, even in the case of small but non-transitory variations in the regulated
+tariff and in the market price for those customers who have exercised their
+eligibility.
+
+(19) In order to differentiate large customers who have exercised their eligibility from
+smaller customers, the Commission took the view that a distinction should be
+made on the basis of the volume of consumption, and that the relevant market
+should be limited to the supply of large customers for sites with an annual
+consumption of 7 GWh or more9. This threshold is one of the consumption
+
+6 See in particular Case COMP/M. 4180 GDF/SUEZ.
+7 See also Case COMP/M. 4180 GDF/SUEZ.
+8 See in particular Case COMP/M. 4180 GDF/SUEZ, paragraphs 346-353. The decision-making
+practice of the French competition authority is comparable to that of the Commission. See in
+particular Decision 07-MC-04 of 28 June 2007 on a request by Direct Energie for interim
+measures.
+9 Given the high level of consumption in question, these customers are classified as large
+industrial customers in the Statement of Objections and in this Decision.
+
+5
+
+thresholds laid down in French legislation to define the eligibility criteria when
+transposing Community legislation. Customers whose consumption exceeds this
+threshold are easily identified by suppliers and receive specific contract offers.
+Arbitrage by customers between the different contract conditions addressed to the
+different categories of customers is not possible because of the existence of resale
+restrictions in the contracts. In addition, the much higher consumption volumes of
+the large industrial customers, and the specific features of their profile, require
+larger operators with their own generating capacity. Suppliers who are active in
+the market for large industrial customers are very different from those who operate
+in the market for small customers. Given the barrier to entry represented by access
+to generating capacity in the French market, the Commission concluded that a
+small but non-transitory increase in price in the market for large industrial
+customers would not be reflected by the entry to that market of suppliers who are
+currently active in the market for the supply of small customers.
+
+(20) The Commission nonetheless took the view that it was not necessary to
+distinguish, within the relevant market, between undertakings benefiting from the
+tarif réglementé transitoire d’ajustement du marché (transitory regulated tariff for
+market-adjustment, hereafter "TarTAM") and undertakings which do not benefit
+from it. Although the effect of this mechanism has been to reduce switching
+between suppliers on large and medium-sized sites10 and to limit price competition
+in the free market, to the extent that the TarTAM price is lower than the market
+price, switching supplier in the free market is a real possibility, which was
+moreover used in 2007 by a significant number of the large industrial customers
+supplied at the TarTAM tariff. The Commission therefore takes the view that
+contracts at market price are substitutable products for consumers supplied on the
+TarTAM tariff. All suppliers in the free market are able to propose the benefit of
+TarTAM to their customers, and the mechanism leaves all contract clauses apart
+from price unchanged. A customer on TarTAM may therefore wish to switch
+supplier to benefit from a more flexible contract, with more favourable payment or
+other clauses. Moreover, the supply price becomes a selection criterion again
+during the final period of the contract because many customers consult electricity
+suppliers about periods extending beyond the date when TarTAM ceases to apply.
+
+(21) In its Statement of Objections, the Commission excluded from the relevant market
+the supply of electricity to compensate for network losses, which was supported in
+particular by CRE, given the differences in the characteristics between these two
+markets on both the supply and demand sides. It also excluded from the relevant
+market auto-consumption, i.e. consumption by a firm, usually an industrial firm, of
+electricity that it generates itself as part of its main industrial production process.
+The Commission concluded that even in the case of small but non-transitory price
+variations in the market for the supply of large industrial customers, the electricity
+produced by the firms themselves would not be offered in the market for the
+supply of large industrial customers for reasons related, in particular, to the
+opportunity cost of such resale, to specific constraints on the main production
+process and the market in which the production is marketed, and to the difficulties
+
+10 CRE Annual Report, June 2007 (p. 80).
+
+6
+
+associated with establishing a marketing activity for the retail sale of electricity
+that would allow the firm to sell to large industrial customers.
+
+(22) The relevant market retained by the Commission in the Statement of Objections is
+therefore the market for the supply of electricity to the sites of large industrial
+customers who have exercised their eligibility and whose annual consumption is 7
+GWh or more, excluding purchases by network operators to offset network losses
+and auto-consumption.
+
+4.1.2. Relevant geographic market
+
+(23) In line with its previous decision-making practice11, and like the French
+competition authority12, the Commission took the view in its Statement of
+Objec
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+f its market share over time and, more generally, its established position
+with large industrial customers. A relatively strict threshold is therefore necessary
+so that EDF is not released from its commitments until it becomes evident that
+they are no longer necessary. However, the Commission takes the view that a
+reduction in EDF's market share to 40% would justify the non-application of the
+commitments in the succeeding year and that, if the reduction in market share
+would be sustained in a non occasional manner (over two consecutive years), it
+would necessarily result in a significant change to the competition conditions in the
+relevant market and the retention of the commitments would therefore not be
+justified.
+
+(90) In the light of the above, it does not seem relevant or necessary to reduce the
+threshold or to add a supplementary threshold concerning the difference in market
+share between EDF and its main competitor.
+
+21 In its Decision of 11 October 2007 in Case COMP/37966 – Distrigaz, the threshold adopted was
+as follows: either the company's market share fell to 40% or less, or the difference between the
+market share of Distrigaz and its main competitor was below 20%.
+
+19
+
+7.3. Commitments concerning the deletion of resale restriction clauses
+
+(91) EDF's proposed commitments are a necessary and proportionate response to the
+concerns expressed by the Commission in its Statement of Objections concerning
+resale restrictions imposed by EDF in its supply contracts concluded with large
+industrial customers.
+
+(92) In order to respond to the Commission's concerns, it was first necessary to have a
+guarantee that the restrictions would disappear for both future and existing
+contracts. EDF has therefore undertaken to change its general and specific
+conditions of sale to reflect the absence of resale restrictions in its contractual
+relations with large industrial customers in future. With regard to ongoing
+contracts, this undertaking is supplemented by EDF providing systematic
+information to its large industrial customers that any clause in the contract
+documentation whose purpose or effect is to restrict the possibility of them
+reselling electricity supplied by EDF will be deemed null and void, and that such
+resale is no longer restricted. This information will immediately clarify the situation
+for the customers in question.
+
+(93) In order to remedy the effects of imposing clauses restricting resale in its supply
+contracts, EDF has given a positive undertaking to facilitate the resale of
+electricity by its customers in addition to no longer restricting the resale by its
+large industrial customers of the electricity it supplies to them. Thus a large
+industrial customer will be able to ask EDF to substitute the contractually defined
+power withdrawal point by one or more other power withdrawal points to which
+certain contracted volumes will be distributed by EDF. A large industrial customer
+will therefore be able to ask EDF to distribute certain volumes of electricity to the
+site of another large industrial customer to which he has sold certain volumes,
+conditional on compliance with the technical and regulatory constraints relating to
+this type of transaction.
+
+(94) It should be noted that, following the comments received by the Commission, it
+appeared necessary to strengthen a number of aspects of the proposed
+commitments in order to ensure their effectiveness. First, the distinction between
+the 'negative' commitment not to restrict resale by large industrial customers of
+electricity bought from EDF (resale to another customer, whether industrial or not,
+or in the wholesale market) and the positive commitment for EDF to reroute
+electricity to one or more other power withdrawal points, has been clarified.
+
+(95) Second, due to the comments received, certain clarifications have been provided to
+reduce the possibility of EDF side-stepping or overturning its commitments. In
+particular, it has been made clear that the availment of the resale possibility by a
+large industrial customer will not give rise to the imposition of any costs or
+penalty, whether direct or indirect, such as the loss of an advantage for the large
+industrial customer in the event of resale, for example. With the same objective,
+EDF has also undertaken that the volumes resold by the customer are deemed to
+be bought and consumed under the contract(s) concluded with EDF. Thus, where
+the acquisition of certain advantages for the customer will be linked to a condition
+of volumes of electricity bought from EDF, the fact that those volumes are
+
+20
+
+consumed by the customer or resold to a third party will not have any impact,
+which guarantees greater effectiveness of the commitments.
+
+(96) Finally, following the comments received, the notice that EDF is entitled to require
+with regard to the substitution of one or more power withdrawal points for the
+power withdrawal point initially contracted for, has been spelled out. In order to
+avoid an excessively long notice period thwarting in practice the possibility of
+effective resale by a customer when his electricity needs fall temporarily, EDF has
+pledged that the notice period will not exceed what is technically necessary for
+EDF to make the necessary notifications to balance the system in good time.
+
+(97) Taking into account in the commitments the various technical constraints on EDF
+concerning its positive commitment to route the electricity bought by a large
+industrial customer, at his request, to a power withdrawal point other than that
+initially contracted for, it may be concluded that the proposed commitments are a
+proportionate solution to the competition concerns identified in the Statement of
+Objections by the Commission with regard to resale restrictions in EDF supply
+contracts.
+
+7.4. Commitments concerning monitoring of compliance with the commitments
+
+(98) EDF's commitment concerning monitoring of compliance with the commitments is
+necessary and sufficient to guarantee that EDF complies with its commitments.
+Market data, and in particular the volumes returned to the market every year, will
+have to be audited by an independent third party. On this basis, an annual report
+will be prepared by EDF and sent to the Commission and to the CRE.
+
+(99) The Commission takes the view that the audit of the EDF data, combined with
+monitoring by the Commission and the CRE on the basis of the annual report from
+EDF, and vigilance by market operators, is sufficient.
+
+(100) Moreover, it should be noted that the submission of the annual report to the CRE
+is fully consistent with the general objectives of the regulatory authorities under
+Article 36(g) of Directive 2009/72/EC, which is to ensure that customers benefit
+through the efficient functioning of their national market, to promote effective
+competition and to help to ensure consumer protection.
+
+7.5. Conclusion regarding the commitments
+
+(101) The commitments proposed by EDF will allow the foreclosure of the French
+market for the supply of electricity to large industrial customers in France to be
+ended in a proportionate manner and, consequently, guarantee a real possibility for
+customers of sourcing their electricity from alternative suppliers and for the latter
+to have a real possibility over a significant period of time of entering the market or
+expanding in the market. Moreover, the proposed commitments, by removing all
+restrictions on the resale of electricity supplied by EDF, and by facilitating such
+resale subject to certain conditions, will enable the customers in question to
+manage their supplies of electricity with more ease and flexibility and will, in the
+long term, boost the liquidity of the wholesale market in France.
+
+21
+
+(102) In view of the results of the public consultation carried out in accordance with
+Article 27(4) of Regulation EC No 1/2003, it appears that EDF's commitments, as
+modified, are appropriate and necessary to resolve the competition problems
+identified by the Commission in the French market for the supply of electricity to
+large industrial customers having exercised their eligibility.
+
+8. CONCLUSION
+
+(103) By adopting a decision under Article 9(1) of Council Regulation (EC) No 1/2003,
+the Commission makes the final commitments proposed by the undertakings
+concerned legally binding in order to resolve the competition problems identified in
+its Statement of Objections. This Decision does not take a position on the
+existence of any past or present infringement. The assessment carried out by the
+Commission to determine whether, while proportionate, the proposed
+commitments are enough to resolve the competition problems that it has identified,
+is based on the preliminary assessment which it carried out following its
+investigation and its analysis, and is set out in the Statement of Objections, and on
+the observations received from third parties following publication of a notice
+pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+
+(104) With regard to the final commitments proposed by EDF, the Commission takes the
+view that there is no longer any need for it to act and that the proceedings opened
+in this case must therefore be closed, without prejudice to the provisions of
+Article 9(2) of Regulation (EC) No 1/2003,
+
+22
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+In accordance with the scope of the commitments proposed by EDF S.A. for the entire
+EDF group, the commitments in annexe are rendered binding on EDF S.A., and the legal
+entities under its direct or indirect control, including its subsidiary Electricité de
+Strasbourg S.A.
+
+Article 2
+
+There is no longer any need for the Commission to act and the proceedings in this case
+shall be closed.
+
+Article 3
+
+This Decision is addressed to:
+
+- EDF S.A. 22-30, Avenue de Wagram F – 75382, Cedex 08; and,
+
+- Electricité de Strasbourg S.A. 26, boulevard du Président Wilson, F - 67953
+Strasbourg Cedex 9.
+
+Done at Brussels, For the Commission
+
+Joaquín ALMUNIA
+Vice-President of the Commission
+
+23

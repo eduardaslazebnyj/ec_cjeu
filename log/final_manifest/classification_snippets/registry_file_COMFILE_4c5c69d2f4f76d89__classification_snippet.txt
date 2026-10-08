@@ -1,0 +1,450 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40636 - SNBB
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 19/10/2023
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 19.10.2023
+C(2023) 6863 final
+
+COMMISSION DECISION
+
+of 19.10.2023
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40636 - SNBB
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION ....................................................................................................... 5
+2. THE RELEVANT INDUSTRY .................................................................................. 5
+2.1. The product ................................................................................................................. 5
+2.2. The market .................................................................................................................. 6
+2.3. The undertakings subject to the proceedings ............................................................... 6
+2.3.1. Alkaloids of Australia .................................................................................................. 6
+2.3.2. Alkaloids Corporation .................................................................................................. 6
+2.3.3. Boehringer .................................................................................................................... 7
+2.3.4. C2 PHARMA ............................................................................................................... 7
+2.3.5. Linnea ........................................................................................................................... 7
+2.3.6. Transo-Pharm ............................................................................................................... 8
+3. PROCEDURE .............................................................................................................. 8
+4. DESCRIPTION OF THE EVENTS ........................................................................... 10
+4.1. Objective .................................................................................................................... 10
+4.2. Scope of the conduct .................................................................................................. 10
+4.3. Nature of the conduct ................................................................................................. 11
+4.4. Geographic scope of the conduct ............................................................................... 12
+4.5. Duration ...................................................................................................................... 12
+5. LEGAL ASSESSMENT ........................................................................................... 13
+5.1. Jurisdiction ................................................................................................................. 13
+5.2. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 13
+5.2.1. Agreements and concerted practices .......................................................................... 13
+5.2.1.1. Principles .................................................................................................................... 13
+5.2.1.2. Application to this case .............................................................................................. 14
+5.2.2. Restriction of competition .......................................................................................... 14
+5.2.2.1. Principles .................................................................................................................... 14
+5.2.2.2. Application to this case .............................................................................................. 14
+5.2.3. Single and continuous infringement........................................................................... 15
+5.2.3.1. Principles .................................................................................................................... 15
+5.2.3.2. Application to this case .............................................................................................. 16
+5.2.4. Effect upon trade between Member States and between EEA Contracting Parties ... 17
+5.2.4.1. Principles .................................................................................................................... 17
+5.2.4.2. Application to this case .............................................................................................. 17
+
+EN 2 EN
+
+5.2.5. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement .................................................................................................................. 17
+5.2.5.1. Principles .................................................................................................................... 17
+5.2.5.2. Application in this case .............................................................................................. 18
+6. DURATION OF THE INFRINGEMENT ................................................................. 18
+7. LIABILITY ................................................................................................................ 18
+7.1. Principles .................................................................................................................... 18
+7.2. Application to this case .............................................................................................. 19
+7.2.1. Alkaloids of Australia ................................................................................................ 19
+7.2.2. Alkaloids Corporation ................................................................................................ 20
+7.2.3. Boehringer .................................................................................................................. 20
+7.2.4. C2 PHARMA ............................................................................................................. 20
+7.2.5. Linnea ......................................................................................................................... 21
+7.2.6. Transo-Pharm ............................................................................................................. 21
+8. REMEDIES ................................................................................................................ 21
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 21
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Fines ................................................. 22
+8.3. Calculation of the fines .............................................................................................. 22
+8.3.1. Value of sales ............................................................................................................. 23
+8.3.2. Determination of the basic amount of the fine ........................................................... 24
+8.3.2.1. Gravity ........................................................................................................................ 24
+8.3.2.2. Duration ...................................................................................................................... 25
+8.3.2.3. Additional amount ...................................................................................................... 25
+8.3.2.4. Calculation of the basic amounts ............................................................................... 26
+8.3.3. Adjustments to the basic amount of the fine - aggravating and mitigating
+circumstances ............................................................................................................. 26
+8.3.4. Application of the 10% turnover limit ....................................................................... 26
+8.3.5. Application of the Leniency Notice ........................................................................... 27
+8.3.5.1. Immunity from fines .................................................................................................. 27
+8.3.5.2. Reduction of fines ...................................................................................................... 27
+8.3.6. Application of the Settlement Notice ......................................................................... 28
+8.4. Conclusion: final amount of the fines ....................................................................... 28
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 19.10.2023
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+AT.40636 - SNBB
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+Having regard to the Commission decision of 20 October 2021 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union (the
+“Treaty”). The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty
+of Lisbon, references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as
+references to Articles 101 and 102 of the Treaty when appropriate.
+2 OJ L 123, 27.4.2004, p. 18.
+
+EN 4 EN
+
+1. INTRODUCTION
+(1) This Decision (the “Decision”) relates to a single and continuous infringement of
+Article 101 of the Treaty and Article 53(1) of the Agreement on the European
+Economic Area (the “EEA Agreement”). The infringement consisted of bilateral and
+multilateral contacts regarding sales prices and the allocation of quotas on the
+worldwide merchant market for N-Butylbromide Scopolamine/Hyoscine (“SNBB”)3,
+including the EEA. Overall, the infringement lasted from 1 November 2005 to 17
+September 2019.
+(2) This Decision is addressed to the following legal entities (together referred to as the
+“Addressees” or individually as the “Addressee”):
+(a) Alkaloids of Australia Pty. Limited;
+(b) Alkaloids Corporation;
+(c) Boehringer Ingelheim Pharma GmbH & Co. KG, Boehringer
+Ingelheim GmbH and C.H. Boehringer Sohn AG & Co. KG;
+(d) C-squared PHARMA S.à r.l.;
+(e) Linnea SA, Ipsen S.A. and Schwabe Extracta GmbH & Co. KG;
+and
+(f) Transo-Pharm Handels-GmbH and Transo-Pharm Holding-AG.
+(3) The description of the events set out in Section 4 of this Decision, including facts
+relating to the conduct of any other undertaking that is not an Addressee of this
+Decision, is made exclusively for the purpose of establishing the liability of the
+Addressees of this Decision for an infringement of Article 101 of the Treaty. The
+Decision does not make any findings and does not include any legal assessment
+concerning the potential liability of any undertaking that is not an Addressee of this
+Decision.
+
+2. THE RELEVANT INDUSTRY
+2.1. The product
+(4) The product concerned by the conduct is SNBB for sale on the merchant market.
+(5) SNBB is an Active Pharmaceutical Ingredient (“API”) and an important input
+material for the production of the drug Buscopan and its generic versions.4 These are
+medications used in the treatment of motion sickness, abdominal cramps, and postoperative nausea and vomiting. SNBB is commonly extracted from the leaves of
+Duboisia trees, which are a natural source of SNBB.5 These trees are cultivated on
+plantations, mainly in Australia and Brazil. The harvest, occurring once a year,
+depends on the weather conditions, and the volumes of leaves available for SNBB
+production vary considerably from year to year.6
+
+3 SNBB is the acronym often used in the industry. The product is also known as Butylscopolamine
+bromide, Scopolamine butylbromide and Hyoscine butylbromide.
+4 [...].
+5 [...].
+6 [...].
+
+EN 5 EN
+
+2.2. The market
+(6) Currently, all member countries of the EEA require a prior marketing authorisation
+for supplies of SNBB to drug manufacturers on their territory.7 Typically, SNBB
+suppliers must be registered in regulated markets in order to be considered as a
+source of supply in that country. In this context, the supplier has to provide a drug
+master file directly to the regulatory authority.8 Such regulatory and registration
+requirements do not concern the regulation of SNBB prices.
+(7) The SNBB market is characterised by the fact that only a few SNBB suppliers are
+active on the market. There is no typical distribution structure for SNBB. SNBB
+suppliers either distribute SNBB directly or through distributors.9
+(8) Most SNBB quantities supplied to the merchant market are bought by generic drug
+manufacturers outside the EEA which typically do not enter into long-term supply
+contracts, but rather cover their needs from the SNBB suppliers or their distributors
+through “spot deals”, i.e. tenders issued by the generic drug manufacturers to SNBB
+suppliers or distributors.10 The preference for “spot deals” may be linked to the
+unpredictable nature of the market.
+(9) SNBB is traded worldwide and transported over long distances. During the conduct
+described in this Decision, which took place between 2005-2019, the annual
+worldwide SNBB market volume supplied to the merchant market amounted to
+approximately 22-26 tons11. The av
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ of determining the proportion of the value of sales to be taken into
+account for the infringement, the Commission considers the same factors as those
+that are taken into account to set the gravity percentage, namely its nature, the multifaceted aspect and the geographical scope. Given the specific circumstances of this
+case, the proportion of the value of sales to be taken into account for the purpose of
+setting the additional amount should be set at 17%.
+8.3.2.4. Calculation of the basic amounts
+(124) Based on the criteria set out in recitals (111) to (123), the basic amount of the fine for
+each Addressee is presented in Table 4.
+
+Table 4 - Basic amounts of the fine
+
+Undertaking Basic Amount (in EUR)
+
+Alkaloids of Australia [864 000 - 1 063 000]
+
+Alkaloids Corporation [573 000 - 621 000]
+
+Boehringer 11 557 000
+
+C2 PHARMA [759 000 - 897 000]
+
+Linnea [2 585 000 – 3 185 000]
+
+Transo-Pharm 245 000
+
+8.3.3. Adjustments to the basic amount of the fine - aggravating and mitigating
+circumstances
+(125) The Commission may consider aggravating circumstances, which could lead to an
+increase of the basic amount of the fine. These circumstances are listed in a nonexhaustive way in point 28 of the Guidelines on fines. The Commission may also
+consider mitigating circumstances that could result in a reduction of the basic
+amount. Such circumstances are listed in a non-exhaustive manner in point 29 of the
+Guidelines on fines.
+(126) In light of the above, the Commission does not consider that either aggravating or
+mitigating circumstances are applicable to any of the Addressees.
+8.3.4. Application of the 10% turnover limit
+(127) The fine imposed on each Addressee is not to exceed 10% of its total turnover
+relating to the business year preceding the date of the Commission’s decision.71 The
+
+71 Article 23(2) of Regulation No 1/2003.
+
+EN 26 EN
+
+10% of turnover limit is applied before any reduction that may be granted for
+leniency and/or for settlement.72
+(128) The 10% turnover limit applies to Alkaloids of Australia, whose fine (before
+applying the settlement reduction) will be reduced accordingly.
+8.3.5. Application of the Leniency Notice
+8.3.5.1. Immunity from fines
+(129) On 5 September 2019, the Commission granted C2 PHARMA conditional immunity
+from fines under point (18) of the Leniency Notice (see recital (24)). C2 PHARMA’s
+cooperation fulfilled the requirements under the Leniency Notice. C2 PHARMA is,
+therefore, granted immunity from fines in this case.
+8.3.5.2. Reduction of fines
+8.3.5.2.1. Transo-Pharm
+(130) On 19 September 2019, shortly after the inspections conducted in this case, Transo-
+Pharm applied for a reduction of any fine under point (27) of the Leniency Notice
+(see recital (26)). On 20 October 2021, the Commission informed Transo-Pharm of
+its intention to grant Transo-Pharm a leniency reduction within the range of 30% to
+50% of any fine that would otherwise have been imposed for the infringement.
+(131) Firstly, the information submitted by Transo-Pharm confirmed [...] and further
+corroborated the evidence available to the Commission at that time. [...]. They
+provided information about [...]. They described and provided further corroborating
+evidence regarding [...].
+(132) Secondly, the information submitted by Transo-Pharm confirmed and further
+strengthened the evidence on [...]. Transo-Pharm also explained and corroborated
+the evidence found at its premises during the inspection.
+(133) The significant added value of Transo-Pharm’s submissions justifies a reduction of
+its fine of 50%.
+8.3.5.2.2. Linnea
+(134) On 29 October 2019, Linnea applied for a reduction of any fine under point (27) of
+the Leniency Notice (see recital (27)). On 20 October 2021, the Commission
+informed Linnea of its intention to grant Linnea a leniency reduction within the range
+of 20% to 30% of any fine that would otherwise have been imposed for the
+infringement.
+(135) Firstly, Linnea provided evidence previously not known to the Commission, in
+particular regarding [...]. Linnea provided further detailed information on [...]. It
+provided further explanation [...] and corroborated information received by the
+Commission from other sources.
+(136) Secondly, [...] further strengthened the evidence on the Commission file about [...].
+Linnea also provided additional evidence, that was previously not known to the
+Commission about [...]. The information submitted by Linnea further confirmed and
+further supplemented the evidence available to the Commission at the time of
+Linnea’s leniency application.
+
+72 See points 32 and 34 of the Guidelines on fines and points 32 and 33 of the Settlement Notice.
+
+EN 27 EN
+
+(137) The significant added value of Linnea’s submissions justifies a reduction of its fine
+of 30%.
+8.3.6. Application of the Settlement Notice
+(138) As provided for in point 32 of the Settlement Notice, the reward for settlement leads
+to a reduction of 10% of the amount of the fine to be imposed on a party after the
+10% turnover cap has been applied having regard to the Guidelines on fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement will be added to
+their leniency reward.
+(139) Consequently, in view of point 32 of the Settlement Notice, the amount of the fines
+to be imposed on the Addressees should be further reduced by 10%.
+8.4. Conclusion: final amount of the fines
+(140) The fines imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are set
+out in Table 5.
+
+Table 5 - Fines
+
+Undertaking Fines (in EUR)
+
+Alkaloids of Australia 559 000
+
+Alkaloids Corporation 537 000
+
+Boehringer 10 401 000
+
+C2 PHARMA 0
+
+Linnea 1 791 000
+
+Transo-Pharm 98 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, during the periods indicated, in a single and continuous
+infringement consisting of bilateral and multilateral contacts regarding sales prices and the
+allocation of quotas on the worldwide merchant market for SNBB, including the EEA:
+(a) Alkaloids of Australia Pty. Limited, from 1 November 2005 until 17
+September 2019
+(b) Alkaloids Corporation, from 1 November 2005 until 17 September 2019
+
+EN 28 EN
+
+(c) Boehringer Ingelheim Pharma GmbH & Co. KG, Boehringer Ingelheim
+GmbH and C.H. Boehringer Sohn AG & Co. KG, from 1 November
+2005 until 31 December 2014
+(d) C-squared PHARMA S.à r.l., from 22 January 2015 until 4 February
+2016
+(e) Linnea SA, Schwabe Extracta GmbH & Co. KG and Ipsen S.A., from 2
+October 2006 until 17 September 2019
+(f) Transo-Pharm Handels-GmbH and Transo-Pharm Holding-AG, from 21
+June 2011 until 17 September 2019.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) Alkaloids of Australia Pty. Limited: EUR 559 000
+(b) Alkaloids Corporation: EUR 537 000
+(c) Boehringer Ingelheim Pharma GmbH & Co. KG, Boehringer Ingelheim
+GmbH and C.H. Boehringer Sohn AG & Co. KG, jointly and severally
+liable: EUR 10 401 000
+(d) C-squared PHARMA S.à r.l.: EUR 0
+(e) Linnea SA, Schwabe Extracta GmbH & Co. KG and Ipsen S.A., jointly
+and severally liable: EUR 1 791 000
+(f) Transo-Pharm Handels-GmbH and Transo-Pharm Holding-AG, jointly
+and severally liable: EUR 98 000.
+The fines shall be credited, in euros, within a period of three months of the date of notification of
+this Decision, to the following bank account held in the name of the European Commission:
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40636
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an application for annulment pursuant to
+Article 263(4) of the Treaty, that undertaking shall cover the fines by the due date, by either
+providing an acceptable financial guarantee or by making a provisional payment of the fines in
+accordance with Article 108 of Regulation (EU, Euratom) 2018/1046 of the European
+Parliament and of the Council73.
+
+73 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+EN 29 EN
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred
+to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+(a) Alkaloids of Australia Pty. Limited, C/- McConachie Stedman 619
+Ruthven Street, Toowoomba QLD 4350, Australia
+(b) Alkaloids Corporation, 8 Bentinck Street, Kolkata - 700 001, India
+(c) Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Strasse 173,
+55216 Ingelheim am Rhein, Germany
+(d) Boehringer Ingelheim GmbH, Binger Strasse 173, 55216 Ingelheim am
+Rhein, Germany
+(e) C.H. Boehringer Sohn AG & Co. KG, Binger Strasse 173, 55216
+Ingelheim am Rhein, Germany
+(f) C-squared PHARMA S.à r.l., 270 rue de Neudorf, L-2222 Luxembourg,
+Grand Duchy of Luxembourg
+(g) Linnea SA, Via Cantonale, 6595 Riazzino (TI), Switzerland
+(h) Schwabe Extracta GmbH & Co. KG, Willmar-Schwabe-Strasse 4, 76227
+Karlsruhe, Germany
+(i) Ipsen S.A., 65 Quai Georges Gorse, 92100 Boulogne-Billancourt, France
+(j) Transo-Pharm Handels-GmbH, Bültbek 5, 22962 Siek, Germany
+(k) Transo-Pharm Holding-AG, Bültbek 5, 22962 Siek, Germany
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 19.10.2023
+For the Commission
+
+(Signed)
+Didier REYNDERS
+Member of the Commission
+
+EN 30 EN

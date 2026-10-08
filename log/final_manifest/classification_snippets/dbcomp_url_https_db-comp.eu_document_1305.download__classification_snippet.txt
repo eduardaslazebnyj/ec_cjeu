@@ -1,0 +1,646 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 17.12.2002
+COM C(2002)5083 final
+
+Commission Decision
+
+Of 17/12/2002
+
+relating to a proceedings under Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(Case COMP/E-2/37.667- Specialty Graphite)
+
+(Only the German, English, French and Dutch texts are authentic)
+
+(Text with EEA relevance)
+
+EN
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. THE FACTS ................................................................................................................ 5
+
+1.1. Summary of the infringement ...................................................................................... 5
+
+1.2. The specialty graphite industry.................................................................................... 6
+
+1.2.1. The product markets..................................................................................................... 6
+
+1.2.2. Supply of specialty graphite......................................................................................... 9
+
+1.2.3. Demand for specialty graphite ................................................................................... 11
+
+1.2.4. The relevant geographic market for specialty graphite.............................................. 12
+
+1.2.5. Interstate trade............................................................................................................ 13
+
+1.2.6. The producers............................................................................................................. 13
+
+1.3. Procedure ................................................................................................................... 20
+
+1.3.1. Previous Commission investigation........................................................................... 20
+
+1.3.2. Article 11 requests ..................................................................................................... 20
+
+1.3.3. The undertakings’ reactions....................................................................................... 20
+
+1.3.4. Administrative procedure........................................................................................... 22
+
+1.3.5. Investigations in other jurisdictions ........................................................................... 22
+
+1.3.6. The documentary evidence ........................................................................................ 23
+
+1.4. Details of the infringement ........................................................................................ 24
+
+1.4.1. Unmachined isostatic specialty graphite.................................................................... 24
+
+1.4.2. Unmachined extruded specialty graphite................................................................... 85
+
+2. LEGAL ASSESSMENT............................................................................................ 91
+
+2.1. The EC Treaty and the EEA Agreement.................................................................... 91
+
+2.1.1. Relationship between the EC Treaty and the EEA Agreement.................................. 91
+
+2.1.2. Jurisdiction................................................................................................................. 91
+
+2.2. Application of Article 81 of the Treaty and Article 53 of the EEA Agreement........ 91
+
+2.2.1. Article 81(1) of the Treaty and Article 53(1) of the EEA Agreement....................... 91
+
+2.2.2. Agreements and concerted practices.......................................................................... 92
+
+2.2.3. The nature of the infringements in this case .............................................................. 94
+
+2.2.4. Restriction of competition.......................................................................................... 96
+
+2.2.5. Effect on trade between Member States and between EEA contracting parties........ 98
+
+EN 2 EN
+
+2.2.6. Provisions of the competition rules applicable to Austria, Finland, Norway, Sweden,
+and Iceland. ................................................................................................................ 98
+
+2.2.7. Duration of the infringements.................................................................................... 99
+
+2.2.8. Addressees of these proceedings.............................................................................. 100
+
+2.3. Remedies.................................................................................................................. 109
+
+2.3.1. Article 3 of Regulation No 17.................................................................................. 109
+
+2.3.2. Article 15(2) of Regulation No 17: general considerations ..................................... 109
+
+2.3.3. The amount of the fine............................................................................................. 110
+
+EN 3 EN
+
+Commission Decision
+
+Of 17/12/2002
+
+relating to a proceedings under Article 81 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(Case COMP/E-2/37.667- Specialty Graphite)
+
+(Only the English, French, German and Dutch texts are authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation
+implementing Articles 85 and 86 of the Treaty1 as last amended by Regulation (EC)
+No 1216/19992, and in particular Article 3 and Article 15 thereof,
+
+Having regard to the Commission decisions of 1 October 2001 and 17 December 2001 to
+
+open proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+
+objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and
+
+Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in
+
+certain proceedings under Articles 85 and 86 of the EC Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the report of the hearing officer in this case,
+
+1 OJ 13, 21.2.1962, p. 204/62.
+2 OJ L 148, 15.6.1999, p. 5.
+3 OJ L 354, 30.12.1998, p. 18.
+
+EN 4 EN
+
+WHEREAS:
+
+1. THE FACTS
+
+1.1.Summary of the infringement
+
+(1) This Decision concerns two separate infringements of Article 81 of the Treaty and
+Article 53 of the EEA Agreement:
+
+(a) On account of an infringement regarding the market for isostatic specialty
+graphite, this Decision concerns the following undertakings:
+
+– SGL Carbon AG
+
+– Le Carbone-Lorraine S.A.
+
+– Ibiden Co., Ltd.
+
+– Tokai Carbon Co., Ltd.
+
+– Toyo Tanso Co., Ltd.
+
+– GrafTech International, Ltd.
+
+– NSCC Techno Carbon Co., Ltd.
+
+– Nippon Steel Chemical Co., Ltd.
+
+– Intech EDM B.V.
+
+– Intech EDM AG
+
+(b) On account of an infringement regarding the market for extruded specialty
+graphite, this Decision concerns the following undertakings:
+
+– SGL Carbon AG
+
+– GrafTech International, Ltd.
+
+(2) For the periods specified in this Decision, the manufacturers and/or distributors of
+isostatic and extruded specialty graphite supplying the Community and EEA entered
+into and participated in continuing agreements contrary to Articles 81(1) of the Treaty
+and Article 53 of the EEA Agreement, by which they fixed prices and exchanged
+commercial information in respect of those products. In the infringement concerning
+the isostatic specialty graphite market, they further fixed trading conditions and
+occasionally divided customers.
+
+(3) The undertakings participated in the two infringements for the following periods:
+
+(a) Infringement concerning the isostatic specialty market:
+
+EN 5 EN
+
+SGL Carbon AG (SGL) From July 1993 to February 1998
+
+Le Carbone-Lorraine S.A. (LCL) From July 1993 to February 1998
+
+Ibiden Co., Ltd. (Ibiden) From July 1993 to February 1998
+
+Tokai Carbon Co., Ltd. (Tokai) From July 1993 to February 1998
+
+Toyo Tanso Co., Ltd. (Toyo Tanso) From July 1993 to February 1998
+
+GrafTech International, Ltd. (UCAR) From February 1996 to May 1997
+
+NSCC Techno Carbon Co., Ltd. (NSCC) From July 1993 to February 1998
+Nippon Steel Chemical Co., Ltd. (NSC)
+
+Intech EDM B.V. (Intech) From February 1994 to May 1997
+Intech EDM AG
+
+(b) Infringement concerning the extruded specialty market:
+
+SGL Carbon AG (SGL) From February 1993 to November
+1996
+
+GrafTech International, Ltd. (UCAR) From February 1993 to November
+1996
+
+1.2.The specialty graphite industry
+
+1.2.1. The product markets
+
+(4) “Specialty graphites” is the general term widely used in the industry to describe a
+group of graphite products for diverse applications (other than steel making graphite
+electrodes, graphite anodes for the chemical industries, carbon electrodes for the
+refining of ferrous alloys and cathodes for aluminum reduction cells). Specialty
+graphite products are often categorised by the way the graphite is produced4:
+
+– Isostatic graphite (produced through isostatic moulding): typical applications
+include electrodes for electrical discharge machining (EDM), continuous
+casting dies, hot press moulds, semiconductor applications (see recital (10)
+below).
+
+– Extruded graphite (produced through extrusion): used in electrolytic anodes
+and cathodes, boats, sintering trays, crucibles (see recital (12) below).
+
+4 This is however not an absolute classification, and some suppliers may consider particular kinds of
+products as falling within one or the other category (see SGL(3), p.2).
+
+EN 6 EN
+
+– Moulded graphite (produced through unidirectional moulding): used in tube
+sheets for heat exchangers, pressure casting moulds, large crucibles, furnace
+susceptors.
+
+(5) Isostatic graphite has superior mechanical characteristics (two or three times higher
+density, higher strength and finer grain) than extruded and moulded graphites. The
+prices of each graphite category differ according to those mechanical characteristics5.
+
+(6) From the production point of view, a partially different machinery is necessary for
+each type of production process –there is no supply-side substitutability among the 3
+categories6- and the production cost difference between isostatic graphite and extruded
+or moulded graphite is at least [...] %7. From the demand side point of view, the end
+use determines which of the three types of graphite to select. Customers usually prefer
+the graphite type whose physical characteristics conform to what is required for the
+production of the final product8. There may be very substantial switching costs
+between different categories of specialty graphite and customers typically do not
+switch among extruded, moulded and isostatic categories9.
+
+(7) The collaboration among specialty manufacturers reported in this Decision mainly
+concerned unmachined isostatic graphite products10. To a more limited extent, it also
+extended to unmachined extruded graphite products. The Commission has no evidence
+that similar agreements have existed relating to moulded graphite. Moulded graphite is
+therefore not the subject of this procedure. Furthermore, the collaboration in respect of
+both isostatic and extruded specialty graphite focussed on products the form of
+standard blocks and cut blocks, but not on “machined” products. Products for
+semiconductor applications, which are machined and therefore “customised”, were not
+part of the arrangements11.
+
+5 Typically, extruded is the lowest price material; moulded prices are similar to extruded, but have
+inferior properties due to the large block sizes. Current representative prices to European machine shops
+are:
+- isostatic graphite: Eur 9 to 50 per kg.
+- extruded graphite: Eur 4 to 15 per kg.
+- moulded graphite: Eur 7.5 to 15 per kg.
+6 Some graphite processing equipment (forming, baking, graphitization) is “category-specific”; other
+equipment (impregnation, machining, purification) can be used for any of the three categories
+(UCAR(3), p.2).
+7 In contrast to the more conventional extrusion and unidirectional moulding method, the isostatic
+moulding method employs cold isostatic press to impart graphite with isotropic and homogeneous
+characteristics (TTSS, p.1). The production of isostatic graphite also requires higher priced cokes and
+requires more time for baking and graphitizing (TC(2), p.2).
+8 Extruded is the lowest cost material, so if it meets the application requirements it will be the material of
+choice. Moulded is generally selected only for applications requiring larger sizes, because moulded
+properties are typically inferior to extruded grades. Isostatic is used for applications for which higher
+physical characteristics and finer grain size are required. However, in the United States isostatic
+graphite grades at the low end -which were offered for sale in the US but not in Europe- compete with
+extruded graphite grades (see e.g. UCAR(3), p.1; TC(2), p.2; TCSS, p.1).
+9 See e.g. UCAR(3), p.2; TC(2), p.2.
+10 The product is called isotropic graphite, rubber pressed graphite, isomolded graphite or isostatic
+graphite, depending on the producer's choice of name.
+11 Specialty graphite products are supplied to customers either directly from the manufacturing plants as
+finished machined products or through intermediary “machine shops” or “distributors”. These machine
+shops (which are either affiliated with the graphite supplier or are independent from it) buy unmachined
+graphite materials (in blocks or rods), machine them (i.e. customise the product according to the client’s
+
+EN 7 EN
+
+(8) There is a high degree of physical similarity between grades belonging to the same
+category (isostatic or extruded graphite). They differ, among other things, with respect
+to grain size, assigned raw material (coke), impregnation, dimension and purity12.
+Grades are classified based on their physical properties13.
+
+(9) The possibility of switching between grades of the same category thus depends on the
+physical characteristics -and the balance of such characteristics- which are required for
+the final application, and on the price of graphite. Grades with a grain structure within
+a certain range have similar physical characteristics and therefore customers may have
+the choice between several grades to machine the same graphite part14. From a supplyside perspective, it is possible to switch production from one grade to the other as the
+processing equipment for the different grades is the same15.
+
+(10) Isostatic graphite materials are used for different applications where its superior
+mechanical characteristics compared to the conventional graphite materials are
+required. Typical applications of isostatic graphite are:
+
+– Electrodes for electrical discharge machining (“EDM”) used in metal mould
+making for the automobile and electronics industries16;
+
+– Dies for continuous casting (“CC”) of non-ferrous metals such as copper and
+copper alloys17;
+
+needs) and sell the machined products to the “end user” customer. The machining process is often based
+on customer drawings. Some end 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+fringement where (...) they infringe Article 81(1)
+or Art. 82 of the Treaty (...) In fixing the amount of the fine, regard shall be had both to gravity and to
+the duration of the infringement ”. In accordance with this provision, the Commission calculates fines
+on the basis of separate infringements: the gravity (including the departing figure for the basic amount),
+duration, and aggravating/attenuating circumstances are separately assessed for each violation of Article
+81(1) of the Treaty.
+
+EN 129 EN
+
+(551) Intech argues that imposing a double fine on Intech EDM B.V. and Intech EDM AG
+would be contrary to the principle of “ne bis in idem” which is one of the general
+principles of law, recognised also by the European Convention on Human Rights and
+the Charter of fundamental rights of the European Union. However, as mentioned in
+recital (424) above, Intech EDM B.V. and Intech EDM AG are held jointly and
+severally liable for the infringement affecting the isostatic specialty market, and
+therefore no double fine is imposed.
+
+(552) Ibiden claims that, since there is a shared responsibility of Ibiden and Intech in respect
+of specialty graphite sales, any fine which would normally be imposed on Ibiden
+should be divided between Ibiden and Intech, as it relates to the same behaviour and
+sales. The Commission rejects this argument. Firstly, the distinct liability that Ibiden
+and Intech bear in the isostatic cartel arrangements has already been set out in recitals
+(401) to (406) above. Secondly, the argument is in contradiction with Ibiden’s own
+statements, according to which Intech had its own presence on the market as a nonexclusive distributor outside the territory designated as exclusive571.
+
+2.3.3.6. Point 5(b) of the Guidelines on fines
+
+(553) According to point 5(b) of the Guidelines on fines, the Commission should take
+certain objective factors into account, depending on the circumstances of a given case,
+when fixing fines572.
+
+1) Ability to pay
+
+(554) SGL and NSC have presented arguments relating to their ability to pay. In particular,
+both companies have highlighted [...] 573.
+
+(555) In order to consider this argument, the Commission requested detailed information on
+the companies’ financial positions574. After examining the companies’ replies of 20
+November 2002, as well as SGL’s further submission made on 8 November 2002, the
+Commission concludes that it is not appropriate to adjust the amount of the fines in
+this case. Although the financial data provided by the two undertakings show that both
+SGL and NSC are [...] 575, to take account of the mere fact of the undertakings’ [...],
+mainly due to general market conditions, would be tantamount to conferring an
+unjustified competitive advantage on them.
+
+2) Other factors
+
+(556) As set out in recital (555), SGL is [...].
+
+571 See recital (404) above.
+572 “Depending on the circumstances, account should be taken, once the above calculations have been
+made, of certain objective factors such as a specific economic context, any economic or financial
+benefit derived by the offenders (...), the specific characteristics of the undertakings in question and
+their real ability to pay in a specific social context, and the fines should be adjusted accordingly”
+573 SGL’s confidential presentation during the meetings with the Commission services held on 23 May
+2002 and 28 October 2002. NSC’s confidential presentation during the meeting on 18 October 2002,
+complemented with additional submissions on 21 October 2002 and 24 October 2002.
+574 Commission’s requests for information pursuant to Article 11 of Regulation No 17 dated 11 November
+2002.
+575 [...].
+
+EN 130 EN
+
+(557) On 18 July 2001 the Commission imposed on SGL a fine of EUR 80.2 million for
+violation of Article 81 of the Treaty, as a result of the undertaking’s involvement in
+the Graphite Electrodes cartel576.
+
+(558) It follows that SGL is both in [...] and has relatively recently been imposed a
+significant fine by the Commission. The Commission considers that, in these
+particular circumstances, imposing the full amount of the fine does not appear
+necessary in order to ensure effective deterrence. This conclusion takes in particular
+account of the fact that the aggravating circumstance of recidivism does not apply to
+SGL in the present case (see recital 513 above).
+
+(559) In view of these two factors, the Commission considers that, in this specific case, the
+fine should be reduced by 33%.
+
+2.3.3.7. The final amounts of the fines imposed in these proceedings
+
+(560) In conclusion, the fines to be imposed, pursuant to Article 15(2)(a) of Regulation No
+17, should be as follows:
+
+(a) GrafTech International, Ltd.
+
+– Isostatic specialty graphite: EUR 0
+
+– Extruded specialty graphite: EUR 0
+
+(b) SGL Carbon AG
+
+– Isostatic specialty graphite: EUR 18 940 000
+
+– Extruded specialty graphite: EUR 8 810 000
+
+(c) Le Carbone-Lorraine S.A.: EUR 6 970 000
+
+(d) Ibiden Co., Ltd.: EUR 3 580 000
+
+(e) Tokai Carbon Co., Ltd.: EUR 6 970 000
+
+(f) Toyo Tanso Co., Ltd.: EUR 10 790 000
+
+(g) Nippon Steel Chemical Co., Ltd./ NSCC Techno Carbon Co., Ltd.:
+EUR 3 580 000
+
+(h) Intech EDM B.V./ Intech EDM AG: EUR 980 000
+
+576 Decision 2002/271/EC, cited above
+
+EN 131 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81(1) of the Treaty and Article 53(1) of the
+EEA Agreement by participating, for the periods indicated, in a complex of agreements and
+concerted practices affecting the Community and EEA markets for isostatic specialty
+graphite:
+
+(a) GrafTech International, Ltd, from February 1996 to May 1997;
+
+(b) SGL Carbon AG, from July 1993 to February 1998;
+
+(c) Le Carbone-Lorraine S.A., from July 1993 to February 1998.;
+
+(d) Ibiden Co., Ltd., from July 1993 to February 1998;
+
+(e) Tokai Carbon Co., Ltd, from July 1993 to February 1998;
+
+(f) Toyo Tanso Co., Ltd, from July 1993 to February 1998 ;
+
+(g) Nippon Steel Chemical Co., Ltd. and NSCC Techno Carbon Co., Ltd., joint and
+severally liable, from July 1993 to February 1998;
+
+(h) Intech EDM B.V. and Intech EDM AG, joint and severally liable, from February
+1994 to May 1997.
+
+The following undertakings have infringed Article 81(1) of the Treaty and Article 53(1) of the
+EEA Agreement by participating, for the periods indicated, in a complex of agreements and
+concerted practices affecting the Community and EEA markets for extruded specialty
+graphite:
+
+(a) SGL Carbon AG, from February 1993 to November 1996
+
+(b) GrafTech International, Ltd., from February 1993 to November 1996
+
+Article 2
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article, insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct referred to in Article 1 and from any act
+or conduct having the same or equivalent object or effect.
+
+Article 3
+
+For the infringements referred to in Article 1, the following fines are imposed on the
+following undertakings:
+
+(a) GrafTech International, Ltd.
+
+EN 132 EN
+
+– Isostatic specialty graphite: EUR 0
+
+– Extruded specialty graphite: EUR 0
+
+(b) SGL Carbon AG
+
+– Isostatic specialty graphite: EUR 18 940 000
+
+– Extruded specialty graphite: EUR 8 810 000
+
+(c) Le Carbone-Lorraine S.A.: EUR 6 970 000
+
+(d) Ibiden Co., Ltd.: EUR 3 580 000
+
+(e) Tokai Carbon Co., Ltd.: EUR 6 970 000
+
+(f) Toyo Tanso Co., Ltd.: EUR 10 790 000
+
+(g) Nippon Steel Chemical Co., Ltd. and NSCC Techno Carbon Co., Ltd., jointly
+and severally liable: EUR 3 580 000
+
+(h) Intech EDM B.V. and Intech EDM AG, jointly and severally liable:
+EUR 980 000
+
+The fines shall be paid, within three months of the date of the notification of this Decision to
+the following account:
+
+Account N°
+
+642-0029000-95 of the European Commission with:
+
+Banco Bilbao Vizcaya Argentaria (BBVA) S.A.
+
+Avenue des Arts/Kunstlaan, 43 B-1040 Bruxelles/Brussel
+
+(Code SWIFT: BBVABEBB – Code IBAN BE76 6420 0290 0095)
+
+After expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month
+in which this Decision was adopted, plus 3,5 percentage points, namely 6.75%.
+
+Article 4
+
+This Decision is addressed to :
+
+GrafTech International, Ltd.
+
+1521 Concord Pike, Suite 301
+
+EN 133 EN
+
+Wilmington, Delaware 19803 (USA)
+
+SGL Carbon AG
+
+Rheingaustrasse 182
+
+D – 65203 Wiesbaden
+
+Le Carbone-Lorraine S.A.:
+
+Immeuble La Fayette
+
+La Défense 5
+
+TSA 38001
+
+F-92919 Paris La Défense Cedex
+
+Ibiden Co., Ltd.:
+
+1 Kanda-Cho, 2-chome
+
+Ogaki, Gifu, 503-8604
+
+Japan
+
+Tokai Carbon Co., Ltd.:
+
+Aoyama Building, 2-3,
+
+Kita- Aoyama 1-chome
+
+Minato-ku
+
+Tokyo 107-8636 (Japan)
+
+Toyo Tanso Co., Ltd.:
+
+7-12, 5-Chome Takeshima
+
+Nishyodogawa-ku
+
+Osaka 555-0011 (Japan)
+
+EN 134 EN
+
+Nippon Steel Chemical Co., Ltd.
+
+7-21-11 Nishi-Gotanda
+
+Shinagawa-ku
+
+Tokyo 141-0031 (Japan)
+
+NSCC Techno Carbon Co., Ltd.
+
+62-6Aza- Nakasoneyama
+
+Kawauchi, Osato-Cho, Kurokawa-Gun
+
+Miyagi-Pref, 981-3514 (Japan)
+
+Intech EDM B.V.
+
+Spikweien 21
+
+P.O. Box 4325
+
+NL-5944 AC Lomm
+
+Intech EDM AG
+
+Via dei Pioppi 2
+CH-6616 Losone
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels,
+
+For the Commission
+
+Member of the Commission
+
+EN 135 EN
+
+(561) Sur la base de ce qui précède, la Commission parvient à la conclusion que SGL, LCL,
+Ibiden, Tokai, Toyo Tanso et NSC/NSCC remplissent les conditions énoncées au
+titre D, point 2, premier et second tirets, de la communication sur la clémence et
+accorde à ces entreprises une réduction de 35% de l'amende qui leur aurait été infligée
+en l'absence de coopération avec la Commission.
+
+(562) Sur la base de ces considérations, la Commission parvient également à la conclusion
+qu'Intech remplit les conditions énoncées au titre D, point 2, second tiret, de la
+communication sur la clémence et accorde à cette entreprise une réduction de 10% de
+l'amende qui lui aurait été infligée en l'absence de coopération avec la Commission.
+
+EN 136 EN

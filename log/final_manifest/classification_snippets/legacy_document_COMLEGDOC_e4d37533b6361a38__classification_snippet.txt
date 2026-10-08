@@ -1,0 +1,128 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31989D0113
+89/113/EWG: Entscheidung der Kommission vom 21. Dezember 1988 in einem Verfahren nach Artikel 85 und 86 EWG- Vertrag (IV/30.979 und 31.394, Decca Navigator System) (Nur der englische und niederländische Text sind verbindlich)
+Amtsblatt Nr. L 043 vom 15/02/1989 S. 0027 - 0048
+*****
+ENTSCHEIDUNG DER KOMMISSION
+vom 21. Dezember 1988
+in einem Verfahren nach Artikel 85 und 86 EWG-Vertrag (IV/30.979 und 31.394, Decca Navigator System)
+(Nur der englische und der niederländische Text sind verbindlich)
+(89/113/EWG)
+DIE KOMMISSION DER EUROPÄISCHEN
+GEMEINSCHAFTEN -
+gestützt auf den Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft,
+gestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar 1962: erste Durchführungsverordnung zu den Artikeln 85 und 86 des EWG-Vertrags (1), zuletzt geändert durch die Akte über den Beitritt Spaniens und Portugals, insbesondere auf die Artikel 3 und 4,
+im Hinblick auf die von Racal Group Services am 20. Mai 1983 und am 14. November 1984 gemäß Artikel 4 der Verordnung Nr. 17 vorgelegten Anmeldungen,
+im Hinblick auf die vom Landesfischereiverband Schleswig-Holstein am 21. Dezember 1983 und von Rauff & Sörensen am 26. Februar und 9. April 1985 gemäß Artikel 3 der Verordnung Nr. 17 gestellten Anträge auf Feststellung von Verstössen von Racal-Decca Navigator Ltd (ab 3. Dezember 1985 Racal-Decca Marine Navigation Ltd) gegen Artikel 86 EWG-Vertrag durch die Kommission,
+unter Berücksichtigung der gemäß Artikel 11 und 14 der Verordnung Nr. 17 der Kommission erteilten Auskünfte,
+gestützt auf den Beschluß der Kommission vom 30. Dezember 1987 zur Eröffnung eines Verfahrens in diesem Falle,
+nachdem den beteiligten Unternehmen die Gelegenheit gegeben wurde, ihre Stellungnahmen zu den von der Kommission vorgebrachten Beschwerdepunkten gemäß Artikel 19 Absatz 1 der Verordnung Nr. 17 und Verordnung Nr. 99/63/EWG der Kommission vom 25. Juli 1963 über die Anhörungen nach Artikel 19 Absätze 1 und 2 der Verordnung Nr. 17 des Rates (2) abzugeben,
+nach Konsultierung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+in Erwägung nachstehender Gründe:
+I. SACHVERHALT
+Die beteiligten Unternehmen
+(1) a) Racal-Decca Marine Navigation Ltd (nachstehend »Racal Decca") ist eine Tochtergesellschaft der im Vereinigten Königreich eingetragenen weltweit tätigen Holdinggesellschaft Racal Electronics Plc. Racal Decca ist überwiegend auf dem Gebiet des Entwurfs, der Herstellung und des Vertriebs von Navigationshilfen und anderen elektronischen Ausrüstungen tätig. Der Gesamtumsatz von Racal Electronics Plc belief sich im Geschäftsjahr 1987/88 auf 1,37 Milliarden Pfund Sterling.
+(2) b) Die in Dänemark niedergelassene AP Radiotelefon A/S (Philips Industri og Handels A/S - nachstehend »AP") ist eine Tochtergesellschaft der weltweit tätigen Philips-Gruppe, an deren Spitze die Philips Glöilampenfabrieken NV in den Niederlanden steht.
+(3) c) Das britische Unternehmen Polytechnic Marine Plc bzw. Polytechnic Electronics Plc (nachstehend »PE") stellt zivile und militärische Navigationssysteme her. Seit 1985 ist es mehrheitlich an seinem Hauptvertriebsunternehmen NAVSTAR SA/Schweiz beteiligt.
+Das DNS-System
+(4) Das Decca Navigator System (DNS) ist ein weltweit zur See, auf dem Land und in der Luft eingesetztes Funknavigationssystem. Es besteht aus i) der Übertragung von Signalen in landgestützten Stationen, die in Gruppen (auch Ketten genannt) zusammengefasst sind und ii) aus Signalempfängern, die auf Transportmitteln angebracht sind.
+(5) Maßgeblich für diese Untersuchung ist ausschließlich das in der Schiffahrt eingesetzte DNS, auf das nach Wert und Umfang der Grossteil der Verkäufe entfällt.
+(6) Bei dem DNS handelt es sich um ein hyperbolisches Navigationssystem. Es beruht auf dem mathematischen Gesetz, wonach alle Punkte, die von zwei festen Punkten um einen gleichbleibenden Betrag abweichen, sich auf einer hyperbolischen Kurve befinden. Im DNS sind die beiden Festpunkte zwei Stationen einer Kette (die Haupt- und die Dienststation), die Gleichlauffunksignale im Dauerstrichverfahren übertragen. Die Standorte dieser hyperbolisch angeordneten Stationen sind auf besonderen Seekarten eingezeichnet. Durch Messung der Phasenunterschiede der Signale eines Stationspaares kann der Signalempfänger an Bord eines Schiffes die Hyperbel auf der Erdoberfläche ermitteln, auf der der Unterschied im geographischen Abstand zu den Stationen dem gemessenen Phasenunterschied entspricht. Durch Messung der von einem zweiten Stationenpaar (jedes Paar kann eine Station gemeinsam haben) übertragenen Daten erhält man Schnittlinien, anhand deren sich ein Standort genau ermitteln lässt.
+(7) Nach den Angaben von Racal Decca gibt es derzeit elf Seefunk-Navigationshilfen, die sich hinsichtlich Genauigkeit, Übertragungsweite und Erfassungsbereich unterscheiden. Der Anhang enthält eine Beschreibung dieser Navigationshilfen gemäß diesen Gesichtspunkten.
+Aus dem Anhang geht hervor, daß
+- die Systeme DNS, Loran C, Differential Omega, Rana, Toran, Radar und GPS eine hohe Genauigkeit aufweisen (das System GPS ist jedoch noch für einige Jahre nicht einsatzfähig);
+- die Systeme DNS, Loran C, Omega und Differential Omega, NNSS (Transit) und GPS eine grosse Übertragungsbreite aufweisen und
+- nur die Systeme DNS, Radar, Marine Radio Beacons und NNSS (Transit) Dänemark, das Vereinigte Königreich und den Kanalbereich erfassen.
+Für die Erfordernisse der Navigation in Küstengewässern und auf Langstrecken sowie für die Fischerei benötigt man Navigationshilfen der höchsten Genauigkeitsstufe. Dies trifft auf Hochseeschiffe der Handelsflotte und der Marine und auf Küsten- und Fischereischiffe zu, die bei Fahrten im offenen Meer ihre Fangposition wiederholen oder ihren Kurs in bezug auf die Bewegungen der Fischschwärme ermitteln müssen.
+In einem wesentlichen Teil der Küstengewässer im nördlichen Bereich der Gemeinschaft wird aus Dänemark und dem Vereinigten Königreich das DNS-System als einziges der im Anhang aufgeführten Systeme bereitgestellt. Es handelt sich hierbei um das einzige System, das die Erfordernisse nach Genauigkeit, Reichweite und Flächenerfassung erfuellt.
+Die mit dem DNS von den britischen Ketten übertragenen Signale sind für alle Schiffe eine wichtige Navigationshilfe, die sich in den von diesen Signalen erfassten Gebieten befinden.
+(8) Auch nach dem Ablauf der DNS-Patente bestehen Hindernisse fort, die den Wettbewerb mit einem Signalübertragungssystem der von DNS gewährleisteten Genauigkeit, Flächendeckung und Reichweite erschweren. Hierzu zählen:
+- Schwierigkeiten bei der Beschaffung einer Lizenz von den zuständigen Behörden zur Nutzung der entsprechenden Frequenzen, insbesondere im Falle der Parallelübertragung in einem Gebiet.
+Die von der internationalen Fernmeldeunion (ITU) für Navigationssysteme der Europa umfassenden Region 1 zugeteilten Frequenzen bewegen sich im Bereich von 70-130 kHz und sind in einzelne Frequenzbereiche unterteilt. Der grosse Frequenzbereich von 90 bis 110 kHz wurde Loran C zugeteilt, während DNS vier kleinere Bereiche (70-72, 84-86, 112-117,6 und 126 bis 129 kHz) zugewiesen wurden. Nach den Aussagen von Racal Decca ist im Frequenzbereich von 84-86 kHz Raum für zwei weitere Kanäle. Dies wäre jedoch nicht für ein System ausreichend, das den Wettbewerb mit DNS, das in Europa 25 Signalketten betreibt, aufnehmen könnte.
+Hierbei ist zu bedenken, daß Ketten, die denselben Kanal benutzen, in einem Abstand von wenigstens 2 000 km betrieben werden sollten.
+- Der erhebliche Kostenaufwand bei der Errichtung eines Netzes von Übertragungsstationen mit einer dem DNS-System vergleichbaren Erfassungsbreite.
+Die Hersteller
+Racal Decca
+(9) In dem von der Untersuchung erfassten Zeitraum wurden DNS-Signale in Dänemark und im Vereinigten Königreich ausschließlich von Racal Decca bereitgestellt. Die wichtigsten Hersteller von DNS-Empfangsgeräten sind Racal Decca, das bis 1982 der wichtigste Hersteller mit einigen Lizenznehmern war, AP, PE-NAVSTAR und Rauff & Sörensen (nachstehend »RS").
+(10) Das DNS-System wurde im zweiten Weltkrieg von einem der Vorgängerunternehmen von Racal Decca, der Decca Navigator Company Ltd, für militärische Zwecke vor allem für den Schiffsverkehr im Kanal entwickelt. Im Jahr 1946 erhielt dieses Unternehmen von der britischen Regierung die Erlaubnis, das DNS-System kommerziell zu nutzen. Racal Decca war nicht nur der einzige Hersteller von Empfangsgeräten, sondern auch Eigentümer der Übertragungsstationen, die es auf eigene Rechnung betrieb. Im Jahr 1947 wurde die Vereinbarung aus dem Jahr 1946 durch eine Arbeitsabsprache ersetzt, in der die Tätigkeiten der Decca Navigator und des Verkehrsministeriums bei der Weiterentwicklung dieses Systems geregelt wurden; diese Absprache wurde im Jahr 1956 verlängert. Die Absprache sieht unter anderem vor, daß das Verkehrsministerium aufgrund der ihm mit dem Merchant Shipping Act im Bereich der Schiffssicherheit übertragenen Aufgaben in die Fortentwicklung des Decca-Navigationssystems eng einbezogen werden soll und daß (Punkt 8: Genehmigung von Navigationssystemen) das Ministerium seine Genehmigung der Verwendung von Übertragungsketten in englischen Hoheitsgewässern sowie anderer Übertragungsketten den Schiffsbetreibern bekanntgeben wird. Als Betriebsform für sein System entschied sich Racal Decca für die Vermietung der Empfangsgeräte gegen eine Jahresgebühr zur Deckung der Investitions- und Wartungskosten.
+(11) Die grundlegenden Patente von Racal Decca, die es einem Wettbewerber untersagten, Geräte zum Empfang der DNS-Signale herzustellen, sind Mitte der sechziger Jahre ausgelaufen.
+(12) Seit 1946 sind eine Reihe Übertragungsketten entlang der britischen, der dänischen, der norwegischen, der deutschen, der irischen, der niederländischen, der französischen, der finnischen, der schwedischen Küsten sowie der spanischen Atlantikküste errichtet worden. In Europa sind nunmehr 25 und in anderen Teilen der Welt 26 DNS-Ketten in Betrieb.
+Auf die beiden britischen und die dänische Kette, deren Übertragungsbereich für die Bestimmung des räumlich relevanten Marktes der Übertragung der DNS-Signale zugrunde gelegt wird, entfallen mehr als 20 % der 14 Ketten, die innerhalb der Gemeinschaft betrieben werden.
+Die meisten DNS-Übertragungsstationen befinden sich gegenwärtig in Regierungsbesitz und werden auf Kosten des Staates betrieben.
+- In der Republik Irland und den Niederlanden befinden sich die Anlagen zwar im Besitz der Regierung, sie werden jedoch von Racal Decca sowie einer Tochtergesellschaft von Racal Electronics auf Kosten der Regierung betrieben. Die in den deutschen Küstengewässern von Racal Decca betriebene Kette ist im britischen Besitz und wird auf Kosten des britischen Verteidigungsministeriums vor allem für die NATO-Streitkräfte betrieben.
+- Die in den dänischen Gewässern betriebene Kette befand sich bis Juli 1987 ausschließlich im Besitz von Racal Decca. Die Vereinbarung mit der dänischen Regierung über den Signalbetrieb wurde im Jahr 1947 geschlossen und zu späteren Zeitpunkten erneuert. In dem Bericht einer Arbeitsgruppe des dänischen Verteidigungsministeriums aus Dezember 1983 wurde festgestellt, daß die Dienste der Funkstationen einem möglichst grossen Benutzerkreis zugänglich sein müssen und daß die Post gewährleisten müsse, daß auch die Öffentlichkeit Zugang zu dem Signalbetrieb hat.
+Im Anschluß an die von Racal Decca im Jahr 1986 eingeleitete Kündigung wurde zwischen dem dänischen Verteidigungsministerium und Racal Decca am 9. Juli 1987 ein Vertrag unterzeichnet. Gemäß diesem Vertrag gelangen alle dänischen Signalstationen in den Besitz der Regierung und werden auf ihre Kosten von RDN/AS, einer Tochtergesellschaft von Racal Decca, betrieben. Dieser Vertrag wurde vom Verteidigungsministerium mit Wirkung vom 31. Dezember 1988 gekündigt.
+- Alle DNS-Übertragungsstationen im Vereinigten Königreich befinden sich im Besitz von Racal Decca. Sie werden von Racal Decca im Rahmen des Vertrages vom 1. April 1987 mit dem General Lighthouse Authorities auf deren Kosten betrieben, mit Ausnahme der Dienststation Shetland der norwegischen Vestlandet-Kette, die auf Kosten von Racal Decca betrieben wird, und der Dienststation Orfordneß der holländischen Kette, die von Racal Decca im Rahmen eines Vertrages mit der niederländischen Regierung auf deren Kosten betrieben wird. Die Dienststation Donegal der Hebriden-Kette wird von Racal Decca auf eigene Kosten betrieben.
+(13) In der von Racal Decca mit der Anmeldung am 20. Mai 1983 vorgelegten Broschüre »Das Decca Navigator-System und seine Anwendungszwecke" wird angegeben, daß mehr als 10 000 Handelsschiffe unter mehr als 80 verschiedenen Flaggen und mehr als 12 500 Fischereischiffe aller Typen mit Decca-Empfangsgeräten ausgerüstet sind. Auch in den meisten NATO-Mitgliedstaaten wird das DNS-System verwendet, und mehr als 2 000 Schiffe von mehr als 30 Kriegsmarinen sind mit Decca-Empfangseinrichtungen versehen. Das System wurde auch von Landstreitkräften verwendet sowie in Zivil- und Militärflugzeugen.
+(1) ABl. Nr. 13 vom 21. 2. 1962, S. 204/62.
+(2) ABl. Nr. 127 vom 20. 8. 1963, S. 2268/63.
+(14) Die Vertriebspolitik von Racal Decca gegenüber den kommerziellen Abnehmern bestand zumindest bis zum Jahr 1983 aus der Vermietung und nicht dem Verkauf seiner Empfangsgeräte. Ein Verkauf erfolgte nur an Streitkräfte sowie bei Empfangsgeräten, die für Schiffe ausserhalb der Gewässer der Gemeinschaft bestimmt waren. Auf dem Markt der Freizeitboote konnten sich die DNS-Empfangsgeräte unter anderem wegen der hohen Mietgebühren nicht durchsetzen.
+(15) Im November 1983 kündigte Racal Decca das von ihm entwickelte neue integrierte Empfangsgerät MNS 2000 an, das wiederum sowohl für die Vermietung als auch den Verkauf vorgesehen war. Dieses Gerät wählt automatisch das jeweils geeignetste System (DNS, Loran C, Omega oder Transit) aus (Bericht vom 22. November 1983 in der Zeitschrift »Technical"). Das System MNS 2000 kam im Jahr 1985 auf den Markt.
+(16) Racal Decca erzielte im Jahr 1984/85 mit DNS einen Gesamtumsatz von [ . . . ] (1), hiervon stammten [ . . . ] aus Mieteinnahmen. Der verbleibende Umsatzanteil entfiel auf den Verkauf von Geräten und Ketten und den Betrieb von Sendeketten. Nach seinen eigenen Angaben belief sich die »Bruttospanne" auf [ . . . ] entsprechend [ . . . ] aller »absatzbedingter Kosten" von [ . . . ]. Der Ertrag vor Steuern und Zinsen (bereinigt, um Sondergewinne auszunehmen) betrug [ . . . ], was einer Verzinsung von [ . . . ] des in diesem Zeitraum eingesetzten Kapitals entspricht. Nach den Berechnungen des Unternehmens ergibt sich eine durchschnittliche »Bruttospanne" bei vermieteten kommerziellen DNS-Empfängern von [ . . . ] und bei verkauften Empfängern von [ . . . ] auf der Grundlage der angefallenen Kosten. Bei dieser Berechnung wurden jedoch die Aufwendungen für den Sendebetrieb auf den Kostenaufwand bei vermieteten Empfangsgeräten umgelegt. Würde jedoch ein Anteil davon auf den Kostenaufwand bei den vo
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+erzielle Abnehmer zu beliefern;
+- die Verpflichtung, daß Racal Decca gegen nichtlizenzierte Lieferanten gerichtlich vorgeht.
+Auswirkungen der Vereinbarungen
+(120) Der technische und wirtschaftliche Fortschritt wird aus den in Ziffer 101 dargelegten Gründen erheblich eingeschränkt. Die Auswirkungen der Vereinbarungen betreffen auch die Händler und beeinträchtigen unmittelbar die Abnehmer (Eigentumsvorbehalt, Benutzerschein).
+Handel zwischen Mitgliedstaaten
+(121) Der Handel zwischen Mitgliedstaaten wird aus den in den Ziffern 115 und 116 dargelegten Gründen beeinträchtigt.
+Artikel 85 Absatz 3
+(122) Da bei allen Vereinbarungen ein Mißbrauch einer beherrschenden Stellung im Sinne von Artikel 86 EWG-Vertrag vorliegt, kann Artikel 85 Absatz 3 EWG-Vertrag weder im Rahmen eines Negativattestes noch durch eine Einzelfreistellung zur Anwendung kommen.
+(123) Die angemeldeten Vereinbarungen zwischen Racal Decca und AP und zwischen Racal Decca und PE-NAVSTAR würden die Voraussetzungen zur Anwendung von Artikel 85 Absatz 3 ohnehin nicht erfuellen.
+(124) Diese Vereinbarungen tragen weder zur Verbesserung der Warenerzeugung oder -verteilung noch zur Förderung des technischen oder wirtschaftlichen Fortschritts bei. Sie bezwecken und bewirken vielmehr, daß kein DNS-kompatibles Empfangsgerät ohne Zustimmung von Racal Decca von den Parteien hergestellt oder vertrieben wird (Ziffer 100).
+(125) Indem eine Voraussetzung dieses Artikels nicht erfuellt ist, kann man davon absehen zu prüfen, ob die anderen Voraussetzungen erfuellt sind. Doch auch die anderen Voraussetzungen dieses Artikels sind nicht erfuellt. Die Vereinbarungen verschaffen den Verbrauchern keinerlei Vorteile und beschränken ihre Auswahlmöglichkeiten bei kommerziellen Empfangsgeräten. Ferner verringern sie erheblich das Angebot an Freizeitboot-Empfangsgeräten in bezug auf die Anzahl der Wettbewerber (der Markt ist potentiellen Anbietern wie Racal Decca nicht zugänglich) und die Qualität (auf dem Freizeitmarkt werden nur technisch vereinfachte Empfangsgeräte angeboten).
+(126) Die Wettbewerbsbeschränkung ist nicht wie behauptet unerläßlich, um die Übertragung von DNS-Signalen zu finanzieren und die Aufrechterhaltung dieser Dienstleistung zu gewährleisten. Hierzu waren alternative Finanzierungsmöglichkeiten vorhanden, und es liegt kein Nachweis dafür vor, daß diese Alternativen ungeeignet waren.
+(127) Die Vereinbarungen geben den Parteien die Möglichkeit, den Wettbewerb für einen wesentlichen Teil des Marktes dieses Erzeugnisses auszuschalten. Aufgrund der Vereinbarungen mit AP und PE-NAVSTAR wurde jeglicher Wettbewerb durch diese Unternehmen im Bereich der kommerziellen Empfangsgeräte ausgeschaltet, durch die Vereinbarung mit AP wurde verhindert, daß Racal Decca im Bereich der Freizeitboot-Empfangsgeräte als Wettbewerber auftrat. Die Verpflichtung, daß Racal Decca gegen »Eindringlinge" gerichtlich vorgeht, hat den Parteien weitere Möglichkeiten gegeben, den Wettbewerb seitens Dritter einzuschränken.
+Racal Decca hat geltend gemacht, daß die Vereinbarung mit AP über den ausschließlichen Vertrieb in den Anwendungsbereich der Verordnung Nr. 67/67/EWG der Kommission vom 22. März 1967 über die Anwendung von Artikel 85 Absatz 3 des Vertrages auf Gruppen von Alleinvertriebsvereinbarungen (1) falle. Unbeschadet von Ziffer 122 findet diese Verordnung keine Anwendung, da die Vereinbarkeit mit Artikel 85 Absatz 3 nicht vereinbare Auswirkungen zeitigte.
+Artikel 90 Absatz 2 EWG-Vertrag
+(128) Die Bestimmung dieses Artikels kann in diesem Fall nicht geltend gemacht werden, um die Anwendung der Artikel 85 und 86 auszuschließen. Gemäß dem Urteil des Gerichtshofes in der Rechtssache BRT/Sabam (1) ist a) der Begriff der Unternehmen, die unter diese Vorschrift fallen, eng auszulegen und kann b) diese Ausnahmebestimmung nur Anwendung finden, wenn die Unternehmen durch Hoheitsakt der öffentlichen Gewalt mit Dienstleistungen von allgemeinem wirtschaftlichen Interesse betraut sind. Die im Jahr 1947 zwischen Racal Decca und der britischen Regierung getroffene Vereinbarung ist kein Hoheitsakt der öffentlichen Gewalt. Sie enthält zwar genaue Vorschriften und sieht ein behördliches Eingreifen vor, betraut Racal Decca jedoch nicht mit besonderen und genau festgelegten Aufgaben. Dies wird auch daraus deutlich, daß die verwendeten Begriffe »Zustimmung" und »Genehmigung" mit dem Begriff »betraut" kaum in Einklang gebracht werden können.
+(129) Es ist deshalb nicht erforderlich, zu untersuchen, ob der Betrieb des DNS eine Dienstleistung von allgemeinem wirtschaftlichen Interesse darstellt.
+(130) Doch selbst wenn man davon ausgehen würde, daß Racal Decca oder sein Vorgänger mit dem Betrieb des DNS als einer Dienstleistung von allgemeinem wirtschaftlichen Interesse betraut worden wäre, hat es den Nachweis nicht erbracht, daß die Anwendung der Wettbewerbsregeln die Ausübung dieser Dienstleistung behindern würde, da Alternativen zu den Wettbewerbsbeschränkungen vorhanden waren, die von Racal Decca entweder nicht befürwortet oder nicht einmal untersucht worden sind.
+Artikel 3 der Verordnung Nr. 17
+(131) Die Kommission kann gemäß diesem Artikel in einer Entscheidung befinden, daß auch eine bereits abgestellte Handlung eine Zuwiderhandlung gegen Artikel 85 und Artikel 86 EWG-Vertrag darstellt. Sie hat diese Befugnis nicht nur im Hinblick auf die Festsetzung einer Geldbusse gemäß Artikel 15 Absatz 2 dieser Verordnung, sondern auch, um im öffentlichen Interesse eine vielschichtige Rechtslage klarzustellen und um gleichartigen Zuwiderhandlungen auch auf Märkten, die für dieses Verfahren ohne Belang sind, zuvorzukommen (2).
+(132) Die Kommission stellt mit dieser Entscheidung fest, daß das in Ziffer 97 Buchstaben a) und b) dargelegte Verhalten eine Zuwiderhandlung gegen Artikel 86 und das in Ziffer 117 dargelegte Verhalten einen Verstoß gegen Artikel 85 EWG-Vertrag darstellt.
+Artikel 15 Absatz 2 der Verordnung Nr. 17
+(133) Aufgrund der besonderen Rechtslage dieses Falles und des Fehlens von Präzedenzfällen ist die Feststellung nicht möglich, daß Racal Decca absichtlich oder fahrlässig gegen Artikel 86 EWG-Vertrag verstossen hat. Racal Decca hat ferner ihre Verhaltensweisen rechtzeitig der Kommission zur Kenntnis gebracht; ausserdem hat sie mitgeholfen, diese Verstösse abzustellen. Eine Geldbusse wegen Verstosses gegen Artikel 86 wird daher nicht verhängt.
+Die Vereinbarungen mit AP und mit PE-NAVSTAR wurden der Kommission bei ihrem Abschluß gemeldet, weshalb gegen die Parteien keine Geldbusse wegen Verstosses gegen Artikel 85 EWG-Vertrag verhängt werden kann -
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+Artikel 1
+Folgende Vereinbarungen und Verhaltensweisen stellen Zuwiderhandlungen gegen Artikel 86 EWG-Vertrag durch Racal Electronics Plc dar:
+a) alle Vereinbarungen zwischen der Tochtergesellschaft Racal-Decca Marine Navigation Limited und AP Radiotelefon A/S und alle Verhaltensweisen, die zu ihrem Abschluß geführt haben, nämlich
+- die Lizenzvereinbarung in bezug auf das Decca Navigator System vom 1. Januar 1983,
+- die Alleinvertriebsvereinbarung vom 1. Januar 1983,
+- die Lizenzvereinbarung vom 20. September 1983;
+b) alle von der Tochtergesellschaft Racal-Decca Marine Navigation Limited am 25. Mai 1984 unterzeichneten Vereinbarungen mit Polytechnic Marine Plc (Polytechnic Electronics Plc) und mit NAVSTAR SA und alle Verhaltensweisen, die zu ihrem Abschluß geführt haben, nämlich
+- die Lizenzvereinbarung,
+- die technische Vereinbarung,
+- Technology Licence Back Agreement (Vereinbarung über die Gewährung von technischen Lizenzen);
+c) die von der Tochtergesellschaft Racal-Decca Marine Navigation Ltd zur Behinderung der Funktionsweise von konkurrierenden Empfangsgeräten vorgenommenen Signaländerungen.
+Artikel 2
+Die in Artikel 1 Buchstaben a) und b) aufgeführten Vereinbarungen sind Zuwiderhandlungen gegen Artikel 85 EWG-Vertrag durch Racal Electronics Plc, Philips Glöilampenfabrieken NV und Polytechnic Electronics Plc.
+Artikel 3
+Diese Entscheidung ist gerichtet an
+- Racal Electronics Plc,
+Western Road,
+Bracknell,
+GB-Berks RG12 1RG;
+- NV Philips Glöilampenfabrieken,
+NL-5621 BA Eindhoven;
+- Polytechnic Electronics Plc,
+Royal Oak Way,
+Daventry,
+GB-Northants NN11 5PJ.
+Brüssel, den 21. Dezember 1988
+Für die Kommission
+Peter SUTHERLAND
+Mitglied der Kommission
+(1) ABl. Nr. 57 vom 25. 3. 1967, S. 849/67, geändert durch die Verordnung (EWG) Nr. 2591/72 (ABl. Nr. L 276 vom 9. 12. 1972, S. 15) und durch Verordnung (EWG) Nr. 3577/82 (ABl. Nr. L 373 vom 31. 12. 1982, S. 58).
+(1) Urteil vom 23. 3. 1974 in der Rechtssache 127/73, Slg. (1974), S. 318.
+(2) Fall 7/82 'GVL' (1983), S. 483.
+ANLAGE
+Funknavigationshilfen 1.2.3.4.5.6.7.8.9.10.11.12 // // // // // // // // // // // // // // DNS // Loran C // Omega // Differential Omega // Rana // Toran // Radar // Marine Radio Beacons // VHF Lighthouse System // NNSS Satellite Navigation (Transit) // GPS (Global Position System) // // // // // // // // // // // // // Genauigkeit (Meter) // T) 50-2 000 N) 180-7 400 // 100-1 000 // 3 700-7 400 // 180-5 550 // 20-2 000 // 5-50 // 90-610 // T) 1 850 N) 3 700 // 920-2 780 // 460 Frequenz: alle 90 Minuten // 100 // // // // // // // // // // // // // Übertragungs- bereich (Seemeilen) // T) 480 N) 240 // groß (weiter als DNS) // groß // 300 // T) 600 N) 200 // 120 // 25 (normal) // 20-40 // 15-30 // unerheblich // // // // // // // // // // // // // // in Europa erfasste geographische Gebiete // von Norwegen bis Nordspanien // Nordeuropa ohne Kanalgebiet, südlicher Teil der Nordsee und Ostsee // Gesamteuropa ohne Skandinavien // Gesamteuropa ohne nördl. Teil von Groß- britannien, Skandinavien und Deutsch- land // Nordwest- frankreich (Bucht von Biscaya) u. südwestl. Teil des Verei- nigten Königreichs // Westfrank- reich u. ein kleiner Teil des Kanal- gebiets // Gesamt- europa // Gesamteuropa im Bereich der kritischen Stellen // 5 Stellen im Vereinigten Königreich // Gesamt- europa // noch nicht im Einsatz // // // // // // // // // // // //
+T) = Tag
+N) = Nacht

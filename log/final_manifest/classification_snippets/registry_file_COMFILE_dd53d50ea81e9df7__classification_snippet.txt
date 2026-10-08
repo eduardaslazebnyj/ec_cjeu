@@ -1,0 +1,613 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 12 November 2008
+.
+
+.
+
+NON-CONFIDENTIAL VERSION*
+
+OF THE COMMISSION DECISION OF 12 NOVEMBER 2008
+
+Case COMP/39125 – Carglass
+
+COMMISSION DECISION
+
+of 12 November 2008
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+and Article 53 of the EEA Agreement
+
+(COMP/39.125 – Carglass)
+
+(Only the English, French and Dutch texts are authentic)
+
+(Text with EEA relevance)
+
+* Parts of this text have been edited to ensure that confidential information is not disclosed. Those parts are
+replaced by a non-confidential summary in square brackets or are shown as [...].
+
+EN 1 EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 5
+
+1.1. Addressees .................................................................................................................... 5
+
+1.2. Summary of the infringement ...................................................................................... 6
+
+1.3. Value of sales ............................................................................................................... 6
+
+PART 1: FACTS ........................................................................................................................ 7
+
+2. The Industry ................................................................................................................. 7
+
+2.1. The product .................................................................................................................. 7
+
+2.2. The market players ....................................................................................................... 9
+
+2.2.1. Undertakings subject to the present proceedings ......................................................... 9
+
+2.2.2. Other market players .................................................................................................. 11
+
+2.3. Description of the industry ......................................................................................... 11
+
+2.3.1. Supply ........................................................................................................................ 11
+
+2.3.2. Demand ...................................................................................................................... 12
+
+2.3.3. The geographic scope ................................................................................................. 13
+
+2.3.4. Industry figures and shares ......................................................................................... 13
+
+2.4. Trade between Member States ................................................................................... 14
+
+3. Procedure .................................................................................................................... 15
+
+3.1. The Commission’s investigation ................................................................................ 15
+
+3.2. The leniency application ............................................................................................ 18
+
+4. Description of the Events ........................................................................................... 18
+
+4.1. Background ................................................................................................................ 18
+
+4.1.1. The procurement of carglass by car manufacturers ................................................... 18
+
+4.1.2. Licensing, cross supply agreements and other commercial relationships between
+carglass suppliers ....................................................................................................... 22
+
+4.1.3. Market share estimates by the market players subject to the proceeding .................. 23
+
+4.2. Organisation of the cartel ........................................................................................... 27
+
+4.2.1. Trilateral, bilateral meetings and other contacts ........................................................ 27
+
+4.2.2. Location of meetings .................................................................................................. 28
+
+4.2.3. Frequency of meetings ............................................................................................... 28
+
+EN 2 EN
+
+4.2.4. Participants ................................................................................................................. 28
+
+4.2.5. Overview of the meetings and contacts from 1998 to 2003 ....................................... 30
+
+4.3. Object and functioning of the cartel ........................................................................... 35
+
+4.3.1. Allocation of customers ............................................................................................. 35
+
+4.3.2. Monitoring with a view to maintaining market shares stable .................................... 39
+
+4.3.3. Correcting measures ................................................................................................... 42
+
+4.4. The operation of the cartel ......................................................................................... 44
+
+4.4.1. Start of the infringement - 1998 ................................................................................. 44
+
+4.4.2. 1999 ............................................................................................................................ 56
+
+4.4.3. 2000 ............................................................................................................................ 68
+
+4.4.4. 2001 ............................................................................................................................ 88
+
+4.4.5. 2002 .......................................................................................................................... 108
+
+4.4.6. 2003 .......................................................................................................................... 116
+
+4.5. Overview of main arguments by the parties and main counter-arguments by the
+Commission.............................................................................................................. 118
+
+PART 2: LEGAL ASSESSMENT ......................................................................................... 132
+
+5. Application of Article 81 of the Treaty and Article 53 of the EEA Agreement ...... 132
+
+5.1. Relationship between the EC Treaty and the EEA Agreement ................................ 132
+
+5.2. Jurisdiction ............................................................................................................... 132
+
+5.3. Article 81 of the Treaty and Article 53 of the EEA Agreement .............................. 132
+
+5.3.1. Article 81 of the Treaty and Article 53 of the EEA Agreement .............................. 132
+
+5.3.2. The nature of the infringement ................................................................................. 133
+
+5.4. Single and continuous infringement......................................................................... 139
+
+5.4.1. Principles .................................................................................................................. 139
+
+5.4.2. Application to the case ............................................................................................. 140
+
+5.5. Restriction of competition ........................................................................................ 143
+
+5.6. Pilkington and Saint-Gobain's arguments in response to the Statement of Objections
+in relation to the legal assessment of the facts and the Commission's appraisal ..... 144
+
+6. Application of Article 81(3) of the Treaty ............................................................... 147
+
+7. Effect upon trade between Member states and between EEA contracting parties ... 148
+
+8. Addressees ................................................................................................................ 149
+
+8.1. Principles applicable ................................................................................................ 149
+
+EN 3 EN
+
+8.2. Application to this case ............................................................................................ 151
+
+8.2.1. AGC ......................................................................................................................... 151
+
+8.2.2. Saint-Gobain ............................................................................................................ 161
+
+8.2.3. Pilkington ................................................................................................................. 168
+
+8.2.4. Soliver ...................................................................................................................... 171
+
+9. Duration of the infringement .................................................................................... 171
+
+10. Remedies .................................................................................................................. 172
+
+10.1. Article 7 of Regulation (EC) No 1/2003 .................................................................. 172
+
+10.2. Article 23(2) of Regulation (EC) No 1/2003 (Article 15(2) of Regulation No 17) . 173
+
+10.3. The basic amount of the fines .................................................................................. 175
+
+10.3.1. Calculation of the value of sales .............................................................................. 175
+
+10.3.2. Determination of the basic amount of the fine ......................................................... 178
+
+10.3.3. Conclusion on the basic amounts ............................................................................. 181
+
+10.4. Adjustments to the basic amount ............................................................................. 182
+
+10.4.1. Aggravating circumstances ...................................................................................... 182
+
+10.4.2. Mitigating circumstances ......................................................................................... 183
+
+10.4.3. Sufficient deterrence ................................................................................................ 186
+
+10.5. Application of the 10% Turnover limit .................................................................... 186
+
+10.6. Application of the Leniency Notice ......................................................................... 187
+
+10.6.1. Immunity under point 8 of the Leniency Notice ...................................................... 187
+
+10.6.2. Significant Added Value .......................................................................................... 189
+
+10.6.3. Application of point 23(b) of the Leniency Notice .................................................. 189
+
+10.6.4. Conclusion on the application of the Leniency Notice ............................................ 190
+
+11. [...] ........................................................................................................................... 191
+
+12. Final amounts of the fines to be imposed in this proceeding ................................... 191
+
+EN 4 EN
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decision of 18 April 2007 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+
+1.1. Addressees
+
+(1) This Decision concerns arrangements between the following undertakings
+active in the automotive glass sector in the EEA:
+
+– Asahi Glass Co. Ltd
+– AGC Flat Glass Europe SA/NV (formerly Glaverbel SA)
+– AGC Automotive Europe SA
+– Glaverbel France SA
+– Glaverbel Italy S.r.l.
+– Splintex France Sarl
+– Splintex UK Limited
+– AGC Automotive Germany GmbH
+– La Compagnie de Saint-Gobain SA
+– Saint-Gobain Glass France SA
+
+1 OJ L 1, 4.1.2003, p.1.
+2 OJ L 123, 27.4.2004, p. 18.
+3 OJ
+
+5
+
+– Saint-Gobain Sekurit Deutschland GmbH & Co. KG
+– Saint-Gobain Sekurit France SA
+– Pilkington Group Limited
+– Pilkington Automotive Ltd
+– Pilkington Automotive Deutschland GmbH
+– Pilkington Holding GmbH
+– Pilkington Italia Spa
+– Soliver NV.
+
+1.2. Summary of the infringement
+
+(2) This Decision arises out of investigations carried out by the Commission in
+February and March 2005 pursuant to Article 20(4) of Regulation (EC) No
+1/2003 at the premises of the main producers of carglass in the EEA and
+concerns the automotive glass industry, in particular the supply of
+automotive glass to car manufacturers and their network of authorised
+dealers.
+
+(3) The addressees of this Decision participated in a single and continuous
+infringement of Article 81 of the Treaty and Article 53 of the Agreement
+on the European Economic Area (hereinafter ‘EEA Agreement’). The
+infringement consisted in concerted allocation of contracts concerning the
+supply of carglass pieces and/or carsets4 for all major car manufacturers in
+the EEA, through coordination of pricing policies and supply strategies
+aimed at maintaining an overall stability of the parties’ position on the
+market concerned. In this respect, the competitors also monitored the
+decisions taken during these meetings and contacts and agreed on
+correcting measures in order to compensate for each other when previously
+decided allocations of glass pieces proved insufficient in practice to ensure
+an overall degree of stability in their respective market shares.
+
+(4) The cartel lasted [...] from 10 March 1998 to 11 March 2003.
+
+1.3. Value of sales
+
+(5) In 2002, namely the last full business year of the infringement, the value of
+sales of the product concerned by this Decision to Original Equipment
+Manufacturers (hereafter "OEM") in the EEA amounted to approximately
+EUR [2 000-2 500] million.
+
+4 A carset generally consists of a windscreen, sidelights and backlights, normally 1 windscreen, 1
+backlight and 6 sidelights (see recital (7) for description of product).
+
+6
+
+PART 1: FACTS
+
+2. THE INDUSTRY
+
+2.1. The product
+
+(6) Automotive glass or carglass is made from float glass, that is the basic flat
+glass product category. In previou
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+so submitted documentary evidence
+in the form of contemporaneous handwritten notes by the employees of the
+leniency applicant.
+
+(722) [...]. It has provided the Commission with full and effective cooperation
+from the day after the inspection and throughout the proceeding. The
+Commission therefore considers that Glaverbel and Asahi have met the
+requirements of point 21 of the Leniency Notice. Furthermore, as Asahi
+and Glaverbel were the first and only undertakings to have fulfilled the
+requirements of point 21 of the Leniency Notice, the Commission informed
+those companies by letter of 30 March 2007878 of its intention to grant them
+a 30-50% reduction of the fine that would normally be imposed.
+
+(723) Considering the value of their contribution to this case, the very early stage
+at which they provided this contribution and the extent of their cooperation
+following their submissions, Glaverbel and Asahi are entitled to a reduction
+of 50% of the fine that would otherwise have been imposed on them.
+
+10.6.3. Application of point 23(b) of the Leniency Notice
+
+(724) In the responses to the Statement of Objections, the leniency applicant
+claims that it should be granted partial immunity under point 23 of the
+Leniency Notice for the periods from [...]. Glaverbel claims that without
+its contribution the Commission would not have been in a position to prove
+the existence of the infringement [...]. In particular the Commission would
+only have been able to establish a very limited number of anti-competitive
+contacts in relation to only the period between [...].879 The documents in
+the Commission's possession following the first inspection did, according
+to Glaverbel, not constitute sufficient evidence of anti-competitive contacts
+
+878 See p. 50136 to 50140 (Decisions) and p. 50141 bis (notification).
+879 See Glaverbel's response to the Statement of Objections, p. 30 to 34 and Asahi's response to the
+Statement of objections, p. 50.
+
+189
+
+[...].880 It was the leniency applicant's contribution that enabled the
+Commission to prove the infringement beyond that period which therefore
+had a direct bearing on the duration of the infringement or, at the very least,
+the applicant's involvement in the infringement during that period.
+Moreover, the leniency applicant claims that, without its help, the
+Commission would not have been able to establish the infringement and/or
+its involvement in the infringement [...].881
+
+(725) According to point 23, third paragraph, of the Leniency Notice, if an
+undertaking provides evidence "relating to facts previously unknown to the
+Commission which have a direct bearing on the gravity or the duration of
+the suspected cartel", the Commission will not take these elements into
+account when setting the fine to be imposed on that undertaking. It follows
+clearly from its wording that point 23, third paragraph, requires a fact
+"unknown to the Commission" and not simply the fact that evidence may
+critically reinforce the ability to prove certain facts with regard to which
+the Commission already has evidence on the file. Moreover, in order to
+benefit from point 23, third paragraph, the evidence provided by the
+applicant must have a direct bearing on the duration or the gravity of the
+suspected cartel as such and not merely the applicant's involvement in the
+cartel. It is not enough to provide evidence regarding certain details which
+may reinforce the ability to prove the cartel (such as additional meetings or
+contacts), but which have no bearing on the overall gravity or duration of
+the cartel.
+
+(726) At the time of the leniency application, the Commission had evidence
+copied during the first inspection of cartel contacts [...] from 10 March
+1998 (starting date of the infringement, see recital (125)) and [...],
+indicating that all of the addressees of this Decision had entered into illicit
+arrangements concerning the supply of automotive glass to vehicle
+manufacturers.882 The leniency applicant did not provide any evidence that
+would have allowed the Commission to extend the duration or the scope of
+the cartel beyond what was already known to it at the time the application
+was made. The fact that the leniency applicant's information further
+corroborated and complemented the information already in the
+Commission's possession and, therefore, to some extent allowed the
+Commission to prove the facts in question is a matter that has been
+assessed (and rewarded) as evidence bringing significant added value
+within the meaning of point 21 of the Leniency Notice.
+
+(727) In the light of the above, the Commission considers that point 23, third
+paragraph, of the Leniency Notice is not applicable to the leniency
+applicant.
+
+10.6.4. Conclusion on the application of the Leniency Notice
+
+(728) In conclusion, the leniency applicant will be granted a 50% reduction of the
+fines that would otherwise have been imposed. It will, however, for the
+
+880 See Glaverbel's response to the Statement of Objections, p. 32 and 33.
+881 See Glaverbel's response to the Statement of Objections, p. 36 to 52.
+882 See documents labelled KE18, p. 831, PJ1, p. 1572 and JLO2, p. 3482.
+
+190
+
+reasons stated in section 10.6.3, not be granted a reduction pursuant to
+point 23, third paragraph, of the Leniency Notice.
+
+11. [...]
+
+(729) [...].
+
+(730) [...].
+
+12. FINAL AMOUNTS OF THE FINES TO BE IMPOSED IN THIS PROCEEDING
+
+(731) The amounts to be imposed pursuant to Article 23(2) of Regulation (EC)
+No 1/2003 should therefore be as follows:
+
+(a) Saint-Gobain: 896 000 000 EUR
+
+(b) Pilkington: 370 000 000 EUR
+
+(c) AGC: 113 500 000 EUR
+
+(d) Soliver: 4 396 000 EUR
+
+191
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81 of the Treaty establishing the European
+Communities and Article 53 of the EEA Agreement by participating, for the periods
+indicated, in a complex of agreements and/or concerted practices in the automotive glass
+sector in the EEA:
+
+(a) Asahi Glass Company Limited, AGC Flat Glass Europe SA/NV, AGC
+Automotive Europe SA, Glaverbel France SA, Glaverbel Italy S.r.l.,
+Splintex France Sarl, Splintex UK Limited and AGC Automotive Germany
+GmbH, from 18 May 1998 to 11 March 2003;
+
+(b) La Compagnie de Saint-Gobain SA, Saint-Gobain Glass France SA, Saint-
+Gobain Sekurit Deutschland GmbH & Co. KG and Saint-Gobain Sekurit
+France SA, from 10 March 1998 to 11 March 2003;
+
+(c) Pilkington Group Limited, Pilkington Automotive Ltd, Pilkington
+Automotive Deutschland GmbH, Pilkington Holding GmbH and Pilkington
+Italia Spa, from 10 March 1998 to 3 September 2002;
+
+(d) Soliver NV, from 19 November 2001 to 11 March 2003.
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Asahi Glass Company Limited, AGC Flat Glass Europe SA/NV, AGC
+Automotive Europe SA, Glaverbel France SA, Glaverbel Italy S.r.l.,
+Splintex France Sarl, Splintex UK Limited and AGC Automotive Germany
+GmbH, jointly and severally: EUR 113 500 000;
+
+(b) La Compagnie de Saint-Gobain SA, Saint-Gobain Glass France SA, Saint-
+Gobain Sekurit Deutschland GmbH & Co. KG and Saint-Gobain Sekurit
+France SA, jointly and severally: EUR 896 000 000;
+
+(c) Pilkington Group Limited, Pilkington Automotive Ltd, Pilkington
+Automotive Deutschland GmbH, Pilkington Holding GmbH and Pilkington
+Italia Spa, jointly and severally: EUR 370 000 000;
+
+(d) Soliver NV: EUR 4 396 000.
+
+The fines shall be paid in Euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+
+SOCIETE GENERALE
+Cours Valmy 17, F-92800 PUTEAUX
+IBAN Code: FR76 30003 06990 00101611532 82
+SWIFT Code: SOGEFRPPXXX
+
+192
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points..
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringement
+referred to in that Article, insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+Asahi Glass Co. Ltd
+1-12-1, Yurakucho,
+Chiyoda-ku,
+Tokyo 100-8405
+JAPAN
+
+AGC Flat Glass Europe SA/NV
+Chaussée de la Hulpe / Terhulpsesteenweg 166
+B-1170 Brussels
+BELGIUM
+
+AGC Automotive Europe SA
+Parc Industriel Zone C
+B-7180 Seneffe
+BELGIUM
+
+Glaverbel France SA
+114 Bureaux de la Colline
+92213 Saint-Cloud Cedex
+FRANCE
+
+Glaverbel Italy S.r.l.
+Via Genova, 31
+12100 CUNEO (CN)
+ITALY
+
+Splintex France Sarl
+Tour Pascal A
+6 Place des Degres - La Defense
+92045 Paris
+
+193
+
+FRANCE
+
+Splintex UK Limited
+Chestnut field
+Regent Place - Rugby
+Warwickshire CV21 2XH
+UNITED KINGDOM
+
+AGC Automotive Germany GmbH
+Friedrich-List-Allee 40
+41844 Wegberg
+GERMANY
+
+La Compagnie de Saint-Gobain SA
+18, Avenue d’Alsace
+Les Miroirs La Défense 3
+F-92400 Courbevoie
+FRANCE
+
+Saint-Gobain Glass France SA
+18, Avenue d’Alsace
+Les Miroirs La Défense 3
+F-92400 Courbevoie
+FRANCE
+
+Saint-Gobain Sekurit Deutschland GmbH & Co. KG
+Viktoriaallee 3-5
+52066 Aachen
+GERMANY
+
+Saint-Gobain Sekurit France SA
+Rue du Marechal Joffre
+60150 Thourotte
+FRANCE
+
+Pilkington Group Limited
+Prescot Road
+St Helens, Merseyside WA10 3TT
+UNITED KINGDOM
+
+Pilkington Automotive Ltd
+Prescot Road
+St Helens, Merseyside WA10 3TT
+UNITED KINGDOM
+
+194
+
+Pilkington Automotive Deutschland GmbH
+Haydnstraße 19
+45884 Gelsenkirchen
+GERMANY
+
+Pilkington Holding GmbH
+Haydnstraße 19
+45884 Gelsenkirchen
+GERMANY
+
+Pilkington Italia Spa
+Zona Industrale San Salvo
+66050 San Salvo (CH)
+ITALY
+
+Soliver NV
+Groene-Herderstraat, 18
+8800 Roeselare (Rumbeke)
+BELGIUM
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 12 November 2008
+
+For the Commission
+Neelie KROES
+Member of the Commission
+
+195

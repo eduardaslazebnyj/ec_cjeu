@@ -1,0 +1,488 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, 29.09.2004
+C(2004)3598 Endgültig
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 29.09.2004
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+(Sache COMP/E-1/36.756 – Natriumglukonat)
+
+(Nur der deutsche Text ist verbindlich)
+(Text von Bedeutung für den EWR)
+
+INHALT
+
+1. Teil I – Sachverhalt...................................................................................................... 6
+
+1.1. Gegenstand des Verfahrens.......................................................................................... 6
+
+1.2. Zusammenfassung der Zuwiderhandlung .................................................................... 7
+
+1.3. Das Produkt.................................................................................................................. 8
+
+1.4. Die Hersteller ............................................................................................................... 8
+
+1.4.1. Das Unternehmen, das die in dieser Entscheidung festgestellte Zuwiderhandlung
+begangen hat ................................................................................................................ 9
+
+1.4.2. Die von der Entscheidung vom 2. Oktober 2001 erfassten Unternehmen................. 17
+
+1.4.3. Ehemalige Hersteller.................................................................................................. 19
+
+1.5. Der relevante Markt ................................................................................................... 20
+
+1.5.1. Der sachlich relevante Markt .................................................................................... 20
+
+1.5.2. Der räumlich relevante Markt.................................................................................... 21
+
+1.5.3. Belieferung mit Natriumglukonat .............................................................................. 22
+
+1.5.4. Zwischenstaatlicher Handel ....................................................................................... 23
+
+1.6. Verfahren ................................................................................................................... 23
+
+1.7. Verfahren in den Vereinigten Staaten und in Kanada................................................ 26
+
+1.8. Beschreibung des Geschehens .................................................................................. 27
+
+1.8.1. Organisatorische Grundlagen..................................................................................... 29
+
+1.8.2. Änderungen der Eigentumsverhältnisse der am Kartell beteiligtenUnternehmen..... 32
+
+1.8.3. Der Werdegang des Kartells ...................................................................................... 33
+
+1.9. Tatsachen, die eine Beteiligung anderer juristischer Personen der
+Unternehmensgruppe Jungbunzlauer als der Jungbunzlauer Ladenburg GmbH an
+wettbewerbswidrigen Kontakten zwischen NaG-Wettbewerbern beweisen ............. 55
+
+1.10. Entwicklung des NaG-Preises in Europa während der Kartellzeit ............................ 57
+
+2. Teil II – Rechtliche Würdigung ................................................................................. 58
+
+2.1. Zuständigkeit.............................................................................................................. 58
+
+2.2. Anwendung von Artikel 81 EG-VERTRAG und Artikel 53 EWR-ABKOMMEN.. 58
+
+2.2.1. Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-Abkommen.......... 58
+
+2.2.2. Vereinbarungen und aufeinander abgestimmte Verhaltensweisen ............................ 59
+
+2.2.3. Einzige, fortdauernde Zuwiderhandlung.................................................................... 62
+
+3
+
+2.2.4. Einschränkung des Wettbewerbs ............................................................................... 62
+
+2.2.5. Auswirkungen auf den Handel zwischen Mitgliedstaaten und EWR-Vertragsparteien63
+
+2.2.6. Erfüllung der Voraussetzungen in Artikel 81 Absatz 3 EG-Vertrag ......................... 64
+
+2.2.7. Die für Österreich, Finnland, Island, Liechtenstein, Norwegen und Schweden
+geltende Wettbewerbsregeln...................................................................................... 64
+
+2.3. Adressaten dieser Entscheidung................................................................................. 65
+
+2.3.1. Verfolgungverjährung................................................................................................ 65
+
+2.3.2. Haftung für die Zuwiderhandlung.............................................................................. 65
+
+2.4. Dauer der Zuwiderhandlung ...................................................................................... 75
+
+2.4.1. Beginn der Zuwiderhandlung..................................................................................... 75
+
+2.4.2. Zeitpunkt des Endes der Zuwiderhandlung ............................................................... 76
+
+2.5. Abhilfemassnahmen................................................................................................... 78
+
+2.5.1. Artikel 3 der Verordnung Nr. 17 und Artikel 7 der Verordnung (EG) Nr. 1/2003.... 78
+
+2.5.2. Artikel 15, Absatz 2, der Verordnung Nr. 17 und Artikel 23 Absatz 2 der
+Verordnung (EG) Nr. 1/2003.................................................................................... 78
+
+4
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 29.09.2004
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+(Sache COMP/E-1/36.756 – Natriumglukonat)
+
+(Nur der deutsche Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN -
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002, zur
+Durchführung der in den Artikeln 81 und 82 des Vertrages niedergelegten
+Wettbewerbsregeln1, insbesondere auf die Artikel 7 und 23 Absatz 2,
+im Hinblick auf die Entscheidung der Kommission vom 22. April 2004 zur Einleitung eines
+Verfahrens in dieser Sache,
+nachdem den beteiligten Unternehmen Gelegenheit gegeben wurde, sich zu den von der
+Kommission gemäß Artikel 19 Absatz 1 der Verordnung Nr. 17, Artikel 27 Absatz 1 der
+Verordnung (EG) Nr. 1/2003 und der Verordnung (EG) Nr. 2842/98 der Kommission vom
+22. Dezember 1998 über die Anhörung der Parteien in bestimmten Verfahren nach Artikel 81
+und 82 EG-Vertrag2 erhobenen Beschwerdepunkten zu äußern,
+nach Konsultierung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+im Hinblick auf den endgültigen Bericht des Anhörungsbeauftragten in dieser Sache,
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+(*) die eckigen Klammern, die mit einem Stern markiert sind, deuten
+vertrauliche Informationen an, die aus dem Text gestrichen worden
+sind.
+
+1 ABL. L 1 vom 4.1.2003
+2 ABL. L 354 vom 30.12.1998, S. 18.
+
+5
+
+1. TEIL I – SACHVERHALT
+
+1.1. Gegenstand des Verfahrens
+
+(1) Dieser Fall betrifft Vereinbarungen und aufeinander abgestimmte Verhaltensweisen im
+Widerspruch zu Artikel 81 EG-Vertrag bzw. Artikel 53 des Abkommens über den
+Europäischen Wirtschaftsraum (EWR), mit denen Natriumglukonat-Hersteller
+Absatzmengen auf dem europäischen Markt untereinander zugeteilt, die Preise für
+dieses Erzeugnis festgesetzt und Verträge mit Kunden untereinander zugewiesen haben.
+
+(2) Die Kommission erliess am 2. Oktober 2001 gegenüber Archer Daniels Midland
+Company Inc. („ADM“), Fujisawa Pharmaceutical Company Ltd. („Fujisawa“), Akzo
+Nobel N.V. („Akzo“), Avebe B.A. („Avebe“), Roquette Frères S.A. („Roquette“) und
+Jungbunzlauer AG eine Entscheidung, die deren Beteiligung an einem Kartell auf dem
+Gebiet Natriumglukonat feststellte und ihnen ein Bußgeld in Höhe eines
+Gesamtbetrages von 57,53 Mio. EUR auferlegte3.
+
+(3) Am 19. März 2002 erließ die Kommission eine Entscheidung gegenüber Jungbunzlauer
+AG, mit der sie ihre Entscheidung vom 2. Oktober 2001 insoweit zurücknahm, als sie
+an Jungbunzlauer AG, St. Alban-Vorstadt 90, CH-4002 Basel, gerichtet und zugestellt
+war. Zur Begründung führte sie aus, dass diese Entscheidung in Hinblick auf die
+Begründung bei der Feststellung ihres Adressaten aus tatsächlichen Gründen fehlerhaft
+war.
+
+(4) In ihrer Entscheidung vom 2. Oktober 2001 hat die Kommission im Rahmen ihrer
+Begründung bei der Feststellung der Adressaten4 behauptet, dass die Jungbunzlauer AG
+die Muttergesellschaft von Jungbunzlauer Ladenburg GmbH ist. Die Jungbunzlauer AG
+ist tatsächlich jedoch nicht die Muttergesellschaft von Jungbunzlauer Ladenburg
+GmbH, sondern lediglich deren Schwestergesellschaft. Darüber hinaus hat die
+Kommission in derselben Entscheidung5 als Umsatz der Jungbunzlauer AG in dem Jahr
+2000 den Betrag von [.*.]6 ausgewiesen. Später stellte sich jedoch heraus, dass es sich
+insofern um den Umsatz der Unternehmensgruppe handelte.7
+
+(5) Die Kommission stellt in der vorliegenden Entscheidung fest, dass die Jungbunzlauer
+Holding AG, Chur, die Jungbunzlauer Ladenburg GmbH, Ladenburg, die
+Jungbunzlauer AG, Basel, und die Jungbunzlauer GesmbH, Wien, eine
+Zuwiderhandlung gegen Artikel 81 EG-Vertrag und Artikel 53 EWR - Abkommen im
+Sektor Natriumglukonat begangen haben und macht die genannten Gesellschaften der
+Jungbunzlauer Unternehmensgruppe als Gesamtschuldner für die festgesetzte Geldbuße
+haftbar. Dieselbe Zuwiderhandlung hat die Kommission bezüglich anderer
+Unternehmen bereits mit der Entscheidung vom 2. Oktober 2001 festgesetzt.
+
+(6) Die vorliegende Entscheidung übernimmt im Wesentlichen die Sachverhaltsdarstellung
+der ursprünglichen Entscheidung vom 2. Oktober 2001. Für die Angaben über den
+
+3 Entscheidung der Kommission vom 2. Oktober 2001 (COMP/E-1/36.756 – Natriumgluconat).
+4 Erwägungsgrund (287) bis (295) der Entscheidung vom 2. Oktober 2001.
+5 Erwägungsgrund (24) der Entscheidung vom 2. Oktober 2001.
+6 [.*.]
+7 Absatz (33) der vorliegenden Entscheidung.
+
+6
+
+Markt, das betreffende Produkt, sowie die betroffenen Unternehmen auf dem oben
+dargestellten Markt, greift die Kommission auf die ursprüngliche Entscheidung zurück.
+Soweit kein anderes Jahr genannt wird, beziehen sich die Angaben auf das Jahr 2000.
+Wie aus der nachfolgenden Beschreibung hervorgeht, war die Jungbunzlauer Ladenburg
+GmbH (die vorher die Firma Biochemie Ladenburg GmbH führte) an dem die
+Zuwiderhandlung darstellenden Verhalten unmittelbar beteiligt. Sie wird im Sachverhalt
+teilweise als « Jungbunzlauer » bezeichnet. Die juristischen Personen, die ebenfalls zur
+Jungbunzlauer Unternehmensgruppe gehören, werden ansonsten mit ihrem
+vollständigen Firmennamen genannt. Wenn kein Unterschied zwischen den vier
+Jungbunzlauer Gesellschaften, an die diese Entscheidung gerichtet ist, gemacht wird,
+werden sie mit „Jungbunzlauer Unternehmensgruppe“ bezeichnet.
+
+(7) Die vorliegende Entscheidung verändert in keiner Weise die Reichweite der
+Entscheidung der Kommission vom 2. Oktober 2001 bezüglich der Adressaten, die nach
+der Entscheidung vom 19. März 2002 verbleiben.
+
+(8) Die Kommission stellt ausserdem fest, dass Gesellschaften der [.*.] im Laufe des
+Verwaltungsverfahrens vor dem Erlass der Entscheidung vom 2. Oktober 2001 der
+Kommission Auskünfte erteilt und Unterlagen übergeben haben, die zum Beweis der in
+dieser Entscheidung festgestellten Zuwiderhandlung beigetragen haben. Die [.*.] hat den
+Sachverhalt, auf den die Kommission ihre Mitteilung der Beschwerdepunkte vom 17.
+Mai 2000 gestützt hatte, nicht bestritten. Aus diesen Gründen hatte die Kommission der
+[.*.] für ihre Zusammenarbeit aufgrund der Mitteilung der Kommission über die
+Nichtfestsetzung oder die niedrigere Festsetzung von Geldbußen in Kartellsachen
+("Kronzeugen-Regelung")8 in ihrer Entscheidung vom 2. Oktober 2001 eine
+Ermäßigung von 20 % des Bußgeldes gewährt 9.
+
+(9) Die vorliegende Entscheidung stellt gegenüber der Jungbunzlauer AG eine neue
+Entscheidung dar. Sie berichtigt insbesondere die unrichtigen tatsächlichen Angaben,
+die in der Entscheidung vom 2. Oktober 2001 enthalten waren und aufgrund derer die
+Kommission Jungbunzlauer AG als Adressaten der Entscheidung bestimmte. Diese
+unrichtigen tatsächlichen Angaben führten zur Rücknahme der Entscheidung der
+Kommission vom 2. Oktober 2001 durch die Entscheidung der Kommission vom 19.
+März 2002.
+
+1.2. Zusammenfassung der Zuwiderhandlung
+
+(10) Diese Entscheidung zur Festsetzung von Geldbußen wegen eines Verstoßes gegen
+Artikel 81 EG-Vertrag. und Artikel 53 EWR-Abkommen ist an die folgenden
+Unternehmen gerichtet: Jungbunzlauer Holding AG, Chur, Jungbunzlauer Ladenburg
+GmbH, Ladenburg, Jungbunzlauer AG, Basel, und Jungbunzlauer Austria AG Wien,
+
+(11) Die in dieser Entscheidung festgestellte Zuwiderhandlung besteht in einer fortdauernden
+wettbewerbswidrigen Vereinbarung und/oder aufeinander abgestimmten
+Verhaltensweise im Sinne von Artikel 81 Absatz 1 EG-Vertrag bzw. Artikel 53
+Absatz 1 EWR-Abkommen (ab 1. Januar 1994) in dem gesamten Gebiet des EWR, mit
+der Hersteller von Natriumglukonat untereinander Absatzmengen zugeteilt, Preise für
+dieses Erzeugnis festgesetzt und Verträge mit Kunden einander zugewiesen haben.
+
+8 Abl C 207 vom 18.07.1996.
+9 Erwägungsgrund 424 bis 427 der Entscheidung vom 2. Oktober 2001.
+
+7
+
+(12) Archer Daniels Midland Company Inc. beteiligte sich an der Zuwiderhandlung seit
+Juni 1991, die Jungbunzlauer Unternehmensgruppe seit Mai 1988 und die vier übrigen
+Unternehmen, Fujisawa, Akzo, Avebe, und Roquette, seit Februar 1987. Die
+Zuwiderhandlung endete für alle Beteiligten im Juni 1995.
+
+1.3. Das Produkt
+
+(13) Natriumglukonat (NaG)10 ist das Natriumsalz der Glukonsäure. Es entsteht durch die
+Fermentation von Kohlehydraten (z.B. Stärke, Glukose, Dextrose), wodurch
+Glukonsäure entsteht, die unter Beimischung von Natronlauge Natriumglukonat ergibt.
+NaG wird in Kristallform oder als Flüssigkeit auf den Markt gebracht11, jedoch
+überwiegend in Kristallform verkauft12. Es hat dann das Aussehen von weißem
+Zuckergriess.
+
+(14) NaG ist ein Chelatbildner (oder "Chelator"), der die Eigenschaft hat, bei der Reaktion
+mit Metallionen stabile Molekülstrukturen unter Einbeziehung der Ionen zu bilden.
+Über die wasserlöslichen Komplexe die sie in alkalischen Lösungen bilden,
+inaktivieren Chelatoren die "unmaskierten" Metallionen (z.B. Kalzium, Aluminium,
+Eisen, Zink und andere Schwermetalle) und verringern damit ihre unerwünschten
+Wirkungen.
+
+(15) Die Verwendung von Chelatbildnern ist in Bereichen weit verbreitet, in denen
+Metallionen inaktiviert werden müssen, wie z.B. bei der Wasserbehandlung, der
+Reinigung in Haushalt und Industrie, der Landwirtschaft, bei Papier und Pappe, der
+Metallbearbeitung, bei Nahrungsmitteln, Arzneimitteln und Kosmetika.
+
+(16) Unter den verschiedenen Familien von Chelatoren gehört NaG zu den
+Hydroxikarbonsäuren und -salzen. Es besitzt gute komplexbildende Eigenschaften bei
+der Reinigung von Bädern und ist selbst in konzentrierten alkalischen Lösungen
+besonders stabil.
+
+(17) NaG wird überwiegend bei der gewerblichen alkalischen Reinigung (Flaschenwäsche,
+Rei
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+at jedoch einige dieser
+Informationen bestätigt. Die Kommission hält deshalb eine Verringerung der Geldbuße
+von 20 % für diese Zusammenarbeit für angemessen.
+
+33. Der Grundsatz “ne bis in idem”
+
+(469) Bei der Ermittlung der gegen die Jungbunzlauer Unternehmensgruppe festzusetzenden
+Geldbuße hat die Kommission u.a. die Schwere des Verstoßes und die Dauer der
+Zuwiderhandlung nebst der Rolle berücksichtigt, die die Jungbunzlauer Ladenburg
+GmbH. in dem Kartell gespielt hat. Die Bedeutung der Jungbunzlauer
+Unternehmensgruppe in der NaG-Industrie und die Auswirkungen ihres Verhaltens auf
+den Wettbewerb wurden ebenfalls gewürdigt.
+
+(470) Die Jungbunzlauer Unternehmensgruppe macht geltend, dass die Kommission die
+gegen sie in den Vereinigten Staaten und in Kanada für das gleiche Verhalten
+verhängten Geldbußen berücksichtigen und von ihrer Geldbuße abziehen sollte.
+
+(471) Die Jungbunzlauer Unternehmensgruppe macht insbesondere geltend, dass die
+Kommission die von den amerikanischen und kanadischen Behörden festgesetzten
+Strafen berücksichtigen sollte, da die von der Kommission und jenen Behörden
+geahndeten Verhaltensweisen die gleichen seien. Es bezieht sich auf die gegen es
+festgesetzten amerikanischen und kanadischen Strafgelder im Zuge der
+Schuldeingeständnisse, die es in den Jahren 1997 und 1998 in Bezug auf "rechtswidrige
+Vereinbarungen über den Verkauf von Zitronensäure und ähnliche Verhaltensweisen in
+Bezug auf Natriumglukonat" gemacht hatte. Sie behauptet, dass mit den amerikanischen
+Verfahren die Bußgelder auch in Bezug auf die Auswirkungen auf den europäischen
+Markt verhängt worden seien.
+
+(472) Die Kommission weist die Auffassung der Jungbunzlauer Unternehmensgruppe zurück.
+Die Anwendung der amerikanischen und kanadischen strafrechtlichen Bestimmungen
+gegen Kartelle vermag in keiner Weise die Zuständigkeiten der Kommission gemäß
+dem EG-Wettbewerbsrecht einzuschränken oder auszuschließen.
+
+(473) Nach dem Grundsatz der Territorialität sind Artikel 81 EG-Vertrag und Artikel 53
+EWR-Abkommen auf Handlungen beschränkt, die geeignet sind, den Wettbewerb im
+Binnenmarkt zu beschränken. In gleicher Weise sind die amerikanischen und
+kanadischen Kartellgesetze auf das Gebiet der USA bzw. Kanadas beschränkt. Die
+
+90
+
+amerikanischen und kanadischen Behörden üben ihre Rechtsprechung nur in dem Maße
+aus, wie ein Verhalten direkte und beabsichtigte Wirkungen im amerikanischen bzw.
+kanadischen Handel zeitigt318. Dieser Sachverhalt wird auch durch das
+Schuldeingeständnis von Roquette gegenüber den amerikanischen Behörden in Bezug
+auf das amerikanische Verfahren bestätigt, wonach "der Umfang der Verkäufe des
+Beklagten in den Vereinigten Staaten nicht die Auswirkungen auf den amerikanischen
+Handel seiner Mitwirkung an einem weltweiten Kartell angemessen widerspiegelt"319.
+
+(474) Außerdem können die gegen Einzelpersonen verhängten Strafen in keinem Fall
+berücksichtigt werden, da sich dieses Verfahren nicht auf natürliche Personen bezieht.
+
+(475) Schließlich kann die Möglichkeit, dass Unternehmen verpflichtet wurden,
+Schadenersatz in zivilrechtliche Klagen zu zahlen, keine Auswirkungen auf die
+Geldbußen haben, die wegen Verstoßes gegen die europäischen Wettbewerbsregeln
+festzusetzen sind320. Die Leistung von Schadenersatz in zivilrechtlichen Verfahren, die
+einen Ersatz für die von Kartellen einzelnen Unternehmen oder Verbrauchern
+verursachten Schäden bezwecken, können nicht mit Sanktionen des öffentlichen Rechts
+für ein rechtswidriges Verhalten verglichen werden.
+
+(476) Die Jungbunzlauer Unternehmensgruppe macht weiter geltend, dass der Grundsatz “ne
+bis in idem” die nochmalige Durchführung eines Verfahrens gegen die Jungbunzlauer
+Ladenburg GmbH, die Jungbunzlauer AG, die Jungbunzlauer Holding AG und die
+Jungbunzlauer GesmbH verbietet. Sie führt an, dass dieses Prinzip nicht nur die
+Verfolgung einer Tat, wegen der der Betroffene verurteilt worden ist, sondern auch die
+neue Ermittlung hinsichtlich eines Tatkomplexes, aufgrund dessen er freigesprochen
+worden ist, verhindert.
+
+(477) Sie folgert aus der Rücknahme der Entscheidung vom 2. Oktober 2001, dass die
+Kommission das Verfahren gegen die Jungbunzlauer AG eingestellt hat und somit nach
+dem Grundsatz "ne bis in idem" kein Adressat einer neuer Bussgeldentscheidung im
+Natriumglukonat-Verfahren sein kann.
+
+(478) Aus der Entscheidung vom 2. Oktober 2001 folgert die Jungbunzlauer
+Unternehmensgruppe, dass die Kommission sich entschieden hätte, lediglich die
+Jungbunzlauer AG für die in der Entscheidung festgestellten Zuwiderhandlungen
+verantwortlich zu machen. Die übrigen Gesellschaften der Jungbunzlauer
+Unternehmensgruppe wären somit quasi "freigesprochen" und könnten nicht erneut für
+diese Zuwiderhandlung verfolgt werden.
+
+(479) Was die Rücknahme der Entscheidung vom 2. Oktober 2001 betrifft, weist die
+Kommission darauf hin, dass zur Zeit ihrer Rücknahme diese Entscheidung noch nicht
+bestandskräftig321 war. Die Jungbunzlauer AG ist deshalb noch nicht rechtskräftig
+verurteilt. Eine erneuerte erste Bestrafung dieser Gesellschaft wird durch den Grundsatz
+"ne bis in idem" nicht ausgeschlossen. Bezüglich der Verfolgung der Adressaten dieser
+Entscheidung ist festzustellen, dass es im Ermessen der Kommission steht, die
+Gesellschaften eines Unternehmens auszuwählen, die für eine Zuwiderhandlung dieses
+
+318 EuG-ADM/Komission, T-224/00 Rn. 90
+319 [.*.].
+320 EuG-Tokai Carbon u.a./Kommission, T-236/01 usw. Rn. 348
+321 Bestandskräftig im Sinne vom „nicht mehr anfechtbaren Entscheidung“. Siehe Urteil des Gerichtshofes
+in verbundene Sachen C-238/99 usw. Rn 59 :
+
+91
+
+Unternehmens haften322. Die Ausübung dieses Ermessens kann keinesfalls als
+Freispruch der von einer Entscheidung nicht erfassten übrigen Gesellschaften des
+Unternehmens ausgelegt werden. Darüber hinaus hat die Kommission zu keinem
+Zeitpunkt erklärt, dass sie auf einer Verfolgung der übrigen Gesellschaften des
+Unternehmens verzichtet.
+
+(480) Die Jungbunzlauer Unternehmensgruppe ist darüber hinaus der Meinung, dass nach
+Rücknahme der an die Jungbunzlauer AG gerichteten Entscheidung die Durchführung
+eines weiteren Bussgeldverfahrens gegen den gemeinschaftlichen Grundsatz des
+berechtigten Vertrauens verstossen würde. Allein schon durch Zeitablauf seit der
+Rücknahme der ersten Entscheidung, wäre bei der Jungbunzlauer Unternehmensgruppe
+eine berechtigte Erwartung und Vertrauen entstanden, dass die Kommission das
+Verfahren eingestellt hätte und dass die Kommission kein weiteres Bussgeld in dem
+vorliegenden Sachverhalt festsetzen würde.
+
+(481) Die Kommission weist diesen Standpunkt zurück. Zu keinem Zeitpunkt hat die
+Kommission der Jungbunzlauer Unternehmensgruppe Anlass zur Erwartung gegeben,
+dass sie von einem Bussgeld gegen die Jungbunzlauer AG bzw. gegen andere juristische
+Personen der Jungbunzlauer Unternehmensgruppe Abstand nehmen wird. Es stand der
+Jungbunzlauer Unternehmensgruppe jederzeit frei, sich bei der Kommission über ihre
+weiteren Absichten im vorliegenden Verfahren zu erkundigen. Sie hat dies nicht getan
+und musste deshalb damit rechnen, dass bis zum Eintritt der Verfolgungsverjährung die
+von ihr begangene Zuwiderhandlung mit Bussgeld sanktioniert wird.
+
+34. Der Endbetrag der in diesem Verfahren festgesetzten Geldbuße
+
+(482) Gegen die Gesellschaften der Jungbunzlauer Unternehmensgruppe, die Adressaten der
+vorliegenden Entscheidung sind, wird gemäß Artikel 15 Absatz 2 Buchstabe a) der
+Verordnung Nr. 17 und Artikel 23 Absätze 2 und 3 der Verordnung (EG) Nr. 1/2003
+eine Geldbuße von 19,04 EUR] v verhängt .
+
+(483) Die Jungbunzlauer Unternehmensgruppe hat behauptet, dass sie zur Zahlung einer
+substantiellen Geldbuße nicht in der Lage sei. Obwohl sie von der Kommission
+ausdrücklich aufgefordert wurde, ihre finanzielle Lage nachzuweisen, hat sie dies
+unterlassen. Die Kommission ist somit nicht in der Lage, die Zahlungsfähigkeit der
+Jungbunzlauer-Unternehmensgruppe zu prüfen, und diese bei der Festsetzung der
+Geldbuße zu berücksichtigen.
+
+322 EuG-Tokai Carbon/Kommission T236/01 Rn. 283
+
+92
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+Die Jungbunzlauer AG, die Jungbunzlauer Ladenburg GmbH, die Jungbunzlauer Holding
+AG und die Jungbunzlauer Austria AG haben von Mai 1988 bis Juni 1995 gegen Artikel 81
+EG-Vertrag und. – seit dem 1. Januar 1994 - Artikel 53 EWR-Abkommen verstoßen, indem
+sie an einer fortdauernden Vereinbarung und/oder aufeinander abgestimmten Verhaltensweise
+im Natriumglukonatsektor teilgenommen haben.
+
+Artikel 2
+Die in Artikel 1 bezeichneten Unternehmen haben, falls dies noch nicht erfolgt ist, die
+genannte Zuwiderhandlung unverzüglich einzustellen. Sie sehen von einer Wiederholung
+jeglicher Handlungen oder Verhaltensweisen ab, die den gleichen Zweck verfolgen oder die
+gleiche Wirkung haben wie die in dieser Entscheidung festgestellte Zuwiderhandlung.
+
+Artikel 3
+Wegen der in Artikel 1 genannten Zuwiderhandlung wird eine Geldbuße in Höhe von 19,04
+EUR gesamtschuldnerisch gegen die in Artikel 1 genannten Unternehmen verhängt.
+
+Artikel 4
+Die Geldbuße ist innerhalb von drei Monaten ab der Zustellung dieser Entscheidung
+einzuzahlen auf das Konto:
+001-3953713-69 der Europäischen Kommission bei:
+
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Brüssel
+
+(SWIFT-Code: GEBABEBB – IBAN-Code: BE71 0013 9537 1369)
+
+Nach Ablauf dieser Frist werden automatisch Zinsen fällig zu dem Zinssatz der Europäischen
+Zentralbank für Hauptrefinanzierungsgeschäfte am ersten Tag des Monats, in dem diese
+Entscheidung erlassen worden ist, zuzüglich 3,5 Prozentpunkte, d.h. 5.52 %.
+
+Artikel 5
+Diese Entscheidung ist gerichtet an
+a) Jungbunzlauer AG
+St. Alban-Vorstadt 90
+CH-4002 BASEL
+
+b) Jungbunzlauer Ladenburg GmbH,
+Dr. Albert Reimannstrasse 18
+D-68526 LADENBURG
+
+93
+
+c) Jungbunzlauer Holding AG,
+Hartbertstrasse 1,
+CH-7000 CHUR
+
+d) Jungbunzlauer Austria AG,
+Schwarzenbergplatz 16
+A-1011 WIEN
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag und
+110 EWR-Abkommen.
+
+Brüssel, den 29.09.2004
+
+Für die Kommission
+
+Mitglied der Kommission
+
+94

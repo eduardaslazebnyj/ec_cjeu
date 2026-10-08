@@ -1,0 +1,157 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# CASE AT.40735 Online rail ticket distribution in Spain
+
+## COMMITMENTS OFFERED TO THE EUROPEAN COMMISSION UNDER ARTICLE 9 OF COUNCIL REGULATION (EC) N° 1/2003
+
+In accordance with Article 9 of Council Regulation (EC) N° 1/2003 ("Regulation 1/2003"), RENFE-Operadora, E.P.E. ("Renfe Operadora") and Renfe Viajeros, S.M.E., S.A. ("Renfe Viajeros") offer the following commitments ("Commitments") to the European Commission ("Commission") with a view to meeting the Commission's preliminary concerns expressed in the context of the investigation in Case AT.40735 Online rail ticket distribution in Spain and enabling the Commission to adopt a decision pursuant to Article 9 of Regulation 1/2003 confirming that the Commitments solve its concerns ("Commitments Decision").
+
+Consistently, the Commitments of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 10 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 8 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 2 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 4 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 7 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 5 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 6 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 3 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 0 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article 9 of Article.
+
+## SECTION A: DEFINITIONS
+
+1. For the purposes of these Commitments, the terms listed below shall have the following meaning:
+
+ADIF: the Spanish railway infrastructure manager (Administrador de Infraestructuras Ferroviarias).
+
+API: application programming interface.
+
+Renfe's channel(s): the channel(s) used by Renfe to make the Renfe Content and RTD available directly or indirectly to Third-party Ticketing Platforms and/or any Renfe mobility platform (such as dōcō). On the Effective Date, Renfe's channel(s) include VAV and VOL A. For the avoidance of doubt, Renfe's channel(s) include all Renfe's channels that may replace or be used in parallel to VAV and/or VOL A in the future.
+
+Availability requests: all information requests that need to be made to Renfe's sales system through VAV or any other API of Renfe that might replace VAV in the future to obtain the necessary data to make a reservation.
+
+Conflict of Interest: any conflict of interest that impairs the Monitoring Trustee's objectivity and independence in discharging its duties under the Commitments.
+
+Renfe Content: all content related to Renfe passenger trains available on Renfe's direct digital ticket distribution channels and in any Renfe mobility platform (such as dōcō), including, without limitation, all types of tickets, passes, railcards and fares, so-called "special content" (such as connections, large family discounts, youth discounts, promotion codes, seat selection based on a seat map, pet fares, assistance to customers with reduced mobility, tickets in QR format, etc.) and so-called functionalities (such as booking times, ticket changing functionality, processing delay compensation claims, refunds, etc.). For the avoidance of doubt, Renfe Content does not include content related to travel, mobility, accommodation, cultural, leisure or other services provided by third parties.
+
+dōcō: the mobility platform of RENFE-Operadora, E.P.E.
+
+Effective Date: the date upon which Renfe receives formal notification of the Commitments Decision.
+
+Error Rate: ratio between the total number of failed reservation requests due to errors attributable to Renfe made by all Integrated Platforms and the number of total reservation requests made to Renfe's ticket sales system through VAV or any other API of Renfe that might replace VAV in the future, by all Integrated Platforms. Failed graphic seat reservation requests are excluded from the numerator and total graphic seat reservation requests are excluded from the denominator.
+
+Force Majeure: abnormal circumstances limiting Renfe's ability to comply with the Commitments that are outside the control of Renfe and are unforeseeable or, even if foreseeable, their consequences could not have been avoided, despite the exercise of all due care. Those circumstances include cyber threats and cyberattacks jeopardising Renfe's ability to comply with its obligations to guarantee the security of its sales channels under EU and Spanish laws.
+
+Integrated Platform: Third-party Ticketing Platform or Renfe mobility platform (such as dōcō) that has made all the necessary IT developments to measure the Error Rate and has implemented them effectively, so that Renfe can have traceability of all its reservation requests and register possible errors.
+
+Look-to-Book or L2B: ratio between the number of Availability requests related to the sale of tickets ("look") made to Renfe's ticket sales system and the number of actual sales ("book").
+
+Monitoring Trustee: one or more natural or legal person(s) who is/are approved by the Commission and appointed by Renfe, and who has/have the duty to monitor Renfe's compliance with the Commitments.
+
+Renfe: Renfe Operadora as well as its subsidiaries that operate in the areas covered by the Commitments, as specified in point 2 of Section B.
+
+RTD: all real time data related to Renfe passenger trains concerning rail traffic, operations and travel before, during and after the rail journey, that Renfe makes available for consumers through any of its direct digital distribution channels (e.g., Renfe's website and apps) or communication channels (e.g., email and SMS) or any Renfe mobility platform (such as dōcō).
+
+Third-party Ticketing Platform: undertaking that provides ticketing for rail travel to individual and/or corporate customers in the European Union through software application stores (e.g. Apple App Store or Google Play Store) or through a website.
+
+Unavailability Rate: ratio between the number of minutes between 06:00 a.m. and 23:00 p.m. during which the sum of Renfe's ticket sales through all channels is zero and the total number of minutes between 06:00 a.m. and 23:00 p.m. (for a month: 31 620 minutes). A maximum monthly Unavailability Rate of $1\%$ means that, for a month, the maximum number of minutes between 06:00 a.m. and 23:00 p.m. during which the sum of Renfe's ticket sales through all channels is zero is 316.2 minutes.
+
+VAV: the API used by Renfe on the Effective Date to make the Renfe Content and RTD available to Third-party Ticketing Platforms and dōcō.
+
+VOL A: the website developed by Renfe and used on the Effective Date to have access to the Renfe Content and RTD by Third-party Ticketing Platforms i.a. using Global Distribution Systems.
+
+## SECTION B: COMMITMENTS
+
+## SCOPE OF THE COMMITMENTS
+
+2. The purpose of these Commitments is to make Renfe Content and RTD available to Third-party Ticketing Platforms.
+
+## COMMITMENTS RELATED TO ACCESS TO RENFE CONTENT
+
+3. Renfe undertakes to make available for Third-party Ticketing Platforms, through all Renfe's channels used by Third-party Ticketing Platforms, all Renfe Content that is available or may become available on the direct digital distribution channels of Renfe and/or any Renfe mobility platform (such as dōcō).
+
+4. To that end, Renfe will make the necessary software developments in its IT systems to allow access to Renfe Content by Third-party Ticketing Platforms, while Third-party Ticketing Platforms interested in offering Renfe Content to consumers will have to make any adaptations needed to that end in their IT systems, including, without limitation, in their user interfaces.
+
+## Implementation
+
+5. Renfe Content available on Renfe's digital distribution channels and/or any Renfe mobility platform (such as dōcō) and not yet available for Third-party Ticketing Platforms on the Effective Date. Renfe undertakes to make available for Third-party Ticketing Platforms any Renfe Content available on Renfe's own digital distribution channels and/or any Renfe mobility platform (such as dōcō) which were not yet available for these platforms on the Effective Date, if any, at the latest by 29 February 2024.
+
+As an exception to the above, for those contents the inclusion of which in VAV or VOL A requires launching a tender procedure to contract IT services of third parties, Renfe undertakes to make available such contents by 30 June 2024, except for tickets for Luxury Tourist Trains and Leisure Tourist Trains and content to be included in VOL A, which will be available by 31 December 2024.
+
+6. Renfe Content not yet available on Renfe's digital distribution channels or any Renfe mobility platform (such as dōcō) on the Effective Date. Renfe undertakes to make available any Renfe Content which may become available on Renfe's own digital distribution channels and/or any Renfe mobility platform (such dōcō) after the Effective Date for Third-party Ticketing Platforms at the same time such content becomes available on Renfe's own digital distribution channels and/or Renfe mobility platform (such as dōcō).
+
+7. For the avoidance of doubt, the timing of the actual availability of Renfe Content mentioned in paragraphs 5 and 6 above for users of Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future) and Renfe mobility platform (such as dōcō) will depend on the time each of them needs to make the necessary adaptations in their IT systems. To allow these Third-party Ticketing Platforms and Renfe mobility platform (such as dōcō) to prepare their IT systems, Renfe will announce as soon as possible the inclusion of any new Renfe Content to these Third-Party Ticketing Platforms and communicate them as soon as possible the technical specifications required to adapt their systems. In any case, Renfe will announce at the same time to all Third-party Ticketing Platforms and Renfe mobility platform (such as dōcō) the inclusion of any new Renfe Content in Renfe's channels used by Third-party Ticketing Platforms at least 4 months in advance. Moreover, Renfe will communicate at the same time to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future) and Renfe mobility platform (such as dōcō) the technical specifications required to adapt their systems at least 1 month in advance until 31 December 2024 and at least 2 months in advance after 31 December 2024.
+
+8. L2B. Renfe may contractually require a maximum monthly average L2B from a Third-party Ticketing Platform, which may depend on the monthly number of Availability requests made by the Third-Party Ticketing Platform ("category"), provided that the following conditions are fulfilled:
+
+a. When the Third-party Ticketing Platform has a monthly number of Availability requests lower than 50 000, the maximum monthly average L2B may not be lower than 600 or the maximum monthly average L2B contractually required from any Renfe mobility platform (such as dōcō) falling within the same category, whichever is higher;
+
+b. When the Third-party Ticketing Platform has a monthly number of Availability requests equal to or higher than 50 000 and lower than 400 000, the maximum monthly average L2B may not be lower than 200 or the maximum monthly average L2B contractually required from any Renfe mobility platform (such as dōcō) falling within the same category, whichever is higher;
+
+c. When the Third-party Ticketing Platform has a monthly number of Availability requests equal to or higher than 400 000, the maximum monthly average L2B may not be lower than 140 or the maximum monthly average L2B contractually required from any Renfe mobility platform (such as dōcō) falling within the same category, whichever is higher.
+
+For the avoidance of doubt, if Renfe does not require contractually any maximum monthly average L2B from a Renfe mobility platform (such as dōcō), Renfe will not require any maximum monthly average L2B from any Third-party Ticketing Platform.
+
+Renfe may temporarily suspend the access of a Third-party Ticketing Platform to VAV (or any other Renfe API that may replace VAV in the future) in the following two cases:
+
+(i) Non-compliance with the maximum monthly average L2B following Renfe's notification and negatively affecting Renfe's sales system. If a Third-party Ticketing Platform exceeds the applicable maximum monthly average L2B during a given month, Renfe 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+tenance of VAV (or any other Renfe API that may replace VAV in the future), of which Renfe will inform the Third-party Ticketing Platform at least three days in advance, or due to emergency maintenance of VAV (or any other Renfe API that may replace VAV in the future), of which Renfe will inform the Third-party Ticketing Platform as soon as possible.
+
+\- For failures due to the substitution of the sales system, during the year following its entry into operation.
+
+In addition, within the first week of each month, Renfe will calculate the Unavailability Rate achieved in the previous month. If it exceeds the Maximum Unavailability rate, Renfe undertakes to make the necessary efforts to analyse the causes and implement the necessary technical measures to resolve them as soon as possible.
+
+For the avoidance of doubt, Renfe shall only be considered to be in non-compliance with the Maximum Error Rate and Maximum Unavailability Rate commitment if it did not make its best efforts to analyse the causes of exceeding the applicable maximum rate and implement the necessary measures to resolve them as soon as possible, subject to paragraph 9, (ii) and (iii), of Annex I.
+
+## COMMITMENTS RELATED TO ACCESS TO RENFE'S RTD
+
+10. Renfe undertakes to make available for Third-party Ticketing Platforms, through all Renfe's channels used by Third-Party Ticketing Platforms, all RTD that Renfe makes available for passengers through any of its direct digital distribution channels or communication channels and/or any Renfe mobility platform (such as dōcō).
+
+By exception, Renfe will not have to make available to Third-party Ticketing Platforms through VOL A (or any website that may replace VOL A in the future) the following RTD: (i) unscheduled incidents in the operation of all services; (ii) scheduled incidents in the operation of Cercanías trains and mid-distance trains without reservation; and (iii) scheduled incidents affecting tickets that have already been sold.
+
+11. To that end, Renfe will make the necessary software developments in its IT systems to allow access to RTD by Third-party Ticketing Platforms, while Third-party Ticketing Platforms interested in offering RTD to consumers will have to make any adaptations needed to that end in their IT systems, including, without limitation, in their user interfaces.
+
+12. For the avoidance of doubt, real time data that Renfe undertakes to make available for Third-party Ticketing Platforms:
+
+\- do not include real-time data related to travel or mobility services operated by third parties and available in Renfe Viajeros' direct digital distribution channels or communication channels or on any Renfe mobility platform (such as dōcō) pursuant to an agreement reached with a third party;
+
+\- include real-time data related to Renfe trains available on Renfe's direct digital distribution channels or communication channels or any Renfe mobility platform (such as dōcō) pursuant to an agreement between Renfe and ADIF.
+
+## Implementation
+
+13. RTD already available for consumers from Renfe's direct digital distribution channels or communication channels or any Renfe mobility platform (such as dōcō) and not yet available for Third-party Ticketing Platforms on the Effective Date. Renfe undertakes to make available for Third-party Ticketing Platforms any RTD which it already makes available for consumers from Renfe's direct digital distribution channels or communication channels or any Renfe mobility platform (such as dōcō) and were not yet available for these platforms on the Effective Date, if any, by 29 February 2024.
+
+As an exception to the above, for those RTD the inclusion of which in VAV or VOL A requires launching a tender procedure to contract IT services of third parties, Renfe undertakes to make available such RTD by 30 June 2024, except for information on scheduled incidents affecting tickets that have already been sold, which will be available in VAV by 30 November 2024, and RTD relating to unscheduled delays on Cercanías trains, which will be available in VOL A by 31 December 2024.
+
+10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+As an exception to the above, for those RTD relating to unscheduled incidents that Renfe has to communicate immediately to passengers and whose availability requires new IT developments, Renfe commits to send them to all passengers, irrespective of how passengers have booked their tickets, and to carry out the necessary developments to include in VAV (or in any other Renfe API that may replace VAV in the future) these RTD as soon as possible.
+
+15. For the avoidance of doubt, the timing of the actual availability of Renfe's RTD mentioned in paragraphs 13 and 14 above for users of Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future) and Renfe mobility platform (such as dōcō) will depend on the time each of them needs to make the necessary adaptations in their IT systems. To allow these Third-party Ticketing Platforms and Renfe mobility platform (such as dōcō) to prepare their IT systems, Renfe will announce as soon as possible the inclusion of any new RTD to these Third-Party Ticketing Platforms and communicate them as soon as possible the technical specifications required to adapt their systems. In any case, Renfe will announce at the same time to all Third-party Ticketing Platforms and Renfe mobility platform (such as dōcō) the inclusion of any new RTD in Renfe's channel(s) used by Third-party Ticketing Platforms at least 4 months in advance. Moreover, Renfe will communicate at the same time to Third-party Ticketing Platforms using VAV (or any other Renfe API that may replace VAV in the future) and Renfe mobility platform (such as dōcō) the technical specifications required to adapt their systems at least 1 month in advance until 31 December 2024 and at least 2 months in advance after 31 December 2024.
+
+## SECTION C: NON-CIRCUMVENTION
+
+16. Renfe shall not in any way circumvent or attempt to circumvent these Commitments directly or indirectly by any action or omission. In particular, Renfe shall not use any unfair, not reasonable or discriminatory technical or commercial measures that would impede or hamper Third-party Ticketing Platforms' ability to access and distribute Renfe Content and RTD (including, e.g., technical measures affecting connections of access to Renfe's IT systems). Renfe will provide all the necessary details for the implementation or availability of Renfe Content or RTD through the manual containing the technical specifications (or any other document which might replace the manual in the future) as soon as such information is available and will diligently answer questions from Third-party Ticketing Platforms through the mailbox established for this purpose (or through any other means that might replace the dedicated mailbox in the future).
+
+## SECTION D: ENTRY INTO FORCE, DURATION AND FORCE MAJEURE
+
+## Entry into force
+
+17. The Commitments shall take effect upon the Effective Date and will be implemented (i) by way of amendment of all existing contracts with Third-party Ticketing Platforms or by signing a new contract, either to be offered to the Third-party Ticketing Platforms within one month from the Effective Date; and (ii) in future contracts and/or template contract with Third-party Ticketing Platforms.
+
+18. Renfe undertakes to give appropriate publicity to the Commitments for a period of 10 years from the Effective Date and, in particular to publish the Commitments upon the Effective Date on Renfe's website and on Renfe's portal dedicated to travel agencies.
+
+## Duration
+
+19. The Commitments shall remain in force for an indefinite period starting from the Effective Date.
+
+## Force Majeure
+
+20. In case Renfe were partially or entirely unable to comply with any of its obligations under the Commitments due to an event of Force Majeure, Renfe will be relieved of the relevant obligations for the period during which the inability to comply lasts. To that end, Renfe will submit without delay to the Commission evidence of the event of Force Majeure and of the exercise of all the due care.
+
+## SECTION E: MONITORING TRUSTEE
+
+21. Renfe shall appoint a Monitoring Trustee to monitor compliance with these Commitments during a period of 10 years from the Effective Date in accordance with Annex 1 to these Commitments.
+
+## SECTION F: REVIEW CLAUSE AND EXTENSION OF TIME PERIODS
+
+2. Pursuant to Article 9(2)(a) of Regulation 1/2003, Renfe may request the Commission to review and modify the Commitments where there has been a material change in any of the facts or circumstances on which the Commitments Decision is based, including changes in the market structure or in the applicable regulatory framework.
+
+23. In addition, and without prejudice to the general provision of Article 9(2)(a) of Regulation 1/2003, in response to a reasoned request from Renfe showing good cause, the Commission may waive, modify or substitute, in exceptional circumstances, one or more of the undertakings in these Commitments, taking into account the view of third parties and the impact that a waiver, modification or substitution may have on the position of third parties and thereby on the overall effectiveness of the Commitments.
+
+24. In particular, in case of unforeseen circumstances affecting the implementation of the Commitments, the Commission may extend the time periods provided in these Commitments in response to a reasoned request by Renfe showing good cause and accompanied by a report from the Monitoring Trustee, sending Renfe a non-confidential copy at the same time. Where Renfe requests an extension of a time period, it shall submit the request to the Commission no later than one month before the expiry of that period, showing good cause. Only in exceptional circumstances shall Renfe be entitled to request an extension within the last month of any period.
+
+Date: 23/11/2023

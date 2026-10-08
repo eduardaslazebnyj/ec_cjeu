@@ -1,0 +1,163 @@
+EUROPÄISCHE KOMMISSION
+GD WETTBEWERB
+
+Der Generaldirektor
+
+Brüssel, den 8. Juli 2021
+COMP.G.4/GM
+
+[Adressat]
+
+Betr.: Fall AT.40178 – Pkw-Emissionen
+
+Sehr geehrte Damen und Herren,
+
+am 8. Juli 2021 hat die Kommission einen Beschluss im obgenannten Kartellverfahren
+angenommen. Der Beschluss betrifft ein wettbewerbswidriges Verhalten im
+Zusammenhang mit der Entwicklung von Systemen zur selektiven katalytischen
+Reduktion („selective catalytic reduction“ – SCR) für Personenkraftwagen („Pkw“) mit
+Dieselmotor. Das wettbewerbswidrige Verhalten fand vom 25. Juni 2009 bis zum
+1. Oktober 2014 (nachfolgend „der relevante Zeitraum“) statt. An dem Verhalten waren
+fünf deutsche Automobilhersteller beteiligt: die Daimler AG („DAIMLER“), die
+Volkswagen Gruppe mit ihren operativen Konzerngesellschaften Volkswagen AG
+(„Volkswagen“), Audi AG („Audi“) und Dr. Ing. h.c. F. Porsche AG („Porsche“)
+(Volkswagen, Audi und Porsche zusammen „VW“), sowie die BMW AG („BMW“).
+
+DAIMLER, VW und BMW (zusammen „die Parteien“) stimmten ihr Marktverhalten in
+Bezug auf in Pkw mit Dieselmotoren eingesetzte SCR-Systeme ab. Sie koordinierten für
+den Europäischen Wirtschaftsraum („EWR“) die Größen ihrer AdBlue-Tanks sowie die
+Reichweiten zwischen zwei Nachfüllungen und tauschten sich über angenommene
+durchschnittliche AdBlue-Verbrauchswerte aus. Das Verhalten war seinem Wesen nach
+dazu geeignet, den Wettbewerb bei Produkteigenschaften ihrer neuen Diesel-PKW
+Modelle in Bezug auf AdBlue-Tankgrößen und Nachfüllreichweiten und in Bezug auf
+die über regulatorische Vorgaben hinausgehende NOx-Reinigung und damit bei der
+technischen Entwicklung auf dem Gebiet der NOx-Reinigung durch SCR-Systeme für
+neue Diesel-Pkw im EWR einzuschränken und die Auswahl für die Kunden zu
+begrenzen.
+
+DAIMLER, VW und BMW erörterten diverse für die Entwicklung von SCR-Systemen
+relevanten Themen und Aspekte. Gegenstand des Beschlusses vom 8. Juli 2021 sind die
+darin genannten (und oben zusammengefassten) Verhaltensweisen.
+
+Im Hinblick auf andere Bereiche der Zusammenarbeit von DAIMLER, VW (bzw.
+Volkswagen und Audi) und BMW bei der Entwicklung von SCR-Systemen sieht die
+Generaldirektion Wettbewerb nach Prüfung der ihr zur Verfügung stehenden
+Informationen keinen Anlass, die folgenden Verhaltensweisen als Wettbewerbsverstoß
+weiter zu untersuchen:
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu.
+
+- Die gemeinsame Entwicklung einer Steuerungsplattform für die AdBlue-
+Dosierung als solche.
+
+Maßgebliche Gründe sind, dass
+ die tatsächliche Nutzung der Steuerungsplattform auf einer Datenanwendung
+(‚Bedatung‘) für das konkrete Fahrzeugmodell beruht, die jeder
+Fahrzeughersteller individuell vornimmt und
+
+ nicht ersichtlich ist, dass die gemeinsame Entwicklung der
+Steuerungsplattform als solche zu einer Einschränkung der Leistungsfähigkeit
+von SCR-Systemen führt.
+
+- Die Entscheidung, die gemeinsame Entwicklung auf Flüssig-SCR-Systeme zu
+konzentrieren.
+Maßgebliche Gründe sind, dass:
+
+ den beteiligten Unternehmen freigestellt bleibt, andere SCR-Technologien zu
+entwickeln und auf den Markt zu bringen und
+
+ es den beteiligten Unternehmen freigestellt bleibt, andere NOx-
+Reinigungstechnologien als SCR-Systeme zu entwickeln und auf den Markt zu
+bringen.
+
+- Die Standardisierung des AdBlue-Einfüllstutzens.
+
+Maßgebliche Gründe sind, dass:
+
+ die Standardisierung des Einfüllstutzens die Verwendung einheitlicher
+Nachfüllflaschen und Zapfsäulen erlaubt und zu Effizienzsteigerungen und
+Kostensenkungen führt, da beim Nachtanken von AdBlue jede im Handel
+angebotene Flasche ausgewählt und jede AdBlue Zapfsäule genutzt werden
+kann und
+
+ nicht ersichtlich ist, dass der vereinheitlichte Einfüllstutzen nachteilige
+Auswirkungen auf die Leistungsfähigkeit von SCR-Systemen hat.
+
+- Die gemeinsame Ausarbeitung von Lastenheften für SCR-Systemteile.
+
+Maßgebliche Gründe sind, dass:
+ die gemeinsam erstellten Lastenhefte Qualitätsmindestanforderungen festlegen
+und es jeder Partei freisteht, weitergehende Anforderungen zu definieren und
+
+ die gemeinsam erstellten Lastenhefte Teile von SCR-Systemen betreffen und
+nicht ersichtlich ist, dass sie die Leistungsfähigkeit von SCR-Systemen
+insgesamt festlegen oder einschränken.
+
+- Die Diskussion von Qualitätsstandards für AdBlue.
+
+Maßgebliche Gründe sind, dass:
+
+2
+
+ Vorgaben zu den Qualitätsstandards von AdBlue es den Produzenten von
+AdBlue ermöglichen, ein Produkt anzubieten, das für alle mit Flüssig-SCR-
+Systemen ausgestatteten Diesel Pkw verwendet werden kann und
+
+ nicht ersichtlich ist, dass Qualitätsstandards für AdBlue nachteilige
+Auswirkungen auf die Leistungsfähigkeit von SCR-Systemen haben.
+
+- Die Diskussion von Warnstrategien, die das rechtzeitiges Nachfüllen von
+AdBlue sicherstellen sollten.
+
+Maßgebliche Gründe sind, dass:
+ es nicht ersichtlich ist, dass die AdBlue Warnstrategie für den Kunden ein
+relevantes Unterscheidungsmerkmal bei der Auswahl von Diesel-Pkw ist und
+
+ eine vereinheitlichte Warnstrategie im Falle eines Fahrzeugwechsels für den
+Kunden vorteilhaft sein kann.
+
+- Die Diskussion des Aufbaus einer angemessenen Infrastruktur für die
+AdBlue-Versorgung.
+
+Maßgebliche Gründe sind, dass:
+ die Automobilhersteller Lösungen zum Nachfüllen von AdBlue benötigen, um
+Diesel-Pkw mit SCR-Systemen am Markt einführen zu können sowie
+
+ bei Nachfüllung durch den Kunden eine Nachfüllinfrastruktur geschaffen
+werden muss und
+
+ dies insoweit gilt, als die für die Ermittlung der zu erwartenden AdBlue
+Nachfrage benötigten Daten nur in anonymisierter und aggregierter Form
+zugänglich gemacht werden.
+
+- Die Diskussion und Vorbereitung einer gemeinsamen Position der
+Automobilhersteller im Hinblick auf zukünftige Gesetzesvorhaben zur
+Abgasreinigung.
+
+Maßgebliche Gründe sind, dass:
+ die Diskussion und Vorbereitung einer gemeinsamen Position auf die
+Beeinflussung von künftigen Gesetzgebungsmaßnahmen beschränkt sind und
+nicht zu einer Abstimmung des Marktverhaltens eingesetzt werden darf.
+
+Für weitere Hinweise zur rechtskonformen Gestaltung von Wettbewerberkooperationen
+siehe Verordnung Nr. 1217/2010 vom 14. Dezember 2010 über die Anwendung von
+Artikel 101(3) des Vertrags über die Funktionsweise der Europäischen Union auf Formen
+der Forschungs- und Entwicklungszusammenarbeit (Abl. L 335, 18.12.2010, S. 36) und
+die Mitteilung der Kommission über die Anwendung von Artikel 101 des Vertrags über
+die Funktionsweise der Europäischen Union auf Kooperationsvereinbarungen zwischen
+Wettbewerber (Abl. C 11, 14.1.2011, S. 1).
+
+3
+
+Dieses Schreiben spiegelt die Auffassung der Generaldirektion für Wettbewerb als der
+für Wettbewerb zuständigen Dienststelle der Kommission wider und stellt keinen
+Beschluss der Kommission dar.
+
+Mit freundlichen Grüßen
+
+Olivier GUERSENT
+
+4

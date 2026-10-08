@@ -1,0 +1,182 @@
+18.12.2007 EN Official Journal of the European Union L 332/77
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 13 September 2007
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+(Case COMP/E-2/39.141 — Fiat)
+
+(notified under document number C(2007) 4274)
+
+(Only the English text is authentic)
+
+(2007/841/EC)
+
+(1) This decision adopted pursuant to Article 9(1) of Council — spare parts information, including parts catalogues
+Regulation (EC) No 1/2003 of 16 December 2002 on with codes and descriptions, and vehicle identification
+the implementation of the rules on competition laid methods (that is to say, data relating to a specific
+down in Articles 81 and 82 of the Treaty (1) is vehicle which enable a repairer to identify the indiaddressed to Fiat Auto SpA (hereinafter ‘Fiat’) and vidual codes for the parts fitted during vehicle
+concerns the supply of technical information for the assembly, and to identify the corresponding codes
+repair of vehicles of the Fiat, ALFA Romeo and Lancia for compatible original replacement parts for that
+brands. specific vehicle),
+
+(2) Technical information consists of data, processes and
+instructions which are necessary to check, repair and — special information (recall notices and notification of
+replace defective/broken/used parts of a motor vehicle frequent faults),
+or to fix failures in any of a vehicle’s systems. It
+includes seven main categories:
+
+— training materials.
+— basic parameters (documentation of all reference
+values and set points of the measurable values
+concerning the vehicle, such as torque settings,
+brake clearance measurements, hydraulic and
+(3) In December 2006, the Commission opened proceedings, pneumatic pressures),
+and addressed a preliminary assessment to Fiat,
+containing the preliminary view that Fiat’s agreements
+with its after-sales service partners raised concerns as to — diagrams and descriptions of stages in repair and
+their compatibility with Article 81(1) of the EC Treaty. maintenance operations (service handbooks,
+technical documents such as work plans, descriptions
+of tools used to carry out a given repair, and
+diagrams such as wiring schematics or hydraulics),
+(4) In the Commission’s preliminary assessment, Fiat seemed
+to have failed to release certain categories of technical
+— testing and diagnosis (including diagnostic fault/ repair information well after the end of the transitional
+trouble-shooting codes, software and other infor- period provided for in Commission Regulation (EC) No
+mation needed to diagnose faults on vehicles) – 1400/2002 of 31 July 2002 on the application of Article
+much, but not all, of this information is contained 81(3) of the Treaty to categories of vertical agreements
+in specialised electronic tools, and concerted practices in the motor vehicle sector (2).
+Moreover, at the time that the Commission’s investigation was launched, Fiat had still not put in place an
+— codes, software and other information needed to re- effective system to allow independent repairers to have
+program, re-set or re-initialise the electronic control access to technical repair information in an unbundled
+units (ECUs) embarked on a vehicle. This category is manner. Although Fiat improved the accessibility of its
+linked to the preceding one, in that often the same technical information over the course of the Commission
+electronic tools are used to diagnose the fault, and investigation, notably by setting up a website (the TI
+then make the necessary adjustments via the ECUs to website) in June 2005 designed for that purpose, the
+deal with it, information made available to independent repairers
+seemed to be still incomplete.
+
+(1) OJ L 1, 4.1.2003, p. 1. Regulation as last amended by Regulation
+(EC) No 411/2004 (OJ L 68, 6.3.2004, p. 1). (2) OJ L 203, 1.8.2002, p. 30.
+
+L 332/78 EN Official Journal of the European Union 18.12.2007
+
+(5) That preliminary assessment found that the relevant authorised repairers were unlikely to benefit from the
+markets affected by the practice at issue were the provision of Article 81(3).
+market for the provision of repair and maintenance
+services for passenger cars, and the market for the
+provision of technical information to repairers. The Fiat
+authorised networks had very high market shares on the
+first of these markets, while on the second, Fiat was the (10) On 22 January 2007, Fiat offered commitments to the
+only supplier able to offer all of the technical infor- Commission in order to meet the competition concerns
+mation needed by repairers of its vehicles. addressed in the preliminary assessment.
+
+(11) According to those commitments, the principle deter-
+(6) In essence, Fiat’s service and parts distribution mining the scope of the information to be provided is
+agreements require the members of its authorised that of non-discrimination between independent and
+networks to carry out a full range of brand-specific authorised repairers. In this light, Fiat will ensure that
+repair services, and act as spare parts wholesalers. The all technical information, tools, equipment, software
+Commission is concerned that possible negative effects and training required for the repair and maintenance of
+stemming from such agreements could be strengthened its vehicles which is provided to authorised repairers
+by Fiat’s failure to provide independent repairers with and/or independent importers in any EU Member State
+appropriate access to technical information thereby fore- by or on behalf of Fiat is also made available to indeclosing firms which would be willing and able to offer pendent repairers.
+repair services through a different business model.
+
+(12) The commitments specify that ‘technical information’
+(7) The Commission’s preliminary conclusion was that Fiat’s within the meaning of Article 4(2) of Regulation (EC)
+arrangements for providing its technical information to No 1400/2002 includes all information provided to
+independent repairers did not correspond to the latters’ authorised repairers for the repair or maintenance of
+needs either as regards the scope of the information Fiat, ALFA Romeo and Lancia motor vehicles. Particular
+available or as regards its accessibility, and that such a examples include software, fault codes and other parapractice, in combination with similar practices by other meters, together with updates, which are required to
+car manufacturers, could have contributed to a decline in work on electronic control units (ECUs) with a view to
+the market position of independent repairers. In turn, introducing or restoring settings recommended by Fiat,
+this could have caused considerable consumer harm in vehicle identification methods, parts catalogues, working
+terms of a significant reduction in choice of spare parts, solutions resulting from practical experience and relating
+higher prices for repair services, a reduction in choice of to problems typically affecting a given model or batch,
+repair outlets, potential safety issues, and a lack of access and recall notices as well as other notices identifying
+to innovative repair shops. repairs that may be carried out without charge within
+the authorised repair network.
+
+(8) Moreover, Fiat’s apparent failure to provide independent
+(13) Access to tools includes access to electronic diagnostic
+repairers with appropriate access to technical information
+and other repair tools, together with related software,
+might prevent the agreements with its after-sales service
+including periodic updates thereof, and after-sales
+partners from benefiting from the exemption granted by
+services for such tools.
+Regulation (EC) No 1400/2002, since according to
+Article 4(2) of the Regulation, the exemption granted
+therein does not apply where the supplier of motor
+vehicles refuses to give independent operators access to
+any technical information, diagnostic and other (14) The commitments shall bind Fiat and its connected
+equipment, tools, including any relevant software, or undertakings but shall not be directly binding on indetraining required for the repair and maintenance of pendent importers of Fiat’s vehicle brands. In those
+these motor vehicles. As clarified in recital 26 of the Member States in which Fiat distributes Fiat, ALFA
+Regulation, the conditions of access must not discri- Romeo and/or Lancia vehicles via independent
+minate between authorised and independent operators. importers, Fiat has therefore agreed to make its best
+efforts to contractually oblige these undertakings to
+supply Fiat with any technical information or language
+versions of technical information that they have provided
+to authorised repairers in the Member State concerned.
+(9) Finally, the Commission came to the preliminary view Fiat has committed itself to place this technical inforthat in the context of lack of access to technical repair mation or language versions on its TI website without
+information, the agreements between Fiat and its delay.
+
+18.12.2007 EN Official Journal of the European Union L 332/79
+
+(15) According to recital 26 of the Regulation, Fiat is not — notices identifying repairs that may be carried out
+obliged to provide independent repairers with technical without charge within the authorised repair
+information that would enable a third party to bypass or network, and
+disarm on-board anti-theft devices and/or recalibrate (1)
+electronic devices, or to tamper with devices which — identification of the mediation centres referred to in
+limit a vehicle’s performance. As with any exception paragraph 21 below.
+under EU law, recital 26 is to be interpreted narrowly.
+The commitments note that if Fiat were to invoke this (19) The commitments specify that Fiat’s access fee structure
+exception as a reason for withholding any technical for the site will be based on the cost of a yearly
+information from independent repairers, it has subscription to the full bundle of the CD-ROMs that it
+committed itself to ensure that the information provides to its authorised repairers; namely EUR 3 356,
+withheld is limited to that necessary to provide the plus EUR 65 for the parts catalogue and an additional
+protection described in recital 26, and that the lack of monthly subscription fee of EUR 134 for updates.
+the information in question does not prevent inde- However, in order to respect the proportionality
+pendent repairers from carrying out operations other requirement laid down in the Regulation, Fiat agrees to
+than those listed in recital 26, including work on provide for a pro rata breakdown into monthly, daily, and
+devices such as engine management ECUs, airbags, hourly time windows at a price for each brand of EUR 3
+seatbelt pre-tensioners, or central locking elements. per hour, EUR 22 per day and EUR 350 per month. Fiat
+agrees to maintain this access fee structure, and not to
+(16) Article 4(2) of Regulation (EC) No 1400/2002 provides
+increase fee levels above the average inflation rate within
+that technical information must be made available in a
+the EU during the whole currency of the commitments. way that is proportionate to independent repairers’ needs.
+This implies both unbundling of information and pricing
+(20) Fiat’s commitments are without prejudice to any current that takes account of the extent to which independent
+or future requirement established by Community or repairers use the information.
+national law which might extend the scope of the
+(17) In line with this principle, the commitments specify that technical information that Fiat is to provide to inde-
+Fiat will include on the TI website all technical infor- pendent operators and/or might set out more favourable
+mation relating to models launched after 1996, and ways for such information to be provided.
+will ensure that all updated technical information is on
+the TI website or on any successor site at all times. (21) If an independent repairer or association of such repairers
+Moreover, Fiat will at all times ensure that the website so requests, Fiat has committed itself to accept a
+may be easily located and provides an equivalent level of mediation mechanism for settling disputes relating to
+performance to the methods used for providing technical the provision of technical information. The mediation
+information to members of its authorised networks. will take place in the Member State where the requesting
+When Fiat or another undertaking acting on Fiat’s party’s registered seat is located under the rules of a
+behalf makes a piece of technical information available recognised local mediation centre. Mediation will not
+to authorised repairers in a particular EU language, Fiat prejudice any right to file an application with the
+will ensure that this language version of the information competent national court.
+is placed on the TI website without delay.
+(22) The Decision finds that, in view of the commitments,
+(18) The following three categories of technical information
+there are no longer grounds for action by the
+are not yet on the TI website, but Fiat has committed
+Commission. The commitments will be binding until
+itself to place them there by 31 December 2007:
+31 May 2010.
+— translations in local languages of technical information currently not in Fiat’s possession, but to be (23) The Advisory Committee on Restrictive Practices and
+provided by its independent importers in the EU Dominant Positions issued a favourable opinion on 9
+Member States concerned, July 2007.
+
+(1) i.e. to modify the original settings of an ECU in a way not recommended by Fiat.

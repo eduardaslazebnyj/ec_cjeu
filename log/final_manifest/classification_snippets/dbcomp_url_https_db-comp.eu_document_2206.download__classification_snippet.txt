@@ -1,0 +1,480 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition
+
+CASE AT.40558
+CASE AT.40570
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7(2) Regulation (EC) 773/2004
+Date: 02/07/2021
+
+This text is made available for information purposes only.
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN COMMISSION
+
+Brussels, 2.7.2021
+C(2021) 4964 final
+
+RYANAIR
+Ryanair Dublin Office
+Airside Business Park
+Swords
+Co. Dublin
+Ireland
+
+Subject: Case AT.40558 – Terminals at Warsaw Airport
+Case AT.40570 – PPL/Modlin airport
+Commission decision rejecting the complaint
+(Please quote this reference in all correspondence)
+
+Dear Madam,
+
+(1) I am writing to you in connection with your complaints against
+Przedsiebiorstwo Panstwowe „Porty Lotnicze” ("PPL") registered under
+numbers AT.40558 and AT.40570. I regret to inform you that the European
+Commission (the "Commission") has decided to reject your complaint against
+PPL, pursuant to Article 7(2) of the Commission Regulation (EC) 773/2004.1
+
+1. THE COMPLAINT
+
+1.1. Procedure
+
+1.1.1. Main exchanges and meetings in this case
+
+(2) By letter dated 14 September 2017, co-signed with Norwegian Air Shuttle
+ASA (hereinafter the “First Complaint”, registered under number AT.40558),
+and by letter dated 22 December 2017 (hereinafter the “Second Complaint”,
+registered under number AT.40570), you requested the Commission to launch
+investigations into PPL’s alleged conduct at Warsaw airports, namely Warsaw
+Chopin Airport ("WAW") and Warsaw Modlin Airport ("WMI") (the First
+
+1 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, Official Journal L 123, 27.04.2004, pages 18-
+24.
+
+Complaint and the Second Complaint are jointly referred to as “the
+Complaints”).
+
+(3) You provided additional information on both complaints jointly on a number of
+occasions (detailed in sections 1.5 and 1.6 below). On 2 March 2018, a
+representative of Warsaw Modlin airport’s (“WMI”) management met the
+services of DG Competition in Brussels to provide further clarifications on the
+Second Complaint.
+
+(4) By letter of 31 October 2018, the Commission informed you of its provisional
+assessment and its intention to reject your complaints pursuant to Article 7(1)
+of Regulation (EC) No 773/2004. In response, you made additional
+observations in your letter of 11 December 2018, which built upon and
+expanded the allegations made in the Second Complaint.2
+
+(5) Following your letter of 11 December 2018, you have provided further
+clarifications and additional information linked to your initial complaints on
+several occasions, including during meetings and conference calls with DG
+Competition.
+
+(6) In particular, on 13 March 2019, you provided further clarifications at a
+meeting with the services of DG Competition in Brussels, together with a
+representative of WMI’s management. Following this meeting, you provided
+additional information by letters dated 10 and 23 May 2019, including two
+witness statements. You also provided additional information in writing on 23
+July 2019, 12 August 2019, 27 October 2019 and 8 November 2019.
+
+(7) On 14 November 2019, you held a conference call with the services of DG
+Competition. On 26 November 2019, you provided further clarifications
+concerning the Second Complaint. On 13 December 2019, you had another
+meeting with the services of DG Competition in Brussels. On 19 December
+2019, 24 February 2020, 5 October 2020 and 29 March 2021, you provided
+further clarifications on the Second Complaint.
+
+(8) The clarifications and the additional information you have provided relate to
+your intitial allegations and do not lead to a different assessment of your
+complaints than the one expressed by the Commission in its letter letter of 31
+October 2018 by which the Commission informed you of its intention to reject
+your complaints pursuant to Article 7(1) of Regulation (EC) No 773/2004.
+
+1.1.2. The alleged violation of Article 106 TFEU by the Republic of Poland
+
+(9) In your complaints, you alleged, in addition to an infringement of Articles 101
+and 102 TFEU by PPL, an infringement of Article 106(1) TFEU, in
+conjunction with Article 101 or 102 TFEU, by the Republic of Poland. By
+letter of 31 October 2018, the Commission informed you that it does not intend
+to conduct an in-depth investigation into your claims concerning the breach of
+Article 106(1) TFEU, in conjunction with Article 101 or 102 TFEU, by the
+
+2 The time time-limit for submitting observations on the Commission’s letter of 31 October 2018 expired four
+weeks from the date of receipt of that letter. At your request, the Commission extended the deadline to 11
+December 2018.
+
+Republic of Poland, as there is only a very limited likelihood of establishing
+any such alleged infringement. As mentioned in the Commission's letter of 31
+October 2018, the complaints based on Article 106 TFEU in conjunction with
+Articles 101 and/or 102 TFEU, unlike complaints against undertakings, are not
+subject to the procedure set out in Regulations No 1/2003 and No 773/2004.3
+In particular, the Commission’s refusal to act under Article 106 TFEU
+following the filing of a complaint by an individual against a Member State
+does not constitute a challengeable act since, the Commission not being
+obliged to bring proceedings within the meaning of that provision, individuals
+cannot require it to take a position in a specific sense.4 In the area covered by
+Article 106 TFEU, the Commission enjoys a wide discretion, both in relation
+to the proceedings which it considers necessary to bring and in relation to the
+means appropriate for that purpose.5
+
+1.2. Relevant parties
+
+(10) According to the complaints, PPL is a State-owned undertaking that owns
+100% of the airport manager of Warsaw Chopin airport (“WAW”), almost 30%
+of the airport manager of WMI, and 100% of the airport manager of Radom
+airport (“RDO”).
+
+(11) According to the complaints, PPL controls WMI, in particular through its veto
+rights over WMI’s major investment decisions. The other large shareholders of
+WMI are the Military Property Agency, an executive agency supervised by the
+Minister of National Defence, and the region of Mazowieckie. Each of these
+three shareholders owns approximately one third of the shares.6
+
+1.3. Relevant airports
+
+(12) According to the complaints, WAW and WMI are currently the only two
+airports that serve the catchment area of the Warsaw area. WAW is Poland’s
+largest airport and handled approximately 16 million passengers in 2017,
+which is the latest figure you have provided. WAW is located close to Warsaw
+city centre. WAW’s maximum capacity is approximately 22 million passengers
+per year (“mppa”). LOT, the Polish legacy air carrier, uses approximately half
+of WAW’s capacity, according to the information that you provided.
+
+(13) According to the complaints, WAW, which is a coordinated airport within the
+meaning of the Slot Regulation,7 is subject to severe capacity constraints.
+
+3 Commission Notice on the handling of complaints, point 6, second indent.
+
+4 C-141/02 P Commission v max.mobil,EU:C:2005:98, paragraphs 69 and 70, and T-567/10 Vivendi v
+Commission,EU:T:2011:528, paragraph 16.
+
+5 C-107/95 P Bundesverband der Bilanzbuchhalter v Commission,EU:C:1997:71; C-48/90 and C-66/90
+Netherlands and Others v Commission, EU:C:1992:63, paragraph 27; and T-416/13
+Stanleybet,EU:T:2014:567, para 21.
+
+6 The region of Mazowieckie: 35,20%, the Military Property Agency: 32,04%, PPL: 28,28%. The remaining
+4,48% of shares belong to the municipality of Nowy Dwór Mazowiecki.
+
+7 Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at
+Community airports, OJ L 14, 22.1.1993.
+
+Airlines need to obtain slots to take off or land in a given airport. The Slot
+coordinator for WAW8 would have rejected almost 20% of all slot requests for
+summer 2020. On the other hand, according to the complaints, WAW is subject
+to significant, ongoing investment projects initiated by PPL and its capacity is
+expected to increase within a few years.9
+
+(14) WMI currently handles approximately 3 million passengers per year. Ryanair
+is the only airline operating at WMI. WMI is located less than 50 kilometres
+from Warsaw. According to the complaints, Ryanair intends to increase traffic
+at WMI in view of the growing demand, but WMI faces capacity constraints.
+Addressing the capacity constraints at WMI requires expanding the existing
+terminal. This would enable to increase traffic to 3.5-5 mppa. Further
+expansion would enable 6 mppa in the medium term, and 12 mppa in the
+longer term.
+
+(15) According to the complaints, RDO airport is located over 100 kilometres from
+Warsaw’s city centre and currently does not have a motorway or high-speed
+rail connection to Warsaw. RDO is not yet open to commercial traffic.
+According to the complaint, RDO would not adequately serve Warsaw but,
+once it is open after a general refurbishment, it will most likely be considered
+to be within the same catchment area as WAW and WMI.
+
+(16) According to the complaints, PPL announced that it planned to introduce
+traffic distribution rules (“TDRs”; see next paragraph) to keep long-haul and
+connecting flights (such as those operated by LOT) at WAW while other traffic
+(such as Ryanair’s flights) would be allocated to RDO. According to the
+complaints, future capacity increases at WAW would coincide with the
+introduction of TDRs at Warsaw airports and therefore benefit LOT.
+
+(17) TDRs distribute air traffic between two or more airports that serve the same
+urban area. Free access to the market is the underlying principle of European
+aviation regulation. In principle, air carriers themselves must decide from
+which airport they offer their services. Regulation (EC) No 1008/2008 allows
+Member States to regulate the distribution of air traffic between airports to the
+extent that TDRs satisfy certain criteria, such as notably the fact that airports
+serve the same city and are served by adequate transport infrastructure, or the
+fact that the TDRs do not discriminate on the grounds of the air carriers’
+nationality or identity or by destination.10 Member States must notify TDRs to
+the Commission, which verifies that they comply with Regulation (EC) No
+1008/2008. As of the date of this decision, TDRs for Warsaw airports have not
+been yet notified to the Commission.
+
+8 ACL International.
+
+9 According to your letter of 2 February 2018, PPL would intend to increase WAW’s capacity from 38 to 50
+flights per hour.
+
+10 Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on
+common rules for the operation of air services in the Community, OJ L 293, 31.10.2008.
+
+1.4. Relevant markets
+
+(18) According to the complaints, the relevant markets are the (upstream) market
+for the provision of airport infrastructure services to airlines in the Warsaw
+area and the (downstream) market for the provision of air transport services to
+and from the Warsaw area. The complaints allege that PPL is dominant (and
+has a monopoly) on the upstream market for the provision of airport
+infrastructure services to airlines at Warsaw.
+
+(19) For the purpose of the assessment of the complaints, the Commission proceeds
+on the basis of the above definition of the markets and assessment of
+dominance.
+
+1.5. Allegations regarding WAW (First Complaint)
+
+(20) In the First Complaint, you allege that PPL has abused its “monopoly position”
+by reallocating Ryanair’s flights from “terminal stands” to “remote stands” at
+WAW. You claim that such reallocation, which was introduced in July 2017,
+would have caused operational inefficiencies, in particular significant delays
+caused by longer turnaround times, and would have concerned only low-cost
+carriers, whereas legacy carriers, such as LOT, would have remained at the
+“terminal stands”.
+
+(21) You explain that PPL would have justified the reallocation of stands based on
+safety concerns. In particular, PPL would have claimed that the change in stand
+allocations had the purpose of minimizing the risk resulting from significant
+vehicle traffic at “terminal stands”. However, PPL would have refused to allow
+airlines to view the safety analysis on the grounds of which the reallocation
+was enacted. Moreover, by allocating Ryanair’s aircraft to those “remote
+stands”, PPL would have breached its own stand allocation rules at WAW.
+
+(22) On 16 October 2017, the services of DG Competition sent you, by e-mail,
+further questions concerning your allegations. In your response dated 30
+October 2017, you clarified that the so-called “terminal stands” also require a
+bus to transport passengers from the terminal to the aircraft, similarly to the
+“remote stands”. You also claimed that Ryanair’s average turnaround time is
+49 minutes at “remote stands” versus 45 minutes at “terminal stands”, while
+Ryanair’s target turnaround time at WAW is 30 minutes.
+
+(23) By letters dated 2 and 14 February 2018, you made additional observations
+regarding PPL’s alleged abuse of monopoly position at WAW.
+
+(24) First, PPL would have intended to introduce new fuelling rules at WAW,
+preventing the boarding of the aircraft while it is being fuelled and further
+extending turnaround times. Although PPL has claimed that such new rules are
+implemented for safety reasons, you consider that their purpose would be to
+obstruct low-cost carriers’ operations.
+
+(25) Second, PPL would have extended its night curfew since September 2017 by
+forbidding operations of commercial flights from 11.30 p.m. to 5.30 a.m. This
+extension would have caused significant damage to low-cost carriers because
+they had to rearrange their network schedule. You concluded that the
+reallocation of Ryanair’s flight to “remote stands”, the new fuelling rules and
+
+the extension of the night curfew frustrate low-cost carriers’ ability to operate
+at WAW and favour LOT.
+
+(26) Following the Commission’s letter of 31 October 2018 informing you of its
+intention to reject the complaint, you had the opportunity to make additional
+observations. In your letter of 11 December 2018, you stated that you upheld
+the allegations contained in the First Complaint. However, you did not respond
+to the preliminary assessment of the First Complaint expressed in the
+Commission’s letter of 31 October 2018 within the prescribed time-limit.
+
+(27) On 10 May 2019, you sent a written statement, in support of the allegation that
+the rules introduced by PPL frustrate low-cost carriers’ ability to operate at
+WAW and favour LOT. This statement was [...]. According to this written
+statement, in some instances, PPL exerted pressure on WAS to ensure that
+WAS actively hindered operations of some specific airlines. One example
+involved PPL allegedly requiring WAS to stri
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ogle Shopping. In
+that case, the Commission found that Google had abused its dominance as a
+search engine (i.e. on the upstream market) by giving an illegal advantage to
+another Google product, its comparison shopping service (i.e. on the
+downstream market).
+
+(82) The Commission’s preliminary assessment, however, is that the present case is
+not comparable to the Google Shopping case, for the reasons outlined below.
+
+(83) First, there is insufficient evidence to suggest that PPL and LOT belong to a
+single vertically integrated undertaking or that they act in a manner which is
+coordinated by the state. In particular, the claim that PPL and LOT have one
+decision-making centre is not supported by sufficient evidence. The fact that
+both firms are owned by the State and that both ultimately report to the Prime
+Minister even if it were to be proven (quod non), is not sufficient to show that
+a single decision-making centre actually exercises effective control over both
+firms. While the Commission notes that both companies are wholly owned by
+the State Treasury, it is equally true that PPL is supervised by the Minister of
+Transport while LOT is supervised by the Minister of State Assets.
+Additionally, LOT is part of the Polish Aviation Group, while PPL is not.39
+
+(84) Secondly, as discussed in paragraph (74), there is insufficient evidence to
+suggest that PPL’s conduct on the upstream market is intended to or even has
+an effect of benefiting LOT on the downstream market, or is coordinated by
+PPL and LOT.
+
+standard fee is set up at PLN 40 (i.e. around EUR 9). However, if a company serves between 50 001 – 100
+000 passengers per year (total to and from WMI) in a given year, it pays PLN 36 per each departing
+passenger. If it serves between 100 001 – 300 000, it pays PLN 32 etc. The highest discount is granted to
+companies serving above 3 million passengers at WMI. In such a case, the passenger fee is reduced to PLN
+5 (around EUR. 1.15). To the Commission’s understanding, based on public traffic statistics for WMI, the
+only one customer providing scheduled regular passenger connections to/from WMI, i.e. Ryanair Group,
+has paid (at least since 2016) no more than PLN 6 per departing passenger at WMI (around EUR 1.36).
+
+39 The Commission takes a similar view in part B, point II, point 1.7 of the Commission Jurisdictional Notice
+under Council Regulation (EC) No 139/2004 on the control of concentrations between undertakings,
+Official Journal C 95, 16.04.2008, pages 1- 48.
+
+(iii) Killer acquisition/common ownership
+
+(85) In your view, PPL's conduct also involves many elements of established
+theories of harm concerning "killer acquisitions" and "common ownership". In
+this respect, you refer to cases in which the EU Courts or the Commission
+found that (1) using a shareholding to influence the commercial strategy of a
+competitor and weakening its competitive position may amount to an abuse of
+dominance40 and that (2) “common shareholding of competitors reduces
+incentives to compete, as the benefits of competing aggressively to one firm
+come at the expense of firms that belong to the same investors’ portfolio”.41
+
+(86) As for the “killer acquisition” theory of harm, to the Commission's knowledge
+and as you stated, PPL was a founding shareholder of WMI.42 Moreover, PPL
+seems to have had joint control of WMI since its founding, as you note.
+Indeed, PPL's participation in the creation of WMI (i.e. another competitor on
+the market for the provision of the upstream airport services), as a founding
+shareholder, could rather be seen as pro-competitive. By contrast, a "killer
+acquisition" would rather concern a scenario where competitor A already exists
+and exerts competition on competitor B, but is then acquired by competitor B.
+
+(87) As for the "common ownership" theory of harm, you do not explain how the
+behaviour would infringe Article 102 TFEU on this basis. Your only argument
+in this respect is that "if it were not for PPL’s ownership of both WAW and
+WMI, PPL’s anti-competitive leveraging strategy would be significantly more
+difficult (if not impossible) to implement". However, this is not sufficient to
+show or even to define a "common ownership" infringement, and indeed it
+suggests that the alleged infringement is "anti-competitive leveraging" rather
+than the common ownership in itself. The cursory references to the
+Dow/DuPont merger case, the UK Ryanair/Aer Lingus case, and the UK BAA
+case – a UK "market investigation" case which is not comparable to the EU
+antitrust rules – are insufficient to support the argument that common
+shareholding in itself is an infringement in the present situation.
+
+(iv) Use of regulatory procedures to exclude competitors
+
+(88) In your complaint, you rely on the AstraZeneca judgment in which the Court of
+Justice found that using a regulatory procedure to exclude competitors is
+abusive under Article 102 TFEU unless there is a legitimate reason or objective
+justification.43
+
+(89) However, your allegations do not refer to PPL participating in any regulatory
+procedure. In other words, you do not explain why the AstraZeneca case would
+be relevant for the present case. Moreover, as explained above, there can be
+
+40 See footnote 3.
+
+41 Commission case M.7932 Dow/DuPont, Annex 5, cited in your memo of 24 February 2020, page 8.
+
+42 Your memo of 24 February 2020, page 8. PPL's control of WMI was never subject to Polish or EU merger
+control.
+
+43 C-457/10 P AstraZeneca, EU:C:2012:770.
+
+objective justifications for PPL’s unwillingness to make further investments in
+WMI (see paragraphs (76) to (80)).
+
+3.1.2.2. Allegation of infringement of Article 102 TFEU (disclosure of a
+commercial agreement)
+
+(90) You also allege that the request from PPL to WMI to provide details of a
+commercial agreement concluded between WMI and Laudamotion would be
+an example of PPL abusing its position as WMI’s shareholder.
+
+(91) However, as you mention, neither Laudamotion nor Malta Air, both Ryanair
+Group airlines, have entered into any agreement with WMI. Therefore, the
+likelihood of establishing the existence of an infringement of Article 102
+TFEU based on these facts appears limited.
+
+3.1.2.3. Conclusion on the Second Complaint
+
+(92) In view of the foregoing assessment, the likelihood of establishing the
+existence of infringements of Article102 TFEU based on the Second
+Complaint appears limited.
+
+3.2. National courts and authorities appear to be well-placed to handle the
+matters raised
+
+(93) In view of the local nature of the market (provision of airport management
+services in the catchment area of Warsaw) and alleged anti-competitive
+conduct you are referring to, the Polish Competition Authority (Urząd Ochrony
+Konkurencji i Konsumentów) would be well-placed to address the concerns
+that you have raised.
+
+(94) National competition authorities have parallel competence with the European
+Commission to enforce the EU competition rules and are well-placed to do so
+in matters relating to their national territory, regardless of the fact that the
+conduct at issue may affect other national markets because there is a
+substantial flow of passenger traffic on intra-EU flights to and from WMI or
+WAW.
+
+(95) In your e-mail of 26 November 2019, you allege that the Polish Competition
+Authority is not independent of political control and, given the politically
+sensitive nature of this case, is not well-placed to assess the complaints against
+PPL. However, you have not provided any indication supporting this
+allegation.
+
+(96) Furthermore, the Commission's refusal to open an investigation does not have
+the consequence of depriving Articles 101 and 102 TFEU of any practical
+effect,44 in particular considering that it is open to complainants to bring
+
+44 See case T-480/15, Agria Polska and Others v Commission, EU:T:2017:339, paragraph 83 and case C-
+373/17, Agria Polska and Others v Commission, EU:C:2018:756, from paragraphs 76.
+
+actions before the national courts in order to obtain compliance with
+Articles 101 and 102 TFEU and to assert their rights under those provisions.45
+
+4. CONCLUSION
+
+(97) In view of the above considerations, the Commission, in its discretion to set
+priorities, has come to the conclusion that, also in the light of your submissions
+following the Commission’s letter of 31 October 2018,there are insufficient
+grounds for conducting a further investigation into the alleged infringement(s)
+and consequently rejects the complaints pursuant to Article 7(2) of Regulation
+(EC) No 773/2004.
+
+5. PROCEDURE
+
+5.1. Possibility to challenge this Decision
+
+(98) An action may be brought against this Decision before the General Court of the
+European Union, in accordance with Article 263 TFEU.
+
+5.2. Confidentiality
+
+(99) The Commission reserves the right to send a copy of this Decision to PPL.
+Moreover, the Commission may decide to make this Decision, or a summary
+thereof, public on its website.46 If you consider that certain parts of this
+Decision contain confidential information, I would be grateful if within two
+weeks from the date of receipt you would inform:[...]. Please identify clearly
+the information in question and indicate why you consider it should be treated
+as confidential. Absent any response within the deadline, the Commission will
+assume that you do not consider that the Decision contains confidential
+information and that it can be published on the Commission’s website or sent
+to PPL.
+
+(100) The published version of the Decision may conceal your identity upon your
+request and only if this is necessary for the protection of your legitimate
+interests.
+
+For the Commission
+
+Margrethe VESTAGER
+Executive Vice-President
+
+45 See case T-480/15, Agria Polska and Others v Commission, EU:T:2017:339, paragraphs 80 and 84, and
+case C-373/17, Agria Polska and Others v Commission, EU:C:2018:756, paragraph 83.
+
+46 See paragraph 150 of the Commission notice on best practices for the conduct of proceedings concerning
+Articles 101 and 102 TFEU, OJ 2011/C 308/06.

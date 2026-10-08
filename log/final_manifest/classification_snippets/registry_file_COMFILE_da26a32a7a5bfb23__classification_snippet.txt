@@ -1,0 +1,295 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52022AT39839(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52022AT39839(01)
+Help
+Print
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.39839 – Telefónica and Portugal Telecom (amendment) 2022/C 286/09
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.39839 – Telefónica and Portugal Telecom (amendment) 2022/C 286/09
+Final Report of the Hearing Officer (Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (OJ L 275, 20.10.2011, p. 29) (‘Decision 2011/695/EU’).) Case AT.39839 – Telefónica and Portugal Telecom (amendment) 2022/C 286/09
+C/2022/324
+OJ C 286, 27.7.2022, pp. 28–29
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+27.7.2022
+EN
+Official Journal of the European Union
+C 286/28
+Final Report of the Hearing Officer
+(
+1
+)
+Case AT.39839 – Telefónica and Portugal Telecom (amendment)
+(2022/C 286/09)
+The draft decision, addressed to (a) Telefónica, S.A (‘Telefónica’) and (b) Pharol SGPS SA (‘Pharol’)
+(
+2
+)
+, is the second decision in the present proceedings. The first decision was adopted in this case in 2013 (‘the 2013 Decision’) and was partly annulled by the General Court in 2016
+(
+3
+)
+. The Court of Justice confirmed the General Court judgment in 2017
+(
+4
+)
+.
+While the General Court confirmed the Commission’s finding of an infringement of Article 101 TFEU in the 2013 Decision, it annulled Article 2 of the 2013 Decision. According to the General Court, in the 2013 Decision, the Commission ought to have determined the value of sales directly or indirectly related to the infringement, on the basis of the material put forward by Telefónica and Pharol concerning the absence of potential competition between them with respect to certain services.
+PROCEDURE
+Following the General Court judgments and Court of Justice judgment, the Commission sent a number of information requests to Telefónica and Pharol with the aim of further establishing the value of sales directly or indirectly related to the infringement in light of the findings of the General Court.
+On 23 July 2019 and on 5 November 2019, the Commission sent a letter of facts to Telefónica and Pharol (‘Letter of Facts’), informing them that the Commission intended to adopt a new decision pursuant to Article 23 of Regulation 1/2003
+(
+5
+)
+, imposing fines on each of them for their infringement of Article 101 TFEU, as specified in Article 1 of the 2013 Decision. The new decision would amend the 2013 Decision, taking into account the General Court judgments and the Court of Justice judgment.
+Telefónica and Pharol submitted their views on the Letter of Facts on 18 October 2019 and 10 January 2020 respectively. On 22 June and 4 August 2020, Telefónica submitted additional observations.
+PROCEDURAL POINTS RAISED BY TELEFÓNICA
+a)
+Alleged necessity of a new statement of objections and oral hearing
+In its reply to the Letter of Facts, Telefónica requested a new statement of objections and a new oral hearing
+(
+6
+)
+arguing that given the content of the Letter of Facts and the proposals made in it, the appropriate action would be for the Commission to issue a new statement of objections and to grant Telefónica an oral hearing in the presence of representatives of the Member States, in accordance with the procedure and subject to the procedural guarantees laid down in Regulation 1/2003
+(
+7
+)
+. Telefónica does not elaborate on this request but does draw analogies to the
+Toshiba
+judgment, arguing that the analysis of the existence of potential competition between PT and Telefónica in each of the markets and services to which the Letter of Facts refers affects essential aspects of assessing the parameters for calculating the amount of the fine imposed on Telefónica
+(
+8
+)
+.
+Telefónica’s argument appears to be that because the Letter of Facts contained essential aspects of assessing the parameters for calculating the amount of the fine Telefónica somehow merited a statement of objections and oral hearing. Telefónica’s approach has no basis, however, in the case law.
+As a first point in this respect, it is to be recalled that the annulment of an EU act does not necessarily affect preparatory measures, and the procedure for replacing the annulled measure may, in principle, be resumed at the very point at which the illegality occurred. If it is found that the annulment does not affect the validity of the prior procedural measures, the Commission is not, as a result of that annulment alone, required to present the undertakings concerned with a new statement of objections
+(
+9
+)
+. In the present case, Telefónica does not appear to allege that the defect identified by the General Court judgments concerned the objections raised against Telefónica in 2011 prior to the adoption of the 2013 Decision
+(
+10
+)
+.
+Second, the new draft decision concerns solely the detailed calculation of the amount of fines, in particular of the value of sales. As the draft decision rightly points out in its paragraphs 23-26, the Commission is not raising any new objections and Telefónica is not arguing that the Letter of Facts contained such objections.
+Third, to the extent that Telefónica is taking issue with the absence of a further oral hearing, it is noted that the right to be heard does not mean that the person concerned must be given the opportunity to express his or her views orally, since the opportunity to provide comments in writing also allows that right to be observed
+(
+11
+)
+. Telefónica had the possibility to react in writing to the Letter of Facts and made several further submissions to the Commission.
+In light of the above, I do not see that Telefónica’s view that the Commission should have issued a new statement of objections and granted a new oral hearing is justified.
+b)
+Telefónica’s argument that raising the value of sales would be contrary to the Charter of Fundamental Rights (‘Charter’)
+Insofar as the draft decision uses corrected reference data for the determination of its value of sales, Telefónica claims that raising the value of sales in a new decision is contrary to Article 47 of the Charter
+(
+12
+)
+. That is because under this Article, court judgments cannot become ineffective as a result of the acts of the administrative bodies which must enforce them. In Telefónica’s view, under the Commission’s approach, the effectiveness of a judgment would be completely eradicated
+(
+13
+)
+, thereby giving rise to a situation of risk for any future appellant considering bringing an action for annulment.
+Given that the amount of the fine established by the draft decision is not increased as compared to the 2013 Decision, there is no question of violation of Article 47 of the Charter stemming from Telefónica’s appeal of the 2013 Decision.
+CONCLUSION
+I consider that the right to be heard of all participants to the proceedings has been respected in this case.
+Brussels, 24 January 2022.
+Dorothe DALHEIMER
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+Portugal Telecom SGPS, S.A. (‘PT’) the original addressee of the 2013 Decision was renamed to Pharol in 2015.
+(
+3
+)
+Case T-216/13
+Telefónica SA v European Commission
+and Case T-208/13
+Portugal Telecom SGPS SA v European Commission
+(‘General Court judgments’).
+(
+4
+)
+Case C-487/16 P
+Telefónica SA v European Commission
+. Pharol did not appeal the General Court’s judgment in Case T-208/13. (‘Court of Justice judgment’).
+(
+5
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+6
+)
+Pharol did not make a similar request.
+(
+7
+)
+Telefónica’s reply to the Letter of Facts, paragraph 9.
+(
+8
+)
+Telefónica’s reply to the Letter of Facts, footnote 8.
+(
+9
+)
+Limburgse Vinyl Maatschappij and Others
+v
+Commission
+, C-238/99 P, C-244/99 P, C-245/99 P, C-247/99 P, C-250/99 P to C-252/99 P and C-254/99 P, ECLI:EU:C:2002:582, paragraphs 73 to 75 and 80 and 81.
+(
+10
+)
+See,
+Toshiba v Commission,
+C-180/16 P, ECLI:EU:C:2017:520, paragraph 28.
+(
+11
+)
+HeidelbergCement AG and Schwenk Zement KG v Commission
+, T-380/17, ECLI:EU:T:2020:471, paragraph 634.
+(
+12
+)
+Telefónica’s reply to the Letter of Facts, paragraphs 37 to 42.
+(
+13
+)
+Telefónica’s reply to the Letter of Facts, paragraph 38.
+Top

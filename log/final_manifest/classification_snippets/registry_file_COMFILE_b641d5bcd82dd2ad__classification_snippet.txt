@@ -1,0 +1,389 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40305- NETWORK SHARING
+- CZECH REPUBLIC
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 9 Regulation (EC) 1/2003
+Date: 11/07/2022
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 11.7.2022
+C(2022) 4742 final
+
+COMMISSION DECISION
+
+of 11.7.2022
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40305 – Network sharing - Czech Republic
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 4
+2. The Undertakings concerned ........................................................................................ 4
+3. Procedural Steps Under Regulation (EC) No 1/2003 .................................................. 7
+4. Preliminary Assessment ............................................................................................... 8
+4.1. Relevant markets .......................................................................................................... 8
+4.1.1. Retail mobile telecommunication services ................................................................... 8
+4.1.1.1. Product market ............................................................................................................. 8
+4.1.1.2. Geographic market ....................................................................................................... 9
+4.1.2. Wholesale market for access and call origination on public mobile networks ............ 9
+4.1.2.1. Product market ............................................................................................................. 9
+4.1.2.2. Geographic market ..................................................................................................... 10
+4.1.3. Preliminary conclusion on the relevant markets ........................................................ 10
+4.2. Conditions for applying Article 101(1) TFEU ........................................................... 10
+4.2.1. Agreements between undertakings, decisions by associations of undertakings and
+concerted practices ..................................................................................................... 10
+4.2.2. Effect of prevention, restriction or distortion of competition .................................... 11
+4.2.3. Effect on trade between Member States ..................................................................... 12
+4.3. Market characteristics ................................................................................................ 13
+4.3.1. Importance of infrastructure competition ................................................................... 13
+4.3.2. Market shares ............................................................................................................. 13
+4.3.2.1. Market shares at network level .................................................................................. 14
+4.3.2.2. Market shares on the wholesale market for access and call origination services ...... 14
+4.3.2.3. Conclusion.................................................................................................................. 15
+4.3.3. Closeness of competition ........................................................................................... 15
+4.3.4. Competitive pressure by other parties ........................................................................ 16
+4.3.4.1. Competitive pressure by Vodafone ............................................................................ 16
+4.3.4.2. Competitive pressure by other operators.................................................................... 16
+4.3.4.3. Conclusion.................................................................................................................. 17
+4.3.5. No entry likely, timely and sufficient (due to high barriers to entry) ........................ 17
+4.3.6. Limited buyer power .................................................................................................. 18
+4.4. Practices raising concerns .......................................................................................... 18
+4.4.1. Lack of roll-out of the 2100 MHz capacity band in Eastern Czechia and restriction of
+the Sharing Parties’ flexibility in rolling-out the 1800 MHz band ............................ 19
+4.4.1.1. Technical limitations .................................................................................................. 19
+4.4.1.2. The LTE2100 hold-back effect .................................................................................. 20
+
+1
+
+4.4.2. Unilateral deployments disincentives ........................................................................ 23
+4.4.2.1. Financial disincentives ............................................................................................... 23
+4.4.2.2. Disincentives due to the information exchange ......................................................... 25
+4.4.3. The competitive landscape in the absence of the agreements (counterfactual) ......... 29
+4.4.3.1. A realistic scenario without the agreements at issue .................................................. 29
+4.4.3.2. The competitive situation in the absence of the agreements as they stand ................ 31
+4.4.3.3. Conclusion.................................................................................................................. 32
+4.5. Application of Article 101(3) TFEU .......................................................................... 33
+5. Initial Commitments................................................................................................... 34
+6. Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003 ......... 35
+6.1. Respondents’ view on the Commitments ................................................................... 35
+6.1.1. Vodafone’s view on the Commitments ...................................................................... 35
+6.1.2. CTU’s view on the Initial Commitments .................................................................. 37
+6.1.3. Other respondents to the market test .......................................................................... 38
+6.2. The Commission’s assessment of the Initial Commitments in light of the comments
+from third parties during the Market Test ................................................................. 38
+7. Appropriateness and proportionality of the Final commitments ................................ 40
+7.1. Principles .................................................................................................................... 40
+7.2. Application in this case .............................................................................................. 40
+8. Conclusion.................................................................................................................. 43
+
+2
+
+COMMISSION DECISION
+
+of 11.7.2022
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40305 – Network sharing - Czech Republic
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+Having regard to the Commission decisions of 25 October 2016 and 7 August 2019 to initiate
+proceedings in this case,
+Having expressed concerns in the Statements of Objections of 7 August 2019 and 14 February
+2020,
+Having regard to the Oral Hearing held from 15 to 17 September 2020,
+Having expressed concerns in the preliminary assessment of 27 August 2021,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+
+3
+
+1. SUBJECT MATTER
+(1) The present Decision is addressed to T-Mobile Czech Republic a.s. (“T-Mobile”) and
+to its parent company, Deutsche Telekom AG (“Deutsche Telekom”), as well as to
+CETIN a.s. (“CETIN”), O2 Czech Republic a.s. (“O2”) and to their parent company,
+PPF Group N.V. (“PPF Group”). T-Mobile and O2/CETIN are collectively referred
+as the “Sharing Parties”, while the Sharing Parties together with Deutsche Telekom
+and PPF Group as the “Parties”.
+(2) This Decision addresses concerns relating to the horizontal network sharing
+agreements (“NSAs”) concluded between T-Mobile and CETIN (initially O2, which
+was then legally succeeded by CETIN as a party to the NSAs and as the operator of
+the infrastructure concerned by the NSAs),2 as well as to the Mobile Network
+Services Agreement (“MNSA”) concluded between O2 and CETIN. In its
+Preliminary Assessment (“PA”) of 27 August 2021, the Commission came to the
+provisional conclusion that the NSAs (and the MNSA) reduced the Sharing Parties’
+ability and incentive to unilaterally invest in mobile network infrastructure, in turn
+negatively affecting the ability and incentives of T-Mobile and O2 to compete on the
+retail and wholesale markets for mobile telecommunications services in Czechia
+raising concerns as to their compatibility with Article 101 of the Treaty and Article
+53 of the Agreement on the European Economic Area (“EEA Agreement”).
+
+2. THE UNDERTAKINGS CONCERNED
+(3) T-Mobile is a wholly-owned subsidiary of Deutsche Telekom active in the
+telecommunications sector in Czechia. Its main business is the provision of voice
+telephony, messaging, data and content services based on 2G, 3G, 4G and 5G
+technologies. Additionally, it offers fixed-line telecommunications and a broad
+portfolio of IT services and systems-integration solutions for business customers and
+public administration authorities.
+(4) Deutsche Telekom is the former German incumbent telecommunications company
+headquartered in Bonn. It is the ultimate parent company of the Deutsche Telekom
+group, which is present in more than 50 countries worldwide and is one of the largest
+telecommunications providers in Europe. The German Federal Republic owns 31.9%
+of its shares, while the remaining shares are held by retail and institutional investors
+(17.6% and 50.5%, respectively).
+(5) The Commission preliminarily considers, that based on its 100% shareholding,
+Deutsche Telekom is able and is presumed, to exercise decisive influence over T-
+Mobile, and therefore that T-Mobile and Deutsche Telekom can be considered as a
+single undertaking.
+(6) O2 is a telecommunications company mainly active in the provision of voice
+telephony, messaging, data and content services based on 2G, 3G, 4G and 5G
+technologies in Czechia and Slovakia. Its services are complemented by the
+provision of media services and the operation of TV programmes. Up to 2014, O2
+belonged to the Telefónica Group3 but, as of 28 January 2014, it is majority-owned
+by the PPF Group. As of 1 July 2021, the PPF Group had a shareholding of 90.47%
+
+2 As of 1 June 2015, CETIN owns and manages both fixed and mobile infrastructure formally owned by
+O2, while O2 remained active as a Mobile Network Operator in Czechia.
+3 O2 operated under the names ’Telefónica O2 Czech Republic, a.s.’ and ’Telefónica Czech Republic
+a.s.’.
+
+4
+
+in O2, while the remaining shares (9.53%) were held by investment funds and
+individual shareholders.4 Furthermore, on 23 June 2021, PPF Group announced its
+intention to initiate a squeeze-out procedure of the remaining minority shareholders
+and to initiate the withdrawal of the shares from trading on the Prague Stock
+Exchange.5 As of 1 March 2022, PPF Group has become a 100% shareholder of O2.6
+(7) CETIN is an infrastructure-only company which is now a majority-owned subsidiary
+of PPF Group following a spin-off from O2. As of 1 June 2015, CETIN has owned
+and managed both fixed and mobile infrastructure previously owned by O2. In
+October 2021, PPF Group agreed to sell a 30% stake in CETIN Group N.V., which is
+a 100% shareholder of CETIN, to GIC, which is Singapore’s sovereign wealth fund.
+The transaction was successfully closed on 9 March 2022.7 PPF Group continues to
+exercise decisive influence over CETIN – for instance, PPF Group retains four seats,
+including the chair, in the seven-person Board of Directors.8
+(8) PPF Group is the ultimate parent company of the PPF Telecom Group N.V.9 PPF
+Group is a privately-owned international investment company active in 25 countries
+across Europe, North America, and Asia with its core lines of business in financial
+services, telecommunications, media, real estate, mechanical engineering, and
+biotechnology.
+(9) The Commission considers that O2, CETIN and PPF Group constitute a single
+economic entity for the following reasons.
+(10) As for CETIN, at the time of adressing the PA, the Commission preliminarily
+considered that, based on its 100% shareholding at the time, PPF Group was able,
+and was presumed to exercise decisive influence over CETIN. The Commission
+considers that this conclusion is not altered by the aforementioned sell of a minority
+stake in CETIN Group N.V. to GIC.
+(11) As for O2, at the time of adressing the PA, the Commission preliminarily considered
+that the ability of PPF Group to exercise decisive influence could be established
+based on the following elements.
+(12) First, the Commission found that PPF Group was the single most important
+s
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nd Brno
+Commitment.
+(212) As regards Vodafone’s argument that a commitment to unwind active sharing in
+large cities is needed, the Commission notes that Vodafone’s comments rely heavily
+on network sharing arrangements between TIM and Vodafone in Italy. At the same
+time as assessing the Inwit JV (see case M.9674 - Vodafone Italia/TIM/Inwit JV), the
+Commission considered potential competition concerns that could arise from that
+network sharing agreement. In order to address any potential concerns, TIM and
+Vodafone voluntarily decided to scale down their planned active network sharing by
+enlargening the areas that were excluded from the scope of the network sharing.
+Ultimately, the excluded area corresponded to over 30% of the Italian population and
+more than 33% of data traffic.139
+(213) That network sharing agreement and the surrounding assessment, however, differs
+from the situation in the current Czech network sharing case. The Commission
+analyses network sharing agreements on a case-by-case basis. Moreover, given the
+variety of factors (geographic scope of the sharing, scope of services/technologies
+shared, identity of the Sharing Parties and country-specific competitive conditions,
+e.g. number of operators in the market, their shares, closeness of competition
+between the Sharing Parties, competitive pressure exerted by other, players, etc.)
+which need to be assessed, a case-by-case assessment should remain the default
+assessment option for the Commission.
+(214) First, the market circumstances and especially the nature of the agreements in
+question are different. The Italian NSA mainly concerns the joint 5G roll-out of the
+two strongest mobile operators in Italy, in terms of 5G spectrum holdings. By
+contrast, the Czech NSAs’ scope is limited to 2G, 3G and 4G in a market with less
+concentrated spectrum holdings.
+(215) Second, the Commission only summarily assessed the Italian network sharing
+agreement in the context of the simultaneous merger review of the Inwit JV
+transaction. No antitrust procedure was opened and the Commission did not express
+any view, not even in the form of a preliminary assessment, on possible antitrust
+concerns raised by the network sharing agreement. The Commission merely noted in
+the press release accompanying the merger clearance that, at that point of time, the
+
+138 See section 5 describing the proposed Commitments.
+139 Mergers: Commission clear acquisition of joint control over INWIT by Telecom Italia and Vodafone,
+subject to conditions, available here: https://ec.europa.eu/commission/presscorner/detail/en/IP 20 414
+
+41
+
+setup of the network sharing agreements as adjusted during the merger review, along
+with the fact that with five mobile network operators the Italian telecommunication
+markets were considered less concentrated than in other Member States, would seem
+to alleviate any possible antitrust concerns which could stem from the network
+sharing agreements between Telecom Italia and Vodafone in Italy.
+(216) The Commission considers therefore that a similar commitment would be
+unnecessary and disproportionate in this case, based on the evidence gathered, as the
+Parties presented less onerous commitments adressing the potential competition
+concerns expressed in the PA – that is the Network Modernisation Commitment (see
+section 5 above). Moreover, a commitment to unwind the network sharing in the
+larger cities would only partially address the Commission’s preliminary competition
+concerns, which cover in fact the whole territory of the NSAs.
+(217) With regard to the wholesale access commitment suggested by CTU, the
+Commission considers that such commitment would not solve any of the preliminary
+antitrust concerns expressed in the PA. Indeed, none of the concerns raised by the
+Commission related to wholesale access for MVNOs and the price of that access.
+The Commission also notes that none of the respondents to the Market Test, and in
+particular those MVNOs that responded, have complained about wholesale access
+issues stemming from the NSAs.
+(218) As regards the further, modified suggestions of CTU of 17 January 2022, regarding a
+new obligation for the Sharing Parties to allow passive and active sharing with other
+MNOs through a wholesale offer, the Commission observes that its preliminary
+competition concerns in the present case relate to a potential limitation of
+infrastructure competition between the Sharing Parties. The Commission has not
+raised any potential competition issue regarding MNOs (or MVNOs) not being able
+to access infrastructure.
+(219) As regards the Financial Commitment, the Commission considers that it will remove
+financial disincentives for the Sharing Parties to unilaterally invest in their networks,
+by ensuring that any deployment implemented by the Master Operator for the Visitor
+Operator will be done at cost-based pricing according to the Price List for Unilateral
+Deployments with the applicable prices for each type of unilateral deployment being
+the same for the Sharing Parties set-up by the Monitoring Trustee.
+(220) As regards the Information Exchange Commitment, the Commission considers that it
+will reduce coordination and transparency on the market by limiting the type of
+information exchanged and the number of people involved in this exchange. As
+regards CTU’s suggestion that the commitments should also encompass a divestment
+commitment, with the aim of limiting information exchange and coordination by
+selling a controlling stake of the Parties, in particular CETIN, the Commission
+considers that such a divestment commitment would be disproportionate and
+therefore is not warranted. The Commission considers that the preliminary
+competition concerns regarding the information exchange identified in the PA will be
+adequately addressed by the Final Commitments, given the contractual changes to
+streamline the governance structure involved in information exchange and to limit
+the information exchanged (see section 5 above).
+(221) As regards CTU’s suggestion that the Initial Commitments should also include a
+transparency clause obliging the Sharing Parties to submit certain information to
+CTU, the Commission considers that such a commitment would not be aimed at
+decreasing transparency between the Parties and therefore it would not address the
+
+42
+
+preliminary competition concerns expressed in the PA regarding information
+exchange between the Parties.
+(222) As regards the MNSA Commitment, the latter ensures that CETIN functions as a
+“black box” between T-Mobile and O2 and therefore eliminates unnecessary
+transparency that could otherwise lead to disincentives for the Sharing Parties to
+engage in unilateral deployment.
+(223) The Parties have not offered commitments less onerous than the Final Commitments,
+which are sufficient to adequately address the Commission’s concerns.
+(224) The need to ensure increased deterrence through the imposition of fines has been
+removed by the submission of the Final Commitments which will be made legally
+binding and enforceable through this Decision. This effectively removes the risk of
+recidivism and has positive effects on the market structure and European consumers.
+(225) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that have responded to the notice pursuant to
+Article 27(4) of Regulation (EC) No 1/2003.
+(226) This Decision accordingly complies with the principle of proportionality.
+
+8. CONCLUSION
+(227) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes binding on the undertakings concerned those commitments
+offered by them to meet the Commission’s concerns as expressed in its PA. Recital
+13 of Regulation (EC) No 1/2003 states that such a decision should not reach any
+conclusion as to whether or not there has been or still is an infringement. The
+Commission’s assessment as to whether the commitments offered are sufficient to
+meet its concerns is based on its PA, representing the preliminary view of the
+Commission based on the underlying investigation and analysis, and the observations
+received from third parties following the publication of a notice pursuant to Article
+27(4) of Regulation (EC) No 1/2003.
+(228) In the light of the Final Commitments offered, the Commission considers that there
+are no longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+(229) The Commission retains full discretion to investigate and open proceedings under
+Article 101 of the Treaty and Article 53 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision.
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Final Commitments as listed in the Annex shall be binding on the Parties from the date of
+notification of the decision to both CETIN and T-Mobile until 28 October 2033 with regard to
+the NSAs (with the exception of the Prague and Brno Commitment, which shall be binding
+until [End date within 7-10 years]). The Commitments with regard to the MNSA shall be
+binding on CETIN, O2 and PPF Group from the date of notification of the decision to both
+CETIN and O2 until: (i) the term of the MNSA or (ii) the term of the NSAs whichever of
+those terms ends earlier.
+
+43
+
+Article 2
+It is hereby concluded that there are no longer grounds for action in this case.
+
+Article 3
+This Decision is addressed to:
+T-Mobile Czech Republic a.s., Tomíčkova 2144/1, Prague 4 – 148 00, Czech Republic
+Deutsche Telekom AG, Friedrich-Ebert-Allee 140, 53113 Bonn, Federal Republic of
+Germany
+CETIN a.s., Českomoravská 2510/9, Libeň, Prague 9 – 190 00, Czech Republic
+O2 Czech Republic a.s., Za Brumlovkou 266/2, Prague 4 – 140 22, Czech Republic
+PPF Group N.V., Strawinskylaan 933, 1077 XX Amsterdam, The Netherlands
+Done at Brussels, 11.7.2022
+
+For the Commission
+
+(Signed)
+Margrethe VESTAGER
+Executive Vice-President
+
+44

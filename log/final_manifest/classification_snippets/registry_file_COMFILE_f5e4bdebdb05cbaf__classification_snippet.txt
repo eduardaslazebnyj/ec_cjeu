@@ -1,0 +1,280 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Brussels, 2 June 2004 C (2004) 1958 final
+
+COMMISSION DECISION
+
+of 2 June 2004
+
+relating to a proceeding under Article 82 of the EC Treaty
+
+(Case COMP/38.096 – Clearstream (Clearing and Settlement) (Only the German text is authentic)
+
+## COMMISSION DECISION RELATING TO A PROCEEDING UNDER ARTICLE 82 OF THE EC TREATY (CASE COMP/38.096 -CLEARSTREAM) TABLE OF CONTENTS
+
+1. THE PARTIES CONCERNED BY THE DECISION
+1.1. CLEARSTREAM INTERNATIONAL SA AND CLEARSTREAM BANKING AG
+1.2. EUROCLEAR BANK SA
+2. THE PROCEDURE.
+3. BACKGROUND ON THE CLEARING AND SETTLEMENT OF SECURITIES
+TRANSACTIONS
+3.1. CLEARING AND SETTLEMENT OF SECURITIES TRANSACTIONS
+3.1.1. Providers of clearing and settlement services
+3.1.1.1. CSDs
+3.1.1.2. International Central Securities Depositories (ICSDs)
+3.1.1.3. Banks.
+3.2. COLLECTIVE SAFE CUSTODY AND THE POST-TRADING PROCESSING OF SECURITIES
+TRANSACTIONS IN GERMANY - THE LEGAL CONTEXT AND THE POSITION OF CBF 10
+3.3. THE PRIMARY CLEARING AND SETTLEMENT PERFORMED BY THE ISSUER CSD (CBF) AND THE
+SECONDARY CLEARING AND SETTLEMENT PERFORMED BY FINANCIAL INTERMEDIARIES 12
+3.4. THE LINKS BETWEEN CBF AND BANKS, CSDS AND ICSDS. 15
+3.5. DIRECT AND INDIRECT ACCESS TO PRIMARY CLEARING AND SETTLEMENT ..16
+3.6. "CASCADE" AND "CASCADE RS" .17
+3.6.1. The CBF CASCADE system 17
+3.6.2. CASCADE RS. 17
+3.6.3. Types of access to CASCADE and CASCADE RS. 18
+4. THE BEHAVIOUR OF CLEARSTREAM INTERNATIONAL AND OF CLEARSTREAM
+BANKING AG .18
+4.1. ACCESS TO CASCADE RS 18
+4.1.1. The EB request for access to CASCADE RS and negotiations at operational level.... 19
+4.1.2. Preparations for access by CBF and EB at operational level and further negotiations22
+4.1.3. Failure to grant access on agreed date and link to negotiation of wider new agreement
+by management of Clearstream International. 26
+4.1.4. Renewed discussions and preparations for access to CASCADE RS by CBF .29
+4.1.5. The granting to EB of access to CASCADE RS. 31
+4.1.6. The granting to CBL of access to CASCADE RS 31
+4.2. THE FEES CHARGED BY CBF TO EB AND THE NEGOTIATIONS TOWARDS THEIR REDUCTION. 32
+4.3. ELEMENTS OF THE SERVICES PROVIDED BY CBF TO THEIR DIFFERENT CUSTOMER GROUPS . 42
+4.3.1. Non-CSD customers (Credit institutions and financial service institutions) 43
+4.3.2. Non-German Central Securities Depositories (CSDs) 43
+4.3.3. International Central Securities Depositories (ICSDs) .45
+4.3.4. Conclusions regarding the services provided by CBF 46
+5. THE RELEVANT MARKET.. ..47
+5.1. THE RELEVANT PRODUCT MARKET .47
+5.1.1. For customers (intermediaries) requiring direct access to the issuer CSD (CBF),
+indirect access is not a valid alternative. 48
+5.1.1.1. Poorer Deadlines.
+5.1.1.2. Greater risk and complexity
+5.1.1.3. Additional costs.
+5.1.1.4. Potential conflict of interests resulting from the use of an intermediary
+5.1.1.5. ECB requirements. 50
+5.1.2. The provision by the issuer CSD (CBF) of primary clearing and settlement to CSDs and
+ICSDs is in a separate market to the provision of primary clearing and settlement to "General
+Terms and Conditions (GTC) customers" (also called by CI/CBF "non-CSD customers")...... 51
+5.1.3. Secondary clearing and settlement services are not a valid alternative for certain
+customers (intermediaries) requiring primary clearing and settlement services in order to
+perform their services efficiently 53
+5.1.4. The primary clearing and settlement services provided by entities other than CBF are
+not a substitutable alternative to the primary clearing and settlement services provided by CBF
+63
+5.2. THE RELEVANT GEOGRAPHIC MARKET. ..63
+5.3. CONCLUSION ON THE RELEVANT MARKET .64
+i. DOMINANT POSITION .65
+THE ABUSE ..... ..68
+7.1. REFUSING TO SUPPLY PRIMARY CLEARING AND SETTLEMENT SERVICES AND DISCRIMINATING
+AGAINST EB .68
+7.1.1. Elements in the present case leading to the finding of a violation of Article 82 EC ..... 70
+7.1.1.1. The refusal to supply
+(i) CI/CBF as a de facto monopolist is an unavoidable trading partner and EB could not replicate the
+services it was requesting.
+(ii) Not supplying EB with direct access for primary clearing and settlement services for registered
+shares harms innovation and competition in the provision of cross-border secondary clearing and
+settlement services and ultimately the consumers within the single market. 72
+(iii) The growing importance of registered shares in Germany had as an effect a reduction in the
+services provided to EB
+(iv) The breach by CI/CBF of EB's legitimate expectations that it would be supplied with primary
+clearing and settlement services for registered shares within a reasonable period of time . 75
+7.1.1.2. Dilatory behaviour in the supply of services . 76
+(i) The initial refusal of access to CASCADE RS (August 1999 to November 2000). 76
+- Repeated EB requests for access to CASCADE RS .76
+- Dilatory behaviour of CI/CBF from 3 August 1999 to November 2000. .76
+Commission assessment of the facts.. ...76
+CI/CBF arguments as to possible justifications ..78
+(ii) The subsequent refusal to provide access to CASCADE RS from December 2000 until 19
+November 2001 84
+Commission assessment of the facts. ..84
+CI/CBF arguments as to possible justifications .87
+(iii) The period within which CI/CBF provided EB with access to CASCADE RS exceeds a
+reasonable period of time . 91
+7.1.1.3. CI/CBF discrimination regarding the provision to EB of direct access to CASCADE RS for
+primary clearing and settlement services for registered shares. 92
+7.1.1.4. Conclusion on the refusal to supply and on the discrimination by CI/CBF in relation to the
+provision to EB of primary clearing and settlement services for registered shares 94
+7.2. APPLYING DISCRIMINATORY PRICES TO EB FOR PRIMARY CLEARING AND SETTLEMENT
+SERVICES. ..96
+7.2.1. Legal criteria for assessment of discrimination 96
+7.2.2. Assessment of CI/CBF's behaviour. 97
+7.2.2.1. Dissimilar prices.... 97
+7.2.2.2. Equivalent services.. 98
+7.2.2.3. The lack of objective justification for the difference in prices 99
+(a) No individual admission of securities to the CBF-EB link and no need for legal opinions ... .... 100
+(b) Higher degree of standardisation in the CBF-EB relationship than in the CBF-CSDs relationship........ 100
+(c) Higher volumes and higher automation in the case of EB than in the case of national CSDs.... .... 101
+(d) The alleged higher costs for EB resulting from higher automation, higher liability requirements,
+data center services and a dedicated night shift.. 101
+The reasons invoked by CI/CBF as justifying higher costs for ICSDs and for EB in particular ..102
+(e) Other arguments put forward by CI/CBF... 106
+(f) Additional evidence of the lack of objective justification for the difference in prices .. 107
+7.2.3. Conclusion on the discriminatory pricing... 108
+8. SUBSTANTIAL PART OF THE COMMON MARKET - EFFECT ON TRADE
+BETWEEN MEMBER STATES... .109
+9. ARTICLE 7(1) OF REGULATION (EC) NO. 1/2003... ....109
+10. ARTICLE 23(2) OF REGULATION (EC) NO. 1/2003... ...110
+
+# COMMISSION DECISION
+
+# of 2 June 2004
+
+# relating to a proceeding under Article 82 of the EC Treaty (Case COMP/38.096 – Clearstream (Clearing and Settlement) (Only the German text is authentic)
+
+## THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty',
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, and in particular: Article 7(1) and Article 23(2) thereof2 ,
+
+Having regard to the Commission decision of 27 March 2003 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the objections raised by the Commission in accordance with Article 19(1) of Regulation No 17 and with Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 81 and 82 of the EC Treaty,
+
+Having regard to the final report of the Hearing Officer in this case,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions4,
+
+## Whereas:
+
+## 1. THE PARTIES CONCERNED BY THE DECISION
+
+## 1.1. Clearstream International SA and Clearstream Banking AG
+
+(1) Clearstream International SA ('CI') is a holding company based in Luxembourg. It holds Clearstream Banking AG (‘CBF') established in
+
+Frankfurt, Germany and Clearstream Banking Luxembourg SA (‘CBL') established in Luxembourg.
+
+(2) 'CBF'is a "Central Securities Depository" (CSD', see paragraph (18) below) in Germany. According to the European Central Bank report on "Payment and securities settlement systems in the European Union" of June 20013, "Clearstream Banking AG Frankfurt is Germany's Wertpapiersammelbank (known informally as the CSD)."
+
+(3) At present, CBF is the only bank which has the status of a Wertpapiersammelbank6, that is, a bank that can keep securities (equities and bonds) in collective safe custody (see further below, section 3.2).
+
+(4) CBF's legal predecessor was Deutsche Börse Clearing AG (DBC'), which was 100% owned by Deutsche Börse7. On 1 July 1999, Deutsche Börse and Cedel International created Clearstream International SA, of which each partner held 50%. On 1 July 2002, the Deutsche Börse group acquired the 50% of CI held by Cedel International and gained full control of CI (and therefore of CBF and CBL). Deutsche Börse is a private company whose shares are listed on the Frankfurt Stock Exchange. CBL is, together with Euroclear Bank SA, one of only two International Central Securities Depositories (ICSDs', see paragraph (19) below) operating in the EU at present. The Frankfurt stock exchange is fully owned by the Deutsche Boerse Group, owner of Clearstream International.
+
+(5) The Clearstream group ('Clearstream') provides clearing, settlement and custody services for securities. The value of securities CBF and CBL hold in custody amounted to €6.9 trillion in 20028.
+
+## 1.2. Euroclear Bank SA
+
+(6) Euroclear Bank SA ('EB') is an International Central Securities Depository (ICSD', see paragraph (19) below), established in Brussels, Belgium.
+
+(7) Euroclear was set up in 1968 by a group of banks and securities houses under the patronage of Morgan Guarantee Trust Company of New York. The Euroclear clearing and settlement system, owned by Euroclear Clearance System plc., was licensed to Euroclear Clearance System Société Coopérative in 1987. It was operated under contract by Morgan Guarantee. In 2000, the link with Morgan was terminated and Euroclear Clearance System plc. was converted into Euroclear Bank SA/NV (EB'), a limited liability company established in Belgium under Belgian law with a limited banking licence. EB has merged with Sicovam, the French CSD in January 2001 (now Euroclear France), the Dutch CSD AEX-Necigef in February 2002 (now Euroclear Netherlands), and the British CSD Crest in July 2002. It is also in the process of integrating BXS-CIK, the Belgian CSD.
+
+(8) The value of the securities held in custody by EB was € 10.6 trillion in 2002o.
+
+(9) In the present decision, the term EB is also used to refer to the Euroclear Operations Centre (EOC) which is the unit of EB dedicated to operational activities, such as clearing and settlement services.
+
+## 2. THE PROCEDURE
+
+(10) On 22 March 2001, the Commission launched an ex-officio investigation into clearing and settlement services by sending a first round of requests for information to a number of clearing and settlement agencies, trading platforms and banks. The replies to that first request prompted the Commission to send additional requests for information and focus progressively its investigation on CI's and CBF's possible abusive behaviour vis-à-vis EB.
+
+(11) A Statement of Objections was sent to CI and CBF on 28 March 2003. CI and CBF had access to the Commission's file on 14 April 2003 and additional access to the file was provided on 3 November 2003.
+
+(12) The parties responded to the Statements of Objections by letter of 30 May 2003 from their legal representative.
+
+(13) An oral hearing was held on 24 July 2003.
+
+(14) As a third interested party in the proceedings, EB explained its views on market definition on the occasion of the oral hearing and in reply to a request for information from the Commission.1o
+
+(15) By letter of 17 November 2003, the Commission services called CI/CBF's attention on how the Commission intended to use certain elements inserted into the Commission file after the access to file on 14 April 2003, as well as the cost information provided by CI/CBF after the oral hearing, and gave CI/CBF the opportunity to comment. CI/CBF replied to the 17 November 2003 letter by letter of 1 December 2003.
+
+## 3. BACKGROUND ON THE CLEARING AND SETTLEMENT OF SECURITIES TRANSACTIONS
+
+## 3.1. Clearing and Settlement of securities transactions
+
+(16) The processes involved in the buying and selling of securities differ from those of cash because there is a need for monitoring the ownership of a security. Such monitoring is necessary to ensure a clear legal situation concerning transfer of ownership in the case of a buy/sale as well as the ongoing service of the instrument, such as payment of dividend.
+
+(17) Consequently, once a security has been traded, a number of additional steps have to be completed. Relevant trades include stock exchange trades as well as over the counter' (OTC) trades. Although the Commission notes that there is no completely uniform usage of terms throughout the industry, the characteristics of each of these services are as follows:
+
+Clearing is the process that occurs between trading and settlement. For each trade it ensures that the seller and buyer have agreed on an identical transaction and that the seller is selling securities which it is entitled to sell, prior to the establishment of final positions for settlement.
+
+Settlement [“Abrechnung"] is the final transfer of securities from the seller to the buyer and the final transfer of funds from the buyer to the seller, as well as the relevant annotations in securities accounts. In their Reply to the Commission's Statement of Objections, CI/CBF in describing the post-trading steps relating to securities refer often to the "processing" [“Abwicklung"] of securities trades or transactions. CI/CBF apparently use the term "processing" interchangeably for "clearing and settlement"[11]. However the Commission uses the term clearing and settlement to refer to the steps that occur post-trading to complete a securities transaction. It consists of the processing and registration of the transfer of securities, as well as the relevant annotations in its customers' securities accounts and reporting on transactions.
+
+In addition to the steps necessary to complete a particular securities transaction, securities need to be physically or electronically deposited with an entity and kept there. F
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+CSDs. Compared to CSDs, the establishment and maintenance of a link with EB does not, however, need a legal opinion and periodical updates to the legal opinion, as is required for the CBF link with each of the CSDs. Also, each security needs to be individually admitted to the CBF-CSD link, while all German securities are automatically admitted to the CBF-EB link.
+
+(334) EB has much larger transaction volumes than CSDs, and the level of automation (straight-through processing) is higher. The services provided by CBF to CSDs cannot be standardised to the same degree as the services provided to EB. It follows from CI/CBF's submissions that lower staff costs are incurred for EB transactions.
+
+(335) CI and CBF have not provided any adequate, objective and cost-based justification for the difference in the prices it charged to EB in the period under investigation capable of undermining the conclusion which the Commission is drawing from the entire body of evidence available in this case, and in particular no conclusive and coherent information derived from reliable cost accounting, despite repeated and detailed requests for such information.
+
+(336) Similarly to what was the case with the refusal to grant access to CASCADE RS, the actual reduction in the tariff CBF applied to EB took place after the Commission had launched its enquiry in the present case in March 2001; more precisely, it occurred immediately following the Commission's second request for information of 9 October 2001, which covered pricing issues. In the second half of October 2001, CBF finally agreed to implement its offer of a 50% reduction of the settlement transaction fee and to delink this offer from other issues. As with the granting of access, the fee reduction was communicated through a telephone conversation on 18 or 19 October 2001, the content of which is confirmed in a letter of of EB to of CBF of 26 October 2001. This letter states: "I am writing to confirm my understanding of our telephone conversation of the end of last week on a number of subjects .......2. I am also thankful for your confirmation of CBF's agreement to reduce the Euroclear Bank invoice of CBF transaction fees by 50% as of 1 January 2002. "273. There is no indication that CBF's pricing, as far as it is at stake here, is motivated by any efficiency consideration or by a benefit to customers or ultimate consumers.
+
+(337) For the above reasons, the Commission takes the view that, by applying a € X per transaction tariff for the provision of primary clearing and settlement services to EB, at a moment when CBF was charging only € Y per transaction to certain national CSDs for those services, CBF abused its dominant position in violation of Article 82 of the Treaty.
+
+## 8. SUBSTANTIAL PART OF THE COMMON MARKET - EFFECT ON TRADE BETWEEN MEMBER STATES
+
+(338) Germany is a substantial part of the Community274.
+
+(339) Trade between Member States is effected due to the cross-border nature of the provision of primary clearing and settlement services for securities held in collective safe custody in Germany, by CBF (based in Germany) to EB (based in Belgium). The large volumes of EB transactions in German securities demonstrate that the effect on trade between Member States is substantial. The fact that the services in question are transmitted mainly by electronic data transfer does not affect this conclusion.
+
+## 9. ARTICLE 7(1) OF REGULATION (EC) NO. 1/2003
+
+(340) Pursuant to Article 7(1) of Regulation (EC) No.1/2003, where the Commission, acting on a complaint or on its own initiative finds that there is an infringement of Article 82 of the Treaty, it may by decision require the undertakings concerned to bring such infringement to an end. If the Commission has a legitimate interest in doing so, it may also find that an infringement has been committed in the past.
+
+(341) In the present case, the infringements were terminated as of 1 January 2002, after the Commission had started enquiring into this case. More specifically the duration of the abusive behaviour described above was as follows:
+
+Between 1 January 1997 and 1 January 2002 as regards price discrimination. From 1 January 1997 (at the latest), CBF applied to certain CSDs a € Y tariff for the cross-border primary clearing and settlement of securities held in collective safe custody in Germany, but CI/CBF only reduced the price applied to EB from € X to € X/2 as from 1 January 2002. Prior to 1 July 1999, DBC (CBF's former name) took decisions autonomously from Cedel International (the predecessor of Clearstream
+
+International). Clearstream International only came into existence on 1 July 1999.
+
+Between 3 December 1999 and 19 November 2001 as regards the refusal to provide access to CASCADE RS and therefore primary clearing and settlement services for registered shares, and the corresponding discrimination vis-à-vis national CSDs. The reference for the starting point of the infringement is four months after the beginning of the active exchange of correspondence as of 3 August 1999, which allows for the maximum reasonable period that, in the Commission's view, granting access would normally require involving preparations from both sides.
+
+(342) While the infringements that the present decision relates to are terminated, the Commission finds it necessary to adopt a decision for the following reasons:
+
+\- It should be noted that CI/CBF continue to deny that their behaviour is contrary to the Treaty. The Commission must ensure with certainty that CI and CBF will genuinely and permanently refrain for the future from any action which may have the same or similar object or effect as the abuses described in the present decision.
+
+It is important for the proper functioning of a single European capital market that anti-competitive practices committed by market players in the area of cross-border clearing and settlement area are eliminated. As affirmed by the first Giovannini Report275: "[i]t is perhaps no exaggeration to conclude...that inefficiencies in clearing and settlement represent the most primitive and thus most important barrier to integrated financial markets in Europe. The removal of these inefficiencies is a necessary condition for the development of a large and efficient financial infrastructure in Europe".
+
+There is no Community decisional practice concerning the provision of cross-border clearing and settlement services within the common market. At a moment when post-trading infrastructures within the Community are consolidating, there is a need for the Commission to clarify the legal situation and provide guidance, both as regards the addressees of the present decision and other undertakings active in this area, with the aim of clarifying and maintaining the application of the EC Treaty's competition rules to the European single capital market.
+
+## 10. ARTICLE 23(2) OF REGULATION (EC) NO. 1/2003
+
+(343) According to Art 23(2) of Regulation (EC) No 1/2003, the Commission may by decision impose fines on undertakings or associations of undertakings.
+
+(344) There is no Community decisional practice or case law relating to the complex area of clearing and settlement services. The present decision analyses for the first time the complex clearing and settlement processes in the context of market definition, as well as other sector-specific issues such as internalisation, and this analysis has a direct bearing on the legal analysis of the case. In light of existing case law at the moment of the infringement, it could reasonably be argued that it was not sufficiently clear to CI/CBF that its behaviour would constitute an infringement of the competition rules of the Treaty. Also, clearing and settlement services in the Community is an evolving sector, in particular when cross-border transactions are concerned, as is the case in the relation between CI/CBF and EB. Different institutions and fora (including the European Central Bank, the Committee of European Securities Regulators and private organizations) have been for some time discussing issues connected with the functions of the various actors in the industry. The scope for internalisation, the role of CSDs and ICSDs and their relationship with large custodian banks are all being actively debated and that are connected to the subject matter of the present decision.
+
+(345) For the above reasons, the Commission takes the view that no fines should be imposed on CI or CBF in the specific circumstances of the present case.
+
+## Article 1
+
+Clearstream Banking AG and Clearstream International SA have infringed Article 82 of the Treaty by:
+
+(a) refusing to supply primary clearing and settlement services for registered shares to Euroclear Bank SA and its predecessor from 3 December 1999 to 19 November 2001, in an unjustified manner and for an unreasonable period of time, and by discriminating against Euroclear Bank SA and its predecessor during the same period of time regarding the provision of primary clearing and settlement services for registered shares;
+
+(b) applying discriminatory prices to Euroclear Bank SA and its predecessor for the primary clearing and settlement services provided to it, between 1 January 1997 and 1 July 1999 in the case of Clearstream Banking Frankfurt, and between 1 July 1999 and 1 January 2002 in the case of Clearstream International and Clearstream Banking Frankfurt.
+
+## Article 2
+
+Clearstream Banking AG and Clearstream International SA shall refrain in future from repeating any act or conduct contrary to Article 82 of the EC Treaty, as described in Article 1 of this decision.
+
+## Article 3
+
+This Decision is addressed to:
+
+1. Clearstream Banking AG Neue Boersenstrasse 1, D-60487 Frankfurt/Main, Germany
+
+2. Clearstream International SA
+
+3-5 Place Winston Churchill, L-2964 Luxembourg
+
+## Article 4
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels, 2 June 2004
+
+For the Commission
+
+Mario MONTI
+
+Member of the Commission

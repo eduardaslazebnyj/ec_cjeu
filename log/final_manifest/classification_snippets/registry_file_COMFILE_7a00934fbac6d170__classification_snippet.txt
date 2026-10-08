@@ -1,0 +1,459 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION EUROPEENNE
+
+Bruxelles, 24.5.2011
+C(2011) 3640 final
+
+DECISION DE LA COMMISSION
+
+du 24.5.2011
+
+relative à une procédure d'application de l'article 23 du règlement (CE) n°1/2003 du
+Conseil relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82
+du traité
+
+(Affaire COMP/39.796 - Suez Environnement breach of seal)
+
+(Le texte en langue française est le seul faisant foi)
+
+LA COMMISSION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l'Union européenne,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre
+des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 23,
+paragraphe 1, point e),
+
+vu la décision de la Commission du 21 mai 2010 d'ouvrir la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l'occasion de faire connaître leur point de vue au
+sujet des griefs retenus par la Commission, conformément à l'article 27, paragraphe 1, du
+règlement (CE) n° 1/2003,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur,
+
+considérant ce qui suit:
+
+1. DESTINATAIRES
+
+1. La présente décision est adressée à Suez Environnement Company S.A. (ci-après
+dénommée "Suez Environnement") et à Lyonnaise des Eaux France S.A. (ci-après
+dénommée "LDE"). Suez Environnement et LDE sont également dénommées ci-après
+"les parties".
+
+2. Suez Environnement est une société anonyme de droit français à la tête d'un groupe
+d'entreprises ayant des activités internationales dans le domaine de l'eau et des déchets.
+Elle a réalisé en 2009 un chiffre d'affaires total de 12 296,4 millions d'euros2.
+
+3. LDE est une société anonyme de droit français active dans les marchés de la fourniture
+de services d'eau et d'assainissement en France. Elle a réalisé en 2009 un chiffre
+d'affaires de l'ordre de 2 milliards d'euros3. LDE est une filiale à 100% de Suez
+Environnement SAS qui est elle-même une filiale à 100% de Suez Environnement4.
+Selon le document de référence 2009 de Suez Environnement (Annexe A, section 2.2 -
+Pilotage des activités et du contrôle interne), la direction juridique de Suez
+Environnement "analyse et gère les risques juridiques du Groupe" (page 356).
+
+1 JO L 1 du 4.1.2003, p. 1. A partir du 1er décembre 2009, les articles 81 et 82 du traité CE sont devenus
+respectivement les articles 101 et 102 du traité sur le fonctionnement de l'Union européenne ; les deux
+dispositions sont restées, en substance, identiques.
+2 Document de référence 2009 de Suez Environnement, page 9.
+3 Document de référence 2009 de Suez Environnement, page 59.
+4 Document de référence 2009 de Suez Environnement, page 89.
+
+2
+
+2. PROCEDURE
+
+4. Le 23 mars 2010, la Commission européenne (ci-après dénommée "la Commission") a
+adopté la décision C(2010)1984/4 ordonnant à Suez Environnement ainsi qu'à toutes les
+sociétés sous son contrôle direct ou indirect, et notamment LDE, de se soumettre à une
+inspection, conformément à l'article 20, paragraphe 4, du règlement (CE) n° 1/2003, dans
+le cadre de l'affaire COMP/B-1/39.756 concernant des infractions présumées aux articles
+101 et 102 du traité sur le fonctionnement de l'Union européenne dans les marchés de
+l'eau et de l'assainissement5.
+
+5. Le 14 avril 2010, un scellé n° 000182 apposé la veille sur la porte d'un bureau situé dans
+les locaux du siège social de LDE a été retrouvé portant des mentions "OPENVOID"6.
+
+6. Le 17 mai 2010, les services de la Commission ont rencontré des représentants de Suez
+Environnement et de LDE à la demande de ces derniers. Au cours de cette réunion, les
+représentants des parties étaient accompagnés de la personne ayant reconnu avoir
+"entrouvert" la porte sur laquelle le scellé n° 000182 était apposé7, afin que les services
+de la Commission puissent l'interroger et recueillir ses explications sur les circonstances
+de son acte.
+
+7. Par décision du 21 mai 2010 enregistrée sous le numéro SG-Greffe(2010)D/7294, la
+Commission a ouvert une procédure à l'encontre de Suez Environnement concernant le
+bris présumé d'un scellé dans les locaux de LDE durant l'inspection de la Commission
+mentionnée au considérant 4, en vue de l'adoption d'une décision en application du
+chapitre VI du règlement (CE) n° 1/20038.
+
+8. Par courrier du 28 mai 2010 adressé au Commissaire en charge de la concurrence, Suez
+Environnement a accusé réception de la décision de la Commission ouvrant la procédure
+mentionnée au considérant 79.
+
+9. Le 11 juin 2010, les services de la Commission ont à nouveau rencontré des
+représentants de Suez Environnement et de LDE à la demande de ces derniers. Au cours
+de cette réunion, les représentants des parties étaient accompagnés de la personne ayant
+reconnu avoir "entrouvert" la porte sur laquelle le scellé n° 000182 était apposé afin que
+les services de la Commission puissent à nouveau l'interroger et recueillir ses
+explications sur les circonstances de son acte. A l'issue de cette réunion, les représentants
+des deux sociétés ont remis aux services de la Commission des enregistrements vidéo,
+réalisés par deux caméras de surveillance situées dans les locaux de LDE le 14 avril
+201010.
+
+5 ID 118 (numéro d'identification du document dans le dossier).
+6 Voir considérants 18, 19 et 26 à 28.
+7 Voir considérants 43 et 44.
+8 ID 119.
+9 ID 18.
+10 ID 84. Voir également considérant 47. Selon les explications fournies par les représentants de Suez
+Environnement et de LDE dans un message électronique adressé aux services de la Commission le 24
+juin 2010 (ID 114), les heures mentionnées sur les enregistrements vidéo des deux caméras de
+surveillance sont en avance de 20 minutes par rapport aux heures réelles. La présente décision se réfère
+aux heures réelles.
+
+3
+
+10. Le 24 juin 2010, les représentants de Suez Environnement et de LDE ont transmis aux
+services de la Commission deux déclarations de Mesdames [...]*11 et [...]*12, toutes deux
+employées de LDE, indiquant avoir vu le scellé n° 000182 intact le matin du 14 avril
+2010 à 8 heures 50 et 9 heures 2013.
+
+11. Le 19 octobre 2010, la Commission a adopté une communication des griefs qui a été
+notifiée à Suez Environnement et à LDE le 21 octobre 2010. Sur la base des faits
+disponibles, la communication des griefs conclut que le scellé apposé dans les locaux du
+siège social de LDE a été brisé au sens de l'article 23, paragraphe 1, point e), du
+règlement (CE) n° 1/2003 et que la responsabilité de cette infraction est imputable à LDE
+et Suez Environnement.
+
+12. Les parties ont présenté leurs observations en réponse à la communication des griefs par
+courrier daté du 8 décembre 2010 (ci-après dénommée "la réponse à la communication
+des griefs").
+
+13. Suez Environnement et LDE n'ont pas demandé la tenue d'une audition au sens de
+l'article 12 du règlement (CE) n° 773/2004 de la Commission du 7 avril 2001 relatif aux
+procédures mises en œuvre par la Commission en application des articles 81 et 82 du
+traité CE14.
+
+3. FAITS
+
+14. Le 13 avril 2010 à 9 heures 30, une équipe d'agents mandatés par la Commission
+accompagnés d'agents de l'autorité de concurrence française (ci-après dénommée
+"l'autorité nationale") s'est présentée au siège social de LDE en vue de procéder à une
+inspection en application de la décision C(2010)1984/4 mentionnée au considérant 4.
+
+15. La décision de la Commission ordonnant à Suez Environnement, ainsi qu'à toutes les
+sociétés sous son contrôle direct ou indirect, et notamment LDE, de se soumettre à une
+inspection a été notifiée à 9 heures 46 à M. [...]*, directeur juridique de LDE, en
+présence du représentant de l'autorité nationale, M. [...]*15. Le mandat écrit des agents de
+la Commission a été produit [au directeur juridique de LDE]* immédiatement après qu'il
+eut pris connaissance de ladite décision. La même décision a également été notifiée au
+siège de Suez Environnement par une autre équipe d'agents de la Commission le même
+jour à 10 heures.
+
+16. A la suite de la notification de la décision au siège social de LDE et de la production des
+mandats, les agents de la Commission et de l'autorité nationale ont commencé
+l'inspection du siège social de LDE.
+
+17. Etant donné que l'inspection n'a pas pu être achevée au terme du premier jour, le chef de
+l'équipe des agents de la Commission, M. [...]* (ci-après dénommé "le représentant de la
+
+* Certaines parties du présent texte ont été adaptées de manière à ne pas divulguer des informations
+confidentielles ; ces parties ont été mises entre crochets et signalées par un astérisque.
+11 ID 105.
+12 ID 108.
+13 Voir considérant 48.
+14 JO L 123 du 27.4.2004, p.18.
+15 ID 65.
+
+4
+
+Commission"), a apposé des scellés sur la porte de trois bureaux et de deux armoires
+avant de quitter les locaux de LDE le soir du premier jour16. Dans certains de ces
+bureaux, un scellé a également été apposé sur les fenêtres donnant sur un balcon
+commun, en plus du scellé fixé sur la porte du bureau. Ainsi, en ce qui concerne les
+bureaux B 508 et B 510, situés au 5ème étage du siège social de LDE, un scellé
+(n° 000182) a été apposé sur la porte du bureau B 508 (point de passage obligé vers le
+bureau B 510) et un autre scellé (n° 000197) a été apposé sur une fenêtre du bureau
+B 510. De plus, un scellé a été apposé sur la porte de la salle de conférence mise à la
+disposition des agents de la Commission, où ces derniers avaient entreposé leur
+équipement informatique.
+
+18. Les scellés apposés au cours de l'inspection du siège social de LDE sont des autocollants
+en matière plastique de 20 centimètres de long sur 7 centimètres de large. Les scellés
+apposés sur les portes de bureaux ont été fixés à la jointure entre la porte et le
+chambranle, à une hauteur d'environ 1 mètre 60 afin d'être parfaitement visibles.
+
+19. Chaque scellé porte un numéro de série inscrit en caractère noir. La partie centrale du
+scellé, représentant un tiers de sa surface, fait apparaître les douze étoiles symbole de
+l'Union européenne, en noir sur fond argenté. Lorsque le scellé est apposé, les deux
+parties latérales de part et d'autre de la partie centrale sont uniformément rouges. Lorsque
+le scellé est décollé, une partie de la matière adhésive au moyen de laquelle il est fixé au
+support reste sur celui-ci sous la forme de mentions "OPENVOID" de couleur rouge,
+réparties sur toute la surface recouverte par le scellé, y compris celle recouverte par sa
+partie centrale argentée. Le scellé décollé devient alors partiellement transparent dans ses
+deux parties latérales, de sorte que des mentions "OPENVOID" apparaissent en détaché
+dans ces zones, la partie centrale argentée du scellée restant inchangée.
+
+20. Conformément à la pratique de la Commission, l'apposition de chaque scellé au cours de
+l'inspection du siège social de LDE a fait l'objet d'un procès-verbal signé respectivement
+par [le directeur juridique de LDE]*, le représentant de l'autorité nationale et le
+représentant de la Commission.
+
+21. Chacun de ces procès-verbaux, et notamment celui concernant le scellé n° 000182,
+indique: "[Le directeur juridique de LDE]* a pris connaissance des dispositions de
+l'article 20, paragraphe 2, point d), et de l'article 20, paragraphe 1, point e), du
+règlement n° 1/2003 et a été informé que des amendes peuvent être imposées,
+conformément à l'article 23, paragraphe 1, point e), lorsque des scellés ont été brisés
+délibérément ou par négligence. Il/elle a également été informé(e) qu'il revenait à
+l'entreprise de veiller à ce que les scellés apposés (ainsi que les alentours immédiats de
+l'endroit où ils ont été apposés) demeurent intacts jusqu'à ce qu'ils soient enlevés par le
+représentant de la Commission. En signant le présent procès-verbal, les représentants de
+la Commission, de l'autorité nationale de concurrence et de l'entreprise concernée
+confirment que des scellés ont été apposés sur les éléments susmentionnés et que les
+informations précitées ont été données".
+
+22. Le procès-verbal concernant l'apposition du scellé n° 00018217 indique qu'il a été apposé
+le 13 avril à 19 heures 14 sur la porte donnant accès aux bureaux B 508 et B 510. Le
+bureau B 508 est le bureau du secrétariat de M. [...]*, directeur général adjoint de LDE
+en charge du développement commercial. Ce bureau donne directement accès au bureau
+
+16 Par ailleurs, le matin du premier jour d'inspection, des scellés avaient été apposés sur la porte de cinq
+autres bureaux.
+17 ID 66, page 1.
+
+5
+
+B 510 qui est le bureau [du directeur général adjoint de LDE en charge du
+développement commercial]*. A l'instar des autres bureaux et armoires sur lesquels des
+scellés ont été apposés le soir du 13 avril 2010, les bureaux B 508 et B 510 n'avaient été
+que partiellement inspectés au cours de la journée. L'ensemble des documents qu'ils
+contenaient n'avait été ni entièrement examiné, ni répertorié par les agents de la
+Commission.
+
+23. Immédiatement après l'apposition des scellés, des photos de chaque scellé ont été prises
+par le représentant de la Commission. La photo du scellé n° 00018218 montre que la
+surface des deux parties de part et d'autre de la partie centrale argentée est uniformément
+rouge et qu'aucune trace rouge n'apparaît au-dessus du scellé.
+
+24. Au moment de l'apposition du scellé n° 000182, la porte du bureau B 508 n'était pas
+fermée à clé. [Le directeur juridique de LDE]* a apposé sur la porte du bureau une
+feuille de papier au format A4 portant un signe "sens interdit" et indiquant en lettres
+rouges "ATTENTION : ne pas ouvrir ni toucher à cette porte sous aucun prétexte"; en
+revanche, aucun obstacle physique n'a été placé devant la porte pour en gêner l'accès.
+
+25. Le 14 avril 2010 à 9 heures 20, l'équipe des agents de la Commission accompagnés
+d'agents de l'autorité nationale s'est présentée au siège social de LDE pour poursuivre
+l'inspection. Après une réunion interne dans la salle mise à leur disposition, les agents de
+la Commission et de l'autorité nationale se sont dirigés vers les bureaux afin de reprendre
+les recherches. Ces agents ont repris leurs recherches en présence notamment de juristes
+de Suez Environnement qui étaient déjà sur place.
+
+26. Vers 10 heures 10, un agent de la Commission, M. [...]*, a constaté, en présence d'un
+agent de l'autorité nationale, Mme [...]*, ainsi que d'employés de LDE et de Suez
+Environnement, que le scellé n° 000182 laissait apparaître des mentions "OPENVOID".
+L'agent de la Commission a alors immédiatement contacté le représentant de la
+Commission lequel, après avoir constaté la présence des mentions "OPENVOID", a
+immédiatement contacté [le directeur juridique de LDE]* qui s'est tout de suite rendu au
+bureau B 508. Par ailleurs, M. [...]*, directeur juridique de Suez Environnement, qui
+était déjà présent dans les locaux du siège social de LDE19, s'est rendu au bureau B 508
+quelques minutes après l'arrivée [du directeur juridique de LDE]*.
+
+27. Dans les minutes qui suivirent, un procès-verbal20 a été dressé et des photos21 ainsi qu'un
+enregistrement vidéo22 du scellé en que
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ement (CE) n°1/2003 en comparaison avec le
+précédent règlement n° 17, le montant maximal des amendes pouvant être imposées en
+cas d'infraction procédurale relative à une inspection de la Commission.
+
+96. En outre, il convient de souligner que la possibilité, pour les agents mandatés par la
+Commission, d'apposer des scellés au cours d'une inspection est indispensable pour faire
+face à la détection de plus en plus difficile des infractions aux règles de concurrence du
+traité, ainsi que cela est indiqué au considérant 25 du règlement (CE) n° 1/2003 : "la
+détection des infractions aux règles de concurrence devenant de plus en plus difficile, il
+est nécessaire, pour protéger efficacement la concurrence, de compléter les pouvoirs
+d'enquête de la Commission. La Commission doit notamment pouvoir interroger toute
+personne susceptible de disposer d'informations utiles et pouvoir enregistrer ses
+déclarations. En outre, au cours d'une inspection, les agents mandatés par la
+Commission doivent pouvoir apposer des scellés pendant la durée nécessaire à
+l'inspection. (...)".
+
+97. Le bris d'un scellé apposé durant une inspection constitue donc une atteinte grave aux
+pouvoirs d'enquête de la Commission en matière de concurrence.
+
+98. En conséquence, les amendes infligées pour le bris de scellés apposés pendant des
+inspections doivent être fixées à un niveau suffisamment élevé, pour avoir un effet
+dissuasif et qu'il ne puisse être avantageux pour une entreprise de briser un scellé,
+garantissant ainsi l'efficacité d'un pouvoir d'enquête essentiel à l'exercice par la
+Commission de sa mission de gardienne des règles de concurrence instituées par le
+traité59.
+
+59 Voir l'arrêt E.ON précité, point 294: "...une amende de 38 millions d'euros ne saurait être considérée
+comme disproportionnée par rapport à l'infraction, eu égard à la nature particulièrement grave d'un
+bris de scellé, à la taille de la requérante et à la nécessité d'assurer un effet suffisamment dissuasif à
+l'amende, afin qu'il ne puisse être avantageux pour une entreprise de briser un scellé apposé par la
+Commission dans le cadre d'inspections."
+
+17
+
+99. En second lieu, LDE avait été dûment avertie par le représentant de la Commission qu'il
+lui revenait de veiller à ce que les scellés apposés pendant l'inspection demeurent intacts
+jusqu'à ce qu'ils soient enlevés par le représentant de la Commission60. De plus, le bris de
+scellé dans la présente affaire intervient alors qu'il existe un précédent. En effet, dans sa
+décision du 30 janvier 2008 infligeant à l'entreprise E.ON une amende pour le bris d'un
+scellé apposé pendant une inspection dans ses locaux commerciaux, la Commission avait
+rappelé qu'il était de la responsabilité de l'entreprise inspectée de prendre les mesures
+appropriées afin que les scellés apposés durant une inspection ne soient pas brisés61. La
+décision de la Commission dans l'affaire E.ON est d'ailleurs citée dans le message
+électronique envoyé par le directeur juridique de Suez Environnement à des employés de
+LDE le 15 avril 201062. LDE et Suez Environnement, qui forment un groupe de taille
+importante disposant d'une expertise juridique en matière de droit de la concurrence,
+étaient donc parfaitement conscientes du risque de sanction encourue en cas de
+commission d'une infraction de cette nature.
+
+100. Par ailleurs, il y a lieu de tenir compte des autres éléments suivants relevant de
+circonstances particulières de l'espèce.
+
+101. En premier lieu, Suez Environnement et LDE ont, dès la découverte du bris de scellé,
+spontanément et sans délai communiqué à la Commission de nombreux éléments
+factuels permettant d'éclaircir les circonstances de ce bris. Ainsi, à la suite des
+investigations qu'elles avaient immédiatement initiées63, les parties ont pu, en moins de
+quarante-huit heures, identifier l'auteur du bris de scellé et transmettre au représentant de
+la Commission au cours de l'inspection une déclaration circonstanciée de cette personne
+dans laquelle elle détaille le déroulement des faits et reconnaît avoir brisé le scellé64. En
+outre, au cours de deux auditions avec les services de la Commission, cette même
+personne a confirmé être l'auteur du bris de scellé65. Enfin, les parties ont, de leur propre
+initiative, transmis à la Commission des enregistrements vidéo66 ainsi que deux
+attestations d'employés corroborant la version des faits exposée par la personne ayant
+reconnu être l'auteur du bris de scellé67.
+
+102. Il ressort de ce qui précède que les parties ont transmis des renseignements éclaircissant
+rapidement les faits et facilitant l'enquête de la Commission68. De plus, elles ont
+communiqué des éléments par lesquels elles reconnaissent qu'un employé de LDE a brisé
+le scellé.
+
+60 Voir considérant 21.
+61 Décision de la Commission du 30 janvier 2008 relative à une amende imposée pour bris de scellé en
+vertu de l'article 23 paragraphe 1, point e) du règlement du Conseil (CE) n° 1/2003 – Affaire COMP/B-
+1/39.326 – E.ON Energie AG, point 103 : "Il est de la responsabilité exclusive d'[E.ON] d'organiser
+son propre domaine d'activité de manière telle que l'interdiction de briser le scellé soit également
+respectée." Cette responsabilité incombant à l'entreprise a été rappelée par le Tribunal dans l'arrêt E.ON
+précité (points 260 et 290).
+62 Voir considérant 42.
+63 Voir considérants 37, 38 et 42.
+64 Voir considérants 43 et 44.
+65 Voir considérants 6 et 9.
+66 Voir considérants 9 et 47.
+67 Voir considérants 10 et 48.
+68 Voir en ce sens l'arrêt du Tribunal dans l'affaire E.ON, précité, point 292.
+
+18
+
+103. Ainsi, dans la présente affaire, les parties ont produit des éléments allant bien au-delà de
+ceux dont la production aurait pu être exigée par la Commission en vertu de l’article 18
+du règlement (CE) n° 1/200369 dépassant ainsi ce à quoi elles étaient tenues.
+
+104. En second lieu, dans leur réponse à la communication des griefs, les parties acceptent les
+conclusions de la Commission quant à la matérialité des faits, leur qualification
+juridique, et l'imputabilité de l'infraction à Suez Environnement et à LDE70.
+
+105. Au vu de ce qui précède, l’amende est fixée à huit millions d'euros, correspondant à
+0,065 % du chiffre d'affaires de Suez Environnement en 2009.
+
+69 Voir arrêt du Tribunal du 28 avril 2010 dans l'affaire T-452/05, Belgian Sewing Thread/Commission,
+non encore publié au recueil, point 147: "L’affirmation de la Commission selon laquelle la contribution
+de la requérante était due en grande partie à son obligation de produire les documents qui lui avaient
+été demandés dans le cadre d’une demande valable de renseignements doit également être rejetée. Il y
+a lieu de rappeler qu’une coopération à l’enquête qui ne dépasse pas ce qui résulte des obligations qui
+incombent aux entreprises en vertu de l’article 11, paragraphes 4 et 5, du règlement n° 17 ne justifie
+pas une réduction de l’amende (voir, en ce sens, arrêt du Tribunal du 10 mars 1992,
+Solvay/Commission, T-12/89, Rec. p. II - 907, points 341 et 342). En revanche, une telle réduction est
+justifiée lorsque l’entreprise a fourni des renseignements allant bien au-delà de ceux dont la production
+peut être exigée par la Commission en vertu de l’article 11 du règlement n° 17 (voir, en ce sens, arrêts
+du Tribunal du 14 mai 1998, Cascades/Commission, T-308/94, Rec. p. II - 925, points 260 et 262, et du
+9 juillet 2003, Daesang et Sewon Europe/Commission, T-230/00, Rec. p. II - 2733, point 137). ".
+70 Point 24, page 8, de la réponse à la communication des griefs.
+
+19
+
+A ADOPTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Lyonnaise des Eaux France S.A. et Suez Environnement Company S.A ont brisé un scellé
+apposé dans les locaux commerciaux de Lyonnaise des Eaux France S.A. par des agents de la
+Commission en application de l'article 20, paragraphe 2, point d), du règlement (CE)
+n° 1/2003 et ont, à tout le moins par négligence, commis l'infraction visée à l'article 23,
+paragraphe 1, point e), du même règlement.
+
+Article 2
+
+Pour l’infraction mentionnée à l’article 1er, une amende d’un montant de huit millions d'euros
+est infligée solidairement et conjointement à Lyonnaise des Eaux France S.A. et à Suez
+Environnement Company S.A.
+
+L’amende infligée est à payer en euros, dans un délai de trois mois à compter de la date de
+notification de la présente décision, sur le compte bancaire ouvert au nom de la Commission
+européenne auprès de la
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / COMP/39.796
+
+À l’expiration de ce délai, des intérêts seront automatiquement dus au taux d'intérêt appliqué
+par la Banque centrale européenne à ses opérations principales de refinancement le premier
+jour du mois au cours duquel la présente décision a été adoptée, majoré de 3,5 points de
+pourcentage.
+
+En cas de recours contre la présente décision, les entreprises visées à l'article 1er couvrent le
+montant de l'amende au plus tard à la date d'échéance, soit en constituant une garantie
+financière acceptable par le comptable de la Commission, soit en effectuant le paiement de
+l'amende à titre provisoire conformément à l'article 85 bis du règlement (CE, Euratom)
+n° 2342/2002 de la Commission71.
+
+71 Règlement (CE, Euratom) No 2342/2002 de la Commission du 23 décembre 2002 établissant les
+modalités d'exécution du règlement (CE, Euratom) no 1605/2002 du Conseil portant règlement
+financier applicable au budget général des Communautés européennes (JO L 357 du 31.12.2002., page
+1).
+
+20
+
+Article 3
+
+La présente décision est adressée à :
+
+Lyonnaise des Eaux France S.A.
+Tour CB 21
+16 place de l'Iris
+92040 Paris La Défense
+France
+et à :
+
+Suez Environnement Company S.A.
+Tour CB 21
+16 place de l'Iris
+92040 Paris La Défense
+France
+
+La présente décision forme titre exécutoire en vertu de l’article 299, premier alinéa, du traité
+sur le fonctionnement de l'Union européenne.
+
+Fait à Bruxelles, 24.5.2011
+
+Par la Commission
+
+Joaquín Almunia
+Vice-président
+
+21

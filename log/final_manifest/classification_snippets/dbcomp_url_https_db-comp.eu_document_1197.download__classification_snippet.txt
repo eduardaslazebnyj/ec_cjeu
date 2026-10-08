@@ -1,0 +1,204 @@
+L 317/76 EN Official Journal of the European Union 5.12.2007
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 13 September 2007
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+(Case COMP/E-2/39.140 — DaimlerChrysler)
+
+(notified under document number C(2007) 4275)
+
+(Only the English text is authentic)
+
+(2007/788/EC)
+
+(1) This decision adopted pursuant to Article 9(1) of Council — spare parts information, including parts catalogues
+Regulation (EC) No 1/2003 (1) is addressed to Daimler- with codes and descriptions, and vehicle identification
+Chrysler AG (hereinafter DaimlerChrysler) and concerns methods (that is to say, data relating to a specific
+the supply of technical information for the repair of vehicle which enable a repairer to identify the indivehicles of the Mercedes-Benz and Smart brands. vidual codes for the parts fitted during vehicle
+assembly, and to identify the corresponding codes
+for compatible original replacement parts for that
+(2) Technical information consists of data, processes and specific vehicle),
+instructions which are necessary to check, repair and
+replace defective/broken/used parts of a motor vehicle
+or to fix failures in any of a vehicle’s systems. It
+— special information (recall notices and notification of
+includes seven main categories:
+frequent faults),
+
+— basic parameters (documentation of all reference
+values and set points of the measurable values — training materials.
+concerning the vehicle, such as torque settings,
+brake clearance measurements, hydraulic and
+pneumatic pressures),
+(3) In December 2006, the Commission opened proceedings,
+and addressed a preliminary assessment to Daimler-
+Chrysler, containing the preliminary view that Daimler- — diagrams and descriptions of stages in repair and
+Chrysler’s agreements with its after-sales service partners maintenance operations (service handbooks,
+raised concerns as to their compatibility with Article technical documents such as work plans, descriptions
+81(1) of the EC Treaty. of tools used to carry out a given repair, and
+diagrams such as wiring schematics or hydraulics),
+
+(4) In the Commission’s preliminary assessment, Daimler-
+— testing and diagnosis (including diagnostic fault/ Chrysler seemed to have failed to release certain cattroubleshooting codes, software and other infor- egories of technical repair information well after the
+mation needed to diagnose faults on vehicles) — end of the transitional period provided for in Regulation
+much, but not all, of this information is contained (EC) No 1400/2002 (2). Moreover, at the time that the
+in specialised electronic tools, Commission’s investigation was launched, Daimler-
+Chrysler had still not put in place an effective system
+to allow independent repairers to have access to
+— codes, software and other information needed to re- technical repair information in an unbundled manner.
+program, re-set or re-initialise the electronic control Although DaimlerChrysler improved the accessibility of
+units (ECUs) embarked on a vehicle. This category is its technical information over the course of the
+linked to the preceding one, in that often the same Commission investigation, notably by setting up a
+electronic tools are used to diagnose the fault, and website (the TI website) in June 2005 designed for that
+then make the necessary adjustments via the ECUs to purpose, the information made available to independent
+deal with it, repairers seemed to be still incomplete.
+
+(1) Council Regulation (EC) No 1/2003 of 16 December 2002 on the (2) Commission Regulation (EC) No 1400/2002 of 31 July 2002 on the
+implementation of the rules on competition laid down in Articles 81 application of Article 81(3) of the Treaty to categories of vertical
+and 82 of the Treaty (OJ L 1, 4.1.2003, p. 1). Regulation as last agreements and concerted practices in the motor vehicle sector
+amended by Regulation (EC) No 1419/2006 (OJ L 269, 28.9.2006, (OJ L 203, 1.8.2002, p. 30). Regulation as amended by the 2003
+p. 1). Act of Accession.
+
+5.12.2007 EN Official Journal of the European Union L 317/77
+
+(5) That preliminary assessment found that the relevant (10) On 14 February 2007, DaimlerChrysler offered
+markets affected by the practice at issue were the commitments to the Commission in order to meet the
+market for the provision of repair and maintenance competition concerns addressed in the preliminary
+services for passenger cars, and the market for the assessment.
+provision of technical information to repairers. The
+Mercedes-Benz and Smart authorised networks had very
+high market shares on the first of these markets, while
+on the second, DaimlerChrysler was the only supplier
+able to offer all of the technical information needed by (11) According to those commitments, the principle deterrepairers of its vehicles. mining the scope of the information to be provided is
+that of non-discrimination between independent and
+authorised repairers. In this light, DaimlerChrysler will
+ensure that all technical information, tools, equipment,
+(6) In essence, DaimlerChrysler’s service and parts distrisoftware and training required for the repair and mainbution agreements require the members of its authorised
+tenance of its vehicles which is provided to authorised
+networks to carry out a full range of brand-specific repair
+repairers and/or independent importers of its Mercedesservices, and act as spare parts wholesalers. The
+Benz and Smart brands in any EU Member State by or
+Commission is concerned that possible negative effects
+on behalf of DaimlerChrysler is also made available to
+stemming from such agreements could be strengthened
+independent repairers.
+by DaimlerChrysler’s failure to provide independent
+repairers with appropriate access to technical information
+thereby foreclosing firms which would be willing and
+able to offer repair services through a different business
+model.
+(12) The commitments specify that ‘technical information’
+within the meaning of Article 4(2) of Regulation
+(EC) No 1400/2002 includes all information provided
+(7) The Commission’s preliminary conclusion was that to authorised repairers for the repair or maintenance of
+DaimlerChrysler’s arrangements for providing its Mercedes-Benz and Smart motor vehicles. Particular
+technical information to independent repairers did not examples include software, fault codes and other paracorrespond to the latters’ needs either as regards the meters, together with updates, which are required to
+scope of the information available or as regards its ac- work on electronic control units (ECUs) with a view to
+cessibility, and that such a practice, in combination with introducing or restoring settings recommended by
+similar practices by other car manufacturers, could have DaimlerChrysler, vehicle identification methods, parts
+contributed to a decline in the market position of inde- catalogues, working solutions resulting from practical
+pendent repairers. In turn, this could have caused con- experience and relating to problems typically affecting a
+siderable consumer harm in terms of a significant given model or batch, and recall notices as well as other
+reduction in choice of spare parts, higher prices for notices identifying repairs that may be carried out
+repair services, a reduction in choice of repair outlets, without charge within the authorised repair network.
+potential safety issues, and a lack of access to innovative
+repair shops.
+
+(13) Access to tools includes access to electronic diagnostic
+(8) Moreover, DaimlerChrysler’s apparent failure to provide
+and other repair tools, together with related software,
+independent repairers with appropriate access to
+including periodic updates thereof, and after-sales
+technical information might prevent the agreements
+services for such tools.
+with its after-sales service partners from benefiting
+from the exemption granted by Regulation (EC) No
+1400/2002, since according to Article 4(2) of the Regulation, the exemption granted therein does not apply
+where the supplier of motor vehicles refuses to give
+independent operators access to any technical infor- (14) The commitments shall bind DaimlerChrysler and its
+mation, diagnostic and other equipment, tools, connected undertakings but shall not be directly
+including any relevant software, or training required for binding on independent importers of the Mercedesthe repair and maintenance of these motor vehicles. As Benz and Smart brands. DaimlerChrysler has therefore
+clarified in recital 26 of the regulation, the conditions of agreed that in those Member States in which Daimleraccess must not discriminate between authorised and Chrysler distributes Mercedes-Benz and/or Smart vehicles
+independent operators. via independent importers, it will make its best efforts to
+contractually oblige these undertakings to make available
+to independent repairers free of charge and in a nondiscriminatory way through their national commercial
+(9) Finally, the Commission came to the preliminary view websites any given piece of technical information or
+that in the context of lack of access to technical repair language version of such information that the importer
+information, the agreements between DaimlerChrysler in question has provided to authorised repairers in the
+and its authorised repairers were unlikely to benefit Member State for which it has been appointed and that is
+from the provision of Article 81(3). not available to independent repairers on the TI website.
+
+L 317/78 EN Official Journal of the European Union 5.12.2007
+
+(15) According to recital 26 of Regulation (EC) No in a particular EU language, DaimlerChrysler will ensure
+1400/2002, DaimlerChrysler is not obliged to provide that this language version of the information is placed on
+independent repairers with technical information that the TI website without undue delay.
+would enable a third party to bypass or disarm onboard anti-theft devices and/or recalibrate (1) electronic
+(19) DaimlerChrysler has set the yearly access fees for the TI
+devices, or to tamper with devices which limit a
+website at EUR 1 254 (EUR 1 239 for access to the main
+vehicle’s performance. As with any exception under EU
+section known as WIS net; the electronic parts catalogue
+law, recital 26 is to be interpreted narrowly. The
+net is free of charge except for a yearly contribution
+commitments note that if DaimlerChrysler were to
+towards administrative expenses of EUR 15). However,
+invoke this exception as a reason for withholding any
+in order to respect the proportionality requirement laid
+technical information from independent repairers, it has
+down in the regulation, DaimlerChrysler agrees to
+committed itself to ensure that the information withheld
+provide for a pro rata breakdown for WIS net access
+is limited to that necessary to provide the protection
+into monthly, weekly, daily, and hourly time windows
+described in recital 26, and that the lack of the inforat a price of EUR 180, EUR 70, EUR 20, and EUR 4,
+mation in question does not prevent independent
+respectively. DaimlerChrysler agrees to maintain this
+repairers from carrying out operations other than those
+access fee structure, and not to increase fee levels
+listed in recital 26, including work on devices such as
+above the average inflation rate within the EU during
+engine management ECUs, airbags, seatbelt prethe whole currency of the commitments.
+tensioners, or central locking elements.
+
+(16) Article 4(2) of Regulation (EC) No 1400/2002 provides (20) DaimlerChrysler’s commitments are without prejudice to
+that technical information must be made available in a any current or future requirement established by
+way that is proportionate to independent repairers’ needs. Community or national law which might extend the
+This implies both unbundling of information and pricing scope of the technical information that DaimlerChrysler
+that takes account of the extent to which independent is to provide to independent operators and/or might set
+repairers use the information out more favourable ways for such information to be
+provided.
+(17) In line with this principle, the commitments specify that
+DaimlerChrysler will include on the TI website all (21) If an independent repairer or association of such repairers
+technical information relating to models launched after so requests, DaimlerChrysler has committed itself to
+1996, and will ensure that all updated technical infor- accept arbitration for settling disputes relating to the
+mation is on the TI website or on any successor site at provision of technical information. This arbitration shall
+all times. However, if certain items of technical infor- be governed by the national rules of arbitration and the
+mation relating to models launched after 1996 or substantive law that DaimlerChrysler has contractually
+language versions thereof that DaimlerChrysler or its agreed upon with its authorised repairers in the
+connected undertakings provides to authorised repairers Member State where the requesting party is located.
+in a given Member State are not available on the TI DaimlerChrysler commits itself to provide information
+website, DaimlerChrysler shall be deemed to have on these rules upon request. The arbitral tribunal shall
+complied with the commitments in this respect if it consist of three arbitrators appointed in accordance with
+has made the items in question available without these Rules. Arbitration will not prejudice any right to
+undue delay and free of charge to independent file an application with the competent national court.
+repairers on its commercial website in the Member
+State in question.
+(22) The Decision finds that, in view of the commitments,
+there are no longer grounds for action by the
+(18) DaimlerChrysler will at all times ensure that the TI
+Commission. The commitments will be binding until
+website may be easily located and provides an equivalent
+31 May 2010.
+level of performance to the methods used for providing
+technical information to members of its authorised
+networks. When DaimlerChrysler or another undertaking (23) The Advisory Committee on Restrictive Practices and
+acting on DaimlerChrysler’s behalf makes a piece of Dominant Positions issued a favourable opinion on
+technical information available to authorised repairers 9 July 2007.
+
+(1) I.e. to modify the original settings of an ECU in a way not recommended by DaimlerChrysler.

@@ -1,0 +1,533 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition
+
+CASE AT.40609 – Polish fuel app
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7(2) Regulation (EC) 773/2004
+Date: 03/12/2020
+
+This text is made available for information purposes only.
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those
+parts are replaced by a non-confidential summary in square brackets or are shown as [...].
+
+EUROPEAN COMMISSION
+
+Brussels, 03.12.2020
+C(2020)8689 final
+
+SENSITIVE*: COMP Operations
+
+JustDrive Poland SP. Z.O.O
+Ul. Chmielna 85/87
+00-805 Warsaw, Poland
+
+Subject: Case AT.40609 – Polish fuel app
+Commission Decision rejecting the complaint
+(Please quote this reference in all correspondence)
+
+Dear Sirs,
+
+(1) I am writing to inform you that the European Commission (the "Commission") has
+decided to reject your complaint against Polski Koncern Naftowy ORLEN S.A
+(“PKN Orlen”), pursuant to Article 7(2) of the Commission Regulation (EC)
+773/2004.1
+
+1. THE COMPLAINT
+
+(2) By letter dated 24 July 2018, you submitted a complaint (“Complaint”) requesting
+the Commission investigate certain practices of PKN Orlen vis-à-vis JustDrive
+Poland SP. Z O.O. (“JustDrive”), which you consider to be in violation of Article
+102 of the Treaty on the Functioning of the European Union (“TFEU”) .
+
+(3) You alleged that JustDrive devised a mobile application (“the App”). The App was
+supposed to match consumers with vendors of various products and services
+affiliated with acquiring and using motor vehicles (e.g. purchasing or renting of such
+vehicles, obtaining motor insurance, renting parking spaces, etc.)2. The App was
+initially marketed to allow fleet clients (business customers) to purchase fuel at PKN
+Orlen’s petrol stations via a mobile device3.
+
+* Handling instructions for SENSITIVE information are given at https://europa.eu/!db43PX
+
+1 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, Official Journal L 123, 27.04.2004, pages
+18-24.
+
+2 Complaint, paras. 3-4.
+
+3 Complaint, para. 5.
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu.
+
+(4) You claim that the agreement with PKN Orlen was that you would buy fuel from
+PKN Orlen and resell it to your own business customers via the App, at PKN Orlen’s
+petrol stations4. You explained that the App's initial aim was to attract a critical user
+base, which would motivate various other service providers to join the platform and
+offer their services via the App. You allege this was necessary for the App’s
+development into a multisided online platform5.
+
+(5) You explain that PKN Orlen has in place a modern IT system for settlement of
+transactions conducted with fleet cards – the Fleet Transaction Settlement System
+(“FTS System”) which was developed for PKN Orlen by ITMAGINATION, your
+sister company6. You clarify that while the FTS System for PKN Orlen was being
+developed, PKN Orlen decided to develop a mobile app called “mFlota”, which
+could fulfil the same function as the fleet card. You specify that this was before
+JustDrive created its own App7.
+
+(6) The “mFlota” app allows fleet clients to make payments at the pump through the
+mobile application associated with a physical card issued to fleet clients. The
+“mFlota” app was implemented in June 20168. You specify that the FTS System was
+devised from the outset with the idea in mind of communicating with “mFlota”9.
+Furthermore, ITMAGINATION created an ‘Application’s Programming Interface’
+(“API”) in PKN Orlen’s FTS System, through which “mFlota”, or any similar app,
+would be able to communicate with the FTS System. When JustDrive conceived its
+own App, it knew that it could use the same API10.
+
+(7) You claim that you could not have launched the App with any other retailer in
+Poland, as none of them had the necessary IT system in place, which could be
+adapted to work with your App. You explain that the transaction settlement systems
+of operators of other petrol station chains in Poland were inapt to process
+transactions conducted automatically, via the App, because they did not provide for
+connection with individual pumps at the petrol stations11. You claim the only
+exception was CircleK, which had a sufficiently modern fleet transactions settlement
+system in place in its Polish network, but did not have a sufficiently wide and dense
+network of petrol stations that would enable the App’s success12.
+
+(8) You claim that on 31 August 2017 JustDrive signed, for the duration of 3 years, a
+cooperation contract with PKN Orlen for the “issue and use of Fleet Cards” (“the
+Agreement”). You argue this was the typical cooperation contract PKN Orlen would
+conclude with a fleet client. You explain that JustDrive was to become another fleet
+
+4 Complaint, para. 10.
+
+5 Complaint, paras. 4-5.
+
+6 Complaint, paras.10 and 46.
+
+7 Complaint, paras. 47-48.
+
+8 Reply by PKN Orlen to the RFI, paras. 14 and 38.
+
+9 Complaint, para. 48.
+
+10 Complaint, para. 48.
+
+11 Complaint, para. 50.
+
+12 Complaint, para. 51.
+
+2
+
+client of PKN Orlen with the exception that JustDrive’s fleet would consist of the
+users of the cards. These users were supposed to be issued physical fleet cards13.
+
+(9) Furthermore, you claim that on 12 October 2017, JustDrive signed with PKN Orlen
+an Annex to the Agreement (“Annex I”) allowing the use of PKN Orlen’s “mFlota”
+app by the members of JustDrive’s “fleet” (its customers). You claim Annex I was
+not particularly important as you planned on using your own App instead of
+“mFlota”, but that it was a standard element of PKN Orlen’s contractual package for
+fleet clients and you had to sign it14.
+
+(10) Lastly, a second annex, Annex II, guaranteed that the members of JustDrive’s fleet
+would be able to use the App, instead of “mFlota”. You claim that Annex II
+guaranteed to JustDrive the right to use its own App to sell fuel purchased from PKN
+Orlen to the fleet users of the App. You claim that according to this Annex II, PKN
+Orlen was supposed to allow JustDrive’s App to communicate with the FTS System
+through its API, which is the same interface that is used by “mFlota”. JustDrive
+signed Annex II on 30 November 2017 but PKN Orlen never signed it. However,
+you claim that PKN Orlen relied on Annex II in its dealings with JustDrive, thus
+confirming that the annex was concluded validly15.
+
+(11) However, you claim that one day after the launch of the App on 1 February 2018,
+PKN Orlen, disconnected the App from its IT system and terminated the
+Agreement16.
+
+(12) In sum, you allege that:
+
+(a) By disconnecting the App devised by JustDrive from its IT system, PKN
+Orlen refused to deal17 with JustDrive, a behaviour that you consider amounts to an
+abuse of a dominant position in the meaning of Article 102 TFEU, which prevented
+a new, competitive, EU-based online platform from emerging18.
+
+(b) PKN Orlen is a dominant player19 with an unrivalled coverage of petrol
+stations in Poland and the only one equipped with the necessary IT infrastructure to
+launch a payment app like the one developed by JustDrive20. Therefore, it would be
+impossible for JustDrive to partner with any competitor of PKN Orlen in order to
+launch the App21. Hence, by foreclosing JustDrive’s App from the market, PKN
+Orlen is significantly limiting innovation and competition22.
+
+13 Complaint, para. 56.
+
+14 Complaint, para. 57.
+
+15 Complaint, para. 58.
+
+16 Complaint, para. 11.
+
+17 Complaint, para. 11.
+
+18 Complaint, para. 15.
+
+19 Complaint, para. 20-21, plus point B (iii) PKN Orlen’s dominant position on the upstream “input market”,
+paras. 99-112.
+
+20 Complaint, paras. 50 and 101-102.
+
+21 Complaint, paras. 41-44, 105-112.
+
+22 Complaint, para. 13.
+3
+
+(13) You also requested that the Commission orders interim measures, given the risk of
+harm to JustDrive and to competition in the European Union23.
+
+(14) The Commission, with your consent, sent on 12 October 2018 a non-confidential
+version of the Complaint to PKN Orlen together with a request for information. On 5
+November 2018, PKN Orlen responded in writing to the request for information and
+submitted its comments on the Complaint.
+
+(15) In its observations, PKN Orlen considered that:
+
+(a) The reasons to terminate its Agreement with JustDrive were among others
+the following: (i) the App launched by JustDrive on 1 February 2018 did not
+correspond to the app that PKN Orlen had previously tested and approved in the
+development process24; (ii) the launched App could have led to the violation of
+security rules related to user identification and fraud25; (iii) JustDrive misled PKN
+Orlen with regard to the loyalty/fleet fuel card offering model of the App and the
+planned method of settlement with customers. PKN Orlen explains that users were to
+settle the purchased fuel with JustDrive based on a collective invoice issued by PKN
+Orlen to JustDrive in a billing period. However, the App launched enabled direct
+payment from users to PKN Orlen, by using a payment card registered in the App.
+This was a fundamental change of business process and entailed numerous critical
+risks and new security requirements26.
+
+(b) These inconsistencies justified the termination of the Agreement27.
+
+(c) PKN Orlen has only a market share of less than 25% of the petrol stations
+operating in Poland and its competitors are strong international players like BP,
+Shell and CircleK (formerly Statoil)28. PKN Orlen claimed that JustDrive could
+partner with these competitors in order to launch its App29.
+
+(d) Based on its experience with the “mFlota” mobile application, equipping fuel
+service stations with items enabling fuel mobile payment applications requires only
+limited special expenditure and would not be too lengthy. PKN Orlen claims that it
+is possible for competing petrol stations chains with similar base solutions to
+implement a mobile payment application within a few months30.
+
+(e) PKN Orlen started the development of its own mobile tanking app “mFlota”
+for fleet clients already in 2016, prior to the cooperation with JustDrive31.
+
+23 Complaint, para. 15.
+
+24 Reply by PKN Orlen to the RFI, paras. 15h and 23.
+
+25 Reply by PKN Orlen to the RFI, paras. 12, 15j, 21 and 23.
+
+26 Reply by PKN Orlen to the RFI, paras. 7-11 and 15a and 24c.
+
+27 Reply by PKN Orlen to the RFI, para. 21-36.
+
+28 Reply by PKN Orlen to the RFI, point 8 - Information on the market for the retail supply of motor fuels in
+Poland, pages 17-18.
+
+29 Reply by PKN Orlen to the RFI, paras. 37, 40, 42-43, 49 and 53.
+
+30 Reply by PKN Orlen to the RFI, paras. 38-40.
+
+31 Reply by PKN Orlen to the RFI, paras. 14 and 38.
+
+4
+
+(16) You made an additional written submission to the Commission by letter of 29
+November 2018. In your submission you presented arguments on why the
+Commission should treat this Complaint as a priority case and open an investigation.
+In support of this submission you also produced an economic report by E.CA
+Economics on the “Economic assessment of refusal to supply”. The expert report
+addresses the question whether PKN Orlen has abused its dominant position by
+refusing to supply Justdrive with the input necessary to serve its customers32.
+
+(17) You made a further written submission to the Commission on 23 September 2019. In
+that submission, you briefly argue that PKN Orlen is dominant as it is able to
+disregard consumer expectations and harm their interests without facing any
+effective pressure from competitors33.
+
+(18) By letter of 20 February 2020 (the “Article 7(1) letter”), the Commission informed
+you of its intention to reject your Complaint.
+
+(19) In response, you made additional observations in your letter of 23 March 2020
+(“Observations on the Article 7(1) letter”) essentially stating that the Commission
+had left out of its initial analysis the Complaint’s potential to contribute to the
+development of EU competition law in aspects which are crucial from the viewpoint
+of the EU competition policy in the digital era34.
+
+(20) You claim that the case raises an important question whether, and if so – when –
+European undertakings pursuing innovative digital business models can rely on
+European competition law for fair access to essential physical assets controlled by
+their “brick-and-mortar” incumbent competitors35. You also claim that this aspect of
+the case is relevant for assessing the existence of a “European Union interest” in
+investigating the Complaint36.
+
+2. THE NEED FOR THE COMMISSION TO SET PRIORITIES
+
+(21) The Commission is unable to pursue every alleged infringement of EU competition
+law which is brought to its attention. The Commission has limited resources and
+must therefore set priorities, in accordance with the principles set out at points 41 to
+45 of the Notice on the handling of complaints37.
+
+(22) When deciding which cases to pursue, the Commission takes various factors into
+account. There is no fixed set of criteria, but the Commission may take into account
+whether a national court or national competition authority might be well-placed to
+examine the allegations made.
+
+32 E.CA Economics report on “Economic assessment of refusal to supply” dated 29 November 2018 and sent
+to the Commission as addition to the Complaint, executive summary.
+
+33 Justdrive’s submission dated 23 September 2019.
+
+34 Observations on the Article 7(1) letter, para. 3.
+
+35 Observations on the Article 7(1) letter, para. 4.
+
+36 Observations on the Article 7(1) letter, para. 5.
+
+37 OJ C 101, 27.04.2004, p. 65. See also the Commission’s Report on Competition Policy 2005, p. 25-27.
+
+5
+
+3. ASSESSMENT OF YOUR COMPLAINT
+
+(23) After a careful examination of the factual and legal elements put forward by you, the
+Commission does not intend to conduct a further investigation into your claims for
+the reasons set out below.
+
+3.1. National courts and authorities appear to be well-placed to handle the
+matters raised
+
+(24) In the Article 7(1) letter, the Commission has explained that the Polish Competition
+Authority (the Office of Competition and Consumer Protection) and the Polish
+courts appear to be well-placed to handle the matters raised in your Complaint, in
+accordance with the principles set out at points 8 and 9 of the Notice of cooperation
+within the Network of Competition Authorities.
+
+(25) You claim that the relevant markets for this case would be: for the downstream
+market, the retail sale of motor fuel made at fuel dispensing service stations via
+mobile applications and may have to be further segmented according to different
+categories of customers (B2B, B2C, etc.). As far as the geographic aspect of this
+market you align with Commission’s previous conclusions in merger cases where
+the market is defined as national, with local elements of competition38.
+
+(26) Furthermore, you claim th
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+c coverage would
+be wider than Poland. For these reasons, it appears likely that any possible effects of
+the alleged infringement would primarily be felt in Poland.
+
+(30) In your observations to the Article 7(1) letter, you claim that if a case can contribute
+to the development of EU competition law, it cannot be rejected and referred to a
+national competition authority or a national court, merely because it concerns an
+infringement, the effects of which would predominantly be felt in one Member
+State50.
+
+(31) You admit yourself in the observations to the Article 7(1) letter that the fact that a
+case may potentially contribute to the development of EU competition law does not
+compel the Commission to carry out an investigation51. The General Court
+confirmed that “in view of the Commission’s broad discretion in setting priorities for
+the development of EU competition law, the fact that a case may potentially
+contribute to the development of a new aspect of that law cannot have the effect of
+compelling the Commission to carry out an investigation [...]”52.
+
+45 See European Commission merger cases: M. 9014 – PKN Orlen/Grupa Lotos, M.5796 – Eni/Mobil Oil
+Austria and M.3375 – Statoil/SDS.
+
+46 See European Commission merger cases: M.7849 – MOL Hungarian Oil and Gas/ENI Hungaria/ENI
+Slovenija and M.7603 – Statoil Fuel and Retail/Dansk Fuels.
+
+47 E.CA Economics report on “Economic assessment of refusal to supply” dated 29 November 2018 and sent
+to the Commission as addition to the Complaint, p. 11.
+
+48 E.CA Economics report on “Economic assessment of refusal to supply” dated 29 November 2018 and sent
+to the Commission as addition to the Complaint, p. 12.
+
+49 Reply by PKN Orlen to the RFI, Exhibit 3, para. 61, where PKN Orlen states that “The geographic market
+is the national market – the territory of the Republic of Poland”.
+
+50 Observations on the Article 7(1) letter, para. 10.
+
+51 Observations on the Article 7(1) letter, para. 11.
+
+52 Case T-480/15 Agria Polska sp. z o.o. and Others v Commission, EU:T:2017:339, paragraph 73.
+
+7
+
+(32) The Commission notes that in the observations on the Article 7(1) letter, you do not
+bring forward any new facts or evidence. However, you admit in your observations
+that PKN Orlen’s infractruture was not the only one which could be relied on and
+that with some investments other retail networks could have partnered with
+Justdrive53 and also that PKN Orlen terminated the relevant agreement with
+Justdrive (signed in Auguts 2017) with notice54.
+
+(33) It should be clarified, that this notice concerned the main Agreement55 while the
+refusal/”cut-off” stemmed from the (lack of) agreement on Annex II, which as you
+admit in your Complaint was never signed by PKN Orlen56.
+
+(34) In your observations, you merely put forward two aspects to explain why in your
+view this case is likely to contribute to the development of EU competition law:
+
+a) The criteria of indispensability (objective necessity) of input in the digital
+economy and in particular for the digital era;
+
+b) The need to put less emphasis on analysis of market definition, and more
+emphasis on identification of anticompetitive strategies in the digital economy57.
+
+(35) Lastly, in your obervations you argue that the Commission has refrained from
+adducing evidence offered by JUSTDRIVE and chose to rely on unverified Orlen’s
+allegations58.
+
+(36) Firstly, you claim that under the Oscar Bronner59 criteria (for refusal to deal) an
+input controlled by a given undertaking is not “indispensable”, if there are other
+providers of such input or alternatives available60. You consider this test not to be
+adequate in the digital economy61. You conclude there is a need to revisit the Oscar
+Bronner precedent and to adopt a proper, more nuanced interpretation of its
+indispensability criteria, which would take duly into account the peculiarities of the
+digital and platform economy and in particular the extremely strong network
+externalities and return to scale experienced therein and the phenomemon of the socalled “economy of scope”62.
+
+(37) Secondly, you claim there is a need to put less emphasis on analysis of market
+definition, and more on identification of anticompetitive strategies63. You claim that
+
+53 Observations on the Article 7(1) letter, para. 17.
+
+54 Observations on the Article 7(1) letter, para. 41.
+
+55 See above para. 8 for an explanation of the coverage and scope of the Agreement.
+
+56 See above para. 10 and Complaint, para. 58.
+
+57 Observations on the Article 7(1) letter, para. 6.
+
+58 Observations on the Article 7(1) letter, para. 35.
+
+59 Case C-7/97 Oscar Bronner GmbH & Co v Mediaprint Zeitstungs- und Zeitschruftenverlag GmbH & Co
+KG and others, EU:C:1998:569.
+
+60 Observations on the Article 7(1) letter, para. 19.
+
+61 Observations on the Article 7(1) letter, para 20.
+
+62 Observations on the Article 7(1) letter, para 26.
+
+63 Observations on the Article 7(1) letter, para. 6-I-B
+
+8
+
+PKN Orlen’s conduct was blatantly abusive and anticompetitive by its very aim, and
+that the fact alone that PKN Orlen has been able to engage in such conduct and harm
+consumers (by depriving them of a better and more innovative product) without
+loosing market share, was in itself proof of its dominance and should be the focus of
+the Commission’s investigation64.
+
+(38) However, the Commisison considers your claims not to be of such a nature that
+would imply that only the Commission can investigate and assess them. The Polish
+Competition Authority or national courts are equally capable of investigating and
+assessing the case, as they can apply Article 102 TFEU. In this sense, national
+competition authorities in the EU also have experience with cases relating to digital
+markets.
+
+(39) Thirdly, while besides the complaint you have yourself provided the Commission
+with the two additional written submissions including an economic report and over
+60 exhibits, you also claim that the Commission did not request the additional
+evidence that you were ready to offer.
+
+(40) The Commission has in its analysis of the case reviewed all evidence submitted to it
+by Justdrive and by PKN Orlen. However, the Commission, has no duty to take
+additional investigative steps65 nor it is obliged to take account of facts which the
+complainant did not bring to its attention and which could only have been discovered
+by an investigation66. As to the Commission’s reliance on – what you refer to as –
+“unverified PKN Orlen’s allegations”67 , it has to be observed that the Commission
+is entitled to carry its own assessment of the evidence available to it and in particular
+that it is entirely permissible for the Commission to assess the probative value of
+evidence independently68.
+
+(41) Lastly, you have not raised any elements that would bring doubt as to whether the
+Polish Competition Authority would be capable of investigating, accessing evidence
+and bringing the infringement to an end or imposing a sanction, if so needed.
+National competition authorities have parallel competence with the European
+Commission to enforce the EU competition rules and are well placed to do so in
+matters relating to their national territory.
+
+(42) In your Complaint you also mentioned your intention to apply for interim relief to a
+Polish court69. National courts are also competent to apply EU competition law and
+could equally deal with your allegations. In addition, national courts can grant
+interim relief and damages, may uphold contract performance claims and order
+interim measures if necessary. National courts may apply EU competition law and
+national competition law, as well as other relevant national laws applicable to the
+case, such as contract law.
+
+64 Observations on the Article 7(1) letter, para. 34.
+
+65 C-367/10 P EMC Development, EU:C:2011:203, para. 73.
+
+66 T-70/15 Trajektna luka Split d.d., EU:T:2016:592, para. 63 and T 296/09, EFIM v Commission,
+EU:T:2011:693, para. 41.
+
+67 Observations on the Article 7(1) letter, para. 35.
+
+68 T-699/14 Topps Europe v Commission, EU:T:2017:2 , para 52.
+
+69 Complaint, paras. 135-136.
+
+9
+
+(43) In these circumstances, the Commission considers the Polish Competition Authority
+and national courts to be well-placed to examine the allegations you have made,
+which are essentially confined to the territory of Poland.
+
+4. CONCLUSION
+
+(44) In view of the above considerations, the Commission, in its discretion to set
+priorities, has come to the conclusion that there are insufficient grounds for
+conducting a further investigation into the alleged infringement(s) and consequently
+rejects the Complaint pursuant to Article 7(2) of Regulation No. 773/2004.
+
+5. PROCEDURE
+
+5.1. Possibility to challenge this Decision
+
+(45) An action may be brought against this Decision before the General Court of the
+European Union, in accordance with Article 263 TFEU.
+
+5.2. Confidentiality
+
+(46) The Commission reserves the right to send a copy of this Decision to PKN Orlen.
+Moreover, the Commission may decide to make this Decision, or a summary thereof,
+public on its website.70 If you consider that certain parts of this Decision contain
+confidential information, I would be grateful if within two weeks from the date of
+receipt you would inform Ana CAINZOS (e-mail: ana.cainzos@ec.europa.eu).
+Please identify clearly the information in question and indicate why you consider it
+should be treated as confidential. Absent any response within the deadline, the
+Commission will assume that you do not consider that the Decision contains
+confidential information and that it can be published on the Commission’s website or
+sent to PKN Orlen.
+
+(47) The published version of the Decision may conceal your identity upon your request
+and only if this is necessary for the protection of your legitimate interests.
+
+For the Commission
+
+Margrethe VESTAGER
+Executive Vice-President
+
+70 See paragraph 150 of the Commission notice on best practices for the conduct of proceedings concerning
+Articles 101 and 102 TFEU, OJ 2011/C 308/06.
+
+10

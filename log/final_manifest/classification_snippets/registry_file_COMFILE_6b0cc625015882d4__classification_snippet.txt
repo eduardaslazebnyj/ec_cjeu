@@ -1,0 +1,480 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN
+COMMISSION
+
+Brussels, 26.2.2014
+C(2014) 1199 final
+
+COMMISSION DECISION
+
+of 26.2.2014
+
+addressed to:
+Visa Europe Limited
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.39398 – VISA MIF
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter.............................................................................................................. 4
+
+2. The Parties.................................................................................................................... 5
+
+3. Procedural Steps Under Regulation (EC) No 1/2003 .................................................. 5
+
+4. Preliminary Assessment............................................................................................... 6
+
+4.1. Relevant markets.......................................................................................................... 6
+
+4.1.1. Product market ............................................................................................................. 6
+
+4.1.2. Geographic market....................................................................................................... 6
+
+4.2. Position of the parties on the relevant market.............................................................. 7
+
+4.3. Practices raising concerns ............................................................................................ 7
+
+4.4. Effect on trade between Member States....................................................................... 8
+
+5. Proposed Commitments ............................................................................................... 9
+
+6. Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003 ......... 10
+
+6.1. Observations from Visa Inc. ...................................................................................... 10
+
+6.2. Assessment of Visa Inc.'s observations...................................................................... 10
+
+6.3. Other observations from the payment industry.......................................................... 12
+
+6.4. Assessment of other observations from the payment industry................................... 13
+
+6.5. Observations from the complainant and other merchants' associations and merchants
+.................................................................................................................................... 15
+
+6.6. Assessment of observations from the complainant and other merchants' associations
+and merchants............................................................................................................. 17
+
+6.7. Observations from consumer associations................................................................. 19
+
+6.8. Assessment of observations from consumer associations.......................................... 20
+
+6.9. Observations from others........................................................................................... 20
+
+6.10. Assessment of observations from others.................................................................... 21
+
+6.11. The Amended Commitments ..................................................................................... 21
+
+7. Proportionality of the amended commitments........................................................... 22
+
+7.1. Principles.................................................................................................................... 22
+
+7.2. Application in the present case .................................................................................. 23
+
+8. Conclusion.................................................................................................................. 25
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 26.2.2014
+
+addressed to:
+Visa Europe Limited
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.39398 – VISA MIF
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 6 March 2008 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Statement of Objections of 3 April 2009 and in the
+Supplementary Statement of Objections of 30 July 2012,
+
+Having regard to the Commission decision of 8 December 2010 relating to proceedings under
+Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the
+EEA Agreement in case COMP/39.398 – Visa MIF adopted to pursuant Article 9(1) of
+Regulation (EC) No 1/2003 in relation to consumer debit transactions2,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns3,
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+2 OJ C 79, 12.3.2011, p. 8.
+3 OJ C 168, 14.6.2013, p. 22.
+
+EN 3 EN
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+Whereas:
+
+1. SUBJECT MATTER
+
+(1) This Decision is addressed to Visa Europe Limited ('Visa Europe') and concerns the
+following:
+
+(a) the setting of multilaterally agreed interchange fees ('MIFs') by Visa Europe
+that apply to Intra-regional, certain domestic4 and intra Visa Europe non-EEA5
+point of sale ('POS') transactions with Visa consumer credit cards and with
+Visa consumer debit cards.
+
+(b) the rules relating to cross-border acquiring.
+
+(c) certain transparency measures.
+
+(2) In its Statement of Objections of 3 April 2009 (the 'Statement of Objections'), the
+Commission came to the provisional conclusion that Visa Europe had infringed
+Article 101 of the Treaty and Article 53 of the EEA Agreement when setting MIFs.
+
+(3) On 8 December 2010, the Commission adopted a decision pursuant to Article 9 of
+Regulation No 1/20036 (the 'debit commitment decision'). This decision made legally
+binding on Visa Europe for four years the commitment to (i) cap at 0.20% the
+weighted average MIF applicable to consumer debit transactions covered by the
+proceedings and (ii) maintain and/or introduce a number of changes to their network
+rules.
+
+(4) In its Supplementary Statement of Objections on 30 July 2012 (the 'Supplementary
+Statement of Objections') the Commission expressed its objections with regard to
+consumer credit card MIFs. It extended the scope of the proceedings to the direct
+application of Inter-Regional (International) MIFs where merchants are located in the
+EEA and took the preliminary view that Visa Europe's rules on cross-border
+acquiring had infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement.
+
+4 Currently in Belgium, Hungary, Iceland, Ireland, Italy, Luxembourg, Malta, Netherlands, Latvia and
+Sweden.
+5 These are transactions carried out with merchants located within the EEA with Visa consumer cards
+issued in non-EEA countries in the Visa Europe territory. The Visa Europe territory consists of the
+EEA, Andorra, Faroe Islands, Greenland, Israel, Monaco, San Marino, Svalbard and Jan Mayen Islands,
+Switzerland, Turkey and Vatican City.
+6 Commission Decision relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement in case COMP/39.398 – Visa MIF (OJ C 79,
+12.3.2011, p. 8).
+
+EN 4 EN
+
+2. THE PARTIES
+
+(5) Visa Europe is an association of over 5 000 European banks that operates the
+worldwide Visa payment card scheme exclusively in the Visa Europe Territory
+which comprises the EEA and certain other countries on the basis of licences granted
+by Visa Inc. to Visa Europe within the Framework Agreement of 1 October 2007.
+
+3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(6) On 6 March 2008 the Commission initiated proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003. It adopted a Statement of
+Objections on 3 April 2009 and a Supplementary Statement of Objections on 30 July
+2012 which set out its competition concerns. The Statement of Objections and the
+Supplementary Statement of Objections constitute a preliminary assessment for the
+purposes of Article 9(1) of Regulation (EC) No 1/2003.
+
+(7) On 15 June 2009, EuroCommerce a.i.s.b.l. ('EuroCommerce'), a retail, wholesale and
+international trade association, submitted a complaint pursuant to Article 7 of
+Regulation (EC) No 1/2003 against Visa MIFs.
+
+(8) On 10 May 2013, Visa Europe submitted commitments to the Commission in respect
+of its Intra-regional, certain domestic credit MIFs and intra Visa Europe non-EEA
+credit and debit MIFs, its rules relating to cross-border acquiring and certain other
+transparency measures (the 'Proposed Commitments').
+
+(9) On 14 June 2013 a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/20037 (the 'Market Test
+Notice'), summarising the case and the Proposed Commitments and inviting
+interested third parties to give their observations on the Proposed Commitments
+within one month following publication.
+
+(10) Observations were received from seventeen third parties. On 30 August 2013 the
+Commission informed Visa Europe of the observations received from interested third
+parties following the publication of the notice.
+
+(11) On 5 November 2013, Visa Europe submitted amended commitments (the 'Amended
+Commitments') to the Commission.
+
+(12) On 13 December 2013, EuroCommerce withdrew the part of its complaint
+corresponding to the issues addressed in the Proposed Commitments offered by Visa
+Europe and market tested on 14 June 2013.
+
+(13) On 17 February 2014, the Advisory Committee on Restrictive Practices and
+Dominant Positions was consulted. On 19 February 2014, the Hearing Officer issued
+his final report.
+
+7
+Communication of the Commission published pursuant to Article 27(4) of Council Regulation (EC) No
+1/2003 in Case AT.39398 — VISA MIF (OJ C 168, 14.6.2013, p. 22).
+
+EN 5 EN
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. Relevant markets
+
+4.1.1. Product market
+
+(14) In its Statement of Objections and Supplementary Statement of Objections, in line
+with established practice8, the Commission distinguished an upstream “network
+market” and downstream “issuing” and “acquiring” markets.
+
+(15) The upstream network market is the market where payment card scheme operators
+compete to persuade financial institutions to join their payment card schemes and on
+which they provide services to such institutions in return for scheme fees.
+
+(16) Downstream, the financial institutions act as (i) acquirers for merchants, accepting
+card payments in exchange for merchant service charges ('MSCs'), which are
+typically transaction-based, and (ii) issuers of payment cards to cardholders who may
+be required to pay an annual cardholder fee. The services provided on the acquiring
+and issuing markets are complementary in nature but have distinct features and are
+provided to two different customer groups (merchants and cardholders). Although
+the respective demands of merchants and cardholders for payment card services are
+inter-related, the demand behaviour of the two distinct customer groups is
+significantly different.
+
+(17) The supply and demand side analyses of the acquiring and issuing markets showed
+that neither acquiring nor issuing of cards were sufficiently substitutable for any
+equivalent services for other means of payment, in particular cash, cheques, credit
+transfer or direct debit payments, to be considered part of the same market. The
+Commission left open whether acquiring and issuing markets should be further
+subdivided.
+
+(18) Therefore, in the Statement of Objections and the Supplementary Statement of
+Objections the Commission took the preliminary view that the relevant product
+market in these proceedings was the market for acquiring payment cards.
+
+4.1.2. Geographic market
+
+(19) According to the Commission's preliminary assessment in the Statement of
+Objections and the Supplementary Statement of Objections, (the 'Preliminary
+Assessment') the acquiring markets are still national in scope. That conclusion was
+based on the strong divergences in pricing of the acquiring services in different
+Contracting Parties to the EEA agreement, the considerable differences in the market
+structure and the fact that cross-border acquiring remains limited.
+
+8 Commission decision C(2007) 6474 of 19 December 2007 in Cases COMP/34.579 — MasterCard,
+COMP/36.518 — EuroCommerce, and COMP/38.580 — Commercial Cards recital 278; and
+Commission Decision 2002/914/EC of 24 July 2002 in Case COMP/29.373 – Visa International –
+Multilateral Interchange Fee , OJ L318, 22.11.2002, p. 17, recital 43.
+
+EN 6 EN
+
+4.2. Position of the parties on the relevant market
+
+(20) In its Preliminary Assessment the Commission took the preliminary view that Visa
+Europe has a strong position on the relevant markets in terms of its membership
+network and the number of cards issued as well as in terms of the number of
+merchants accepting them in the EEA.
+
+4.3. Practices raising concerns
+
+(21) In its Preliminary Assessment the Commission took the preliminary view that Visa
+Europe, which is considered an association of undertakings, infringed Article 101 of
+the Treaty and Article 53 of the EEA Agreement by setting the MIFs that apply to
+cross-border and certain domestic point of sale transactions with VISA, VISA
+Electron and V PAY consumer payment cards within the EEA and also Visa
+Europe's rules relating to cross-border acquiring.
+
+(22) Interchange fees are in effect paid by a merchant's bank (the 'acquirer') to a
+cardholder's bank (the 'issuer') for each transaction made at a merchant outlet with a
+payment card. When a cardholder uses a payment card to buy goods or services from
+a merchant, the merchant in effect pays a MSC to its acquirer. The acquirer keeps
+part of the MSC (the acquirer margin), a part is passed on to the issue
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+he MSCs
+do not exceed the transactional benefits that merchants derive from accepting
+payment cards. Such transactional benefits accrued to a merchant are the direct
+benefits of a card payment relative to alternative payments, in particular cash. Cash is
+legal tender and the most common alternative to payments with immediate debit
+cards that involves no MIF.
+
+(106) Transactional benefits of card payments compared to an alternative payment
+instrument have to be quantified and measured in monetary terms. The MITcompliant MSC should not exceed the level of the measured transactional benefits. In
+order to compute the MIF compliant with the MIT the average acquirer margin and
+the scheme fees paid by the acquirer are deducted from the MIT-compliant MSC.
+
+(107) Economic theory indicates that the MIFs which comply with the MIT should allow
+merchants and their customers to benefit from increased card use. To the extent that
+the MIFs are passed on to the cardholders by the issuers, they ensure that cardholders
+make efficient choices with respect to payment instruments. Furthermore, MIFs that
+
+24 In particular, in the article jointly authored by Professor Jean-Charles Rochet and Jean Tirole, ("Must
+Take Cards and the Tourist Test", No 496, IDEI Working Papers from Institut d'Économie Industrielle
+(IDEI), Toulouse, http://idei.fr/doc/wp/2008/must_take_cards.pdf).
+
+EN 23 EN
+
+comply with the MIT allow cardholders, when choosing their payment instrument,
+to internalise the transactional benefits for merchants.
+
+(108) By ensuring that merchants, taken together, are indifferent between accepting and
+handling card payments and other means of payments especially cash, such a MIF
+creates a level playing field for competition between alternative payment
+instruments, while it prevents card schemes from exploiting the reluctance of
+merchants to turn down card payments as they are afraid that their competitors would
+steal their customers if they refuse to accept card payments. In this context, a MIF
+that is above the MIT-compliant level would not appear to create benefits for
+merchants and consumers that would outweigh the possibly anti-competitive object
+and effect of the MIFs and a fair share of the resulting benefits would not be passed
+on to consumers, the merchants and their subsequent purchasers.
+
+(109) That amount was calculated by comparing the merchants’ costs of accepting
+payments in cash to those of accepting payments made by a payment card. The
+calculations of the MIT-compliant MIF were based on four studies published by the
+central banks of the Netherlands, Belgium and Sweden comparing the merchants'
+costs of accepting payments made by cards with accepting payments made by cash.25
+
+(110) Firstly, for each study the costs and benefits that credit and deferred debit card
+payments and cash generate for the merchants were identified. Secondly, for each
+study on the basis of that cost information, merchants' cost functions for each of the
+payment instruments, namely credit and deferred debit cards and cash were
+computed. The merchants' cost function of a payment instrument identifies the level
+of fixed costs as well as transaction-linked and value-linked variable costs that on
+average merchants have to bear in relation to the total number of transactions and the
+total value of the transactions handled. Thirdly, for each study a unique cost figure
+was computed on the basis of the cost function for each payment instrument. For
+each study cost figures were derived for credit and deferred debit cards, immediate
+debit cards and cash.
+
+(111) The Commission therefore has indications that a weighted average of 0.3% for credit
+cards and 0.2% for debit cards could under certain assumptions make merchants,
+taken together, indifferent between accepting a cash payment and a card payment.
+This figure represents the maximum at which the net effect of accepting payments
+cards is neutral but not negative from the point of view of merchants as a whole.
+
+(112) By comparing the MIF computed on the basis of the four studies, the maximum
+weighted average caps MIF proposed by Visa Europe do not appear to be in excess
+of the requirements of the MIT. A higher average MIF rate would not give the
+merchants any additional benefit from the potential efficiencies generated by the
+
+25 De Nederlandsche Bank, ‘Betalen Kost Geld’, March 2004 (with a summary published under the title
+‘The cost of payments’ in the DNB Quarterly Bulletin); data from this study has also been used in Brits,
+H and C Winder, ‘Payments are no free lunch’, De Nederlandsche Bank Occasional Studies Vol. 3, No
+2, 2005. Banque Nationale de Belgique, ‘Couts, Avantages et Inconvenients des Differents Moyens de
+Paiement’, December 2005. Bergman, M, Guibourg, G, and Segendorf, B, ‘The Costs of Paying –
+Private and Social Costs of Cash and Card Payments’, Riksbank Research Paper Series No 112, 2007.
+EIM, ‘Het toonbankbetalingsverkeer in Nederland’, 2007.
+
+EN 24 EN
+
+immediate debit MIFs. At the same time, the Amended Commitments only cap the
+MIF rates and do not prevent Visa Europe from introducing lower MIF rates.
+Therefore those commitments sufficiently address the competition concerns
+identified by the Commission.
+
+(113) Visa Europe's Amended Commitments on cross-border acquiring are also sufficient
+to address the competition problems identified by the Commission. They are
+expected to significantly lower the barriers to entry to national acquiring markets in
+the EEA and to foster price competition as explained in recitals (56)-(57) and (72).
+Visa Europe has not offered less onerous commitments in this regard.
+
+(114) The Amended Commitments should be made binding for a period of four years
+following notification of this Decision to Visa Europe. The duration envisaged by the
+Amended Commitments is long enough to allow for a significant change in market
+practices, while at the same time ensuring that the effects of the Amended
+Commitments on the market are re-assessed within a reasonable period of time.
+Current market trends, such as the migration to SEPA26 are expected to significantly
+change the conditions of competition in the EEA. Potential new entrants and
+technological innovations, such as the emergence or failure of online and mobile
+payments platforms can greatly contribute to this transformation. The likelihood of
+those developments may increase the tendency towards effective competition and
+downward pressure on MIFs in this market. In the light of this it appears that a period
+of four years is appropriate.
+
+(115) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that have responded to the Market Test Notice.
+
+(116) This Decision accordingly complies with the principle of proportionality.
+
+8. CONCLUSION
+
+(117) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes commitments, offered by the undertakings concerned to meet the
+Commission’s concerns expressed in its preliminary assessment, binding upon them.
+Recital 13 of Regulation (EC) No 1/2003 states that such a decision should not
+conclude whether or not there has been or still is an infringement. The Commission’s
+assessment of whether the commitments offered are sufficient to meet its concerns is
+based on its preliminary assessment, representing the preliminary view of the
+
+26 SEPA (Single Euro Payments Area) is an initiative set up by the European banking industry aimed at
+the creation of a fully integrated market for retail payment services in the euro area, with no distinction
+between cross-border and national payments in euro. In the context of card payments, a framework –
+that is to say, a set of high-level principles and rules- has been defined. The SEPA card framework will
+be implemented by individual card schemes, with the aim of establishing an integrated SEPA market
+where card-holders can make payments in euro abroad with the same ease and convenience as they do
+in their home countries. The attainment of this objective may lead to the replacement of the various
+national schemes with international schemes who already have a pan-euro dimension; to alliances
+between national schemes and international schemes with a view to covering the entire euro area, and to
+the entry of new pan-euro payment schemes in the market.
+
+EN 25 EN
+
+Commission based on the underlying investigation and analysis, and the observations
+received from third parties following the publication of the Market Test Notice.
+
+(118) In the light of the Amended Commitments offered, the Commission considers that
+there are no longer grounds for action on its part against Visa Europe and, without
+prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings in this case
+against Visa Europe should therefore be brought to an end. The Commission retains
+full discretion to investigate and open proceedings under Article 101 of the Treaty
+and Article 53 of the EEA Agreement as regards practices that are not the subject
+matter of this Decision.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Commitments listed in the Annex shall be binding on Visa Europe Limited for four years
+following notification of this Decision.
+
+Article 2
+
+It is hereby concluded that there are no longer grounds for action by the Commission in this
+case against Visa Europe Limited as regards Visa Europe Limited's Intra-EEA Credit
+multilaterally agreed interchange fees ('MIFs'), Domestic Credit MIFs set by Visa Europe
+Limited, Intra Visa Europe Non-EEA Credit and Debit MIFs, International MIFs and Visa
+Europe Limited's rule on the applicable MIF in the case of cross-border acquiring, and the
+proceedings against Visa Europe Limited should therefore be brought to an end.
+
+EN 26 EN
+
+Article 3
+
+This Decision is addressed to:
+
+Visa Europe Limited, 1 Sheldon Square, London W2 6TT, United Kingdom.
+
+Done at Brussels, 26.2.2014
+
+For the Commission
+Joaquín ALMUNIA
+Vice-President
+
+EN 27 EN

@@ -1,0 +1,441 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40669 – END-OF-LIFE
+VEHICLE RECYCLING
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) No 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 01/04/2025
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 1.4.2025
+C(2025) 1791 final
+
+COMMISSION DECISION
+
+of 1.4.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40669 - End-of-life vehicle recycling)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+0
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION........................................................................................................ 5
+2. THE INDUSTRY AND THE UNDERTAKINGS SUBJECT TO THE
+PROCEEDINGS .......................................................................................................... 6
+2.1. The legal framework .................................................................................................... 6
+2.2. The products and services concerned, market players and description of the markets 7
+2.3. Undertakings and association of undertakings subject to the proceedings ................ 10
+2.3.1. BMW .......................................................................................................................... 10
+2.3.2. Ford ............................................................................................................................ 10
+2.3.3. Honda ......................................................................................................................... 11
+2.3.4. Hyundai/Kia ............................................................................................................... 11
+2.3.5. Jaguar Land Rover ..................................................................................................... 11
+2.3.6. Mazda ......................................................................................................................... 12
+2.3.7. Mercedes-Benz ........................................................................................................... 12
+2.3.8. Mitsubishi ................................................................................................................... 13
+2.3.9. Opel and General Motors ........................................................................................... 13
+2.3.10. Renault/Nissan ........................................................................................................... 14
+2.3.11. Stellantis ..................................................................................................................... 15
+2.3.12. Suzuki ......................................................................................................................... 16
+2.3.13. Toyota ........................................................................................................................ 16
+2.3.14. Volkswagen ................................................................................................................ 17
+2.3.15. Volvo .......................................................................................................................... 17
+2.3.16. European Automobile Manufacturers’ Association (ACEA) .................................... 18
+3. PROCEDURE ........................................................................................................... 18
+4. DESCRIPTION OF THE EVENTS........................................................................... 20
+4.1. Organisation and structure of the contacts ................................................................. 20
+4.2. Content of the contacts ............................................................................................... 21
+4.3. The ELV Charta ......................................................................................................... 22
+4.4. Chronology of events ................................................................................................. 23
+4.5. Geographic scope of the conduct ............................................................................... 28
+4.6. Duration...................................................................................................................... 28
+5. LEGAL ASSESSMENT ........................................................................................... 28
+5.1. Jurisdiction ................................................................................................................. 28
+5.2. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 29
+5.2.1. Agreements and concerted practices .......................................................................... 29
+
+1
+
+5.2.1.1. Principles .................................................................................................................... 29
+5.2.1.2. Application to this case .............................................................................................. 29
+5.2.2. The specific role of ACEA ......................................................................................... 31
+5.2.3. Restriction of competition .......................................................................................... 31
+5.2.3.1. Principles .................................................................................................................... 31
+5.2.3.2. Application to this case .............................................................................................. 32
+5.2.4. Single and continuous infringement ........................................................................... 34
+5.2.4.1. Principles .................................................................................................................... 34
+5.2.4.2. Application to this case .............................................................................................. 37
+5.2.5. Effect upon trade between Member States and between EEA Contracting Parties ... 39
+5.2.5.1. Principles .................................................................................................................... 39
+5.2.5.2. Application to this case .............................................................................................. 40
+5.2.6. Conclusion.................................................................................................................. 40
+5.2.7. Non-applicability of Article 101(3) of the Treaty ...................................................... 40
+5.2.7.1. Principles .................................................................................................................... 40
+5.2.7.2. Application to this case .............................................................................................. 40
+6. DURATION OF PARTIES’ PARTICIPATION IN THE INFRINGEMENT .......... 40
+7. LIABILITY ................................................................................................................ 41
+7.1. Principles .................................................................................................................... 41
+7.2. Application to this case .............................................................................................. 42
+7.2.1. BMW .......................................................................................................................... 42
+7.2.2. Ford ............................................................................................................................ 42
+7.2.3. Honda ......................................................................................................................... 43
+7.2.4. Hyundai/Kia ............................................................................................................... 43
+7.2.5. Jaguar Land Rover ..................................................................................................... 44
+7.2.6. Mazda ......................................................................................................................... 45
+7.2.7. Mercedes-Benz ........................................................................................................... 46
+7.2.8. Mitsubishi ................................................................................................................... 46
+7.2.9. Opel and General Motors ........................................................................................... 46
+7.2.10. Renault/Nissan ........................................................................................................... 47
+7.2.11. Stellantis ..................................................................................................................... 48
+7.2.12. Suzuki ......................................................................................................................... 48
+7.2.13. Toyota ........................................................................................................................ 48
+7.2.14. Volkswagen ................................................................................................................ 49
+7.2.15. Volvo .......................................................................................................................... 49
+7.2.16. ACEA ......................................................................................................................... 50
+
+2
+
+8. REMEDIES ................................................................................................................ 50
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 50
+8.2. Article 23(2) of Regulation No 1/2003 ...................................................................... 50
+8.3. Calculation of the fines .............................................................................................. 51
+8.3.1. The value of sales ....................................................................................................... 51
+8.3.2. Determination of the basic amount of the fines ......................................................... 52
+8.3.2.1. Gravity........................................................................................................................ 53
+8.3.2.2. Duration...................................................................................................................... 53
+8.3.2.3. Determination of the additional amount .................................................................... 54
+8.3.2.4. Conclusion on the basic amount ................................................................................ 54
+8.3.3. Adjustments to the basic amount: Aggravating or mitigating factors........................ 55
+8.3.4. Application of the 10% turnover limit ....................................................................... 56
+8.3.5. Application of the Leniency Notice ........................................................................... 57
+8.3.6. Application of the Settlement Notice ......................................................................... 57
+8.3.7. ACEA ......................................................................................................................... 58
+
+3
+
+COMMISSION DECISION
+
+of 1.4.2025
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40669 - End-of-life vehicle recycling)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) and (3) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+Having regard to the Commission decisions of 09/09/2024 and 15/01/2025 to initiate
+proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union (the
+“Treaty”). The two sets of provisions are, in substance, identical. Pursuant to Article 5(3) of the Treaty
+of Lisbon, references in legal acts to Articles 81 and 82 of the EC Treaty are to be understood as
+references to Articles 101 and 102 of the Treaty when appropriate.
+2 OJ L 123, 27.4.2004, p. 18.
+
+4
+
+1. INTRODUCTION
+(1) This Decision (the “Decision”) relates to a single and continuous infringement of
+Article 101 of the Treaty and Article 53(1) of the Agreement on the European
+Economic Area (the “EEA Agreement”). The Addressees of this Decision
+participated in the infringement through which they agreed that matters related to
+End-of-Life Vehicles (“ELVs”) should be dealt with as a non-competitive issue.
+Specifically, they (i) agreed to align their position on the remuneration to be paid to
+authorised treatment facilities (“Authorised Treatment Facilities”)3 for the provision
+of services contracted by original equipment manufacturers (“OEMs”4) individually
+(the “Zero-Treatment-Cost” strategy) and (ii) agreed not to compete both in
+advertising Recoverability5 beyond regulatory requirements and in advertising the
+use of recyclates.6 The infringement lasted from 29 May 2002 until 4 September
+2017.
+(2) This Decision is addressed to the following legal entities (together referred to as the
+“Addressees”):
+(a) Bayerische Motoren Werke Aktiengesellschaft;
+(b) Ford-Werke GmbH, Ford Motor Company;
+(c) Honda Motor Europe Limited., Honda Motor Co., Ltd.;
+(d) Hyundai Motor Europe GmbH, Hyundai Motor Europe Technic
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ 637 000
+
+Mazda 5 006 000
+Thereof jointly with Ford 1 034 000
+
+Mercedes-Benz 0
+
+Mitsubishi 4 150 000
+Renault / Nissan 81 461 000185
+
+Opel and GM jointly 13 659 000
+Opel solely 10 871 000
+GM solely 17 075 000
+
+Stellantis 74 934 000
+
+Suzuki 5 471 000
+
+Toyota 23 553 000
+
+Volkswagen 127 696 000
+
+184 Of this sum, EUR 7 461 000 is attributable to Hyundai’s value of sales and EUR 4 489 000 is
+attributable to Kia’s value of sales.
+185 Of this sum, EUR 63 990 000 is attributable to Renault’s value of sales and EUR 17 471 000 is
+attributable to Nissan’s value of sales.
+
+58
+
+Volvo 8 890 000
+Thereof jointly with Ford 3 901 000
+Thereof jointly with Geely 4 419 000
+
+ACEA 500 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings and association of undertakings infringed Article 101 of the
+Treaty and Article 53 of the EEA Agreement by participating, during the periods indicated, in
+a single and continuous infringement consisting of conduct concerning the entire EEA
+through which they agreed that matters related to End-of-Life Vehicles should be dealt with
+as a non-competitive issue. Specifically, they (i) agreed to align their position on the
+remuneration to be paid to authorised treatment facilities for the provision of services
+contracted by original equipment manufacturers individually (the “Zero-Treatment-Cost”
+strategy) and (ii) agreed not to compete both in advertising recyclability and recoverability
+beyond regulatory requirements and in advertising the use of recyclates.
+(a) Bayerische Motoren Werke Aktiengesellschaft from 29 May 2002 to 4
+September 2017.
+(b) Ford-Werke GmbH, Ford Motor Company from 29 May 2002 to 4 September
+2017.
+(c) Honda Motor Europe Limited., Honda Motor Co., Ltd. from 29 May 2002 to 4
+September 2017.
+(d) Hyundai Motor Europe GmbH, Hyundai Motor Europe Technical Center
+GmbH, Hyundai Motor Company, Kia Europe GmbH and Kia Corporation
+from 2 March 2006 to 4 September 2017.
+(e) Jaguar Land Rover Limited, Jaguar Land Rover Holdings Limited, Tata Motors
+Limited from 23 September 2008 to 4 September 2017.
+(f) Mazda Motor Europe GmbH, Mazda Motor Corporation from 13 September
+2006 to 4 September 2017.
+(g) Mercedes-Benz Group AG from 29 May 2002 to 4 September 2017.
+(h) Mitsubishi Motors Europe B.V., Mitsubishi Motor R&D Europe GmbH,
+Mitsubishi Motors Corporation from 29 May 2002 to 4 September 2017.
+(i) Opel Automobile GmbH from 29 May 2002 to 4 September 2017.
+(j) General Motors Company from 10 July 2009 to 31 July 2017.
+(k) Renault s.a.s., Renault SA from 29 May 2002 to 4 September 2017.
+(l) Nissan Motor Manufacturing (UK) Limited, Nissan Automotive Europe SAS,
+Nissan Motor Co., Ltd from 29 May 2002 to 4 September 2017.
+(m) Stellantis N.V. from 29 May 2002 to 4 September 2017.
+(n) Suzuki Motor Corporation from 29 May 2002 to 4 September 2017.
+(o) Toyota Motor Europe NV/SA, Toyota Motor Corporation from 29 May 2002
+to 4 September 2017.
+
+59
+
+(p) Volkswagen Aktiengesellschaft from 29 May 2002 to 4 September 2017.
+(q) Volvo Car Corporation from 29 May 2002 to 4 September 2017.
+(r) Zhejiang Geely Holding Group Co., Ltd from 3 August 2010 to 4 September
+2017.
+(s) European Automobile Manufacturers’ Association from 29 May 2002 to 4
+September 2017.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) Bayerische Motoren Werke Aktiengesellschaft: EUR 24 587 000
+(b) Ford-Werke GmbH and Ford Motor Company jointly and severally liable:
+EUR 41 462 000
+(c) Honda Motor Europe Limited. and Honda Motor Co., Ltd. jointly and severally
+liable: EUR 5 040 000
+(d) Hyundai Motor Europe GmbH, Hyundai Motor Europe Technical Center
+GmbH, Hyundai Motor Company, Kia Europe GmbH and Kia Corporation
+jointly and severally liable: EUR 11 950 000
+(e) Jaguar Land Rover Limited, Jaguar Land Rover Holdings Limited and Tata
+Motors Limited jointly and severally liable: EUR 1 637 000
+(f) Mazda Motor Corporation, Mazda Motor Europe GmbH and Ford Motor
+Company jointly and severally liable: EUR 1 034 000
+(g) Mazda Motor Corporation and Mazda Motor Europe GmbH jointly and
+severally liable: EUR 3 972 000
+(h) Mercedes-Benz Group AG: EUR 0
+(i) Mitsubishi Motors Europe B.V., Mitsubishi Motor R&D Europe GmbH and
+Mitsubishi Motors Corporation jointly and severally liable: EUR 4 150 000
+(j) Opel Automobile GmbH and General Motors Company jointly and severally
+liable: EUR 13 659 000
+(k) Opel Automobile GmbH: EUR 10 871 000
+(l) General Motors Company: EUR 17 075 000
+(m) Renault s.a.s., Renault SA, Nissan Motor Manufacturing (UK) Limited, Nissan
+Automotive Europe SAS and Nissan Motor Co., Ltd jointly and severally
+liable: EUR 81 461 000
+(n) Stellantis N.V.: EUR 74 934 000
+(o) Suzuki Motor Corporation: EUR 5 471 000
+(p) Toyota Motor Europe NV/SA and Toyota Motor Corporation jointly and
+severally liable: EUR 23 553 000
+(q) Volkswagen Aktiengesellschaft: EUR 127 696 000
+(r) Volvo Car Corporation and Ford Motor Company jointly and severally liable:
+EUR 3 901 000
+
+60
+
+(s) Volvo Car Corporation and Zhejiang Geely Holding Group Co., Ltd jointly and
+severally liable: EUR 4 419 000
+(t) Volvo Car Corporation: EUR 570 000
+(u) European Automobile Manufacturers’ Association: EUR 500 000
+The fines shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE CENTRALE DU LUXEMBOURG
+2, Boulevard Royal
+L-2983 Luxembourg
+
+IBAN: LU27 9990 0001 1400 100E
+BIC: BCLXLULL
+Ref.: EC/BUFI/AT.40669
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an action pursuant to Article 263 of the Treaty is brought before the Court of Justice of
+the European Union against this Decision, the fine/fines shall be covered by its/their due date,
+either by providing an acceptable financial guarantee or by making a provisional payment of the
+fine in accordance with Article 108 of Regulation (EU, Euratom) 2024/2509 of the European
+Parliament and of the Council186.
+
+Article 3
+The undertakings and association of undertakings listed in Article 1 shall immediately bring
+the infringement referred to in that Article to an end, in so far as they have not already done
+so. They shall refrain in future from repeating any act or conduct described in Article 1 and
+from any act or conduct with the same or a similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+(1) Bayerische Motoren Werke Aktiengesellschaft, Petuelring 130, 80809
+München, Germany
+(2) Ford Motor Company, One American Road, Dearborn, Michigan 48126,
+United States of America
+(3) Ford-Werke GmbH, Henry-Ford-Straße 1, 50735 Köln, Germany
+(4) Honda Motor Co., Ltd., 2-1-1, Minami-Aoyama, Minato-ku, 107-8556 Tokyo,
+Japan
+(5) Honda Motor Europe Limited, Cain Road, Bracknell, Berkshire, RG12 1HL,
+United Kingdom
+
+186 Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September
+2024 on the financial rules applicable to the general budget of the Union, OJ L, 26.09.2024.
+
+61
+
+(6) Hyundai Motor Company, 12 Heolleung-ro Seocho-gu, Seoul 06797, South
+Korea
+(7) Hyundai Motor Europe GmbH, Kaiserleipromenade 5, 63067 Offenbach am
+Main, Germany
+(8) Hyundai Motor Europe Technical Center GmbH, Hyundai-Platz, 65428
+Rüsselsheim am Main, Germany
+(9) Kia Corporation, 12 Heolleung-ro Seocho-gu, Seoul 06797, South Korea
+(10) Kia Europe GmbH, Theodor-Heuss-Allee 11, 60486 Frankfurt am Main,
+Germany
+(11) Tata Motors Limited, Bombay House, 24 Homi Mody Street, Mumbai -
+Maharashtra, 400 001, India
+(12) Jaguar Land Rover Holdings Limited, Abbey Road, Whitley, Coventry, CV3
+4LF, United Kingdom
+(13) Jaguar Land Rover Limited, Abbey Road, Whitley, Coventry, CV3 4LF,
+United Kingdom
+(14) Mazda Motor Corporation, 3-1, Shinchi, Fuchu-cho, Aki-gun, Hiroshima, 730-
+8670, Japan
+(15) Mazda Motor Europe GmbH, Hitdorfer Strasse 73, 51371 Leverkusen,
+Germany
+(16) Mercedes-Benz Group AG, Mercedesstraße 120, 70372 Stuttgart, Germany
+(17) Mitsubishi Motors Corporation, 1-21, Shibaura 3-chome, Minato-ku, Tokyo
+108-8410, Japan
+(18) Mitsubishi Motors Europe B.V., Mitsubishi Avenue 21, 6121 SH Born, The
+Netherlands
+(19) Mitsubishi Motor R&D Europe GmbH, Diamantstr. 1, 65468 Trebur, Germany
+(20) Opel Automobile GmbH, Bahnhofsplatz 1, 65423 Rüsselsheim am Main,
+Germany
+(21) General Motors Company, 251 Little Falls Drive, Wilmington, DE 19808,
+United States of America
+(22) Renault SA, 122-122 bis, avenue du Général Leclerc, 92100 Boulogne-
+Billancourt, France
+(23) Renault s.a.s., 122-122 bis, avenue du Général Leclerc, 92100 Boulogne-
+Billancourt, France
+(24) Nissan Motor Co., Ltd., No. 2. Takara-cho, Kanagawa-ku, Yokohama,
+Kanagawa, 220-8623, Japan
+(25) Nissan Motor Manufacturing (UK) Limited, Washington Road, Sunderland,
+Tyne and Wear, SR5 3NS, United Kingdom
+(26) Nissan Automotive Europe SAS, 8, rue Jean Pierre Timbaud, 78180 Montignyle-Bretonneux, France
+(27) Stellantis N.V., Taurusavenue 1, 2132 LS Hoofddorp, The Netherlands
+(28) Suzuki Motor Corporation, 300 Takatsuka-Cho, Chuo-ku, Hamamatsu-Shi,
+Shizuoka 432-8611, Japan
+
+62
+
+(29) Toyota Motor Corporation, 1 Toyota-Cho, Toyota City, Aichi Prefecture 471-
+8571, Japan
+(30) Toyota Motor Europe NV/SA, Avenue Du Bourget 60, 1140 Brussels, Belgium
+(31) Volkswagen Aktiengesellschaft, Berliner Ring 2, 38440 Wolfsburg, Germany
+(32) Zhejiang Geely Holding Group Co., Ltd, 1760, Jiangling Road, Binjiang
+District Hangzhou, Zhejiang Province, P.R. China, 310051
+(33) Volvo Car Corporation, 40531 Gothenburg, Sweden
+(34) European Automobile Manufacturers' Association (“ACEA”), Robert
+Schumanplein 6, 1040 Brussels, Belgium
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 1.4.2025
+
+For the Commission
+
+(Signed)
+
+Teresa RIBERA
+Executive Vice-President
+
+63

@@ -1,0 +1,253 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XX0516(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XX0516(02)
+Help
+Print
+Final Report of the Hearing Officer — Visa MIF (AT.39398)
+Final Report of the Hearing Officer — Visa MIF (AT.39398)
+Final Report of the Hearing Officer — Visa MIF (AT.39398)
+OJ C 147, 16.5.2014, pp. 5–6
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+16.5.2014
+EN
+Official Journal of the European Union
+C 147/5
+Final Report of the Hearing Officer
+(
+1
+)
+Visa MIF (AT.39398)
+2014/C 147/05
+Introduction
+(1)
+The draft decision under Article 9(1) of Council Regulation (EC) No 1/2003
+(
+2
+)
+is addressed to Visa Europe Limited (‘Visa Europe’) and relates to part of the proceedings in Case AT.39398 – Visa MIF.
+(2)
+On 6 March 2008, following an
+ex officio
+investigation opened on 28 November 2006, the Commission initiated proceedings in relation to the setting of ‘multilaterally agreed interchange fees’ (‘MIFs’) applicable by default to cross-border and, in certain instances, domestic point-of-sale transactions carried out within the European Economic Area (‘EEA’) using VISA-branded payment cards.
+(3)
+Following a first Statement of Objections in 2009, the Commission adopted on 8 December 2010 a first decision pursuant to Article 9(1) of Regulation (EC) No 1/2003 that made binding on Visa Europe certain commitments with regard to intra-regional and certain domestic MIFs applicable to consumer immediate debit card transactions
+(
+3
+)
+. The Commission continued its investigations concerning consumer credit card MIFs.
+(4)
+On 31 July 2012, the Commission notified to Visa Europe a Supplementary Statement of Objections (the ‘SSO’) where it expressed, in substance, the preliminary view that the setting by the Visa scheme of MIFs and certain related rules applicable to transactions carried out using VISA-branded consumer credit cards where the merchant is located within the EEA could not be exempted from the prohibition laid down in Articles 101(1) TFEU and 53(1) EEA.
+Access to file
+(5)
+In August 2012, Visa Europe was granted access to the file via an access-to-file DVD. It requested further access to: (1) the results of a survey of acquiring banks carried out by the Commission in 2010 (the ‘Acquirer Survey’) and (2) documents concerning a study contracted out by the Commission in 2008 on ‘Costs and benefits to merchants of accepting different payment methods’ (the ‘Cost Study’).
+Data room access to the Acquirer Survey
+(6)
+In response to Visa Europe’s request, DG Competition proposed organising separate data rooms whereby Visa Europe’s external legal advisors would only have access to anonymised qualitative information submitted by acquiring banks in the context of the Acquirer Survey and its external economic advisors would only have access to quantitative information. Visa Europe’s external legal advisors accordingly obtained access in January 2013 to part of the acquiring banks’ information concerning ‘cross border acquiring’.
+(7)
+However, as regards the remainder of the acquiring banks’ information, Visa Europe disagreed with DG Competition on certain rules governing the terms of the data room access and referred the matter to me under Article 7 of Decision 2011/695/EU. In particular, Visa Europe asked me: (a) to allow disclosure to its external advisors of the country of each bank participating in the Acquirer Survey; (b) to modify the rule whereby external legal and economic advisors only had access to qualitative and quantitative data respectively.
+(8)
+I rejected request (a) as there was a serious risk that the identity of banks participating in the Acquirer Survey might be revealed if their countries of origin were disclosed. Moreover, Visa Europe had not shown that information on the countries of origin of those banks was indispensable for the exercise of its rights of defence. As regards (b), I concluded that Visa Europe’s external legal and economic advisors should be given access to all information in the data rooms, as the proposed access limitations did not appear justified in the circumstances of the case in order to safeguard confidential information and, on the other hand, it was important from the perspective of Visa Europe’s rights of defence that economic and legal advisors could consult each other on the documents accessed.
+Access to the Cost Study documents
+(9)
+In refusing access to the Cost Study documents, DG Competition considered that those documents did not form part of the Commission’s file, that they were not used or relied on in the SSO and that they did not contain any exculpatory elements. However, since the Cost Study tender specifications referred to the proceedings against Visa Europe and having regard to the definition in paragraph 8 of the Access to File Notice
+(
+4
+)
+, I concluded that the Cost Study documents form part of the Commission’s file. However, I noted that not all those documents had to be made accessible to Visa Europe. Correspondence between the Commission and its contractors on the evaluation of the contractors’ work and on financial aspects of the study, correspondence reflecting internal deliberations between the Commission and its experts, and other documents of a preliminary nature constitute internal (non-accessible
+(
+5
+)
+) documents.
+Deadline to respond to the SSO
+(10)
+Visa Europe replied to parts of the SSO in February 2013, DG Competition having extended the initial period of 12 weeks in which a reply had to be submitted.
+Commitments
+(11)
+On 10 May 2013, Visa Europe proposed commitments in order to meet the Commission’s concerns. On 14 June 2013, the Commission published a notice in accordance with Article 27(4) of Regulation (EC) No 1/2003
+(
+6
+)
+and received seventeen responses from interested third persons. Visa Europe submitted an amended commitment proposal in November 2013.
+(12)
+The draft Commission decision makes the commitments offered binding upon Visa Europe for four years. That decision concludes, in essence, that there are no longer grounds for action as regards the MIFs set by Visa Europe relating to transactions carried out within the EEA using VISA-branded consumer payment cards and Visa Europe’s rules on cross-border acquiring.
+(13)
+I have not received any request or complaint from any party to the proceedings with respect to the proposed commitments
+(
+7
+)
+.
+(14)
+In the light of all the above, I consider that the effective exercise of the procedural rights of all parties has been respected.
+Brussels, 19 February 2014.
+Wouter WILS
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+3
+)
+See my Final report of 26 November 2010 (
+OJ C 79, 12.3.2011, p. 6
+).
+(
+4
+)
+Commission Notice on the rules for access to the Commission file in cases pursuant to Articles 81 and 82 of the EC Treaty, Articles 53, 54 and 57 of the EEA Agreement and Council Regulation (EC) No 139/2004 (
+OJ C 325, 22.12.2005, p. 7
+).
+(
+5
+)
+Notice on Access to File, paragraph 12.
+(
+6
+)
+Communication of the Commission published pursuant to Article 27(4) of Council Regulation (EC) No 1/2003 in Case AT.39398 — VISA MIF (
+OJ C 168, 14.6.2013, p. 22
+).
+(
+7
+)
+According to Article 15(1) of Decision 2011/695/EU, parties to the proceedings offering commitments pursuant to Article 9 of Regulation (EC) No 1/2003 may call upon the hearing officer at any stage of the procedure in order to ensure the effective exercise of their procedural rights.
+Top

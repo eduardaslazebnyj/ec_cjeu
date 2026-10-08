@@ -1,0 +1,460 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 29.03.2006
+C(2006)734
+
+DECISION
+
+relating to proceedings under Article 82 of the Treaty
+and Article 54 of the EEA Agreement
+
+(Case COMP/E-1/38.113 – Prokent-Tomra)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+(text with EEA relevance)
+
+EN EN
+
+Commission Decision
+
+of
+
+relating to the proceeding under Article 82 of the Treaty and Article 54 of the EEA
+Agreement
+
+(Case COMP/E-1/38.113 – Prokent-Tomra)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002, on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, and
+in particular Article 7 (1) and Article 23 (2) thereof, 1
+
+Having regard to the complaint lodged by Prokent AG on 26 March 2001, alleging
+infringements of Article 82 of the Treaty and Article 54 of the EEA Agreement and
+requesting the Commission to put an end to those infringements,
+
+Having regard to the Commission Decision of 22 July 2004 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19 (1) of Regulation No 172,
+Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in
+certain proceedings under Articles 85 and 86 of the EC Treaty, Article 27 (1) of Regulation
+(EC) No 1/2003 and Articles 10 and 12 of Commission Regulation (EC) No 773/2004 of 7
+
+1 OJ L1, 04.01.2003, p. 1-25 Regulation as amended by Regulation (EC) No 411/2004 (L68, 6.3.2004,
+p.1)
+2 OJ 13, 21.2.1962, p. 204/62; the Regulation was repealed by Regulation (EC) No 1/2003. Article 34(2)
+of Regulation No 1/2003 states that procedural steps taken under Regulation No 17 are to continue to
+have effect for the purposes of applying Regulation 1/2003.
+
+EN EN
+
+April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81
+and 82 of the EC Treaty3,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case4
+
+Whereas:
+
+3 OJ L 123, 27.4.2004, p.18.
+4 OJ [..]
+
+EN EN
+
+I. FACTS
+
+A. THE PARTIES
+
+(1) The Tomra group (Tomra), the ultimate parent of which is Tomra Systems ASA
+(Asker, Norway), is active in the area of collecting used beverage containers. Its
+main activity within the EEA consists of the supply of so-called reverse vending
+machines (RVMs), and related products and services. In addition, Tomra
+provides, at least in some countries, data administration services to the material
+handling companies5, and to the local operators of deposit systems for nonrefillable beverage containers, i.e. accounting for deposit charges and handling
+fees on behalf of the retailers with regard to collection of non-refillable drink
+containers. In certain territories outside the EEA Tomra is also involved in other
+activities related to the collection and the recycling of used drink containers such
+as logistics management and materials processing.6 Tomra’s worldwide turnover
+was approximately EUR 273 million in 1999, EUR 342 million in 2000, EUR
+368 million in 2001 and EUR 336 million in 2002.7
+
+(2) Tomra operates on a worldwide level and has subsidiaries in all major markets
+worldwide. It had 1 886 employees in 2000, 1 994 in 2001 and 2 048 in 2002.
+Within the EEA at the time of the investigation Tomra had two production
+subsidiaries, one of them based in Norway and the other one based in Finland.8 It
+has distribution subsidiaries, inter alia, in Austria, Denmark, Finland, France,
+Germany, the Netherlands, Norway, Sweden, and since 2001 – in Belgium.9 The
+operations of these subsidiaries are coordinated by Tomra Europe AS, which is
+based in Asker, Norway. The Tomra group achieves about one third of its
+turnover within the EEA.
+
+(3) Untill its bankruptcy, Prokent AG (“Prokent”), the complainant, was based in
+Ilmenau, Germany. Like Tomra, it was a supplier of reverse vending machines
+and related products and services. It achieved a turnover of approximately EUR
+
+5 Companies that handle the material derived from processing of the non-refillable drink containers, e.g.
+cans, after the containers have been sorted, cleaned, shredded, flaked, crushed and bailed, in order to be
+recycled in a later stage.
+6 Page 5015, HSCH 2, p. 23, pages 7249-7252, Tomra’s reply of 14 February 2002, p. 15-18.
+7 Page 7309-3, Tomra’s reply of 14 February 2002, and page 10173-3, Tomra’s reply of 25 June 2003.
+Tomra’s turnover in NOK were as follows: 1998 – 1 456 million, 1999 – 2 169 million, 2000 – 2 718
+million, 2001 – 2 924 million, and in 2002 – 2 674 million. The currency conversions are made
+following the official exchange rate of the European Central Bank (ECB) on 6 January 2006. In its
+Annual Report for 2002 Tomra puts the reduction in 2002 down to currency exchange reasons, pages
+10068-1 to 10068-72, in particular pages 10068-5, 10068-6 and 10068-51.
+8 The latter one appears to have been phased out later. See Tomra’s presentation made to the
+Commission’s services on 30 March 2004, page 11116.
+9 The names of the subsidiaries are Tomra Butikksystemer AS (Norway), Tomra Systems AB (Sweden),
+Tomra System A/S (Denmark), Tomra Systems B.V. (Netherlands), Tomra Systems GmbH (Germany),
+Tomra Leergutsysteme GmbH (Austria), Tomra NV (Belgium), OY Tomra AB (Finland) and Tomra
+Systèmes SA (France).
+
+EN 4 EN
+
+2.3 million10 in 2000 and of approximately EUR 4.2 million11 in 2001. Prokent
+sold its products predominantly in Germany, but tried to enter other national
+markets as well. Following the bankruptcy of Prokent and subsequent acquisition
+of its assets by Wincor Nixdorf Technologies GmbH, based in Paderborn,
+Germany, in September 2003, the latter has carried on the former business of
+Prokent.
+
+B. THE COMPLAINT
+
+(4) On 26 March 2001 the Commission received a complaint from Prokent, asking
+the Commission to investigate whether Tomra had abused its dominant position
+by preventing Prokent’s access to the market. Prokent referred, in particular, to
+the agreements concluded by Tomra with the Dutch retail group Royal Ahold,
+Swedish ICA group (concluded in 2000), and the German Edeka Süd. The
+existence of these agreements was confirmed by press releases made by Tomra
+and by its 2000 Annual Report.
+
+C. THE PROCEEDINGS
+
+(5) Since there were indications that Tomra may have pursued anti-competitive
+practices aiming, in particular, at preventing market access and eliminating its
+competitors, the Commission conducted inspections pursuant to Article 14 (3) of
+Regulation No 17. The inspections were conducted at the premises of Tomra
+Systems GmbH, Germany, and Tomra Systems BV, the Netherlands. In addition,
+the Commission requested the EFTA Surveillance Authority to conduct
+inspections at the premises of Tomra Systems ASA and its subsidiaries in
+Norway. The inspections were carried out on 26 and 27 September 2001 on the
+basis of Commission decisions adopted on 20 September 2001 and decisions by
+the EFTA-Surveillance Authority of 19 September 2001. Following the
+inspections, the Commission sent requests for information to Tomra ASA, to
+several competitors and customers pursuant to Article 11 of Regulation No 17.
+
+(6) At the same time as the inspections took place, Tomra attempted to take over the
+complainant. The transaction did not materialise. In September 2003 Prokent
+filed for bankruptcy, and Tomra once again unsuccessfully tried to acquire it. In
+the end, Prokent’s assets were acquired by Wincor Nixdorf International GmbH.
+Since September 2003, Prokent’s RVM business has been carried on by Wincor
+Nixdorf Technologies GmbH, a subsidiary of Wincor Nixdorf AG, Paderborn
+(Germany).12
+
+(7) By letter to the Commission of 23 December 2002 Tomra declared that it would
+no longer resort to exclusivity or preferred supplier agreements, and would no
+longer apply rebates with a foreclosure effect.13 However, in some instances,
+Tomra continued to some extent its practice of maintaining exclusivity
+agreements and other exclusionary agreements. As will be demonstrated in this
+
+10 DEM 4.5 million. The official exchange rate of the European Central Bank (ECB),
+http://www.euro.ecb.int/en/section/conversion.html.
+11 DEM 8.3 million, the official exchange rate of the ECB on 6 January 2006.
+12 Page 11017-11020, letter by Wincor Nixdorf Technology GmbH of 26 September 2003.
+13 Pages 10000-10002, letter of 23 December 2002.
+
+EN 5 EN
+
+Decision, in particular in Section III, certain agreements, considered to be
+anticompetitive by the Commission, were applicable beyond this date such as the
+Global Agreement with [confidential: customer A in Sweden] which continued
+to be applicable in 2003 as well.14
+
+(8) On 30 March 2004 Tomra’s legal counsel submitted a competition compliance
+programme for the Tomra group which was to apply as of 1 April 2004.
+
+(9) On 1 September 2004 the Commission adopted a Statement of objections against
+Tomra Systems ASA, Tomra Europe AS and Tomra’s subsidiaries in six EEA-
+Contracting Parties, which was subsequently notified to the respective
+companies. Tomra responded to the Statement of objections on 22 November
+2004. A Hearing took place on 7 December 2004. In its response to the Statement
+of objections, Tomra corrected figures it had given to the Commission
+previously, provided new evidence and made other statements that were
+inconsistent with the information provided previously. Therefore additional
+requests for information were sent on 19 April 2005, to which Tomra replied on
+25 April and 3 May 2005.
+
+(10) According to Article 56 of the EEA Agreement, the Commission has
+competence to deal with this case and to adopt this decision. The Commission
+has come to the conclusion that Tomra is dominant both within the Community
+and within the EEA. Tomra’s turnover in the territory of the EFTA-States does
+not equal 33 per cent or more of its EEA turnover. Several of Tomra’s
+competitors are based and active in other Member States, and Tomra had a
+production subsidiary in a Member State. Tomra engaged in exclusionary
+conduct in several Member States and the abuses were aimed at and were capable
+of influencing the competitive structure within the Community. Therefore, this
+decision concerns a case where trade between EC Member States is affected.15
+
+(11) By letter of 14 March 2002 Tomra formally chose English as the language of
+the proceedings in this case.16
+
+II. ARTICLE 82 OF THE TREATY AND ARTICLE 54 OF THE EEA AGREEMENT
+
+A. DOMINANCE
+
+1. THE PRODUCTS, CUSTOMERS AND COMPETITORS
+
+The products
+
+(12) Tomra and its competitors supply so-called reverse vending machines (RVMs)
+and related products, in particular backroom equipment. They also provide
+services in relation to the products they sell such as maintenance and repair
+services. RVM suppliers may also be involved in other services related to the
+
+14 Page 10528 (confidential), [confidential: customer A in Sweden] reply of 1 July 2003.
+15 With regard to the question of affectation of trade see also Section IV.C below.
+16 Page 7414, a letter signed by the President and CEO of Tomra Systems ASA, and page 7446.
+
+EN 6 EN
+
+operation of deposit systems, consisting, in particular, of the administration of
+data. In this area Tomra is active in several territories, e.g. Norway, Sweden,
+Finland as well as countries outside the EEA.
+
+(13) Initially, RVMs were used exclusively for the collection of empty returnable or
+refillable drink containers. Later RVMs for the collection of disposable or nonrefillable containers were developed. Depending on their specifications, RVMs
+identify the incoming container according to particular parameters such as shape
+and/or bar code and calculate the deposit that is to be reimbursed to the customer.
+
+(14) Amongst the RVMs, the machines differ according to what kind of beverage
+containers they accept: only refillable drink containers or only non-refillable, or
+both.17 The most fundamental distinction between the different types of drink
+containers is that (i) refillable containers, when returned, are cleaned and then
+refilled, and (ii) non-refillable containers are returned in order to be recycled and
+in many countries are referred to as “one-way containers”. Non-refillable drink
+containers are collected by RVMs only in the territories where there is a deposit
+system for these types of drink containers. There is thus a clear link between the
+installation of RVM solutions and the prevalence of either a significant
+proportion of refillable containers and/or the existence of deposit schemes for
+non-refillable containers in a given territory. A deposit system is established by a
+state legislation under which a mandatory deposit on a drink container is charged
+for the purchase of drinks. The deposit amount is returned to the buyer when the
+empty container is brought back to a specific collection point, RVMs amongst
+others. Moreover, RVMs can accept individual containers or their crates.18
+
+(15) The type of RVM which is used depends, in particular, on the kind and volume
+of drink containers handled at a given installation site. Although there may be a
+potential demand and business opportunities with regard to other types of
+customers, RVMs of the kind supplied by Tomra and its competitors are installed
+predominantly in the food retail outlets, i.e. supermarkets of various sizes, the
+most significant customers being large retail groups. Particular types of RVMs
+are also found in canteens that are attached to schools, hospitals, private
+companies or public authorities, particularly in Germany.
+
+The competitors
+
+(16) Tomra began supplying RVMs in 1972 and has remained the market leader
+ever since. It has expanded steadily due to an increasing demand and through the
+acquisition of its competitors.
+
+(17) When new deposit systems are introduced in a particular country new suppliers
+try to enter the market. This occurred, for instance, in Sweden in 198419, and in
+
+17 Tomra offered upgrades to make the RVMs accepting only one type of containers (e.g. refillable drink
+containers) to accept other types (e.g. non-refillable containers). This is relevant, especially, in the
+context of the introduction of a new deposit system for cans and other non-refillable containers.
+18 RVMs accepting individual containers and their crates are called “combi-machines”. Page 7249,
+Tomra’s reply of 14 February 2002, p. 15, reply to question 4.
+19 Introduction of mandatory deposit on cans, page 7237-7238
+
+EN 7 EN
+
+Norway in 1999.20 With regard to the situation in 1984 and 1999, Tomra
+explained that most of the new entrants, however, were unable to meet the
+technical requirements and most of the remaining companies had to leave the
+market after a short period of time. Only Halton, which en
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ 44
+
+Quantity commitments leading to de facto total or partial exclusivity................................... 47
+
+Rebate schemes.................................................................................................................... 49
+
+(A) Netherlands ................................................................................................................... 50
+
+Exclusivity and quantity commitments................................................................................. 51
+
+[confidential: customer A in the Netherlands] ...................................................................... 51
+
+[confidential: customer B in the Netherlands] ...................................................................... 53
+
+[confidential: customer C in the Netherlands] ...................................................................... 53
+
+[confidential: customer D in the Netherlands] ..................................................................... 55
+
+[confidential: customer E in the Netherlands]....................................................................... 55
+
+[confidential: customer F in the Netherlands]....................................................................... 56
+
+[confidential: customer G in the Netherlands] ...................................................................... 57
+
+[confidential: customer H in the Netherlands] ...................................................................... 58
+
+[confidential: customer I in the Netherlands]........................................................................ 58
+
+[confidential: customer J in the Netherlands]........................................................................ 59
+
+[confidential: customer K in the Netherlands] ...................................................................... 59
+
+Attempted contracts............................................................................................................. 59
+
+Impact ............................................................................................................................... 60
+
+(B) Sweden.......................................................................................................................... 66
+
+Exclusivity and rebate schemes............................................................................................ 66
+
+[confidential: customer A in Sweden] .................................................................................. 66
+
+[confidential: customer B in Sweden]................................................................................... 68
+
+[confidential: customer C in Sweden]................................................................................... 70
+
+EN 161 EN
+
+Impact ............................................................................................................................... 72
+
+(C) Germany........................................................................................................................ 77
+
+Exclusivity, quantity commitments, discounts and rebates ................................................... 78
+
+[confidential: customer A in Germany] ................................................................................ 78
+
+[confidential: customer B in Germany] ................................................................................ 81
+
+[confidential: customer C in Germany] ................................................................................ 82
+
+[confidential: customer D in Germany] ................................................................................ 84
+
+[confidential: customer E in Germany]................................................................................. 85
+
+[confidential: customer F in Germany]]................................................................................ 86
+
+[confidential: customer H in Germany] ................................................................................ 88
+
+Attempted agreements.......................................................................................................... 88
+
+Impact ............................................................................................................................... 89
+
+(D) Austria........................................................................................................................... 94
+
+Exclusivity and quantity commitments, rebate schemes ....................................................... 94
+
+[confidential: customer A in Austria] ................................................................................... 94
+
+[confidential: customer B in Austria] ................................................................................... 95
+
+Pfeiffer/[confidential: customer C in Austria]....................................................................... 95
+
+[confidential: customer D in Austria] ................................................................................... 96
+
+[confidential: customer E in Austria].................................................................................... 97
+
+Impact ............................................................................................................................... 97
+
+(E) Norway........................................................................................................................ 100
+
+Exclusivity, quantity commitments and rebate schemes ..................................................... 101
+
+[confidential: customer A in Norway] ................................................................................ 101
+
+[confidential: customer B in Norway])............................................................................... 103
+
+[confidential: customer C in Norway] ................................................................................ 105
+
+[confidential: customer D in Norway] ................................................................................ 107
+
+Other agreements............................................................................................................... 109
+
+Impact ............................................................................................................................. 109
+
+C. General impact of Tomra’s practices ............................................................................. 113
+
+IV. Assessment of the practices described in Section III under Article 82 .......................... 116
+
+A. Exclusive or preferred supplier agreements or arrangements ......................................... 118
+
+EN 162 EN
+
+B. De facto total or partial exclusivity through quantity commitments and rebate schemes. 122
+
+Quantity commitments and unilateral conditions relating to specific quantities .................. 124
+
+Rebate schemes.................................................................................................................. 128
+
+C. Effect on trade............................................................................................................... 133
+
+D. Repercussions of Tomra’s practices For competition..................................................... 134
+
+Stable market share of Tomra............................................................................................ 135
+
+Weak position of the rivals................................................................................................ 137
+
+Relation between the tied market demand and the changes in position of the market players137
+
+Other observations ............................................................................................................. 138
+
+Conclusion......................................................................................................................... 139
+
+E. Possible justification/Tomra’s defence........................................................................... 139
+
+1. Cost savings................................................................................................................... 140
+
+2. Tomra argues that customers requested rebates and quantity discounts themselves......... 143
+
+3. Tomra argues there was no enforcement of agreements.................................................. 144
+
+4. Economic arguments invoked by Tomra to justify its rebate schemes............................. 145
+
+Off equilibrium assumptions.............................................................................................. 145
+
+Violation of individual rationality on the incumbent side ................................................... 146
+
+The need to distinguish between ex ante and ex post analysis............................................. 147
+
+Violation of Individual Rationality on the competitor side ................................................. 148
+
+Conclusion......................................................................................................................... 151
+
+5. Conclusion on possible justifications/Tomra’s defence................................................... 151
+
+F. Summary ....................................................................................................................... 151
+
+G. Liability for the Infringement and the Adressees of this Decision.................................. 152
+
+H. Remedies ..................................................................................................................... 155
+
+1. Article 15 (2) of Regulation No 17 and Article 23 (2) of Regulation (EC) No 1/2003..... 155
+
+2. The basic amount of the fine .......................................................................................... 155
+
+3. Aggravating and mitigating circumstances ..................................................................... 156
+
+4. Amount of the fine......................................................................................................... 156
+
+EN 163 EN

@@ -1,0 +1,372 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASES AT.40413 – Focus Home,
+AT.40414 – Koch Media, AT.40420 -
+ZeniMax, AT.40422 – Bandai Namco and
+AT.40424 - Capcom
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 20/01/2021
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN 1 EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 20.1.2021
+C(2021) 75 final
+
+COMMISSION DECISION
+
+of 20.1.2021
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the Agreement on the European Economic Area
+
+Cases AT.40413 - Focus Home, AT.40414 - Koch Media, AT.40420 – ZeniMax,
+AT.40422 – Bandai Namco and AT.40424 - Capcom
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN 2 EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 9
+2. The undertaking liable for the infringement and other undertakings relevant for this
+decision ...................................................................................................................... 10
+2.1. Valve .......................................................................................................................... 10
+2.2. Bandai [Case AT.40422] ............................................................................................ 10
+2.3. Capcom [Case AT.40424] .......................................................................................... 11
+2.4. Focus Home [Case AT.40413] ................................................................................... 11
+2.5. Koch Media [Case AT.40414] ................................................................................... 11
+2.6. ZeniMax [Case AT.40420] ........................................................................................ 11
+3. Procedure.................................................................................................................... 12
+4. Products concerned .................................................................................................... 13
+4.1. Overview of the PC video games industry ................................................................. 13
+4.1.1. Economic value of the gaming sector ........................................................................ 14
+4.1.2. The PC video games industry value chain ................................................................ 14
+4.1.2.1. Development of PC video games ............................................................................... 14
+4.1.2.2. Localisation of PC video games ................................................................................. 15
+4.1.2.3. Finalisation and release of PC video games ............................................................... 15
+4.1.2.4. Publishing, sale and distribution of PC video games ................................................. 15
+4.1.2.5. Rating and content-related legislation ....................................................................... 16
+4.1.2.6. Relevant EU copyright legal framework.................................................................... 17
+5. Relevant markets ........................................................................................................ 18
+5.1. Principles .................................................................................................................... 18
+5.2. Relevant product market ............................................................................................ 19
+5.2.1. Substitutability of video games running on different electronic systems .................. 19
+5.2.1.1. PC based games vs. console based games.................................................................. 20
+5.2.1.2. Mobile games vs. games on other electronic systems................................................ 21
+5.2.2. Substitutability of PC video games sold physically and digitally .............................. 21
+5.3. Relevant geographic market ....................................................................................... 22
+5.4. Conclusion on relevant markets ................................................................................. 23
+6. Conduct ...................................................................................................................... 23
+6.1. Overview of Valve’s business activity ....................................................................... 23
+6.1.1. Valve’s Steam platform.............................................................................................. 23
+6.1.2. Contractual relationship between Valve and PC video games publishers ................. 24
+6.1.3. Sale and activation of PC video games on Steam ...................................................... 26
+
+EN 3 EN
+
+6.1.4. Valve’s relationship with Steam users ....................................................................... 27
+6.1.5. Technical implementation of geo-blocking via Steam activation keys...................... 29
+6.1.6. Valve’s practice regarding geo-blocked keys ............................................................ 31
+6.1.6.1. Introduction ................................................................................................................ 31
+6.1.6.2. Evidence with regard to Bandai [Case AT.40422] .................................................... 32
+6.1.6.3. Evidence with regard to Capcom [Case AT.40424] .................................................. 33
+6.1.6.4. Evidence with regard to Focus Home [Case AT.40413] ........................................... 35
+6.1.6.5. Evidence with regard to Koch Media [Case AT.40414] ............................................ 36
+6.1.6.6. Evidence with regard to ZeniMax [Case AT.40420] ................................................. 38
+6.1.6.7. Conclusion ................................................................................................................. 38
+6.2. Agreements and/or concerted practices between Valve and the Publishers .............. 39
+6.2.1. Case AT.40422 – Bandai ........................................................................................... 39
+6.2.1.1. General description of the agreements/concerted practices ....................................... 39
+6.2.1.2. The SDA and the Steamworks Agreement between Valve and Bandai .................... 39
+6.2.1.3. Bandai’s PC video games geo-blocked via Steam activation keys ............................ 40
+6.2.2. Case AT.40424 – Capcom ......................................................................................... 42
+6.2.2.1. General description of the agreements/concerted practices ....................................... 42
+6.2.2.2. The SDAs between Valve and Capcom ..................................................................... 43
+6.2.2.3. Capcom PC video games geo-blocked via Steam activation keys ............................. 43
+6.2.3. Case AT.40413 – Focus Home .................................................................................. 47
+6.2.3.1. General description of the agreements/concerted practices ....................................... 47
+6.2.3.2. The SDAs and the Steamworks Agreement between Valve and Focus Home .......... 47
+6.2.3.3. Focus Home’s PC video games geo-blocked via Steam activation keys ................... 48
+6.2.4. Case AT.40414 – Koch Media ................................................................................... 53
+6.2.4.1. General description of the agreements/concerted practices ....................................... 53
+6.2.4.2. The SDA/Steamworks Agreement between Valve and Koch Media ........................ 53
+6.2.4.3. Koch Media’s PC video games geo-blocked via Steam activation keys ................... 54
+6.2.5. Case AT.40420 – ZeniMax ........................................................................................ 57
+6.2.5.1. General description of the agreements/concerted practices ....................................... 57
+6.2.5.2. The SDA between Valve and ZeniMax ..................................................................... 58
+6.2.5.3. ZeniMax PC video games geo-blocked via Steam activation keys ........................... 58
+6.3. Bilateral agreements between the Publishers (except Capcom) and certain of their
+respective distributors containing cross-border sales restrictions .............................. 62
+6.3.1. Introduction ................................................................................................................ 62
+6.3.2. Case AT.40422 – Bandai ........................................................................................... 62
+6.3.3. Case AT.40413 – Focus Home .................................................................................. 63
+
+EN 4 EN
+
+6.3.4. Case AT.40414 – Koch Media ................................................................................... 64
+6.3.4.1. Agreements between Koch Media and [...] ................................................................ 65
+6.3.4.2. Agreements between Koch Media and [...] ................................................................ 66
+6.3.5. Case AT.40424 – ZeniMax ........................................................................................ 67
+6.3.6. Conclusion.................................................................................................................. 68
+7. Legal assessment ........................................................................................................ 69
+7.1. The Treaty and the EEA Agreement .......................................................................... 69
+7.2. Relationship between the Treaty and the EEA Agreement ........................................ 69
+7.3. Jurisdiction ................................................................................................................. 69
+8. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 70
+8.1. Agreements and concerted practices .......................................................................... 70
+8.1.1. Principles .................................................................................................................... 70
+8.1.2. Application to the Cases............................................................................................. 72
+8.1.2.1. Introduction ................................................................................................................ 72
+8.1.2.2. Agreements and/or concerted practices between Valve and Bandai (Case AT.40422 –
+Bandai) ....................................................................................................................... 73
+8.1.2.3. Agreements and/or concerted practices between Valve and Capcom (Case AT.40424
+– Capcom) .................................................................................................................. 73
+8.1.2.4. Agreements and/or concerted practices between Valve and Focus Home (Case
+AT.40413 – Focus Home) .......................................................................................... 74
+8.1.2.5. Agreements and/or concerted practices between Valve and Koch Media (Case
+AT.40414 – Koch Media) .......................................................................................... 75
+8.1.2.6. Agreements and/or concerted practices between Valve and ZeniMax (Case
+AT.40420 – ZeniMax) ............................................................................................... 75
+8.1.2.7. Conclusion on agreements and concerted practices ................................................... 76
+8.2. Restriction of competition by object .......................................................................... 76
+8.2.1. Principles .................................................................................................................... 76
+8.2.1.1. Restrictions of cross-border sales............................................................................... 77
+8.2.1.2. IP rights and the assessment of restrictions of cross-border sales under Article 101 of
+the Treaty .................................................................................................................. 80
+8.2.2. Application to the Cases............................................................................................. 83
+8.2.2.1. Introduction ................................................................................................................ 83
+8.2.2.2. Content and objective of agreements and/or concerted practices between Valve and
+each of the Publishers ................................................................................................ 84
+8.2.2.3. Legal and economic context....................................................................................... 89
+8.2.3. Conclusion on restriction of competition by object ................................................... 94
+8.3. Single and continuous infringement........................................................................... 94
+
+EN 5 EN
+
+8.3.1. Principles .................................................................................................................... 94
+8.3.2. Application to the Cases............................................................................................. 96
+8.3.2.1. Introduction ................................................................................................................ 96
+8.3.2.2. Agreements/concerted practices between Valve and Bandai..................................... 97
+8.3.2.3. Agreements/concerted practices between Valve and Capcom................................... 98
+8.3.2.4. Agreements/concerted practices between Valve and Focus Home............................ 99
+8.3.2.5. Agreements/concerted practices between Valve and Koch Media .......................... 100
+8.3.2.6. Agreements/concerted practices between Valve and ZeniMax ............................... 101
+8.3.2.7. Conclusion................................................................................................................ 103
+8.4. Effect on trade between Member States and between Contracting Parties to the EEA
+Agreement and appreciable restriction of competition ............................................ 103
+8.4.1. Principles .....................................................................................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+SKW Stahl-
+Metallurgie Holding AG and SKW Stahl-Metallurgie GmbH v Commission, T-384/09,
+ECLI:EU:T:2014:27, paragraph 186.
+634 [...].
+635 See internal email of Bandai, “Merci de retirer les restrictions sur les territoires suivants, et demander
+à Steam de retirer les restrictions sur leur Store s'il y en a. PL/CZ/SK/HU Merci", [...].
+636 Footnote 585.
+637 [...].
+
+EN 132 EN
+
+(599) As indicated in Recital (524), the Commission rejects Valve’s claims that the
+infringement ended on 9 October 2014 when Valve refused to set up new activation
+restrictions. However even considering this as the end date of the infringement (quod
+non), this occurred after more than one year from the first RFI and after Valve had
+already received two other RFIs.638
+(c) Agreements/concerted practices between Valve and Focus Home (Case
+AT.40413)
+(600) While it is true that the agreements/concerted practices with Focus Home were not
+secret and that their termination took place on 9 October 2015, i.e., prior to the
+Commission initiating proceedings (on 2 February 2017), it took Valve two years
+from the first RFI (sent on 4 October 2013) to lift the activation restrictions in place.
+(601) As indicated in Recital (529), the Commission rejects Valve’s claims that the
+infringement ended on 25 March 2014 when Valve refused to set up new activation
+restrictions. However even considering this as the end date of the infringement (quod
+non), this occurred almost six months from the first RFI and after Valve had already
+received other two RFIs.639
+(d) Agreements/concerted practices between Valve and Koch Media (Case
+AT.40414)
+(602) While it is true that the agreements/concerted practices with Koch Media were not
+secret and that their termination took place on 9 October 2015, i.e., prior to the
+Commission initiating proceedings (on 2 February 2017), it took Valve two years
+from the first RFI (sent on 4 October 2013) to lift the activation restrictions in place.
+(603) As indicated in Recital (534), the Commission rejects Valve’s claims that the
+infringement ended on 9 October 2014 when Valve refused to set up new activation
+restrictions. However, even considering this as the end date of the infringement
+(quod non), this occurred one year from the first RFI and after Valve had already
+received other two RFIs.640
+(e) Agreements/concerted practices between Valve and ZeniMax (case AT.40420)
+(604) While it is true that the agreements/concerted practices with ZeniMax were not secret
+and that their termination took place on 9 October 2015, i.e., prior to the Commission
+initiating proceedings (on 2 February 2017), Valve stopped the practice only after
+two years from the first RFI (sent on 4 October 2013).
+11.5.6. Conclusion
+(605) Therefore, the Commission does not consider that Valve terminated the infringement
+as soon as the Commission intervened.
+(606) In light of the above, the Commission considers that there are no grounds for
+adjusting the basic amount for any of the five infringements on the basis of
+mitigating factors.
+
+638 Footnote 589.
+639 In particular, prior to the opening of the proceedings against Valve which took place on
+2 February 2017, Valve received three request for information (“RFI”) under Article 18.2 and one under
+Article 18.3 of Regulation 1/2003. [...].
+640 Footnote 639.
+
+EN 133 EN
+
+11.6. Application of the 10% turnover limit
+(607) Article 23(2) of the Regulation (EC) No 1/2003 provides that the fines imposed on
+each undertaking shall not exceed 10% of its total turnover relating to the business
+year preceding the date of the Commission Decision. The legal maximum applies per
+infringement.
+(608) The fines for each of the five infringements set out in Recital (609) do not exceed
+10% of Valve’s total turnover in the business year preceding the date of the adoption
+of this Decision641.
+11.7. Conclusion: final amount of individual fines
+(609) In light of the foregoing the fines imposed on Valve Corporation pursuant to Article
+23(2) of Regulation (EC) No 1/2003 are as follows:642
+
+Infringement Fine
+
+Case AT. 40422 – Bandai Valve Corporation: EUR 31 000
+
+Case AT. 40424 – Capcom Valve Corporation: EUR 90 000
+
+Case AT. 40413 – Focus Home Valve Corporation: EUR 102 000
+
+Case AT. 40414 – Koch Media Valve Corporation: EUR 308 000
+
+Case AT. 40420 – ZeniMax Valve Corporation: EUR 1 093 000
+
+Total Valve Corporation: EUR 1 624 000
+
+12. CONCLUSION
+(610) In light of the considerations set out in this Decision, the Commission finds that
+Valve has infringed Article 101 of the Treaty and Article 53 of the EEA Agreement
+by concluding and implementing bilateral agreements/concerted practices with
+respectively Bandai, Capcom, Focus Home, Koch Media and ZeniMax to set up
+activation restrictions and provide the related geo-blocked Steam activation keys which
+were used to restrict cross-border sales of a number of PC video games within the EEA.
+Accordingly, fines are to be imposed on Valve pursuant to Article 23(2) of
+Regulation (EC) No 1/2003.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+(1) Valve Corporation infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, from 13 March 2012 to 22 April 2014, in a single and
+continuous infringement covering the whole of the EEA by entering into
+
+641 [...].
+642 The final amount of the fine is rounded down.
+
+EN 134 EN
+
+agreements/concerted practices with Bandai to set up activation restrictions and/or
+provide the related geo-blocked Steam activation keys which were used to restrict
+cross-border sales of a number of PC video games within the EEA.
+(2) Valve Corporation infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, from 13 February 2013 to 17 November 2014, in a
+single and continuous infringement covering the whole of the EEA consisting in
+agreements/concerted practices with Capcom to set up activation restrictions and/or
+provide the related geo-blocked Steam activation keys which were used to restrict
+cross-border sales of a number of PC video games within the EEA.
+(3) Valve Corporation infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, from 17 May 2013 to 9 October 2015, in a single and
+continuous infringement covering the whole of the EEA by entering into
+agreements/concerted practices with Focus Home to set up activation restrictions
+and/or provide the related geo-blocked Steam activation keys which were used to
+restrict cross-border sales of a number of PC video games within the EEA.
+(4) Valve Corporation infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, from 23 August 2011 to 9 October 2015, in a single and
+continuous infringement covering the whole of the EEA by entering into
+agreements/concerted practices with Koch Media to set up activation restrictions
+and/or provide the related geo-blocked Steam activation keys which were used to
+restrict cross-border sales of a number of PC video games within the EEA.
+(5) Valve Corporation infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, from 27 September 2010 to 9 October 2015, in a single
+and continuous infringement covering the whole of the EEA by entering into
+agreements/concerted practices with ZeniMax to set up activation restrictions and /or
+provide the related geo-blocked Steam activation keys which were used to restrict
+cross-border sales of a number of PC video games within the EEA.
+
+Article 2
+(1) For the infringement referred to in Article 1(1) a fine of EUR 31 000 is imposed on
+Valve Corporation:
+(2) For the infringement referred to in Article 1(2) a fine of EUR 90 000 is imposed on
+Valve Corporation:
+(3) For the infringement referred to in Article 1(3) a fine of EUR 102 000 is imposed on
+Valve Corporation:
+(4) For the infringement referred to in Article 1(4) a fine of EUR 308 000 is imposed on
+Valve Corporation:
+(5) For the infringement referred to in Article 1(5) a fine of EUR 1 093 000 is imposed
+on Valve Corporation:
+The fines shall be credited, in euros, within six months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+EN 135 EN
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.:
+- for the infringement referred to in Article 1(1): EC/BUFI/AT.40422
+- for the infringement referred to in Article 1(2): EC/BUFI/AT.40424
+- for the infringement referred to in Article 1(3): EC/BUFI/AT.40413
+- for the infringement referred to in Article 1(4): EC/BUFI/AT.40414
+- for the infringement referred to in Article 1(5): EC/BUFI/AT.40420
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+Where the undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fines by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fines in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046 of the European Parliament and of the Council.643
+
+Article 3
+Valve Corporation shall refrain from repeating any act or conduct described in Article 1, and
+from any act or conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to Valve Corporation, 10400 NE 4th Street, Suite 1400 Bellevue,
+Washington 98004, United States of America.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels,
+
+For the Commission
+
+Margrethe VESTAGER
+Executive Vice-President
+
+643 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+EN 136 EN

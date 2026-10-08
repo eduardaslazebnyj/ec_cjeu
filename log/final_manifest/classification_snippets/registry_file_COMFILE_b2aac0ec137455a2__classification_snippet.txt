@@ -1,0 +1,552 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40481 – Occupant Safety
+Systems (II) supplied to the Volkswagen
+Group and the BMW Group
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 05/03/2019
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 5.3.2019
+C(2019) 1656 final
+
+COMMISSION DECISION
+
+of 5.3.2019
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40481 - Occupants Safety Systems (II) supplied to the Volkswagen Group and the
+BMW Group)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 5
+
+2. The industry subject to the proceedings in this Decision ............................................. 5
+
+2.1. The products ................................................................................................................. 5
+
+2.2. Undertakings subject to the proceedings...................................................................... 6
+
+2.2.1. AUTOLIV .................................................................................................................... 6
+
+2.2.2. TAKATA ..................................................................................................................... 6
+
+2.2.3. TRW ............................................................................................................................. 7
+
+3. Procedure ...................................................................................................................... 7
+
+4. Description of the conduct ........................................................................................... 9
+
+4.1. Nature, scope and duration of the conduct ................................................................... 9
+
+4.1.1. Infringement I: supply of certain OSS to the VW Group .......................................... 10
+
+4.1.2. Infringement II: supply of certain OSS to the BMW Group ...................................... 11
+
+4.2. Geographic scope of the conduct ............................................................................... 11
+
+5. Legal Assessment ....................................................................................................... 12
+
+5.1. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 12
+
+5.1.1. Agreements and concerted practices .......................................................................... 12
+
+5.1.1.1. Principles .................................................................................................................... 12
+
+5.1.1.2. Application in this Decision ....................................................................................... 13
+
+5.1.2. Single and continuous infringement........................................................................... 14
+
+5.1.2.1. Principles .................................................................................................................... 14
+
+5.1.2.2. Application in this Decision ....................................................................................... 15
+
+5.1.3. Restriction of competition .......................................................................................... 16
+
+5.1.3.1. Principles .................................................................................................................... 16
+
+5.1.3.2. Application in this Decision ....................................................................................... 16
+
+5.1.4. Effect upon trade between Member States and Contracting Parties to the EEA
+Agreement .................................................................................................................. 17
+
+5.1.4.1. Principles .................................................................................................................... 17
+
+5.1.4.2. Application in this Decision ....................................................................................... 17
+
+EN 1 EN
+
+5.1.5. Non-applicability of Article 101(3) of the Treaty and Article 53(3) of the EEA
+Agreement .................................................................................................................. 17
+
+5.1.5.1. Principles .................................................................................................................... 17
+
+5.1.5.2. Application in this Decision ....................................................................................... 18
+
+6. Liability ...................................................................................................................... 18
+
+6.1. Principles .................................................................................................................... 18
+
+6.2. Application in this Decision ....................................................................................... 19
+
+6.2.1. AUTOLIV .................................................................................................................. 19
+
+6.2.2. TAKATA ................................................................................................................... 20
+
+6.2.3. TRW ........................................................................................................................... 20
+
+7. Duration of the participation of the parties in the infringements ............................... 21
+
+8. Remedies .................................................................................................................... 21
+
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 21
+
+8.2. Article 23(2) of Regulation (EC) No 1/2003 ............................................................. 22
+
+8.3. Calculation of the fines .............................................................................................. 22
+
+8.3.1. The value of sales ....................................................................................................... 23
+
+8.3.2. Determination of the basic amount of the fines ......................................................... 24
+
+8.3.2.1. Gravity........................................................................................................................ 24
+
+8.3.2.2. Duration...................................................................................................................... 24
+
+8.3.2.3. Determination of the additional amount .................................................................... 25
+
+8.3.2.4. Calculation of the basic amount ................................................................................. 25
+
+8.3.3. Adjustments to the basic amount: aggravating or mitigating factors ......................... 26
+
+8.4. Application of the 10% of turnover limit ................................................................... 26
+
+8.5. Application of the Leniency Notice ........................................................................... 26
+
+8.5.1. Infringement I – supply of certain OSS to the VW Group ........................................ 26
+
+8.5.1.1. Immunity from fines .................................................................................................. 26
+
+8.5.1.2. Partial immunity ......................................................................................................... 26
+
+8.5.1.3. Reduction of fines ...................................................................................................... 27
+
+8.5.2. Infringement II – supply of certain OSS to the BMW Group .................................... 28
+
+8.5.2.1. Immunity from fines .................................................................................................. 28
+
+8.5.2.2. Reduction of fines ...................................................................................................... 28
+
+EN 2 EN
+
+8.6. Application of the Settlement Notice ......................................................................... 29
+
+8.7. Application of point 37 of the Guidelines on Fines ................................................... 29
+
+8.8. Conclusion: final amount of individual fines to be imposed ..................................... 29
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 5.3.2019
+
+relating to proceedings under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.40481 - Occupants Safety Systems (II) supplied to the Volkswagen Group and the
+BMW Group)
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 10a thereof,
+
+Having regard to the Commission Decision of 7 July 2017 to initiate proceedings in this case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The Treaty also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market".
+2 OJ L 123, 27.4.2004, p. 18.
+
+EN 4 EN
+
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) This Decision concerns two single and continuous infringements of Article 101 of
+the Treaty on the Functioning of the European Union (the ‘Treaty') and Article 53 of
+the Agreement on the European Economic Area (the ‘EEA Agreement'). The
+infringements consisted of exchanging commercially sensitive information and, in
+some instances price coordination, in respect of supplies of occupants safety systems
+products for certain passenger cars to companies belonging to the Volkswagen and
+Porsche Group (''VW Group'') and to the BMW and Mini Group (''BMW Group'').
+The infringements took place between [...] with respect to the VW Group, and
+between [...] with respect to the BMW Group.
+
+(2) This Decision is addressed to the following undertakings and legal entities, each of
+which participated in the two infringements referred to in recital (1):
+
+(a) Autoliv, Inc. and Autoliv B.V. & Co. KG (together referred to as
+"AUTOLIV")4;
+
+(b) Takata Corporation and Takata Aktiengesellschaft (together referred to as
+"TAKATA")5;
+
+(c) ZF TRW Automotive Holdings Corp., TRW Automotive Safety Systems
+GmbH and TRW Automotive GmbH (together referred to as "TRW").
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS IN THIS DECISION
+
+2.1. The products
+
+(3) The products concerned by the conduct are seatbelts, airbags and/or steering
+wheels (Occupants Safety Systems (‘OSS’)) for certain passenger cars supplied to
+companies belonging to the VW Group and to the BMW Group.
+
+(4) Seatbelts are safety straps designed to secure the occupants of a vehicle against
+harmful movement that may result from a collision or a sudden stop. Cars are
+equipped with front and rear seatbelts, driver and passenger seatbelts.
+
+(5) An airbag consists of a flexible fabric envelope or cushion designed to inflate rapidly
+during an automobile collision. Its purpose is to protect occupants' bodies from
+striking interior objects such as the steering wheel or a window during a crash.
+Modern vehicles may contain multiple airbag modules, namely driver airbags
+(DAB), passenger airbags (PAB), side airbags (SAB), curtain airbags (CAB) and/or
+
+3 Final report of the Hearing Officer of 01.03.2019.
+4 Also referred to as “AL” in footnotes.
+5 Also referred to as “TK” in footnotes.
+
+EN 5 EN
+
+knee airbags (KAB). Airbags are normally designed with the intention of
+supplementing the protection of an occupant who is correctly restrained with a
+seatbelt.
+
+(6) A steering wheel is a type of steering control in vehicles. In passenger cars, it is
+generally circular and mounted to the steering column, in front of the driver's seat.
+Modern steering wheels normally contain the driver airbag.
+
+(7) The main customers of OSS are car manufacturers, also called Original Equipment
+Manufacturers (‘OEM’s). OEMs typically source OSS by way of tenders, that is to
+say requests for quotations (‘RFQ’). OEMs can tender for different brands, single
+models or specific types of products.
+
+2.2. Undertakings subject to the proceedings
+
+(8) The following undertakings, comprising the legal entities referred to in Sections
+2.2.1 to 2.2.3 were involved in the infringements described in Section 4 below.
+
+2.2.1. AUTOLIV
+
+(9) AUTOLIV is a manufacturer of car safety equipment worldwide, producing
+components such as seatbelts, airbags, anti-whiplash systems, and safety electronics6.
+Other products include roll-over protection systems, steering wheels (with airbags),
+night vision systems, radar systems, and child seats. For the fiscal year ending 31
+December 2017, the worldwide consolidated turnover of AUTOLIV amounted to
+USD 10.38 billion or approximately EUR 9.2 billion.
+
+(10) The relevant legal entities of the Autoliv group that the Commission regards, for the
+purposes of this Decision, as constituting a single undertaking at the time of the
+infringements are:
+
+– Autoliv, Inc. having registered offices at 1209 Orange Street, City of
+Wilmington, County of Newcastle, State of Delaware, U.S.A. and European
+h
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n. In particular, TRW provided
+valuable contemporaneous evidence (internal e-mails, calendar entries, handwritten
+notes and direct e-mail exchanges) corroborating its participation in the infringement
+with TAKATA and AUTOLIV. TRW is therefore granted a reduction of 50% of the
+fine that would otherwise have been imposed for Infringement II.
+
+(125) AUTOLIV was the second undertaking to meet the requirements of points (24) and
+(25) of the Leniency Notice as regards Infringement II. On 7 July 2017 the
+Commission informed AUTOLIV of its intention to grant AUTOLIV a leniency
+reduction within the range of 20% to 30% of any fine that would otherwise have
+been imposed for Infringement II. Pursuant to recital (18) AUTOLIV applied for
+leniency at an early stage in the procedure, one month after having been inspected
+and submitted62 evidence of Infringement II which represents significant added value
+with respect to the evidence already in the Commission’s possession. In particular,
+AUTOLIV provided valuable contemporaneous evidence (internal e-mails, minutes
+of cartel meetings and direct e-mail exchanges) corroborating its participation in the
+
+61 [...]
+62 As of [...]
+
+EN 28 EN
+
+infringement with TAKATA and TRW. AUTOLIV is therefore granted a reduction
+of 30% of the fine that would otherwise have been imposed for Infringement II.
+
+8.6. Application of the Settlement Notice
+
+(126) In accordance with point (32) of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+application of a 10% of turnover limit in accordance with the Guidelines on Fines.
+Pursuant to point (33) of the Settlement Notice, when settled cases also involve
+leniency applicants, the reduction of the fine is added to the reduction for those
+applicants’ cooperation under the Leniency Notice.
+
+(127) Consequently, the amount of the fines to be imposed on each party should be further
+reduced by 10%.
+
+8.7. Application of point 37 of the Guidelines on Fines
+
+(128) Point 37 of the Guidelines on Fines provides that the Commission may depart from
+the methodology set out in the Guidelines where it is justified by the particularities of
+a given case. The general principle of Union law that decisions following
+administrative proceedings relating to competition policy must be adopted within a
+reasonable time must be respected. The reasonableness of the period, however,
+depends on the specific circumstances of each case.
+
+(129) The Commission considers that, given the circumstances of this case, the
+investigation was carried out within a reasonable period. However, even though the
+anticompetitive conduct was far from being prescribed under Article 25 of
+Regulation (EC) 1/2003, the fact that the Commission decided to separate its
+investigations of the OSS-related infringements into two separate proceedings63, led
+to a total period of investigation which was longer than what it would have been had
+there been no separation ofthe investigation. The Commission considers that
+separation to be an exceptional factor which justifies a reduction of the fine to be
+imposed on each of the addressees. That consideration is made by the Commission in
+the exercise of its discretion when setting fines and does not affect the finding that
+the reasonable time principle was not infringed in this case64.
+
+(130) Consequently, the amount of the fines after leniency and settlement reductions to be
+imposed on each party should be further reduced by 5%.
+
+8.8. Conclusion: final amount of individual fines to be imposed
+
+(131) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in the following Tables 9 and 10:
+
+63 See also Commission Decision C(2017) 7670 final of 22.11.2017 in case AT.39881 – Occupant Safety
+Systems supplied to Japanese Car Manufacturers while the present Decision concerns Occupants
+Safety Systems supplied to the VW and BMW Groups
+64 See T-276/04 Compagnie Maritime Belge ECLI:EU:T:2008:237, paragraph 46
+
+EN 29 EN
+
+Table 9 - Fines – Infringement I
+
+Infringement Undertaking Amount (EUR)
+TAKATA 0
+
+I AUTOLIV 121 211 000
+
+TRW 158 824 000
+
+Table 10 – Fines – Infringement II
+
+Infringement Undertaking Amount (EUR)
+TAKATA 0
+
+II AUTOLIV 58 175 000
+
+TRW 30 067 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, for the periods indicated in this Article, in a single and continuous
+infringement covering the whole of the European Economic Area consisting of the exchange
+of certain commercially sensitive information and in some instances price coordination
+concerning the sale of certain occupants safety systems for passengers cars to the Volkswagen
+Group:
+
+(a) TKJP Corporation (formerly Takata Corporation) and TB Deu Abwicklungs-
+Aktiengesellschaft i.L. (formerly Takata Aktiengesellschaft), from 4 January
+2007 to 30 March 2011;
+
+(b) Autoliv, Inc. and Autoliv B.V. & Co. KG, from 4 January 2007 to 30 March
+2011;
+
+(c) ZF TRW Automotive Holdings Corp. (formerly TRW Automotive Holdings
+Corp.), TRW Automotive Safety Systems GmbH and TRW Automotive
+GmbH, from 4 January 2007 to 28 March 2011.
+
+Article 2
+
+The following undertakings have infringed Article 101 of the Treaty and Article 53 of the EEA
+Agreement by participating, for the periods indicated in this Article, in a single and continuous
+infringement covering the whole of the European Economic Area consisting of the exchange
+of certain commercially sensitive information and in some instances price coordination
+concerning the sale of certain occupants safety systems for passengers cars to the BMW
+Group:
+
+EN 30 EN
+
+(a) TKJP Corporation (formerly Takata Corporation) and TB Deu Abwicklungs-
+Aktiengesellschaft i.L. (formerly Takata Aktiengesellschaft), from 28 February
+2008 to 17 February 2011;
+
+(b) Autoliv, Inc. and Autoliv B.V. & Co. KG, from 28 February 2008 to 16
+September 2010; and
+
+(c) ZF TRW Automotive Holdings Corp. (formerly TRW Automotive Holdings
+Corp.), TRW Automotive Safety Systems GmbH and TRW Automotive
+GmbH, from 5 June 2008 to 17 February 2011.
+
+Article 3
+
+(1) For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) on TKJP Corporation (formerly Takata Corporation) and TB Deu
+Abwicklungs-Aktiengesellschaft i.L. (formerly Takata Aktiengesellschaft),
+jointly and severally, the sum of EUR 0;
+
+(b) on Autoliv, Inc. and Autoliv B.V. & Co KG., jointly and severally:, the sum of
+EUR 121 211 000 ;
+
+(c) on ZF TRW Automotive Holdings Corp. (formerly TRW Automotive Holdings
+Corp.), TRW Automotive Safety Systems GmbH and TRW Automotive
+GmbH, jointly and severally, the sum of EUR 158 824 000.
+
+(2) For the infringement referred to in Article 2, the following fines are imposed:
+
+(a) on TKJP Corporation (formerly Takata Corporation) and TB Deu
+Abwicklungs-Aktiengesellschaft i.L. (formerly Takata Aktiengesellschaft),
+jointly and severally, the sum of EUR 0;
+
+(b) on Autoliv, Inc. and Autoliv B.V. & Co. KG, jointly and severally, the sum of
+EUR 58 175 000;
+
+(c) on ZF TRW Automotive Holdings Corp. (formerly TRW Automotive Holdings
+Corp.), TRW Automotive Safety Systems GmbH and TRW Automotive
+GmbH, jointly and severally, the sum of EUR 30 067 000.
+
+EN 31 EN
+
+The fines shall be credited, in euro, within three months of the date of notification of this
+Decision to the following bank account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1–2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Ref.: European Commission – BUFI/AT.40481
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Articles 1 or 2 lodges an appeal, that undertaking shall
+cover the fine by the due date, either by providing an acceptable financial guarantee or by
+making a provisional payment of the fine in accordance with Article 108 of Regulation (EU,
+Euratom) 2018/1046 of the European Parliament and of the Council65.
+
+Article 4
+
+The undertakings listed in Articles 1 and 2 shall immediately bring to an end the infringements
+referred to in those Articles insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Articles 1 and 2, and from any
+act or conduct having the same or similar object or effect.
+
+Article 5
+
+This Decision is addressed to:
+TKJP Corporation (formerly Takata Corporation),
+2-3-9 Shiba, Minato-ku, Tokyo, Japan
+
+TB Deu Abwicklungs-Aktiengesellschaft i.L. (formerly Takata Aktiengesellschaft),
+Bahnweg 1, 63743 Aschaffenburg, Germany
+
+65 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the Union, amending Regulations (EU) No
+1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU)
+No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing
+Regulation (EU, Euratom) No 966/2012 (OJ L 193 of 30.7.2018).
+
+EN 32 EN
+
+Autoliv, Inc.,
+1209 Orange Street, City of Wilmington, County of Newcastle, State of Delaware, U.S.A.
+
+Autoliv B.V. & Co. KG,
+Otto-Hahn-Straße 4, 25337 Elmshorn, Germany
+
+ZF TRW Automotive Holdings Corp. (formerly TRW Automotive Holdings Corp.),
+12001 Tech Center Drive, Livonia, Michigan 48150, United States of America
+
+TRW Automotive Safety Systems GmbH,
+Hefner-Alteneck-Straße 11, 63473 Aschaffenburg, Germany;
+
+TRW Automotive GmbH,
+Industriestraße 20, 73553 Alfdorf, Germany.
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+
+Done at Brussels, 5.3.2019
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 33 EN

@@ -1,0 +1,535 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE COMP/39600-Re/rigeration
+compressors
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+Date: 7/12/2011
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[... ].
+
+EUROPEAN COMMISSION
+
+Brussels, 7.12.2011
+C(2011) 8923 final
+
+COMMISSION DECISION
+
+of 7.12.2011
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+(COMP/39600 -.Refrigeration Compressors)
+
+Only the English text is authentic
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION ........................................................................................................ 4
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS ........................................... .4
+2.1. Tue product ................................................................................................................... 4
+2.2. Tue undertakings subject to the proceedings ................................................................ 5
+2.2.1. ACC .............................................................................................................................. 5
+2.2.2. Danfoss ......................................................................................................................... 5
+2.2.3. Embraco ........................................................................................................................ 5
+2.2.4. Panasonic ...................................................................................................................... 6
+2.2.5. Tecumseh ...................................................................................................................... 6
+3. PROCEDURE .............................................................................................................. 6
+4. DESCRIPTION OF THE EVENTS ............................................................................. 8
+4.1. Nature and scope of the infringement .......................................................................... 8
+4.2. Geographic scope of the cartel ................................................................................... 10
+4.3. Duration ...................................................................................................................... 10
+5. APPLICATION OF ARTICLE 101(1) OF THE TREATY AND ARTICLE 53(1) OF
+THE EEA AGREEMENT .......................................................................................... 10
+5.1. Jurisdiction ................................................................................................................. 10
+5.2. Tue nature of the infringement ................................................................................... 10
+5.2.1. Principles .................................................................................................................... 10
+5.2.2. Application to this case .............................................................................................. 11
+5.3. Restriction of competition .................................................................................. :....... 12
+5.4. Effect upon trade between Union Member States and between EEA Contracting
+Parties ......................................................................................................................... 13
+5.5. Non-applicability of Article 101(3) of the Treaty and Article 53 (3) of the EEA
+Agreement .................................................................................................................. 13
+6. ADDRESSEES ........................................................................................................... 13
+6.1. ACC ............................................................................................................................ 14
+6.2. Danfoss ....................................................................................................................... 14
+6.3. Embraco ...................................................................................................................... 14
+
+1EN EN
+
+6.4. Panasonic .................................................................................................................... 14
+6.5. Tecumseh .................................................................................................................... 14
+7. DURATION OF THE INFRINGEMENT ................................................................. 14
+8. REMEDIES ................................................................................................................ 15
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 15
+8.2. Article 23(2) of Regulation (EC) No 1/2003 .............................................................. 15
+8.3. Basic amount of the fine ............................................................................................. 16
+8.3.l. Calculation ofthe value ofsales ................................................................................. 16
+8.3 .2. Determination of the basic amount of the fine ........................................................... 17
+8.3.2.1. Gravity ........................................................................................................................ 17
+8.3.2.2. Duration ...................................................................................................................... 17
+8.3.3. Determination of the additional amount.. ................................................................... 18
+8.3.4. Calculations and conclusions on basic amounts ......................................................... 18
+8.4. Adjustments to the basic amount of the fine .............................................................. 19
+8.4.1. Aggravating circumstances ........................................................................................ 19
+8.4.2. Mitigating circumstances ............................................................................................ 19
+8.4.3. Specific increase for deterrence .................................................................................. 19
+8.5. Application of the 10% turnover limit. ....................................................................... 20
+8.6. Application of the Leniency Notice ........................................................................... 20
+8.6.1. Immunity from fines ................................................................................................... 20
+8.6.2. Reduction offines ....................................................................................................... 20
+8.7. Application of the Settlement Notice ......................................................................... 21
+8.8. Ability to Pay .............................................................................................................. 21
+8.9. Conclusion: final amount of individual fines to be imposed in this Decision ............ 21
+
+2EN EN
+
+COMMISSION DECISION
+
+of 7.12.2011
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+(COMP/39600 -Refrigeration Compressors)
+
+Only the English text is authentic
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2,
+and in particular Article 1Oa thereof,
+
+Having regard to the Commission decision of 13 October 2010 to initiate proceedings in this
+case,
+
+OJ LI, 4.1.2003, p. I. With effect from I December 2009, Article 81 of the EC Treaty has become
+Article 101 of the Treaty on the Functioning of the European Union ("the Treaty"). The provisions are,
+in substance, identical. For the purposes of this Decision, references to Article 101 of the Treaty should
+be understood as references to Article 81 of the EC Treaty, where appropriate. The Treaty also
+introduced certain changes in terminology, such as the replacement of "Community" by "Union" and
+"common market" by "internal market". Where the meaning remains unchanged, the terminology of the
+Treaty will be used throughout this Decision.
+2 OJ L 123, 27.4.2004, p. 18. Regulation (EC) No 773/2004 of 7 April 2004 has been amended by
+Commission Regulation (EC) No 622/2008 of 30 June 2008 as regards the conduct of settlement
+procedures in cartel cases, (OJ L 171, 1.7.2008, p. 3).
+
+3EN EN
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+
+(I) The addressees of this Decision ("the parties") participated in a single and
+continuous infringement of Article 101 of the Treaty and Article 53 of the European
+Economic Agreement ("the EEA Agreement"). The infringement covered the entire
+territory of the EEA and lasted from 13 April 2004 until 9 October 2007.
+
+(2) This Decision is addressed to the following companies:
+
+(a) Appliances Components Companies S.p.A. and Elettromeccanica S.p.A.
+("ACC");
+
+(b) Danfoss A/S and Danfoss Flensburg GmbH (formerly Danfoss Compressors
+GmbH) ("Danfoss");
+
+(c) Whirlpool S.A. and Embraco Europe S.r.1. ("Embraco");
+
+(d) Panasonic Corporation ("Panasonic");
+
+(e) Tecumseh Products Company Inc., Tecumseh do Brasil Ltda. and Tecumseh
+Europe S.A. ("Tecumseh").
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1. The product
+
+(3) The products concerned by the anti-competitive conduct are small hermetic
+reciprocating compressors (maximum 1.5 horsepower or "HP") that are used
+predominantly in the domestic refrigeration and freezing ("R and F") segment, but
+also in the commercial segment ("household and commercial compressors").
+Household compressors are used in household appliances such as fridges and
+freezers. Commercial compressors up to 1.5 HP are installed in commercial
+
+Final report of the Hearing Officer ofS.12.2011.
+
+4EN EN
+
+equipment, such as vending machines, display cabinets, ice cream coolers, coldrooms, etc., which are used by restaurants, bars, petrol stations, supermarkets, etc. 4
+
+2.2. The undertakings subject to the proceedings
+
+2.2.1. ACC
+
+( 4) The relevant legal entities are:
+
+(a) Appliances Components Companies S.p.A. having its registered office at Via
+Lino Zanussi 11, 33170 Pordenone, Italy; and
+
+(b) Elettromeccanica S.p.A. having its registered office at Via Lino Zanussi 11,
+33170 Pordenone, Italy.
+
+(5) ACC's world-wide turnover is approximately EUR 407 million. It produces
+household refrigeration compressors and industrial motors.
+
+2.2.2. Danfoss
+
+( 6) The relevant legal entities are:
+
+(a) Danfoss A/S having its registered office at Nordborgvej 81, 6430 Nordborg,
+Denmark; and
+
+(b) Danfoss Flensburg GmbH (formerly Danfoss Compressors GmbH) having its
+registered office at Mads-Clausen-Strasse 7, 24939 Flensburg, Germany.
+(7) Danfoss's world-wide turnover is approximately EUR 4.2 billion.5 In the relevant
+period, it was mainly active in the following business areas: (a) Refrigeration and
+Air-Conditioning; (b) Heating and Water; (c) Motion Controls; and (d) Mobile
+Hydraulics.
+
+2.2.3. Embraco
+
+(8) The relevant legal entities are:
+
+(a) Whirlpool S.A. having its registered office at Avenida das Na9oes Unidas,
+12.995, 32° andar, Brooklin, Silo Paulo-SP, 04578-000, Brasil; and
+
+(b) Embraco Europe S.r.1. having its registered office at Piazza Solferino,20,
+10121 Torino, Italy.
+
+(9) Embraco's world-wide turnover is approximately EUR 4.1 billion. It produces
+household appliances, such as washing machines, refrigerators. It also manufactures
+refrigeration compressors.
+
+4 Compressors used for air-conditioning are not concerned by the anticompetitive conduct.
+In this Decision I billion equals I 000 million.
+
+5EN EN
+
+2.2.4. Panasonic
+
+(10) The legal entity concerned is:
+
+Panasonic Corporation (formerly Matsushita) having its registered office at
+1006 Kadoma, Kadoma City, Osaka 571-8501, Japan.
+
+(11) Panasonic's world-wide turnover is approximately EUR 76.8 billion. It manufactures
+electronics and electronic products and sells compressors through its Refrigeration
+Devices Business Unit.
+
+2.2.5. Tecumseh
+
+(12) The relevant legal entities are:
+
+(a) Tecumseh Products Company Inc. having its registered office at 1136 Oak
+Valley Dr. Ann Arbor, Michigan 48108, the United States of America;
+
+(b) Tecumseh do Brasil Ltda. having its registered office at Rua Jose Augusto de
+Oliveira Salles, 478, Sao Carlos - SP. 13565-900, Brazil; and
+
+(c) Tecumseh Europe S.A. having its registered office at Plate-forme Logistique, 2
+Avenue Blaise Pascal, Site Prologis Bat. B, 38090 Vaulx-Milieu, France.
+
+Tecumseh's world-wide turnover is approximately EUR 704 million. It produces
+refrigeration and air-conditioning compressors.
+
+3. PROCEDURE
+
+(13) [ ... ] Tecumseh applied for immunity under the Commission notice on Immunity
+from fines and reduction of fines in cartel cases6 ("the Leniency Notice").
+Tecumseh's immunity application was followed by a number of submissions [ ... ]. On
+11 February 2009, the Commission granted Tecumseh conditional immunity from
+fines pursuant to point 8(a) of the Leniency Notice.
+
+(14) In February 2009, the Commission carried out unannounced inspections at the
+premises of ACC, Danfoss and Embraco.
+
+(15) [ ... ] Panasonic submitted an application for immunity and alternatively for a
+reduction of fines under the Leniency Notice. Panasonic supplemented its
+application[ ... ].
+
+(16) [ ... ] ACC and [ ... ]Embraco submitted applications for immunity and alternatively
+for a reduction of fines under the Leniency Notice. Both undertakings supplemented
+their applications[ ... ].
+
+(17) [ ... ], Danfoss submitted an application for a reduction of fines under the Leniency
+Notice[ ... ].
+
+6 OJ c 298, 8.12.2006, p. 17.
+
+6EN EN
+
+(18) As of November 2009, the Comm
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+requirements in the Leniency Notice. Tecumseh is, therefore, granted
+immunity from fines in this case.
+
+8.6.2. Reduction offines
+
+(90) [ ... ] Panasonic applied for a reduction of fines based on the Leniency Notice.
+Panasonic has provided with its leniency application several pieces of
+contemporaneous evidence which strengthened the Commission's ability to prove the
+case and added significant value to the Commission's investigation, in particular as
+regards the first six months of its participation.[ ... ]. Consequently, a reduction of the
+fine of 40 % is granted to Panasonic.
+
+(91) [ ... ] ACC submitted a leniency application. ACC provided to the Commission
+contemporaneous evidence of a compelling nature. The new evidence submitted by
+ACC added significant value to the evidence already in the Commission's possession.
+This evidence strengthened the Commission's ability to prove the alleged cartel.
+ACC's further cooperation was, however, of a more limited nature. Consequently a
+reduction of the fine of25% is granted to ACC.
+
+(92) [ ... ] Embraco applied for leniency. Embraco provided the Commission with further
+new contemporaneous evidence and corroborating evidence of a detailed nature.
+Furthermore, Embraco's oral statements significantly contributed to the
+Commission's investigation into the functioning of the cartel. Therefore, the evidence
+provided by Embraco further strengthened the Commission's ability to prove the
+alleged cartel. Furthermore, Embraco provided particularly detailed records of the
+infringement. Consequently, Embraco is granted a reduction of the fine of20%.
+
+49 Point 30 of the Guidelines on fines.
+EN 20 EN
+
+(93) [ ... ] Danfoss applied for a reduction of the fine. Danfoss provided to the
+Commission evidence that contributed to the establishment of the cartel activities and
+illuminated the general functioning of the cartel. Furthermore, Danfoss submitted
+evidence that corroborated evidence already in the Commission's possession.
+Therefore, Danfoss submitted further evidence that further strengthened the
+Commission's ability to prove the cartel. Consequently, Danfoss is granted a
+reduction of the fine of 15%.
+
+8. 7. Application of the Settlement Notice
+
+(94) In accordance with point 32 of the Settlement Notice, the reward for settlement
+results in a reduction of 10% of the amount of the fine to be imposed on a party after
+the 10% of turnover cap has been applied having regard to the Guidelines on fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement will be added to
+their leniency reward.
+
+(95) As a result of the application of the Settlement Notice, the amount of the fine to be
+imposed on ACC, Danfoss, Embraco and Panasonic is reduced by 10%.
+
+8.8. Ability to Pay
+
+(96) According to point 35 of the Guidelines on fines, 'In exceptional cases, the
+Commission may, upon request, take account of the undertaking's inability to pay in
+a specific social and economic context. [. . .] A reduction could be granted solely on
+the basis of objective evidence that the imposition of the fine as provided for in these
+Guidelines would irretrievably jeopardise the economic viability of the undertaking
+concerned and cause its assets to lose all their value.' In exercising its discretion
+under point 3 5 of the 2006 Guidelines on fines, the Commission carries out an
+overall assessment of the undertaking's financial situation, with the primary focus on
+the undertaking's capacity to pay the fine in a specific social and economic context.
+
+(97) Only ACC invoked its 'inability to pay' under point 35 of the Guidelines on fines.
+ACC's inability to pay claim should be accepted because ACC has shown that the
+imposition of the fine in the full amount would irretrievably jeopardise its economic
+viability and cause its assets to lose their value. ACC's distressed financial situation
+brought it under the insolvency scheme according to Article 67 of the Italian
+bankruptcy law. [ ... ] The fine in the full amount would frustrate the ongoing
+financial restructuring of the group, and hence lead to its insolvency.
+
+(98) On the basis of the financial data and information submitted by ACC and in order to
+avoid the imposition of a fine which is very likely to irretrievably jeopardise the
+economic viability of ACC, the final amount of the fine imposed on ACC is reduced
+to EUR 9 million in application of point 35 of the Guidelines on fines.
+
+8.9. Conclusion: final amount of individual fines to be imposed in this Decision
+
+(99) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 4.
+
+21 ENEN
+
+Table 4: Fines
+
+Undertaking Fines (in EUR)
+
+ACC 9 000 000
+
+Danfoss 90 000 000
+
+Embraco 54 530 000
+
+Panasonic 7 668 000
+
+Tecumseh 0
+
+HAS ADOPTED THIS DECISION:
+
+Article I
+
+The following undertakings infringed Article 101 of the Treaty and Article 53 of the Agreement
+on the European Economic Area by participating, during the periods indicated below, in anticompetitive practices with a view to restricting price competition within the European
+Economic Area in the market for small hermetic reciprocating compressors (maximum 1.5
+horsepower or "HP"):
+
+(a) Appliances Components Companies S.p.A. and Elettromeccanica S.p.A. from
+13 April 2004 to 9 October 2007;
+
+(b) Danfoss A/S and Danfoss Flensburg GmbH (formerly Danfoss Compressors
+GmbH) from 13 April 2004 to 9 October 2007;
+
+(c) Whirlpool S.A. and Embraco Europe S.r.1. from 13 April 2004 to 9 October
+2007;
+
+(d) Panasonic Corporation (formerly Matsushita) from 13 April 2004 to 15
+November 2006;
+
+(e) Tecumseh Products Company Inc., Tecumseh do Brasil Ltda. and Tecumseh
+Europe S.A. from 13 April 2004 to 9 October 2007.
+
+Article 2
+
+For the infringement referred to in Article I, the following fines are imposed on:
+
+(a) Appliances Components Companies S.p.A. and Elettromeccanica S.p.A.,
+jointly and severally: EUR 9 000 000;
+
+(b) Danfoss A/S and Danfoss Flensburg GmbH (formerly Danfoss Compressors
+GmbH), jointly and severally: EUR 90 000 000;
+
+EN 22 EN
+
+(c) Whirlpool S.A. and Embraco Europe S.r.J., jointly and severally:
+EUR 54 530 000;
+
+(d) Panasonic Corporation (formerly Matsushita): EUR 7 668 000
+
+(e) Tecumseh Products Company Inc., Tecumseh do Brasil Ltda. and Tecumseh
+Europe S.A., jointly and severally: EUR 0
+
+The fines shall be paid in euro within three months of the date of notification of this Decision to
+the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1-2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Ref: European Commission - BUFVCOMP/39600
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fine by the due date by either providing an acceptable bank guarantee or making a
+provisional payment of the fine in accordance with Article 85a(l) of Commission Regulation
+(EC, Euratom) No 2342/200250•
+
+Article 3
+
+1. The fine imposed on the undertakings listed in point (a) of Article 2 may be paid in
+instalments provided that 1/3 of the fine amount is paid within three months of the
+date of notification of this Decision. The remaining amount, including interest
+calculated for the whole payment period in accordance with paragraph 2 of this
+Article, shall be paid in two equal annual instalments, on the anniversary of the first
+payment.
+
+2. The outstanding amounts of the fine imposed on the undertakings listed in point (a) of
+Article 2 shall bear interest. The interest shall be calculated at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the
+month in which this Decision is adopted, plus 1.5 percentage points.
+
+50 OJ L 357, 31.12.2002, p. I.
+23 ENEN
+
+3. The outstanding amounts of the fine imposed on the undertakings listed in point (a) of
+Article 2, interest included, shall be covered by an acceptable bank guarantee, issued
+by a bank with an AA-rating and situated within the European Union.
+
+T)le undertakings listed in point (a) of Article 2 may, at any time, replace that bank
+guarantee, in whole or in part, by a payment for some or all of the amount outstanding.
+
+Article 4
+
+The undertakings listed in Article I shall immediately bring to an end the infringement
+referred to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article I, and from any act or
+conduct having the same or similar object or effect.
+
+Article 5
+
+This Decision is addressed to:
+
+(a) Appliances Components Companies S.p.A., Via Lino Zanussi 11, 33170 Pordenone,
+Italy
+
+(b) Elettromeccanica S.p.A., Via Lino Zanussi 11, 33170 Pordenone, Italy
+
+(c) Danfoss A/S, Nordborgvej 81, 6430 Nordborg, Demnark
+
+(d) Danfoss Flensburg GmbH, Mads-Clausen-Strasse 7, 24939 Flensburg, Germany.
+
+(e) Whirlpool S.A., Avenida das Na«;oes Unidas, 12.995, 32° andar, Brooklin, Siio Paulo-
+SP, 04578-000, Brazil
+
+(f) Embraco Europe S.r.1., Piazza Solferino, 20, 10121 Torino, Italy.
+
+(g) Panasonic Corporation, 1006 Kadoma, Kadoma City, Osaka 571-8501, Japan
+
+(h) Tecumseh Products Company Inc., 1136 Oak Valley Dr. Ann Arbor, Michigan 48108,
+United States of America.
+
+(i) Tecumseh do Brasil Ltda., Rua Jose Augusto de Oliveira Salles, 478, Sao Carlos - SP.
+13565-900, Brazil
+
+(j) Tecumseh Europe S.A., Plate-forme Logistique, 2 Avenue Blaise Pascal, Site Prologis
+Bat. B, 38090 Vaulx-Milieu, France.
+
+24EN EN
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 1 IO of the
+Agreement on the European Economic Area.
+
+Done at Brussels,
+
+For the Commission
+
+Vice-President
+
+25 ENEN

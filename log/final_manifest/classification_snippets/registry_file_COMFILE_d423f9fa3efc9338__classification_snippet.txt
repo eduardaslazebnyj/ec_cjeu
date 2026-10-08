@@ -1,0 +1,511 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 16/10/2003
+
+K(2003) 3703 endg.
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 16/10/2003
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+(Sachen COMP D3/35470 - ARA, COMP D3/35473 – ARGEV, ARO)
+
+(Nur der deutsche Text ist verbindlich)
+
+(Text von Bedeutung für den EWR)
+
+1
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 16/10/2003
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+(Sachen COMP D3/35470 - ARA, COMP D3/35473 – ARGEV, ARO)
+
+(Nur der deutsche Text ist verbindlich)
+(Text von Bedeutung für den EWR)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN -
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Akte über den Beitritt Österreichs, Finnlands und Schwedens,
+
+gestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar 1962, Erste
+Durchführungsverordnung zu den Artikeln 85 und 86 des Vertrages1, zuletzt geändert durch
+die Verordnung (EG) Nr. 1216/1999 2, insbesondere auf die Artikel 2, 6 und 8,
+
+auf die Anträge auf Negativattest bzw. Freistellung der dem ARA-System zugrundeliegenden
+Vereinbarungen durch die Altstoff Recycling Austria AG (ARA) und die ARGEV
+Verpackungsverwertungs-Ges.m.b.H. (ARGEV) vom 30. Juni 1994 und durch die ARA, die
+ARGEV und die Altpapier-Recycling-Organisations GmbH vom 31. August 2001,
+
+im Hinblick auf die Beschwerde der FRS Folien-Rücknahme-Service GmbH &Co KG und
+der Raiffeisen Umweltgesellschaft m.b.H. vom 8. Mai 1996 , mit der Zuwiderhandlungen
+gegen die Artikel 81 und 82 EG-Vertrag beanstandet werden sowie beantragt wird, dass die
+Kommission die Zuwiderhandlungen abstellt, und die von der EVA Erfassen und Verwerten
+von Altstoffen GmbH am 27. April 2000 wiederaufgenommen und ergänzt wurde,
+
+auf den Beschluss vom 24. Juli 2002 in dieser Sache ein Verfahren einzuleiten,
+
+nach Aufforderung aller betroffenen Dritten zur Äußerung gemäß Artikel 19 Absatz 3 der
+Verordnung Nr. 17 3,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+
+in Kenntnis des Abschlussberichts des Anhörungsbeauftragten in dieser Sache4
+
+1 ABl. 13 vom 21.2.1962, S. 204/62.
+2 ABl L 148 vom 15.6.1999, S.5.
+3 ABl C 252 vom 19.10.2002, S. 2.
+
+2
+
+in Erwägung nachstehender Gründe:
+
+I. EINFÜHRUNG
+
+(1) Am 30. Juni 1994 meldeten die Altstoff Recycling Austria AG (ARA) und die
+ARGEV Verpackungsverwertungs-Ges.m.b.H. (ARGEV), beide mit Sitz in Wien,
+Österreich, einige Vereinbarungen bei der EFTA-Überwachungsbehörde an und
+beantragten ein Negativattest oder hilfsweise eine Entscheidung über die Freistellung
+vom Kartellverbot.
+
+(2) Mit Schreiben vom 21. März 1995 übertrug die EFTA die Zuständigkeit für die
+Prüfung der angemeldeten Vereinbarungen auf die Kommission.
+
+(3) ARA organisiert in Österreich ein flächendeckendes Sammel- und Verwertungssystem
+für Verpackungen. Das System dient der Erfüllung der Vorgaben der Verordnung des
+österreichischen Bundesministers für Umwelt, Jugend und Familie über die
+Vermeidung und Verwertung von Verpackungsabfällen und bestimmten Warenresten
+und die Einrichtung von Sammel- und Verwertungssystemen 5 (VerpackVO). Zu
+diesem Zweck schließt ARA Entsorgungsverträge mit sogenannten
+Branchenrecyclinggesellschaften (BRG), denen dadurch die Organisation der
+Sammlung, der Sortierung, des Transports und der Verwertung der Verpackungen
+übertragen wird. Die BRG, zu denen auch ARGEV zählt, sind jeweils für bestimmte
+Packstoffe oder Packstoffgruppen zuständig. Sie schließen ihrerseits Verträge mit
+Unternehmen oder Gebietskörperschaften, welche die tatsächliche Sammlung,
+Sortierung, den Transport und die Verwertung leisten. ARA und die BRG bilden
+zusammen das ARA-System.
+
+(4) Mit Schreiben vom 28. August 2001 meldete ARA weitere Vereinbarungen bei der
+Kommission an, mit dem Ziel, ein Negativattest oder hilfsweise eine Entscheidung
+über die Freistellung vom Kartellverbot zu erlangen. Zudem beantragten ARA und
+ARGEV die Zusammenlegung ihrer Anmeldeverfahren. Gleichzeitig teilte die
+Altpapier-Recycling-Organisations GmbH (ARO) mit, dass sie als Anmelderin von
+Vereinbarungen der bestehenden Anmeldung beitrete.
+
+(5) Die Anmeldung betrifft Vereinbarungen, die sämtlich der Funktionsweise des ARA-
+Systems zugrunde liegen.
+
+(6) Am 8. Mai 1996 brachte die FRS Folien-Rücknahme-Service GmbH & Co KG sowie
+die Raiffeisen Umweltgesellschaft m.b.H. eine Beschwerde bei der Kommission ein
+(COMP/A.36011/D3) im Hinblick auf die geplante Gründung eines
+Gemeinschaftsunternehmens zum Aufbau eines Sammel- und Verwertungssystems für
+Verpackungen. Diese Beschwerde wurde jedoch in der Folgezeit von den
+ursprünglichen Beschwerdeführerinnen nicht weiter betrieben, da sie ihre
+gemeinsamen Beteiligungsabsichten am Aufbau des Systems aufgegeben hatten. Mit
+Schreiben vom 27. April 2000 hat EVA Erfassen und Verwerten von Altstoffen
+GmbH mit Sitz in Wien (EVA), das inzwischen gegründete
+
+4 ABl C
+5 BGBl. Nr. 648/1996.
+
+3
+
+Gemeinschaftsunternehmen, als neue Beschwerdeführerin unter Bezugnahme auf die
+schon von den früheren Beschwerdeführerinnen genannten Aspekte die Beschwerde
+gegen die Gesellschaften des ARA-Systems wiederaufgenommen und ergänzt. EVA
+ist nunmehr eine 100 %-ige Tochtergesellschaft der INTERSEROH Aktiengesellschaft
+zur Verwertung von Sekundärrohstoffen mit Sitz in Köln.
+
+(7) Ferner hat sich die Bundeskammer für Arbeiter und Angestellte mit Beschwerde vom
+24. März 1994 an die EFTA-Überwachungsbehörde sowie – nach Abtretung des
+Verfahrens an die Kommission – mit auf die genannte Beschwerde Bezug nehmenden
+Schreiben vom 19. Februar 1996 an die Kommission, Generaldirektion Wettbewerb,
+gewandt und eine Stellungnahme zu dem ARA-System abgegeben, die sie
+insbesondere im Schreiben vom 22. März 2002 noch weiter ausführte.
+
+II. DIE PARTEIEN
+
+(8) Das ARA-System ist ein flächendeckendes System in ganz Österreich für die
+Sammlung und Verwertung sämtlicher Packstoffe und Verpackungen (mit Ausnahme
+von biogenen Packstoffen) aus Haushalt, Gewerbe und Industrie, soweit diese der
+VerpackVO unterliegen. Es wurde 1993 auf Initiative der österreichischen Wirtschaft
+zur Umsetzung der VerpackVO geschaffen. Das nicht gewinnorientierte ARA-System
+besteht aus ARA und acht wirtschaftlich selbständigen BRG.
+
+(9) ARA organisiert und koordiniert gemeinsam mit den BRG die Sammlung, Sortierung
+und Verwertung von Transport- und Verkaufsverpackungen in Österreich. Sie bietet
+ihre Serviceleistungen allen österreichischen und ausländischen Unternehmen an, die
+von der VerpackVO unmittelbar betroffen sind.
+
+1. Die ARA
+
+(10) ARA ist eine privatwirtschaftlich geführte Aktiengesellschaft, die 1993 gegründet
+wurde. Eigentümer und Alleinaktionär von ARA ist der Altstoff Recycling Austria
+Verein (ARA-Verein). Mitglied des Vereins können jedes Unternehmen, das direkt
+von der VerpackVO betroffen ist, sowie Verbände solcher Unternehmen werden.
+Hierzu zählen Unternehmen aus dem Bereich der Verpackungsindustrie, der
+abfüllenden und abpackenden Wirtschaft sowie des Handels. Zur Vermeidung von
+Interessenkonflikten sind Unternehmen der Entsorgungs- und Recyclingbranche von
+der Mitgliedschaft ausgeschlossen. Der ARA-Verein setzt sich - entsprechend den
+Interessengruppen der von der Verpackungsverordnung betroffenen Unternehmen -
+aus drei Kurien zusammen, nämlich Abfüller/Abpacker/Importeure, Handel und
+Verpackungswirtschaft. Die Kurien sind zu gleichen Teilen im Vereinsvorstand
+vertreten, der gleichzeitig den Aufsichtsrat der ARA bildet. Derzeit hat der ARA-
+Verein rund 240 Mitglieder.
+
+2. Die BRG
+
+(11) ARA nimmt die gebrauchten Verpackungen nicht selbst zurück und führt sie auch
+nicht selbst einer Verwertung zu. Vielmehr bedient sie sich hierfür der BRG, mit
+denen sie sogenannte Entsorgungsverträge abgeschlossen hat. Durch diese
+Entsorgungsverträge werden die BRG zur Übernahme der Sammlung, Sortierung
+und/oder Verwertung der gebrauchten Verpackungen nach Maßgabe der
+Verpackungsverordnung verpflichtet.
+
+4
+
+(12) Die folgenden Gesellschaften des ARA-Systems treten gegenüber dem zuständigen
+österreichischen Bundesministerium als Systembetreiber gemäß § 45 Absatz 11 des
+österreichischen Abfallwirtschaftsgesetzes6 (AWG) bzw. § 7a AWG auf: ARGEV für
+Verpackungen aus Metall (Ferro, Alu) und für sogenannte Leichtverpackungen (Holz,
+Keramik, Kunststoffe, Materialverbunde, textile Faserstoffe), die Österreichischer
+Kunststoff Kreislauf AG (ÖKK) für Verpackungen aus Kunststoff und textilen
+Faserstoffen, die ARO für Verpackungen aus Papier, Karton, Pappe und Wellpappe
+und die Austria Glas Recycling GmbH (AGR) für Verpackungen aus Glas.
+
+(13) Das zuständige österreichische Bundesministerium hat für ARO, ÖKK, ARGEV und
+AGR sowie für die mit dem ARA-System kooperierende Öko-Box Sammel GmbH das
+Bestehen eines Monopols bzw. einer monopolartigen Stellung durch Bescheid gemäß
+§ 7e AWG festgestellt.
+
+(14) Der Betrieb des Sammel- und Verwertungssystems ermöglicht den Lizenzpartnern der
+ARA für die kontrahierten Verpackungen die „Entpflichtung“ gem. § 3 Absatz 5
+VerpackVO. Die Rechte des Lizenzpartners gegenüber den BRG werden von ARA als
+Treuhänderin wahrgenommen.
+
+(15) Auch die BRG nehmen ihre Sammel- und Verwertungsaufgaben nicht unmittelbar
+wahr, sondern schließen zur Erfüllung ihrer Aufgaben für alle österreichischen
+Regionen, d.h. politischen Bezirke, Verträge mit privaten Unternehmen (sog.
+Regionalpartnern), welche die tatsächliche Entsorgung übernehmen. Die
+Regionalpartner können zur Erfüllung ihrer Aufgaben Subunternehmen einschalten.
+Vereinzelt, vor allem in größeren Städten, treten als Regionalpartner auch Kommunen
+auf. BRG sind:
+
+ARGEV Arbeitsgemeinschaft Verpackungsverwertungs-Ges.m.b.H.
+ÖKK Österreichischer Kunststoff Kreislauf AG (ÖKK)
+Aluminium-Recycling GmbH (ALUREC)
+Arbeitsgemeinschaft Verbundmaterialien GmbH (AVM)
+Verein für Holzpackmittel (VHP)
+Ferropack Recycling GmbH (FERROPACK)
+Altpapier-Recycling-Organisations-gesellschaft m.b.H
+Austria Glas Recycling GmbH (AGR)
+
+ARGEV Arbeitsgemeinschaft Verpackungsverwertungs-Ges.m.b.H.
+
+(16) ARGEV ist zuständig für die Sammlung, Sortierung und Konditionierung von
+Verpackungen aus Kunststoff, Metall, Holz, textilen Faserstoffen, Keramik und
+Materialverbunden. Gesellschafter der ARGEV sind ARA (Anteil 11%) und der
+ARGEV-Verein. Der ARGEV-Verein umfasst rund 110 Mitglieder aus vier
+Mitgliedergruppen (Hersteller/Importeure, Handel, Verpackungswirtschaft/BRG,
+Entsorger/Verwerter). Die Entsorgungswirtschaft verfügt über kein Stimmrecht in den
+Vereinsorganen (Vorstand, Hauptversammlung).
+
+(17) Die Sammelsysteme der ARGEV umfassen ein Haushaltssystem für
+Leichtverpackungen, ein Haushaltssystem für Metallverpackungen und ein
+Gewerbesystem für Leicht- und Metallverpackungen.
+
+6 BGBl. Nr. 102/2002.
+
+5
+
+(18) Im Jahre 2000 betrieben 57 Regionalpartner – Entsorgungsunternehmen, kommunale
+Betriebe und Arbeitsgemeinschaften – die Sammelsysteme im Auftrag der ARGEV.
+Regional waren 144 private und kommunale Entsorgungsunternehmen als Sammler
+und 47 Sortieranlagen und Shredder-Betriebe in die Leistungserbringung eingebunden.
+Seit 2002 beträgt die Zahl der Regionalpartner 64.
+
+(19) Die ARGEV hat Kooperationsverträge mit den folgenden für die Verwertung
+zuständigen BRG geschlossen.
+
+ÖKK Österreichischer Kunststoff Kreislauf AG (ÖKK)
+
+(20) ÖKK ist zuständig für die Verwertung von Kunststoff- und Textilverpackungen. 11%
+der Anteile der ÖKK hält ARA, die übrigen 89% der Verein „Österreichischer
+Kunststoffkreislauf“. Am 31. Dezember 2000 hatte dieser Verein 51 Mitglieder. Die
+Mitglieder des Vereins sind in Kurien für Kunststoffhersteller und -vertreiber,
+Kunststoffwarenhersteller und –vertreiber, Verwender von Kunststoffverpackungen,
+Systempartner (konkret ARGEV), Organisationen und Unternehmen der
+Kunststoffverwertungswirtschaft sowie Organisationen und Unternehmen der
+Entsorgungswirtschaft eingeteilt. Zur Vermeidung von Interessenkollisionen sind
+Organisationen und Unternehmen der Kunststoffverwertungswirtschaft und der
+Entsorgungswirtschaft (die zum Teil in Geschäftsbeziehung zur ÖKK stehen) im
+Vereinsausschuss nicht stimmberechtigt und von der Teilnahme an Sitzungen, bei
+denen es um Rechtsgeschäfte zwischen Vereinsmitgliedern und der ÖKK geht,
+gänzlich ausgeschlossen.
+
+(21) Zur Durchführung der Verwertung hat die ÖKK Verträge mit Verwertungsbetrieben
+und Transportunternehmen abgeschlossen. Im Jahre 2001 gab es in Österreich 16
+Verwertungsunternehmen für sortierte Kunststoffe und 8 Verwertungsunternehmen für
+Mischkunststoffe.
+
+Aluminium-Recycling GmbH (ALUREC)
+
+(22) Die Aluminium-Recycling GmbH (ALUREC) ist zuständig für die Verwertung der
+von ARGEV gesammelten Aluminiumverpackungen. Gesellschafter der ALUREC
+sind die Aluminiumproduzenten Austria Metall AG (AMAG) und die Salzburger
+Aluminium AG (SAG). Die übrigen Gesellschafter sind Verpackungshersteller.
+
+(23) Die Verwertung der Aluminiumverpackungen erfolgt in den beiden einzigen
+österreichischen Verwertungsbetrieben von AMAG und SAG. Die Aluminiumerlöse
+werden jährlich neu verhandelt und sind über einen Prozentschlüssel an die
+Sekundärnotierung für Aluminium der London Metall Exchange gebunden.
+
+Arbeitsgemeinschaft Verbundmaterialien GmbH (AVM)
+
+(24) Die Arbeitsgemeinschaft Verbundmaterialien GmbH (AVM) ist zuständig für die
+Verwertung von Verpackungen aus Materialverbunden mit Ausnahme von
+Getränkeverbundkartons. Die Gesellschafter sind zu je 50% ARO und ÖKK. Die
+Organisation der Verwertung der Materialien führt die AVM in enger Zusammenarbeit
+mit der ÖKK durch.
+
+6
+
+Verein für Holzpackmittel (VHP)
+
+(25) Der Verein für Holzpackmittel (VHP) ist zuständig für die Verwertung, teilweise auch
+Sammlung, von Verpackungen aus Holz. Der Verein hat derzeit 16 Mitglieder. Dabei
+handelt es sich um österreichische Holzpackmittelhersteller und -händler.
+
+Ferropack Recycling GmbH (FERROPACK)
+
+(26) Die Ferropack Recycling GmbH (FERROPACK) ist zuständig für die Verwertung der
+von ARGEV gesammelten Verpackungen aus Ferro-Metallen, also Weißblech und
+Stahl. Alleiniger Gesellschafter der FERROPACK ist der „Verein für Metallrecycling
+FerroPack“. Der Verein hat derzeit sechs Mitglieder, bei denen es sich um die
+österreichischen Hersteller von Packmitteln aus Weißblech und Stahl handelt.
+
+Altpapier-Recycling-Organisations-gesellschaft m.b.H
+
+(27) ARO ist zuständig für Sammlung und Verwertung von Verpackungen aus Papier,
+Karton, Pappe und Wellpappe (sogenannte Materialfraktion „PPK“). Die Anteile der
+ARO werden zu 11% von ARA gehalten. Die übrigen Gesellschaftsanteile befinden
+sich zu ca. 28 % im Eigentum von papiererzeugenden Unternehmen, zu 27% im
+Eigentum von De-Inking-Verwertern und zu rund 34% im Eigentum der
+papierverarbeitenden Industrie. Die insgesamt 17 Gesellschafter der ARO sind jeweils
+mit weniger als 17% an dieser beteiligt.
+
+(28) ARO hat über das gesamte österreichische Bundesgebiet Vereinbarungen mit 538
+Gebietskörperschaften betreffend die haushaltsnahe Sammlung und mit 79
+Entsorgungsunternehmen für alle Leist
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+
+gewerblichen Bereich sind regionale Übernahmestellen und ein Holsystem zu
+installieren, ferner ist die Logistik der Abfahrten abzustimmen. Der Sammelpartner ist
+daher darauf angewiesen, seine Investitionen und seine Tätigkeit für einen bestimmten
+Zeitraum planen zu können. Ebenso ist es aus der Sicht von ARA auch hinsichtlich der
+Sammlung gewerblicher Verpackungen unter dem Aspekt einer dauerhaften und
+zuverlässigen Sicherstellung der Sammeldienstleistung für den Systemerfolg
+insgesamt unerlässlich, nur einen Sammelpartner je Entsorgungsgebiet für das ARA-
+System während des Vertragszeitraumes mit der Sammlung zu beauftragen. Im
+Gewerbebereich sind zwar einerseits die für den Auf- und Ausbau der Infrastruktur
+
+60
+
+erforderlichen Investitionen weniger umfangreich als im Haushaltsbereich,
+andererseits ist aber die aus der Ausschließlichkeitsbindung folgende
+Wettbewerbsbeschränkung wegen der begrenzten Nachfragemacht der ARGEV
+geringer. Eine Ausschließlichkeitsbindung bei einer Vertragslaufzeit von mindestens 3
+Jahren und höchstens 5 Jahren ist daher auch im Gewerbebereich unerlässlich. Auch
+hier gilt, dass dies nach einer fünfjährigen Vertragslaufzeit nicht mehr der Fall ist,
+weshalb ab diesem Zeitpunkt die Neuausschreibung der Verträge im Sinne der Zusage
+gerechtfertigt und für eine Freistellung vom Kartellverbot nach Artikel 81 Absatz 3
+EG-Vertrag auch erforderlich ist.
+
+Nichtausschaltung des Wettbewerbs
+
+(328) Auch unter Berücksichtigung der Marktstellung von ARGEV auf den betroffenen
+Märkten ist die Ausschließlichkeitsbindung in der Sammelpartnervereinbarung nicht
+geeignet, den Wettbewerb auf dem Markt für die Sammlung und Sortierung von
+Haushaltsverpackungen auszuschalten.
+
+(329) Die von ARGEV ausgeschlossenen Anbieter von Sammeldienstleistungen können ihre
+Entsorgungstätigkeit sowohl anderen Sammel- und Verwertungssystemen im
+gewerblichen Bereich als auch Selbstentsorgerlösungen und Großanfallstellen
+anbieten.
+
+(330) Auch ist für den Gewerbemarkt zu beachten, dass es den Entsorgern erlaubt ist, in
+ihren Erfassungsgefäßen bei Wettbewerbern des ARA-Systems lizenzierte
+Verpackungen zu sammeln, und dass anders als im Haushaltsbereich hier eine
+gemeinsame Sammlung bereits erfolgt.
+
+(331) Zu prüfen bleibt, welche Auswirkungen die Koppelung der Sammeldienstleistung für
+gewerbliche Verpackungen an die Sammlung von Verpackungen im Haushaltsbereich
+auf den Wettbewerb hat. Einem Unternehmen ist es unter diesen Bedingungen nur
+dann möglich, als Sammelpartner für ARGEV im gewerblichen Bereich tätig zu
+werden, wenn es in der Lage ist, auch die erforderlichen Investitionen zur Einrichtung
+der Sammelinfrastruktur für den Haushaltsbereich zu tätigen. Allerdings führt auch
+das Erfordernis der Bereitstellung einer Infrastruktur für den Haushaltsbereich, um als
+ARGEV-Sammelpartner im Gewerbebereich tätig zu werden, nicht zu einer
+Ausschaltung des Wettbewerbs auf dem Markt für Gewerbeverpackungen und
+sonstigen Gewerbeabfall. Die Entsorgungsunternehmen, die nicht in der Lage sind,
+auch eine entsprechende Infrastruktur für die Haushaltssammlung einzurichten,
+können wie bereits ausgeführt ihre Sammeldienstleistungen den anderen Sammel- und
+Verwertungssystemen, für die die Einrichtung einer Sammelinfrastruktur für den
+Haushaltsbereich nicht erforderlich ist, sowie Selbstentsorgern und Großanfallstellen
+anbieten.
+
+(332) Auch ist zu beachten, dass das ARA-System die Entsorgung nach unterschiedlichen
+Materialfraktionen getrennt ausgeschrieben hat, so dass die Anbieter ihre Leistungen
+auf bestimmte Materialfraktionen beschränkt anbieten können. Im Gewerbebereich
+gilt dies insbesondere für Leichtverpackungen einerseits und PPK-Verpackungen
+andererseits.
+
+(333) Der Restwettbewerb wird durch die Ausschließlichkeitsbindung auf dem
+Gemeinsamen Markt für die Sammlung von gewerblichen Verpackungen und
+sonstigem Gewerbeabfall demnach nicht ausgeschaltet.
+
+61
+
+(334) Die Freistellungsvoraussetzungen nach Artikel 81 Absatz 3 EG-Vertrag sind folglich
+bei einer drei- bis fünfjährigen Vertragslaufzeit erfüllt.
+
+2.2. Sortierpartnervereinbarung zwischen ARGEV und den Sortierpartnern
+
+(335) Aus den genannten Gründen erfüllt die Ausschließlichkeitsbindung in der
+Sortierpartnervereinbarung angesichts der Wettbewerbsbedingungen auf dem Markt
+für die Sortierung von Gewerbeabfällen ebenfalls die Freistellungsvoraussetzungen.
+
+2.3. Vereinbarung zwischen ARO und den Sammelpartnern
+
+(336) Die Ausschließlichkeitsbindung in der Vereinbarung zwischen ARO und den
+Sammelpartnern gewährleistet für die beteiligten Entsorgungsunternehmen eine
+gewisse Planungs- und Investitionssicherheit und somit für alle Beteiligten auch eine
+regelmäßige zuverlässige Erfüllung ihrer Verpflichtungen aus der VerpackVO. Dabei
+ist eine drei- bis fünfjährige Vertragslaufzeit unter Berücksichtigung des Gewichts der
+Wettbewerbsbeschränkung durch die vorliegende Ausschließlichkeitsbindung als
+erforderlich anzusehen. Der Wettbewerb wird auf dem betroffenen Markt aus den
+genannten Gründen (Randnummern (329)-(332)) nicht ausgeschaltet. Somit sind die
+Voraussetzungen für eine Freistellung nach Artikel 81 Absatz 3 bei einer maximal
+fünfjährigen Vertragslaufzeit erfüllt.
+
+XI. RÜCKWIRKUNG, DAUER DER FREISTELLUNG, AUFLAGEN
+
+(337) Die Sammel- und Sortierpartnervereinbarungen der ARGEV und ARO wurden am 30.
+Juni 1994 bei der EFTA-Überwachungsbehörde angemeldet und gemäß Artikel 172
+Absatz 3 der Beitrittsakte an die Kommission überwiesen. Am 28. August 2001 wurde
+die neue Fassung der Sammel- und Sortierpartnervereinbarungen bei der Kommission
+angemeldet. Die Kommission stellt fest, dass die Sammel- und
+Sortierpartnervereinbarungen seit dem Zeitpunkt ihrer Anmeldung die
+Voraussetzungen für die Anwendung von Artikel 81 Absatz 3 EG-Vertrag erfüllen.
+
+(338) Freistellungen sind gemäß Artikel 8 Absatz 1 der Verordnung Nr. 17 für eine
+bestimmte Zeit zu erteilen und können mit Bedingungen und Auflagen verbunden
+werden. Gemäß Artikel 6 der Verordnung darf der Zeitpunkt des Wirksamwerdens
+einer solchen Entscheidung nicht vor dem Zeitpunkt, an dem die Anmeldung in
+Übereinstimmung von Artikel 81 Absätze 1 und 3 EG-Vertrag gebracht wurde, liegen.
+Die Freistellung sollte seit Inkrafttreten der derzeit gültigen
+Sammelpartnervereinbarungen der ARGEV und ARO bis zum 31. Dezember 2006
+gelten, um ARA, ARGEV, ARO und den Entsorgern für die Absicherung ihrer
+Investitionen ein ausreichendes Maß an Rechtssicherheit im Rahmen der
+gemeinschaftlichen Wettbewerbsregeln zu geben.
+
+(339) Um den Zugang Dritter zu den Entsorgungseinrichtungen der Sammel- und
+Sortierpartner von ARGEV und ARO zu gewährleisten und um eine Ausschaltung des
+Wettbewerbs auf den relevanten Märkten zu verhindern, sollten der ARGEV die
+genannten Auflagen erteilt werden. Diese Auflagen sind unerlässlich, um die
+Ausschaltung des Wettbewerbs auf den relevanten Märkten zu verhindern. Diese
+Auflagen bleiben für die Dauer der Freistellung in Kraft. Gemäß Artikel 8 Absatz 3
+Buchstabe b) der Verordnung Nr. 17 kann die Kommission die vorliegende
+Entscheidung bei Nichterfüllung der Auflagen durch die Parteien widerrufen.
+
+62
+
+(340) Diese Entscheidung berührt nicht die Anwendung von Artikel 82 EG-Vertrag.
+
+(341) Diese Entscheidung ergeht ferner unbeschadet anhängiger oder künftiger Verfahren
+der Kommission gegen die VerpackVO oder andere staatliche Vorschriften –
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Ausgehend von ihrem jetzigen Kenntnisstand und unter Berücksichtigung der Zusagen der
+Altstoffrecycling Austria AG (ARA), der ARGEV Verpackungsverwertungs-Ges.m.b.H.
+(ARGEV) und der Altpapier-Recycling Organisationsgesellschaft m.b.H. (ARO) stellt die
+Kommission fest, dass für sie keine Veranlassung besteht, gemäß Artikel 81 Absatz 1 EG-
+Vertrag und Artikel 53 Absatz 1 EWR-Abkommen gegen die Entpflichtungs- und
+Lizenzvereinbarungen zwischen ARA und den aus der österreichischen
+Verpackungsverordnung verpflichteten Unternehmen, gegen den Entsorgungsvertrag
+zwischen ARA und den BRG, gegen den Entsorgungs- bzw. Kooperationsvertrag zwischen
+ARGEV und den BRG sowie gegen den Vertrag zwischen ARO und den
+Gebietskörperschaften vorzugehen.
+
+Artikel 2
+
+Die Bestimmungen von Artikel 81 Absatz 1 EG-Vertrag und von Artikel 53 Absatz 1 EWR-
+Abkommen werden gemäß Artikel 81 Absatz 3 und Artikel 53 Absatz 3 EWR-Abkommen für
+nicht anwendbar erklärt auf individuelle Sammel- und Sortierverträge der ARGEV und der
+ARO mit ihren jeweiligen regionalen Entsorgungspartnern, die eine
+Ausschließlichkeitsbindung vorsehen und deren Laufzeit spätestens am 31. Dezember 2006
+endet.
+
+Die Freistellung gilt vom 30. Juni 1994 bis zum 31. Dezember 2006.
+
+Artikel 3
+
+Die Freistellung des Artikels 2 ist an folgende Auflagen gebunden:
+
+a) ARGEV hindert die Entsorger nicht daran, mit Wettbewerbern des ARA-Systems Verträge
+über die Mitbenutzung von Behältern oder sonstigen Einrichtungen zum Sammeln und
+Sortieren gebrauchter, bei Haushalten anfallender Verkaufsverpackungen abzuschließen und
+solche Verträge zu erfüllen.
+
+b) ARGEV darf von den Entsorgern nur den Nachweis der Verpackungsmengen verlangen,
+die dem Anteil des ARA-Systems an den insgesamt durch Systeme im Haushaltsbereich für
+bestimmte Materialfraktionen lizenzierten Verpackungsmengen entsprechen. In diesem Fall
+kann ARGEV das Entgelt nach Ziffer 3.1.1 der Sammelpartnervereinbarung in dem in Satz 1
+dieses Absatzes genannten Verhältnis verringern. Für die Entgelte nach Ziffer 3.1.2 und 3.1.3
+der Sammelpartnervereinbarung sind die der ARGEV nachgewiesenen Mengen maßgeblich.
+Diese Auflage bezieht sich auf alle Entsorger, mit denen ARGEV eine
+Sammelpartnervereinbarung abgeschlossen hat.
+
+63
+
+Artikel 4
+
+Diese Entscheidung ist an folgende Unternehmen gerichtet:
+
+Altstoffrecycling Austria AG
+Mariahilfer Straße 123
+A-1062 Wien
+
+ARGEV Verpackungsverwertungs-GmbH
+Lindengasse 43/12
+A-1071 Wien
+
+Altpapier-Recycling Organisationsgesellschaft mbH
+Gumpendorfer Straße 6
+A-1061 Wien
+
+Brüssel, den [...]
+
+Für die Kommission
+[...]
+Mitglied der Kommission
+
+64
+
+65

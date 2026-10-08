@@ -1,0 +1,435 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+28 . 1 . 93 Official Journal of the European Communities No L 20/23
+
+COMMISSION DECISION
+
+of 23 December 1992
+
+relating to a proceeding pursuant to Article 85 of the EEC Treaty
+(IV/32.745 — Astra)
+
+(Only the English and French texts are authentic)
+
+(93/50/ EEC)
+
+THE COMMISSION OF THE EUROPEAN services by satellite; subsequently, in its reply to
+COMMUNITIES, the Commission's statement of objections, BT
+argued that Article 85 (1) did not apply to the
+arrangements and by letter of 5 December 1990Having regard to the Treaty establishing the European
+formally requested the notification to beCommunity,
+considered as amended in that respect.
+
+Having regard to Council Regulation No 17 of
+6 February 1962, First Regulation implementing Articles A. The parties
+85 and 86 of the Treaty (1), as last amended by the Act
+of Accession of Spain and Portugal, and in particular
+(2) SES is a Luxembourg corporation established inArticle 2 thereof,
+1985 for the purpose of operating satellites. Its
+first satellite, Astra I A, launched in December
+Having regard to the notification for exemption 1988, was the first medium-powered satellite not
+submitted pursuant to Article 4 of Regulation No 17 on owned by telecommunications organizations
+3 June 1988 by British Telecommunications pic (here ('TOs') offering international television services in
+inafter 'BT'), Soci6t6 europ£enne des satellites SA Europe. At the time of notification, SES did not
+(hereinafter 'SES') and BT Astra SA, of a series of yet have a turnover. Capital to cover the costs of
+agreements and related documents regarding the purchasing the satellite, having it launched and
+marketing and provision of television broadcasting other expenses such as marketing and insurance,
+services by satellite, which notification was subsequently were covered by the input of approximately
+amended by BT to include also an application for twenty shareholders from various Member States
+negative clearance, and others, and State-guaranteed bank loans.
+
+Having decided on 3 April 1990 to open proceedings in In 1991 , SES's turnover rose to Lfrs
+the case, 3 471 954 747. A second medium-powered SES
+satellite, Astra I B, was launched in February of
+Having given the undertakings concerned the oppor 1991 .
+tunity to reply to the objections raised by the
+Commission pursuant to Article 19 ( 1) of Regulation No
+(3) BT has a number of subsidiaries, none of which is17 and Commission Regulation No 99/63/EEC of 25
+involved in the satellite sector. BT's total turnover
+July 1963 on the hearings provided for in Article 19 ( 1)
+for the year ended March 1992 wasand (2) of Council Regulation No 17 (2), ± £ 13 337 000 000.
+
+Having consulted the Advisory Committee on Restrictive
+Practices and Dominant Positions, BT is a licensed operator, entitled to carry out
+telecommunications activities in the United
+Kingdom, which includes uplinking signals to
+Whereas : satellites.
+
+I. FACTS
+According to Condition 1.1 of BT's licence
+granted under Section 7 of the Telecommuni
+( 1) On 3 June 1988, BT, SES and BT Astra SA cations Act 1984, the 'Universal provision of tele
+notified to the Commission of the European communications services' is imposed on BT
+Communities for exemption only a series of vis-a-vis every person who requests such services;
+agreements and related documents regarding the Condition 5 further requires BT to take all steps
+marketing and provision of television broadcasting to provide international connection services to its
+customers to the extent necessary to meet all
+0) OJ No 13, 21 . 2. 1962, p. 204/92. reasonable demands for such services. Condition
+0) OJ No 127, 20. 8 . 1963, p. 2268/63. 53-5-b provides for exceptions and limitations to
+
+No L 20/24 Official Journal of the European Communities 28 . 1 . 93
+
+these obligations in certain cases, i.e. if the As to geographical coverage, or the satellite
+demand for such services in a given area is, or 'footprint', low- and medium-powered satellites
+seems likely to be, insufficient to cover the costs of can cover all of Europe, whereas high-powered
+setting up that service there. satellites are generally limited to reception in
+individual countries.
+
+Television distribution by satellite (5) Until the launch of Astra I A all satellites in
+Europe were operated by TOs, individually or
+collectively. The various steps in the transmission
+(4) TV channels are transmitted by various means, of TV channels are covered by exclusive rights such as terrestrial broadcasting, cable and satellite.
+bestowed on TOs by international treaties and A combination is also possible, for example via a domestic laws :
+satellite to a cable operator who transmits it to the
+end-viewers. Transmission by satellite involves the
+following steps : 1 . The uplink
+
+1 . television channels are prepared by a According to the Radio Regulations of the
+'programme provider'; International Telecommunications Union and
+domestic telecommunication laws in the
+Member States, only 'licensed operators' are
+allowed to uplink signals to satellites. In most 2. the signals are transmitted from the television
+studio to an earth station from where the countries in Europe, at the time of the notifi
+cation there was only one licensed operator : 'uplink' to the satellite takes place; programme
+the TO. In the UK, the duopoly created by the providers must contract for such uplink services
+1984 Telecommunications Act resulted in two
+with a licensed operator, which in most EC
+licensed uplink providers, BT and Mercury countries is exclusively the TO;
+Communications Ltd; seven other licences to
+provide uplink services were granted in 1988 to
+1989 and a class licence was introduced
+3. on the satellite, the signals are received and subsequently. At the time the joint venture
+amplified by a 'transponder', and then beamed agreement was concluded, however, BT was
+back to earth. Satellites are covered by several the only licensed operator in the UK actually
+such transponders, 16 in the case of the Astra providing uplink services for international tele
+I A satellite ; vision distribution. SES is likewise a licensed
+uplink provider in Luxembourg.
+
+4. when the signals are 'downlinked' to the earth,
+they are caught by a satellite receive dish; the 2. The space segment (satellites ) receiver can be :
+
+The geostationary satellites in orbit for tele
+(a) a cable operator who then transmits the communication purposes are for the most part
+signal by cable to the TV viewers; owned and operated by international organiz
+ations, such as Intelsat (International Telecom
+munications Satellite Organization), Eutelsat
+(b) SMATV (satellite master antenna TV) (European Telecommunications Satellite
+systems which distribute to residents of a Organization), Inmarsat (International Marine
+hotel or apartment building; or Satellite Organization) or by domestic TOs.
+
+(c) TV viewers who receive the signals directly The Intelsat and Eutelsat treaties, which have
+by placing satellite dishes on their rooftop; been signed by inter alia all Member States,
+the latter is referred to as direct-to-home restrict other persons from operating satellites
+(DTH) reception. alongside Intelsat and Eutelsat satellites without
+having gone through an approval or 'coordi
+nation' procedure. In the notification and
+The size of the receive dish depends on the subsequent proceedings, the parties referred
+strength of the satellite being used. primarily to the Eutelsat procedure.
+Low-powered satellites require very large
+receiving dishes, more than 1,5 metres in
+diameter, while the signals from medium- and Eutelsat was established in 1982 by an intergov
+high-powered satellites can be caught by much ernmental Convention, at present signed by 32
+smaller dishes, suitable for individual rooftops. European Governments (called the 'parties').
+
+28 . 1.93 Official Journal of the European Communities No L 20/25
+
+Next to the convention there is an 'Operating The SAO
+Agreement' signed by the TOs (called the
+'signatories') from the States who are parties to
+the convention. Each member country Following scrutiny of BT's role as Eutelsat
+designates one 'signatory*; in the UK, BT is the signatory, the Office of Telecommunications,
+Eutelsat signatory. Oftel, announced in November of 1989 that a
+Signatory Affairs Office (SAO) would carry
+out BT's functions as signatory independently
+TO signatories finance the Eutelsat satellites in from BT's commercial arm ; this means that UK
+proportion to their utilisation thereof, in other licensed operators now have access to Eutelsat
+words the more a TO uses transponder (and Intelsat) space segment capacity on the
+capacity on a Eutelsat satellite, the more its same footing as BT.
+contribution will be; signatory TOs also share
+in the revenue in the same proportion. At the
+time the joint venture was established, BT had
+3. The downlink the largest investment share.
+
+The laws of most Community countries require At the outset Eutelsat operated four
+a satellite operator to obtain the consent of the low-powered telecommunications satellites. The
+first of the Eutelsat II series of medium- local TO for the reception in that TO's
+territory of downlink signals from satellites. powered satellites of the same kind as Astra
+Furthermore, in the case of Astra, Eutelsat (i.e. enabling reception by a 60 to 90 cm dish)
+required coordination not only in respect of the was launched in August 1990.
+uplink to and operation of the satellite, but also
+with regard to the downlink into any countries
+party to Eutelsat.
+Pursuant to the Eutelsat Convention, when a
+Party or TO becomes aware that an entity
+wishes to operate satellites and/or satellite
+uplinking and downlinking equipment indepen Thejoint venture
+dently from Eutelsat within the Party's juris
+diction, that Party or TO is obliged to furnish
+all relevant information to Eutelsat. The
+(6) SES's Astra I A satellite has a total number of 16 Eutelsat authorities must then determine
+transponders for which customers had to be
+whether the operation of that non-Eutelsat found. As the satellite television market was
+satellite :
+characterized by a predominance of Englishlanguage channels, SES concluded that a majority
+of the channel providers (potentially) interested in
+— will be technically compatible with the broadcasting via Astra would be located in the
+Eutelsat satellites, UK. Consequently, before the satellite was
+launched, the decision was taken to allocate a
+— will not cause the Eutelsat system minimum of nine and a maximum of 11 of the 16
+significant economic harm (*). transponders to a joint-venture established by BT
+and SES, whose stated aim would be to :
+
+With respect to the Astra satellite, the Eutelsat
+Assembly concluded that no significant harm — offer operators of UK-originated TV
+would be caused to the Eutelsat system programmes a packaged service consisting of a
+provided that, inter alia BT uplink in the UK and transponder space on
+SES's satellite,
+— Astra would be used for one-way television
+transmission only, — stimulate the development of the satellite
+market by:
+— no more than four Eutelsat channels
+switched from Eutelsat's satellites to Astra.
+(a) encouraging manufacturers of satellite
+dishes suitable for so-called 'direct
+to-home' (DTH) reception to increase
+(') Article XVI (a) of the Eutelsat Convention. production;
+In 1992, Eutelsat's Assembly of Parties adopted a Resolution
+according to which only those non-Eutelsat satellite systems
+providing 'reserved services' will be subject to the full Article (b) encouraging retailers to promote and sell
+XVI (a) consultation procedure. this equipment; and
+
+No L 20/26 Official Journal of the European Communities 28 . 1 . 93
+
+(c) encouraging home-viewers to buy such uplink and transponder lease; the price paid
+dishes so that they can receive Astra's decreases in proportion to the number of
+signals directly on their roof-tops. transponders leased. One agreement is for
+three years, with the possibility of extending to
+10 years; in the first three year period, the
+customer is charged monthly, thereafter a lump
+(7) The following agreements and other documents sum is paid. Only in one agreement is a
+were examined during the notification procedure : distinction made in the amounts being paid for
+the uplink and the transponder lease.
+
+— the main or joint-ventures agreement of 17
+December 1987 between SES and BT, in which
+they agreed to set up the 50/50 joint-venture The joint venture arrangements were to continue
+company BT Astra SA, and whereby SES for as long as the Astra satellite would remain
+undertook to lease transponders to the joint technically 'alive1, i.e. normally 10 years.
+venture company for further disposal via a UK
+licensed operator (thus not necessarily BT) to
+final customers as a packaged contract
+including the uplink,
+(8) Individual provisions which were of relevance in
+the Commission's examination were :
+— four side-letters dated 17 December 1987
+relating to :
+
+1 . Clause 3. The transponders covered by the
+— the allocation of options to BT of trans joint-venture agreement between SES and BT
+ponders on the Astra satellite, were leased to BT Astra SA, which in turn
+would lease them to a 'licensed UK operator'.
+Pursuant to a side-letter of 17 December 1987
+— SES's undertaking in relation to Clause 6 between the parties, SES agreed that the Joint
+(4) of the agreement concerning its obli Venture would grant BT options over 9 trans
+gation not to divert satellite business from ponders, to be disposed of within a stated
+the UK, period. BT in its turn would offer a single
+contract to programme providers comprising
+both the uplink by BT and a space on the
+Astra satellite. — the formation of a joint marketing
+company (Satellite Promotions SA),
+
+— SES's franchise from the Luxembourg 2. Clause 5 covered BT's rights and obligations
+Government as to the use of the Astra 'where it is the licensed UK operator'. Sub ( 1)
+satellite, provided that although BT had the right to
+determine the component for the uplink
+service to be included in the total price to the
+— the BT/SES joint-venture marketing plan, customer, it would consult with SES in setting
+which detailed the marketing activities to be this price.
+undertaken by the parties : BT would
+concentrate on facilities marketing, i.e. finding
+customers for the service, and SES would
+concentrate on retail marketing, i.e. the 3. Clause 6 covered SES's rights and obligations.
+receiver equipment industry and end-users, Clause 6 ( 1) provided that although SES had
+the right to determine the price which was
+charged to UK customers for the use of trans
+— the main services and separate services ponder space on the Astra satellite, it would
+agreements, likewise relating to the marketing consult with BT in setting that price even
+activities, where BT was not the 'licensed operator'.
+
+— the agreements between BT and television
+programme providers. These agreements are 4. Clause 5 (2) obliged BT to make the Astra
+not uniform. Most are for a period of 10 yea
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ffered
+to customers will comprise the transponders
+covered by this agreement and the addition of the
+the fact that no reasons were given why this uplink'.
+view was taken; with regard to the technical
+advantage of dealing with one entity, Z's
+first reaction as to whom it would contact
+in case of problem was SES,
+
+— Z was 25 °/o owned by BT at the time the SES has stated that by choosing for long-term
+customer contract was concluded ; all contracts, customers have indicated that they were
+important decisions, such as transponder not injured by the bundled service. In the
+leases, were taken unanimously by the three Commission's view, however, it was more likely
+shareholders; the up to 50 % savings programme providers
+
+28 . 1 . 93 Official Journal of the European Communities No L 20/37
+
+enjoyed by opting for a long-term contract which (30) The 'retail' marketing being carried out by SES is
+prompted their choice. a continuation of an area of activity in which,
+according to the parties, it 'had already been
+active on a pan-European basis including the UK',
+and which in any event it would have pursued,
+also in the absence of the arrangements with BT.
+(29) On the marketing side, the parties argued that the
+pooling of their respective skills, resources and
+experience was required in order to promote the
+use of the Astra satellite. BT with several years of
+Conclusion
+experience in marketing and providing satellite
+services to UK television programme providers
+was responsible for finding customers, while SES's
+marketing responsibilities related to promoting the (31) In view of the foregoing, the Commission has
+retail side, including both equipment manufac concluded that as the arrangements between BT
+turers and viewers. and SES :
+
+— did not bring about any improvements and
+benefits on the market in question, and
+The Commission does not agree that SES could
+not have found customers itself in the United
+Kingdom, independently of BT's marketing — were not indispensable in order to ensure
+efforts. The total number of television programme SES's entry into the market for the provision
+providers interested in satellite television in the of space segment capacity,
+UK was less than 10 at the time the joint venture
+was concluded, and there is no apparent reason
+why SES's commercial team could not have the notified arrangements were not eligible for
+approached these potential customers itself. In exemption.
+fact, one programme provider has stated that
+SES's commercial director was very actively
+promoting the Astra satellite in the UK himself,
+Under these circumstances, it is not necessary to several years before it was launched and before the
+examine whether the other requirements of Article joint venture was established. SES has argued that
+85 (3) are met. its initial contacts with customers were only
+translated into binding contracts with BT's
+assistance. Given the fact that potential customers
+were already at an early stage informed that they
+must deal through BT, well before the first
+customer contracts were signed, it is not possible C. Article 3 of Regulation 17
+to establish in retrospect whether customers felt
+BT's involvement was indispensable in this respect.
+It should be noted, however, that SES has sold the (32) Pursuant to Article 3 of Regulation 17, the
+transponders not covered by the joint venture Commission may, by decision, find that there is an
+arrangements directly to programme providers in a infringement of Article 85 of the EEC Treaty and
+number of countries, without the need for a joint require the undertakings concerned to bring such
+venture with the local telecommunications organ infringement to an end. This implies not only the
+ization. termination of restrictive agreements between the
+parties, but also the elimination of restrictive
+effects residing in contracts which have been
+concluded with third undertakings under the terms
+Finally, BT's involvement in the sale of trans of the aforesaid restrictive agreements.
+ponders on the Astra satellite admittedly facilitated
+the transfer of BT's Eutelsat and Intelsat
+customers to Astra thanks to the joint venture In the case at hand, after the parties had been
+agreement provisions on double-illumination and heard in accordance with Article 19 ( 1) and (2) of
+early termination of existing customer contracts. Regulation No 17, they informed the Commission
+However, several customers have noted that they that the joint-venture agreement between them
+believe the reduction in the satellite price which selves, and various ancillary agreements and side
+could have been achieved in the absence of BT's letters, were terminated on 30 January 1991 ;
+involvement in the Astra satellite would have under the provisions of the termination agreement,
+amply offset the extra costs they would have had existing customer contracts will remain in force,
+to bear in the absence of free of charge 'double whereby the transponder lease takes place directly
+illumination'. from SES to BT instead of passing through the
+
+No L 20/38 Official Journal of the European Communities 28 . 1 . 93
+
+joint-venture company; upon expiry of such will continue to be provided to them without
+contracts, BT shall have no further rights with interruption during the transitional period.
+respect to the transponders concerned nor any
+others on Astra I A or Astra I B.
+
+Customer contracts which at the choice of the
+customer continue to run under the original terms
+would only be restrictive of competition if they(33) The termination of the joint-venture agreement
+result in the foreclosure of uplink providers other ensures the commercial autonomy of the parties
+than BT. However, in the light of current market for the future. However, the customer contracts
+conditions, in particular the accessibility of UK which were concluded by BT under the joint
+uplink providers to Eutelsat and Intelsat space venture arrangements continue to be in force
+segment capacity through the SAO and additional pursuant to Clause 5.1 ( 1) of the termination
+new space segment capacity, such as Astra IB, agreement without any modification.
+which has in the meantime become available, such
+a foreclosure would seem unlikely. If new
+elements were to appear, proceedings independent
+of those which have led to this Decision could be
+called for, These contracts perpetuate the restrictive effects
+resulting from the joint-venture agreement because
+customers who wished to transmit their
+programmes via the Astra IA satellite were not
+given the choice of concluding separate contracts
+for, on the one hand, uplink services and, on the HAS ADOPTED THIS DECISION :
+other hand, the lease of transponder capacity.
+Furthermore, the terms of those customer
+contracts were determined by BT and SES in the
+context of the joint-venture arrangements, i.e.
+under conditions of distorted competition. This Article 1
+does not mean that the customer contracts, simply
+because of their links with the restrictive hori
+The main agreement of 17 December 1987 between
+zontal agreements, are also caught by Article 85 Soci6t£ Europfeenne des Satellites SA and British Tele
+(1). However, the restrictive effects which these
+communications pic, and all related side letters and
+contracts perpetuate can only be eliminated when
+agreements regarding the arrangements whereby the two the customers have been given the right of read
+parties cooperated in the joint provision of a television
+justment. Therefore, they must have the option to
+distribution service by satellite (collectively referred to as remain committed to the customer contracts as
+the agreements), constituted an infringement of Article
+signed with BT, to terminate those contracts or 85 ( 1) of the EEC Treaty until 30 January 1991 , the date
+renegotiate the terms thereof. To this end, and on which those agreements were terminated. within one month of the notification of this
+Decision to them, BT and SES shall inform
+programme providers who signed contracts with
+BT for international TV distribution services via
+the Astra IA satellite prior to 30 January 1991, Article 2
+that during the four months after having been so
+informed, they may, if they so wish,
+An exemption pursuant to Article 85 (3) of the EEC
+Treaty for the agreements referred to in Article 1 is
+hereby refused for the period during which they were in
+force.
+— renegotiate the terms of the contract, or
+
+Article 3
+terminate the contract, taking into account a
+reasonable period of notice.
+Within one month from the date of notification of this
+Decision, British Telecommunications pic (BT) and
+Soci6t6 Europeenne des Satellites SA (SES) shall inform
+television programme providers who concluded contracts
+Customers who choose to renegotiate or terminate with BT for television distribution services via the Astra
+must in any event be ensured that the uplink I A satellite prior to 30 January 1991 in writing of the
+services and the use of the transponder capacity Commission's Decision and in particular Articles 1 and 2
+
+28 . 1 . 93 Official Journal of the European Communities No L 20/39
+
+thereof, and advise them that during a period of four Article 4
+months after having been so informed, such television
+This Decision is addressed to the following underprogramme providers are entitled, if they so wish, to
+takings :
+
+(a) British Telecommunications pic,
+— renegotiate the terms of those contracts, or British Telecom Centre,
+81 Newgate Street,
+GB-London EC1A 7AJ;— terminate those contracts, subject to a reasonable
+period of notice given by them to BT, which in its (b) Société européenne des satellites SA,
+turn shall forthwith inform SES that such notice has Chateau de Betzdorf,
+been given. L-6815 Luxembourg.
+
+Done at Brussels, 23 December 1992 .
+
+When the letter pursuant to this Article is sent to tele For the Commission
+vision programme providers within the one-month Leon BRITTAN
+time-limit referred to above, a copy of such letter shall at
+the same time be submitted to the Commission. Vice-President

@@ -1,0 +1,470 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPÄISCHE KOMMISSION
+
+Brüssel, den 15.11.2011
+C (2011) 8209 endgültig
+
+ÖFFENTLICHE
+VERSION
+
+BESCHLUSS DER KOMMISSION
+
+vom 15.11.2011
+
+in einem Verfahren nach Art. 102 des Vertrags über die Arbeitsweise der Europäischen
+Union und Art. 54 des EWR-Abkommens
+
+(Sache COMP/39.592- Standard & Poor's)
+
+(Nur der englische Text ist verbindlich)
+
+Teile dieses Textes wurden
+ausgelassen, um zu gewährleisten, dass
+keine vertraulichen Informationen
+bekanntgegeben werden; diese Teile
+sind durch eckige Klammern wie folgt
+gekennzeichnet [...].
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. Gegenstand ................................................................................................................... 4
+2. Die Parteien .................................................................................................................. 4
+3. Verfahrensschritte nach der Verordnung (EG) Nr. 1/2003 .......................................... 4
+4. Vorläufige Beurteilung ................................................................................................. 5
+4.1. Relevante Märkte ......................................................................................................... 5
+4.1.1. Sachlich relevanter Markt ............................................................................................ 5
+4.1.2. Räumlich relevanter Markt .......................................................................................... 7
+4.2. Stellung der Parteien auf dem relevanten Markt / Beherrschende Stellung ................. 8
+4.3. Wettbewerbsrechtlich bedenkliche Praktiken .............................................................. 8
+4.3.1. Gebührenpolitik von S&P gegenüber indirekten Nutzern ........................................... 9
+4.3.2. Gebührenpolitik von S&P gegenüber direkten Nutzern ............................................ 10
+4.3.3. Rechte des geistigen Eigentums an US-amerikanischen ISIN ................................... 11
+4.4. Auswirkungen auf den Handel zwischen Mitgliedstaaten ......................................... 11
+5. Vorgeschlagene Verpflichtungen ............................................................................... 12
+6. Bekanntmachung der Kommission nach Artikel 27 Absatz 4 ................................... 13
+6.1. Verträge zwischen S&P und indirekten Endnutzern .................................................. 13
+6.2. Verbot der Extraktion von CUSIP ............................................................................. 13
+6.3. Einschränkung des Weitervertriebs von ISIN-Datensätzen in großen Mengen durch
+Endnutzer ................................................................................................................... 14
+6.4. Beschränkung des räumlichen Geltungsbereichs der Verpflichtungen auf den EWR
+.................................................................................................................................... 14
+6.5. Die Verpflichtungen beziehen sich lediglich auf US-amerikanische ISIN, nicht
+jedoch auf andere von S&P als stellvertretender NNA vergebene und vertriebene
+ISIN ............................................................................................................................ 15
+6.6. Der Nutzungsbereich der ISIN ist zu eng begrenzt .................................................... 16
+6.7. Die mit den Verpflichtungen verbundenen Verträge sollten freiwillig abgeschlossen
+werden können ........................................................................................................... 16
+6.8. Schlussfolgerung ........................................................................................................ 17
+7. Verhältnismässigkeit der überarbeiteten Verpflichtungen ......................................... 17
+8. Schlussfolgerung ........................................................................................................ 18
+
+2DE DE
+
+BESCHLUSS DER KOMMISSION
+
+vom 15.11.2011
+
+in einem Verfahren nach Artikel 102 des Vertrags über die Arbeitsweise der
+Europäischen Union und Artikel 54 des EWR-Abkommens
+
+(Sache COMP/39.592 Standard & Poor's)
+
+(Nur der englische Text ist verbindlich)
+DIE EUROPÄISCHE KOMMISSION –
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten
+Wettbewerbsregeln1, insbesondere Artikel 9 Absatz 1,
+
+gestützt auf die Entscheidung der Kommission vom 6. Januar 2009 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nachdem sie in der Mitteilung der Beschwerdepunkte vom 13. November 2009 ihre Bedenken
+dargelegt hat,
+
+nachdem sie betroffenen Dritten nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003
+Gelegenheit gegeben hat, zu den zur Ausräumung dieser Bedenken angebotenen
+Verpflichtungen Stellung zu nehmen2,
+
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+gestützt auf den Abschlussbericht des Anhörungsbeauftragten3 in dieser Sache,
+
+in Erwägung nachstehender Gründe:
+
+1 ABl. L 1 vom 4.1.2003, S. 1. Mit Wirkung vom 1. Dezember 2009 sind an die Stelle der Artikel 81 und
+82 EG-Vertrag die Artikel 101 und 102 des Vertrags über die Arbeitsweise der Europäischen Union
+(AEUV) getreten. Die Artikel 81 und 82 EG-Vertrag und die Artikel 101 und 102 AEUV sind im
+Wesentlichen identisch. Im Rahmen dieses Beschlusses sind Bezugnahmen auf die Artikel 101 und 102
+AEUV als Bezugnahmen auf die Artikel 81 und 82 EG-Vertrag zu verstehen, wo dies angebracht ist.
+Mit dem AEUV wurden auch terminologische Änderungen eingeführt, zum Beispiel die Ersetzung von
+„Gemeinschaft“ durch „Union“ und von „Gemeinsamer Markt“ durch „Binnenmarkt“. Sofern die
+Bedeutung unverändert bleibt, wird im vorliegenden Beschluss die Terminologie des AEUV verwendet.
+2 ABl. L 1 vom 4.1.2003, S.1.
+3 Abschlussbericht der Anhörungsbeauftragten vom 26. Oktober 2011.
+
+3DE DE
+
+1. GEGENSTAND
+(1) Dieser Beschluss ist an [McGraw-Hill Companies Inc.]* (im Folgenden
+„McGraw-Hill“) gerichtet und betrifft die Erhebung von Lizenzgebühren für die
+Zurverfügungstellung der US-amerikanischen internationalen
+Wertpapierkennummern (englisch „International Securities Identification Numbers“,
+im Folgenden „ISIN“) im EWR durch Standard & Poor's (im Folgenden „S&P“).
+
+(2) Die Kommission war in ihrer Mitteilung der Beschwerdepunkte vom
+13. November 2009, die eine vorläufige Beurteilung im Sinne von Artikel 9 Absatz 1
+der Verordnung (EG) Nr. 1/2003 darstellt, zu dem vorläufigen Ergebnis gelangt, dass
+S&P gegen Artikel 102 AEUV und Artikel 54 des EWR-Abkommens verstoßen hat,
+indem es für die Zurverfügungstellung US-amerikanischer ISIN unangemessen hohe
+Preise festsetzte.
+
+2. DIE PARTEIEN
+
+(3) S&P ist eine in der Finanzdienstleistungsbranche tätige Tochtergesellschaft von
+McGraw-Hill. S&P ist die einzige Vergabestelle für US-amerikanische ISIN und die
+einzige Stelle, die direkte Informationen von allen US-amerikanischen
+Wertpapieremittenten erhält.
+
+(4) Die Einleitung des Verfahrens gegen S&P geht auf eine Beschwerde zurück, die vom
+Verband für die europäische Vermögensverwaltungsbranche „European Fund and
+Asset Management Agency“ (im Folgenden „EFAMA“), dem französischen und
+dem deutschen Vermögensverwaltungsverband (AFG4 bzw. BVI5) sowie den
+Datennutzervereinigungen von Finanzinstituten IPUG6 (Vereinigtes Königreich) und
+SIPUG7 (Schweiz) gemeinsam eingereicht wurde.
+
+3. VERFAHRENSSCHRITTE NACH DER VERORDNUNG (EG) NR. 1/2003
+
+(5) Am 16. Juli 2008 reichten EFAMA und die anderen in Erwägungsgrund 4 genannten
+Nutzervereinigungen eine Beschwerde gegen S&P ein.
+
+(6) Am 6. Januar 2009 leitete die Kommission ein Verfahren im Hinblick auf den Erlass
+eines Beschlusses nach Kapitel III der Verordnung (EG) Nr. 1/2003 ein. Am
+13. November 2009 nahm sie eine Mitteilung der Beschwerdepunkte an, in der sie
+ihre wettbewerbsrechtlichen Bedenken darlegte.
+
+(7) Die Mitteilung der Beschwerdepunkte wurde McGraw-Hill mittels Schreiben vom
+16. November 2009 zur Kenntnis gebracht. McGraw-Hill wurde am selben Tag
+Einsicht in die Akte gewährt.
+
+
+* Sollte gelesen werden als "The McGraw-Hill Companies, Inc.".
+4 Association Française de la Gestion Financière (französischer Vermögensverwaltungsverband).
+5 Bundesverband Investment und Asset Management e. V.
+6 Information Providers User Group.
+7 Swiss Information Providers User Group.
+
+4DE DE
+
+(8) Am 7. April 2011 bot S&P der Kommission Verpflichtungen (im Folgenden die
+„Verpflichtungen“) an, um die in der Mitteilung der Beschwerdepunkte dargelegten
+wettbewerbsrechtlichen Bedenken auszuräumen, ohne jedoch der vorläufigen
+Beurteilung der Kommission zuzustimmen.
+
+(9) Am 14. Mai 2011 wurde im Amtsblatt der Europäischen Union eine
+Bekanntmachung nach Artikel 27 Absatz 4 der Verordnung (EG) Nr. 1/2003
+veröffentlicht, die eine kurze Zusammenfassung der Wettbewerbssache und der
+Verpflichtungen sowie eine Aufforderung an betroffene Dritte umfasste, zu diesen
+Verpflichtungen innerhalb eines Monats nach der Veröffentlichung Stellung zu
+nehmen.
+(10) Am [11. Juli 2011]* und 26. Juli 2011 setzte die Kommission S&P von den nach
+Veröffentlichung der Bekanntmachung eingegangenen Stellungnahmen betroffener
+Dritter in Kenntnis. Am [14. September 2011]** legte S&P ein überarbeitetes
+Angebot für Verpflichtungen (im Folgenden die „Überarbeiteten Verpflichtungen“)
+vor.
+
+(11) Am 25. Oktober 2011 wurde der Beratende Ausschuss für Kartell- und
+Monopolfragen um Stellungnahme ersucht. Am 26. Oktober 2011 legte der
+Anhörungsbeauftragte seinen Abschlussbericht vor.
+
+4. VORLÄUFIGE BEURTEILUNG
+
+4.1. Relevante Märkte
+
+4.1.1. Sachlich relevanter Markt
+
+(12) Sachlich relevant in dem in Rede stehenden Verfahren ist der Markt für den Vertrieb
+und die Lizenzierung US-amerikanischer ISIN (Datensätze und Nummern) aus erster
+Hand auf elektronischem Weg im „data feed“-Format. Andere Unternehmen die
+ISIN vertreiben, tun dies nicht aus erster Hand, da sie selbst nicht Quelle der ISIN
+sind. Außer der ISIN selbst sind nur sehr wenige weitere Datenelemente erforderlich,
+um ein bestimmtes Wertpapier oder anderes Finanzinstrument eindeutig zu
+identifizieren. Die ISIN und diese Mindestelemente werden zusammen als „ISIN
+Datensatz“ bezeichnet. Der ISIN Datensatz besteht in der Regel aus der ISIN
+Nummer, dem Namen des Emittenten (Vollform) und der Emissionsbeschreibung.
+Der Nennwert und die Währung (für Eigenkapitalinstrumente) sowie der Zinssatz
+und die Fälligkeit (für Schuldinstrumente) sollten nur dann als zusätzliche Elemente
+Teil des Datensatzes sein, wenn diese Angaben nicht in der Emissionsbeschreibung
+enthalten sind.
+
+(13) US-amerikanische ISIN werden von Banken und anderen Finanzinstituten
+verwendet, um in den USA emittierte Finanzinstrumente zu identifizieren, und zwar
+im Rahmen des Interbanken-Verkehrs, der Bewertung von Vermögenswerten und
+Portfolien, des Clearing und Settlement, der Front-Office-Abläufe besonders in
+Bezug auf Anleihen, der Verwahrung, des internen Berichtswesens und der
+
+* Sollte gelesen werden als "12. Juli 2011".
+** Sollte gelesen werden als "13. September 2011".
+
+5DE DE
+
+Berichtspflichten gegenüber den Aufsichtsbehörden, der Verwaltung von
+Referenzdaten usw.
+
+(14) Es kann zwischen zwei Gruppen von Nutzern der US-amerikanischen ISIN
+unterschieden werden. Zum einen vertreibt S&P ISIN an Informationsdienste, d. h.
+Finanzdatenanbieter, und eine Reihe von Finanzinstituten, die ihre Nummern direkt
+von S&P beziehen wollen (direkte Nutzer). Die meisten Finanzinstitute beziehen ihre
+ISIN jedoch lieber zusammen mit anderen Daten von Informationsdiensten als direkt
+von S&P (indirekte Nutzer). S&P berechnet sowohl den direkten als auch den
+indirekten Nutzern eine Lizenzgebühr für Vertrieb und Verwendung der ISIN.
+
+(15) Das ISIN-System wurde von der Internationalen Organisation für Normung („ISO“)
+als Norm 6166 entwickelt, als der Wertpapierhandel auf internationaler Ebene immer
+stärker zunahm. US-amerikanische ISIN beruhen auf den CUSIP8 als den zuerst für
+den US-Inlandsmarkt entwickelten Wertpapierkennungen.
+
+(16) Die Norm ISO 6166 ist das einzige eindeutige, genormte und international
+anerkannte Identifizierungssystem für Wertpapiere. Benannte nationale
+Vergabestellen („National Numbering Agencies“, im Folgenden „NNA“)9 sind für
+die Vergabe der ISIN in ihrem jeweiligen Staatsgebiet zuständig. Um eine ISIN
+zugewiesen zu bekommen, stellt der Emittent eines neuen Wertpapiers einen Antrag,
+der vorläufige Informationen zu der Emission und einschlägige Unterlagen umfasst.
+Die NNA weist dem Wertpapier oder den Wertpapieren nach einer Prüfung der
+Informationen und Unterlagen eine bzw. mehrere ISIN zu. Nach der Vergabe wird
+die ISIN zusammen mit zusätzlichen Elementen, die der NNA vorliegen, in die
+Datenbank der NNA eingegeben und dem Emittenten mitgeteilt.
+
+(17) In den USA emittierten Wertpapieren wird eine CUSIP (9stelliger Code) und eine
+US-amerikanische ISIN (12stelliger Code) zugewiesen. CUSIP können als nationale
+Kennungen jedoch nicht im internationalen Wertpapierhandel eingesetzt werden, für
+den vielmehr US-amerikanische ISIN erforderlich sind. Beispielsweise können
+CUSIP nicht im Rahmen des internationalen Interbanken-Verkehrs verwendet
+werden, und auch im Clearing und Settlement sowie im Rahmen der
+Berichtspflichten in der Europäischen Union ist ihre Verwendung nicht möglich.
+
+(18) Was andere nationale Kennungen angeht, sei festgehalten, dass nationale
+Wertpapierkennsysteme nur Wertpapiere abdecken, die im jeweiligen Staatsgebiet
+emittiert werden. Außerhalb der USA decken solche Systeme die in den USA
+ausgegebenen Wertpapiere im Allgemeinen10 also in keiner Weise ab. Nationale
+Kennungen können US-amerikanische ISIN daher nicht ersetzen.
+
+8 CUSIP sind die nationalen Kennungen, von denen die US-amerikanischen ISIN durch Hinzufügung
+eines Ländercodes und einer Kontrollziffer abgeleitet werden. Die Abkürzung steht für „Committee on
+Uniform Security Identification Procedures“.
+9 In der Regel gibt es in jedem Land nur eine NNA. Eine NNA kann jedoch in mehreren Ländern tätig
+sein. In Ländern, in denen keine NNA tätig ist oder deren NNA aus welchem Grund auch immer nicht
+in der Lage ist, eine ISIN zu vergeben, wird eine stellvertretende NNA die ISIN für in diesem Land
+emittierte Wertpapiere vergeben.
+10 In Ausnahmefällen (z. B. SEDOL im Vereinigten Königreich und Irland, Valoren in der Schweiz) hat
+die örtliche NNA ihr System derart angepasst, dass auch für bestimmte internationale Wertpapiere
+Nummern vergeben werden. Jedoch erhalten lediglich die wichtigsten Wertpapiere und/oder die auf
+
+6DE DE
+
+(19) Einige Dienstleister wie Börsen oder globale Informationsdienste haben eigene
+Wertpapierkennsysteme entwickelt (z. B. Bloomberg Tickers, Reuters Instrument
+Codes (RIC) oder Tickersymbole von S&P für US-amerikanische Papiere. Diese
+eigenen Kennungen decken jedoch weniger Wertpapierarten ab als ISIN11. Ferner
+gibt es ein
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ung
+aufsichtsrechtlicher Berichtspflichten und/oder Zentralbanktransaktionen
+erforderlich) oder andere spezifische Tätigkeiten umfasst, die typischerweise ein
+Dienstleistungsbüro oder Informationsdienst nach der Begriffsbestimmung in
+den vorliegenden Verpflichtungen ausüben würde. Es sei klargestellt, dass die
+„Verwendung im EWR“ auch folgende Tätigkeiten gestattet: a)
+Kommunikation, Kontakte und Informationsaustausch mit jeglicher
+EWR-Konzerngesellschaft, einschließlich der Übertragung von Daten in großen
+Mengen, und b) Kommunikation, Kontakte und Informationsaustausch mit
+jeglicher Nicht-EWR-Konzerngesellschaft, ausschließlich der Übertragung von
+Daten in großen Mengen und unbeschadet des Rechts von S&P/CSB, eine
+Abonnementsvereinbarung mit jeglicher Nicht-EWR-Konzerngesellschaft zu
+verlangen, die US-amerikanische ISIN oder ISIN-Datensätze in ihrem eigenen
+Geschäftsbetrieb nutzen möchte.
+
+ABSCHNITT B. VERPFLICHTUNGEN
+
+1. MGH verpflichtet sich, die Lieferung von ISIN-Datensätzen über das
+Masterfile mit den US-amerikanischen ISIN-Datensätzen anzubieten, und
+zwar direkt von S&P/CSB sowohl an Informationsdienste und
+Dienstleistungsbüros zum Vertrieb im EWR als auch an Endnutzer zur
+Verwendung im EWR. Dies schließt nicht aus, dass Informationsdienste,
+Dienstleistungsbüros oder Endnutzer ISIN-Datensätze aus anderen Quellen
+beziehen als direkt von S&P/CSB nach folgendem Absatz 2. S&P/CSB stellt
+das Masterfile mit den US-amerikanischen ISIN-Datensätzen im „data
+feed“-Format täglich über einen FTP-Server zur Verfügung. Das Masterfile
+mit den US-amerikanischen ISIN-Datensätzen wird als unabhängige
+Dienstleistung getrennt von jeglichen zusätzlichen Daten verfügbar gemacht.
+
+25DE DE
+
+2. S&P/CSB ist berechtigt, Verträge (allgemein die „Vereinbarungen über
+das ISIN-Datensatz-Abonnement“) mit Informationsdiensten,
+Dienstleistungsbüros und Endnutzern abzuschließen, die sich dafür
+entscheiden, die ISIN-Datensätze direkt von S&P/CSB zu beziehen. Die den
+einzelnen Informationsdiensten / Dienstleistungsbüros / Endnutzern von
+S&P/CSB anzubietenden Vereinbarungen über das
+ISIN-Datensatz-Abonnement haben im Wesentlichen die Form von
+Musterverträgen, die im Einklang mit den vorliegenden Verpflichtungen
+stehen und auf die Website von S&P/CSB eingestellt werden. S&P/CSB
+verpflichtet sich, die vorab der Kommission zu übermittelnden
+Mustervereinbarungen für das ISIN-Datensatz-Abonnement innerhalb einer
+Woche nach dem Tag des Wirksamwerdens auf seiner Website einzustellen.
+
+3. Der von Informationsdiensten, Dienstleistungsbüros und Endnutzern nach
+den vorliegenden Verpflichtungen zu entrichtende Preis für das Masterfile
+mit den US-amerikanischen ISIN-Datensätzen ist im ersten Jahr nach dem
+Tag der Umsetzung der Anfangspreis. In nachfolgenden Jahren während der
+Geltungsdauer der vorliegenden Verpflichtungen darf MGH den Preis
+jährlich mit Wirkung zum Jahrestag des Tags des Wirksamwerdens lediglich
+entsprechend dem für den vorangegangenen Zwölfmonatszeitraum vom Amt
+für Beschäftigungsstatistik des US-Arbeitsministeriums („Bureau of Labor
+Statistics des U.S. Department of Labor“) veröffentlichten
+Verbraucherpreisindexes „Consumer Price Index for Urban Consumers, All
+Items“ anpassen.
+
+4. Entscheiden sich Informationsdienste, Dienstleistungsbüros und Endnutzer
+dafür, ISIN-Datensätze nicht direkt von S&P/CSB, sondern auf anderem
+Weg als über direkte Lieferung von S&P/CSB nach obenstehendem Absatz 2
+zu beziehen (ausgenommen das ANNA-Dienstleistungsbüro, siehe dazu
+nachstehenden Absatz 7), so verpflichtet sich MGH sicherzustellen, dass
+S&P/CSB diesen Informationsdiensten oder Dienstleistungsbüros für den
+Vertrieb von ISIN-Datensätzen im EWR bzw. diesen Endnutzern für die
+Verwendung von ISIN-Datensätzen im EWR (vorbehaltlich der
+Bestimmungen in den Vereinbarungen über das
+ISIN-Datensatz-Abonnement) keine Verträge vorschreibt und von diesen
+Informationsdiensten oder Dienstleistungsbüros für den Vertrieb von
+ISIN-Datensätzen im EWR bzw. von diesen Endnutzern für die Verwendung
+von ISIN-Datensätzen im EWR keine Gebühren erhebt. Dienstleistungsbüros
+sind berechtigt, ISIN-Datensätze aus anderen Quellen als über direkte
+Lieferung von S&P/CSB (z. B. indirekt über Informationsdienste) zu
+beziehen, ohne für den Vertrieb von ISIN-Datensätzen im EWR den Preis für
+das Masterfile mit den US-amerikanischen ISIN-Datensätzen an S&P/CSB
+entrichten zu müssen, sofern sie eine Vereinbarung über das
+ISIN-Datensatz-Abonnement im Wesentlichen in Form des anzuwendenden
+
+26DE DE
+
+Mustervertrags, der nach obenstehendem Absatz 2 auf der Website von
+S&P/CSB eingestellt wird, abgeschlossen haben.
+
+5. Innerhalb eines (1) Monats nach dem Tag des Wirksamwerdens teilt
+S&P/CSB Betroffenen Informationsdiensten, Dienstleistungsbüros und
+Endnutzern mit, dass sie berechtigt sein werden, ihre Kundenvereinbarungen
+vorzeitig zu beenden (bzw., wenn eine Kundenvereinbarung mehr als nur die
+Verwendung und/oder den Vertrieb US-amerikanischer ISIN im EWR
+abdeckt, nur den EWR-bezogenen Teil ihrer Kundenvereinbarung vorzeitig
+zu beenden), und zwar durch schriftliche Kündigung gegenüber S&P/CSB
+(vorzeitige Kündigungen werden am Tag der Umsetzung wirksam, oder an
+einem zwischen dem Kunden und S&P/CSB einvernehmlich vereinbarten
+späteren Tag). Betroffene Informationsdienste, Dienstleistungsbüros und
+Endnutzer haben dann die Wahl zwischen a) einem Abonnement des
+Masterfiles mit den US-amerikanischen ISIN-Datensätzen über die
+anzuwendende Vereinbarung über das ISIN-Datensatz-Abonnement, b) der
+Weiterführung ihres bestehenden CSB-Datenbank-Dienstes und/oder c)
+einem Abonnement anderer kommerzieller Datenbank-Produkte, die von
+S&P und/oder S&P/CSB zeitweise angeboten werden können.
+
+6. Kein Teil der vorliegenden Verpflichtungen kann so ausgelegt werden, dass
+ein CSB-Kunde von einer etwaigen Verpflichtung oder Schuld, die sich vor
+Beendigung der betreffenden Kundenvereinbarung(en) nach obenstehendem
+Absatz 5 aus seiner/seinen bestehenden Kundenvereinbarung(en) über von
+CSB erbrachte Dienstleistungen ergibt, entbunden wird. Im Falle einer
+solchen Beendigung bestimmen sich die Rechte und Pflichten von CSB und
+dem Kunden nach der Beendigung nach den geltenden Rechtsvorschriften.
+
+7. S&P/CSB ist berechtigt, seiner nach den vorliegenden Verpflichtungen
+geltenden Pflicht, den ISIN-Datensatz sowohl Informationsdiensten und
+Dienstleistungsbüros zum Vertrieb im EWR als auch Endnutzern zur
+Verwendung im EWR direkt zur Verfügung zu stellen, nachzukommen,
+indem das Masterfile mit den US-amerikanischen ISIN-Datensätzen
+Informationsdiensten, Dienstleistungsbüros und Endnutzern wahlweise a)
+direkt über die bestehenden Fazilitäten von S&P/CSB, b) über ein neues
+ISIN-Datensatz-Dienstleistungsbüro, das von S&P/CSB oder MGH
+eingerichtet werden kann, und/oder c) über die Fazilitäten des
+ANNA-Dienstleistungsbüros zur Verfügung gestellt wird.
+
+8. Es sei klargestellt, dass kein Teil der vorliegenden Verpflichtungen MGH,
+S&P, S&P/CSB oder jegliche ihrer Konzerngesellschaften in irgend einer
+Weise daran hindert, auf der Grundlage ihres bestehenden Vertriebsmodells
+oder jeglichen anderen kommerziellen Modells, nach dem sie nach eigenem
+Ermessen zeitweise tätig sein können, Informationsdiensten,
+
+27DE DE
+
+Dienstleistungsbüros, Endnutzern oder jeglichen anderen Kunden
+kommerzielle Datenbank-Produkte, die aus dem ISIN-Datensatz und
+Zusätzlichen Daten bestehen, anzubieten bzw. solche Produkte an sie zu
+vertreiben.
+
+9. Unbeschadet obenstehenden Absatzes 7 gelten die Abhilfemaßnahmen im
+Rahmen der vorliegenden Verpflichtungen nicht für das
+ANNA-Dienstleistungsbüro. S&P/CSB betreibt das
+ANNA-Dienstleistungsbüro im Einklang mit seinen vertraglichen
+Verpflichtungen gegenüber dem ANNA bezüglich des Betriebs des
+ANNA-Dienstleistungsbüros für den Verband weiter.
+
+ABSCHNITT C. GELTUNGSDAUER UND ÜBERPRÜFUNG
+
+10. Die vorliegenden Verpflichtungen werden von MGH innerhalb von fünf (5)
+Monaten ab dem Tag des Wirksamwerdens umgesetzt.
+
+11. Die vorliegenden Verpflichtungen gelten für einen Zeitraum von fünf (5)
+Jahren ab dem Tag der Umsetzung. Die Geltungsdauer der vorliegenden
+Verpflichtungen endet automatisch mit sofortiger Wirkung, sobald MGH
+oder S&P (oder S&P/CSB) nicht mehr als US-amerikanische NNA tätig ist.
+
+12. Unbeschadet der allgemeinen Bestimmung des Artikels 9 Absatz 2 der
+Verordnung (EG) Nr. 1/2003 des Rates kann MGH bei der Kommission
+beantragen, dass das Verfahren mit Blick auf eine Änderung der
+vorliegenden Verpflichtungen wieder aufgenommen wird, wenn sich die
+tatsächlichen Verhältnisse in einem für den Beschluss der Kommission nach
+Artikel 9 Absatz 1 dieser Verordnung wesentlichen Punkt geändert haben.
+
+13. Unbeschadet der Bestimmungen des Artikels 9 Absatz 2 der Verordnung
+(EG) Nr. 1/2003 des Rates kann die Kommission die vorliegenden
+Verpflichtungen ferner von Amts wegen überprüfen, wenn sich die
+tatsächlichen Verhältnisse in einem für den Beschluss der Kommission nach
+Artikel 9 Absatz 1 dieser Verordnung wesentlichen Punkt geändert haben.
+
+14. In jährlichen Abständen nach dem Tag der Umsetzung legt MGH der
+Kommission während der Geltungsdauer der vorliegenden Verpflichtungen
+einen vertraulichen Bericht über die Umsetzung der Verpflichtungen vor.
+[...]
+
+28DE DE
+
+ANHANG A
+
+Definition des ISIN-Datensatzes
+
+Mindestangaben für jede Kategorie/Ausgabeart zur Aufnahme in den Dienst für
+die Übermittlung von Masterfiles mit den US-amerikanischen ISIN-Datensätzen
+
+Mindestdatenfelder
+Eigenkapitalinstrumente Schuldtitel
+Elemente P / BP Elemente P / BP
+
+ISIN P ISIN P
+Name des Emittenten (Vollform) P Name des Emittenten P
+f Beschreibung der Emission P Beschreibung der Emission P
+Nennwert BP Zinsen BP
+Währung BP Fälligkeit BP
+
+Die Bedingten Pflichtangaben („BP“) sind nur anzugeben, wenn die Information nicht bereits Teil der
+Emissionsbeschreibung ist und sofern S&P/CSB diese Bedingten Pflichtangaben vom Emittenten/Antragsteller für die
+jeweilige ISIN-Kennung einholt.
+Abkürzungsverzeichnis
+P Pflichtangabe
+BP Bedingte Pflichtangabe
+
+29DE DE

@@ -1,0 +1,556 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+COMP/F/38.443
+
+DE DE
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel,
+
+.
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 21 Dezember 2005
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/F/38.443 – Kautschukchemikalien
+
+(Nur der englische, deutsche und spanische Text sind verbindlich.)
+
+(Text mit Bedeutung für den EWR)
+
+DE DE
+
+.
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/F/38.443 – Kautschukchemikalien
+
+(Nur der englische, deutsche und spanische Text sind verbindlich.)
+
+(Text mit Bedeutung für den EWR)
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN –
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf die Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der Wettbewerbsregeln der Artikel 81 und 82 EG-Vertrag1, insbesondere auf
+Artikel 7 Absatz 1 und Artikel 23 Absatz 2 EG-Vertrag,
+
+gestützt auf den Beschluss der Kommission vom 12. April 2005 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nach Aufforderung der beteiligten Unternehmen zur Stellungnahme zu den von der
+Kommission mitgeteilten Beschwerdepunkten gemäß Artikel 27 Absatz 1 der Verordnung
+(EG) Nr. 1/2003 und der Verordnung (EG) Nr. 2842/98 der Kommission vom 22. Dezember
+1998 über die Anhörung in bestimmten Verfahren nach Artikel 85 und 86 EG-Vertrag2,
+
+nach Stellungnahme des Beratenden Ausschusses für Kartell- und Monopolfragen3,
+
+in Kenntnis des Abschlussberichts des Anhörungsbeauftragten in dieser Sache,4
+
+IN ERWÄGUNG NACHSTEHENDER GRÜNDE:
+
+.
+
+1 ABl. L 1, 4.1.2003, S. 1; Verordnung geändert durch die Verordnung (EG) Nr. 411/2004 (L 68,
+6.3.2004, S. 1).
+2 ABl. L 354 vom 30.12.1998, S. 18.
+3 ABl. [...] vom [...], S. [...].
+4 ABl. [...] vom [...], S. [...].
+
+DE 2 DE
+
+A. Einleitung
+
+(1) Diese Entscheidung ist an die folgenden Unternehmen gerichtet:
+
+– Bayer AG
+
+– Chemtura Corporation (früher Crompton Corporation)
+
+– Crompton Europe Ltd.
+
+– Crompton Manufacturing Company, Inc. (früher Uniroyal Chemical Company,
+Inc.)
+
+– Flexsys N.V.
+
+– General Química SA,
+
+– Repsol Quimica SA.
+
+– Repsol YPF SA.
+
+(2) Die Adressaten der Entscheidung haben an einer einzigen, komplexen und
+fortdauernden Zuwiderhandlung gegen Artikel 81 EG-Vertrag und gegen Artikel 53
+EWR-Abkommen teilgenommen; die Zuwiderhandlung beinhaltete die Festsetzung
+von Preisen und den Austausch vertraulicher Informationen über bestimmte
+Kautschukchemikalien im EWR sowie auf dem Weltmarkt.
+
+(3) Nachdem sie im April 2002 von Flexsys N.V. einen Antrag auf Anwendung der
+Kronzeugenregelung erhalten hatte, leitete die Kommission Ermittlungen in der
+Kautschukchemikalienindustrie ein.
+
+DE 3 DE
+
+B. Der von diesem Verfahren betroffene Wirtschaftszweig
+
+1. DIE PRODUKTE
+
+(4) Kautschukchemikalien sind synthetische oder organische Chemikalien, die als
+Leistungs- und Qualitätsverstärker bei der Kautschukerzeugung verwendet werden.
+Sie werden in der Kautschukindustrie zur Herstellung einer Vielzahl von
+Gummierzeugnissen für die unterschiedlichsten Anwendungen eingesetzt. Die Kfz-
+Industrie ist der größte Abnehmer von Gummierzeugnissen, insbesondere von Reifen
+(auf die zwei Drittel dieser Erzeugnisse entfallen) sowie von Schläuchen,
+Dichtungsringen, Riemen usw. Gummierzeugnisse werden auch im Maschinen- und
+Ausrüstungsbau, im Baugewerbe, in Sport und Freizeit und für
+Gesundheitspflegemittel verwendet.
+
+(5) Die folgenden Gruppen von Kautschukchemikalien werden in diesem Industriezweig
+überwiegend verwendet: Konservierungsstoffe, Beschleuniger und Vulkanisierstoffe
+(löslicher und nicht löslicher Schwefel). Sie können auch gemäß ihrer Endverwendung
+in Reifen- und Nichtreifenprodukte unterteilt werden. Auf technischer Ebene besteht
+offenbar eine geringe angebotsseitige Substituierbarkeit zwischen den verschiedenen
+Gruppen und innerhalb dieser Gruppen; eine Ausnahme bildet nicht löslicher
+Schwefel, der als Vulkanisierstoff im Allgemeinen nicht als Kautschukchemikalie
+betrachtet wird. Auf der Nachfrageseite werden die Vulkanisierstoffe häufig als
+getrennter Produktmarkt angesehen.
+
+(6) Konservierungsstoffe und Beschleuniger sind hinsichtlich ihres Marktwertes die bei
+weitem wichtigste Untergruppe, auf die rund 85-90 % sämtlicher
+Kautschukchemikalien entfallen.
+
+(7) Konservierungsstoffe schützen die Gummierzeugnisse vor Oxidierung und Licht und
+sind unerlässlich, um eine lange Nutzungsdauer zu gewährleisten. Sie werden als
+Leistungsverstärker für Fertiggummi eingesetzt. Zwei Arten von
+Konservierungsstoffen sind zu unterscheiden: Antiozonantien, die
+Gummifertigerzeugnisse vor durch Ozon verursachten Schäden schützen und
+Antioxidantien, die vor durch Oxidation verursachten Schäden schützen. Zur Gruppe
+der Konservierungsstoffe zählen z.B. das Antiozonant PPD (Paraphenylendiamin), das
+Antioxidant TMQ und das Zwischenerzeugnis 4ADPA.
+
+(8) Beschleuniger dienen der Verkürzung des Vulkanisiervorgangs, bei dem
+Rohkautschuk in seinen Endzustand verwandelt wird und die Gummiteile die für die
+vorgesehene Verwendung erforderlichen Eigenschaften erwerben. Dabei wird
+zwischen primären und sekundären (Ultra-)Beschleunigern unterschieden. Eine
+weitere Beschleunigergruppe bilden die Prävulkanisierungshemmstoffe (PVI).
+
+(9) Primärbeschleuniger verstärken die Geschwindigkeit bzw. verringern die Temperatur,
+mit der die Vulkanisierung stattfindet. Die wichtigsten Primärbeschleuniger sind
+Sulfonamide (wie z.B. TBBS, CBS, MBS) und Thiazole (wie z.B. MBTS, MBT und
+ZMBT). Ultrabeschleuniger (auch als Aktivierungsmittel bezeichnet) werden in
+bestimmten Anwendungen in Verbindung mit Primärbeschleunigern verwendet, um
+die Überkreuzverbindungseffizienz zu verbessern und die Gesamtwirkung der
+Beschleuniger zu optimieren. Hierzu zählen im Wesentlichen Thiurame, DTC
+
+DE 4 DE
+
+(Dithiocarbamate), DPG und eine Reihe anderer Sekundärbeschleuniger, die unter den
+chemischen Kurzbezeichnungen NDBC, TDEC, ZBEC, ZDBC, ZDEC, ZMDC, ZEPC
+und TMTD bekannt sind.
+
+(10) Zur Gruppe der sonstigen Kautschukchemikalien zählen vor allem
+Reaktionsverzögerer, die der Hinauszögerung des Vulkanisiervorgangs bis zum
+gewünschten Moment dienen, und Weißfüller, die die Stärke und Dauerhaftigkeit der
+Enderzeugnisse steigern.
+
+(11) Es bestehen Anzeichen dafür, dass sich zumindest die in dieser Entscheidung für das
+Jahr 1996 beschriebenen Vereinbarungen unterschiedslos und unabhängig von der
+jeweiligen Spezifikation auf alle Gruppen von Kautschukchemikalien beziehen
+(Randnummer (68)), für Primärbeschleuniger, Antiozonantien (PPD) und
+Antioxidantien (TMQ) wird dies mit den vorhandenen Belegen eindeutig bewiesen.
+Die Kommission geht in diesem Verfahren deshalb davon aus, dass die von diesen
+Absprachen betroffenen Produkte diese drei Gruppen von Kautschukchemikalien
+umfassen.
+
+2. DIE VON DIESEM VERFAHREN DER KOMMISSION BETROFFENEN UNTERNEHMEN
+
+2.1 Die Adressaten dieser Entscheidung
+
+2.1.1 Flexsys
+
+(12) Flexsys N.V. (nachstehend „Flexsys“) ist ein Gemeinschaftsunternehmen, das sich
+zurzeit jeweils zu 50 % im Besitz der Solutia Inc. (USA) und der Akzo Nobel N.V.
+(Niederlande) befindet. Flexsys wurde am 1. Januar 1995 von der Monsanto Company
+(USA) und Akzo Nobel N.V. als konzentratives
+Vollfunktionsgemeinschaftsunternehmen gegründet und von der Kommission am
+19. Januar 1995 nach Maßgabe der Fusionskontrollvorschriften der Gemeinschaft
+genehmigt5. Die Muttergesellschaften übertrugen die betreffenden Vermögenswerte
+am 1. Januar 1995 an das Gemeinschaftsunternehmen und zogen sich daraufhin
+vollständig aus dem Kautschukchemikalienmarkt zurück. Im Jahre 1997 brachte
+Monsanto das Vermögen des Geschäftsbereichs Chemikalien sowie die Stammaktien
+und sonstige Beteiligungen an Flexsys in das neue Unternehmen Solutia Inc. ein, das
+dann Monsanto als Muttergesellschaft von Flexsys ablöste. Flexsys übt seine
+Geschäftstätigkeit auf dem Markt weiterhin als eigenständige wirtschaftliche Einheit
+aus.
+
+(13) Die Holdinggesellschaft von Flexsys ist die Flexsys Holding B.V., die zu jeweils 50 %
+der Akzo Nobel Chemicals International B.V. sowie der Solutia Inc und der Solutia
+Europe N.V. gemeinsam gehört.
+
+(14) Flexsys ist weltweit der größte Hersteller von Kautschukchemikalien. Im Jahre 2004
+erzielte das Unternehmen mit Waren und Dienstleistungen einen Umsatz von
+insgesamt 425 Mio. EUR.6 Die mit dem Verkauf von Kautschukchemikalien erzielten
+Umsätze sind den Tabellen 1 und 2 (Randnummer (33)) zu entnehmen.
+
+5 Entscheidung Akzo Nobel/Monsanto vom 19. Januar 1995, Sache Nr. IV/M.523.
+6 Schreiben von Flexsys vom 26. April 2004, Akte S. 10706, aktualisiert am 17. November 2005.
+
+DE 5 DE
+
+2.1.2 Bayer
+
+(15) Bayer AG (nachstehend Bayer) ist eine Aktiengesellschaft, die u.a. in der
+Chemikalien- und Polymerindustrie tätig ist. Der Geschäftsbereich
+Kautschukchemikalien der Bayer AG wurde mit Wirkung zum 1. Januar 2003 in den
+Geschäftsbereich Bayer Polymers und anschließend ab 1. Dezember 2003 in die Bayer
+MaterialScience AG überführt. Danach wurde der Geschäftsbereich
+Kautschukchemikalien der Bayer MaterialScience AG in die Lanxess Deutschland
+GmbH („Lanxess“) überführt. Diese Transaktion ist zum 30. September 2004 mit der
+Eintragung im Handelsregister wirksam geworden. Bis zum 28. Januar 2005 befand
+sich Lanxess zu 100 % im Besitz der Bayer AG. Am 28. Januar 2005 ging das
+Unternehmen als Lanxess AG an die Börse.7
+
+(16) Bis zur Umstrukturierung wurden Kautschukchemikalien von Bayer selbst sowie von
+seinen 100%igen Tochtergesellschaften in Spanien und Belgien hergestellt. Die
+Erzeugnisse wurden von regionalen Absatzgesellschaften des Unternehmens
+vertrieben, wobei die Verkäufe an die Hauptabnehmer über die Großkundenabteilung
+von Bayer Leverkusen abgewickelt wurden, wo der Vertrieb von
+Kautschukchemikalien zusammengefasst war. Alle mit dem Vertrieb dieser
+Erzeugnisse befassten verbundenen Unternehmen waren entweder Geschäftsbereiche
+von Bayer selbst oder von den 100%igen Tochtergesellschaften des Unternehmens,
+die der Vertriebsleitung in Leverkusen unterstanden und von dieser Anweisungen
+erhielten.8
+
+(17) Im Jahre 2004 erzielte Bayer mit allen Waren und Dienstleistungen weltweit einen
+Umsatz von etwa 29,7 Mrd. EUR.9 Die mit dem Verkauf von Kautschukchemikalien
+erzielten Umsätze sind den Tabellen 1 und 2 (Randnummer (33)) zu entnehmen.
+
+2.1.3 Crompton/Uniroyal (heute Chemtura)
+
+(18) Crompton Corporation, im Jahre 2005 in Chemtura Corporation umbenannt
+(nachstehend „Crompton“ bzw. „Chemtura“), ist eine amerikanische
+Aktiengesellschaft. Sie wurde am 1. September 1999 durch den Zusammenschluss der
+Crompton & Knowles Corporation mit der Witco Corporation gegründet. Mit 35
+Großstandorten auf der ganzen Welt ist Crompton weltweit der drittgrößte Hersteller
+von Kautschukchemikalien. Der Sitz des Unternehmens befindet sich in Greenwich,
+Connecticut, USA.
+
+(19) Mit dem Erwerb des amerikanischen Unternehmens Uniroyal Chemical Company Inc.
+(nachstehend „Uniroyal“ oder „UCC“, heute Crompton Manufacturing Company, Inc.,
+nachstehend „Crompton Manufacturing“) am 21. August 1996 wurde Crompton im
+Bereich der Kautschukchemikalien tätig. Innerhalb der Crompton-Gruppe wird
+Uniroyal weiterhin als eigenständiges Rechtssubjekt geführt. Das organisatorisch auf
+Crompton übertragene Kautschukchemikaliengeschäft wurde bis Ende 2002 im
+Namen von Uniroyal betrieben. Es ist nunmehr Bestandteil der Gruppe
+Leistungschemikalien und Elastomere (PCE) von Crompton.
+
+7 Siehe Erwiderung von Bayer auf die Mitteilung der Beschwerdepunkte, S. 3.
+8 Schreiben von Bayer vom 15. April 2004, Abschnitt 1, Akte S. 7970-7973.
+9 Schreiben von Bayer vom 15. April 2004, Abschnitt 3, Akte S. 8017.
+
+DE 6 DE
+
+(20) Innerhalb der Unternehmensstruktur der Crompton-Gruppe befindet sich Uniroyal
+letztlich zu 100 % im Besitz von Crompton. Uniroyal wiederum ist direkte oder
+indirekte Eigentümerin der folgenden europäischen Tochtergesellschaften, die von den
+Unternehmen der Crompton-Gruppe hergestellte Kautschukchemikalien vertrieben
+haben: Crompton Europe Ltd., Vereinigtes Königreich (nachstehend „Crompton
+Europe“), Crompton Europe B.V, Niederlande, Crompton Chimica S.r.l., Italien, und
+Crompton Chemical S.r.l., Italien. Crompton wurde zwar im Jahre 2005 in Chemtura
+umbenannt; die von diesem Verfahren betroffenen Rechtssubjekte, d.h. Crompton,
+Uniroyal und Crompton Europe werden jedoch weiterhin gemeinsam als
+„Crompton/Uniroyal“ bezeichnet. Crompton Europe (früher Uniroyal Chemical Ltd.)
+ist gegenwärtig eine hundertprozentige Vertriebstochter von Uniroyal, zu dem es
+gehörte, bevor Uniroyal 1996 von Crompton übernommen wurde.
+
+(21) In der Führung des Kautschukchemikaliensegments bei Crompton, Uniroyal und
+Crompton Europe bestehen enge Verflechtungen. Beispielsweise erteilte [...] von
+Crompton ([...]) Weisungen an [...] von Uniroyal, der wiederum Weisungsbefugnis
+gegenüber [...] und [...] von Uniroyal besaß, die bei Crompton Europe im Vereinigten
+Königreich tätig waren. [...],[...] von Crompton war ebenfalls im Vereinigten
+Königreich ansässig und erteilte den Führungskräften von Crompton ([...] und [...])
+Weisungen betreffend den Absatz und den Vertrieb von Kautschukchemikalien in
+Europa. Enge Beziehungen bestanden auch zwischen [...] von Uniroyal und [...] von
+Crompton, die sich untereinander über ihre Kontakte mit Wettbewerbern
+informierten.10
+
+(22) Im Jahr 2004 erzielte Crompton mit sämtlichen Waren und Dienstleistungen weltweit
+einen Umsatz von rund 2,06 Mrd. EUR.11 Die mit dem Verkauf von
+Kautschukchemikalien erzielten Umsätze sind den Tabellen 1 und 2 (Randnummer
+(33)) zu entnehmen.
+
+2.1.4 General Química, Repsol Quimica und Repsol YPF SA
+
+(23) General Química S.A. (nachstehend „General Química“ oder „GQ“) ist ein in der
+Chemieindustrie tätiges spanisches Unternehmen. Gegenwärtig stellt es nicht die volle
+Palette von Kautschukchemikalien her, sondern konzentriert sich auf
+Primärbeschleuniger (CBS, TBBS, MBTS) und Antioxidantien (TMQ). Das
+Unternehmen stellte zwischen 1992 und 1993 die Produktion von Ultrabeschleunigern
+(Carbamaten) ein und hat daraufhin Produkte zunächst von Akzo und anschließend
+von Flexsys bezogen. General Química begann im Januar 1990, außerhalb von
+Spanien Sulfonamide, Thiazole (beides Primärbeschleuniger) und das Antioxidant
+TMQ zu verkaufen. General Química ist eine vollständige Tochtergesellschaft von
+Repsol Química SA (Repsol Química), die im Jahr 1989 91 % und am 28. Dezember
+1993 die verbleibenden 9 % der Anteile an General Química von der Banca Bilbao
+Vizcaya erwarb. Repsol Química befindet sich vollständig im Besitz der Repsol YPF
+SA. (Die Repsol YPF SA ist aus der Übernahme der Repsol SA, einer 100%igen
+Tochter von Repsol Química, durch die YPF SA hervorgegangen.)
+
+10 Mündliche Erklärung von Crompton vom 11. Mai 2004, Akte S. 10821, sowie Abschrift S. 10735-
+10737.
+11 Schreiben von Crompton vom 3. März 2004, Akte S. 10510.
+
+DE 7 DE
+
+(24) Im Jahr 2004 erzielte General Química mit sämtlichen Waren und Dien
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ Verfahrens doch begrenzt geblieben. Die Erklärungen von
+Bayer bestätigen zwar weitgehend die Darlegungen von Flexsys und Crompton
+hinsichtlich des Zeitraums 1998-2001; die Kommission hatte jedoch dank zweier
+unabhängiger Quellen, die durch umfangreiche Unterlagen bestätigt wurden, bereits
+ein klares Bild vom Kartell, noch bevor Bayer die ersten Unterlagen übermittelte. Die
+von Bayer übermittelten Unterlagen aus dem betreffenden Zeitraum sind im Vergleich
+zu den von Crompton übermittelten Unterlagen ebenfalls beschrankt und bestehen im
+Wesentlichen aus Spesenabrechnungen und Unterlagen, die bereits bei der
+Nachprüfung gefunden wurden. Trotzdem hat Bayer durch die Übermittlung weiterer
+Einzelheiten bezüglich der Wirkungsweise des Kartells insgesamt einen Mehrwert
+beigetragen, indem neue Vorfälle offengelegt wurden, welche die Beteiligung von
+Bayer an einer Reihe zweiseitiger Kontakte mit den anderen Herstellern bestätigten.
+
+(373) Vor allem hat Bayer selbst nach Erhalt der Mitteilung der Beschwerdepunkte die
+Zuwiderhandlung nur für den Zeitraum 1998-2001 eingeräumt; dies bestätigt, dass der
+Mehrwert, den die Zusammenarbeit von Bayer darstellte, begrenzt geblieben ist. Für
+Bayer kommt daher nur die geringstmögliche innerhalb der Bandbreite von 20-30 %
+vorgesehene Ermäßigung in Betracht. Diesbezüglich ist die Kommission der Ansicht,
+dass in Fällen, in denen ein Mitarbeiter eines Unternehmens nicht kooperiert (wie Herr
+[...] von Bayer in dieser Sache), die Anwendung der Kronzeugenregelung voraussetzt,
+dass das betreffende Unternehmen seiner Verantwortung nachkommt und sich nicht
+hinter einzelnen Mitarbeitern versteckt. Verhältnismäßig unabhängig von der Frage, an
+was sich die damals für den Kautschukchemikalienmarkt zuständigen Führungskräfte
+von Bayer erinnern können, besteht die offensichtliche Strategie von Bayer in dem
+Bestreben, die Position der Kommission hinsichtlich der verfügbaren Beweismittel
+sowie bezüglich aller Ereignisse vor 1998 zu schwächen. Durch den Versuch, die
+Möglichkeiten der Kommission zur Führung des Beweises für die Zuwiderhandlung
+einzuschränken, obwohl ein in sich schlüssiger Bestand an Beweismitteln und Belegen
+für das Bestehen des Kartells und die Beteiligung von Bayer an dem Kartell verfügbar
+ist, wirft Bayer erhebliche Zweifel auch hinsichtlich des Umfangs und des
+Fortbestands der Kooperation auf.
+
+(374) Entsprechend ist die Kommission der Ansicht, dass Bayer nur eine Ermäßigung der
+bei Nichtzusammenarbeit festgesetzten Geldbuße um 20 % beanspruchen kann.
+
+16.4. General Química/Repsol Quimica/Repsol YPF
+
+(375) General Química war das dritte Unternehmen, das die Anforderungen von Nummer 21
+der Kronzeugenregelung erfüllt hat, da Bayer der Kommission Beweismittel vorgelegt
+
+DE 102 DE
+
+hat, die einen erheblichen Mehrwert gemessen an den Beweismitteln darstellen, die
+sich zum Zeitpunkt der Übermittlung bereits im Besitz der Kommission befunden
+haben, und General Química hat nach Kenntnis der Kommission die Beteiligung an
+der Zuwiderhandlung spätestens mit der Übermittlung der Beweismittel beendet und
+später auch nicht mehr aufgenommen. GQ erfüllt daher die Voraussetzungen gemäß
+Nummer 23 Buchstabe b dritter Gedankenstrich der Kronzeugenregelung für eine
+Ermäßigung der Geldbuße um bis zu 20 % . In ihrer Bewertung des Umfangs der
+Ermäßigung innerhalb der genannten Bandbreite berücksichtigt die Kommission den
+Zeitpunkt, zu dem die Beweismittel von erheblichem Mehrwert übermittelt wurden,
+sowie den Umfang, in dem die Beweismittel diesen Mehrwert darstellen. Außerdem
+kann die Kommission Umfang und Fortdauer der Zusammenarbeit im Anschluss an
+die Vorlage der Beweismittel berücksichtigen.
+
+(376) General Química trägt vor, die gezeigte Zusammenarbeit berechtige zur Anwendung
+der innerhalb der gegebenen Bandbreite größtmöglichen Ermäßigung um 20 %.
+
+(377) Die Kommission stellt fest, dass die Unterlagen von GQ in Art und Ausführlichkeit
+die Möglichkeiten der Kommission zum Nachweis der fraglichen Sachverhalte
+gestärkt haben; trotzdem kommt die größtmögliche Ermäßigung innerhalb der
+Bandbreite bis zu 20 % nicht in Betracht. Erstens hat GQ erst eineinhalb Jahre nach
+der Nachprüfung in den Räumen des Unternehmens und damit erst verhältnismäßig
+spät die Bedingung eines erheblichen Mehrwertes für das Verfahren erfüllt. Und
+zweitens ist der Umfang, indem die Unterlagen von GQ diesen Wert darstellen, auf
+weitere Einzelheiten und Erläuterungen des Hintergrundes einer Reihe von
+Unterlagen, die in den von der Kommission durchgeführten Nachprüfungen
+hinsichtlich des Zeitraums vor 1997 gefunden wurden, sowie auf die Offenlegung
+weiterer Einzelheiten und Kontakte bezüglich der Beteiligung des Unternehmens an
+der Preiserhöhung im Januar 2000 sowie bezüglich gewisser sonstiger Kontakte mit
+den Wettbewerbern in der Unternehmenserklärung beschränkt. Die von GQ
+übermittelten schriftlichen Unterlagen aus der damaligen Zeit beschränken sich auf ein
+Telefax bezüglich der Vorbereitung einer Reise zu der entscheidenden
+Zusammenkunft am 28. Oktober 1999, in der GQ die Absicht zur Übernahme der mit
+Wirkung zum Januar 2000 vereinbarten Preiserhöhung erklärte. Da GQ jedoch ein
+kleiner Marktteilnehmer war, der sich nur sporadisch am Kartell beteiligte,
+beschränkten sich die Belege in der Akte, bevor GQ den Antrag auf die Anwendung
+der Kronzeugenregelung stellte, abgesehen vom Zeitraum vor 1997, für den
+Unterlagen verfügbar waren, weitgehend auf einseitige Erklärungen der anderen
+Parteien. Unter diesen Umständen kommen der Bestätigung und dem Eingeständnis
+der Zuwiderhandlung durch das Unternehmen beträchtliche Bedeutung zu.
+
+(378) Entsprechend ist die Kommission der Ansicht, dass General Química (und Repsol)
+eine Ermäßigung der bei Nichtzusammenarbeit festgesetzten Geldbuße um 10 %
+zusteht.
+
+16.5. Schlussfolgerung zur Anwendung der Kronzeugenregelung von 2002
+
+(379) In Anbetracht der vorstehenden Ausführungen sollten die Geldbußen, die gegen
+Flexsys, Crompton, Bayer und General Química verhängt worden wären, wenn sie
+nicht mit der Kommission zusammengearbeitet hätten, wie folgt ermäßigt werden:
+
+- Flexsys Befreiung von Geldbußen;
+
+DE 103 DE
+
+- Chemtura, Crompton
+Manufacturing und
+Crompton Europe Ermäßigung um 50 %;
+- Bayer Ermäßigung um 20 %;
+
+- General Química,
+Repsol Quimica
+und Repsol YPF Ermäßigung um 10 %.
+
+17. DIE HÖHE DER IN DIESEM VERFAHREN FESTGESETZTEN GELDBUßEN
+
+(380) Entsprechend werden gemäß Artikel 15 Absatz 2 der Verordnung Nr. 17 und gemäß
+Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003 folgende Geldbußen festgesetzt:
+
+– Flexsys 0 EUR
+
+– Crompton Manufacturing
+gesamtschuldnerisch
+mit Crompton Europe: 13,6 Mio. EUR
+davon gesamtschuldnerisch mit Chemtura: 12,75 Mio. EUR
+
+– Bayer 58,88 Mio. EUR
+
+– General Química gesamtschuldnerisch mit
+Repsol Quimica und Repsol YPF: 3,38 Mio. EUR
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen haben gegen Artikel 81 Absatz 1 EG-Vertrag sowie gegen
+Artikel 53 EWR-Abkommen verstoßen, indem sie sich in den genannten Zeiträumen an einem
+Komplex von Vereinbarungen und abgestimmten Verhaltensweisen bestehend aus
+Preisabsprachen und dem Austausch vertraulicher Informationen über den
+Kautschukchemikaliensektor im EWR beteiligt haben.
+
+a) Bayer AG vom 1. Januar 1996 bis zum 31. Dezember 2001;
+
+b) Crompton Manufacturing Company Inc., vom 1. Januar 1996 bis zum 31. Dezember
+2001;
+
+c) Crompton Europe Ltd. vom 1. Januar 1996 bis zum 31. Dezember 2001;
+
+d) Chemtura Corporation vom 21. August 1996 bis zum 31. Dezember 2001;
+
+e) Flexsys N.V.: vom 1. Januar 1996 bis zum 31. Dezember 2001;
+
+f) General Química SA vom 31. Oktober 1999 bis zum 30. Juni 2000;
+
+g) Repsol Química SA vom 31. Oktober 1999 bis zum 30. Juni 2000;
+
+DE 104 DE
+
+h) Repsol YPF SA vom 31. Oktober 1999 bis zum 30. Juni 2000.
+
+Artikel 2
+
+Für die in Artikel 1 genannten Zuwiderhandlungen werden folgende Geldbußen festgesetzt:
+
+a) Flexsys N.V 0 EUR
+
+b) Crompton Manufacturing Company, Inc.
+gesamtschuldnerisch mit Crompton Europe Ltd. 13,6 Mio. EUR
+
+davon gesamtschuldnerisch mit Chemtura Corporation 12,75 Mio. EUR
+
+c) Bayer AG 58,88 Mio. EUR
+
+d) General Química SA gesamtschuldnerisch mit
+Repsol Quimica SA und Repsol YPF SA 3,38 Mio. EUR.
+
+Die Geldbußen sind binnen drei Monaten ab Zustellung dieser Entscheidung in Euro auf das
+nachstehende Konto zu entrichten:
+
+Konto Nr.
+[001-3953713-69 der Europäischen Kommission bei der
+
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Brüssel
+
+(Code SWIFT GEBABEBB – Code IBAN BE71 0013 9537 1369)]
+
+Nach Ablauf dieser Frist werden Zinsen zu dem Satz fällig, der von der Europäischen
+Zentralbank bei ihren Hauptrefinanzierungsgeschäften am ersten Tag des Monats angewandt
+wird, in dem diese Entscheidung erlassen wurde, zuzüglich 3,5 Prozentpunkte, d. h. 5,59 %.
+
+Artikel 3
+
+Die in Artikel 1 aufgeführten Unternehmen stellen die dort genannten Zuwiderhandlungen
+unverzüglich ab, soweit dies nicht bereits geschehen ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 beschriebenen Handlungen oder
+Verhaltensweisen sowie von allen Maßnahmen mit gleichem Zweck oder gleicher Wirkung
+ab.
+
+Artikel 4
+
+Diese Entscheidung ist gerichtet an:
+
+– Bayer AG, Corporate Center, BAG LP Leitung, D-51368 Leverkusen,
+Deutschland
+
+DE 105 DE
+
+– Crompton Manufacturing Company Inc., 199 Benson Road, Middlebury, CT
+06749, USA
+
+– Crompton Europe Ltd, Kennet House, 4 Langley Quay, Slough, Berkshire, SL3
+6EH, Vereinigtes Königreich
+
+– Chemtura Corporation,199 Benson Road, Middlebury, CT 06749, USA
+
+– Flexsys N.V., Woluwe Garden, Woluwedal 24/3, B-1932 Sint-Stevens-
+Woluwe, Belgien
+
+– General Química SA, Zubillaga-Lantaron, Alava, Apartado 13, 09200 Miranda
+de Ebro, Spanien
+
+– Repsol Química SA, Paseo de la Castellana 278-280, 28046 Madrid, Spanien
+
+– Repsol YPF SA, Paseo de la Castellana 278-280, 28046 Madrid, Spanien
+
+DE 106 DE
+
+Diese Entscheidung ist gemäß Artikel 256 EG-Vertrag und Artikel 110 EWR-Abkommen
+vollstreckbar.
+
+Brüssel, den
+
+Für die Kommission
+
+Neelie KROES
+Mitglied der Kommission
+
+DE 107 DE

@@ -1,0 +1,395 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40424 - Capcom
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 20/01/2021
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN 1 EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 20.1.2021
+C(2021) 72 final
+
+COMMISSION DECISION
+
+of 20.1.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union (the Treaty) and Article 53 of the Agreement on the European
+Economic Area
+
+Case AT.40424 – Capcom
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN 2 EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 6
+2. The undertaking concerned .......................................................................................... 6
+3. Other undertakings relevant for the infringement ........................................................ 7
+3.1. [...] ................................................................................................................................ 7
+3.2. Valve ............................................................................................................................ 7
+4. The product and geographic markets concerned .......................................................... 7
+5. Procedure...................................................................................................................... 8
+6. Facts ............................................................................................................................. 9
+6.1. Industry concerned ....................................................................................................... 9
+6.1.1. Overview of Valve’s business activity ......................................................................... 9
+6.1.1.1. Sale and activation of PC video games on Steam ...................................................... 12
+6.1.1.2. Technical implementation of geo-blocking via Steam activation keys...................... 13
+7. Relevant markets ........................................................................................................ 14
+7.1. Principles .................................................................................................................... 14
+7.2. Relevant product market ............................................................................................ 14
+7.2.1. Substitutability of video games running on different electronic systems .................. 14
+7.2.2. Substitutability of PC video games sold physically and digitally .............................. 15
+7.3. Relevant geographic market ....................................................................................... 16
+7.4. Conclusion on relevant markets ................................................................................. 17
+8. The relevant conduct .................................................................................................. 17
+8.1. Agreements/concerted practices with Valve .............................................................. 17
+8.1.1. The SDAs between Valve and Capcom ..................................................................... 17
+8.1.2. Capcom’s PC video games geo-blocked via Steam activation keys .......................... 18
+8.2. Agreements with [...] .................................................................................................. 21
+8.3. Conclusion on the agreements/concerted practices entered into by Capcom ............ 22
+9. Legal assessment ........................................................................................................ 22
+10. Application of Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement
+.................................................................................................................................... 23
+10.1. Concept of undertaking .............................................................................................. 23
+10.1.1. Principles .................................................................................................................... 23
+10.1.2. Application to this case .............................................................................................. 23
+10.2. Agreements and concerted practices .......................................................................... 23
+10.2.1. Principles .................................................................................................................... 23
+10.2.2. Application to this case .............................................................................................. 24
+
+EN 3 EN
+
+10.3. Restriction of competition by object .......................................................................... 25
+10.3.1. Principles .................................................................................................................... 25
+10.3.1.1. Restrictions of cross-border sales............................................................................... 26
+10.3.1.2. IP rights and competition law assessment under Article 101 of the Treaty ............... 27
+10.3.2. Application to this case .............................................................................................. 28
+10.4. Single and continuous infringement........................................................................... 29
+10.4.1. Principles .................................................................................................................... 29
+10.4.2. Application to this case .............................................................................................. 30
+10.5. Appreciable effect on trade between Members States and between the EEA
+Contracting Parties ..................................................................................................... 31
+10.6. Application of Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement
+.................................................................................................................................... 31
+11. Scope and duration of the infringement ..................................................................... 32
+11.1. Product scope ............................................................................................................. 32
+11.2. Geographic scope ....................................................................................................... 32
+11.3. Duration of the infringement ...................................................................................... 32
+12. Liability ...................................................................................................................... 32
+12.1. Principles .................................................................................................................... 32
+12.2. Application to this case .............................................................................................. 33
+13. Remedies and Fines.................................................................................................... 34
+13.1. Remedies under Article 7 of Regulation (EC) No 1/2003 ......................................... 34
+13.2. Fines under Article 23(2) of Regulation (EC) No 1/2003 – principles ..................... 34
+13.3. The intentional or negligent nature of the infringement ............................................ 35
+13.4. Calculation of the fine ............................................................................................... 36
+13.4.1. Value of sales ............................................................................................................ 36
+13.4.2. Gravity........................................................................................................................ 36
+13.4.3. Duration...................................................................................................................... 37
+13.4.4. Calculation of the basic amount ................................................................................. 37
+13.4.5. Aggravating or mitigating factors .............................................................................. 37
+13.4.6. Application of the 10% turnover limit ....................................................................... 37
+13.4.7. Reduction of the fine in view of cooperation ............................................................. 37
+13.4.8. Conclusion: final amount of the fine .......................................................................... 38
+
+EN 4 EN
+
+COMMISSION DECISION
+
+of 20.1.2021
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union (the Treaty) and Article 53 of the Agreement on the European
+Economic Area
+
+Case AT.40424 – Capcom
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union1,
+Having regard to the Agreement on the European Economic Area (the “EEA Agreement”),
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+Having regard to the Commission decision of 2 February 2017 to initiate proceedings in this
+case,
+Having given the undertaking concerned the opportunity to make known its views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty3,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer in this case,
+
+1 OJ, C 115, 9/5/2008, p.47.
+2 Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition
+laid down in Articles 81 and 82 of the Treaty, OJ L 1, 4.1.2003, p. 1. With effect from
+1 December 2009, Articles 81 and 82 of the EC Treaty have become Articles 101 and 102, respectively,
+of the Treaty on the Functioning of the European Union ("TFEU" or "Treaty"). The two sets of
+provisions are, in substance, identical. For the purposes of this Decision, references to Articles 101 and
+102 of the Treaty should be understood as references to Articles 81 and 82, respectively, of the EC
+Treaty where appropriate. The Treaty also introduced certain changes in terminology, such as the
+replacement of "Community" by "Union" and "common market" by "internal market". Where the
+meaning remains unchanged, the terminology of the Treaty will be used throughout this Decision. For
+the purposes of this Decision, although the United Kingdom withdrew from the European Union as of 1
+February 2020, according to Article 92 of the Agreement on the withdrawal of the United Kingdom of
+Great Britain and Northern Ireland from the European Union and the European Atomic Energy
+Community (OJ L 29, 31.1.2020, p. 7), the Commission continues to be competent to apply Union law
+as regards the United Kingdom for administrative procedures which were initiated before the end of the
+transition period.
+3 OJ L 123, 27.4.2004, p. 18.
+
+EN 5 EN
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision concerns Capcom Co., Ltd. (“Capcom Japan”), Capcom U.S.A., Inc.
+(“Capcom USA”) and CE Europe Ltd. (“Capcom Europe”). The undertaking
+comprising those three entities is referred to in this Decision as “Capcom”.
+(2) In this Decision, the Commission finds that Capcom engaged in bilateral agreements
+and/or concerted practices with Valve Corporation (“Valve”) to set-up activation
+restrictions and to provide the related geo-blocked Steam activation keys preventing
+the activation of some of Capcom’s personal computer (“PC”) video games outside
+of designated Member States and Contracting Parties to the European Economic
+Area (“EEA”) Agreement,4 namely the Czech Republic, Estonia, Hungary, Latvia,
+Lithuania, Poland, Romania and Slovakia, based on the geographical location of the
+user (“geo-blocking”). These agreements/concerted practices, considered
+collectively, concerned five PC video games of Capcom5 and took place between
+13 February 2013 and 17 November 2014 (see Section 8.1)
+(3) The agreements/concerted practices mentioned in Recital (2) aimed at restricting
+cross-border sales6 of such PC video games. They form a single and continuous
+infringement of Article 101 of the Treaty and Article 53 of the Agreement on the
+European Economic Area (“EEA Agreement”) for which Capcom is liable. The
+single and continuous infringement lasted from 13 February 2013 until
+17 November 2014.
+
+2. THE UNDERTAKING CONCERNED
+(4) Capcom is an international software and games developer and publisher
+headquartered in Japan. The legal entities concerned by this Decision are: Capcom
+Japan, based in Tokyo, Japan; Capcom U.S.A, based in San Francisco, USA; and
+Capcom Europe, based in London, United Kingdom. Capcom Europe and Capcom
+
+4 For the purposes of this Decision, the EEA is understood to cover the 27 Member States of the
+European Union (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta,
+Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden) and the United
+Kingdom, as well as Iceland, Liechtenstein and Norway. Accordingly, any references made to the EEA
+in this Decision are meant to also include the United Kingdom (UK).
+5 Namely, (1) [...], (2) [...], (3) [...], (4) [...] and (5) [...].
+6 The term “restrictions of cross-border sales” refers to practices preventing or hindering companies from
+responding to unsolicited requests from outside a specific territory (“passive sales”). The Court of
+Justice has held that an agreement which might tend to restore the divisions between national markets is
+liable to frustrate the Treaty’s objective of achieving the integration of those markets through the
+establishment of an internal market and must be regarded, in principle, as an agreement the object of
+which is to restrict competition within the meaning of Article 101(1) of the Treaty, unless other
+circumstances falling within its economic and legal context justify the finding that such an agreement is
+not liable to impair competition (Judgment of the Court of Justice of 4 Oct
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+n the facts described in Section 8, the single
+and continuous infringement was committed intentionally or at the very least
+negligently.
+(152) On the basis of this evidence and the evidence quoted in Section 8, Capcom agreed
+with Valve to set up activation restrictions and create geo-blocked activation keys
+with the express purpose of restricting cross-border sales within the EEA where
+
+160 Point 21 of the Guidelines on Fines.
+161 Point 19 of the Guidelines on Fines.
+162 Point 22 of the Guidelines on Fines.
+163 Point 13 of the Guidelines on Fines.
+164 Point 25 of the Guidelines on Fines.
+165 Point 27 of the Guidelines on Fines.
+166 Point 30 of the Guidelines on Fines.
+167 Case C-19/77 Miller, paragraph 18; Case T-62/98 Volkswagen, paragraph 334.
+168 Judgment of the General Court of 5 October 2011, Romana Tabacchi Srl v Commission, T-11/06,
+ECLI:EU:T:2011:560, paragraph 227; Judgment of the Court of First Instance of 14 May 1998, Enso
+Española SA v Commission, T-348/94, ECLI:EU:T:1998:102, paragraph 277; Judgment of the Court of
+18 June 2013, Bundeswettbewerbsbehörde and Bundeskartellanwalt v Schenker & Co. AG and Others,
+C-681/11, ECLI:EU:C:2013:404, paragraph 37 and the case-law cited.
+
+EN 35 EN
+
+Capcom’s distributor [...] could sell certain of Capcom’s PC video games as
+evidenced in Section 10.3.2.
+13.4. Calculation of the fine
+13.4.1. Value of sales
+(153) It is settled case-law that whilst the concept of the "value of sales" cannot be
+extended to encompass sales which do not fall within the infringement, it nonetheless
+cannot solely be limited to the value of sales in respect of which it is established that
+they were actually affected by that infringement.169 The concept of the "value of
+sales" must be understood as referring to sales on the market concerned by the
+infringement.170
+(154) The relevant value of sales include the turnover generated by the EEA sales of the
+Capcom PC video games concerned by the infringement described in Section 8.1.2
+and 10.3.2, generated both by physical and digital distribution. This includes also
+70% of the gross revenues generated by the sale of the concerned PC video games on
+Steam.
+(155) Irrespective of whether the infringement described in Section 8.1 concern physical or
+digital distribution of the concerned PC video games the turnover generated by both
+types of distribution is considered relevant for determining the value of sales given
+that there is at least potential competition between physical and digital distribution of
+PC video games (see Section 7.2).
+(156) Based on the principles outlined in this Section and on the information provided by
+Capcom, the value of sales should be based on Capcom’s sales in the EEA of the PC
+video games directly and indirectly concerned with the infringement, i.e., (1) “[...]”,
+(2) “[...]”, (3) “[...]”, (4) “[...]” and (5) “[...]”, in the financial year 2013 (running
+from 1 April 2013 to 31 March 2014), which was the last full business year of its
+participation in the single and continuous infringement.
+(157) Accordingly, the value of sales to be taken into account is EUR [3 500 000 –
+5 400 000].
+13.4.2. Gravity
+(158) The gravity of the infringement determines the percentage of the value of sales to be
+taken into account in setting the fine. According to points 21 and 23 of the
+Guidelines on Fines, the percentage for gravity will be set at a level up to 30% of the
+value of sales and towards the higher end of that scale for the most serious
+infringements. In assessing the gravity of the infringement, the Commission has
+regard to a number of factors.
+(159) Restrictions of cross-border sales, by their very nature, restrict competition within the
+meaning of Article 101(1) of the Treaty and Article 53 of the EEA Agreement.
+However, vertical agreements and concerted practices are, by their nature, often less
+
+169 Judgment of the Court of 11 July 2013, Team Relocations NV and Others v Commission, C-444/11 P,
+ECLI:EU:C:2013:464, paragraphs 76 and 77.
+170 Judgment of the Court of 1 February 2018, Deutsche Bahn AG and Others v Commission, C-264/16 P,
+ECLI:EU:C:2018:60 paragraph 50.
+
+EN 36 EN
+
+damaging to competition than horizontal agreements.171 Taking into account this
+factor, the fact that the restriction of cross-border sales in this case covered the whole
+EEA, and the scope of the infringement,172 the percentage of the value of sales
+should be set at 6%.
+13.4.3. Duration
+(160) The duration of the infringement, as set out in Section 11.3, was 643 days (1.76
+years).
+13.4.4. Calculation of the basic amount
+(161) The basic amount of the fine to be imposed in this case therefore amounts to
+EUR [...] (rounded figure).
+13.4.5. Aggravating or mitigating factors
+
+(162) The Commission concludes that there are no aggravating or mitigating circumstances
+that should result in an increase or decrease in the basic amount of the fine to be imposed
+in this case.
+
+13.4.6. Application of the 10% turnover limit
+(163) The fine for the infringement does not exceed 10% of Capcom's total turnover
+relating to the business year preceding the date of adoption of this Decision pursuant
+to Article 23(2) of Regulation (EC) No 1/2003.
+(164) The fine for the infringement set out in Recital (161) does not exceed 10% of
+Capcom’s total turnover in the business year preceding the date of the adoption of
+this Decision.
+13.4.7. Reduction of the fine in view of cooperation
+(165) In order to reflect that Capcom has effectively cooperated with the Commission
+beyond its legal obligation to do so, the fine that would otherwise have been imposed
+should, pursuant to point 37 of the Guidelines of fines, be reduced by 15%. On
+27 August 2015, Capcom submitted a Corporate Statement,173 including evidence
+and explanations concerning the geo-blocking practices, which strengthened the
+Commission’s ability to prove the infringement. In particular, the Corporate
+Statement included: pertinent background explanations on Capcom’s relationship
+with Valve; details of how the system of geo-blocking via Steam keys worked,
+thereby facilitating the Commission’s understanding of the types of restrictions
+concerned; and explanations of specific pieces of evidence, which impacted on the
+geographic scope of the infringement. Moreover, on [...] Capcom submitted
+Settlement Submissions to the Commission, acknowledging the infringement and
+agreeing to pay a fine. Capcom co-operated with the Commission by acknowledging
+an infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement
+and waiving certain procedural rights, resulting in administrative efficiencies.
+
+171 Case C-32/11 Allianz Hungária, paragraph 43. Guidelines on vertical restraints, OJ C 130, 19.5.2010,
+p.1. Vertical Guidelines, para. 6 and 225. A similar distinction was already made in the 1998 Fining
+Guidelines where vertical restraints were clearly distinguished from horizontal agreements in terms of
+gravity.
+172 Namely the fact that the geo-blocking practices consisted only in agreements/concerted practices
+between Capcom and Valve and not, in addition, between Capcom and [...].
+173 [...].
+
+EN 37 EN
+
+13.4.8. Conclusion: final amount of the fine
+(166) In conclusion, the final amount of the fine to be imposed on Capcom pursuant to
+Article 23(2)(a) of Regulation (EC) No 1/2003 for the infringement amounts to
+EUR 396 000,
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Capcom Co., Ltd., Capcom U.S.A., Inc. and CE Europe Ltd. infringed Article 101 of the
+Treaty and Article 53 of the EEA Agreement by participating, from 13 February 2013 until
+17 November 2014, in a single and continuous infringement covering the whole of the EEA
+consisting in agreements/concerted practices with Valve Corporation to set up activation
+restrictions and/or provide the related geo-blocked Steam activation keys which were used to
+restrict cross-border sales of a number of PC video games within the EEA.
+
+Article 2
+For the infringement referred to in Article 1, a fine of EUR 396 000 is imposed on Capcom
+Co., Ltd., Capcom U.S.A., Inc. and CE Europe Ltd., jointly and severally.
+The fine shall be credited, in euros, within six months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: EC/BUFI/AT.40424
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+Where the undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover
+the fines by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fines in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046 of the European Parliament and of the Council.174
+
+Article 3
+Capcom Co., Ltd., Capcom U.S.A., Inc. and CE Europe Ltd. shall refrain from repeating any
+act or conduct described in Article 1, and from any act or conduct having the same or equivalent
+object or effect.
+
+174 Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on
+the financial rules applicable to the general budget of the European Union (OJ L 193, 30.7.2018, p. 80).
+
+EN 38 EN
+
+Article 4
+This Decision is addressed to:
+– Capcom Co., Ltd., 48th Floor, Shinjuku Mitsui Building 2-1-1 Nishi Shinjuku,
+Shinjuku-ku Tokyo 163-0448 Japan
+– CE Europe Ltd., Metro Building 2nd Floor 1 Butterwick London, W6 8DL
+United Kingdom
+– Capcom U.S.A., Inc. 185 Berry Street, Suite 1200, CA 94107, San Francisco,
+United States of America
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+Agreement on the European Economic Area.
+Done at Brussels,
+
+For the Commission
+Margrethe VESTAGER
+Executive Vice-President
+
+EN 39 EN

@@ -1,0 +1,247 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52022AT40305(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52022AT40305(02)
+Help
+Print
+Summary of Commission Decision of 11 July 2022 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT. 40305 – Network sharing – czech republic) (notified under document number C(2022) 4742 final) (Only the English text is authentic) (Text with EEA relevance) 2022/C 452/05
+Summary of Commission Decision of 11 July 2022 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT. 40305 – Network sharing – czech republic) (notified under document number C(2022) 4742 final) (Only the English text is authentic) (Text with EEA relevance) 2022/C 452/05
+Summary of Commission Decision of 11 July 2022 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT. 40305 – Network sharing – czech republic) (notified under document number C(2022) 4742 final) (Only the English text is authentic) (Text with EEA relevance) 2022/C 452/05
+C/2022/4742
+OJ C 452, 29.11.2022, pp. 19–21
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+29.11.2022
+EN
+Official Journal of the European Union
+C 452/19
+Summary of Commission Decision
+of 11 July 2022
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT. 40305 – Network sharing – czech republic)
+(notified under document number C(2022) 4742 final)
+(Only the English text is authentic)
+(Text with EEA relevance)
+(2022/C 452/05)
+On 11 July 2022, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The purpose of this Decision is to make the commitments proposed by T-Mobile Czech Republic a.s. (‘T-Mobile’) and its parent company, Deutsche Telekom AG (‘Deutsche Telekom’), as well as by CETIN a.s. (‘CETIN’), O2 Czech Republic a.s. (‘O2’) and their parent company, PPF Group N.V. (‘PPF Group’) (together ‘the Parties’) binding for the European Union and the European Economic Area.
+(2)
+The commitments effectively address the concerns expressed by the Commission in its Preliminary Assessment (the ‘PA’) that the horizontal network sharing agreements (‘NSAs’) concluded between T-Mobile and CETIN (initially O2, which was then legally succeeded by CETIN)
+(
+2
+)
+, as well as the Mobile Network Services Agreement (‘MNSA’) concluded between O2 and CETIN could have reduced the Sharing Parties’ ability and incentive to unilaterally invest in network infrastructure, in turn negatively affecting the ability and incentives of T-Mobile and O2 to compete on the retail and wholesale markets for mobile telecommunications services in the Czech Republic. These concerns put in doubt the compatibility of the NSAs with Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the Agreement on the European Economic Area.
+(3)
+On 4 July 2022, the Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion.
+2.
+THE CONCERNS IN THE PRELIMINARY ASSESSMENT
+(4)
+The PA preliminarily concluded that the NSAs, as well as the MNSA, may restrict competition in violation of Article 101(1) of the TFEU by their effects. The Commission preliminarily considered that the NSAs (together with the MNSA), considered in their specific market context, reduce the Sharing Parties’ ability and incentives to unilaterally invest in capacity in certain specific ways, which in turn reduces their flexibility in competitiveness, innovation and technology/product differentiation and therefore may negatively affect the ability and incentives of T-Mobile and O2 to compete on the retail and wholesale markets for mobile telecommunications services in the Czech Republic, leading to less choice, lower quality of services, as well as delays in innovation.
+(5)
+In the PA, the Commission considered that the NSAs (i) led to a lack of roll-out of the 2 100 MHz capacity band in Eastern Czechia by T-Mobile, as well as to restrictions of the Sharing Parties’ individual flexibility in rolling-out the 1 800 MHz band (‘hold-back concern’), and (ii) disincentivised the Sharing Parties from unilateral network deployments of any type due to financial disincentives as well as information exchange.
+(6)
+As regards (i), in the PA, the Commission observed that due to certain infrastrcuture limitations in the area operated by CETIN (Eastern Czechia),
+(
+3
+)
+T-Mobile was unable to deploy LTE2100 in that area, to the disadvantage of the subscribers in this part of the country. Moreover, capacity extensions on 1 800 MHz spectrum band could be added without any major installations and/or modifications only on specific sites based on the common network planning of the Sharing Parties.
+(7)
+As regards (ii), the Commission preliminarily concluded that the Visitor Operator’s incentives to invest may be reduced becasue network upgrades are charged by the Master Operator to the Visitor Operator at a price that is higher than the underlying costs. Also, the Commission preliminarily considered that the scope of the information exchanged goes beyond what is strictly necessary for the functioning of the NSAs and includes strategic information that decreases the Sharing Parties’ incentives to compete with each other. The information exchange, is unlikely to be counterbalanced by the structural separation of O2 and CETIN as CETIN – based on the provisions of the MNSA requiring CETIN to share certain information with O2 – does not function sufficiently effectively as a ‘black box’,
+i.e.
+it does not effectively prevent information spill-over between T-Mobile and O2.
+3.
+THE PROPOSED COMMITMENTS
+(8)
+The Parties offered the Initial Commitments pursuant to Article 9 of Regulation (EC) No 1/2003, to meet the Commission’s competition concerns, as follows:
+—
+Network Modernization Commitment - deployment of multi-standard Radio Access Network (‘RAN’) equipment in the Mid-Band layers within less than 5 years after the Commencement Date
+(
+4
+)
+.
+—
+Financial Commitment - setting and review of the financial conditions for unilateral deployments - cost-based pricing for any investments demanded by the Visitor Operator to the Master Operator.
+—
+Information Exchange Commitment - improvement of the NSAs contractual provisions as regards information exchange - contractual changes to limit information exchange by streamlining the governance structure and limit further the information exchanged.
+—
+MNSA Commitments – changes to contractual provisions to ensure that CETIN acts as a ‘black box’ between T-Mobile and O2.
+(9)
+The Commitments with regard to the NSAs are to remain in force until 28 October 2033. The Commitments with regard to the MNSA remain in force for a period of (i) the term of the MNSA or (ii) the term of the NSAs, whichever of those terms ends earlier.
+(10)
+After the Market Test, the Parties provided in the Revised Commitments an additional commitment not to extend the geographical scope of the current NSAs to Prague and Brno. This commitment would remain in force until the [date within 7-10 years] (‘The Prague and Brno Commitment’).
+(11)
+Finally, on 3 and 8 June 2022, the Parties submitted the Final Commitments which are the same as the Revised Commitments with one clarification.
+4.
+CONCLUSION
+(12)
+The Final Commitments are sufficient to address the preliminary concerns identified by the Commission in its PA without being disproportionate.
+(13)
+As regards the Network Modernisation Commitment, the Commission considers that first, this commitment would solve the concerns with regard to LTE2100 hold-back effect since the Sharing Parties would have the ability to roll out the LTE 2 100 MHz band throughout the territory of Czechia.
+(14)
+Second, the Network Modernisation Commitment would alleviate the concerns raised regarding the capacity extensions on 1 800 MHz spectrum band, as the Sharing Parties would be able to add this band without any major installations and/or modifications on all sites covered by the Network Modernisation Commitment.
+(15)
+Third, the Network Modernisation Commitment would enhance the Sharing Parties’ ability and incentives to invest unilaterally, as the new hardware pre-installations would provide an increased level of flexibility in deploying capacity more efficiently and independently using the mid-band layers.
+(16)
+As to the Financial Commitment, the Commission considers that it would remove financial disincentives for the Sharing Parties to unilaterally invest in their networks, by ensuring that any deployment implemented by the Master Operator for the Visitor Operator will be done at cost-based pricing.
+(17)
+As to the Information Exchange Commitment, the Commission considers that it would reduce coordination and transparency on the market by limiting the type of information exchanged and the number of people involved in this exchange.
+(18)
+Finally, the Commission considers that the Prague and Brno Commitment would reduce any concerns relating to a possible geographical expansion of the existing NSAs going forward, also given that one of the factors that has been considered in the PA is the geographical scope of the network sharing, with the densest areas of the country, i.e. Prague and Brno, being left out of the cooperation.
+(19)
+The implementation of the commitments will be subject to an independent expert review by a Monitoring Trustee, acting under the Commission’s supervision, for the entire duration of the commitments.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+As of 1 June 2015, CETIN owns and manages both fixed and mobile infrastructure formally owned by O2, while O2 remained active as a Mobile Network Operator in Czechia. T-Mobile and O2/CETIN are collectively referred as the ‘Sharing Parties’.
+(
+3
+)
+The radio access development and operation is shared according to the territoriality principle of Master/Visitor Operator structure, whereby each of T-Mobile and CETIN is in charge of the network in one side of the country, e.g. T-Mobile deploys, operates and maintains a consolidated mobile network infrastructure in the Western part of Czechia (i.e. it is the Master Operator in this part of the country) and serves the subscribers of both operators in this area.
+(
+4
+)
+Commencement Date means the date on which the Sharing Parties are notified by the Commission of the adoption of the final decision accepting these commitments pursuant to Article 9 of Regulation 1/2003 and closing case AT.40305.
+Top

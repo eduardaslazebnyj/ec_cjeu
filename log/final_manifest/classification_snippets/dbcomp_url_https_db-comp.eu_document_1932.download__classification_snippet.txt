@@ -1,0 +1,369 @@
+COMMISSION EUROPÉENNE
+
+AFFAIRE N° AT.39885 – Interactive Lab
+
+PROCEDURE ANTITRUST
+Règlement (CE) n° 1/2003 du Conseil et
+Règlement (CE) n° 773/2004 de la Commission
+
+Article 7, paragraphe 2, du Règlement CE n° 773/2004 de la
+Commission
+Date: 11/04/2018
+
+Ce texte n'est publié qu'à fin d'information.
+
+Certains passages du présent document ont été supprimés afin qu'aucune donnée personnelle
+ne soit divulguée. Ces passages sont indiqués par le symbole [...].
+
+COMMISSION EUROPÉENNE
+
+Bruxelles, le 11.4.2018
+C(2018) 2272 final
+
+Interactive Lab
+[...]
+
+Objet: Affaire AT.39885 – Interactive Lab
+Décision de la Commission rejetant la plainte
+(Veuillez rappeler cette référence dans toute correspondance)
+
+Madame, Monsieur,
+
+(1) Par la présente, je suis au regret de vous informer que la Commission européenne
+("la Commission") a décidé de rejeter votre plainte contre les sociétés Google Inc.
+et Google Ireland Limited (collectivement "Google"'), sur base de l'article 7,
+paragraphe 2, du règlement (CE) n° 773/2004 de la Commission ("le règlement
+773/2004").1
+
+1. PROCÉDURE
+
+(2) Le 3 février 2011, Interactive Lab a soumis une plainte contre Google en
+application de l'article 5 du règlement 773/2004 ("la plainte"). La plainte concerne
+AdWords, le programme de publicités en ligne de Google lié à son service de
+recherche générale, Google Search. Interactive Lab allègue que certaines
+pratiques commerciales de Google constituent une infraction à l'article 102 du
+Traité sur le Fonctionnement de l'Union Européenne ("TFUE").
+
+(3) Le 1er avril 2011, avec l'accord d'Interactive Lab, la Commission a envoyé à
+Google une version non-confidentielle de la plainte. Le 16 septembre 2011,
+Google a soumis ses observations sur la plainte.
+
+1 JO L 123 du 27.4.2004, p. 18. A compter du 1er décembre 2009, les articles 81 et 82 du Traité CE
+sont devenus respectivement les articles 101 et 102 du Traité sur le Fonctionnement de l'Union Européenne
+('TFUE'). Les deux ensembles de dispositions sont, en substance, identiques. Pour ce qui concerne cette
+décision, les références aux articles 101 et 102 du TFUE doivent être entendues comme des références,
+respectivement, aux articles 81 et 82 du Traité CE, lorsque cela est d'application. Le TFUE a introduit
+certains changements de terminologie, tels que le remplacement de "la Communauté" par "l'Union" ou du
+"marché commun" par le "marché intérieur". Cette décision utilisera la terminologie du TFUE.
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+
+Tél: (32-2) 299 11 11, fax: (32-2) 295 01 28, courriel: COMP-GREFFE-ANTITRUST@ec.europa.eu
+
+(4) Le 15 mars 2012, la Commission a envoyé à Interactive Lab une demande de
+renseignements en application de l'article 18, paragraphe 2, du règlement (CE) No
+1/2003 du Conseil du 16 décembre 2002 ("le règlement 1/2003").2 Le 2 avril
+2012, Interactive Lab a répondu à cette demande de renseignements. Dans les
+mois qui ont suivi, Interactive Lab a fait parvenir à la Commission d'autres
+soumissions relatives à sa plainte.
+
+(5) Le 16 novembre 2015, la Commission a adressé à Interactive Lab une lettre au
+titre de l'article 7, paragraphe 1, du règlement 773/2004, informant Interactive
+Lab de son intention de rejeter sa plainte ("la lettre article 7(1)").
+
+(6) Le 14 décembre 2015, Interactive Lab a soumis ses observations sur la lettre
+article 7(1).
+
+2. LA PLAINTE
+
+(7) Selon la plainte, Google a mis en œuvre les pratiques suivantes qu'Interactive Lab
+considère constitutives d'abus de position dominante:
+
+i. Google utilise le facteur ‘enchères x CTR’ d'AdWords, dans un
+environnement incontrôlé ;3
+ii. Google décrit la tarification et l'utilisation d'AdWords comme dépendante
+du facteur ‘enchères x CTR’ alors que, dans les faits, le score de qualité est
+le "facteur maitre absolu" ;4
+iii. Google calcule le score de qualité sous son arbitrage exclusif, en faisant
+intervenir la perception historique que développe secrètement Google
+concernant chaque annonceur ;5
+
+iv. Google cherche à promouvoir auprès de chaque annonceur l'idée d'un
+affichage publicitaire possible sur la globalité de l'audience de Google pour
+chaque mot-clef, ce qui ne correspond pas à la réalité du programme
+AdWords ;6
+v. Google accrédite l'idée dans l'opinion que les publicités affichées par
+Google seront celles des quelques annonceurs proposant une offre
+intéressante selon des critères objectifs alors que Google se donne pour
+mission de chercher à moduler les impressions pour satisfaire le plus large
+spectre possible d'annonceurs sans distinction ;7
+
+2 JO L 1 du 4.1.2003, p. 1.
+3 Plainte, paragraphe 122, premier tiret.
+4 Plainte, paragraphe 122, deuxième tiret.
+5 Plainte, paragraphe 122, troisième tiret.
+6 Plainte, paragraphe 122, quatrième tiret.
+7 Plainte, paragraphe 122, cinquième tiret.
+2
+
+vi. Google dissimule intégralement les mécanismes de dispatching d'audience
+sur AdWords ;8
+vii. Google ne garantit pas à deux annonceurs en concurrence sur AdWords
+que leurs publicités seront affichées auprès de publics présentant des
+caractéristiques comparables ;9
+
+viii. Google a introduit sur le compte d'Interactive Lab des statistiques
+fallacieuses destinées à altérer le jugement d'Interactive Lab dans l'usage
+d'AdWords et à rehausser ses facturations ;10 et
+ix. Google n'a pas procédé à l'affichage dans AdWords des publicités
+d'Interactive Lab sur un très grand nombre de mots-clefs, alors que les
+enchères d'Interactive Lab ne le justifiaient en aucune manière.11
+
+3. APPRECIATION
+
+3.1. Principes
+
+(8) La Commission dispose d'une marge de discrétion dans le traitement des
+plaintes.12 En particulier, la Commission peut attribuer à celles-ci différents
+degrés de priorité, conformément aux principes établis aux points 41 à 45 de la
+communication de la Commission relative au traitement des plaintes.13 La
+Commission peut également faire référence à l'intérêt de la plainte pour l'Union
+afin de déterminer ce degré de priorité.14
+
+(9) L'évaluation de l'intérêt d'une plainte pour l'Union dépend des circonstances
+individuelles de l'affaire. Afin de de déterminer le degré de priorité à accorder aux
+différentes affaires, la Commission prend en compte plusieurs facteurs. Il n'y a
+pas de liste de critères fixe,15 mais la Commission peut entre autres tenir compte
+de la probabilité, sur la base des informations disponibles, qu'une enquête
+approfondie établisse finalement l'existence d'une infraction.
+
+(10) L'article 7 du règlement 1/2003 ne donne pas à un plaignant le droit d'exiger de la
+Commission qu'elle prenne une décision finale sur l'existence, ou non, d'une
+infraction, et n'oblige pas la Commission à poursuivre en toutes circonstances son
+enquête jusqu'au point d'adopter une décision finale sur l'existence d'une
+
+8 Plainte, paragraphe 122, sixième tiret.
+9 Plainte, paragraphe 122, septième tiret.
+10 Plainte, paragraphe 123, premier tiret.
+11 Plainte, paragraphe 123, second tiret.
+12 Arrêt du 23 avril 2009, AEPI / Commission, affaire C-425/07 P, EU:C:2009:253, point 31; arrêt du
+11 juillet 2013, Spira / Commission, affaires jointes T-108/07 et T-354/08, EU:T:2013:367, point 97.
+13 JO C 101 du 27.04.2004, p. 65. Voir aussi le rapport 2005 de la Commission sur la politique de
+concurrence, p. 25-27.
+14 Arrêt du 15 décembre 2010, CEAHR / Commission, affaire T-427/08, EU:T:2010:517, point 27.
+15 Arrêt du 19 septembre 2013, EFIM / Commission, affaire C-56/12 P, EU:C:2013:575, point 85.
+3
+
+infraction. En revanche, la Commission doit prendre attentivement en compte
+tous les éléments de fait et de droit portés à sa connaissance par la plainte.16
+
+(11) La Commission n'est pas tenue d'examiner les aspects d'une plainte qui ne
+relèvent pas du droit de la concurrence.17
+
+3.2. Application des principes au cas présent
+
+(12) La Commission est parvenue à la conclusion qu'il n'y a pas un intérêt suffisant
+pour l'Union à prolonger l'enquête en ce qui concerne l'ensemble des allégations
+soulevées dans la plainte. Même si des ressources supplémentaires étaient
+allouées à l'enquête sur ces allégations, la probabilité d'établir l'existence d'une
+infraction à l'article 102 du TFUE apparaît limitée. Premièrement, il est peu
+probable que les faits mentionnés par Interactive Lab au soutien des allégations
+soulevées dans sa plainte soient avérés (section 3.2.1). Deuxièmement, même si
+les faits mentionnés par Interactive Lab s'avéraient vérifiés, il est peu probable
+qu'une enquête approfondie mène à la conclusion que les allégations d'Interactive
+Lab constituent une infraction à l'article 102 du TFUE (section 3.2.2).
+Troisièmement, une enquête approfondie sur les allégations d'Interactive Lab
+nécessiterait la mise en œuvre de moyens disproportionnés (section 3.2.3).
+Quatrièmement, contrairement aux affirmations d'Interactive Lab dans ses
+observations sur la lettre article 7(1), la Commission s'est prononcée dans la lettre
+article 7(1) sur tous les aspects de la plainte (section 3.2.4).
+
+3.2.1. Probabilité que les faits mentionnés par Interactive Lab au soutien
+des allégations soulevées dans sa plainte soient avérés
+(13) La Commission est parvenue à la conclusion qu'il est peu probable que les faits
+mentionnés par Interactive Lab au soutien des allégations soulevées dans sa
+plainte soient avérés.
+
+(14) En effet, ces allégations, qui se recoupent en grande partie, sont fondées sur
+l'hypothèse selon laquelle le mécanisme de sélection des publicités AdWords
+affichées sur la page de résultats de recherche générale de Google serait différent
+de celui publiquement décrit par Google. Au lieu de classer les publicités
+candidates dans l'ordre du produit de l'enchère proposée par l'annonceur et du
+taux de clic prédit ("pCTR") sur l'annonce candidate, puis d'afficher les premières
+annonces dans l'ordre de ce classement, Google procéderait en réalité à une
+rotation ("dispatching d'audience") des annonceurs afin d'exposer périodiquement
+les publicités de chacun sans rapport avec leur enchère ou la qualité réelle de leur
+annonce. Google parviendrait à ce résultat en manipulant le score de qualité des
+publicités candidates, le score de qualité étant l'élément de base du calcul du
+pCTR.
+
+16 Ordonnance du 31 mars 2011, EMC Development / Commission, affaire C-367/10 P, EU:C:2011:203,
+points 73-74.
+17 Arrêt du 30 mai 2015, Omnis Group / Commission, affaire T-74/11, EU:T:2013:283, point 74.
+4
+
+(15) Cependant, il est dans l'intérêt économique de Google d'appliquer la méthode
+qu'elle présente publiquement. Le calcul du produit de l'enchère (qui constitue un
+paiement par clic) et du pCTR permet de déterminer les publicités qui produiront
+le plus haut revenu pour Google. Google n'aurait donc aucun intérêt économique
+à appliquer la méthode alléguée par Interactive Lab car elle produirait un revenu
+plus réduit.
+3.2.2. Probabilité qu'une enquête approfondie mène à la conclusion que les
+allégations d'Interactive Lab constituent une infraction à l'article 102
+du TFUE
+(16) La Commission est parvenue à la conclusion que, même si les faits mentionnés
+par Interactive Lab étaient avérés, il est peu probable qu'une enquête approfondie
+mène à la conclusion que les allégations d'Interactive Lab constituent une
+infraction à l'article 102 du TFUE.
+(17) Premièrement, en ce qui concerne les allégations i, ii, iii et vi mentionnées au
+paragraphe (7) de cette décision, ces pratiques sembleraient relever des
+prérogatives commerciales normales de Google. En effet, il apparait justifié que
+Google cherche à évaluer la qualité des annonces qui lui sont soumises, et qui
+pourraient donc être montrées à ses utilisateurs. A cet égard, l'utilisation d'un
+‘score de qualité’ semble justifiée. Il parait normal que le calcul de ce score de
+qualité fasse intervenir les données historiques accumulées par Google sur chaque
+annonceur, puisque ces données sont de nature à permettre de mieux évaluer la
+qualité des annonces de cet annonceur telle que perçue par les utilisateurs de
+Google. De plus, le fait que ce mode de calcul soit confidentiel, réalisé seulement
+sous le contrôle de Google elle-même, et que ses mécanismes ne soient pas
+divulgués au public, semble relever de la protection par Google d'un des éléments
+fondamentaux de son savoir-faire industriel dans le domaine de la publicité en
+ligne liée à la recherche.
+(18) Deuxièmement, en ce qui concerne les allégations iv, v, vii, viii et ix mentionnées
+au paragraphe (7) de cette décision, dans la mesure où les services offerts par
+Google avec son programme AdWords ne correspondraient pas aux accords
+commerciaux passés entre Google et ses annonceurs, en particulier en matière
+d'audience ciblée, de statistiques fournies, de facturation ou de mise en œuvre des
+enchères, ces allégations porteraient sur de possibles violations contractuelles et
+ne touchent pas au droit de la concurrence. Si, au contraire, la présentation par
+Google des services offerts avec son programme AdWords n'était pas
+contractuelle, il serait loisible à Interactive Lab de contester la légalité de ce
+comportement sur le terrain de la publicité trompeuse.
+(19) Troisièmement, dans ses observations sur la lettre article 7(1), Interactive Lab
+admet que "certaines de [ses] allégations, saisies de façon séparée et donc
+détachées de leur contexte d'exploitation, ne relèvent pas en effet de l'article 102
+[du TFUE]".18
+
+18 Observations sur la lettre article 7(1), paragraphe 41.
+5
+
+(20) Quatrièmement, la conclusion de la Commission qu'il est peu probable qu'une
+enquête approfondie mène à la conclusion que les allégations d'Interactive Lab
+constituent une infraction à l'article 102 du TFUE n'est pas remise en cause par
+l'affirmation d'Interactive Lab dans ses observations sur la lettre article 7(1) selon
+laquelle la Commission devrait analyser ses allégations "en relation [...] les unes
+avec les autres"19 et pas individuellement.
+
+(21) En effet, Interactive Lab ne donne aucune indication des raisons pour lesquelles il
+serait plus probable qu'une enquête approfondie mène à la conclusion que ses
+allégations constituent une infraction à l'article 102 du TFUE si elles étaient
+analysées de manière groupée plutôt qu'individuellement.
+(22) D'une part, les observations sur la lettre article 7(1) ne couvrent pas les allégations
+i, ii, et iii. Pour ces allégations, Interactive Lab note "l'étroitesse du cadre
+d'analyse retenu", sans préciser pour autant quel devrait être le cadre alternatif à
+appliquer, mais admet qu'elles "pourraient être évacuées selon les arguments
+proposés par [la Commission]" et qu'Interactive Lab "ne conteste pas" la lettre
+Article 7(1) à cet égard.20
+
+(23) D'autre part, concernant les allégations iv, v, vi, vii, viii et ix, les observations sur
+la lettre article 7(1) se contentent de considérations générales dans lesquelles
+Interactive Lab réitère ses griefs à l'égard des pratiques alléguées, sans donner de
+raisons concrètes pour lesquelles il serait probable qu'une enquête approfondie les
+concernant mènerait à la conclusion qu'elles constituent une infraction à l'article
+102 du TFUE.21
+(24) Il est d'autant moins probable que cette analyse confirme les dires d'Interactive
+Lab que le programme AdWords a de très nombreux clients, dont certains
+comptent parmi les sociétés les plus sophistiquées de l'Internet. Si le
+fonctionnement des enchères, qui en est l'élément central, était fondamentalement
+différent de la description qui en est faite publiquement, cela pourrait
+difficilement passer inaperçu.
+3.2.3. Une enquête approfondie sur les allégations d'Interactive Lab
+nécessiterait la mise en œuvre de moyens disproportionnés
+
+(25) La Commission est parvenue à la conclusion qu'une enquête approfondie sur les
+allégations d'Interactive Lab nécessiterait la mise en œuvre de moyens
+disproportionnés.
+
+(26) Evaluer plus avant la véracité des allégations d'Interactive Lab nécessiterait une
+analyse systématique de l'adéquation du mode de calcul par Google du score de
+qualité des publicités candidates et de leur pCTR. Or, le calcul de ce type de
+paramètre constitue l'une des aires d'expertise technique avancée de Google. Il
+fait appel à l'analyse fine des comportements des utilisateurs et des marchands,
+fondée sur la base des données historiques assemblées par Google. Une telle
+analyse serait complexe et nécessiterait l'emploi de ressources significatives.
+3.2.4. La Commission s'est prononcée dans la lettre article 7(1) sur tous les
+aspects de la plainte
+
+19 Observations sur la lettre article 7(1), paragraphe 40, et point (vi).
+20 Observations sur la lettre article 7(1), paragraphe 42.
+21 Observations sur la lettre article 7(1), paragraphes 43 à 46.
+6
+
+(27) Dans ses observations sur la lettre article 7(1), Interactive Lab affirme que
+l'allégation iii de la plainte serait constitué de deux allégations distinctes :
+"Google calcule le score de qualité sous son arbitrage exclusif en faisant
+intervenir la perception historique qu'il développe secrètement concernant caque
+annonceur", et "Google est donc en position d'imposer, de manière unilatérale,
+subjective et imperceptible, des modalités différentes de fourniture de son service
+et des niveaux distincts de facturation à chacun de ses clients".22 Or, la lettre
+article 7(1) ne couvrirait que la première de ces deux allégations.23
+(28) De plus, dans ses observations sur la lettre article 7(1), Interactive Lab affirme
+que le l'allégation vii de la plainte serait constitué de deux allégations distinctes :
+"Google ne garantit pas à deux annonceurs en concurrence sur AdWords que
+leurs publicités seront affichées auprès de publics présentant des caractéristiques
+comparables", et "rapporté à l'occultation de l'existence même du dispatching
+d'audience dans l'offre AdWords, l'allégation (i) [l'allégation contenue dans la
+phrase précédente] implique une tromperie sur la prestation vendue".24 Or, la
+lettre article 7(1) ne couvrirait que la première de ces deux allégations.25
+(29) Contrairement aux affirmations d'Interactive Lab dans ses observations sur la
+lettre article 7(1), la Commission s'est prononcée dans la lettre article 7(1) sur
+l'ensemble des aspects de la plainte. En effet, la plainte expose ses allégations de
+manière détaillée et structurée, en les listant en neuf tirets.26 L'analyse
+préliminaire de la lettre article 7(1) suit précisément ce découpage en neuf tirets.
+
+4. CONCLUSION
+
+(30) Pour les raisons mentionnées ci-dessus, la Commission est parvenue à la
+conclusion qu'il n'y a pas de motifs suffisants pour prolonger l'enquête en ce qui
+concerne l'ensemble des allégations soulevées, et par conséquent rejette la plainte,
+en application de l'article 7, paragraphe 2, du règlement 773/2004, sans enquête
+supplémentaire.
+
+5. ETAPES À VENIR
+
+5.1. Possibilité de contester la présente décision
+
+(31) La présente décision est susceptible de recours devant le Tribunal de l'Union
+européenne, conformément à l'article 263 du TFUE.
+
+22 Observations sur la lettre article 7(1), paragraphes 38 et 49 à 50.
+23 Observations sur la lettre article 7(1), paragraphes 38, 47 et 85.
+24 Observations sur la lettre article 7(1), paragraphe 38 et 48.
+25 Observations sur la lettre article 7(1), paragraphes 38, 47 et 85.
+26 Plainte, paragraphes 122 et 123.
+7
+
+5.2. Confidentialité
+
+(32) La Commission se réserve le droit d'envoyer une copie de la présente décision à
+Google. Par ailleurs, elle peut décider de publier cette décision, ou un résumé de
+celle-ci, sur son site internet.27 Si vous considérez que certaines parties de la
+présente décision contiennent des informations confidentielles, je vous saurais gré
+d'en informer [...], dans un délai de deux semaines à compter de sa réception.
+Veuillez indiquer clairement les informations en question et expliquer pourquoi
+vous estimez qu’elles devraient être traitées de manière confidentielle. En
+l'absence de réponse dans le délai imparti, la Commission considérera que vous
+estimez que la décision ne contient pas d'informations confidentielles et qu'elle
+peut être publiée sur le site internet de la Commission ou envoyée à Google.
+
+(33) À votre demande, votre identité peut être masquée dans la version publiée de la
+présente décision, mais uniquement si cela est nécessaire pour la protection de
+vos intérêts légitimes.
+
+Par la Commission
+Margrethe VESTAGER
+Membre de la Commission
+
+27 Voir paragraphe 150 de la communication de la Commission concernant les bonnes pratiques relatives
+aux procédures d’application des articles 101 et 102 du TFUE, JO C 308 du 20.10.2011, p. 6.
+8

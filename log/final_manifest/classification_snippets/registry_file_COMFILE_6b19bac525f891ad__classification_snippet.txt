@@ -1,0 +1,185 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# VERSION NON CONFIDENTIELLE
+
+# DE LA DECISION DE LA COMMISSION DU 19 DECEMBRE 2007
+
+# COMP/34.579 MasterCard COMP/36.518 EuroCommerce et COMP/38.580 Commercial Cards
+
+## SECRETS D'AFFAIRES INVOQUÉS PAR MASTERCARD - EXPLICATION DES RÉDACTIONS DANS LA VERSION NON-CONFIDENTIELLE DE LA DÉCISION:
+
+SECRET D'AFFAIRES 1A: informations relatives à la structure organisationnelle et de gestion ainsi qu'au règlement intérieur.
+
+SECRET D'AFFAIRES 1B: extraits de documents (p.ex. de rapports/règlements) relatifs à la structure organisationnelle et de gestion ainsi qu'au règlement intérieur.
+
+SECRET D'AFFAIRES 2A: informations relatives aux règles de la commission d'interchange (CI) de MasterCard et la procédure pour déterminer le niveau de la CI.
+
+SECRET D'AFFAIRES 2B: extraits de documents (p.ex. de rapports) relatifs aux règles de la CI de MasterCard et la procédure pour déterminer le niveau de la CI.
+
+SECRET D'AFFAIRES 3A: informations relatives à la motivation, stratégie et la préparation de l'offre publique initiale (OPI).
+
+SECRET D'AFFAIRES 3B: extraits de documents (p.ex. de rapports/présentations) relatifs à la motivation, la stratégie et la préparation de l'OPI.
+
+SECRET D'AFFAIRES 4: informations relatives aux ventes, au chiffre d'affaires, parts de marché et le nombre de clients de MasterCard.
+
+SECRET D'AFFAIRES 5A: informations relatives à la stratégie commerciale interne de MasterCard.
+
+SECRET D'AFFAIRES 5B: extraits de documents (p.ex. des rapports/règles/ présentations/propositions du CA) relatifs à la stratégie commerciale interne de MasterCard.
+
+SECRET D'AFFAIRES 6: informations relatives à la commission multilatérale d'interchange (CMI), évaluation des tarifs déterminant les structures de coût et d'autres considérations prises en compte pour déterminer la CMI, y inclus la liste des pays où la CMI est appliquée par défaut à des transactions nationales.
+
+SECRET D'AFFAIRES 7: informations relatives à des échanges entre conseillers juridiques.
+
+SECRET D'AFFAIRES 8: informations relatives à des études/rapports d'expert présentés à la Commission par MasterCard.
+
+du 19/XII/2007
+
+relative à une procédure d'application de l'Article 81 du traité CE et de l'article 53 de l'accord EEE
+
+# (COMP/34.579 MasterCard COMP/36.518 EuroCommerce et COMP/38.580 Commercial Cards)
+
+## (LE TEXTE EN LANGUE ANGLAISE EST LE SEUL FAISANT FOI)
+
+À NOTIFIER À:
+
+MasterCard Europe S.p.r.l.,
+
+MasterCard Incorporated et
+
+MasterCard International Incorporated
+
+(Texte présentant de l'intérêt pour l'EEE)
+
+# LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 7 ainsi que son article 24, paragraphe 1, point a),
+
+après avoir ouvert la procédure par l'émission d'une communication des griefs le 6 mai 1999 et exprimé ses premières préoccupations quant aux problèmes abordés dans la présente décision dans deux autres communications des griefs datées du 24 septembre 2003 et du 20 juin 2006 respectivement, et après avoir informé MasterCard Europe S.p.r.1., MasterCard International Incorporated et MasterCard Incorporated de l'existence de nouveaux éléments de preuve en lui adressant un exposé des faits en date du 23 mars 2007,
+
+après avoir donné à MasterCard Europe S.p.r.1., MasterCard International Incorporated et MasterCard Incorporated l'occasion de faire connaître leur point de vue au sujet des griefs retenus par la Commission, conformément aux dispositions de l'article 19, paragraphe 1, du règlement n° 17/622 et au règlement (CE) n° 2842/98 de la Commission du 22 décembre 1998 relatif à l'audition dans certaines procédures fondées sur les articles 85 et 86 du traité3, ainsi que conformément aux dispositions de l'article 27 du règlement (CE) n° 1/2003 et de l'article 12 du règlement (CE) n° No 773/2004 de la Commission4,
+
+après consultation du comité consultatif en matière d'ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur en l'espèce5,
+
+considérant ce qui suit:
+
+1. CHRONOLOGIE ET HISTORIQUE DE LA PROCEDURE 17
+1.1. La procédure. 17
+1.2. L'enquête de la Commission. 19
+1.3. Contexte général. 20
+2. PARTIES A LA PROCEDURE 22
+2.1. L'organisation de paiement MasterCard 22
+2.2. Position occupée sur le marché par l'organisation de paiement MasterCard. 34
+3. OBJET DE LA PRESENTE DECISION 42
+3.1. Les CMI de MasterCard. 42
+3.2. La règle imposant l'obligation d'honorer toutes les cartes («Honour all cards rule») 62
+4. POSITIONS DU PLAIGNANT ET DE TIERS 63
+4.1. EuroCommerce .63
+4.2. Visa Europe.. .64
+4.3. Airplus.. .65
+4.4. British Petroleum. .66
+4.5. European Retail Roundtable 66
+4.6. HOTREC 66
+4.7. L'IATA 67
+4.8. IKEA. .67
+4.9. Kappé International BV. 68
+4.10. OEHV. 68
+4.11. Servired S.C., Sistema 4B S.A., Euro 6000 S.A 68
+5. LE SYSTEME DE CARTES DE PAIEMENT QUADRIPARTITE/OUVERT 69
+5.1. Observations générales. 69
+5.2. Fonctionnement d’un système de cartes de paiement ouvert 71
+6. LE MARCHE EN CAUSE 75
+6.1. La position de MasterCard 75
+6.2. Le marché de produits en cause. 76
+6.3. Le marché géographique en cause. 93
+6.4. Conclusions concernant la définition du marché. .97
+ARTICLE 81, PARAGRAPHE 1, DU TRAITE / ARTICLE 53, PARAGRAPHE 1, DE
+L'ACCORD EEE. .98
+7.1. Décisions d'une association d'entreprises .98
+7.2. Restriction de la concurrence 115
+7.3. Les CMI n’échappent pas à l’application de l’article 81, paragraphe 1, du traité 150
+7.4. Effet sensible sur la concurrence 187
+7.5. Effet sur les échanges. 190
+7.6. Conclusion concernant l'article 81, paragraphe 1, du traité et l'article 53,
+paragraphe 1, de l'accord EEE 191
+8. ARTICLE 81, PARAGRAPHE 3, DU TRAITÉ/ARTICLE 53, PARAGRAPHE 3, DE
+L’ACCORD EEE .191
+8.1. Observations générales. 191
+8.2. Première condition: le progrès technique ou économique 192
+8.3. Deuxième condition: partie équitable du profit réservée aux consommateurs 210
+8.4. Troisième condition: le caractère indispensable 214
+8.5. Conclusion de l'appréciation au regard de l'article 81, paragraphe 3, du traité et de
+l'article 53, paragraphe 3, de l'accord EEE. .215
+9. DESTINATAIRES DE LA PRESENTE DECISION .216
+10. MESURES CORRECTIVES ET AMENDES .216
+10.1. Article 7, paragraphe 1, du règlement n° 1/2003 .216
+11. ARTICLE 23, PARAGRAPHE 2, DU REGLEMENT N° 1/2003 - AMENDES ..219
+12. ARTICLE 24, PARAGRAPHE 1, DU REGLEMENT (CE) N° 1/2003 - ASTREINTES ...219
+ANNEXE 1 .224
+ANNEXE 2 .227
+ANNEXE 3 .236
+ANNEXE 4 .237
+ANNEXE 5 .243
+ANNEXE 6 244
+......248
+
+## Résumé
+
+Article 81, paragraphe 1, du traité
+
+1. La présente affaire a trait aux règles du réseau MasterCard et aux décisions concernant les commissions d'interchange intra-EEE par défaut et les commissions d'interchange par défaut du SEPA adoptées par les représentants des banques membres de l'organisation et par sa direction. Ces commissions multilatérales d'interchange (CMI) sont prélevées pour chaque transaction par carte de paiement et s'appliquent aux paiements par carte transfrontaliers effectués dans l'Espace économique européen (EEE) ainsi qu'aux paiements par carte nationaux réalisés dans plusieurs États membres de l'EEE au moyen de cartes de paiement portant le logo MasterCard ou Maestro. L'expression «par défaut» signifie que ces commissions ne sont prélevées qu'en l'absence d'accord bilatéral spécifique sur les commissions d'interchange entre une banque émettrice et une banque acquéreuse. Les règles du réseau de l'organisation prévoient que les commissions d'interchange sont versées par les banques acquéreuses aux banques émettrices.
+
+2. Les CMI du système de MasterCard restreignent la concurrence entre les banques acquéreuses en gonflant la base sur laquelle ces dernières se fondent pour fixer les frais imputés aux commerçants et reviennent ainsi à établir un niveau plancher pour ces frais. En l'absence de commissions multilatérales d'interchange, les frais imputés aux commerçants par les banques acquéreuses seraient inférieurs.
+
+3. Les décisions du conseil d'administration européen, [ET/OU] du conseil d'administration mondial [DE MASTERCARD] [...] [SECRET D'AFFAIRES – 2A] constituent des décisions d'une association d'entreprises au sens de l'article 81, paragraphe 1, du traité. Elles restent des décisions d'une association même après l'offre publique initiale (IPO) de MasterCard Incorporated du 25 mai 2006 et les modifications correspondantes apportées au mode de gouvernance de l'organisation de paiement en Europe, en ce qui concerne le pouvoir de fixer le niveau des commissions multilatérales d'interchange par défaut. Les banques ont approuvé l'IPO et le changement de gouvernance de l'organisation qui en a découlé dans le but de perpétuer les CMI comme élément du modèle d'entreprise sous une forme qu'elles considéraient moins exposée au risque d'enquête antitrust. Même après l'IPO de MasterCard Incorporated, les commissions d'interchange dans l'organisation MasterCard ne sont pas «imposées unilatéralement». Les banques membres de MasterCard partagent toujours un intérêt commun en ce qui concerne les CMI parce que ces dernières sont synonymes de revenus garantis pour ce qui est de leurs activités liées à l'émission. Une communauté d'intérêts dans les CMI persiste donc entre les banques après l'IPO, qui se reflète également dans le fait que les tarifs des commissions d'interchange sont fixés par [...] MasterCard [...] [SECRET D'AFFAIRES – 2A]. Lorsqu'il fixe les tarifs des commissions d'interchange, le conseil d'administration mondial ne peut faire abstraction des intérêts commerciaux des banques sans lesquelles le système ne pourrait pas fonctionner, puisqu'il produit des revenus garantis pour leur activité d'émission.
+
+4. Un système de cartes de paiement ouvert tel que celui de Mastercard peut très bien fonctionner sans CMI, comme l'atteste l'existence de systèmes de cartes de paiement ouverts comparables qui fonctionnent sans CMI.
+
+Article 81, paragraphe 3, du traité
+
+5. En ce qui concerne la première condition visée à l'article 81, paragraphe 3, du traité, les arguments avancés par MasterCard à propos de l'existence de gains d'efficacité objectifs sont restés non prouvés.
+
+6. La Commission ne conteste pas qu'en règle générale, les systèmes de paiement sont caractérisés par des externalités de réseau indirectes et qu'un transfert de revenus entre banques émettrices et banques acquéreuses peut, en théorie, contribuer à maximiser l'utilité du réseau pour ses utilisateurs. Étant donné que les théories sont toujours fondées sur des hypothèses et que ces dernières peuvent ne pas correspondre suffisamment à la réalité du marché, il n'est toutefois pas possible de déterminer d'une manière générale, et en ne s'appuyant que sur des théories économiques, si une commission d'interchange fixée collectivement doit être payée par les acquéreurs aux émetteurs ou vice versa ni à quel niveau cette commission doit être établie. Au contraire, toute allégation selon laquelle une CMI génère des gains d'efficacité selon la première condition de l'article 81, paragraphe 3, du traité doit être fondée sur une analyse détaillée, solide et convaincante s'appuyant, dans ses hypothèses et ses déductions, sur des données empiriques et des faits. En particulier, MasterCard n'a fourni aucune preuve empirique étayant son argument central, qui est que les CMI maximisent la «production» de son système et qu'il existe un lien de cause à effet entre ces dernières et les autres gains d'efficacité objectifs allégués. Il n'a donc pas pu être établi que les effets restrictifs des CMI sur les marchés de l'acquisition sont dûment compensés par des gains d'efficacité objectifs. En dépit des demandes répétées de la Commission, MasterCard n'a communiqué aucune preuve empirique des effets positifs de ses CMI sur la production du système ni des gains d'efficacité correspondants.
+
+7. La Commission ne partage pas le point de vue de MasterCard selon lequel les relations de concurrence et les forces du marché supposent automatiquement des CMI pouvant être considérées, sans risque d'erreur, comme favorisant les gains d'efficacité. Ni les forces de la concurrence intersystème ni les acquéreurs ou les commerçants n'exercent de contraintes suffisantes sur l'organe chargé de fixer les CMI au sein de l'organisation MasterCard.
+
+8. Le modèle spécifique sur lequel reposent les CMI de Mastercard a été élaboré par William Baxter en 1983. Ce modèle est cependant fortement limité par le fait qu'il considère la demande des consommateurs et celle des commerçants comme des données immuables en ce sens qu'aucune de ces deux demandes ne réagit stratégiquement aux actions possibles de l'autre. Le modèle de Baxter s'appuie aussi sur l'hypothèse irréaliste que les avantages que les commerçants retirent de l'acceptation des cartes ne varient pas ou, en d'autres termes, que les commerçants opèrent dans des conditions homogènes. Enfin, les résultats du modèle de Baxter reposent sur l'hypothèse irréaliste d'une concurrence parfaite dans le secteur bancaire.
+
+9. Par ailleurs, les méthodologies utilisées par MasterCard pour appliquer ce modèle dans la pratique ne sont guère convaincantes, étant donné qu'elles ne cadrent pas suffisamment avec la théorie sous-jacente. Elles présentent d'importantes lacunes du fait qu'elles établissent un déséquilibre entre l'émission de cartes et l'affiliation de commerçants uniquement sur la base de considérations relatives aux coûts, tout en omettant de considérer les revenus des banques. En outre, si Mastercard analyse la demande des commerçants, elle ne tente même pas de quantifier la propension des titulaires de cartes à accepter de payer des frais et ne fait que supposer la relative réticence de ce groupe de clients à payer pour le confort procuré par l'utilisation des cartes de paiement. On peut aussi émettre des doutes quant à l'utilité de la valeur indicative prise en compte par MasterCard pour évaluer la propension des commerçants à accepter de payer des frais dans le segment des cartes de crédit.
+
+10. En ce qui concerne la deuxième condition visée à l'article 81, paragraphe 3, du traité, tous les groupes de clients d'un système de cartes de paiement ouvert, c'est-à-dire tant les titulaires de cartes que les commerçants (et leurs clients), doivent obtenir une partie équitable du profit résultant des gains d'efficacité générés par les CMI. Si les commerçants peuvent retirer une part de profit grâce à l'accroissement des effets de réseau se produisant du côté de l'émission, cela ne permet pas nécessairement de compenser les pertes qu'ils subissent du fait des frais excessifs qu'ils ont à acquitter. C'est pourquoi la Commission a examiné la méthodologie appliquée par MasterCard [...] [SECRET D'AFFAIRES - 2A]. Cependant, les valeurs de référence fondées sur les coûts utilisées par MasterCard englobent des éléments de coûts qui ne sont ni intrinsèques à la fonctionnalité de paiement d'une carte ni liés aux services bénéficiant clairemen
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ lorsqu'on utilise une mesure ayant trait aux ventes plutôt qu'aux soldes comme variable dépendante, les résultats montrent qu'une augmentation de crédit influence sensiblement le comportement en matière de dépenses»993. Cependant, indépendamment de la spécification choisie et de la variable dépendante utilisée (soldes ou chiffres des ventes) dans le modèle, d'autres problèmes dans la spécification du modèle compromettent les résultats économétriques.
+
+8. L'étude n'établit notamment pas de distinction entre l'échelonnement des dépenses de consommation et les changements nets dans les dépenses de consommation globales. Si les consommateurs réagissent à une hausse de leur plafond de crédit en empruntant et en dépensant davantage pendant la période en cours, ils devront par la suite rembourser leur dette. Toutes choses étant égales par ailleurs, les titulaires de cartes devront ultérieurement réduire leurs dépenses. Si les titulaires de cartes de crédit ne sont pas en mesure de produire davantage de revenus pour financer leurs achats supplémentaires, leur capacité à dépenser stagnera. Un euro dépensé aujourd'hui ne peut l'être demain.
+
+9. En outre, l'étude n'établit pas de distinction entre l'octroi d'une période de financement gratuit et l'octroi de crédit de manière plus générale. Les banques émettrices financent le crédit accordé aux titulaires de cartes par l'intermédiaire d'intérêts. L'étude n'examine à aucun moment les raisons pour lesquelles une CMI serait nécessaire à l'octroi de crédit par l'intermédiaire de cartes de crédit. L'étude se limite en fait exclusivement à analyser les effets de l'octroi de crédit en tant que tel. Elle n'établit aucune relation de cause à effet entre l'aptitude de la banque émettrice à accorder un crédit aux titulaires de cartes et l'existence d’une CMI.
+
+## Conclusion
+
+10. Pour toutes les raisons exposées ci-dessus, l'étude n'aborde pas la question pertinente en l'espèce, qui est de savoir si l'octroi d'une période de financement gratuit pour les cartes de crédit est susceptible d'entraîner une hausse des dépenses de consommation globales et donc de profiter aux commerçants. L'étude présente, par ailleurs, de graves lacunes du point de vue de la méthode utilisée, qui font douter des résultats tirés de l'exercice économétrique présenté dans la seconde partie du document.
+
+## ANNEXE 7
+
+QUESTIONS DE PROCEDURE CONCERNANT UNE NOTE AU DOSSIER RELATIVE AU MARCHE DU ROYAUME-UNI
+
+1. Pour pouvoir apprécier si l'absence de revenus provenant des CMI nationales de MasterCard et Visa au Royaume-Uni provoquerait une réduction relative «importante» des revenus totaux de [BANK] générées par l'émission de cartes de crédit au RU comme l'a fait valoir la banque dans son mémorandum du 5 décembre 2006 (voir point 7.3.4.7 de la décision), la Commission a demandé à la banque de lui communiquer le montant total de ses revenus et de ses coûts associés à l'émission des cartes de crédit portant le logo Visa ou MasterCard au Royaume-Uni, sur la période 2003-2005. Trois autres grandes banques émettrices du Royaume-Uni ont de la même manière été invitées à transmettre ces données afin que la Commission puisse avoir une base de comparaison entre la [BANK] et d'autres émetteurs de cartes de crédit sur ce marché.
+
+2. Les réponses des banques ont été analysées dans une note au dossier («la note»). Cette note contenait aussi un tableau regroupant, sous forme cryptée, certaines données communiquées par les banques, le nom des banques ayant toutefois été expurgé («le tableau»). Ce tableau a servi pour analyser les répercussions que pouvait avoir l'absence de CMI sur l'activité d'émission de chaque banque. La note a été transmise à MasterCard et à ses avocats avec d'autres documents annexés à l'exposé des faits de la Commission du 23 mars 2007. Les services de la Commission ont informé MasterCard de leur intention de prendre la note en considération pour évaluer si les banques émettrices de MasterCard continueraient à émettre des cartes de paiement portant le logo MasterCard ou Maestro-en l'absence éventuelle de la CMI, et de quelle manière elles le feraient994.
+
+3. Le 20 avril 2007, après avoir examiné les documents auxquels ils avaient accès par le biais de l'exposé des faits du 23 mars, les avocats de MasterCard ont adressé une lettre aux services de la Commission pour leur poser des questions détaillées concernant la note au dossier et le tableau. Ils ont ainsi demandé à la Commission de leur fournir «une explication un peu plus détaillée de la méthode suivie pour garantir l'anonymat, à savoir l'application d'un facteur multiplicateur commun. L'explication est peut-être simple, mais nous n'avons pas été capables de reproduire le calcul que fait la Commission des taux de profit, avec et sans revenus d'interchange (...), à l'aide des chiffres communiqués pour les revenus, les revenus d'interchange et la totalité des coûts pour chaque émetteur, chaque année et chaque système de carte».
+
+4. Dans leur réponse du 26 avril 2007 à cette question, les services de la Commission ont expliqué aux avocats de MasterCard (mais pas à MasterCard elle-même) pourquoi les chiffres ne correspondaient pas dans la version accessible du tableau : «Vous nous avez informés qu'il vous a été impossible de reproduire le calcul effectué par la Commission des taux de profit à l'aide des chiffres communiqués pour les revenus totaux, les revenus de la commission d'interchange et les coûts totaux pour chaque émetteur, chaque année et chaque système de carte.Sans doute,cela est-il dû, au fait que nous avons été obligés de multiplier toutes les données initialement reportées dans le tableau par un «facteur commun». Cela vaut aussi pour les taux de profit initiaux.» Ils ont, par la même occasion, donné un exemple pour illustrer de manière plus pratique le processus de cryptage.
+
+5. Le 2 mai 2007, les avocats de MasterCard adressent une lettre au conseillerauditeur pour lui indiquer qu'ils étaient désormais en mesure de calculer le multiplicateur qui avait été utilisé pour le cryptage, grâce aux explications du mode de cryptage fournies par la Commission. «La Commission a semble-t-il appliqué un multiplicateur de [xx] à toutes les recettes, les coûts et les taux de profit reportés dans le tableau» et «nous constatons que le dossier de la Commission ne protège donc pas totalement les informations qu'elle a reçues, sauf erreur de notre part en ce qui concerne ce mode de calcul.» Les avocats ont encore précisé «nous avons examiné et évalué les informations transmises, mais nous ne les avons pas partagées avec MasterCard», et «nous considérons que nous avons l'obligation professionnelle de partager l'information avec notre client, à moins qu'elle ne doive être supprimée». Les avocats ont alors demandé au conseiller-auditeur de les orienter sur la conduite à suivre : «Nous demandons au conseiller-auditeur de nous dire si, à son avis, l'information doit être supprimée et, si tel n'est pas le cas, comment il convient d'y faire référence dans la procédure en cours».
+
+6. Suite à cette lettre, les services de la Commission ont conclu qu'il y avait un risque que les informations qu'ils avaient reçues ne soient pas parfaitement protégées dans la note au dossier. Prenant ce facteur en considération, auquel s'ajoutaient des raisons liées. au fond, les services de la Commission ont décidé de ne pas s'appuyer sur la note pour établir une conclusion dans la décision. Dans une lettre datée du 10 mai 2007, ils ont donc invité les avocats de MasterCard à détruire toute copie (électronique ou papier) de la note au dossier concernant le marché du RU et à leur renvoyer le CD ROM initial qui accompagnait l'exposé des faits du 23 mars 2007. Ils les ont en outre informé que «à condition de recevoir l'original de notre lettre ainsi que le CD ROM, et sous réserve de votre confirmation (ainsi que celle de votre client) de la destruction des copies susmentionnées, nous confirmons par la présente que nous n'exploiterons pas la note relative au marché du RU dans une décision». Une lettre similaire a été envoyée à MasterCard pour lui demander de renvoyer elle aussi le CD ROM initial qui contenait la note relative au marché du RU.
+
+7. Cependant, dans une lettre du 14 mai 2007, les avocats refusèrent de renvoyer le CD ROM arguant que s'ils le faisaient, ils manqueraient «à notre devoir envers notre client si nous devions tout renvoyer et accepter que le dossier soit modifié : les éléments de preuve sont, d'une certaine façon, à décharge (.)». MasterCard a renvoyé à ses avocats le CD ROM initial accompagné de la note adressée à ses avocats et a détruit toutes les copies disponibles de ces documents. Les avocats de MasterCard ont, eux, refusé de rendre le CD ROM initial ainsi que la lettre explicative.
+
+8. Le 16 mai 2007, MasterCard a répondu à l'exposé des faits que lui avait transmis la Commission. Au paragraphe 367 de sa réponse, elle demande que la note concernant le marché du RU «soit ignorée, ou supprimée». Les raisons invoquées par MasterCard tiennent à des lacunes d'ordre méthodologique dans l'analyse des données.
+
+9. Comme expliqué plus haut, la Commission a décidé de ne pas s'appuyer sur la note relative au marché du RU, ni sur le tableau qu'elle contient, pour établir une conclusion dans la présente décision afin, entre autres, de garantir la protection des secrets d'affaires des banques concernées. La justification qu'utilise MasterCard pour ne pas renvoyer le CD ROM, à savoir que la note peut aussi contenir des éléments de preuve qui sont «d'une certaine façon à décharge» n'est pas vraisemblable puisque ses avocats ont en même temps demandé à plusieurs reprises aux services de la Commission de rapporter l'exploitation de la note et des données implicites transmises par les banques du RU. La Commission envisage d'obtenir par la voie contentieuse le renvoi du CD initial et elle a informé les banques concernées de l'incident par lettre séparée en date du 30 novembre 2007.

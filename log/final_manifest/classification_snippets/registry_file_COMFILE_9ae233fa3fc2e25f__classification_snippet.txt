@@ -1,0 +1,872 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Case AT.40577 – CSL Vifor (IV Iron Products)
+
+Commitments
+
+In accordance with Article 9 of Council Regulation (EC) No 1/2003 (“Regulation
+1/2003”), Vifor Pharma Participations Ltd., Vifor Pharma Management Ltd., and Vifor Pharma
+Deutschland GmbH, and their respective Affiliated Undertakings (together “CSL Vifor”)1
+hereby offer the following commitments (“Commitments”) to address the preliminary concerns
+expressed by the European Commission (“Commission”) in its Preliminary Assessment of
+April 8, 2024 in Case AT.40577 (“Preliminary Assessment”), and to enable the Commission
+to adopt a decision confirming that the Commitments meet its concerns (the “Commitments
+Decision”).
+
+Consistent with Article 9 of Regulation 1/2003, these Commitments do not constitute
+an acknowledgement that CSL Vifor agrees with the concerns expressed by the Commission
+in the Preliminary Assessment nor an acknowledgment that CSL Vifor or any of its affiliates
+have infringed EU competition law. Consistent with Article 9 of Regulation 1/2003, the
+Commitments are given in the understanding that the Commission will confirm that there are
+no grounds for further action and will terminate the proceedings in Case AT.40577 without
+concluding whether or not there has been an infringement of competition law. For the
+avoidance of doubt, CSL Vifor contests that it is dominant on any plausible market or that it
+has engaged in unlawful conduct contrary to Article 102 TFEU or Article 54 of the EEA
+Agreement within the EEA. These Commitments are thus without prejudice to CSL Vifor’s
+position should the Commission or any other party conduct proceedings or commence other
+legal action against CSL Vifor. These Commitments are offered without any admission of
+liability.
+
+I. Definitions
+
+1. For the purpose of the Commitments, the following terms shall have the following
+meaning:
+
+“AdBoard Materials” refer to materials prepared by CSL Vifor for advisory boards that
+are used for research and scientific exchange purposes.
+
+“Additional Countries” refer to Finland, Ireland, Portugal, and Romania.
+
+“Affiliated Undertakings” mean undertakings in the EEA controlled by Vifor Pharma
+Participations Ltd., Vifor Pharma Management Ltd., and Vifor Pharma Deutschland
+GmbH, whereby the notion of control shall be interpreted pursuant to Article 3 of the
+Council Regulation (EC) No 139/2004 and in light of the Commission Consolidated
+Jurisdictional Notice under Council Regulation (EC) No 139/2004.
+
+1 All current and future legal entities of the CSL group involved in the promotion, marketing, or sale of
+Ferinject in the EEA during the Commitment Period will also be bound by the Commitments.
+
+“Clinical Head-to-Head trial” means a randomized controlled clinical trial where two
+therapies are directly compared against each other, with an appropriate sample size and
+with peer-reviewed results.
+
+“Communication Campaign” refers to the communication campaign defined in Section
+II of these Commitments.
+
+“Commitment Period” means 10 years from the Entry Into Force of the Commitments.
+
+“Conflict of Interest” means any conflict of interest that impairs the Monitoring
+Trustee’s objectivity and independence in discharging its duties under the
+Commitments.
+
+“Contact Email Address” means the CSL Vifor contact email address indicated in the
+Stakeholder Communication contained in Appendix 1.
+
+“CSL Vifor” means Vifor Pharma Participations Ltd., Vifor Pharma Management Ltd.,
+and Vifor Pharma Deutschland GmbH and their respective Affiliated Undertakings in
+the EEA.
+
+“Customer Relationship Management system” or “CRM system” refers to the software
+system used by CSL Vifor to manage interactions with customers.
+
+“EEA” means European Economic Area.
+
+“Entry Into Force” means the date when the Commitments Decision is notified to CSL
+Vifor.
+
+“External Promotional and Medical Communications” refer to all oral or written
+external promotional and medical communications, including notably paper and
+electronic promotional and medical communications used externally, as well as Internal
+Training Materials and any other internal materials serving as the basis for oral or
+written external communications by Sales and Medical Field Force with HCP
+Stakeholders within the EEA.
+“First E-mail Communication Campaign” means e-mailing the Stakeholder
+Communication to the HCP Stakeholders included in CSL Vifor’s CRM system (whose
+e-mail addresses are included in CSL Vifor’s CRM system or commercially available
+through IQVIA data) and Payor Stakeholders in the Focus Countries and the Additional
+Countries in September 2024.
+
+“First Mail Communication Campaign” means mailing the Stakeholder
+Communication to the HCP Stakeholders included in CSL Vifor’s CRM system and
+Payor Stakeholders in the Focus Countries and the Additional Countries in September
+2024.
+
+“Ferinject” means ferric carboxymaltose product commercialized by CSL Vifor under
+any and all brand names within the EEA.
+
+“Focus Countries” refer to Austria, Germany, the Netherlands, Spain, and Sweden.
+
+“HSR” means hypersensitivity reactions.
+
+“HCP Stakeholders” means the categories of healthcare professionals listed in
+Appendix 3 in the Focus Countries and the Additional Countries, based on CSL Vifor’s
+CRM system.
+
+“HQ materials” means materials prepared by CSL Vifor’s headquarter organization.
+
+“Internal Training Materials” refer to paper and electronic materials used to train CSL
+Vifor’s Sales and Medical Field Force and containing explicit or implied comparison
+between Ferinject and Monofer.
+
+“IQVIA” is a global provider of biopharmaceutical development, professional
+consulting and commercial outsourcing services.
+
+“Local Partner” means any independent third party involved in the commercialisation
+and promotion of Ferinject in the EEA on behalf of CSL Vifor.2
+
+“MAKAM” means Market Access Key Account Managers.
+
+“Monofer” means isomaltoside product or ferric derisomaltose product commercialized
+by Pharmacosmos and its partners under any and all brand names within the EEA.
+
+“MSLs” means medical scientific liaison personnel.
+
+“Payor Stakeholders” means the national, regional and local payor organizations listed
+in Appendix 4 in the Focus Countries and the Additional Countries.
+
+“Prohibited Conduct” refers to the conduct defined in Section III of these Commitments.
+
+“Required Conduct” refers to the conduct defined in Section II of these Commitments.
+
+“Q&A” means document contained in Appendix 2.
+
+“Sales Field Force” refers to CSL Vifor’s field-based employees, such as sales
+representatives and key account managers, engaged in external communications with
+HCP Stakeholders within the EEA.
+
+“Sales and Medical Field Force” refers to CSL Vifor’s field-based employees, such as
+sales representatives, key account managers, and MSLs, engaged in external
+communications with HCP Stakeholders within the EEA.
+
+“Second E-mail Communication Campaign” means e-mailing the Stakeholder
+Communication to the HCP Stakeholders included in CSL Vifor’s CRM system (whose
+e-mail addresses are included in CSL Vifor’s CRM system or commercially available
+IQVIA data) in the Focus Countries and the Additional Countries in November 2024.
+
+2 Excludes local partners not involved in promotional activities such as partners handling warehousing and
+logistics.
+
+“Second Mail Communication Campaign” means mailing the Stakeholder
+Communication to the HCP Stakeholders included in CSL Vifor’s CRM system in the
+Focus Countries and the Additional Countries in November 2024.
+
+“SmPC” means Summary of Product Characteristics, which describes the properties
+and the officially approved conditions of use of a medicine. It provides the basis of
+information for healthcare professionals on how to use the medicine safely and
+effectively.
+
+“Stakeholder Communication” means the written communication contained in
+Appendix 1.
+
+“Pharmacosmos” refers to Pharmacosmos A/S, registered address of Roervangsvej 30,
+4300 Holbaek, Denmark.
+
+“Third Mail Communication Campaign” means mailing the Stakeholder
+Communication only to the HCP Stakeholders whose e-mail addresses are not included
+in CSL Vifor’s CRM system or commercially available through IQVIA data in the
+Focus Countries and the Additional Countries, in January 2025.
+
+[...] refers to a third-party cloud-based content management application used by
+CSL Vifor that enables promotional and non-promotional content creation, review,
+and approval.
+
+II. Required Conduct
+
+2. CSL Vifor commits to undertaking a comprehensive, multi-channel, clarification
+communication campaign (“Communication Campaign”), comprised of the following
+elements:
+
+a. Disseminating the Stakeholder Communication in the Additional Countries and
+Focus Countries through mail and e-mail to HCP Stakeholders included in
+Appendix 3 and Payor Stakeholders included in Appendix 4. The First Mail
+Communication Campaign and First E-mail Communication Campaign with
+HCP Stakeholders and Payor Stakeholders shall take place in September 2024.
+The Second Mail Communication Campaign and Second E-mail
+Communication Campaign with HCP Stakeholders shall take place in
+November 2024. The Third Mail Communication Campaign shall take place in
+January 2025 and shall only cover HCP Stakeholders included in Appendix 3
+whose e-mail addresses are not available in CSL Vifor’s CRM system or
+commercially available through IQVIA data. Any follow-up questions from the
+HCP Stakeholders and Payor Stakeholders related to the content of the
+Stakeholder Communication shall be responded to, respectively, by CSL
+Vifor’s Sales and Medical Field Force and CSL Vifor’s MAKAM in line with
+the Q&A document provided in Appendix 2.
+
+b. Publishing the Stakeholder Communication contained in Appendix 1 in the
+section on iron deficiency of (i) CSL Vifor website’s homepage,3 and (ii) CSL
+Vifor’s country websites within the EEA,4 as soon as practicable and no later
+than 7 days of the Entry Into Force or as soon as local regulatory authority
+approval is obtained where required, whichever is later, for a period of 36
+months from the date of publication on a particular website.
+
+c. Publishing the Stakeholder Communication contained in Appendix 1 in a
+leading medical journal with a wide coverage in each of the Focus Countries
+and the Additional Countries, listed in Appendix 5, as soon as reasonably
+practicable but no later than January 31, 2025 (unless extended by the
+Commission upon CSL Vifor’s reasoned request).
+
+d. Allowing third parties, including Pharmacosmos, to use the Stakeholder
+Communication contained in Appendix 1 (or its translated versions included in
+Appendixes 1.1-1.21) within the EEA from October 1, 2024, or earlier if the
+First Mail Communication Campaign and First E-mail Communication
+Campaign take place earlier, as long as it is reproduced verbatim if
+communicated in writing.
+
+e. For a period of 12 months from the Entry Into Force, delivering the Stakeholder
+Communication to HCP Stakeholders in the Additional Countries and Focus
+Countries in one hard copy per HCP Stakeholder during the first in-person
+meeting that takes place in the ordinary course of business between the Sales
+Field Force involved with Ferinject and an HCP Stakeholder.
+
+3. CSL Vifor’s compliance with the Required Conduct shall be subject to a Monitoring
+Trustee mechanism defined in Section VII of these Commitments.
+
+III. Prohibited Conduct
+
+4. For a period of 10 years from the Entry Into Force, CSL Vifor commits not to engage
+within the EEA in External Promotional and Medical Communications, in writing or
+orally, about Monofer’s safety profile containing information or characteristics (i) not
+based on information or characteristics included in Monofer’s SmPC, or (ii) not derived
+from a Clinical Head-to-Head trial between Ferinject and Monofer. In addition, CSL
+Vifor’s External Promotional and Medical Communications related to Monofer and
+Ferinject shall be balanced, objective, and comprehensive. In particular, CSL Vifor
+shall not directly or indirectly imply or suggest that Monofer is not dextran-free.
+
+5. CSL Vifor commits to undertake best efforts to amend as soon as practicable its
+agreements with Local Partners to contractually (i) request compliance of Local
+Partners with the Prohibited Conduct set out at paragraph 4 for the duration of the
+Commitment Period, (ii) request annual self-certification by Local Partners of their
+compliance with the Prohibited Conduct set out at paragraph 4 for the duration of the
+Commitment Period, and (iii) offer Local Partners an annual compliance training for a
+
+3 The homepage of the section on iron deficiency is currently available at: www.csl.com/we-are-csl/ourbusinesses-and-products/csl-vifor/csl-vifor-products.
+4 The global selector of country websites is currently available at: https://www.csl.com/globalselector.
+
+period of 3 years from the Entry Into Force, focused on good promotional and medical
+communications practice and compliance with the Commitments.
+
+6. As a means of compliance with the commitment set out at paragraph 4, CSL Vifor
+commits to the following measures and safeguards. The implementation of measures
+in paragraphs 6(a), 6(b), and 6(d) shall be reviewed by the Monitoring Trustee within
+45 days of its appointment and be subject to reasonable comments from the Monitoring
+Trustee communicated to CSL Vifor within 60 days of the Monitoring Trustee’s
+appointment. In case of disagreement between the Monitoring Trustee and CSL Vifor
+on the reasonablenessof the comments, the matter shall be escalated to the Commission.
+
+a. For a period of 3 years from the Entry Into Force, setting up an internal
+mechanism to ensure as far as reasonably possible that all HQ External
+Promotional and Medical Communications related to safety statements about
+Monofer and/or Ferinject are in line with these Commitments prior to their
+external use. Setting up an internal mechanism to ensure as far as reasonably
+possible that all HQ Internal Training Materials related to safety statements
+about Monofer and/or Ferinject, and AdBoard Materials related to safety
+statements about Monofer and/or Ferinject, are in line with these Commitments
+prior to their use.
+
+b. For a period of 3 years from the Entry Into Force, setting up an internal
+mechanism to review as far as reasonably possible any country-specific
+deviations from HQ External Promotional and Medical Communications related
+to safety statements about Monofer and/or Ferinject used within the EEA to
+ensure that any such deviations are in line with these Commitments prior to their
+external use. Setting up an internal mechanism to review as far as reasonably
+possible any country-specific deviations from HQ Internal Training Materials
+related to safety statements about Monofer and/or Ferinject used for training
+within the EEA to ensure that any such deviations are in line with these
+Commitments prior to their internal training use.
+
+c. For the duration of the Commitment Period, offering a dialogue process
+between CSL Vifor, Pha
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+’s past
+communications to healthcare professionals about Monofer’s safety have been potentially
+misleading as they included statements that may not have been sufficiently accurate, balanced,
+comprehensive and reflective of the information contained in Monofer’s SmPC. Accordingly,
+the purpose of the clarification letter you have received is to clarify any potentially misleading
+past communications about Monofer’s safety. For further information relating to the safety
+profile of Ferinject and Monofer, please refer to their respective SmPCs.
+
+7. What type of materials would have contained insufficiently balanced,
+comprehensive, and accurate information?
+
+CSL Vifor’s communications related to Monofer were included in external promotional and
+medical materials that may have been presented to you or shared with you (orally or in writing).
+In essence, CSL Vifor communicated that Monofer was a dextran or dextran-derived/dextranbased product and that it was associated with an increased risk of hypersensitivity reactions
+compared to Ferinject. However, such communications have been potentially misleading as
+they were not sufficiently balanced, comprehensive, accurate and reflective of the information
+in Monofer’s SmPC. CSL Vifor committed to refrain from making comparative claims about
+
+Monofer’s safety that are not derived from the SmPC or from head-to-head trials between
+Ferinject and Monofer.
+
+As explained in the clarification letter you have received, according to Monofer’s SmPC,
+Monofer is not a dextran, dextran-derived, or dextran-based product and does not have
+increased risk of hypersensitivity reaction compared to Ferinject. According to the class label
+on hypersensitivity reaction for IV iron products, the risk of hypersensitivity reactions for IV
+iron products is considered “uncommon” for all IV iron products currently available on the
+market, including Monofer and Ferinject. The available head-to-head trials comparing
+Ferinject and Monofer do no suggest that Ferinject has a superior safety profile compared to
+Monofer. We hope that this letter clarifies any potentially misleading past communications
+about Monofer.
+
+8. Is there any material that you have communicated to me that was incorrect? Have
+you ever misrepresented data?
+
+As part of its investigation, the European Commission was concerned that CSL Vifor’s past
+communications to healthcare professionals about Monofer’s safety have been potentially
+misleading as they included statements that may not have been sufficiently accurate, balanced,
+comprehensive and reflective of the information contained in Monofer’s SmPC by suggesting
+that Monofer was a dextran or dextran-derived/dextran-based product and that it was associated
+with an increased risk of hypersensitivity reactions compared to Ferinject.
+
+However, as explained in the clarification letter you have received, according to Monofer’s
+SmPC, Monofer is not a dextran, dextran-derived, or dextran-based product and does not have
+increased risk of hypersensitivity reaction compared to Ferinject. There is a class label on
+hypersensitivity reaction for IV iron products, and the risk for HSRs is considered “uncommon”
+for all IV iron products currently available on the market, including Monofer and Ferinject.
+Based on the information included in Ferinject’s and Monofer’s respective SmPCs and absent
+head-to-head clinical trials on hypersensitivity reactions comparing Ferinject and Monofer, it
+is not appropriate to infer Ferinject to have a superior safety profile compared to Monofer. We
+hope that this letter clarifies any potentially misleading past communications about Monofer’s
+safety.
+
+9. Do you have to retract any material?
+
+No, it is not possible to retract our past communications but the aim of our clarification letter
+is to clarify any potentially misleading past communications on Monofer’s safety. As
+explained in that clarification letter, Monofer does not have a limited evidence base that would
+call into question its safety and, according to Monofer’s SmPC, which was approved by the
+competent regulatory authorities, Monofer is not a dextran, dextran-derived, or dextran-based
+product and does not have increased risk of hypersensitivity reaction compared to Ferinject. It
+is therefore not appropriate to infer Ferinject to have a superior safety profile compared to
+Monofer.
+
+10. If my patients request Ferinject instead of Monofer, do I share the information
+contained in your clarification letter with them?
+
+The clarification letter is addressed to all relevant healthcare professionals in order to clarify
+any potentially misleading past communications about Monofer’s safety. CSL Vifor is not in
+a position to direct or advise on prescribing decisions nor interfere with physician-to-patient
+communication. However, nothing prevents you from sharing the information contained in our
+clarification letter.
+
+Appendix 4 – Payor Organizations
+
+Table 1. List of Payors in Germany
+
+National Payor
+
+Gemeinsa mer Budesa usschuss, G-BA (The Federal Joint Committee)
+
+Subnational Payors
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+Table 4. List of Payors in Sweden
+
+National Payor
+
+Tandvårds- och läkemedelsförmånsverket, TLV (The Dental and Pharmaceutical Benefits Agency)
+
+Subnational Payors
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+Table 5. List of Payors in Finland
+
+National Payor
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]
+
+[...] [...] [...]

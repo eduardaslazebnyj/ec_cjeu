@@ -1,0 +1,575 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles,
+
+DÉCISION
+
+relative à une mesure d'application de l'article 81 du traité
+
+et de l'article 53 de l'accord EEE
+
+(Les textes en langues allemande et anglaise sont les seuls faisant foi.)
+
+Affaire COMP/39406-Marine Hoses
+
+FR FR
+
+DÉCISION
+du
+
+adressée à
+
+Bridgestone Corporation
+
+Bridgestone Industrial Ltd
+
+The Yokohama Rubber Company Limited
+
+Dunlop Oil & Marine Limited
+
+ContiTech AG
+
+Continental AG
+
+Trelleborg Industrie SAS
+
+Trelleborg AB
+
+Parker ITR Srl
+
+Parker Hannifin Corporation
+
+Manuli Rubber Industries SpA
+
+relative à une mesure d'application de l'article 81 du traité
+et de l'article 53 de l'accord EEE
+
+Affaire COMP/39406-Marine Hoses
+
+FR 2 FR
+
+TABLE DES MATIÈRES
+
+1. Introduction........................................................................................................................ 6
+1.1. Destinataires............................................................................................................... 6
+1.2. Résumé de l’infraction ............................................................................................... 6
+2. Secteur en cause dans la présente procédure...................................................................... 6
+2.1. Le produit................................................................................................................... 6
+2.2. Les entreprises concernées par la procédure.............................................................. 7
+2.2.1. Bridgestone......................................................................................................... 7
+2.2.2. Yokohama .......................................................................................................... 8
+2.2.3. DOM................................................................................................................... 9
+2.2.4. Trelleborg......................................................................................................... 11
+2.2.5. Parker ITRParker ITR...................................................................................... 12
+2.2.6. Manuli .............................................................................................................. 14
+2.2.7. Autres acteurs du marché ................................................................................. 15
+2.3. Description de l’activité économique....................................................................... 16
+2.3.1. La demande ...................................................................................................... 16
+2.3.2. L'offre............................................................................................................... 17
+2.3.3. Portée géographique du secteur des tuyaux marins ......................................... 17
+2.4. Échanges entre États................................................................................................. 17
+3. Procédure.......................................................................................................................... 18
+3.1. Enquête de la Commission....................................................................................... 18
+3.2. Enquêtes et procédures menées dans d'autres juridictions....................................... 19
+4. Description des événements............................................................................................. 20
+4.1. Principes fondamentaux et fonctionnement de l'entente.......................................... 20
+4.2. L’accord d’entente.................................................................................................... 21
+4.2.1. Le « protocole d'accord » ................................................................................. 21
+4.2.2. Attribution des projets...................................................................................... 22
+4.2.3. Tarification....................................................................................................... 23
+4.2.4. Quotas............................................................................................................... 24
+4.2.5. Coordination et répartition des offres (en ce compris le partage géographique
+du marché)........................................................................................................................ 25
+4.2.6. Échange d'informations sensibles sur les prix, les volumes des ventes et les
+appels d'offres................................................................................................................... 29
+4.2.7. Autres arrangements......................................................................................... 29
+4.2.8. Codes................................................................................................................ 30
+4.3. Chronologie du cartel............................................................................................... 31
+4.3.1. Le début de l’entente........................................................................................ 31
+4.3.2. April 1986 jusqu’à Mars 1997 ......................................................................... 31
+4.3.3. Mars 1997 – juin 1999 ..................................................................................... 42
+4.3.4. Mi-1999 jusqu’à mi 2006................................................................................. 49
+4.3.5. Coordination à la mi-2006................................................................................ 58
+4.3.6. Coordination de l’entente................................................................................. 61
+4.4. Conclusions sur la période 1986 - 2007................................................................... 63
+5. Application de l’article 81 du Traite et de l’article 53 de l’accord EEE.......................... 63
+5.1. Relation entre le traité et l’accord EEE.................................................................... 63
+5.2. Compétence.............................................................................................................. 63
+5.3. Application de l’article 81(1) du traité et de l’article 53(1) de l’accord EEE.......... 64
+5.3.1. Article 8(1)1 du traité et article 53(1) de l’accord EEE ................................... 64
+
+FR 3 FR
+
+5.3.2. La nature de l'infraction.................................................................................... 64
+5.3.3. Restriction de la concurrence........................................................................... 72
+5.3.4. Infraction unique et continue............................................................................ 74
+5.3.5. Effet sur le commerce entre les États membres et entre les parties contractantes
+de l’EEE 83
+5.4. Non-application de l’article 81(3) du traité et de l’article 53(3) de l’accord EEE... 85
+6. Destinataires de cette Décision ........................................................................................ 85
+6.1. Principes................................................................................................................... 85
+6.2. Application en l'espèce............................................................................................. 88
+7. Durée de l’infraction ...................................................................................................... 111
+7.1. Le début et la fin de l’infraction............................................................................. 111
+7.2. Conclusion.............................................................................................................. 112
+8. Mesures correctives........................................................................................................ 112
+8.1. Article 7 du règlement (CE) n° 1/2003 .................................................................. 112
+8.2. Article 23, paragraphe 2, du règlement (CE) n° 1/2003......................................... 113
+8.3. Article 25 du règlement (CE) n° 1/2003 ................................................................ 113
+8.4. Montant de base des amendes ................................................................................ 115
+8.4.1. Méthodologie ................................................................................................. 115
+8.4.2. La valeur des ventes....................................................................................... 115
+8.4.3. Gravité............................................................................................................ 122
+8.4.4. Durée.............................................................................................................. 123
+8.4.5. Le pourcentage à appliquer pour le montant supplémentaire ........................ 125
+8.4.6. Calcul et conclusion concernant les montants de base des amendes à infliger
+126
+8.5. Ajustements du montant de base............................................................................ 127
+8.5.1. Circonstances aggravantes ............................................................................. 127
+8.5.2. Circonstances atténuantes .............................................................................. 129
+8.5.3. Conclusion sur les montants de base ajustés.................................................. 129
+8.6. Application du plafond de 10% du chiffre d'affaires ............................................. 131
+8.7. Application de la communication sur la clémence................................................. 131
+8.7.1. Yokohama ...................................................................................................... 131
+8.7.2. Manuli ............................................................................................................ 132
+8.7.3. Parker ITR...................................................................................................... 133
+8.7.4. Bridgestone..................................................................................................... 134
+8.7.5. Conclusion sur l'application de la communication sur la clémence............... 135
+8.8. Montants des amendes infligées dans le cadre de la présente décision ................. 135
+8.8.1. Bridgestone..................................................................................................... 135
+8.8.2. Yokohama ...................................................................................................... 136
+8.8.3. DOM............................................................................................................... 136
+8.8.4. Trelleborg....................................................................................................... 136
+8.8.5. Parker ITR...................................................................................................... 136
+8.8.6. Manuli ............................................................................................................ 137
+8.9. Capacité de payer ................................................................................................... 137
+
+FR 4 FR
+
+DÉCISION DE LA COMMISSION
+
+du
+
+relative à une procédure d’application de l’article 81 du traité CE et de l'article 53 de
+l'accord EEE
+
+Affaire COMP/39406 – Marine Hoses
+
+(Les textes en langues anglaise et allemande sont les seuls faisant foi)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+vu le traité instituant la Communauté économique européenne,
+
+vu l'accord sur l'Espace économique européen,
+
+vu le règlement (CE) n° 1/2003 du 16 décembre 2002 relatif à la mise en œuvre des règles de
+concurrence prévues aux articles 81 et 82 du traité1, et en particulier son article 7 et son
+article 23, paragraphe 2,
+
+vu la décision de la Commission du 28 avril 2008 d’ouvrir la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission conformément à l’article 27, paragraphe 1, du
+règlement n° 1/2003 et à l’article 12 du règlement (CE) n° 773/2004 de la Commission du
+7 avril 2004 relatif aux procédures mises en œuvre par la Commission en application des
+articles 81 et 82 du traité CE2,
+
+après consultation du comité consultatif en matière d’ententes et de positions dominantes,
+
+vu le rapport final du conseiller auditeur dans la présente affaire3,
+
+considérant ce qui suit:
+
+1 JO L 1 du 4.1.2003, p.1.
+2 JO L 123 du 27.04.2004, p. 18.
+3 A publier au Journal Officiel
+FR 5 FR
+
+1. INTRODUCTION
+
+1.1. Destinataires
+
+1. Les entreprises suivantes sont destinataires de la présente décision :
+- Bridgestone Corporation ;
+- Bridgestone Industrial Ltd ;
+- The Yokohama Rubber Company Limited ;
+- Dunlop Oil & Marine Limited ;
+- ContiTech AG ;
+- Continental AG ;
+- Trelleborg Industrie SAS ;
+- Trelleborg AB ;
+- Parker ITR Srl ;
+- Parker Hannifin Corporation ; et
+- Manuli Rubber Industries SpA.
+1.2. Résumé de l’infraction
+
+2. Cette décision concerne une infraction unique et continue de l’article 81 du traité
+instituant la Communauté économique européenne (ci-après le « traité ») et de
+l’article 53 de l'accord sur l'Espace économique européen (ci-après
+l’« accord EEE »).
+
+3. La violation, couvrant la totalité de l’EEE, concernait (i) l’attribution d’appels
+d’offres, (ii) la fixation des prix, (iii) la fixation de quotas, (iv) l’établissement
+des conditions de vente, (v) le partage de marchés géographiques, et (vi)
+l'échange d'informations sensibles sur les prix, les volumes des ventes et les
+appels d’offres.
+
+2. SECTEUR EN CAUSE DANS LA PRESENTE PROCEDURE
+
+2.1. Le produit
+
+4. Les produits en cause sont les tuyaux marins. Les tuyaux marins sont utilisés
+pour charger du pétrole brut doux ou traité et d’autres produits pétroliers
+d’installations offshore (par exemple les bouées,4 les plates-formes flottantes
+d'extraction, de stockage et de déchargement5) sur des navires et pour les
+décharger vers des installations offshore ou sur la terre ferme (ex. : bouées ou
+
+4 Les bouées sont normalement ancrées au large et servent de points d’ancrage pour que les pétroliers
+chargent et déchargent du pétrole, du gaz ou des produits liquides. Ces bouées sont également appelées
+des systèmes d’amarrage sur un point ('SPM' - Single Point Mooring) or systèmes d'amarrage en un
+point unique ('SBM' - Single Buoy Moorings).
+5 Les plates-formes flottantes d'extraction, de stockage et de déchargement ('FPSO' - Floating Production,
+Storage and Offloading) sont des systèmes de citernes flottantes utilisés pour extraire l’intégralité du
+pétrole ou du gaz produit depuis une plate-forme voisine, le traiter et le stocker jusqu’à ce que le gaz ou
+le pétrole puisse être déchargé dans des pétroliers en attente ou envoyés par un pipe-line.
+FR 6 FR
+
+jetées). Dès lors, les tuyaux marins sont utilisés principalement dans le cadre du
+transport du pétrole depuis des points d'exploitation distants qui ne sont pas reliés
+par des pipeline
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ises par le candidat à
+l’immunité et le premier candidat à la clémence ainsi que par les documents
+recueillis au cours des inspections.
+
+491. La déclaration de Parker ITR contenait des preuves d'une infraction dans
+l’industrie sur les tuyaux marins pour la période 1972 jusqu’au début des années
+1980. Les preuves pour la période après le 1er avril 1981, à savoir cinq ans avant
+FR 133 FR
+
+le début de l’infraction décrite dans la décision actuelle, sont à ce point sans
+conséquence que toute preuve liée à la période commençant à partir de 1972 sera
+nécessairement soumise à la prescription en matière d'imposition d'amendes.
+
+492. Il est stipulé dans la communication sur la clémence que « la Commission ne
+statuera pas sur l'opportunité d'accorder ou non une immunité conditionnelle ou
+bien de récompenser ou non une demande s'il apparaît que la demande concerne
+des infractions auxquelles s'applique le délai de prescription de cinq ans fixé à
+l'article 25, paragraphe 1, point b), du règlement no 1/2003, car une telle
+demande serait sans objet. » (article 36). Par conséquent, il ne sera pas tenu
+compte de la partie de la déclaration relative à cette période pour apprécier si
+Parker ITR a apporté une valeur ajoutée significative.
+
+493. Sur la base des éléments qui précèdent, Parker ITR ne peut se voir accorder une
+quelconque réduction d’amende.
+
+8.7.4. Bridgestone
+
+494. Bridgestone a soumis une demande au titre de la communication sur la clémence
+le 7 décembre 2007. La demande de Bridgestone comportait un dossier écrit
+confirmant des contacts avec le cartel entre 1986 et 2007, contenant deux
+courriers échangés entre les membres de l’entente (passation de marchés) en
+1994, ainsi que des courriels échangés en interne en rapport avec une passation
+de marchés de 1999 à 2006.
+
+495. Si, dans l’ensemble, la déclaration de Bridgestone cadre avec les communications
+de Yokohama et les conclusions tirées sur base des éléments découverts dans le
+cadre des inspections, elle ne fournit que peu d'éléments pouvant être considérés
+comme apportant « une valeur ajoutée ».
+
+496. Bridgestone affirme qu’elle a soumis, de bonne foi, cinq demandes de clémence
+apportant des éléments de preuve sur la nature et le fonctionnement de l’entente,
+ainsi que des détails sur des représentants de Bridgestone et sur une réunion entre
+d'autres concurrents du secteur des tuyaux marins afin de discuter de la manière
+de procéder à la mise à jour des directives de l’OCIMF afin d'exclure de
+nouveaux arrivants. La Commission estime que le dernier élément n’est pas lié à
+la présente infraction. En ce qui concerne le reste de la contribution de
+Bridgestone, elle déclare qu’elle « satisfait aux critères énumérés au point 24 à
+25 de la communication sur la clémence de 2006 ». La Commission note que si
+Bridgestone a admis avoir participé à l'entente, elle n'a fourni aucune information
+apportant une quelconque 'valeur ajoutée significative' et ne peut donc pas
+bénéficier d'une réduction d'amende. L’infraction est largement prouvée par les
+preuves exhaustives soumises par le candidat à l’immunité et le premier candidat
+à la clémence ainsi que par les documents recueillis au cours des inspections. En
+fait, la Commission ne s’est pas basée sur les éléments de preuve fournis par
+Bridgestone afin de fournir la preuve de l’infraction présente. Lorsque les
+déclarations de Bridgestone au titre de la communication sur la clémence ont été
+citées dans le texte de la présente décision (voir notes de bas de page 266, 267,
+FR 134 FR
+
+288, 577 and 634), ces citations s'inscrivaient dans le cadre des déclarations de
+Bridgestone pour l’utilisation de ces preuves à des fins de justification et
+d’atténuation, et non dans le but d’établir une infraction.
+
+497. Par conséquent, une réduction d’amendes ne peut être octroyée à Bridgestone.
+
+8.7.5. Conclusion sur l'application de la communication sur la clémence
+
+8.7.5.1. Yokohama
+
+498. L’amende à infliger à Yokohama au titre de l'application de la communication
+sur la clémence doit être le suivant :
+
+Montant de base ajusté EUR 14 400 000
+
+Réduction : % 100
+
+Amende totale: EUR 0
+
+8.7.5.2. Manuli
+
+499. L’amende à infliger à Manuli au titre de l'application de la communication sur la
+clémence doit être le suivant:
+
+Montant de base ajusté EUR 7 000 000
+
+Réduction : % 30
+
+Amende totale: EUR 4 900 000
+
+8.8. Montants des amendes infligées dans le cadre de la présente décision
+
+500. Les amendes totales à infliger en vertu de l’article 23, paragraphe 2, du règlement
+(CE) n° 1/2003 doivent donc être les suivantes :
+
+8.8.1. Bridgestone
+
+501. L’amende à infliger à Bridgestone doit être le suivant :
+
+Entité juridique Amende totale
+
+Bridgestone Corporation EUR 58 500 000
+
+FR 135 FR
+
+Bridgestone Industrial Ltd EUR 48 100 000
+
+8.8.2. Yokohama
+
+502. L’amende à infliger à Yokohama doit être le suivant :
+
+Entité juridique Amende totale
+
+Yokohama Rubber Company EUR 0
+Limited
+
+8.8.3. DOM
+
+503. L’amende à infliger à DOM doit être le suivant :
+
+Entité juridique Amende totale
+
+Dunlop Oil & Marine Limited EUR 18 000 000
+
+ContiTech AG EUR 16 000 000
+
+Continental AG EUR 7 100 000
+
+8.8.4. Trelleborg
+
+504. L’amende à infliger à Trelleborg doit être le suivant :
+
+Entité juridique Amende totale
+
+Trelleborg Industrie SAS EUR 24 500 000
+
+Trelleborg AB EUR 12 200 000
+
+8.8.5. Parker ITR
+
+505. L’amende à infliger à Parker ITR doit être le suivant :
+
+Entité juridique Amende totale
+
+Parker ITR Srl EUR 25 610 000
+
+Parker Hannifin Corporation EUR 8 320 000
+
+FR 136 FR
+
+8.8.6. Manuli
+
+506. L’amende à infliger à Manuli doit être le suivant :
+
+Entité juridique Amende totale
+
+Manuli Rubber Industries SpA EUR 4 900 000
+
+8.9. Capacité de payer
+
+507. Aucun des destinataires n’a indiqué être dans l’incapacité de payer l’amende.
+
+FR 137 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+Les entreprises suivantes ont enfreint les dispositions de l’article 81 du traité et, à partir du 1er
+janvier 1994, de l’article 53 de l’accord EEE en participant, pour les périodes indiquées, à
+une infraction unique et continue dans le secteur des tuyaux marins à l'intérieur de l'EEE,
+ayant consisté en l'attribution de soumissions, la fixation de prix, la fixation de quotas, la
+fixation des conditions de vente, la répartition géographique des marchés, et l'échange
+d'informations sensibles sur les prix, les volumes de vente et l'appel de soumissions:
+(a) Bridgestone Corporation : du 1er avril 1986 au 2 mai 2007 ;
+
+(b) Bridgestone Industrial Ltd : du 19 décembre 1989 au 2 mai 2007 ;
+
+(c) The Yokohama Rubber Company Limited : du 1er avril 1986 au 1er
+juin 2006 ;
+
+(d) Dunlop Oil & Marine Limited : du 12 décembre 1997 au 2 mai 2007 ;
+
+(e) ContiTech AG : du 28 juillet 2000 au 2 mai 2007 ;
+
+(f) Continental AG : du 9 mars 2005 au 2 mai 2007 ;
+
+(g) Trelleborg Industrie SAS : du 1er avril 1986 au 2 mai 2007 ;
+
+(h) Trelleborg AB : du 28 mars 1996 au 2 mai 2007 ;
+
+(i) Parker ITR Srl : du 1er avril 1986 au 2 mai 2007 ;
+
+(j) Parker Hannifin Corporation : du 31 janvier 2002 au 2 mai 2007 ; et
+
+(k) Manuli Rubber Industries SpA : du 1er avril 1986 au 1er aout 1992 et
+du 3 septembre 1996 au 2 mai 2007.
+
+Article 2
+Les amendes suivantes sont infligées pour les infractions visées à l’article 1er :
+
+(a) Bridgestone Corporation : EUR 58 500 000 ,
+
+dont conjointement et solidairement avec Bridgestone Industrial Ltd EUR pour
+EUR 48 100 000 ;
+
+(b) Yokohama Rubber Company Limited : EUR 0 ;
+
+FR 138 FR
+
+(c) Dunlop Oil & Marine Limited : EUR 18 000 000 ,
+
+dont conjointement et solidairement avec ContiTech AG pour
+EUR 16 000 000,
+
+dont conjointement et solidairement avec Continental AG pour
+EUR 7 100 000 ;
+
+(d) Trelleborg Industrie SAS : EUR 24 500 000 ,
+
+dont conjointement et solidairement avec Trelleborg AB pour
+EUR 12 200 000 ;
+
+(e) Parker ITR Srl : EUR 25 610 000,
+
+dont conjointement et solidairement avec Parker Hannifin Corporation pour
+EUR 8 320 000 ;
+
+(f) Manuli Rubber Industries SpA : EUR 4 900 000.
+
+Les amendes infligées sont à payer en euros, dans un délai de trois mois à compter de la date
+de notification de la présente décision, sur le compte bancaire suivant de la Commission
+européenne:
+SOCIETE GENERALE
+
+Cours Valmy 17
+
+F-92800 PUTEAUX
+
+IBAN : FR76 30003 06990 00101611532 82
+
+Code SWIFT : SOGEFRPPXXX
+
+À l’expiration du délai précité, des intérêts seront automatiquement dus au taux d'intérêt
+appliqué par la Banque centrale européenne à ses principales opérations de refinancement le
+premier jour du mois au cours duquel la présente décision a été adoptée, majoré de 3,5 points
+de pourcentage.
+
+Article 3
+Les entreprises visées à l’article 1er mettent immédiatement fin aux infractions visées audit
+article, si elles ne l’ont pas déjà fait.
+Elles s’abstiennent dorénavant de tout acte ou comportement décrit à l'article 1er, ainsi que de
+tout acte ou comportement ayant un objet ou un effet identique ou similaire.
+
+FR 139 FR
+
+Article 4
+Sont destinataires de la présente décision :
+
+Bridgestone Corporation
+10-1, Kyobashi 1-chome
+Chuo-ku, Tokyo 104-8340,
+Japan
+
+Bridgestone Industrial Ltd.
+2nd Floor West CP House
+97-107 Uxbridge Road
+Ealing
+London W5 5TL
+United Kingdom
+
+Yokohama Rubber Company, Ltd.
+Minato-Ku Tokyo 105-8685,
+36-11, Shimbashi 5-Chome
+Japan
+
+Dunlop Oil & Marine Limited.
+Moody Lane, Pyewipe,
+Grimsby
+North East Lincolnshire
+DN31 2SY
+United Kingdom
+
+ContiTech AG
+Vahrenwalderstraße 9
+D-30165 Hannover
+Germany
+
+Continental AG
+Vahrenwalderstraße 9
+D-30165 Hannover
+Germany
+
+Trelleborg Industrie SAS
+ZI La Combaude, Rue de Chantemerle
+F-63050 Clermont-Ferrand
+France
+
+Trelleborg AB
+Johan Kocksgatan 10
+231 22 Trelleborg
+Sweden
+
+Parker ITR Srl
+FR 140 FR
+
+Via G.B. Pirelli 6
+IT-22070 Veniano (CO)
+Italy
+
+Parker Hannifin Corporation
+6035 Parkland Boulevard
+44124 Cleveland
+OH USA
+
+Manuli Rubber Industries SpA
+Piazza della Repubblica 14/16
+20124 Milan
+Italy
+
+La présente décision forme titre exécutoire conformément à l'article 256 du traité et à l'article
+110 de l'accord EEE.
+
+Pour la Commission
+Neelie Kroes
+Membre de la Commission
+
+FR 141 FR

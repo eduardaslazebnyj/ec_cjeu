@@ -1,0 +1,489 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DRAFT
+
+EN
+
+EN EN
+
+DRAFT
+
+Draft
+
+COMMISSION DECISION
+
+of [...] 2004
+
+on the German postal legislation relating to mail preparation services, in particular
+to the access of self-provision intermediaries and consolidators to the public postal
+network and related special tariffs
+
+(BdKEP – Restrictions on mail preparation)
+
+(Only the German text is authentic)
+
+(00/00/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community, and in particular
+Article 86(3) thereof,
+
+Having given the German authorities and Deutsche Post AG the opportunity, by letters of
+28 November 2003, 4 December 2003, 24 May 2004, 25 May 2004 and 13 July 2004 and
+by meetings held on 24 May 2004 and 30 June 2004 respectively, to make known their
+views on the objections raised by the Commission with regard to German postal
+legislation relating to mail preparation services, in particular to the access of selfprovision intermediaries and consolidators to the public postal network and related
+special tariffs,
+
+Whereas:
+
+1. THE FACTS
+
+1.1 The State measure in question
+
+1. Article 51 paragraph 1 of the German Postal Law (“PostG”) grants an exclusive
+licence to Deutsche Post AG (“DPAG”) for the commercial transport of postal items
+weighing less than 100 grams and costing less than three times the basic tariff. This
+provision does not apply to senders who wish to take care of the transport of their
+reserved mail items themselves, provided they do not do so on a commercial basis,
+acting for others. Transport is defined as the clearance, routing and delivery of
+postal items to the recipient (Article 4 no. 3 PostG).
+
+2. By way of exception, Article 51 paragraph 1 2nd sentence no. 5 of the PostG
+authorises commercial providers to pick up reserved postal items on the sender’s
+behalf (“im Auftrage des Absenders”) and deliver them to the nearest access point
+of the DPAG network or to another access point within the same municipality.
+
+2
+
+DRAFT
+
+3. Article 28 PostG paragraph 1 enables customers to feed mail items into the postal
+network at access points located downstream to the nearest access point. This
+downstream access gives rise to discounted postal tariffs, reflecting the costs
+avoided by DPAG as compared to the standard service covering the complete range
+of features offered for the clearance, transport sorting and delivery.
+
+4. Upon application of several DPAG clients, the German Telecommunications and
+Postal Regulatory Authority (“RegTP”) laid first down the conditions under which
+customers can hand over mail items and earn discounts at one of DPAG’s 83 sorting
+centres across Germany.1 The decisions distinguish between the outbound sorting
+centre (Briefzentrum Abgang, “BZA”), the centre located next to the sender of a
+given mail item, and the inbound sorting centre (Briefzentrum Eingang, “BZE”), the
+centre located next to the recipient.
+
+Nearest access point Outbound Sorting centre Inbound Sorting centre
+Sender = “BZA” “BZE” Recipient
+post office / letter box
+
+5. The discounted rates vary depending on whether mail items are handed over at the
+outbound sorting centre or the inbound sorting centre. In case of delivery at the
+outbound centre, the discount depends on the number of items per category (e.g.
+standard letters):
+
+Discount Number of items per category
+5% 5,000 – 10,000
+8% 10,001 – 15,000
+12% 15,001 – 20,000
+16% 20,001 – 25,000
+20% > 25,000
+
+At the inbound centre, the discount is fixed 23% starting from 500 mail items per
+category.
+
+6. The above discounts are granted only if the mail items are prepared in compliance
+with certain quality requirements, e.g. pre-sorted according to the first two digits of
+the postal code, franked, machine-readable and conveyed in bar-coded, DPAGspecific containers.
+
+1 Decision BK 5b-00/076 dated 15 September 2000, decisions BK5a-00/110 (Stuttgarter
+Lebensversicherung) and BK5a-00/114 (Württembergische Gemeindeversicherung) dated 16 October
+2000 and decision BK 5a-01/004 dated 12 March 2001, hereinafter referred to as the “RegTP
+Decisions”.
+
+3
+
+DRAFT
+
+7. In the framework of the general price regulation of postal tariffs, RegTP slightly
+lowered the applicable discounts as of 1st January 2004 by a decision dated 24
+September 2003.2
+
+At the outbound sorting centre, the new discounts are as follows:
+
+Discount Number of items per category
+3% 5,000 – 10,000
+6% 10,001 – 15,000
+10% 15,001 – 20,000
+14% 20,001 – 25,000
+18% > 25,000
+
+At the inbound centre, the discount is 21% starting from 500 mail items per
+category.
+
+8. Outside the reserved area, the above discounts apply to both senders and their
+intermediaries. Within the reserved area, however, the RegTP Decisions limit the
+access to DPAG’s outbound and inbound sorting centres (i.e. BZA and BZE
+centres) and the applicable discounts to mail items handed over by the senders
+themselves (self-delivery). “Commercial transporters” of mail items are excluded
+from the access to the sorting centres and the related discounts. According to
+RegTP’s interpretation of Article 51 paragraph 1 2nd sentence no. 5 of PostG, the
+transport from the nearest access point or from another access point located in the
+same municipality to the outbound sorting centre falls within the reserved area.
+
+9. RegTP points out, however, that Article 51 paragraph 1 2nd sentence no. 5 PostG
+allows commercial transporters to earn a discount on behalf of one specific sender if
+they (i) hand over mail items to DPAG at the nearest access point of the DPAG
+network or to another access point within the same municipality; (ii) do so on behalf
+and in the name of one sender; and (iii) the sender has entered into an access and
+discount agreement with DPAG.3
+
+10. In practice, however, DPAG’s local access points (other than the sorting centres) are
+not equipped to process bulk mail. Large amounts of mail are typically delivered by
+a lorry which backs against a specific platform to hand over the items packed in
+containers. Post offices do not have such platforms at their disposal. Consequently,
+sorting centres are the only access points which are prepared to receive and process
+large amounts of postal items, the handing over of which gives rise to favourable
+(discounted) postal charges. Commercial firms are therefore prevented from earning
+discounts even at the local level.
+
+11. To conclude, under the current legal regime, commercial mail preparation firms,
+whether they act as an intermediary for self-delivery solely on behalf of one
+
+2 Decision BK 5b-03/101.
+
+3 RegTP Annual Report 2001, page 91.
+
+4
+
+DRAFT
+
+originator or as a consolidator on behalf of several originators, are prevented from
+earning any quantity-based discounts for handing over postal items at outbound or
+inbound sorting centres and, given the prevailing logistic situation at DPAG’s local
+access points, from earning quantity based discounts for downstream network
+access altogether.
+
+1.2 The application of Article 51 paragraph 1 2nd sentence no. 5 in practice
+
+1.2.1 Consolidators: physical access to sorting centres but no discounts
+
+12. Since bulk mail cannot physically be delivered at local assess points, and despite
+Article 51 paragraph 1 2nd sentence no. 5, DPAG does in practice accept mail items
+handed over by commercial mail preparation firms at sorting centres. However, no
+discounts are granted if the postal service providers hand over bundled and presorted mail items stemming from several originators (consolidated mail).
+
+1.2.2 Self-provision intermediaries: physical access to sorting centres and
+discounts on behalf of the sender but no access and discount
+agreements
+
+13. In contrast, DPAG grants self-provision intermediaries the applicable discounts
+even within the reserved area, provided that (i) the firm acts solely on behalf of one
+sender and (ii) that the sender has concluded a discount and access agreement with
+DPAG. In such a case, the firm must prove that the mail items originate from one
+single sender and produce a so-called committal list (“Einlieferungsliste”) which
+contains information on the addressees, in particular the first two digits of the postal
+code.
+
+14. However, on the basis of the RegTP Decisions, DPAG refuses to enter into access
+and discount agreements (“Teilleistungsverträge”) with self-provision
+intermediaries. DPAG interprets the wording of Article 51 paragraph 1 2nd sentence
+no. 5 (“on the sender’s behalf”) in such a way that access and discount agreements,
+offering the discounted tariffs set out above, should only be concluded with the bulk
+senders themselves, not with their intermediaries. Consequently, the mail
+preparation firm has to pay to the full postal tariff, the discount is reimbursed
+directly to the sender itself.4
+
+1.2.3 Conclusion
+
+15. As a result, the actual practice is somewhat more lenient than the legal regime itself.
+Commercial intermediaries of self-provision and consolidators are thereby subject
+to the following restrictions:
+
+(1) Intermediaries of self-provision are prevented from entering into access
+and discount agreements with DPAG. They are thus obliged to disclose the
+identity and the sending patterns of their clients in order to benefit from the
+applicable discounts. Moreover, the discounts are paid directly to their
+clients, thereby preventing the intermediaries from deciding autonomously
+
+4 Information provided by DPAG in its letters dated 25 May 2004 and 13 July 2004 and during a
+meeting held on 30 June 2004.
+
+5
+
+DRAFT
+
+whether they pass on the discount in its totality or only part of it, keeping a
+certain margin for themselves.
+
+(2) Consolidators are barred from the benefit of any quantity-based
+downstream access discount altogether.
+
+1.3 The services concerned
+
+16. The services in question are mail preparation services in respect of mail items sent
+from the territory of Germany. These services are made up of a series of operations
+which, in the process of handling postal items, take place between the determination
+of the content by the originator of the mail and the acceptance of the mail item by
+DPAG in the context of its reserved services.5 Mail preparation may cover one or
+several of the following operations: making up items (printing, enveloping,
+labelling, franking), collecting, placing them in mailbags or containers complying
+with certain standards, bundling (consolidating) and sorting them to a greater or
+lesser degree by destination and delivering them to access points of DPAG.
+
+17. Mail items were traditionally prepared and routed to suitable access points by the
+senders themselves. With the advent of liberalisation, however, large senders
+increasingly outsource these operations to intermediaries which prepare and pre-sort
+mail before handing it over to the postal operator for final distribution. In doing so,
+large customers no longer see mail, distribution and logistic services as isolated
+elements of support but part of an integrated supply-chain offering. Driven by
+workflow, Enterprise Resource Planning (ERP) Systems and outsourcing such
+companies seek state-of-the-art processes, improved cash flow and process
+simplification. A key driver for outsourcing is cost reduction, including savings on
+the cost of postage itself.
+
+18. Accordingly, larger mail preparation service providers aim at offering the whole
+range of preparation services from making up postal items to their routing to a
+DPAG access point. Smaller mail preparation firms offer a more or less extensive
+and sophisticated range of services targeted at certain market segments: there are
+bundling firms which perform exclusively mail sorting and preparation tasks;
+integrators which offer a more or less extensive range of services in the direct
+marketing field from market surveys to the management of mailings etc.
+
+19. In addition, in Germany there exists a variety of regional mail conveyance firms,
+many of them former dedicated delivery departments of regional newspapers (socalled “Briefdienste”), which provide both mail preparation and full conveyance
+services.6 They collect mail items at their clients’ premises, bundle and pre-sort
+them according to destination. Mail items addressed to the same postal code region
+or to a neighbouring postal code region are typically not fed into the public postal
+
+5 The Commission has first delimitated a service market for mail preparation services concerning mail
+items sent from the territory of France in its decision COMP/37.133 (Snelpd / France) dated 23
+October 2001 on the lack of exhaustive and independent scrutiny of the scales of charges and
+technical conditions applied by La Poste to mail preparation firms for access to its reserved services
+(at paragraph 54 et seq.), OJ L 120, 7.5.2002, p. 19.
+
+6 E.g. Darmstädter Echo, Sächsische Zeitung, Mainpost.
+
+6
+
+DRAFT
+
+network but distributed by the conveyance firm itself. Despite DPAG’s exclusive
+licence, mail conveyance firms are authorised to so if their distribution constitutes a
+so-called added-value service under Article 51 paragraph 1 2nd sentence no. 4, e.g.
+same-day distribution, overnight distribution (collection after 5 pm of day 1,
+distribution before 12 am of day 2), date-specific distribution or item tracking.7 Mail
+items addressed to the neighbouring postal code region are typically conveyed to a
+cooperating mail conveyance firm with a distribution network in the region
+concerned. Only the remainder of the collected mail items is handed over to DPAG
+for further conveyance.
+
+20. On the basis of the information made available to the Commission, the 2001 market
+potential of the German market for mail preparation services is estimated to amount
+to a range between 5 and €17 billion.8 DPAG offers labelling, franking and other
+preparation services and acts as a default service provider for sorting and further
+conveyance if the sender (or its intermediary) chooses to deposit the item at one of
+the nearest access points. Like in the case of other incumbent universal service
+providers, the move up in the mails’ industry value chain is perceived as a tool to
+maintain the loyalty of very large customers by responding to their integrated
+requirements.9 Other players include smaller regional firms such as the above
+mentioned Briefdienste and regional letter-shops, with the exception of the
+Bertelsmann group which offers mail preparation services for some large customers,
+in some cases also in combination with call-centre services.
+
+21. Economically speaking, performance of mail preparation activities gives rise to two
+types of remuneration: (i) direct remuneration by the sender for services involving
+the making up of mail items, the supply of address lists, the routing to a public
+postal access point, etc.; and (ii) an additional financial advantage through access to
+favourable (discounted) postal charges. Discounted postal charges are available
+(subject to certain quantity requirements) inter alia for franking, machine
+readability, pre-sorting, bar code-labelling and (currently for sen
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+the provision of
+such services (which are already being rendered in practice) but also ensure that
+they are remunerated in the same as those provided by business customers or their
+(self-provision) intermediaries.88
+
+2.6.3 The reserved area does not constitute an absolute boundary
+
+138. Lastly, in arguing that Article 51 paragraph 1 2nd sentence no. 5 PostG is in line
+with and justified by Article 7 of the Postal Directive, DPAG fails to take into
+account that the so-called “reserved area” under Article 7 of the Postal Directive is
+in fact only reservable and not per se reserved. Member States are free to open up
+their postal markets more than required by the Postal Directive, in particular given
+the fact that the postal services market is in any event due to be fully liberalised in
+the near future.89 In the same vein, The German government has recently confirmed
+its plan to fully open up the German postal market after the expiry of DPAG’s
+exclusive licence on 31 December 2007.90
+
+139. By granting major senders downstream access and related discounts under Article
+28 et seq. PostG, the German government has inevitably made the choice to open its
+network to consolidators in the same way. This obligation exists regardless of the
+question whether Germany could have reserved certain types of transport of mail
+
+88 Article 12 5th indent of the Amended Postal Directive.
+
+89 The postal services market is one of the markets on which the European Council focused at its Lisbon
+meeting on 23 and 24 March 2000 and for which action was required by the Commission, the Council
+and the Member States to speed up liberalisation.
+
+90 Statement of the German government dated July 2004 concerning the RegTP activity report
+2002/2003 and the Monopoly Commission’s special issue report “Intensification of competition in
+telecommunications, cementation of the postal monopoly”.
+
+35
+
+DRAFT
+
+items. The fact is that the government has renounced the right – if any - to reserve
+the activities concerned by granting advantages to one group of customers (senders)
+for which a strict principle of non-discrimination was already enshrined in the
+Commission Postal Notice and has been confirmed in the Amended Postal
+Directive. It is interesting to note in that context that the German government itself
+has never argued that the barring of consolidators from effective downstream access
+was in line with Article 7 of the Postal Directive, but that this argument was only
+raised by DPAG.
+
+2.7 Arguments on the Commission’s choice to challenge the German Postal
+Law on the basis of the competition rules
+
+140. DPAG argued on several occasions that it would be more appropriate for the
+Commission to challenge the German Postal Law on the basis of its being contrary
+to Article 7 of the Postal Directive and initiate proceedings under Article 226 of the
+Treaty).91 In DPAG’s view, by challenging the PostG on the basis of the
+competition rules, the Commission circumvents Article 226 and the procedural
+guarantees enshrined therein for the Member State concerned.
+
+141. It is established case law that the Commission exercises its supervisory task of its
+own motion in the general interest of the Community. It itself assesses whether it is
+appropriate to bring proceedings and has no obligation to do so in the event of an
+alleged infringement of the Treaty.92 Consequently, in cases of parallel
+infringements of several Treaty provisions it is at the Commission’s discretion to
+pursue only one, both or none of those infringements. At hand, the Commission has
+decided to bring proceedings on the basis of the competition rules without
+excluding, however, any future action challenging the infringement of the Postal
+Directive on a separate basis. DPAG’s argument must therefore be rejected.
+
+2.8 Argument derived from the pending request for a preliminary ruling
+
+142. In its letter dated 29 September 2004, DPAG argued that the fact that the
+Administrative Court of Cologne has requested on 30 June 2004 a preliminary
+ruling concerning the interpretation of the non-discrimination principle laid down in
+Article 12 5th indent of the Amended Postal Directive prevents the Commission
+from adopting a decision in the case at hand. DPAG claims, in particular, that the
+Delimitis and Masterfoods judgments93 lay down a general prohibition on the
+Commission to adopt decisions which could give rise to conflicts with future ECJ
+case law.
+
+91 Letter dated 25 May 2004, page 21 and argument put forward during the meeting on 30 June 2004.
+
+92 Judgment of 22 June 1993 in Case 243/89 Commission / Denmark [1993] ECR .I-3353, paragraph 30;
+judgment of 27 November 1990 in Case 200/88 Commission / Greece ECR [1990] I-4299, paragraph
+9; Judgment of 17 May 1990 in Case C-87/89 Sonito and others / Commission [ECR] 1990 I-1981,
+paragraphs 6 and 7.
+
+93 Judgment of 28 February 1991 in Case C-234/89 Delimitis / Henninger Bräu [1991] ECR I-935,
+paragraphs 47; judgment of 14 December 2000 in case C-344/98 Masterfoods and HB [2000] ECR I-
+11369, paragraphs 52 and 56.
+
+36
+
+DRAFT
+
+143. The judgments quoted by DPAG emphasise the primacy of the Commission’s role
+in competition matters vis-à-vis national courts: When national courts rule on
+agreements or practices which are already the subject of a Commission decision,
+they cannot take decisions running counter to that of the Commission. When they
+rule on agreements or practices which may subsequently be the subject of a decision
+by the Commission, it follows from the obligation of sincere cooperation that the
+national court should, in order to avoid reaching a decision that runs counter to that
+of the Commission, stay its proceedings until the Commission has adopted a
+decision. These principles are, however, not applicable to the Commission’s role
+vis-à-vis the European Courts. Whilst there is no hierarchical relationship between
+the national courts and the Commission and conflicting decisions can only be
+avoided through the obligation of sincere cooperation, all Commission decisions can
+be challenged before the European Courts. There is thus no risk of conflicting
+decisions between the Commission and the European Courts in the last instance and
+no obligation on the Commission to stay its proceedings. DPAG’s argument must
+therefore be rejected.
+
+2.9 Effect on trade between Member States
+
+144. The state measures set out above are likely to affect trade between Member States.
+Mail entrusted to mail preparation firms may originate from companies based in
+other Member States, whose cross-border activities may thus be affected by the
+distortion of competition, as could the business of mail preparation firms based in
+Member States other than Germany which might want to establish themselves in
+Germany or provide their services there.94 The ability to consolidate correspondence
+is even particularly attractive for non-German competitors which handle a
+comparatively small volume of postal items addressed to Germany and might need
+the consolidation in order to reach the volume-based discounted tariffs. The
+prohibition to provide these services may therefore act as a barrier to entry to the
+German market.
+
+3. CONCLUSION
+
+145. The Commission acknowledges that the Federal Republic of Germany intends to
+amend the PostG with a view to eliminating the infringement. However, it cannot be
+excluded that the amendment, if its intention is to merely adapt the legal regime to
+DPAG’s current practice, would only partially solve the problems encountered by
+self-provision intermediaries and would not address at all the legal situation of
+consolidators. Moreover, the Commission notes that the German government plans
+to apply Article 51 paragraph 1 2nd sentence no. 5 PostG as interpreted in its
+legislative context by RegTP until the amendment enters into force. The
+Commission considers, therefore, that the Federal Republic of Germany, by not
+taking any binding interim measures setting aside the application of the incriminated
+provisions and maintaining the restriction limiting the deposit of postal items by
+self-provision intermediaries to the access point nearest to the sender or to another
+
+94 See judgment of 1 February 1978 in Case 19/77 Miller v Commission [1978] ECR 131, point 15, and
+paragraph 48 of the opinion of Advocate General Jacobs prior to the judgment of 23 April 1991 in
+Case C-41/90 Höfner v Macrotron [1991] ECR I-1979.
+
+37
+
+DRAFT
+
+access point located in the same municipality and denying commercial consolidators
+discounts for any kind of downstream access to the postal network, infringes Article
+86(1) in conjunction with Article 82 of the Treaty.95
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Article 51 paragraph 1 2nd sentence no. 5 of the German Postal Law, as interpreted
+in its legislative context by RegTP, is contrary to Article 86(1), read in conjunction
+with Article 82 of the EC Treaty, to the extent that the provision bars commercial
+mail preparation firms, whether they act as an intermediary for self-delivery solely
+on behalf of one originator or as a consolidator on behalf of several originators,
+from earning quantity-based discounts for handing over postal items at outbound or
+inbound sorting centres, and, given the prevailing logistic situation at DPAG’s local
+access points, from earning quantity-based discounts for downstream network
+access altogether.
+
+Article 2
+
+Germany shall inform the Commission, within two months of being notified of this
+Decision, of the measures it has taken to put an end to the infringement identified in
+Article 1.
+
+Article 3
+
+This decision is addressed to the Republic of Germany.
+
+Done at Brussels, [...].
+
+For the Commission
+
+Mario Monti
+
+Member of the Commission
+
+95 The fact that an amendment to national legislation is underway is irrelevant if is not implemented
+before the expiry of the period set by the Commission: Judgment of 11 August 1995 in Case C-433/93
+Commission of the European Communities v Federal Republic of Germany [1995] ECR I-2303.
+
+38

@@ -1,0 +1,311 @@
+Case AT.40608 – BROADCOM
+
+Commitments under Article 9 of Regulation 1/2003
+
+A. Overview
+
+1. In accordance with Article 9 of Council Regulation (EC) 1/2003, Broadcom Inc.
+(“Broadcom” or the “Company”) offers the following commitments (the “Commitments”)
+to the European Commission (“Commission”) in response to the Commission’s
+investigation in Case AT.40608 – Broadcom.
+
+2. On 26 June 2019, the Commission opened formal proceedings against Broadcom and its
+subsidiaries concerning alleged exclusionary practices (Case AT.40608 – Broadcom, the
+“Investigation”), and issued a Statement of Objections seeking to impose interim measures
+(“IM SO”) ordering Broadcom to cease to apply certain contractual provisions relating to
+purchases of components for TV set-top boxes (“STBs”) and residential gateways. Under
+the targeted supply agreements, Broadcom sells components to OEMs which assemble the
+purchased Broadcom components together with other components to manufacture STBs and
+residential gateways. OEMs bid STBs and residential gateways designs in response to
+requests for proposals issued by service providers (telecoms operators and cable service
+providers) which provide STBs and residential gateways to their subscribers.
+
+3. The IM SO preliminary concluded that the targeted agreements between Broadcom and
+OEMs contain provisions that may result in those customers purchasing systems-on-a-chip
+(“SoCs”), front-end chips and Wi-Fi chips for STB and residential gateways exclusively or
+almost exclusively from Broadcom through alleged (quasi-) exclusivity arrangements or
+leveraging restrictions.
+
+4. On 16 October 2019, the Commission adopted a Decision (the “IM Decision”) imposing
+interim measures ordering Broadcom to cease to apply certain contractual provisions relating
+to purchases of SoCs for residential gateways and STBs in its supply agreements with [six
+OEMs] (the “IM OEMs”). The IM Decision concluded that Broadcom’s supply agreements
+with the IM OEMs contained provisions which prima facie have the object or effect of
+requiring or inducing customers to obtain all or almost all of their requirements for SoCs for
+STBs and/or residential gateways from Broadcom by means of (quasi-) exclusivity
+arrangements or leveraging restrictions, collectively referred to by the Commission as
+“exclusivity inducing provisions”.
+
+5. Notwithstanding the fact that Broadcom disagrees with the IM SO, and the IM Decision,
+Broadcom offers the Commitments to meet the Commission’s concerns on the
+understanding that the Commission will adopt a decision pursuant to Article 9 of Council
+Regulation (EC) 1/2003 making the Commitments binding, concluding that there are no
+grounds for further action against Broadcom and its subsidiaries, and closing the
+Investigation (the “Commitment Decision”).
+
+6. The Commitments should not be construed as an admission by Broadcom that any of the
+conduct subject to the Investigation infringed Articles 101 or 102 of the Treaty on the
+
+1
+
+Functioning of the European Union or Articles 53 or 54 of the EEA Agreement.
+
+B. Definitions
+
+Agreements: agreements (consisting of a concurrence of wills between Broadcom and an
+OEM or Service Provider), relating to Relevant Products to be incorporated in STBs, xDSL
+residential gateways, and/or fibre residential gateways, whether binding or non-binding,
+formal or informal.
+
+Bid or Bidding: instances where an OEM bids, or makes or submits offers for, responds to,
+or proposes in response to RFPs. For the sake of clarity, references to “Bid(s) (only)” and
+“Bidding (only)” certain products in Section C. below are to be understood as
+“Bid(s)/Bidding (only) Service Provider Equipment incorporating those products”.
+
+China: People's Republic of China.
+
+EEA Requirements for a Relevant Product: an OEM’s demand as measured in unit
+volumes over the reference period as defined in relevant Agreement(s) for each of the
+Relevant Products for incorporation into Service Provider Equipment to be provided to Endusers in the EEA.
+
+EEA RFPs: RFPs issued by an EEA Service Provider for Service Provider Equipment
+incorporating Relevant Products for its End-users in the EEA (but not necessarily limited to
+End-users in the EEA), or by an OEM for Relevant Products to serve demand by an EEA
+Service Provider for its End-users in the EEA (but not necessarily limited to End-users in
+the EEA).
+
+EEA Service Providers: telecommunication operators and cable service providers that
+provide STBs and/or fibre residential gateways, and/or xDSL residential gateways to Endusers in the EEA.
+
+EEA Service Provider’s Total Requirements: EEA Service Provider’s demand, over the
+reference period as defined in relevant Agreement(s), as measured in unit volumes for each
+of the Relevant Markets.
+
+EEA: those countries participating in the European Economic Area as of the Effective Date
+and at any time thereafter during the Relevant Period, and the United Kingdom.
+
+Effective Date: the date upon which Broadcom receives formal notification of a decision
+pursuant to Article 9 of Council Regulation (EC) 1/2003 by which the Commission makes
+the Commitments binding on Broadcom.
+
+End-users: customers subscribing to services provided by Service Provider(s) and using
+Service Provider Equipment to receive such services.
+
+IM OEMs: [six OEMs whose agreements with Broadcom were contested in the IM Decision].
+
+2
+
+Implementation Date: 30 days following the Effective Date.
+
+Non-Price Advantages: advantages not directly linked to price (e.g., engineering support,
+early access to Broadcom’s technology, reduced lead-times, and increased inventory);
+provided, however, that this does not include advantages for which there is no variability
+across OEMs, such as advantages that are intrinsic to product properties, product quality or
+general product availability.
+
+OEMs (“Original Equipment Manufacturers”): entities that design and/or manufacture
+STBs, xDSL residential gateways, and/or fibre residential gateways, including, but not
+limited to the IM OEMs, and Service Providers when and only when they design and/or
+manufacture their own STBs, xDSL residential gateways, and/or fibre residential gateways
+without the assistance of a third-party OEM.
+
+Opt Out: the notification in writing to Broadcom by an OEM, which has engaged Broadcom
+on one or more Relevant Products or Other Products in relation to an individual EEA-RFP,
+of its decision not to Bid exclusively or at all one or more Broadcom Relevant Products or
+Other Products in response to that EEA-RFP, where such notification is effective without
+any acceptance or confirmation by Broadcom being required.
+
+Other Products: front-end chips for STBs, xDSL residential gateways, fibre residential
+gateways, or cable residential gateways, Wi-Fi chips for STBs, xDSL residential gateways,
+fibre residential gateways, or cable residential gateways, and SoCs for cable residential
+gateways for integration into Service Provider Equipment.
+
+Price Advantages: payments, discounts, or rebates.
+
+Relevant Markets: the respective overall markets for each of SoCs for STB, SoCs for xDSL
+residential gateways, and SoCs for fibre residential gateways.
+
+Relevant Period: seven (7) years from the Effective Date.
+
+Relevant Products: SoCs for STBs, SoCs for xDSL residential gateways, and SoCs for fibre
+residential gateways for integration into Service Provider Equipment.
+
+Retroactive Price Advantage: a Price Advantage that is paid on all purchases over the
+reference period as defined in Agreement(s) of a Relevant Product only if a specified
+threshold is exceeded (paid on a “per unit” basis, or as a flat fee or lump sum). By way of
+example, a discount of X% on all units if sales exceed Y units (including on the units sold
+up to and including Y) is considered a Retroactive Price Advantage, while a discount of X%
+on all units sold that are in excess of Y (but not on those units sold up to and including Y) is
+not considered a Retroactive Price Advantage.
+
+RFPs: requests for proposals issued by OEMs or Service Providers for the supply of one or
+more Relevant Products or the design and/or manufacture of STBs and/or fibre residential
+
+3
+
+gateways and/or xDSL residential gateways.
+
+Service Provider Equipment: STBs and/or fibre residential gateways and/or xDSL
+residential gateways and/or cable residential gateways for provision to Service Provider’s
+End-users.
+
+Service Providers: telecommunication operators and cable service providers that provide
+STBs and/or fibre residential gateways, and/or xDSL residential gateways to End-users.
+
+STB: TV set-top box.
+
+Total Requirements for Relevant Product: an OEM’s demand over the reference period as
+defined in relevant Agreement(s) as measured in unit volumes for each of the Relevant
+Markets, with the exception of the OEM’s demand for Relevant Products integrated into
+STBs, xDSL residential gateways, and fibre residential gateways that Service Providers
+provide to End-users in China.
+
+Total Requirements for Other Product: an OEM’s demand over the reference period as
+defined in relevant Agreement(s) as measured in unit volumes for each of the Other Products
+with the exception of the OEM’s demand for Other Products integrated into STBs, xDSL
+residential gateways, fibre residential gateways and cable residential gateways that Service
+Providers provide to End-users in China.
+
+C. Commitments
+
+OEMs – Worldwide
+
+1. Broadcom will suspend existing Agreements, and not enter into new Agreements that (1)
+require an OEM to purchase (or Bid only) Broadcom Relevant Products for a specified
+minimum percentage exceeding 50% of that OEM’s Total Requirements for that Relevant
+Product, and/or (2) condition a Non-Price Advantage or a Retroactive Price Advantage for
+a Relevant Product on an OEM purchasing (or Bidding only) Broadcom Relevant Products
+for a specified minimum percentage exceeding 50% of that OEM’s Total Requirements for
+that Relevant Product, provided that, in each case (1) and (2), the Relevant Products are
+supplied to OEMs for incorporation into Service Provider Equipment provided to End-users
+outside China. Broadcom shall not use the flexibility provided in the commitment in this
+Section C1 to require an OEM to purchase Broadcom Relevant Products for any specified
+minimum percentage of that OEM’s EEA Requirements for a Relevant Product, or to
+condition a Non-Price Advantage or a Retroactive Price Advantage on the OEM purchasing
+Broadcom Relevant Products for any specified minimum percentage of that OEM’s EEA
+Requirements for a Relevant Product.
+
+2. Broadcom will suspend existing Agreements and not enter into new Agreements that
+condition the supply of a Relevant Product, or any Price Advantage or Non-Price Advantage
+for a Relevant Product, on an OEM purchasing (or Bidding only) another Broadcom
+Relevant Product or a Broadcom Other Product for a specified minimum percentage
+
+4
+
+exceeding 50% of that OEM’s Total Requirements for that other Relevant Product and/or
+exceeding 50% of that OEM’s Total Requirements for that Other Product, provided that the
+Relevant Products and/or Other Products are supplied to OEMs for incorporation into
+Service Provider Equipment provided to End-users outside China.
+
+OEMs – EEA and EEA RFPs
+
+3. In relation to Service Provider Equipment to be provided to End-users in the EEA, Broadcom
+will suspend existing Agreements, and not enter into new Agreements, that condition (1) the
+supply of a Relevant Product on an OEM purchasing (or Bidding only) another Broadcom
+Relevant Product and/or a Broadcom Other Product and/or (2) any Price Advantage or Non-
+Price Advantage for a Relevant Product on an OEM also purchasing or Bidding another
+Broadcom Relevant Product or a Broadcom Other Product.
+
+4. In relation to EEA RFPs, Broadcom will suspend any existing Agreements, and not enter
+into new Agreements that require an OEM to Bid only Broadcom Relevant Products or that
+condition any Price Advantage or Non-Price Advantage for a Relevant Product on an OEM
+Bidding only Broadcom Relevant Products. Notwithstanding this commitment, Broadcom
+is entitled to condition Price Advantages and/or Non-Price Advantages for an individual
+EEA-RFP on the OEM Bidding only Broadcom Relevant Products for that EEA-RFP unless
+(1) the EEA Service Provider has requested that the OEM Bids both Broadcom and non-
+Broadcom Relevant Product(s), or (2) the OEM chooses to Opt Out for one or more Relevant
+Product(s). If the conditions under (1) or (2) are satisfied, the OEM shall not lose Price
+Advantages and/or Non-Price Advantages on other Broadcom Relevant Product(s) which
+the OEM Bids.
+
+EEA Service Providers
+
+5. Broadcom will suspend existing Agreements and not enter into new Agreements with EEA
+Service Providers whereby an EEA Service Provider (1) is required or incentivised through
+Retroactive Price Advantages or Non-Price advantages to purchase or specify use of Service
+Provider Equipment incorporating Broadcom Relevant Products for any specified minimum
+percentage of that EEA Service Provider’s Total Requirements for that Relevant Product, or
+(2) is required or incentivised through Price Advantages or Non-Price advantages to request
+OEMs to Bid only Broadcom Relevant Products, or refrain from Bidding any non-Broadcom
+Relevant Products, or (3) is required or incentivised through Price Advantages or Non-Price
+advantages to concurrently source together with a Broadcom Relevant Product another
+Relevant Product and/or a Broadcom Other Product, provided that the Service Provider
+Equipment incorporating those Relevant Products is to be supplied to End-users in the EEA.
+
+D. Duration and Review Clause
+
+1. The Commitments shall be applicable for a duration of seven (7) years from the Effective
+Date.
+
+5
+
+2. Broadcom will implement the Commitments within one month from the Effective Date.
+
+3. Without prejudice to the general provision of Article 9(2) of Council Regulation (EC)
+1/2003, Broadcom may request the Commission to review and modify the Commitments
+where there has been a material change in any of the relevant facts on which the
+Commission's Decision pursuant to Article 9(1) of Council Regulation (EC) 1/2003 was
+based, including significant changes to Broadcom’s market position in one or more Relevant
+Products. Without prejudice to the generality of this clause, following the Effective Date, if
+Broadcom is no longer a dominant market player in a Relevant Product Market this
+constitutes a material change with regard to the Relevant Product concerned.
+
+4. In addition, and without prejudice to the provisions of Article 9(2) of Council Regulation
+(EC) 1/2003, the Commission may, on its own initiative, review these Commitments if there
+has been a material change in any of the facts on which the Commission's Decision pursuant
+to Article 9(1) of Council Regulation (EC) 1/2003 was based.
+
+E. Non-circumvention
+
+1. Broadcom shall not circumvent or attempt to circumvent these Commitments in any way.
+For the avoidance of doubt, the mere fact that an OEM or Service Provider decides to
+purchase Broadcom Relevant Products or Other Products shall not constitute circumvention
+of the Commitments.
+
+2. Broadcom shall not change standard-based interfaces used in Relevant Products in such a
+manner that would degrade interoperability between Broadcom Relevant Products and Other
+Products not made by Broadcom. This is without prejudice to Broadcom’s discretion to
+implement new standards in its Relevant Products and/or Other Products and develop
+proprietary interfaces that supplement but do not eliminate standard-based interfaces in
+Relevant Products.
+
+F. Reporting
+
+1. Without prejudice to the Commission’s investigative powers set out in Chapter V of Council
+Regulation (EC) 1/2003, Broadcom shall submit to the Commission a confidential report on
+the implementation of the Commitments within two (2) weeks from the Implementation Date
+(the “First Report”), and thereafter within two weeks after 6, 12, 18, 24, 36, 48, 60, 72, and
+84 months from the Effective Date (the “Other Reports”).
+
+2. The First Report shall focus on Broadcom’s implementation of the Commitments and cover
+the steps that were taken to: (i) comply with the Commitments, (ii) suspend the Agreements
+referred to in Sections C1 to C5, (iii) inform OEMs and EEA Service Providers about the
+suspension of the Agreements referred to in Sections C1 to C5, and (iv) train Broadcom’s
+relevant employees in the application of the Commitments.
+
+3. The Other Reports shall include for each reporting period:
+
+6
+
+- A list of new Agreements or amendments to existing Agreements entered into with OEMs
+and EEA Service Providers relating to the Relevant Products, with specific mention of the
+(i) obligations on OEMs to Bid only Broadcom Relevant Products in response to EEA
+RFPs, and (ii) conditions that, on the basis of these Agreements, OEMs and/or EEA Service
+Providers need to fulfil to qualify for Price Advantages or Non-Price Advantages on
+Relevant Products;
+- Copies of new written Agreements or amendments to existing Agreements relating to the
+Relevant Products entered into with Broadcom’s 10 biggest OEM customers by turnover
+and any IM OEM that is not in the top 10 list; with other written Agreements relating to
+the Relevant Products being provided to the Commission upon request;
+- Any requests that Broadcom received from OEMs about exercising the Opt Out during
+EEA RFPs for Relevant Products as contemplated in Section C.4;
+- Any written complaints Broadcom received from the internal or external legal counsel of
+OEMs, EEA Service Providers, or competing undertakings in relation to the
+implementation of or compliance with the Commitments;
+- The steps that were taken to train Broadcom’s relevant employees in the application of the
+Commitments and to monitor compliance of Broadcom’s relevant employees with the
+Commitments; and
+- Whether any problems were detected in the implementation of or compliance with the
+Commitments and what steps were taken in order to solve them.
+
+7

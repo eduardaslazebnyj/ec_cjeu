@@ -1,0 +1,454 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39824 -Trucks
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 27/09/2017
+
+This is a provisional non-confidential version.
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 27.9.2017
+C(2017) 6467 final
+
+COMMISSION DECISION
+
+of 27.9.2017
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39824 - Trucks)
+
+(Only the English text is authentic)
+
+EN 0 EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 5
+2. The industry subject to the proceedings ....................................................................... 5
+
+2.1. The product .................................................................................................................. 5
+2.2. The undertaking covered by this Decision ................................................................... 6
+
+2.3. Other undertakings subject to the investigation ........................................................... 7
+2.4. Associations of undertakings, trade fairs, public and
+private industry statistics .............................................................................................. 7
+
+2.4.1. [Industry association] ................................................................................................... 7
+2.4.2. Trade fairs .................................................................................................................... 7
+
+2.4.2.1. [Trade fair] ................................................................................................................... 7
+2.4.2.2. [Trade fair] ................................................................................................................... 8
+2.4.2.3. [Trade fair] ................................................................................................................... 8
+
+3. Description of the trucks market .................................................................................. 8
+3.1. Structure of the sales force ........................................................................................... 9
+
+3.2. The supply .................................................................................................................... 9
+3.3. The demand .................................................................................................................. 9
+3.4. Trade between Member States/Contracting Parties ................................................... 10
+
+4. Pricing ........................................................................................................................ 11
+4.1. Price setting mechanism in the truck industry ........................................................... 11
+
+4.2. Pricing responsibilities within Scania ........................................................................ 12
+4.3. Scania's price setting mechanism ............................................................................... 12
+4.4. Relationship of price increases on European and
+national level .............................................................................................................. 13
+4.5. Exchange of current gross price lists and configurators
+for trucks .................................................................................................................... 13
+5. Procedure.................................................................................................................... 15
+5.1. The Commission's investigation ................................................................................ 15
+
+5.2. The main evidence relied on ...................................................................................... 17
+6. The collusive contacts ................................................................................................ 17
+
+6.1. The scope and the different layers of the collusive
+contacts ....................................................................................................................... 17
+6.1.1. Collusive contacts between the representatives of the
+participants' headquarters ........................................................................................... 17
+6.1.2. Collusive contacts between the participants' German
+subsidiaries ................................................................................................................. 20
+
+EN 1 EN
+
+6.2. The collusive meetings and other anticompetitive
+contacts ....................................................................................................................... 22
+7. Application of Article 101(1) of the Treaty and Article
+53(1) of the EEA Agreement ..................................................................................... 54
+7.1. Jurisdiction ................................................................................................................. 54
+
+7.2. Application of Article 101(1) of the Treaty and Article
+53(1) of the EEA Agreement ..................................................................................... 54
+7.2.1. Legal basis .................................................................................................................. 54
+
+7.2.2. Agreements and concerted practices .......................................................................... 55
+7.2.2.1. Principles .................................................................................................................... 55
+
+7.2.2.2. Application in this case .............................................................................................. 58
+7.2.2.3. Arguments of the addressees and assessment thereof
+by the Commission..................................................................................................... 61
+
+7.2.2.4. Conclusion.................................................................................................................. 63
+7.2.3. Restriction of competition .......................................................................................... 63
+
+7.2.3.1. Principles .................................................................................................................... 63
+7.2.3.2. Application to this case .............................................................................................. 65
+7.2.3.3. Scania's arguments and assessment thereof by the
+Commission................................................................................................................ 68
+7.2.3.4. Conclusion.................................................................................................................. 79
+
+7.2.4. Single and continuous infringement........................................................................... 79
+7.2.4.1. Principles .................................................................................................................... 79
+7.2.4.2. Application to this case .............................................................................................. 81
+
+7.2.4.3. Scania's arguments and the Commission's assessment
+thereof......................................................................................................................... 85
+
+7.2.4.4. Conclusion.................................................................................................................. 89
+7.2.5. Effect upon trade between EEA Member States ........................................................ 89
+7.2.5.1. Principles .................................................................................................................... 89
+
+7.2.5.2. Application to this case .............................................................................................. 90
+7.3. Application of Article 101(3) of the Treaty ............................................................... 90
+
+7.4. Arguments concerning Scania's procedural rights ..................................................... 90
+7.4.1. The Decision of 19 July 2016 addressed to the settling
+parties ......................................................................................................................... 90
+
+7.4.1.1. Scania's position ......................................................................................................... 90
+7.4.1.2. Assessment of the Commission.................................................................................. 91
+
+7.4.2. The right to be heard .................................................................................................. 92
+7.4.2.1. Scania's position ......................................................................................................... 92
+
+EN 2 EN
+
+7.4.2.2. Assessment of the Commission.................................................................................. 93
+7.4.2.3. Conclusion.................................................................................................................. 94
+7.4.3. Press release of 19 July 2016 ..................................................................................... 94
+
+7.4.3.1. Scania's position ......................................................................................................... 94
+7.4.3.2. Assessment of the Commission.................................................................................. 94
+
+7.4.3.3. Conclusion.................................................................................................................. 95
+7.5. Geographic scope of the infringement ....................................................................... 95
+7.5.1. Scania's position ......................................................................................................... 95
+
+7.5.2. Assessment of the Commission.................................................................................. 96
+7.5.3. Conclusion.................................................................................................................. 97
+
+8. Addressees.................................................................................................................. 98
+8.1. Principles .................................................................................................................... 98
+8.2. Application to this case ............................................................................................ 100
+
+8.3. Conclusion................................................................................................................ 100
+9. Duration of the infringement .................................................................................... 101
+
+10. Remedies .................................................................................................................. 101
+10.1. Article 7 of Regulation (EC) No 1/2003: ................................................................. 101
+10.2. Article 23(2) of Regulation (EC) No 1/2003 – Fines............................................... 102
+
+10.2.1. Calculation of the fines ............................................................................................ 102
+10.2.2. The value of sales ..................................................................................................... 103
+
+10.2.3. Gravity...................................................................................................................... 104
+10.2.4. Duration.................................................................................................................... 104
+10.2.5. Determination of the additional amount................................................................... 105
+
+10.2.6. Calculation of the basic amount ............................................................................... 105
+10.2.7. Adjustments to the basic amount of the fine:
+aggravating or mitigating factors ............................................................................. 105
+10.2.8. Application of the 10% of turnover limit ................................................................. 105
+10.2.9. Conclusion: final amount of individual fines to be
+imposed in this Decision .......................................................................................... 105
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 27.9.2017
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39824 - Trucks)
+
+(Only the ENGLISH text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union1,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty3, and
+in particular Article 10(a) thereof,
+
+Having regard to the Commission decision of 20 November 2014 to initiate proceedings in
+this case,
+
+Having given the undertaking concerned the opportunity to make known its view on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty4,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case5,
+
+Whereas:
+
+1 OJ, C 115, 9/5/2008, p. 47.
+2 OJ L 1, 4.1.2003, p. 1.With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market".
+3 OJ L 123, 27.4.2004, p. 18.
+4 OJ L 1
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+s. Based on the foregoing, and on the
+information provided by the undertaking, the Commission used the undertaking's
+sales in the last full business year of their participation in the infringement, namely
+2010.
+(431) The Commission also takes into account the evolution of the EEA territory during
+the infringement period following the accessions of new Member States to the Union
+in 2004 and 2007. Regarding the assessment of the fine for the infringement before 1
+May 2004, only the proxy for the value of sales within the then 18 Contracting
+Parties to the EEA agreement is taken into account. From 1 May 2004 until 31
+December 2006 the proxy for the value of sales within the then 28 Contracting
+Parties to the EEA agreement is taken into account. From 1 January 2007 until the
+end of the infringement the proxy for the value of sales within the then 30
+Contracting Parties to the EEA agreement will be taken into account.
+
+Table 1: The value of sales
+
+Undertaking Value of sales (adjusted for evolution of the EEA territory)
+
+Scania [...]
+
+(432) When determining the appropriate level of the fines to be imposed on undertakings
+that have infringed Article 101 of the Treaty and Article 53 of the EEA Agreement,
+the Commission must ensure, in light of the specificities of the case before it, that its
+action has the necessary deterrent effect, while, at the same time, respecting the
+general Union law principle of proportionality. In order to achieve those objectives,
+it is appropriate for the Commission to refer to the value of sales of goods or services
+to which the infringement relates as a basis of setting the fine, as well as the duration
+and gravity of the infringement. However, while reference to those factors provides a
+good indication of the order of magnitude of the fine, they should not be regarded as
+the basis for an automatic and arithmetical calculation method. In line with the
+principle of proportionality, it is considered that a sufficiently deterrent effect can be
+achieved in this case without having recourse to the full value of the undertaking's
+sales of trucks in the EEA in 2010. Therefore, the Commission deems it appropriate
+
+660 Point 12 of the Guidelines on fines.
+661 Point 13 of the Guidelines on fines.
+
+EN 103 EN
+
+to apply point 37 of the Guidelines on fines, which allows it to depart from the
+methodology of the Guidelines on fines, to only take a proportion of Scania's value
+of sales into account for the purposes of calculating the variable and additional
+amounts of the fines. For the purposes of this Decision, the Commission has retained
+the same proportion of Scania's value of sales as it retained for the settling parties in
+the Settlement Decision.
+(433) In light of the foregoing, the Commission has used the value of sales set out in Table
+2 below for the purposes of calculating the variable and additional amounts of the
+basic amount of the fines.
+Table 2: Retained value of sales for fines calculation
+
+Undertaking Retained value of sales (after application of point 37 of the
+Guidelines on Fines)
+
+Scania [...]
+
+10.2.3. Gravity
+(434) The gravity of the infringement determines the percentage of the retained value of
+sales taken into account in setting the fine. In assessing the gravity of the
+infringement, the Commission has regard to a number of factors, such as the nature
+of the infringement, the combined market share of all the undertakings concerned,
+the geographic scope of the infringement and/or whether or not the infringement has
+been implemented.662
+
+(435) Price coordination arrangements such as those described in this Decision are, by their
+very nature, among the most harmful restrictions of competition. The proportion of
+the value of sales taken into account for such infringements will, therefore, generally
+be set at the higher end of the scale of the value of sales.663
+(436) The Commission also takes into account the combined market share of the parties in
+the European Economic Area (EEA), which is above 90 % and the fact that the
+infringement covered the entire EEA.
+(437) Given the specific circumstances of this case, in particular taking into account the
+nature, the geographic scope of the infringement as well as the combined market
+share of the undertakings, the proportion of the retained value of sales to be taken
+into account is (17%).
+10.2.4. Duration
+(438) In calculating the fine to be imposed on each undertaking, the Commission also takes
+into consideration the duration of the infringement as set out in Section 9.664
+(439) The duration to be taken into account for the purposes of calculating the fine to be
+imposed on the undertaking and the resulting multiplier for duration is set out in
+Table 3.
+Table 3: Duration
+
+662 Points 21 and 22 of the Guidelines on fines.
+663 Point 23 of the Guidelines on fines.
+664 Point 24 of the Guidelines on fines.
+
+EN 104 EN
+
+Undertaking Duration Multiplier
+
+Scania 17 January 1997 – 18 January 2011 14
+
+10.2.5. Determination of the additional amount
+
+(440) The infringement committed by the Addressees involves horizontal price collusion
+within the meaning of point 25 of the Guidelines on fines. The basic amount should,
+therefore, include a sum of between 15% and 25% of the retained value of sales to
+deter the Addressees from entering into such illegal practices in the future.665
+(441) For the purposes of deciding the proportion of the retained value of sales to be taken
+into account, the Commission took into consideration the factors set out in recitals
+(435) to (436). The proportion of the retained value of sales to be taken into account
+for the purposes of calculating the additional amount is, therefore, also 17%.
+10.2.6. Calculation of the basic amount
+(442) Based on the criteria explained in recitals (427)-(441), the basic amount of the fine to
+be imposed on Scania is set out in Table 4.
+Table 4: Basic amounts of the fine
+
+Undertaking Basic amount in EUR
+
+Scania 880 523 000
+
+10.2.7. Adjustments to the basic amount of the fine: aggravating or mitigating factors
+
+(443) The Commission may increase the basic amount where it finds that there are
+aggravating circumstances. Those circumstances are listed in a non-exhaustive way
+in point 28 of the Guidelines on fines. The Commission may also reduce the basic
+amount where it considers that mitigating circumstances exist. Those circumstances
+are listed in a non-exhaustive way in point 29 of the Guidelines on fines.
+
+(444) The Commission does not consider that there are any aggravating or mitigating
+circumstances in this case.
+
+10.2.8. Application of the 10% of turnover limit
+(445) Article 23(2) of Regulation (EC) No 1/2003 provides that for the undertaking
+participating in the infringement, the fine imposed is not to exceed 10% of its total
+turnover in the preceding business year.
+(446) In this case, the fine calculated (see Table 5) does not exceed 10% of Scania's total
+turnover in 2016.
+10.2.9. Conclusion: final amount of individual fines to be imposed in this Decision
+(447) The fines to be imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are
+set out in Table 5.
+Table 5: Individual fines
+
+665 Point 25 of the Guidelines on fines.
+
+EN 105 EN
+
+Undertaking Fines (in EUR)
+
+Scania 880 523 000
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+By colluding on pricing and gross price increases in the EEA for medium and heavy trucks;
+and the timing and the passing on of costs for the introduction of emission technologies for
+medium and heavy trucks required by EURO 3 to 6 standards, the following legal entities of
+Scania infringed Article 101 of the Treaty and Article 53 of the EEA Agreement during the
+periods indicated:
+
+(a) Scania AB (publ) from 17 January 1997 until 18 January 2011;
+(b) Scania CV AB (publ) from 17 January 1997 until 18 January 2011;
+(c) Scania Deutschland GmbH from 20 January 2004 until 18 January 2011.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+
+EUR 880 523 000 jointly and severally on Scania AB (publ) and Scania
+CV AB (publ) of which
+
+Scania Deutschland GmbH is held jointly and severally
+responsible for the amount of EUR 440 003 282.
+
+The fines shall be credited, in euros, within three months from the date of notification of this
+Decision to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39824
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or making a
+
+EN 106 EN
+
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.666
+
+Article 3
+
+The undertaking comprising the legal entities listed in Article 1 shall immediately bring to an end
+the infringement referred to in that Article insofar as it has not already done so.
+
+The undertaking comprising the legal entities listed in Article 1 shall refrain from repeating any
+act or conduct described in Article 1, and from any act or conduct having the same or similar
+object or effect.
+
+Article 4
+
+This Decision is addressed to
+
+Scania AB (publ), Vagnmakarvägen 1, CK3 Reception, 15 187 Södertälje, Sweden
+Scania CV AB (publ), Vagnmakarvägen 1, CK3 Reception, 15 187 Södertälje,
+Sweden
+
+Scania Deutschland GmbH, August-Horch-Straße 10, 56070 Koblenz, Germany
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Brussels, 27.9.2017
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+666 OJ L 362, 31.12.2012, p. 1.
+
+EN 107 EN

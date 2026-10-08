@@ -1,0 +1,505 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+Brussels,
+
+COMMISSION DECISION
+
+of 9.12.2009
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+Case COMP/38.636 – RAMBUS
+
+(Only the English text is authentic)
+
+Text with EEA relevance
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty1, in particular Article 9(1) thereof,
+
+Having regard to the Commission Decision of 27 July 2007 to initiate proceedings in this
+case,
+
+Having expressed concerns in the Statement of Objections the Commission adopted on
+27 July 2007,
+
+Having given interested third parties the opportunity to submit their observations
+pursuant to Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to
+meet those concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer2,
+
+WHEREAS:
+
+1. SUBJECT MATTER AND PARTIES
+
+(1) This Decision is addressed to Rambus, a company incorporated in Delaware
+(USA) and concerns the claiming of potentially abusive royalties for the use of
+certain patents for “Dynamic Random Access Memory” (hereinafter referred to as
+"DRAM") chips subsequent to allegedly intentional deceptive conduct in the
+context of the standard-setting process. The alleged deceptive conduct relates to
+the non-disclosure of the existence of patents and patent applications which were
+later claimed to be relevant to the adopted standard.
+
+(2) In its Statement of Objections of 27 July 2007, which constitutes a preliminary
+assessment within the meaning of Article 9(1) of Council Regulation (EC) No
+1/2003 of 16 December 2002 on the implementation of the rules on competition
+laid down in Articles 81 and 82 of the Treaty ("Regulation (EC) No 1/2003"), the
+Commission came to the provisional conclusion that, at the point when it started
+asserting its patents in January 2000, Rambus held a dominant position on the
+worldwide technology market for DRAM interface technology (whether there is a
+single market for the full package of DRAM interface technologies, or whether
+there are separate worldwide markets for individual DRAM interface subtechnologies). Rambus has continued to hold that dominant position since.
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the TFEU; the two sets of provisions are in substance
+identical. For the purposes of this Decision, references to Articles 101 and 102 of the TFEU should be
+understood as references to Articles 81 and 82, respectively, of the EC Treaty where appropriate.
+
+2 Hearing Officer final report of 29.9.2009.
+
+2
+
+(3) The Commission took the preliminary view that Rambus' practice of claiming
+royalties for the use of its patents from industry standard-compliant DRAM
+manufacturers at a level which, absent its allegedly intentional deceptive conduct,
+it would not have been able to charge raised concerns as to the compatibility with
+Article 102 of the Treaty on the Functioning of the European Union ("TFEU").
+Furthermore, the Commission came to the provisional conclusion that Rambus'
+behaviour undermines confidence in the standard-setting process given that an
+effective standard-setting process is, in the sector relevant to the present case, a
+precondition to technical development and the development of the market in
+general to the benefit of consumers.
+
+(4) Rambus was incorporated in 1990 in California and reincorporated in Delaware,
+USA, in 1997. Its principal place of business is Los Altos, California. Rambus
+designs, develops and licenses high bandwidth chip connection technologies for
+computers, consumer electronic and communication products (including systems
+memory, PC graphics, multimedia, workstations, video game consoles and
+network switches).
+
+2. PROCEDURAL STEPS UNDER REGULATIONS NO 17/62 AND (EC) NO 1/2003
+
+(5) On 18 December 2002, Infineon Technologies AG, a company with its principal
+place of business in Munich, Germany ("Infineon") and Hynix Semiconductor
+Inc., a company with its principal place of business in Ichon, Korea ("Hynix"),
+lodged a joint complaint against Rambus pursuant to Article 3 of Council
+Regulation No. 17/623 for the initiation of proceedings against Rambus.
+
+(6) On 5 April 2005, Infineon informed the Commission that it withdrew its
+complaint.
+
+(7) On 27 July 2007, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003 and adopted a
+Statement of Objections setting out the Commission’s competition concerns
+which constitutes a preliminary assessment as referred to in Article 9(1) of
+Regulation (EC) No 1/2003.
+
+(8) This assessment was notified to Rambus by letter of 30 July 2007. Access to the
+file was granted to Rambus on 10 August 2007. Rambus responded to the
+Statement of Objections on 31 October 2007.
+
+(9) At Rambus' request, an Oral Hearing took place on 4 and 5 December 2007. Five
+companies were admitted as interested third parties. They provided comments on
+the Statement of Objections.
+
+(10) On 8 June 2009, Rambus submitted commitments ("the Commitments") to the
+Commission in response to the Statement of Objections while disagreeing with
+the Commission's provisional findings.
+
+3 Regulation No. 17 of the Council of 6 February 1962, First Regulation implementing Articles 85 and
+86 of the Treaty (OJ No. 13, 21.2.1962, p. 204).
+
+3
+
+(11) On 12 June 2009, a notice was published in the Official Journal of the European
+Union4 pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the
+case and the Commitments and inviting interested third parties to submit their
+observations on the Commitments within one month following publication.
+
+(12) On 23 July 2009, the Commission informed Rambus of the observations on the
+Commitments received from interested third parties following the publication of
+the notice. On 14 August 2009, Rambus submitted amended commitments.
+
+(13) On 28 September 2009, the Advisory Committee on Restrictive Practices and
+Dominant positions was consulted. On 29 September 2009, the Hearing Officer
+issued her final report.
+
+(14) On 13 October 2009, the Commission informed Hynix, in accordance with
+Article 7(1) of Commission Regulation (EC) No 773/2004,5 that it took the
+preliminary view that there was no sufficient degree of Community interest for
+conducting a further investigation into the alleged infringement.
+
+(15) On 12 November 2009, Hynix submitted further comments.
+
+3. PRELIMINARY ASSESSMENT
+
+3.1. Relevant markets
+
+3.1.1. Product market
+
+(16) The relevant market is a technology market for DRAM interface technology.
+DRAM chips are a type of electronic memory primarily used in computer
+systems, but also used in a wide range of other products which need to
+temporarily store data, including servers, workstations, printers, PDAs and
+cameras. The interface technology allows interoperability between a DRAM chip
+and other computer components which need to access the data stored in the
+DRAM chips. For the purpose of these proceedings, it may be left open whether
+there is a single market for the full package of DRAM interface technologies or
+whether there are separate worldwide markets for individual DRAM interface
+sub-technologies.
+
+3.1.2. Geographic market
+
+(17) Synchronous DRAM licences are granted on a worldwide basis, and the resulting
+products are both manufactured and sold worldwide to uniform specifications.
+Synchronous DRAM chips are made in a few production sites throughout the
+world. They are distributed globally before incorporation into PCs and other
+equipment manufactured in a range of countries across the world.6 Therefore, the
+
+4 OJ C 133, 12.6.2009, p. 16.
+
+5 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by
+the Commission pursuant to Articles 81 and 82 of the EC Treaty (OJ L 123, 27.04.2004, p. 18).
+
+6 See also Commission Decision of 03 May 2000 declaring a concentration to be compatible with the
+common market (Case No IV/M.0044 - HITACHI/NEC - DRAM/JV) according to Council
+Regulation (EEC) No 4064/89, OJ C 153, 1.6.2000, p. 8, paragraph 21.
+4
+
+market for the licensing of synchronous DRAM interface technology is global in
+its geographic scope.
+
+3.2. Position of the parties on the relevant market
+
+(18) JEDEC, an industry-wide US-based standard setting organisation, developed a
+standard for DRAMs. JEDEC SDR DRAM standard-compliant chips were the
+main type of DRAM chip on the market as early as 1999, accounting for 84% of
+DRAM chips sold. By August 1999, the JEDEC DDR DRAM standard had been
+agreed, further entrenching the evolutionary path of the JEDEC DRAM standards
+in question.
+
+(19) JEDEC-compliant synchronous DRAM chips account for the vast majority of
+DRAM chips currently sold worldwide, representing more than 96% in terms of
+overall sales of DRAM chips between 2004 and 2008. Virtually all market
+participants confirmed that it is commercially indispensable to comply with
+JEDEC standards in order to be able to sell DRAM chips on the Community or
+worldwide market. Rambus’ RDRAM technology and its successor, XDR
+DRAM, represent the main non-JEDEC-compliant DRAM interface technologies.
+
+(20) As Rambus asserts patents on all JEDEC-compliant SDRAM chips and owns the
+proprietary RDRAM and XDR DRAM technology, the percentage of worldwide
+commercial DRAM production exposed to Rambus’ patent claims is thus more
+than 90%. Rambus has been and remains the only company asserting patents on
+DRAM interface technology.
+
+(21) Every manufacturer wishing to produce synchronous DRAM chips or chipsets
+complying with JEDEC standards must therefore either acquire a patent licence
+from Rambus or litigate its asserted patent rights.
+
+(22) There are substantial barriers to entry on the market, primarily due to the fact that
+the industry is locked in to JEDEC standards. Firstly, the initial costs and efforts
+relating to standards development are substantial. Furthermore, there are
+significant costs associated with switching from a standard once it has been
+adopted.
+
+(23) First and foremost, the specifications of a new standard would need to be agreed
+with the companies active in the sector (DRAM manufacturers, microprocessor
+manufacturers, component manufacturers, original equipment manufacturers
+(OEMs) and others). This in itself would take a significant amount of time.
+Moreover, the marketing burden for a new standard and related technology would
+also be significant.
+
+(24) As adoption of a new technology would also carry high risk and substantial costs
+for customers, those customers would in fact need to be convinced that the new
+technology was viable and would be available in sufficient volume at an
+acceptable cost. Companies producing PCs and servers would need to develop
+and test new system architectures. Microprocessor and chipset manufacturers
+would also need to design chips to accommodate the new standard.
+
+(25) In parallel with the development of a new standard, DRAM manufacturers would
+need to consider the design of compliant parts and the new chips would need to
+be tested before mass production.
+
+5
+
+(26) On the basis of the above, the Commission provisionally considered that Rambus
+held a dominant position on the market at the point when it started asserting its
+patents and has continued to hold that dominant position since.
+
+3.3. Practices raising concerns
+
+(27) In the preliminary assessment, the Commission considered that Rambus may have
+engaged in intentional deceptive conduct in the context of the standard-setting
+process by not disclosing the existence of the patents and patent applications
+which it later claimed were relevant to the adopted standard. Such behaviour is
+known as a "patent ambush."
+
+(28) The Commission took the view that Rambus may have been abusing its dominant
+position by claiming royalties for the use of its patents from JEDEC-compliant
+DRAM manufacturers at a level which, absent its allegedly intentional deceptive
+conduct, it would not have been able to charge. In the preliminary assessment, the
+Commission provisionally concluded that claiming such royalties was
+incompatible with Article 102 TFEU, in light of the specific circumstances of this
+case, including Rambus' intentional breach of JEDEC policy and the underlying
+duty of good faith in the context of standard-setting, which resulted in a deliberate
+frustration of the legitimate expectations of the other participants in the standardsetting process.
+
+(29) Furthermore, the Commission considered that such alleged behaviour by Rambus
+undermined confidence in the standard-setting process, given that an effective
+standard-setting process is, in the sector relevant to the present case, a
+precondition to technical development and the development of the market in
+general to the benefit of consumers.
+
+The standard-setting context and patent ambushes
+
+(30) In the preliminary assessment, the Commission considered that the specific
+context relating to standard-setting was important to properly assess Rambus'
+conduct. The process of standard-setting amounts to collective decision-making
+where there is a risk of anti-competitive outcome. In essence, standard-setting
+provides a forum where companies come together and agree to exclude certain
+products or technologies from the market.
+
+(31) However, standards can have a positive economic effect insofar as they promote
+economic interpenetration on the internal market or encourage the development
+of new markets and improved supply conditions.7 Standards tend to increase
+competition and lower output and sales costs, benefiting economies as a whole.
+Standards ensure interoperability, maintain and enhance quality, and provide
+information.8
+
+7 Commission Notice - Guidelines on the applicability of Article 81 of the EC Treaty to horizontal
+cooperation agreements, OJ C 3, 6.1.2001, p. 2, paragraph 169.
+
+8 Commission Communication "The role of European standardisation in the framework of European
+policies and legislation", COM(2004) 674 final.
+
+6
+
+(32) For these benefits to be realised, and given the risk of anti-competitive outcomes,
+particular attention must be given to the procedures used to guarantee that the
+interests of the users of standards are protected. The Commission has therefore set
+forth the conditions that constitute appropriate behaviour in standard-setting
+organisations. In its 1992 Communication entitled "Intellectual Property Rights
+and standardisation",9 the Commission stated that an intellectual property right
+holder would act in bad faith if it was aware that its intellectual property read on a
+standard in development and did not disclose its intellectual property rights
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ The Commission considers that, since the market is worldwide, and in the context
+of the present case, it is not unreasonable to calculate the royalties on the basis of
+worldwide sales, even if Rambus may not have patents in certain countries.
+
+(58) In response to comments received on the Commitments pursuant to the Article
+27(4) Notice, Rambus modified its proposed commitments with a revised
+proposal on 14 August 2009. It amended the Commitments to clarify that all
+existing JEDEC standards for DRAM chips and Memory controllers, including
+GDDR2, LPDDR and LPDDR2, are covered and that Rambus will offer licence
+grants under similar conditions for future JEDEC Standards18. Rambus
+furthermore removed the most-favoured-licensee clause.
+
+5.2. Comments on default license agreements and response
+
+(59) Together with the Commitments, the default licence agreements submitted by
+Rambus were also published on the website of the Directorate-General for
+Competition for public consultation. A number of respondents found that several
+terms and conditions of the default contracts would pose practical difficulties to
+potential licensees.
+
+(60) Some respondents stated that the terms left open the possibility for Rambus to
+extract royalties based not on the price of the individual chips and controllers, but
+on the value of the end-product (such as PCs, mobile phones and other devices
+integrating DRAMs), even if the licensed technologies only represent a small
+percentage of such end-products.
+
+(61) The DRAM-chip manufacturers stated that the clauses which aimed to ensure that
+licensees take up the bundled licence and not just parts of it were
+disproportionate. For example, one clause put a maximum for SDRAM and DDR
+chips on the percentage that could be royalty free, limiting it to 10% of a
+manufacturer's turnover. The manufacturers stated that the clause reduces and
+restricts the value of the commitment as SDRAM and DDR represent more than
+10% of their business. They also stated that another clause could imply that a
+licensee would be required to realise a significant portion of its revenue from the
+licensed products, thereby preventing licensees from producing potential
+alternative, competing products.
+
+(62) Finally, a number of respondents pointed out that in the default licence
+agreements, Rambus was not offering protection against claims of indirect
+infringement, as opposed to past contracts. Some respondents raised the concern
+
+18 See annex at p. 4, § 5.
+
+12
+
+that they would then be exposed to excessive liability demands for alleged
+inducement of infringement for the sale of supposedly licensed products.
+
+(63) In light of the comments received on the default licence agreements, Rambus
+modified the Commitments to clarify the contested points. The terms and
+conditions of these default licence agreements do not form an integral part of the
+Commitments but are the means by which the Commitments will be implemented
+in practice. Rambus commits that the terms and conditions of such licences will
+be compliant with the Commitments and that it will publish those terms and
+conditions on its website.
+
+(64) Rambus clarified that it intends to collect royalties on the individual device, such
+as a DRAM or a Memory Controller from the manufacturer and commits not to
+seek royalties for the same device from the manufacturer's customer.
+
+(65) Rambus clarified in the Commitments that the licence will be a package licence
+that will need to be entered into for all companies of a group, making the
+challenged clauses on turnover superfluous.
+
+(66) Rambus clarified that the royalty shall be determined on the basis of the price of
+an individually sold chip and not of the end-product. If they are incorporated into
+other products, the individual chip price remains determinative. Rambus
+introduced a royalty cap for memory controllers that are part of a chip having
+multiple functions.
+
+(67) Rambus amended the Commitments to include all patents Rambus acquires
+during the lifetime of the Commitments insofar as they relate to the standards
+covered by the Commitments.
+
+5.3. Conclusion
+
+(68) Overall, the observations received did not lead the Commission to identify new
+competition concerns and contained no points such as to make the Commission
+reconsider the concerns it expressed in the preliminary assessment.
+
+(69) In view of the results of the market test, the Commission considers that, with the
+clarification on the scope, the package licence and the basis for calculating the
+royalty, the removal of the most-favoured-licensee clause and the clarification
+that future patents are covered by the Commitments, the Commitments proposed
+by Rambus are adequate to meet the competition concerns expressed in the
+preliminary assessment.
+
+6. PROPORTIONALITY OF THE AMENDED COMMITMENTS
+
+(70) According to settled case law, the principle of proportionality requires that the
+measures adopted by Community institutions must be suitable and not exceed
+what is appropriate and necessary for attaining the objective pursued.19 Where
+
+19 Judgement of the Court of First Instance of 19.7.1997 in case T-260/94, Air Inter v Commission
+[1997] ECR II-997, paragraph 144, and Case T-65/98, Van den Bergh Foods v Commission [2003]
+ECR II-4653, paragraph 201.
+
+13
+
+there is a choice between several appropriate measures, recourse must be had to
+the least onerous one, and the disadvantages caused must not be disproportionate
+to the aims pursued.20 For the assessment of the proportionality of commitments
+submitted within the framework of Article 9 of Regulation (EC) No 1/2003, the
+Commission takes into account that the Commitments are not imposed by the
+Commission for an established infringement under Article 7(1) of Regulation
+1/2003, but voluntarily proposed by the undertaking seeking to bring the
+procedure to an end without a formal decision on the existence of an
+infringement.
+
+(71) The Commission takes the view that the Commitments in their final form are
+sufficient and necessary to address the concerns identified by the Commission in
+its preliminary assessment. As the competition concerns arise from the fact that
+Rambus may be claiming abusive royalties for the use of its patents at a level
+which it would not have been able to charge absent its conduct, the Commission
+considers the Commitments are proportionate as they address the royalty rates
+and only those for JEDEC standards.
+
+(72) Rambus agrees not to charge royalties for the SDRAM and DDR standards that were
+adopted during the time in which the Commission provisionally considered
+Rambus may have engaged in intentional deceptive conduct in the context of the
+standard-setting process, by not disclosing the existence of the patents and patent
+applications which it later claimed were relevant to the adopted standards.
+
+(73) Given the Commission's preliminary view that there are substantial barriers to
+entry on the market, which are primarily due to the fact that the industry is locked
+into the JEDEC standards, and that the effects of the alleged abusive behaviour
+extend to subsequent standards, the fact that Rambus commits to maximum royalty
+rates for those subsequent standards is adequate and proportionate.
+
+(74) Secondly, Rambus commits to a maximum royalty rate of 1.5% for the
+subsequent standards. That is below the 3.5% it has been charging before for
+DDR in its existing contracts. The Commitments extend this rate to all market
+participants and guarantee that industry will not have to pay more than the capped
+rates. This predictability and certainty has a clear value for business. Potential
+new entrants will also have a clear perspective of future royalty costs, facilitating
+a decision to enter the market.
+
+(75) The Commitments will be binding on Rambus for a total period of five years. This
+duration is necessary and proportionate as Rambus' previous DRAM chip and
+memory controller license agreements were concluded for a term of five years.
+
+7. CONCLUSION
+
+(76) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003,
+the Commission makes Commitments, offered by the undertakings concerned to
+
+20 Judgement of the Court of 11.7.1989 in case 265/87, Schräder [1989] ECR 2237, paragraph 21, and
+judgement of the Court of 9.3.2006 in case C-174/05, Zuid-Hollandse Milieufederatie and Natuur en
+Milieu [2006] ECR I – 2243, paragraph 28.
+
+14
+
+meet the Commission’s concerns expressed in its preliminary assessment, binding
+upon them. Recital 13 of the Preamble to the Regulation (EC) No 1/2003 states
+that such a decision should not conclude whether or not there has been or still is
+an infringement. The Commission’s assessment of whether the Commitments
+offered are sufficient to meet its concerns is based on its preliminary assessment,
+representing the preliminary view of the Commission based on the underlying
+investigation and analysis, and the observations received from third parties
+following the publication of a notice pursuant to Article 27(4) of Regulation (EC)
+No 1/2003.
+
+(77) In light of the Commitments offered, the Commission considers that there are no
+longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be
+brought to an end.
+
+(78) The Commission retains full discretion to investigate and open proceedings under
+Article 102 TFEU and Article 54 of the EEA Agreement as regards practices that
+are not the subject matter of this Decision,
+
+15
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Commitments as listed in the Annex shall be binding on Rambus Inc. for a total
+period of five years from the date of adoption of this Decision.
+
+Article 2
+
+It is hereby concluded that there are no longer grounds for action in the present case.
+
+Article 3
+
+This Decision is addressed to:
+
+Rambus Inc.
+4440 El Camino Real
+Los Altos
+CA 94022
+USA
+
+Done at Brussels, For the Commission
+
+Neelie KROES
+Member of the Commission
+
+16
+
+ANNEX
+
+THE COMMITMENTS
+
+17

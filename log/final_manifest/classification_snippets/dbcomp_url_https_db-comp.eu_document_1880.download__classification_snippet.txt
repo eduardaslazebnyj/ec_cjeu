@@ -1,0 +1,409 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40134
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Articles 7 and 23(2) Regulation (EC) 1/2003
+
+Date: 13/5/2019
+
+This text is made available for information purposes only. A summary of this decision is published in all EU languages in
+the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed. Those parts are replaced by a
+non-confidential summary in square brackets or are shown as [...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 13.5.2019
+C(2019) 3465 final
+
+COMMISSION DECISION
+
+of 13.5.2019
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (the Treaty)
+
+AT.40134 – AB InBev beer trade restrictions
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 5
+2. The Undertaking concerned ......................................................................................... 6
+3. Procedure ...................................................................................................................... 7
+4. AB InBev beer products concerned by the infringement ............................................. 8
+4.1. The trade channel concerned by the infringement ....................................................... 9
+4.1.1. Contractual relationships between AB InBev and its off-trade customers ................ 10
+4.1.1.1. Contractual arrangements ........................................................................................... 10
+4.1.1.2. AB InBev’s pricing policy of its beer products .......................................................... 11
+4.1.2. Trade of AB InBev products supplied in the Netherlands for resale in Belgium ...... 13
+5. Relevant market ......................................................................................................... 14
+5.1. Principles .................................................................................................................... 14
+5.2. The relevant product market ...................................................................................... 15
+5.3. The relevant geographic market ................................................................................. 16
+6. AB InBev’s dominance in the off-trade wholesale beer market in Belgium ............. 16
+6.1. Principles .................................................................................................................... 16
+6.2. Application of the principles in the present case ........................................................ 18
+7. The infringement of Article 102 of the Treaty ........................................................... 21
+7.1. Partitioning of the Internal Market by restricting cross-border trade as an abuse of a
+dominant position ....................................................................................................... 21
+7.1.1. Abuse of dominance- introduction ............................................................................. 21
+7.1.2. Partitioning of the Internal Market by restricting cross-border trade as an abuse by
+nature .......................................................................................................................... 23
+7.2. AB InBev’s aim to maintain higher prices and profits for the supply of its products in
+Belgium through limitations of cross-border trade .................................................... 25
+7.2.1. AB InBev monitored the price difference and cross-border trade potential at
+wholesale level ........................................................................................................... 25
+7.2.2. AB InBev calculated the negative effects of cross-border trade on its profits in
+Belgium ...................................................................................................................... 26
+7.2.3. AB InBev sought to impair cross-border trade in its decision-making process in
+different business areas and at different levels within the undertaking ..................... 27
+7.3. Description of the conduct constituting the infringement .......................................... 31
+7.3.1. AB InBev restricted its wholesale customer [...] from supplying AB InBev beer
+products sourced in the Netherlands to off-trade customers in Belgium ................... 31
+7.3.2. InBev Belgium pressed Albert Heijn to procure products for the Belgium market
+exclusively in Belgium ............................................................................................... 33
+
+2EN EN
+
+7.3.3. AB InBev implemented packaging changes to hinder off-trade customers in Belgium
+form sourcing their suppliers in the Netherlands ....................................................... 34
+7.3.3.1. Replacing the Jupiler 50cl can in the Netherlands by a Jupiler 44cl can ................... 35
+7.3.3.2. Introducing a specific Dutch Jupiler 33cl can for the football world cup in Brazil... 36
+7.3.4. AB InBev made the supplies to Albert Heijn in Belgium of beer products, which
+were not otherwise available in the Netherlands, conditional on the purchase in
+Belgium of other products, which otherwise could have been sourced in the
+Netherlands ................................................................................................................ 38
+7.3.5. InBev Nederland refused to grant a promotion to Albert Heijn because it could have
+imported the products concerned by such promotions in Belgium ............................ 40
+7.4. AB InBev’s restrictions of imports into Belgium of beer products supplied to offtrade customers in the Netherlands ............................................................................ 41
+7.4.1. AB InBev’s volume limitations of beer products supplied to [...] in the
+Netherlands to restrict imports of these products into Belgium ................................. 41
+7.4.2. AB InBev’s changes in the packaging of beer products supplied to off-trade
+customers in the Netherlands to restrict imports of these products into Belgium ...... 42
+7.4.2.1. Removing certain languages from the label ............................................................... 42
+7.4.2.2. Changing layout and size ........................................................................................... 42
+7.4.3. AB InBev made the supplies to Albert Heijn in Belgium of beer products, not
+available in the Netherlands, conditional on the purchase in Belgium of other beer
+products also available in the Netherlands ................................................................. 44
+7.4.4. AB InBev made promotions for beer products offered to Albert Heijn in the
+Netherlands conditional upon not offering the promotions in Belgium ..................... 45
+7.5. Lack of objective justification .................................................................................... 45
+8. Single and continuous infringement ........................................................................... 45
+8.1. Principles .................................................................................................................... 45
+8.2. Application of the principles in the present case ........................................................ 47
+9. Duration of the infringement ...................................................................................... 49
+10. Effect on trade between member states ...................................................................... 49
+10.1. Principles .................................................................................................................... 49
+10.2. Application of the principles in the present case ........................................................ 50
+11. Liability for the infringement ..................................................................................... 50
+11.1. Principles .................................................................................................................... 50
+11.2. Application of the principles in the present case ........................................................ 52
+12. Remedies .................................................................................................................... 53
+12.1. Article 7 of Regulation (EC) No 1/2003: ................................................................... 53
+12.2. Remedy offered by AB InBev .................................................................................... 53
+13. Fines ........................................................................................................................... 55
+13.1. Fines under Article 23(2) of Regulation (EC) No 1/2003 – principles ...................... 55
+
+3EN EN
+
+13.2. Calculation of the fine ................................................................................................ 56
+13.2.1. Value of sales ............................................................................................................. 56
+13.2.2. Gravity........................................................................................................................ 56
+13.2.3. Duration...................................................................................................................... 57
+13.2.4. Aggravating and mitigating circumstances ................................................................ 57
+13.2.5. Deterrence multiplier ................................................................................................. 57
+13.2.6. Application of the 10% turnover limit ....................................................................... 57
+13.2.7. Reduction of the fine in view of cooperation ............................................................. 57
+13.2.8. Conclusion: final amount of the fine .......................................................................... 57
+
+4EN EN
+
+COMMISSION DECISION
+
+of 13.5.2019
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (the Treaty)
+
+AT.40134 – AB InBev beer trade restrictions
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union1,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,2
+and in particular Articles 7 and 23(2) thereof,
+
+Having regard to the Commission Decision of 29 June 2016 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the Treaty,3
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,4
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision concerns Anheuser-Busch InBev NV/SA, InBev Belgium
+BVBA/SPRL and InBev Nederland NV. The undertaking comprising those three
+entities is referred to in this Decision as "AB InBev".
+
+1 OJ, C 115, 9.5.2008, p.47.
+2 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The Treaty also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". Where the meaning remains unchanged, the terminology of the Treaty will be used
+throughout this Decision.
+3 OJ L 123, 27.4.2004, p. 18.
+4 Final report of the Hearing Officer of 6 May 2019.
+
+5EN EN
+
+(2) In this Decision, the Commission finds that from 9 February 2009 to 31 October
+2016 (the “Relevant Period”), AB InBev restricted imports of AB InBev beer
+products from the Netherlands into Belgium through the following four practices:
+(a) limiting the volumes of beer products supplied to [a wholesaler] ("[...]") in the
+Netherlands to restrict imports of these products into Belgium,
+(b) implementing changes in the packaging of beer products supplied to off-trade
+customers in the Netherlands to restrict imports of these products into Belgium,
+(c) making the supplies to Albert Heijn in Belgium of beer products, not available
+in the Netherlands, conditional on the purchase in Belgium of other beer
+products also available in the Netherlands, and
+(d) making promotions for beer products offered to Albert Heijn in the
+Netherlands conditional upon not offering the promotions in Belgium - with
+the overall aim to maintain higher prices and profits in Belgium.
+(3) The Commission finds that AB InBev participated in a single and continuous
+infringement of Article 102 of the Treaty in the period from 9 February 2009 to 31
+October 2016 (the “Relevant Period”).
+
+2. THE UNDERTAKING CONCERNED
+(4) Anheuser-Busch InBev NV/SA is the world's largest beer brewer, selling its beer
+brands in more than 100 countries and employing about 180,000 employees
+worldwide.
+(5) The legal entities concerned by the present proceedings are: InBev Belgium
+BVBA/SPRL ("InBev Belgium")5, based in Leuven, Belgium; InBev Nederland NV
+("InBev Nederland"), based in Breda, the Netherlands; and Anheuser-Busch InBev
+NV/SA ("Anheuser-Busch InBev"), based in Brussels, Belgium. InBev Belgium and
+InBev Nederland are respectively the Belgian and Dutch subsidiary of Anheuser-
+Busch InBev.
+(6) AB InBev is the result of a succession of several large-scale mergers. In 2004,
+Interbrew (Belgium) and AmBev (Brazil) merged to form InBev. InBev acquired
+Anheuser-Busch (US) in 2008, to create AB InBev. In 2013, AB InBev acquired the
+Modelo Group (Mexico). In 2016, AB InBev merged with SABMiller.
+(7) AB InBev had a worldwide turnover of 46 295 million EUR in 2018.
+(8) Throughout the Relevant Period, Anheuser-Busch InBev owned 100% of InBev
+Belgium and of InBev Nederland.6
+
+5 Since 2 November 2016, InBev Belgium changed its legal form from NV/SA to BVBA/SPRL; see ID
+1269, Annex 3. According to a publication in the Moniteur belge of 25 November 2016, this change in
+legal form of InBev Belgium to a private limited company qualifies as legal succession and, as a result,
+InBev Belgium BVBA/SPRL is also liable for the conduct of InBev Belgium NV prior to the change on
+2 November 2016, ID 1576
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+the percentage of the value of sales to be taken into
+account in this case should be set at 10%.
+
+279 Point 25 of the Guidelines on fines.
+280 Point 27 of the Guidelines on fines.
+281 Point 30 of the Guidelines on fines.
+
+56EN EN
+
+13.2.3. Duration
+(254) The overall duration of the infringement, as set out in Section 9, amounts to 2822
+days. Therefore, for the purpose of the calculation of the fine, the amount determined
+in Recital (251) and (253), should be multiplied by 7.72 to take account of the
+duration of the infringement.
+13.2.4. Aggravating and mitigating circumstances
+(255) The Commission considers that no aggravating or mitigating circumstances apply in
+this case.
+13.2.5. Deterrence multiplier
+(256) Point 30 of the Guidelines on Fines provides for the possibility of increasing the fine
+to ensure that fines have a sufficiently deterrent effect in the case of undertakings
+which have a particularly large turnover beyond the sales of goods and services to
+which the infringement relates.
+(257) Given that the value of sales to be taken into account in this case amounts to less than
+[0-1%] of the total turnover generated by AB InBev during the 2018 financial year
+(in other words, the business year preceding the date of this Decision), and that AB
+InBev had a particularly large turnover in 2018 (EUR 46 295 million) beyond the
+revenues generated by its off-trade beer sales in Belgium and the Netherlands, the
+Commission concludes that the basic amount of the fine should be multiplied by 1.1.
+13.2.6. Application of the 10% turnover limit
+
+(258) The fine for the infringement does not exceed 10% of AB InBev’s total turnover
+relating to the business year preceding the date of adoption of this Decision pursuant
+to Article 23(2) of Regulation (EC) No 1/2003.
+13.2.7. Reduction of the fine in view of cooperation
+(259) Point 37 of the Guidelines on Fines allows the Commission to depart from the
+methodology set out in those Guidelines if the particularities of the case justify it.
+(260) In the present case, the Commission considers that AB InBev has cooperated with
+the Commission. The Commission takes account of AB InBev’s cooperation beyond
+its legal obligation to do so by, first, acknowledging the infringement of Article 102
+of the Treaty arising from the conduct, and, second, proposing a remedy referred to
+in Section 12.2 to prevent reiteration of the practice as referred to in Section 7.4.2.1.
+(261) In view of the effective cooperation provided by AB InBev in this case, the
+Commission considers that the amount of the applicable fine should therefore be
+reduced by 15%.
+13.2.8. Conclusion: final amount of the fine
+(262) The Commission concludes that the final amount of the fine to be imposed on AB
+InBev should be EUR 200 409 000.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV have
+participated in a single and continuous infringement of Article 102 of the Treaty with the overall
+
+57EN EN
+
+aim of restricting imports of AB InBev beer products from the Netherlands into Belgium and of
+maintaining higher prices and profits in Belgium:
+(a) limiting the volumes of beer products supplied to [...] in the Netherlands to restrict
+imports of these products into Belgium,
+(b) implementing changes in the packaging of beer products supplied to off-trade
+customers in the Netherlands to restrict imports of these products into Belgium,
+(c) making the supplies to Albert Heijn in Belgium of beer products, not available in the
+Netherlands, conditional on the purchase in Belgium of other beer products also
+available in the Netherlands, and
+(d) making promotions for beer products offered to Albert Heijn in the Netherlands
+conditional upon not offering the promotions in Belgium.
+
+The infringement lasted from 9 February 2009 until 31 October 2016.
+
+Article 2
+For the single and continuous infringement referred to in Article 1, a fine of EUR 200 409 000 is
+imposed on Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev
+Nederland NV, jointly and severally.
+The fine shall be credited, in euros, within three months of the date of notification of this
+Decision, to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.40134
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date, either by providing an acceptable financial guarantee or by making a
+provisional payment of the fine in accordance with Article 108 of Regulation (EU, Euratom)
+2018/1046282.
+
+Article 3
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV shall
+immediately bring to an end the infringement referred to in Article 1 in so far as it has not
+already done so.
+
+282 OJ L 193, 30.7.2018, p. 80.
+
+58EN EN
+
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV shall
+refrain from repeating any act or conduct described in Article 1, and any act or conduct having
+the same or equivalent object or effect.
+
+Article 4
+During a period of five years from the date of notification of this Decision, Anheuser-Busch
+InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV shall provide the
+mandatory food labelling information in both Dutch and French languages on the packaging
+of all its current and future products of 19 specific beer brands, sold by InBev Belgium
+BVBA/SPRL, AB InBev France SAS and/or InBev Nederland NV and any of their controlled
+companies or their successors in their supplies to off-trade customers in the Netherlands,
+Belgium and/or France. The 19 beer brands are: 1) Atlas, 2) Belle-Vue, 3) Budweiser, 4)
+Corona, 5) Coronita, 6) Cubanisto, 7) Deus, 8) Ginette, 9) Goose Island, 10) Hoegaarden, 11)
+Jupiler, 12) Kwak, 13) Leffe, 14) Modelo, 15) Pacifico, 16) Piedboeuf, 17) Pure Blonde, 18)
+Stella Artois, 19) Tripel Karmeliet
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV and
+any of their controlled companies or their successors shall implement this Remedy for current
+products, no later than six months from the date of notification of this Decision, and for new
+products within six months from the date of notification of this Decision.
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV and any
+of their controlled companies or their successors shall provide the Commission with a report on
+the implementation of the Remedy within nine months following the notification of this
+Decision. This report will contain an overview of the labelling and packaging changes that were
+made to comply with the Remedy.
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV and any
+of their controlled companies or their successors shall provide the Commission with a final
+report on the application of the Remedy within three months after the expiration of the Remedy’s
+duration period of five years. This report will contain the following information for each full
+calendar year during which the Remedy is applicable:
+(a) An overview of all new AB InBev products and packaging innovations which were
+introduced in the Netherlands, Belgium and/or France, further specifying if these
+products contained mandatory food information in dual language, that is Dutch and
+French ;
+(b) An overview of the volume percentage represented by the brands covered by the
+Remedy sold in the Netherlands, Belgium and France compared to the total AB InBev
+off-trade sales volume in the Netherlands, Belgium and France;
+(c) An overview of all 'multipack' packages consisting of individually packed items, for
+which the individual prepacked items did not contain mandatory food information in
+dual language, that is Dutch and French.
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV and any
+of their controlled companies or their successors shall provide the Commission with written
+notice promptly upon becoming aware that any third party has commenced an action before a
+competent regulatory authority or court alleging that it has violated any of the terms of the
+Remedy.
+Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland NV and any
+of their controlled companies or their successors may seek review with the Commission of the
+
+59EN EN
+
+application of the Remedy in light of any material changes in law or market circumstances or to
+alleviate any unforeseen hardship that make appropriate some exception or modification of its
+terms. The Commission will retain discretion to decide upon any such application, which it will
+consider duly.
+
+Article 5
+Should Anheuser-Busch InBev NV/SA, InBev Belgium BVBA/SPRL and InBev Nederland
+NV fail to comply with any of the obligations set out in Article 3 and 4 of this Decision within
+the deadlines referred to in Article 3 and 4, the Commission shall impose a daily penalty
+payment on that undertaking of 2.5% of Anheuser-Busch InBev NV/SA’s daily consolidated
+turnover in the proceeding business year in accordance with Article 24(1)(a) of Regulation (EC)
+No 1/2003.
+
+That penalty shall be calculated as from the first day following the expiry of the deadlines
+referred to in Article 3 and 4.
+
+Article 6
+This Decision is addressed to:
+
+Anheuser-Busch InBev NV/SA, Grand Place 1, 1000 Brussels, Belgium
+
+InBev Belgium BVBA/SPRL, Boulevard Industriel 21, 1070 Brussels, Belgium
+
+InBev Nederland NV, Ceresstraat 1, 4811 CA Breda, The Netherlands
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+Done at Brussels, 13.5.2019
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+60EN EN

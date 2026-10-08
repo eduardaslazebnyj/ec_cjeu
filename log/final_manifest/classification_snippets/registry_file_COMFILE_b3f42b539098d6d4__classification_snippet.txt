@@ -1,0 +1,598 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DE
+
+38.121
+
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den 20.09.2006
+C(2006)4180 final
+.
+
+.
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom 20 September 2006
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+(Sache COMP/F-1/38.121 – ROHRVERBINDUNGEN)
+
+(NUR DER ENGLISCHE, FRANZÖSISCHE, DEUTSCHE, ITALIENISCHE UND
+SPANISCHE TEXT SIND VERBINDLICH)
+
+(Text von Bedeutung für den EWR)
+
+FASSUNG ZUR ÜBERMITTLUNG AN:
+
+SANHA Kaimer GmbH & Co. KG
+Kaimer GmbH & Co. Holdings KG
+Sanha Italia srl
+Viega GmbH & Co. KG
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. EINLEITUNG .................................................................................................................. 7
+
+2. DIE VOM VERFAHREN BETROFFENE BRANCHE.............................................................. 8
+
+2.1. Das Produkt.................................................................................................................. 8
+
+2.2. Die Marktteilnehmer.................................................................................................... 9
+
+2.2.1. Die von dem Verfahren betroffenen Unternehmen ...................................................... 9
+
+2.2.1.1. Aalberts, IMI ................................................................................................................ 9
+
+2.2.1.2. Advanced Fluid Connections (Oystertec), Delta, IBP ............................................... 11
+
+2.2.1.3. Flowflex...................................................................................................................... 15
+
+2.2.1.4. FRA.BO...................................................................................................................... 16
+
+2.2.1.5. Legris Industries SA, Comap SA................................................................................ 16
+
+2.2.1.6. Mueller....................................................................................................................... 18
+
+2.2.1.7. Pegler, Tomkins.......................................................................................................... 19
+
+2.2.1.8. Sanha Kaimer............................................................................................................. 20
+
+2.2.1.9. Viega (Viegener) ........................................................................................................ 21
+
+2.2.2. Unternehmensvereinigungen...................................................................................... 22
+
+2.3. Angebot und Nachfrage ............................................................................................. 23
+
+2.3.1. Angebot ...................................................................................................................... 23
+
+2.3.2. Lage der Branche....................................................................................................... 24
+
+2.3.3. Nachfrage................................................................................................................... 24
+
+2.4. Zwischenstaatlicher Handel ....................................................................................... 25
+
+3. DAS VERFAHREN ........................................................................................................ 25
+
+3.1. Chronologische Reihenfolge der Anträge auf Anwendung der Kronzeugenregelung
+.................................................................................................................................... 25
+
+3.2. Ermittlungen und Anfragen der Kommission............................................................ 26
+
+3.3. Mitteilung der Beschwerdepunkte und Anhörung..................................................... 26
+
+4. BESCHREIBUNG DES KARTELLS................................................................................... 27
+
+4.1. Aufbau und Mitglieder............................................................................................... 27
+
+4.1.1. Vorliegende Beweise.................................................................................................. 28
+
+4.1.2. Entstehung und Entwicklung des Kartells.................................................................. 28
+
+DE DE
+
+4.1.3. An den Treffen beteiligte Unternehmen ..................................................................... 31
+
+4.1.4. Treffen, Organisation und Entscheidungsfindung ..................................................... 32
+
+4.1.4.1. Abstufung der Zusammenkünfte................................................................................. 32
+
+4.1.4.2. Umsetzungstreffen...................................................................................................... 32
+
+4.1.4.3. Organisation der Treffen............................................................................................ 33
+
+4.1.4.4. Teilnehmer.................................................................................................................. 33
+
+4.1.5. Der Schwerpunkt der Treffen..................................................................................... 33
+
+4.1.6. Kartellgebiete............................................................................................................. 36
+
+4.1.6.1. Deutschland................................................................................................................ 36
+
+4.1.6.2. Vereinigtes Königreich............................................................................................... 36
+
+4.1.6.3. Frankreich.................................................................................................................. 37
+
+4.1.6.4. Spanien/Portugal........................................................................................................ 37
+
+4.1.6.5. Italien ......................................................................................................................... 37
+
+4.1.6.6. Belgien/die Niederlande............................................................................................. 38
+
+4.1.6.7. Skandinavien .............................................................................................................. 38
+
+4.1.6.8. Griechenland.............................................................................................................. 38
+
+4.1.6.9. Österreich................................................................................................................... 38
+
+4.2. Zeitliche Abfolge der Kontakte.................................................................................. 39
+
+5. ARTIKEL 81 ABSATZ 1 EG-VERTRAG UND ARTIKEL 53 ABSATZ 1 EWR-ABKOMMEN39
+
+5.1. Verhältnis von EG-Vertrag und EWR-Abkommen................................................... 39
+
+5.2. Zuständigkeit.............................................................................................................. 39
+
+5.3. Anwendung von Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen.............. 39
+
+5.3.1. Artikel 81 Absatz 1 EG-Vertrag und Artikel 53 Absatz 1 EWR-Abkommen .............. 39
+
+5.3.2. Art der Zuwiderhandlung........................................................................................... 40
+
+5.3.2.1. Vereinbarungen und abgestimmte Verhaltensweisen ................................................ 40
+
+5.3.2.2. Vereinbarungen und abgestimmte Verhaltensweisen im vorliegenden Fall.............. 43
+
+5.3.2.3. Einzige, komplexe und fortdauernde Zuwiderhandlung ............................................ 48
+
+5.3.2.4. Einzige, komplexe und fortdauernde Zuwiderhandlung im vorliegenden Fall.......... 49
+
+5.3.2.5. Unternehmensvereinigungen...................................................................................... 69
+
+5.3.2.6. Unternehmensvereinigungen im vorliegenden Fall................................................... 69
+
+5.3.3. Einschränkung des Wettbewerbs................................................................................ 70
+
+DE DE
+
+5.3.3.1. Ziel.............................................................................................................................. 70
+
+5.3.3.2. Wirkung...................................................................................................................... 72
+
+5.3.4. Artikel 81 Absatz 3 EG-Vertrag................................................................................. 74
+
+5.3.5. Auswirkung auf den Handel zwischen Mitgliedstaaten und zwischen
+Vertragsparteien des EWR-Abkommens .................................................................... 74
+
+5.3.6. Weitere Erwägungen.................................................................................................. 75
+
+5.3.6.1. Die betroffenen Fittingsarten..................................................................................... 75
+
+5.3.6.2. Angebliche Nötigung von Frabo................................................................................ 77
+
+5.3.6.3. Erwägungen zu bestimmten Beweisstücken ............................................................... 77
+
+5.4. Adressaten.................................................................................................................. 78
+
+5.4.1. Allgemeine Grundsätze .............................................................................................. 78
+
+5.4.2. Verantwortlichkeit im vorliegenden Fall ................................................................... 79
+
+5.4.2.1. Aalberts NV................................................................................................................ 80
+
+5.4.2.2. Delta........................................................................................................................... 82
+
+5.4.2.3. Oystertec /Advanced Fluid Connections.................................................................... 84
+
+5.4.2.4. Legris.......................................................................................................................... 85
+
+5.4.2.5. Tomkins und Pegler.................................................................................................... 87
+
+5.4.2.6. IMI.............................................................................................................................. 88
+
+5.4.2.7. Mueller....................................................................................................................... 89
+
+5.4.2.8. Sanha Kaimer............................................................................................................. 90
+
+5.5. Dauer.......................................................................................................................... 90
+
+5.5.1. Verjährungsfristen...................................................................................................... 90
+
+5.5.2. Dauer der Zuwiderhandlung im vorliegenden Fall ................................................... 91
+
+5.5.2.1. Delta........................................................................................................................... 92
+
+5.5.2.2. Oystertec .................................................................................................................... 93
+
+5.5.2.3. IMI.............................................................................................................................. 94
+
+5.5.2.4. Aalberts ...................................................................................................................... 94
+
+5.5.2.5. Comap ........................................................................................................................ 94
+
+5.5.2.6. Pegler......................................................................................................................... 95
+
+5.5.2.7. Mueller....................................................................................................................... 97
+
+5.5.2.8. Flowflex...................................................................................................................... 97
+
+DE DE
+
+5.5.2.9. Frabo.......................................................................................................................... 98
+
+5.5.2.10. Sanha Kaimer............................................................................................................. 99
+
+5.5.2.11. Viegener ..................................................................................................................... 99
+
+5.5.3. Schlussfolgerungen zu den Adressaten und der Dauer in diesem Fall.................... 100
+
+5.6. Abhilfemaßnahmen.................................................................................................. 102
+
+5.6.1. Artikel 7 der Verordnung (EG) Nr. 1/2003.............................................................. 102
+
+5.6.2. Artikel 15 Absatz 2 der Verordnung Nr. 17 und Artikel 23 Absatz 2 der Verordnung
+(EG) Nr. 1/2003 ....................................................................................................... 102
+
+5.7. Grundbetrag der Geldbusse...................................................................................... 103
+
+5.7.1. Schwere der Zuwiderhandlung ................................................................................ 103
+
+5.7.1.1. Art der Zuwiderhandlung......................................................................................... 103
+
+5.7.1.2. Die tatsächlichen Auswirkungen der Zuwiderhandlung.......................................... 103
+
+5.7.1.3. Der Umfang des räumlich relevanten Marktes........................................................ 105
+
+5.7.1.4. Schlussfolgerungen zur Schwere der Zuwiderhandlung.......................................... 105
+
+5.7.2. Differenzierte Behandlung ....................................................................................... 106
+
+5.7.3. Hinreichende Abschreckung .................................................................................... 108
+
+5.7.4. Erhöhung in Anbetracht der Dauer ......................................................................... 110
+
+5.7.5. Schlussfolgerung zu den Ausgangsbeträgen............................................................ 111
+
+5.8. Erschwerende und mildernde Umstände.................................................................. 111
+
+5.8.1. Erschwerende Umstände.......................................................................................... 111
+
+5.8.1.1. Beteiligung an der Zuwiderhandlung über die Nachprüfungen hinaus................... 111
+
+5.8.1.2. Irreführende Angaben.............................................................................................. 113
+
+5.8.2. Mildernde Umstände................................................................................................ 114
+
+5.8.2.1. Passive und/oder untergeordnete Rolle ................................................................... 114
+
+5.8.2.2. Beteiligung an wenigen Elementen der Zuwiderhandlung ...................................... 117
+
+5.8.2.3. Wirtschaftliche
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+gs KG 7,97 Mio. EUR
+davon gesamtschuldnerisch mit:
+(i) SANHA Kaimer GmbH & Co. KG: 7,97 Mio. EUR; und
+(ii) Sanha Italia srl: 7,15 Mio. EUR
+
+– Viega GmbH & Co. KG 54,29 Mio. EUR
+
+DE 134 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen haben in den jeweils angegebenen Zeiträumen durch ihre
+Beteiligung an einer Reihe von Vereinbarungen und aufeinander abgestimmten
+Verhaltensweisen in Form von Preisfestsetzung, Verabredung von Preislisten und Rabatten,
+Verabredung von Mechanismen zur Durchführung von Preiserhöhungen, Aufteilung von
+Märkten und Kunden und Austausch sonstiger Wirtschaftsinformationen auf dem Markt für
+Kupferfittings und Fittings aus Kupferlegierungen in einer einzigen, komplexen und
+fortdauernden Zuwiderhandlung gegen Artikel 81 Absatz 1 EG-Vertrag sowie ab 1. Januar
+1994 gegen Artikel 53 Absatz 1 EWR-Abkommen verstoßen:
+
+– Aalberts Industries NV vom 25. Juni 2003 bis zum 1. April 2004
+
+– Aquatis France SAS vom 31. Januar 1991 bis zum 22. März 2001 (IMI) und
+vom 25. Juni 2003 bis zum 1. April 2004 (Aalberts)
+
+– Simplex Armaturen + Fittings GmbH & Co. KG vom 31. Januar 1991 bis zum
+22. März 2001 (IMI) und vom 25. Juni 2003 bis zum 1. April 2004 (Aalberts)
+
+– VSH Italia S.r.l vom 15. März 1994 bis zum 22. März 2001
+
+– Yorkshire Fittings Limited vom 31. Dezember 1988 bis zum 22. März 2001
+
+– Advanced Fluid Connections plc vom 23. November 2001 bis zum 1. April
+2004
+
+– IBP Limited vom 23. November 2001 bis zum 1. April 2004
+
+– International Building Products France SA vom 4. April 1998 bis zum
+23. November 2001 (Delta) und vom 23. November 2001 bis zum 1. April
+2004 (Advanced Fluid Connections)
+
+– International Building Products GmbH vom 31. Januar 1991 bis zum
+23. November 2001
+
+– Delta plc vom 31. Dezember 1988 bis zum 23. November 2001
+
+– Aldway Nine Limited vom 28. Juli 1999 bis zum 23. November 2001
+
+– Delta Engineering Holdings Limited vom 31. Dezember 1988 bis zum
+23. November 2001
+
+– Druryway Samba Limited vom 31. Dezember 1988 bis zum 23. November
+2001
+
+– Flowflex Holdings Ltd vom 1. April 1989 bis zum 22. März 2001
+
+– Flowflex Components Ltd vom 31. Dezember 1988 bis zum 22. März 2001
+
+– FRA.BO S.p.A vom 30. Juli 1996 bis zum 1. April 2004
+
+DE 135 DE
+
+– IMI plc vom 31. Dezember 1988 bis zum 22. März 2001
+
+– IMI Kynoch Ltd vom 31. Dezember 1988 bis zum 22. März 2001
+
+– Legris Industries SA vom 31. Januar 1991 bis zum 1. April 2004
+
+– Comap SA vom 31. Januar 1991 bis zum 1. April 2004
+
+– Mueller Industries Inc. vom 12. Dezember 1991 bis zum 12. Dezember 2000
+
+– Mueller Europe Ltd. vom 28. Februar 1997 bis zum 12. Dezember 2000
+
+– WTC Holding Company, Inc. vom 28. Februar 1997 bis zum 12. Dezember
+2000
+
+– Pegler Ltd vom 31. Dezember 1988 bis zum 22. März 2001
+
+– SANHA Kaimer GmbH & Co. KG vom 30. Juli 1996 bis zum 22. März 2001
+
+– Kaimer GmbH & Co. Holdings KG vom 30. Juli 1996 bis zum 22. März 2001
+
+– Sanha Italia srl vom 1. Januar 1998 bis zum 22. März 2001
+
+– Supergrif SL vom 22. Juli 1991 bis zum 23. November 2001
+
+– Tomkins plc vom 31. Dezember 1988 bis zum 22. März 2001
+
+– Viega GmbH & Co. KG vom 12. Dezember 1991 bis zum 22. März 2001
+
+Artikel 2
+
+Für die in Artikel 1 genannte Zuwiderhandlung werden folgende Geldbußen festgesetzt:
+
+a) Aalberts Industries NV: 100,80 Mio. EUR
+davon gesamtschuldnerisch mit:
+(i) Aquatis France SAS: 55,15 Mio. EUR; und
+(ii) Simplex Armaturen +
+Fittings GmbH & Co. KG: 55,15 Mio. EUR
+
+b) 1. IMI plc gesamtschuldnerisch mit IMI Kynoch Ltd: 48,30 Mio. EUR
+davon gesamtschuldnerisch mit:
+(i) Yorkshire Fittings Limited: 9,64 Mio. EUR; und
+(ii) VSH Italia S.r.l: 0,42 Mio. EUR; und
+(iii) Aquatis France SAS: 48,30 Mio. EUR; und
+(iv) Simplex Armaturen +
+Fittings GmbH & Co. KG: 48,30 Mio. EUR
+2. Aquatis France SAS und Simplex Armaturen +
+Fittings GmbH & Co. KG sind gesamtschuldnerisch
+haftbar für den zusätzlichen Betrag von: 2,04 Mio. EUR
+
+c) Advanced Fluid Connections plc: 18,08 Mio. EUR
+davon gesamtschuldnerisch mit:
+
+DE 136 DE
+
+(i) IBP Limited: 11,26 Mio. EUR; und
+(ii) International Building Products France SA: 5,63 Mio. EUR
+
+d) Delta plc gesamtschuldnerisch mit
+Delta Engineering Holdings Limited: 28,31 Mio. EUR
+davon gesamtschuldnerisch mit:
+(i) Druryway Samba Limited: 28,31 Mio. EUR; und
+(ii) International Building Products GmbH: 2,81 Mio. EUR; und
+(iii) International Building Products France SA: 5,63 Mio. EUR; und
+(iv) Aldway Nine Limited: 28,31 Mio. EUR; und
+(v) Supergrif SL: 0,59 Mio. EUR
+
+e) Flowflex Holdings Ltd
+gesamtschuldnerisch mit Flowflex Components Ltd: 1,34 Mio. EUR
+
+f) FRA.BO S.p.A 1,58 Mio. EUR
+
+g) Legris Industries SA: 46, 80 Mio. EUR
+davon gesamtschuldnerisch mit
+Comap SA: 18,56 Mio. EUR
+
+h) Tomkins plc gesamtschuldnerisch
+mit Pegler Ltd 5,25 Mio. EUR
+
+i) Kaimer GmbH & Co. Holdings KG 7,97 Mio. EUR
+davon gesamtschuldnerisch mit:
+(i) SANHA Kaimer GmbH & Co. KG: 7,97 Mio. EUR; und
+(ii) Sanha Italia srl: 7,15 Mio. EUR
+
+j) Viega GmbH & Co. KG 54,29 Mio. EUR
+
+Die Geldbußen sind binnen drei Monaten ab Zustellung dieser Entscheidung in Euro auf das
+Konto Nr. 642-0029000-95 der Europäischen Kommission bei der Banco Bilbao Vizcaya
+Argentaria S.A., Avenue des Arts 43, B - 1040 Brüssel (SWIFT-Code: BBVABEBB –
+IBAN: BE76 6420 0290 0095) einzuzahlen. Nach Ablauf dieser Frist werden automatisch
+Zinsen zu dem Satz fällig, der von der Europäischen Zentralbank bei ihren
+Hauptrefinanzierungsgeschäften am ersten Tag des Monats angewandt wird, in dem diese
+Entscheidung erlassen wurde, zuzüglich 3,5 Prozentpunkte, d. h. 6,5 %.
+
+Artikel 3
+
+Die in Artikel 1 aufgeführten Unternehmen stellen die dort genannten Zuwiderhandlungen
+unverzüglich ab, soweit dies nicht bereits geschehen ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 genannten Handlungen oder
+Verhaltensweisen sowie von allen Handlungen oder Verhaltensweisen ab, die denselben oder
+einen ähnlichen Zweck bzw. dieselbe oder eine ähnliche Wirkung haben.
+
+DE 137 DE
+
+Artikel 4
+
+Diese Entscheidung ist gerichtet an:
+
+– Aalberts Industries NV, Sandenburgerlaan 4, 3947 CS Langbroek, Niederlande
+
+– Aquatis France SAS, Z.I. des Forges - B.P.6, 1 rue Jacques Dufrasne, 45380 La
+Chapelle Saint-Mesmin, Frankreich
+
+– Simplex Armaturen + Fittings GmbH & Co. KG, Isnyer Str. 28, 88260
+Argenbühl, Deutschland
+
+– VSH Italia S.r.l., Via E. Mattei 15-17, 22070 Bregnano, Italien
+
+– Yorkshire Fittings Limited, Haigh Park Road, Stourton, LS10 1 RT Leeds,
+Vereinigtes Königreich
+
+– Advanced Fluid Connections plc, c/o KPMG LLP, The Embankment, Neville
+Street, Leeds, LS1 4DW, Vereinigtes Königreich
+
+– IBP Limited, Whitehall Road, Tipton, West Midlands, DY4 7JU, Vereinigtes
+Königreich
+
+– International Building Products France SA, 13 Rue Jean Pierre Timbaud,
+78500 Sartrouville, Frankreich
+
+– International Building Products GmbH, Erdkauter Weg 17, 35394 Giessen,
+Deutschland
+
+– Delta plc, 2nd Floor, Bridewell Gate, 9 Bridewell Place, EC4V 6AW London,
+Vereinigtes Königreich
+
+– Aldway Nine Limited, Chiltern House, 24-30 King Street, Watford,
+Hertfordshire WD18 0BP; Vereinigtes Königreich
+
+– Delta Engineering Holdings Limited, 2nd Floor, Bridewell Gate, 9 Bridewell
+Place, EC4V 6AW London, Vereinigtes Königreich
+
+– Druryway Samba Limited, Chiltern House, 24-30 King Street, Watford,
+Hertfordshire WD18 0BP; Vereinigtes Königreich
+
+– Flowflex Holdings Ltd, Samuel Blaser Works, Tongue Lane Industrial Estate,
+Buxton, Derbyshire SK17 7LR, Vereinigtes Königreich
+
+– Flowflex Components Ltd, Samuel Blaser Works, Tongue Lane Industrial
+Estate, Buxton, Derbyshire SK17 7LR, Vereinigtes Königreich
+
+– FRA.BO S.p.A, Via Circonvallazione 7, 26020 Bordolano (Cremona), Italien
+
+– IMI plc, Lakeside, Solihull Parkway, Birmingham Business Park, Birmingham
+B37 7XZ, Vereinigtes Königreich
+
+DE 138 DE
+
+– IMI Kynoch Ltd, Solihull Parkway, Birmingham Business Park, Birmingham
+B37 7XZ, Vereinigtes Königreich
+
+– Legris Industries SA, 74 Rue de Paris, 35000 Rennes, Frankreich
+
+– Comap SA, 16 Avenue Paul Santy, B.P. 8211, 69355 Lyon Cedex 08, Frankreich
+
+– Mueller Industries Inc., 8285 Tournament Drive, Memphis, Tennessee 38125,
+USA
+
+– Mueller Europe Ltd., Oxford Street, Bilston, West Midlands WV14 DS,
+Vereinigtes Königreich
+
+– WTC Holding Company, Inc., c/o The Corporation Company, 30600
+Telegraph Road, Bingham Farms, Michigan 48025, USA
+
+– Pegler Ltd, St. Catherine’s Avenue, Doncaster, South Yorkshire DN4 8DF,
+Vereinigtes Königreich
+
+– SANHA Kaimer GmbH & Co. KG, Im Teelbruch 80, 45219 Essen, Deutschland
+
+– Kaimer GmbH & Co. Holdings KG, Im Teelbruch 80, 45219 Essen,
+Deutschland
+
+– Sanha Italia srl, c/o SANHA Kaimer GmbH & Co. KG, Im Teelbruch 80,
+45219 Essen, Deutschland
+
+– Supergrif SL, Calle Ramon de Trinxeria 1, Pol. Ind. el Plá, 08980 Sant Feliu de
+Llobregat (Barcelona), Spanien
+
+– Tomkins plc, East Putney House, 84 Upper Richmond Road, London SW15
+2ST, Vereinigtes Königreich
+
+– Viega GmbH & Co. KG, Ennester Weg 9, 57439 Attendorn, Deutschland
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag [und Artikel 110
+EWR-Abkommen].
+
+Brüssel, den 20.09.2006
+
+Für die Kommission
+Neelie KROES
+Mitglied der Kommission
+
+DE 139 DE
+
+ANHANG
+
+Größe und relative Bedeutung in der Fittingsbranche in den Jahren 2000 und 2003
+
+Unternehmen EWR Umsatz Marktanteile EWR Umsatz Marktanteile
+(2000) (2000) (2003) (2003)
+
+(Wert in Mio. (Wert in %) (Wert in Mio. (Wert in %)
+EUR) EUR)
+
+Delta-Gruppe 100 - 150 20 – 30 % --- ---
+
+Advanced --- --- 50 - 100 10 – 20 %
+Fluid
+Connections
+
+IMI-Gruppe 100 - 150 20 – 30 % --- ---
+
+Aalberts- 0 - 50 0 – 10 % 100 - 150 20 – 30 %
+Gruppe
+
+Comap 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+
+Legris --- --- --- ---
+
+Frabo 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+
+Mueller 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+
+Pegler 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+
+Tomkins- --- --- --- ---
+Gruppe
+
+Flowflex 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+
+Sanha 0 - 50 0 – 10 % 0 - 50 0 – 10 %
+Kaimer
+
+Viegener 150 - 200 20 – 30 % 150 - 200 30 – 40 %
+
+aggregierter 510.876 501.673
+Anteil
+
+Sonstige 26.89 5.00 26.4 5.00
+
+GESAMT 537.77 100.00 528.07 100.00
+
+DE 140 DE
+
+DE 141 DE

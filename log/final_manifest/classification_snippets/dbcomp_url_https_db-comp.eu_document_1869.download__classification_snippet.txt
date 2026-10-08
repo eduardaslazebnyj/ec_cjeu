@@ -1,0 +1,464 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39523 – SLOVAK TELEKOM
+
+(Only the German and English text are authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+
+Date: 15/10/2014
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 15.10.2014
+C(2014) 7465 final
+
+Public version
+
+COMMISSION DECISION
+
+of 15.10.2014
+
+relating to proceedings under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(AT.39523 - Slovak Telekom)
+
+(Only the German and English texts are authentic)
+
+EN EN
+
+Table of Contents
+
+1. INTRODUCTION..................................................................................................... 14
+2. PARTIES TO THE PROCEEDINGS....................................................................... 15
+2.1. Slovak Telekom a.s. ('ST') .............................................................................. 15
+2.1.1. The relationship between the shareholders of ST ............................. 15
+2.1.2. The corporate structure of ST............................................................ 15
+2.1.2.1. The Board of Directors ('BoD')......................................... 16
+2.1.2.2. The Supervisory Board ('SuB').......................................... 16
+2.1.2.3. The General Assembly of Shareholders ('GAS')............... 17
+2.1.2.4. The non-statutory management bodies within ST - the
+Executive Management Board ('EMB') ............................ 17
+2.2. Deutsche Telekom AG ('DT').......................................................................... 18
+3. PROCEDURE........................................................................................................... 18
+4. THE INDUSTRY: SLOVAK TELEKOM A.S. AND OTHER RELEVANT
+MARKET PLAYERS OFFERING BROADBAND SERVICES IN THE
+SLOVAK REPUBLIC .............................................................................................. 20
+4.1. Introduction ..................................................................................................... 20
+4.2. Slovak Telekom a.s. ........................................................................................ 20
+4.2.1. ST's activities in the telecommunication sector ................................ 20
+4.3. Other relevant market players ......................................................................... 21
+4.3.1. Fixed national level operators ........................................................... 21
+4.3.2. Fixed operators with a specific focus................................................ 23
+4.3.3. Fixed regional and local operators .................................................... 24
+4.3.4. Mobile operators................................................................................ 24
+4.4. Regulatory framework for unbundling access to the local loop in the
+Slovak Republic .............................................................................................. 25
+4.5. Unbundling of metallic local loops ................................................................. 29
+4.6. Network coverage of ST's DSL network which can be used for the
+provision of retail broadband services after the local loops have been
+unbundled from ST's network ......................................................................... 31
+4.6.1. Number of households that could in theory be supplied over ST's
+local loops with broadband services.................................................. 31
+4.6.2. "Service coverage" of ST's local loop network................................. 33
+4.6.3. "Technical coverage" of ST's local loop network ............................. 35
+4.6.4. Rejected requests of new ST broadband retail customers due to
+technical network limitations ............................................................ 37
+4.6.5. ST's network included in the technical coverage is far from being
+fully used........................................................................................... 37
+4.6.6. The coverage of ST's ULL network is larger than the coverage of
+its "DSL enabled network"................................................................ 39
+5. MARKET DEFINITION .......................................................................................... 43
+
+EN 3 EN
+
+5.1. Relevant product markets................................................................................ 43
+5.1.1. Introduction ....................................................................................... 43
+5.1.2. The retail mass market for broadband services offered at a fixed
+location.............................................................................................. 44
+5.1.2.1. Substitutability between fixed broadband services and
+mobile broadband services................................................ 46
+5.1.2.1.1 Quality of fixed and mobile broadband services............... 47
+5.1.2.1.2 Data usage profiles of fixed and mobile broadband
+services.............................................................................. 53
+5.1.2.1.3 Prices of fixed and mobile broadband services................. 56
+5.1.2.1.4 Switching between fixed and mobile broadband services 59
+5.1.2.1.5 Quantitative analysis which estimates retail demand for
+broadband internet access in the Slovak Republic
+presented by ST................................................................. 60
+5.1.2.2. Conclusion on the exclusion of mobile broadband
+services from the retail mass market for broadband
+services.............................................................................. 64
+5.1.3. The wholesale market for access to unbundled local loops .............. 64
+5.1.3.1. Introduction....................................................................... 64
+5.1.3.2. Access to unbundled local loops (ULL)............................ 66
+5.1.3.2.1 Unbundling of fibre networks is not part of the
+wholesale market for unbundling metallic local loops...... 66
+5.1.3.2.2 Unbundling of cable networks is not part of the
+wholesale market for unbundling metallic local loops...... 69
+5.1.3.2.3 Unbundling of the fixed wireless access (FWA)
+networks in the Slovak Republic is not possible and is
+not part of the market for access to ULL .......................... 70
+5.1.3.2.4 Unbundling of the mobile networks is not part of the
+wholesale market for unbundling metallic local loops...... 71
+5.1.3.2.5 WBA (national (at IP-level) or regional (at
+ATM/Ethernet-level)) is not part of the relevant
+wholesale market in the Slovak Republic ......................... 72
+5.1.3.2.6 Conclusion on the definition of the relevant wholesale
+market for access to the unbundled local loops................. 74
+5.1.3.3. No need to show indispensability of ULL as wholesale
+input for the provision of broadband retail services, as
+claimed by ST in the reply to the SO ................................ 74
+5.1.3.4. There is no rule requiring an analysis of the retail
+markets concerned first, before a wholesale market can
+be defined.......................................................................... 76
+5.1.3.5. The definition of the relevant market can take account of
+inter alia the legally binding regulatory obligations......... 76
+5.1.3.6. Indirect constraints from competition in retail broadband
+market should not be taken into account when defining
+the wholesale market for access to ULL ........................... 79
+
+EN 4 EN
+
+5.1.3.7. Conclusion on the definition of the relevant wholesale
+product market................................................................... 82
+5.1.4. The relevant geographic markets ...................................................... 82
+5.1.4.1. Geographic scope of the retail mass market for
+broadband services offered at a fixed location.................. 82
+5.1.4.2. Geographic scope of the wholesale market for access to
+ULL ................................................................................... 87
+5.1.4.2.1. ST's and DT's views on the definition of the relevant
+geographic wholesale market for access to ULL .............. 88
+5.2. Conclusion....................................................................................................... 90
+6. DOMINANCE .......................................................................................................... 90
+6.1.1. Introduction ....................................................................................... 90
+6.1.2. Dominance in the wholesale market for access to the unbundled
+local loops.......................................................................................... 91
+6.1.2.1. Market structure of the wholesale market for access to
+the unbundled local loops.................................................. 91
+6.1.2.2. Barriers to entry in the wholesale market for access to
+the unbundled local loops.................................................. 92
+6.1.2.3. Absence of countervailing buyer power and of
+appropriate demand-side negotiating power ..................... 94
+6.1.2.4. Arguments of ST based on an incorrect definition of the
+relevant market.................................................................. 95
+6.1.2.5. Indirect constraints stemming from competition in the
+retail market....................................................................... 95
+6.1.2.6. Quantitative analysis which estimates indirect
+constraints presented by ST............................................... 97
+6.1.2.7. Conclusion on the dominance on the wholesale market
+for access to the unbundled local loops............................. 98
+6.1.3. Dominance on the retail mass market for broadband services
+offered at a fixed location.................................................................. 98
+6.1.3.1. Introduction....................................................................... 98
+6.1.3.2. The analysis of market shares ........................................... 98
+6.1.3.3. Existing competitors do not provide sufficient
+constraints to ST.............................................................. 101
+6.1.3.4. AOs face significant barriers to entry and expansion ..... 106
+6.1.3.5. Customers do not exercise any appreciable
+countervailing buyer power............................................. 108
+6.1.3.6. Arguments of ST ............................................................. 108
+6.1.3.7. Conclusion on dominance of ST on the retail mass
+market for broadband services offered at a fixed location112
+7. REFUSAL TO SUPPLY......................................................................................... 113
+7.1. Legal framework for the assessment of abusive refusal to supply................ 113
+
+EN 5 EN
+
+7.2. The ex-ante obligation to give access to ULL to AOs which was imposed
+on ST by the competent Slovak telecoms authorities under the applicable
+regulatory regime .......................................................................................... 117
+7.3. The importance for AOs of an efficient ULL-based wholesale access to
+xDSL ............................................................................................................. 120
+7.4. ST's exclusionary strategy to protect its dominant position on the relevant
+market............................................................................................................ 123
+7.5. AOs were strongly interested in having access to ST's local loops .............. 126
+7.5.1. Negotiations with GTS Slovakia..................................................... 130
+7.5.2. Negotiations with Slovanet ............................................................. 132
+7.5.3. Orange's request for intervention to TUSR..................................... 134
+7.6. ST's unfair terms and conditions................................................................... 135
+7.6.1. Overview of the RUO contracting process...................................... 135
+7.6.2. ST withheld from AOs network information necessary for the
+unbundling of the local loops.......................................................... 137
+7.6.2.1. ST's RUO does not contain appropriate information
+about ST's access network........................................... 138
+7.6.2.2. ST provides upon AOs' request only insufficient
+network information.................................................... 139
+7.6.2.2.1 ST does not provide any network information
+regarding the availability of its local loops ................. 139
+7.6.2.2.1.1 The scope of the information provided by ST.............. 139
+7.6.2.2.1.2 ST does not provide any information regarding the
+availability of its local loops, contrary to its legal and
+regulatory obligations................................................. 140
+7.6.2.2.1.3 AOs need network information on the availability of
+ST's local loops............................................................ 142
+7.6.2.2.1.4 AOs's concerns regarding insufficient information on
+the availability of ST's local loops .............................. 143
+7.6.2.2.1.5 Other RUOs from other European Union telecoms
+incumbents show that AOs are entitled to receive a
+wide range of network information ............................. 145
+7.6.2.2.1.6 ST's argument that it was not capable of providing
+additional information on the availability of its local
+loops, as it "was not available, due to technical
+limitations".................................................................. 147
+7.6.2.2.2 The network information provided by ST regarding
+the location of its physical access sites and their
+catchment areas is incomplete, unclear, given late in
+the process and onerous............................................... 148
+7.6.2.2.2.1 The network information which ST does provide is
+incomplete ................................................................... 148
+7.6.2.2.2.2 The scope of ST's network information regarding the
+accessibility to its local loops is unclear..................... 151
+7.6.2.2.2.3 ST's network information regarding the accessibility
+of its local loops is given late in the process............... 152
+
+EN 6 EN
+
+7.6.2.2.2.4 ST only provides network information against
+payment ....................................................................... 154
+7.6.2.3. ST did not include in the RUO any templates for
+requests to be submitted by AOs but nevertheless
+requested penalty payments for requests considered as
+incomplete ................................................................... 156
+7.6.3. ST unjustifiably reduced the scope of its ULL obligation .............. 157
+7.6.3.1. ST unjustifiably excluded passive lines from the
+scope of i
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+r it is up to ST's BoD to finally decide on
+network infrastructure issues. Further, contact between DT network technology and
+ST is limited to technical aspects and does not cover market-related decisions."15
+124. DT's unit 'IT Europe' (part of the 'Europe division') is also in contact with ST. DT in
+its reply to the request for information provides the following explanation: "before
+2008, contacts between DT and ST on IT issues were sporadic. While contacts become
+more frequent after 2008, IT Europe and the departments of ST and other SEE
+affiliates still only meet from time-to-time to exchange general information. They
+discuss and assess, for instance, cost saving methods and common standards with
+respect to the IT infrastructure" and "jointly evaluate common platforms and IT
+systems"16. DT further argues that it does not select systems and platforms for ST, but
+it rather "discusses opportunities for selecting common systems and platforms to
+achieve synergies"17 and the affiliates remain free to choose whether they adopt such a
+system or platform. DT in addition to this remarks "in general, consultation with DT
+regarding IT systems only occurs at all if ST intends to deviate from an existing
+common group standard. In any event, decisions concerning the implementation of IP
+systems or platforms remain in the sole responsibility of ST's BoD."18
+125. DT's Human Resources International unit (HR International) cooperates with ST
+concerning personnel exchanges. The personnel exchanges are based on the
+'Agreement on International Lease of Personnel'19. Under this agreement, DT
+undertakes to "provide employees to ST for execution of professional and management
+services" and ST undertakes to pay a fee to DT for this. The leased persons remain
+
+14 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 4 – 5, Non confidential Doc
+ID3248.
+15 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 5, Non confidential Doc
+ID3248.
+16 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 6, Non confidential Doc
+ID3248.
+17 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 6, Non confidential Doc
+ID3248.
+18 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 6, Non confidential Doc
+ID3248.
+19 Agreement on International Lease of Personnel concluded between ST and DT on 19 December 2003,
+Attachment RFI100624_Q3_Annex1 to DT's reply to the request for information of 24 June 2010, Doc
+ID3250.
+
+EN EN
+
+employees of DT20. ST may reject the employee if the individual is unable to perform
+the required tasks adequately. The leased personnel will work based on ST's
+instructions; leased personnel who are EMB members receive instructions from the
+BoD21.
+126. DT explains in this context that "DT HR International's main function is to provide
+support to DT's international affiliates and to put at their disposal the HR tools.
+[Description of recruitment process for leased personnel]."22 DT further argues that ST
+is independent as regard human resources and the recruiting decisions, including those
+of senior management are taken by ST's BoD23.
+127. As regards other DT units in contact with ST, DT mentions in its reply to the
+request for information also units dealing with products and innovations, legal affairs
+(Legal Affairs Auslandsbeteiligungen) and brand management (within DT's corporate
+headquarters focusing on providing assistance with the use of the T-brands)24.
+Corporate communications (International Communications Unit established in 2008)
+is in contact with ST over press and communication issues, occasionally developing
+joint wording regarding critical communication issues. ST provides DT with
+overviews of the Slovak press and draft press releases regarding its financial results.
+DT in this context argues that ST is free to choose whether it will take DT's comments
+into consideration25.
+128. In addition to DT units discussed above the TRIG (Treasury and International
+Business) is also in contact with ST. An email of 15 February 2006 sent by a DT
+employee to ST's regulatory department explains that it is "a recently created unit at
+DT Headquarters that is reporting directly to Dr. Eick, DT's Chief Financial Officer.
+This unit deals with the CEE affiliates from a shareholder point of view."26 The
+Commission further observes based on the corporate chart submitted by DT in reply to
+the request for information27 that numerous other units deal with South and East
+European affiliates, for instance the department 'Finance SEE' consists of 4 units the
+functions of which involve financial and functional controlling, corporate finance and
+corporate governance issues for South and East European affiliates.
+
+20 Article 1 of the Agreement on International Lease of Personnel concluded between ST and DT on 19
+December 2003, Attachment RFI100624_Q3_Annex1 to DT's reply to the request for information of 24
+June 2010, Doc ID3250.
+21 Articles 2 and 4 of the Agreement on International Lease of Personnel concluded between ST and DT
+on 19 December 2003, Attachment RFI100624_Q3_Annex1 to DT's reply to the request for information
+of 24 June 2010, Doc ID3250.
+22 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 10, Non confidential Doc
+ID3248.
+23 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 10, Non confidential Doc
+ID3248.
+24 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 6-8, Non confidential Doc
+ID3248.
+25 DT's reply to the request for information of 24 June 2010, Doc ID2352, p. 8, Non confidential Doc
+ID3248.
+26 Email from 15 February 2006, Annex Q_5_282 to ST's reply to the request for information of 24 June
+2010, Doc 3216.
+27 Corporate Chart of DT illustrating Area Management Slovakia's position within DT (Attachment
+RFI_100624_Q2_Annex1 to DT's reply to the request for information of 24 June 2010), Doc ID2350
+(CDlist), Non confidential Doc ID3249.
+
+EN EN
+
+Annex IV to footnote 1798 - for DT only
+
+"Durch den Kauf wird die Deutsche Telekom über ST die volle Managementkontrolle an der
+EuroTel (die z. Zt. durch starke Minoritätenrechte mitbestimmt wird) erhalten. Diese wird nur
+durch die bestehenden Minderheitsrechte des slowakischen Staates bei ST eingeschränkt, die
+sich im Wesentlichen auf [...] beziehen. In der Vergangenheit konnte hierzu immer Einigkeit
+zwischen den beiden Gesellschaftern der ST erzielt werden."
+Translation by the European Commission services: As a consequence of the acquisition,
+Deutsche Telkom will obtain full management control over EuroTel (which is currently
+codetermined by strong minority rights) via ST. The obtained management control is only
+limited by the existing minority rights of the Slovak State on ST, which primarily relate to
+[...]. In the past, consensus between the two shareholders/partners of ST has always been
+reached on these matters.
+
+EN EN
+
+Annex V to paragraph 1292 a) – for DT only
+
+[DT's assessment of a certain technology strategy].
+
+EN EN
+
+Annex VI to paragraph 1292 b) – for DT only
+
+[Short description of a ST project from DT's point of view and reasons for a certain voting
+recommendation].
+
+EN EN
+
+Annex VII to paragraph 1315 – for DT only
+
+"We prepare an appropriate "recommendation" by Dr. Hohmann to ST. Without such a
+recommendation, with an emphatically pronounced "please", I think it is not possible in the
+future, to catch up with such a process in time."
+
+EN EN
+
+Annex VIII to footnote 1894 - for DT only
+
+"Gerne bereiten wir eine entsprechende "Empfehlung" von Herrn Dr. Höhmann an die ST vor.
+Ohne eine solche, mit Nachdruck ausgesprochene "Bitte", halte ich es auch in Zukunft nicht
+für möglich, rechtzeitig solche Prozeße aufzufangen."
+
+For translation see Annex VII.
+
+EN EN
+
+Annex IX to footnote 1895 - for DT only
+
+[DT's experience resulting from the cooperation with undertakings in which DT is a
+shareholder.]
+
+EN EN
+
+Annex X to paragraph 1347 - for DT only
+
+"IMMs were intended as a means to obtain a general overview of ST’s business development
+with regard to the targets determined in the financial planning, in particular EBITDA and cash
+flow."
+
+EN EN
+
+Annex XI to footnote 2063 - for DT only
+
+"pushing project [β] to receive approval via DT Board Members in ST's decision making
+bodies."
+
+EN EN
+
+Annex XII to footnote 2083 - for DT only
+
+"[Assessment of the way forward made by a DT department]."
+
+EN EN
+
+Annex XIII to footnote 2123 - for DT only
+
+[Confidential number]
+
+EN EN
+
+Annex XIV to footnote 2123- for DT only
+
+[Confidential number]
+
+EN EN
+
+Annex XV to paragraph 1440 – for DT only
+
+[DT internal position and assessment of the risks associated with project λ and conclusion that
+this project should not be further pursued and ended.]
+
+EN EN
+
+Annex XVI to paragraph 1462 – for DT only
+
+[Citation from a confidential document].
+
+EN EN
+
+Annex XVII to footnote 2163 – for DT only
+
+"Durch den Kauf wird die Deutsche Telekom über ST die volle Managementkontrolle an der
+EuroTel (die z. Zt. durch starke Minoritätenrechte mitbestimmt wird) erhalten. Diese wird nur
+durch die bestehenden Minderheitsrechte des slowakischen Staates bei ST eingeschränkt, die
+sich im Wesentlichen auf [...]. In der Vergangenheit konnte hierzu immer Einigkeit zwischen
+den beiden Gesellschaftern der ST erzielt werden."
+Translation by the European Commission services: "As a consequence of the acquisition,
+Deutsche Telkom will obtain full management control over EuroTel (which is currently
+codetermined by strong minority rights) via ST. The obtained management control is only
+limited by the existing minority rights of the Slovak State on ST, which primarily relate to
+[...]. In the past, consensus between the two shareholders/partners of ST has always been
+reached on these matters".
+
+EN EN
+
+Annex XVIII to footnote 2164 - for DT only
+
+[Citation from a confidential document].
+
+EN EN
+
+Annex XIX to paragraph 1465 – for DT only
+
+[Citation from a confidential document].
+
+EN EN

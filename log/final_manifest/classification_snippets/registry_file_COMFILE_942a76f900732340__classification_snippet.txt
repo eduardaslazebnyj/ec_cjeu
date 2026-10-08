@@ -1,0 +1,532 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 26 octobre 2004
+..
+
+DÉCISION DE LA COMMISSION
+
+du 26 octobre 2004
+
+relative à une procédure d’application de l’article 81 du traité CE
+
+(Affaire COMP/38662 – GDF – décision GDF/ENEL)
+
+(Les textes en langues française et italienne sont les seuls faisant foi)
+
+FR FR
+
+DÉCISION DE LA COMMISSION
+
+du 26 octobre 2004
+
+relative à une procédure d'application de l'article 81 du traité CE
+
+(Affaire COMP/38662 – GDF – décision GDF/ENEL)
+
+(Les textes en langues française et italienne sont les seuls faisant foi)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu le règlement n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des
+règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 7,
+
+vu la décision de la Commission du 26 février 2004 d’engager la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission conformément à l’article 19, paragraphe 1, du
+règlement n° 17 du Conseil du 6 février 1962, premier règlement d’application des articles 85
+et 86 du traité2 et à l’article 2 du règlement (CE) n° 2842/98 de la Commission du 22
+décembre 1998 relatif à l’audition dans certaines procédures fondées sur les articles 85 et 86
+du traité CE3,
+
+après consultation du comité consultatif en matière d’ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire4,
+
+considérant ce qui suit :
+
+1 JO L 1 du 4.1.2003, p. 1. Règlement modifié par le règlement (CE) n° 411/2004 (JO L 68 du 6.3.2004,
+p. 1).
+
+2 JO 13 du 21.2.1962, p. 204/1962. Règlement abrogé par le règlement (CE) n° 1/2003.
+
+3 JO L 354 du 30.12.1998, p. 18. Règlement abrogé par le règlement (CE) n° 773/2004 (JO L 123 du
+27.4.2004, p. 18).
+
+4 JO C
+
+FR 2 FR
+
+1. INTRODUCTION – OBJET DE L'AFFAIRE
+
+(1) La présente décision vise une clause imposant une restriction territoriale à la vente de
+gaz naturel présente dans un contrat de service conclu par Gaz de France (ci-après
+« GDF ») avec ENEL S.p.A., et cédé ensuite par cette dernière à ENEL Trade S.p.A.
+(ci-après « ENEL Trade ») Cette clause impose que le gaz objet du contrat de service
+soit utilisé en Italie.
+
+(2) Dans le cadre de la présente affaire, la Commission a également examiné une clause
+de restriction territoriale contenue dans un contrat de transit conclu par GDF avec
+l'entreprise italienne ENI S.p.A. (ci-après « ENI »)5. Cette clause fait l'objet de la
+décision de la Commission du 26 octobre 2004 dans l’affaire GDF (notifiée sous le
+numéro C(2004)4101).
+
+2. LES PARTIES
+
+2.1. Gaz de France
+
+(3) GDF est un établissement public à caractère industriel et commercial (EPIC) créé par
+la loi n° 46-628 du 8 avril 1946, qui lui avait confié la gestion des activités
+nationalisées du secteur gazier6. Aujourd'hui, GDF est à la tête d'un groupe actif dans
+l'exploration, la production, l'importation, le transport, la distribution et la vente du gaz
+naturel, ainsi que dans les services, et elle est présente dans 33 pays7. Notamment en
+France, outre l'EPIC8, une autre société du groupe GDF, la Compagnie Française
+du Méthane (CFM)9, est également active dans le transport et la vente du gaz naturel.
+
+(4) Le chiffre d'affaires du groupe GDF en 2003 s'élevait à 16 647 millions d’euros10.
+
+5 Voir, sur cette clause et sur le contrat qui la contient, le considérant (91) et la note de bas de page n° 85.
+
+6 Avant la fin de l'année 2004, GDF cessera d'être un EPIC et deviendra une société anonyme, comme
+prévu par la loi n° 2004-803 du 9 août 2004 (JORF n° 185 du 11 août 2004).
+
+7 Voir Gaz de France, "Rapport annuel 2001", p. 1.
+
+8 Sauf précision contraire, toute mention des activités de GDF dans la présente décision doit s'entendre
+comme se référant exclusivement aux activités de l'EPIC.
+
+9 Conformément aux informations fournies dans Gaz de France, "Rapport annuel 2001", p. 4, et sur le
+site Internet de CFM (http://www.cfm-gaz.fr/fr), GDF détient 55 % du capital de CFM, les 45 %
+restants étant détenus par Total SA. Selon un communiqué de presse de la Commission de régulation de
+l'énergie, dans le passé Commission de régulation de l'électricité, du 17 décembre 2003, GDF aurait
+signé avec Total un protocole d'accord aux termes duquel GDF devrait devenir le seul actionnaire
+de CFM.
+
+10 Voir Gaz de France, "Comptes consolidés 2003", p. 14.
+
+FR 3 FR
+
+2.2. ENEL S.p.A.
+
+(5) ENEL S.p.A, société chef de file du groupe ENEL (ci-après « ENEL »), a été créée
+en 1992 suite à la transformation en société anonyme de l'ancien Ente Nazionale per
+l'Energia Elettrica, l'entreprise de production et de commercialisation d'énergie
+électrique longtemps bénéficiaire d'un droit exclusif à la vente d'électricité en Italie.
+Suite à la libéralisation du secteur électrique italien, ENEL a entrepris une
+diversification de ses activités, qui comprend notamment l'entrée dans le secteur gazier
+en tant que grossiste/distributeur ainsi que dans les secteurs de l'eau et des
+télécommunications. En même temps, ENEL met en œuvre une stratégie d'expansion à
+l'étranger, notamment en Espagne, en Europe de l'Est et en Amérique.
+
+(6) En 2003, ENEL avait un chiffre d'affaires de 31 317 millions d’euros11.
+
+2.3. ENEL Trade
+
+(7) ENEL Trade est une société du groupe ENEL entièrement contrôlée
+par ENEL S.p.A.12. Elle a été constituée le 30 décembre 1999 avec la dénomination de
+ENEL F.T.L. S.p.A. (ci-après « ENEL F.T.L. ») et avec, pour objet social, l’exercice
+notamment des activités d’achat et de vente de combustible et les services auxiliaires
+correspondants. En effet, suite à la réorganisation sociétaire du groupe, ENEL S.p.A.
+avait gardé exclusivement les fonctions de "holding" tandis que les tâches
+opérationnelles avaient été confiées à différentes sociétés du groupe. Dans ce contexte,
+"depuis le 1er juin 2000", ENEL F.T.L. s’est vu confier la "tâche primaire de garantir
+aux sociétés de production du Groupe l’approvisionnement des combustibles
+nécessaires à l’alimentation des installations de production et les services auxiliaires
+correspondants", et notamment la négociation de nouveaux contrats d’achat et de vente
+de combustibles et de services associés et la poursuite d’éventuelles négociations déjà
+en cours pour la stipulation de ces types de contrats, ainsi que "la gestion au nom et
+pour le compte de ENEL S.p.A. de tous les contrats d’achat des combustibles et des
+services associés qui y sont liés"13. La dénomination de ENEL F.T.L. a été modifiée en
+ENEL Trade en date du 20 janvier 2003. Aujourd’hui, ses activités couvrent
+également l’énergie électrique.
+
+11 Voir le site Internet d'ENEL (http://www.enel.it).
+
+12 Le 31 janvier 2003, selon les informations fournies par ENEL par courrier électronique du 7 avril 2003,
+ENEL S.p.A. détenait directement 99,20 % du capital de ENEL Trade. 0,79 % du capital était contrôlé
+par ENEL Produzione S.p.A., tandis que le 0,01 % restant était détenu par CISE s.r.l., ENEL
+Produzione S.p.A et CISE s.r.l. étant les deux filiales à 100 % de ENEL S.p.A. Ces informations sont
+confirmées dans ENEL "Bilancio consolidato, 2000", p. 158, ENEL "Bilancio consolidato, 2001",
+p. 159, et ENEL "Bilancio consolidato, 2002", p. 182.
+
+13 Voir notamment les lettres de ENEL S.p.A. et ENEL F.T.L. S.p.A. du 20 juillet 2000 communiquant
+à GDF la constitution et les modalités opérationnelles de ENEL F.T.L., envoyées par ENEL à
+la Commission en annexe à un courrier électronique du 16 janvier 2004.
+
+FR 4 FR
+
+3. LE SECTEUR ET SON CONTEXTE LEGAL ET REGLEMENTAIRE
+
+3.1. Le secteur
+
+(8) La présente décision concerne le secteur du gaz naturel. Le gaz naturel est une source
+primaire d'énergie composée en majorité de produits hydrocarbonés, et notamment de
+méthane. La consommation de gaz naturel constitue 24 % de la consommation
+d'énergie primaire par type de combustible dans la Communauté et 14 % en France14.
+
+(9) Extrait de gisements situés dans le sous-sol terrestre ou marin et traité pour éliminer
+certaines impuretés, le gaz naturel est communément transporté par des gazoducs
+souterrains, ce qui fait du secteur gazier une industrie en réseau (network industry).
+Compte tenu, inter alia, du fait que les réseaux sont caractérisés par des rendements
+d'échelle croissants15 et par des coûts irréversibles et particulièrement importants, ainsi
+que par des temps de construction très longs, qui en rendent généralement la
+duplication non économiquement viable, les gazoducs sont considérés comme des
+monopoles naturels.
+
+(10) En cas de longs trajets, il peut être économiquement intéressant de transporter le gaz
+naturel à l'état liquide dans des navires méthaniers ; il prend, dans ce cas, la
+dénomination de Gaz Naturel Liquéfié (GNL). A l'arrivée au port de destination, le
+gaz devra être à nouveau reconduit à l'état gazeux dans des installations appropriées,
+pour être transporté ensuite à travers des gazoducs16.
+
+(11) La consommation de gaz naturel dans la Communauté a été, en 2001,
+de 403 835 millions de m3, tandis qu'en France elle se chiffrait à 44 915 millions de m3
+et en Autriche elle était de 7 757 millions de m3 17. En 2002, la consommation en
+France et en Autriche s'élevait respectivement à 44 600 millions et 8 200 millions
+de m3 18. Les chiffres provisoires pour la France et l'Autriche en 2003 sont
+respectivement de 46 600 millions et 9 000 millions de m3 19 20.
+
+14 Données se référant à l'année 2001 et figurant dans "Eurogas Annual Report 2001", p. 15.
+
+15 On se réfère au terme de "rendements d'échelle croissants" ou bien de "coûts sous-additifs" quand la
+somme des quantités d'un bien produit par plusieurs entreprises a des coûts de production plus élevés
+par rapport au coût de la même quantité totale dans l'hypothèse où cette quantité aurait été produite par
+une seule entreprise.
+
+16 Les terminaux méthaniers avec installations de regazéification existants en Europe sont les suivants:
+Montoir de Bretagne et Fos sur Mer en France, Zeebrugge en Belgique, Huelva, Cartagena et Barcelone
+en Espagne, Panigaglia en Italie et Revithoussa en Grèce.
+
+17 Données figurant dans "Eurogas Annual Report 2001", p. 17.
+
+18 Données figurant sur le site Internet d'Eurogas (www.eurogas.org).
+
+19 Données figurant sur le site Internet d'Eurogas (www.eurogas.org).
+
+20 Les chiffres concernant la consommation de gaz naturel en 2002 qui figuraient dans la communication
+des griefs adoptée le 26 février 2004 et transmise aux parties étaient les chiffres provisoires fournis
+par Eurogas. La différence entre les chiffres définitifs et les chiffres provisoires (44 600 millions
+et 8 200 millions de m3 vs. 44 400 millions et 7 600 millions de m3, respectivement pour la France et
+
+FR 5 FR
+
+(12) 55,7 % du gaz naturel consommé dans la Communauté y est produit, notamment
+au Royaume-Uni, aux Pays-Bas et au Danemark ainsi qu'en Italie et en Allemagne21.
+Quant à la France, elle importe plus de 97 % du gaz naturel consommé22.
+
+(13) Les importations de gaz naturel dans la Communauté se font en large partie dans le
+cadre de contrats à long terme offrant une flexibilité limitée, ce qui rend le marché
+gazier peu fluide. En effet, les disponibilités en gaz de court et moyen terme pouvant
+contribuer à une concurrence plus active sur le marché gazier sont encore très limitées
+(de l'ordre de 5 à 10 % de la consommation européenne)23 et peuvent apparaître d'une
+manière plus ou moins aléatoire, du fait notamment des arbitrages gaz/électricité
+exercés par des producteurs d'électricité qui utilisent des centrales à cycle combiné et
+des cogénérations24 25.
+
+(14) Le gaz naturel est utilisé principalement dans l'industrie (comme combustible ou, dans
+les industries chimiques et parachimiques, pour la fabrication notamment de gaz de
+synthèse, d'engrais azotés ou d'ammoniac), pour la production d'énergie électrique et
+par les usagers domestiques, pour la cuisine, le chauffage et la production d'eau
+chaude. Les tableaux 1 et 2 montrent les parts des différents types de consommation
+dans la Communauté et en France en 200126.
+
+l'Autriche) est cependant peu significative. La communication des griefs ne mentionnait pas les chiffres
+provisoires de l'année 2003.
+
+21 Données se référant à l'année 2001 et figurant dans "Eurogas Annual Report 2001", p. 18.
+
+22 Voir Commission de régulation de l'électricité, "Rapport sur l'ouverture du marché gazier français,
+24 octobre 2002", p. 7.
+
+23 Voir Commission de régulation de l'électricité, "Rapport sur l'ouverture du marché gazier français,
+24 octobre 2002", p. 8.
+
+24 Les producteurs d'électricité qui s'approvisionnent en gaz pour l'utiliser dans la production d'électricité
+peuvent en effet, selon les circonstances du marché, décider plutôt d'utiliser d'autres capacités de
+production et d'autres combustibles pour la production d'électricité et de commercialiser leur gaz.
+
+25 Voir Commission de régulation de l'électricité, "Rapport sur l'ouverture du marché gazier français,
+24 octobre 2002", p. 32.
+
+26 Données figurant dans "Eurogas Annual Report 2001", p. 17.
+
+FR 6 FR
+
+Tableau 1
+
+Utilisation du gaz naturel dans la
+Communauté
+
+Industries
+5%
+Secteur
+thermoélectrique 38% 31%
+Secteur tertiaire
+
+Usages
+domestiques
+10% 16% Autres
+
+Tableau 2
+
+Utilisation du gaz naturel en France
+
+2%
+Industries
+
+36% Secteur tertiaire
+46%
+Usages
+domestiques
+Autres
+16%
+
+3.2. La structure du secteur gazier et le cadre réglementaire dans la Communauté
+
+(15) La structure du secteur gazier européen a été traditionnellement caractérisée par des
+démarcations horizontales, c'est-à-dire entre différents marchés géographiques, et,
+parfois, par des démarcations verticales, c'est-à-dire entre les différentes phases de la
+chaîne de production, qui limitent les activités des entreprises. Plusieurs Etats
+membres ont longtemps accordé à certaines entreprises des droits spéciaux ou
+exclusifs. Les entreprises du secteur sont souvent intégrées verticalement et sont
+présentes dans toutes les phases de la filière gazière en aval: importation, transport,
+
+FR 7 FR
+
+stockage, distribution et vente aux consommateurs finals. Certaines entreprises
+européennes sont également présentes dans la production, dans leur pays ou à
+l'étranger.
+
+(16) Actuellement, cette structure traditionnelle fait l'objet d'une profonde modification,
+suite au processus de libéralisation en cours dans la Communauté. L'objectif
+fondamental de ce processus est non seulement l'élimination des droits spéciaux ou
+exclusifs dans chaque Etat membre mais aussi la création d'un marché intégré du gaz
+naturel à l'échelle européenne. En effet, par l'ouverture de la demande, qui s'est faite de
+manière graduelle, le processus de libéralisation vise à offrir aux consommateurs
+européens, qui souvent ne pouvaient s'approvisionner qu'auprès du monopole actif au
+niveau national, régional ou local, la possibilité de choisir entre les offres de plusieurs
+entreprises, aussi bien nationales qu'étra
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ L'INFRACTION
+
+(146) Comme le Contrat de Service a été conclu le 17 décembre 1997, l'infraction pourrait
+être considérée comme ayant débuté à cette date.
+
+(147) Compte tenu des spécificités du secteur gazier et des circonstances particulières de
+l’espèce, il serait possible également de prendre en considération, afin d'établir le
+début de l'infraction, le moment à partir duquel la clause contestée pouvait entraver les
+exportations de gaz naturel vers d'autres Etats membres, et notamment le fait que les
+livraisons de gaz nigérian n'ont pu débuter que le 1er octobre 1999 et qu'à partir de
+cette date le Contrat de Service a également pris effet160.
+
+(148) Depuis lors, GDF a notamment relivré à ENEL des volumes de GNL à Panigaglia et
+des volumes de gaz naturel transporté par gazoduc à Baumgarten. ENEL aurait pu
+donc, en l'absence de la clause contestée, utiliser librement le gaz objet du Contrat
+de Service et le revendre dans des Etats membres autres que l’Italie, par exemple en
+Autriche. Dans ce pays, notamment, le gaz aurait pu être vendu,
+depuis le 1er octobre 1999, tout au moins à OMV, l’importateur qui y était
+traditionnellement établi. En outre, à partir du 1er août 2000, date à laquelle la
+législation transposant en Autriche la directive 98/30/CE est entrée en vigueur, le gaz
+aurait pu être également vendu aux clients éligibles identifiés par cette législation.
+
+(149) Depuis avril 2002, les relivraisons à Oltingue ont également commencé et, au moins
+dès le 10 août 2000, quand GDF a donné accès à son réseau de transport161, des ventes
+à des clients éligibles en France auraient été également possibles.
+
+158 Voir la réponse n° 3 dans la lettre du 28 juin 2000 envoyée par ENEL dans le cadre de
+l’affaire COMP/37811; l’utilisation de ce document dans la présente affaire a été autorisée par ENEL
+par un courrier électronique du 10 février 2003.
+
+159 Voir la réponse n° 6 dans la lettre envoyée par ENEL en date du 10 mars 2003.
+
+160 Voir le considérant (66).
+
+161 Voir, sur ce point, le considérant (73).
+
+FR 41 FR
+
+(150) En l'espèce, la question de savoir si la restriction a débuté déjà au moment de la
+signature du Contrat de Service ne doit pas être examinée. Il peut être donc conclu que
+l’infraction a débuté au plus tard le 1er octobre 1999.
+
+(151) Comme la clause litigieuse a été supprimée par l’avenant du 3 novembre 2003,
+l'infraction a pris fin à cette date.
+
+(152) L’appréciation de la Commission concernant la durée de l’infraction ne saurait être
+modifiée par le fait que les parties ont stipulé dans l’avenant du 3 novembre 2003 que
+celui-ci prendrait effet rétroactivement, à la date de la signature du Contrat de Service.
+En effet, le caractère "rétroactif" de cette modification n’affecte pas le fait que,
+pendant toute la durée infractionnelle retenue, l’acheteur devait tenir compte de la
+clause litigieuse pour déterminer son comportement sur le marché.
+
+(153) De même, la Commission ne saurait retenir l'observation d'ENEL selon laquelle
+l'infraction n'aurait pu débuter qu'après l'engagement pris par NLNG à l'égard de la
+Commission quant à la suppression de la clause de restriction territoriale contenue
+dans le Contrat d'Achat, à la fin de 2002162. Sans compter le fait que NLNG a informé
+ENEL, dès le 19 janvier 2001, du fait qu'elle acceptait de supprimer ladite clause163, la
+restriction de la concurrence dérivant de la clause "pour une utilisation du gaz en
+Italie" contenue dans le Contrat de Service a une portée autonome par rapport à celle
+de la clause de restriction territoriale contenue dans le Contrat d'Achat164. Sa
+suppression n’aurait donc pu dépendre de la suppression de la clause contenue dans le
+Contrat d’Achat.
+
+10. DESTINATAIRES
+
+(154) Les destinataires de la présente décision sont Gaz de France et ENEL S.p.A., parties
+au Contrat de Service contenant la clause contestée au moment de sa signature, ainsi
+que ENEL Trade, société à laquelle le contrat a été transféré à partir du 1er janvier
+2002.
+
+(155) GDF est tenue pour responsable de l’infraction pendant toute sa durée.
+
+(156) ENEL S.p.A. est tenue pour responsable de l’infraction pendant toute sa durée soit en
+tant que co-contractant de GDF, soit en tant que société mère de ENEL Trade.
+
+(157) Sa responsabilité en tant que société mère est fondée sur le fait que la Commission
+estime pouvoir lui imputer le comportement de ENEL Trade car elle contrôle
+entièrement cette dernière165.
+
+162 Voir les paragraphes 39 à 41 de la "Memoria".
+
+163 Voir, sur ce point, le considérant (65) et la note de bas de page n° 54.
+
+164 Voir, sur ce point, le considérant (111).
+
+165 Pour la structure de contrôle de ENEL Trade, voir la note de bas de page n° 12.
+
+FR 42 FR
+
+(158) En effet, ENEL S.p.A. constitue avec sa filiale ENEL Trade une organisation unitaire
+d’éléments personnels, matériels ou immatériels, poursuivant de façon durable le but,
+entre autres, d’acquérir du gaz pour sa revente et pour la production d’énergie
+électrique. Les deux sociétés constituent ainsi une entreprise unique, au sens de
+l’article 81 du traité.
+
+(159) Quant à la responsabilité de ENEL Trade pour l’infraction, elle est engagée dans les
+limites de la période pendant laquelle la société en question a participé à la mise en
+œuvre du contrat et appartenait donc à l’entreprise ayant commis l’infraction. A cet
+égard, il y a lieu de rappeler que, depuis le 1er juin 2000, dans le cadre de la
+réorganisation d’ENEL, ENEL Trade, dénommée à l’époque ENEL F.T.L., s’est vu
+confier la gestion des contrats d’achat de combustibles et des services associés, et donc
+également la gestion du Contrat de Service166. En outre, la cession du Contrat de
+Service par ENEL S.p.A. à ENEL Trade est devenue opérationnelle à partir du 1er
+janvier 2002167. Par conséquent, ENEL Trade sera tenue pour responsable de la
+période infractionnelle postérieure au 1er juin 2000.
+
+11. MESURES CORRECTIVES
+
+(160) Conformément à l'article 7, paragraphe 1, du règlement n° 1/2003, "si la Commission,
+agissant d'office ou saisie d'une plainte, constate l'existence d'une infraction aux
+dispositions de l'article 81 ou de l'article 82 du traité, elle peut obliger par voie de
+décision les entreprises [...] intéressées à mettre fin à l'infraction constatée. [...]
+Lorsque la Commission y a un intérêt légitime, elle peut également constater qu'une
+infraction a été commise dans le passé" 168.
+
+(161) Or, l’infraction a pris fin le 3 novembre 2003.
+
+(162) Toutefois, la Commission a un intérêt légitime, au sens de l’article 7, paragraphe 1, in
+fine du règlement (CE) n° 1/2003, à constater que GDF, ENEL S.p.A. et ENEL Trade
+ont contrevenu aux dispositions de l'article 81 du traité, compte tenu de la gravité169 et
+des circonstances de l’infraction. Depuis que le secteur gazier a été ouvert à la
+concurrence, assurer le respect des règles de concurrence du traité est devenu plus
+important encore qu’auparavant. Il faut éviter que GDF et ENEL en particulier, ainsi
+que les autres entreprises actives dans ce secteur, considèrent ou continuent à
+considérer, à tort, que des pratiques telles que celles observées en l’espèce sont
+conformes au droit communautaire. L’intérêt à constater l’infraction est en l’espèce
+d’autant plus évident que GDF et ENEL ont contesté le caractère anticoncurrentiel de
+la clause litigieuse et qu’il existe donc un risque que le comportement infractionnel
+soit répété.
+
+166 Voir, sur ce point, le considérant (7).
+
+167 Voir, sur ce point, le considérant (61).
+
+168 Cette dernière faculté correspond à celle reconnue par la jurisprudence de la Cour sur la base
+du règlement n° 17: voir l'arrêt de la Cour de Justice du 2 mars 1983, Gesellschaft zur Verwertung
+von Leistungsschutzrechten mbH (GVL) contre Commission, 7/82, Rec. p. 483.
+
+169 Voir, notamment, l'arrêt du Tribunal précité Volkswagen AG c. Commission, point 336.
+
+FR 43 FR
+
+(163) La Commission ne considère pas qu'il soit approprié en l'espèce d'infliger des amendes
+aux destinataires de la présente décision en vertu de l'article 23, paragraphe 2, du
+règlement (CE) n° 1/2003. En effet, la Commission tient compte des spécificités du
+secteur gazier européen et des circonstances propres au cas d'espèce. En particulier, le
+secteur gazier est l'objet d'un processus de libéralisation qui implique une évolution
+profonde dans les pratiques commerciales des acteurs qu'y sont présents, notamment
+celles liées à la commercialisation du gaz naturel dans des Etats membres autres que
+celui où chaque opérateur a été traditionnellement établi. Dans ce secteur, la présente
+décision est la première concernant des restrictions territoriales.
+
+12. CONCLUSIONS
+
+(164) Par conséquent, et compte tenu des arguments exposés, la Commission est parvenue à
+la conclusion que Gaz de France, ENEL S.p.A. et ENEL Trade ont conclu un accord
+qui avait pour objet de restreindre le territoire dans lequel ENEL pouvait revendre le
+gaz objet du Contrat de Service et de cloisonner le marché européen du gaz.
+
+(165) Elles ont ainsi contrevenu aux dispositions de l'article 81 du traité,
+
+FR 44 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Par le contrat de service du 17 décembre 1997, Gaz de France, ENEL S.p.A. et ENEL Trade
+S.p.A. ont contrevenu aux dispositions de l’article 81 du traité en concluant un accord qui
+avait pour objet de restreindre le territoire dans lequel ENEL pouvait revendre le gaz objet du
+contrat de service et de cloisonner le marché européen du gaz.
+
+L’infraction a duré du 1er octobre 1999, au plus tard, au 3 novembre 2003 pour ce qui est
+de GDF et d'ENEL S.p.A., et du 1er juin 2000 au 3 novembre 2003 pour ce qui est d'ENEL
+Trade S.p.A.
+
+Article 2
+
+Sont destinataires de la présente décision:
+
+1) Gaz de France
+
+23, rue Philibert Delorme
+
+F-75840 Paris Cedex 17
+
+France
+
+2) ENEL S.p.A.
+
+Viale Regina Margherita
+
+137, I-00198 Roma
+
+Italie
+
+3) ENEL Trade S.p.A.
+
+Viale Regina Margherita
+
+125, I-00198 Roma
+
+Italie.
+
+Fait à Bruxelles, le 26 octobre 2004
+
+Par la Commission
+
+Mario MONTI
+Membre de la Commission
+
+FR 45 FR

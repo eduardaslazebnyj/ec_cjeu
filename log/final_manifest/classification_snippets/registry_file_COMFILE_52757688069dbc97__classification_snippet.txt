@@ -1,0 +1,226 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52016XC1014(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52016XC1014(02)
+Help
+Print
+Summary of Commission Decision of 20 July 2016 addressed to the International Swaps and Derivatives Association, Inc. relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EE Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4583)
+Summary of Commission Decision of 20 July 2016 addressed to the International Swaps and Derivatives Association, Inc. relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EE Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4583)
+Summary of Commission Decision of 20 July 2016 addressed to the International Swaps and Derivatives Association, Inc. relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EE Agreement (Case AT.39745 — CDS Information Market) (notified under document C(2016) 4583)
+OJ C 378, 14.10.2016, pp. 7–8
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+14.10.2016
+EN
+Official Journal of the European Union
+C 378/7
+Summary of Commission Decision
+of 20 July 2016
+addressed to the International Swaps and Derivatives Association, Inc. relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EE Agreement
+(Case AT.39745 — CDS Information Market)
+(notified under document C(2016) 4583)
+(Only the English text is authentic)
+(2016/C 378/05)
+On 20 July 2016, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision having regard to the legitimate interest of undertakings in the protection of their business secrets.
+(1)
+The case concerns the market for exchange trading of unfunded credit derivatives, in particular of credit default swaps (CDS) and decisions taken by the International Swaps and Derivatives Association (‘ISDA’) as an association of undertakings in relation to the licensing of the ‘Final Price’ for CDS trading on exchanges.
+1.
+PRELIMINARY COMPETITION CONCERNS
+(2)
+In its Statement of Objections of 1 July 2013 (the ‘Statement of Objections’) addressed to ISDA, Markit
+(
+2
+)
+and 13 investment banks (‘dealers’), the Commission came to the provisional conclusion that an agreement/concerted practice entered into by the dealers, together with the implementing decisions of the associations of undertakings Markit and ISDA, constituted a single and continuous infringement of Article 101 of the Treaty and Article 53 of the EEA Agreement. The Commission reached the preliminary conclusion that this conduct may have had as its object and effect to foreclose exchanges from the market for exchange-traded unfunded credit derivatives from 2006 to 2009 and, thereby, to prevent or delay the emergence of that new market. The Statement of Objections qualified the decisions of ISDA to deny Final Price licences to Eurex
+(
+3
+)
+and CMDX
+(
+4
+)
+and by excluding such licences for any futures or exchange-traded product or transaction as infringements of Article 101 of the Treaty and Article 53 of the EEA Agreement. In December 2015 the Commission closed proceedings against the dealers, but continued the investigation of ISDA and Markit.
+(3)
+According to the Statement of Objections, the restrictions may have had as their object and effect an appreciable restriction of competition to the detriment of investors and indirectly their customers, who remained constrained to over-the-counter (‘OTC’) trading. On OTC markets, derivative contracts are negotiated privately and bilaterally without public price or volume reporting of individual transactions. Contracts are intermediated by dealers who profit from the difference between buy and sell price (‘bid-ask spread’). Over time, regularly traded OTC-traded derivatives become standardised and investors become interested in trading such derivatives on exchanges. Exchange trading increases liquidity, reduces trading cost due to competitive pressure on bid-ask spreads, and reduces risks as clearing houses guarantee the performance of contracts in case of buyer or seller default.
+(4)
+CDS are financial contracts where a purchaser pays a periodic fee to a seller, in return for a contingent payment in case of default of the corporate or sovereign debtor of a debt obligation specified in the contract. CDS contracts are commonly used for hedging against the risk of decreasing value of the debt instruments due to the debt issuer’s default or declining credit quality, and for investing, expressing a view on the future change in the debt issuer’s credit quality. If during the term of a CDS contract a default triggers the obligation of the seller to make the contingent payment, the parties can choose between two types of settlement: either physical, where the buyer receives the full notional amount and physically delivers the defaulted bonds, or cash, where the protection seller pays the difference between the full notional amount of the defaulted debt and its market value. Cash settlement became essential because the exponential growth of the CDS market would have caused physical settlement to distort the values of deliverable obligations through excess demand. To address this issue, ISDA developed an auction for cash settlement. The Final Price resulting from this auction determines the value of defaulted bonds and has become a de facto industry standard.
+(5)
+The Statement of Objections reached the preliminary conclusion that ISDA’s Board, where dealers were represented, denied to licence the Final Price for exchange trading to Eurex 2007 and to CMDX in 2009. In 2007 ISDA further adopted a Use Agreement which contains general restrictions for using the Final Price for exchange-traded derivatives. According to the Statement of Objections there are no real alternatives to ISDA’s Final Price for the successful launch of exchange trading. Alternative auctions or arbitrary fixed recovery values would not be in line with terms of existing CDS contracts and the industry-standard Final Price would limit participation and distort prices in alternative auctions.
+2.
+COMMITMENT DECISION
+(6)
+On 19 April 2016 ISDA offered commitments under Article 9(1) of Regulation (EC) No 1/2003 to address the Commission’s preliminary competition concerns.
+(7)
+On 29 April 2016 a notice was published in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case and the proposed commitments and inviting interested third parties to give their observations on the commitments within 1 month following publication. On 2 June 2016 the Commission informed ISDA of the observations received from interested third parties following the publication of the notice.
+(8)
+By decision of 20 July 2016, pursuant to Article 9 of Regulation (EC) No 1/2003, the Commission made the commitments binding on ISDA. Their main content is as outlined below.
+(a)
+ISDA commits to licence the Final Price for the purpose of exchange trading on fair, reasonable and non-discriminatory (‘FRAND’) terms and conditions.
+(b)
+ISDA shall appoint a Monitoring Trustee to monitor ISDA’s compliance with the commitments. Before appointment, the Commission shall have the power to approve or reject the proposed Trustee.
+(c)
+Failure to agree on FRAND terms and conditions entitles a licence applicant to submit the dispute to an independent arbitrator and ultimately to court. Where ISDA fails to grant a licence on grounds unrelated to FRAND, it shall submit the matter to the Monitoring Trustee and bear the burden of proof. Where ISDA intends to terminate a licence on grounds of auction manipulation, it shall demonstrate to the Trustee that manipulation is linked to specific features of an exchange traded credit derivative and no less disruptive remedies are available. Such Trustee decisions are binding on the parties but without prejudice to the Commission’s own assessment.
+(d)
+In order to exclude CDS dealers from ISDA’s licensing decisions in relation to the Final Price, the authority to award such licences will no longer rest with ISDA’s Board of Directors but be vested with ISDA’s Chief Executive Officer.
+(e)
+ISDA commits to instruct the administrator(s) of the www.creditfixings.com website, who publish the Final Price data following auctions, to remove the restrictions prohibiting the use of the Final Price for exchange trading purposes.
+(9)
+The commitments will be valid for a period of 10 years from the date of notification of the commitment decision to ISDA.
+(10)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on the adoption of the decision in June 2016. On 7 July 2016 the Hearing Officer issued his final report.
+(11)
+The decision brought the proceedings to an end as regards ISDA’s refusals to licence the Final Price.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+Markit is a provider of financial information and services. Since closure of a merger on 13 July 2016: ‘IHS Markit’.
+(
+3
+)
+Eurex is the derivatives exchange subsidiary of Deutsche Börse. In 2007, Eurex unsuccessfully launched exchange traded credit futures written on the iTraxx index.
+(
+4
+)
+CMDX was a joint venture between Chicago Mercantile Exchange and Citadel, a hedge fund. According to the SO, in 2008, CMDX attempted to launch a CDS clearing and exchange trading platform. The joint venture was dissolved in July 2009.
+Top

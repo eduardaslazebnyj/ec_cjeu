@@ -1,0 +1,592 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+ET
+
+ET ET
+
+EUROOPA ÜHENDUSTE KOMISJON
+
+Brüssel 16.07.2008
+K(2008) 3435 lõplik
+
+KOMISJONI OTSUS,
+
+16.07.2008
+
+EÜ asutamislepingu artiklis 81 ja Euroopa Majanduspiirkonna lepingu artiklis 53
+sätestatud menetluses
+
+(Juhtum COMP/C2/38.698 – CISAC)
+
+(Ainult hispaania-, tšehhi-, taani-, saksa-, eesti-, kreeka-, inglis-, prantsus-, itaalia-, läti-,
+hollandi-, poola-, sloveeni- ja slovaki keelne tekst on autentne)
+
+(EMPs kohaldatav tekst)
+
+1. SISSEJUHATUS.......................................................................................................... 5
+
+2. POOLED...................................................................................................................... 6
+
+2.1. Kaebuse esitajad........................................................................................................... 6
+
+2.2. Kaebuse adressaadid .................................................................................................... 7
+
+3. ÕIGUSLIK RAAMISTIK............................................................................................ 7
+
+4. KÄESOLEVA OTSUSE SISU.................................................................................... 8
+
+4.1. CISACi tüüpleping:...................................................................................................... 8
+
+4.2. CISACi EMPs asutatud liikmete vahel sõlmitud vastastikuse esindamise lepingud... 9
+
+4.3. CISACi tüüplepingu asjaomased sätted..................................................................... 10
+
+4.3.1. Liikmesuse sätted....................................................................................................... 10
+
+4.3.2. Territoriaalsed sätted.................................................................................................. 10
+
+4.4. CISACi tüüplepingu asjaomaste sätete kohaldamine ................................................ 12
+
+4.4.1. CISACi tüüplepingu muudatused .............................................................................. 12
+
+4.4.2. CISACi tüüplepingu rakendamine CISACi EMPs asutatud liikmete vahel sõlmitud
+vastastikuse esindamise lepingutes ............................................................................ 12
+
+5. ASJAKOHASED TURUD ........................................................................................ 16
+
+5.1. Turu struktuur............................................................................................................. 16
+
+5.1.1. Õiguse valdaja autoriõigus......................................................................................... 16
+
+5.1.2. Kuidas omandavad kollektiivse esindamise organisatsioonid õigused, mida nad
+äritarbijatele litsentsivad?........................................................................................... 16
+
+5.1.3. Autoriõiguse litsentsimine ......................................................................................... 17
+
+5.1.4. Litsentsi kasutamise kontroll, äritarbijate raamatupidamise auditeerimine ja
+jõustamine seoses litsentsiomanikuga........................................................................ 17
+
+5.2. Asjaomased kaubaturud ............................................................................................. 17
+
+5.2.1. Autoriõiguse haldusteenused avaliku esitamise õiguste kaitseks .............................. 18
+
+5.2.2. Avaliku esitamise õiguste litsentsimine satelliit- ja kaabellevi ning Interneti teel
+levitamise jaoks (litsentsimisturg).............................................................................. 19
+
+5.3. Asjaomane geograafiline turg .................................................................................... 20
+
+5.3.1. Turu geograafiline ulatus autoriõiguse haldusteenuste osutamiseks õiguse valdajatele
+.................................................................................................................................... 20
+
+5.3.2. Turu geograafiline ulatus autoriõiguse haldusteenuste osutamiseks avaliku esitamise
+õiguste alal teistele kollektiivse esindamise organisatsioonidele............................... 20
+
+5.3.3. Avaliku esitamise õiguste litsentsimise turg äritarbijatele edastamiseks satelliit-,
+kaabellevi ja Interneti teel.......................................................................................... 20
+
+2
+
+6. MENETLUS .............................................................................................................. 21
+
+6.1. Vastuväited................................................................................................................. 21
+
+6.2. Suuline ärakuulamine................................................................................................. 21
+
+6.3. Täiendavad teabenõuded............................................................................................ 22
+
+6.4. Määruse (EÜ) nr 1/2003 artikli 27 lõike 4 kohase teatise avaldamine ...................... 22
+
+7. EÜ ASUTAMISLEPINGU ARTIKLI 81 LÕIGE 1 JA EUROOPA
+MAJANDUSPIIRKONNA LEPINGU ARTIKLI 53 LÕIGE 1................................ 23
+
+7.1. Asutamislepingu ja Euroopa Majanduspiirkonna lepingu vaheline suhe –
+jurisdiktsioon.............................................................................................................. 26
+
+7.2. Ettevõtjatevahelised lepingud ja ettevõtjate ühenduse otsus ..................................... 26
+
+7.2.1. Kollektiivse esindamise organisatsioonid ja ettevõtjad ............................................. 26
+
+7.2.2. CISAC on ettevõtjate ühendus................................................................................... 26
+
+7.2.3. Vastastikuse esindamise lepingud on ettevõtjatevahelised lepingud......................... 26
+
+7.2.4. CISACi tüüpleping on ettevõtjate ühenduse otsus..................................................... 26
+
+7.3. Õiguslik ja poliitiline taust......................................................................................... 28
+
+7.3.1. Asutamislepingu artikli 151 lõige 4........................................................................... 28
+
+7.3.2. Kohalike õigusaktide mõju ........................................................................................ 29
+
+7.3.3. Laiendatud litsentsimissüsteem.................................................................................. 30
+
+7.3.4. Komisjoni soovitus õiguste haldamise kohta online-keskkonnas.............................. 31
+
+7.3.5. Mõjutatavad konkurentsi vormid ............................................................................... 31
+
+7.3.6. 1999. aastal PRSile saadetud esmahinnang ............................................................... 33
+
+7.4. Liikmesuse piirangud................................................................................................. 34
+
+7.5. Ainuõiguslik esindamine............................................................................................ 37
+
+7.5.1. Üldised märkused....................................................................................................... 37
+
+7.5.2. CISACi tüüplepingu artikkel 1: ainuõiguse säte........................................................ 38
+
+7.5.3. CISACi tüüplepingu artikli 6 II lõige......................................................................... 39
+
+7.6. Litsentsimisõiguse territoriaalne piiritlemine ............................................................ 41
+
+7.6.1. Paralleelne territoriaalne piiritlemine on kooskõlastatud tegevus ............................. 42
+
+7.6.1.1. Autoriõiguse territoriaalne iseloom territoriaalseid piiranguid ei põhjenda .............. 43
+
+7.6.1.2. Satelliitedastuse puhul ei saa 24 CISACi EMPs asutatud liikme käitumist
+õigusaktidega põhjendada ja Sydney kokkulepe ei ole vastuväidetele kohane vastus.
+.................................................................................................................................... 43
+
+7.6.1.3. Tegevus ei ole iseseisva turureaktsiooni tulemus ...................................................... 45
+
+3
+
+7.6.1.4. Kohaliku esindatuse vajadus ei selgita territooriumi süstemaatilist piiritlemist selle
+riigi territooriumina, kus kollektiivse esindamise organisatsioon on asutatud .......... 47
+
+7.6.2. Kooskõlastatud tegevus piirab konkurentsi ............................................................... 53
+
+7.6.2.1. Territoriaalne piiritlemine ja ainuõigus...................................................................... 53
+
+7.6.2.2. Kas kooskõlastatud tegevus on objektiivselt vajalik, et tagada vastastikuste lubade
+andmine CISACi EMPs asutatud liikmete poolt?...................................................... 55
+
+7.6.3. Kokkuvõte.................................................................................................................. 58
+
+7.7. Mõju liikmesriikidevahelisele ja EMP lepingu osaliste vahelisele kaubandusele..... 58
+
+8. EÜ ASUTAMISLEPINGU ARTIKLI 81 LÕIGE 3 JA EUROOPA
+MAJANDUSPIIRKONNA LEPINGU ARTIKLI 53 LÕIGE 3................................ 59
+
+8.1. Ülevaade..................................................................................................................... 59
+
+8.2. Kaupade tootmise või levitamise parandamise või tehnilise või majandusliku
+progressi edendamise toetamine ................................................................................ 60
+
+8.3. ....piirangute hädavajalikkus..................................................................................... 61
+
+8.4. ...võimaldavad tarbijatel saada õiglase osa... ........................................................... 62
+
+8.5. ...konkurentsi kõrvaldamata..................................................................................... 63
+
+8.6. Järeldus asutamislepingu artikli 81 lõike 3 ja EMP lepingu artikli 53 lõike 3 kohta. 64
+
+9. ASUTAMISLEPINGU ARTIKLI 86 LÕIGE 2 ........................................................ 64
+
+10. ÕIGUSKAITSEVAHENDID .................................................................................... 66
+
+10.1. Tegevus, mis on vastuolus EÜ asutamislepingu artikli 81 lõikega 1 ja EMP lepingu
+artikli 53 lõikega 1 ..................................................................................................... 66
+
+10.2. Määruse (EÜ) nr 1/2003 artikli 7 lõige 1................................................................... 66
+
+4
+
+KOMISJONI OTSUS,
+
+16.07.2008
+
+EÜ asutamislepingu artiklis 81 ja Euroopa Majanduspiirkonna lepingu artiklis 53
+sätestatud menetluses
+
+(Juhtum COMP/C2/38.698 – CISAC)
+
+(Ainult hispaania-, tšehhi-, taani-, saksa-, eesti-, kreeka-, inglis-, prantsus-, itaalia-, läti-,
+hollandi-, poola-, sloveeni- ja slovaki keelne tekst on autentne)
+
+EUROOPA ÜHENDUSTE KOMISJON,
+
+võttes arvesse Euroopa Ühenduse asutamislepingut,
+
+võttes arvesse Euroopa Majanduspiirkonna lepingut,
+
+võttes arvesse nõukogu 16. detsembri 2002. aasta määrust (EÜ) nr 1/2003 asutamislepingu
+artiklites 81 ja 82 sätestatud konkurentsieeskirjade rakendamise kohta,1 eriti selle artikli 7
+lõiget 1,
+
+olles andnud asjaomastele ettevõtjatele võimaluse avaldada oma arvamust vastuväidete kohta,
+mille komisjoni esitas vastavalt määruse (EÜ) nr 1/2003 artikli 27 lõikele 1 ning komisjoni
+7. aprilli 2004. aasta määruse (EÜ) nr 773/2004, mis käsitleb EÜ asutamislepingu artiklite 81
+ja 82 kohaste menetluste teostamist komisjonis2, artiklitele 11 ja 12,
+
+olles konsulteerinud konkurentsi piiravat tegevust ja turgu valitsevat seisundit käsitleva
+nõuandekomiteega,3
+
+võttes arvesse ärakuulamise eest vastutava ametniku lõpparuannet kõnealuse juhtumi kohta4
+
+ning arvestades järgmist:
+
+1. SISSEJUHATUS
+
+(1) Käesolev otsus käsitleb autorite kollektiivse esindamise organisatsioonide poolse
+muusikateoste avaliku esitamise õiguste haldamise ja litsentsimise tingimusi. Otsus on
+adresseeritud Euroopa Majanduspiirkonnas asutatud autorite kollektiivse esindamise
+organisatsioonidele, kes on Rahvusvahelise Autorite ja Heliloojate Ühingute
+
+1 EÜT L 1, 4.1.2003, lk 1. Määrust on viimati muudetud määrusega (EÜ) nr 1419/2006 (ELT L 269,
+28.9.2006, lk1).
+2 ELT L 123, 27.4.2004, lk 18. Määrust on muudetud määrusega (EÜ) nr 1792/2006 (ELT L 362,
+20.12.2006, lk 1).
+3 ELT .....
+4 ELT .....
+
+5
+
+Konföderatsiooni (CISAC) liikmed (koos viidatud kui „CISACi EMPs asutatud
+liikmed).
+
+(2) Seoses avaliku esitamise õiguste haldamisega soovitab CISAC oma liikmete vahelises
+vastastikuses esindamises kasutada tüüplepingut. Tüüpleping hõlmab avaliku
+esitamise litsentsi vajavate muusikateoste igat liiki kasutamist. Tüüplepingut on
+kasutatud paljudes kahepoolsetes vastastikuse esindamise lepingutes, mis on sõlmitud
+CISACi EMPs asutatud liikmete vahel. Käsitletakse järgmisi piiranguid: sätted,
+millega takistatakse õiguse valdajatel sõlmida leping vabalt valitud kollektiivse
+esindamise organisatsiooniga (liikmesuse piirang), ja sätted ning kooskõlastatud
+tegevus, millega tagatakse, et igal kollektiivse esindamise organisatsioonil on
+territooriumil, kus ta on asutatud, täielik territoriaalne kaitse muude kollektiivse
+esindamise organisatsioonide eest äritarbijatele litsentside andmisel (territoriaalsuse
+piirang). CISACi EMPs asutatud liikmed sõlmivad CISACi tüüplepingu alusel
+üksteisega vastastikuse esindamise lepinguid.
+
+(3) CISACi tüüplepingu ja avaliku esitamise õigusi haldavate CISACi EMPs asutatud
+liikmete vahel sõlmitud vastastikuse esindamise lepingute uurimine sai alguse kahest
+kaebusest: 30. novembril 2000 esitas RTL Group (edaspidi „RTL”) kaebuse GEMA
+suhtes, kes keeldus andmast RTLile kogu ühendust hõlmavat litsentsi
+muusikaedastamistegevuse õiguste kohta, mida GEMA haldab nii oma liikmete kui ka
+vastastikuse esindamise lepingute alusel muude kollektiivse esindamise
+organisatsioonide liikmete eest, ning 4. aprillil 2003 esitas Music Choice Europe plc
+(edaspidi „Music Choice”) kaebuse CISACi suhtes seoses jaos 4.1 kirjeldatud
+tüüplepinguga.
+
+2. POOLED
+
+2.1. Kaebuse esitajad
+
+Music Choice
+
+(4) Music Choice on digitaalse ja interaktiivse heliringhäälingu organisatsioon, kes
+edastab muusikakanaleid mitmeplatvormilisel alusel kogu ühenduses. Music Choice
+tegutseb mudeli „ostjalt ostjale, seejärel kliendile” alusel, st müüb oma programme –
+tellitavateks põhi- või kvaliteetpakettideks ühendatuna – turustajatele, kes need
+lõppkasutajatele edasi müüvad. Music Choice osutab veebipõhist raadio- ja
+televisiooniteenust, mille puhul kasutajatel on võimalik jälgida muusikavideosid või
+kuulata muusikakanaleid. Music Choice on turustajatele pakutavat sisu juba
+autoriõiguse suhtes kontrollinud.
+
+RTL
+
+(5) Luksemburgis tegutsev RTL on juhtiv ringhäälingukontsern ja üks Euroopa
+Majanduspiirkonna suurimaid audiovisuaalset sisu tootvaid organisatsioone.
+
+6
+
+2.2. Kaebuse adressaadid
+
+CISAC
+
+(6) CISAC esindab 219 liikmesühingut 115 riigis5. CISAC on valitsusväline
+mittetulundusorganisatsioon, mis on registreeritud Prantsuse õigusaktide alusel ja mis
+on juriidiline isik. Organisatsiooni põhikirja muudeti 2004. aasta oktoobris Lõuna-
+Koreas, Seoulis toimunud peaassambleel6. CISACi üks peamisi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+
+10.1. Tegevus, mis on vastuolus EÜ asutamislepingu artikli 81 lõikega 1 ja EMP
+lepingu artikli 53 lõikega 1
+
+(260) Mõned käesolevas otsuses käsitletavad rikkumised on praeguseks lõpetatud.
+Ainuõiguse säte (artikli 1 I ja II lõige) ja liikmesuse säte (artikli 11 II lõige) ei ole
+enam CISACi tüüplepingu osa187. Samas on komisjonile kättesaadava teabe põhjal
+paljudes vastastikustes lepingutes selliseid sätteid ikka veel alles ning esineb tegevust,
+mis on vastuolus asutamislepingu 81 lõikega 1 ja EMP lepingu artikli 53 lõikega 1.
+Eriti kehtib see järgmise kohta:
+
+a) teatavate kollektiivse esindamise organisatsioonide vahelised vastastikuse
+esindamise lepingud sisaldavad liikmesust piiravaid sätteid,
+
+b) teatavate kollektiivse esindamise organisatsioonide vahelised vastastikuse
+esindamise lepingud sisaldavad ainuõiguse sätteid,
+
+c) kollektiivse esindamise organisatsioonide vaheline kooskõlastatud tegevus
+territoriaalsel piiritlemisel.
+
+10.2. Määruse (EÜ) nr 1/2003 artikli 7 lõige 1
+
+(261) Kui komisjon leiab, et asutamislepingu artiklit 81 rikutakse, võib ta vastavalt määruse
+nr 1/2003 artikli 7 lõike 1 kohase otsusega nõuda asjaomastelt ettevõtjatelt ja/või
+ettevõtjate ühendustelt sellise rikkumise lõpetamist. Vastavalt nõukogu
+28. novembri 1994. aasta määruse (EÜ) nr 2894/94 (Euroopa Majanduspiirkonna
+lepingu rakenduskorra kohta)188 artiklile 5 „kohaldatakse EMPs mutatis mutandis
+ühenduse norme, millega viiakse ellu asutamislepingu artiklitega 85 ja 86 [nüüd
+artiklid 81 ja 82]... ette nähtud põhimõtteid”.
+
+(262) Sel eesmärgil võib komisjon võtta nende suhtes tegevusega seotud või struktuurseid
+parandusmeetmeid, mis on toimepandud rikkumisega proportsionaalsed ja vajalikud
+rikkumise tegelikuks lõpetamiseks.
+
+(263) Esiteks on selliseid sätteid teatavates lepingutes ikka veel alles ja mõni tegevus leiab
+ikka veel aset. Teiseks, kuigi mõned CISACi EMPs asutatud liikmed väidavad, et nad
+on kõigist oma kahepoolsetest vastastikuse esindamise lepingutest piiravad sätted
+kõrvaldanud, ei saa kindlalt väita, et selline hilinenud kõrvaldamine täielikult välistab
+vajaduse nõuda kõnealuselt ettevõtjalt rikkumise lõpetamist. Kolmandaks, pidades
+meeles, et asutamislepingu artiklit 81 võib kohaldada ka kehtivuse kaotanud lepingute
+suhtes, kui nende mõju jätkub ka pärast nende kehtivuse lõppu,189 ei ole kindel, kas
+
+187 Need sätted jäeti CISACi tüüplepingust välja vastavalt 1996. ja 2004. aastal. Vt käesoleva otsuse
+jagu 4.4.1, põhjendus 27jj.
+188 EÜT L 305, 30.11.1994, lk 6.
+189 Sellega seoses vt kohtuasi: 51/75 EMI Records Limited vs CBS United Kingdom Limited (EKL 1976, lk
+811, punkt 15); kohtuasi 243/83 Binon& Cie vs SA Agence et messageries de la presse (EKL1985, lk
+2015, punkt 17); kohtuasi T-2/89, Petrofina SA vs komisjon, ( EKL 1991 II1087, punkt 212); kohtuasi
+T-14/89, Montecatini SpA (varem Montedipe SpA) vs komisjon (EKL 1992 II1155, punkt 231); kohtuasi
+T-327/94: SCA Holding v komisjon (EKL 1998 II-1373, punkt 95), ja 26. aprilli 2007. aasta otsus
+ühendatud kohtuasjades T-109/02, T-118/02, T-122/02, T-125/02, T-126/02, T-128/02, T-129/02, T-
+132/02 ja T-136/02: Bolloré jt vs komisjon, (EKL 2007 II-00947, punkt 186).
+
+66
+
+rikkumine on täielikult lõppenud, võttes arvesse teatavate kollektiivse esindamise
+organisatsioonide konkurentsivastast tegevust. Seepärast peavad käesoleva otsuse
+adressaadid:
+
+a) lõpetama viivitamata rikkumised seoses vastastikuse esindamise lepingutes
+sisalduvate liikmesust piiravate ja ainuõiguse sätetega, kui nad ei ole seda juba
+teinud,
+
+b) lõpetaksid rikkumise seoses kooskõlastatud tegevusega territoriaalsel
+piiritlemisel 120 päeva jooksul pärast käesoleva otsuse teatavakstegemise
+kuupäeva.
+
+(264) Käesoleva otsuse adressaadid peavad komisjoni teavitama kõigist meetmetest, mida
+nad on olukorra parandamiseks võtnud. Kooskõlastatud tegevuse puhul territoriaalsel
+piiritlemisel tuleb esmalt lõpetada mis tahes käesolevas otsuses käsitletud
+kooskõlastamine tulevikus. Teiseks, kuigi loa piiritlemine teise kollektiivse esindamise
+organisatsiooni territooriumiga ei ole iseenesest konkurentsi piirav, tuleb niivõrd,
+kuivõrd varasem kooskõlastamine ikka veel kajastub olemasolevates lepingutes
+tagada, et tulevikus sõlmitavates kahepoolsetes lepingutes on vastastikuste lubade
+territoriaalne piiritlemine kahepoolsete läbirääkimiste tulemus ning et neid lepinguid
+ei mõjutaks loa territooriumi piirav kooskõlastatud tegevus.
+
+(265) Lisaks tuleb käesoleva otsuse adressaatidel hoiduda mis tahes lepingust või
+kooskõlastatud tegevusest, millel võib olla põhjenduses 260 kirjeldatuga sama või
+sarnane eesmärk või mõju.
+
+ON VASTU VÕTNUD KÄESOLEVA OTSUSE:
+
+Artikkel 1
+
+Järgmised ettevõtjad on rikkunud asutuslepingu artiklit 81 ja EMP lepingu artiklit 53,
+kasutades vastastikustes esindamise lepingutes liikmesuse piiranguid, mis olid sätestatud
+Rahvusvahelise Autorite ja Heliloojate Ühingute Konföderatsiooni tüüplepingu (edaspidi:
+CISACi tüüpleping) artikli 11 II lõikes, või kohaldades liikmesuse piiranguid de facto:
+
+AEPI
+AKKA/LAA
+AKM
+ARTISJUS
+BUMA
+EAÜ
+GEMA
+IMRO
+KODA
+LATGA-A
+PRS
+OSA
+
+67
+
+SABAM
+SACEM
+SAZAS
+SGAE
+SIAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+TONO
+ZAIKS
+
+Artikkel 2
+
+Järgmised 17 ettevõtjat on rikkunud asutamislepingu artiklit 81 ja EMP lepingu artiklit 53,
+nähes vastastikuse esindamise lepingutes ette CISACi tüüplepingu artikli 1 I ja II lõikes
+sätestatud ainuõiguse:
+
+AKKA/LAA
+ARTISJUS
+BUMA
+EAÜ
+IMRO
+KODA
+LATGA-A
+OSA
+SAZAS
+SGAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+TONO
+ZAIKS
+
+68
+
+Artikkel 3
+
+Järgmised ettevõtjad on rikkunud asutamislepingu artiklit 81 ja EMP lepingu artiklit 53,
+kooskõlastades territoriaalset piiritlemist viisil, mis piirab litsentsi kollektiivse esindamise
+organisatsiooni oma territooriumiga:
+
+AEPI
+AKKA/LAA
+AKM
+ARTISJUS
+BUMA
+EAÜ
+GEMA
+IMRO
+KODA
+LATGA-A
+PRS
+OSA
+SABAM
+SACEM
+SAZAS
+SGAE
+SIAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+TONO
+ZAIKS
+
+Artikkel 4
+
+1. Artiklites 1 ja 2 loetletud ettevõtjad peavad viivitamata lõpetama nimetatud artiklites
+osutatud rikkumised, kui nad ei ole seda juba teinud, ning teavitama komisjoni
+kõikidest meetmetest, mida nad on selleks võtnud.
+
+2. Artiklis 3 loetletud ettevõtjad peavad 120 päeva jooksul pärast käesoleva otsuse
+teatavakstegemise kuupäeva lõpetama nimetatud artiklis osutatud rikkumise ja
+teavitama komisjoni selle ajavahemiku jooksul kõikidest meetmetest, mida nad on
+selleks võtnud.
+
+69
+
+Eelkõige peavad artiklis 3 nimetatud ettevõtjad teiste artiklis 3 nimetatud
+ettevõtjatega sõlmitud iga vastastikuse esindamise lepingu puhul uuesti läbi rääkima
+lubade territoriaalse piiritlemise satelliidi ja kaabli kaudu taasedastamise ja Internetikasutuse jaoks ning edastama komisjonile muudetud lepingute koopiad.
+
+3. Käesoleva otsuse adressaadid peavad hoiduma igasugusest artiklites 1–3 kirjeldatud
+tegevuse või käitumise kordamisest ja igasugusest tegevusest või käitumisest, millel
+on sama või sarnane eesmärk või mõju.
+
+Artikkel 5
+
+Komisjon võib oma ainudiskretsioonil artiklis 3 nimetatud ettevõtja põhjendatud ja
+õigeaegselt esitatud taotluse alusel pikendada artikli 4 lõikes 2 nimetatud tähtaega.
+
+Artikkel 6
+
+Käesoleva otsuse adressaadid on:
+
+1) Ελληνική Εταιρεία Προστασίας της Πνευματικής Ιδιοκτησίας (AEPI), Fragoklissias
+and Samou street n° 51, 151 25 Amaroussio, Ateena, Kreeka
+
+2) Autortiesibu un komunicesanas konsultaciju agentura – Latvijas Autoru apvieniba
+(AKKA/LAA), A. Čaka 97, 1011 Riia, Läti
+
+3) Staatlich genehmigte Gesellschaft der Autorem, Komponisten und Musikverleger,
+reg.Gen.m.b.H (AKM), Baumannstrasse 10, Postfach 259, 1031 Viin, Austria
+
+4) Magyar Szerzői Jogvédő Iroda Egyesület (ARTISJUS), Meszaros u. 15-17,
+1016 Budapest, Ungari
+
+5) Vereniging Buma (BUMA), Siriusdreef 22-28, 2130 KB Hoofddorp, Madalmaad
+
+6) Eesti Autorite Ühing (EAÜ), Lille 13, 10614 Tallinn, Eesti
+
+7) Gesellschaft für musikalische Aufführungs- und mechanische
+Vervielfältigungsrechte (GEMA), Rosenheimer Strasse 11, 81667 München,
+Saksamaa
+
+8) the Irish Music Rights Organisation Limited – Eagras um Chearta Cheolta Teoranta
+(IMRO), Copyright House, Pembroke Row, Lower Baggot Street, Dublin 2, Irimaa
+
+9) Komponistrettigheder i Danmark (KODA), Landemaerket 23-25, Postboks 2154,
+1016 Kopenhaagen, Taani
+
+10) Lietuvos autorių teisių gynimo asociacijos agentūra (LATGA-A), J. Basanaviciaus
+G. 4h, 2600 Vilnius, Leedu
+
+11 Ochranný svaz autorský pro práva k dílům hudebním, o.s. (OSA), Cs. Armady
+786/20,16056 Praha 6, Tšehhi Vabariik
+
+12) Performing Right Society Limited (PRS), Berners Street 29-33, London WIT 3AB,
+Ühendkuningriik
+
+70
+
+13) Société Belge des Auteurs, Compositeurs et Editeurs Scrl / Belgische Vereniging van
+Auteurs, Componisten en Uitgevers (SABAM), Rue d’Arlon 75-77, 1040 Brüssel,
+Belgia
+
+14) Société des Auteurs, Compositeurs et Editeurs de Musique (SACEM),
+225 av Charles de Gaulle, 92528 Neuilly sur Seine Cedex, Prantsusmaa
+
+15) Združenje skladateljev, avtorjev in založnikov za zaščito avtorskih pravic Slovenije
+(SAZAS), Trzaska cesta 34, 1000 Ljubljana, Sloveenia
+
+16) Sociedad General de Autores y Editores (SGAE), Fernando VI-4, 28004 Madrid,
+Hispaania
+
+17) Societa Italiana degli Autori ed Editori ( SIAE), VIALE della Letteratura 30,
+00144 Rooma, Itaalia
+
+18) Slovenský ochranný Zväz Autorský pre práva k hudobným dielam (SOZA),
+Rastislavova 3, 2108 Bratislava 2, Slovakkia
+
+19) Sociedade Portuguesa de Autores (SPA), Avenue Duque de Loulé 31,
+1069-153 Lissabon, Portugal
+
+20) Samband Tónskalda og Eigenda Flutningsréttar (STEF), Laufasvegi 40,
+101 Reykjavik, Island
+
+21) Svenska Tonsättares Internationella Musikbyrå (STIM), BOX 27327,
+10254 Stockholm, Rootsi
+
+22) Säveltäjäin Tekijänoikeustoimisto teosto r.y.(TEOSTO), Lauttasaarentie 1,
+00200 Helsinki, Soome
+
+23) The Norwegian Performing Right Society (TONO), Postboks 9171, Gronland,
+0134 Oslo, Norra
+
+24) Stowarzyszenie Autorów ZAiKS (ZAIKS), 2, Hipoteczna Street, PO Box P-16,
+00092 Varssavi, Poola
+
+Käesolev otsus on täitmisele pööratav vastavalt asutamislepingu artiklile 256 ja EMP lepingu
+artiklile 110.
+
+Brüssel, 16.07.2008
+
+Komisjoni nimel
+
+komisjoni liige
+Neelie KROES
+
+71

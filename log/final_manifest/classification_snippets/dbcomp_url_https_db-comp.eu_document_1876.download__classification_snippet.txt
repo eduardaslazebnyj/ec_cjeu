@@ -1,0 +1,503 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+CASE AT.39813
+Baltic rail
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 02/10/2017
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 2.10.2017
+C(2017) 6544 final
+
+COMMISSION DECISION
+
+of 2.10.2017
+
+relating to proceedings under Article 102 of the Treaty on the Functioning of the
+European Union
+
+AT.39813 - Baltic Rail
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction .................................................................................................................. 8
+
+2. Parties to the proceedings ............................................................................................. 8
+
+2.1. The addressee of the decision ...................................................................................... 8
+
+2.2. The complainant ........................................................................................................... 8
+
+3. Procedure ...................................................................................................................... 9
+
+4. Description of LG's practices which are the subject of this decision ......................... 10
+
+4.1. OL railway freight business ....................................................................................... 10
+
+4.2. The commercial dispute between OL and LG ........................................................... 12
+
+4.3. OL sought to switch to LDZ and the Latvian seaports .............................................. 13
+
+4.4. The condition of the Track prior to 2 September 2008 .............................................. 15
+
+4.5. September 2008: events leading to the removal of the Track .................................... 16
+
+4.5.1. The detection of the Deformation .............................................................................. 16
+
+4.5.2. The reports of 5 September 2008 ............................................................................... 17
+
+4.5.3. The letters from the director of LG's local branch of 4 and 5 September 2008 ......... 19
+
+4.5.4. The Extraordinary Inspection Report of 12 September 2008 .................................... 20
+
+4.5.5. The decision to remove the Track .............................................................................. 24
+
+4.6. Involvement of the Lithuanian State Railways Inspectorate ...................................... 25
+
+4.7. Information given to OL on LG's actions .................................................................. 26
+
+4.8. The new transport agreement between LG and OL ................................................... 27
+
+4.9. Funding the reconstruction of the Track .................................................................... 27
+
+4.9.1. The initial request for funding.................................................................................... 27
+
+4.9.2. The Feasibility Study ................................................................................................. 28
+
+4.9.3. State funds .................................................................................................................. 30
+
+4.9.4. OL's funding offer ...................................................................................................... 30
+
+4.9.5. The self-financing option ........................................................................................... 31
+
+4.9.6. Union Funds ............................................................................................................... 32
+
+4.9.7. Removal from the priority list for Union funding ...................................................... 33
+
+4.10. Arbitration between LG and OL ................................................................................ 33
+
+4.11. Evidence regarding LG's concerns with respect to the Track .................................... 35
+
+4.11.1. Seized document LK7 ................................................................................................ 35
+
+4.11.2. Seized document VJ16 ............................................................................................... 36
+
+4.11.3. Seized documents VJ9 ............................................................................................... 37
+
+4.11.4. Seized documents VJ20 ............................................................................................. 38
+
+4.11.5. Seized document ES9/VJ6 ......................................................................................... 38
+
+EN 3 EN
+
+4.11.6. Seized document LK13 .............................................................................................. 39
+
+4.11.7. Annex 33 of the Complaint ........................................................................................ 40
+
+4.12. LDZ's entry into the Lithuanian Market..................................................................... 40
+
+5. Regulatory framework ............................................................................................... 41
+
+5.1. Union legislation ........................................................................................................ 41
+
+5.1.1. Licensing and safety certificates ................................................................................ 42
+
+5.1.2. Directive 91/440/EEC ................................................................................................ 42
+
+5.1.3. Directive 2001/14/EC ................................................................................................. 43
+
+5.1.4. The recast Directive 2012/34/EU .............................................................................. 44
+
+5.2. Lithuanian legislation ................................................................................................. 44
+
+5.2.1. Ownership of infrastructure ....................................................................................... 44
+
+5.2.2. Funding ...................................................................................................................... 46
+
+5.2.3. Access to the infrastructure ........................................................................................ 47
+
+5.2.4. Charges ....................................................................................................................... 50
+
+5.2.5. Infringement procedures against Lithuania ................................................................ 52
+
+6. Dominant position by an undertaking ........................................................................ 52
+
+6.1. Undertaking ................................................................................................................ 52
+
+6.2. The relevant product market ...................................................................................... 52
+
+6.2.1. Principles .................................................................................................................... 52
+
+6.2.2. Management of railway infrastructure ....................................................................... 53
+
+6.2.3. Provision of rail transport services for oil products ................................................... 53
+
+6.3. The relevant geographic market ................................................................................. 55
+
+6.3.1. Principles .................................................................................................................... 55
+
+6.3.2. Management of railway infrastructure ....................................................................... 56
+
+6.3.3. Provision of rail transport services for oil products ................................................... 56
+
+6.4. LG's dominant position on the relevant market ......................................................... 56
+
+6.4.1. Principles .................................................................................................................... 56
+
+6.4.2. Management of railway infrastructure ....................................................................... 57
+
+6.4.3. Provision of rail transport services for oil products ................................................... 57
+
+6.5. Dominance in a substantial part of the internal market .............................................. 58
+
+7. The abuse ................................................................................................................... 58
+
+7.1. Principles .................................................................................................................... 58
+
+7.2. Application to this Decision ....................................................................................... 60
+
+7.3. The removal of the Track ........................................................................................... 60
+
+7.3.1. As regards the actual occurrence of the Deformation ................................................ 60
+
+EN 4 EN
+
+7.3.2. Recourse to methods different from those which condition normal competition ...... 61
+
+7.3.2.1. LG was aware of OL plans to switch to the Latvian seaports using LDZ services ... 61
+
+7.3.2.2. The removal of the Track by LG was done in great haste without securing the
+necessary funds and without taking any of the normal preparatory steps for its
+reconstruction. ............................................................................................................ 61
+
+7.3.2.3. The removal of the Track was contrary to standard practice ..................................... 64
+
+7.3.2.4. LG was concerned that if the Track was rebuilt, LG would lose OL's business........ 65
+
+7.3.2.5. LG took steps to convince the Lithuanian government not to rebuild the Track ....... 65
+
+7.4. Potential Effects on Competition ............................................................................... 65
+
+7.4.1. Prior to the removal of the Track, LDZ had a credible opportunity to offer rail
+transport services for OL's oil products and to exert competitive pressure on LG .... 66
+
+7.4.1.1. Based on technical and capacity considerations, OL's oil products could have been
+transported from the Refinery to the Latvian seaports ............................................... 67
+
+7.4.1.2. The Latvian seaports were a credible alternative to the port of Klaipeda for handling
+of OL's oil products .................................................................................................... 69
+
+7.4.1.3. OL chooses route to seaport based on rail transport costs ......................................... 74
+
+7.4.1.4. Rail transport costs depend on distance of route and Member State where it is located
+.................................................................................................................................... 75
+
+7.4.1.5. LDZ could have made competitive offer on Short Routes to Latvian seaports ......... 78
+
+7.4.1.6. Economic analysis of routes based on comparable costs ........................................... 81
+
+7.4.2. Without the Track, LDZ had no more opportunity to offer rail transport services for
+OL's oil products and to exert competitive pressure on LG ....................................... 85
+
+7.4.2.1. Barriers to entry in the rail sector ............................................................................... 86
+
+7.4.2.2. Access to the railway infrastructure and to additional railway services .................... 87
+
+7.4.2.3. Lack of information and transparency on market entry conditions ........................... 89
+
+7.4.2.4. The Long Routes to the Latvian seaports were not cost-efficient .............................. 90
+
+7.4.2.5. Corroborating evidence on competitive advantage of LG on its network ................. 91
+
+7.4.3. LG's behaviour foreclosed LDZ and had potential anti-competitive effects on the
+market for the provision of rail transport services for oil products ............................ 92
+
+7.5. Objective justification ................................................................................................ 94
+
+7.5.1. General considerations ............................................................................................... 94
+
+7.5.2. Assessment ................................................................................................................. 94
+
+7.5.2.1. The Wacetob Report .................................................................................................. 98
+
+7.5.3. Conclusions on the alleged objective justification ................................................... 100
+
+8. Effect on trade between member states .................................................................... 100
+
+9. Duration of the Infringement ................................................................................... 100
+
+10. Fines ......................................................................................................................... 101
+
+10.1. Principles .................................................................................................................. 101
+
+EN 5 EN
+
+10.2. Application to this Decsion ...................................................................................... 101
+
+10.2.1. Intent or negligence .................................................................................................. 101
+
+10.2.2. The basic amount of the fine .................................................................................... 102
+
+10.2.2.1. Value of Sales .......................................................................................................... 102
+
+10.2.2.2. Gravity ..................................................................................................................... 102
+
+10.2.2.3. Duration ................................................................................................................... 103
+
+10.2.2.4. Additional amount ................................................................................................... 103
+
+10.2.3. Mitigating and aggravating circumstances ............................................................... 103
+
+10.2.4. Application of the 10% turnover limit ..................................................................... 103
+
+10.2.5. Conclusion: final amount of fines for LG ................................................................ 103
+
+11. Remedies .................................................................................................................. 103
+
+11.1. Principles ..............................
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+Commission may take into account other years as a proxy for the determination of
+the relevant value of sales.
+
+(373) The infringement in this Decision foreclosed competition in the market for the
+provision of rail transport services for oil products between the Refinery and the
+seaports of Klaipėda, Riga and Ventspils. In this market, LG's value of sales is
+composed of the income generated by transporting OL's oil products from the
+Refinery to the seaport in Klaipėda. Since the infringement is on-going, the
+Commission considers LG's value of sales in 2016 to be the reference. During that
+year, the value of sales amounted to EUR [*].464
+
+10.2.2.2. Gravity
+
+(374) The gravity of an infringement determines the percentage of the value of sales taken
+into account in setting the fines. In assessing the gravity of an infringement, the
+Commission will have regard to a number of factors, such as the nature of the
+infringement, the combined market share of all the undertakings concerned, the
+geographic scope of the infringement and/or whether or not the infringement has
+been implemented (paragraph 22 of the Guidelines).
+
+(375) As a general rule, the basic amount of the fines is related to a proportion of the value
+of sales of up to 30%, depending on the degree of gravity of the infringement,
+multiplied by the number of years of the infringement (paragraphs 21 and 29 of the
+Guidelines).
+
+(376) In its assessment, the Commission has considered the following elements:
+
+(377) The nature of the infringement: the Commission considers that the infringement in
+the form of removal of a public railway track between two Member States harms
+further consolidation of the Single Market, in particular a single European rail
+market.
+
+(378) Market shares: on both the market for management of the railway infrastructure and
+the market for rail transport services of oil products in Lithuania LG is the only
+service provider.
+
+(379) The geographic scope of the infringement covers the origin and destination
+combinations from the Refinery to the seaports of Klaipėda, Riga and Ventspils in
+two Member States, namely Lithuania and Latvia.
+
+(380) Implementation: the abusive conduct of removing the Track began as of 3 October
+2008.
+
+464 LG's response to the 7th RFI, page 2 (ID1351/2).
+
+EN 102 EN
+
+(381) The Commission has taken into account the limited geographical scope of the
+infringement on the one hand and the very high market shares of LG and the negative
+impact of the infringement on further consolidation of the Single Market on the other
+hand. The Commission therefore considers that the proportion of the value of sales to
+be taken into account should be [*], thereby leading to an initial amount of the fine of
+EUR [*].
+
+10.2.2.3. Duration
+
+(382) The infringement started on 3 October 2008 and is on-going at the date of adoption
+of this Decision. The multiplier to be applied to the initial amount is therefore 9.
+
+10.2.2.4. Additional amount
+
+(383) According to paragraph 25 of the Guidelines, irrespective of the duration of the
+undertaking's participation in the infringement, the Commission may include in the
+basic amount an additional amount of up to 25% of the value of sales in order to
+deter undertakings. For the purpose of deciding the proportion of the value of sales to
+be considered in a given case, the Commission will have regard to a number of
+factors, in particular those referred to in paragraph 22 of the Guidelines and
+elaborated in section 10.2.2.2.
+
+(384) In view of the nature of the infringement (see recital (377)), the Commission imposes
+an additional amount of [*] of the value of sales, that is EUR [*].
+
+10.2.3. Mitigating and aggravating circumstances
+
+(385) There are no mitigating or aggravating circumstances to be taken into account.
+
+(386) The rounded amount of the fine is therefore EUR 27 873 000.
+
+10.2.4. Application of the 10% turnover limit
+
+(387) According to Article 23(2) Regulation (EC) No 1/2003, the fine for the infringement
+by LG must not exceed 10% of its total turnover in business year preceding the
+adoption of the Commission decision.
+(388) LG's total turnover in 2016 was EUR 409.5 million.465 The final amount set out in
+recital (386) does not exceed 10% of the total turnover of LG for the last full
+business year.
+
+10.2.5. Conclusion: final amount of fines for LG
+
+(389) Therefore the fine to be imposed on LG pursuant to Article 23(2) of Regulation (EC)
+No 1/2003 should be EUR 27 873 000.
+
+11. REMEDIES
+
+11.1. Principles
+
+(390) According to Article 7 of Regulation (EC) No 1/2003 where the Commission, acting
+on a complaint or on its own initiative, finds that there is an infringement of Article
+102 of the Treaty it may by decision require the undertakings concerned to bring
+such infringement to an end.
+
+465 LG's response to the 7th RFI, page 3 (ID1351/3).
+
+EN 103 EN
+
+(391) According to that Article, the Commission may impose any behavioural or structural
+remedies that are proportionate to the infringement and that are necessary to bring
+the infringement effectively to an end.
+
+(392) The Union courts have confirmed that the Commission may require the undertaking
+to submit proposals with a view of bringing the situation into conformity with the
+requirements of the Treaty.466 The Commission cannot impose on the undertaking its
+own choice from amongst all the various potential courses of action that are in
+conformity with the Treaty.467
+
+(393) The requirement for a remedy to be effective also authorises the Commission to
+require a dominant undertaking to refrain from all measures that have an equivalent
+effect to the identified abusive behaviour.
+
+11.2. Application to this Decision
+
+(394) The Commission considers that there may be several possible structural or
+behavioural remedies that would bring the infringement to an end either by restoring
+the competitive situation that existed before the removal of the Track by
+reconstructing it or by eliminating the disadvantages facing competitors on the
+alternative routes to the seaports of Klaipėda, Riga and Ventspils as described in
+section 7.4.2.
+
+(395) The Commission therefore considers that it would be appropriate to order LG to
+bring the infringement to an end and to submit to it within three months a proposal
+for measures to that effect. That submission shall be sufficiently detailed in order to
+enable the Commission to make a preliminarily assessment as to whether the
+proposed measures will ensure effective compliance with the Decision.
+
+(396) The Commission also considers that it would be appropriate to order LG to refrain
+from repeating any act or conduct having the same or an equivalent object or effect
+of removing the rail track between Mažeikiai in Lithuania and the Latvian border.
+
+12. CONCLUSIONS
+
+(397) In light of the consideration set out in this Decision LG should be held liable for the
+infringement of Article 102 of Treaty, a fine should be imposed on it pursuant to
+Article 23(2) of Regulation (EC) No 1/2003 and an order adopted requiring LG: a) to
+bring the infringement to an end in accordance with Article 7(1) of that Regulation
+and b) refrain from repeating any act or conduct having the same or an equivalent
+object or effect.
+
+HAS ADOPTED THIS DECISION:
+
+466 Commercial Solvents v Commission, Jointed Cases 6 and 7/73 , ECLI:EU:C:1974:18 paragraph 45. See
+also, ITP v Commission, T-76/89 , ECLI:EU:T:1991:41, paragraph 71 and RTE v Commission, T-69/89,
+ECLI:EU:T:1991:39, paragraph 98.
+467 Automec v Commission, T-24/90. ECLI:EU:T:1992:97, paragraph 52.
+
+EN 104 EN
+
+Article 1
+
+AB Lietuvos geležinkeliai has infringed Article 102 of the Treaty by removing the rail track
+between Mažeikiai in Lithuania and the Latvian border. The infringement started on 3
+October 2008 and is on-going at the date of adoption of this Decision.
+
+Article 2
+
+For the infringement referred to in Article 1, a fine of EUR 27 873 000 is imposed on
+AB Lietuvos geležinkeliai.
+
+The fine shall be credited in euro, within a period of three months from the date of
+notification of this Decision to the following account held in the name of the European
+Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1-2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI/AT.39813
+
+After the expiry of this period, interest will automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+
+Where AB Lietuvos geležinkeliai lodges an action for annulment against this Decision, it
+must cover the fine by the due date, either by providing an acceptable financial guarantee, or
+by making a provisional payment of the fine in accordance with Article 90 of Commission
+Delegated Regulation (EU) No 1268/2012.468
+
+Article 3
+
+AB Lietuvos geležinkeliai shall bring to an end the infringement referred to in Article 1 and
+submit to the Commission within three months a proposal for measures to that effect. That
+submission shall be sufficiently detailed in order to enable the Commission to make a
+preliminarily assessment as to whether the proposed measures will ensure effective
+compliance with the Decision.
+
+AB Lietuvos geležinkeliai shall refrain from repeating any act or conduct having the same or
+similar object or effect to the act described in Article 1.
+
+Article 4
+
+This Decision is addressed to AB Lietuvos geležinkeliai, Mindaugo g. 12, LT- 03603 Vilnius,
+Lithuania.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+
+468 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L362, 31.12.2012, p.1).
+
+EN 105 EN
+
+Done at Brussels, 2.10.2017
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 106 EN

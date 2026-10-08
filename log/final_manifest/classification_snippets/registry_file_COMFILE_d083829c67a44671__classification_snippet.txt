@@ -1,0 +1,338 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# PROCESSO COMP AT.39839 – TELEFONICA/PORTUGAL TELECOM
+
+(Apenas fazem fé os textos em língua inglesa e portuguesa)
+
+# ANTITRUST PROCEDURE Regulamento (CE) n.° 1/2003 do Conselho
+
+Artigo 7.o Regulamento (CE) n.° 1/2003 do Conselho
+
+Data: 23/01/2013
+
+O presente texto tem carácter meramente informativo. Um resumo da decisão é publicado em todas as línguas da UE no Jornal Oficial da União Europeia.
+
+Certas passagens do presente texto foram suprimidas para assegurar a confidencialidade da informação nele contidas. Essas passagens são substituídas por um resumo não confidencial que figura entre parêntesis retos ou são indicadas pelo símbolo [..].
+
+Bruxelas, 23.1.2013
+
+C(2013) 306 final
+
+VERSÃO PÚBLICA
+
+# DECISÃO DA COMISSÃO
+
+de 23.1.2013
+
+dirigida à
+
+Telefónica, S.A. e à
+
+Portugal Telecom SGPS, S.A.
+
+relativa a um procedimento nos termos do artigo 101.o do Tratado sobre o
+
+Funcionamento da União Europeia
+
+(Procedimento AT.39839 – Telefónica / Portugal Telecom)
+
+(Apenas fazem fé os textos em língua inglesa e portuguesa)
+
+## ÍNDICE
+
+1. INTRODUÇÃO
+2. PROCEDIMENTO
+3. DESTINATÁRIOS DA PRESENTE DECISÃO 8
+3.1. Identificação dos destinatários. 8
+3.2. Telefónica 8
+3.2.1. O grupo Telefónica e a sua dimensão internacional. 8
+3.2.2. A Telefónica em Espanha 9
+3.2.3. Atual presença da Telefónica em Portugal 10
+3.3. Portugal Telecom 11
+3.3.1. O grupo PT e a sua dimensão internacional .11
+3.3.2. A PT em Portugal. .12
+3.3.3. Presença atual da PT em Espanha. 13
+4. A CLÁUSULA .13
+4.1. A transação da Vivo e o Acordo .14
+4.1.1. Vivo .14
+4.1.2. A oferta de 6 de maio de 2010 (a «primeira oferta») 14
+4.1.3. A oferta de 1 de junho de 2010 (a segunda oferta) .15
+4.1.4. A oferta de 29 de junho de 2010 (terceira oferta). 17
+4.1.5. O Acordo 18
+4.1.6. A Conclusão e as escrituras notariais 21
+4.1.7. O alegado envolvimento do Governo português nas negociações da transação da
+Vivo. 21
+4.2. Os alegados objetivo e significado da cláusula 24
+4.3. O alegado exercício de autoavaliação 28
+4.3.1. A não realização de um exercício de autoavaliação antes da Conclusão. .28
+4.3.2. Os factos ocorridos na sequência da Conclusão do Acordo em 27 de setembro e, em
+especial, as alegadas conferências telefónicas de 26 e 29 de outubro de 2010 ........ 30
+4.3.3. Apreciação dos elementos de prova apresentados relativamente às conferências
+telefónicas de 26 e 29 de outubro de 2010 .33
+4.4. A revogação da cláusula. .35
+4.5. A publicidade dada à cláusula 36
+5. ÂMBITO DA CLÁUSULA E MERCADOS RELEVANTES 36
+5.1. O âmbito da cláusula. 36
+5.1.1. Produtos em causa. .37
+5.1.2. Âmbito geográfico da cláusula. 37
+5.1.3. Âmbito da cláusula tendo em conta as atividades das partes .37
+5.2. Observações das partes relativamente ao âmbito da cláusula 39
+5.2.1. O caráter vago da redação 39
+5.2.2. Setor das telecomunicações . 39
+5.2.3. A cláusula abrangeria apenas atividades e investimentos em que as partes estão numa
+relação concorrencial, efetiva ou potencial 40
+5.2.4. As atividades e investimentos excluídos . 41
+5.2.5. Âmbito geográfico da cláusula .. .45
+5.2.6. Conclusão no que se refere ao âmbito de aplicação da cláusula. 46
+5.3. Mercados do produto relevantes .47
+5.3.1. Mercados relacionados com a telefonia fixa .47
+5.3.2. Mercados relacionados com as linhas alugadas. .49
+5.3.3. Mercados relacionados com a telefonia móvel.. .50
+5.3.4. Mercados relacionados com o acesso à Internet. 52
+5.3.5. Mercados relacionados com a prestação de serviços transfronteiras. 54
+5.3.6. Mercados relacionados com os serviços de televisão . .55
+5.4. Mercados geográficos relevantes .. 56
+5.5. A presença das partes nos mercados relevantes. 56
+5.5.1. Telefónica 57
+5.5.2. PT 61
+6. APLICAÇÃO DO ARTIGO 101.°, N.o 1, DO TRATADO 65
+6.1. Artigo 101.o, n.o 1, do Tratado .. .65
+6.2. Acordo. .65
+6.3. Restrição da concorrência por objeto. .66
+6.3.1. O conteúdo do acordo. 67
+6.3.2. Objetivos visados pela cláusula . 70
+6.3.3. O contexto económico e jurídico em que se insere a cláusula 70
+6.3.4. O comportamento efetivo das partes. 78
+6.3.5. A intenção das partes. 83
+6.3.6. Outros argumentos apresentados relativamente ao significado da cláusula e à
+expressão «na medida do permitido por lei» .84
+6.3.7. Conclusão no que se refere ao objeto da cláusula. .87
+6.4. Argumentação das partes no que se refere aos efeitos da cláusula .88
+6.5. Restrições acessórias .91
+6.5.1. Considerações gerais em matéria de restrições acessórias .91
+6.5.2. Argumentos das partes quanto à classificação da cláusula como uma restrição
+acessória. .92
+6.5.3. As alegadas dúvidas razoáveis na altura da transação da Vivo sobre a classificação da
+cláusula como uma restrição acessória 102
+6.5.4. Conclusão sobre o caráter acessório. .. 104
+6.6. Conclusão no que se refere à aplicação do artigo 101.o, n.o 1, do Tratado... ...104
+7. APLICAÇÃO DO ARTIGO 101.o, N.o 3, DO TRATADO .. 104
+7.1. Artigo 101.o, n.o 3, do Tratado. .. 104
+7.2. Análise das condições do artigo 101.o, n.o 3, do Tratado. 105
+8. EFEITO SOBRE O COMÉRCIO ENTRE OS ESTADOS-MEMBROS .... 106
+9. DURAÇÃO DA INFRAÇÃO .107
+9.1. Data de início da infração. 108
+9.2. Data de termo da infração. .. 108
+9.3. Conclusão no que se refere à duração .109
+10. MEDIDAS CORRETIVAS 109
+10.1. Artigo 7.o do Regulamento (CE) n.o 1/2003 109
+10.2. Artigo 23.o, n.o 2, do Regulamento (CE) n.o 1/2003 – coimas. 110
+10.3. Montante de base das coimas. .112
+10.3.1. Metodologia 112
+10.3.2. O valor das vendas .. 112
+10.3.3. Gravidade. .113
+10.3.4. Duração. 114
+10.3.5. Conclusão no que se refere aos montantes de base das coimas a aplicar..... ......115
+10.4. Ajustamentos do montante de base .115
+10.4.1. Circunstâncias agravantes.. 115
+10.4.2. Circunstâncias atenuantes.. 115
+10.4.3. Conclusão no que se refere aos montantes de base ajustados das coimas a aplicar 118
+10.5. Aplicação do limite de 10 % do volume de negócios .. 118
+10.6. Conclusão: no que se refere ao montante final das coimas individuais .. ...118
+11. CONCLUSÃO. .119
+ANEXO CONFIDENCIAL 121
+
+# DECISÃO DA COMISSÃO
+
+de 23.1.2013
+
+dirigida à Telefónica, S.A. e à Portugal Telecom SGPS, S.A. relativa a um procedimento nos termos do artigo 101.o do Tratado sobre o Funcionamento da União Europeia (Procedimento AT.39839 – Telefónica / Portugal Telecom)
+
+(Apenas fazem fé os textos em língua inglesa e portuguesa)
+
+## A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.o 1/2003 do Conselho, de 16 de dezembro de 2002, relativo à execução das regras de concorrência estabelecidas nos artigos 81.o e 82.o do Tratado1, nomeadamente, o artigo 7.o e o artigo 23.o, n.o 2,
+
+Tendo em conta a decisão da Comissão de 19 de janeiro de 2011 de dar início a um procedimento no presente caso,
+
+Tendo dado às empresas em causa a oportunidade para apresentarem as suas observações sobre as objeções formuladas pela Comissão nos termos do artigo 27.o, n.o 1, do Regulamento (CE) n.o 1/2003 e do artigo 11.o, n.o 1, do Regulamento (CE) n.o 773/2004 da Comissão, de 7 de abril de 2004, relativo à instrução de processos pela Comissão para efeitos dos artigos 81.° e 82.° do Tratado2,
+
+Após consulta do Comité Consultivo em matéria de Acordos, Decisões e Práticas Concertadas e de Posições Dominantes,
+
+Tendo em conta o relatório final do Auditor no presente caso3,
+
+Considerando o seguinte:
+
+## 1. INTRODUÇÃO
+
+(1) A presente decisão refere-se a um acordo de «não concorrência» entre a Telefónica, S.A. («Telefónica») e a Portugal Telecom SGPS, S.A. («PT»), incluído enquanto cláusula 9.a do Acordo de Compra de Ações celebrado entre estas empresas4 em 28 de julho de 2010 no que se refere à aquisição, por parte da Telefónica, do controlo exclusivo do operador brasileiro de serviços móveis, Vivo Participações, S.A. («Vivo») («Acordo»)5· Esta cláusula («cláusula) tem a seguinte redação:
+
+## «9.a - Não concorrência»
+
+Na medida do permitido por lei, as partes abster-se-ão de participar ou investir, direta ou indiretamente através de qualquer filial, em qualquer projeto no setor das telecomunicações (incluindo serviços de comunicações fixas ou móveis, serviços de acesso à Internet e serviços de televisão, mas excluindo qualquer investimento e atividade detidos ou realizados à data do presente acordo) que possa ser considerado como estando em concorrência com a outra parte no mercado ibérico, por um período com início na data [27 de Setembro de 2010] de Conclusão e até 31 de dezembro de 2011.»
+
+(2) Em 21 de outubro de 2011, a Comissão adotou uma comunicação de objeções («comunicação de objeções») em que apresentava a sua conclusão preliminar de que, à luz do conteúdo da cláusula e de outras circunstâncias, como o contexto económico e jurídico em que se insere e o comportamento efetivo das partes, a cláusula equivale a um acordo de partilha de mercado com o objeto de restringir a concorrência no mercado interno, constituindo por conseguinte uma infração ao artigo 101.o do Tratado. A presente decisão mantém e confirma essa conclusão preliminar. Informação confidencial, acessível apenas a cada uma das partes, encontra-se no anexo à presente decisão.
+
+## 2. PROCEDIMENTO
+
+(3) A cláusula foi detetada em setembro de 2010 pela Autoridade de Concorrência espanhola, Comisión Nacional de Competencia («CNC»), que informou a Comissão e a Autoridade da Concorrência portuguesa («AdC»), da sua existência. A Comissão, a CNC6 e a AdC7 consideraram que a Comissão deveria ser responsável pela investigação.
+
+(4) Em conformidade com o artigo 12.o do Regulamento (CE) n.o 1/2003, em 7 de outubro de 2010 e 13 de outubro de 2010, a CNC enviou à Comissão todos os documentos que tinha obtido junto da Telefónica até essa data, a fim de investigar acordos potencialmente restritivos entre a Telefónica e a PT, relacionados com a cooperação destas empresas e com o Acordo8.
+
+(5) Em 19 de janeiro de 2011, a Comissão decidiu dar início a um procedimento contra a Telefónica e a PT no presente caso nos termos do artigo 11.o, n.o 6, do Regulamento (CE) n.o 1/2003 e do artigo 2.o, n.o 1, do Regulamento (CE) n.o 773/2004.
+
+(6) No âmbito da investigação, a Comissão enviou às partes no presente procedimento pedidos de informações nos termos do artigo 18.°, n.o 2, do Regulamento (CE) n.o 1/2003 («pedidos de informações») em 5 de janeiro de 2011, 1 de abril de 2011, 25 de maio de 2011, 10 de junho de 2011, 24 de junho de 2011, 5 de setembro de 2012 e 18 de Dezembro de 2012, bem como a certos clientes multinacionais das partes no presente procedimento em 20 de abril de 2011. Além disso, foram realizadas reuniões para fazer o ponto da situação com a PT em 17 de março de 2011, em 8 de setembro de 2011 e em 27 de setembro de 2012, e com a Telefónica em 21 de março de 2011, em 7 de setembro de 2011 e em 27 de setembro de 2012.
+
+(7) Em 21 de outubro de 2011, a Comissão adotou a comunicação de objeções referida no considerando 2.
+
+(8) Na sequência da comunicação de objeções, e tal como solicitado pelas partes no presente procedimento em 31 de outubro de 2011, foi-lhes concedido acesso à documentação do procedimento da Comissão em 4 de novembro de 2011. Receberam os documentos em 7 de novembro de 2011.
+
+(9) A Telefónica e a PT apresentaram as suas respostas à comunicação de objeções em 13 de janeiro de 2012. Não solicitaram a realização de uma audição oral.
+
+## 3. DESTINATÁRIOS DA PRESENTE DECISÃO
+
+## 3.1. Identificação dos destinatários
+
+(10) A Telefónica e a PT são as destinatárias da presente decisão e são responsáveis pela infração objeto da presente decisão. Estas empresas são partes no Acordo que inclui a cláusula e participaram diretamente na infração objeto da presente decisão. As destinatárias são as empresas-mãe dos respetivos grupos de empresas.
+
+(11) Além disso, a infração diz igualmente respeito à PT Móveis Serviços de Telecomunicações SGPS S.A., que é também parte no Acordo e uma filial detida a 100 % pela Portugal Telecom SGPS, S.A.9
+
+## 3.2. Telefónica
+
+3.2.1. O grupo Telefónica e a sua dimensão internacional
+
+(12) A Telefónica detinha o anterior monopólio estatal de telecomunicações de Espanha, tendo sido totalmente privatizada em 1997. A Telefónica desenvolveu uma presença internacional em diversos países na União Europeia, América Latina e África, conforme descrito nos considerandos 13 e 14. É atualmente um dos maiores grupos europeus de telecomunicações, com receitas a nível mundial de 62 837 milhões de EUR em 2011, 72,4 % das quais geradas fora de Espanha (as receitas em Espanha elevaram-se a 17 284 milhões de EUR)1o
+
+(13) A Telefónica tem uma presença especialmente forte na América Latina, onde presta serviços de telefonia fixa, telefonia móvel, Internet, banda larga e televisão por subscrição em vários países terceiros, entre os quais Argentina, Brasil, Chile, Colômbia, Costa Rica, Equador, Salvador, Guatemala, México, Nicarágua, Panamá, Peru, Uruguai e Venezuela
+
+(14) Fora de Espanha, a Telefónica também oferece serviços fixos, móveis ou de banda larga noutros Estados-Membros, nomeadamente, na República Checa, Alemanha, Irlanda, Eslováquia e Reino Unido 12. Além disso, detém uma participação minoritária na Telecom Italia S.p.A.13.
+
+(15) A Telefónica International Wholesale Services, S.L. («TIWS») é uma filial detida a 100 % pela Telefónica. Esta empresa oferece serviços grossistas à escala global, nomeadamente, serviços de voz, capacidade de transmissão, satélite, serviços a empresas e serviços móveis. A TIWS gere a rede internacional da Telefónica nos países em que a Telefónica não possui infra-estrutura de rede própria, os países «offnet», através da sua filial detida a 100 % Telefónica International Wholesale Services II, S.L. («TIWS II»), que foi criada em 2009 e que, por seu turno, tinha incorporado
+
+## 3.2.2. A Telefónica em Espanha
+
+(16) A Telefónica é o maior operador de telecomunicações em Espanha e é líder de mercado em praticamente todos os mercados das telecomunicações. A importância da Telefónica, enquanto grupo, está patente no facto de, em 2011, ter representado 46,7 % de todas as receitas geradas pelo setor das telecomunicações espanhol15. Em comparação, o segundo maior operador no mercado espanhol, a Vodafone España, gerou 14,9 % das receitas totais. Além disso, a Telefónica foi designada como o prestador do serviço universal em Espanha, para o período de 2012 a 2017.
+
+(17) As quotas de mercado e a presença da Telefónica no mercado espanhol das telecomunicações são descritas em pormenor na secção 5.5.
+
+(18) A Telefónica detém atualmente uma participação de cerca de 2 % na PT. A evolução desta participação é apresentada no quadro seguinte16:
+
+Quadro 1: Participação da Telefónica na PT
+<table><tr><td rowspan=1 colspan=1>Ano</td><td rowspan=1 colspan=1>Participação na PT(%)</td><td rowspan=1 colspan=1>Ano</td><td rowspan=1 colspan=1>Participação na PT(%)</td></tr><tr><td rowspan=1 colspan=1>1996</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2004</td><td rowspan=1 colspan=1>9,58</td></tr><tr><td rowspan=1 colspan=1>1997</td><td rowspan=1 colspan=1>3,50</td><td rowspan
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+a em setembro de 2010 e pondo formalmente termo à cláusula na sequência do início do procedimento pela Comissão.
+
+(b) A Telefónica evitou aplicar a cláusula adotando um comportamento concorrencial no mercado (como o alegado exercício de autoavaliação). Como decorre dos processos Cheil Jedang Corp395 e Guütermann AG396, a aplicação da circunstância atenuante em relação à adoção do comportamento concorrencial devia basear-se no comportamento individual das partes e, por conseguinte, a intenção subjetiva das partes seria relevante. A este respeito, a Telefónica afirma que o acordo nunca foi executado, como era a intenção das partes. Além disso, a Telefónica adotou sempre uma abordagem pró-concorrencial, visto que a cláusula não foi incluída por sua iniciativa e a Telefónica reduziu o seu âmbito e duração. O papel desempenhado por cada parte na infração devia ser apreciado numa base individual.
+
+(c) A Telefónica não teria cometido a infração deliberadamente mas, quanto muito, por negligência.
+
+(d) A intervenção do Governo português nas negociações teve uma influência direta em relação à introdução da cláusula e ao comportamento da Telefónica, visto que a Telefónica teve de tomar em consideração a posição do Governo português em relação à transação da Vivo. Esta intervenção poderá não excluir a responsabilidade da Telefónica mas deve, de qualquer forma, ser considerada como uma circunstância atenuante, como o demonstram os procedimentos relativos à carne de bovino francesa397 e ao tabaco em rama - Espanha398.
+
+(e) A Telefónica cooperou inteiramente com a Comissão, fornecendo as informações solicitadas e informações complementares.
+
+(498) Por outro lado, a Telefónica afirma que o facto de a infração não ter sido cometida de forma deliberada nem negligente, juntamente com as circunstâncias atenuantesreferidas no considerando 497, requereria que, no caso de ser aplicada uma coima, esta fosse meramente simbólica399. Segundo a Telefónica, a prática da Comissão na área de comunicações electrónicas é evitar a aplicação de coimas nos casos em que as empresas tivessem adotado medidas que tivessem impedido a implementação da prática anticoncorrencial, tal como demonstrado no procedimento QSC AG/Deutsche Telekom AG (COMP.38.436).
+
+(499) Por seu turno, a PT afirma que os seguintes elementos deviam ser tomados em consideração como circunstâncias atenuantes: o facto de o acordo não ter sido mantido secreto e o facto de a PT ter atuado na convicção de que a utilização da expressão «na medida do permitido por lei» teria permitido aceitar a cláusula.
+
+## Apreciação da Comissão
+
+(500) As partes decidiram revogar a cláusula em 4 de fevereiro de 2011, pondo assim termo à infração. Tendo em conta que a revogação ocorreu apenas 16 dias após a Comissão ter iniciado o procedimento (e 30 dias após a Comissão ter enviado o seu primeiro pedido de informações às partes) e que a cláusula não é secreta, a Comissão considera que a referida revogação constitui uma circunstância atenuante. Esta circunstância atenuante aplica-se a ambas as partes de igual modo.
+
+(501) Tendo em conta o referido no considerando 500, o montante de base das coimas a aplicar às partes deve ser reduzido de 20 %.
+
+(502) Por outro lado, todos os outros argumentos apresentados pela Telefónica devem ser indeferidos. Em especial, não podem ser aceites os argumentos da Telefónica relacionados com a significativa limitação da sua participação na infração. A cláusula foi acordada por ambas as partes e estabelece igualmente uma obrigação de não concorrência imposta à PT. As justificações apresentadas pela Telefónica a este respeito não são convincentes (ver considerandos 81 e 82). Embora a PT possa ter defendido a conveniência e admissibilidade da cláusula, a responsabilidade pela sua introdução incumbe a ambas as partes.
+
+(503) Por conseguinte, os elementos de prova no procedimento da Comissão não provam que a participação da Telefónica na infração tenha sido substancialmente limitada.
+
+(504) Além disso, como analisado nos considerandos 473 a 477, a Comissão entende que as partes cometeram a infração deliberadamente e, por conseguinte, não pode considerar como circunstância atenuante ou como base para aplicar uma coima meramente simbólica o facto de a infração ter sido cometida apenas por negligência.
+
+(505) Por outro lado, a intervenção do Governo português nas negociações da transação da Vivo é descrita e apreciada na secção 4.1.7. Embora seja pacífico que membros do governo tenham prestado declarações públicas no sentido de que a PT deveria continuar a desempenhar um papel principal no setor das telecomunicações em Portugal e no Brasil, não existem elementos de prova no procedimento de que o Governo português tivesse imposto a cláusula, ou que tivesse incentivado a infração.
+
+(506) No que se refere à cooperação da Telefónica com a Comissão durante a investigação, a Comissão considera que tal cooperação foi claramente insuficiente para poder ser classificada como uma circunstância atenuante, visto nela nada existir de especial4oo.
+
+(507) O procedimento QSC AG/Deutsche Telekom AG (COMP.38.436) alegado pela Telefónica não impediria de nenhuma forma a Comissão de aplicar coimas no presente caso. O caso em apreço, que se refere a um acordo anticoncorrencial entre dois operadores, deve ser distinguido do procedimento QSC AG/Deutsche Telekom AG, no qual a Deutsche Telekom submeteu e requereu à NRA alemã um aumento de preços para o acesso partilhado à sua rede e depois alterou a sua submissão após a intervenção da Comissão para assegurar o cumprimento de compromissos anteriormente assumidos pela Deutsche Telekom perante a Comissão em 2004.
+
+(508) Por último, o argumento da PT quanto ao tratamento não secreto do acordo foi tomado em consideração pela Comissão na apreciação da gravidade da infração.
+
+10.4.3. Conclusão no que se refere aos montantes de base ajustados das coimas a aplicar
+
+(509) O montante de base ajustado das coimas a aplicar à Telefónica e à PT é o seguinte:
+
+<table><tr><td rowspan=1 colspan=1>Parte</td><td rowspan=1 colspan=1>Montante de base ajustado (EUR)</td></tr><tr><td rowspan=1 colspan=1>Telefónica</td><td rowspan=1 colspan=1>[60 000 000 to 70 000 000]</td></tr><tr><td rowspan=1 colspan=1>PT</td><td rowspan=1 colspan=1>[11 500 000 to 13 000 000]</td></tr></table>
+
+## 10.5. Aplicação do limite de 10 % do volume de negócios
+
+(510) A coima aplicada a cada uma das empresas que participou na infração não excederá 10 % do respetivo volume de negócios total relativo ao exercício que antecede a data da presente decisão401.
+
+(511) Os montantes de base ajustados, apresentados no quadro do considerando 509, não excedem 10 % do volume de negócios total de nenhuma das empresas em causa. O volume de negócios total corresponde, em 2011 a 62 837 milhões de EUR no caso da Telefónica e a 6 146.8 milhões de EUR no caso da PT (ver considerandos 12 e 23). Por conseguinte, os montantes não necessitam de ser alterados à luz do volume de negócios das empresas.
+
+10.6.Conclusão: no que se refere ao montante final das coimas individuais
+
+(512) As coimas totais aplicadas nos termos do artigo 23.o, n.o 2, do Regulamento (CE) n.o 1/2003 devem ser as seguintes:
+
+<table><tr><td rowspan=1 colspan=1>Parte</td><td rowspan=1 colspan=1>Coima total (EUR)</td></tr><tr><td rowspan=1 colspan=1>Telefónica</td><td rowspan=1 colspan=1>66 894 000</td></tr><tr><td rowspan=1 colspan=1>PT</td><td rowspan=1 colspan=1>12 290 000</td></tr></table>
+
+## 11. CONCLUSÃO
+
+(513) À luz do exposto na presente decisão, a Comissão conclui que a Telefónica e a PT cometeram uma infração ao artigo 101.o do Tratado ao acordarem na cláusula referida no considerando 1 da presente decisão e que devem ser aplicadas coimas a estas empresas em conformidade com o artigo 23.o, n.o 2, alínea a), do Regulamento (CE) n.o 1/2003.
+
+ADOTOU A PRESENTE DECISÃO:
+
+## Artigo 1.o
+
+A Telefónica, S.A. e a Portugal Telecom SGPS, S.A. cometeram uma infração ao artigo 101.o do Tratado sobre o Funcionamento da União Europeia ao serem partes num acordo de não concorrência constante da cláusula 9.a no Acordo de Compra de Ações celebrado por estas empresas em 28 de julho de 2010.
+
+A infração prolongou-se de 27 de setembro de 2010 até 4 de fevereiro de 2011.
+
+Artigo 2.o
+
+Relativamente à infração referida no artigo 1.o, são aplicadas as seguintes coimas:
+
+a) Telefónica, S.A.: 66 894 000 EUR
+
+b) Portugal Telecom SGPS, S.A.: 12 290 000 EUR
+
+As coimas devem ser pagas em euros, no prazo de três meses a contar da data de notificação da presente decisão, na seguinte conta bancária em nome da Comissão Europeia:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+
+1–2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+Ref.: European Commission – BUFI / COMP/39.839
+
+Findo este prazo, serão automaticamente devidos juros à taxa aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento a partir do primeiro dia do mês no decurso do qual a presente decisão foi adotada, acrescidos de 3,5 pontos percentuais.
+
+Se uma empresa referida no artigo 1.o instaurar uma ação no Tribunal de Justiça da União Europeia contra esta decisão, essa empresa deve garantir o montante da coima em dívida na data limite, providenciando uma garantia financeira aceitável ou efetuando o pagamento provisório da coima, de acordo com o artigo 90.o do Regulamento Delegado (UE) n.o 1268/2012 da Comissão402.
+
+## Artigo 3.o
+
+Os destinatários da presente decisão são:
+
+a) Telefónica, S.A., Distrito C – Edificio Central, Planta 3, Ronda de la Comunicación s/n, 28050 Madrid, Espanha;
+
+b) Portugal Telecom SGPS, S.A., Avenida Fontes Pereira de Melo 40, 1069-300 Lisboa, Portugal.
+
+A presente decisão constitui título executivo nos termos do artigo 299.o do Tratado sobre o Funcionamento da União Europeia.
+
+Feito em Bruxelas, em 23.1.2013
+
+Pela Comissão
+
+Joaquín ALMUNIA
+
+Vice-Presidente
+
+CÓPIA AUTENTICADA Pela Secretária-Geral,
+
+Jordi AYET PUIGARNAU Director da Secretaria

@@ -1,0 +1,415 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+19 . 9 . 96 | EN | Official Journal of the European Communities No L 239/23
+
+COMMISSION DECISION
+
+of 17 July 1996
+
+relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the EEA
+Agreement
+
+(Case No IV/35.337 — Atlas )
+
+(Only the English, French and German texts are authentic)
+
+(Text with EEA relevance )
+
+(96/546/EC )
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, second transaction, notified under the name of
+Phoenix, with Sprint Corporation (Sprint) ( 4).
+Having regard to the Treaty establishing the European Phoenix, since renamed as GlobalOne, is the object
+Community, of a separate Decision pursuant to Article 85 (3 ) of
+the EC Treaty ( 5 ).
+Having regard to the Agreement on the European
+Economic Area,
+
+(2 ) Atlas is structured at two levels . A holdingHaving regard to Council Regulation No 17 of 6
+company established in Brussels, Atlas SA,February 1962, First Regulation implementing Articles 85
+incorporated as a societe anonyme under theand 86 of the Treaty ( ! ), as last amended by the Act of
+laws of Belgium, has three operating subsidiaries,Accession of Austria, Finland and Sweden, and in
+namely Atlas Telecommunications SA (Atlasparticular Articles 2, 6, and 8 thereof,
+France ) in France, Telekom Internationale
+Telekommunikationsdienste GmbH (Atlas
+Having regard to the application for negative clearance Germany) in Germany, and one for the rest of
+and the notification for exemption submitted, pursuant Europe . Atlas France and Atlas Germany will
+to Articles 2 and 4 of Regulation No 17, on
+initially provide technical and sales support to FT
+16 December 1994,
+and DT, being the French and German distributors
+of Atlas and GlobalOne products. After full and
+Having regard to the summary of the application and effective liberalization of the telecommunications
+notification published pursuant to Article 19 ( 3 ) of infrastructure and services markets in France and
+Regulation No 17 and to Article 3 of Protocol 21 of the Germany, scheduled to occur by 1 January 1998 ,
+EEA Agreement ( 2), DT's subsidiary for the provision of X.25
+packet-switched data communications, T-Data
+After consultation with the Advisory Committee for Gesellschaft fur Datenkommunikation mbH
+Restrictive Practices and Dominant Positions, (T-Data ) ( 6), will be merged with Atlas Germany
+while FT's subsidiary for the provision of X.25
+Whereas : packet-switched data communications, Transpac
+France, will be merged with Atlas France .
+
+I. THE FACTS
+B. THE PARTIES
+
+A. INTRODUCTION
+
+(3 ) Deutsche Telekom AG (DT) and France Telecom
+( 1 ) The Atlas venture was notified to the Commission (FT) are the public telecommunications
+on 16 December 1994 . This transaction brings organizations (TOs ) in Germany and France . Both
+about a joint venture owned as to 50% by France
+Telecom (FT ) and as to 50% by Deutsche Telekom
+AG (DT). The notification of Atlas replaces the
+notification on 3 June 1993 ( 3 ) of a joint venture 4 ) OJ No C 184, 18 . 7. 1995 , p. 11 .
+formed by FT and DT (at the time Deutsche 5 ) See p. 57 of this Official Journal.
+6) The parties have submitted that T-Data is the new name of Bundespost Telekom) under the name of Eunetcom
+DT's former Datex-P division for the provision of X.25 to which this Decision extends. Atlas is also the
+packet-switched data communications services, incorporated
+instrument of DT and FT's participation in a after publication of the Commission notice pursuant to
+Article 19 (3 ) of Council Regulation No 17 and Article 3 of
+( l ) OJ No 13 , 21 . 2 . 1962, p. 204/62 . Protocol 21 of the European Economic Area Agreement in
+(2 ) OJ No C 337, 15 . 12 . 1995 , p. 2 . this case; OJ No C 337, 15 . 12 . 1995 , p. 2 (hereinafter the
+( 3 ) OJ No C 175 , 26 . 6 . 1993 , p. 11 . 'Article 19 ( 3 ) notice').
+
+No L 239/24 | EN [ Official Journal of the European Communities 19 . 9 . 96
+
+supply telephone exchange lines to homes and software . In this market, Atlas is expected to offer
+businesses; local, trunk and international a portfolio of services including the following
+communications to and from their respective home (the 'Atlas services'):
+country . Worldwide turnover in 1994 was ECU
+31,8 billion, a 4,3% increase over 1993 , for DT — data services : high- and low-speed
+and ECU 21,7 billion, a 1,8% increase over 1993, packet-switched, Frame Relay, Internet Protocol
+for the FT group . (IP ) services,
+
+— value-added application services : value-added
+messaging, video-conferencing and electronic
+document interchange (EDI ) services,
+C. THE RELEVANT MARKET
+— voice VPN services,
+
+1 . Product markets — value-added leased lines offerings :
+pre-provisioned, managed and circuit-switched
+bandwidth,
+(4 ) Atlas will address the markets for the provision of
+non-reserved telecommunications services to — very small aperture satellite (VSAT) network
+corporate users both Europe-wide and nationally. services, and
+Atlas will target two separate product markets for
+non-reserved services, namely: — outsourcing: customers are invited to transfer
+responsibility and ownership of their networks
+to Atlas. If they agree, Atlas may integrate into
+its own offerings any third-party products
+(5 ) The market for customized packages of corporate already owned by customers who wish to keep
+telecommunications services such offerings, as the case may be .
+
+This market comprises mostly customized Of the above, some services will remain with DT
+combinations of a range of existing and FT and therefore not be Atlas services . These
+telecommunications services, mainly liberalized services are : ( i ) those national receive-only VSAT
+voice services including voice communication services in France which provide a single channel
+between members of a closed group of users per carrier ('receive-only SCPC'); (ii ) national
+(virtual private network (VPN ) services), high-speed messaging and EDI services in Germany; (iii ) data
+data services and outsourced telecommunications network services using Asynchronous Transfer
+solutions specially designed for individual customer Mode (ATM ) technology in France, Germany and
+requirements . The market for customized packages any third country; and (iv) national VPN services in
+of corporate telecommunications services, enhanced France and Germany. The integration into Atlas of
+by features such as tailored capacity allocation, any such service and/or its underlying network as
+billing, a 24-hour technical service, etc., is currently well as of any broadband transmission capacity
+changing and evolving rapidly . Customers demand operated by DT and/or FT necessitates separate
+notification to the Commission . such packages of sophisticated telecommunications
+and information services offered by one single
+provider. That provider is expected to take
+full responsibility for all services contained in the ( 6 ) Due to the high cost of building and operating the
+package from 'end to end'. Accordingly, DT and networks needed to provide customized packages
+FT intend to offer such customers through Atlas of corporate telecommunications services, such
+whatever services existing technology allows them services can be commercially viable only if provided
+to offer from time to time within the applicable to multinational corporations, extended enterprises,
+regulatory framework. In this regard, the parties and other intensive users of telecommunications
+have indicated that Atlas will eventually extend to and in particular the largest among those customers
+international voice traffic and other basic services, generating continuous high traffic volumes ( 7).
+regulations permitting. Many of those potential customers have complex
+and specific needs and have often acquired
+expertise in managing own internal networks.
+These services are provided over high-speed, Whether each of the services listed above
+large-capacity leased lines linking sophisticated constitutes a separate product market can be left
+equipment on customer premises to the service open for present purposes, since a separate analysis
+provider's nodes . Alternatively, other means of would not affect the Commission's conclusions .
+transmission, such as satellite or mobile radio
+capacity, can be used to ensure the geographic
+coverage demanded from time to time . Such ( 7) See Commission Decision 94/579/EC of 27 July 1994 in Case
+services employ advanced state-of-the-art protocols, No IV/34.857 — BT-MCI; OJ No L 223 , 27 . 8 . 1994,
+data compression techniques, equipment and p. 36 .
+
+19. 9. 96 | EN 1 Official Journal of the European Communities No L 239/25
+
+(7) However, this Decision relates only to Atlas' range points-of-sale in shops ) or to the size of such
+of products and its business scope as notified. Any customers, as with small and medium-sized
+substantial change of products or business scope, enterprises (SMEs ). Such services are billed by
+and in particular (i ) the integration into Atlas volume sent, according to published tariffs. All
+of broadband transmission capacity (such as incumbent Member State TOs including DT
+Asynchronous Transfer Mode (ATM) networks ) in and FT operate dense public networks with
+France and Germany and (ii ) the offering by Atlas nationwide coverage providing X.25 data
+of public basic telecommunications services (such as services to this customer segment (the 'public
+voice telephony services ( 8)) will require a new packet-switched data networks'). There is only
+notification. one public packet-switched network in each
+Member State, built by the incumbent TO
+under a public service obligation before
+market liberalization.
+( 8 ) The market for packet-switched, data
+communications services
+
+Atlas will also be active on a separate market for 2 . On the other hand, larger corporate customers
+packet-switched data communications services . The and other extended users generate more
+Commission considers data communications substantial and regular traffic . Often the
+services to be a distinct telecommunications requirements of these users make it worthwhile
+product market, without prejudice to the existence for either third-party service providers or the
+of narrower markets ( 9). One narrower market is potential customer itself to assume the high cost
+that for packet-switched data communications of creating customized leased lines circuits (for
+services ( 10). Packet switching is a means to improve example, to set up VPNs ) to meet individual
+network capacity utilization and consists of service demand . This demand is therefore
+splitting data sequences into 'packets', feeding these increasingly met either by packet-switched
+and other packets into the network optimizing services using protocols other than X.25,
+utilization of available capacity, switching the notably Frame Relay and ATM (for VPN
+packets to the desired destination and rearranging applications ) and IP (for both public and VPN
+the packets to obtain the original data sequences . applications ) or by switched services (PSTN
+One standard used for the provision of or ISDN services). Packet-switched data
+packet-switched data communications services is communications services to such users are billed
+the X.25 protocol. Packet-switched data services according to negotiated rates that take account
+of the individual demand features of a using this protocol (the 'X.25 data services') are
+slower than packet-switched data communications particular customer.
+services using protocols such as Frame Relay,
+Asynchronous Transfer Mode (ATM ) or Internet
+Protocol (IP), given that X.25 data services rely on
+smaller packets and require switches which allow
+charging per packet. ( 10 ) Virtually all companies active in each individual
+Member State of the European Community are
+potential if not actual customers for national
+( 9 ) Packet-switched data communications services can packet-switched data communications services .
+be divided into different customer segments within Such services are also required by SMEs, albeit in
+the same product market. smaller volumes and possibly less regularly than by
+larger users. Seldom will such volumes make it
+worthwhile for service providers to invest in leased
+1 . On the one hand, some customers generate
+lines with the specific purpose of reaching these
+mostly erratic and geographically widespread
+SMEs, which are therefore in a weak negotiating
+demand for low-speed, low-volume
+position and hardly capable to date of switching
+applications . These features are due either to from the current provider, typically the incumbent
+the specific type of use (such as banks operating TO, to a competitor.
+cash machines nationwide, networks of
+
+( 8 ) Defined in the seventh indent of Article 1 of Commission
+Directive 90/388/EEC of 28 June 1990 on competition in
+the markets for telecommunications services; OJ No L 192, ( 11 ) Packet-switched data communications may also be
+24. 7. 1990, p. 10, hereinafter 'Services Directive', as last offered as one service in a customized package of
+amended by Directive 96/1 9/EC; OJ No L 74, 22. 3 . 1996, corporate services. However, even as part of
+p. 13 . such an arrangement, packet-switched data
+( 9 ) Commission's Guidelines on the application of Community communications services are based on mature
+competition rules in the telecommunications sector, OJ No
+internationally standardized technology and C 233, 6 . 9 . 1991 , p. 2, at paragraph 27.
+( 10) Defined as 'packet- and circuit-switched services' in the provided over standard terrestrial infrastructure. At
+ninth indent of Article 1 ( 1 ) of the Services Directive — see the national level, choice from a wider range of
+footnote 8 . packet-switched data communications offerings
+
+No L 239/26 | EN | Official Journal of the European Communities 19 . 9 . 96
+
+than merely X.25 data services is available to larger non-reserved services currently available from DT
+customers that are not served over the TO's public and FT in Germany and France respectively will
+packet-switched data networks but over customized not be Atlas services, including DT and FT's
+leased-line circuits. However, most existing national data network services based on ATM or
+customers for packet-switched data equivalent packet-switching technology (Datex-M
+communications currently generate annual turnover and Transrel respectively ) and the national services
+of far below ECU 10 000 each and are not mentioned at recital 5 . This demonstrates that a
+therefore potential users of customized packages of distinction between national and cross-border
+corporate telecommunications services . Therefore, provision of customized packages of corporate
+packet-switched data communications services telecommunications services remains valid to date .
+offered by Atlas constitute a product market
+separate from the market for customized packages
+of corporate telecommunications services equally
+targeted by Atlas .
+The markets for packet-switched data
+communications services
+
+2 . Geographic markets
+( 14 ) Price differences for these services may be less
+than for customized pa
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+on in technical information relating to the
+the German market. These alternative remedies operation of the PSTN/ISDN; competitors
+must be executed by the date stated in point ( 1 ) shall in particular have access to such
+software and interface information as is
+
+No L 239/54 | EN j Official Journal of the European Communities 19 . 9 . 96
+
+indispensable for maintaining the technical interfaces is economically equivalent to
+features of voice services where such third-party access to those networks.
+competitors interconnect to the German or
+French PSTN/ISDN; and (5 ) Breaches of the requirements set out in points 1
+to 4 shall not be considered to infringe this
+(ii ) the disclosure of any commercial condition unless such breaches have a
+information that would confer a substantial substantial impact on the market.
+competitive advantage and is not readily
+and equally available elsewhere by service (d ) Interconnection to DT and FT's other networks and
+providers competing with such entity. facilities
+
+( 1 ) DT and FT shall grant to any third party
+(4 ) Breaches of the requirements set out in points 1 ,
+that operates a telecommunications facility 2 and 3 shall not be considered to infringe
+('telecommunications operator') and applies for this condition unless such breaches have a
+the interconnection of such facility or systems
+substantial impact on the market.
+facilities with DT or FT's networks, such
+interconnection on non-discriminatory terms as
+compared to the terms applied to Atlas. Such
+(c ) Interconnection to DT and FT's public packet terms shall enable the telecommunications
+switched data networks
+operator to provide telecommunications services
+or provide its telecommunications facilities
+( 1 ) FT and DT shall immediately: without limitation in any respect within the
+reasonable capabilities of the telecommuni
+(i ) establish and maintain standardized X.75 cations operator concerned.
+interfaces to access their national public
+packet-switched data networks; (2 ) Breaches of the requirements set out in point 1
+shall not be considered to infringe this condition
+(ii ) offer such access on non-discriminatory unless such breaches have a substantial impact
+on the market. terms, including price, availability of
+volume or other discounts and the quality
+of interconnection provided; and (e ) Cross-subsidization
+
+(iii ) publish the standard terms and conditions ( 1 ) All entities created pursuant to the Atlas
+for such X.75 interface standards, Agreements shall be established as distinct
+including, if any, volume discounts and entities separate from DT and FT.
+other discounts and make any agreements
+relating to such X.75 interfaces, including (2 ) Atlas SA, T-Data and Transpac France shall
+all specifically agreed terms, available for obtain their own debt financing on their own
+inspection by the Commission. credit, provided that FT and DT:
+
+( i ) may make capital contributions or
+(2 ) Transpac France and T-Data shall, until such commercially normal loans to Atlas SA,
+time as Transpac France and T-Data are T-Data and Transpac France, to enable
+integrated into Atlas, not disclose to any entity them to conduct their respective
+created pursuant to the Atlas Agreement any businesses;
+such specifically agreed terms as are identified
+(ii ) may pledge their venture interests in such
+and maintained as confidential by the party
+entities, in connection with non-recourse
+obtaining interconnection through standardized
+financing for such entities; and X.75 interfaces to access the French or German
+national public packet-switched data networks. (iii ) may guarantee any indebtedness of such
+entities, provided that FT and DT may only
+make payments pursuant to any such ( 3 ) The conditions set out in points ( 1 ) and (2 )
+guarantee following a default by such shall likewise apply to any generally used
+entities in respect of such indebtedness . CCITT-standardized interconnection protocol
+that may modify, replace or co-exist as a
+( 3 ) All entities created pursuant to the Atlas standard related to the X.75 standard and is
+Agreement, T-Data and Transpac France shall
+used by FT and DT.
+not allocate directly or indirectly any part of
+their operating expenses, costs, depreciation, or
+(4 ) Any entity created pursuant to the Atlas other expenses of their business to any parts of
+Agreements may access the French and German FT or DT's business units (including without
+public packet-switched data networks through limitation the proportionate costs based on
+proprietary interfaces, even for the provision of work actually performed that are attributable to
+data communications services, provided that shared employees or sales or marketing of Atlas
+access granted to such entity through such products and services by DT or FT employees).
+
+19 . 9 . 96 PEN Official Journal of the European Communities No L 239/55
+
+These undertakings may bill DT or FT for (iii ) the allocation and attribution of expenses
+products and services supplied to DT or FT by or costs, revenues, assets and liabilities
+such undertakings at: shared between any entity created pursuant
+to the Atlas Agreements and DT and/or FT;
+(i ) the same price charged third parties in the and
+case of products or services sold to third
+(iv ) the attribution method chosen . parties in commercial quantities; or
+
+(ii ) on the basis of the full cost reimbursement ( 3 ) The accounting records referred to in points ( 1 )
+and (2 ) shall identify all services provided to any or other arm's length pricing method in the
+entity created pursuant to the Atlas Agreements case of products and services not sold to
+by DT and FT or transfers to or from DT third parties in commercial quantities .
+and FT.
+
+(4 ) Breaches of the requirements set out in points 1 , (4 ) No entity created pursuant to the Atlas
+2 and 3 shall not be considered to infringe this Agreement, nor T-Data or Transpac France shall
+condition unless such breaches have a receive any material subsidy directly or
+substantial impact on the market. indirectly from DT or FT, nor any investment or
+payment from DT or FT that is not recorded in
+the books of such entities as an investment in
+(f) Bundling debt or equity.
+
+( 1 ) DT and FT shall sell their services under
+contracts separate from the contracts for the Article 5
+sale of Atlas services concluded as distributors
+of Atlas in Germany and France respectively.
+The exemption granted under this Decision is subject to Each separate contract shall set out the terms
+and conditions of each individual service sold the following obligations:
+thereunder and notably attribute any quantity or
+other discounts to a particular service, as the (a ) Auditing
+case may be .
+( 1 ) Atlas SA and any consolidated subsidiary of
+Atlas SA, Transpac France and T-Data shall be
+(2 ) Breaches of the above requirements shall not be audited by an independent external auditor
+considered to infringe this condition unless such every 12 months, provided that such audit shall
+breaches have a substantial impact on the certify from an accounting viewpoint that:
+market.
+( i ) all transactions between those under
+takings, on the one hand, and FT and DT,
+(g ) Accounting on the other hand, have been conducted at
+arm's length;
+
+( 1 ) T-Data, Transpac France (including all their (ii ) the undertakings have adhered to the
+subsidiaries ) as well as all entities created accounting procedures; and
+pursuant to the Atlas Agreements which are
+operating in the EEA shall keep separate (iii ) the calculation numbers are accurate .
+accounting records using international
+accounting standards for each service they (2 ) The first auditing report and certificate
+provide in any country. DT and FT (including complying with point ( 1 ), covering the
+all subsidiaries ) shall keep separate accounting 12-month period starting on the date on which
+records using international accounting standards this Decision takes effect, shall be submitted to
+for each service they provide to any entity the Commission within 15 months of that
+created pursuant to the Atlas Agreements, date .
+operating in the EEA.
+( b ) Other obligations
+
+(2 ) DT and FT shall, within one year of the date DT, FT, T-Data, Transpac France and all entities
+defined in Article 1 , implement an accounting created pursuant to the Atlas Agreements shall each,
+system which generates sufficiently detailed for the purpose of ascertaining and ensuring
+records of the services covered by point ( 1 ). compliance by these undertakings with the
+Those records shall detail the following: conditions set out in Article 4 :
+
+( i ) the cost standard used; ( 1 ) keep all detailed records and documents
+necessary to prove complete compliance with
+(ii ) the accounting conventions used for the the terms of the conditions set out in Article 4
+treatment of costs; ready for inspection by the Commission and to
+
+No L 239/56 | EN ] Official Journal of the European Communities 19 . 9 . 96
+
+enable the Commission to verify the correctness date of the exemption pursuant to
+of the audit certificate referred to in point (a ) Article 1 ; and
+2 ;
+(iii ) further oral or written explanations.
+
+(2 ) give the Commission access to their business Article 6
+premises to inspect records and documents
+covered by the obligations set out under heading This Decision is addressed to :
+(a ) and to receive oral explanations relating to
+such documents on reasonable notice, during Deutsche Telekom AG,
+office hours, and without the need for the Friedrich-Ebert-Allee 140,
+Commission to invoke the powers of inspection D-53105 BONN;
+pursuant to Regulation No 17; and
+France Telecom,
+Place d'Alleray,
+F-75505 PARIS.
+( 3 ) provide the Commission with:
+
+(i ) any records and documents in the
+possession or control of those undertakings Done at Brussels, 17 July 1996 .
+necessary for that determination;
+
+For the Commission
+(ii) unaudited accounting data as specified in
+Karel VAN MIERT
+points ( 1 ) and (2 ) every six months,
+starting one year after the commencement Member of the Commission

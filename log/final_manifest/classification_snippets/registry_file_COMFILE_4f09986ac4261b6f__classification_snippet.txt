@@ -1,0 +1,147 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+# NO CONFIDENCIAL COURTESY TRANSLATION BY RENFE / TRADUCCIÓN DE CORTESÍA DE RENFE
+
+## ASUNTO AT.40735 Distribución online de billetes de tren en España COMPROMISOS OFRECIDOS A LA COMISIÓN EUROPEA CON ARREGLO AL ARTÍCULO 9 DEL REGLAMENTO (CE) N° 1/2003 DEL CONSEJO
+
+De conformidad con el artículo 9 del Reglamento (CE) no 1/2003 del Consejo ("Reglamento 1/2003"), RENFE-Operadora, E.P.E. ("Renfe Operadora") y Renfe Viajeros, S.M.E., S.A. ("Renfe Viajeros") ofrecen los siguientes compromisos ("Compromisos") a la Comisión Europea ("Comisión") con el fin de responder a las inquietudes preliminares de la Comisión expresadas en el marco de la investigación del asunto AT.40735 Distribución online de billetes de tren en España y permitir a la Comisión adoptar una decisión de conformidad con el artículo 9 del Reglamento 1/2003 que confirme que los Compromisos resuelven sus inquietudes ("Decisión de Compromisos").
+
+De conformidad con el artículo 9 del Reglamento 1/2003, estos Compromisos no constituyen un reconocimiento de que Renfe Operadora o Renfe Viajeros hayan infringido el Derecho de la competencia y nada de lo contenido en estos Compromisos puede interpretarse como que Renfe Operadora y Renfe Viajeros están de acuerdo con las inquietudes preliminares expresadas por la Comisión. Estos Compromisos se ofrecen en el entendimiento de que la Comisión adoptará una decisión de conformidad con el artículo 9 del Reglamento 1/2003, que hará vinculantes los Compromisos y considerará que ya no hay motivos para continuar con la investigación sin pronunciarse sobre si ha habido o sigue habiendo una infracción del Derecho de la competencia de la UE.
+
+## SECCIÓN A: DEFINICIONES
+
+1. A los efectos de estos Compromisos, los términos que se enumeran a continuación tendrán el siguiente significado:
+
+ADIF: Administrador de Infraestructuras Ferroviarias.
+
+API: Interfaz de programación de aplicaciones.
+
+Canales de Renfe: el(los) canal(es) usado(s) por Renfe para poner los Contenidos de Renfe y DTR a disposición directa o indirectamente de las Plataformas de Venta de Billetes de Terceros y/o cualquier plataforma de movilidad de Renfe (como dōcō). En la Fecha de entrada en vigor, el(los) canal(es) de Renfe incluyen VAV y VOL A. Para evitar dudas, el(los) canal(es) de Renfe incluyen todos los canales de Renfe que puedan sustituir o utilizarse en paralelo a VAV y/o VOL A en el futuro.
+
+Peticiones de disponibilidad: todas las peticiones de información que es necesario realizar al sistema de venta de Renfe a través de VAV o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro para obtener los datos necesarios para realizar una reserva.
+
+Conflicto de Intereses: cualquier conflicto de intereses que menoscabe la objetividad e independencia del Monitoring Trustee en el desempeño de sus funciones en virtud de los Compromisos.
+
+Contenidos de Renfe: todo el contenido relacionado con los trenes de viajeros de Renfe disponible en los canales digitales de distribución directa de billetes de Renfe y en cualquier plataforma de movilidad de Renfe (como dōcō), que incluye, sin limitación alguna, todos los tipos de billetes, abonos, tarjetas de tren y tarifas, los así denominados “contenidos especiales” (como los enlaces, los descuentos de familia numerosa, los descuentos para jóvenes, los códigos promocionales, la selección de asientos basada en un mapa de asientos, billetes para mascotas, la asistencia a viajeros con movilidad reducida, billetes con código QR, etc.) y las así denominadas funcionalidades (como horarios de reserva, la funcionalidad de cambio de billete, la tramitación de solicitudes de indemnización por retraso, reembolsos, etc.). Para evitar cualquier duda, los Contenidos de Renfe no incluyen contenidos relacionados con servicios de viajes, movilidad, alojamiento, cultura, ocio u otros servicios prestados por terceros.
+
+dōcō: la plataforma de movilidad de RENFE-Operadora, E.P.E.
+
+Fecha de entrada en vigor: la fecha en la que Renfe reciba la notificación formal de la Decisión de Compromisos.
+
+Tasa de error: relación entre el número total de peticiones de reserva fallidas debido a errores atribuibles a Renfe realizadas por todas las Plataformas Integradas y el número de peticiones de reserva totales realizadas al sistema de venta de billetes de Renfe a través de VAV, o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro, por todas las Plataformas Integradas. Se excluyen las peticiones de reserva de plazas gráficas fallidas del numerador y el total de peticiones de reservas de plazas gráficas del denominador.
+
+Fuerza mayor: circunstancias extraordinarias que limitan la capacidad de Renfe para cumplir los Compromisos, que están fuera del control de Renfe y sean imprevisibles o, aun siendo previsibles, sus consecuencias no podrían haberse evitado, a pesar de haber actuado Renfe con la debida diligencia. Estas circunstancias incluyen las ciber amenazas y los ciberataques que pongan en peligro la capacidad de Renfe para cumplir con sus obligaciones para garantizar la seguridad de sus canales de venta conforme a la legislación de la UE y española.
+
+Look-to-Book o L2B: relación entre el número de Peticiones de disponibilidad relacionadas con la venta de billetes ("look") realizadas al sistema de venta de billetes de Renfe y el número de ventas reales ("book").
+
+Monitoring Trustee: una o varias personas físicas o jurídicas aprobadas por la Comisión y designadas por Renfe, que tienen la función de supervisar el cumplimiento de los Compromisos por parte de Renfe.
+
+Renfe: Renfe Operadora, así como sus filiales que operan en las áreas cubiertas por los Compromisos, especificadas en el apartado 2 de la Sección B.
+
+DTR: todos los datos en tiempo real relativos a los trenes de viajeros de Renfe relacionados con el tráfico ferroviario, las operaciones y el viaje, antes, durante y después del viaje en tren, que Renfe pone a disposición de los consumidores a través de cualquiera de sus canales digitales de distribución directa (por ejemplo, la página web y las apps de Renfe) o de sus canales de comunicación (por ejemplo, correo electrónico y SMS) o cualquier plataforma de movilidad de Renfe (como dōcō).
+
+Plataforma de Venta de Billetes de Terceros: empresa que ofrece servicios de venta de billetes para viajes en tren a clientes individuales y/o empresariales en la Unión Europea a través de tiendas de aplicaciones de software (por ejemplo, la Apple App Store o Google Play Store) o a través de un sitio web.
+
+Tasa de Indisponibilidad: relación entre el número de minutos entre las 06:00 y las 23:00 horas en los que la suma de las ventas de billetes de Renfe a través de todos los canales es cero y el número total de minutos entre las 06:00 y las 23:00 horas (para un mes: 31.620 minutos). Una Tasa de Indisponibilidad mensual máxima del 1% significa que, para un mes, el número máximo de minutos entre las 06:00 y las 23:00 durante los cuales la suma de las ventas de billetes de Rente a través de todos los canales es cero es de 316,2 minutos.
+
+Plataforma Integrada: Plataforma de Venta de Billetes de Terceros o plataforma de movilidad de Renfe (como dōcō) que ha efectuado todos los desarrollos informáticos necesarios para medir la Tasa de Error y los ha implementado de forma efectiva, de manera que Renfe pueda tener la trazabilidad de todas sus peticiones de reserva y registrar los posibles errores.
+
+VAV: la API utilizada por Renfe en la Fecha de entrada en vigor para poner los Contenidos de Renfe y los DTR a disposición de las Plataformas de Venta de Billetes de Terceros y dōcō.
+
+VOL A: el sitio web desarrollado por Renfe y utilizado en la Fecha de entrada en vigor para tener acceso a los Contenidos de Renfe y los DTR por las Plataformas de Venta de Billetes de Terceros i.a. utilizando Sistemas de Distribución Global.
+
+## SECCIÓN B: COMPROMISOS
+
+## ALCANCE DE LOS COMPROMISOS
+
+2. La finalidad de estos Compromisos es poner los Contenidos de Renfe y los DTR a disposición de las Plataformas de Venta de Billetes de Terceros.
+
+## COMPROMISOS RELACIONADOS CON EL ACCESO A LOS CONTENIDOS DE RENFE
+
+3. Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros, a través de todos los Canales de Renfe usados por las Plataformas de Venta de Billetes de Terceros, todos los Contenidos de Renfe que estén disponibles o puedan estar disponibles en los canales digitales de distribución directa de Renfe y/o cualquier plataforma de movilidad de Renfe (como dōcō).
+
+4. A tal efecto, Renfe realizará los desarrollos de software necesarios en sus sistemas informáticos para permitir el acceso a los Contenidos de Renfe por parte de las Plataformas de Venta de Billetes de Terceros, mientras que las Plataformas de Venta de Billetes de Terceros interesadas en ofrecer los Contenidos de Renfe a los consumidores deberán realizar las adaptaciones necesarias en sus sistemas informáticos, incluyendo, sin limitación alguna, adaptaciones en sus interfaces de usuario.
+
+## Implementación
+
+5. Contenidos de Renfe disponibles en los canales de distribución digitales de Renfe y/o cualquier plataforma de movilidad de Renfe (como dōcō) que aún no estén disponibles para las Plataformas de Venta de Billetes de Terceros en la Fecha de entrada en vigor. Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros los Contenidos de Renfe disponibles en los canales digitales de distribución propios de Renfe y/o en cualquier plataforma de movilidad de Renfe (como dōcō) que aún no estuvieran disponibles para estas plataformas en la Fecha de entrada en vigor, si los hubiera, a más tardar antes del 29 de febrero de 2024.
+
+Como excepción a lo anterior, para aquellos contenidos cuya inclusión en VAV o VOL A requiera licitar la contratación de servicios informáticos de terceros, Renfe se compromete a poner a disposición dichos contenidos antes del 30 de junio de 2024, excepto los billetes de trenes turísticos de lujo y trenes turísticos de ocio y los contenidos que deben ser incluidos en VOL A, que estarán disponibles antes del 31 de diciembre de 2024.
+
+6. Contenidos de Renfe aún no disponibles en los canales de distribución digitales de Renfe o en cualquier plataforma de movilidad de Renfe (como dōcō) en la Fecha de entrada en vigor. Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros todos los Contenidos de Renfe que puedan estar disponibles en los canales digitales de distribución propios de Renfe y/o cualquier plataforma de movilidad de Renfe (como dōcō) después de la Fecha de entrada en vigor al mismo tiempo que dicho contenido esté disponible en los canales digitales de distribución propios de Renfe y/o cualquier plataforma de movilidad de Renfe (como dōcō).
+
+7. Para evitar cualquier duda, la fecha en la que los Contenidos de Renfe mencionados en los apartados 5 y 6 anteriores estén disponibles para los usuarios de las Plataformas de Venta de Billetes de Terceros que usan VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) y la plataforma de movilidad de Renfe (como dōcō) dependerá del tiempo que cada una de ellas necesite para realizar las adaptaciones necesarias en sus sistemas informáticos. Para que estas Plataformas de Venta de Billetes de Terceros y la plataforma de movilidad de Renfe (como dōcō) puedan preparar sus sistemas informáticos, Renfe anunciará tan pronto como sea posible la inclusión de cualquier nuevo Contenido de Renfe a estas Plataformas de Venta de Billetes de Terceros y les comunicará tan pronto como sea posible las especificaciones técnicas necesarias para adaptar sus sistemas. En cualquier caso, Renfe anunciará, al mismo tiempo a todas las plataformas de venta de billetes terceros y la plataforma de movilidad de Renfe (como a dōcō), la inclusión de todos los nuevos Contenidos de Renfe en los Canales de Renfe usados por las Plataformas de Venta de Billetes de Terceros con al menos 4 meses de antelación. Además, Renfe comunicará, al mismo tiempo a las Plataformas de Venta de Billetes de Terceros que usan VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) y a la plataforma de movilidad de Renfe (como dōcō), las especificaciones técnicas necesarias para que adapten sus sistemas con al menos 1 mes de antelación hasta el 31 de diciembre de 2024 y con al menos 2 meses de antelación con posterioridad al 31 de diciembre de 2024.
+
+8. L2B. Renfe podrá exigir contractualmente una L2B media mensual máxima a una Plataforma de Venta de Billetes de Terceros, que podrá depender del número mensual de Peticiones de disponibilidad realizadas por la Plataforma de Venta de Billetes de Terceros ("categoría"), siempre que se cumplan las siguientes condiciones:
+
+a. Cuando la Plataforma de Venta de Billetes de Terceros tenga un número de Peticiones de disponibilidad mensual inferior a 50.000, la L2B media mensual máxima no podrá ser inferior a 600 o a la L2B media mensual máxima exigida contractualmente a cualquier plataforma de movilidad de Renfe (como dōcō) incluida en la misma categoría, si ésta es superior;
+
+b. Cuando la Plataforma de Venta de Billetes de Terceros tenga un número de Peticiones de disponibilidad mensual igual o superior a 50.0000 e inferior a 400.000, la L2B media mensual máxima no podrá ser inferior a 200 o a la L2B media mensual máxima exigida contractualmente a cualquier plataforma de movilidad de Renfe (como dōcō) incluida en la misma categoría, si ésta es superior;
+
+c. Cuando la Plataforma de Venta de Billetes de Terceros tenga un número de Peticiones de disponibilidad mensual igual o superior a 400.000, la L2B media mensual máxima no podrá ser inferior a 140 o a la L2B media mensual máxima exigida contractualmente a cualquier plataforma de movilidad de Renfe (como dōcō) incluida en la misma categoría, si ésta es superior.
+
+Para evitar cualquier duda, si Renfe no exige contractualmente ninguna L2B media mensual máxima a una plataforma de movilidad de Renfe (como dōcō), Renfe no exigirá ninguna L2B media mensual máxima a ninguna Plataforma de Venta de Billetes de Terceros.
+
+Renfe podrá suspender temporalmente el acceso de una Plataforma de Venta de Billetes de Terceros a VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) en los siguientes dos supuestos:
+
+(i) Incumplimiento de la L2B media mensual máxima tras la notificación de Renfe y que afecte negativamente al sistema de venta de Renfe. En el caso de que una Plataforma de Venta de Billetes de Terceros supere la L2B media mensual máxima aplicable durante un mes determinado, Renfe se pondrá en contacto con la plataforma por escrito (con copia al Monitoring Trustee) para diagnosticar, de manera conjunta, si la incidencia tiene su origen en el sistema de la plataforma, de forma que la plataforma pueda aplicar las medidas necesarias para remediarla. Renfe mandará un informe escrito a la plataforma (con copia al Monitoring Trustee), explicando los result
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+as en ofrecer los DTR a los consumidores deberán realizar las adaptaciones necesarias en sus sistemas informáticos, incluyendo, sin limitación alguna, adaptaciones en sus interfaces de usuario.
+
+12. Para evitar cualquier duda, los datos en tiempo real que Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros:
+
+\- no incluyen datos en tiempo real relativos a servicios de viajes o de movilidad operados por terceros y disponibles a través de los canales digitales de distribución directa de Renfe o sus canales de comunicación o cualquier plataforma de movilidad de Renfe (como dōcō) en virtud de un acuerdo alcanzado con un tercero;
+
+\- incluyen los datos en tiempo real relacionados con los trenes de Renfe disponibles en cualquier canal digital de distribución directa o canal de comunicación de Renfe o cualquier plataforma de movilidad de Renfe (como dōcō) en virtud de un acuerdo alcanzado entre Renfe y ADIF.
+
+## Implementación
+
+13. DTR disponibles para los consumidores a través de los canales de distribución o comunicación digital directa de Renfe o cualquier plataforma de movilidad de Renfe (como dōcō) y aún no disponibles para las Plataformas de Venta de Billetes de Terceros en la Fecha de entrada en vigor. Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros todos los DTR que ya pone a disposición de los consumidores a través de los canales digitales de distribución directa de Renfe o de sus canales de comunicación o en cualquier plataforma de movilidad de Renfe (como dōcō) y que aún no estuvieran disponibles para estas plataformas en la Fecha de entrada en vigor, si los hubiera, a más tardar antes del 29 de febrero de 2024.
+
+Como excepción a lo anterior, para aquellos DTR cuya inclusión en VAV o VOL A requiera licitar la contratación de servicios informáticos de terceros, Renfe se compromete a poner a disposición estos DTR antes del 30 de junio de 2024, excepto la información sobre incidencias programadas que afectan a billetes ya vendidos, que estará disponible en VAV antes del 30 de noviembre de 2024 y los DTR relacionados con retrasos no programados de trenes de Cercanías, que estarán disponibles en VOL A antes del 31 de diciembre de 2024.
+
+1. DTR aún no disponibles para los consumidores a través de los canales digitales de distribución directa de Renfe o de sus canales de comunicación o cualquier plataforma de movilidad de Renfe (como dōcō) en la Fecha de entrada en vigor. Renfe se compromete a poner a disposición de las Plataformas de Venta de Billetes de Terceros todos los DTR que en el futuro pueda poner a disposición de los consumidores a través de sus canales digitales de distribución directa o de sus canales de comunicación o cualquier plataforma de movilidad de Renfe (como dōcō) después de la Fecha de entrada en vigor al mismo tiempo que dichos DTR estén disponibles a través de los canales digitales de distribución directa de Renfe o de sus canales de comunicación o cualquier plataforma de movilidad de Renfe (como dōcō).
+
+Como excepción a lo anterior, para aquellos DTR relativos a incidencias no programadas que Renfe deba comunicar de forma inmediata a los viajeros y cuya disponibilidad requiera nuevos desarrollos informáticos, Renfe se compromete a enviarlos a todos los viajeros, con independencia de la forma en que los viajeros hayan reservado sus billetes, y a realizar los desarrollos necesarios para incluir en VAV (o en cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) dichos DTR a la mayor brevedad posible.
+
+15. Para evitar cualquier duda, la fecha en la que los DTR de Renfe mencionados en los apartados 13 y 14 anteriores estén disponibles para los usuarios de Plataformas de Venta de Billetes de Terceros que usan VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) y para la plataforma de movilidad de Renfe (como dōcō) dependerá del tiempo que cada una de ellas necesite para realizar las adaptaciones necesarias en sus sistemas informáticos. Para que estas Plataformas de Venta de Billetes de Terceros y la plataforma de movilidad de Renfe (como dōcō) puedan preparar sus sistemas informáticos, Renfe anunciará tan pronto como sea posible, la inclusión de cualquier nuevo DTR a estas Plataformas de Venta de Billetes de Terceros y les comunicará tan pronto como sea posible las especificaciones requeridas para adaptar sus sistemas. En cualquier caso, Renfe anunciará al mismo tiempo a todas las Plataformas de Venta de Billetes de Terceros y a la plataforma de movilidad de Renfe (como dōcō), la inclusión de todos los nuevos DTR en el(los) Canal(es) de Renfe usado(s) por las Plataformas de Venta de Billetes de Terceros al menos con 4 meses de antelación. Además, Renfe comunicará, al mismo tiempo a las Plataformas de Venta de Billetes de Terceros que usan VAV (o cualquier otra API de Renfe que pueda sustituir a VAV en el futuro) y a la plataforma de movilidad de Renfe (como dōcō), las especificaciones técnicas necesarias para que adapten sus sistemas con al menos 1 mes de antelación hasta el 31 de diciembre de 2024 y con al menos 2 meses de antelación con posterioridad al 31 de diciembre de 2024.
+
+## SECCIÓN C: CLAÚSULA DE NO ELUSIÓN
+
+16. Renfe no eludirá ni intentará eludir en ningún caso estos Compromisos directa o indirectamente por cualquier acción o omisión. En particular, Renfe no utilizará ninguna medida técnica o comercial injusta, no razonable o discriminatoria que podría impedir o dificultar la capacidad de las Plataformas de Venta de Billetes de Terceros para acceder y distribuir los Contenidos de Renfe y DTR de Renfe (incluidas, por ejemplo, medidas técnicas que afecten a las conexiones de acceso a los sistemas informáticos de Renfe). Renfe facilitará todos los detalles necesarios para la implementación o la disponibilidad de los Contenidos de Renfe o DTR a través del manual que recoge las especificaciones técnicas (o mediante cualquier otro documento que pueda reemplazar al manual en el futuro) tan pronto como dicha información esté disponible y contestará diligentemente a las preguntas formuladas por las Plataformas de Venta de Billetes de Terceros a través del buzón establecido para ese fin (o cualesquiera otros medios que puedan reemplazar al buzón establecido para ese fin en el futuro).
+
+## SECCIÓN D: ENTRADA EN VIGOR, DURACIÓN Y FUERZA MAYOR
+
+## Entrada en vigor
+
+17. Los Compromisos entrarán en vigor en la Fecha de entrada en vigor y se implementarán (i) mediante la modificación de todos los contratos existentes con Plataformas de Venta de Billetes de Terceros o mediante la conclusión de un nuevo contrato, que se ofrecerán ambos a las Plataformas de Venta de Billetes de Terceros en el plazo de un mes a partir de la Fecha de entrada en vigor; y (ii) en los futuros contratos y/o modelo de contrato con Plataformas de Venta de Billetes de Terceros.
+
+18. Renfe se compromete a dar una adecuada publicidad a los Compromisos durante un período de 10 años desde la Fecha de Entrada en Vigor, en particular a publicar los Compromisos en la Fecha de Entrada en Vigor en la página web de Renfe y en el portal de Renfe dedicado a las agencias de viajes.
+
+## Duración
+
+19. Los Compromisos permanecerán en vigor por un período indefinido a partir de la Fecha de entrada en vigor.
+
+# NO CONFIDENCIAL COURTESY TRANSLATION BY RENFE / TRADUCCIÓN DE CORTESÍA DE RENFE
+
+## Fuerza mayor
+
+20. En caso de que Renfe no pudiera cumplir parcial o totalmente con alguna de sus obligaciones en virtud de los Compromisos debido a un acontecimiento de Fuerza mayor, Renfe quedará eximida de las obligaciones correspondientes durante el tiempo que dure la imposibilidad de cumplimiento. A tal efecto, Renfe presentará sin demora a la Comisión pruebas del acontecimiento de Fuerza mayor y del ejercicio de diligencia debida llevado a cabo.
+
+## SECCIÓN E: MONITORING TRUSTEE
+
+21. Renfe designará un Monitoring Trustee para que supervise el cumplimiento de estos Compromisos durante un periodo de 10 años a partir de la Fecha de entrada en vigor, de conformidad con el Anexo 1 de estos Compromisos.
+
+## SECCIÓN F: CLÁUSULA DE REVISIÓN Y PRÓRROGA DE LOS PLAZOS
+
+22. De conformidad con la letra a) del apartado 2 del artículo 9 del Reglamento 1/20003, Renfe podrá solicitar a la Comisión que revise y modifique los Compromisos cuando se haya producido un cambio material en cualquiera de los hechos o circunstancias en los que se base la Decisión de Compromisos, incluidos los cambios en la estructura de mercado o en el marco normativo aplicable.
+
+23. Además, y sin perjuicio de la disposición general de la letra a) del apartado 2 del artículo 9 del Reglamento 1/2003. 24. Además, y sin perjuicio de la disposición general de la letra a) del apartado 2 del artículo 9 del Reglamento 1/2003, en respuesta a una solicitud motivada de Renfe que demuestre la existencia de una causa justificada, la Comisión podrá renunciar, modificar o sustituir, en circunstancias excepcionales, una o varias de las obligaciones recogidas en estos Compromisos, teniendo en cuenta la opinión de terceros y el impacto que una renuncia, modificación o sustitución puede tener en la posición de terceros y, por tanto, en la eficacia global de los Compromisos.
+
+24. En particular, en caso de circunstancias imprevistas que afecten a la implementación de los Compromisos, la Comisión podrá prorrogar los plazos previstos en los mismos en respuesta a una solicitud motivada de Renfe que demuestre una causa justificada para ello, acompañada por un informe del Monitoring Trustee, enviando al mismo tiempo una copia no confidencial a Renfe. Cuando Renfe solicite una prórroga de un plazo, deberá presentar la solicitud a la Comisión a más tardar un mes antes del vencimiento de dicho plazo, demostrando una causa justificada para ello. Únicamente en circunstancias excepcionales podrá Renfe solicitar una prórroga dentro del último mes de cualquier plazo.
+
+Fecha: 23/11/2023/11/2023
+
+Firma:

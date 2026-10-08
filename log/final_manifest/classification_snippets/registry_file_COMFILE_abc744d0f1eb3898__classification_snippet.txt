@@ -1,0 +1,436 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.40049 – Mastercard II
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 9 Regulation (EC) 1/2003
+
+Date: 29.04.2019
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+EUROPEAN
+COMMISSION
+
+Brussels, 29.4.2019
+C(2019) 3033 final
+
+COMMISSION DECISION
+
+of 29.4.2019
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40049 – MasterCard II
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 2
+2. The Parties .................................................................................................................... 3
+3. Procedural Steps Under Regulation No 1/2003 ........................................................... 3
+4. Preliminary assessment ................................................................................................ 3
+4.1. Background .................................................................................................................. 3
+4.1.1. The Mastercard card payment scheme ......................................................................... 3
+4.2. Relevant market ........................................................................................................... 5
+4.3. Position of the parties on the relevant market .............................................................. 6
+4.4. Practices raising concerns ............................................................................................ 7
+4.4.1. Article 101(1) of the Treaty and Article 53(1) of the EEA Agreement ....................... 7
+4.4.1.1. Principles ...................................................................................................................... 7
+4.4.1.2. Application to this case ................................................................................................ 8
+4.4.2. Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement ....................... 9
+4.4.2.1. Principles ...................................................................................................................... 9
+4.4.2.2. Application to this case .............................................................................................. 10
+4.5. Effect on trade between Member States ..................................................................... 10
+5. Proposed Commitments ............................................................................................. 11
+6. Commission Notice Pursuant to Article 27(4) ........................................................... 12
+6.1. Summary of the main comments from third parties during the Market Test ............. 12
+6.1.1. MIF caps for card-present and card-not-present transactions .................................... 12
+6.1.2. Non-circumvention .................................................................................................... 12
+6.1.3. Definitions .................................................................................................................. 12
+6.1.4. Duration and review of the commitments .................................................................. 13
+6.1.5. Scope of the Commission’s investigation .................................................................. 13
+7. Proportionality of the commitments........................................................................... 14
+7.1. Principles .................................................................................................................... 14
+7.2. Application in the present case .................................................................................. 14
+7.2.1. MIF caps for card-present and card-not-present transactions .................................... 14
+7.2.2. Non-circumvention .................................................................................................... 18
+7.2.3. Definitions .................................................................................................................. 18
+7.2.4. Duration and review of the commitments .................................................................. 19
+7.2.5. Scope of the Commission’s investigation .................................................................. 19
+7.2.6. Conclusion on proportionality .................................................................................... 20
+8. Conclusion.................................................................................................................. 20
+
+EN 1 EN
+
+COMMISSION DECISION
+
+of 29.4.2019
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.40049 – MasterCard II
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+Having regard to the Commission decision of 9 April 2013 to initiate proceedings in this case,
+Having expressed concerns in the Statement of Objections of 9 July 2015,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1. SUBJECT MATTER
+(1) This Decision is addressed to Mastercard Incorporated, Mastercard International
+Incorporated and Mastercard Europe SA (together "Mastercard") and concerns
+Mastercard's rules on inter-regional multilateral interchange fees ("MIF") applicable
+to card-based inter-regional transactions concluded at merchants located in the EEA
+with consumer debit and credit cards issued by an issuer located outside the EEA.
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The Treaty also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". The terminology of the Treaty will be used throughout this Decision.
+
+EN 2 EN
+
+(2) In its Statement of Objections (“SO”) of 9 July 2015 the Commission came to the
+preliminary conclusion that Mastercard’s rules on inter-regional MIFs infringed
+Article 101 of the Treaty and Article 53 of the EEA Agreement.
+(3) While Mastercard disagrees with the preliminary conclusions reached by the
+Commission in the SO, it nevertheless has offered commitments under Article 9(1)
+of Regulation (EC) No 1/2003 to meet the concerns expressed by the Commission.
+This Decision makes those commitments binding on Mastercard.
+
+2. THE PARTIES
+(4) Mastercard is a worldwide payment organisation that is represented by Mastercard
+Incorporated, Mastercard International Incorporated and Mastercard Europe SA.
+(5) Mastercard Incorporated has its registered office in Wilmington, State of Delaware,
+United States of America. It is the holding company of the fully owned subsidiaries
+Mastercard International Incorporated and Mastercard Europe SA.
+(6) Mastercard International Incorporated is a membership corporation that has its
+offices in Wilmington, State of Delaware, United States of America. Its members are
+banks and payment service providers that are card acquirers or card issuers, or both.
+Mastercard Europe SA is a fully consolidated subsidiary of Mastercard Incorporated.
+
+3. PROCEDURAL STEPS
+(7) On 9 April 2013, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003. The Commission adopted
+a SO on 9 July 2015, setting out its competition concerns relating to Mastercard's
+inter-regional MIFs. The SO constitutes a preliminary assessment for the purposes of
+Article 9(1) of Regulation (EC) No 1/2003.
+(8) On 21 April 2016, Mastercard replied to the SO in writing. On 6 May 2016,
+Mastercard submitted an updated reply to the SO. On 31 May 2016, an Oral Hearing
+took place.
+(9) On 26 November 2018, Mastercard submitted commitments ("the Commitments") to
+the Commission.
+(10) On 5 December 2018, the Commission published a notice in the Official Journal of
+the European Union pursuant to Article 27(4) of Regulation (EC) No 1/2003
+("Article 27(4) Market Test Notice"), summarising the case and the Commitments
+and inviting interested third parties to give their observations on the Commitments
+within one month following publication.
+(11) On 29 January 2019, the Commission informed Mastercard of the observations
+received from interested third parties following the publication of the Article 27(4)
+Market Test Notice.
+
+4. PRELIMINARY ASSESSMENT
+4.1. Background
+4.1.1. The Mastercard card payment scheme
+(12) The Mastercard payment card scheme (“Mastercard scheme”) is a “four-party”
+scheme, under which several financial institutions issue cards or acquire transactions
+
+EN 3 EN
+
+under common card brands, in this case the MasterCard and Maestro brands. The
+Mastercard scheme is two-sided, with Mastercard acting as the platform, through
+which the issuing banks (“the issuers”) and the acquiring banks (“the acquirers”)
+interact.
+
+CARD SCHEME
+OPERATOR
+
+MIF
+ISSUING BANK ACQUIRING BANK
+
+Merchant
+Service
+Charge
+
+CARDHOLDER MERCHANT
+
+(13) In such a card payment scheme, the issuing bank is the cardholder’s bank. Issuers
+provide cardholders with payment cards, ensure the completion of payment
+transactions by authorising payments and transferring funds to the acquirer, and
+provide related services. The acquiring bank is the merchant’s bank that credits the
+merchant’s bank account after receiving the funds from the issuer.
+(14) According to the MasterCard Rules2, a transaction that has been cleared and settled
+gives rise to an "interchange fee" to be paid by the acquirer to the issuer. Issuers and
+acquirers can agree bilaterally on the interchange fee. If there is no such bilateral
+agreement, a so co-called multilateral interchange fee applies.
+(15) In the Mastercard scheme, different MIFs apply depending on the transaction type
+(for example on-line or in-store, with PIN or with signature), the geographic scope of
+the transaction, and the card type (for example debit or credit card, the specific brand
+such as Mastercard or Maestro and entry level, basic, enhanced or premium). As to
+the geographic scope of the transaction, Mastercard defines a transaction as:
+(a) "Domestic", when the issuer of the card used and the merchant outlet are
+located in the same country;
+(b) "Intra-regional", when the issuer of the card used is located in a different
+country from the merchant outlet but within the same region (Mastercard has
+defined five regions world-wide, of which the "European Region" is one);
+(c) "Inter-regional", when the issuer of the card used and the merchant outlet are
+located in different regions.3
+
+2 MasterCard Rules, dated 15 May 2014 (ID 1291), with the latest update on 18 December 2018, Chapter
+8.3 “Interchange and Service Fees” and Chapter 12, Rule 1.7.3.7 “Interchange Fee Requirements”.
+Available at: https://www.mastercard.us/content/dam/mccom/global/documents/mastercard-rules.pdf
+3 MasterCard Rules, Chapter 11, with the latest update on 18 December 2018, Chapter 12 “Europe
+Region”, available at: https://www.mastercard.us/content/dam/mccom/global/documents/mastercardrules.pdf
+
+EN 4 EN
+
+(16) Acquirers charge merchants a "Merchant Service Charge" ("MSC")4. The MSC is
+typically a percentage of the transaction value (ad valorem), although the fee for
+debit card transactions is sometimes a fixed fee or a combination of fixed and ad
+valorem fees. The acquirer keeps part of the MSC, part is passed on to the issuer (the
+interchange fee) and a part is paid to the scheme (scheme fees collected by
+Mastercard). The level of the MIF directly affects the MSCs because acquirers treat
+the interchange fees as a cost and take them into account when setting the level of the
+MSC. Interchange fees are a significant price component of the MSCs.
+(17) This Decision concerns those inter-regional transactions where the merchant outlet is
+located in the EEA while the issuer of the card used is based outside the EEA ("the
+inter-regional transactions").
+(18) For the purposes of this Decision, a "debit card" means a card that accesses a
+consumer deposit and includes “prepaid cards”5, while a “credit card” means a card
+that is used to defer payment of debt or incur debt and defer its payment, including
+“charge cards”6.
+(19) For the purposes of this Decision, "consumer card" transactions” are transactions
+made using a card-based payment instrument issued to natural persons, which is not
+limited in use to business expenses, while “commercial card” transactions are
+transactions with a card-based payment instrument other than consumer card
+transactions.
+(20) In this Decision, in-store transactions when the cardholder is present in a shop are
+referred to as "card-present" or "CP" transactions. On-line transactions when the card
+number and authentication details are transmitted via internet, mail or telephone are
+referred to as "card-not-present" or "CNP" transactions.
+
+4.2. Relevant market
+(21) In the SO, the Commission took the preliminary view that the relevant product
+market for the purposes of these proceedings is the market for acquiring card
+payments. Services for acquiring card payments are distinct from services for other
+means of payments, such as cash, credit transfers or direct debit payments. Services
+for acquiring card payments are generally offered by either commercial banks or
+specialised acquirers. The finding of such a product market is in line with the
+Commission's established practice7 and the case-law of the Court of Justice of the
+European Union8.
+
+4 The MSC is also referred to as "merchant fees", "merchant service charges", "discount rates" or
+"disagios".
+5 “Prepaid card” means a card used to access funds in a Mastercard prepaid account or a card where
+monetary value is stored on a chip
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+t to
+inter-regional MIFs.
+(90) A breach of the Commitments could lead to the application of a number of measures
+provided for in Regulation (EC) No 1/2003, namely reopening of the proceedings
+pursuant to Article 9(2), imposition of a fine pursuant to Article 23(2)(c), or the
+imposition of periodic penalty payments pursuant to Article 24(1)(c).
+7.2.3. Definitions
+(91) As regards the comment on whether card schemes could re-define card-present
+transactions as card-not-present transactions, the Commission considers that the
+current definitions of “Card-Based Payment Instrument” and “Card Present
+Transactions” (clause 2.1 of Mastercard’s Commitments) exclude such
+manipulations as they clearly specify under which conditions card-present
+transactions take place. Nevertheless, if such manipulation were to occur, this would
+be considered a breach and circumvention of the Commitments (see recital (90)).
+(92) As regards the definition of “Merchant Outlet”, the Commission considers that
+Mastercard’s Commitments provide for the possibility to allocate the place of the
+merchant outlet in the country of the travel agent (clause 2.1 of Mastercard’s
+Commitments).
+
+45 See replies of Mastercard, Visa, competitors and merchants to the Commission market investigation and
+the data gathered in the context of the Cost of Cash and Cards Study. Specifically concerning the interregional CNP transactions, the Commission gathered information from competitors and merchants on
+costs of alternative payment means funded via bank transfers (see recital (79)(b)).
+46 Clause 8.1 states that the non-circumvention obligation “[...] includes specifically but not exclusively
+implementing programs or new rules whereby Mastercard transfers scheme or other fees charged to
+Acquirers within the EEA to non-EEA issuers.”
+
+EN 18 EN
+
+7.2.4. Duration and review of the Commitments
+(93) Respondents did not provide any facts or evidence that would justify either extending
+or reducing the duration of the Commitments. In addition, the duration of the
+Commitments and the review of Regulation (EU) 2015/751 are two separate issues.
+The duration of the Commitments has to be assessed on its merits, irrespective of the
+review clause in Article 17 of Regulation (EU) 2015/751. Furthermore, inter-regional
+MIFs are not included within the scope of Regulation (EU) 2015/751.
+(94) The Commission considers that the five-years and six-month duration of the
+Commitments is sufficient to address adequately the concerns expressed in the SO.
+Given that the Commitments provide for an implementation period of six months, the
+“net” duration of the Commitments will effectively be five years. This is in line with
+the Commission’s practice in previous commitment cases47 and slightly longer than
+in the commitments in the previous MIF cases48. A longer period would go beyond
+what is necessary to protect competition in such a fast-moving sector.
+7.2.5. Scope of the Commission’s investigation
+(95) The comments received regarding commercial cards and scheme fees go beyond the
+scope of this case and therefore also beyond the Commitments. As stated in recitals
+(1) and (30), the scope of this case and the practices raising concerns are limited to
+Mastercard’s rules on inter-regional MIFs applicable to card-based inter-regional
+transactions concluded at merchants located in the EEA with consumer debit and
+credit cards issued by an issuer located outside the EEA. Commercial cards are not
+part of the investigation. Similarly, scheme fees, which are charged by Mastercard to
+issuers and acquirers, are not part of the investigation.
+(96) The concern that higher caps applicable to inter-regional card-not-present
+transactions may set a precedent in the context of the review of Regulation (EU)
+2015/751 is also outside the scope of this case which must be assessed on its own
+merits. The Commission may carry out a review of Regulation (EU) 2015/751 in
+accordance with Article 17 of that Regulation and separately from this case.
+Accordingly, the suggestions for the review of Regulation (EU) 2015/751 which
+were raised by respondents, such as a proposal to extend its scope to include scheme
+fees, inter-regional interchange fees or commercial cards, are also not within the
+scope of this case.
+7.2.6. Other comments
+(97) Regarding the question on the application of the Commitments to consumers in the
+United Kingdom in the future, it should be recalled that the Commitments are
+applicable to inter-regional transactions. These are defined in the Mastercard
+Commitments as “a transaction at a Merchant Outlet located in the EEA with a
+Consumer Credit Card or Consumer Debit Card issued by an Issuer based outside of
+the EEA” (see clause 2.1). In this regard, the Mastercard Commitments define the
+EEA as “those countries participating in the European Economic Area as of the
+
+47 For commitment cases with a duration of five years see for example: Commission Decision of 4 May
+2017 in case COMP/AT.40153 – E-book MFNs and related matters (Amazon); Commission Decision
+of 10 December 2015 in case COMP/AT.39767 – BEH Electricity; Commission Decision of 29 April
+2014 in case COMP/AT.39939 – Samsung Enforcement of UMTS Standard Essential Patents; and
+Commission Decision of 25 July 2013 in case COMP/AT.39847 – E-books.
+48 See the Commission’s 2014 Visa decision that included a duration of four years (clause 9.2).
+
+EN 19 EN
+
+Commencement Date or joining thereafter for the duration of each such country’s
+participation in the EEA during the term of these Commitments” (see clause 2.1).
+(98) Regarding the potential effects of the Commitments on issuing banks located outside
+the EEA, the Commission’s competition concerns set out in the SO, which the
+Mastercard Commitments address, concern the acquiring of card-based payment
+transactions within the EEA.
+(99) Finally, in relation to the transparency of the Monitoring Trustee and its interactions
+with stakeholders, the Commission refers to the appendix to the Commitments (also
+publicly available) where the functions, duties and obligations of the Monitoring
+Trustee are laid out. In particular, one of the duties of the Monitoring Trustee is to
+promptly report in writing to the Commission, if it concludes on reasonable grounds
+that there has been a failure to comply with the Commitments (clause 1.7.3 in the
+appendix to the Commitments). These provisions are in line with the general practice
+of the Commission regarding the monitoring of commitments. Furthermore, a model
+text for trustee mandates is published on the Commission’s DG Competition
+website49.
+7.2.7. Conclusion on proportionality
+(100) Mastercard has not offered less onerous commitments in response to the SO that also
+address the Commission’s concerns adequately.
+(101) The need to ensure increased deterrence through the imposition of fines has been
+removed by the submission of the Commitments, which will be made legally binding
+and enforceable through this Decision. While this effectively removes the risk of
+recidivism, it produces positive effects for market operators and consumers.
+(102) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that responded to the Article 27(4) Market Test
+Notice.
+(103) Overall, the observations received in response to the Article 27(4) Market Test
+Notice did not allow the Commission to identify new competition concerns and
+contained no points such as to make the Commission reconsider the concerns it
+expressed in the SO. In view of the results of the market test, the Commission
+maintains the position that it took in the Article 27(4) Market Test Notice, namely
+that the Commitments are adequate to meet the competition concerns expressed in
+the SO.
+(104) This Decision accordingly complies with the principle of proportionality.
+
+8. CONCLUSION
+(105) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes the Commitments binding to meet the Commission’s concerns
+expressed in the SO. Recital 13 of the Preamble to the Regulation (EC) No 1/2003
+states that such a decision should not conclude whether or not there has been or still
+is an infringement.
+
+49 See http://ec.europa.eu/competition/mergers/legislation/trustee_mandate_en.pdf.
+
+EN 20 EN
+
+(106) The Commission’s assessment of whether the Commitments are adequate to address
+its concerns is based on the SO, representing the preliminary view of the
+Commission based on the underlying investigation and analysis, and the observations
+received from third parties following the publication of the Article 27(4) Market Test
+Notice.
+(107) In the light of the Commitments, the Commission considers that there are no longer
+grounds for action on its part and, without prejudice to Article 9(2) of Regulation
+(EC) No 1/2003, the proceedings in this case should therefore be brought to an end.
+(108) The Commission retains full discretion to investigate and open proceedings under
+Article 101 of the Treaty and Article 53 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision.
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Commitments in the Annex shall be binding on Mastercard Europe SA, Mastercard
+Incorporated, and Mastercard International Incorporated.
+
+Article 2
+There are no longer grounds for action by the Commission in this case.
+
+Article 3
+This Decision shall apply for a period of five years and six months from the date of notification
+of this Decision to Mastercard Europe SA, Mastercard Incorporated, and Mastercard
+International Incorporated.
+
+Article 4
+This Decision is addressed to:
+Mastercard Europe SA
+Chaussée de Tervuren 198/A
+1410 Waterloo
+Belgium
+Mastercard Incorporated
+2000 Purchase Street
+Purchase New York 10577-2509
+USA
+
+EN 21 EN
+
+Mastercard International Incorporated
+2000 Purchase Street
+Purchase New York 10577-2509
+USA
+
+Done at Brussels, 29.4.2019
+
+For the Commission
+
+Margrethe VESTAGER
+Member of the Commission
+
+EN 22 EN

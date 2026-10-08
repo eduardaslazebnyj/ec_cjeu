@@ -1,0 +1,598 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels,
+
+COMMISSION DECISION
+
+Of [1 October 2008]
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the
+EEA Agreement
+
+Case COMP/39181 – Candle Waxes
+
+(Only the English, French, German, Italian and Spanish texts are authentic)
+
+(Text with EEA relevance)
+
+to be notified to:
+
+ENI S.p.A.
+
+Esso Deutschland GmbH, Esso Société Anonyme Française,
+ExxonMobil Petroleum and Chemical B.V.B.A. and Exxon Mobil Corporation
+
+H&R ChemPharm GmbH, H&R Wax Company Vertrieb GmbH
+and Hansen & Rosenthal KG
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+
+MOL Nyrt.
+
+Repsol YPF Lubricantes y Especialidades S.A., Repsol Petróleo S.A.
+and Repsol YPF S.A.
+
+Sasol Wax GmbH, Sasol Wax International AG, Sasol Holding in Germany GmbH
+and Sasol Limited
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH,
+Deutsche Shell GmbH, Shell International Petroleum Company Limited,
+the Shell Petroleum Company Limited, Shell Petroleum N.V., and
+the Shell Transport and Trading Company Limited
+
+RWE-Dea AG and RWE AG
+
+Total France S.A. and Total S.A
+
+Parts of this text have been edited to ensure that confidential information is not disclosed;
+those parts are enclosed in square brackets [...].
+
+2
+
+TABLE OF CONTENTS
+
+1. Introduction................................................................................................................ 7
+1.1. Addressees......................................................................................................................... 7
+1.2. Summary of the infringement.............................................................................................. 7
+2. The Industry Subject to the Present Proceedings......................................................... 8
+2.1. The Products...................................................................................................................... 8
+2.2. [...].................................................................................................................................... 8
+2.3. Undertakings Subject to the Present Proceedings................................................................ 8
+2.3.1. The ENI group (ENI S.p.A.) .......................................................................................... 8
+2.3.2. The ExxonMobil group (Esso Deutschland GmbH, Esso Société Anonyme Française,
+ExxonMobil Petroleum and Chemical B.V.B.A, Exxon Mobil Corporation).................... 9
+2.3.3. The Hansen & Rosenthal/Tudapetrol group (Tudapetrol Mineralölerzeugnisse Nils
+Hansen KG, H&R ChemPharm GmbH, H&R Wax Company Vertrieb GmbH, Hansen &
+Rosenthal KG).............................................................................................................. 10
+2.3.4. The MOL group (MOL Nyrt.)...................................................................................... 11
+2.3.5. The Repsol group (Repsol YPF Lubricantes y Especialidades S.A., Repsol Petróleo S.A.,
+Repsol YPF S.A.)......................................................................................................... 12
+2.3.6. The Sasol group (Sasol Wax GmbH, Sasol Wax International AG, Sasol Holding in
+Germany GmbH, Sasol Limited)................................................................................... 13
+2.3.7. The Shell group (Shell Deutschland Schmierstoff GmbH, Shell Deutschland Oil GmbH,
+Deutsche Shell GmbH, Shell International Petroleum Company Limited (SIPC), the Shell
+Petroleum Company Limited (SPCO), Shell Petroleum N.V, the Shell Transport and
+Trading Company Limited)........................................................................................... 14
+2.3.8. The RWE group........................................................................................................... 16
+2.3.9. The Total group (Total France S.A., Total S.A.) .......................................................... 16
+2.4. Other Market Players ....................................................................................................... 17
+2.5. Description of the Market................................................................................................. 17
+2.5.1. Supply.......................................................................................................................... 17
+2.5.2. Demand........................................................................................................................ 18
+2.5.3. Trade between Member States...................................................................................... 18
+3. Procedure................................................................................................................. 18
+3.1. The Commission's Investigation........................................................................................ 18
+3.2. Statement of Objections and Oral Hearing ........................................................................ 19
+4. Description of the Events.......................................................................................... 21
+4.1. The Basic Principles and Functioning of the Cartel............................................................ 21
+4.2. Details on the Technical Meetings .................................................................................... 25
+5. Application of Article 81 of the Treaty and Article 53 of the EEA Agreement to the
+Present Case............................................................................................................. 58
+5.1. Applicability of the Treaty and the EEA Agreement.......................................................... 58
+5.2. Jurisdiction....................................................................................................................... 61
+5.3. The Nature of the Infringement in the Present Case .......................................................... 61
+5.3.1. Principles...................................................................................................................... 61
+5.3.2. Application................................................................................................................... 64
+5.4. Single and Continuous Infringement ................................................................................. 76
+5.4.1. Principles...................................................................................................................... 76
+5.4.2. Application................................................................................................................... 79
+5.4.3. The Case of ENI........................................................................................................... 85
+5.5. Implementation................................................................................................................. 86
+
+3
+
+5.6. Restriction of Competition................................................................................................ 87
+5.7. Effect upon Trade between Member States and between EEA Contracting Parties............ 88
+5.8. Application of Article 81(3) of the Treaty and Article 53(3) of the EEA Agreement.......... 89
+5.9. Economic Arguments....................................................................................................... 90
+5.10. Conclusion on the Application of Article 81 of the Treaty and Article 53 of the EEA
+Agreement........................................................................................................................ 92
+6. Addressees of the Present Decision........................................................................... 93
+6.1. Principles Concerning Addressees..................................................................................... 93
+6.2. Application....................................................................................................................... 97
+6.2.1. The ENI group............................................................................................................. 97
+6.2.2. The ExxonMobil group................................................................................................. 98
+6.2.3. The Hansen & Rosenthal/Tudapetrol group ................................................................ 103
+6.2.4. The MOL group......................................................................................................... 104
+6.2.5. The Repsol group....................................................................................................... 110
+6.2.6. The Sasol Group ........................................................................................................ 115
+6.2.7. The Shell group.......................................................................................................... 121
+6.2.8. The RWE group......................................................................................................... 126
+6.2.9. The Total group ......................................................................................................... 131
+6.3. Conclusion on Addressees.............................................................................................. 137
+7. Duration of the Infringement and Limitation Periods............................................... 138
+7.1. Starting Date for Each Undertaking................................................................................ 138
+7.2. End Date for Each Undertaking...................................................................................... 139
+7.3. Conclusion on the Duration of the Infringement Relating to Paraffin Waxes.................... 142
+7.4. Conclusion on the Duration of the Infringement Relating to Slack Wax .......................... 143
+7.5. Application of Limitation Periods ................................................................................... 144
+8. Remedies................................................................................................................ 145
+8.1. Article 7 of Regulation (EC) No 1/2003 ......................................................................... 145
+8.2. Article 23(2) of Regulation (EC) No 1/2003................................................................... 145
+8.3. The Guidelines on Fines.................................................................................................. 146
+8.4. The Basic Amount of the Fines....................................................................................... 146
+8.4.1. Methodology.............................................................................................................. 146
+8.4.2. The Value of Sales...................................................................................................... 147
+8.4.3. Gravity....................................................................................................................... 149
+8.4.4. Duration..................................................................................................................... 152
+8.4.5. The Percentage to be Applied for the Additional Amount ........................................... 154
+8.4.6. Calculation and Conclusion on Basic Amounts............................................................ 154
+8.5. Adjustments to the Basic Amount................................................................................... 155
+8.5.1. Aggravating Circumstances ........................................................................................ 155
+8.5.2. Mitigating Circumstances ........................................................................................... 158
+8.5.3. Deterrence.................................................................................................................. 163
+8.5.4. Conclusions on the Adjusted Basic Amounts .............................................................. 164
+8.6. Application of the 10% Turnover Limit .......................................................................... 165
+8.7. Application of the 2002 Leniency Notice ........................................................................ 165
+8.7.1. Shell........................................................................................................................... 165
+8.7.2. Sasol .......................................................................................................................... 166
+8.7.3. Repsol........................................................................................................................ 168
+8.7.4. ExxonMobil................................................................................................................ 169
+8.7.5. RWE.......................................................................................................................... 170
+8.7.6. Conclusion on the Application of the 2002 Leniency Notice........................................ 171
+8.8. The Amounts of the Fines to be Imposed in this Decision ............................................... 171
+8.8.1. The ENI group........................................................................................................... 171
+
+4
+
+8.8.2. The ExxonMobil group............................................................................................... 172
+8.8.3. Hansen & Rosenthal................................................................................................... 172
+8.8.4. Tudapetrol.................................................................................................................. 172
+8.8.5. The MOL group......................................................................................................... 172
+8.8.6. The Repsol group....................................................................................................... 172
+8.8.7. The Sasol group ......................................................................................................... 172
+8.8.8. The Shell group.......................................................................................................... 173
+8.8.9. The RWE group......................................................................................................... 173
+8.8.10. The Total group ......................................................................................................... 173
+8.9. Ability to Pay ................................................................................................................. 173
+ANNEX............................................................................................................................. 181
+
+5
+
+COMMISSION DECISION
+
+of [1 October 2008]
+
+relating to a proceeding under Article 81 of the EC Treaty
+and Article 53 of the EEA Agreement
+
+Case COMP/39181 - Candle Waxes
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nthal should be as
+follows:
+
+Total fine for Hansen & Rosenthal KG EUR 24 000 000
+jointly and severally with H&R Wax
+Company Vertrieb GmbH
+
+of which jointly and severally with H&R EUR 22 000 000
+ChemPharm GmbH
+
+8.8.4. Tudapetrol
+
+(779) The total amount of the fine to be imposed on Tudapetrol should be as follows:
+
+Total fine for Tudapetrol EUR 12 000 000
+Mineralölerzeugnisse Nils Hansen KG:
+
+8.8.5. The MOL group
+
+(780) The total amount of the fine to be imposed on MOL should be as follows:
+
+Total fine for MOL Nyrt.: EUR 23 700 000
+
+8.8.6. The Repsol group
+
+(781) The total amount of the fine to be imposed on Repsol should be as follows:
+
+Total fine for Repsol YPF Lubricantes y EUR 19 800 000
+Especialidades S.A. jointly and severally
+with Repsol Petróleo S.A. and Repsol
+YPF S.A.:
+
+8.8.7. The Sasol group
+
+(782) The total amount of the fine to be imposed on Sasol should be as follows:
+
+Total fine for Sasol Wax GmbH: EUR 318 200 000
+of which jointly and severally with Sasol EUR 250 700 000
+Wax International AG, Sasol Holding in
+Germany GmbH and Sasol Limited
+
+172
+
+8.8.8. The Shell group
+
+(783) The total amount of the fine to be imposed on Shell should be as follows:
+
+Total fine: EUR 0
+
+8.8.9. The RWE group
+
+(784) The total amount of the fine to be imposed on RWE should be as follows:
+
+Total fine for RWE-Dea AG jointly and EUR 37 440 000
+severally with RWE AG:
+
+8.8.10. The Total group
+
+(785) The total amount of the fine to be imposed on Total should be as follows:
+
+Total fine for Total France S.A. jointly EUR 128 163 000
+and severally with Total S.A.:
+
+8.9. Ability to Pay
+
+(786) None of the addressees have argued that it is unable to pay the fine.
+
+173
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81(1) of the Treaty and – from 1 January
+1994 – Article 53 of the EEA Agreement by participating, for the periods indicated, in a
+continuing agreement and/or concerted practice in the paraffin waxes sector in the common
+market and, as of 1 January 1994, within the EEA:
+
+ENI S.p.A.: on 30/31 October 1997 and from 21 February 2002 to 28 April
+2005;
+
+Esso Deutschland GmbH: from 22 February 2001 to 20 November 2003;
+
+Esso Société Anonyme Française: from 3 September 1992 to 20 November
+2003;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: from 30 November 1999 to 20
+November 2003;
+
+Exxon Mobil Corporation: from 30 November 1999 to 20 November 2003;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: from 24 March 1994 to 30
+June 2002;
+
+H&R Wax Company Vertrieb GmbH: from 1 January 2001 to 28 April 2005;
+
+Hansen & Rosenthal KG: from 1 January 2001 to 28 April 2005;
+
+H&R ChemPharm GmbH: from 1 July 2001 to 28 April 2005;
+
+MOL Nyrt.: from 3 September 1992 to 28 April 2005;
+
+Repsol YPF Lubricantes y Especialidades S.A.: from 24 June 1994 to 4 August
+[2004]773;
+
+Repsol Petróleo S.A.: from 24 June 1994 to 4 August [2004]774;
+
+Repsol YPF S.A.: from 24 June 1994 to 4 August [2004]775;
+
+Sasol Wax GmbH: from 3 September 1992 to 28 April 2005;
+
+Sasol Wax International AG: from 1 May 1995 to 28 April 2005;
+
+Sasol Holding in Germany GmbH: from 1 May 1995 to 28 April 2005;
+
+773 Correction to Commission Decision C(2008)5476 of 1 October 2008 in Case COMP/39181 – Candle
+Waxes.
+774 Correction to Commission Decision C(2008)5476 of 1 October 2008 in Case COMP/39181 – Candle
+Waxes.
+775 Correction to Commission Decision C(2008)5476 of 1 October 2008 in Case COMP/39181 – Candle
+Waxes.
+
+174
+
+Sasol Limited: from 1 May 1995 to 28 April 2005;
+
+Shell Deutschland Oil GmbH: from 3 September 1992 to 31 March 2004;
+
+Shell Deutschland Schmierstoff GmbH: from 1 April 2004 to 17 March 2005;
+
+Deutsche Shell GmbH: from 2 January 2002 to 17 March 2005;
+
+Shell International Petroleum Company Limited: from 2 January 2002 to 17
+March 2005;
+
+the Shell Petroleum Company Limited: from 2 January 2002 to 17 March 2005;
+
+Shell Petroleum N.V.: from 1 July 2002 to 17 March 2005;
+
+the Shell Transport and Trading Company Limited: from 2 January 2002 to 17
+March 2005;
+
+RWE-Dea AG: from 3 September 1992 to 30 June 2002;
+
+RWE AG: from 3 September 1992 to 30 June 2002;
+
+Total France S.A.: from 3 September 1992 to 28 April 2005 and
+
+Total S.A.: from 3 September 1992 to 28 April 2005.
+
+For the following undertakings, the infringement also includes slack wax sold to end-customers
+on the German market for the periods indicated:
+
+Esso Deutschland GmbH: from 22 February 2001 to 18 December 2002;
+
+Esso Société Anonyme Française: from 8 March 1999 to 18 December 2002;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: from 20 November 1999 to 18
+December 2002;
+
+Exxon Mobil Corporation: from 20 November 1999 to 18 December 2002;
+
+Sasol Wax GmbH: from 30 October 1997 to 12 May 2004;
+
+Sasol Wax International AG: from 30 October 1997 to 12 May 2004;
+
+Sasol Holding in Germany GmbH: from 30 October 1997 to 12 May 2004;
+
+Sasol Limited: from 30 October 1997 to 12 May 2004;
+
+Shell Deutschland Oil GmbH: from 30 October 1997 to 12 May 2004;
+
+Shell Deutschland Schmierstoff GmbH: from 1 April 2004 to 12 May 2004;
+
+Deutsche Shell GmbH: from 2 January 2002 to 12 May 2004;
+
+175
+
+Shell International Petroleum Company Limited: from 2 January 2002 to 12
+May 2004;
+
+the Shell Petroleum Company Limited: from 2 January 2002 to 12 May 2004;
+
+Shell Petroleum N.V.: 1 July 2002 to 12 May 2004;
+
+the Shell Transport and Trading Company Limited: from 2 January 2002 to 12
+May 2004;
+
+RWE-Dea AG: from 30 October 1997 to 30 June 2002;
+
+RWE AG: from 30 October 1997 to 30 June 2002;
+
+Total France S.A.: from 30 October 1997 to 12 May 2004 and
+
+Total S.A.: from 30 October 1997 to 12 May 2004.
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+ENI S.p.A.: EUR 29 120 000;
+
+Esso Société Anonyme Française: EUR 83 588 400,
+of which jointly and severally with
+
+ExxonMobil Petroleum and Chemical B.V.B.A. and Exxon Mobil
+Corporation: for EUR 34 670 400, of which jointly and severally with Esso
+Deutschland GmbH for EUR 27 081 600;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: EUR 12 000 000;
+
+Hansen & Rosenthal KG jointly and severally with H&R Wax Company Vertrieb
+GmbH: EUR 24 000 000,
+of which jointly and severally with
+
+H&R ChemPharm GmbH for EUR 22 000 000;
+
+MOL Nyrt.: EUR 23 700 000;
+
+Repsol YPF Lubricantes y Especialidades S.A. jointly and severally with Repsol
+Petróleo S.A. and Repsol YPF S.A. : EUR 19 800 000;
+
+Sasol Wax GmbH: EUR 318 200 000,
+of which jointly and severally with
+
+Sasol Wax International AG, Sasol Holding in Germany GmbH and Sasol
+Limited for EUR 250 700 000;
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH, Deutsche Shell
+GmbH, Shell International Petroleum Company Limited, the Shell Petroleum
+
+176
+
+Company Limited, Shell Petroleum N.V. and the Shell Transport and Trading
+Company Limited: EUR 0,;
+
+RWE-Dea AG jointly and severally with RWE AG: EUR 37 440 000;
+
+Total France S.A. jointly and severally with Total S.A.: EUR 128 163 000.
+
+The fines shall be paid in Euros, within three months of the date of the notification of this
+Decision, to the following account held in the name of the European Commission:
+
+Account No: 0050915991
+ING BANK NV
+Financial Plaza
+Bijlmerdreef 109,
+NL – 1102 BW Amsterdam
+Code IBAN: NL22INGB0050915991
+Code SWIFT: INGBNL2AXXX
+
+After the expiry of that period, interest shall automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of the
+month in which this Decision is adopted, plus 3,5 percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred to in
+that Article in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+
+This Decision is addressed to:
+
+ENI S.p.A.
+Piazzale Mattei, 1
+I-00144 Roma
+
+Esso Deutschland GmbH
+Esso Haus
+Kapstadtring 2
+D-22297 Hamburg
+
+Esso Société Anonyme Française
+Tour Manhattan
+5/6 Place de l'Iris
+F-92400 Courbevoie
+
+177
+
+ExxonMobil Petroleum & Chemical B.V.B.A.
+Hermeslaan 2
+B-1831 Machelen
+
+Exxon Mobil Corporation
+3225 Gallows Road
+Fairfax, VA 22037-0001
+USA
+
+H&R ChemPharm GmbH
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+H&R Wax Company Vertrieb GmbH
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+Hansen & Rosenthal KG
+Neuenkirchener Straße 8
+D-48499 Salzbergen
+
+MOL Nyrt.
+Benczúr utca 13
+HU-1068 Budapest
+
+Repsol Petróleo S.A.
+Paseo de la Castellana, 278
+E-28046 Madrid
+
+Repsol YPF S.A.
+Paseo de la Castellana 278
+E-28046 Madrid
+
+Repsol YPF Lubricantes y Especialidades S.A.
+Edificio Tucumán, 2a planta
+Glorieta de Mar Caribe 1
+E-28042 Madrid
+
+RWE AG
+Opernplatz 1
+D-45128 Essen
+
+RWE-Dea AG
+Überseering 40
+D-22297 Hamburg
+
+Sasol Holding in Germany GmbH
+Worthdamm 13-27
+D-20457 Hamburg
+
+Sasol Limited
+
+178
+
+1 Sturdee Avenue
+Rosebank, 2196
+Johannesburg
+Republic of South Africa
+
+Sasol Wax International AG
+Worthdamm 13-27
+D-20457 Hamburg
+
+Sasol Wax GmbH
+Worthdamm 13-27
+D-20457 Hamburg
+
+Shell International Petroleum Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Shell Deutschland Oil GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+Shell Deutschland Schmierstoff GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+Deutsche Shell GmbH
+Suhrenkamp 71-77
+D-22284 Hamburg
+
+the Shell Petroleum Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Shell Petroleum N.V.
+Carel van Bylandtlaan 30
+NL-2596 HR Den Haag
+
+the Shell Transport and Trading Company Limited
+Shell Centre
+UK-London SE1 7NA
+
+Total France S.A.
+24, Cours Michelet
+Tour Michelet
+F-92069 Paris La Défense Cedex
+
+Total S.A.
+2, place de La Coupole
+La Défense 6
+F-92078 Paris La Défense Cedex
+
+179
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+Am Sandtorkai 64
+D-20457 Hamburg
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of the EEA
+Agreement.
+
+Done at Brussels,
+
+For the Commission
+Neelie KROES
+Member of the Commission
+
+180
+
+ANNEX
+
+[...]

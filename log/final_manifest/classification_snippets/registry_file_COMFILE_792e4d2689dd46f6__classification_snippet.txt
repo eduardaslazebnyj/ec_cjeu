@@ -1,0 +1,467 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+COMMITMENT TO THE EUROPEAN COMMISSION
+
+REUTERS LIMITED
+
+CASE COMP/D2/39.654 – REUTERS INSTRUMENT CODES (RIC SYMBOLS)
+
+Reuters Limited ("Thomson Reuters") hereby gives the following commitment
+("Commitment") to address the competition concerns identified by the European
+Commission ("Commission") in Case COMP/D2/39.654 and referred to in the Commission's
+press release of 10 November 2009 (IP/09/1692).
+
+The Commission considers that the restrictions to the retrieval of non-Thomson Reuters data
+with RICs by means of a dynamic mapping table have a negative impact on competition
+between the suppliers of consolidated real-time datafeeds, as they allegedly create a barrier to
+switching from Thomson Reuters to other suppliers of consolidated real-time datafeeds. The
+scope of the Commitment is therefore limited to seeking to facilitate Switching, as further
+described below.
+
+This Commitment is made without prejudice to Thomson Reuters position should the
+Commission or any other party decide to open proceedings or to commence any other legal
+action against Thomson Reuters. Thomson Reuters strongly disagrees with the Commission’s
+concerns regarding both their factual and legal elements, and denies the allegations against it.
+Notwithstanding this disagreement and denial, Thomson Reuters has, nevertheless, offered
+this Commitment pursuant to Article 9 of Regulation 1/2003. The offered Commitment is
+expressly made without admission by Thomson Reuters of any position of dominance in any
+market and/or any liability for abuse of a dominant position within the EEA or any part of it
+contrary to Article 102 of the Treaty on the Functioning of the European Union or any other
+provision of EU competition law.
+
+Thomson Reuters acts on the assumption that by accepting this Commitment, the
+Commission will confirm that there are no longer grounds for action by the Commission
+without concluding whether or not there has been an infringement of the competition rules in
+the EEA.
+
+1. SUMMARY OF COMMITMENT
+
+1.1 This summary is provided for convenience only. The details of the Commitment are
+more fully set out in the other clauses of this Commitment. In case of any
+inconsistency between this Clause 1 and Clauses 2-7 of this Commitment, Clauses 2- 7
+will prevail.
+
+1.2 The Commitment is designed to address the competition concerns identified by the
+Commission in the market for consolidated real-time datafeeds, and as such relates to:
+
+1.2.1 real-time market data services delivered through consolidated datafeeds
+only. It does not therefore relate to pricing and reference data services
+or data delivered through direct feeds; and
+
+1.2.2 use of consolidated real-time market data in all internal applications
+licensed under the TR Consolidated Real-Time Datafeed Service. This
+
+19161-3-654-v18.0 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+includes Server-based Applications and associated downstream
+individual user applications (View Charge Interface) for the purpose of
+viewing, validating and manipulating distributed data. In the case of
+Global Datafeed Licences, the Commitment relates to all internal
+applications (including any Desktop-based Applications as appropriate)
+licensed under such a Global Datafeed Licence. It does not relate to use
+in any internal application where such use is licensed as part of a
+Packaged Desktop Service.
+
+1.3 The Commitment essentially consists of:
+
+1.3.1 a new customer Extended RIC Licence which confers rights that
+correspond to all RIC usage rights currently available under a TR
+Consolidated Real-Time Datafeed Service, and makes them available in
+respect of Eligible RICs for use in Applications by Eligible Customers to
+access, identify and retrieve consolidated real-time market data sourced
+from another vendor or vendors for the purpose of Switching. This
+licence is global in scope, for any Eligible Customer with genuine
+business operations in the EEA. It covers all RICs licensable under a TR
+Consolidated Real-Time Datafeed Service directly associated with a
+price for an individual financial instrument or a value for an index
+carried on a Thomson Reuters Consolidated Real-Time Datafeed.
+Attributed OTC RICs in respect of contributed data carried by both
+Thomson Reuters and the alternative consolidated real-time market data
+vendor are included, subject to the express consent of the relevant
+contributor; and
+
+1.3.2 a new Third Party Developer RIC Licence which confers the right to
+eligible Third Party Developers to develop, test, modify, supply,
+maintain and update a RIC-enabled Switching Tool, for the benefit of
+subscribers to the Extended RIC Licence, for the purpose of Switching.
+In addition to obtaining such a Switching Tool from a subscriber to the
+Third Party Developer RIC Licence, the Eligible Customer can also use
+the Extended RIC Licence to develop, maintain and update a Switching
+Tool.
+
+1.4 Both licences will be available for subscription at any time within a period of five
+years from the Commencement Date. In addition:
+
+1.4.1 an Eligible Customer can subscribe to the Extended RIC Licence with a
+usage level of zero Eligible RICs within 5 years of the Commencement
+Date for an administration fee of USD 150 per month, providing the
+option of an upgrade to the full Extended RIC Licence at any time
+within 7 years of the Commencement Date; and
+
+1.4.2 in the period following five years from the Commencement Date, a
+Third Party Developer can subscribe to the Third Party Developer RIC
+Licence provided that at the date of subscription there is Eligible
+Customer demand to use, maintain and/or update the Switching Tool
+
+19161-3-654-v18.0 - 2 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+together with the Extended RIC Licence solely for the purpose of
+Switching.
+
+After subscription, the licences are for perpetuity subject to the payment of the
+relevant fees and contractual termination rights. They both include the provision by
+Thomson Reuters of regular RIC updates in line with the licensee’s subscription.
+
+1.5 The Extended RIC Licence fees are USD 0.01 per unique RIC up to 50,000 RICs,
+decreasing to USD 0.001 for above 3,000,000 RICs, subject to a minimum monthly
+fee of USD 750 per month. For example, for a fee of USD 1,250 per month, a
+customer will be able to subscribe for 200,000 RICs under the Extended RIC Licence.
+The Third Party Developer RIC Licence fee is similar to the above, except that fees
+are capped at 1,000,000 RICs, and the minimum monthly fee is USD 250 per month.
+
+2. EXTENDED RIC LICENCE
+
+2.1 Thomson Reuters will offer the Extended RIC Licence to Eligible Customers solely to
+facilitate Switching and for the ongoing use in switched Applications, subject to
+payment of the appropriate fees. For the avoidance of doubt, there is no obligation for
+an Eligible Customer to subscribe or continue to subscribe to any Thomson Reuters
+data or other services after subscribing to the Extended RIC Licence (subject to the
+cancellation and termination terms of the Eligible Customer’s contract for any
+existing services).
+
+2.2 Thomson Reuters supplies consolidated real-time market data under two distinct
+licence models, irrespective of the common Thomson Reuters Consolidated Real-
+Time Datafeed delivery infrastructure.
+
+2.2.1 real-time market data licensed for use as part of a TR Consolidated Real-
+Time Datafeed Service. The Extended RIC Licence relates to, and is
+available for, Switching in respect of all Applications; and
+
+2.2.2 real-time market data licensed for individual use as part of a Thomson
+Reuters Packaged Desktop Service. Such usage is excluded from the
+scope of the Extended RIC Licence.
+
+For the avoidance of doubt, where, in certain circumstances, Thomson Reuters
+licenses real-time market data for individual use in internal applications, including
+Desktop-based Applications, as part of a Global Datafeed Licence, such usage is
+included in the scope of the Extended RIC Licence. This includes usage under any
+Global Datafeed Licence which Thomson Reuters may enter into within the duration
+of the Commitment. Without prejudice to its ability to lawfully exercise its
+termination rights under a Global Datafeed Licence, Thomson Reuters hereby
+confirms that it will not otherwise seek to terminate a Global Datafeed Licence during
+the period of 7 (seven) years from the Commencement Date for the sole purpose of
+circumventing its obligations under this Commitment.
+
+2.3 Thomson Reuters will grant the Extended RIC Licence on request to Eligible
+Customers at any time during the five (5) year period from the Commencement Date.
+Upon execution at any time during such five year period, the Extended RIC Licence is
+
+19161-3-654-v18.0 - 3 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+granted to the Eligible Customer in perpetuity, subject to continued payment of fees,
+contractual termination rights and Clause 2.6 below. This will facilitate Switching by
+the Eligible Customer at any time (i.e. not limited to the above five year period).
+
+2.4 The Extended RIC Licence is granted globally to Eligible Customers to facilitate
+Switching of one or more of Eligible Customer's Applications wherever located,
+provided that the Eligible Customer has genuine business operations in the EEA.
+
+2.5 The Extended RIC Licence will initially cover, at the Eligible Customer's option, a
+number of Eligible RICs no greater than the number licensed under its TR
+Consolidated Real-Time Datafeed Service as part of the Business Activity or
+Activities within which usage is licensed under its TR Consolidated Real-Time
+Datafeed Service licence as at the Effective Date. Subsequently, the Eligible
+Customer will be able to increase or decrease (to any number greater than zero) at any
+time the number of Eligible RICs covered for use within the relevant Business
+Activity under the Extended RIC Licence to facilitate Switching, subject to payment
+of applicable fees.
+
+2.6 An Eligible Customer wishing to subscribe to the Extended RIC Licence but who
+does not require immediate activation of the rights granted therein for the purpose of
+Switching may subscribe to the Extended RIC Licence with a subscription level of
+zero Eligible RICs at any time during the 5 year period set out in Clause 2.3, subject
+to payment of the Administration Fee. The Eligible Customer can trigger the full set
+of rights set out in its Extended RIC Licence (including its rights to usage of RICs, to
+RIC updates and to enable a Third Party Developer to develop a Switching Tool on its
+behalf) at any time by subscribing to any number of Eligible RICs greater than zero
+under the licence. In the absence of such an increase in the subscription, any Extended
+RIC Licence with zero Eligible RICs will automatically expire 2 years after the expiry
+of the Commitment.
+
+2.7 Attributed OTC RICs will be included as Eligible RICs in the Extended RIC Licence
+at the request of the Eligible Customer and subject to the express consent of the
+relevant contributor. Thomson Reuters shall promptly seek such consent from the
+relevant contributor for each Eligible Customer on request. As Attributed OTC RICs
+are only relevant to Switching where the relevant contributor also contributes the data
+associated with an Attributed OTC RIC to the third party Consolidated Real-Time
+Datafeed vendor to whom the Eligible Customer is Switching, Attributed OTC RICs
+where the content is only contributed to Thomson Reuters are excluded. For the
+avoidance of doubt, if a relevant contributor starts contributing such content at any
+time to the third party Consolidated Real-time Datafeed vendor to which the Eligible
+Customer has Switched, the relevant Attributed OTC RICs can be included as Eligible
+RICs in the Extended RIC Licence in accordance with the process set out in this
+Clause 2.7.
+
+2.8 Thomson Reuters will allow Eligible Customers to use the Extended RIC Licence to
+support the relevant Business Activity to store and use the number of Eligible RICs
+specified in the Schedule solely to facilitate Switching. This will include associating
+RICs with other symbologies, including associating such RICs with the corresponding
+Official Code, along with standard venue and currency identifiers as well as any other
+
+19161-3-654-v18.0 - 4 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+proprietary identifier that the Eligible Customer is permissioned to use by a third
+party datafeed vendor within the Eligible Customer's Security Master Database for the
+purposes of facilitating Switching.
+
+2.9 An Eligible Customer may distribute Eligible RICs, solely for the purpose of
+Switching, to other Applications within the site and in recipient locations of the
+Eligible Customer.
+
+2.10 The Extended RIC Licence therefore confers rights that correspond to all RIC usage
+rights currently available under an Eligible Customer's TR Consolidated Real-Time
+Datafeed Service in respect of Eligible RICs, and makes these rights available for use
+by Eligible Customers for the purpose of Switching.
+
+2.11 In addition to and independently of the rights granted under the Extended RIC
+Licence, the Eligible Customer shall be able to avail itself at its option of Distribution
+and Redistribution rights to use the RIC as the main identifier for any information in
+straight-through processing, by subscribing to Thomson Reuters existing commercial
+offering, the TPL (the terms of which are available on Thomson Reuters' customer
+zone at https://customers.reuters.com/home/). For the avoidance of doubt, (i) as the
+RIC usage rights granted as part of the TPL are relevant to all customers and are not
+directly related to Switching, the TPL does not form part of this Commitment; and (ii)
+Thomson Reuters confirms that no ongoing subscription to any Thomson Reuters data
+or other services is required as a condition to subscribing to the TPL.
+
+2.12 Under the Extended RIC Licence, Thomson Reuters will provide the Eligible
+Customer with regular updates of Eligible RICs in line with the Eligible Customer's
+subscription, together with such cross-referencing information as is necessary to
+identify uniquely the underlying real-time market data, to the extent such Eligible
+RICs and cross-referencing information are carried on the TR Consolidated Real-
+Time Datafeed Service, thereby facilitating mapping to the alternative vendor’s
+symbology as part of a Switching Tool. Where applicable, such cross-referencing
+information will include, for example, the relevant venue, source, currency and/or
+description as well as the corresponding Official Code (where the Eligible Customer
+has obtained a licence for the Official Code from the appropriate third party). These
+updates will be made available on the same frequency as existing RIC updates are
+provided to Thomson Reuters data customers. These updates will be made available
+as a web service, via access to a password-protected applicat
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ENTS
+
+20 NOVEMBER 2012
+
+(f) The Expert shall, in addition, have the right, subject to prior notification and consent from the
+parties, to seek any independent legal, technical or other expert assistance as he considers
+reasonably necessary in relation to any matters giving rise to the Dispute, having regard to the
+deadline for a decision as set out at Clause 1(g). The Expert is also entitled to consult the
+Monitoring Trustee in all stages of the procedure.
+
+(g) Unless the parties agree otherwise, the Expert shall be required to give his decision within
+ninety (90) days of his appointment. The parties agree to be bound by the determination of the
+Expert whose decision shall, except in the case of fraud or manifest error, be final and binding
+on the parties and neither be subject to appeal nor challenge for any reason.
+
+(h) All negotiations between the parties and Expert determinations in accordance with this Clause
+1 shall be conducted in strict confidence and shall not be used in evidence or referred to in
+any way without the prior written consent of both parties, except insofar as necessary to assist
+other Experts appointed in other similar disputes arising in connection with the Addendum
+and/or the Commitments to reach a decision (whereby a non-confidential version of the
+Expert's decision, and of the written reports provided by the Monitoring Trustee to the
+European Commission in accordance with paragraph 6(b) and (c) of Annex V shall be
+provided to the relevant other Expert).
+
+(i) Liability for the fees of the Expert (including any legal, technical or other expert sought by
+the Expert, with the exception of the Monitoring Trustee who is paid in all instances by
+Thomson Reuters) and the reasonable costs (including legal costs) of the parties shall be
+borne in such proportions as the Expert shall determine in his absolute discretion. In addition,
+the separate fees paid by both parties in equal share to Centre in accordance with the Rules
+will be re-apportioned in line with the Expert determination above, and the parties agree to
+reimburse the other accordingly within thirty (30) days in respect of any overpaid fees.
+
+(j) Thomson Reuters shall send a copy of the Expert's decision to the Monitoring Trustee within
+5 (five) days from the receipt of the decision.
+
+(k) Notwithstanding any other provisions in this Clause 1, nothing herein shall prevent the parties
+from taking steps to preserve or enforce the Expert's decision in a court of competent
+jurisdiction as set out in the underlying contract between the parties.
+
+19161-3-654-v18.0 - 24 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+ANNEX V
+
+Monitoring Trustee
+
+1. Thomson Reuters shall appoint a Monitoring Trustee to monitor Thomson Reuters’
+compliance with the Commitments, for a period of 7 (seven) years from the
+Commencement Date. The Trustee shall be independent of Thomson Reuters (or any
+other undertaking directly or indirectly controlled or affiliated with Thomson Reuters)
+and any competitor of Thomson Reuters (or any other undertaking directly or indirectly
+controlled or affiliated with a competitor of Thomson Reuters) and shall possess the
+necessary qualifications to carry out its mandate and shall neither have nor become
+exposed to a conflict of interest. In particular, members of the Trustee team shall not
+provide services to or become employees of Thomson Reuters or its affiliates neither
+during the Trustee mandate nor for a period of one year following termination of the
+Trustee mandate. The Trustee shall be remunerated by Thomson Reuters in a way that
+does not impede the independent and effective fulfilment of its mandate.
+
+Proposal by the Parties
+
+2. No later than one week after the Commencement Date, Thomson Reuters shall submit a
+list of at least two persons whom Thomson Reuters proposes to appoint as the Monitoring
+Trustee to the Commission for approval. The proposal shall contain sufficient information
+for the Commission to verify that the proposed Trustees fulfil the requirements set out in
+paragraph I above and shall include:
+
+(a) the full terms of the proposed mandate, which shall include all provisions necessary
+to enable the Trustee to fulfil its duties under these Commitments; and
+
+(b) the outline of a plan which describes how the Trustee intends to carry out its
+assigned tasks.
+
+Approval or rejection by the Commission
+
+3. The Commission shall have the discretion to approve or reject the proposed Trustees and
+to approve the proposed mandate subject to any modifications it deems necessary for the
+Trustee to fulfil its obligations. If only one person is approved, Thomson Reuters shall
+appoint or cause to be appointed, the individual concerned as Trustee, in accordance with
+the mandate approved by the Commission. If more than one name is approved. Thomson
+Reuters shall be free to choose the Trustee to be appointed from among the persons
+approved. The Trustee shall be appointed within one week of the Commission’s approval,
+in accordance with the mandate approved by the Commission.
+
+New proposal by the parties
+
+4. If all the proposed Trustees are rejected, Thomson Reuters shall submit the names of at
+least two more persons within one week of being informed of the rejection, in accordance
+with the requirements and the procedure set out in paragraphs 1 to 3 above.
+
+Trustee nominated by the Commission
+
+19161-3-654-v18.0 - 25 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+5. If all further proposed Trustees are rejected by the Commission, the Commission shall
+nominate a Trustee, whom Thomson Reuters shall appoint, or cause to be appointed, in
+accordance with a trustee mandate approved by the Commission. The Commission may
+publish the name of the Monitoring Trustee on its website.
+
+Duties and obligations of the Monitoring Trustee
+
+6. The Monitoring Trustee shall:
+
+(a) propose in its first report to the Commission a detailed work plan describing how it
+intends to monitor compliance with the Commitments;
+
+(b) provide to the Commission, sending Thomson Reuters a non-confidential copy at the
+same time, a written report within 3 months of the Commencement Date, and every 6
+months thereafter, on Thomson Reuters’s compliance with the Commitments. This report
+must also draw describe Thomson Reuters compliance with the commitments based on
+the outcome of the dispute resolution procedure set out in Annex IV, during the observed
+time period;
+
+(c) report in writing to the Commission, sending Thomson Reuters a non-confidential
+copy at the same time, if it concludes on reasonable grounds that Thomson Reuters is
+failing to comply with these Commitments;
+
+(d) reply to questions from the Commission with additional information or its views for
+the purpose of assessing Thomson Reuters’s compliance with the Commitments;
+
+(e) where appropriate, propose to the Commission such measures as the Monitoring
+Trustee considers necessary to ensure Thomson Reuters’s compliance with these
+Commitments;
+
+(f) upon request from Thomson Reuters, an Eligible Customer or a Third Party Developer
+and in consultation with the parties concerned, assist in resolving any disagreements in
+relation to data queries in respect of the cross-referencing information provided by
+Thomson Reuters pursuant to Clause 3.2.1 of the Commitment; and
+
+(g) report in writing to the Commission, as part of the reporting requirement referred to in
+paragraph (b) above and at any time the Monitoring Trustee deems this to be necessary,
+on data queries in respect of the cross-referencing information provided by Thomson
+Reuters pursuant to Thomson Reuter's obligations under Clause 3.2.1 of the Commitment
+as well as the measures taken by Thomson Reuters to help resolve such queries. The
+Monitoring Trustee shall also report, after having spoken to Thomson Reuters, the
+Eligible Customer and/or the Third Party Developer, whether in the Monitoring Trustee's
+view Thomson Reuters used reasonable efforts in assisting the Third Party Developer to
+resolve the data queries in respect of the cross-referencing information pursuant to
+Thomson Reuters obligations under Clause 3.2.1 of the Commitment in a timely and
+effective manner.
+
+Duties and obligations of Thomson Reuters
+
+19161-3-654-v18.0 - 26 - 70-40459995
+
+WITHOUT PREJUDICE
+FINAL COMMITMENTS
+
+20 NOVEMBER 2012
+
+7. Thomson Reuters shall provide the Monitoring Trustee with all such co-operation,
+assistance and information, as the Monitoring Trustee may reasonably require in carrying
+out his Mandate. The Trustee shall have full and complete access, subject to reasonable
+notice, to any of Thomson Reuters’s books, records, documents, management or other
+personnel, facilities, sites and technical information, save for legally privileged material,
+as the Trustee might reasonably require for the fulfilment of its duties under the
+Commitments, and Thomson Reuters shall provide the Trustee upon request with copies
+of any such document. Thomson Reuters shall be available for meetings in order to
+provide the Trustee with all information that is reasonably necessary for the performance
+of its tasks.
+
+Replacement, discharge and reappointment of the Trustee
+
+8. If the Trustee ceases to perform its functions under the Commitments or for any other
+good cause, including the exposure of the Trustee to a conflict of interest:
+
+(a) the Commission may, after hearing the Trustee, require Thomson Reuters to replace
+the Trustee; or
+
+(b) Thomson Reuters, with the prior approval of the Commission, may replace the
+Trustee.
+
+If the Trustee is removed, the Trustee may be required to continue in its function until a
+new Trustee is in place to whom the Trustee has effected a full hand over of all relevant
+information. The new Trustee shall be appointed in accordance with the procedure
+referred to at points 2 to 5 above.
+
+The Trustee shall cease to act as Trustee only after the Commission has discharged it
+from its duties.
+
+19161-3-654-v18.0 - 27 - 70-40459995

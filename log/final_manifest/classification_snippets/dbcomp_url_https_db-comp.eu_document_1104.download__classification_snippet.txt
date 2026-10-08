@@ -1,0 +1,460 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+
+Brussels, 17.10.2013
+SG-Greffe(2013)D/16663
+C(2013) 6986 final
+
+Ryanair Ltd
+
+Dublin Airport
+County Dublin
+Ireland
+
+[...]
+
+Subject: Case No COMP/39.886 – Ryanair/DAA-Aer Lingus – Complaint under
+Articles 101 and 102 of the Treaty
+Commission Decision rejecting the complaint
+(Please quote this reference in all correspondence)
+
+Dear Mr [...],
+
+(1) I am writing to you in connection with your complaint of 22 February 2011 against the
+Dublin Airport Authority (ʻDAAʼ) and Aer Lingus Group Plc (ʻAer Lingusʼ) regarding
+alleged violations of Articles 101 and/or 102 of the Treaty on the Functioning of the
+European Union (ʻTreatyʼ) in connection with airport services at Dublin airport. I also
+refer to the Commissionʼs letter of 22 November 2012 addressed to you in that matter
+and your letter of 24 January 2013 in which you submitted written observations in
+response to the Commissionʼs preliminary assessment of your complaint, as well as
+further submissions you sent to the Commission since then.
+
+(2) For the reasons set out below, the Commission considers that there are insufficient
+grounds to conduct a further investigation into the alleged infringement(s) and
+accordingly rejects your complaint pursuant to Article 7(2) of the Commission
+Regulation (EC) 773/2004.1
+
+1 Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the
+Commission pursuant to Articles 81 and 82 of the EC Treaty, Official Journal L 123, 27.04.2004, pages 18-
+24.
+
+Commission européenne, DG COMP GREFFE ANTITRUST, B-1049 Bruxelles, Belgique
+Europese Commissie, DG COMP GREFFE ANTITRUST, B-1049 Brussel, België
+
+Tel: (32-2) 299 11 11, Fax: (32-2) 295 01 28, e-mail: COMP-GREFFE-ANTITRUST@ec.europa.eu
+1
+
+1. FACTUAL BACKGROUND
+
+1.1. Airport regulatory framework in Ireland
+
+(3) DAA is an Irish state owned company, which has a statutory mandate to operate,
+manage and develop certain Irish airports. DAA owns and operates Dublin, Cork and
+Shannon airports. As part of its activities, DAA sets and collects airport charges. DAA
+is a commercial company with no recourse to state funding.
+
+(4) The Commission for Aviation Regulation (ʻCARʼ) is a public body set up in 2001 with
+the principal function to regulate airport charges and aviation terminal services
+charges.2 In particular, CAR approves the maximum level of airport charges proposed
+by DAA. In this context, CAR issues determinations which, for a period of five years,
+set the annual price caps on the maximum average amount of revenue per passenger
+which DAA may earn from its aeronautical charges.3 Irish law requires CARʼs
+determinations to be objectively justified, as well as non-discriminatory, proportionate
+and transparent.4 In making its determinations, CAR takes account in particular of the
+level of investment in airport facilities, the level of operational income and costs and
+liabilities of DAA.5
+
+(5) DAA has a legal obligation to ensure that average per passenger aeronautical revenues
+do not exceed the annual price cap set by CAR. The current determination of price
+caps was made by CAR in 2009 and covers the period from 2010 to 2014.
+
+1.2. Refurbishment of Terminal 1 and construction of Terminal 2
+
+(6) In May 2005, the Irish Government published the Aviation Action Plan. In this
+document, the Irish Government in particular decided:
+
+ “The building of a new Pier for aircraft parking stands at Dublin Airport,
+available from 2007.
+
+ The building of a Dublin Airport Authority owned new Terminal (Terminal
+Two) at Dublin Airport to open in 2009.
+
+2 Article 7 of the Aviation Regulation Act 2001.
+
+3 Aeronautical charges are those that arise directly from aeronautical operations and passenger/freight
+facilitation. They include landing and aircraft parking charges and airbridge hire. The non-aeronautical
+revenue (e.g. rent from shops, restaurants etc. and car parking charges) is not regulated by CAR, but CAR
+takes account of the total income available to DAA in setting the level of airport charges (the so-called
+ʻsingle tillʼ model of economic regulation).
+
+4 Aviation Regulation Act, 2001. Article 5(4).
+
+5 Section 22 of the State Airports Act, 2004.
+
+2
+
+ A triple safeguard (consultation, verification, regulation) to ensure maximum
+efficiency and cost effectiveness of the building of Terminal Two.ˮ6
+
+(7) To implement this policy mandate, DAA developed a EUR 1.2 billion investment
+programme for the period 2006-2009. DAAʼs plans were reviewed and approved by an
+independent verifier, appointed by the government. DAA submitted the capital
+investment programme to CAR for consideration as part of the 2007 interim review of
+the CARʼs 2005 regulatory determination. After its review, CAR allowed for the
+remuneration of approximately 95% of the total proposed capital expenditure put
+forward by DAA. This has been reflected in the revised caps for airport charges set by
+CAR.
+
+(8) DAA and its consultants carried out several rounds of consultations with the airport
+users and other stakeholders in relation to the envisaged development of Dublin
+airport.7 In addition, CARʼs determinations in relation to airport charges were subject
+to obligatory consultation with the airport users.
+
+(9) The development of Dublin airport included the refurbishment of the existing
+Terminal 1 (ʻT1ʼ) and the construction of a new Terminal 2 (ʻT2ʼ). The refurbishment
+of T1 comprised the construction of a new Pier D, new check-in facilities known as
+ʻArea 14ʼ and a T1 extension known as ʻT1Xʼ.8 Construction of T2 and its associated
+facilities, including Pier E, was completed in November 2010. Both T1 and T2 provide
+International Air Transport Association (ʻIATAʼ) level of service C.9
+
+(10) T2 is the main terminal for Aer Lingus and a number of long-haul network airlines.10
+Ryanair operates exclusively from T1 and is the main user of the newly-constructed
+Pier D. There are also certain network airlines operating from T1 (including some
+long-haul flights).11 DAAʼs airport charges at Dublin airport are not differentiated
+depending on whether an airline uses T1 or T2.
+
+6 Speech delivered by Minister for Transport, Martin Cullen TD, on the adoption of the Government Aviation
+Action Plan, dated 18 May 2005 (http://www.transport.ie/viewitem.asp?id=6658&lang=ENG&loc=1850).
+
+7 The three consultations periods were January 2002, June 2005 and January 2006 onwards (see DAAʼs
+comments of 18 February 2011, pages 17 to 23).
+
+8 T1X refers to the new extended retail /food and beverage area which was provided to the north end of the
+existing T1 building. It was designed to improve the retail offering and the overall passenger service at the
+airport as well as providing an enhanced link between Pier B and Piers A and D.
+
+9 IATA levels of service for airportʼs terminals refer to the amount of floor space available per passenger in
+different parts of the airport (e.g. check-in queue area, or wait/circulate area). Level of service C is defined
+as good on a scale of A to E, which means the condition of stable flows, acceptable brief delays, good level
+of comfort at the airport.
+
+10 Delta, United, US Airways, American Airlines and Etihad Airways use T2.
+
+11 Lufthansa, SAS, British Airways, CityJet, Iberia, Turkish Airlines, Air Canada, Air Transat Luxair, or Swiss
+operate from T1.
+
+3
+
+(11) DAA estimates the capacity of T1 to be 18-20 million passengers per annum
+(ʻMPPAʼ) and of T2 – 11-13 MPPA. Ryanair provides higher estimates:
+approximately 30 MPPA for T1 and 25 MPPA for T2. In recent years, the total
+passenger numbers at Dublin airport were as follows:
+
+2007 2008 2009 2010 2011 2012
+
+23.3 MPPA 23.5 MPPA 20.5 MPPA 18.4 MPPA 18.7 MPPA 19.1 MPPA
+
+(12) During the development of Dublin airport, Ryanair disagreed with a number of issues.
+In particular, it challenged T2ʼs sizing, cost and related pricing issues in the following
+proceedings under the Irish regulatory system:
+
+- CARʼs 2007 interim review of 2005 determination;
+
+- Ryanair judicial review of CARʼs 2007 interim review of 2005 determination in
+the High Court;
+
+- Ryanair appeal to the 2008 aviation panel;
+
+- Ryanair judicial review of CARʼs 2009 determination in the High Court; and
+
+- Ryanair appeal to the 2010 aviation panel.
+
+1.3. Transfer Incentive Scheme
+
+(13) In July 2010, DAA introduced a Transfer Incentive Scheme (ʻTISʼ) which offers a
+financial incentive to all airlines selling through tickets to transfer passengers12 flying
+via Dublin on specific routes (i.e. from a qualifying origin airport to a qualifying
+destination airport via Dublin). The incentive takes form of a fixed amount paid to
+airlines per transfer passenger on the qualifying routes graduated over a number of
+years (year 1 and 2: EUR 6; year 3 and 4: EUR 4; year 5: EUR 2). The goal of the TIS
+is to promote transfer passenger traffic at Dublin airport.
+
+1.4. Remote stand pricing
+
+(14) DAA applies differentiated pricing for the use of contact stands and remote stands13 at
+Dublin airport since 2008, with lower charges for the latter (in 2010: EUR 10 vs. EUR
+6.30 per departing passenger; in 2011: EUR 11.50 vs. EUR 6.50 per departing
+passenger).
+
+12 Transfer passengers on through tickets travel to their destination on two or more flights with a single ticket.
+Self-connecting passengers travel to their destination on two or more flights with separate tickets bought
+independently from the relevant airline(s) or travel agent(s).
+
+13 A contact stand is the one which is (i) suitable for walking passengers to/from a stationary aircraft (via an
+airbridge or the tarmac); and (ii) accordingly accessible from the boarding gate. A remote stand is the one
+which is (i) not suitable for walking passengers to/from a stationary aircraft due to its distance from the pier
+building; and (ii) accordingly only accessible from a bussing lounge.
+
+4
+
+2. THE COMPLAINT
+
+(15) In its complaint, Ryanair claims that DAA and Aer Lingus colluded to reward Aer
+Lingusʼ move to the T2 through implementation of the TIS and DAAʼs policy
+concerning remote stands. Allegedly as part of such collusion, DAA also increased the
+airport charges for the airlines remaining at T1. Ryanair argues that T1 was refurbished
+and upgraded merely to provide a justification for the non-differentiation of airport
+charges between the two terminals and the increased charges imposed on all airport
+users. In Ryanairʼs view, these arrangements amount to an infringement of Article 101
+of the Treaty.
+
+(16) Ryanair also asks the Commission to establish that the increase of airport charges
+(including their non-differentiation between terminals), the TIS and the policy on
+remote stand constitute an infringement of Article 102 of the Treaty by DAA. In
+Ryanairʼs opinion, these types of conduct represent excessive pricing, discrimination,
+bundling and a manifest failure to satisfy demand. As far as these four forms of abuse
+relate to the increased airport charges, Ryanair makes a cross-reference to its
+arguments set out in its complaint under Article 106 in conjunction with Article 102 of
+the Treaty in Case No COMP/39.838 – Ryanair/DAA. Those arguments will also be
+examined together with the issues raised in this complaint when relevant.
+
+(17) Finally, Ryanair briefly mentions that the pricing schemes may qualify as an illegal
+state aid to Aer Lingus. Ryanair states that it may potentially pursue the case as a state
+aid complaint depending on the Commissionʼs response to its antitrust complaint.14
+Based on this information, the Commission focused its investigation on the antitrust
+aspects of the complaint and the state aid allegation was not further investigated.
+
+(18) In its letter of 24 January 2013, Ryanair further alleges that it was erroneous for the
+Commission to consider the service level of T1 and T2 as the same, based on the
+standard IATA Level C, and to claim that DAA differentiates airport charges. Ryanair
+argues in particular that the passenger charge to be paid for terminal services is not
+differentiated depending on the terminal used. Ryanair stresses that the limited
+unbundling of certain services, such as the use of airbridges, does not alter the fact that
+passenger charges for the use of T1 and T2 are identical although T1 passengers have
+zero use of passenger and baggage transfer facilities; or the US Customs and Border
+Protection installations. Furthermore they have smaller needs to use meeting and gate
+areas.15
+
+(19) Ryanair also adds that the Commission has damaged its legitimate interests by not
+exercising its powers of investigation, in particular, the power to conduct unannounced
+inspections at the premises of undertakings, in this case at those of Aer Lingus and
+DAA, despite the duty to do so.16
+
+14 Page 16 of Ryanairʼs Article 101/102 complaint.
+
+15 Pages 9 to 13 of Ryanairʼs letter of 24 January 2013.
+
+16 Pages 28 and 29 of Ryanairʼs letter of 24 January 2013.
+
+5
+
+(20) Finally, Ryanair further stresses that it has no other means available than to complain
+to the Commission because the Irish Competition Act does not provide the adequate
+means for remedying the situation.17 Ryanair alleges that the Irish Competition
+Authority is significantly constrained in its resources and not likely to act on a
+complaint like Ryanairʼs.
+
+3. PROCEDURAL STEPS
+
+(21) The complaint was received on 22 February 2011. Ryanair provided supplementary
+information on 6 April, 30 May, 11 June, 10 October 2011 and 25 April 2013. The
+Commission met Ryanair to discuss the issues raised in the complaint on 6 April 2011.
+A follow-up meeting was held on 10 September 2013.
+
+(22) By letters of 30 June 2011 accompanied by requests for information, the Commission
+sent a non-confidential version of the complaint for comments to DAA and Aer
+Lingus. DAAʼs response was received on 3 September 2011, Aer Lingusʼ response on
+20 September 2011. On 27 October 2011, the Commission sent an additional request
+for information to DAA, the response to which was received on 23 November 2011.
+
+(23) By letter of 22 November 2012, the Commission informed Ryanair of its intention to
+reject the complaint as it raised insufficient grounds to justify further investigation. In
+response to this provisional assessment, Ryanair submitted written observations by a
+letter of 24 January 2013.
+
+(24) Based on the observations submitted by Ryanair, the Commission sent additional
+questions to DAA on 26 April 2013. On 13 May 2013, DAA submitted its response to
+the questionnaire.
+
+4. ASSESSMENT
+
+4.1. General
+
+(25) After an assessment of your complaint, the Commission does not intend to conduct an
+in-depth investigation into your claims beyond the investigation already carried out. As
+you will appreciate, the Commission is unfortunately unable to pursue every alleged
+infringement of European Union competition law which is brought to its attention. The
+Commission has limited resources and must therefore set priorities, in accordance with
+the principles set out at points 41 to 45 of the Notice on the handling of com
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ alleged bundling, namely the non-availability of T1 at moderate prices, DAA
+withdrew an existing facility from the market. Ryanair also claims that passenger and
+luggage transfer services, bag drop and bag distribution for departing and arriving
+point-to-point passengers, US Customs and Border Protection, large meeting and gate
+areas constitute distinct identifiable services that are offered in bundle.87 The
+Commission already explained that these services are actually not tied/bundled
+together (see paragraphs (101) to (106)).
+
+(115) However, Ryanair still does not provide any new information on how the conduct of
+DAA would constitute illegal bundling, what would be the distinct identifiable
+products which are sold together as required by European Union competition law.
+Furthermore, Ryanair itself does not clarify what it means by ʻmoderate pricesʼ, a
+concept unknown in competition law, as further explained in paragraph (122) below.
+
+83 Case T -201/04, Microsoft Corp v Commission [2007] II-ECR 3601, paragraphs 842 and 862.
+
+84 The bundling argument in this form was originally presented in Ryanairʼs separate complaint under Article
+106/102 of the Treaty and cross-referred in its Article 101/102 complaint subject to the current decision.
+
+85 See paragraph (113).
+
+86 Page 21 of Ryanairʼs letter of 24 January 2013.
+
+87 Page 13 of Ryanairʼs letter of 24 January 2013.
+
+25
+
+(116) Lastly, for tying or bundling to occur, the dominant undertaking has to be liable to
+foreclose competition.88 By definition, there is no such foreclosure in this particular
+case as DAA is not in competition with the airport users.
+
+(117) Based on the arguments above, the Commission takes the view that it would be
+disproportionate to further investigate Ryanairʼs claims alleging a violation of Article
+102 of the Treaty by tying and/or bundling, in particular in the light of the limited
+likelihood of establishing an infringement.
+
+d. Manifest failure/refusal to satisfy demand
+
+(118) Ryanair states that the demand of low fares airlines and their passengers has distinctive
+characteristics. Ryanair alleges that by introducing a ʻhigher specificationʼ of terminal
+facilities and the associated cost, DAA fails to satisfy demand of low fares airlines,
+which carry 80% of passengers at Dublin airport.
+
+(119) The Commission considers that DAA is unlikely to have manifestly failed to satisfy
+Ryanairʼs or other low fares airlinesʼ demand. Ryanair does obtain airport services
+which allow its operations. Also, as mentioned in paragraphs (90) to (107) above, the
+DAAʼs pricing structure is substantially differentiated enabling it to accommodate the
+needs of various airline business models. Based on the information provided, there are
+different charges for contact and remote stands and for runway usage.89 There is also a
+distinction with regard to narrow- and wide-body airplanes, as well as to the parking
+time of the aircraft. In addition, charges for optional facilities (such as check-in desks,
+airbridges, use of US Customs and Border Control facilities and lounges) are levied on
+a per usage basis. In sum, DAA argues, and the evidence corroborates, that it caters to
+the needs of low fares airlines by providing them with a possibility to avoid certain
+airport charges.
+
+(120) In its letter of 24 January 2013, Ryanair maintains that DAA infringed European
+Union competition rules when it failed to satisfy demand by not offering airport
+services that correspond to Ryanairʼs needs, namely the services of T1 at moderate
+prices. In particular, it argues that the absolute unavailability of a service is not a
+condition under case law for the finding of abusive failure to respond to demand.
+Consequently, though Ryanair receives some airport services, since those services do
+not correspond to Ryanairʼs needs DAA commits an abuse of dominant position.
+
+(121) The Commission notes that the case law referred to by Ryanair90 concerns cases where
+undertakings with special or exclusive rights were manifestly incapable to meet
+demand while the actual pursuit of those activities by other undertakings was rendered
+
+88 Case T -201/04, Microsoft Corp v Commission [2007] II-ECR 3601, paragraphs 977, 1036 and 1037.
+
+89 Runway charges vary both in relation to the season (winter/summer) and according to the weight of the
+aircrafts used.
+
+90 Footnote 35 of Ryanairʼs letter of 24 January 2013 refers to the following cases: Case C-41/90 Höfner et
+Elser v. Macrotron [1991] ECR 1-1979, para. 24 and 34, operative part paragraph I, Case C-180/98 to C-
+184/98 Pavlov e.a. [2000] 1-6451, para. 126-127 and Case C-475/99 Ambulanz Glöckner [2001] ECR 1-
+8089, para. 63.
+
+26
+
+impossible by statutory provisions. The ʻmanifestʼ incapability was emphasised every
+time and it meant that the undertaking concerned failed to satisfy demand for part or
+the whole of the service in question.
+
+(122) In its letter of 24 January 2013, Ryanair describes the services of a moderately priced
+terminal, as the service that was withdrawn and not available anymore at Dublin
+airport. It mentioned the services of the upgraded T1 prior to 2010 as fitting the needs
+of low fares airlines. To decide whether an undertaking is unable to satisfy demand
+requires difficult economic and factual assessments, however the mere fact that a
+service is not provided at a price that is considered appropriate by a customer, does not
+result in an abusive and manifest incapability to satisfy demand.
+
+(123) The Commission maintains that Ryanair obtains airport services from DAA and there
+is no manifest incapability to satisfy demand that would infringe Article 102 of the
+Treaty. In fact, as described in paragraphs (90) to (107) above, the pricing practice of
+DAA does allow low fare airlines to take into account the specificities of their business
+model and they can avoid several of the costs of services they do not use.
+
+(124) Ryanair also refers to case law related to refusal to supply as an abuse under Article
+102 of the Treaty.91 It has to be noted that several of the cases cited by Ryanair
+concerned vertically integrated undertakings which tried to eliminate or hinder their
+direct downstream competitors through the refusal to supply. DAA is not directly
+connected to any downstream undertakings competing with Ryanair that would benefit
+from the refusal to supply. Furthermore, as explained in paragraph (122), no service
+seems to be withdrawn from the market or refused to Ryanair. In relation to T1, DAA
+undertook investments that improved the service offering as acknowledged also by
+Ryanair. The fact that these services are provided at price levels that are considered not
+appropriate by Ryanair does not imply that there was a refusal.
+
+(125) In these circumstances, the Commission is of the view that it would be
+disproportionate to further investigate Ryanairʼs claims regarding DAAʼs manifest
+failure/refusal to satisfy demand, in particular in light of the limited likelihood of
+establishing an infringement.
+
+(126) As regards the various abusive practices alleged by Ryanair the Commission also notes
+that the Irish Competition Authority or national courts seem well-placed to handle the
+matters raised in your complaint. The effects of the DAAʼs practices complained of are
+essentially confined to Dublin airport, therefore the territory of Ireland. The Irish
+Competition Authority seem therefore particularly well-placed to gather the required
+evidence and, if necessary, able to effectively bring the entire alleged infringement to
+an end. Ryanairʼs statements regarding the lack of independence, willingness and
+sufficient powers of the Irish Competition Authority are irrelevant. It is for Ryanair, if
+it is not satisfied with the manner in which its rights have been taken into account by
+the competition authorities or the national courts, to take the necessary steps with the
+latter or to examine the national remedies available to them.92
+
+91 Footnotes 32 and 49 of Ryanairʼs letter of 24 January 2013.
+
+92 Case T-60/05, Union française de lʼexpress (UFEX) and others v Commission. ECR 2007 II-3397.
+
+27
+
+4.4.5. Conclusion on Article 102 of the Treaty
+
+(127) In light of the above the Commission takes the view that it would be disproportionate
+to further investigate Ryanairʼs claims alleging a violation of Article 102 of the Treaty,
+in particular in the light of the limited likelihood of establishing an infringement and
+also considering that the Irish Competition Authority or national courts seem wellplaced to handle the matters raised in your complaint.
+
+5. CONCLUSION
+(128) In view of the above considerations, the Commission, in its discretion to set priorities,
+has come to the conclusion that there are insufficient grounds for conducting a further
+investigation into the alleged infringements and consequently rejects your complaint
+against DAA and Aer Lingus.
+
+6. PROCEDURE
+(129) An action challenging this Decision may be brought before the General Court of the
+European Union in accordance with Article 263 of the Treaty.
+
+(130) The Commission reserves the right to send a copy of this Decision to DAA and Aer
+Lingus. Moreover, the Commission may decide to make this Decision public on its
+website, or a summary thereof.93 Therefore, if you consider that certain parts of this
+Decision contain confidential information in general or information that would be
+confidential towards DAA and Aer Lingus in particular, I would be grateful if within
+two weeks from the date of receipt you would inform [...] or [...]. Please identify
+clearly the information in question and indicate why you consider it should be treated
+as confidential. After the expiry of the deadline, the Commission may decide to send
+this Decision to DAA and Aer Lingus and/or publish it on its website.
+
+For the Commission
+
+Joaquín Almunia
+Vice-President
+
+93 See paragraph 150 of the Commission notice on best practices for the conduct of proceedings concerning
+Articles 101 and 102 TFEU, OJ 2011/C 308/06.
+
+28

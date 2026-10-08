@@ -1,0 +1,457 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+DA
+
+KOMMISSIONENS BESLUTNING af 27.8.2003
+
+om en procedure efter EF-traktatens artikel 82
+
+(COMP/37.685 GVG/FS)
+
+KOMMISSIONEN FOR DE EUROPÆISKE FÆLLESSKABER HAR -
+
+under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab,
+
+under henvisning til Rådets forordning nr. 17 af 6. februar 1962, første forordning om
+anvendelse af bestemmelserne i traktatens artikel 85 og 861, senest ændret ved forordning
+(EF) nr. 1216/992, særlig artikel 3 og 15, stk. 2,
+
+under henvisning til Rådets forordning (EØF) nr. 1017/68 af 19. juli 1968 om anvendelse af
+konkurrenceregler for transport med jernbane, ad landeveje og sejlbare vandveje3,
+
+under henvisning til den klage, der den 25. oktober 1999 blev indgivet af anpartsselskabet
+Georg Verkehrsorganisation GmbH (GVG) efter artikel 10 i forordning (EØF) nr. 1017/68
+med påstand om, at en overtrædelse af EF-traktatens artikel 82 havde fundet sted,
+
+under henvisning til Kommissionens beslutning af 21. juni 2001 om at indlede en procedure i
+denne sag,
+
+efter at have givet de pågældende virksomheder lejlighed til at udtale sig vedrørende de af
+Kommissionen fremførte klagepunkter, jf. artikel 19, stk. 1, i forordning nr. 17 samt artikel 26
+i forordning (EØF) nr. 1017/68 sammenholdt med Kommissionens forordning (EF)
+nr. 2842/98 af 22. december 1998 om høring af parter i visse procedurer efter EF-traktatens
+artikel 85 og 864,
+
+efter høring af Det Rådgivende Udvalg for Kartel- og Monopolspørgsmål og Det Rådgivende
+Udvalg for Kartel- og Monopolspørgsmål på Transportområdet,
+
+under henvisning til høringskonsulentens endelige rapport i denne sag5, og
+
+ud fra følgende betragtninger:
+
+1 EFT 13 af 21. 2.1962, s. 204. Skønt forordningen blev ophævet ved Rådets forordning (EF) nr. 1/2003
+af 16. december 2002 (EFT L 1 af 4.1.2003, s.1) finder den stadig anvendelse på beslutninger vedtaget
+før 1. maj 2004.
+2 EFT L 148 af 15.6.1999, s. 5.
+3 EFT L 175 af 23.7.1968, s. 1. Forordningen blev senest ændret ved Rådets forordning (EF) nr. 1/2003
+af 16. december 2002 (EFT L 1 af 4.1.2003, s. 1), der imidlertid først finder anvendelse fra 1. maj 2004.
+4 EFT L 354 af 30.12.1998, s. 18.
+5 EFT [ ]
+
+1
+
+A. INDLEDNING
+
+1. Denne sag blev indledt på grund af en klage fra den tyske jernbanevirksomhed Georg
+Verkehrsorganisation GmbH (herefter benævnt "GVG") over Ferrovie dello Stato
+S.p.A. (herefter benævnt "FS"), de italienske statsbaner. GVG klagede over, at FS
+siden 1995 havde nægtet at give adgang til den italienske infrastruktur, at deltage i
+forhandlinger om etablering af en international sammenslutning samt at stille trækkraft
+til rådighed. Dette har forhindret GVG i at levere passagerbefordring med
+internationale tog fra diverse steder i Tyskland via Basel til Milano.
+
+2. Kommissionen er nået til den konklusion, at FS ved at nægte GVG adgang til at yde
+de pågældende tjenester, som er nødvendige for, at virksomheden kan drive forretning,
+har misbrugt sin dominerende stilling som omhandlet i EF-traktatens artikel 82 og
+artikel 8 i forordning nr. 1017/68. Efter at Kommissionen indledte sin undersøgelse,
+har FS over for Kommissionen givet tilsagn om, at misbruget bringes til ophør, og at
+der ikke finder en gentagelse sted.
+
+B. PARTERNE
+
+3. GVG er en tysk jernbanevirksomhed, der siden marts 1992 med statslig autorisation
+har leveret personbefordring med internationale tog. Den 31. marts 1995 fik
+virksomheden i overensstemmelse med Rådets direktiv 95/18/EF af 19. juni 1985 om
+udstedelse af licenser til jernbanevirksomheder6 af delstaten Hessens
+transportministerium licens til personbefordring med jernbane. I 2000 dannede GVG
+en international sammenslutning med de svenske statsbaner, hvorved der blev oprettet
+ruter mellem Malmø og Prag og Malmø og Berlin. I 2001 var der indsat over 200 tog
+om året på det internationale fjerntogsmarked for personbefordring fra Tyskland til
+andre europæiske lande (Østrig, Frankrig, Sverige, Østeuropa).
+
+4. FS er den største italienske jernbaneoperatør og en statsejet virksomhed. I løbet af
+1990’erne gennemgik FS en omstrukturering. Den 22. december 1992 blev selskabet
+etableret som aktieselskabet “Ferrovie dello Stato –Società di Trasporti e Servizi per
+Azioni” (FS S.p.A.) under finansministeriets tilsyn. Den 4. marts 1996 oprettede FS
+særskilte enheder for aktiviteter vedrørende net, rullende materiel og trækkraft,
+personbefordring og andre aktiviteter. Den 27. juli 1998 blev disse enheder omdannet
+til selvstændige divisioner: infrastrukturdivisionen (FS Infrastruttura), divisionen for
+personbefordring (FS Passegger) og divisionen for godsbefordring (FS Cargo).
+
+5. Den 13. juli 2001 gennemførte FS en omstrukturering, hvorved man oprettede FS
+Holding S.p.A. FS Holding kontrollerer to selskaber:
+
+6. Rete Ferroviaria Italiana S.p.A. (RFI), der styrer netinfrastrukturen på grundlag af en
+60-årig managementkontrakt, udstedt af transportministeren den 31. oktober 2000
+(dekret nr. 138T), og
+
+7. Trenitalia S.p.A. (Trenitalia), der driver transportvirksomhed på grundlag af en licens
+til at levere jernbanetransport, udstedt af transportministeren den 23. maj 2000 i
+overensstemmelse med præsidentdekret nr. 277 af 8. juli 1998 og nr. 146 af 16. marts
+1999.
+
+6 EFT L 143 af 27.6.1995, s. 70.
+
+2
+
+C. TJENESTEYDELSEN DER BERØRES AF DENNE BESLUTNING
+
+C.1. Personbefordring med internationale tog mellem Tyskland og Milano
+
+8. GVG ønsker at levere international personbefordring fra Tyskland til Milano og retur.
+Hensigten er at bringe passagerer med udrejse fra forskellige byer i Tyskland, dvs.
+Karlsruhe, Koblenz og Mannheim, til Basel. Herefter foreslår GVG en gennemgående
+togforbindelse (“Sprinter”), som skal køre to gange daglig fra Basel til Milano via
+Domodossola. Nogle af disse passagerer fortsætter rejsen fra Milano. Tilsvarende vil
+toget fra Milano til Basel medtage såvel lokale rejsende som rejsende fra andre byer
+(som befordres til Milano med eksisterende FS-tog). GVG ønsker navnlig at betjene
+erhvervskunder ved at tilbyde en forbindelse Basel–Milano, der er indtil en time
+hurtigere end eksisterende forbindelser. Til forskel fra GVG’s non-stop-forbindelse
+kører den førstnævnte med 14 stop mellem Basel og Milano. GVG planlægger
+endvidere andre serviceydelser på toget.
+
+9. Populariteten af en sådan service afhænger i høj grad af køreplanen. Ankomst- og
+afgangstider i Basel skal være godt afpasset efter de intercitytog, der opereres af
+Deutsche Bahn AG (herefter benævnt "DB"), således at man sikrer
+tilbringerforbindelser til ud- og indgående tog. Tilsvarende indbyrdes forbindelser skal
+sikres for trafikken til og fra Milano. Endvidere bør togene afgå med passende
+mellemrum. GVG's planlagte kanaler ville muliggøre afgange med cirka to timers
+mellemrum. For at sikre den kortest mulige rejsetid skal der endvidere være en god
+forbindelse i Domodossola. De kanaler, som GVG ansøgte om i 19987, kan fungere
+som illustration. De ville muliggøre de afgange, der er anført i skemaet nedenfor med
+et 7-8 minutters ophold på banegården Basel Bad til at nå intercitytoget til/fra
+Tyskland8:
+
+Basel Bad Bahnhof Domodossola Milano Rejsetid
+
+Afgang Ankomst Afgang Ankomst
+
+12:45 15:50 15:58 17:08 4t.23m
+
+14:45 17:50 17:58 19:08 4t.23m
+
+Milano Domodossola Basel Bad Bahnhof
+
+07:50 09:01 09:09 12:13 4t23m
+
+09:50 11:01 11:09 14:13 4t23m
+
+7 Køreplanerne er blevet tilpasset flere gange i henhold til de kanaler, der tilbydes af Schweizer
+Bundesbahn.
+8 Intercitytoget fra Tyskland ankommer 12:38 og 14:38 til Basel. I nordgående retning afgår
+intercitytoget fra Basel 12:21 og 14:21. Ved togskifte i Basel ville der være et ophold på henholdsvis 7
+og 8 minutter.
+
+3
+
+10. FS og den schweiziske jernbanevirksomhed Schweizer Bundesbahn (herefter benævnt
+"SBB") driver en kooperativ personbefordring fra Basel til Milano. Der kører daglig
+syv tog via Chiasso9 og tre tog via Domodossola10. Herudover har den italienskschweiziske virksomhed Cisalpino, hvoraf FS ejer 50 %, (idet den anden halvdel er
+fordelt på SBB og det schweiziske BLS Lotschbergbahn (herefter benævnt "BLS")) en
+daglig forbindelse via Domodossola11. Disse forbindelser er ikke underlagt
+forsyningspligt eller nogen aftale om offentlig tjeneste12.
+
+C.2. Krav til tjenesten
+
+C.2.1. Licens
+
+11. En jernbanevirksomhed skal først og fremmest have licens til at levere
+grænseoverskridende jernbanebefordring. Betingelserne for at udstede licens til
+jernbanevirksomheder i EU er harmoniseret ved direktiv 95/18/EF, der den 23. juli
+1999 med to års forsinkelse blev omsat til lov i Italien ved dekret nr. 146/1999.
+
+C.2.2. Internationale sammenslutninger
+
+12. Som det i øjeblikket forholder sig med jernbaneliberaliseringen i EU, kan en
+jernbanevirksomhed fra én medlemsstat kun få adgang til en anden medlemsstats
+marked for personbefordring med jernbane med henblik på at levere personbefordring
+med internationale tog ved at indgå i en 'international sammenslutning'. En
+international sammenslutning defineres i Rådets direktiv 91/440/EØF af 29. juli 1991
+om udvikling af Fællesskabets jernbaner13 som enhver sammenslutning af mindst to
+jernbanevirksomheder, der er etableret i forskellige medlemsstater, med henblik på at
+drive international transportvirksomhed mellem medlemsstater. I henhold til
+artikel 10, stk. 1, i direktiv 91/440/EØF, skal internationale sammenslutninger have
+adgangsrettigheder og ret til at udføre transittrafik i de medlemsstater, hvor de til
+sammenslutningerne hørende jernbanevirksomheder er etableret, samt ret til at udføre
+transittrafik i andre medlemsstater. Som det fremgår af nr. 128, mener Kommissionen,
+at artikel 10, stk. 1, i direktiv 91/440/EØF har direkte virkning.
+
+13. Direktiv 91/440 (EØF) blev først efter en forsinkelse på fem år gennemført i Italien
+ved dekret nr. 277/1998, der trådte i kraft den 8. juli 1998. Der var imidlertid heller
+ikke før gennemførelsen af direktiv 91/440/EØF nogen hindring i italiensk lovgivning
+
+9 I 1998 var rejsetiden på disse strækninger 5t40m. I dag er den 5t21m. Disse tog ankommer til
+banegården Basel Bad.
+10 Tog via Domodossola ankommer til banegården Basel "SBB". Rejsende til Tyskland må skifte til
+banegården Basel Bad, hvorfra togene til Tyskland afgår. Rejsetiden med et af disse tog er 5t02m, mens
+den for de andre tog er 5t21m. Endvidere bruges der ca. 30 minutter på at skifte til banegården Basel
+Bad.
+11 Cisalpino ankommer til banegården Basel "SBB". Rejsetiden med Cisalpino er 4t31m. Endvidere går
+der ca. 30 minutter med at skifte til banegården Basel Bad. En sammenligning af rejsetider på
+henholdsvis Cisalpino og GVG's planlagte tog findes i sektion F.3.
+12 Som omhandlet i artikel 2 i forordning (EØF) nr. 1191/69 af 26. juni 1969 om medlemsstaternes
+fremgangsmåde med hensyn til de med begrebet offentlig tjeneste forbundne forpligtelser inden for
+sektoren for transporter med jernbane, ad landeveje og sejlbare vandveje, EFT L 156 af 28.6.1969, s. 1,
+som ændret ved forordning (EØF) nr. 1893/91, (EFT L 169 af 29.6.1991, s.1).
+13 EFT L 237 af 24.8.1991, s. 25. Direktiv ændret ved direktiv 2001/12/EF (EFT L 75 af 15.3.2001, s. 1),
+der skulle være gennemført senest 15. marts 2003.
+
+4
+
+for, at FS kunne indgå i en international sammenslutning med en jernbanevirksomhed
+i en anden EU-medlemsstat med henblik på at levere international jernbanetransport14.
+
+C.2.3. Adgang til infrastruktur
+
+14. Jernbanevirksomheden skal også tildeles infrastrukturkapacitet, dvs. et vist tidsrum på
+sporene i de jernbanenet, hvor det ønsker at yde den grænseoverskridende tjeneste.
+Adgang til infrastrukturen omfatter en række forskellige tjenesteydelser og funktioner,
+der finder sted på forskellige tidspunkter. Navnlig er følgende elementer væsentlige:
+oplysninger om disponibiliteten af kanaler og dermed forbundne afgifter, behandling
+af ansøgninger om kapacitet, tilladelse til brug af sporkapacitet, togkontrol, herunder
+signalgivning, regulering og oplysninger om togbevægelser, levering af brændstof,
+adgang til passagerstationer, rangerterræner, depotspor samt vedligeholdelsesfaciliteter
+og andre tekniske faciliteter15.
+
+15. Nogle af disse tjenester skal stilles til rådighed for en jernbanevirksomhed, før den
+træffer formel beslutning om at iværksætte en tjenesteydelse. Dette gælder navnlig
+fremlæggelsen af alle relevante tekniske oplysninger vedrørende tildelingen af kanaler,
+reservation af en bestemt kanal og oplysninger om infrastrukturafgifter. Kun på
+grundlag af sådanne oplysninger og reservation af den nødvendige kanal kan den
+potentielt nytilkomne virksomhed udarbejde en driftsplan. Baseret på sidstnævnte
+træffer den potentielt nytilkomne sin beslutning, der, hvis den er positiv, fører til
+indledningen af forhandlinger med potentielle partnere.
+
+16. Derimod er visse andre infrastrukturtjenester, f.eks. adgang til brændstoffaciliteter
+eller passagerstationer, først nødvendige, når forhandlingerne med partnerne er
+afsluttet, og driften af den planlagte transporttjeneste påbegyndes.
+
+17. I Rådets direktiv 95/19/EF af 19. juni 1995 om tildeling af
+jernbaneinfrastrukturkapacitet og opkrævning af infrastrukturafgifter16 defineres de
+principper og procedurer, der skal anvendes i denne henseende. Det blev den 23. juli
+1999 med to års forsinkelse omsat til lov i Italien ved dekret nr. 146/1999. I henhold
+til direktivets artikel 3 skal medlemsstaterne udpege en tildelingsmyndighed, som skal
+sikre, at jernbaneinfrastrukturkapacitet tildeles på en retfærdig og ikkediskriminatorisk måde. Den skal også sørge for, at tildelingsproceduren tillader
+effektiv udnyttelse af infrastrukturen.
+
+18. Artikel 3 i dekret nr. 146/1999 omhandler, at brugen af jernbaneinfrastrukturen, som
+allerede reguleret ved præsidentdekret nr. 277/1998, skal tillades på betingelse af, at
+hver enkelt jernbanevirksomhed beviser, at den er i besiddelse af en licens og et
+sikkerhedscertifikat, og at den har indgået de nødvendige administrative, tekniske og
+finansielle aftaler med hensyn til tildeling af kapacitet. Infrastrukturforvalteren skal
+udstede sikkerhedscertifikatet.
+
+14 F.eks. dannede FS i november 1996 en international sammenslutning med de svenske statsbaner SJ.
+15 En liste over sådanne ydelser findes endvidere i bilag II til direktiv 2001/14/EF af 26. februar 2001 om
+tildeling af jernbaneinfrastrukturkapacitet og opkrævning af afgifter for brug af jernbaneinfrastruktur
+samt sikkerhedscertificering , EFT L 75, af 15.3.2001, s. 29.
+16 EFT L 143 af 27.6.1995, s. 75. Direktiv 95/19/EF blev, med virkning fra 14. marts 2001, ophævet af
+direktiv 2001/14/EF (EFT L 75 af 15.3.2001, s. 29), der skulle være gennemført pr. 15. marts 2003.
+
+5
+
+19. I henhold til dekret nr. 277/1998, er FS (RFI) udpeget til infrastrukturforvalter og
+tildelingsmyndighed. I henhold til artikel 4 i dekret nr. 277/1998 er infrastrukturforvalteren ansvarlig for tilsyn med cirkulationen af rullende materiel.
+
+20. Før dekret nr. 277/98 trådte i kraft, havde FS eneret på at drive den italienske
+jernbaneinfrastruktur og på at yde jernbanetransporttjenester på grundlag af artikel 1 i
+sammenhæng med artikel 2 i dekret nr.
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ienske marked for personbefordring med jernbane ved at nægte at indgå i en
+international sammenslutning med GVG.
+
+H.3. Indvirkning på samhandelen mellem medlemsstaterne
+
+153. GVG ønsker at yde en international transporttjeneste mellem Tyskland og Italien. Som
+påpeget transporterer selskabet kunder fra Karlsruhe, Koblenz og Mannheim til Basel
+og leverer derefter personbefordring med jernbane til Milano. I lyset af disse ruters
+karakteristika og den stærke trafik, og i betragtning af at dette påvirker en
+transporttjeneste mellem to EU-medlemsstater, har de ovenfor nævnte tilfælde af
+misbrug en betydelig indvirkning på samhandelen mellem medlemsstaterne.
+
+I. EF-traktatens artikel 86, stk. 2
+
+154. FS anvender ikke den undtagelse, som der gives mulighed for i EF-traktatens
+artikel 86, stk. 2, til at retfærdiggøre sin politik.
+
+155. Navnlig har FS ikke påstået, at GVG’s adgang til Domodossola–Milano-ruten ville
+være til hinder for FS's udførelse af eventuelle tjenesteydelser af almen interesse på
+økonomisk acceptable vilkår, som det måtte være blevet betroet. FS’ Cisalpinotjenester, i samarbejde med SBB, udføres ikke som offentlige tjenesteforpligtelser og
+heller ikke på grundlag af en kontrakt på offentlige tjenesteydelser94. Det samme
+gælder i forhold til den togdrift, der foregår i samarbejde med SBB via Chiasso og
+Domodossola. Mere generelt har FS ikke hævdet, at det ved at give GVG adgang ville
+forårsage, at eventuelle offentlige tjenesteforpligtelser, det måtte være blevet betroet i
+forbindelse med transporttjenester, det yder på hovedinfrastrukturnettet i Italien, blev
+bragt i fare. Under alle omstændigheder anlægger Kommissionen det synspunkt, at der
+ikke er bevis for, at det ville være nødvendigt at nægte GVG adgang til markedet for
+international personbefordring med jernbane mellem Domodossola og Milano for at
+opretholde FS' økonomiske ligevægt i forbindelse med dets grundlæggende
+tjenesteydelser95.
+
+J. LØSNINGER
+
+J.1. Standsning af overtrædelsen
+
+94 Som omtalt i artikel 2 i Rådets forordning (EØF) nr. 1191/69 af 26. juni 1969 om medlemsstaternes
+fremgangsmåde med hensyn til de med begrebet offentlig tjeneste forbundne forpligtelser inden for
+sektoren for transporter med jernbane, ad landeveje og sejlbare vandveje, EFT L 156 af 28.6.1969, s. 1,
+senest ændret ved forordning 1893/91, EFT L 169 af 29.6.1991, s. 1.
+95 Se Kommissionens beslutning 90/456/EØF af 1. august 1990 om ydelse af international kurertjeneste i
+Spanien (EFT L 233 af 28.8.1990, s. 19).
+
+32
+
+156. Forordning nr. 17 gælder misbrug vedrørende markeder for adgang til infrastruktur og
+trækkraft. Sidstnævnte ligger uden for anvendelsesområdet for de procedureregler, der
+er specifikke for transportsektoren og falder ind under forordning nr. 17, for så vidt
+angår anvendelsen af EF-traktatens artikel 82. Forordning nr. 1017/68, der fastsætter
+konkurrencereglerne for transport med jernbane, ad landeveje og sejlbare vandveje,
+gælder misbrug vedrørende afslag på at indgå i en international sammenslutning på
+markedet for levering af personbefordring med jernbane.
+
+157. I artikel 3, stk. 1, i forordning nr. 17 fastsættes det, at hvis Kommissionen efter
+begæring eller på eget initiativ konstaterer, at der foreligger en overtrædelse af
+bestemmelserne i traktatens artikel 81 eller artikel 82, kan den ved en beslutning
+pålægge de deltagende virksomheder og sammenslutninger af virksomheder at bringe
+de konstaterede overtrædelser til ophør. Artikel 11 i forordning nr. 1017/68 indeholder
+lignende bestemmelser.
+
+158. FS (Trenitalia) har indgået en aftale om en international sammenslutning og er gået
+ind på betingelserne i en trækkraftkontrakt med GVG. FS (RFI) har også påtaget sig at
+forsyne GVG med egnede kanaler på Domodossola-Milano-segmentet, så snart
+korresponderende kanaler stilles til disposition af SBB på det schweiziske net på
+Basel–Domodossola-segmentet. Kommissionen noterer sig, at FS (Trenitalia) og FS
+(RFI), i betragtning af at GVG’s indtræden på markedet er blevet forhalet, og som del
+af en generel ordning mellem parterne, for en begrænset periode har tilbudt GVG
+særlige betingelser, som skal lette dets indtræden på markedet. Disse betingelser er at
+betragte som specifikke for denne sag.
+
+159. Kommissionen mener, at de tilsagn, som FS (Trenitalia) og FS (RFI) har givet, og som
+findes som bilag til denne beslutning, sikrer, at overtrædelsen er bragt til ophør, og at
+misbruget ikke vil blive gentaget.
+
+160. Kommissionen noterer sig, at FS (Trenitalia), bortset fra de ovennævnte løsninger på
+GVG's problem, endvidere har taget skridt til at indgå aftaler om internationale
+sammenslutninger med andre jernbanevirksomheder, der er i besiddelse af den
+nødvendige licens og foreslår rimelige planer for en international transporttjeneste
+med jernbane. FS har påtaget sig, i en periode på fem år, at levere trækkrafttjenester på
+ikke-diskriminatoriske vilkår til andre jernbanevirksomheder, som agter at levere
+grænseoverskridende personbefordring. Den ledige kapacitet, som defineret i
+tilsagnene, vil gøre det muligt for nytilkomne virksomheder at operere op til syv
+internationale jernbanetransporttjenester ind i Italien svarende til den, der er planlagt
+af GVG. Trækkraftprisen vil være baseret på FS' (Trenitalia) udgifter, inkl. bl.a. et
+passende afkast af kapitalinvesteringen og vedligeholdelsesudgifter til det pågældende
+rullende materiel.
+
+161. Da disse generelle ordninger går videre, end hvad der er nødvendigt for at bringe
+overtrædelserne til ophør i forhold til GVG, mener Kommissionen, at de i betragtelig
+grad vil lette indtræden på markedet for international personbefordring med jernbane
+ind i Italien. Disse tilsagn eliminerer størstedelen af de betydelige hindringer for
+markedsadgang for nyetablerede selskaber på dette marked. Nytilkomne virksomheder
+vil være i stand til på betimelig måde at få alle nødvendige oplysninger vedrørende
+kanaler, de får mulighed for at indgå i en international sammenslutning, og de vil
+kunne få de nødvendige trækkrafttjenester til at starte deres tjenester. FS' tilsagn vil
+derfor muliggøre markedsindtræden i en opstartfase, hvilket burde bidrage til at
+forbedre konkurrencen i den europæiske jernbanesektor.
+
+33
+
+J.2. Artikel 15 i forordning nr. 17 og artikel 22 i forordning nr. 1017/68
+
+162. I artikel 15, stk. 2, i forordning nr. 17 fastsættes det bl.a., at Kommissionen kan
+pålægge bøder inden for de i samme artikel opstillede grænser, såfremt de pågældende
+virksomheder forsætligt eller uagtsomt overtræder bestemmelserne i artikel 82. Artikel
+22, stk. 2, i forordning nr. 1017/68 tillægger Kommissionen tilsvarende beføjelser.
+
+163. FS må have været vidende om den kendsgerning, at adfærden i denne sag, navnlig
+afslaget på at give oplysninger om adgang til nettet, hindrede en potentiel ny
+virksomhed på markedet i at indtræde på det relevante marked i de senere
+omsætningsled. En overtrædelse af konkurrencereglerne som denne ville normalt blive
+straffet med bøder af varierende størrelse afhængigt af overtrædelsens grovhed og
+varighed.
+
+164. I denne sag afstår Kommissionen imidlertid fra at pålægge bøder, navnlig på grund af
+sagens nye karakter, da GVG har været den første og eneste nytilkomne
+jernbanevirksomhed, der har henvendt sig til FS med henblik på dannelse af en
+international sammenslutning. Desuden har FS foreslået løsninger, som sikrer, at FS
+ikke gentager misbruget i fremtiden, og som vil bidrage betydeligt til at eliminere
+adgangshindringer for international personbefordring med jernbane ind i Italien.
+
+K. MODTAGER
+
+165. Som beskrevet i numrene 72-81 kan FS Holding gøres ansvarlig som en enkelt
+virksomhed. Denne beslutning er derfor rettet til FS Holding.
+
+VEDTAGET DENNE BESLUTNING:
+
+Artikel 1
+
+Ved at nægte at indgå i en international sammenslutning med Georg
+Verkehrsorganisation GmbH med henblik på levering af international personbefordring med jernbane mellem Tyskland og Italien på ruten Domodossola–Milano,
+har Ferrovie dello Stato S.p.A misbrugt sin dominerende stilling på det italienske
+marked for personbefordring med jernbane, hvilket udgør en overtrædelse af EFtraktatens artikel 82.
+
+Denne overtrædelse foregik i hvert fald fra august 1999 til 27. juni 2003.
+
+Artikel 2
+
+Ved at nægte at behandle anmodninger fra Georg Verkehrsorganisation GmbH om
+adgang til jernbanenettet mellem Domodossola og Milano med nævnte formål har
+Ferrovie dello Stato S.p.A misbrugt sin dominerende stilling på markedet for adgang
+til infrastrukturen og derved forhindret GVG i at indtræde på markedet for
+international personbefordring med jernbane, hvilket udgør en overtrædelse af EFtraktatens artikel 82.
+
+Denne overtrædelse foregik i hvert fald fra september 1995 til 24. juli 2002.
+
+34
+
+Artikel 3
+
+Ved at nægte at levere trækkraft til Georg Verkehrsorganisation GmbH i form af et
+lokomotiv, en kvalificeret lokofører med rutekendskab og reservemaskinel og
+-personale til nævnte formål har Ferrovie dello Stato S.p.A misbrugt sin dominerende
+stilling på markedet for trækkraft og forhindret GVG i at indtræde på markedet for
+international personbefordring med jernbane, hvilket udgør en overtrædelse af EFtraktatens artikel 82.
+
+Denne overtrædelse foregik i hvert fald fra december 1998 til 27 juni 2003.
+
+Artikel 4
+
+Ferrovie dello Stato S.p.A skal omgående bringe de i denne beslutnings artikel 1, 2 og
+3 omhandlede overtrædelser til ophør, for så vidt dette ikke allerede er sket, og det
+skal i fremtiden afholde sig fra enhver lignende handling eller adfærd.
+
+Artikel 5
+
+Indtil Kommissionen meddeler, at dette ikke længere er påkrævet, skal Ferrovie dello
+Stato S.p.A to gange årligt rapportere til Kommissionen vedrørende gennemførelsen af
+de tilsagn, der findes som bilag til denne beslutning.
+
+Artikel 6
+
+Denne beslutning er rettet til
+Ferrovie dello Stato S.p.A
+Piazza della Croce Rossa, 1
+I-00161 Rom
+
+Denne beslutning kan tvangsfuldbyrdes i henhold til EF-traktatens artikel 256.
+
+Udfærdiget i Bruxelles, den
+
+På Kommissionens vegne
+
+Medlem af Kommissionen
+
+35

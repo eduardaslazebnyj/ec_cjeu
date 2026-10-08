@@ -1,0 +1,493 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52023AT40547(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52023AT40547(02)
+Help
+Print
+Summary of Commission Decision of 29 November 2022 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40547 – STYRENE MONOMER) (notified under document number C(2022) 8507 final) (Only the English text is authentic) (Text with EEA relevance) 2023/C 145/09
+Summary of Commission Decision of 29 November 2022 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40547 – STYRENE MONOMER) (notified under document number C(2022) 8507 final) (Only the English text is authentic) (Text with EEA relevance) 2023/C 145/09
+Summary of Commission Decision of 29 November 2022 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40547 – STYRENE MONOMER) (notified under document number C(2022) 8507 final) (Only the English text is authentic) (Text with EEA relevance) 2023/C 145/09
+C/2022/8507
+OJ C 145, 27.4.2023, pp. 13–18
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+27.4.2023
+EN
+Official Journal of the European Union
+C 145/13
+SUMMARY OF COMMISSION DECISION
+of 29 November 2022
+relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement
+(Case AT.40547 – STYRENE MONOMER)
+(notified under document number C(2022) 8507 final)
+(Only the English text is authentic)
+(Text with EEA relevance)
+(2023/C 145/09)
+On 29 November 2022, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+On 29 November 2022, the Commission adopted a Decision relating to a single and continuous infringement of Article 101 of the Treaty on the Functioning of the European Union (the ‘Treaty’) and Article 53 of the Agreement on the European Economic Area (the ‘EEA Agreement’).
+(2)
+The infringement consisted in bilateral and multilateral exchanges of sensitive commercial and pricing-related information and in coordinating a price element related to the purchases of styrene monomer. Geographically, it covered the entire EEA
+(
+2
+)
+. The infringement lasted from 1 May 2012 until 30 June 2018.
+(3)
+The product concerned by the Decision is styrene monomer (‘styrene’) purchased on the merchant market. It does not cover styrene produced for captive purposes, that is to say, produced and used by the producers for their own consumption.
+(4)
+Styrene is an intermediate chemical product which has no end-use in itself. It is a key input for many other chemical products, that in turn are used for a wide range of applications.
+(5)
+Styrene is sold on the basis of both long-term contracts and on the spot market (i.e. for immediate delivery). To counteract the volatility of styrene prices, long-term
+(
+3
+)
+styrene supply contracts in the EEA can refer to the Styrene Monthly Contract Price or ‘SMCP’
+(
+4
+)
+. The SMCP is not a net price for styrene but forms part of the pricing formula in such contracts.
+(6)
+The price of styrene in long-term supply contracts (where those contracts use the SMCP) is typically the SMCP (minus an individually negotiated discount
+(
+5
+)
+), used stand-alone or combined with other elements (e.g. spot average or the cost of feedstock) in variable proportion.
+(7)
+In order to establish a SMCP for the upcoming month, two separate but identical bilateral agreements (also called ‘settlements’) between two different pairs of suppliers and buyers have to be reached (i.e. the ‘2+2’ rule) as described in recital (8).
+(8)
+At the beginning of each month, buyers negotiated with sellers with whom they had a long-term supply agreement; they negotiated in pairs, independently and separately from other pairs. Once a pair of buyer-seller agreed on a desired level of SMCP (‘settlement’), the result of that bilateral SMCP settlement was communicated to ICIS (Independent Commodity Intelligence Services), a reporting agency, as the views of that specific pair of buyer and seller about the appropriate level of the SMCP for that month. When another pair had reached and notified to ICIS a bilateral settlement at precisely the same SMCP level, that number was then published by ICIS and became the SMCP valid for the entire upcoming month. This figure was used for the pricing of styrene delivered under long-term supply contracts whose pricing formula was based on the SMCP.
+(9)
+The Decision is addressed to the following legal entities being part of the following entities (the ‘Parties’):
+(a)
+INEOS Limited, INEOS Europe AG, INOVYN Enterprises Limited and INEOS Styrolution UK Limited (together referred to as
+‘INEOS’
+);
+(b)
+Synthomer Deutschland GmbH, Synthomer (UK) Limited (formerly Synthomer Limited) and Synthomer plc (formerly Yule Catto & Co plc) (together referred to as
+‘Synthomer’
+);
+(c)
+Trinseo PLC
+(
+6
+)
+and Trinseo Europe GmbH (together referred to as
+‘Trinseo’
+);
+(d)
+Synbra Holding B.V. and BEWI RAW B.V. (formerly BEWiSynbra RAW B.V. and before that Synbra Technology B.V.) (together referred to as
+‘Synbra’
+);
+(e)
+O.N. Sunde AS and SUNPOR Kunststoff Gesellschaft m.b.H (together referred to as
+‘Sunpor’
+);
+(f)
+Synthos S.A., Synthos Styrenics Services B.V. and Black Forest SICAV-SIF (together referred to as
+‘Synthos’
+).
+2.
+CASE DESCRIPTION
+2.1.
+PROCEDURE
+(10)
+The case was triggered by an immunity application filed by INEOS in September 2017 under the terms of the 2006 Leniency Notice
+(
+7
+)
+in relation to collusive contacts with other purchasers of styrene in the EEA. The Commission carried out unannounced inspections in June 2018 at the premises of Synthomer, Sunpor and Synthos. In parallel, a request for information was sent to Trinseo. In the light of findings during the investigation, a request for information was then sent to Synbra in October 2018 and the Commission received enough elements to consider Synbra a Party to the conduct at hand. Subsequently, all the participants but Synbra applied for immunity from fines or, in the alternative, for a reduction of the fine under the 2006 Leniency Notice.
+(11)
+On 17 July 2020, the Commission initiated proceedings pursuant to Article 2(1) of Regulation (EC) No 773/2004
+(
+8
+)
+against the Parties with a view to engage in settlement discussions with them
+(
+9
+)
+. Settlement meetings and contacts between the Commission and each Party took place between September 2020 and June 2022. Subsequently, all Parties submitted their formal request to setlle pursuant to Article 10a(2) of Regulation (EC) No 773/2004.
+(12)
+On 29 September 2022, the Commission adopted a Statement of Objections addressed to the Parties. All the Parties replied to the Statement of Objections by confirming that it corresponded to the contents of their settlement submissions and that they therefore remained committed to following the settlement procedure.
+(13)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 25 November 2022.
+(14)
+On 28 November 2022, the Hearing Officer issued a final report in this case.
+2.2.
+SUMMARY OF THE INFRINGEMENT
+(15)
+The Decision establishes a single and continuous infringement, which consisted of the exchange of sensitive commercial and pricing-related information and in the coordination of a price element, namely the SMCP, related to the purchases of styrene in the EEA. The objective of the infringement was to influence the SMCP negotiations to the buyers’ advantage with the aim of buying styrene at a lower price, and to promptly reach an alignment among the buyers on the desired level of SMCP. Instead of defining their commercial strategy on the SMCP autonomously, the Parties are deemed to have jointly evaluated market trends and to have coordinated their behaviour through bilateral and multilateral contacts before and during the phase of establishing the SMCP.
+(16)
+The infringement mainly took place by means of phone conversations, e-mails and messages exchanges as well as through physical meetings.
+2.2.1.
+Duration
+(17)
+The duration of the participation of each Party in the infringement was as follows:
+Undertaking
+Start
+End
+INEOS
+1 May 2012
+28 September 2017
+(
+10
+)
+Sunpor
+30 September 2016
+30 June 2018
+Synbra
+29 January 2013
+31 December 2014
+Synthomer
+1 May 2012
+30 June 2018
+Trinseo
+2 May 2012
+30 June 2018
+Synthos
+1 September 2016
+30 June 2018
+2.3.
+ADDRESSEES
+2.3.1.
+INEOS
+(18)
+Liability for the infringement is imputed jointly and severally to
+INEOS Europe AG
+(for its direct participation from 1 May 2012 to 1 March 2013 and from 1 January 2015 to 28 September 2017),
+INOVYN Enterprises Limited
+(for its direct participation from 1 March 2013 to 31 August 2016),
+INEOS Styrolution UK Limited
+(for its direct participation from 1 May 2012 to 1 October 2013) and
+INEOS Limited
+(from 1 May 2012 to 28 September 2017 as the indirect ultimate parent of INEOS Europe AG, INOVYN Enterprises Limited and INEOS Styrolution UK Limited).
+2.3.2.
+Sunpor
+(19)
+Liability for the infringement is imputed jointly and severally to S
+UNPOR Kunststoff Gesellschaft m.b.H.
+(for its direct participation from 30 September 2016 to 30 June 2018) and
+O.N. Sunde AS
+(from 30 September 2016 to 30 June 2018 as the indirect ultimate parent of SUNPOR Kunststoff Gesellschaft m.b.H.).
+2.3.3.
+Synbra
+(20)
+Liability for the infringement is imputed jointly and severally to
+BEWI RAW B.V.
+(formerly BEWiSynbra RAW B.V. and before that Synbra Technology B.V.) (for its direct participation from 29 January 2013 to 31 December 2014) and
+Synbra Holding B.V.
+(from 29 January 2013 to 31 December 2014 as the indirect parent of BEWiSynbra RAW B.V. (formerly BEWiSynbra RAW B.V. and before that Synbra Technology B.V.)).
+2.3.4.
+Synthomer
+(21)
+Liability for the infringement is imputed jointly and severally to
+Synthomer (UK) Limited
+(for its direct participation from 1 May 2012 to 30 June 2018),
+Synthomer Deutschland GmbH
+(for its direct participation from 1 May 2012 to 30 June 2018) and
+Synthomer plc
+(from 1 May 2012 to 30 June 2018 as the indirect parent of Synthomer (UK) Limited and Synthomer Deutschland).
+2.3.5.
+Trinseo
+(22)
+Liability for the infringement is imputed jointly and severally jointly and severally to
+Trinseo Europe GmbH
+(for its direct participation from 2 May 2012 to 30 June 2018) and
+Trinseo PLC
+(from 2 May 2012 to 30 June 2018 as the legal and economic successor of Trinseo S.A. which had been, at the time of the infringement, the indirect parent of Trinseo Europe GmbH).
+2.3.6.
+Synthos
+(23)
+Liability for the infringement is imputed jointly and severally to
+Synthos Styrenics Services B.V.
+(for its direct participation from 1 September 2016 to 30 June 2018),
+Synthos S.A.
+(as the direct parent of Synthos Styrenics Services B.V. from 1 September 2016 to 30 June 2018) and
+Black Forest SICAV-SIF
+(from 19 January 2018 to 30 June 2018 as the indirect ultimate parent of Synthos Styrenics Services B.V. and Synthos S.A.).
+2.4.
+REMEDIES
+(24)
+The Decision applies the 2006 Guidelines on Fines
+(
+11
+)
+.
+2.4.1.
+Basic amount of the fine
+(25)
+With the view that the present case concerns a purchasing cartel, the relevant value of purchases was taken into account, rather than the value of sales
+(
+12
+)
+.
+(26)
+The infringement relates only to those purchases made by the Parties under contracts in the EEA where the SMCP is a part of the pricing formula. Furthermore, by deviation from point 13 of the 2006 Guidelines on Fines and due to the significant fluctuation of SMCP styrene purchases over time, the Commission determined the value of purchases as the annual average of purchases made during full calendar months during the respective infringement period.
+(27)
+Considering the nature of the infringement and its geographic scope, the percentage of the variable amount of the fines as well as the additional amount (the ‘entry fee’) is set at 16 % of the value of purchases for the infringement.
+(28)
+The variable amount is multiplied by the number of years or by fractions of the year respectively of the Parties’ individual participation in the infringement in order to take fully into account the actual duration of the participation for each Party in the infringements. The duration multiplier is calculated on the basis of calendar days.
+2.4.2.
+Adjustments to the basic amount
+2.4.2.1.
+Aggravating or mitigating factors
+(29)
+There are no aggravating circumstances in this case.
+(30)
+Mitigating circumstances are found for Synbra, Synthomer and Trinseo, to acknowledge their more limited participation to the cartel and, in the case of Synbra, limited awareness of the full extent of the infringement. Therefore, the Commission granted the following individual fines reductions: 20 % for Synbra, 10 % for Synthomer, 5 % for Trinseo.
+2.4.2.2.
+Specific increase for deterrence
+(31)
+A deterrence multiplier of 1.2 is applied to INEOS due to its large worldwide turnover.
+2.4.2.3.
+Application of point 37 of the 2006 Guidelines on fines
+(32)
+As a matter of deterrence, a specific increase of the fines applies
+(
+13
+)
+. This increase reflects the fact that the cartelists aimed at lower prices rather than to maintain higher prices. Indeed, in a purchasing cartel, the more successful the cartel members were in reducing the purchase price, the lower the value of purchases on which the fine is calculated would be.
+(33)
+Given that the cartel in the present case is a purchasing cartel, the value of purchases in itself is unlikely to be an appropriate proxy for reflecting the economic importance of the present infringement.
+(34)
+The Commission therefore applied a 10 % increase of fines on all parties under point 37 of the 2006 Guidelines on Fines.
+2.4.3.
+Application of the 10 % turnover limit
+(35)
+None of the fines calculated exceeds 10 % of the respective Party’s worldwide turnover in 2021.
+2.4.4.
+Application of the 2006 Leniency Notice
+(36)
+INEOS was the first to submit information and evidence meeting the conditions of point 8(a) of the 2006 Leniency Notice in the infringement. INEOS is therefore granted immunity from fines for the infringement.
+(37)
+Synthos was the first undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Synthos applied for leniency at a very early stage in the procedure and its cooperation was very useful to confirm and further supplement the evidence that was available to the Commission at the time of its submission. Synthos confirmed its own participation in the collusion and provided new evidence on collusive exchanges with other parties to the cartel. The statements by Synthos also confirmed the duration of the conduct overall. However, Synthos’ application did also present some shortcomings in terms of its added value to the Commission’s investigation. Synthos is therefore granted a reduction of 40 % of the fine for the infringement.
+(38)
+Sunpor was the second undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Sunpor applied for leniency at an early stage of the procedure. Sunpor confirmed that it was aware of a wider collusion among significant styrene buyers, which assisted the Commission in reaching conclusions on the existence of the single and continuous infringement. Sunpor also provided new and supplementing evidence for the infringement. Sunpor is therefore granted a reduction of 30 % of the fine for the infringement.
+(39)
+Trinseo was the third undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Trinseo provided valuable new evidence not previously known to the Commission. This was useful to establish the continuous nature of the investigated infringement and of each Party’s respective participation in the infringement. The information provided by Trinseo also helped the Commission in determining the duration of the infringement and each Party’s participation in it. Trinseo is therefore granted a reduction of 20 % of the fine for the infringement.
+(40)
+Synthomer was the fourth undertaking to meet the requirements of points 24 and 25 of the 2006 Leniency Notice. Synthomer provided the Commission with some pieces of evidence of a corroboratory nature, which further strengthened the ability of the Commission to establish the uninterrupted duration of the infringement. However, the evidence provided was rather of a corroboratory nature and, for the most part, already in the possession of the Commission. Synthomer is therefore granted a reduction of 10 % of the fine for the infringement.
+2.4.5.
+Application of the Settlement Notice
+(41)
+As a result of the application of the Settlement Notice, the amount of the fines to be imposed on each Party was reduced by 10 %. The reduction was added to their leniency reward.
+3.
+CONCLUSION
+(42)
+The following fines were imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 for the infringement:
+(a)
+on INEOS Europe AG, INOVYN Enterprises Limited, INEOS Styrolution UK Limited and INEOS Limited jointly and severally liable: EUR 0;
+(b)
+on SUNPOR Kunststoff Gesellschaft m.b.H. and O.N. Sunde AS jointly and severally liable: EUR 31 720 000;
+(c)
+on BEWI RAW B.V. and Synbra Holding B.V. jointly and severally liable: EUR 17 215 000;
+(d)
+on Synthomer (UK) Limited, Synthomer Deutschland GmbH and Synthomer plc jointly and severally liable: EUR 43 011 000;
+(e)
+on Trinseo Europe GmbH and Trinseo PLC jointly and severally liable: EUR 32 621 000;
+(f)
+out of a total fine of EUR 32 505 000:
+—
+on Synthos Styrenics Services B.V. and Synthos S.A. jointly and severally liable: EUR 24 573 000;
+—
+on Synthos Styrenics Services B.V., Synthos S.A. and Black Forest SICAV-SIF jointly and severally liable: EUR 7 932 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+For the purposes of this Decision, the EEA is understood to cover the 27 Member States of the European Union and the United Kingdom, as well as Iceland, Liechtenstein and Norway. Accordingly, any references made to the EEA in this Decision are meant to also include the United Kingdom.
+(
+3
+)
+Usually, ‘long-term’ contracts are concluded for a year or more.
+(
+4
+)
+Purchases of styrene which do not reference the SMCP but other pricing systems, such as that operated by [...] are not part of this case.
+(
+5
+)
+The discount is negotiated individually between seller and buyer. It is not part of the conduct that is the object of this case.
+(
+6
+)
+Trinseo PLC is the legal and economic successor company of Trinseo S.A., ultimate parent of Trinseo Europe GmbH during the infringement period. On 8 October 2021, Trinseo S.A. was merged into Trinseo PLC and legally ceased to exist.
+(
+7
+)
+OJ C 298, 8.12.2006, p. 17
+.
+(
+8
+)
+OJ L 123, 27.4.2004, p. 18
+.
+(
+9
+)
+By Decision adopted on 26 September 2022, the Commission initiated proceedings against Trinseo PLC, as the legal and economic successor of Trinseo S.A.
+(
+10
+)
+The date of the submission of the immunity application.
+(
+11
+)
+OJ C 210, 1.9.2006, p. 2
+.
+(
+12
+)
+This approach was confirmed in case T-222/17,
+Recylex S.A. Fonderie et Manufacture de Métaux S.A. and Harz-Metall GmbH v Commission
+, EU:T:2019:356, para. 124.
+(
+13
+)
+This approach was confirmed in cases T-222/17,
+Recylex S.A. Fonderie et Manufacture de Métaux S.A. and Harz-Metall GmbH v Commission
+, EU:T:2019:356, para. 124 and T-240/17,
+Campine NV and Campine Recycling NV v Commission
+, EU:T:2019:778, paras 342-349.
+Top

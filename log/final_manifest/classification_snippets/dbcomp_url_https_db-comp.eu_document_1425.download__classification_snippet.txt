@@ -1,0 +1,398 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+No L 223/36 Official Journal of the European Communities 27. 8 . 94
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 27 July 1994
+relating to a proceeding pursuant to Article 85 of the EC Treaty and Article 53 of
+the EEA Agreement
+(Case IV/34.857 — BT-MCI)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(94/579/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, whereas :
+
+Having regard to the Treaty establishing the European
+Community,
+
+I. THE FACTS
+Having regard to the Agreement on the European
+Economic Area,
+
+A. INTRODUCTION
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86
+of the Treaty ('), as last amended by the Act of Accession (1 ) The present case was oiriginally notified as a
+of Spain and Portugal, and in particular Articles 2, 6, and concentration pursuant to Regulation (EEC) No
+8 thereof, 4064/89. However, the Commission concluded that
+none of the transactions notified constituted a
+Having regard to the application for negative clearance concentration. The parties were so informed by the
+and the notification for exemption submitted, pursuant to decision of 13 September 1993. Consequently, and
+Articles 2 and 4 of Regulation 17, as converted on 18 at the request of the parties, the notification was
+September 1993 from the original notification pursuant to converted into a notification for negative clearance
+Council Regulation (EEC) No 4064/89 of 21 December and/or exemption pursuant to Regulation 17.
+1989 on the control of concentrations between under
+takings (2), Following the entering into force of the Agreement
+on the European Economic Area (EEA Agreement),
+Having regard to the request made by the parties on 10 the parties requested the Commission to extend the
+February 1994, to extend the application and notification notification to cover also Article 53 of the EEA
+to Article 53 of the Agreement on the European Agreement. Given that the notified agreements will
+Economic Area, have a relevant impact on the EFTA countries and
+that such impact is expected to be very similar to
+that the notified agreements will have on the
+Having regard to the summary of the application and
+Community, the Commission will also applynotification published pursuant to Article 19 (3) of Regu
+lation 17 and to Article 3 of Protocol 21 of the EEA Article 53 of the EEA Agreement in the present
+case.
+Agreement (3),
+
+(2) The notified operation actually comprises two main
+After consultation with the Advisory Committee for transactions :
+Restrictive Practices and Dominant Positions,
+(i) British Telecommunications pic (BT) is to take
+a 20 % stake in MCI Communications Corpo
+(') OJ No 13, 21 . 2. 1962, p. 204/62. ration (MCI), worth US$ 4,3 billion. BT will(2) OJ No L 395, 30. 12. 1989, p. 1 (corrected version OJ No L
+257, 21 . 9. 1990, p. 13). acquire new equity and will become the largest
+(3) OJ No C 93, 30. 3. 1994, p. 3 . single shareholder in MCI, with proportionate
+
+27. 8. 94 Official Journal of the European Communities No L 223/37
+
+board representation and investor protection. As for the same year was said by MCI to be ECU
+will be further detailed later, several provisions 326,27 million.
+have been included in the relevant agreement
+to impede BT from controlling or influencing MCI is the second largest long-distance operator in
+MCI ; the United States of America after AT&T and the
+world's fifth largest in terms of traffic. (ii) the creation of a joint-venture company,
+Newco, for the provision of enhanced and valu
+e-added global telecommunications services to
+multinational (or large regional) companies. The
+parties will contribute their existing non-corres C. THE RELEVANT MARKET
+pondent international network facilities, inclu
+ding Syncordia, BT's existing outsourcing busi
+ness, to Newco.
+1 . Newco
+In the framework of the operation, the parties will
+rationalize their respective holdings in other tele (5) The market Newco will address is the emerging
+communications operators (TOs) and groupings in market for value-added and enhanced services to
+the world. In this respect, MCI has already acquired large multinational corporations, extended enter
+most of BT's existing business in North America. prises and other intensive users of telecommunica
+tions services provided over international intelli
+gent networks. This market will cover a wide range
+of existing global trans-border services, including
+B. THE PARTIES virtual network services, high-speed clata services
+and outsourced global telecommunications solu
+tions specially designed for individual customer
+requirements. Initially, however Newco will focus
+(3) BT, the former UK monopolist telecommunica
+its development efforts on the biggest [. . .] (') multi
+tions operator, and now a publicly quoted nationals.
+company, supplies telephone exchange lines to
+homes and businesses ; local, trunk and interna
+tional (to and from the United Kingdom) tele (6) In this market, Newco is expected to offer a port
+phone calls ; other telecommunications services folio of global products included in six categories
+and telecommunications equipment for customers' of service offerings. Those global products will
+premises. originally be based on a blend of existing products
+of the parent companies.
+Worldwide turnover for BT in 1993 was ECU
+1 7 952 million, a figure that shows a slight decrease The six categories are the following :
+in respect of 1992 (ECU 18 080 million). Over
+95 % of BT's turnover was obtained in the EEA, — data services : low-speed packet, high-speed
+mainly (over 94 %) in the United Kingdom. packet and frame relay services, pre
+Outside the United Kingdom, BT has an provisioned, mananged and circuit switched
+established presence in France, the Netherlands, bandwidth,
+Germany and Spain, where it has recently
+announced a joint-venture agreement with Banco — value-added application services : value-added
+de Santander to provide data transmission services messaging and video conferencing services,
+in Spain, where it has recently announced a joint
+venture agreement with Banco de Santander to — traveller services : global calling card services,
+provide data transmission services in Spain in
+— intelligent network services, competition with the local TO.
+
+— other services : Integrated VSAT network
+BT is the world's fourth largest telecommunications services,
+company in terms of traffic (minutes of telecom
+traffic). — global outsourcing that will allow the distibutor
+to offer its customers the ability to transfer
+(4) MCI is a telecommunications common carrier in responsibility and ownership of their global
+the United States of America providing a broad networks to either the distibutor or Newco. In
+range of US and international voice and data this respect, Newco will be able to integrate
+communications services including long-distance within its own offerings third-party products
+telephone, record communications and electronic already owned by customers that they want to
+mail services to and from the US. keep.
+
+Worldwide turnover for MCI in 1992 was ECU (') Blanks between square brackets indicate buisiness secrets
+8 137 million. MCI's turnover in the Community deleted pursuant to Article 21 (2) of Regulation No 17.
+
+No L 223/38 Official Journal of the European Communities 27. 8 . 94
+
+Given the needs of big companies to link locations abroad), and that they had to face many other
+geographically dispersed over the world (that means problems linked to the differences in culture or
+also providing broad coverage of delivery capacity language.
+and in-country support), those products must be
+global in nature and respond to a very particular set
+of requirements. (8) This situation began to change because of two
+elements. The starting up, first in the United States
+For a product to be global, it must have a number of America, then in the United Kingdom and now
+of special characteristics that make it different from in the rest of the Community, of the gradual libera
+similar products. Those characteristics are : lization process of the global telecommunications
+market, and, secondly the rapid convergence of
+— to provide ubiquitous service across multiple telecommunications and information technology.
+borders, Both elements enabled the introduction of new
+services and products which vastly improved
+— to provide consistent service levels and flexible quality and range. One result was that multina
+delivery schedules, tionals and other big companies began to construct
+their own private networks. However, those private
+— to make time-zones, languages and currencies networks were costly because they eliminated scale
+irrelevant, economies of service and personnel, and because
+telecommunications was not the core business of
+— to overcome inadequacies of local infrastruc those companies. For those reasons, now that the
+continued evolution of the said two elements has tures,
+substantially changed the overall situation, those
+— to make customers assume service is local when companies may consider turning to telecommuni
+it is actually being provided from the other side cation service providers such as Newco.
+of the world .
+
+(9) In addition, as regulation eases and technology
+(7) The requirements of big companies that a provider advances, the border between services still under
+of services must meet, and that refer to all products monopoly and liberalized services fades away. This
+or services being provided are :
+fact adds further uncertainty to the market.
+
+— a single point of contact accountable for as
+suring service levels,
+(10) In this context, what BT and MCI intend to offer
+— seamless, uniform, flexible features/ through Newco is what the existing technology
+allows them to offer within the current regulatory functionality across geography,
+limits. New products within existing categories and
+new categories of products could be offered by — end-to-end provisioning, installation, fault
+Newco in the years to come, that could include management and service support,
+public basic telecommunications services.
+— reliable service,
+
+— customized billing, management information, (11 ) However, this Decision relates only to Newco s
+reporting with language and currency flexibility, range of products and business scope as notified.
+Any substantial change thereof in the years to
+— speed, ease of implementation, come, and in particular the offering by Newco of
+public basic telecommunications services will then
+— products that meet existing and evolving needs. require a new notification.
+
+Generally speaking, those requirements have not
+been adequately satisfied under the still existing Structure of the market
+structure of the global telecommunications market
+based on national monopolies. A national TO does
+not provide real one-stop-shop, end-to-end or (12) It is particularly difficult to give a precise picture of
+seamless services to customers' premises located the existing structure of this emerging market
+outside the national borders. What a TO was doing because its principal feature is that it is in constant
+up to now was to cooperate with other TOs to link evolution . What is certain is that there is a very
+their respective networks. Doing so meant that significant growth potential in the segment to be
+customers were billed separately and in different addressed by Newco, due to the continuing emer
+currencies by the TO of each country where they gence of new technologies, improvements in basic
+had facilities, that services and features available in infrastructure, the increasing standardization of
+each country were different (or at least that some services across borders, the increasing sophistica
+features available at home were not available tion of customers and their reliance on telecommu
+
+27. 8 . 94 Official Journal of the European Communities No L 223/39
+
+nications as a transport vehicle for information. All consequently Newco will not be involved in the
+this is in the framework of a rapidly changing tele provision of services within one country only.
+communications regulatory environment, which, in
+the Community, will mean full liberalization tele
+phony in 1998 (2003 for some Member States).
+
+4. Market shares of Newco
+
+2. BTs investment in MCI (16) Newco s addressable market has been estimated by
+the parent companies at ECU [. . .] billion in 1994
+and is projected to achieve over [. . . ] annual growth
+over its first five years to achieve ECU [. . . ] billion(13) The acquisition by BT of new equity equivalent to
+a 20 % stake in MCI is intended to serve a in 1999. It is also estimated that the Community
+will account for [. ..] of the market in 1994/95 common interest expressed by the parties to go
+rising to [...] in 1998/99. global to better serve (and keep) their existing
+customers and to better address new areas of the
+market.
+According to Newco's business plan its market
+share, considering all categories of services together,
+will be [. . . ] in 1994 and grow to over [....] by
+(14) The telecommunications market is developing fast
+1999 (assuming no dramatic change in the catego
+and there is a high degree of uncertainty about how
+ries of products offered). it will look in a few years' time : the prospect of
+full liberalization is pushing TOs to take positions,
+in order to be in the best possible situation when
+full liberalization comes. Many alliances are being
+announced, and most of them include provisions to
+5. Main competitors of Newco enter the value-added segment, as a first step (in
+the EEA, value-added and enhanced services have
+already been liberalized), in particular as regards the
+(17) Many companies, on their own or in cooperation provision of advanced value-added services to big
+with other partners, have entered or are entering multinationals. In this respect, the creation of
+the market for international value-added services
+Newco and the investment of BT in MCI are steps
+(the precise set of services being offered is never taken by the two parent companies to pre-position
+exactly the same). Among them, the most impor themselves for when full liberalization is in place,
+tant are : AT&T Worldsource, AT&T Istel, GEIS, steps that are being followed by many TOs who are
+International Private Satellite Partners (limited to creating sets of products comparable to those of
+Newco. North America and Europe), Eunetcom, Unisource,
+Infonet, Sprint International, FNA (limited to
+financial services), and IBM (through IBM's
+connect programme). Some of those projects are
+the current expression of strategic alliances
+between TOs, the real scope of which is not well
+3. Geographic scope determined yet, but which are similar to the
+present one between BT and MCI in that they are
+actions intended to position their partners with a
+(15) The geographic market to be addressed by Newco, view to the full liberalization to come and are not
+and to be considered in respect of the investment limited to the provision of value-added services.
+of BT in MCI, is global. Such conclusio
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+then ask
+exclusive licence to use and license the trademarks Newco to procure all necessary use of remote
+of the latter within its own territory. Thus, BT networks (third-party networks) on the most
+grants MCI such a licence for the trademarks of BT competitive terms available. For so doing, Newco
+but limited to the Americas (Article 12 (3) (a) and could, in some cases, engage BT's services (in parti
+(b)) and vice versa. cular as regards regulated services still provided by
+BT), but will always be obliged to obtain supplies
+on a competitive basis. In addition, MCI will be
+responsible for that customer.
+
+The parties have provided the Commission with an
+array of arguments supporting the indispensability
+of the exclusive distribution arrangements for BT In conclusion, the exclusivity is considered indis
+in the transaction. Both have particularly stressed pensable within the meaning of Article 85 (3) of
+the protection of the valuable intellectual property the EC Treaty (and pursuant to Article 53 (3) of the
+rights they have contributed to the joint venture EEA Agreement).
+against outsiders but, in particular, against each
+other. In this context, both parties have stressed
+that they have not found a more efficient manner
+of organizing the distribution of the products in a (iii) MCI's 'loss of rights'pursuant to Article 9 (12)
+balanced way. (c) of the IA
+
+(61 ) As explained above, Article 9 (12) (c) of the IA
+Taking those facts into consideration, together with provides for MCI to lose certain rights in the event
+the high level of competition that the parent that MCI becomes engaged in the core business of
+companies will be facing (as distributors of Newco) BT in a territory defined as 'the rest of the world',
+and the substantial bargaining power of customers, which includes the entire EEA.
+the exclusive distribution arrangement for BT
+(including here those provisions in the IPA that
+(') The latest available version of the business plan even makes a reinforce it) can be accepted as being indispensable distinction between 'remote sales' (where a customer requests
+to the positive effects (in particular the distribution a bid from one distributor for services in the other distribu
+of the products in an efficient manner) resulting tor's territory) and 'passive sales' (where a customer requests
+from the restrictive clauses, provided that at least a bids from a distributor which is not responsible for that terri
+tory or customer). Both sales can be effected. The relevant dis possibility for passive sales is available for EEA tributor will independently prepare a bid without consulting
+customers. By passive sales is understood, as regards the other, and Newco, to the extent that it will be involved
+MCI, the possibility offered to a EEA customer of will not disclose to one distributor the prices or conditions it
+addressing himself to MCI for the provision of has provided to the other or any confidential information re
+garding the customer. Newco products in the EEA with the support of (2) In addition, differences in MCI and BT prices for Newco ser
+Newco (as regards, for instance, the availability of vices will occur in so far as each will be related to local condi
+leased lines or the required customer service) but tions and supply costs.
+
+No L 223/54 Official Journal of the European Communities 27. 8 . 94
+
+(62) This provision has to be considered against the In view of this modification, the Commission
+imbalance between the very high value for each considers that Article 9 (12) (c) of the IA now fulfils
+parent company of its proprietary software licensed the conditions for the granting of an exemption
+to Newco (and to each other within their respective pursuant to both Article 85 (3) of the EC Treaty
+territory) and the low level of protection to which and Article 53 (3) of the EEA Agreement.
+the software is entitled under most intellectual
+property laws in force. Basically, the same software
+is going to be used by Newco to serve the needs of (e) Conclusion
+its international customers and by each parent
+company to serve the intra-national needs of their (64) It is concluded that all the four conditions for the
+customers within their respective territories. In granting of an individual exemption pursuant to
+addition, it has to be taken into account that Article 85 (3) of the EC Treaty and pursuant to
+through Newco (and the licences that Newco will Article 53 (3) of the EEA Agreement in respect of
+grant to its parent companies in respect of any new the creation of Newco and in respect of the indis
+development) the technologies of both parties will pensable restrictions indentified above are satisfied.
+be increasingly interlinked and, hence, will be
+increasingly difficult to separate.
+
+For these reasons, the parties decided not to F. DURATION OF THE EXEMPTIONS
+include a termination provision in the IPA in case
+of infringement, and instead to include the 'loss of
+rights' provisions in the IA. In this respect, the
+latter can be seen as analogous to the territorial (65) Pursuant to Article 8 of Regulation No 17, a deci
+licensor protection permitted under both the patent sion in application of Article 85 (3) of the EC
+licensing block exemption regulation (Regulation Treaty (and pursuant to Protocol 21 of the EEA
+(EEC) No 2349/84) and the know-how licensing Agreement in so far as Article 53 (3) of the EEA
+block exemption regulation (Regulation (EEC) No Agreement is concerned) shall be issued for a
+556/89). specified period. Pursuant to Article 6 of that Regu
+lation, the date from which such a decision takes
+effect cannot be earlier than the date of notifica
+tion. In that respect, in the present case the Deci From this point of view, the 'loss of rights
+sion, in so far as it grants exemption, should take pursuant to Article 9 (12) (c) of the IA are indispen
+effect :
+sable in particular as a means of permitting confi
+dence between the parent companies to grow and,
+— from the date the notification was complete, consequently, to permit the necessary transfer of
+that is from 16 November 1993 to 15
+technology so as to allow Newco to succeed.
+November 2000 as regards the joint venture
+created between BT and MCI, and the appoint
+ment of BT as exclusive distributor of Newco in
+(63) However, as indicated above, such provision will the EEA,
+also produce the effect of substantially preventing
+MCI from entering the EEA using only its own — as regards the 'loss of rights' for MCI pursuant
+proprietary technology. The Commission sees no to Article 9 (12) (c) of the IA, until the end of
+justification for accepting this restrictive effect for the fifth year from the date of the adoption of
+as long as the agreements are in force. this Decision,
+
+For that reason, and following discussions with the
+Commission, the parties have modified the agree
+ments so that the 'loss of rights' provision pursuant HAS ADOPTED THIS DECISION :
+to Article 9 (12) (c) of the IA, in so far as the EEA
+is concerned, will apply only for a period of five
+years. Once the five-year period in respect of those
+rights has expired, MCI's 'loss of rights' will be Article 1
+terminated in relation to the EEA.
+
+On the basis of the facts in its possession, the Commis
+sion has no grounds for action pursuant to Article 85 (1 )
+This five-year period is adequate taking into of the EC Treaty and Article 53 ( 1) of the EEA Agreement
+account that the existing business plan for Newco in respect of the agreements as notified, relating to the
+commits the parent companies for five years and acquisition by BT of a 20 % stake in the sharecapital of
+that, in addition, five years is the time required for MCI, to the appointment of MCI as exclusive distributor
+the set of services to be marketed by Newco to be of Newco in the Americas pursuant to Article 2 ( 1 ) of
+fully operational. MCI's Distribution Agreement, to the appointment of BT
+
+27. 8 . 94 Official Journal of the European Communities No L 223/55
+
+as exclusive distributor of Newco in the rest of the world EEA pursuant to Article 2 ( 1) of BTs Distribution Agree
+excluding the EEA territory, to MCI's 'loss of rights' ment.
+pursuant to Article 9 (12) (c) of the Investment Agreement
+in so far as the territory of the EEA is not concerned, and Article 4
+to BT's 'loss of rights' pursuant to Article 9 (12) (a) of the
+Investment Agreement. Pursuant to Article 85 (3) of the EC Treaty and Article 53
+(3) of the EEA Agreement, the provisions of Article 85 (1)
+of the EC Treaty and of Article 53 ( 1 ) of the EEA Agree Article 2
+ment are hereby declared inapplicable for a period of five
+years from the date of the adoption of this Decision toOn the basis of the facts in its possession, the Commis
+Article 9 (12) (c) of the Investment Agreement.sion has no grounds for action pursuant to Article 85 ( 1 )
+of the EC Treaty and Article 53 ( 1 ) of the EEA Agreement
+for the duration of the exemption granted to the joint Article 5
+venture in respect of the obligation on BT and on MCI to This Decision is addressed to :
+obtain from Newco all requirements for global products
+pursuant to Article 3 ( 1 ) of each Distribution Agreement British Telecommunications pic,
+and in respect of the non-compete provision as regards 81 Newgate Street,
+the activities of Newco pursuant to Article 18 ( 1 ) of the UK-London EClA 7AJ.
+Joint-Venture Agreement. MCI Communications Corporation,
+1801 Pennsylvania Avenue, NW,
+Article 3 Washington, DC 20006,
+USA.
+Pursuant to Article 85 (3) of the EC Treaty and Article 53
+(3) of the EEA Agreement, the provisions of Article 85 ( 1 )
+of the EC Treaty and of Article 53 (1 ) of the EEA Agree Done at Brussels, 27 July 1994.
+ment are hereby declared inapplicable for the period from
+16 November 1993 to 15 November 2000 to the joint For the Commission
+venture, Newco, created between BT and MCI, as notified
+Karel VAN MIERT
+to the Commission, and to the appointment of BT as the
+exclusive distributor of Newco within the territory of the Member of the Commission

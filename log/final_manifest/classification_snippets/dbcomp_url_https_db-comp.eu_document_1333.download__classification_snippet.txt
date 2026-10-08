@@ -1,0 +1,509 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+17.11.2001 EN Official Journal of the European Communities L 302/1
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 8 May 2001
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+Cases: IV/36.957/F3 Glaxo Wellcome (notification), IV/36.997/F3 Aseprofar and Fedifar (complaint), IV/37.121/F3 Spain Pharma (complaint), IV/37.138/F3 BAI (complaint), IV/37.380/F3
+EAEPC (complaint)
+
+(notified under document number C (2001) 1202)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(2001/791/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, WHEREAS:
+
+Having regard to the Treaty establishing the European Com- I. FACTS
+munity,
+
+A. INTRODUCTION
+Having regard to Council Regulation No 17 of 6 February
+1962 first Regulation implementing Articles 85 and 86 of the
+(1) This decision concerns the compatibility with Article 81
+Treaty (1), as last amended by Regulation (EC) No 1216/ of the EC Treaty (4) of Glaxo Wellcome SA’s sales
+1999 (2), in particular Articles 3 and 6 thereof,
+conditions regarding pharmaceutical products supplied
+to Spanish wholesalers. Pursuant to clause 4 of these
+sales conditions, Glaxo Wellcome SA operates a distinc-Having regard to the Commission of 13 July 1999 to initiate
+tion between, on the one hand, the prices charged toproceedings in this case,
+wholesalers reselling its products to Spanish pharmacies
+or hospitals for (reimbursable) end-use in Spain and, on
+Having given the undertaking concerned the opportunity to the other hand, prices charged to wholesalers exporting
+make known its views on the objections raised by the the products. The latter prices are higher than those
+Commission pursuant to Article 19(1) of Regulation No 17 applied in case of domestic resales.
+and Article 2 of Commission Regulation (EC) No 2842/98 of
+22 December 1998 on the hearing of parties in certain
+proceedings under Articles 85 and 86 of the EC Treaty (3), B. PROCEDURE
+
+(2) On 6 March 1998, Glaxo Wellcome SA (hereinafter
+After consulting the Advisory Committee on Restrictive Prac- ‘GW SA’) notified new sales conditions (hereinafter the
+tices and Dominant Positions, ‘new sales conditions’) with a view to obtaining a
+negative clearance pursuant to Article 2 of Regulation
+
+(1) OJ 13, 21.2.1962, p. 204/62. (4) In the text of this decision, references to ‘Article 81 of the Treaty’
+(2) OJ L 148, 15.6.1999, p. 5. refer to the EC Treaty. This Article was formerly known as
+(3) OJ L 354, 30.12.1998, p. 18. Article 85.
+
+L 302/2 EN Official Journal of the European Communities 17.11.2001
+
+No 17 or, alternatively, an exemption pursuant to (4) On 10 September 1998, the Commission sent GW plc a
+Article 4 of Regulation No 17. On 30 June 1998, GW warning letter pointing out that the new sales conditions
+SA informed the Commission of slight modifications appeared to infringe Article 81 of the Treaty. On
+concerning in particular the calculation of the export 29 September 1998, GW plc submitted a memorandum
+price for older products. It also provided the Com- entitled ‘Response of GW plc to the legal arguments
+mission with a new list of ‘Spanish’ prices valid as of in the Commission’s letter of 10 September 1998’
+29 June 1998. On 28 July 1998, GW SA’s parent (hereinafter referred to as: ‘GW memorandum’). Subcompany, Glaxo Wellcome plc (hereinafter GW plc) sequently, it submitted two economic studies analysing
+transmitted a supplementary notification drawing the the effects of parallel imports entitled ‘GW’s Spanish
+Commission’s attention ‘to factors that are not specific pricing system: the need for a new approach to parallel
+to Glaxo Wellcome’s business in Spain, but that affect imports’ (hereinafter referred to as: ‘London Economics
+the business of Glaxo Wellcome and its subsidiaries study’) and ‘The adverse effects of parallel imports on
+throughout the EU’. consumer welfare’ (hereinafter referred to as: ‘Prof. Rey
+study I’).
+
+(3) Subsequently, a number of wholesalers and wholesaler
+associations lodged complaints with the Commission
+pursuant to Article 3(2) of Regulation No 17. All
+complaints argue that GW SA’s sales conditions infringe
+Article 81 of the Treaty, while some of them add that (5) On 13 July 1999, the Commission adopted a statement
+these conditions also violate Article 82 of the Treaty. of objections to which GW plc replied on 15 November
+Complaints were received from the following undertak- 1999 (hereinafter referred to as: ‘the reply to the SO’).
+ings or associations of undertakings: The reply to the SO contained another study on
+pharmaceutical pricing (hereinafter referred to as: ‘Frontier Economic study I’). (a) Aseprofar (‘Associacio ́n de Exportadores Espan ̃oles
+de Productos Farmacéuticos’) which is a Spanish
+professional organisation consisting of five pharmaceutical wholesalers: Centro Farmacéutico Asturiano SA, Unyexport Medicamentos SA, Euroserv
+SA, Galénica SA Farmacéutica Aragonesa and Centro Farmacéutico Nacional SA. Aseprofar’s objec- (6) GW was given the opportunity to make known its views
+tive is the defence of freedom of exportation in an oral hearing which took place on 8 and 9 December
+and interstate circulation of pharmaceutical goods, 1999. The complaints Aseprofar, Spain Pharma and
+pursuant to the rules of the European Union (5). EAEPC participated in the hearing. The European Feder-
+The total turnover of the five wholesalers for 1997 ation of Pharmaceutical Industries and Associations
+was around EUR 1,35 billion (ESP 225 billion). (EFPIA) also participated in support of GW plc.
+Another Spanish professional organisation comprising two associations each of eight wholesalers
+called Fedifar (‘Federacio ́n Nacional de Asociaciones
+de Mayoristas Distribuidores de Especialidades Farmacéuticas y Productos Parafarmacéuticos’) intervened to support Aseprofar’s complaint;
+(7) On 22 December 1999, the Commission sent a formal
+request for information to GW plc concerning a number
+(b) Spain Pharma SA, an individual Spanish wholesaler of issues discussed at the oral hearing. GW plc replied
+of pharmaceutical products. In 1997 it achieved a on 14 February 2000. A week later, it also submitted its
+turnover of EUR 10,8 million (ESP 1,8 billion), comments regarding two studies submitted by Aseprofar
+three quarters of which is derived from exports to regarding ‘The effects of parallel imports on social
+other Member States; welfare’ undertaken by Professors Corcho ́n and Marı ́n
+(hereinafter referred to as: ‘Prof. Corchon and Marin
+study’). GW plc’s comments on these studies are em- (c) Bundesvervand der Arzneimittel-Importeure (BAI),
+bodied in two more studies: one produced by Frontier an association of German importers of pharmaceut-
+Economics (hereinafter referred to as: ‘Frontier Eco- ical products;
+nomics study II’) and another one prepared by Professor
+Rey (hereinafter referred to as: ‘Prof. Rey study II’).
+(d) European Association of Euro Pharmaceutical
+Companies (EAEPC) representing the interests of
+national associations of importers and exporters of
+pharmaceutical products located in Germany (BAI),
+Spain (Aseprofar), United Kingdom, Denmark, the
+Netherlands, Norway and Sweden.
+(8) EAEPC submitted a written version of its intervention at
+the oral hearing as well as documentation entitled
+‘Parallel trade of pharmaceutical’ on which GW plc
+(5) Article 2 of the statutes of Aseprofar (free translation into English). commented on 23 February 2000.
+
+17.11.2001 EN Official Journal of the European Communities L 302/3
+
+C. PARTIES TO GW NEW SALES CONDITIONS FOR SPAIN nica and Federacio ́ Farmacéutica. Safa Galenica raised a
+reservation concerning the legality of the new sales
+conditions, whereas Federacio ́ Farmacéutica stated that
+they would not be able to comply with the obligation of
+1. GLAXO WELLCOME SA Clause 1B(c) of the new sales conditions according to
+which they would have to specify whether the products
+can be funded by social security or other public funds.
+Another wholesaler which subscribed to the sales con-
+(9) As stated above (recital 2), GW SA is the Spanish ditions, but does not belong to GW SA’s five main
+subsidiary of GW plc. Its main activity is the creation clients (Cofaran), also expressed doubts about the legality
+and discovery, development, manufacture and marketing of these conditions (9).
+of medicines in Spain. The company operates directly as
+well as through its subsidiaries Wellcome Farmacéuticas
+SA, Allen Farmacéutica SA and Duncan Farmacéutica
+SA with which it forms an economic unit. Total turnover
+was EUR 306 million in 1996 (ESP 50,9 billion).
+D. PRODUCTS CONCERNED
+
+(10) GW SA forms part of the Glaxo Wellcome group which
+is a major global player manufacturing pharmaceutical (13) GW SA points out that the new sales conditions apply
+products in 33 countries and selling them in in total to 82 pharmaceutical products. In its reply
+57 countries. In 1996, GW plc had a turnover of GBP to the SO, GW specifies that all these products are
+7,9 billion (EUR 11,2 billion). In 2000, GW plc merged prescription drugs. For a complete list of these products,
+with the pharmaceutical company Smithkline Beecham see Annex 1 to this Decision. The total number takes
+to form the new entity GlaxoSmithkline plc. The merger account of the fact that several drugs are sold in different
+was cleared by the Commission on 8 May 2000 (6). dosages and packages forms (for example, Lamictal
+25 mg/56 tablets, 50 mg/56 tablets, 100 mg/56 tablets
+and 200 mg/30 tablets) and/or that some drugs are
+(11) In section3.1 of its supplementary notification, GW plc administered in different ways (for example Ventolin
+specified that ‘because Glaxo Wellcome has effective inhalable or injectable).
+ownership and control of Glaxo Wellcome SA, the two
+firms constitute a single undertaking for purposes of
+Community law’. It emerges from section 1.1 of that
+notification that ‘Glaxo Wellcome’ refers to Glaxo Well- (14) The relevant pharmaceutical products cover a variety of
+come plc. The present Decision will refer to Glaxo different fields, for example, drugs functioning in the
+Wellcome (GW) as designating the entire group, except respiratory system (bronchodilators/A-Asthma, nasal
+where it is necessary to make a specific reference to preparations and antihistamines), drugs used for the
+either GW SA or GW plc. treatment of infections, preparations for nausea and
+ulcers, dermatological products, immunomodulating
+agents, anti-malaria drugs, hormonal preparations, cardiac drugs, preparations for the central nervous system
+2. SPANISH WHOLESALERS or musculo-skeletal system, otologicals and products for
+herpes and migraine.
+
+(12) The other parties are the Spanish wholesalers who
+subscribed to the new sales conditions. Over a hundred
+(15) In its supplementary notification of 28 July 1998, GW pharmaceutical wholesalers are active in Spain. GW SA
+plc submitted a list of eight products which it considers transmitted its new sales conditions to 89 wholesalers (7).
+to be the prime candidates for parallel trade between In total, 75 wholesalers, whose sales represent over 90 %
+Spain and the United Kingdom: Becotide, Beconase, of all GW SA sales in Spain (8), accepted these conditions.
+Becloforte, Flixotide, Imigran, Lamictal, Serevent and They include GW SA’s five main clients: Cofares, Regula-
+Ventolin (10). This number (eight) does not take account dora de Compras del Mediterra ́neo, Cecofar, Saga Galéof the fact that these drugs are sold in different dosages
+and package forms or are administered in different ways.
+Their total number is 15 if this fact is taken into account.
+
+(6) Commission decision in Case IV/M.1846 — Glaxo Wellcome
+Smithkline (OJ C 170, 20.6.2000, p. 6).
+(7) For a full list: see Annex to the original notification, Document
+No 1ter [82, 91 to 101]. Note: page numbers in brackets [] refer
+to a page in Commission file IV/36.957. Reference to the (9) Response by GW of 6 May 1998, p. 8 and Annex 5 [642/689 to
+complaints files are indicated with case number and page number. 706].
+(8) Response by GW of 6 May 1998 to information request of (10) Supplementary notification by GW of 28 July 1998, annex 12
+15 April 1998, Annex 4 [678 to 687]. [910, 911].
+
+L 302/4 EN Official Journal of the European Communities 17.11.2001
+
+(16) In its response of 14 December 1998 to a formal of 20 December 1990 concerning medicine, the
+request for information, GW plc provided market shares price of pharmaceutical products of GW SA and its
+between June 1996 and June 1998 in all Member States subsidiary companies shall, in no event, exceed
+for the 82 products covered by the new sales conditions. the maximum industrial price, established by the
+GW plc calculated these market shares on the basis Spanish health authorities when the two factors
+of data collected by the medical research company which allow for the application of the said legal
+International Medical Statistics (IMS). The data relate to rules are present, namely:
+classes of drugs belonging either to the second or the
+third level of the ‘Anatomical therapeutic classification’
+(ATC) drawn up by EphMRA (European Pharmaceutical — that the aforementioned pharmaceutical prod-
+Marketing Research Association). The ATC classification ucts are financed by the funds of the Spanish
+groups the pharmaceutical specialities into therapeutical social security or by Spanish public funds,
+classes. The second ATC level corresponds to therapeutical main groups whereas the third ATC level reflects
+therapeutical/pharmacological subgroups.
+— that the acquired pharmaceutical products are
+subsequently marketed at a national level i.e.
+through pharmacies or Spanish hospitals.
+(17) The table in Annex 2 has been drawn up by the
+Commission. It focuses on six Member States and shows
+GW’s market shares valid as at June 1998. Where the
+table does not give a market share, the product is not B. In the absence of one of these two factors (i.e. in all
+marketed or data are not available. Specific Spanish case where Spanish law gives full freedom to the
+brand names are added between brackets. Figures reflect laboratories to set the prices of their pharmaceutical
+sales values expressed in GBP at constant exchange rates. products themselves), GW SA and its subsidiaries
+will fix the price of their pharmaceutical products
+according to real, objective and non-discriminatory
+(18) It emerges from that table that GW’s market shares for economic criteria and completely irrespective of
+the eight products which it considers to be the prime the destination of the product determined by the
+candidates for parallel trade are substantial. Becotide, purchasing warehouse. In particular, GW SA and
+Becloforte, Flixotide, Serevent and Ventolin all belong to its subsidiary companies will apply to their pharmathe second level R3 class bronchodilators/A-Asthma. ceutical products the price which, on the basis of
+For this class of drugs, GW holds a Community-wide their internal economic surveys, had been initially
+share of
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+‘Parallel trade of pharmaceuticals’, p. 6
+(193).
+(135) Supplementary notification, p. 42 (874). (137) Letter of 23 February 2000, p. 4 (4581).
+
+L 302/38 EN Official Journal of the European Communities 17.11.2001
+
+of a flat fee, pharmacists and other intermediaries benefit III. CONCLUSION
+from purchasing cheaper parallel-traded products
+because such purchases yield higher profits. The notion
+of the consumer is not restricted to the final consumer,
+(189) For the above reasons, it is concluded that the new sales that is, the patient. Therefore, the interests of wholesalers, pharmacies, national health budgets, insurance conditions have as their object and effect to restrict
+competition and affect trade between Member States to schemes can also be taken into account. Furthermore,
+an appreciable extent within the meaning of the possibility of these pharmacies passing on part of
+their savings to their clients, for example via annual Article 81(1). They do not meet the conditions for an
+exemption pursuant to Article 81(3). bonuses where authorised by national legislation, should
+also not be ruled out.
+
+(190) GW should be required pursuant to Article 3 of Regu-
+(186) Ultimately, all patients pay for the national health lation No 17, to bring the infringement to an end.
+system. Public health systems are financed via contributions or by general taxes. Any savings made by these
+schemes via the purchase of cheaper parallel-traded
+drugs indirectly benefit the schemes’ members. As (191) Although GW SA filed the original notification, GW plc
+emerges from Table 1, many Member States have filed a supplementary notification on 28 july 1998. In
+enacted measures providing incentives to parallel trade the latter notification, GW plc explains that it has
+and thus leading to such savings. The UK reimbursement effective ownership and control of GW SA (see
+system with fixed reimbursement fees and its claw-back recital 11). In a letter of 29 October 1998, GW plc
+system (see recital 49) de facto provides an incentive for requested that all correspondence in respect of both
+intermediaries and pharmacies to purchase cheaper notifications should be addressed to it and copied to
+parallel-traded drugs. It has also been shown that other its subsidiary GW SA. Consequently, all subsequent
+Member States give more specific incentives to parallel correspondence, including the statement of objections
+trade, in order to achieve cost savings for the health care adopted on 13 July 1999, was addressed to GW plc.
+budget. Denmark, Germany and Sweden (see recital 52) Following the merger with Smithkline Beecham, the
+serve as an example. company name of GW plc has changed. The decision is
+therefore addressed to GlaxoSmithKline plc in the United
+Kingdom.
+
+(d) Third condition (indispensability)
+
+HAS ADOPTED THIS DECISION
+
+(187) As the conditions of Article 81(3) are cumulative, it is not
+necessary for the Commission to assess each individual
+condition of Article 81(3) (138). Nonetheless, it notes that Article 1
+the new sales conditions do not fulfil the third condition.
+Since there is not evidence that they achieve the
+objectives of promotion of technical progress and Glaxo Wellcome has infringed Article 81(1) of the Treaty by
+improvement of distribution, it follows that there is no entering into an agreement with Spanish wholesalers operating
+contribution whose indispensability to the attainment of a distinction between prices charged to wholesalers in the case
+these objective could be analysed. of domestic resale of reimbursable drugs to pharmacies or
+hospitals and higher prices charged in the case of exports to
+any other Member State.
+(e) Fourth condition (no elimination of competition
+in respect of a substantial part of the products in
+question)
+Article 2
+
+(188) As noted in recital 104, GW does not put forward any The request by Glaxo Wellcome for an exemption of the
+arguments concerning this condition which it has not agreement referred to in Article 1, pursuant to Article 81(3) of
+already submitted elsewhere. Those arguments have the Treaty, is rejected.
+already been rejected. In any event, for several of the
+leading product affected by the new sales conditions (for
+example, Zofran, Flixonase, Zovirax and Imigran) GW
+holds substantial market shares in one or more Member Article 3
+States.
+
+Glaxo Wellcome shall immediately bring to an end the
+infringement referred to in Article 1 in so far as it has not
+(138) Matra SA Hachette v Commission, op. cit. already done so. It shall refrain from repeating any measure
+
+17.11.2001 EN Official Journal of the European Communities L 302/39
+
+constituting this infringement and shall refrain from adopting Article 5
+any measure having similar object or effect.
+This Decision is addressed to:
+
+GlaxoSmithkline PLC, Glaxo Wellcome House, Berkeley
+Avenue, Greenford, Middlesex UB6 0NN, United Kingdom.
+
+Article 4 Done in Brussels, 8 May 2001.
+
+For the Commission
+Glaxo Wellcome shall inform the Commission, within two
+Mario MONTImonths of notification of this Decision, of the steps which it
+has taken to bring the infringement to an end. Member of the Commission
+
+L 302/40 EN Official Journal of the European Communities 17.11.2001
+
+ANNEX 1
+
+Products covered by Glaxo Wellcome SA’s new conditions of sale (Spanish denomination):
+
+Alquen 150 mg 20 comp. Efervescente Pro-Actidil 10 comp.
+Bacisporı ́n Pomada 10 gramos Serevent Inhalador 25 mcg × 60 dosis
+Becloforte Inhalador 250 mcg × 180 dosis Serevent Inhalador 25 mcg × 120 dosis
+Beconase Spray Nasal Acuoso 50 mcg × 200 Serevent Accuhaler 50 mcg × 60 dosis
+Becotide Inhalador 200 × 50 mcg Tioguanina Wellcome 25 comp.
+Busulfa ́n Wellcome 0,5 mg 100 comp. Trandate 100 mg 30 comp.
+Busulfa ́n Wellcome 2 mg 100 comp. Trandate 200 mg 30 comp.
+Curoxima 250 mcg 1 vial + amp. 2 ml Valtrex 500 mg/10 comp.
+Curoxima 750 mg Vial + amp. 6 ml Valtrex 500 mg/42 comp.
+Daraprim 30 comp. Ventolı ́n 30 sol resp. 10 ml × 5 mg
+Dexno ́n 100 mcg 100 mg Comp. Ventolı ́n 2 mg 30 comprimidos
+Flixonase 50 mg spray nasal/120 dosis Ventolı ́n 4 mg 30 comprimidos
+Flixotide 100 mcg Accuhaler × 60 dosis Ventolı ́n Inhalador 200 × 100 mcg
+Flixotide 250 mcg Inhalador/120 dosis Ventolı ́n Inyectable 0,5 mg 1 ml 6 amp
+Flixotide 50 mg Inhalador/120 dosis Ventolı ́n Jarabe 2 mg/5 ml 100 ml
+Flixotide 500 mg Accuhaler × 60 dosis Wellfero ́n 10 MU/1 vial de 1 ml
+Fortam 1 gr Im/iv + amp. 10 ml Wellfero ́n 3 MU/1 vial de 1 ml
+Fortam 500 mg 1 vial + amp. 5 ml Wellfero ́n 5 MU/1 vial de 1 ml
+Greosı ́n 125 mg 25 comp. Zantac 150 mcg/20 comp.
+Greosı ́n 125 mg 100 comp. Zantac 300 mcg/10 comp.
+Igril 10 comp. Zinnat 125 mg/12 comp.
+Imigra ́n 50 mcg/4 comp Zinnat 125 mg 12 sobres
+Imigra ́n 6 mg Iny/2 jeringas sub-cut Zinnat 125 mg 6 ml susp.
+Kemadrén 25 comp. Zinnat 250 mg/12 comp.
+Lacipil 4 mg/28 comp. Zinnat 250 mg 12 sobres
+Lamictal 100 mg/56 comp. Zinnat 500 mg/12 comp.
+Lamictal 200 mg/30 comp. Zinnat 500 mg Sobres
+Lamictal 25 mg/56 comp. Zofra ́n 4 mg/15 comp.
+Lamictal 50 mg/56 comp. Zofra ́n 4 mg/6 comp.
+Lanacordı ́n ampollas 5 amp. Zofra ́n 8 mg/15 comp.
+Lanacordı ́n comprimidos 25 comp. Zofra ́n 8 mg/6 comp.
+Lanacordı ́n comprimidos 50 comp. Zovirax 200 mg Comp. Disper./25 comp.
+Lanacordı ́n pedia ́trico 60 ml Sol. Zovirax 800 mg Comp. Disper./35 comp.
+Leukera ́n 2 mg 100 comp. Zovirax crema 2 gr
+Leukera ́n 5 mg 100 comp. Zovirax crema 15 gr
+Melfala ́n 2 mg 25 comp. Zovirax Pom. Oftalm./4,5 gr
+Melfala ́n 5 mg 25 comp. Zovirax Suspensio ́n Forte 100 ml
+Mercatopurina Wellcome 25 comp. Zovirax Suspensio ́n Forte 200 ml
+Metoxamina Wellcome 5 mg Amp. Iny Zyloric 100 mg 25 comp.
+Otosporı ́n 5 ml Zyloric 100 mg 100 comp.
+Pilorid 400 mg/28 comp. Zyloric 300 mg 30 comp.
+
+17.11.2001 EN Official Journal of the European Communities L 302/41
+
+ANNEX 2 (*)
+
+SP FR UK DE NL DK EU
+
+A2B Antipeptic ulcerants
+
+Zantac
+Alquen
+Pylorid
+
+A4A Antiemetics-Antinauseants
+
+Zofran
+
+R3 Bronchodilators/A-Asthma
+
+Becotide + Becloforte
+Serevent
+Ventolı ́n
+Flixotide
+
+R1A Topical nasal decongestants
+
+Beconase
+Flixonase
+
+R6 Antihistamines systemic
+
+Actidil (Proc-Actidil)
+
+J1 Antiinfectives
+
+Zinnat
+Zinacef (Curoxima)
+Fortum (Fortam)
+
+D7 Topical corticosteroids
+
+Bacisporin
+
+D1 Dermatological antifungals
+
+Grisovin (Greosı ́n)
+
+L1 Cytostasics
+
+Alkeran (Melfala ́n)
+Leukeran
+Thioguanine
+Mercatopurina
+Busulfa ́n
+
+L3B Interferons
+
+Wellferon
+
+P1D Antimalarians
+
+Daraprim
+
+H3A Thyroid preparations
+
+Eltroxin (Dexnon)
+
+L 302/42 EN Official Journal of the European Communities 17.11.2001
+
+SP FR UK DE NL DK EU
+
+C7 Beta blocking agents
+
+Trandate
+
+C8 Calcium antagonists
+
+Lacipil
+
+C1 Cardiac therapy
+
+Lanoxin (Lanacordı ́n)
+Metoxamina
+
+M4 Anti-gout preparations
+
+Zyloric
+
+N3 Anti-epileptics
+
+Lamictal
+
+N4 Anti-Parkinson
+
+Kemadrin (Kemadrén)
+
+S2 Otologicals
+
+Otosporı ́n
+
+Hsv (**)
+
+Zovirax
+Valtrex
+
+ICD 346 (***)
+
+Imigran
+Migril (Igril)
+(Community except DK, PO, LU, IR, FL)
+(*) Business secrets, not disclosed.
+(**) Anti-herpes products from classes J5B, D6D, J7A, S1D.
+(***) Indicated as such by GW.
+
+17.11.2001 EN Official Journal of the European Communities L 302/43
+
+ANNEX 3
+
+GBP/ESP Exchange rates
+
+March 94 to November 98
+
+Date Value GBP/ESP Date Value GBP/ESP
+
+Mar–94 207,56 Aug–96 196,28
+Apr–94 203,73 Sep–96 194,88
+May–94 205,30 Oct–96 200,27
+Jun–94 204,48 Nov–96 207,82
+Jul–94 201,78 Dec–96 216,68
+Aug–94 198,68 Jan–97 221,56
+Sep–94 201,22 Feb–97 224,46
+Oct–94 202,52 Mar–97 233,07
+Nov–94 203,73 Apr–97 231,56
+Dec–94 204,37 May–97 236,83
+Jan–95 205,46 Jun–97 236,24
+Feb–95 209,08 Jul–97 244,20
+Mar–95 203,71 Aug–97 252,78
+Apr–95 205,66 Sep–97 245,70
+May–95 198,17 Oct–97 240,47
+Jun–95 193,71 Nov–97 241,44
+Jul–95 192,97 Dec–97 249,59
+Aug–95 189,86 Jan–98 251,17
+Sep–95 194,99 Feb–98 252,20
+Oct–95 194,07 Mar–98 257,74
+Nov–95 192,48 Apr–98 262,09
+Dec–95 187,30 May–98 254,99
+Jan–96 188,65 Jun–98 246,36
+Feb–96 189,31 Jul–98 256,19
+Mar–96 188,78 Aug–98 246,46
+Apr–96 189,57 Sep–98 250,64
+May–96 190,66 Oct–98 243,07
+Jun–96 198,26 Nov–98 234,95
+Jul–96 197,44 Dec–98 240,09
+
+Source: Europa Plus-Infor Euro

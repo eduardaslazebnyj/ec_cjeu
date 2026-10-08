@@ -1,0 +1,130 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31996D0546
+96/546/EC: Commission Decision of 17 July 1996 relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the EEA Agreement (Case No IV/35.337 - Atlas) (Only the English, French and German texts are authentic) (Text with EEA relevance)
+Official Journal L 239 , 19/09/1996 P. 0023 - 0056
+COMMISSION DECISION of 17 July 1996 relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the EEA Agreement (Case No IV/35.337 - Atlas) (Only the English, French and German texts are authentic) (Text with EEA relevance) (96/546/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Articles 2, 6, and 8 thereof,
+Having regard to the application for negative clearance and the notification for exemption submitted, pursuant to Articles 2 and 4 of Regulation No 17, on 16 December 1994,
+Having regard to the summary of the application and notification published pursuant to Article 19 (3) of Regulation No 17 and to Article 3 of Protocol 21 of the EEA Agreement (2),
+After consultation with the Advisory Committee for Restrictive Practices and Dominant Positions,
+Whereas:
+I. THE FACTS
+A. INTRODUCTION
+(1) The Atlas venture was notified to the Commission on 16 December 1994. This transaction brings about a joint venture owned as to 50 % by France Télécom (FT) and as to 50 % by Deutsche Telekom AG (DT). The notification of Atlas replaces the notification on 3 June 1993 (3) of a joint venture formed by FT and DT (at the time Deutsche Bundespost Telekom) under the name of Eunetcom to which this Decision extends. Atlas is also the instrument of DT and FT's participation in a second transaction, notified under the name of Phoenix, with Sprint Corporation (Sprint) (4). Phoenix, since renamed as GlobalOne, is the object of a separate Decision pursuant to Article 85 (3) of the EC Treaty (5).
+(2) Atlas is structured at two levels. A holding company established in Brussels, Atlas SA, incorporated as a société anonyme under the laws of Belgium, has three operating subsidiaries, namely Atlas Télécommunications SA (Atlas France) in France, Telekom Internationale Telekommunikationsdienste GmbH (Atlas Germany) in Germany, and one for the rest of Europe. Atlas France and Atlas Germany will initially provide technical and sales support to FT and DT, being the French and German distributors of Atlas and GlobalOne products. After full and effective liberalization of the telecommunications infrastructure and services markets in France and Germany, scheduled to occur by 1 January 1998, DT's subsidiary for the provision of X.25 packet-switched data communications, T-Data Gesellschaft für Datenkommunikation mbH (T-Data) (6), will be merged with Atlas Germany while FT's subsidiary for the provision of X.25 packet-switched data communications, Transpac France, will be merged with Atlas France.
+B. THE PARTIES
+(3) Deutsche Telekom AG (DT) and France Télécom (FT) are the public telecommunications organizations (TOs) in Germany and France. Both supply telephone exchange lines to homes and businesses; local, trunk and international communications to and from their respective home country. Worldwide turnover in 1994 was ECU 31,8 billion, a 4,3 % increase over 1993, for DT and ECU 21,7 billion, a 1,8 % increase over 1993, for the FT group.
+C. THE RELEVANT MARKET
+1. Product markets
+(4) Atlas will address the markets for the provision of non-reserved telecommunications services to corporate users both Europe-wide and nationally. Atlas will target two separate product markets for non-reserved services, namely:
+(5) The market for customized packages of corporate telecommunications services
+This market comprises mostly customized combinations of a range of existing telecommunications services, mainly liberalized voice services including voice communication between members of a closed group of users (virtual private network (VPN) services), high-speed data services and outsourced telecommunications solutions specially designed for individual customer requirements. The market for customized packages of corporate telecommunications services, enhanced by features such as tailored capacity allocation, billing, a 24-hour technical service, etc., is currently changing and evolving rapidly. Customers demand such packages of sophisticated telecommunications and information services offered by one single provider. That provider is expected to take full responsibility for all services contained in the package from 'end to end`. Accordingly, DT and FT intend to offer such customers through Atlas whatever services existing technology allows them to offer from time to time within the applicable regulatory framework. In this regard, the parties have indicated that Atlas will eventually extend to international voice traffic and other basic services, regulations permitting.
+These services are provided over high-speed, large-capacity leased lines linking sophisticated equipment on customer premises to the service provider's nodes. Alternatively, other means of transmission, such as satellite or mobile radio capacity, can be used to ensure the geographic coverage demanded from time to time. Such services employ advanced state-of-the-art protocols, data compression techniques, equipment and software. In this market, Atlas is expected to offer a portfolio of services including the following (the 'Atlas services`):
+- data services: high- and low-speed packet-switched, Frame Relay, Internet Protocol (IP) services,
+- value-added application services: value-added messaging, video-conferencing and electronic document interchange (EDI) services,
+- voice VPN services,
+- value-added leased lines offerings: pre-provisioned, managed and circuit-switched bandwidth,
+- very small aperture satellite (VSAT) network services, and
+- outsourcing: customers are invited to transfer responsibility and ownership of their networks to Atlas. If they agree, Atlas may integrate into its own offerings any third-party products already owned by customers who wish to keep such offerings, as the case may be.
+Of the above, some services will remain with DT and FT and therefore not be Atlas services. These services are: (i) those national receive-only VSAT services in France which provide a single channel per carrier ('receive-only SCPC`); (ii) national messaging and EDI services in Germany; (iii) data network services using Asynchronous Transfer Mode (ATM) technology in France, Germany and any third country; and (iv) national VPN services in France and Germany. The integration into Atlas of any such service and/or its underlying network as well as of any broadband transmission capacity operated by DT and/or FT necessitates separate notification to the Commission.
+(6) Due to the high cost of building and operating the networks needed to provide customized packages of corporate telecommunications services, such services can be commercially viable only if provided to multinational corporations, extended enterprises, and other intensive users of telecommunications and in particular the largest among those customers generating continuous high traffic volumes (7). Many of those potential customers have complex and specific needs and have often acquired expertise in managing own internal networks. Whether each of the services listed above constitutes a separate product market can be left open for present purposes, since a separate analysis would not affect the Commission's conclusions.
+(7) However, this Decision relates only to Atlas' range of products and its business scope as notified. Any substantial change of products or business scope, and in particular (i) the integration into Atlas of broadband transmission capacity (such as Asynchronous Transfer Mode (ATM) networks) in France and Germany and (ii) the offering by Atlas of public basic telecommunications services (such as voice telephony services (8)) will require a new notification.
+(8) The market for packet-switched data communications services
+Atlas will also be active on a separate market for packet-switched data communications services. The Commission considers data communications services to be a distinct telecommunications product market, without prejudice to the existence of narrower markets (9). One narrower market is that for packet-switched data communications services (10). Packet switching is a means to improve network capacity utilization and consists of splitting data sequences into 'packets`, feeding these and other packets into the network optimizing utilization of available capacity, switching the packets to the desired destination and rearranging the packets to obtain the original data sequences. One standard used for the provision of packet-switched data communications services is the X.25 protocol. Packet-switched data services using this protocol (the 'X.25 data services`) are slower than packet-switched data communications services using protocols such as Frame Relay, Asynchronous Transfer Mode (ATM) or Internet Protocol (IP), given that X.25 data services rely on smaller packets and require switches which allow charging per packet.
+(9) Packet-switched data communications services can be divided into different customer segments within the same product market.
+1. On the one hand, some customers generate mostly erratic and geographically widespread demand for low-speed, low-volume applications. These features are due either to the specific type of use (such as banks operating cash machines nationwide, networks of points-of-sale in shops) or to the size of such customers, as with small and medium-sized enterprises (SMEs). Such services are billed by volume sent, according to published tariffs. All incumbent Member State TOs including DT and FT operate dense public networks with nationwide coverage providing X.25 data services to this customer segment (the 'public packet-switched data networks`). There is only one public packet-switched network in each Member State, built by the incumbent TO under a public service obligation before market liberalization.
+2. On the other hand, larger corporate customers and other extended users generate more substantial and regular traffic. Often the requirements of these users make it worthwhile for either third-party service providers or the potential customer itself to assume the high cost of creating customized leased lines circuits (for example, to set up VPNs) to meet individual service demand. This demand is therefore increasingly met either by packet-switched services using protocols other than X.25, notably Frame Relay and ATM (for VPN applications) and IP (for both public and VPN applications) or by switched services (PSTN or ISDN services). Packet-switched data communications services to such users are billed according to negotiated rates that take account of the individual demand features of a particular customer.
+(10) Virtually all companies active in each individual Member State of the European Community are potential if not actual customers for national packet-switched data communications services. Such services are also required by SMEs, albeit in smaller volumes and possibly less regularly than by larger users. Seldom will such volumes make it worthwhile for service providers to invest in leased lines with the specific purpose of reaching these SMEs, which are therefore in a weak negotiating position and hardly capable to date of switching from the current provider, typically the incumbent TO, to a competitor.
+(11) Packet-switched data communications may also be offered as one service in a customized package of corporate services. However, even as part of such an arrangement, packet-switched data communications services are based on mature internationally standardized technology and provided over standard terrestrial infrastructure. At the national level, choice from a wider range of packet-switched data communications offerings than merely X.25 data services is available to larger customers that are not served over the TO's public packet-switched data networks but over customized leased-line circuits. However, most existing customers for packet-switched data communications currently generate annual turnover of far below ECU 10 000 each and are not therefore potential users of customized packages of corporate telecommunications services. Therefore, packet-switched data communications services offered by Atlas constitute a product market separate from the market for customized packages of corporate telecommunications services equally targeted by Atlas.
+2. Geographic markets
+The markets for customized packages of corporate telecommunications services
+(12) Given that cost and price differences are quite substantial, demand for customized packages of corporate telecommunications services exists in at least three distinct geographic markets, namely at a global, at a cross-border regional and at a national level. Atlas will provide such packages to large users Europe-wide and nationally. Through GlobalOne, customized packages of corporate telecommunications services offered by Atlas will also have global 'connectivity` - the technical option of extending a given service offering beyond Europe by linking a customer's premises worldwide over Phoenix 'Global Backbone Network` (11). Given the considerable costs involved, customized packages of corporate telecommunications services are today mainly demanded by large multinational corporations, extended enterprises, as well as major national and other intensive users of telecommunications. The Commission has discussed the requirements of such users in its Decision 94/579/EC (BT-MCI) (12).
+(13) Due to the cost structure of providing customized packages of corporate telecommunications services, notably the cost of leasing the required infrastructure, prices of such services are related to geographic coverage, as is the cost of additional features (for example, one-stop-billing, help-desk and technical assistance around the clock, customized billing). There is evidence that increasing availability of trans-European networks will ultimately blur the distinction between national and cross-border or ultimately Europe-wide provision of non-reserved telecommunications services. However, certain sophisticated national non-reserved services currently available from DT and FT in Germany and France respectively will not be Atlas services, including DT and FT's national data network services based on ATM or equivalent packet-switching technology (Datex-M and Transrel respectively) and the national services mentioned at recital 5. This demonstrates that a distinction between nat
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ices by DT or FT employees). These undertakings may bill DT or FT for products and services supplied to DT or FT by such undertakings at:
+(i) the same price charged third parties in the case of products or services sold to third parties in commercial quantities; or
+(ii) on the basis of the full cost reimbursement or other arm's length pricing method in the case of products and services not sold to third parties in commercial quantities.
+(4) Breaches of the requirements set out in points 1, 2 and 3 shall not be considered to infringe this condition unless such breaches have a substantial impact on the market.
+(f) Bundling
+(1) DT and FT shall sell their services under contracts separate from the contracts for the sale of Atlas services concluded as distributors of Atlas in Germany and France respectively. Each separate contract shall set out the terms and conditions of each individual service sold thereunder and notably attribute any quantity or other discounts to a particular service, as the case may be.
+(2) Breaches of the above requirements shall not be considered to infringe this condition unless such breaches have a substantial impact on the market.
+(g) Accounting
+(1) T-Data, Transpac France (including all their subsidiaries) as well as all entities created pursuant to the Atlas Agreements which are operating in the EEA shall keep separate accounting records using international accounting standards for each service they provide in any country. DT and FT (including all subsidiaries) shall keep separate accounting records using international accounting standards for each service they provide to any entity created pursuant to the Atlas Agreements, operating in the EEA.
+(2) DT and FT shall, within one year of the date defined in Article 1, implement an accounting system which generates sufficiently detailed records of the services covered by point (1). Those records shall detail the following:
+(i) the cost standard used;
+(ii) the accounting conventions used for the treatment of costs;
+(iii) the allocation and attribution of expenses or costs, revenues, assets and liabilities shared between any entity created pursuant to the Atlas Agreements and DT and/or FT; and
+(iv) the attribution method chosen.
+(3) The accounting records referred to in points (1) and (2) shall identify all services provided to any entity created pursuant to the Atlas Agreements by DT and FT or transfers to or from DT and FT.
+(4) No entity created pursuant to the Atlas Agreement, nor T-Data or Transpac France shall receive any material subsidy directly or indirectly from DT or FT, nor any investment or payment from DT or FT that is not recorded in the books of such entities as an investment in debt or equity.
+Article 5
+The exemption granted under this Decision is subject to the following obligations:
+(a) Auditing
+(1) Atlas SA and any consolidated subsidiary of Atlas SA, Transpac France and T-Data shall be audited by an independent external auditor every 12 months, provided that such audit shall certify from an accounting viewpoint that:
+(i) all transactions between those undertakings, on the one hand, and FT and DT, on the other hand, have been conducted at arm's length;
+(ii) the undertakings have adhered to the accounting procedures; and
+(iii) the calculation numbers are accurate.
+(2) The first auditing report and certificate complying with point (1), covering the 12-month period starting on the date on which this Decision takes effect, shall be submitted to the Commission within 15 months of that date.
+(b) Other obligations
+DT, FT, T-Data, Transpac France and all entities created pursuant to the Atlas Agreements shall each, for the purpose of ascertaining and ensuring compliance by these undertakings with the conditions set out in Article 4:
+(1) keep all detailed records and documents necessary to prove complete compliance with the terms of the conditions set out in Article 4 ready for inspection by the Commission and to enable the Commission to verify the correctness of the audit certificate referred to in point (a) (2);
+(2) give the Commission access to their business premises to inspect records and documents covered by the obligations set out under heading (a) and to receive oral explanations relating to such documents on reasonable notice, during office hours, and without the need for the Commission to invoke the powers of inspection pursuant to Regulation No 17; and
+(3) provide the Commission with:
+(i) any records and documents in the possession or control of those undertakings necessary for that determination;
+(ii) unaudited accounting data as specified in points (1) and (2) every six months, starting one year after the commencement date of the exemption pursuant to Article 1; and
+(iii) further oral or written explanations.
+Article 6
+This Decision is addressed to:
+Deutsche Telekom AG,
+Friedrich-Ebert-Allee 140,
+D-53105 BONN;
+France Télécom,
+Place d'Alleray,
+F-75505 PARIS.
+Done at Brussels, 17 July 1996.
+For the Commission
+Karel VAN MIERT
+Member of the Commission
+(1) OJ No 13, 21. 2. 1962, p. 204/62.
+(2) OJ No C 337, 15. 12. 1995, p. 2.
+(3) OJ No C 175, 26. 6. 1993, p. 11.
+(4) OJ No C 184, 18. 7. 1995, p. 11.
+(5) See p. 57 of this Official Journal.
+(6) The parties have submitted that T-Data is the new name of DT's former Datex-P division for the provision of X.25 packet-switched data communications services, incorporated after publication of the Commission notice pursuant to Article 19 (3) of Council Regulation No 17 and Article 3 of Protocol 21 of the European Economic Area Agreement in this case; OJ No C 337, 15. 12. 1995, p. 2 (hereinafter the 'Article 19 (3) notice`).
+(7) See Commission Decision 94/579/EC of 27 July 1994 in Case No IV/34.857 - BT-MCI; OJ No L 223, 27. 8. 1994, p. 36.
+(8) Defined in the seventh indent of Article 1 of Commission Directive 90/388/EEC of 28 June 1990 on competition in the markets for telecommunications services; OJ No L 192, 24. 7. 1990, p. 10, hereinafter 'Services Directive`, as last amended by Directive 96/19/EC; OJ No L 74, 22. 3. 1996, p. 13.
+(9) Commission's Guidelines on the application of Community competition rules in the telecommunications sector, OJ No C 233, 6. 9. 1991, p. 2, at paragraph 27.
+(10) Defined as 'packet- and circuit-switched services` in the ninth indent of Article 1 (1) of the Services Directive - see footnote 8.
+(11) See Phoenix Decision in Case No IV/35.617, at recital 27.
+(12) See footnote 7.
+(13) Notification of a joint venture (Case No IV/35.337 - Atlas), OJ No C 377, 31. 12. 1994, p. 9 and the Article 19 (3) notice (see footnote 6 and recitals et seq.).
+(14) See Commission Decision 94/895/EC of 15 December 1994 (Case No IV/34.768 - International Private Satellite Partners); OJ No L 354, 31. 12. 1994, p. 75.
+(15) Notification of a joint venture (Case No IV/35.830 - Unisource/Telefónica); OJ No C 94, 30. 3. 1996, p. 5.
+(16) Notification of a joint venture (Case No IV/35.738 - Uniworld); OJ No C 276, 21. 10. 1995, p. 9.
+(17) The originally envisaged Strategic Board of Atlas SA, described in the Article 19 (3) notice (footnote 6) at paragraph 20 (b), was deleted from the final Atlas Agreements.
+(18) OJ No L 395, 30. 12. 1989, p. 1 (corrected version in OJ No L 257, 21. 9. 1990, p. 13); as amended by the Act of Accession of Austria, Finland and Sweden.
+(19) Reserved services are services which are provided pursuant to special or exclusive rights granted by the EU Member States to their respective TOs.
+(20) Council Directive 90/387/EEC of 28 June 1990 on the establishment of the internal market for telecommunications services through the implementation of open network provision; OJ No L 192, 24. 7. 1990, p. 1.
+(21) See footnote 2.
+(22) BT-MCI Decision (footnote 7), at recital 41.
+(23) See Commission Decision 93/49/EEC of 23 December 1992 - Ford/Volkswagen, OJ No L 20, 28. 1. 1993, p. 14, at recitals 18 to 21; Decision 94/322/EC of 18 May 1994 - Exxon/Shell, OJ No L 144, 9. 6. 1994, p. 20, at recitals 42 et seq.; and Decision 94/896/EC of 16 December 1994 - Asahi/Saint Gobain, OJ No L 354, 31. 12. 1994, p. 87, at recitals 16 to 22.
+(24) Footnote 9, at paragraph 39.
+(25) See notice published in OJ No C 276, 21. 10. 1995, p. 9.
+(26) Commission Directive 96/19/EC of 13. 3. 1996 amending Directive 90/388/EEC with regard to the implementation of full competition in the telecommunications markets; OJ No L 74, 22. 3. 1996, p. 13.
+(27) In addition to BT-MCI's Concert (footnote 7), the Commission has granted regulatory approval in Case No IV/M.595 - BT/VIAG, OJ No C 15, 20. 1. 1996, p. 4; Case No IV/M.618 - Cable & Wireless/VEBA, OJ No 23, 5. 9. 1995, p. 3, and Case No IV/M.689 - ADSB/Belgacom (Decision of 29 February 1996; OJ No C 194, 5. 7. 1996, p. 4).
+(28) Major digital protocol/signalling system for managing and transmitting control and routing information in networks.
+(29) The Commission has decided similarly in previous cases featuring similar market structures and problems, e.g. Decision 93/403/EEC of 11 June 1993 - EBU/Eurovision System, OJ No L 179, 22. 7. 1993, p. 23, at recital 82; Decision 94/594/EC of 27 July 1994 - ACI, OJ No L 224, 30. 8. 1994, p. 28, at recital 66; and Decision 94/663/EC of 21 September 1994 - Night Services, OJ No L 259, 7. 10. 1994, p. 20, at recitals 80 and 82.
+(30) Articles 7 and 10 of Council Directive 92/44/EC of 5 June 1992 on the application of open network provision to leased lines, OJ No L 165, 19. 6. 1992, p. 27.
+(31) See Articles 6 and 7 of the modified proposal for a European Parliament and Council Directive on interconnection in telecommunications with regard to ensuring universal service and interoperability through application of the principles of open network provision (ONP), OJ No C 178, 21. 6. 1996, p. 3.
+(32) See Commission notice on cooperation between national courts and the Commission in applying Articles 85 and 86 of the EEC Treaty, OJ No C 39, 13. 2. 1993, p. 6.
+(33) Business secret.
+(34) Business secret.
+(35) Business secret.

@@ -1,0 +1,457 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMISIÓN DE LAS COMUNIDADES EUROPEAS
+
+DECISIÓN DE LA COMISIÓN
+
+de 04.07.2007
+
+relativa a un procedimiento de conformidad con el artículo 82 del Tratado CE
+
+(Asunto COMP/38.784 - Wanadoo España contra Telefónica)
+
+(EL TEXTO EN LENGUA ESPAÑOLA ES EL ÚNICO AUTÉNTICO)
+
+ES 1 ES
+
+DECISIÓN DE LA COMISIÓN
+
+de 04.07.2007
+
+relativa a un procedimiento de conformidad con el artículo 82 del Tratado CE
+
+(Asunto COMP/38.784 - Wanadoo España contra Telefónica)
+
+(EL TEXTO EN LENGUA ESPAÑOLA ES EL ÚNICO AUTÉNTICO)
+
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS,
+
+Visto el Tratado constitutivo de la Comunidad Europea,
+
+Visto el Reglamento (CE) n° 1/2003 del Consejo, de 16 de diciembre de 2002, relativo
+a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del
+Tratado1, y, en particular, el apartado 2 de su artículo 23,
+
+Vista la denuncia presentada por Wanadoo España S.L. (en la actualidad, France
+Télécom España S.A.) el 11 de julio de 2003, en relación con una presunta infracción
+del artículo 82 del Tratado por parte de Telefónica S.A., en la que solicitaba además a
+la Comisión que pusiese fin a la infracción,
+
+Vista la Decisión de la Comisión de 20 de febrero de 2006 de iniciar el procedimiento
+en el asunto COMP/38.784,
+
+Habiendo ofrecido a las empresas implicadas la oportunidad de dar a conocer sus
+puntos de vista en relación con los cargos formulados por la Comisión, con arreglo al
+apartado 1 del artículo 19 del Reglamento n° 172 y al Reglamento (CE) n° 2842/98 de
+la Comisión, de 22 de diciembre de 1998, relativo a las audiencias en determinados
+procedimientos en aplicación de los artículos 85 y 86 del Tratado CE3,
+
+Visto el informe final del consejero auditor en el presente asunto,
+
+Previa consulta al Comité consultivo en materia de prácticas restrictivas y de
+posiciones dominantes,
+
+Considerando lo siguiente:
+
+1 DO L 1 de 4.1.2003, p. 1.
+2 DO 13 de 21.2.1962, p. 204/62. Reglamento cuya última modificación la constituye el
+Reglamento (CE) n° 1216/1999 (DO L 148 de 15.6.1999, p. 5).
+3 DO L 354 de 30.12.1998, p. 18.
+
+ES 2 ES
+
+I. INTRODUCCIÓN
+
+(1) El acceso de banda ancha a Internet es un elemento clave de la sociedad de la
+información. La principal tecnología utilizada en España para proporcionar
+servicios de acceso de banda ancha a Internet es el ADSL (línea de abonado
+digital asimétrica), que proporciona acceso de alta velocidad a Internet
+utilizando una línea telefónica. Telefónica, el operador incumbente o histórico,
+es el único operador español de telecomunicaciones que tiene una red telefónica
+fija a nivel nacional. Telefónica desarrolló esta red de acceso local durante un
+amplio periodo de tiempo al amparo de sus derechos exclusivos y pudo
+financiar los costes de inversión gracias a los ingresos obtenidos del monopolio
+que ostentaba en el suministro de infraestructura y servicios de telefonía fija
+vocal.
+
+(2) Para proporcionar a los usuarios finales acceso de banda ancha a Internet, los
+competidores de Telefónica tienen básicamente dos posibilidades:
+
+(3) Primero, pueden construir una red de acceso local alternativa: esta opción, que
+requiere un tiempo considerable y enormes inversiones, no es económicamente
+viable. En segundo lugar, pueden contratar una oferta mayorista de acceso de
+banda ancha. Los competidores disponen de tres tipos principales de servicios
+mayoristas de acceso de banda ancha, de los cuales dos los proporciona
+exclusivamente Telefónica y uno lo proporcionan tanto Telefónica como los
+operadores competidores. Sin embargo, estos últimos dependen de Telefónica
+para los insumos necesarios para proporcionar este tercer tipo de producto
+mayorista.
+
+(4) El papel central de Telefónica en la prestación de todos los servicios de acceso
+de banda ancha mayorista disponibles en España y su presencia en el mercado
+minorista de acceso de banda ancha le han permitido controlar e influir en los
+precios del mercado, la producción, la innovación, la variedad y la calidad de
+servicios en el mercado durante un importante periodo de tiempo.
+
+(5) El 11 de julio de 2003, Wanadoo España S.L. (ahora France Télécom España
+S.A.) presentó a la Comisión Europea («la Comisión») una denuncia contra
+Telefónica, alegando que el margen entre los precios mayoristas que las filiales
+de Telefónica cobran a sus competidores por el acceso de banda ancha
+mayorista en España y los precios minoristas que cobran a los usuarios finales
+no es suficiente para que los competidores de Telefónica puedan competir en el
+mercado minorista de banda ancha.
+
+ES 3 ES
+
+(6) Más adelante, después de haber identificado el tipo y el desarrollo en el tiempo
+de los servicios a los que se refiere la Decisión así como la regulación aplicable
+a los mismos (véase Sección IV), la Comisión ha identificado dos mercados
+mayoristas de referencia: el mercado de banda ancha mayorista a nivel regional
+y el mercado de banda ancha mayorista a nivel nacional. Telefónica es
+dominante en los dos mercados. La Comisión también ha identificado un
+mercado minorista de referencia, que comprende todos los productos estándar
+de banda ancha, bien sean provistos a través de ADSL o cualquier otra
+tecnología, y comercializados en el "mercado de masas" para usuarios
+residenciales y no residenciales. Aunque la jurisprudencia no requiera el
+establecimiento de la posición dominante de Telefónica en el mercado
+minorista, la Comisión ha completado su análisis con el establecimiento de
+dicha posición dominante (véase Sección V)).
+
+(7) A continuación, la Comisión ha comprobado que, entre septiembre de 2001 y
+diciembre de 2006, el margen entre los precios minoristas de Telefónica y el
+precio de acceso mayorista a nivel regional, por un lado, y el de acceso
+mayorista a nivel nacional, por otro, era insuficiente para cubrir los costes que
+un operador tan eficiente como Telefónica tendría que soportar (véase Sección
+VI.D). Este hallazgo no depende del método de rentabilidad elegido: ambos, el
+llamado método periodo a periodo y el método de los flujos de caja descontados
+("FCD") llevan a la misma conclusión, a saber, que Telefónica ha impuesto un
+estrechamiento de márgenes a sus competidores.
+
+(8) El estrechamiento de márgenes podía excluir la competencia en el mercado
+minorista y perjudicar a los consumidores (véase Sección VI.E). La conducta de
+Telefónica no tiene ninguna justificación objetiva ni puede defenderse en aras
+de la eficiencia (véase Sección VI.F). Asimismo, la regulación existente no ha
+impedido a Telefónica reestructurar sus precios para poner fin al estrechamiento
+de márgenes (véase Sección VI.G).
+
+(9) El comportamiento de Telefónica constituye un abuso de posición dominante
+que consiste en la fijación de precios no equitativos en forma de estrechamiento
+de márgenes contrario al artículo 82 del Tratado. El abuso ha durado cinco años
+y cuatro meses, a saber, desde septiembre del 2001 hasta diciembre de 2006.
+
+(10) El objeto de este procedimiento es el comportamiento de Telefónica en forma
+de estrechamiento de márgenes, pero no se excluye que Telefónica haya
+participado en otras conductas abusivas en el mercado español de banda ancha.
+
+ES 4 ES
+
+II. PARTES EN EL PROCEDIMIENTO
+
+A. Destinatarios de la Decisión
+
+(11) La presente Decisión está dirigida a Telefónica S.A. (“Telefónica”) y a su filial
+al 100% Telefónica de España, S.A.U (“TESAU”). También concierne al
+comportamiento de sus filiales, Telefónica Data de España, S.A.U (“TDATA”)
+y Terra Networks España S.A. (“TERRA”), que se fusionaron con TESAU el
+30 de junio de 2006 y el 7 de julio de 2006 respectivamente (véase más
+adelante).
+
+(12) Telefónica S.A., TESAU, TERRA y TDATA han formado una única entidad
+económica durante el periodo de investigación (véase Sección VIII ).
+
+(13) Telefónica S.A. es la sociedad matriz del grupo Telefónica, antiguo monopolio
+estatal de telecomunicaciones de España. Antes de la plena liberalización de los
+mercados de las telecomunicaciones en 1998, Telefónica era propiedad del
+Estado español y disfrutaba de un monopolio legal para la prestación minorista
+de servicios de telecomunicaciones de línea fija. Actualmente, explota la única
+red con dimensión nacional de telefonía fija de España.
+
+(14) El grupo Telefónica tiene una presencia fuerte no sólo en España sino también
+en Iberoamérica, donde opera en trece países. Está también presente en otros
+Estados miembros de la Comunidad, en especial en la República Checa,
+Alemania, Irlanda, Eslovaquia y Reino Unido.
+
+(15) Los ingresos mundiales del grupo Telefónica ascendieron a 52 900 millones de
+euros en 20064.
+
+(16) Telefónica es la mayor empresa de telecomunicaciones en España y ocupa
+posiciones de liderazgo en casi todos los mercados de las telecomunicaciones.
+La importancia de Telefónica como grupo se refleja en que en 2005 generó el
+52% de todos los ingresos del sector español de las telecomunicaciones5.
+
+(17) En 2005, Telefónica tenía una cuota de mercado (en términos de ingresos) de
+78,6% en telefonía fija6 y 52% en telefonía móvil7. Debido a su amplia red y a
+su posición aventajada en el mercado como operador incumbente, Telefónica
+tiene cuotas de mercado muy importantes en líneas alquiladas, acceso de banda
+ancha mayorista8 y otras ventas de capacidad de red.
+
+4 Informe trimestral de Telefónica, diciembre 2006, p. 7.
+5 Informe Anual de la Comisión del Mercado de las Telecomunicaciones - 2005 - («CMT»), la
+autoridad nacional de reglamentación de las telecomunicaciones de España.
+6 Informe de la CMT 2005, p. 304.
+7 Informe de la CMT 2005, p. 74.
+8 Véase Sección V.C .
+
+ES 5 ES
+
+(18) Telefónica está actualmente presente en los mercados españoles de banda ancha
+a través de TESAU, una filial propiedad de Telefónica al 100% cuya actividad
+fundamental es la operación de servicios de telefonía fija y de banda ancha en
+España. TESAU es un operador integrado verticalmente que proporciona
+servicios de banda ancha mayorista desde 1999 y servicios de banda ancha
+minorista desde 2001.
+
+(19) Durante el periodo investigado en la presente Decisión, Telefónica ha
+proporcionado servicios de banda ancha a través de otras dos filiales:
+
+(20) Hasta el 30 de junio de 2006, TDATA fue una filial propiedad al 100% de
+Telefónica que prestaba servicios de comunicación de datos y de soporte de
+Internet para empresas multinacionales. TDATA proporciona servicios de
+acceso de banda ancha mayorista a proveedores de servicios de Internet
+alternativos («PSI») y servicios de acceso de banda ancha minorista a las
+empresas. El 30 de junio de 2006, TESAU y TDATA se fusionaron y desde
+entonces constituyen una entidad jurídica (TESAU).
+
+(21) TERRA fue una filial propiedad al 100% de Terra Networks S.A, que es un PSI
+y un portal presente en 43 países, propiedad a su vez al 100% de Telefónica,
+tras ser adquirida por ésta en julio de 20059. TERRA proporciona servicios de
+acceso de banda ancha minorista a usuarios finales en España desde 1999. El 7
+de julio de 2006, TESAU y TERRA se fusionaron y constituyen desde entonces
+una entidad jurídica (TESAU). Como resultado de ello, todas las actividades de
+Telefónica en el ámbito de la banda ancha están ahora agrupadas dentro de
+TESAU.
+
+(22) El negocio de Internet de banda ancha de Telefónica en España generó ingresos
+de 2 300 millones de euros en el 2006.10
+
+(23) En lo sucesivo, el término «Telefónica» hará referencia no sólo a la sociedad
+matriz del grupo Telefónica, sino también a la entidad económica formada por
+ésta, TESAU, TERRA y TDATA.
+
+B. Denunciante
+
+(24) El denunciante es France Télécom España S.A, un operador de
+telecomunicaciones fijas y móviles en España. France Télécom España S.A. es
+propiedad al 100 % del operador incumbente francés de servicios de
+telecomunicaciones, France Télécom.
+
+(25) En 2002, el grupo France Télécom adquirió Eresmas Interactiva S.A.
+(«eresMas»), que era un PSI proveedor de portales en España. EresMas y
+Wanadoo España S.L. se fusionaron en el último trimestre de 2002.
+
+9 TERRA era propiedad de Telefónica S.A. al 76 % hasta julio de 2005 y al 38 % hasta julio de
+2003. (véase Sección VIII.B )
+10 Informe trimestral de Telefónica de diciembre2006, p. 20.
+
+ES 6 ES
+
+III. PROCEDIMIENTO
+
+(26) El 11 de julio de 2003, France Télécom España S.A. («France Télécom»)
+presentó a la Comisión una denuncia contra Telefónica. El cargo principal de la
+denuncia era que el margen entre los precios mayoristas que las filiales de
+Telefónica cobran a sus competidores por el acceso de banda ancha mayorista
+en España y los precios minoristas que cobran a los usuarios finales, no es
+suficiente para que los competidores de Telefónica puedan competir con ella en
+el suministro de acceso a Internet de banda ancha a usuarios finales.
+
+(27) La investigación que dio lugar a la presente Decisión, se inició a raíz de la
+denuncia de France Télécom (asunto COMP/C -1/38.784). La Comisión envió
+posteriormente varias solicitudes de información para completar la información
+facilitada por el denunciante. Tras una investigación exhaustiva de la denuncia
+y de la información adicional obtenida, el 22 de febrero de 2006 la Comisión
+envió un Pliego de Cargos ("PC") a Telefónica y le dio la oportunidad de
+presentar observaciones respecto a las conclusiones preliminares de hecho y de
+Derecho. El PC se centra ba en los precios no equitativos que vulneraban el
+artículo 82 del Tratado y, en especial, en las prácticas de estrechamiento de
+márgenes. Telefónica respondió al PC el 19 de mayo de 2006 («la
+Contestación»).
+
+(28) Durante el procedimiento se ha admitido como terceros interesados a varias
+empresas y asociaciones de empresas, entre ellas los principales competidores
+de Telefónica. Se trata, entre otros, de Tele2, ONO, Jazztel y Astel.
+
+(29) Se concedió a Telefónica acceso al expediente en dos ocasiones (el 22 de
+febrero de 2006, tras la notificación del PC, y el 7 de abril de 2006)
+
+(30) Los días 12 y 13 de junio de 2006 se celebró una vista oral a petición de
+Telefónica. Se dio a Telefónica, al denunciante y a los terceros interesados la
+oportunidad de ser oídos y de presentar comentarios sobre las cuestiones
+planteadas por la Comisión en su PC. Después de la audiencia oral, los servicios
+de la Comisión enviaron nuevas solicitudes de información a Telefónica en un
+afán de obtener una mayor claridad sobre los hechos.
+
+(31) El 11 de enero de 2007, la Comisión envió a Telefónica una carta («carta
+factual») invitándola a presentar comentarios sobre las conclusiones que la
+Comisión pensaba obtener a partir de nuevos elementos no mencionados en el
+PC. Telefónica contestó a esta carta el 12 de febrero de 2007.
+
+ES 7 ES
+
+IV. SERVICIOS CONTEMPLADOS EN LA DECISIÓN
+
+A. Acceso de banda ancha a Internet
+
+1 Introducción
+
+(32) Internet es una serie de redes informáticas interconectadas. Conectados a
+Internet, los usuarios gozan de servicios como el correo electrónico, la
+navegación por la red, el soporte de páginas web y la mensajería instantánea.
+Los proveedores de servicios de Internet («PSI») permiten a sus usuarios
+conectarse a Internet proporcionándoles u
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ Las cifras se han extraído directamente del Cuadro de mando ADSL de Telefónica (véase la nota a pie de
+página 385).
+ES 253 ES
+
+ÍNDICE
+
+I. INTRODUCCIÓN ....................................................................................................3
+
+II. PARTES EN EL PROCEDIMIENTO.....................................................................5
+
+A. DESTINATARIOS DE LA DECISION..............................................................................5
+
+B. DENUNCIANTE.........................................................................................................6
+
+III. PROCEDIMIENTO .................................................................................................7
+
+IV. SERVICIOS CONTEMPLADOS EN LA DECISIÓN............................................8
+
+A. ACCESO DE BANDA ANCHA A INTERNET....................................................................8
+1 Introducción............................................................................................................8
+2 Acceso de banda ancha a Internet en España..........................................................8
+3 Línea digital de abonado (DSL) ..............................................................................9
+4 Cable-módem........................................................................................................10
+5 Otras tecnologías..................................................................................................11
+
+B. EL MERCADO DE MASAS DE ACCESO MINORISTA DE BANDA ANCHA A INTERNET.......11
+1 Principales proveedores de servicios de Internet («PSI»)......................................11
+2 La oferta de banda ancha minorista en España.....................................................12
+
+C. ACCESO DE BANDA ANCHA MAYORISTA..................................................................20
+1 Introducción..........................................................................................................20
+2 Descripción de los principales productos de banda ancha mayorista en España...21
+3 Evolución del uso de los productos mayorista antes descritos ...............................29
+
+D. REGULACION DE LOS SERVICIOS AFECTADOS POR LA DECISION................................30
+1 Regulación de los precios de los servicios de banda ancha minorista....................30
+2 Regulación de los precios de los servicios de banda ancha mayorista...................32
+
+E. EVOLUCION DE LOS PRECIOS MAYORISTAS DE TELEFONICA DESDE SEPTIEMBRE DE 2001
+37
+
+F. DISPONIBILIDAD DE LA DESAGREGACION DEL BUCLE LOCAL DESDE 2001.................40
+
+V. ESTABLECIMIENTO DE LA POSICIÓN DOMINANTE .................................45
+
+A. MERCADOS DE PRODUCTOS O SERVICIOS DE REFERENCIA ........................................45
+1 Introducción..........................................................................................................45
+2 El mercado minorista de referencia ......................................................................46
+3 Los mercados mayoristas de referencia.................................................................50
+
+B. MERCADO GEOGRAFICO DE REFERENCIA.................................................................65
+
+C. LA POSICION DOMINANTE DE TELEFONICA..............................................................67
+1 Posición dominante en el mercado mayorista regional..........................................67
+2 Posición dominante en el mercado mayorista nacional .........................................70
+3 Posición dominante en el mercado minorista ........................................................74
+
+VI. EL ABUSO..............................................................................................................86
+
+A. INTRODUCCION......................................................................................................86
+
+B. EL CONTEXTO REGULATORIO EN EL QUE TELEFONICA HA SUMINISTRADO ACCESO
+MAYORISTA A NIVEL REGIONAL Y NACIONAL......................................................................89
+
+ES 254 ES
+
+C. METODO DE ANALISIS DE ESTRECHAMIENTO DE MARGENES.....................................96
+1 Evaluación de la rentabilidad sobre la base de los costes descendentes de la empresa
+dominante – el análisis del «competidor igualmente eficiente» .....................................96
+2 Estándar de costes adecuado: costes incrementales medios a largo plazo (LRAIC)99
+3 Método adecuado para evaluar la rentabilidad a plazo.......................................102
+4 El insumo descendente para analizar la replicabilidad de los productos descendentes de
+Telefónica...................................................................................................................119
+5 Insumo ascendente al evaluar la posibilidad de replicar los productos descendentes de
+Telefónica...................................................................................................................120
+
+D. CALCULO DEL ESTRECHAMIENTO DE MARGENES ...................................................122
+1 Evaluación de los ingresos y costes incrementales en sentido descendente de Telefónica
+122
+2 Resultados del análisis de estrechamiento de márgenes ......................................162
+3 Conclusión general sobre la existencia de un estrechamiento de márgenes.........177
+
+E. IMPACTO EN LA COMPETENCIA .............................................................................178
+1 El impacto probable del comportamiento de Telefónica en los mercados pertinentes y en
+los consumidores ........................................................................................................178
+2 El impacto de la conducta de Telefónica en los mercados pertinentes: prueba empíricas
+182
+3 El estrechamiento de márgenes ha sido una estrategia racional y rentable para
+Telefónica...................................................................................................................200
+4 Conclusión relativa al efecto sobre la competencia y los consumidores...............201
+
+F. JUSTIFICACION OBJETIVA Y EFICIENCIAS...............................................................202
+1 Introducción........................................................................................................202
+2 No existe justificación objetiva por razones de necesidad objetiva ......................202
+3 Argumento de la reacción ante la competencia ...................................................208
+4 Argumento de la eficiencia..................................................................................209
+5 La obligación de Telefónica de proporcionar acceso mayorista a sus competidores
+significa que su comportamiento no puede justificarse objetivamente .........................212
+6 Conclusión sobre los argumentos de justificación objetiva y eficiencias..............213
+
+G. AUTONOMIA PARA EVITAR EL ESTRECHAMIENTO DE MARGENES ............................213
+1 Autonomía de Telefónica para fijar el nivel de los precios ..................................213
+2 Las resoluciones de la CMT en materia de estrechamiento de márgenes no eximen a
+Telefónica de la aplicación del artículo 82 del Tratado ..............................................215
+
+H. CONCLUSIONES EN CUANTO AL ABUSO..................................................................218
+
+VII. EFECTOS SOBRE EL COMERCIO ENTRE ESTADOS MIEMBROS ..........221
+
+VIII. RESPONSABILIDAD POR INFRACCIÓN Y DESTINATARIOS DE LA
+DECISIÓN........................................................................................................................222
+
+A. LA JURISPRUDENCIA SOBRE LA DESIGNACION DE LA ENTIDAD RESPONSABLE..........222
+
+B. RESPONSABILIDAD POR LA INFRACCION................................................................223
+
+IX. IMPOSICIÓN DE UNA MULTA ........................................................................225
+
+A. APARTADO 2 DEL ARTICULO 15 DEL REGLAMENTO No 17 Y APARTADO 2 DEL ARTICULO 23
+DEL REGLAMENTO (CE) No 1/2003...................................................................................225
+1 Intencionalidad o negligencia .............................................................................226
+
+ES 255 ES
+
+2 La infracción de Telefónica es un abuso característico, para el cual existen precedentes
+233
+
+B. IMPORTE DE BASE DE LA MULTA ...........................................................................236
+1 Gravedad de la infracción...................................................................................236
+3 Duración.............................................................................................................240
+
+C. CIRCUNSTANCIAS ATENUANTES............................................................................240
+
+D. CONCLUSION .......................................................................................................241
+
+ANEXOS...........................................................................................................................243
+
+I. EL MERCADO DE MASAS MINORISTA DE BANDA ANCHA .........................................243
+
+II. COSTES DE TELEFONICA.......................................................................................244
+1 Volúmenes minoristas de TESAU y TERRA .........................................................244
+2 Costes de la red IP..............................................................................................246
+
+3 COSTES NETOS DE CAPTACION..............................................................................247
+
+III. CALCULO DEL VALOR TERMINAL EN EL ANALISIS DE LOS FLUJOS DE CAJA DESCONTADOS
+(FCD) 248
+1 El modelo FCD retrospectivo..............................................................................248
+2 El modelo FCD prospectivo. ...............................................................................252
+
+IV. LA VIDA MEDIA DE LOS ABONADOS DE TELEFONICA..............................................253
+
+ES 256 ES

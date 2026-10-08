@@ -1,0 +1,236 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XC1004(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XC1004(01)
+Help
+Print
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the functioning of the European Union and Article 54 of the EEA Agreement — (Case AT.39939 — Samsung — Enforcement of UMTS standard essential patents) ( notified under document number C(2014) 2891 final )
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the functioning of the European Union and Article 54 of the EEA Agreement — (Case AT.39939 — Samsung — Enforcement of UMTS standard essential patents) ( notified under document number C(2014) 2891 final )
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the functioning of the European Union and Article 54 of the EEA Agreement — (Case AT.39939 — Samsung — Enforcement of UMTS standard essential patents) ( notified under document number C(2014) 2891 final )
+OJ C 350, 4.10.2014, pp. 8–10
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+4.10.2014
+EN
+Official Journal of the European Union
+C 350/8
+Summary of Commission Decision
+of 29 April 2014
+relating to a proceeding under Article 102 of the Treaty on the functioning of the European Union and Article 54 of the EEA Agreement
+(Case AT.39939 — Samsung — Enforcement of UMTS standard essential patents)
+(notified under document number C(2014) 2891 final)
+(Only the English text is authentic)
+(2014/C 350/08)
+On 29 April 2014, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+Introduction
+(1)
+The decision pursuant to Article 9 of Regulation (EC) No 1/2003 (‘the Decision’) is addressed to Samsung Electronics Co., Ltd, Samsung Electronics France, Samsung Electronics GmbH, Samsung Electronics Holding GmbH and Samsung Electronics Italia SpA (collectively ‘Samsung’). Samsung offered commitments in order to address the competition concerns related to Samsung’s seeking of preliminary (interlocutory) and permanent injunctions against Apple Inc. (‘Apple’) before the courts of various Member States on the basis of its UMTS
+(
+2
+)
+standard essential patents (‘SEPs’) which it has committed to license on fair, reasonable and non-discriminatory (‘FRAND’) terms during the standard-setting process in the European Telecommunications Standards Institute (‘ETSI’). The Decision makes these commitments legally binding on Samsung.
+2.
+Procedure
+(2)
+On 30 January 2012, the Commission initiated proceedings against Samsung. On 21 December 2012, the Commission adopted a Statement of Objections setting out the Commission’s competition concerns. The Statement of Objections constitutes a preliminary assessment for the purposes of Article 9(1) of Regulation (EC) No 1/2003.
+(3)
+On 27 September 2013, Samsung offered initial commitments to meet the concerns expressed to it by the Commission.
+(4)
+On 18 October 2013, a notice was published in the
+Official Journal of the European Union
+pursuant to Article 27(4) of Regulation (EC) No 1/2003
+(
+3
+)
+, summarising the case and the initial commitments, and inviting interested third parties to submit their observations.
+(5)
+On 3 February 2014, Samsung offered revised commitments (‘the commitments’).
+(6)
+On 28 April 2014, the Advisory Committee on Restrictive Practices and Dominant Positions was consulted. On the same date, the Hearing Officer issued his final report.
+3.
+Facts
+(7)
+Standards ensure compatibility and interoperability of telecom networks and mobile devices. Mobile devices typically implement a large number of telecommunication standards (such as the so-called third generation or ‘3G’ (UMTS) standard). These standards make reference to thousands of technologies, many of which are protected by patents.
+(8)
+Patents that are essential to a standard are those that cover technology to which a standard makes reference and that implementers of the standard cannot avoid using in standard-compliant products. These patents are known as SEPs. SEPs are different from patents that are not essential to a standard (‘non-SEPs’). This is because it is normally technically possible for an implementer to design around a non-SEP without sacrificing key functionality. By contrast, an implementer has to use the technology protected by a SEP when manufacturing a standard-compliant product. SEPs can therefore be of great value to their holders. A SEP holder can expect a substantial revenue stream, in particular for SEPs covering standards that are destined to be implemented in numerous products sold to millions of consumers. Once a particular technology has been chosen and incorporated into a widespread standard, alternative competing technologies may disappear from the market.
+(9)
+ETSI is one of the three European Standardisation Organisations. ETSI is officially responsible for producing standards and specifications supporting EU and EFTA policies and enabling an internal market in telecommunications.
+(10)
+The rules of ETSI impose two main obligations on companies participating in the standard-setting process: (i) to inform ETSI of their essential intellectual property rights (‘IP’) in a timely fashion before the adoption of the standard, and (ii) to give a commitment to make their IP available on FRAND terms and conditions.
+(11)
+In December 1998, Samsung committed to license its UMTS SEPs on FRAND terms and conditions. When contributing its technology to the UMTS standard, Samsung therefore agreed to: (i) license its UMTS SEPs; and (ii) license them on FRAND terms and conditions. Samsung therefore expects to obtain remuneration for its UMTS SEPs by means of licensing revenue rather than using these patents to seek to exclude others.
+(12)
+From 21 April 2011 onwards, Samsung sought preliminary and permanent injunctions against Apple before courts in France, Germany, Italy, the Netherlands and the United Kingdom, on the basis of certain of its UMTS SEPs. Samsung maintained its injunction actions in the EEA until December 2012, when it announced unilaterally the withdrawal of these actions.
+(13)
+The Commission preliminarily concluded that Samsung’s seeking of preliminary and permanent injunctions against Apple on the basis of its UMTS SEPs, in view of the exceptional circumstances of the case and in the absence of any objective justification, raised concerns as to the compatibility of the seeking of such injunctions with Article 102 TFEU. The exceptional circumstances in this case are the UMTS standard-setting process and Samsung’s commitment to license its UMTS SEPs on FRAND terms and conditions. The absence of objective justification relates in particular to the fact that the potential licensee, Apple, was not unwilling to enter into a licence agreement for Samsung’s UMTS SEPs on FRAND terms and conditions.
+4.
+Commitments
+(14)
+In order to meet the concerns expressed to it by the Commission, Samsung offered commitments pursuant to Article 9(1) of Regulation (EC) No 1/2003.
+(15)
+Samsung commits not to seek injunctions before any court or tribunal in the European Economic Area (‘EEA’) for infringement of its SEPs (including all existing and future patents) implemented in smartphones and tablets (‘Mobile SEPs’) against a potential licensee that agrees to, and complies with, a particular licensing framework (‘Licensing Framework’) for the determination of FRAND terms and conditions. The Licensing Framework encompasses either a unilateral licensing agreement covering Samsung’s Mobile SEPs or, if either Samsung or the potential licensee so requests, a cross-licensing agreement covering both Samsung’s Mobile SEPs and certain of the potential licensee’s Mobile SEPs.
+(16)
+The Licensing Framework consists of: (i) a negotiation period of up to 12 months; and (ii) a third party determination of FRAND terms and conditions in the event that no licensing agreement or alternative process for determining FRAND terms and conditions has been agreed upon at the end of the negotiation period. The third party determination of FRAND terms and conditions will consist of the submission of the dispute to arbitration or to court adjudication in order to determine the FRAND terms and conditions of either a unilateral licensing or cross-licensing agreement. In case of disagreement between Samsung and a potential licensee about the venue for the determination of FRAND terms and conditions, the dispute would be submitted to court adjudication.
+(17)
+The Licensing Framework is set out in two annexed ‘invitations to negotiate’ that constitute an integral part of the commitments and form the contractual basis for the application of the commitments between Samsung and a potential licensee.
+(18)
+The duration of the commitments will be five years from the date on which Samsung receives formal notification of the Decision. Samsung will also appoint a trustee who will monitor its compliance with the commitments.
+(19)
+The commitments address the competition concerns expressed in the Statement of Objections adequately as they will ensure that Samsung will not be able to seek injunctions on the basis of its Mobile SEPs against any potential licensee willing to enter into a licence agreement on FRAND terms and conditions. The commitments therefore provide for a ‘safe-harbour’ available to all potential licensees of Samsung’s Mobile SEPs that submit to the Licensing Framework provided for by the commitments.
+(20)
+A potential licensee can also choose not to sign up to the Licensing Framework. In such a case, the potential licensee cannot be automatically regarded as unwilling to enter into a licence agreement on FRAND terms and conditions. Rather, the court or tribunal called upon by Samsung to grant injunctive relief would need to evaluate all the circumstances of the case at hand in order to decide whether a potential licensee is indeed unwilling to enter into an agreement on FRAND terms and conditions.
+5.
+Conclusions
+(21)
+In the light of the commitments offered by Samsung, the Decision considers that there are no longer grounds for action and that, without prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought to an end.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+Universal Mobile Telecommunications System (UMTS).
+(
+3
+)
+OJ C 302, 18.10.2013, p. 14
+.
+Top

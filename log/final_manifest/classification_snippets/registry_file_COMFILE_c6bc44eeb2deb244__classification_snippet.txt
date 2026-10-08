@@ -1,0 +1,415 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+Decision - 2003/207 - EN - EUR-Lex
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 32003D0207
+Help
+Print
+2003/207/EC: Commission Decision of 24 July 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty (Case COMP/E-3/36.700 — Industrial and medical gases) (notified under document number C(2002) 2782)
+2003/207/EC: Commission Decision of 24 July 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty (Case COMP/E-3/36.700 — Industrial and medical gases) (notified under document number C(2002) 2782)
+2003/207/EC: Commission Decision of 24 July 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty (Case COMP/E-3/36.700 — Industrial and medical gases) (notified under document number C(2002) 2782)
+OJ L 84, 1.4.2003, pp. 1–55
+(ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
+In force: This act has been changed.
+Current consolidated version:
+17/05/2003
+ELI:
+http://data.europa.eu/eli/dec/2003/207/oj
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+Avis juridique important
+|
+32003D0207
+2003/207/EC: Commission Decision of 24 July 2002 relating to a proceeding pursuant to Article 81 of the EC Treaty (Case COMP/E-3/36.700 — Industrial and medical gases) (notified under document number C(2002) 2782)
+Official Journal L 084 , 01/04/2003 P. 0001 - 0055
+Commission Decision
+of 24 July 2002
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+(Case COMP/E-3/36.700 - Industrial and medical gases)
+(notified under document number C(2002) 2782)
+(Only the English and Dutch texts are authentic)
+(2003/207/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty(1) as last amended by Regulation (EC) No 1216/1999(2), and in particular Articles 3 and 15(2) thereof,
+Having regard to the Commission Decision of 9 July 2001 to open a proceeding in this case,
+Having given the undertakings concerned the opportunity to make known their views on the objections raised by the Commission pursuant to Article 19(1) of Regulation No 17 and Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in certain proceedings under Articles 85 and 86 of the EC Treaty(3),
+Having regard to the final report of the hearing officer in this case(4),
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Whereas:
+PART I - FACTS
+A. SUMMARY OF THE INFRINGEMENT
+1. INTRODUCTION
+(1) This decision concerns the following undertakings:
+- AGA AB,
+- Air Liquide BV,
+- Air Products Nederland BV,
+- BOC Group Plc.,
+- Messer Nederland BV,
+- NV Hoek Loos,
+- Westfalen Gassen Nederland BV.
+(2) The infringements consist of the participation of those producers of gases for industrial and medical purposes in a continuous agreement and/or concerted practice contrary to Article 81(1) of the Treaty. The companies concerned took part in agreements/concerted practices regarding price increases for the products concerned, moratoria to implement these price increases, minimum prices and various other trading conditions concerning these products. The undertakings involved belong to some of the world's leading industrial gases groups. The infringements are limited to the industrial and medical gases market in the Netherlands.
+(3) The Commission has evidence that the undertakings participated in the infringements from 1989 until 1991 and from 1993 until 1997 in the case of AGA Gas BV, Air Liquide BV, Air Products Europe Inc. and NV Hoek Loos, in 1990/91 and from 1993 until 1997 in the case of Messer Nederland BV, from 1994/95 to 1997 in the case of Westfalen Gassen Nederland BV and in 1994/95 in the case of BOC Group plc.
+2. THE PRODUCTS
+(4) Industrial gases, in some languages called technical gases, are either derived from air (atmospheric gases: oxygen, nitrogen, argon) in air separation "tonnage plants" or are produced in tonnage plants through a chemical process (carbon dioxide, hydrogen, acetylene), often as a by-product. The core of the industrial gases industry is formed by the three atmospheric gases oxygen, nitrogen and argon, which together are believed to account for some 60 % by value - and considerably more by volume - of the total European industrial gases markets. Some atmospheric and non-atmospheric gases are offered in extremely pure forms or in mixtures for medical or special purposes, for example medicinal oxygen.
+(5) Industrial gases are used in most industries and manufacturing processes. Medical gases are used in hospitals, clinics and in home treatment. The largest volumes of industrial and medical gases are used for producing, cutting and welding metals and in the chemical industry. The food industry, electronics industry and health care are each believed to account for some 10 % of the gases market. Each gas serves specific purposes and therefore has a user's market of its own.
+(6) There are three different types of gases markets based on delivery methods: tonnage sales are made to certain large customers who require very large quantities of, primarily, the atmospheric gases oxygen and nitrogen. These supplies are made through either dedicated "on-site" production plants or dedicated pipeline links. The contracts, which include the capital investment necessary for such plant or pipeline links, are tailor-made and, in view of the importance of those investments, last up to 15 years. The Netherlands and Belgium have very dense pipeline networks. Tonnage sales are a separate market, given that the few companies which need such large quantities would not consider bulk or cylinder supplies an alternative, save as a back-up system.
+(7) In 1989, following a Commission investigation into the industrial gases sector and the initiation of proceedings under Community competition rules(5), the world's major producers of industrial gases, including Air Liquide SA, AGA AB, Union Carbide, Air Products Europe Inc., Linde AG and Messer Griesheim GmbH, committed themselves vis-à-vis the Commission to modifying their tonnage contracts. Supply and purchasing commitments under on-site and pipeline contracts would no longer be of an exclusive nature but would relate to quantities falling within a fixed minimum/maximum range(6).
+(8) Air gases and other gases such as carbon dioxide are delivered to medium-sized customers in liquid form (bulk) at low temperatures. The gas is transported to customers by road or rail tankers; the customers are supplied with storage tanks and vaporisation equipment. Pipelines are used between air separation plants or large production units and liquefaction plants; liquefaction plants are often constructed at the same site as tonnage plants (piggyback plants), thus avoiding investment in a pipeline between the two.
+(9) The commitments provided to the Commission in 1989 by the world's major producers of industrial gases referred to in recital 7 also covered sales of the liquid air gases nitrogen, oxygen and argon under bulk contracts. Here too, supply and purchase commitments should relate to quantities up to a fixed maximum. The Commission allowed a supplier to maintain the exclusive right to fill and to maintain storage tanks for reasons of safety. A customer wishing to use more than one supplier would need more than one storage tank. The duration of liquid air gas contracts was reduced to three years. Customers would continue to be free to purchase or lease cryogenic tanks from the gas supplier; they can stipulate that tank rental contracts should be separate from the gas supply contract. Tank rental contracts can be made for a maximum period of five years.
+(10) Smaller customers of air gases, as well as buyers of welding gases, gas mixtures and special or very pure gases, are supplied by means of cylinders usually made of steel. Cylinders may be filled at, and distributed from, the supplier's production plant. Alternatively, liquid gases are transported in tankers to cylinder filling centres, where the transformation into compressed gas and the filling of cylinders takes place. From there cylinders in various sizes holding gas under pressure are either transported directly to the customer, or to depots, sometimes independent undertakings, which supply retail customers. Welding gases, such as acetylene, are only transported in cylinders and under low pressure.
+(11) Although the volumes of cylinder gases sold are limited, their importance in revenue terms is quite important. This is so because of the higher prices and related charges that go with cylinder sales. In the cylinder business, large suppliers usually categorise customers on the basis of the quantities purchased in a given period. The more important cylinder customers will usually be served directly by the industrial gases undertaking, whereas smaller customers will deal with a depot holder. The commitments given to the Commission in 1989 by the world's major producers of industrial gases did not cover supplies of gases in cylinders.
+(12) The industry generally views these three different distribution methods as separate product markets and the Commission took the same view in case IV/30.869 - Industrial Gases(7) and in the merger decisions Air Liquide/BOC(8) and Linde/AGA(9). The customer will generally choose the supply method on economic grounds within the possibilities available for a specific gas at a specific user's location. This does not mean that a given customer cannot buy from a single undertaking several gases supplied in different forms, for example oxygen by pipeline, carbon dioxide in liquid form and a specific argon mixture in cylinders.
+(13) In all three forms of delivery the price of transport and packaging is very high compared with the value of the gases themselves. Usually both the tank and the cylinders remain the property of the supplier of the gases and are rented by the customer. Cylinders and tanks need to undergo regular safety checks by the owner.
+(14) Because transportation is expensive and because few suppliers are able to produce all industrial gases themselves in every region, the industrial gases groups and their national subsidiaries tend to supply each other with large quantities of gases by pipeline or in liquid form. They do so by means of swap deals or under take-or-pay or other contracts. Such supplies between groups are often of a cross-border nature. Filling depots belonging to one supplier will sometimes also fill cylinders on behalf of competitors. In this way customers can obtain the different types of industrial gases they need from a single supplier.
+3. THE SUPPLIERS
+(a) Hoek Loos
+(15) The largest industrial gas company in the Netherlands at the time of the investigation, was NV Hoek's Machine en Zuurstoffabriek, now named NV Hoek Loos, and hereinafter referred to as "Hoek Loos". It was founded in 1891 and is located in Schiedam. On 31 December 1996 Hoek Loos had 1798 employees, 826 of whom worked in the Netherlands. Hoek Loos's structure was modified in 1996, when the NV became a holding company for a number of working companies including Hoek Loos BV, Hoek Loos Medische Gassen BV, the Belgian company Hoek Loos NV and the company Holox Inc., United States of America.
+(16) The ultimate parent company of Hoek Loos is Linde AG in Wiesbaden, Germany. The Linde group achieved a turnover of DEM 8,801 billion worldwide in 1996 with a staff of over 30000. Besides producing, marketing and selling industrial and medical gases in many countries of the world, Linde also engineers and produces various types of installations for the chemicals sector, transportation vehicles, hydraulic systems and refrigeration systems. Linde's gases activity accounted for a turnover of [...](10) in 1996.
+(17) [...].
+(18) In 2000 Hoek Loos became a 100 % subsidiary of Linde when Linde bought up all remaining Hoek Loos shares traded on the stock exchange.
+(19) Hoek Loos is active in the Netherlands, Belgium and the south-east of the United States of America. Hoek Loos produces, markets and distributes industrial and medical gases as well as related equipment, systems and services. Until 1996 it also manufactured medical equipment. In the Netherlands, where it owns air separation units located in IJmuiden and Botlek/Rotterdam, Hoek Loos supplies gases in cylinders, in bulk and by pipeline and also offers gases through on-site installations. Hoek Loos is a founding member of the Dutch sector association VFIG. Being the largest member, Hoek Loos has always chaired the VFIG.
+(b) AGA
+(20) At the material time the second important industrial gases company in the Netherlands was AGA Gas BV, founded in 1971 and located in Amsterdam(11). At this time, AGA Gas BV was owned by AGA Invest BV, which in turn was owned by AGA AB of Lidingö, the ultimate Swedish parent of the AGA group. AGA AB achieved a turnover of SEK 12,860 billion worldwide in 1996 with a staff of over 10000.
+(21) AGA Gas BV has undergone a change of corporate structure since the period under investigation and no longer exists as such. Following the Commission decision on the merger of Linde and AGA(12), AGA AB was acquired by Linde AG and one of the remedies offered in order for the Commission to reach its favourable decision, was the divestiture of AGA Gas BV's cylinder gas business in the Netherlands.
+(22) In December 2000, AGA Gas BV was split by a legal demerger into AGA Gas BV (the remainder) and AGA Transfer BV, renamed AGA Amsterdam BV. AGA Gas BV basically retained the liquid business, the medical gases business, the speciality gases business and the Mison business. AGA Amsterdam took over the cylinder gases business.
+(23) In 2001 AGA Gas BV (the remainder) was subsequently merged into AGA Invest B.V and the latter sold by AGA AB to Hoek Loos. AGA Amsterdam BV was sold to Air Products Holdings BV and Prodair Corporation.
+(24) At the material time AGA Gas BV (hereinafter AGA) produced, marketed and sold industrial and medical gases as well as related equipment, systems and services. Until 1995 AGA and Hoek Loos had a joint production joint venture called Cryoton in the R
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+le AP, p. 1755.
+(81) File AP, p. 6336.
+(82) File WF, non-confidential reply to the statement of objections, pp. 10 and 11, points 53 to 60.
+(83) File HL, p. 2984 (own translation).
+(84) File MG, p. 4833 (own translation).
+(85) File MG, p. 4785 (own translation).
+(86) File MG, p. 4783.
+(87) File MG, p. 4782 (own translation).
+(88) File AL, p. 2525 (own translation).
+(89) File MG, p. 4836.
+(90) File MG, p. 4834 (own translation).
+(91) File MG, p. 5268.
+(92) File MG, p. 5268.
+(93) File AP, p. 1725.
+(94) File AL, p. 2571.
+(95) File AL, non-confidential reply to the statement of objections, p. 12, point 61.
+(96) File AGA, p. 782.
+(97) File AL, pp. 2150 to 2151 (own translation).
+(98) File AGA, pp. 1003 to 1005.
+(99) File HL, pp. 2655 to 2660 (partly own translation).
+(100) Tetrene is a welding gas sold by AL, AGA and others.
+(101) File AGA, pp. 868 to 870.
+(102) File AL, pp. 2394 to 2397.
+(103) File AP, pp. 1559 to 1562.
+(104) File AGA, p. 887.
+(105) File AL, pp. 2116 and 2117.
+(106) File AL, p. 2112 (own translation).
+(107) File AGA, pp. 867 and 877.
+(108) File AGA, pp. 453 and 454.
+(109) File AGA, p. 4983.
+(110) File AGA, pp. 7011 and 7012.
+(111) File AGA, non-confidential reply to the statement of objections, p. 12.
+(112) File WF, p. 5224.
+(113) File AL, p. 2183.
+(114) File MG, p. 4779 (own translation).
+(115) File AL, p. 2348.
+(116) File AGA, pp. 369 and 370.
+(117) File AL, non-confidential reply to the statement of objections, p. 14, points 69 and 70.
+(118) File AGA, non-confidential reply to the statement of objections, p. 13.
+(119) File AGA, p. 7013.
+(120) File WF, non-confidential reply to the statement of objections, p. 13, points 76 and 77.
+(121) File AGA, pp. 7011 and 7012.
+(122) File AGA, pp. 5169 and 5170.
+(123) File AP, pp. 6333 and 5965.
+(124) File Indugas, p. 5717.
+(125) File MG, p. 5280.
+(126) File AL, pp. 5642 and 5643.
+(127) File MG, pp. 7247, 7248 and 4806 to 4812.
+(128) File AP, p. 1723.
+(129) File AGA, p. 292.
+(130) File MG, p. 4835.
+(131) File AGA, p. 6995.
+(132) File AP, p. 5883.
+(133) File AP, pp. 1724, 1725 and 5884.
+(134) File MG, p. 4834.
+(135) File AGA, p. 348.
+(136) File AL, p. 2572.
+(137) File HL, p. 2653.
+(138) File HL, p. 5549.
+(139) File HL, p. 2653.
+(140) File MG, p. 4779 (own translation).
+(141) File AP, p. 1820.
+(142) File HL, p. 2906.
+(143) File AP, p. 5886.
+(144) File WF, p. 7625 (own translation).
+(145) File WF, non-confidential reply to the statement of objections, p. 13, point 78.
+(146) File HL, pp. 2655 to 2660 (partly own translation).
+(147) File MG, pp. 4814 and 4815 (own translation).
+(148) File AGA, p. 453.
+(149) File AGA, p. 4977.
+(150) File AGA, p. 4983.
+(151) File AGA, p. 453.
+(152) File BOC, non-confidential reply to the statement of objections, pp. 15 and 16, points 2.26 and 2.27.
+(153) File AL, pp. 2348 and 2360.
+(154) File HL, p. 2907.
+(155) File AGA, pp. 369 and 370.
+(156) File AGA, p. 363.
+(157) File AGA, p. 4980, 4982.
+(158) File AGA, non-confidential reply to the statement of objections, p. 6.
+(159) File AGA, p. 4979 (own translation).
+(160) Presumably the VFIG meeting of 23 June 1994, which took place in Utrecht and at which minimum rent and transportation prices were agreed.
+(161) File MG, p. 4832.
+(162) File AP, p. 1725.
+(163) File MG, p. 4834.
+(164) File HL, p. 2653.
+(165) File AP, p. 1723.
+(166) File AGA, p. 292.
+(167) File MG, p. 4835.
+(168) File HL, pp. 2655 to 2660 (partly own translation).
+(169) File MG, pp. 4814 and 4815.
+(170) File AGA, p. 453 and p. 4977.
+(171) File HL, p. 2907.
+(172) File AGA, pp. 4980 and 4982; see also recital 250.
+(173) File AGA, pp. 369 and 370.
+(174) File AGA, p. 363.
+(175) File BOC, non-confidential reply to the statement of objections, pp. 16 and 17.
+(176) File AP, p. 1755.
+(177) File MG, p. 7246.
+(178) File MG, p. 7273.
+(179) File WF, p. 7625 (own translation).
+(180) File WF, non-confidential reply to the statement of objections, p. 11, points 62 to 64.
+(181) File MG, p. 7273.
+(182) File MG, p. 7211 (own translation).
+(183) File MG, p. 7297.
+(184) File MG, p. 7270.
+(185) File AP, p. 1723.
+(186) File AGA, p. 292.
+(187) File MG, p. 4835.
+(188) File HL, pp. 2655 to 2657.
+(189) File AL, p. 2112 (own translation).
+(190) File AL, p. 2096 (own translation).
+(191) File AL, p. 5612 (own translation).
+(192) File AP, pp. 1758 to 1760.
+(193) File AL, p. 5615.
+(194) File AL, non-confidential reply to the statement of objections, p. 15, point 78.
+(195) File HL, p. 5554.
+(196) File AGA, p. 7010.
+(197) File VFIG, p. 4079.
+(198) File VFIG, pp. 4082 and 4083; also in several other company files.
+(199) File VFIG, p. 4093.
+(200) File AP, p. 1758.
+(201) File AL, p. 2171 (own translation).
+(202) File AGA, p. 4964.
+(203) File AGA, p. 1059.
+(204) File AL, p. 5615.
+(205) File AGA, p. 1063.
+(206) File HL, p. 2986.
+(207) File HL, p. 2996.
+(208) File HL, p. 5554.
+(209) File AGA, p. 453.
+(210) File AL, pp. 5614 and 5615.
+(211) File HL, p. 5554.
+(212) File AGA, p. 7009.
+(213) File WF, p. 5250.
+(214) File WF, non-confidential reply to the statement of objections, p. 12, points 67 to 71.
+(215) File BOC, p. 6450.
+(216) File AGA, p. 782.
+(217) File AL, pp. 2150 and 2151 (own translation).
+(218) File AGA, p. 4983.
+(219) File AGA, p. 454.
+(220) File AP, p. 1723.
+(221) File AGA, p. 292.
+(222) File MG, p. 4835.
+(223) File MN, non-confidential reply to the statement of objections, p. 24.
+(224) File AGA, non-confidential reply to the statement of objections, pp. 10 and 11, points 35 to 39.
+(225) File AP, non-confidential reply to the statement of objections, p. 13.
+(226) Joined Cases T-305/94 etc. Limburgse Vinyl Maatschappij. and Others v Commission (PVC II) [1999] ECR II-931, paragraph 715.
+(227) Case 48/69 Imperial Chemical Industries v Commission [1972] ECR 619, paragraph 64.
+(228) Joined Cases 40-48/73 etc. Suiker Unie and Others v Commission [1975] ECR 1663.
+(229) See also Case T-7/89 Hercules Chemicals v Commission [1991] ECR II-1711, paragraph 256.
+(230) See Case C-199/92 P Hüls v Commission [1999] ECR I-4287, paragraphs 158 to 166.
+(231) Case T-7/89 Hercules Chemicals v Commission, paragraph 264.
+(232) Joined Cases T-305/94 etc. Limburgse Vinyl Maatschappij. and Others v Commission (PVC II) [1999] ECR II-931, paragraph 696.
+(233) See the judgment of the Court of Justice in Case C-49/92 P Commission v Anic Partecipazioni SpA, [1999] ECR I-4125, paragraph 81.
+(234) Case C-49/92 P Commission v Anic [1999] ECR I-4125, paragraph 83.
+(235) File VFIG, p. 3798.
+(236) File VFIG, pp. 3797 and 3798.
+(237) File AGA, pp. 126 to 128.
+(238) Judgment in Case T-141/94 Thyssen v Commission [1999] ECR II-347, paragraph 262.
+(239) File AGA, p. 782.
+(240) File AGA, p. 877.
+(241) File AL, pp. 2171 and 2172 (own translation).
+(242) File AP, p. 1755 (own translation).
+(243) Active support is also referred to in file AGA, p. 4982 (bilateral meeting AGA-MG).
+(244) File HL, p. 2984 (own translation).
+(245) File AP, p. 1725.
+(246) File AGA, p. 782.
+(247) File HL, p. 2655.
+(248) File AGA, p. 877.
+(249) File AGA, p. 453.
+(250) File AL, p. 2068 (own translation).
+(251) File AL, non-confidential reply to the statement of objections, points IV and V.
+(252) File AL, non-confidential reply to the statement of objections, for example, point 1.4.
+(253) File WF, non-confidential reply to the statement of objections, pp. 3 and 4.
+(254) Judgment in Case T-142/89 Usines Gustave Boël [1995] ECR II-867, paragraph 60. Most recently confirmed by the Court of Justice in Case C-199/92P Hüls v Commission, [1999] ECR I-4287, paragraphs 155 to 168.
+(255) Judgment of the Court of First Instance of 12 July 2001 in Joined Cases T-202/98, T-204/98 and T-207/98 British Sugar and others v Commission, paragraph 78.
+(256) Judgment in Case T-13/89, Imperial Chemical Industries v Commission [1992] ECR II-1021, paragraph 304.
+(257) See in this context the judgment of the Court in Case 45/85 Verband der Sachversicherer v Commission [1987] ECR 447, paragraph 48.
+(258) File AL, non-confidential reply to the statement of objections, point V.4.
+(259) See, for example, file AGA, p. 4934.
+(260) OJ L 319, 29.11.1974, p. 1.
+(261) File AGA, non-confidential reply to the statement of objections, point V, pp. 15 to 24.
+(262) File HL, non-confidential reply to the statement of objections, pp. 5 to 9.
+(263) File AP, non-confidential reply to the statement of objections, pp. 20 to 21.
+(264) File AL, non-confidential reply to the statement of objections, pp. 20 and 21.
+(265) File MN, non-confidential reply to the statement of objections, p. 32.
+(266) File BOC, non-confidential reply to the statement of objections, p. 18.
+(267) See recital 88 and File BOC, p. 3576.
+(268) BOC's external legal counsel informed the Commission services of the completion of the sale of the BOC Group's gases operations in the Benelux to Air Liquide by letter of 20 January 1999, File BOC, p. 6487.
+(269) File AGA, non-confidential reply to the statement of objections, p. 4.
+(270) OJ C 207, 18.7.1996, p. 4.
+(271) Market of analysis cylinder gases 1990 to 1999 in the Netherlands, Annex 14 of AGA's non-confidential reply.
+(272) File AGA, non-confidential reply to the statement of objections, pp. 27 to 29 and File HL, non-confidential reply to the statement of objections, paragraphs 35 to 37.
+(273) Commission Decision of 14 October 1998, OJ L 76, 22.3.1999, p. 1.
+(274) Commission Decision of 9 December 1998, OJ L 109, 27.4.1999, p. 24.
+(275) Commission Decision of 18 July 2001, OJ L 265, 5.10.2001, p. 15.
+(276) Commission Decision of 5 December 2001, not yet published.
+(277) Commission Decision of 11 June 2002, not yet published.
+(278) See recital 142.
+(279) File MN, non-confidential reply to the statement of objections, p. 30.
+(280) Case T-308/94 Cascades SA v Commission [1998] ECR II-925, paragraph 230.
+(281) As AGA AB is held liable for its former subsidiary AGA Gas BV, the amount has been reduced to 10 % of the last turnover of the subsidiary, see footnote 20.
+(282) File AGA, pp. 6987 to 7014.
+(283) See AP's letter of 24.4.1998, File AP, p. 5818.
+Top

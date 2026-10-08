@@ -1,0 +1,100 @@
+Avis juridique important
+|
+31990D0446
+90/446/EWG: Entscheidung der Kommission vom 27. Juli 1990 betreffend ein Verfahren nach Artikel 85 EWG- Vertrag (IV/32.688 Konsortium ECR 900) (Nur der deutsche, englische und niederländische Text sind verbindlich)
+Amtsblatt Nr. L 228 vom 22/08/1990 S. 0031 - 0034
+*****
+ENTSCHEIDUNG DER KOMMISSION
+vom 27. Juli 1990
+betreffend ein Verfahren nach Artikel 85 EWG-Vertrag
+(IV/32.688 Konsortium ECR 900)
+(Nur der deutsche, der englische und der niederländische Text sind verbindlich)
+(90/446/EWG)
+DIE KOMMISSION DER EUROPÄISCHEN
+GEMEINSCHAFTEN -
+gestützt auf den Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft,
+gestützt auf die Verordnung Nr. 17 des Rates vom 6. Februar 1962, die erste Durchführungsverordnung zu den Artikeln 85 und 86 EWG-Vertrag (1), zuletzt geändert durch die Akte über den Beitritt Spaniens und Portugals, insbesondere auf Artikel 2,
+im Hinblick auf die von den Firmen AEG Aktiengesellschaft, Alcatel NV und Oy Nokia AB am 7. April 1988 vorgenommene Anmeldung einer Kooperationsvereinbarung,
+nach Veröffentlichung des wesentlichen Inhalts dieser Anmeldung (2) gemäß Artikel 19 Absatz 3 der Verordnung Nr. 17,
+nach Anhörung des Beratenden Ausschusses für Kartell- und Monopolfragen,
+in Erwägung nachstehender Gründe:
+I. SACHVERHALT
+A. Gegenstand der Anmeldung
+Die Firmen AEG Aktiengesellschaft, Alcatel NV und Oy Nokia haben am 7. April 1988 eine von ihnen geschlossene Kooperationsvereinbarung angemeldet. Die Zusammenarbeit zwischen diesen Unternehmen betrifft die Bildung eines Konsortiums ECR 900 zur gemeinsamen Entwicklung und Herstellung und zum gemeinsamen Vertrieb eines europaweiten digitalen zellularen Mobilfunksystems. Sie erstreckt sich nicht auf die Endgeräte (Mobiltelefone), durch die die Kommunikationsteilnehmer an das System angeschlossen werden.
+B. Die beteiligten Unternehmen
+(1) Die AEG Aktiengesellschaft (nachfolgend »AEG" genannt) mit Sitz in Frankfurt/M., Deutschland, gehört als Unterkonzern mehrheitlich zur Daimler-Benz AG, die ihren Sitz in Stuttgart-Untertürkheim, Deutschland, hat. AEG ist u. a. auf den Gebieten der Automatisierungssysteme, Elektrowerkzeuge, Energieverteilung, Hausgeräte und der Hochfrequenz-, Industrie-, Informations- und Kommunikationstechnik tätig.
+(2) Die Firma Alcatel NV (nachfolgend »Alcatel" genannt) mit Sitz in Amsterdam, Niederlande, gehört mehrheitlich zum CGE-Konzern, der seinen Sitz in Paris, Frankreich, hat. Alcatel befasst sich mit Kommunikationssystemen und Informationstechnologie.
+(3) Die Firma Oy Nokia AB (nachfolgend »Nokia" genannt) mit Sitz in Helsinki, Finnland, gehört keinem anderen Konzern an, sondern ist ein selbständiger Unternehmensverbund. Sie ist u. a. in den Bereichen Informationssysteme, Telekommunikation, mobile Telefone und Unterhaltungselektronik tätig.
+C. Beschreibung des Funksystems
+(1) In dem sogenannten »CEPT-Memorandum of Understanding" vom 7. September 1987 (3) sind die Unterzeichner dieses Memorandums übereingekommen, im Jahr 1991 in ihren Ländern einen europaweiten öffentlichen digitalen, zellularen mobilen Telekommunikations-Dienst einzuführen. Bei dem geplanten Funksystem, dem sogenannten GSM- (»Groupe Spécial Mobile") System, handelt es sich um ein neuartiges Kommunikationssystem, das derzeit noch nicht existiert.
+(2) Das System verbessert durch Anwendung einer neuartigen digitalen, zellularen Technik die Kommunikation zwischen den Teilnehmern eines Mobilfunknetzes in mehrfacher Hinsicht; so wird die Sprachqualität ebenso wie die Anschlußdichte wesentlich erhöht. Das neue System ermöglicht ausserdem die Ankopplung zusätzlicher Daten- und Telematikdienste und die Einbeziehung neuer Schutzeinrichtungen (gegen Mißbrauch der Teilnahmegeräte durch Authentikation, gegen Abhören durch Verschlüsselung). Die Einigung voraussichtlich aller Netzbetreiber in Europa auf die Hard- und Software-Schnittstellen dieses Systems baut alle durch Systemunterschiede bewirkten Kommunikationshindernisse an den geographischen Grenzen ab und eröffnet ein europäinheitliches Kommunikationsnetz mit den Möglichkeiten z. B. eines europaweiten Auffindens eines Teilnehmers im Gesamtnetz (»roaming").
+(3) Durch eine Vorabdefinition des GSM-Systems aufgrund von einheitlichen Standards mit zwei bis drei spezifizierten Schnittstellen ist gewährleistet, daß die Entwicklungsarbeit zwar zu einem Einheitssystem führen muß. Das System verlangt jedoch keine Einheitstechnik, sondern lässt Raum für Entwicklung unterschiedlicher Systemkomponenten. Die verschiedenen Schnittstellen sind so spezifiziert, daß sie die Kompatibilität aller Systemkomponenten gewährleisten. Damit wird es möglich, Teile verschiedener Hersteller zu kombinieren.
+D. Nachfrager und Anbieter bezueglich des GSM-Systems
+Als Nachfrager für den Netzbereich des GSM-Systems kommen derzeit ausschließlich die nationalen Netzbetreiber der CEPT-Länder bzw. die für sie handelnden Unternehmen (in Deutschland z. B. die DETECON, Consulting-Gesellschaft für Fernmeldeanlagen) in Betracht.
+Aufträge für alle oder für bestimmte Systemkomponenten werden im Wege der Ausschreibung vergeben. So ist im Supplement zum Amtsblatt der Europäischen Gemeinschaften Nr. S 2 vom 5. Januar 1988, Seite 59, eine Reihe von Ausschreibungen veröffentlicht worden.
+Bei diesen Ausschreibungen handelt es sich um Aufträge über Lieferung und Installierung und nicht um Entwicklungsaufträge. Ziel ist die Lieferung, Installierung und Inbetriebnahme der Anlagen zum ersten Quartal 1991. Die mobilen Endgeräte werden von den Ausschreibungen nicht erfasst.
+Als Anbieter sind bisher neben den anmeldenden Unternehmen noch folgende Konsortien und Einzelanbieter aufgetreten:
+Philips/Siemens oder Philips/Bosch/Siemens,
+Bosch/Philips,
+Matra-Ericsson,
+Ericsson/Orbitel,
+Ericsson/Matra/Ascom Hasler,
+Orbitel/Matra/Ericsson,
+Orbitel (Racal/Plessey),
+Motorola (unter Verwendung von Systemkomponenten dritter Unternehmen).
+E. Inhalt der Kooperationsvereinbarung
+(1) Die Vertragsbeteiligten haben vereinbart, bei der Entwicklung und Herstellung des GSM-Systems und von Teilen dieses Systems, der weiteren Definition und Anpassung von technischen Spezifikationen sowie durch gemeinsamen oder ausschließlichen Vertrieb dieses Systems und von Teilen hiervon in CEPT-Ländern nach Maßgabe der Kooperationsvereinbarung zusammenzuarbeiten.
+(2) Die Partner bilden ein Konsortium mit Namen ECR 900 zum Zweck der Abgabe von Angeboten für das GSM-System bei Ausschreibungen.
+Verpflichtungen für CEPT-Länder bedürfen der vorherigen schriftlichen Zustimmung aller Partner. Falls sich ein Partner jedoch an einem Angebot oder einem Vertrag nicht beteiligen will, sind die anderen Partner frei, dies zu tun.
+(3) Während der Laufzeit der Vereinbarung ist es den Partnern untersagt, in den CEPT-Ländern für das GSM-System weitere Angebote abzugeben oder Verträge zu schließen.
+(4) Ausserhalb der CEPT-Länder ist jeder Partner berechtigt, für solche Teile des GSM-Systems, an deren Entwicklung er beteiligt war, Geschäftsmöglichkeiten wahrzunehmen.
+(5) a) Bei Entwicklungstätigkeiten, an denen mehrere Partner beteiligt sind, soll so lange, bis die technische Dokumentation für die Serienproduktion vervollständigt ist, zwischen den beteiligten Partnern ein ständiger und kostenloser Austausch der gesamten technischen Dokumentation stattfinden.
+b) Bei Entwicklungstätigkeiten, an denen nur ein Partner beteiligt ist, soll kein Austausch technischer Dokumentation erfolgen.
+(6) a) Bis acht Monate vor Ablauf der Vereinbarung ist es den Partnern verboten, die nach Randnummer 5 Buchstabe a) erhaltene technische Dokumentation zu benutzen, um das GSM-System oder Teile hiervon für den Verkauf in CEPT-Ländern herzustellen.
+b) Nach Ablauf der Vereinbarung hat jeder Partner das nicht ausschließliche Recht, die nach Randnummer 5 Buchstabe a) erhaltene technische Dokumentation zu benutzen, um das GSM-System oder Teile hiervon für den Verkauf in beliebigen Ländern herzustellen.
+c) Innerhalb eines Zeitraums von fünf Jahren nach Ablauf der Vereinbarung bedarf jedoch die Erteilung einer Unterlizenz an dem vorgenannten Recht an Dritte der vorherigen Zustimmung des betreffenden Partners, wobei etwaige Lizenzgebühren zwischen den Partnern gleichmässig geteilt werden.
+Nach Ablauf dieses Zeitraums steht es den Partnern frei, Unterlizenzen ohne Gebührenteilung zu vergeben.
+d) Bei Ausschluß eines Partners wegen Vertragsverletzung verliert der ausgeschlossene Partner das Recht zur Benutzung der ihm überlassenen technischen Dokumentation. (7) Die Vereinbarung kann von jedem Partner erstmals zum 31. Dezember 1993 und danach zum Ende eines jeden Jahres gekündigt werden. In diesem Fall können die anderen Partner die Fortsetzung der Vereinbarung beschließen.
+Die Vereinbarung endet automatisch am 31. Dezember 1992, wenn die französische oder deutsche oder eine andere grössere Postverwaltung eines CEPT-Landes nicht das GSM-System für ihren Markt ausgewählt hat.
+F. Auf die Bekanntmachung nach Artikel 19 Absatz 3 der Verordnung Nr. 17 hat die Kommission keine Bemerkungen Dritter erhalten.
+II. RECHTLICHE BEURTEILUNG
+Artikel 85 Absatz 1
+Die angemeldete Kooperationsvereinbarung fällt unter den derzeitigen Umständen nicht unter Artikel 85 Absatz 1.
+(1) Bei den betreffenden Vertragspartnern handelt es sich um Unternehmen, und die angemeldete Vereinbarung stellt eine solche zwischen Unternehmen im Sinne von Artikel 85 Absatz 1 dar.
+(2) Eine Einschränkung des Wettbewerbs innerhalb des Gemeinsamen Marktes wird durch die Vereinbarung weder bezweckt noch bewirkt.
+a) Gemeinsame Entwicklung und Herstellung des GSM-Systems
+Die Vertragsbeteiligten haben vereinbart, bei der Entwicklung und Herstellung des GSM-Systems zusammenzuarbeiten. Diese Vereinbarung stellt keine Wettbewerbsbeschränkung dar, denn es steht aus tatsächlichen Gründen fest, daß die individuelle Entwicklung und Herstellung wegen des damit verbundenen hohen Aufwands unterbleiben würde. Die Ausschreibungen der für die Telekommunikation zuständigen Verwaltungen vom 5. Januar 1988 sehen einen knapp terminierten Zeitplan vor. In der Ausschreibung für Dänemark ist die Lieferung des Versuchssystems bis Ende Oktober 1988 und in der Ausschreibung für das Vereinigte Königreich die vollständige Erprobung des Entwicklungssystems bis zum 30. Juni 1989 festgelegt. Bereits Mitte 1990 soll in den Ausschreibungsländern ein erstes Pilotsystem für Testzwecke aufgebaut sein, und zum ersten Quartal 1991 ist die Lieferung, Installierung und Inbetriebnahme der Anlagen vorgesehen. Die Vertragspartner wären daher bei einem individuellen Vorgehen nur bedingt in der Lage, den festgelegten Zeitplan einzuhalten.
+Ausserdem ist der finanzielle und personelle Aufwand für die Entwicklung und Herstellung des GSM-Systems so groß, daß bei realistischer Betrachtung kein Raum für eine individuelle Tätigkeit verbleibt.
+Die Entwicklungskosten werden von den Vertragspartnern auf etwa 300 bis 500 Millionen DM geschätzt. Dieser Betrag kann wegen des Zeitplans nicht auf einen längeren Zeitraum aufgeteilt werden, sondern muß bis zur Installation des Pilotsystems im Jahr 1990 aufgebracht werden, während die Amortisation der Investitionen im Fall eines Zuschlags weit hinausgeschoben ist. Bei einem Zuschlag an einen der Mitbewerber kann die Amortisation sogar völlig in Frage gestellt sein. Was schließlich den personellen Aufwand anbelangt, so steht für die Entwicklung des GSM-Systems nur eine beschränkte Zahl von hinreichend ausgebildeten Ingenieuren zur Verfügung, die kurzfristig nicht aufgestockt werden kann.
+Schließlich kann von den Vertragspartnern aus objektiven Gründen nicht erwartet werden, daß sie das finanzielle Risiko der Entwicklung und der Herstellung des GSM-Systems allein tragen.
+Der hier in Betracht kommende Markt ist durch eine eng begrenzte Nachfrage gekennzeichnet. Als Nachfrager kommen derzeit ausschließlich 15 nationale Netzbetreiber der CEPT-Länder, bzw. die für sie handelnden Unternehmen, in Betracht, so daß die Aussichten der Anbieter auf Erlangung eines Zuschlags begrenzt sind. Nur im Fall eines Zuschlags haben die Anbieter die Möglichkeit, die extrem hohen Entwicklungskosten zu amortisieren, da die Ergebnisse der Entwicklung ausserhalb der Ausschreibungen nur bedingt zu verwerten sind. Dieses reelle und schwerwiegende wirtschaftliche Risiko ist nur bei einer gemeinsamen Kostentragung durch die Vertragspartner tragbar.
+In diesem Zusammenhang ist es aufschlußreich, daß die nationalen Verwaltungen, die für Telekommunikation zuständig sind, in ihren Ausschreibungen ausdrücklich die Bildung von Konsortien/Bietergemeinschaften berücksichtigen.
+Die Vertragspartner hätten folglich keine Möglichkeit, das Wettbewerbsmittel der durch individuelle Entwicklung verbesserten Produktion zum Zweck der Erringung eines Vorsprungs vor den anderen auf dem Markt einzusetzen.
+Die Verpflichtung zur gemeinsamen Entwicklung und Herstellung des GSM-Systems schränkt demnach den Wettbewerb innerhalb des Gemeinsamen Marktes nicht ein.
+b) Gemeinsamer Vertrieb des GSM-Systems
+Durch die Verpflichtung zum gemeinsamen Vertrieb in den CEPT-Ländern werden die Vertragspartner während der Laufzeit der Vereinbarungen zwar daran gehindert, beim Absatz der Vertragserzeugnisse in diesen Ländern, zu denen sämtliche Gemeinschaftsländer zählen, untereinander als Wettbewerber aufzutreten. Eine Wettbewerbsbeschränkung stellt diese Verpflichtung jedoch nicht dar. Denn aus den vorgenannten Gründen wären die Vertragspartner jeweils allein nicht in der Lage, ein erfolgversprechendes Angebot zum individuellen Vertrieb des GSM-Systems abzugeben.
+c) Verbot der Benutzung technischer Dokumentation
+Bei Ausschluß eines Partners wegen Vertragsverletzung verliert der ausgeschlossene Partner das Recht zur Benutzung der ihm überlassenen technischen Dokumentation und damit die Möglichkeit, mit Hilfe dieser Dokumentation Konkurrenzerzeugnisse herzustellen und zu vertreiben.
+Gleichwohl wird durch dieses Verbot keine Wettbewerbsbeschränkung im Sinne des Artikels 85 Absatz 1 herbeigeführt. Denn der vertragsbrüchige Partner, der gegenüber den anderen Partnern nicht die ihm auferlegten Verpflichtungen erfuellt und es versäumt, seinen Beitrag zur Verwirklichung der gemeinsamen Aufgabe zu leisten, würde mit der Überlassung der technischen Dokumentation ungerechtfertigte Leistungen erhalten, die zu einem unverdienten Wettbewerbsvorteil gegenüber seinen Partnern führen würden. Dieser nicht leistungsgerechte Wettbewerb wird von Artikel 85 nicht geschützt.
+(3) Diese rechtliche Beurteilung gründet sich auf die vorstehend dargelegten Umstände. Bei einer Änderung der tatsächlichen Verhältnisse ist die Kommission nicht gehindert, den Fall erneut aufzugreifen -
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+Artikel 1
+Nach den ihr bekannten Tatsachen besteht für die Kommission kein Anlaß, gegen die von den Unternehmen AEG Aktiengesellschaft, Alcatel NV und Oy Nokia AB am 21. Dezember 1987 geschlossene Kooperationsvereinbarung aufgrund von Artikel 85 Absatz 1 EWG-Vertrag einzuschreiten.
+Artikel 2
+Diese Entscheidung ist an folgende Unternehmen gerichtet:
+1) AEG Aktiengesellschaft,
+Theodor-Stern-Kai 1,
+D-6000 Frankfurt/Main 70;
+2) Alcatel NV,
+Strawinskylaan 537,
+NL-1077 XX Amsterdam;
+3) Oy Nokia AB,
+Mikonkatu 15 A,
+Helsinki/Finnland.
+Brüssel, den 27. Juli 1990
+Für die Kommission
+Leon BRITTAN
+Vizepräsident
+(1) ABl. Nr. 13 vom 21. 2. 1962, S. 204/62.
+(2) ABl. Nr. C 308 vom 7. 12. 1989, S. 5.
+(3) CEPT = Conférence Européenne des Administrations des Postes et des Télécommunications.

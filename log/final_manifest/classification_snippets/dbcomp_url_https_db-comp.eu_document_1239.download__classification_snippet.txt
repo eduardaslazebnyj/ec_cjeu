@@ -1,0 +1,364 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+7.8.2003 EN Official Journal of the European Union L 200/59
+
+COMMISSION DECISION
+
+of 30 April 2003
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement
+
+Case COMP/ 38.370 — O2 UK Limited / T-Mobile UK Limited (‘UK Network Sharing Agreement’)
+
+(notified under document number C(2003) 1384)
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+(2003/570/EC)
+
+Whereas:THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Com- 1. THE FACTS
+munity,
+
+1.1. INTRODUCTION
+Having regard to the Agreement on the European Economic
+Area,
+(1) On 6 February 2002, O2 UK Limited (‘O2 UK’) (formerly
+BT-Cellnet Limited and BT3G Limited) and T-Mobile UK
+Having regard to Council Regulation No 17 of 6 February Limited (‘T-Mobile UK’) (formerly One2One Personal
+1962, First Regulation implementing Articles 81 and 82 of Communications Limited) notified the Commission of
+the Treaty (1), as last amended by Regulation (EC) No 1/ an Agreement dated 20 September 2001 concerning
+2003 (2), and in particular Articles 2, 6 and 8 thereof, infrastructure sharing and national roaming on the UK
+market for the third generation of mobile telecommunications networks (‘3G’) (‘the Agreement’). In their notification O2 UK and T-Mobile UK (‘the Parties’) requested
+Having regard to the application for negative clearance pursu- either negative clearance under Article 81(1) of the
+ant to Article 2 of Regulation No 17 and the notification with Treaty/Article 53(1) of the EEA Agreement or, alternaa view to an exemption pursuant to Article 4 of Regulation tively, an exemption under Article 81(3) of the Treaty/
+No 17 submitted by O2 UK Limited and T-Mobile UK Limited Article 53(3) of the EEA Agreement(5).
+on 6 February 2002,
+
+(2) In February 2002 the Commission published a first
+Having regard to the summary of the application and notifi- notice summarising the notified Agreement and inviting
+cation published pursuant to Article 19(3)of Regulation No 17 observations from third parties (6). This was followed in
+and to Article 3 of Protocol 21 of the EEA Agreement (3), September 2002 by a notice pursuant to Article 19(3)
+of Regulation No 17 which set out the Commission’s
+preliminary view and gave third parties an opportunity
+to comment on the proposed favourable approach (7).After consulting the Advisory Committee for Restrictive
+This Decision represents the final step in the Com-
+Practices and Dominant Positions,
+mission’s decision-making procedure.
+
+Having regard to the final report of the Hearing Officer in this
+case (4), (5) The Commission is also dealing with a related notification from
+T-Mobile Deutschland GmbH and O2 Germany (formerly VIAG
+Interkom GmbH) dated 1 February 2002 which concerns a 3G
+Network Deployment and 3G Bilateral Roaming Agreement in
+Germany (Case COMP/38.369 — ‘Rahmenvertrag’).
+(1) OJ 13, 21.1.1962, p. 204/62. (6) OJ C 53, 28.2.2002, p. 18.
+(2) OJ L 1, 4.1.2003, p. 1. (7) Case COMP/C1/N.38.370 — BT Cellnet & BT3G/One2One Per-
+(3) OJ C 214, 10.9.2002, p. 17. sonal Communications (United Kingdom Agreement), OJ C 214,
+(4) OJ C 187, 7.8.2003. 10.9.2002, p. 17.
+
+L 200/60 EN Official Journal of the European Union 7.8.2003
+
+1.2. THE PARTIES called Personal Communications Networks PCN services). Both GSM 900 and DCS 1800 services are now
+commonly referred to as GSM services. Standard GSM
+communications are ‘circuit-switched’, which means that(3) O2 UK is an operator of digital mobile telecommunifor any call a physical path is set up for and dedicated to cations networks and services in the United Kingdom
+a single connection between the two communicating using the GSM (‘global system for mobile communiend points in the network for the duration of the cations’) family of standards. It is building and will
+connection. Transmission rates for GSM are 9,6 kB/s operate a new 3G network(8) in the United Kingdom.
+(kilo bits per second) to 11,4 kB/s, or with compression O2 UK is a wholly owned subsidiary of mmO2 plc, the
+14 kB/s, which allows the delivery of basic voice mobile telecommunications business previously contelephony, short messaging service (SMS) and e-mail, trolled by British Telecommunications plc. Through its
+and circuit-switched data. subsidiaries, mmO2 operates networks in the United
+Kingdom (O2 UK), Germany (VIAG — renamed O2
+Germany), The Netherlands (Telfort — renamed O2
+Netherlands), Ireland (Digifone — renamed O2 Ireland) (6) Enhanced ‘2,5G’ mobile technologies that use more
+and the Isle of Man (Manx Telecom). In the financial efficient packet-switched communications to send data
+year ending 31 March 2002, the mmO2 group had a in packets to their destinations, via different routes,
+turnover of GBP 4,3 billion (about EUR 6,7 billion). without requiring the reservation of a dedicated transmission channel (using radio resources only when
+users are actually sending or receiving data) are being
+developed to provide a greater range of services includ-(4) T-Mobile UK is a mobile telecommunications operator
+ing mobile e-mail, visual communications, multimedia of GSM networks in the United Kingdom and is a wholly
+messaging and location-based services. General Packet owned subsidiary of Deutsche Telekom Mobile Holdings
+Radio Service (‘GPRS’) is one of the principal 2,5G Limited, a wholly owned subsidiary of T-Mobile Intertechnology platforms that offers ‘always-on’ connection, national AG. The parent company of T-Mobile Interhigher capacity and packet-based data services. GPRS national is the incumbent fixed network operator in
+data transmission rates are between 30 kB/s and 40 Germany, Deutsche Telekom AG (‘DTAG’). T-Mobile
+kB/s and with EDGE technology 80 kB/s to 130 kB/s, International AG owns interests in mobile telecommunidepending on the specific usage situation(9). cations operators in the United Kingdom (T-Mobile (UK)
+Limited, T-Motion, Virgin Mobile), Austria (max.mobil.),
+the Czech Republic (RADIOMOBIL) and the USA (Voice-
+Stream). T-Mobile International AG also has subsidiaries (7) Work isnow underway to bring about a third generation
+active in the Netherlands (BEN, CMobil), Russia (MTS) (‘3G’) of mobile technology, applications and services to
+and Poland (PTC). In the 2001 financial year, T-Mobile the market (10). 3G builds on 2,5G technology, integrat-
+International AG had a worldwide turnover of EUR ing packet- and circuit-switched data transmission. It is
+14,6 billion. technically capable of reaching a speed of 144 kB/s and
+will eventually allow transmission rates that are expected
+to have a practical maximum rate of 384 kB/s outdoors
+and up to 2Mb/s indoors (11). 3G services are mobile
+1.3. LEGAL AND FACTUAL BACKGROUND communications systems capable of supporting in particular innovative multimedia services, beyond the capability of second generation systems such as GSM, and
+capable of combining the use of terrestrial and satellite
+1.3.1. THE DEVELOPMENT OF 3G MOBILE COMMUNI- components.
+CATIONS IN THE COMMUNITY
+
+(8) Annex I to Decision No 128/1999/EC of the European
+(5) In Europe, thefirst generation (‘1G’) of mobile communi- Parliament and of the Council of 14 December 1998 on
+cation systems was based on analogue technology. This the coordinated introduction of a third-generation
+was followed at the beginning of the 1990s by the
+second generation (‘2G’) systems which introduced digital technology, namely GSM 900 (the European Global
+System for Mobile Communications) and DCS1800 (so-
+(9) Other less widespread technologies include WAP (Wireless Application Protocol), HSCSD technology (High-speed circuit switched
+data) and EDGE (Enhanced Data GSM Environment).
+(10) UMTS (Universal Mobile Telecommunications System) is one of
+(8) In May 2000, the UK Government awarded five 3G licences the major new ‘third generation’ (3G) mobile communications
+following a frequency auction procedure worth EUR 38,5 billion. systems being developed within the framework defined by
+The companies awarded the licences were Orange, BT3G, Vod- the International Telecommunications Union (ITU) collectively
+afone, One2One Personal Communications Limited and H3G. known as IMT-2000.
+BT3G has now been rebranded O2 Third Generation Holdings (11) The exact transmission rate depends on parameters like the time
+Ltd and still holds a 3G licence, but this will be operated by O2 and location of the call, the number of users within a cell and
+UK. One2One has now been renamed T-Mobile (UK) Limited. The the applications used as the available speed will be divided
+3G licence will be operated by T-Mobile (UK) Limited. between the different users and applications.
+
+7.8.2003 EN Official Journal of the European Union L 200/61
+
+mobile and wireless communications system (UMTS) in the difficult financial situation of telecommunications
+the Community (12) (‘the UMTS Decision’) sets out operators throughout the European Union and of the
+the characteristics which UMTS must be capable of high infrastructure investment costs involved that led
+supporting. These include multimedia capabilities, full operators to engage in infrastructure-sharing arrangemobility and low mobility applications in different ments. It concluded that economically beneficial sharing
+geographical environments beyond 2G capabilities, of network infrastructure should in principle be encourefficient access to Internet, Intranets and other Internet- aged, provided the competition rules and other relevant
+protocol-based services, high quality speech trans- Community law are respected(16). In its follow-up
+mission commensurate with that of fixed networks, Communication of 11 June 2002 entitled ‘Towards the
+service portability across 3G environments and oper- Full Roll-Out of Third Generation Mobile Communiation in one seamless environment including full roam- cations’(17), the Commission emphasised that it would
+ing with GSM as well as between the terrestrial and continue to work with national administrations towards
+satellite components of UMTS networks. Given that 3G establishing a best-practice approach for network
+networks and services are not yet available it is not sharing.
+possible to provide a reliable catalogue. However,
+examples of anticipated services include mobile videoconferencing, mobile video phone/mail, advanced car
+navigation, digital catalogue shopping and various busi- 1.3.2. NETWORK SHARING
+ness to business (B2B) applications (13).
+
+(11) 3G network sharing can take place at a number of
+(9) The development of 3G in the Community is based on different levels and involve varying degrees of cooperthe common UMTS technological platform, on the ation. The degree of independence retained by an
+harmonisation of the radio spectrum and on the defi- operator depends on which network elements are being
+nition of a harmonised regulatory environment. The first shared and its remaining ability to install separate
+step towards achieving these harmonisation objectives elements (planning freedom). The basic distinction that
+was the adoption of Directive 97/13/EC of the European is relevant in the context of the Parties’ network-sharing
+Parliament and of the Council of 10 April 1997 on a agreement is that between the Radio Access Network
+common framework for general authorisations and (‘RAN’) and the core or backbone network.
+individual licences in the field of telecommunications
+services (14). This was followed, at the end of 1998, by
+the UMTS Decision, which required Member States to
+enable the introduction of UMTS services on their
+1.3.2.1. RAN territory by 1 January 2002 and emphasised the role of
+technical bodies such as the European Conference of
+Postal and Telecommunications Administrations
+(‘CEPT’) and the Europe Telecommunications Standard
+(12) The RAN includes mast/antenna sites, site support
+Institute (‘ETSI’) in harmonising frequency use and
+cabinets (‘SSCs’) and power supply, as well as antennae,
+promoting a common and open standard for the
+combiners and transmission links, Nodes B, that is to
+provision of compatible UMTS services throughout
+say, the base stations that receive and send data across
+Europe.
+frequencies and control a particular network cell, and
+the radio network controllers (‘RNCs’) that each control
+a number of such Nodes B and that are linked to the
+core network.
+(10) Finally, in March 2001 the Commission published a
+Communication setting out the state of play and the
+way forward for the introduction of third generation
+mobile communications in the European Union (15). In
+that Communication, the Commission took note of 1.3.2.2. Core network
+
+(13) The core network is the intelligent part of the network
+that consists of mobile switching centres (‘MSCs’), vari-
+(12) OJ L 17, 22.1.1999, p. 1. ous support nodes, services platforms, client home
+(13) For further information and examples, see http://www.umts- location registers and operation and maintenance centrforum.org. es. It is linked to the fixed ISDN (integrated services
+(14) OJ L 117, 7.5.1997, p. 15. This Directive sets out the procedures
+digital network) and Internet networks. associated with the granting of authorisations for the purpose
+of providing telecommunications services, and the conditions
+attached to such authorisations.
+(15) ‘The introduction of Third Generation Mobile Communications
+in the European Union: State of Play and the Way Forward’
+(Introduction of 3G in the EU), COM(2001) 141 Final (16) Introduction of 3G in the EU, paragraph 4.3.
+(20.3.2001). (17) COM(2002) 301 Final.
+
+L 200/62 EN Official Journal of the European Union 7.8.2003
+
+(14) Ranked by the increasing degree to which the network requirements must be taken into account in the context
+is shared it is possible to distinguish between shared use of network infrastructure sharing(18). Both the general
+of: national regulatory framework in the United Kingdom
+and the terms of the Parties’ 3G licences set out
+parameters for network sharing. These include:
+(a) sites, which ranges from sharing individual mast
+sites up to grid sharing (requiring a uniform
+layout of networks), and may include site support
+infrastructure, such as site support cabinets (SSC);
+(a) network roll-out requirements in terms of effective
+coverage related to a specific timetable, notably a
+requirement to cover 80 % of the population by (b) base stations (Nodes B) and antennae;
+the end of 2007;
+
+(c) radio network controllers (‘RNCs’);
+
+(b) general obligations as regards, for example, site and
+(d) core networks, including mobile switching centres antenna sharing relating to planning restrictions
+(‘MSCs’) and various databases; and environmental concerns;
+
+(e) frequencies.
+
+(c) the possibility to impose facility sharing, including
+network sharing, on a case-by-case basis;
+(15) Finally, national roaming concerns a situation where the
+operators concerned do not share any network elements
+as such but simply use each other’s network to provide
+services to their own customers. (d) limitations as regards the ext
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+G services to be
+cost-saving benefits due to the increased competition made available more quickly to a greater number of
+on national roaming access and on resale of wholesale customers, thus allowing new technology to be much
+airtime to MVNOs and service providers can be more widely accessed. It is also likely to enhance
+expected to be passed on to end-users. competition in the DA between the Parties and the
+three other operators.
+
+2.5.3. INDISPENSABILITY
+
+(140) The Agreement therefore promotes competition in the
+markets for 3G national roaming, for wholesale airtime (143) Although national roaming between licensed network
+and at retail level, and consequently contributes to the operators has been identified as restrictive of compeproduction and distribution of these services. Because tition, the Clauses in the Agreement that provide for
+the 3G services concerned are expected to constitute a national roaming are indispensable to the benefits.
+broad range of new technologically advanced products
+of enhanced quality and functionality compared to 2G
+services, the Agreement also promotes technical and
+economic progress.
+2.5.4. NO ELIMINATION OF COMPETITION IN RESPECT
+OF A SUBSTANTIAL PART OF GOODS AND
+SERVICES CONCERNED
+
+(141) In the IBA and the majority of the DA, the Parties are
+(144) As set out above in section 2.5.1, the competition required to roll out separate networks by the end of
+2007 under the terms of their licences. However, there between the five licensed operators of 3G networks
+are clearly different economic benefits arising from and services that intend to roll out 3G networks in
+roaming in the IBA and the DA. The IBA covers the the United Kingdom and between MVNOs and service
+most strategically significant area of the UK market providers is enhanced by the Agreement.
+where the economic incentives to roll out independent
+networks are high and where competition between
+competitors will be the most critical in determining
+the competitiveness of the market. Even in the ‘residual (145) The Agreement also leaves scope for effective compearea’ of the IBA, the economic benefits arising from tition between the Parties. In spite of relying on
+roaming between the Parties, both of which are roaming for part of its coverage, the home network
+established network operators, are limited. The econ- operator will control its own core network, enabling
+omic incentives to roll out in the DA, which includes it to offer differentiated services. In addition, one of
+less densely populated and less commercially attractive the principles underpinning the Agreement is the
+parts of the United Kingdom, are significantly lower maintenance of full competition between the Parties in
+than in the IBA, and the economic benefits arising the supply of 2G services and 3G services to
+from the roaming arrangement are correspondingly consumers, both directly and through intermediaries
+more significant, especially in the more rural areas. (Clause 2.1.f).
+
+7.8.2003 EN Official Journal of the European Union L 200/83
+
+(146) The ability of the home-network operator to retain Agreement on wholesale national 3G roaming between
+control over the traffic generated by its customers the Parties. In particular, it allows the Parties to launch
+outside the home network and to provide access to 3G commercially earlier and to provide services across
+services that are not available on the host network is a wider geographic area to the benefit of consumers.
+improved by the use of the Camel (customised
+application for mobile network enhanced logic)
+technology, including by means of call-back features.
+For 3G retail services, the control of the home-network
+operator over the services available to its end-users
+while roaming will increase because for all data 2.6. DURATION
+transfers, users will be connected to the packet data
+network via their home network.
+
+(150) Pursuant to Article 8 of Regulation No 17 and to
+Protocol 21 of the EEA Agreement respectively, the
+Commission must issue a Decision pursuant to
+(147) In addition, the responsibility for pricing and billing Article 81(3) of the Treaty and Article 53(3) of the
+remains with the home operator. Although billing data EEA Agreement for a specified period, and may attach
+is provided by the host operator to the home operator, conditions and obligations.
+there is no direct relationship between the commercial
+conditions for the wholesale roaming offer and for the
+specific retail services that are based on this offer.
+
+(151) The IBA covers the urban areas with the greatest
+potential for infrastructure competition. Therefore an
+exemption for roaming even in the ‘residual area’ of
+(148) The wholesale costs of 3G roaming are only a the IBA between two established operators can only
+transport cost, albeit a significant one, in addition to be justified for such time as the cooperation helps to
+which there are content costs, which for content-rich promote competition during the initial roll-out phase
+3G data services are expected to increase in significance of the network and the commercial launch and early
+in relation to transport costs over time. For the core take-up of 3G retail services. Barring significant
+network, the costs of the operators will differ based unanticipated changes to the commercial or regulatory
+on vendor decisions, mode of transmission within the environment, the economic justification for applying
+core network (for instance based either on fixed leased Article 81(3) of the Treaty/Article 53(3) of the EEA
+lines or on a wireless microwave network), the Agreement to roaming in the IBA thereafter will cease
+relationship between the number of users and available to exist. In the light of the limited population covered
+capacity, operational costs and maintenance and by the ‘residual area’ of the IBA, the regulatory
+operations. Finally, given the existence of a margin coverage obligation in the United Kingdom as well as
+between the applicable wholesale rates and anticipated the Parties’ own plans and developments by third
+retail rates, and given that most traffic will not be parties in the United Kingdom, it is appropriate to
+roamed, it is likely that the potential for a significant exempt roaming in the ‘residual area’ of the IBA until
+degree of price differentiation remains. The Agreement 31 December 2007.
+also allows either Party to supply wholesale airtime to
+MVNOs and SPs, including via roaming on the
+other Party’s network. Competition is therefore not
+eliminated for a substantial part of any of the markets
+identified as affected by the Agreement. (152) The DA covers less densely populated and commercially less attractive areas of the United Kingdom.
+Therefore an exemption for roaming in the DA can
+be justified for a longer period than in the IBA, in
+particular to the extent that the Parties are going
+beyond their regulatory obligations to cover some of
+2.5.5. CONCLUSION ON ARTICLE 81(3) OF THE TREATY/ the more remote parts of the United Kingdom.
+ARTICLE 53(3) OF THE EEA AGREEMENT However, the markets affected by the restrictions in
+the Agreement are emerging markets and therefore the
+likely effects of those restrictions cannot be evaluated
+for a period that substantially exceeds five years.
+Consequently the Commission considers it appropriate
+to grant an exemption until 31 December 2008. The
+(149) It is concluded that all the conditions for an individual commercial and regulatory situation prevailing at the
+exemption pursuant to Article 81(3) of the Treaty and end of that period may be such that Article 81(3) of
+Article 53(3) of the EEA Agreement are met in respect the Treaty continues to apply to roaming across parts
+of the restrictions of competition related to the of the DA.
+
+L 200/84 EN Official Journal of the European Union 7.8.2003
+
+(153) According to Article 6 of Regulation No 17, a Decision national roaming within the residual area of the Initial Build
+pursuant to Article 81(3) of the Treaty must not take Area as defined in the Parties’ statement of 12 March 2003
+effect from an earlier date than the date of notification. from 6 February 2002 until 31 December 2007.
+Accordingly, in so far as it grants an exemption from
+Article 81(1) of the Treaty/Article 53(1) of the EEA Article 3
+Agreement , this Decision should take effect from
+6 February 2002. It should apply: Pursuant to Article 81(3) of the Treaty and Article 53(3) of
+the EEA Agreement, the provisions of Articles 81(1) of the
+(a) until 31 December 2007 in relation to national Treaty and Article 53(1) of the EEA Agreement are declared
+roaming in the ‘residual area’ of the IBA; inapplicable to the provisions of the Agreement that concern
+national roaming within the Divided Area, from 6 February
+(b) until 31 December 2008 in relation to national 2002 until 31 December 2008.
+roaming in the DA.
+
+Article 4
+(154) This Decision is without prejudice to the application
+of Article 82 of the Treaty and Article 54 of the EEA This Decision is addressed to:
+Agreement,
+O2 UK Limited
+HAS ADOPTED THIS DECISION: 260 Bath Road
+Slough
+Berkshire
+Article 1 SL1 4DX
+United Kingdom
+On the basis of the facts in its possession, there are no
+andgrounds under Article 81(1) of the Treaty or Article 53(1)
+of the EEA Agreement for action on the part of the T-Mobile UK
+Commission in respect of the provisions of the Agreement Imperial Place
+between O2 UK Limited and T-Mobile UK Limited dated Maxwell Road
+20 September 2001 and amended on 9 April 2002 (‘the Borehamwood
+Agreement’) that relate to site sharing and the exchange of Hertfordshire
+information necessary to permit site sharing and national WD6 1EA
+roaming. United Kingdom.
+
+Article 2 Done at Brussels, 30 April 2003.
+
+Pursuant to Article 81(3) of the Treaty and Article 53(3) of For the Commission
+the EEA Agreement, the provisions of Articles 81(1) of the
+Mario MONTI
+Treaty and Article 53(1) of the EEA Agreement are declared
+inapplicable to the provisions of the Agreement that concern Member of the Commission

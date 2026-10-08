@@ -1,0 +1,440 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Case AT.40452 – Mobile Payments
+Proposal of Commitments to the European Commission
+
+1. Introduction
+1.1. In accordance with Article 9 of Regulation 1/2003, Apple offers the following voluntary
+commitments (the “Commitments”) to the Commission.
+
+1.2. Consistent with Article 9 of Regulation 1/2003, these Commitments are given on the
+understanding that the Commission will close the proceedings opened on June 16, 2020
+under Case AT.40452. Nothing in these Commitments may be construed as implying that
+Apple agrees with any preliminary views expressed by the Commission in Case AT.40452.
+The Commitments should not be construed as an admission by Apple that any of its conduct
+infringed Articles 101 or 102 of the Treaty on the Functioning of the European Union or
+Articles 53 or 54 of the EEA Agreement.
+
+1.3. These Commitments cover In-Store Payments using Near Field Communication (“NFC”)
+with iOS smart mobile phones. Nothing in these Commitments may be construed as
+implying that Apple considered that it had an obligation to provide the elements set out in
+the Commitments under the Digital Markets Act (“DMA”), including Apple’s commercial
+decision to offer the NFC Technical Solution set forth herein free-of-charge. These
+Commitments are without prejudice to Apple’s current or future obligations under other
+regulations, in particular relating to other use cases and functionalities within the scope of
+the DMA and the implementation of the Digital Euro.
+
+1.4. The Commitments intend to fully address the Commission’s preliminary concerns by
+providing HCE Developers with the option to access and interoperate with the NFC
+Controller and deploy HCE Payment Applications on iOS. Eligible HCE Payment
+Applications will be able to operate without the involvement of Apple Pay or Wallet.
+
+1.5. These Commitments are without prejudice to Apple’s position should the Commission or
+any other party conduct proceedings or commence other legal action against Apple in a
+matter covered by these Commitments.
+
+2. Definitions
+2.1. “Account-based payments” means payments which use bank accounts or an account with
+the payment provider as funding mechanism.
+
+2.2. “APDU” means an application protocol data unit as defined by ISO/IEC 7816-4.
+
+2.3. “Apple” means Apple Inc., a corporation organized under the laws of California, United
+States, with its principal place of business at One Apple Park Way, Cupertino, CA 95014,
+United States and Apple Distribution International Limited, a company organized under
+the laws of Ireland, with its principal place of business at Hollyhill Industrial Estate,
+Hollyhill Cork, T23 YK84, Ireland.
+
+2.4. “Apple SDK” means the Apple-proprietary Software Development Kits (SDKs) provided
+
+1
+
+to the Developer under the Apple Developer Program License Agreement as applicable
+under the eligibility criterion at para. 3.14(1) of these Commitments, including but not
+limited to header files, APIs, libraries, simulators, and software (source code and object
+code) labeled as part of iOS SDK and included in Xcode.
+
+2.5. “Apple Watch” means Apple’s smartwatches capable of upgrading to the latest versions
+of WatchOS (currently v. 10).
+
+2.6. “Application” or “App” means one or more software programs (including extensions,
+media, and code modules that are enclosed in a single software bundle), developed by the
+Developer in compliance with the Documentation and the Program Requirements, for
+distribution under the Developer’s own trademark or brand, and for specific use with an
+Eligible Device, including bug fixes, updates, upgrades, modifications, enhancements,
+supplements to, revisions, new releases and new versions of such software programs.
+
+2.7. “Application Processor” means the processor in iPhone on which third-party Applications
+are executed.
+
+2.8. “Application Programming Interface” or “API” means a set of functions and procedures
+allowing the creation of Applications that access certain features or data of iOS,
+Applications, or other services.
+
+2.9. “Card-based payments” means payments which use payment cards as funding
+mechanism.
+
+2.10. “Commission” means the European Commission.
+
+2.11. “Developer” means and refers to a) the person(s) or legal entity (whether the company,
+organization, or any applicable legal form) that has accepted the terms of the Apple
+Developer Program License Agreement under its own developer account and that is using
+the software provided to the Developer under the Apple Developer Program License
+Agreement as applicable under the eligibility criterion at para. 3.14(1) of these
+Commitments or otherwise exercising rights under the Apple Developer Program License
+Agreement; b) providers of technical solutions that have accepted the terms of the Apple
+Developer Program License Agreement under their own developer account, that are using
+the software provided to them under the Apple Developer Program License Agreement and
+that have been granted a development entitlement for purposes of developing technology
+for Eligible HCE Payment Applications; or c) the person(s) or legal entity that will use any
+other software application distribution channel that is allowed and which is operating on
+iOS in the EEA for its HCE Payment Application and has accepted the terms of the Apple
+Developer Program License Agreement under its own developer account solely for access
+to the developer environment without obligation to distribute their HCE Payment
+Application through Apple’s App Store.
+
+2.12. “Developer Applicant” is a Developer which intends to be authorized under the NFC
+Entitlement Program.
+
+2
+
+2.13. “Digital Markets Act” or “DMA” means Regulation (EU) 2022/1925 of the European
+Parliament and of the Council of September 14, 2022 on contestable and fair markets in
+the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828.
+
+2.14. “Documentation” means any technical or other specifications or documentation that Apple
+may provide to the Developer under the Apple Developer Program License Agreement as
+applicable under the eligibility criterion at para. 3.14(1) of these Commitments.
+
+2.15. “Documented API(s)” means the Application Programming Interface(s) documented by
+Apple in the Documentation defined at para. 2.14 of these Commitments and contained in
+the software provided to the Developer under the Apple Developer Program License
+Agreement as applicable under the eligibility criterion at para. 3.14(1) of these
+Commitments.
+
+2.16. “Double-click” refers to a physical gesture of double-clicking the side button (for Face ID
+devices) or the home button (for Touch ID devices) to launch the default Payment
+Application and have it ready for contactless payment.
+
+2.17. “EEA” means those countries participating in the European Economic Area as of the
+Effective Date of these Commitments and at any time thereafter during the term of these
+Commitments.
+
+2.18. “EEA iOS user” means an iOS user who has an Apple ID registered in the EEA and is
+using iOS within the EEA (or while traveling temporarily, without change of residence,
+outside the EEA).
+
+2.19. “Effective Date” means the date upon which Apple receives formal notification of a
+Commitment Decision by which the Commission makes the Commitments binding on
+Apple.
+
+2.20. “Eligible Credential” means a payment card credential or an account-based payment
+credential based on the NFC-Forum ISO-DEP specification based on ISO/IEC 14443-4 for
+both TYPE-A/TYPE-B cards and current or future standards and specifications which are
+compatible with the NFC Technical Solution pursuant to paras. 3.10 and 3.11 of these
+Commitments.
+
+2.21. “Eligible Device” means iPhone devices capable of upgrading to the latest and any future
+versions of iOS (at the time of the adoption of the Commitments, iPhone XS and above).
+
+2.22. “Eligible HCE Payment Application” is an HCE Payment Application which an HCE
+Developer intends to offer to EEA iOS users through an app store storefront located and
+limited to the distribution of Apps in the EEA.
+
+2.23. “Field Detect” refers to a functionality where a user presents a locked iPhone to an NFC
+reader, and the iPhone presents the user with the default Payment Application for
+contactless presentment upon detecting an NFC field.
+
+2.24. “General Data Protection Regulation” or “GDPR” means Regulation (EU) 2016/679 of
+
+3
+
+the European Parliament and of the Council of April 27, 2016 on the protection of natural
+persons with regard to the processing of personal data and on the free movement of data,
+and repealing Directive 95/46/EC.
+
+2.25. “HCE Developer” is a Developer that meets the eligibility criteria defined at para. 3.14.
+
+2.26. “HCE Payment Application” is a Payment Application which will utilize HCE
+technology to facilitate NFC In-Store Payments on Eligible Devices.
+
+2.27. “Host Card Emulation” or “HCE” is a technology which will allow HCE Payment
+Applications located in the Application Processor (or host CPU) to emulate an Eligible
+Credential, communicate directly with a compatible NFC reader, and securely store host
+card data or account-based payment credential data. The NFC Technical Solution will
+enable Eligible HCE Payment Applications to facilitate card-based and account-based NFC
+In-Store Payments.
+
+2.28. “In-store Payment” means any payment made at a merchant’s industry-certified physical
+point-of-sale payment terminal, including terminals that accept EMVCo payments, such as
+SoftPOS terminals based on industry-standard NFC protocols. This is without prejudice to
+the DMA or other regulations.
+
+2.29. “iOS” means the iOS operating system software provided by Apple for use by the
+Developer only in connection with the development, testing, and distribution of the
+Developer’s HCE Payment Application, including any successor versions thereof.
+
+2.30. “Near Field Communication” or “NFC” is a standardized wireless connectivity
+technology that enables devices to exchange information wirelessly within a few
+centimeters range.
+
+2.31. “NFC Controller” is a chip integrated in an Eligible Device which includes an NFC frontend and a microcontroller capable of running application logic which ensures the
+communication between the device and the payment terminal through their antennas.
+
+2.32. “NFC Interface” is a set of iOS APIs that enable communication with the NFC Controller.
+
+2.33. “NFC Entitlement Program” means the Apple program under which access to the NFC
+Technical Solution will be accessible to HCE Developers.
+
+2.34. “NFC In-Store Payment” is an In-store Payment using NFC technology to initiate the
+payment process at a merchant’s industry-certified payment terminal at a point of sale,
+including terminals that accept EMVCo payments, such as SoftPOS terminals based on
+industry-standard NFC protocols. This is without prejudice to the DMA or other
+regulations.
+
+2.35. “NFC Technical Solution” means the technical solution Apple will develop under these
+Commitments, including the components detailed at paras. 3.1-3.9.
+
+2.36. “Payment Application” is an Application which will utilize NFC technology on an
+Eligible Device to make In-Store Payments.
+4
+
+2.37. “Person” means any individual, corporation, limited liability company, partnership, firm,
+joint venture, association, trust, unincorporated organization, governmental body, or other
+entity.
+
+2.38. “Program Requirements” mean the technical, human interface, design, product category,
+security, performance, and other criteria and requirements specified by Apple in the Apple
+Developer Program License Agreement as applicable under the eligibility criterion at
+para. 3.14(1) of these Commitments.
+
+2.39. “Secure Element” or “SE” is an industry-standard certified chip on iPhone running the
+Java Card platform, which is compliant with financial industry requirements for electronic
+payments.
+
+2.40. “Secure Enclave” means a secure subsystem integrated into iPhone that processes,
+encrypts, and stores Face ID and Touch ID template data for comparison with incoming
+data from the biometric sensor to determine whether to unlock the device or respond that a
+match is valid when Face ID or Touch ID is used.
+
+2.41. “Security Incident” means any actual or reasonably suspected theft, loss, or unauthorized
+access, use, or disclosure, of personal data in an HCE Developer’s or its third-party service
+providers’ possession, custody or control, or in connection with the NFC Entitlement, NFC
+Interface, or an HCE Developer’s Eligible HCE Payment Application.
+
+2.42. “Suppression Mechanism” means a functionality which will enable an HCE Payment
+Application that is in the foreground to complete the NFC In-Store Payment without
+interference by temporarily suppressing Apple Pay, Wallet, or any other Eligible HCE
+Payment Application that has default access to NFC, promoting co-existence of multiple
+Payment Applications on iPhone.
+
+2.43. “Wallet” means Apple’s Application that has the ability to store and display passes for use
+on iOS.
+
+2.44. “WatchOS” means the operating system software provided by Apple for use by the
+Developer with its smartwatches, including any successor versions thereof.
+
+2.45. “Xcode” is Apple’s integrated development environment for all Apple platforms which
+enables Developers to develop, test, and distribute Applications for all Apple platforms.
+
+3. Commitments
+3.1. HCE Developers will be allowed to deploy Eligible HCE Payment Applications on iOS by
+providing them with the option of accessing and interoperating with the NFC Controller
+for the purposes of facilitating NFC In-Store Payments for EEA iOS users without the
+involvement of Apple Pay or Wallet. A Developer will be able to distribute an Eligible
+HCE Payment Application through Apple’s App Store in the EEA or any other software
+application distribution channel that is allowed and which is operating on iOS in the EEA.
+Apple has made a commercial decision that the use of the NFC Technical Solution will not
+
+5
+
+be subject to any payment to Apple, including any fees for NFC In-store Payments carried
+out through HCE Payment Applications by EEA iOS users on Eligible Devices. For the
+avoidance of doubt, HCE Developers will be subject to the same fees as all other
+Developers, but no fees related to the use of the NFC Technical Solution.
+
+3.2. HCE Developers will be able to request an entitlement to use the NFC Controller and
+relevant APIs for the sole purpose of developing, testing, and distributing Eligible HCE
+Payment Applications to EEA iOS users through an app store storefront located and limited
+to the distribution of Apps in the EEA (including any other software application distribution
+channel that is allowed and which is operating on iOS in the EEA) that can perform the
+following functions for NFC In-Store Payments:
+
+(1) Emulate an Eligible Credential and communicate with a compatible NFC reader to
+complete an NFC In-Store Payment;
+
+(2) Route data between the Application Processor and an NFC reader without the
+involvement of the SE, Wallet, or Apple Pay;
+
+(3) Enable EEA iOS u
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+tribution that is allowed on iOS in the EEA). You acknowledge
+and agree that You are, in Your capacity as the legal entity responsible for any user data
+processed in connection with the use of Your HCE Payments Application, solely
+responsible for complying with applicable data protection and privacy laws and
+regulations.
+
+9.2. Nothing herein shall imply that Apple will accept Your HCE Payments Application for
+distribution on the App Store, and You acknowledge and agree that Apple may reject,
+or cease distributing Your Licensed HCE Payment Application for the reasons set out in
+Section 2.5 of the Addendum. For clarity, once Your Licensed HCE Payment
+Application has been selected for distribution via the App Store or any other software
+application distribution channel that is allowed and which is operating on iOS in the EEA,
+it will be considered a “Licensed Application” under the Developer Agreement, and such
+Application must be in current distribution on the App Store (or any other software
+application distribution channel that is allowed and which is operating on iOS in the EEA)
+to access and use the HCE Payments Entitlement Profile and HCE APIs.
+
+9.3. Apple shall not be responsible for any costs, expenses, damages, losses (including,
+without limitation, lost business opportunities or lost profits) or other liabilities You may
+incur as a result of the development of Your Licensed HCE Payment Application or use
+of any Apple Materials, including without limitation the fact that Your Licensed HCE
+Payment Application may not be selected for distribution via the App Store.
+
+10. Complaint Mechanism
+
+If Apple rejects Your Licensed HCE Payment Application and You disagree with Apple’s decision,
+You can approach Apple in the manner prescribed in the Apple Materials to settle the dispute
+through cooperation and consultation. If the dispute is not resolved through cooperation and
+consultation, You may resort to the NFC Entitlement Program Dispute Resolution Procedure
+established under the Commitments. Details on the NFC Entitlement Program Dispute Resolution
+Procedure are available on the Apple Developer Webpage.
+
+11. Confidentiality
+
+You agree that the Apple Materials, any non-public information regarding Apple-branded products
+obtained through the use of HCE Payments Entitlement Profile, HCE APIs and related Apple
+Materials provided or made available to You by Apple, shall be considered and treated as “Apple
+Confidential Information” and must be protected in accordance with Section 9 of the Developer
+Agreement. You agree to use such Apple Confidential Information solely for the purpose of
+exercising Your rights and performing Your obligations under this Addendum and agree not to use
+such Apple Confidential Information for any other purpose, including for Your own or any third
+party’s benefit, without Apple’s prior written consent. You further agree not to disclose or
+
+33
+
+disseminate Apple Confidential Information to anyone other than those of Your employees and
+contractors who have a need to know and who are bound by a written agreement that prohibits
+unauthorized use or disclosure of the Apple Confidential Information.
+
+Apple will not use information You provide under this Addendum that is not publicly available and
+which is generated by You in the context of running Your HCE Payment Application on iOS for
+any other purpose than for exercising rights and performing obligations under this Addendum.
+
+12. Additional Indemnification Obligations
+
+Without limiting Apple’s other rights under the Developer Agreement, You agree to indemnify and
+hold harmless an Apple Indemnified Party from any and all Losses incurred by an Apple
+Indemnified Party arising from or related to any of the following, as long as this is consistent with
+the Commitments:
+
+12.1. any claims that You have breached a contract between You and any third party relating
+to the use of the HCE Payments Entitlement Profile or HCE APIs;
+
+12.2. any failure to comply with applicable laws by You or any of Your service providers;
+
+12.3. any claims relating to transactions made through Your Licensed HCE Payment
+Application;
+
+12.4. any claims relating to Your use of the HCE Payments Entitlement Profile or HCE APIs
+in a manner not in accordance with the Developer Agreement, this Addendum or the
+Apple Materials;
+
+12.5. any claims relating to a security or data breach of or caused by Your Licensed HCE
+Payment Application, HCE infrastructure or other back-end systems;
+
+12.6. any claims that provision to You or Your use of the HCE Payments Entitlement Profile
+or HCE APIs breaches any third-party intellectual property rights.
+
+13. Your acknowledgements
+
+As long as this is consistent with the Commitments you acknowledge and agree that:
+
+13.1. Apple makes no guarantees to You in relation to the availability, completeness, or
+accuracy of the Apple Materials, the HCE Payments Entitlement Profile or HCE APIs, or
+any information obtained through the use of the HCE Payments Entitlement Profile and
+HCE APIs, and Apple is not obligated to provide any maintenance, technical or other
+support for the HCE Payments Entitlement Profile, HCE APIs or the Apple Materials,
+other than what is provided for in the Commitments. You are fully responsible for testing
+Your Licensed HCE Payment Application and the use of the HCE Payments Entitlement
+Profile and HCE APIs with each new release of the Apple operating system software.
+
+13.2. You will not be permitted to access or use the HCE Payments Entitlement Profile, HCE
+APIs or Apple Materials after expiration or termination of this Addendum or Your
+Developer Agreement. If You choose to stop using the HCE Payments Entitlement
+Profile and HCE APIs or do not intend to renew the Term of Your Developer Agreement,
+You must submit an update to Your Licensed HCE Payment Application removing the
+
+34
+
+use of the HCE Payments Entitlement Profile and HCE APIs prior to the expiration of
+the Term. In addition, the restrictions on the use and disclosure of Personal Data shall
+survive all termination or expiration of this Addendum.
+
+13.3. The Apple Materials, HCE Payments Entitlement Profile and HCE APIs are provided by
+Apple to You on an “AS IS” and “AS AVAILABLE” basis. USE OF THE APPLE
+MATERIALS, HCE PAYMENTS ENTITLEMENT PROFILE, HCE APIs AND LICENSED
+HCE PAYMENT APPLICATION IS AT YOUR SOLE RISK AND THE ENTIRE RISK AS
+TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, RELIABILITY,
+COMPATIBILITY, AND EFFORT IS WITH YOU. APPLE MAKES NO WARRANTIES,
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED
+WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE, REGARDING THE APPLE MATERIALS, HCE
+PAYMENTS ENTITLEMENT PROFILE, HCE APIS, OR ANY FUNCTIONALITY
+RELATED TO IOS, ELIGIBLE DEVICES, HCE PAYMENTS ENTITLEMENT PROFILE,
+HCE APIS, OR THEIR USE OR OPERATION ALONE OR IN COMBINATION WITH
+YOUR LICENSED HCE PAYMENT APPLICATION, PRODUCTS, SYSTEMS,
+SERVICES OR EQUIPMENT. APPLE DOES NOT WARRANT THAT THE APPLE
+MATERIALS, HCE PAYMENTS ENTITLEMENT PROFILE, HCE APIs OR THEIR
+IMPLEMENTATION IN YOUR LICENSED HCE PAYMENT APPLICATION WILL MEET
+YOUR REQUIREMENTS, THAT THE OPERATION OF THE APPLE MATERIALS, HCE
+PAYMENTS ENTITLEMENT PROFILE, HCE APIS OR YOUR LICENSED HCE
+PAYMENT APPLICATION WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT
+THE APPLE MATERIALS, HCE PAYMENTS ENTITLEMENT PROFILE OR HCE APIS
+WILL BE COMPATIBLE WITH ANY APPLE PRODUCTS, SOFTWARE OR SERVICES
+OR ANY THIRD-PARTY SOFTWARE, APPLICATIONS, SERVICES OR EQUIPMENT.
+
+PROVIDED HOWEVER THAT WHERE AN ERROR IS IDENTIFIED IN RELATION TO
+THE NFC TECHNICAL SOLUTION, THEN APPLE WILL USE COMMERCIALLY
+REASONABLE EFFORTS TO RESOLVE THE ERROR WITHOUT ANY UNDUE
+DELAY. FOR THE AVOIDANCE OF DOUBT, THIS DOES NOT INCLUDE ERRORS
+AFFECTING ONLY YOUR SPECIFIC LICENSED HCE PAYMENT APPLICATION,
+WHICH ARE CAUSED BY YOU OR YOUR THIRD PARTY SERVICE PROVIDER OR
+ARE PRESUMED TO BE CAUSED BY THE IMPLEMENTATION OF THE NFC
+TECHNICAL SOLUTION AND NOT THE NFC TECHNICAL SOLUTION ITSELF.
+
+14. Additional Liability Disclaimer.
+
+AS LONG AS THIS IS CONSISTENT WITH THE COMMITMENTS, APPLE SHALL NOT BE
+LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM ANY USE, DISTRIBUTION,
+MISUSE, RELIANCE ON, INABILITY TO USE, INTERRUPTION, SUSPENSION, OR
+TERMINATION OF THE HCE PAYMENTS ENTITLEMENT PROFILE, HCE APIS, YOUR
+LICENSED HCE PAYMENT APPLICATION, OR ANY SERVICES PROVIDED IN CONNECTION
+THEREWITH, INCLUDING, BUT NOT LIMITED TO, ANY LOSS OR FAILURE TO SET UP AN
+END-USER, COMPLETE A TRANSACTION, UTILIZE ANY FEATURE OR FUNCTIONALITY OR
+ANY THIRD PARTY OR END-USER CLAIMS ARISING FROM ANY OF THE FOREGOING.
+
+15. Changes to this Addendum; Termination.
+
+Apple may change the terms of this Addendum at any time, as long as such changes are
+consistent with the Commitments. In order to continue using the HCE Payments Entitlement
+
+35
+
+Profile or HCE APIs, You must accept and agree to any new Program Requirements, Apple
+Materials or Addendum terms which shall be designed by Apple in a manner that conforms with
+the Commitments. If You do not agree to the new Program Requirements, Apple Materials or
+Addendum terms, Your use of the HCE Payments Entitlement Profile or HCE APIs may be
+suspended or revoked or the Addendum may be terminated by Apple. Termination of this
+Addendum will not constitute termination of the Developer Agreement; provided, however, that
+termination of the Developer Agreement will constitute termination of this Addendum. The
+following provisions will survive the termination or expiration of the Addendum: Section 1
+(Definitions), Section 4 (HCE Program Requirements), Section 8 (Records and Audits), Section
+10 (Complaint mechanism), Section 11 (Confidentiality), Section 12 (Additional Indemnification
+Obligations), Section 13 (Your acknowledgements), and Section 14 (Additional Liability
+Disclaimer). In the event of a conflict between this Addendum and the Developer Agreement, this
+Addendum will take precedent with respect to such conflict.
+
+36

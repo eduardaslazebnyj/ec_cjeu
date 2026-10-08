@@ -1,0 +1,474 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+KOMISJA EUROPEJSKA
+
+Bruksela, dnia 22.6.2011
+
+DECYZJA KOMISJI
+z dnia 22 czerwca 2011 r.
+dotycząca postępowania przewidzianego w art. 102 Traktatu o funkcjonowaniu Unii
+Europejskiej (TFUE)
+(COMP/39.525 – Telekomunikacja Polska)
+
+(Jedynie tekst w języku polskim jest autentyczny)
+
+"Fragmenty tego tekstu zostały przeredagowane tak aby nie ujawniały tajemnic
+handlowych i innych informacji poufnych. Wycięte fragmenty zostały zastąpione
+nawiasami kwadratowymi wraz z gwiazdką [*] lub z odpowiednim streszczeniem
+[streszczenie]"
+
+SPIS TREŚCI
+
+I. WPROWADZENIE I OPIS NARUSZENIA..............................................................8
+
+II. PROCEDURA.............................................................................................................9
+
+III. STRONY, KTÓRYCH DOTYCZY DECYZJA.......................................................10
+
+1. Adresat decyzji – Telekomunikacja Polska S.A..............................................10
+2. Operatorzy alternatywni..................................................................................11
+
+IV. PRODUKTY, KTÓRYCH DOTYCZY DECYZJA.................................................12
+
+1. Stacjonarny detaliczny szerokopasmowy dostęp do Internetu w Polsce.........13
+2. Produkty hurtowego szerokopasmowego dostępu do Internetu w
+Polsce...............................................................................................................18
+2.1 Hurtowy dostęp szerokopasmowy (BSA) .........................................20
+2.2 Dostęp do pętli lokalnej (LLU) .........................................................22
+
+V. RAMY REGULACYJNE .........................................................................................23
+
+VI. PROCEDURY I WARUNKI DOSTĘPU DO HURTOWYCH
+PRODUKTÓW SZEROKOPASMOWYCH............................................................27
+
+1. Hurtowy dostęp szerokopasmowy (BSA) .......................................................28
+1.1 Zawarcie umowy o dostępie..............................................................30
+1.2 Dostęp do PDU..................................................................................30
+1.3 Zamówienia na łącza abonenckie i ich aktywacja.............................32
+1.4 Przekazywanie informacji ogólnych .................................................34
+2. Dostęp do lokalnej pętli abonenckiej ..............................................................34
+2.1 Zawarcie umowy o dostępie i umowy kolokacji...............................37
+2.2 Zamówienia na kolokację lub kabel korespondencyjny....................37
+2.3 Zamówienia na łącza abonenckie i ich aktywacja.............................39
+2.4 Przekazywanie informacji ogólnych i audyt techniczny...................41
+
+VII. WŁAŚCIWOŚĆ KOMISJI I ZASADA NE BIS IN IDEM.......................................41
+
+1. Argumenty TP dotyczące braku właściwości Komisji do badania
+praktyk TP oraz wnioski Komisji....................................................................41
+2. Argumenty TP dotyczące stosowania zasady ne bis in idem i wnioski
+Komisji ............................................................................................................46
+3. Wnioski............................................................................................................48
+
+VIII. UDOSTĘPNIANIE PRZEZ TP PRODUKTÓW HURTOWEGO DOSTĘPU
+SZEROKOPASMOWEGO.......................................................................................48
+
+1. Strategia TP ukierunkowana na ograniczenie konkurencji .............................49
+
+2
+
+2. Negocjowanie umów o dostępie do hurtowych produktów
+szerokopasmowych..........................................................................................54
+2.1 Proponowanie przez TP projektów umów zawierających
+niekorzystne warunki.........................................................................54
+2.1.1. Warunki dotyczące BSA ...................................................55
+2.1.2. Warunki dotyczące LLU ...................................................81
+2.1.3. Ogólne argumenty TP........................................................93
+2.1.4. Wniosek.............................................................................97
+2.2 Techniki opóźniania negocjacji stosowane przez TP........................98
+2.2.1. Opóźnienia na początkowym etapie negocjacji w
+sprawie dostępu ...............................................................101
+2.2.2. Dalsze opóźnienia na etapie negocjowania klauzul
+umownych .......................................................................103
+2.2.3. Brak upoważnienia dla przedstawicieli TP do
+zaciągania zobowiązań....................................................104
+2.2.4. Bezzasadnie długotrwała procedura podpisywania
+umów...............................................................................106
+2.2.5. Ogólna strategia negocjacyjna TP...................................107
+2.2.6. Argumenty TP .................................................................112
+2.2.7. Wniosek...........................................................................119
+3. Ograniczony dostęp do sieci TP....................................................................120
+3.1 Duża liczba zamówień OA odrzuconych z przyczyn
+formalnych i technicznych ..............................................................120
+3.2 Długotrwała realizacja zamówień OA.............................................124
+3.3 Uzyskanie lepszych warunków dostępu było możliwe...................124
+3.4 Argumenty TP .................................................................................125
+3.5 Wniosek...........................................................................................136
+4. Przyłączanie abonentów................................................................................136
+4.1 Duża liczba zamówień OA odrzuconych z przyczyn
+formalnych i technicznych ..............................................................137
+4.2 Ograniczona dostępność łączy abonenckich ...................................143
+4.3 Opóźnienia w realizacji zamówień..................................................144
+4.4 Argumenty TP .................................................................................147
+4.5 Wniosek...........................................................................................156
+5. TP nie przekazywała OA wiarygodnych i pełnych informacji ogólnych......156
+5.1 Jakość i kompletność informacji ogólnych .....................................157
+5.2 Format informacji ogólnych............................................................161
+5.3 Udostępnienie interfejsu systemu informatycznego (interfejsu
+IT)....................................................................................................161
+
+3
+
+5.4 Dostęp do lepszej jakości danych był możliwy...............................163
+5.5 Argumenty TP .................................................................................165
+5.6 Wniosek...........................................................................................171
+6. Wniosek oparty na faktach............................................................................171
+
+IX. POROZUMIENIE MIĘDZY TP A UKE Z DNIA 22 PAŹDZIERNIKA
+2009 R. I SYTUACJA RYNKOWA PO ZAWARCIU POROZUMIENIA...........171
+
+1. Treść Porozumienia.......................................................................................171
+2. Przeprowadzona przez Komisję analiza sytuacji rynkowej po zawarciu
+Porozumienia.................................................................................................173
+3. Wniosek.........................................................................................................178
+
+X. OCENA SYTUACJI PRAWNEJ I EKONOMICZNEJ..........................................178
+
+1. Właściwe rynki produktowe..........................................................................178
+1.1 Właściwy rynek detaliczny..............................................................179
+1.1.1. Prędkość połączenia, technologia i ceny.........................179
+1.1.2. Wniosek...........................................................................183
+1.2 Właściwe rynki hurtowe..................................................................183
+1.2.1. Substytucyjność między hurtową usługą
+uwolnionego dostępu do pętli abonenckiej (LLU) a
+hurtowym dostępem szerokopasmowym (BSA).............185
+1.2.2. Wykluczenie innych technologii z hurtowych
+rynków właściwych.........................................................188
+1.2.3. Wniosek...........................................................................190
+2. Właściwy rynek geograficzny .......................................................................190
+3. Pozycja dominująca.......................................................................................193
+3.1 Pozycja dominująca na rynkach hurtowych (LLU i BSA)..............194
+3.1.1. Udziały w rynku ..............................................................194
+3.1.2. Bariery rozwoju i wejścia................................................194
+3.1.3. Wniosek...........................................................................199
+3.2 Pozycja dominująca na rynku detalicznym .....................................199
+3.2.1. Udziały rynkowe .............................................................199
+3.2.2. Bariery rozwoju i wejścia................................................201
+3.2.3. Wniosek...........................................................................205
+3.3 Wniosek dotyczący pozycji dominującej ........................................205
+4. Nadużycie pozycji dominującej przez TP.....................................................205
+4.1 Wprowadzenie.................................................................................205
+4.2 Odmowa udzielenia przez TP dostępu do swojej sieci ...................208
+4.2.1. Strategia ograniczania konkurencji przez TP..................208
+
+4
+
+4.2.2. Proponowanie niekorzystnych warunków dostępu
+OA do hurtowych produktów szerokopasmowych .........210
+4.2.3. Opóźnianie procesu negocjacji na różnych jego
+etapach.............................................................................211
+4.2.4. Ograniczony dostęp do sieci TP......................................216
+4.2.5. Ograniczony dostęp do łączy abonenckich .....................219
+4.2.6. Odmowa udostępniania wiarygodnych i pełnych
+informacji ogólnych.........................................................223
+4.2.7. Argumenty horyzontalne TP w odniesieniu do
+nadużyć............................................................................224
+4.2.8. Wniosek...........................................................................227
+4.3 Obowiązek udzielenia dostępu i brak alternatywnej
+infrastruktury ...................................................................................227
+4.4 Prawdopodobny wpływ na konkurencję i konsumentów................230
+4.4.1. Jest prawdopodobne, że zachowanie TP ograniczało
+zdolność innych operatorów DSL do skutecznego
+konkurowania na rynku detalicznym...............................231
+4.4.2. Analiza ilościowa prawdopodobnego wpływu na
+konkurencyjną strukturę rynku........................................234
+4.4.3. Jest prawdopodobne, że zachowanie TP negatywnie
+wpływało na konsumentów.............................................238
+4.4.4. Analiza ilościowa prawdopodobnego wpływu na
+konsumentów...................................................................240
+4.4.5. Wykluczenie operatorów alternatywnych było
+racjonalną strategią korzystną dla TP..............................250
+4.4.6. Wniosek...........................................................................251
+4.5 Obiektywne uzasadnienie i korzyści w postaci wzrostu
+efektywności....................................................................................252
+4.5.1. Argumenty TP .................................................................252
+4.5.2. Ocena Komisji.................................................................254
+4.5.3. Wniosek...........................................................................256
+
+XI. WPŁYW NA HANDEL MIĘDZY PAŃSTWAMI CZŁONKOWSKIMI.............256
+
+XII. ŚRODKI ZARADCZE I GRZYWNY....................................................................257
+
+1. Artykuł 7 ust. 1 rozporządzenia (WE) nr 1/2003 ..........................................257
+2. Artykuł 23 ust. 2 rozporządzenia (WE) nr 1/2003 ........................................258
+3. Kwota podstawowa grzywny ........................................................................258
+3.1 Ustalenie wartości sprzedaży ..........................................................258
+3.2 Ustalenie podstawowej kwoty grzywny..........................................259
+3.2.1. Waga naruszenia..............................................................259
+3.2.2. Czas trwania naruszenia ..................................................261
+5
+
+3.2.3. Konkluzja dotycząca podstawowej kwoty grzywny .......261
+4. Dostosowanie kwoty podstawowej ...............................................................261
+5. Podsumowanie...............................................................................................262
+
+6
+
+DECYZJA KOMISJI
+z dnia 22 czerwca 2011 r.
+dotycząca postępowania przewidzianego w art. 102 Traktatu o funkcjonowaniu Unii
+Europejskiej (TFUE)
+(COMP/39.525 – Telekomunikacja Polska)
+
+(Jedynie tekst w języku polskim jest autentyczny)
+
+KOMISJA EUROPEJSKA,
+
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej1,
+
+uwzględniając rozporządzenie Rady (WE) nr 1/2003 z dnia 16 grudnia 2002 r. w sprawie
+wprowadzenia w życie reguł konkurencji ustanowionych w art. 81 i 82 Traktatu2, w
+szczególności jego art. 7 i art. 23 ust. 2,
+
+uwzględniając decyzję Komisji z dnia 17 kwietnia 2009 r. o wszczęciu postępowania w
+tej sprawie,
+
+zapewniwszy zainteresowanym przedsiębiorstwom możliwość przekazania opinii na
+temat zastrzeżeń wyrażonych przez Komisję na podstawie art. 27 ust. 1 rozporządzenia
+(WE) nr 1/2003 i art. 12 rozporządzenia Komisji (WE) nr 773/2004 z dnia 7 kwietnia
+2004 r. odnoszącego się do prowadzenia przez Komisję postępowań zgodnie z art. 81 i
+82 Traktatu WE3,
+
+po zasięgnięciu opinii Komitetu Doradczego ds. Praktyk Ograniczających Konkurencję i
+Pozycji Dominującej,
+
+uwzględniając sprawozdanie końcowe urzędnika przeprowadzającego spotkanie
+wyjaśniające w tej sprawie4,
+
+a także mając na uwadze, co następuje:
+
+1
+Dz. U. C 115 z 9.5.2008, s. 47.
+2
+Dz.U. L 1 z 4.1.2003, s. 1. Ze skutkiem od 1 grudnia 2009 art. 81 i art. 82 Traktatu WE stały się
+odpowiednio art. 101 i 102 Traktatu o funkcjonowaniu Unii Europejskiej („TFUE”). Treść tych
+dwóch grup postanowień jest zasadniczo identyczna. Do celów niniejszej decyzji odniesienia do art.
+101 i 102 TFUE należy rozumieć, tam gdzie to stosowne, jako odniesienia odpowiednio do art. 81 i
+82 Traktatu WE. W TFUE wprowadzono także pewne zmiany terminologiczne
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+1253 TP wskazywała, że Komisja w ustaleniu długości
+naruszenia powinna wziąć pod uwagę fakt, iż niektóre praktyki trwały krócej niż
+całkowity okres naruszenia.1254 W tym kontekście należy jednak odnotować, że
+pomimo iż intensywność zachowań TP jest różna w okresie naruszenia, to
+zachowania o znamionach nadużycia są widoczne w całym okresie nadużycia.
+
+3.2.1.2. Udziały rynkowe
+
+(904) Podczas całego okresu naruszenia TP posiadała pozycję dominującą nie tylko na
+rynkach hurtowych, gdzie TP jest monopolistą, ale także na rynku detalicznym,
+gdzie TP posiadała pomiędzy 57% a 46% udziałów rynkowych pod względem
+przychodów. Ponadto, istniała duża różnica między udziałami TP a udziałami
+następnego OA.1255
+
+3.2.1.3. Zakres geograficzny
+
+(905) Zachowania TP o znamionach nadużycia objęły zasięgiem całe terytorium
+Polski.1256
+
+3.2.1.4. Podsumowanie na temat wagi naruszenia
+
+(906) Ustalając część wartości sprzedaży, która ma zostać uwzględniona dla ustalenia
+podstawowej kwoty grzywny, Komisja wzięła pod uwagę powyższe czynniki, a w
+szczególności: charakter naruszenia, zakres geograficzny, udziały rynkowe oraz
+fakt, iż naruszenie zostało wprowadzone w życie.
+(907) Oceniając wagę naruszenia Komisja wzięła również pod uwagę fakt, iż nie
+wszystkie elementy zachowania TP występowały w tym samym czasie, co wynika
+z faktu, iż na uzyskanie dostępu do hurtowych produktów szerokopasmowych
+składa się wiele odrębnych, następujących po sobie etapów. 1257
+
+1253
+Decyzja Komisji z dnia 13 maja 2009 r., COMP/C-3/37.990 Intel.
+1254
+odpowiedź TP na pismo z opisem stanu faktycznego, pkt 462-463.
+1255
+Zob. sekcja X.3.
+1256
+Zob. sekcja X.2.
+1257
+Etapy te obejmują: negocjowanie umów o dostępie i umów kolokacji, dostęp do sieci TP,
+przyłączanie abonentów oraz dostęp do informacji ogólnych. OA nie mógł napotkać problemów na
+etapie dostępu do sieci zanim nie podpisał umowy o dostępie. Podobnie, problemy OA na szczeblu
+
+260
+
+(908) Z uwagi na powyższe, część wartości sprzedaży, która jest uwzględniona dla
+ustalenia podstawowej kwoty grzywny dla TP wynosi [*] %.
+
+3.2.2. Czas trwania naruszenia
+
+(909) Nadużycie pozycji dominującej przez TP rozpoczęło się 3 sierpnia 2005 r.1258 Na
+podstawie dowodów zaprezentowanych w sekcjach IX.2 i IX.3 Komisja ustala, że
+naruszenie trwało przynajmniej do 22 października 2009 r.
+(910) Długość naruszenia, na potrzeby obliczenia kwoty grzywny ustala się na 4 lata i 2
+miesiące.
+(911) Z uwagi na powyższe, w celu dokładnego uwzględnienia czasu trwania naruszenia
+kwota ustalona w pkt (887) i (908) powinna zostać pomnożona przez 4,16.
+
+3.2.3. Konkluzja dotycząca podstawowej kwoty grzywny
+
+(912) Z uwagi na powyższe, podstawowa kwota grzywny wynosi 136 000 000 euro.
+
+4. Dostosowanie kwoty podstawowej
+
+(913) Zgodnie z Wytycznymi, kwota podstawowa może być zmniejszona gdy Komisja
+uzna, że istnieją okoliczności łagodzące.
+(914) W odpowiedzi na pismo z opisem stanu faktycznego oraz w piśmie z dnia 6
+czerwca 2011, TP wskazała na następujące okoliczności łagodzące: (i) podjęcie
+przez TP działań mających na celu polepszenie współpracy z OA, (ii) fakt, iż
+działania UKE miały poważny wpływ na działania TP oraz (iii) że TP podjęła się
+znacznych inwestycji po podpisaniu Porozumienia z UKE, w szczególności w sieci
+szerokopasmowe.1259
+(915) Argumenty TP nie są przekonywujące. Po pierwsze, Komisja powtarza, że
+charakter naruszenia powinien być znany TP w trakcie całego okresu trwania
+naruszenia, w szczególności ponieważ naruszenie w formie odmowy udzielenia
+dostępu było wcześniej przedmiotem decyzji Komisji i wyroków sądów
+europejskich. Po drugie, TP nie podjęła niezwłocznie działań zmierzających do
+wyeliminowania przeszkód napotykanych przez OA podczas uzyskiwania dostępu
+do szerokopasmowych produktów hurtowych. W tym kontekście, zobowiązanie TP
+do respektowania zapisów Porozumienia z 22 października 2009 r. jest dowodem
+na to, iż TP była w stanie zapewnić bezproblemowy dostęp do oferowanych przez
+siebie produktów hurtowych; niemniej jednak zobowiązanie to nastąpiło zbyt
+późno. Ponadto, argument TP jakoby działania UKE miały negatywny wpływ na
+zachowanie TP był już przedmiotem analizy w wielu miejscach niniejszej
+decyzji.1260 W tym miejscu wystarczy dodać, że to TP zdecydowała się
+
+dostępu do sieci i podłączania abonentów wystąpiły po długotrwałych negocjacjach umów dostępu i
+kolokacji. Również, planowanie strategii biznesowych przez OA było utrudnione przez niską jakość
+i niekompletne informacje ogólne udostępniane przez TP zarówno przed podpisaniem kontraktu o
+dostępie jak i po.
+1258
+Dzień rozpoczęcia przez TP negocjacji z OA w sprawie pierwszej umowy hurtowego dostępu do
+swojej sieci, zob. odpowiedź TP na wniosek o udzielenie informacji z dnia 22 grudnia 2008 r..
+1259
+odpowiedź TP na pismo z opisem stanu faktycznego, pkt 474-492, s. 87 – 90, pismo TP z dnia 6
+czerwca 2011. TP poinformowała, że zainwestowała do końca 2010 168,3 mln euro w modernizację
+i budowę infrastruktury szerokopasmowej oraz dodatkowe 49 mln euro do końca marca 2011 w
+ramach implementacji Porozumienia z UKE.
+1260
+Zob. pkt (286) do (290).
+261
+
+niewspółpracować z UKE.1261 Wreszcie, Komisja odnotowuje fakt, że po
+podpisaniu Porozumienia z UKE TP przedsięwzięła szereg inwestycji, jednakże
+Komisja stoi na stanowisku, że nie mogą one być uznane za okoliczność łagodzącą,
+gdyż nie zmieniają one kwalifikacji zachowania TP w okresie 3 sierpnia 2005 r. –
+22 października 2009 r.
+(916) W świetle powyższej analizy Komisja przyjmuje, że nie ma okoliczności, które
+usprawiedliwiałyby obniżenie kwoty grzywny dla TP.
+
+5. Podsumowanie
+
+(917) Zgodnie z art. 23 ust. 2 rozporządzenia (WE) nr 1/2003, ostateczna kwota grzywny
+nie może, w żadnym wypadku, przekroczyć 10% całkowitego obrotu uzyskanego
+w poprzedzającym roku obrotowym.1262 Całkowity obrót TP w 2010 r. wyniósł
+15 715 000 000 pln, to jest 3 933 962 500 euro.1263 Dlatego też, kwota grzywny nie
+powinna przekroczyć 1 571 500 000 pln (393 396 250 euro).
+(918) TP argumentowała, iż konieczne jest uwzględnienie kar nałożonych na TP przez
+polskie organy za ten sam rodzaj działania.1264
+(919) Jak odnotowano w sekcji VII.2 niniejszej decyzji, w związku z naruszeniem
+obowiązków regulacyjnych przez TP, UKE nałożyło następujące kary na TP, które
+w części pokrywają się ze stanem faktycznym opisanym w niniejszej sprawie:
+
+− decyzja UKE z dnia 3 kwietnia 2007 r. (DKE-SSE-029-5/06(43)) nakładająca
+karę w wysokości 1 000 000 pln za nieprzestrzeganie minimalnych standardów
+oferty ramowej BSA w umowach standardowych TP poprzez nałożenie limitów
+transferu danych; prawomocnym wyrokiem Sądu Ochrony Konkurencji i
+Konsumentów z dnia 26 czerwca 2008 r. obniżono karę do kwoty 800 000 pln,
+którą TP zapłaciła w dnia 6 sierpnia 2009;
+
+− decyzja UKE z dnia 17 sierpnia 2007 r. (ORZ-WE-029-2/07(39)) nakładająca
+karę w wysokości 33 000 000 pln za nieprzestrzeganie minimalnych
+standardów oferty ramowej LLU w umowie standardowej TP; decyzja została
+potwierdzona prawomocnym wyrokiem sądu apelacyjnego z dnia 9 kwietnia
+2010 r. a kara została zapłacona przez TP w dniu 20 kwietnia 2010 r.
+(920) Mając wzgląd na wyżej wymienione kary nałożone przez UKE za
+nieprzestrzeganie przez TP obowiązków regulacyjnych, które częściowo pokrywają
+się z faktami opisanymi w niniejszej decyzji, Komisja zdecydowała się odliczyć od
+końcowej kwoty grzywny, sumę kar zapłaconych przez TP, o których mowa w
+poprzedzającym punkcie. W związku z powyższym, odejmuje się 33 800 000 pln,
+to jest 8 445 806 euro, od końcowej kwoty grzywny. 1265
+(921) Ostateczna kwota grzywny nałożonej na Telekomunikację Polską S.A. powinna
+zatem wynieść 127 554 194 euro.
+
+1261
+Zob. pkt (149).
+1262
+Pkt 32 Wytycznych.
+1263
+Raport roczny Groupy TP 2010, s. 38.
+1264
+odpowiedź TP na pismo z opisem stanu faktycznego, pkt 464-471 oraz odpowiedź na pisemne
+zgłoszenie zastrzeżeń, pkt 86-102.
+1265
+Zob. przypis 9.
+262
+
+PRZYJMUJE NINIEJSZĄ DECYZJĘ:
+
+Artykuł 1
+
+W okresie od 3 sierpnia 2005 r. do co najmniej 22 października 2009 r.
+Telekomunikacja Polska S.A. dopuściła się pojedynczego i ciągłego naruszenia art.
+102 TFUE, które polegało na odmowie udzielenia dostępu do swoich hurtowych
+produktów szerokopasmowych i obejmowało następujące elementy:
+
+a) proponowanie niekorzystnych warunków w projektach umów;
+
+b) opóźnianie negocjacji;
+
+c) odmowę dostępu do swojej sieci;
+
+d) odmowę dostępu do łączy abonenckich;
+
+e) odmowę dostępu do informacji ogólnych.
+
+Artykuł 2
+
+Za naruszenie, o którym mowa w art. 1, na Telekomunikację Polską S.A. nakłada się
+grzywnę w wysokości 127 554 194 euro.
+Grzywna płatna jest w euro w ciągu 3 miesięcy od dnia notyfikacji niniejszej decyzji,
+na następujące konto Komisji Europejskiej:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Tytuł: European Commission – BUFI / COMP/39.525.
+
+Po upływie tego terminu płatne są automatycznie odsetki według stopy procentowej
+stosowanej do podstawowych operacji refinansowych Europejskiego Banku
+Centralnego w pierwszym dniu miesiąca, w którym niniejsza decyzja została przyjęta,
+powiększonej o 3,5 punktów procentowych.
+
+Jeżeli przedsiębiorstwo, o którym mowa w art. 1 zaskarży niniejszą decyzję do Sądu,
+zobowiązane jest do pokrycia grzywny w określonym terminie poprzez ustanowienie
+akceptowalnej gwarancji bankowej bądź tymczasową zapłatę grzywny zgodnie z art.
+85a ust. 1 rozporządzenia Komisji (WE, Euratom) nr 2342/2002.1266
+
+1266
+Dz.U. L 357 z 31.12.2002, s. 1.
+
+263
+
+Artykuł 3
+
+Telekomunikacja Polska S.A. bezzwłocznie zaprzestaje naruszenia, o którym mowa
+w art. 1, o ile nie uczyniła tego dotychczas.
+Telekomunikacja Polska S.A. powstrzymuje się od ponownego podejmowania
+wszelkich działań lub zachowań opisanych w art. 1 oraz od wszelkich działań bądź
+zachowań mających ten sam lub równoważny cel bądź skutek.
+
+Artykuł 4
+
+Niniejsza decyzja skierowana jest do Telekomunikacji Polskiej S.A.
+
+Niniejsza decyzja stanowi na mocy art. 299 TFUE tytuł egzekucyjny.
+
+Sporządzono w Brukseli dnia [...] r.
+
+W imieniu Komisji
+
+264

@@ -1,0 +1,425 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN
+COMMISSION
+
+Brussels, 7.7.2016
+C(2016) 4215 final
+
+COMMISSION DECISION
+
+of 7.7.2016
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.39850 Container Shipping
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. The Parties.................................................................................................................... 4
+2. Procedural Steps Under Regulation (EC) No 1/2003 .................................................. 5
+3. Preliminary Assessment............................................................................................... 5
+3.1. The services concerned ................................................................................................ 5
+3.1.1. Container liner shipping services................................................................................. 5
+3.1.2. The geographic dimension of container liner shipping services.................................. 6
+3.2. The practice subject to the proceedings ....................................................................... 6
+3.2.1. General Rate Increases (GRIs)..................................................................................... 6
+3.3. The Commission's concerns......................................................................................... 7
+3.3.1. Article 101(1) of the Treaty and Article 53 of the EEA Agreement............................ 7
+3.3.2. Concerted Practice ....................................................................................................... 8
+3.3.2.1. Principles...................................................................................................................... 8
+3.3.2.2. Information exchange as a concerted practice ............................................................. 8
+3.3.3. The Commission's concerns in this case...................................................................... 9
+3.3.3.1. Low value of GRIs for customers................................................................................ 9
+3.3.3.2. The exchange of information in this case as a concerted practice............................. 10
+3.3.4. Restriction of competition by object.......................................................................... 10
+3.3.4.1. The content and nature of the information exchanged............................................... 10
+3.3.4.2. The objective of the information exchange................................................................ 11
+3.3.4.3. The economic and legal context of the information exchange .................................. 11
+3.3.5. Article 101(3) of the Treaty and Article 53(3) of the EEA Agreement..................... 11
+3.3.6. Effect on trade between Member States and EEA Contracting Parties ..................... 12
+4. Jurisdiction................................................................................................................. 12
+5. Proposed Commitments ............................................................................................. 13
+5.1. The main elements of the Commitments proposed by the parties ............................. 13
+6. Commission Notice Pursuant to Article 27(4) of Regulation (EC) No 1/2003 ......... 14
+7. Proportionality of the Commitments.......................................................................... 15
+7.1. Principles.................................................................................................................... 15
+7.2. Application in this case.............................................................................................. 15
+8. Conclusion.................................................................................................................. 16
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 7.7.2016
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+Case AT.39850 Container Shipping
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+Having regard to the Commission decisions of 21 November 2013 and 13 November 2015 to
+initiate proceedings in this case,
+Having expressed concerns in the preliminary assessment of 26 November 2015,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns2,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+(1) This Decision concerns a practice whereby the addressees of this decision ("Parties")
+have been regularly announcing their intended future increases of container liner
+shipping prices ("Prices") on their websites, via the press, or in other ways. Those
+announcements are made several times a year and contain only the amount of the
+intended increase, the date of its planned implementation and the affected trade
+routes.
+(2) In its preliminary assessment of 26 November 2015 ("Preliminary Assessment"), the
+Commission expressed the concern that that practice may allow the Parties to
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+2 OJ C 60, 16.2.2016, p.7.
+
+EN 3 EN
+
+exchange information on their future pricing intentions and thus may have the object
+of restricting competition on the market for container shipping transport services on
+routes to and from the European Economic Area ("EEA"), in breach of Article 101 of
+the Treaty and Article 53 of the EEA Agreement.
+
+1. THE PARTIES
+(3) CMA CGM S.A. ("CMA CGM"), based in Marseille, France, is a global container
+shipping company, whose shares have been mainly family owned since its creation.
+ANL Singapore Pte Ltd is the local office of ANL Container Line Pty Ltd, a
+container shipping company that is controlled by CMA CGM.
+(4) China COSCO Container Lines Co., Ltd. ("COSCON") is a provider of integrated
+container shipping services. COSCON is the key company specializing in container
+transport under COSCO Holdings Company Limited ("COSCO"). In March 2016,
+COSCON acquired control of China Shipping Container Lines (Shanghai) Co., Ltd,
+from China Shipping Container Lines Co. Ltd ("CSCL"). The latter stopped
+providing container liner shipping services.
+(5) Evergreen Marine Corporation (Taiwan) Ltd. ("Evergreen") is an international
+shipping company. Evergreen is affiliated to Evergreen Group which also offers land
+and air transportation operations.
+(6) Hamburg Südamerikanische Dampfschifffahrts-Gesellschaft KG ("Hamburg
+Süd") is a globally operating transport logistics organisation based in Germany.
+(7) Hanjin Shipping Co., Ltd. ("Hanjin") is based in South Korea and provides
+container and bulk carrier transportation and operates terminals.
+(8) Hapag-Lloyd AG ("Hapag Lloyd") is a global liner shipping group based in
+Germany. Hapag Lloyd controls Hapag-Lloyd Pte Ltd.
+(9) Hyundai Merchant Marine Co. Ltd. ("HMM") is an integrated logistics group
+offering container, wet bulk and dry bulk shipping services. HMM is based in South
+Korea. HMM controls Hyundai Merchant Marine (EUROPE) LTD.
+(10) A.P. Møller – Maersk A/S ("Maersk") is a Danish business conglomerate, listed on
+the Copenhagen Stock Exchange. Maersk Group has four core businesses which
+include Maersk Line, APM Terminals, Maersk Oil, and Maersk Drilling.
+(11) Mitsui O.S.K. Lines, Ltd. ("MOL") is an ocean shipping group based in Japan.
+MOL’s fleet ranges from specialized dry bulkers for iron ore, coal, and wood chips
+to tankers that transport crude oil and LNG, and car carriers and containerships.
+MOL controls MOL (Europe) B.V. and MOL Liner Limited.
+(12) MSC Mediterranean Shipping Company S.A. ("MSC") is an ocean shipping group
+based in Geneva, Switzerland. Besides container shipping, MSC’s subsidiaries also
+operate ferry services and cruises. MSC is controlled by MSC Mediterranean
+Shipping Company Holding SA.
+(13) Nippon Yusen Kabushiki Kaisha ("NYK") is a Japanese group which provides
+ocean, land, and air transport services. It provides container shipping services
+through its subsidiary NYK Container Line Ltd. NYK controls NYK Group Europe
+Ltd, NYK Line (Hong Kong) Ltd and NYK Line (Thailand) Co, Ltd.
+(14) Orient Overseas International Ltd. ("OOIL") is a public company listed on the
+Hong Kong Stock Exchange. It fully owns the company Orient Overseas Container
+
+EN 4 EN
+
+Line Ltd. ("OOCL"), one of the world's largest integrated international container
+transportation, logistics and terminal companies.
+(15) United Arab Shipping Company (S.A.G.) ("UASC") is based in the United Arab
+Emirates and was formed jointly between the Kingdom of Bahrain, the Republic of
+Iraq, the State of Kuwait, the State of Qatar, the Kingdom of Saudi Arabia, and the
+United Arab Emirates. It provides container shipping services.
+(16) ZIM Integrated Shipping Ltd. ("ZIM"), based in Haifa, Israel, provides container
+shipping services.
+
+2. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+(17) Between 17 and 20 May 2011 Commission officials, assisted by their national
+counterparts, conducted unannounced inspections at the premises of companies
+active in the container liner shipping sector in several Member States.
+(18) By decisions of 21 November 2013 and 13 November 2015 the Commission initiated
+proceedings against the Parties. On 26 November 2015 the Commission adopted the
+Preliminary Assessment as referred to in Article 9(1) of Regulation (EC) No 1/2003
+which set out the Commission’s competition concerns. The Preliminary Assessment
+was notified to the Parties on 26 November 2015.
+(19) Between 21 December 2015 and 12 February 2016 the Parties submitted
+commitments to the Commission in response to the Preliminary Assessment
+("Commitments").
+(20) On 16 February 2016 a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case
+and the Commitments and inviting interested third parties to give their observations
+on the Commitments within one month following publication ("the Article 27(4)
+Notice").
+(21) On 27 June 2016 the Advisory Committee on Restrictive Practices and Dominant
+Positions was consulted. On 28 June 2016 the Hearing Officer issued his final report.
+
+3. PRELIMINARY ASSESSMENT
+3.1. The services concerned
+3.1.1. Container liner shipping services
+(22) The relevant services are deep-sea container liner shipping services. They involve the
+provision of regular, scheduled services for the carriage of containerised cargo by
+sea. They can be distinguished from non-liner shipping (tramp, specialized transport)
+because of the regularity and the frequency of the service. Furthermore, they can be
+distinguished from non-containerized transport such as bulk vessel.3
+
+3 Judgment in Atlantic Container Line AB and Others v Commission, Joined Cases T-191/98, T-212/98 to
+T-214/98, ECLI:EU:T:2003:245, paragraph 273; See also Case COMP/M.3829 – Maersk/PONL,
+paragraph 7; Case COMP/M.3973 – CMA CGM / Delmas, paragraph 6; Case COMP/M.5450 –
+Kühne/HGV/TUI/Hapag Lloyd, paragraph 13.
+
+EN 5 EN
+
+(23) A possible narrower service market may be that for the transport of refrigerated
+goods in containers, which could be limited to reefer containers only.4 However,
+since the vast majority of the price increase announcements of the Parties were made
+for containers of all kinds, there is no need, for the purposes of this Decision, to
+distinguish between potential submarkets according to the type of containers.
+3.1.2. The geographic dimension of container liner shipping services
+(24) Container liner shipping services are organised by trade routes (for example from Far
+East Asia to Northern Europe or from the US West Coast to the Mediterranean),
+which are defined by the range of ports which are served at each end of the service.
+Each trade route has specific characteristics depending on the volumes shipped, the
+types of cargo transported, the ports served, and the length of the journey from the
+point of origin to the point of destination.5 Market conditions on the two directions of
+a trade route can also be different, in particular in the case of trade imbalances or
+differing characteristics of the products shipped.6
+3.2. The practice subject to the proceedings
+3.2.1. General Rate Increases (GRIs)
+(25) The Commission focused its fact finding in the investigation in this case on the trade
+routes from Far East Asia to North Europe and the Mediterranean (westbound) which
+are the EEA’s busiest trade routes. However, the Commission is aware that some of
+the Parties have also been announcing their intended future increases of Prices on
+other trade routes.
+(26) Between 2009 and 2015, the Parties have regularly announced their intended future
+price increases for deep-sea container liner shipping services, at least on routes from
+Far East Asia to Northern Europe and the Mediterranean (westbound), on their
+websites, via the press, or in other ways. Those announcements indicate the amount
+of the intended increase in US-Dollars per transported container unit (twenty-foot
+equivalent unit, "TEU"), the affected trade route and the intended date of
+implementation. Such announcements are widely known in the industry as "General
+Rate Increase Announcements" or "GRI Announcements". They generally concern
+sizable rate increases of several hundred US-Dollars per TEU.
+(27) GRI announcements are made in "rounds" 3 to 5 weeks before the intended
+implementation date of the price increase. The rounds typically begin with one Party
+announcing its intention to increase Prices on a given route by a certain amount, as of
+a certain date. In the following days and weeks, other Parties announce in turn
+intended price increases of a similar magnitude, for the same route and with a similar
+or identical implementation date.7 Announced GRIs sometimes were postponed or
+
+4 See 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ch as to make the Commission
+reconsider the concerns it expressed in the Preliminary Assessment or the
+appropriateness of the Commitments as discussed in Section 7. In view of the results
+of the market test, the Commission maintains the position that it took in the Article
+27(4) Notice, namely that the Commitments are adequate to meet the competition
+concerns expressed in the Preliminary Assessment.
+
+EN 14 EN
+
+7. PROPORTIONALITY OF THE COMMITMENTS
+7.1. Principles
+(75) The principle of proportionality requires that the measures adopted by institutions of
+the Union must be suitable and not exceed what is appropriate and necessary for
+attaining the objective pursued.21
+(76) In the context of Article 9 of Regulation (EC) No 1/2003, application of the principle
+of proportionality entails, first, that the commitments in question address the
+concerns expressed by the Commission in its Preliminary Assessment and, second,
+that the undertakings concerned have not offered less onerous commitments that also
+address those concerns adequately.22 When carrying out that assessment, the
+Commission must take into consideration the interests of third parties.23
+7.2. Application in this case
+(77) The Parties have committed to bring the practice subject to the proceedings to an end
+and not to make announcements of Price increases indicating only the amount of the
+intended increase.
+(78) The Parties reserve the right to decide whether to make price announcements. When
+announcing their Prices the Parties will provide customers with a sufficient level of
+detail for them to make informed decisions. The announced Price will refer to the 5
+main elements of the price representing about 90% of its full amount thus giving
+customers a good basis to compare Prices. The remaining elements of the price are
+mostly contingency and local administrative charges. Contingency charges depend
+on the occurrence of events which cannot be anticipated in advance and therefore
+cannot be announced. Local administrative charges are usually small and set locally,
+and because of their large number it is difficult for the Parties to follow them
+centrally. The Parties will, however, inform customers that such other charges may
+apply.
+(79) The announcements will state the period and services to which they relate. The
+announced Prices will be binding on the Parties as maximum Prices, thus allowing
+customers to rely on them. The Parties remain free to set their Prices, as well as the
+period and terms of service to which the Prices relate. The Commitments therefore
+do not interfere with the commercial discretion of the Parties but only with the form
+in which their Prices are announced, should the Parties choose to announce them.
+(80) Prices will be announced at a time when significant numbers of customers book
+container liner shipping services (not more than 31 days in advance). Earlier
+announcements may give competitors insight into each other's future Prices while not
+being useful for customers since they are not booking yet, thus possibly leading to a
+collusive outcome.
+(81) The exceptions to the Commitments facilitate the conduct of business without raising
+concerns of collusion between the Parties because they are limited to
+communications with specific customers.
+
+21 See for example, judgment in Air Inter v. Commission, T-260/94, ECLI:EU:T:1997:89, paragraph 144
+and Van den Bergh Foods v. Commission, T-65/98, ECLI:EU:T:2003:281, paragraph 201.
+22 Judgment in Commission v Alrosa, C-441/07 P , ECLI:EU:C:2009:555, paragraph 41.
+23 Judgment in Commission v Alrosa, C-441/07 P , ECLI:EU:C:2009:555, paragraph 41.
+
+EN 15 EN
+
+(82) The Commitments represent a significant shift in the Parties' practice of announcing
+their Prices. It is therefore appropriate to allow for a short period of 5 month for reorganisation of the Parties' business and for a 3 year application period of the
+Commitments. Although the Commission's fact finding in this investigation was
+focused on the trade routes Asia – North Europe and Mediterranean, the same
+principles of conduct should apply to all trade routes affecting the EEA.
+(83) The Parties' international businesses cross a large number of countries and
+jurisdictions. Although the Commission is not aware of any conflict between existing
+regulation and the Commitments, conflicts in the future cannot be excluded. It is
+therefore appropriate to clarify that subject to a commitment to inform the
+Commission of such conflicts, the Commitments will not prevent the Parties from
+complying with requirements set by other jurisdictions.
+(84) Timely, transparent and committal price announcements would allow customers to
+take informed purchasing decisions and make it very difficult for Carriers to collude
+on Prices. Although more transparent price announcements would by nature mean
+more transparency for both the Parties and customers, customers would be able to
+make informed purchase decisions, making collusion difficult and risky.
+(85) The Commitments are therefore sufficient to address the concerns identified by the
+Commission in its Preliminary Assessment. The Parties have not offered less onerous
+Commitments in response to the Preliminary Assessment that also address the
+Commission’s concerns adequately.
+(86) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that have responded to the Article 27(4) Notice.
+(87) This Decision accordingly complies with the principle of proportionality.
+
+8. CONCLUSION
+(88) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes commitments, offered by the undertakings concerned to meet the
+Commission’s concerns expressed in its preliminary assessment, binding upon them.
+Recital 13 of the Preamble to Regulation (EC) No 1/2003 states that such a decision
+should not conclude whether or not there has been or still is an infringement.The
+Commission’s assessment of whether the commitments offered are sufficient to meet
+its concerns is based on its Preliminary Assessment, representing the preliminary
+view of the Commission based on the underlying investigation and analysis, and the
+observations received from third parties following the publication of the Article
+27(4) Notice.
+(89) In the light of the Commitments offered, the Commission considers that there are no
+longer grounds for action on its part and, without prejudice to Article 9(2) of
+Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought
+to an end.
+(90) The Commission retains full discretion to investigate and open proceedings under
+Article 101 of the Treaty and Article 53 of the EEA Agreement as regards practices
+that are not the subject matter of this Decision,
+
+EN 16 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Commitments as listed in the Annex shall be binding from 7 December 2016 until 7
+December 2019 on the addressees mentioned in Article 3.
+
+Article 2
+It is hereby concluded that there are no longer grounds for action in this case.
+
+Article 3
+This Decision is addressed to:
+1. ANL Singapore Pte Ltd
+The Metropolis, 9 North Buona Vista drive #03-02, The Metropolis Tower 1, 138588
+Singapore, Singapore
+2. A.P. Møller - Mærsk A/S
+Esplanaden 50, DK-1263 Copenhagen K, Denmark
+3. China Shipping Container Lines (Shanghai) Co., Ltd
+13/F No.628 Minsheng Road, Shanghai, 200135, P.R. China
+4. China COSCO Holdings Company Ltd
+8/F No. 658, Dong Da Ming Road, Shanghai, 200080, P.R. China
+5. CMA CGM Société Anonyme à Conseil d'Administration
+4 quai d'Arenc, 13235 Marseille cedex 02, France
+6. Cosco Container Lines Co., Ltd
+378 Dong Da Ming Road, Shanghai, 200080, P. R. China
+7. Evergreen Marine Corp. (Taiwan) Ltd.
+No 163 Sec. 1, Hsin-Nan Road, Luchu District, Taoyuan County, 33858 Taiwan
+8. Hamburg Südamerikanische Dampfschifffahrts-Gesellschaft KG
+Willy-Brandt-Straße 59-61, 20457 Hamburg, Germany
+9. Hanjin Shipping Co., Ltd.
+25 Gukjegeumyung-ro 2(i)-Gil, Yeongdeungpo-Gu, Seoul 150-949, South Korea
+10. Hapag-Lloyd AG
+Ballindamm 25, D-20095 Hamburg, Germany
+11. Hapag-Lloyd Pte Ltd
+200 Cantonment Road 08-03, 089763 Singapore
+12. Hyundai Merchant Marine CO., LTD
+Hyundai Group Building (East Building), 194, Yulgok-ro, Jongno-gu, Seoul 110-
+754, South Korea
+
+EN 17 EN
+
+13. Hyundai Merchant Marine (EUROPE) LTD
+4th Fl. City Reach, 5 Greenwich View Place, Millharbour, E14 9NN London, United
+Kingdom
+14. Mitsui O.S.K. Lines, Ltd
+1-1 Toranomon 2-chome, Minato-ku, 105-8688 Tokyo, Japan
+15. MOL (Europe) B.V.
+Hofhoek 7, 3176 PD Poortugaal, The Netherlands
+16. MOL Liner Limited
+28/F, Tower 1, Ever Gain Plaza, 88 Container Port Road, Kwai Chung, N.T., Hong
+Kong, China
+17. MSC Mediterranean Shipping Company Holding SA
+12-14 Chemin Rieu, 1208 Geneva, Switzerland
+18. MSC Mediterranean Shipping Company SA
+12-14 Chemin Rieu, 1208 Geneva, Switzerland
+19. Nippon Yusen Kabushiki Kaisha
+Yusen Bldg., 3-2 Marunouchi 2-chrome, Chiyoda-ku Tokyo, 100-0005, Tokyo,
+Japan
+20. NYK Container Line, Ltd
+Sumitomo Shoji Nishikimachi Bldg.8F, 6-banchi Kanda nishikicho 1-chome,
+Chiyoda-ku Tokyo, 101-0054, Japan
+21. NYK Group Europe Ltd
+Level 11, 25 Canada Square, Canary Wharf, E14 5LQ, London, United Kingdom
+22. NYK Line (H. K.) Ltd
+Level 35, Tower 1, Kowloon Commerce Centre 51 Kwai Cheong Road, Kwai Chung
+New Territories, Hong Kong
+23. NYK Line (Thailand) Co, Ltd
+2525 One FYI Center, 2nd and 7th Floor, Rama 4 Road, Klongtoey, Klongtoey,
+Bangkok 10110, Thailand
+24. Orient Overseas (International) Limited
+33/F., Harbour Centre, 25 Harbour Road, Wanchai, Hong Kong, China
+
+EN 18 EN
+
+25. Orient Overseas Container Line Limited
+33/F., Harbour Centre, 25 Harbour Road, Wanchai, Hong Kong, China
+26. United Arab Shipping Company (S.A.G)
+Al Garhoud Road, Deira, P.O. Box 55586, Dubai, UAE
+27. Zim Integrated Shipping Services Ltd
+9 Andrei Sakharov St., M.T.M. Center, Haifa 3508409, Israel
+Done at Brussels, 7.7.2016
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+EN 19 EN

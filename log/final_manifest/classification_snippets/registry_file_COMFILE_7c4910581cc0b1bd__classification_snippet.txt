@@ -1,0 +1,238 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52014XC1002(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52014XC1002(01)
+Help
+Print
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39985 — Motorola — Enforcement of GPRS standard essential patents) (notified under document number C(2014) 2892 final)
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39985 — Motorola — Enforcement of GPRS standard essential patents) (notified under document number C(2014) 2892 final)
+Summary of Commission Decision of 29 April 2014 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39985 — Motorola — Enforcement of GPRS standard essential patents) (notified under document number C(2014) 2892 final)
+OJ C 344, 2.10.2014, pp. 6–8
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+2.10.2014
+EN
+Official Journal of the European Union
+C 344/6
+Summary of Commission Decision
+of 29 April 2014
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case AT.39985 — Motorola — Enforcement of GPRS standard essential patents)
+(notified under document number C(2014) 2892 final)
+(Only the English text is authentic)
+2014/C 344/06
+On 29 April 2014, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+On 29 April 2014, the Commission adopted a decision pursuant to Article 7 of Regulation (EC) No 1/2003 (‘the Decision’), addressed to Motorola Mobility LLC (‘Motorola’). The Decision finds that, in the exceptional circumstances of this case and in the absence of any objective justification, Motorola has infringed Article 102 TFEU and Article 54 of the EEA Agreement by seeking and enforcing an injunction against Apple Inc., Apple Sales International and Apple Retail Germany GmbH (‘Apple’) before the courts of the Federal Republic of Germany. Motorola sought and enforced the injunction on the basis of a standard-essential patent (‘SEP’) reading on the General Packet Radio Service (‘GPRS’) standard, which it has committed to the European Telecommunications Standards Institute (‘ETSI’) to license on fair, reasonable and non-discriminatory (‘FRAND’) terms and conditions.
+2.
+PROCEDURE
+(2)
+On 14 February 2012, Apple submitted a complaint pursuant to Article 7 of Regulation (EC) No 1/2003 against Motorola with respect to Motorola’s enforcement in Germany of two patents that Motorola had declared essential to telecommunication standards, including a patent declared essential to the ETSI GSM/GPRS standard, which Motorola has committed to license on FRAND terms and conditions.
+(3)
+On 2 April 2012, the Commission initiated proceedings against Motorola. On 6 May 2013, the Commission notified a Statement of Objections (‘SO’) to Motorola. On 30 September 2013, an Oral Hearing took place.
+(4)
+On 28 April 2014, the Advisory Committee on Restrictive Practices and Dominant Positions was consulted. The Hearing Officer issued his final report the same day.
+3.
+FACTS
+(5)
+Standards ensure compatibility and interoperability of telecom networks and mobile devices. Mobile devices typically implement a large number of telecommunication standards (such as the so-called second generation or ‘2G’ (GSM/GPRS) standard). These standards make reference to thousands of technologies, many of which are protected by patents.
+(6)
+Patents which are technically necessary to implement a standard, are known as ‘standard-essential patents’ or ‘SEPs’. SEPs are different from patents that are not essential to a standard (‘non-SEPs’). It is normally technically possible for the implementer of a non-SEP to design around that patent without sacrificing key functionality. By contrast, an implementer cannot avoid using the technology protected by a SEP when manufacturing a standard-compliant product such as a smartphone or a tablet.
+(7)
+SEPs are therefore of great importance in industries such as the telecommunication industry, where for interoperability reasons, nearly 100 % of the devices implement the relevant standards.
+(8)
+ETSI is one of the three European Standardisation Organisations. ETSI is officially responsible for producing standards and specifications supporting EU and EFTA policies and enabling an internal market in telecommunications.
+(9)
+The rules of ETSI impose two main obligation on companies participating in the standard-setting process: (i) to inform ETSI of their essential intellectual property (‘IP’) in a timely fashion before the adoption of the standard, and (ii) to give a commitment to make their IP available on FRAND terms and conditions. The FRAND commitment is therefore a
+quid pro quo
+for a patented technology to be included in the standard.
+(10)
+In April 2003, Motorola declared patent EP 1010336 (the ‘Cudak GPRS SEP’) essential to the GPRS standard and committed to ETSI to license it on FRAND terms and conditions.
+(11)
+Apple entered the mobile telecommunication sector in 2007 when it launched its first smartphone, the iPhone, which implemented the relevant telecommunication standards, including the GPRS standard.
+(12)
+In April 2011, Motorola sought injunctions against Apple in Germany on the basis, inter alia, of its Cudak GPRS SEP. In the course of the injunction proceedings, Apple made six successive licensing offers to Motorola, which it also submitted to the German courts. These offers were made by Apple with a view to availing itself of the competition law defence established by the Bundesgerichtshof in its Orange Book judgment.
+(13)
+In its second licensing offer, Apple proposed to enter into a licence agreement which would have given Motorola the right to set the royalties according to its equitable discretion and according to FRAND principles, without any limitations (other than FRAND and Article 102 TFEU) as regards the royalty rates and the method of calculation of the final amount of royalties. The offer also allowed for a full judicial review of the amount of FRAND royalties, whereby Motorola and Apple could submit their own evaluations, calculations and reasoning for consideration to the court.
+(14)
+Motorola, however, rejected that offer and continued the injunction proceedings.
+(15)
+In December 2011, the lower German courts granted Motorola an injunction against Apple.
+(16)
+In January 2012, when Motorola decided to enforce the injunction, Apple made its sixth licensing offer. In this offer, Apple (i) accepted a clause whereby Motorola would be entitled to terminate the agreement in case Apple challenged the validity of any of the licensed SEPs (the so-called ‘termination clause’); and (ii) explicitly acknowledged the infringement of the licensed SEPs by all of its devices, including an Apple device that it claimed was not infringing those SEPs.
+(17)
+Based on Apple’s sixth licensing offer, the German courts stayed temporarily the enforcement of the injunction, and Motorola and Apple signed a Settlement Agreement.
+4.
+LEGAL ASSESSMENT
+(18)
+The seeking and enforcement of an injunction by a patent-holder is generally a legitimate course of action. However, the context is different with regard to the seeking and enforcement of injunctions on the basis of SEPs for which a voluntary commitment to license on FRAND terms has been made during the standard-setting process. The essence of the commitment to license on FRAND terms and conditions is a recognition by a SEP holder that, given the purpose of the standardisation process, its essential patents will be licensed in return for FRAND remuneration, in contrast to those patents which do not read on a standard and for which no FRAND commitment has been given by the patent holder.
+(19)
+The Decision finds that Motorola is dominant on the market for the licensing of the technologies, as specified in the GPRS standard technical specifications, on which Motorola’s Cudak GPRS SEP reads.
+(20)
+The Decision also finds that in the exceptional circumstances of the case and in the absence of a valid objective justification, Motorola’s conduct constitutes an abuse as of Apple’s second licensing offer as its conduct was capable of having the following anti-competitive effects:
+(i)
+a temporary ban on the online sale of Apple’s GPRS-compatible products in Germany;
+(ii)
+the inclusion in the Settlement agreement of licensing terms, disadvantageous to Apple; and
+(iii)
+a negative impact on standard-setting.
+(21)
+The exceptional circumstances are the GPRS standard-setting process and Motorola’s commitment to license the GPRS SEP on FRAND terms and conditions.
+(22)
+The absence of objective justification relates to the fact that Apple was not unwilling to enter into a licence agreement on FRAND terms and conditions.
+(23)
+A SEP holder which has given a commitment to license on FRAND terms and conditions is entitled to take reasonable steps to protect its interests by seeking and enforcing an injunction against a potential licensee in, for example, the following scenarios:
+(a)
+the potential licensee is in financial distress and unable to pay its debts;
+(b)
+the potential licensee’s assets are located in jurisdictions that do not provide for adequate means of enforcement of damages; or
+(c)
+the potential licensee is unwilling to enter into a licence agreement on FRAND terms and conditions, with the result that the SEP holder will not be appropriately remunerated for the use of its SEPs. The corollary of a patent holder committing, in the standardisation context, to license its SEPs on FRAND terms and conditions is that a potential licensee should not be unwilling to enter into a licensing agreement on FRAND terms and conditions for the SEPs in question.
+(24)
+Apple’s second licensing offer, allowing for judicial rate-setting, constitutes a clear indication that Apple was willing to enter into a licence agreement on FRAND terms and conditions with Motorola, and pay FRAND remuneration for the licensed SEPs. Therefore, as of that licensing offer, there was no need for Motorola to have recourse to an injunction in order to be appropriately remunerated for the use of its SEPs.
+5.
+FINES
+(25)
+The Commission decided not to impose a fine on Motorola in view of the fact that there is no case-law by the European Union Courts dealing with the legality under Article 102 TFEU of SEP-based injunctions and that national courts have so far reached diverging conclusions on this question.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+Top

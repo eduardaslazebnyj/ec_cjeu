@@ -1,0 +1,407 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+No L 306/22 Official Journal of the European Communities 7. 11 . 91
+
+II
+
+(Acts whose publication is not obligatory)
+
+COMMISSION
+
+COMMISSION DECISION
+
+of 18 October 1991
+
+relating to a proceeding pursuant to Article 85 of die EEC Treaty
+(IV/32.737 — Eirpage)
+
+(Only the English text is authentic)
+
+(91/562/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, Whereas :
+
+Having regard to the Treaty establishing the European
+I. THE FACTS
+Economic Community,
+
+(1) On 17 May 1988, Bord Telecom Eireann
+Having regard to Council Regulation No 17 of 6 February (Telecom') and Motorola Ireland Ltd ('Motorola')
+1962, First Regulation implementing Articles 85 and 86 submitted for negative clearance or alternatively
+of the Treaty ('), as last amended by the Act of Accession exemption, joint venture and accompanying agree
+of Spain and Portugal, and in particular Articles 4, 6 and ments relating to the setting up, promotion and
+8 thereof, operation of a nationwide paging system intercon
+nected to the public telecommunications network.
+In the company set up for this purpose in April of
+1988, 'Eirpage Ltd', the parties pool their comple
+Having regard to the application for negative clearance mentary skills, namely Telecom's technological
+and the notification for exemption, submitted under expertise in the provision of telecom infrastructure
+Articles 2 and 4 of Regulation No 17 on 17 May 1988 by and services and Motorola's marketing and product
+Bord Telecom Eireann and Motorola Ireland Ltd of a
+expertise in radio-paging services.
+joint venture agreement and related agreements and docu
+ments, concerning the setting up, promotion and opera
+tion of a nationwide interconnected paging service,
+A. The parties and the service concerned
+
+(2) Telecom was corporatized in 1984. Pursuant to
+Having regard to the summary of the application and Section 87 of the Postal and Telecommunications
+notification published pursuant to Article 19 (3) of Regu Services Act 1983 (the Act), in conjunction with the
+lation No 17 (2), Telegraph Act of 1869, it continues to enjoy a
+statutory exclusive privilege with respect to tele
+communications infrastructures and the provision
+of certain telecommunications services, subject to
+After consulting the Advisory Committee on Restrictive the powers of Telecom itself (Section 89) and of the
+Practices and Dominant Positions, Minister for Communications (Section III) to grant
+licences to third parties to provide telecommunica
+0 OJ No 13, 21 . 2. 1962, p. 204/62. tions services within the exclusive privilege of
+O OJ No C 294, 24. 11 . 1990, p. 3. Section 87.
+
+7. 11 . 91 Official Journal of the European Communities No L 306/23
+
+Since becoming corporatized, Telecom has intro communications, and with 7 400 subscribers,
+duced a number of new telecommunications approximately 60 % of the overall paging sector.
+services such as Eirpac (data network) and Eircell
+(cellular radio/mobile telephones). The joint
+venture with Motorola to provide paging services is Aside from Eirpage, there are at least eight compa
+the first time that Telecom has cooperated with nies providing operator-assisted paging services
+another company to enter a new field. mainly in the Dublin area or other population
+centres such as Cork and Limerick. The number of
+subscribers of these companies ranges from under
+100 to approximately 2 000. Eirpage plans to cover
+virtually all regions of the country and aims at
+(3) Motorola is a wholly-owned subsidiary of Motorola achieving 10 000 customers, nationwide, by 1992.
+Inc. of Illinois, USA, which, with a worldwide By July of 1991 , 87 % of the geographical surface
+turnover of US $ 9 billion in 1989, is one of the of the Republic of Ireland, representing 90 % of
+world leaders in mobile communications equip the population, was covered with more than 30
+ment and services. Before embarking on the transmitters in operation.
+Eirpage joint venture, Motorola, which had a
+turnover of £ Irl 10,7 million and 120 employees in
+1989, offered merely telecommunications equip
+ment, including paging receiver units, and not
+paging services ('). B. The agreements as originally notified
+
+(6) The notification involves six docments :
+
+(4) The paging service offered by Eirpage falls within
+the broader category of mobile communication 1 . The joint venture agreement :
+services in general, which includes mobile tele
+phones and mobile radios. Paging is a one-way
+means of communicating with someone on the In order to establish and promote a nationwide
+move who carries a pocket-sized receiving unit, paging service, Telecom and Motorola agree to
+which receives varying signals, such as tone (beep), set up a joint venture company, Eirpage Ltd, to
+voice, numerical or computerized messages, be owned 51 % by Telecom and 49 % by
+depending on the sophistication of the receiver. Motorola. In view of these shareholdings,
+The person carrying the pager can only receive Eirpage is a subsidiary of Telecom for the
+messages, not reply to calls. purpose of the Act and thus enjoys the exclusive
+privilege of engaging in telecommunications
+services bestowed on Telecom by Section 87 of
+the Act without the need for a licence.
+
+Interconnected paging is a particular kind of
+paging whereby a telephone, telex or data message As far as the management of the company is
+can be transmitted via the public network to the concerned, Telecom and Motorola have equal
+receiving unit. In other words, one can dial the powers : three directors are appointed by
+numer of a paging receiver on a normal telephone Telecom, three by Motorola, and all decisions by
+to have access to the wearer. Where paging is not the Board require a majority vote, while most of
+interconnected, it is operator-assisted, which means the business decisions of any consequence
+that an operator will intervene to receive the require unanimity.
+message to be paged from the caller and transmit it
+to the paging unit of the customer.
+The joint venture agreement provides that
+neither party will engage in a competing paging
+service, either independently or in association
+with others, during the term of the joint venture
+agreement and three years following termination(5) In Ireland, the mobile communications sector is at
+thereof.
+present composed of traffic via mobile radios
+(35 %), mobile telephones (40 %) and pagers
+(25 %). Eirpage at present covers 13 % of mobile
+2. The business plan annexed to the joint venture
+agreement sets out Eirpage's basic objectives and
+(') As of 1 August 1991, an independent company, Sigma Wire
+less Communications Ltd, has taken over Motorola's role as the forecast agreed by the parties as to the
+importer of Motorola products in Ireland and as Eirpage projected financial outcome of Eirpage's first
+agent. five years of operation.
+
+No L 306/24 Official Journal of the European Communities 7. 11 . 91
+
+3. The marketing service and business develop of independent, non-exclusive agents. Once an
+ment agreement between Telecom, Motorola agent has found a new customer, the actual
+and Eirpage relates to the provision of expertise subscriber agreement is signed between the
+by Motorola to Eirpage and by the latter to customer and Eirpage. The subscription rates
+Telecom personnel. and other conditions are fixed by Eirpage.
+Agents receive an on-going monthly commis
+sion ranging from 10 % to 30 %, depending on
+the number of subscribers they have found for
+Eirpage, and provided those subscribers remain
+4. The operating agreement between Telecom and 'live'. Agency agreements can be terminated by
+Eirpage fixes the terms under which Telecom either party on an annual basis.
+will provide access to the public network to
+Eirpage. Telecom agrees to install and maintain
+the physical attributes necessary to operate the
+paging system, namely antennas, transmitters
+and the paging exchange needed to interconnect At the time Eirpage was launched, sellers of
+to the public network, cumulatively referred to paging equipment, existing paging service provi
+as the 'Facilities'. These Facilities belong to ders and other interested parties were invited to
+Telecom and form part of the public telecom become Eirpage agents. At present, there are 20
+munications network. Although the cost was agents including three service providers which
+initially estimated at less than £ Irl 1 million, continue to offer their own operator-assisted,
+the actual expenditure has risen to twice that local rather than nationwide, paging services
+amount due, inter alia, to a wider geographical alongside finding subscribers for Eirpage.
+coverage than originally planned. Telecom Among the sellers of paging equipment which
+received approximately £ Irl 500 000 for the act as Eirpage agents are TEIS, a Telecom subsi
+project under the Community's 'STAR' diary involved in the provision of terminal
+programme which aims at developing less equipment, and Sigma Wireless Communica
+forward regions by improving access to tions Ltd, which in August of 1991 took over
+advanced telecommunications services.
+Motrola's role as Eirpage agent.
+
+In order to cover this capital expenditure, and in
+return for the use of these Facilities, Eirpage Eirpage is obliged by the agency agreement not
+agrees to pay Telecom an annual operating fee to discriminate amongst the agents. Sales leads
+which is calculated to fully amortize this paging which come to Eirpage are passed on to agents
+network investment by Telecom over a 10-year in a rotating alphabetical order.
+period, together with a return of 5 % over
+investment. The annual fee, furthermore, covers
+other services provided by Telecom, namely,
+rental of a space for the antennas on a Telecom
+Competition exists between the agents on tower, use of leased lines, rental of space on
+various levels. As far as the Eirpage service is Telecom's premises for the paging exchange,
+concerned, the fact that the subscription rates maintenance of the paging network and the
+are necessarily fixed does not exclude price interconnect charge ; these services are charged
+competition amongst the agents, who in practice at the normal, publicly-known commercial rates.
+are willing to discount on their commission in
+order to secure business, thereby offering advan
+tageous subscription rates. Secondly, there is
+competition amongst agents with regard to the
+The operating agreement provides a propor marketing and presentation of the Eirpage
+tionate reduction in the charges payable by service. Finally, agents who are paging service
+Eirpage for the use of the Facilities in the event providers in their own right continue to offer
+other paging operators share the use of the same their own services alongside those of Eirpage.
+Facilities.
+
+Eirpage agents are free to Sell whatever equip 5. The standard agency agreement :
+ment they want, and with or without the
+Eirpage name or logo attached. In view of the
+fact that many agents are also paging equipment
+manufacturers and/or distributors, finding custo
+Eirpage does not itself sell the paging service mers for Eirpage can have a direct beneficial
+directly to customers, but does so via a network effect on the sale of their own equipment.
+
+7. 11 . 91 Official journal of the European Communities No L 306/25
+
+6. The standard subscriber agreement : the payment to Telecom of an annual charge
+calculated to remunerate the cumulative
+capital cost fully amortized over that period
+the subscriber agreements are concluded directly together with a reasonable return over the
+between Eirpage and the customer found by an capital cost ; in respect of the provision by
+Eirpage agent. In order to cover the administra Telecom of interconnection, space and other
+tive costs of putting a new subscriber on the services, such as maintenance, the standard
+system, a minimum period of normally 12 commercial charges shall apply, as they do
+months applies, after which notice can be given to Eirpage.
+on a monthly basis. Subscribers pay a monthly
+charge to Eirpage which varies according to the
+sophistication of the pager being used and the Telecom has agreed to make the full text of
+geographical extent of the coverage desired by the undertaking available to interested
+each individual subscriber, ranging from the parties and to inform the Commission of
+home zone only up to full national coverage. any requests made pursuant thereto and the
+Subscribers are free to use whatever type and outcome of such applications.
+brand of paging receive equipment they want,
+and may choose to rent or buy the pager, depen
+ding on the terms offered by the equipment The facilities referred to in Telecom s under
+provider, normally the agent through whom taking form part of Telecom's telecommuni
+they wre brought into contact with Eirpage. cations network and are owned exclusively
+by Telecom. The undertaking does not of
+course in any way prejudice other options
+which market entrants may prefer, such as
+the choice to buy the necessary equipment C. The agreements as amended or clarified
+themselves, whereby the services required of following the Commission's intervention Telecom such as the use of leased lines
+would be made available at the normal rates.
+Interconnection to the public switched tele(7) The arrangements as notified presented a number
+phone network (PSTN), telex and public of problems from the point of view of competition
+switched data network (PSDN-Eirpac) is policy which stood in the way of a favourable atti
+universally available on a non-discriminatory tude on the part of the Commission. During the
+basis to those operators meeting the relevant course of the notification procedure, the following
+licensing requirements. issues were resolved in a satisfactory manner :
+
+Finally, the Commission has noted that
+pursuant to an order from the Minister for
+1 . Market entry by third parties Communications under Section 110 of the
+Act, Eirpage could be obliged to share the
+Facilities established for its use with other
+The Commission has sought assurances from service providers. To reflect more accurately
+Telecom and the relevant licensing authorities the Minister's power in this respect, the
+that companies interested in competing directly parties have agreed to redraft the provision
+with Eirpage in the wide-area interconnected in the operating agreement between
+paging sector will be treated on exactly the same Telecom and Eirpage which limited Tele
+footing as Eirpage. Successful market entry com's right to expand the Facilities ;
+depends on : (a) the availability of facilities such
+as those used by Eirpage to operate the service ;
+and (b) the procurement of licences, including
+the necessary frequency allocation.
+(b) licensing and frequency allocation :
+
+(a) Telecom has given a written undertaking to
+make available to persons satisfying the rele
+the administrative procedure which an appli vant licensing and financial requirements
+cant paging service provider must success the facilities necessary for operating a wide
+fully complete consists of one or alternati area interconnected paging service, u
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+issolution of the joint agreement allows customers to switch upon a reaso
+venture, the two parties would immediately be free nable period of notice to an Eirpage competitor, if
+to compete with each other and with third parties they so wish.
+on the market.
+
+Thirdly, the paging market is directly influenced by
+developments in the mobile telephone and radio
+A number of clauses in the original standard markets, as well as new technologies which are at
+agency agreement likewise required amendment or present developing, such as Personal Communica
+suppression ; these changes are listed above under tion Networks (PCN). At present, paging represents
+point 4 of recital 7. 25 % of the mobile communications sector in
+general.
+
+(20) The arrangements as they stand following the
+Commission's intervention during the course of the Finally, Eirpage cannot merely be expected not to
+notification procedure do not afford the parties the eliminate competition in the paging sector, but
+possibility of eliminating competition in respect of may in fact stimulate development also for the
+benefit of other paging service providers. This a substantial part of the services and products in
+question. circumstance is due to the fact that Eirpage's
+marketing and advertising efforts promote the
+concept of paging as such, and not merely
+Eirpage's own service.
+In the first place, Eirpage is subject to actual
+competition from existing paging service providers,
+which account for 40 % of the paging sector and Also, although the Eirpage service does not tie in
+which in many cases offer a service complementary the sale of paging equipment, the increased use of
+to that of Eirpage. Certain customers will prefer to paging services which is expected to develop, both
+opt for operator-assisted paging services, such as with regard to Eirpage subscribers and those of
+
+No L 306/32 Official Journal of the European Communities 7. 11 . 91
+
+other paging service providers, will stimulate which an exemption is granted. The arrangements
+competition in the paging receive equipment as notified on 17 May 1988 presented several
+market. aspects which prevented the granting of an exemp
+tion in this case. Following discussions with the
+Commission, the notifying parties made several
+firm proposals to meet the Commission's objec
+tions. These proposals concerned in particular the
+(21) One issue which requires individual attention is the necessary amendments to the joint venture agree
+position of paging service providers who at the ment itself, the operating agreement and the stand
+same time act as Eirpage agents. Of the eight ard agency agreement. Furthermore, Telecom esta
+paging service providers established in Ireland blished the undertaking referred to above under
+before Eirpage came on the market, three took the point (1) (a) of recital 7 with regard to making avai
+opportunity offered of becoming Eirpage agents. lable facilities similar to the Eirpage facilities, thus
+The services these companies offer can be distin ensuring fair market entry to third parties inter
+guished from the Eirpage service in that they ested in interconnected paging. Accordingly, the
+consist of operator-assisted as opposed to intercon date on which the exemption takes effect will not
+nected paging. One advantage of operated-assisted be the date of notification, but 26 March 1990, the
+paging is that calls are screened by an operator ; date by which all the required amendments and
+direct contact between the caller and the person the undertaking by Telecom had been presented to
+carrying the paging unit is thus excluded. Certain the Commission.
+categories of subscribers — such as doctors who do
+not want to be contacted directly by their patients
+— prefer this service above the direct communica
+tion made possible by interconnection. Also, the (23) Article 8 (1) of Regulation No 17 provides that
+services of these companies are geographically exemptions under Article 85 (3) may be granted
+limited to Dublin alone or a small number of other only for a specific period and that conditions and
+urban areas. Given the fact that the services obligations may be attached to them.
+provided by these companies fulfil different needs
+from those to which Eirpage caters, it can be
+expected that these three companies will continue
+to sell their own services next to those of Eirpage, In view of the characteristics of the Irish market
+whereby their independence has been improved by which is characterized, inter alia, by slow growth,
+the various amendments in the standard agency the novelty of the service being established by the
+agreement made at the Commission's request. parties, and the emergence of competing new tech
+Furthermore, by acting as Eirpage agents, these nologies, the development of the joint venture can
+companies may be expected to acquire first-hand be expected to require a substantial period of time.
+experience relating to interconnected paging Also, a joint venture involving the provision of a
+services, thereby enhancing their competitive posi service, as opposed to, for example, the production
+tion if one day they decide to offer such services of goods, requires a certain continuity in the rela
+themselves in direct competition with Eirpage ; in tionship between the joint venture parents and
+that case they could of course no longer act as third parties.
+Eirpage agents. Nevertheless, the Commission is
+aware of the potential conflict which may exist
+with respect to agents which offer their own
+services next to those of Eirpage, and will review The final capital investments involved in setting up
+the situation of these companies and any other the infrastructure of the nationwide paging network
+paging service providers who become Eirpage were made by July 1991 , whereupon the 10-year
+agents within a short time-frame to assess whether formula according to which Telecom will be reim
+this arrangement continues to fulfil the conditions bursed by Eirpage for its expenditures went into
+of Article 85 (3). effect.
+
+In view of the foregoing considerations, the
+Commission has concluded that a period of
+exemption ending on 31 July 2001 is appropriate
+in this case.
+
+C. Duration of die exemption and obligations
+
+(24) In order for the Commission to perform its super
+visory functions pursuant to Article 8 (3) of Regula
+tion No 17, the parties must comply with the follo
+(22) Pursuant to Article 6 (1) of Regulation No 17, the wing reporting requirements during the period of
+Commission is required to specify the date from exemption :
+
+7. 11 . 91 Official Journal of the European Communities No L 306/33
+
+1 . Telecom must inform the Commission forth (a) Bord Telecom Eireann shall inform the Commission
+with and on a continuing basis of any requests forthwith and on a continuing basis of any requests
+for paging facilities made to it by third parties made under the undertaking it has given to make
+pursuant to its undertaking referred to above paging facilities available to third parties ;
+under point 1 (a) of recital 7, and the outcome
+(b) Eirpage Limited shall submit its annual financial of such requests.
+statements to the Commission each year upon their
+2. Eirpage must submit its annual financial state issuance ;
+ments to the Commission each year upon their
+(c) Eirpage Limited shall at the same time as the submis issuance to allow for verification regarding cross
+sion of its annual financial statements provide the subsidization and preferential tariffs.
+Commission with a list of all Eirpage agents and iden
+3. At the same time as the submission of the tify which agents are at the same time paging service
+annual financial statements, Eirpage shall operators in their own right ;
+provide the Commission with an updated list of
+all agents selling the Eirpage service and indi (d) in January 1995, the parties shall submit a report to
+cate which agents are at the same time paging the Commission setting out (i) the development of the
+service operators in their own right. paging service market in Ireland, and (ii) the develop
+ment of sales of Motorola paging receive equipment
+4. In January 1995, the parties shall make available in Ireland compared to that of other brands ;
+to the Commission information enabling it to
+review : (i) the development of the paging (e) all three parties are required to inform the Commis
+service market in Ireland ; and (ii) the develop sion forthwith of any amendments or additions to the
+ment of sales of Motorola paging receive equip agreements referred to in Article 1 , and of any change
+ment in Ireland compared to that of other in the scope, nature or extent of the cooperation
+brands. between them.
+
+5. All three parties are required to inform the
+Commission forthwith of any amendments or Article 3
+additions to the joint venture agreement itself,
+the operating agreement, the standard Eirpage This Decision is addressed to the following undertakings :
+agency agreement, the standard Eirpage
+1 . Bord Telecom Eireann,
+subscriber agreement, and likewise any change
+Merrion House,
+in the scope, nature or extent of the cooperation
+Merrion Road, between them,
+IRL-Dublin 4.
+
+2. Motorola Ireland Limited,HAS ADOPTED THIS DECISION :
+Unit 12C,
+Santry Industrial Estate,
+Article 1 IRL-Dublin 9.
+Pursuant to Article 85 (3) of the EEC Treaty, the provi 3. Eirpage Limited,
+sions of Article 85 (1) are hereby declared inapplicable for Anglesea House,
+the period 26 March 1990 to 31 July 2001 to the joint Donnybrook,
+venture agreement dated 23 February 1988 between Bord IRL-Dublin 2.
+Telecom Eireann (Telecom) and Motorola Ireland Ltd
+(Motorola) and the relevant notified accompanying agree
+ments : the operating agreement between Telecom and
+the joint venture company, the standard Eirpage agency Done at Brussels, 18 October 1991 .
+agreement and the standard Eirpage subscriber agreement.
+
+Article 2 For the Commission
+
+Leon BRITTAN
+The declaration of exemption contained in Article 1 shall
+be subject to the following obligations : Vice-President

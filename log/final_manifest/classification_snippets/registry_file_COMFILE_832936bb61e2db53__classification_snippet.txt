@@ -1,0 +1,483 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+TABLE OF CONTENTS
+
+1. OGGETTO.............................................................................................................. 3
+
+2. IL DESTINATARIO............................................................................................... 4
+
+3. FASI PROCEDURALI AI SENSI DEL REGOLAMENTO (CE) N. 1/2003 ........... 5
+
+4. VALUTAZIONE PRELIMINARE.......................................................................... 6
+
+4.1. Sistema di infrastrutture per l'importazione del gas in Italia............................. 6
+
+4.2. Mercati rilevanti............................................................................................. 8
+
+4.2.1. Mercati rilevanti del prodotto........................................................ 8
+
+4.2.2. Mercati geografici rilevanti............................................................ 9
+
+4.3. Posizione dominante di ENI sui mercati rilevanti .......................................... 10
+
+4.4. Parte sostanziale del mercato interno............................................................ 11
+
+4.5. Preoccupazioni concorrenziali in merito alla strategia di rifiuto alla
+fornitura12
+
+4.5.1. Accaparramento di capacità ........................................................ 13
+
+4.5.2. Degrado di capacità...................................................................... 14
+
+4.5.3. Limitazione strategica degli investimenti .................................... 15
+
+4.5.4. Conclusioni ................................................................................... 16
+
+4.6. Incidenza sugli scambi tra gli Stati membri.................................................... 17
+
+5. IMPEGNI PROPOSTI .......................................................................................... 17
+
+6. COMUNICAZIONE DELLA COMMISSIONE A NORMA
+DELL'ARTICOLO 27, PARAGRAFO 4, DEL REGOLAMENTO (CE) N.
+1/2003................................................................................................................... 19
+
+7. PROPORZIONALITÀ DEGLI IMPEGNI DEFINITIVI ....................................... 22
+
+Introduzione .......................................................................................................... 22
+
+Cessione di infrastrutture di trasporto................................................................... 23
+
+Idoneità di CDP o di un altro soggetto pubblico controllato dallo Stato
+italiano come acquirente delle attività di trasporto del gas in Austria.......... 24
+
+Altre disposizioni degli impegni............................................................................. 27
+
+8. CONCLUSIONI.................................................................................................... 28
+
+TABLE OF CONTENTS
+
+DECISIONE DELLA COMMISSIONE
+
+del
+
+relativa a un procedimento a norma dell’articolo 102 del trattato sul funzionamento
+dell'Unione europea e dell’articolo 54 dell’accordo SEE
+
+(Caso COMP/39.315 – ENI)
+
+(Il testo in lingua Italiana è il solo facente fede)
+
+(Testo rilevante ai fini del SEE)
+
+LA COMMISSIONE EUROPEA,
+
+visto il trattato sul funzionamento dell'Unione europea,
+
+visto il regolamento (CE) n. 1/2003 del Consiglio, del 16 dicembre 2002, concernente
+l'applicazione delle regole di concorrenza di cui agli articoli 81 e 82 del trattato1, in
+particolare l'articolo 9, paragrafo 1,
+
+vista la decisione della Commissione del 21 dicembre 2007 di avviare un procedimento nel
+presente caso,
+
+dopo aver espresso specifiche preoccupazioni nella comunicazione degli addebiti del 6
+marzo 2009,
+
+dopo aver dato ai terzi interessati la possibilità di presentare osservazioni ai sensi
+dell'articolo 27, paragrafo 4, del regolamento (CE) n. 1/2003 del Consiglio sugli impegni
+proposti in risposta a tali preoccupazioni,
+
+visto il parere del comitato consultivo in materia di accordi restrittivi e posizioni
+dominanti,
+
+vista la relazione finale del consigliere-auditore2,
+
+CONSIDERANDO QUANTO SEGUE:
+
+1. OGGETTO
+
+(1) La presente decisione è indirizzata a ENI Spa ("ENI") e riguarda il
+comportamento tenuto da ENI sul mercato del trasporto di gas verso l'Italia e sui
+mercati della fornitura di gas in Italia.
+
+(2) Nella comunicazione degli addebiti, la Commissione è giunta alla conclusione
+preliminare che ENI detiene una posizione dominante sul mercato del trasporto di
+gas verso l'Italia e sui mercati della fornitura di gas in Italia e che le presunte
+pratiche attuate da ENI nell'amministrazione e gestione dei suoi gasdotti per il
+trasporto di gas naturale al fine di limitare l'accesso di terzi alla capacità
+disponibile e a quella nuova possono avere violato l'articolo 102 del trattato sul
+funzionamento dell'Unione europea ("TFUE")3. In particolare, ENI può avere
+precluso alla concorrenza i mercati italiani della fornitura di gas rifiutando di
+garantire i servizi di trasporto di gas a terzi. Tale strategia può essere stata attuata
+mediante il rifiuto di concedere a concorrenti l'accesso alla capacità disponibile sul
+
+1 GU L 1 del 4.1.2003.
+
+2 La relazione finale del consigliere-auditore è del 13 Settembre 2010.
+
+3 A decorrere dal 1o dicembre 2009, gli articoli 81 e 82 del trattato CE sono diventati, rispettivamente,
+gli articoli 101 e 102 del trattato sul funzionamento dell'Unione europea (TFUE), ma non cambiano
+nella sostanza. Ai fini del presente documento, i riferimenti all'articolo 102 del TFUE si intendono
+fatti, ove opportuno, all'articolo 82 del trattato CE.
+
+3
+
+sistema di infrastrutture di trasporto (accaparramento di capacità), concedendo
+l'accesso in un modo poco pratico (degrado delle capacità) e limitando
+strategicamente gli investimenti (sottoinvestimento strategico) nei gasdotti per il
+trasporto internazionale di ENI.
+
+2. IL DESTINATARIO
+
+(3) ENI è una società controllata dallo Stato italiano, operante nel settore energetico e
+attiva su più livelli della filera produttiva, di trasporto e di approvvigionamento, in
+particolare di gas naturale e di petrolio. Si tratta di una società attiva nel settore
+del gas verticalmente integrata, con attività nella produzione e importazione di
+gas4, nel trasporto e nello stoccaggio del gas e nella fornitura e distribuzione di gas
+a valle5.
+
+(4) ENI si approvvigiona di gas tanto attraverso la propria produzione in Italia e in
+Libia6, quanto in virtù di contratti di lungo termine con società leader nel nella
+produzione di gas (soprattutto in Russia, Norvegia, Paesi Bassi e Algeria).
+
+(5) ENI è attiva altresì nel settore dei servizi di trasporto internazionali. In particolare,
+assieme alla società austriaca OMV, ENI possiede e controlla la società Trans
+Austria Gasleitung GmbH ("TAG GmbH"), la quale gestisce un gasdotto (TAG)
+che da Baumgarten, in prossimità del confine tra Austria e Repubblica slovacca, si
+estende fino all’Italia. Inoltre, assieme alla società tedesca E.ON Ruhrgas
+("E.ON"), ENI possiede e controlla la società Trans Europa Naturgas Pipeline
+GmbH & Co. KG ("TENP KG"), proprietaria di un gasdotto (TENP) che dal
+confine tra Paesi Bassi, Belgio e Germania si snoda fino a Wallbach, al confine tra
+Germania e Svizzera. Il gas trasportato nel gasdotto TENP viene successivamente
+convogliato verso l'Italia attraverso il territorio svizzero lungo il gasdotto
+Transitgas, di proprietà di ENI e della società svizzera Swissgas AG (“Swissgas”),
+che ne detengono anche il controllo.
+
+4 Nel 2007, la divisione Gas&Power di ENI ha venduto [...] miliardi di metri cubi di gas, di cui [...]
+miliardi di metri cubi sono stati trasportati in Italia.
+
+5 Nel 2007, ENI ha fornito gas nel mercato italiano all'ingrosso per circa [...] miliardi di metri cubi
+(circa il 50-70% della domanda totale). Nel mercato al dettaglio, ENI ha fornito gas a centrali
+elettriche funzionanti a gas e a clienti della grande industria detenendo quote di mercato non inferiori
+al 45-55%. Secondo l'Autorità per l'energia elettrica e il gas ("AEEG") nel 2008, ENI controllava
+ancora il 50-70% del gas disponibile in Italia (produzione nazionale, importazioni e vendite di gas al
+confine nazionale; si veda la relazione annuale dell'AEEG del luglio 2008, pag. 120; e il piano
+strategico 2008-2011 dell'AEEG).
+
+6 ENI detiene interessi nel cosiddetto “Western Libyan Gas Project” (WLGP, progetto per il gas nella
+Libia occidentale), una joint venture di proprietà per il 50% di ENI e per il 50% della società
+National Oil Corporation (NOC), un’impresa libica di proprietà statale attiva nel settore dell'energia.
+Il WLGP ha l'obiettivo di effettuare esplorazioni, e di produrre e trasportare gas naturale dalla Libia
+all’Italia. Esso è alimentato dalla produzione del giacimento off-shore di Bahr Essalam e del
+giacimento di Wafa.
+
+4
+
+(6) Nel 2008 ENI ha raggiunto un fatturato di 108 miliardi di euro (ricavi della
+gestione caratteristica) con 21,7 miliardi di euro di utile operativo corretto e 8,8
+miliardi di euro di utile netto7.
+
+3. FASI PROCEDURALI AI SENSI DEL REGOLAMENTO (CE) N. 1/2003
+
+(7) L'istruttoria è stata avviata d'ufficio. Nel maggio 2006 si sono svolte ispezioni
+presso ENI e tra il 20068 e 2008 sono state effettuate altre acquisizioni di
+informazioni tramite, tra l'altro, varie richieste di informazioni a ENI e ad altri
+operatori di mercato.
+
+(8) Il 20 aprile 2007, la Commissione ha avviato nei confronti di ENI il procedimento
+di cui all'articolo 2 del regolamento (CE) n. 773/20049, al fine di adottare una
+decisione ai sensi del capo III del regolamento (CE) n. 1/2003.
+
+(9) Il 6 marzo 2009 la Commissione ha adottato una comunicazione degli addebiti a
+norma dell'articolo 27, paragrafo 1, del regolamento (CE) n. 1/2003 in combinato
+disposto con l'articolo 10, paragrafo 1, del regolamento (CE) n. 773/2004, relativa
+a presunte infrazioni dell'articolo 102 del TFUE da parte di ENI. La
+comunicazione degli addebiti costitutisce altresì una valutazione preliminare ai
+sensi dell'articolo 9 del regolamento (CE) n. 1/2003 del Consiglio.
+
+(10) La comunicazione degli addebiti è stata notificata a ENI con lettera del 9 marzo
+2009. Il 1° ottobre 2009 ENI ha risposto contestando le conclusioni formulate
+nella comunicazione degli addebiti. Il 27 novembre 2009 si è svolta un'audizione
+orale.
+
+(11) Il 4 febbraio 2010 ENI ha presentato alla Commissione impegni destinati a
+rispondere alle preoccupazioni concorrenziali espresse nella comunicazione degli
+addebiti.
+
+(12) Il 5 marzo 2010 la Commissione ha pubblicato nella Gazzetta ufficiale dell'Unione
+europea un avviso, a norma dell'articolo 27, paragrafo 4, del regolamento (CE) n.
+1/2003, che sintetizzava le preoccupazioni espresse dalla Commissione e gli
+impegni proposti e invitava i terzi interessati a presentare osservazioni sugli
+impegni entro un mese dalla pubblicazione. La Commissione ha ricevuto in totale
+14 risposte.
+
+(13) Il 27 aprile 2010 la Commissione ha informato ENI delle osservazioni pervenute
+dai terzi interessati a seguito della pubblicazione dell'avviso. Il 10 maggio 2010
+ENI ha inviato alcuni chiarimenti in risposta alle osservazioni fatte da terzi. La
+società ha presentato ulteriori chiarimenti, richiesti ai sensi dell'articolo 18 del
+
+7 ENI, dati selezionati e consolidati, relazione annuale 2008.
+
+8 Decisione di effettuare ispezioni del 5 maggio 2006 nel caso COMP/B-1/39.315.
+
+9 Regolamento (CE) n. 773/2004 della Commissione, del 7 aprile 2004, relativo ai procedimenti svolti
+dalla Commissione a norma degli articoli 81 e 82 del trattato CE (GU L 123 del 27.4.2004, pag. 18).
+
+5
+
+regolamento (CE) n. 1/2003, il 24 maggio 2010. Il 10 giugno 2010, la
+Commissione ha informato ENI circa l'analisi di tali ulteriori chiarimenti forniti e,
+l8 luglio 2010, ENI ha presentato modifiche agli impegni (gli "impegni in forma
+definitiva").
+
+(14) Il 9 Settembre 2010 è stato interpellato il comitato consultivo in materia di accordi
+restrittivi e posizioni dominanti. Il 13 Septembre 2010 il consigliere-auditore ha
+presentato la sua relazione finale.
+
+4. VALUTAZIONE PRELIMINARE
+
+(15) La Commissione ha raccolto prove indicanti che ENI potrebbe aver abusato della
+propria posizione dominante sul mercato del trasporto del gas in Italia a danno dei
+concorrenti, della concorrenza e, in definitiva, dei consumatori sui mercati della
+fornitura a valle.
+
+4.1. Sistema di infrastrutture per l'importazione del gas in Italia
+
+(16) L'Italia è un importatore netto di gas; quasi tutte le importazioni e la produzione
+nazionale servono a soddisfare la domanda interna, mentre le esportazioni di gas
+sono trascurabili10.
+
+(17) Alla data della pubblicazione della comunicazione degli addebiti, le importazioni di
+gas destinate all'Italia potevano essere trasportate attraverso le seguenti
+infrastrutture esistenti e operative:
+
+• i gasdotti transmediterraneo e transtunisino (insieme TTPC/TMPC), usati per
+le importazioni in Italia di gas algerino11;
+
+• il gasdotto Greenstream, usato per le importazioni in Italia di gas libico12;
+
+• i gasdotti TENP/Transitgas, usati per le importazioni in Italia di gas dal Nord
+Europa13;
+
+10 Nel 2007, il consumo nazionale è stato di circa 85 miliardi di metri cubi. La domanda è stata
+soddisfatta dalle importazioni per circa 74 miliardi di metri cubi, dalla produzione nazionale per
+circa 10 miliardi di metri cubi e per il resto dal gas prelevato dallo stoccaggio.
+
+11 L'asse italo-algerino è costituito da un gasdotto sottomarino, il collegamento Transmed, e da un tratto
+di gasdotto che attraversa la Tunisia. Il gasdotto sottomarino è di proprietà della TransMediterranean
+Pipeline Company Limited (TMPC), una società che fa capo in parti uguali ed è controllata
+congiuntamente da ENI e da Sonatrach (la società del gas statale algerina). Il tratto tunisino del
+sistema TTPC/TMPC appartiene alla società statale tunisina Sotugat. ENI può beneficiare di rilevanti
+diritti di capacità su tali oleodotti, pari al 70-80%. Nel 2007, tramite il gasdotto TTPC/TMPC sono
+stati importati in Italia 22,5 miliardi di metri cubi di gas, pari a circa il 25% del consumo nazionale.
+
+12 Greenstream è un'impresa comune tra ENI (75%) e NOC. Tutti i diritti di trasporto mediante tale
+gasdotto sono detenuti da ENI su base esclusiva. Circa l'80% della capacità è allocata su base
+secondaria a lungo termine ad altri vettori. Nel 2007 tramite il gasdotto Greenstream sono stati
+importati in Italia 9 miliardi di metri cubi di gas, pari a circa il 10% del consumo nazionale.
+
+6
+
+• il gasdotto TAG, usato per le importazioni in Italia di gas russo14;
+
+• il gasdotto sloveno che permette importazioni/esportazioni marginali di gas
+russo attraverso la Slovenia15;
+
+• il terminale GNL (gas naturale liquefatto) di Panigaglia16.
+
+Di recente sono diventate operative alcune addizionali strutture di importazione di
+gas di limitata entità17.
+
+(18) Secondo la comunicazione degli addebiti, tutti i gasdotti di cui sopra sono
+controllati individualmente o congiuntamente da ENI, il quale, oltre a detenere
+rilevanti diritti di trasporto su queste infrastrutture, ha anche ottenuto l'allocazione
+di una quantità significativa della capacità disponibile a lungo termine.
+
+(19) Riguardo al sistema TENP, ENI
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+a comunicazione consolidata della Commissione sui criteri di competenza giurisdizionale a
+norma del regolamento (CE) n. 139/2004 del Consiglio relativo al controllo delle concentrazioni tra
+imprese, GU L 95 del 16.4.2008, pag. 1, punti 52 e 53.
+
+55 CDP è il risultato della trasformazione di un ente pubblico in una società per azioni a controllo
+pubblico a norma dell'articolo 5 del decreto legge 269 del 30 settembre 2003. Il MEF detiene una
+25
+
+CDP è la concessione di finanziamenti per investimenti dello Stato, infrastrutture
+per la fornitura di servizi pubblici, grandi opere pubbliche di interesse nazionale o
+altri progetti di interesse pubblico. Tra le principali linee di attività, CDP può
+acquisire partecipazioni in società, altre imprese, consorzi e raggruppamenti di
+imprese in Italia e all'estero. Tra l'altro, CDP detiene partecipazioni in attività di
+interesse economico generale e in attività potenzialmente svolte in condizioni di
+concorrenza con altri operatori di mercato. Per la precisione, attualmente CDP
+detiene partecipazioni di maggioranza o di minoranza, tra l'altro, nelle imprese
+seguenti: ENI TERNA, Poste Italiane, Tunnel di Genova e Fondi Italiani per le
+Infrastrutture SGR.
+
+(103) Lo statuto di CDP istituisce un sistema separato ai soli fini contabili ed
+organizzativi tra le attività di interesse economico generale (Gestione separata) e le
+altre attività di CDP (Gestione ordinaria) non di interesse economico generale e
+quindi svolte potenzialmente in condizioni di concorrenza con gli altri operatori di
+mercato. Per quanto riguarda la struttura organizzativa di CDP, le divisioni che si
+occupano di investimenti pubblici e di gestione e sostegno delle politiche di
+sviluppo sono parte della gestione separata, mentre la divisione per le infrastrutture
+e i progetti strategici rientra nella gestione ordinaria56.
+
+(104) Le attività della gestione separata comprendono, tra l'altro, la gestione delle
+attività e delle funzioni trasferite al MEF al momento della trasformazione di CDP
+in società per azioni a controllo pubblico, e la fornitura di servizi di consulenza a
+favore di enti pubblici. [-...]57. Tra di esse figurano anche la gestione delle
+partecipazioni che CDP detiene in ENI. Si può quindi ritenere che tale quota è
+gestita come se fosse una partecipazione detenuta direttamente dal MEF e
+attribuita a CDP a fini meramente amministrativo contabile58.
+
+(105) Il resto delle attività di CDP rientra nella gestione ordinaria. [...].
+
+(106) CDP può essere considerato indipendente da ENI, a condizione che la quota di
+TAG sia trasferita nella Gestione ordinaria di CDP.
+
+(107) Per quanto riguarda le partecipazioni della Gestione ordinaria, CDP rappresenta un
+ente economico dotato di un potere decisionale autonomo. [...]. Non vi è cumulo
+
+quota di controllo del 70% in CDP mentre il restante 25% è in possesso di un gruppo di fondazioni
+bancarie.
+
+56 La nuova struttura organizzativa è entrata in vigore il 31 dicembre 2008.
+
+57 Con riferimento al decreto legge 269/2003, lo statuto del CDP recita Ai sensi dell'art. 5, comma 9,
+del decreto legge, al Ministro dell'economia e delle finanze spetta il potere di indirizzo della Gestione
+separata e spetta altresì il potere, ai sensi dell'art. 5, comma 11, del decreto legge, di determinare le
+modalità di esercizio dell'attività della Gestione separata per quanto ivi indicato.
+
+58 Con riferimento al decreto legge n. 269/2003, lo statuto di CDP recita Ai sensi dell'art. 5, comma 8
+del decreto legge, per il perseguimento dell'oggetto sociale [...] è istituito un sistema separato ai soli
+fini contabili ed organizzativi (indicato nel prosieguo, per brevità, la "Gestione separata"), la cui
+gestione è uniformata a criteri di trasparenza e di salvaguardia dell'equilibrio economico.
+
+26
+
+delle cariche di vertice tra CDP e ENI, ed esiste un'adeguata garanzia di non
+condivisione delle informazioni commerciali riservate.[...].
+
+(108) Il fatto che CDP detenga azioni di ENI non pregiudica l'autonomia di CDP rispetto
+a ENI,[...]. Di fatto tale partecipazione è da considerarsi come detenuta
+direttamente dal MEF.
+
+(109) La Commissione considera inoltre dimostrato che CDP disponga delle risorse
+finanziarie, delle competenze e degli incentivi atti a sviluppare l'attività ceduta nel
+senso di impianto funzionale e affidabile. CDP è un'impresa solida sotto il profilo
+finanziario, con comprovate capacità ed esperienza nella gestione di partecipazioni
+di maggioranza e di minoranza per un numero considerevole di imprese attive in
+diversi settori economici, in particolare nelle infrastrutture (tra cui, ad esempio,
+nelle attività della rete nazionale italiana dell'energia elettrica mediante la
+partecipazione in TERNA). Se CDP può non avere un'esperienza specifica nella
+gestione dei sistemi di trasporto del gas, va evidenziato che mediante l'acquisizione
+da parte di CDP della quota detenuta da ENI in TAG GmbH, quest'ultima sarà
+controllata congiuntamente da CDP e OMV, la quale, come TAG GmbH, dispone,
+a quanto consta, di tutte le capacità tecniche e organizzative per gestire
+efficacemente l'attività di trasporto del gas.
+
+(110) Infine, poiché al momento attuale CDP non partecipa, direttamente o
+indirettamente, ad attività di acquisto, trasporto o fornitura di gas naturale (fatta
+eccezione per la partecipazione in ENI di cui sopra), l'acquisizione da parte
+dell'impresa delle azioni detenute da ENI in TAG non dà adito a manifeste
+preoccupazioni concorrenziali.
+
+(111) La Commissione giunge pertanto alla conclusione che CDP sia un acquirente
+idoneo per l'attività da cedere in Austria.
+
+(112) Se ENI vendesse comunque la propria quota in TAG non a CDP, ma a un altro
+soggetto pubblico controllato dallo Stato italiano, gli impegni definitivi prevedono
+che l'acquirente debba essere approvato dalla Commissione conformemente ai
+medesimi criteri indicati nei punti 99 e 100.
+
+Altre disposizioni degli impegni
+
+(113) ENI si è altresì impegnata a non prorogare o rinnovare alcun contratto di trasporto
+e a non sottoscrivere nuovi contratti di trasporto in qualità di vettore per i
+gasdotti TAG, TEMP e Transitgas59, se non in caso di eventuali aste future e di
+altri procedimenti pubblici d'aggiudicazione di capacità di trasporto di controflussi
+verso mercati diversi dal mercato italiano. La disposizione è necessaria e
+proporzionata per assicurare che ENI non possa rafforzare i propri diritti di
+capacità a danno di soggetti terzi pregiudicando l'effettiva assegnazione
+indipendente della capacità primaria disponibile agli altri vettori nei gasdotti
+
+59 Come menzionato al punto 72, tale disposizione vale dal 22 dicembre 2009 fino al termine della
+cessione.
+
+27
+
+esistenti. Per contro, contratti per l'acquisizione di capacità di controflusso non
+modificano la disponibilità della capacità di trasporto esistente.
+
+(114) I restanti elementi degli impegni nella forma definitiva, quali gli obblighi di
+mantenimento della sostenibilità delle attività da cedere, gli obblighi riguardanti la
+gestione separata, le disposizioni relative alla delimitazione delle attività oggetto di
+cessione, all'astensione, alla due diligence e all'obbligo di presentare relazioni,
+nonché al ruolo del mandatario incaricato della cessione sono transitori e ausiliari
+rispetto agli impegni principali. Tali disposizioni sono necessarie per assicurare
+l'attuazione degli impegni finali proposti da ENI e sono proporzionati. Esse
+corrispondono inoltre alla prassi comunemente seguita dalla Commissione per le
+cessioni nei procedimenti relativi alle concentrazioni,60 come previsto dalla
+comunicazione della Commissione concernente le misure correttive considerate
+adeguate a norma del regolamento (CE) n. 139/2004 del Consiglio e del
+regolamento (CE) n. 802/2004 della Commissione.
+
+8. CONCLUSIONI
+
+(115) Nell'adottare una decisione ai sensi dell'articolo 9, paragrafo 1, del regolamento
+(CE) n. 1/2003, la Commissione rende obbligatori gli impegni proposti dall'impresa
+in risposta alle preoccupazioni espresse dalla Commissione stessa nella
+comunicazione degli addebiti. Tale decisione non stabilisce se sia stata o meno
+commessa un'infrazione o se essa sia ancora in atto. La conclusione della
+Commissione, secondo cui gli impegni definitivi proposti sono sufficienti a
+eliminare le sue riserve, si fonda sulla comunicazione degli addebiti, che contiene le
+conclusioni preliminari della Commissione basate sull'indagine e sull'analisi
+previamente svolta nonché sulle osservazioni ricevute da terzi a seguito della
+pubblicazione della comunicazione a norma dell'articolo 27, paragrafo 4, del
+regolamento 1/2003.
+
+(116) Alla luce degli impegni definitivi proposti, la Commissione ritiene che non
+sussistano più motivi per un suo intervento e che il procedimento possa essere
+chiuso, fatte salve le disposizioni dell'articolo 9, paragrafo 2, del regolamento (CE)
+n. 1/2003. La presente decisione lascia impregiudicata l'attuazione e l'applicazione
+della direttiva 2009/73/CE e del regolamento 715/2009 (terzo pacchetto61) relativo
+allo stabilimento di un mercato interno per l'energia ed in particolare su differenti
+modalità di separazione ivi previsti.
+
+60 GU C 267 del 22/10/2008, pag. 1.
+
+61 Direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009, relativa a norme
+comuni per il mercato interno del gas naturale (GU L 211 del 14.8.2009, pag. 94) e Regolamento
+715/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009 , relativo alle condizioni di
+accesso alle reti di trasporto del gas naturale (GU L 211 del 14.8.2009, pag. 36).
+
+.
+
+28
+
+HA ADOTTATO LA PRESENTE DECISIONE:
+
+Articolo 1
+
+Gli impegni allegati alla presente decisione sono vincolanti per ENI Spa e per tutte le sue
+controllate.
+
+Articolo 2
+
+L'intervento della Commissione non è più giustificato ed il procedimento in questo caso
+verrà fatto cessare.
+
+Articolo 3
+
+Destinataria della presente decisione è ENI S.p.A, Roma, Piazzale Mattei 1.
+
+Fatto a Bruxelles,
+
+Per la Commissione
+
+Membro della Commissione
+
+29

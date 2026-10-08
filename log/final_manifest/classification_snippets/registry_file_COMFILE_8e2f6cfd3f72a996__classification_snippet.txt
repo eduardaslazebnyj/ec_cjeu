@@ -1,0 +1,487 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39924 –
+SWISS FRANC INTEREST
+RATE DERIVATIVES
+
+(BID ASK SPREAD INFRINGEMENT)
+
+(ONLY THE ENGLISH TEXT IS AUTHENTIC)
+
+CARTEL PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 21.10.2014
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are shown as [...].
+
+EUROPEAN
+COMMISSION
+
+Strasbourg, 21.10.2014
+C(2014) 7602 final
+
+COMMISSION DECISION
+
+of 21.10.2014
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39924 - Swiss Franc Interest Rate Derivatives)
+
+(Only the English text is authentic)
+
+EN EN
+
+TABLE OF CONTENTS
+
+1. Introduction.............................................................................................................. 5
+2. Background.............................................................................................................. 5
+2.1. The product concerned by the infringement.............................................................. 5
+2.2. The undertakings subject to the present proceedings................................................. 6
+2.2.1. RBS ......................................................................................................................... 6
+2.2.2. UBS ......................................................................................................................... 6
+2.2.3. JPMorgan................................................................................................................. 6
+2.2.4. Credit Suisse ............................................................................................................ 6
+3. Procedure................................................................................................................. 7
+4. Description of the infringement................................................................................ 8
+4.1. Nature and scope of the infringement ....................................................................... 8
+4.2. Means of communication ......................................................................................... 9
+4.3. Infringement duration............................................................................................... 9
+4.4. Geographic Scope of the Infringement ..................................................................... 9
+5. Legal assessment...................................................................................................... 9
+5.1. Application of Article 101 of the Treaty and Article 53 of the EEA Agreement........ 9
+5.1.1. The nature of the infringement ................................................................................. 9
+5.1.1.1. Agreements and concerted practices......................................................................... 9
+5.1.1.2. Single and continuous infringement........................................................................ 10
+5.1.2. Restriction of competition ...................................................................................... 11
+5.1.3. Effect on trade between Member States and between EEA contracting parties........ 11
+5.1.4. Non-applicability of Article 101(3) of the Treaty.................................................... 11
+6. Duration of the infringement .................................................................................. 12
+7. Liability ................................................................................................................. 12
+7.1.1. RBS ....................................................................................................................... 12
+7.1.2. UBS ....................................................................................................................... 12
+7.1.3. JPMorgan............................................................................................................... 12
+7.1.4. Credit Suisse .......................................................................................................... 13
+8. Remedies ............................................................................................................... 13
+8.1. Article 7 of Regulation No 1/2003.......................................................................... 13
+8.2. Article 23(2) of Regulation No 1/2003 ................................................................... 13
+8.3. Calculation of the fines........................................................................................... 14
+8.3.1. The value of sales................................................................................................... 14
+8.3.2. Determination of the basic amount ......................................................................... 15
+
+EN 2 EN
+
+8.3.2.1. Gravity................................................................................................................... 15
+8.3.2.2. Duration................................................................................................................. 15
+8.3.2.3. Additional amount.................................................................................................. 16
+8.3.2.4. Calculations and conclusions on basic amounts...................................................... 16
+8.3.3. Adjustment to the basic amount: aggravating or mitigating circumstances.............. 16
+8.3.4. Application of the 10% turnover limit .................................................................... 16
+8.3.5. Application of the 2006 Leniency Notice ............................................................... 17
+8.3.6. Application of the Settlement Notice...................................................................... 17
+9. Conclusion: final amount of individual fines to be imposed in this Decision........... 17
+
+EN 3 EN
+
+COMMISSION DECISION
+
+of 21.10.2014
+
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union and Article 53 of the EEA Agreement
+
+(AT.39924 - Swiss Franc Interest Rate Derivatives)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,1
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty,2
+and in particular Article 10a thereof,
+Having regard to the Commission decisions of 24 July 2013 initiating proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case,3
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("TFEU" or "the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of
+this Decision, references to Articles 101 and 102 of the Treaty should be understood as references to
+Articles 81 and 82, respectively, of the EC Treaty where appropriate. The Treaty also introduced certain
+changes in terminology, such as the replacement of "Community" by "Union" and "common market" by
+"internal market". The terminology of the Treaty will be used throughout this Decision. The Agreement
+creating the European Economic Area is referred to as the "EEA Agreement" in this Decision.
+2 OJ L 123, 27.4.2004, p. 18.
+3 Final report of the Hearing Officer of 17 October 2014.
+
+EN 4 EN
+
+1. INTRODUCTION
+(1) The addressees of the Decision participated in an infringement of Article 101 of the
+Treaty on the Functioning of the European Union (hereinafter referred to as the
+"Treaty" or "TFEU") and Article 53 of the Agreement creating the European
+Economic Area (hereinafter referred to as the "EEA Agreement").
+(2) The infringement consists of agreements and/or concerted practices covering the
+territories of the contracting parties to the EEA Agreement the object of which was
+the restriction and/or distortion of competition in relation to certain short term over
+the counter Swiss Franc Interest Rate Derivatives.
+(3) This Decision covers one single and continuous infringement of Article 101(1)
+TFEU and Article 53 EEA.
+(4) This Decision is addressed to (hereinafter "the addressees"):
+– The Royal Bank of Scotland Group plc and The Royal Bank of Scotland plc
+(hereinafter “RBS”);
+– UBS AG (hereinafter “UBS”);
+– JPMorgan Chase & Co. and JPMorgan Chase Bank, National Association
+(hereinafter “JPMorgan”) and
+– Credit Suisse Group AG, Credit Suisse International and Credit Suisse
+Securities (Europe) Limited (hereinafter "Credit Suisse").
+
+2. BACKGROUND
+2.1. The product concerned by the infringement
+(5) The products to which the infringement addressed in this Decision relates are certain
+short term over the counter Swiss Franc Interest Rate Derivatives of a maturity of up
+to 24 months ("ST OTC CHF Interest Rate Derivatives" or "ST OTC CHIRDs" for
+short).
+(6) ST OTC CHIRDs are financial products that are used by corporations, financial
+institutions, hedge funds, and other global undertakings to manage their interest rate
+risk exposure (hedging, for both borrowers and investors) and to generate fees as an
+intermediary or for speculation purposes. According to the Bank for International
+Settlements OTC derivatives statistics, interest rate derivatives, which include ST
+OTC CHIRDs, constitute the largest segment of all OTC derivatives products. In
+June 2013, outstanding CHF denominated interest rate derivatives had a gross market
+value of USD 113 billion4.
+(7) The specific types of ST OTC CHIRDs concerned by the infringement were limited
+to: (i) forward rate agreements5 (referenced to Swiss Franc LIBOR) and (ii) swaps6,
+
+4 Bank for International Settlements; http://www.bis.org/statistics/dt21a21b.pdf
+5 A forward rate agreement is an agreement between two counterparties to fix the interest rate today for a
+certain time period in the future and payable on a specified notional amount.
+6 A swap is an agreement in which two counterparties agree to exchange (or swap), at specific intervals
+and for a set term, streams of future interest rate payments.
+
+EN 5 EN
+
+which include overnight index swaps (referenced to the Swiss Franc TOIS7) and
+interest rate swaps (referenced to Swiss Franc LIBOR).
+
+2.2. The undertakings subject to the present proceedings
+2.2.1. RBS
+(8) This Decision is addressed to the following legal entities:
+– The Royal Bank of Scotland Group plc with registered offices at 36 St Andrew
+Square, Edinburgh, EH2 2YB, United Kingdom;
+– The Royal Bank of Scotland plc with registered offices at 36 St Andrew
+Square, Edinburgh, EH2 2YB, United Kingdom.
+(9) RBS is a leading provider of banking and integrated financial services. It is
+headquartered in the United Kingdom and active in Europe, United States and Asia
+Pacific. At the time of the infringement, RBS was a market maker8 in ST OTC
+CHIRDs.
+2.2.2. UBS
+(10) This Decision is addressed to the following legal entity:
+– UBS AG with registered offices at Bahnhofstraße 45, 8001 Zürich,
+Switzerland.
+– UBS is a global financial institution headquartered in Switzerland and has
+offices in more than 50 countries including all major financial centres. It offers
+financial services including wealth management, investment banking and asset
+management. At the time of the infringement, UBS was a market maker in ST
+OTC CHIRDs.
+2.2.3. JPMorgan
+(11) This Decision is addressed to the following legal entities:
+– JPMorgan Chase & Co. with registered offices at 270 Park Avenue, New York,
+NY 10017, U.S.A.;
+– JPMorgan Chase Bank, National Association with registered offices at 1111
+Polaris Parkway, Columbus, Ohio 43240, U.S.A.
+(12) JPMorgan is a financial institution headquartered in the United States of America. It
+currently operates in more than 60 countries around the world. At the time of the
+infringement, JPMorgan was a market maker in ST OTC CHIRDs.
+2.2.4. Credit Suisse
+(13) This Decision is addressed to the following legal entities:
+– Credit Suisse Group AG with registered offices at Paradeplatz 8, CH-8001,
+Zurich, Switzerland;
+
+7 TOIS is the Swiss Franc Tomorrow/next unsecured lending rate. It is used as reference rate for Swiss
+Franc denominated overnight index swaps.
+8 Market makers hold themselves out as able and willing to sell or to buy the concerned financial
+products at prices determined by them generally and continuously rather than in respect of each
+particular transaction. The difference between the price at which a market maker is willing to buy a
+contract and sell a contract is called the "bid ask spread" and this reflects the profit margin that is
+sought.
+
+EN 6 EN
+
+– Credit Suisse International with registered offices at One Cabot Square,
+London E14 4QJ, UK;
+– Credit Suisse Securities (Europe) Limited with registered offices at One Cabot
+Square, London E14 4QJ, UK.
+(14) Credit Suisse is a global financial institution headquartered in Switzerland, with
+offices in more than 50 countries. At the time of the infringement, Credit Suisse was
+a market maker in ST OTC CHIRDs.
+
+3. PROCEDURE
+(15) On 9 August 2011, RBS applied for a marker under points 14 and 15 of the Notice
+on immunity from fines and reduction of fines in cartel cases (hereinafter “the
+Leniency Notice”).9 The application [...]. By decision of 20 February 2012, the
+Commission granted RBS conditional immunity pursuant to point 8(a) of the
+Leniency Notice.
+(16) On [...], UBS applied for a reduction of fines under the Leniency Notice [...]. The
+application [...].
+(17) On [...], JPMorgan applied for a reduction of fines under the Leniency Notice [...].
+The application [...].
+(18) On 24 July 2013, the Commission initiated proceedings pursuant to Article 11(6) of
+Regulation (EC) No 1/2003 against the addressees of the present Decision (also
+referred to as the "parties" or individually the "party") with a view to engaging in
+settlement discussions.
+(19) Settlement meetings with the parties took place between [...]. At these meetings, the
+Commission informed the parties about the objections it envisaged raising against
+
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ Point 13 of the Guidelines on fines.
+31 Case T-76/06, Plasticos Españoles (ASPLA) v Commission, not yet reported, paragraphs 111-113.
+
+EN 14 EN
+
+(68) In recognition of the particularities of the ST OTC CHIRDs contracts and of the
+nature of this infringement the Commission reduces these respective notional
+amounts in the following way. On an individual transaction, market makers earn,
+conceptually, the notional amount multiplied by half the bid ask spread. Thus, the
+Commission considers the notional amounts multiplied by half the bid ask spread as
+the proxy of the market making revenues of each party. In addition, to take into
+account that the parties also acted as traders, the Commission considers the notional
+amounts multiplied by another time half the bid ask spread as the proxy of the
+trading revenues of each party. Therefore the Commission applies to the notional
+amounts referred to in recital (67) a uniform factor representing the bid ask spread.
+(69) Accordingly, the Commission takes into account the following values of sales of
+RBS, UBS, JPMorgan and Credit Suisse:
+(70) Table 1: Value of sales of RBS, UBS, JPMorgan and Credit Suisse
+
+Undertaking Value of sales (in EUR)
+
+RBS [...]
+
+UBS [...]
+
+JPMorgan [...]
+
+Credit Suisse [...]
+
+8.3.2. Determination of the basic amount
+8.3.2.1. Gravity
+(71) In assessing the gravity of the infringement, the Commission has regard to a number
+of factors, such as the nature of the infringement, the combined market share of all
+the undertakings concerned, the geographic scope of the infringement and whether or
+not the infringement has been implemented.32
+(72) In its assessment, the Commission takes into account the fact that the infringement is,
+by its very nature, among the most harmful restrictions of competition. Therefore, the
+proportion of the value of sales taken into account for the infringement is set at the
+higher end of the scale.33
+(73) The Commission also takes into account the fact that the infringement covered the
+entire EEA.
+(74) Accordingly, the proportion of the value of sales to be taken into account is 16%.
+8.3.2.2. Duration
+(75) In calculating the fine to be imposed on each undertaking, the Commission takes also
+into consideration the duration of the infringement, as described in recital (46) above.
+The increase for duration is calculated on the basis of full months taking into account
+the actual duration of each undertaking's participation in the infringement on a
+
+32 Points 21-22 of the Guidelines on fines.
+33 Point 23 of the Guidelines on fines.
+
+EN 15 EN
+
+rounded down monthly and pro rata basis. This leads to the following duration
+multipliers:
+(76) Table 2: Duration of the infringement
+
+Undertaking Duration Multiplier
+RBS 7 May 2007 – 25 September 2007 0.33
+
+UBS 7 May 2007 – 25 September 2007 0.33
+
+JPMorgan 7 May 2007 – 25 September 2007 0.33
+
+Credit Suisse 7 May 2007 – 25 September 2007 0.33
+
+8.3.2.3. Additional amount
+(77) The Commission includes in the basic amount a sum of between 15% and 25% of the
+value of sales to deter the undertakings from entering into such illegal practices on
+the basis of the criteria listed above with respect to the variable amount.34
+(78) Taking into account the factors listed above, the percentage to be applied for the
+purposes of calculating the additional amount is 16%.
+8.3.2.4. Calculations and conclusions on basic amounts
+(79) Based on the criteria explained above, the basic amount per undertaking per
+infringement is presented in the tables below.
+(80) Table 3: Basic amounts for the infringement
+
+Undertaking Basic amount (in EUR)
+
+RBS [...]
+
+UBS [...]
+
+JPMorgan [...]
+
+Credit Suisse [...]
+
+8.3.3. Adjustment to the basic amount: aggravating or mitigating circumstances
+(81) The Commission may consider aggravating or mitigating circumstances resulting in
+an increase/decrease of the basic amount.35 These circumstances are listed in a nonexhaustive way in points 28 and 29 of the Guidelines on fines.
+(82) In the present infringement, the Commission does not apply any aggravating or
+mitigating circumstances.
+8.3.4. Application of the 10% turnover limit
+(83) Article 23(2) of Regulation (EC) No 1/2003 provides that the fine imposed on each
+undertaking for each infringement shall not exceed 10% of its total turnover relating
+to the business year preceding the date of the Commission decision.
+
+34 Point 25 of the Guidelines on fines.
+35 Points 28-29 of the Guidelines on fines.
+
+EN 16 EN
+
+(84) In this case, none of the fines exceed 10% of an undertaking’s total turnover relating
+to the business year preceding the date of this Decision.
+8.3.5. Application of the 2006 Leniency Notice
+(85) On 20 February 2012, RBS was granted conditional immunity from fines in relation
+to the infringement. RBS's co-operation fulfilled the requirements of the Leniency
+Notice. RBS is therefore granted immunity from fines for this infringement.
+(86) The Commission also received an application for a reduction of fines from UBS.
+UBS added significant value to the Commission's investigation by providing [...].
+Furthermore, UBS provided [...].
+(87) In view of the assessment set out above, UBS is granted a 30% reduction of the fine
+that would otherwise have been imposed on it for its participation in the
+infringement.
+(88) Furthermore, the Commission received an application for a reduction of fines from
+JPMorgan. JPMorgan added significant value to the Commission's investigation by
+submitting [...]. Furthermore, JPMorgan provided [...].
+(89) In view of the assessment set out above, JPMorgan is granted a 25% reduction of the
+fine that would otherwise have been imposed on it for its participation in the
+infringement.
+8.3.6. Application of the Settlement Notice
+(90) In accordance with point 32 of the Settlement Notice, the reward for settlement is a
+reduction of 10% of the amount of the fine to be imposed on an undertaking after the
+10% turnover cap has been applied having regard to the Guidelines on fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement is added to their
+leniency reward.
+(91) As a result of the application of the Settlement Notice, the amount of the fines to be
+imposed on RBS, UBS, JPMorgan and Credit Suisse is reduced by 10% and this
+reduction is added to any leniency reward.
+
+9. CONCLUSION: FINAL AMOUNT OF INDIVIDUAL FINES TO BE IMPOSED IN THIS
+DECISION
+(92) The fines imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are as
+follows:
+(93) Table 4: Fines amounts
+
+Undertaking Fines (in EUR)
+
+RBS 0
+
+UBS 12 650 000
+
+JPMorgan 10 534 000
+
+Credit Suisse 9 171 000
+
+EN 17 EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The following undertakings have infringed Article 101 of the Treaty and Article 53 of the
+EEA Agreement by participating from 7 May 2007 until 25 September 2007 in a single and
+continuous infringement consisting of agreements and/or concerted practices covering the
+entire EEA, which had as its object the restriction and/or distortion of competition in the ST
+OTC CHIRD sector within the EEA:
+(a) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland plc;
+(b) UBS AG;
+(c) JPMorgan Chase & Co. and JPMorgan Chase Bank, National Association;
+(d) Credit Suisse Group AG, Credit Suisse International and Credit Suisse
+Securities (Europe) Limited.
+
+Article 2
+For the infringement referred to in Article 1, the following fines are imposed:
+(a) The Royal Bank of Scotland Group plc and The Royal Bank of Scotland plc
+jointly and severally liable: EUR 0;
+(b) UBS AG: EUR 12 650 000;
+(c) JPMorgan Chase & Co. and JPMorgan Chase Bank, National Association
+jointly and severally liable: EUR 10 534 000;
+(d) Credit Suisse Group AG, Credit Suisse International and Credit Suisse
+Securities (Europe) Limited jointly and severally liable: EUR 9 171 000.
+The fines shall be paid in Euro within three months of the date of notification of this Decision to
+the following account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / AT. 39924
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date by either providing an acceptable bank guarantee or making a provisional
+payment of the fine in accordance with Article 90 of Commission Delegated Regulation (EU) No
+1268/2012.36
+
+36 OJ L 362, 31.12.2012, p. 1.
+
+EN 18 EN
+
+Article 3
+The undertakings listed in Article 1 shall immediately bring to an end the infringement referred
+to in that Article insofar as they have not already done so.
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+Article 4
+This Decision is addressed to
+(a) The Royal Bank of Scotland Group plc, 36 St Andrew Square, Edinburgh, EH2
+2YB, United Kingdom;
+(b) The Royal Bank of Scotland plc, 36 St Andrew Square, Edinburgh, EH2 2YB,
+United Kingdom;
+(c) UBS AG, Bahnhofstraße 45, 8001 Zürich, Switzerland;
+(d) JPMorgan Chase & Co., 270 Park Avenue, New York, NY 10017, U.S.A.;
+(e) JPMorgan Chase Bank, National Association, 1111 Polaris Parkway,
+Columbus, Ohio 43240, U.S.A.;
+(f) Credit Suisse Group AG, Paradeplatz 8, CH-8001, Zurich, Switzerland;
+(g) Credit Suisse International, One Cabot Square, London E14 4QJ, UK;
+(h) Credit Suisse Securities (Europe) Limited, One Cabot Square, London E14
+4QJ, UK.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+EEA Agreement.
+Done at Strasbourg,
+
+For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+EN 19 EN

@@ -1,0 +1,291 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52022AT40135(05) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52022AT40135(05)
+Help
+Print
+Summary of Commission Decision of 2 December 2021 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (CASE AT.40135 – FOREX – STERLING LADS) (notified under document number C(2021) 8612 final) (Only the English text is authentic) 2022/C 185/08
+Summary of Commission Decision of 2 December 2021 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (CASE AT.40135 – FOREX – STERLING LADS) (notified under document number C(2021) 8612 final) (Only the English text is authentic) 2022/C 185/08
+Summary of Commission Decision of 2 December 2021 relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement (CASE AT.40135 – FOREX – STERLING LADS) (notified under document number C(2021) 8612 final) (Only the English text is authentic) 2022/C 185/08
+C/2021/8612
+OJ C 185, 6.5.2022, pp. 60–64
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+6.5.2022
+EN
+Official Journal of the European Union
+C 185/60
+Summary of Commission Decision
+of 2 December 2021
+relating to a proceeding under Article 101 of the Treaty on the functioning of the European Union and Article 53 of the EEA Agreement
+(CASE AT.40135 – FOREX – STERLING LADS)
+(notified under document number C(2021) 8612 final)
+(Only the English text is authentic)
+(2022/C 185/08)
+On 2 December 2021, the Commission adopted a decision relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+, the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The addressees of the Decision participated in a single and continuous infringement of Article 101 TFEU and Article 53 of the EEA Agreement. The object of the infringement was the restriction and/or distortion of competition in the sector of foreign exchange (‘Forex’ or ‘FX’) spot trading of G10 currencies
+(
+2
+)
+.
+(2)
+The G10 currencies concerned by this Decision comprise the US, Canadian, Australian and New Zealand Dollars (respectively USD CAD, AUD and NZD ), the Japanese Yen (JPY), the Swiss Franc (CHF), the Sterling Pound (GBP), the Euro (EUR), and the Swedish, Norwegian and Danish Crowns (respectively SEK, NOK and DKK) (i.e. 11 currencies altogether, which correspond to the market convention for currencies covered by the G10 designation).
+(3)
+The FX spot trading activity of G10 currencies encompasses both (i) market making (i.e. the execution of customer’s orders to exchange a currency amount by its equivalent in another currency); and (ii) trading on own account (i.e. the execution of other currency exchanges in order to manage the exposure resulting from the market making transactions or to modify a currency exposure independently of any customer order).
+(4)
+The FX spot trading desks of G10 currencies of the relevant undertakings stood ready to trade any of those currencies depending on market demand. While the participating traders themselves were primarily responsible for market making in specific currencies or pairs, their mandate authorised them to further engage in trading activity on behalf of their own undertaking with respect to any G10 currency available in their books, which they also did to different extents during the relevant period, with a view to maximising the value of their respective holdings.
+(5)
+The following three types of orders characterising the customer-driven trading activity (market making) of the participating traders are pertinent in the infringement:
+(a)
+Customer immediate orders, to immediately enter trades for a certain amount of currency based on the prevailing market rate;
+(b)
+Customer conditional orders (for example stop-loss or take-profit orders), which are triggered when a given price level is reached and opens the traders’ risk exposure. They only become executable when the market reaches a certain level;
+(c)
+Customer orders to execute a trade at a specific Forex benchmark rate or ‘fixing’ for particular currency pairs, which in the current case only concerned the WM/Reuters Closing Spot Rates and the European Central Bank foreign exchange reference rates.
+2.
+CASE DESCRIPTION
+2.1.
+Procedure
+(6)
+The investigation was triggered by an immunity application from [non-addressee] on 27 September 2013. The Commission subsequently received initial leniency applications from [non-addressee] on 11 October 2013, [non-addressee] on 14 October 2013 and [non-addressee] on 17 July 2015. All the applications were followed by numerous submissions from each of the parties. Credit Suisse did not apply for leniency. The Commission granted conditional immunity to [non-addressee] on 2 July 2014.
+(7)
+Proceedings were initiated on 27 October 2016 against the parties with a view to engaging in settlement discussions. Between November 2016 and February 2018, the Commission held bilateral meetings and contacts with each of the parties, including Credit Suisse, in three settlement rounds, pursuant to the Settlement Notice
+(
+3
+)
+.
+(8)
+On 22 January 2018, the College approved the ranges of the likely applicable fines. On 19 February 2018, Credit Suisse informed the Commission that it would not continue its participation in the settlement procedure. The Commission therefore reverted to the ordinary procedure for Credit Suisse in accordance with paragraph 19 of the Settlement Notice. Between [...] and [...], the other parties submitted to the Commission their formal requests to settle pursuant to Article 10a(2) of Regulation (EC) No 773/2004
+(
+4
+)
+.
+(9)
+On 24 July 2018, the Commission adopted in parallel the ordinary Statement of Objections (‘SO’) addressed to Credit Suisse and a streamlined settlement Statement of Objections addressed to the other four parties to the infringement. Credit Suisse submitted its written observations to the SO on 4 October 2018 and requested to be heard orally. The oral hearing took place on 7 December 2018.
+(10)
+On 18 March 2021, the Commission adopted a Supplementary Statement of Objections (‘SSO’) addressed to Credit Suisse. Credit Suisse submitted its written observations to the SSO on 6 May 2021 and a second oral hearing took place on 8 June 2021. Credit Suisse replied to outstanding questions from the oral hearing on 25 June 2021.
+(11)
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 30 November 2021. On 1 December 2021, the Hearing Officer issued her final report. The Commission adopted the Decision on 2 December 2021.
+2.2.
+Summary Of The Infringement
+(12)
+The Decision concerns the conduct that took place in a [...] chatroom called Sterling Lads (or ‘STG Lads’), between [non-addressee], [non-addressee], [non-addressee], [non-addressee] (the ‘four settling parties’) and Credit Suisse. The behaviour took place from 25 May 2011 to 12 July 2012. Credit Suisse participated in the infringement from 7 February 2012 to 12 July 2012. The cartel affected at least the EEA.
+(13)
+The cartel is documented in communications that took place within the STG Lads chatroom between certain individual traders authorised to trade G10 currencies in FX spot transactions in the name and on behalf of their respective employing undertakings at the corresponding dedicated FX spot trading desk of G10 currencies.
+(14)
+The cartel comprised a single and continuous infringement characterised by the exchange among the traders - in a private and multilateral chatroom and on an extensive and recurrent basis – of certain current or forward looking commercially sensitive information about their trading activities. The exchanges of information were meant to affect two basic parameters of competition in FX spot trading activity of G10 currencies: price and expert risk management.
+(15)
+Instead of competing autonomously on those parameters, the participating traders’ market decisions were informed by their competitors’ positions, intentions and constraints. The exchanges of information subject to this Decision concerned:
+(a)
+Exchanges revealing details of outstanding customers’ orders, whereby the participating traders would freely discuss confidential details of their pending customers’ orders (such as the triggering level of customers’ conditional orders, the size of customers’ orders for the fix and the type or name of customers of immediate orders). This information increased the level of transparency for the chatroom’s members about their trading activities, assisted the participating traders in their subsequent market decisions and enabled them to identify occasions to coordinate their trading.
+(b)
+Exchanges revealing the traders’ open risk positions, which could provide them with an insight into one another’s potential hedging conduct. They provided the traders with information which could be relevant to their subsequent trading decisions for a window of minutes or until the next information exchange superseded it.
+(c)
+Exchanges revealing their existing or intended bid-ask spreads, which disclosed the spread quoted by the traders for specific currency pairs and trade sizes. They enabled the participating traders to obtain greater certainty on the prices they were quoting and informed their subsequent pricing behaviour. They could also enable alignment of the spreads for particular transactions and affect the overall price paid by customers for trading currencies.
+(d)
+Exchanges revealing other details of current or planned trading activities whereby the participating traders shared a combination of several of the previously mentioned commercially sensitive information, assisted the participating traders in their subsequent decisions.
+(16)
+The four settling parties acknowledged that these extensive and recurrent exchanges of sensitive current or forward looking information took place pursuant to a set of tacit rules that: (i) the participating traders would gather in the private STG Lads chatroom to disclose and exchange information throughout the trading day; (ii) the information exchanged in the chatroom would not be disclosed by the recipient traders to other competing traders outside the private chatroom; (iii) the information exchanged could be used to the benefit of the participating traders including to identify occasions appropriate for coordination; and, (iv) this information would not be used against those who shared it (together referred as the ‘underlying understanding’). Credit Suisse did not acknowledge the existence of an underlying understanding.
+(17)
+According to the four settling parties, the traders occasionally coordinated their trading activities with respect to FX spot trading of G10 currencies by refraining from trading as they otherwise had planned to undertake during a particular time window on account of another trader’s announced position or trading activity. This practice is known as ‘standing down’. However, during the period of participation of Credit Suisse in the infringement, there were no effective instances of standing down.
+(18)
+Credit Suisse was held liable for its participation in the extensive and recurrent exchanges of current or forward looking commercially sensitive information that took place in the STG Lads chatroom, which constitute concerted practices and/or agreements which are restrictive of competition by object within the meaning of Article 101 TFEU and Article 53 of the EEA Agreement. Credit Suisse was not held liable in respect of the underlying understanding and the occasional instances of coordination.
+2.3.
+Addressees
+(19)
+The Decision was addressed to the following legal entities: Credit Suisse Group AG, Credit Suisse Securities (Europe) Limited and Credit Suisse AG (together ‘Credit Suisse’ or ‘the addressees’).
+2.4.
+Remedies
+(20)
+The Decision applied the 2006 Commission Guidelines on Fines. The fining methodology and parameters were decided by the College of Commissioners on 22 January 2018 in the context of the settlement procedure. According to the case law, the principle of equal treatment applies to fine parameters for all parties to the same infringement irrespective of whether they follow the settlement or the ordinary procedure. Therefore, the same method for fines calculation was applied to calculate Credit Suisse’s fine and the fines for the four settling parties.
+2.4.1.
+Basic amount of the fine
+(21)
+The Commission considered appropriate to apply a specific proxy for the value of sales. FX spot transactions of G10 currencies do not generate sales in the usual sense of the term: they involve the exchange of a notional amount of money expressed in a certain currency into the equivalent notional amount expressed in another currency, the price of which is embedded in the ‘bid-ask spread’ (that is the difference between the bid price and the ask price) applied by the FX spot dealer. Both factors – the notional amounts exchanged and the applied bid-ask spreads – are therefore essential parameters of the value of sales related to the infringement.
+(22)
+The Commission determined the proxy for the relevant value of sales as follows:
+(a)
+First, the notional amounts traded by the concerned undertaking in the FX spot transactions of G10 currencies were taken into account.
+(b)
+Second, those amounts were multiplied by an appropriate adjustment factor, uniform for all settling and non-settling parties, reflecting the applicable bid-ask spreads in FX spot transactions of G10 currencies. The adjustment factor was in fact a combination of two: one related to market making activities and a second related to trading on own account.
+(23)
+The proxy for value of sales was based directly on the value of sales actually made by the undertakings during the months corresponding to their respective participation in the infringement, which was subsequently annualised. Given that the infringement covered the entire EEA, the proxy for the value of sales was determined on FX spot transactions of G10 currencies entered into with counterparties located in the EEA.
+2.4.2.
+Adjustments to the basic amount
+(24)
+The Commission applied to the notional amounts an appropriate, uniform factor based on the bid-ask spread levels observed in the evidence.
+2.4.3.
+Aggravating
+or mitigating circumstances
+(25)
+No aggravating circumstances were applied in this case. However, considering that Credit Suisse was not held liable for standing down or the underlying understanding, the Commission granted a reduction of the fine.
+2.4.4. Specific increase for deterrence
+(26)
+No deterrence multiplier was applied in this case.
+2.4.5. Application of the 10 % turnover limit
+(27)
+The amount of the fine was below the 10 % worldwide turnover maximum set out in Article 23(2) of Regulation (EC) No 1/2003.
+3.
+CONCLUSION
+(28)
+The following fine was imposed to Credit Suisse pursuant to Article 23(2) of Regulation (EC) No 1/2003: EUR 83 294 000.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+. Regulation as amended by Regulation (EC) No 411/2004 (
+OJ L 68, 6.3.2004, p. 1
+).
+(
+2
+)
+The case does not concern FX spot e-commerce trading activity within the meaning of FX spot trades that are automatically booked by, or executed by either the relevant bank’s proprietary electronic trading platforms or computer algorithms.
+(
+3
+)
+Commission Notice on the conduct of settlement procedures in view of the adoption of decisions pursuant to Article 7 and Article 23 of Council Regulation (EC) No 1/2003 in cartel cases,
+OJ C 167, 2.7.2008, p. 1–6
+(the ‘Settlement Notice’).
+(
+4
+)
+OJ L 123, 27.4.2004, p. 18
+.
+Top

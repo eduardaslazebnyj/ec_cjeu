@@ -1,0 +1,479 @@
+Non Confidential Version
+
+15 November 2013
+
+CASE COMP/39.398 - VISA EUROPE
+
+COMMITMENTS OFFERED TO THE EUROPEANCOMMISSION
+PURSUANT TOARTICLE 9 OF COUNCIL REGULATION (EC) NO1/2003
+
+1. INTRODUCTION
+
+1.1 In accordance with Article 9 of Council Regulation (EC) No 1/2003
+(Regulation 1/2003), Visa Europe offers the following commitments
+(Commitments) to the European Commission (Commission) in full response to the
+Commission's concerns as set out in a Supplementary Statement of Objections dated
+30 July 2012 (SSO) regarding Intra EEA Credit MIFs; Domestic Credit MIFs set by
+Visa Europe; International Credit MIFs; and domestic Cross-Border Acquiring; for
+consumer transactions.
+
+1.2 In addition, the scope of these commitments is broader than the issues
+contained in the SSO.
+
+1.3 Consistent with Article 9 of Regulation 1/2003, these Commitments are
+made without prejudice to Visa Europe's position that its MIFs and the Visa Europe
+rules referred to in the SSO do not infringe Article 101 TFEU. The Commitments
+cannot be interpreted as an acknowledgement by Visa Europe that any of the
+allegations made in the SSO are valid or that the MIF levels herein are the right level
+for setting any MIFs subject to these Commitments.
+
+1.4 Capitalised terms in these Commitments shall have the meaning ascribed to
+them in Section 10.
+
+2. INTRA EEA CREDIT MIFS
+
+2.1 Two months following the Commencement Date Visa Europe commits to
+ensure that the yearly Weighted Average of its Intra EEA Credit MIFs complies with
+the Credit MIF Cap of 0.3%.
+
+2.2 Within the Credit MIF Cap of 0.3%, Visa Europe shall be free to set Intra
+EEA Credit MIFs for particular categories of transaction as it sees fit, in particular to
+incentivise the adoption, by merchants and their acquirers, of secure technology and
+innovation.
+
+3. DOMESTIC CREDIT MIFS
+
+3.1 Visa Europe agrees that two years following the Commencement Date the
+Credit MIF Cap referred to in Sections 2.1 and 2.2 above will, in addition, apply to
+the Domestic Credit MIFs directly set by Visa Europe and in those EEA countries
+
+BRU5482919/1 1
+
+Non Confidential Version
+
+where the Intra EEA Credit MIFs apply to domestic transactions in the absence of
+other MIFs.1
+
+3.2 Until the entry into force of Section 3.1 Visa Europe commits not to increase
+Domestic Credit MIF rates directly set by Visa Europe.
+
+4. MIFS WHERE THE ISSUER IS LOCATED OUTSIDE THE EEA
+
+4.1 With effect from 1 January 2015 Visa Europe commits to ensure that the
+Credit MIF Cap referred to in Sections 2.1 and 2.2 above includes Intra Visa Europe
+Non-EEA Credit MIFs and that its Intra Visa Europe Non-EEA Debit MIFs comply
+with the Debit MIF Cap of 0.2%.
+
+4.2 Visa Europe will implement International MIFs at the level agreed in a
+Commission decision pursuant to Article 9 of Regulation 1/2003 with third parties
+who are responsible for setting such MIFs, or at the level set out in any Commission
+decision pursuant to Article 7 of Regulation 1/2003 against such third parties, or
+resulting from any EU legislation governing the level of International MIFs.
+
+5. TRANSPARENCY
+
+MIF Plus Plus contracts
+
+5.1 Visa Europe will introduce a rule in relation to consumer debit and consumer
+credit transactions which requires acquirers in the EEA to offer merchants the option
+of MSC pricing on a MIF Plus Plus basis for an administrative fee at the option of
+the acquirer. Visa Europe will adopt this new rule within two months of the
+Commencement Date. Visa Europe will require acquirers to implement the rule
+within 12 months of the Commencement Date with regard to all new agreements and
+within 18 months of the Commencement Date for existing contracts.
+
+Simplification of MIF table
+
+5.2 Two months following the Commencement Date Visa Europe commits to
+introduce a simplified MIF structure for MIFs set by Visa Europe to provide for a
+reduction of at least 25% in the number of fee categories to aid transparency and
+comparison between rates.2
+
+1 Currently, the countries where the Domestic Credit MIFs are set by Visa Europe and Visa Europe
+credit cards are issued are Belgium, Hungary, Iceland, Ireland, Italy, Latvia, Luxembourg, Malta,
+Netherlands and Sweden.
+2 This provision excludes the MIFs introduced in Section 6.1 in relation to Cross-Border Acquiring
+and is without prejudice to Visa Europe’s ability to introduce incentive MIFs for specific sectors
+where the sector incentive MIF applies to all transactions in that sector. Merchants in these
+circumstances will continue to enjoy a simplified MIF structure.
+
+BRU5482919/1 2
+
+Non Confidential Version
+
+Enforcement of Operating Regulations
+
+5.3 Visa Europe will enforce the above Operating Regulations in line with
+current procedures and practice for violations and wilful violations of the Operating
+Regulations.
+
+6. CROSS-BORDER ACQUIRING IN THE EEA
+
+6.1 Visa Europe commits to modify its Operating Regulations with effect from 1
+January 2015 so as to allow Cross-Border Acquirers to offer either the Domestic
+Immediate Debit MIF or Domestic Credit MIF applicable in the location of the
+Merchant Outlet or (i) an immediate debit MIF of 0.2%; and (ii) a credit MIF of
+0.3%, for domestic consumer Cross-Border Acquired Transactions which meet the
+following conditions:
+
+(a) the acquiring bank identifies the merchant accepting the card transaction
+with its Single Merchant Identifier
+
+(b) the transaction is correctly accepted by the merchant using EMV, Verified by
+Visa or other equivalent secure Visa Europe technology and correctly entered
+into the Visa Europe system or reported to Visa Europe by the acquirer; and
+
+(c) the contract entered into by the merchant and the acquirer, sets the MSC on a
+MIF Plus Plus basis and does not blend the MSCs paid in relation to Visa card
+transactions with the MSCs paid in relation to any other payment system
+transaction. In addition the Cross-Border Acquirer shall offer merchants
+separate MIF Plus Plus pricing for each of Credit Cards and Immediate
+Debit Cards.
+
+7. CONSUMER PROTECTION
+
+7.1 Visa Europe will be entitled to continue to adopt appropriate consumer
+protection measures to ensure that consumers will not be adversely affected by the
+effects of Cross-Border Acquiring as provided for in these Commitments (in
+particular concerning matters such as fraud, currency conversion, refunds and
+charge backs). Such measures will not seek to restrict unjustifiably access to Cross-
+Border Acquiring.
+
+8. MONITORING TRUSTEE
+
+8.1 Visa Europe shall appoint a Monitoring Trustee to monitor Visa Europe's
+compliance with these Commitments. The Trustee shall be independent of Visa
+Europe or any other undertaking directly or indirectly controlled or affiliated with
+Visa Europe and shall possess the necessary qualifications to carry out its mandate
+and shall neither have nor become exposed to any conflict of interest. In particular,
+members of the Trustee team shall not provide services to or become employees of
+Visa Europe or its affiliates neither during the Trustee mandate nor for a period of
+
+BRU5482919/1 3
+
+Non Confidential Version
+
+three years following termination of the Trustee mandate. The Trustee shall be
+remunerated by Visa Europe in a way that does not impede the independent and
+effective fulfilment of its mandate.
+
+Proposal by the Parties
+
+8.2 No later than one week after the Commencement Date, Visa Europe shall
+submit a list of one or more persons whom Visa Europe proposes to appoint as the
+Monitoring Trustee to the Commission for approval. The proposal shall contain
+sufficient information for the Commission to verify that the proposed Trustee fulfils
+the requirements set out in Section 8.1 above and shall include:
+
+(a) the full terms of the proposed mandate, which shall include all provisions
+necessary to enable the Trustee to fulfil its duties under these Commitments;
+and
+
+(b) the outline of a plan which describes how the Trustee intends to carry out its
+assigned tasks.
+
+Approval or rejection by the Commission
+
+8.3 The Commission shall have the discretion to approve or reject the proposed
+Trustee(s) and to approve the proposed mandate subject to any modifications it
+deems necessary for the Trustee to fulfil its obligations. If only one name is
+approved, Visa Europe shall appoint or cause to be appointed, the individual or
+institution concerned as Trustee, in accordance with the mandate approved by the
+Commission. If more than one name is approved, Visa Europe shall be free to
+choose the Trustee to be appointed from among the names approved. The Trustee
+shall be appointed within one week of the Commission's approval, in accordance
+with the mandate approved by the Commission.
+
+New proposal by the Parties
+
+8.4 If all the proposed Trustees are rejected, Visa Europe shall submit the names
+of at least two more individuals or institutions within one week of being informed of
+the rejection, in accordance with the requirements and the procedure set out in
+Sections 8.1 to 8.3 above.
+
+Trustee nominated by the Commission
+
+8.5 If all further proposed Trustees are rejected by the Commission, the
+Commission shall nominate a Trustee, whom Visa Europe shall appoint, or cause to
+be appointed, in accordance with a trustee mandate approved by the Commission.
+
+BRU5482919/1 4
+
+Non Confidential Version
+
+Functions of the Trustee
+
+8.6 The Monitoring Trustee shall assume its specified duties in order to ensure
+compliance with the Commitments. The Commission may, on its own initiative or
+at the request of the Monitoring Trustee or Visa Europe, give any orders or
+instructions to the Monitoring Trustee in order to ensure compliance with the
+Commitments.
+
+Duties and obligations of the Monitoring Trustee
+
+8.7 The Monitoring Trustee shall:
+
+(a) propose in its first report to the Commission a detailed work plan describing
+how it intends to monitor compliance with the Commitments;
+
+(b) provide to the Commission, sending Visa Europe a non-confidential copy at
+the same time, a written report within [time period – Confidential - Business Secret]
+of the Commencement Date, and every [time period – Confidential - Business
+Secret] thereafter, on Visa Europe's compliance with the Commitments;
+
+(c) report in writing to the Commission, sending Visa Europe a non-confidential
+copy at the same time, if it concludes on reasonable grounds that Visa
+Europe is failing to comply with these Commitments;
+
+(d) reply to questions from the Commission with additional information or its
+views for the purpose of assessing Visa Europe's compliance with the
+Commitments; and
+
+(e) where appropriate, propose to the Commission such measures as the
+Monitoring Trustee considers necessary to ensure Visa Europe's compliance
+with these Commitments.
+
+Duties and Obligations on Visa Europe
+
+8.8 Visa Europe shall provide and cause its advisors to provide the Monitoring
+Trustee with all such co-operation, assistance and information, as the Monitoring
+Trustee may reasonably require to perform its tasks. The Trustee shall have full and
+complete access, subject to reasonable notice, to any of Visa Europe's books,
+records, documents, management or other personnel, facilities, sites and technical
+information, save for legally privileged material, necessary for fulfilling its duties
+under the Commitments, and Visa Europe shall provide the Trustee upon request
+with copies of any such document. Visa Europe shall make available to the
+Monitoring Trustee one or more offices on their premises and shall be available for
+meetings in order to provide the Trustee with all information that is reasonably
+necessary for the performance of its tasks.
+
+BRU5482919/1 5
+
+Non Confidential Version
+
+8.9 Visa Europe shall indemnify the Monitoring Trustee and its employees and
+agents (each an “Indemnified Party”) and hold each Indemnified Party harmless
+against, and hereby agrees that an Indemnified Party shall have no liability to Visa
+Europe for any liabilities arising out of the performance of the Monitoring Trustee’s
+duties under the Commitments, except to the extent that such liabilities result from
+the wilful default, recklessness, negligence or bad faith of the Monitoring Trustee,
+its employees, agents or advisors.
+
+Replacement, discharge and reappointment of the Trustee
+
+8.10 If the Trustee ceases to perform its functions under the Commitments or for
+any other good cause, including the exposure of the Trustee to a conflict of interest:
+
+(a) the Commission may, after hearing the Trustee, require Visa Europe to
+replace the Trustee; or
+
+(b) Visa Europe, with the prior approval of the Commission, may replace the
+Trustee.
+
+8.11 If the Trustee is removed, the Trustee may be required to continue in its
+function until a new Trustee is in place to whom the Trustee has effected a full hand
+over of all relevant information. The new Trustee shall be appointed in accordance
+with the procedure referred to above.
+
+8.12 Beside the removal according to Section 8.10, the Trustee shall cease to
+act as Trustee only after the Commission has discharged it from its duties after all
+the Commitments with which the Trustee has been entrusted have been
+implemented. However, the Commission may at any time require the reappointment
+of the Trustee if it subsequently appears that the relevant commitments might not
+have been fully and properly implemented.
+
+9. DURATION AND REVIEW OF MIF RATES
+
+9.1 The Commitments will take effect on and from the Commencement Date.
+
+9.2 Without prejudice to Article 9(2) of Council Regulation 1/2003 these
+Commitments will remain in force for a period of 4 years from the Commencement
+Date.
+
+9.3 During the period of these Commitments, Visa Europe shall refrain from
+setting, or in respect of the MIFs referred to in Sections 2.1 and 4.1 of these
+Commitments implementing, other fees that are economically and/or legally
+equivalent to the MIFs referred to in Sections 2.1, 3.1 and 4.1 of these
+Commitments, including but not limited to Visa Europe's scheme fees charged to
+acquirers and/or issuers. Without prejudice to the conditions set out in Section 6,
+Visa Europe shall not modify its rules relating to cross-border acquiring in a way
+that has the object or effect of making it disproportionately more difficult for
+
+BRU5482919/1 6
+
+Non Confidential Version
+
+acquirers or merchants to qualify for Visa Europe's Cross-Border Acquiring
+Programme.
+
+10. DEFINITIONS
+
+Charge Card means a card which is not directly linked to an account and which
+offers a line of credit which is billed separately and which must be paid in full at the
+end of each billing period.
+
+Commencement Date means the date on which Visa Europe is notified by the
+Commission of the adoption of the final decision accepting these Commitments
+pursuant to Article 9 of Regulation 1/2003.
+
+Credit Card means a consumer Revolving Credit Card, Deferred Debit Card or
+Charge Card. For the avoidance of doubt Immediate Debit MIFs (and not Credit
+MIFs) apply to Prepaid Cards.
+
+Credit MIFs means Domestic Credit MIFs, Intra EEA Credit MIFs and Intra Visa
+Europe Non-EEA Credit MIFs applicable to POS consumer Credit Card
+transactions.
+
+Credit MIF Cap means that the Weighted Average shall not exceed 0.3%. When
+applying the MIF Cap the precise Weighted Average will be used and no rounding
+will be taken into account.
+
+Cross-Border Acquired Transaction means a transaction where the Merchant
+Outlet and the merchant’s acquirer are located in two different EEA member states.
+The member state in which the merchant's acquirer is located under Visa Europe's
+regulations and rules is the member state in which the merchant’s acquirer is a
+Principal Member, Associate Member or a member of a Group Member of Visa
+Europe.
+
+Cross-Border Acquirer means an acquirer involved in Cross-Border Acquiring.
+
+Cross-Border Acquiring means the activity of an acquirer aiming at acquiring
+transactions at a Merchant Outlet located in a different EEA member state than the
+EEA member state of the acquirer.
+
+Debit MIF Cap means that the Weighted Average shall not exceed 0.2%. When
+applying the MIF Cap the precise Weighted Average will be used and no rounding
+will be taken into account.
+
+Deferred Debit Card means a card linked to an account whereby the transactions
+are accumulated with other transactions on a deferred basis, a statement is issued
+and the cardholder is required to pay the outstanding balance in full.
+
+Domestic Credit MIFs means the MIFs that apply by default to POS consumer
+
+BRU5482919/1 7
+
+Non Confidential Version
+
+Credit Card transactions where the issuer of the card used and the Merchant Outlet
+where the card is used are located in the same EEA member state.
+
+Domestic Immediate Debit MIFs means the MIFs that apply by default to POS
+consumer Immediate Debit Card transactions where the issuer of the card used and
+the Merchant Outlet where the card is used are located in the same EEA member
+state.
+
+EEA means the European Economic Area.
+
+Immediate Debit Card means a card that is linked to a current or deposit account to
+which a transaction is debited immediately (in a maximum of two working days) on
+receipt of the transaction by the issuer and shall include transactions with Prepaid
+Cards.
+
+International Debit MIFs means the MIFs set by Visa International and/or Visa Inc
+that apply, by default, to international POS consumer Immediate Debit Card
+transactions where the issuer is located outside the Visa Europe Territory and where
+the Merchant Outlet is located within the EEA.
+
+International Credit MIFs means the MIFs set by Visa International and/or Visa
+Inc that apply, by default, to international POS consumer Credit Card transactions
+where the issuer is located outside the Visa Europe Territory and where the
+Merchant Outlet is located within the EEA.
+
+International MIFs means the International Credit MIFs and International Debit
+MIFs.
+
+Intra EEA Credit MIFs means the MIFs directly set by Visa Europe that apply, by
+default, to POS consumer Credit Card transactions where the issuer of the card
+used, and the Merchant Outlet where the card is used, are located in different EEA
+member states.
+
+Intra Visa Europe Non-EEA Debit MIFs means the MIFs that apply, by default,
+to POS consumer Immediate Debit Card transactions where the issuer is located
+outside the EEA but within the Visa Europe Territory and where the Merchant
+Outlet is located within the EEA.
+
+Intra Visa Europe Non-EEA Credit MIFs means MIFs that apply, by default, to
+POS consumer Credit Card transactions where the issuer is located outside the
+EEA but within the Visa Europe Territory and where the Merchant Outlet is
+located within the EEA.
+
+Merchant Outlet means for card present transactions the physical premises of the
+merchant at which the transaction is completed. For card not present transactions
+Merchant Outlet means the address of the fixed place of business through which the
+merchant conducts its business regardless of website or server locations and through
+
+BRU5482919/1 8
+
+Non Confidential Version
+
+which the transaction is completed. If the merchant does not have a fixed place of
+business the Merchant Outlet shall be the address for which the merchant holds a
+valid business licence and through which the transaction is completed. If the
+merchant does not have a fixed place of business and does not hold a valid business
+licence, the Merchant Outlet shall be the address for correspondence for the
+payment of its taxes relating to its sales activity and through which the transaction is
+completed.
+
+MIFs mean multilaterally agreed interchange fees paid by one acquiring bank to a
+separate issuing bank or vice versa.
+
+MIF Plus Plus means pricing in a contract entered into between an acquirer and a
+merchant where the Merchant Service Charge for Visa card transactions referred to
+in the contract and on invoices is broken down into separate components comprising
+the MIF, all other fees applicable to Visa card transactions and the acquirer’s fee
+(including the margin).
+
+Monitoring Trustee means the trustee to be appointed pursuant to Section 8 above.
+
+MSC or Merchant Service Charge means a charge that is agreed between, and
+charged by, an acquirer to a merchant on a per-transaction basis in respect of payment
+card transactions.
+
+POS means point of sale. Prepaid Card means a card used to access funds in a
+prepaid account or a card where monetary value is stored on a chip.
+
+Revolving Credit Card means a card that offers the cardholder a line of credit,
+specific to that Revolving Credit Card account and the ability to revolve part, or all,
+of any outstanding balance on the Revolving Credit Card account during each
+statement cycle.
+
+Single Merchant Identifier means the identifier assigned to merchants belonging to
+the same group of companies, or each franchise arrangement, for which there is a
+single merchant relationship, by Visa Europe at their request.
+
+Visa Europe Territory means the EEA, Andorra, Faroe Islands, Greenland, Israel,
+Monaco, San Marino, Svalbard and Jan Mayen Islands, Switzerland, Turkey and
+Vatican City.
+
+Visa Inc means a Delaware stock corporation listed on the New York Stock
+Exchange on 19 March 2008 with CIK number 0001403161.
+
+Visa International means Visa International Service Association.
+
+Weighted Average means the total amount of the relevant MIFs divided by the total
+value of transactions carrying such MIFs. The Weighted Average will be calculated
+on a yearly basis (in respect of each twelve consecutive calendar months
+
+BRU5482919/1 9
+
+Non Confidential Version
+
+commencing with the first quarter, two months following the Commencement
+Date), for each of Intra EEA Credit MIFs and for Domestic Credit MIFs in each of
+the EEA countries where Visa Europe members have not set a Domestic Credit
+MIF, subject to an exemption from the requirement to calculate an individual
+Domestic Credit MIF for any country where the value of the domestic interchange
+fees covered by these Commitments is no greater than €300,000. However, the
+Weighted Average of all Credit MIFs covered by Sections 2.1, 3.1 and 4.1, of these
+Commitments must also meet the overall Credit MIF Cap of 0.3%. Visa Europe will
+require its members to provide the MIF information relevant to the calculation of the
+weighted average for those transactions which are not processed by the Visa
+System. Visa Europe will use the same reasonable efforts to verify the information
+regarding transactions not processed by the Visa System as it uses for information
+currently provided to Visa Europe in its Operating Certificates, but it cannot be held
+responsible for its completeness or accuracy.
+
+15 November 2013
+
+BRU5482919/1 10

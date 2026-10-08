@@ -1,0 +1,512 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+WITHOUT PREJUDICE
+
+CASE AT.39745 – CDS INFORMATION MARKET
+
+MARKIT
+
+COMMITMENTS OFFERED TO THE EUROPEAN COMMISSION
+
+In accordance with Article 9 of Council Regulation (EC) No 1/2003, Markit Ltd and any legal entity
+directly or indirectly controlled by it as defined by Council Regulation (EC) No 139/2004, including
+but not limited to Markit Group Holdings Limited, Markit Indices Limited, Markit North America,
+Inc. and Markit Group Limited ("Markit") hereby voluntarily offer the following commitments (the
+''Commitments") in full response to the preliminary competition concerns identified by the
+European Commission (the "Commission") in Case COMP/AT.39745 in its Statement of Objections
+dated 1 July 2013 (the "SO").
+
+These Commitments are offered without admission of infringement or liability, and nothing in
+these Commitments may be construed as implying that Markit agrees with the preliminary
+concerns expressed in the SO, nor does Markit's submission of these Commitments constitute an
+admission by Markit (whether direct or indirect, explicit or implicit) as to whether there has been
+any infringement of Article 101 or Article 102 TFEU and Article 53 or 54 EEA or the competition
+laws of any other jurisdiction, and no inference may be drawn from the entering into of these
+Commitments.
+
+Consistent with Article 9 of Regulation 1/2003, the Commitments are given on the understanding
+that the Commission will confirm that there are no grounds for further action against Markit in
+relation to Markit's alleged conduct which was the subject of the SO, and that the Commission will
+terminate the investigation against Markit without a finding of infringement under either Article
+101 or Article 102 TFEU/Articles 53 or 54 EEA. These Commitments are without prejudice to
+Markit's position should the Commission or any other party conduct proceedings or commence
+other legal action against Markit.
+
+These Commitments provide for:
+
+(a) arrangements relating to the governance and composition of Markit's CDS Index
+Advisory Committees;
+
+(b) a licensing commitment in respect of requests for licences to create and/or trade
+exchange traded financial products (including, but not limited to, swaps, futures
+and options products) based on Markit's iTraxx and CDX Indices;
+
+(c) a licensing commitment to amend or offer a new licence, in respect of existing CDS
+Index licences which exclude Exchange Trading;
+
+(d) an arbitration mechanism to resolve any failure by the Parties to reach a fair and
+reasonable agreement arising in connection with Markit's licensing commitment;
+and
+
+(e) the appointment of a Monitoring Trustee to monitor and report to the Commission
+on Markit's compliance with these Commitments.
+
+1. GOVERNANCE COMMITMENT
+
+1.1 Markit commits that, within 30 working days from the Effective Date and for the Term of
+these Commitments, it will implement and maintain Revised Terms of Reference for the
+CDS Index Advisory Committees which comply with the commitments set out in
+paragraphs 1.2 to 1.8 of these Commitments.
+
+1
+
+WITHOUT PREJUDICE
+
+Scope of discussions of the CDS Index Advisory Committees
+
+1.2 Markit commits to ensure that the agenda for and any discussions at meetings and/or
+conference calls of the CDS Index Advisory Committees shall be limited to technical,
+operational and administrative advice relating to the development, maintenance and
+operation of the applicable CDX and iTraxx indices and shall not include any of the
+matters listed in paragraph 1.4.
+
+1.3 In particular, the CDS Index Advisory Committees shall, subject to the limitations in
+paragraph 1.4:
+
+(a) review and provide input on changes to the index rules, methodologies and
+constituents, including but not limited to the following topics:
+
+(i) minimum debt outstanding amounts for index constituents;
+
+(ii) ratings criteria for constituents of the index;
+
+(iii) liquidity measures used for identifying constituents of the index;
+
+(iv) possible changes in index roll dates; and
+
+(v) exceptions to rules for constituent selection;
+
+(b) provide input on regulatory, legal and compliance issues and general risks with
+respect to the CDX or iTraxx indices;
+
+(c) provide input on technical matters in respect of the operation of the CDX or iTraxx
+indices;
+
+(d) provide input to assist Markit in the legal, technical and operational administration
+of the CDX or iTraxx indices; and
+
+(e) provide insight and feedback for the development of new CDX or iTraxx indices and
+for improvements in existing indices.
+
+1.4 Markit commits that the CDS Index Advisory Committees shall not:
+
+(a) discuss, advise on or decide any licensing decision, including the terms of any such
+licence, taken or to be taken by Markit in respect of the CDX or iTraxx indices;
+
+(b) discuss or advise on commercial aspects of or revenue generation proposals
+relating to the CDX or iTraxx indices;
+
+(c) discuss or advise on the merits of proposed new exchange traded financial products
+which reference the CDX or iTraxx indices; or
+
+(d) discuss or advise on the merits of any new exchange or similar platform designed
+for the trading of products that reference the CDX or iTraxx indices.
+
+Meetings of the CDS Index Advisory Committees
+
+1.5 All in-person meetings and conference calls of the CDS Index Advisory Committees shall
+be attended by a qualified lawyer from Markit's in-house legal team, who shall take formal
+written Minutes of the attendees and discussions that take place at the meeting or
+conference call. An audio recording shall also be made of all meetings and conference
+calls of the CDS Index Advisory Committees. Copies of the Minutes and audio recordings,
+together with any papers tabled for discussion at or presented to meetings or calls of the
+CDS Index Advisory Committees, shall be retained by Markit for a period of 5 years from
+
+2
+
+WITHOUT PREJUDICE
+
+their creation and be made available to the Monitoring Trustee (in accordance with
+paragraphs 6.13(e) and 6.13(f) below) to facilitate the Monitoring Trustee's review
+pursuant to paragraph 6.10(b)(i).
+
+Composition of the CDS Index Advisory Committees and rotation of membership
+
+1.6 Markit commits that the CDS Index Advisory Committees will provide for the inclusion of a
+range of relevant market participants, including both large and smaller dealers, buy-side
+firms and trading, clearing or other platforms, in accordance with the provisions of
+paragraph 1.7 below.
+
+1.7 Markit commits that the CDS Index Advisory Committees shall provide seats for at least
+25 entities as members, which shall include representatives from the following categories
+of market participant ("Membership Categories"), appointed as described in Annex A –
+Appointments Procedure, with such seats allocated as follows:
+
+(a) the top 10 largest dealers by trading volumes or other relevant metrics in the
+relevant Index or underlying market in the 12 months prior to the date of
+appointment in accordance with the Appointments Procedure ("large dealers");
+
+(b) up to four market makers in either the Index or the underlying market that are not
+large dealers;
+
+(c) at least six non-dealer buy-side firms or other asset managers that trade in or use
+the relevant Indices; and
+
+(d) at least five trading platforms, exchanges or clearing houses.
+
+1.8 Markit commits to have two-year staggered terms for all members of the CDS Index
+Advisory Committees with the intention of creating regular opportunities for new members
+to participate in the CDS Index Advisory Committees. Rotation of members shall take
+place in accordance with the provisions of Annex B – Rotation Procedure.
+
+2. LICENSING COMMITMENTS
+
+2.1 Markit commits, subject to the following provisions of this Clause 2, that it will act and
+grant licences in a fair, reasonable and non-discriminatory ("FRAND") manner in
+response to requests for licences to create and/or trade exchange traded financial
+products (including, swaps, futures and options products) based on an Index.
+
+2.2 To the extent that any clause in an existing and continuing licence issued by Markit to
+create and/or trade exchange traded financial products (including, swaps, futures and
+options products) based on an Index directly or indirectly excludes the use of an Index for
+Exchange Trading, or any such clause has an equivalent effect, Markit commits, upon
+request by the licensee, to take appropriate measures to amend such licence and/or offer
+a new licence on FRAND terms and conditions in accordance with the provisions of this
+Clause 2.
+
+2.3 In order to ensure that the Commitments are capable of effective and practical
+implementation, and to ensure that competition and innovation are sufficiently stimulated
+and not impeded as result of their implementation, Markit, the Arbitrators or the Court,
+where appropriate, may decline a request for, and the grant of, an Index licence:
+
+(a) where Markit demonstrates that the proposed exchange-traded product creates a
+significant legal or regulatory risk, or a very significant reputational risk, for Markit
+and/or the Indices which cannot adequately be addressed by disclaimer or other
+contractual provisions; and
+
+3
+
+WITHOUT PREJUDICE
+
+(b) where Markit demonstrates that the proposed Trading Venue has insufficient
+experience and resources to develop and launch the proposed exchange-traded
+product. For the avoidance of doubt, the fact that the proposed exchange-traded
+product is new will not constitute a lack of experience on the part of a Trading
+Venue.
+
+2.4 In the context of the commitment set out in paragraph 2.1, it is expressly recognised
+that, if the creation and development of a new product based on an Index requires the
+licensee to make material up-front investments, for example, in terms of product
+development, marketing and the generation of sufficient liquidity, it may be appropriate to
+confer on the licensee the benefit of preferential or advantageous terms, for a period of up
+to 24 months from the launch of the new product, to facilitate and support the
+development of that new product, without Markit being obliged to grant a licence to
+subsequent licensees on equivalent preferential terms unless they are in a comparable
+situation.
+
+2.5 Where an existing and continuing licence to create exchange traded financial products
+(including, swaps, futures and options products) based on an Index contains an
+exclusivity period and granting a licence pursuant to these Commitments would be
+inconsistent with the terms of that exclusivity, these Commitments will apply following the
+expiry of any mandatory period of exclusivity in the relevant licence.
+
+2.6 The commitment set out in paragraph 2.1 above shall not apply to a licence request to
+use an Index in a product where:
+
+(a) the Index would be blended or co-mingled with data from another source;
+
+(b) where the Index would be used to create a derivative dataset based on the Index;
+
+(c) where the purpose is other than to create an exchange-traded product that is
+based upon and bears the name of an Index; or
+
+(d) where the exchange traded product is not traded on a Trading Venue established in
+the European Economic Area or any other country in which Markit does business.
+
+2.7 The Parties shall agree terms and conditions within the timeframes specified in this
+paragraph (the "Negotiation Period"):
+
+(a) From the Effective Date and until the entry into application of Article 37(1) MiFIR,
+Markit shall seek to reach agreement on terms and conditions within three months
+of a licence request from a Requesting Party. If the Parties agree, the Negotiation
+Period may be extended by another three months to six months. Alternatively,
+Markit may, by reasoned written request to the Monitoring Trustee, seek an
+extension of the three months Negotiation Period by up to three months. This
+request shall be granted if Markit demonstrates it has responded promptly and in
+good faith, and any delay in reaching an agreement is attributable to the lack of
+responsiveness of the Requesting Party.
+
+(b) With effect from the entry into application of Article 37(1) MiFIR, the Negotiation
+Period provided under Article 37(1) MiFIR or related legislative acts or regulatory
+technical standards shall apply in respect of any licensing of an Index subject to
+these Commitments and subject to Article 37(1).
+
+2.8 If the Parties are unable to agree terms and conditions within the Negotiation Period, the
+Requesting Party may at the end of the Negotiation Period request in writing to Markit
+that the matter be submitted to independent third party arbitration for the Arbitrators to
+decide the appropriate procedure and method for determining whether and, if so, what
+FRAND terms and conditions shall apply, in accordance with the provisions of Clause 3
+below.
+4
+
+WITHOUT PREJUDICE
+
+2.9 Nothing herein shall prevent or restrict Markit from enforcing any licence agreement or
+intellectual property rights or pursuing any claims, defences or relief.
+
+3. THIRD PARTY DETERMINATION OF FRAND TERMS
+
+3.1 The procedure and method for determining FRAND terms and conditions, including any
+procedural rules governing the arbitration procedure not set out in these Commitments,
+will be decided by the Arbitrators.
+
+3.2 Each Party may appoint its own expert to present evidence on its behalf to the Arbitrators.
+
+Arbitration
+
+3.3 The arbitration procedure shall be conducted as follows, unless the Parties mutually agree
+to follow a different arbitration procedure.
+
+3.4 The arbitration panel shall be made up of three arbitrators with at least ten (10) years'
+relevant experience in financial services and/or in intellectual property law licensing or
+litigation and/or in other relevant legal practice. Each Party shall select one arbitrator
+within 14 days of Markit's receipt of the Requesting Party's request for arbitration. The
+two arbitrators so selected shall, within 14 days of the selection of the second of them,
+select a third arbitrator from a list of names nominated by the Parties, who shall act as
+the presiding arbitrator of the arbitration panel (the "Chairman"). The Chairman shall be
+an independent senior lawyer with at least 10 years' experience in financial services
+and/or intellectual property law licensing or litigation (e.g. a Queens Counsel in England
+and Wales). If there is a failure to make a selection or nomination within the specified
+time limits, then the LCIA Court shall make the relevant selection and appointment.
+
+3.5 The arbitration panel's decision shall be final and binding on the Parties.
+
+3.6 The arbitration will be conducted in English. The arbitration will be governed by the laws
+of England and Wales and be subject to the rules of the LCIA.
+
+3.7 The seat, or legal place, of arbitration shall be London (England).
+
+3.8 Unless otherwise provided for by these Commitments, the arbitration will be conducted in
+strict confidence and the arbitral proceedings and decision shall be confidential. Each
+Party shall maintain the confidentiality of the arbitral decision and the confidential
+docume
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+F THE FINAL PRICE
+
+7.1 Markit commits that it will:
+
+(a) within 30 working days from the Effective Date, remove from the Use Agreement
+on the www.creditfixings.com website any clause that directly or indirectly excludes
+the use of the Final Price for Exchange Trading or any clause with equivalent effect;
+and
+
+(b) where ISDA has granted a party a licence for the Final Price for use in any
+exchange-traded product, Markit will not require that party to obtain a further
+licence for the Final Price for such a use from Markit or charge royalties or other
+licence fees in respect of the Final Price in addition to those charged by ISDA.
+
+7.2 The foregoing is without prejudice to Markit's intellectual property and other rights in the
+Final Price.
+
+8. APPLICATION OF RELEVANT LAWS AND REGULATIONS
+
+8.1 These Commitments are without prejudice to any obligations imposed by any applicable
+laws or regulations to which Markit is, or will be, subject (including, without limitation,
+MiFIR) that would restrict or limit Markit's ability to perform the Commitments. Nothing in
+these Commitments is intended to place Markit in a position of conflict with duties owed
+under other laws, rules or regulations and in so far as there is a conflict between these
+Commitments and any laws, rules or regulations (including, without limitation, MiFIR) to
+which Markit is subject the latter shall prevail.
+
+9. DEFINITIONS
+
+For the purpose of the Commitments, the following terms shall have the following meaning:
+
+Appointments Procedure: has the meaning set out in Annex A
+
+Arbitrator(s): means the arbitrator or arbitrators appointed in accordance
+with the provisions of Clause 3
+
+CDS: means credit default swap
+
+CDS Index Advisory means the CDX Index Advisory Committee ("CDX
+Committees: Committee") and the iTraxx Europe Index Advisory
+Committee ("IMC"), their successors and any other such
+similar Markit CDS index advisory committee or subcommittee which Markit consults in relation to the operation
+and maintenance of the Indices
+
+CLOB: means central limit order book
+
+Commission: means the European Commission's Directorate General for
+Competition
+
+10
+
+WITHOUT PREJUDICE
+
+Commitment Decision: means the decision adopted in respect of Markit by the
+European Commission in Case COMP/AT.39745 pursuant to
+Article 9(1) of Council Regulation (EC) No 1/2003
+
+EEA: means the Agreement on the European Economic Area
+
+Effective Date: means the date on which Markit receives formal notification
+of the Commitment Decision by which the Commission
+makes the Commitments binding on Markit
+
+Exchange Trading: means all-to-all trading on a Trading Venue including
+anonymous all-to-all trading on a central limit order book
+(CLOB), and "exchange traded" shall be construed
+accordingly
+
+Governance Commitment: means the Commitments set out in Clause 1
+
+Index: means the iTraxx and/or the CDX CDS indices, and all of the
+subordinate indices within those respective index families,
+including, for the avoidance of doubt, all historical series of,
+and any successor to, the iTraxx and/or CDX CDS indices
+(collectively the "Indices")
+
+LCIA or LCIA Court: means the London Court of International Arbitration, a
+private alternative dispute resolution provider, with
+headquarters at 70 Fleet Street, London EC4Y 1EU, United
+Kingdom
+
+Licensing Commitment: means the Commitments set out in Clause 2
+
+MiFIR: means Regulation No 600/2014 on markets in financial
+instruments
+
+Notice: has the meaning set out in Annex A, paragraph 1.2
+
+Party: means Markit and the Requesting Party (collectively the
+"Parties")
+
+Requesting Party: means a party that requests a licence to create and/or trade
+on a Trading Venue in the European Economic Areas on in
+another country in which Markit does business, exchange
+traded financial products (including, but not limited to,
+swaps, futures and options products) based on an Index
+
+Revised Terms of Reference: means the terms of reference for the CDS Index Advisory
+Committees prepared in accordance with these
+Commitments
+
+Rotation Procedure: has the meaning set out in Annex B
+
+Term: means the duration of these Commitments as set out in
+paragraphs 5.2 and 5.3
+
+TFEU: means the Treaty on the Functioning of the European Union
+
+Trading Venue: has the meaning set out in Article 4(1)(24) Directive
+2014/65/EU
+
+11
+
+WITHOUT PREJUDICE
+
+Working day: means any day from Monday to Friday (inclusive) which is
+not Christmas Day, Good Friday or a bank holiday in
+England and Wales.
+
+12
+
+WITHOUT PREJUDICE
+
+ANNEX A
+
+APPOINTMENTS PROCEDURE
+
+1.1 The process in this Annex A shall be referred to herein as the "Appointments
+Procedure".
+
+1.2 Markit commits to use its reasonable endeavours to generate interest amongst
+prospective members in participating in the CDS Index Advisory Committees, with the
+goal of having a diverse set of members, by advertising membership of the CDS Index
+Advisory Committees to active market participants and by encouraging firms within each
+of the Membership Categories to apply, including by publishing a notice on Markit's
+website (the "Notice") and, where appropriate, through direct communication with
+prospective member firms. Markit shall request that expressions of interest to join a CDS
+Index Advisory Committee should be received by Markit on or before the date specified in
+the Notice, such date to be at least two weeks following publication of the Notice.
+
+1.3 In response to the Notice, prospective member firms that are interested in joining a CDS
+Index Advisory Committee ("Interested Firms") should identify their proposed
+representatives and provide details of their roles and responsibilities. Interested Firms
+shall be considered eligible for membership of a CDS Index Advisory Committee ("Eligible
+Firms") if:
+
+(a) the firm has entered into a licence with Markit in respect of the relevant CDX or
+iTraxx index and acts as a market maker;
+
+(b) the firm is not required to have a licence, but has entered into a trade of a financial
+product based on an Index within the preceding six months with a licensed market
+maker or on a licensed exchange, clearing house or trading platform; or
+
+(c) the firm is a Trading Venue or clearing house, in relation to CDS products.
+
+1.4 If at any time during the Membership Term a member ceases to be an Eligible Firm,
+Markit shall be entitled to terminate the membership of the relevant firm and appoint a
+replacement member in accordance with this Appointments Procedure.
+
+1.5 Interested Firms should declare any conflicts of interest in respect of the CDX or iTraxx
+indices. If an Interested Firm or its affiliate is the owner of an index which competes with
+the CDX or iTraxx indices, the relevant firm may be excluded from consideration as a
+potential member in order to ensure compliance with relevant competition laws. All
+members of a CDS Index Advisory Committee will be required to sign an appropriate
+confidentiality agreement before they may participate in CDS Index Advisory Committee
+meetings.
+
+1.6 It is expected that the actual size of each of the CDS Index Advisory Committees will
+vary, depending on the level of interest and activity in the relevant Indices and the
+willingness of market participants to sit on CDS Index Advisory Committees. If, in respect
+of any Membership Category, the number of Eligible Firms within each Membership
+Category exceeds the number of seats allocated to the relevant Membership Category,
+Markit shall, acting reasonably and in good faith, choose firms from the pool of Eligible
+Firms to join a CDS Index Advisory Committee having regard to the need to ensure
+sufficient diversity of representation within each Membership Category. Any Eligible Firms
+that are not appointed as members will be included on a waiting list (the "Waiting List")
+and where appropriate given preference on a subsequent rotation.
+
+13
+
+WITHOUT PREJUDICE
+
+ANNEX B
+
+ROTATION PROCEDURE
+
+1.1 The process in this Annex B shall be referred to herein as the "Rotation Procedure".
+
+1.2 Subject to the transitional provisions set out below, each member firm of the CDS Index
+Advisory Committees shall serve for a period of up to 2 years (the "Membership Term").
+At the conclusion of each Membership Term, member firms shall resign and membership
+of the CDS Index Advisory Committees shall rotate. Firms on the Waiting List shall be
+given the first opportunity to replace existing members. Markit shall use its reasonable
+endeavours to fill any remaining seats within each Membership Category in accordance
+with the Appointments Procedure.
+
+1.3 If, following the conclusion of the Appointments Procedure, insufficient new members
+have registered an interest in joining the CDS Index Advisory Committees such that, on
+the expiry of a member's Membership Term a replacement member cannot be appointed,
+an existing member firm may, at the discretion of Markit, be asked to extend its period of
+membership for the following term.
+
+1.4 The following transitional provisions shall apply in respect of the first members appointed
+to the CDS Index Advisory Committees in accordance with the above procedures after the
+Effective Date (the "Initial Members"). On the first anniversary of the appointment of
+the Initial Members, at least 50% of the Initial Members within each Membership Category
+shall volunteer for rotation and shall be replaced by new members appointed in
+accordance with the Appointments Procedure. If insufficient Initial Members volunteer for
+rotation, a random ballot shall be held to select additional firms for rotation. The
+remaining Initial Members shall remain members of the relevant CDS Index Advisory
+Committee for a further year, following which they shall resign and be replaced by
+members appointed in accordance with the Appointments Procedure. If insufficient new
+members are identified, the provisions of Annex B, paragraph 1.3 shall apply. Thereafter,
+the membership of the CDS Index Advisory Committees shall rotate every year, following
+the conclusion of a member's Membership Term.
+
+14

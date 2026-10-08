@@ -1,0 +1,505 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+ES
+
+ES ES
+
+COMISIÓN DE LAS COMUNIDADES EUROPEAS
+
+Bruselas, 16.07.2008
+C(2008)3435 final
+
+DECISIÓN DE LA COMISIÓN
+
+de
+
+16.07.2008
+
+relativa a un procedimiento de conformidad con el artículo 81 del Tratado CE
+y con el artículo 53 del Acuerdo EEE
+
+(Asunto COMP/C2/38.698 – CISAC)
+
+(Los textos en lengua española, checa, danesa, alemana, estonia, griega, inglesa, francesa,
+italiana, letona, neerlandesa, polaca, eslovaca y eslovena son los únicos auténticos)
+
+(Texto pertinente a efectos del EEE)
+
+1
+
+1. INTRODUCCIÓN ............................................................................................................. 5
+2. LAS PARTES .................................................................................................................... 6
+2.1. Denunciantes .............................................................................................................. 6
+2.2. Partes denunciadas ..................................................................................................... 6
+3. MARCO JURÍDICO.......................................................................................................... 7
+4. EL OBJETO DE LA PRESENTE DECISIÓN.................................................................. 8
+4.1. El contrato tipo de la CISAC...................................................................................... 8
+4.2. Los acuerdos de representación recíproca entre los miembros de la CISAC en el
+EEE ................................................................................................................................... 9
+4.3. Las cláusulas pertinentes del contrato tipo de la CISAC ......................................... 10
+4.3.1. Las cláusulas sobre la afiliación de miembros................................................. 10
+4.3.2. Cláusulas territoriales....................................................................................... 10
+4.4. Aplicación de las cláusulas pertinentes del contrato tipo de la CISAC ................... 12
+4.4.1. Cambios en el contrato tipo de la CISAC ........................................................ 12
+4.4.2. Aplicación del contrato tipo de la CISAC a los acuerdos de representación
+recíproca entre los miembros de la CISAC en el EEE..................................................... 12
+5. MERCADOS DE REFERENCIA.................................................................................... 16
+5.1. Estructura del mercado............................................................................................. 16
+5.1.1. Los derechos de autor de los titulares de derechos .......................................... 16
+5.1.2. ¿Cómo obtienen las sociedades de gestión colectiva los derechos cuya licencia
+conceden a los usuarios comerciales? .............................................................................. 17
+5.1.3. Concesión de licencias sobre derechos de autor .............................................. 17
+5.1.4. Supervisión del uso de la licencia, auditoría de la contabilidad de los usuarios
+comerciales y cumplimiento por parte del licenciatario................................................... 18
+5.2. Mercados de productos de referencia....................................................................... 18
+5.2.1. Los servicios de administración de derechos de autor para derechos de
+ejecución pública.............................................................................................................. 19
+5.2.2. La concesión de licencias de derechos de ejecución pública para las
+transmisiones vía satélite, por cable y en Internet (mercado de la concesión de licencias).
+.......................................................................................................................... 20
+5.3. Mercado geográfico de referencia............................................................................ 21
+5.3.1. El alcance geográfico del mercado de la prestación de servicios de
+administración de derechos de autor a los titulares.......................................................... 21
+5.3.2. Alcance geográfico del mercado de la prestación de servicios de
+administración de derechos de autor correspondientes a derechos de ejecución pública
+para otras sociedades de gestión....................................................................................... 21
+5.3.3. Mercado de la concesión a los usuarios comerciales de licencias de derechos
+de ejecución pública para su uso vía satélite, por cable y en Internet.............................. 22
+6. PROCEDIMIENTO ......................................................................................................... 22
+6.1. Pliego de cargos ....................................................................................................... 22
+6.2. La audiencia oral...................................................................................................... 23
+6.3. Otras solicitudes de información.............................................................................. 23
+6.4. Anuncio publicado de conformidad con el artículo 27, apartado 4 del Reglamento
+(CE) n° 1/2003 ..................................................................................................................... 23
+7. ARTÍCULO 81, APARTADO 3, DEL TRATADO CE Y ARTÍCULO 53, APARTADO
+3, DEL ACUERDO EEE ......................................................................................................... 24
+7.1. Relación entre el Tratado CE y el Acuerdo EEE - Competencia............................. 27
+7.2. Acuerdos entre empresas y decisión de una asociación de empresas ...................... 28
+7.2.1. Las sociedades de gestión son empresas.......................................................... 28
+7.2.2. La CISAC es una asociación de empresas ....................................................... 28
+7.2.3. Los Acuerdos bilaterales son acuerdos entre empresas ................................... 28
+
+2
+
+7.2.4. El contrato tipo es una decisión de una asociación de empresas ..................... 28
+7.3. Contexto jurídico y político...................................................................................... 30
+7.3.1. Artículo 151, apartado 4, del Tratado CE ........................................................ 30
+7.3.2. El efecto de las normativas locales .................................................................. 31
+7.3.3. El sistema ampliado de concesión de licencias................................................ 32
+7.3.4. La recomendación de la Comisión sobre la gestión de derechos en el sector en
+línea .......................................................................................................................... 33
+7.3.5. Las formas de competencia afectadas .............................................................. 34
+7.3.6. La carta administrativa de compatibilidad enviada a PRS en 1999 ................. 36
+7.4. Restricciones a la afiliación de miembros................................................................ 37
+7.5. La representación exclusiva ..................................................................................... 41
+7.5.1. Observaciones generales .................................................................................. 41
+7.5.2. Artículo 1 del contrato tipo de la CISAC: la cláusula de exclusividad............ 42
+7.5.3. Artículo 6 (II) del contrato tipo de la CISAC................................................... 43
+7.6. La delimitación territorial de la capacidad para conceder licencias......................... 45
+7.6.1. La delimitación territorial paralela constituye una práctica concertada........... 46
+7.6.1.1. Las restricciones territoriales no se explican por la naturaleza territorial de
+los derechos de autor........................................................................................................ 47
+7.6.1.2. En el contexto de la transmisión vía satélite, el comportamiento de las partes
+no puede justificarse por disposiciones legislativas y el Acuerdo de Sydney no constituye
+una respuesta apropiada a los cargos................................................................................ 47
+7.6.1.3. No puede decirse que la práctica sea el resultado de la reacción individual
+del mercado ...................................................................................................................... 50
+7.6.1.4. La necesidad de la presencia local no explica la delimitación sistemática del
+territorio como el territorio del país en donde está establecida la sociedad de gestión.... 51
+7.6.2. La práctica concertada es restrictiva de la competencia .................................. 58
+7.6.2.1. Delimitación territorial y exclusividad......................................................... 58
+7.6.2.2. ¿La práctica concertada es objetivamente necesaria para garantizar que las
+sociedades de gestión se conceden entre sí mandatos recíprocos? .................................. 61
+7.6.3. Conclusión........................................................................................................ 64
+7.7. Efecto en el comercio entre Estados miembros y entre Partes Contratantes del
+Acuerdo EEE........................................................................................................................ 64
+8. ARTÍCULO 81, APARTADO 3, DEL TRATADO CE Y ARTÍCULO 53, APARTADO
+3, DEL ACUERDO EEE ......................................................................................................... 65
+8.1. Observaciones generales .......................................................................................... 65
+8.2. Contribuir a mejorar la producción o la distribución de los productos o a fomentar el
+progreso técnico o económico.............................................................................................. 66
+8.3. Carácter indispensable de las restricciones.............................................................. 67
+8.4. Reservar a los usuarios una parte equitativa en el beneficio resultante ................... 69
+8.5. Ausencia de eliminación de la competencia ............................................................ 70
+8.6. Conclusiones sobre el artículo 81, apartado 3, del Tratado CE y el artículo 53,
+apartado 3, del Acuerdo EEE ............................................................................................... 71
+9. ARTÍCULO 86, APARTADO 2, DEL TRATADO CE.................................................. 71
+10. MEDIDAS REPARADORAS ..................................................................................... 72
+10.1. Prácticas que infringen el artículo 81, apartado 1, del Tratado CE y el artículo 53,
+apartado 1, del Acuerdo EEE ............................................................................................... 72
+10.2. Artículo 7, apartado 1, del Reglamento (CE) no 1/2003 ...................................... 73
+
+3
+
+DECISIÓN DE LA COMISIÓN
+
+de
+
+16.07.2008
+relativa a un procedimiento de conformidad con el artículo 81 del Tratado CE
+y con el artículo 53 del Acuerdo EEE
+
+(Asunto COMP/C2/38.698 – CISAC)
+
+(Los textos en lengua española, checa, danesa, alemana, estonia, griega, inglesa, francesa,
+italiana, letona, neerlandesa, polaca, eslovaca y eslovena son los únicos auténticos)
+
+(Texto pertinente a efectos del EEE)
+
+LA COMISIÓN DE LAS COMUNIDADES EUROPEAS,
+
+Visto el Tratado constitutivo de la Comunidad Europea,
+
+Visto el Acuerdo sobre el Espacio Económico Europeo,
+
+Visto el Reglamento (CE) n° 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la
+aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado1, y
+en particular su artículo 7, apartado 1,
+
+Habiendo dado a las empresas la oportunidad de manifestar su opinión con respecto a los
+cargos que les han sido imputados por la Comisión de conformidad con el artículo 27,
+apartado 1, del Reglamento (CE) n° 1/2003 y con los artículos 11 y 12 del Reglamento (CE)
+
+1 DO L 1 de 4.1.2003, p.1. Reglamento cuya última modificación la constituye el Reglamento (CE) n°
+1419/2206 (DO L 269 de 28.9.2006, p.1).
+
+4
+
+n° 773/2004 de la Comisión, de 7 de abril de 2004, relativo al desarrollo de los
+procedimientos de la Comisión con arreglo a los artículos 81 y 82 del Tratado CE2.
+
+Previa consulta al Comité consultivo en materia de prácticas restrictivas y posiciones
+dominantes3,
+
+Visto el informe final del consejero auditor en el presente asunto4,
+
+CONSIDERANDO LO SIGUIENTE:
+
+1. INTRODUCCIÓN
+
+1. La presente Decisión se refiere a las condiciones en las que las sociedades de
+gestión gestionan y conceden licencias relativas a los derechos de ejecución
+pública de los autores. Los destinatarios de la presente Decisión son las
+sociedades de gestión colectiva de derechos de autor establecidas en el EEE
+que son miembros de la Confederación Internacional de Sociedades de Autores
+y Compositores («CISAC») denominadas colectivamente los «miembros de la
+CISAC en el EEE».
+
+2. La CISAC aboga por el uso de un contrato tipo para los acuerdos de
+representación recíproca entre sus miembros para la gestión de los derechos de
+ejecución pública. Este contrato tipo abarca toda la explotación de obras
+musicales que necesita una licencia de derecho de ejecución pública. El
+contrato tipo está reflejado en gran medida en los acuerdos bilaterales de
+representación recíproca entre los miembros de la CISAC en el EEE. Las
+restricciones siguientes presentan problemas: las cláusulas que restringen la
+capacidad de los titulares de derechos para contratar libremente con las
+sociedades de gestión de su elección («restricciones a la afiliación de
+miembros») y las cláusulas y prácticas concertadas que garantizan que cada
+sociedad de gestión disfrutará, en el territorio en el que se halla establecida, de
+una protección territorial absoluta frente a otras sociedades de gestión para
+conceder licencias a los usuarios comerciales («restricciones territoriales»). Los
+miembros de la CISAC en el EEE concluyen entre sí acuerdos de
+representación recíproca basándose en el contrato tipo de la CISAC.
+
+3. La investigación referente al contrato tipo de la CISAC y a los acuerdos de
+representación recíproca entre los miembros de la CISAC en el EEEque
+gestionan derechos de ejecución pública tiene su origen en dos denuncias: una
+presentada el 30 de noviembre de 2000 por el grupo RTL («RTL») contra
+GEMA, que se había negado a conceder a RTL una licencia a escala
+comunitaria sobre los derechos que administra para sus propios miembros y
+para los miembros de otras sociedades de gestión en virtud de los acuerdos de
+representación recíproca para sus actividades de difusión musical, y una
+denuncia presentada contra la CISAC el 4 de abril de 2003 por Music Choice
+
+2 DO L 123 de 27.4.2004, p. 18.Reglamento modificado por el Reglamento (CE) n° 1792/2006 (DO L
+362 de 20.12.2006, p.1)
+3 DO .....
+4 DO ...
+
+5
+
+Europe plc («Music Choice Europe») referente al contrato tipo de la CISAC
+descrito en la secc
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+rácticas concertadas relativas a la delimitación territorial por las
+sociedades de gestión.
+
+10.2. Artículo 7, apartado 1, del Reglamento (CE) no 1/2003
+
+261. Cuando la Comisión concluya que existe una infracción del artículo 81 del
+Tratado puede, de conformidad con el artículo 7, apartado 1, del Reglamento
+(CE) n° 1/2003, requerir mediante decisión a las empresas y/o asociaciones de
+empresas afectadas que pongan fin a la infracción. Según el artículo 5 del
+Reglamento (CE) n° 2894/94 del Consejo de 28 de noviembre de 1994, relativo
+a determinadas normas de desarrollo del Acuerdo sobre el Espacio Económico
+Europeo188, «se aplicarán mutatis mutandis las normas comunitarias que
+desarrollan los principios que figuran en los artículos 85 y 86 [ahora artículos
+81 y 82] del Tratado CE» por lo que se refiere al EEE.
+
+262. A tal efecto, la Comisión podrá imponerles cualquier medida reparadora
+estructural o de comportamiento que sea proporcional a la infracción y
+necesaria para producir el cese efectivo de la misma.
+
+263. En primer lugar, algunos acuerdos aún contienen una serie de cláusulas y
+siguen existiendo ciertas prácticas. En segundo lugar, si bien algunos miembros
+de la CISAC en el EEE sostienen que han suprimido las cláusulas restrictivas
+de sus acuerdos bilaterales de representación recíproca, no puede asumirse con
+certeza que esta supresión tardía haya eliminado completamente la necesidad
+de ordenar a las empresas en cuestión que pongan fin a la infracción. En tercer
+lugar, teniendo en cuenta que el artículo 81 del Tratado puede aplicarse, por lo
+que se refiere a los acuerdos que ya no están en vigor, si éstos continúan
+produciendo sus efectos después de que formalmente hayan dejado de estar en
+vigor189, la Comisión no tiene ninguna certeza de que la infracción haya
+terminado por completo por lo que se refiere a ciertas prácticas
+anticompetitivas de algunas sociedades de gestión. Por consiguiente, los
+destinatarios de la presente Decisión deben, en primer lugar:
+
+a) poner fin inmediatamente, si todavía no lo han hecho, a las infracciones
+relacionadas con las cláusulas de restricción de la afiliación de miembros y con
+las cláusulas de derechos exclusivos contenidos en los acuerdos de
+representación recíproca; y
+
+b) en el plazo de 120 días a partir de la fecha de notificación de la presente
+Decisión poner fin a la infracción referente a la práctica concertada relativa a la
+delimitación territorial.
+
+188 DO L 305 de 30.11.1994, p. 6.
+189 Véase, a este efecto, el asunto 51/75 EMI Records, apartado 15, Rec. 1976, p. 811; el asunto 243/83
+Binon, apartado 17, Rec. 1985, p. 2015; el asunto T-2/89 Petrofina/Comisión, apartado 212, Rec. 1991,
+p. II-1087; el asunto T-14/89 Montedipe/Comisión, apartado 231, Rec. 1992, p. II-1155; el asunto T-
+327/94 SCA Holding/Comisión, apartado 95, Rec. 1998, p. II-1373, y la sentencia de 26 de abril de
+2007 en los asuntos acumulados T-109/02, T-118/02, T-122/02, T-125/02, T-126/02, T-128/02, T-
+129/02, T-132/02 y T-136/02, Bolloré y otros/Comisión, apartado 186, Rec. 2007, pendiente de
+publicación.
+
+73
+
+264. Los destinatarios de la Decisión deberán comunicar también a la Comisión
+todas las medidas que hayan tomado para aplicar estas medidas reparadoras.
+Por lo que se refiere a la práctica concertada para la delimitación territorial, en
+primer lugar es necesario impedir en el futuro cualquier concertación del tipo
+contemplado en la presente Decisión. En segundo lugar, aunque el hecho de
+limitar el mandato al territorio de la otra sociedad de gestión no restringe en sí
+mismo la competencia, también es necesario, en la medida en que la
+concertación anterior siga reflejada en acuerdos existentes, asegurarse de que
+los acuerdos bilaterales de representación recíproca en el futuro, por lo que
+respecta a la delimitación territorial de los mandatos recíprocos, son el
+resultado de negociaciones bilaterales y ya no están influidos por la existencia
+de una práctica concertada que limite el territorio del mandato.
+
+Además, los destinatarios de la Decisión se abstendrán de cualquier acuerdo o
+práctica concertada que puedan tener un objeto o efecto idéntico o similar a la
+conducta descrita en el considerando 260.
+
+HA ADOPTADO LA PRESENTE DECISIÓN:
+Artículo 1
+
+Las siguientes empresas han infringido el artículo 81 del Tratado y el artículo 53 del Acuerdo
+EEE al utilizar, en sus acuerdos de representación recíproca, las restricciones a la afiliación de
+miembros contenidas en el artículo 11 (II) del contrato tipo de la Confederación Internacional
+de Sociedades de Autores y Compositores ("el contrato tipo de la CISAC"), o al aplicar de
+hecho dichas restricciones a la afiliación de miembros:
+
+AEPI
+AKKA/LAA
+AKM
+ARTISJUS
+BUMA
+EAÜ
+GEMA
+IMRO
+KODA
+LATGA-A
+PRS
+OSA
+SABAM
+SACEM
+SAZAS
+SGAE
+SIAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+
+74
+
+TONO
+ZAIKS
+
+Artículo 2
+
+Las dieciesiete empresas siguientes han infringido el artículo 81 del Tratado y el artículo 53
+del Acuerdo EEE al conferir, en sus acuerdos de representación recíproca, derechos
+exclusivos según lo previsto en el artículo 1 (I) y (II) del contrato tipo de la CISAC:
+
+AKKA/LAA
+ARTISJUS
+BUMA
+EAÜ
+IMRO
+KODA
+LATGA-A
+OSA
+SAZAS
+SGAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+TONO
+ZAIKS
+
+Artículo 3
+
+Las siguientes empresas han infringido el artículo 81 del Tratado y el artículo 53 del Acuerdo
+EEE al coordinar las delimitaciones territoriales de tal manera que limitan una licencia al
+territorio nacional de cada sociedad de gestión:
+
+AEPI
+AKKA/LAA
+AKM
+ARTISJUS
+BUMA
+EAÜ
+GEMA
+IMRO
+KODA
+LATGA-A
+PRS
+OSA
+SABAM
+SACEM
+SAZAS
+SGAE
+
+75
+
+SIAE
+SOZA
+SPA
+STEF
+STIM
+TEOSTO
+TONO
+ZAIKS
+
+Artículo 4
+
+1. Las empresas enumeradas en los artículos 1 y 2 pondrán fin inmediatamente a las
+infracciones mencionadas en estos artículos, si aún no lo hubieran hecho, y comunicarán a la
+Comisión todas las medidas que adopten con tal fin.
+
+2. En el plazo de 120 días a partir de la fecha de notificación de la presente Decisión, las
+empresas enumeradas en el artículo 3 pondrán fin a la infracción mencionada en dicho
+artículo y, en ese mismo plazo, comunicarán a la Comisión todas las medidas que adopten con
+tal fin.
+
+En particular, las empresas enumeradas en el artículo 3 revisarán bilateralmente con cada una
+de las otras empresas relacionadas en el artículo 3 la delimitación territorial de sus mandatos
+para uso vía satélite, retransmisión por cable y en Internet en cada uno de sus acuerdos
+bilaterales de representación recíproca y presentarán a la Comisión copias de los acuerdos
+revisados.
+
+3. Los destinatarios de la presente Decisión se abstendrán de repetir cualquier acto o
+conducta descritos en los artículos 1, 2 y 3 y de cualquier acto o conducta que tengan un
+objeto o efecto idéntico o similar.
+
+Articulo 5
+
+La Comisión podrá, a su sola discreción, y previa solicitud motivada presentada en tiempo por
+una o varias de las empresas enumeradas en el artículo 3, conceder una extensión del plazo
+previsto en el segundo parrafo del artículo 4.
+
+Artículo 6
+
+Los destinatarios de la presente Decisión serán:
+
+1) Ελληνική Εταιρεία Προστασίας της Πνευματικής Ιδιοκτησίας (AEPI), Calle Fragoklissias
+y Samou n° 51, 151 25 Amaroussio, Atenas, Grecia
+
+2) "Autortiesību un komunicēšanās konsultāciju aģentūra/Latvijas Autoru apvienība
+(AKKA/LAA), A.Čaka Street 97, 1011 Riga, Letonia
+
+3) Staatlich genehmigte Gesellschaft der Autorem, Komponisten und Musikverleger,
+reg.Gen.m.b.H (AKM), Baumannstrasse 10, Postfach 259, 1031 Viena, Austria
+
+76
+
+4) Magyar Szerzői Jogvédő Iroda Egyesület (ARTISJUS), Meszaros u. 15-17, 1016 Budapest,
+Hungría
+
+5) Vereniging Buma (BUMA), Siriusdreef 22-28, 2130 KB Hoofddorp, Países Bajos
+
+6) Eesti Autorite Ühing (EAÜ), Lille 13, 10614 Tallin, Estonia
+
+7) Gesellschaft für musikalische Aufführungs und mechanische Vervielfältigungsrechte
+(GEMA), Rosenheimer Strasse 11, 81667 Munich, Alemania
+
+8) The Irish Music Rights Organisation Limited – Eagras um Chearta Cheolta Teoranta
+(IMRO), Copyright House, Pembroke Row, Lower Baggot Street, Dublin 2, Irlanda
+
+9) Komponistrettigheder i Danmark (KODA), Landemaerket 23-25, Postboks 2154, 1016
+Copenhague, Dinamarca
+
+10) Lietuvos autorių teisių gynimo asociacijos agentūra (LATGA-A), J. Basanaviciaus G. 4h,
+2600, Vilnius, Lituania
+
+11) Ochranný svaz autorský pro práva k dílům hudebním, o.s. (OSA), Cs. Armady 786/20,
+16056 Praga 6, República Checa
+
+12) Performing Right Society Limited (PRS), Berners Street 29-33, Londres WIT 3AB, Reino
+Unido
+
+13) Société Belge des Auteurs, Compositeurs et Editeurs Scrl / Belgische Vereniging van
+Auteurs, Componisten en Uitgevers (SABAM), Rue d'Arlon 75-77, 1040 Bruselas, Bélgica
+
+14) Société des Auteurs, Compositeurs et Editeurs de Musique (SACEM), 225 av Charles De
+Gaulle, 92528 Neuilly sur Seine Cedex, Francia
+
+15) Združenje skladateljev, avtorjev in založnikov za zaščito avtorskih pravic Slovenije
+(SAZAS), Trzaska cesta 34, 1000 Liubliana, Eslovenia
+
+16) Sociedad General de Autores y Editores (SGAE), Fernando VI-4, 28004 Madrid, España
+
+17) Societa Italiana degli Autori ed Editori (SIAE), Viale della Letteratura 30, 00144 Roma,
+Italia
+
+18) Slovenský ochranný Zväz Autorský pre práva k hudobným dielam (SOZA), Rastislavova
+3, 2108 Bratislava 2, Eslovaquia
+
+19) Sociedade Portuguesa de Autores (SPA), Avenida Duque de Loulé 31, 1069-153 Lisboa,
+Portugal
+
+20) Samband Tónskalda og Eigenda Flutningsréttar (STEF), Laufasvegi 40, 101 Reikiavik,
+Islandia
+
+21) Svenska Tonsättares Internationella Musikbyrå (STIM), BOX 27327, 10254 Estocolmo,
+Suecia
+
+77
+
+22) Säveltäjäin Tekijänoikeustoimisto teosto r.y.(TEOSTO), Lauttasaarentie 1, 00200
+Helsinki, Finlandia
+
+23) The Norwegian Performing Right Society (TONO), Postboks 9171, Gronland, 0134 Oslo,
+Noruega
+
+24) Stowarzyszenie Autorów ZAiKS (ZAIKS), 2, Calle Hipoteczna, PO box P-16, 00092
+Varsovia, Polonia
+
+La presente Decisión constituye un título ejecutivo de acuerdo con el artículo 256 del Tratado
+y con el artículo 110 del Acuerdo EEE.
+
+Hecho en Bruselas, 16.07.2008
+
+Por la Comisión
+
+Neelie KROES
+Miembro de la Comisión
+
+78

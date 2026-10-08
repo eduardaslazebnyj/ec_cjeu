@@ -1,0 +1,468 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 22.7.2009
+C(2009) 5791 final
+
+COMMISSION DECISION
+of 22.7.2009
+relating to a proceeding under Article 81 of the Treaty and Article 53 of the EEA
+Agreement
+
+COMP/39.396 – Calcium carbide and magnesium based reagents for the steel and
+gas industries
+
+(Only the English, German, Slovak and Slovene languages are authentic)
+
+(Text with EEA relevance)
+
+EN - 1 – EN
+
+TABLE OF CONTENTS
+
+I. INTRODUCTION....................................................................................... 5
+
+II. THE INDUSTRY SUBJECT TO THE PROCEEDINGS............................. 6
+
+II.1 The products...............................................................................................................................6
+
+II.2 The undertakings .......................................................................................................................7
+II.2.1. Akzo Nobel.........................................................................................................................7
+II.2.2. Almamet.............................................................................................................................8
+II.2.3. Donau Chemie....................................................................................................................9
+II.2.4. Ecka....................................................................................................................................9
+II.2.5. NCHZ...............................................................................................................................10
+II.2.6. SKW-Stahl Metallurgie (SKW)........................................................................................10
+II.2.7. HSE/TDR .........................................................................................................................12
+
+II.3 The description of the market (2000 – 2007) .........................................................................12
+II.3.1. The supply........................................................................................................................12
+II.3.2. The demand......................................................................................................................13
+II.3.3. The geographic scope of the calcium carbide and magnesium business ..........................14
+
+III. PROCEDURE...................................................................................... 14
+
+IV. DESCRIPTION OF THE EVENTS....................................................... 16
+
+IV.1 Calcium carbide powder .........................................................................................................16
+IV.1.1. Organisation .....................................................................................................................16
+IV.1.2. Content .............................................................................................................................18
+IV.1.3. Chronological overview ...................................................................................................19
+IV.1.3.1. 22 April 2004 19
+IV.1.3.2. 7 September 2004 20
+IV.1.3.3. 3 November 2004 20
+IV.1.3.4. 24 January 2005 21
+IV.1.3.5. 7 April 2005 21
+IV.1.3.6. 12 July 2005 21
+IV.1.3.7. 22 November 2005 22
+IV.1.3.8. 21 February 2006 22
+IV.1.3.9. 25 April 2006 23
+IV.1.3.10. 11 July 2006 23
+IV.1.3.11. 10 October 2006 23
+IV.1.3.12. 9 January 2007 24
+
+IV.2 Calcium carbide granulates ....................................................................................................24
+IV.2.1. Organisation .....................................................................................................................24
+IV.2.2. Content and chronological overview................................................................................26
+
+IV.3 Magnesium granulates.............................................................................................................27
+IV.3.1. Organisation .....................................................................................................................28
+IV.3.2. Content .............................................................................................................................29
+IV.3.3. Chronologic overview ......................................................................................................29
+IV.3.3.1. 14 July 2005 30
+IV.3.3.2. 23 November 2005 30
+
+EN - 2 – EN
+
+IV.3.3.3. 2 May 2006 30
+IV.3.3.4. 12 July 2006 31
+IV.3.3.5. 13 October 2006 31
+
+V. APPLICATION OF ARTICLE 81 OF THE TREATY AND ARTICLE 53 OF
+THE EEA AGREEMENT ................................................................................ 31
+
+V.1 The relevant competition rules ...............................................................................................31
+
+V.2 The nature of the infringement...............................................................................................32
+V.2.1. Agreements and concerted practices ................................................................................32
+V.2.1.1. Principles 32
+V.2.1.2. Application in the present case 35
+V.2.1.3. Arguments of the parties 35
+Admissibility of evidence ..........................................................................................................36
+Standard of proof .......................................................................................................................37
+V.2.2. Single and continuous infringement.................................................................................39
+V.2.2.1. Principles 39
+V.2.2.2. Application in the present case 40
+1. Products .................................................................................................................................42
+2. Participants and participating undertakings ...........................................................................43
+3. The same timeframe within which the collusion occurred/related meetings .........................44
+4. The identical mechanism .......................................................................................................45
+5. Single anti-competitive aim ...................................................................................................45
+
+V.3 Restriction of competition .......................................................................................................46
+
+V.4 Effect upon trade between Member States and EEA Contracting Parties .........................47
+
+V.5 Articles 81(3) of the Treaty and Article 53(3) of the EEA Agreement ................................47
+
+VI. ADDRESSEES.................................................................................... 48
+
+VI.1 Liability for the infringement .................................................................................................48
+VI.1.1. Principles..........................................................................................................................48
+VI.1.2. Akzo Nobel (Akzo Nobel NV, Carbide Sweden AB) ......................................................49
+VI.1.3. Almamet (Almamet GmbH).............................................................................................51
+VI.1.4. Donau Chemie (Donau Chemie AG)................................................................................51
+VI.1.5. Ecka (Ecka Granulate GmbH & Co KG, non Ferrum Metallpulver GmbH & Co KG) ...51
+VI.1.6. NCHZ (1.garantovaná a.s. and Novácke chemické závody, a.s.).....................................52
+VI.1.7. SKW (SKW Stahl-Metallurgie GmbH, SKW Stahl-Metallurgie Holding AG, AlzChem
+Hart GmbH, Evonik Degussa GmbH, ARQUES Industries AG)........................................................54
+VI.1.8. TDR (TDR Metalurgija d.d. and Holding Slovenske elektrarne d.o.o.)...........................64
+
+VII. DURATION OF THE INFRINGEMENT................................................ 66
+
+VII.1 Start of the infringement .........................................................................................................66
+
+VII.2 End of the infringement...........................................................................................................67
+
+VII.3 Conclusion on the duration of the infringement....................................................................68
+
+VIII. REMEDIES.......................................................................................... 69
+
+VIII.1 Article 7 of Regulation No 1/2003 ......................................................................................69
+
+EN - 3 – EN
+
+VIII.2 Article 23(2) of Regulation No 1/2003................................................................................70
+
+VIII.3 The basic amount of the fines.............................................................................................70
+VIII.3.1. Calculation of the value of sales.......................................................................................70
+VIII.3.2. Determination of the basic amount of the fine .................................................................73
+VIII.3.2.1. Gravity 73
+1. Nature.....................................................................................................................................73
+2. Combined market share .........................................................................................................74
+3. Geographic scope...................................................................................................................74
+4. Implementation ......................................................................................................................75
+5. Conclusion on Gravity ...........................................................................................................75
+VIII.3.2.2. Duration 75
+VIII.3.3. The percentage to be applied for the additional amount...................................................76
+VIII.3.4. Calculation and conclusion on basic amounts..................................................................77
+
+VIII.4 Adjustments to the basic amount.......................................................................................77
+VIII.4.1. Aggravating circumstances...............................................................................................77
+VIII.4.1.1. Recidivism 77
+VIII.4.2. Mitigating circumstances..................................................................................................78
+VIII.4.2.1. Limited participation and no risk of repetition 78
+VIII.4.2.2. Non implementation or absence of benefit 79
+VIII.4.2.3. Effective co-operation outside the 2002/ 2006 Leniency Notice 80
+VIII.4.2.4. Economic situation 81
+VIII.4.3. Conclusion on adjustments of the basic amount...............................................................82
+
+VIII.5 Application of the 10% turnover limit ..............................................................................83
+
+VIII.6 Application of the 2002 Leniency Notice...........................................................................83
+VIII.6.1. Immunity from fines.........................................................................................................83
+VIII.6.2. Reduction of fines.............................................................................................................84
+VIII.6.2.1. Donau Chemie 84
+VIII.6.2.2. Almamet 85
+VIII.6.2.3. Degussa 86
+VIII.6.2.4. NCHZ 87
+VIII.6.3. Conclusion on the application of the 2002 Leniency Notice............................................87
+
+VIII.7 Conclusion: final amount of individual fines ....................................................................88
+
+VIII.8 Ability to pay .......................................................................................................................88
+VIII.8.1. [*] .....................................................................................................................................89
+VIII.8.2. [*] .....................................................................................................................................90
+VIII.8.3. [*] .....................................................................................................................................91
+VIII.8.4. [*] .....................................................................................................................................91
+VIII.8.5. [*] .....................................................................................................................................91
+VIII.8.6. [*] .....................................................................................................................................91
+
+EN - 4 – EN
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to the Commission decision of 24 June 2008 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on
+the objections raised by the Commission pursuant to Article 27(1) of Regulation No
+1/2003 and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004
+relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82
+of the Treaty2,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer in this case,
+
+Whereas:
+
+I. INTRODUCTION
+
+(1) This decision relates to a single and continuous infringement of Article 81 of the
+Treaty establishing the European Community (hereinafter "the Treaty") and
+Article 53 of the Agreement on the European Economic Area (hereinafter "the
+EEA Agreement"). The infringement consisted of market sharing, quotas,
+customer allocation, price fixing and exchanges of sensitive commercial
+information between suppliers of calcium carbide and magnesium granulates on
+a substantial part of the EEA market and lasted from at least 7 April 2004 until
+16 January 2007.3
+
+(2) This Decision is addressed to the following companies:
+
+1. 1.garantovaná a.s.;
+2. Akzo Nobel NV;
+3. Almamet GmbH;
+4. AlzChem Hart GmbH;
+5. ARQUES Industries AG;
+6. Carbide Sweden AB;
+7. Donau Chemie AG;
+
+1 OJ L 1, 4.1.2003, p.1.
+2 OJ L 123, 27.4.2004, p.18.
+3 See Chapter VII of this Decision for an assessment of the individual duration of infringement for each
+addressee.
+EN - 5 – EN
+
+8. ECKA Granulate GmbH & Co KG;
+9. Evonik Degussa GmbH;
+10. Holding Slovenske elektrarne d.o.o.;
+11. non ferrum Metallpulver GmbH & Co KG;
+12. Novácke chemick
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+calcium carbide and magnesium
+based reagents.
+
+VIII.8.1. [*]
+
+(369) The analysis of the financial data provided by [*]683 leads to the conclusion that [*]
+is a viable undertaking with a low risk of bankruptcy. Taking into account the
+possible fine imposed on [*] as well as the financial data provided by it, in
+
+682 See Joined Cases 96/82 to 102/82, 104/82, 105/82, 108/82 and 110/82, IAZ International Belgium and
+Others v Commission [1983] ECR 3369, paragraphs 54 and 55, and Joined Cases C-189/02 P, C-202/02
+P, C-205/02 P to C-208/02 P and C-213/02 P, Dansk Rørindustri and Others v Commission [2005] ECR
+I-5425, paragraph 327, Case C-308/04 P, SGL Carbon AG v Commission [2006] ECR I-5977, paragraph
+105.
+683 [*]
+EN - 89 – EN
+
+particular [*], the Commission deduces that there is a risk that the impact of the
+fine would [*]. However, this does not necessarily mean that the economic
+viability of the undertaking would be irretrievably jeopardised, nor does it
+demonstrate that it would cause the assets to loose all their value. Indeed, the
+Commission notes that [*] has not put forward any tangible evidence
+demonstrating that its economic viability would be irretrievably jeopardised and
+that its assets would loose all their value, other than [*].
+
+(370) Moreover, according to point 35 of the Guidelines on fines [*]'s risk profile needs
+to be analysed in the specific social and economic context of the relevant market
+and sector concerned. [*] has not provided the Commission, in its claim on
+inability to pay, with concrete elements of fact or arguments pointing to such a
+specific social and economic context. Apart from referring in general terms to the
+current general economic crisis, [*] has merely stated that, first, its exit from the
+market would result in a lessening of competition in the market as a whole, [*].
+Secondly, it indicated that demand is falling, [*].
+
+(371) It follows from the preceding objective elements that the imposition of the fine
+would not irretrievably jeopardise the economic viability of [*] and cause its assets
+to lose all their value.684 In these circumstances, it is not necessary to address the
+additional, rather generic arguments raised by [*] regarding the social and
+economic context.
+
+(372) Without prejudice to the previous analysis, the fact that [*] is a very small
+independent trader that does not belong to a large group of companies is also taken
+into account. [*] trades in high value materials with a rather low margin and has a
+relatively focused product portfolio. The fact that the imposed fine would have a
+relatively high impact on the financial situation of this type of company is also
+taken into account. Therefore, due to these special characteristics of [*], a
+reduction of the fine by 20% is appropriate, as it is considered that [*] will in any
+case be sufficiently deterred at that level of the fine685. In the light of this
+adaptation, the conclusion in recital (371) that the imposed fine is unlikely to
+irretrievably jeopardise the economic viability of [*] also remains valid.
+
+VIII.8.2. [*]
+
+(373) The analysis of the financial data provided by [*686 leads to the conclusion that [*
+is a viable undertaking with a low risk of bankruptcy. The impact of the fine is not
+considered to irretrievably jeopardise the economic viability of [* and cause its
+assets to lose all their value. Therefore, [*]'s claim on the inability to pay the fine is
+not accepted.
+
+(374) [*] often referred to its catastrophic year in 2005, when [*], but this event no
+longer endangers the viability of the undertaking to the extent that it would be
+unable to pay the fine imposed by this Decision.
+
+684 See point 35 of the Guidelines on Fines.
+685 See point 37 of the Guidelines on Fines.
+686 [*]
+EN - 90 – EN
+
+VIII.8.3. [*]
+
+(375) Having examined the information presented by [*]687, it is concluded that the
+information provided by [*] does not demonstrate that the fine imposed by this
+Decision would irretrievably jeopardise the economic viability of [*] and cause its
+assets to lose all their value. As a consequence, the claim relating to [*]'s inability
+to pay is not accepted.
+
+VIII.8.4. [*]
+
+(376) The shareholders of [*] mandated the Board of Directors in 2007 to sell all assets
+with a view to terminating its activities and eventually distribute the income to its
+shareholders. Under these circumstances analysing the viability of the company
+and the prospective risk of bankruptcy is not meaningful. Therefore, based on the
+information presented by [*]688, the remaining financial reserves were considered
+in comparison to the amount of the fine and it is concluded that [*] is able to
+absorb the fine. Thus, the claim from [*] on the inability to pay the fine is not
+accepted.
+
+VIII.8.5. [*]
+
+(377) Having examined the information presented by [*]689, it is concluded that the
+information provided by [*] does not demonstrate that the fine imposed by this
+Decision would irretrievably jeopardise the economic viability of [*] and cause its
+assets to lose all their value. Therefore, the claim regarding the inability to pay
+raised by [*] is rejected.
+
+VIII.8.6. [*]
+
+(378) Having examined the information presented by [*]690, it is concluded that the
+information provided does not show that the fine imposed by this Decision would
+irretrievably jeopardise the economic viability of [*] and cause its assets to lose all
+their value. Therefore, the claim of [*] on the inability to pay is not accepted.
+
+687 [*]
+688 [*]
+689 [*]
+690 [*]
+EN - 91 – EN
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The following undertakings have infringed Article 81 of the Treaty and Article 53 of the
+EEA Agreement by participating, for the periods indicated, in a single and continuous
+infringement in the calcium carbide and magnesium sectors covering the EEA except
+Spain, Portugal, Ireland and the United Kingdom, and which consisted of market sharing,
+fixing quotas, customer allocation, price fixing and the exchange of sensitive commercial
+information on prices, customers and sales volumes:
+
+(a) Almamet GmbH, from 22 April 2004 until 16 January 2007
+(b) Carbide Sweden AB and Akzo Nobel NV, from 3 November 2004
+until 20 November 2006
+(c) Donau Chemie AG from 7 April 2004 until 16 January 2007
+(d) non ferrum Metallpulver GmbH & Co KG and ECKA Granulate
+GmbH & Co KG from 14 July 2005 until 16 January 2007
+(e) Novácke chemické závody a.s. and 1.garantovaná a.s. from 7 April
+2004 until 16 January 2007
+(f) SKW Stahl-Metallurgie GmbH from 22 April 2004 until 16 January
+2007; Evonik Degussa GmbH and AlzChem Hart GmbH from 22
+April 2004 until 30 August 2004; SKW Stahl-Metallurgie Holding AG
+and ARQUES Industries AG from 30 August 2004 until 16 January
+2007
+(g) TDR Metalurgija d.d. from 7 April 2004 until 16 January 2007 and
+Holding Slovenske elektrarne d.o.o. from 7 April 2004 until 20
+December 2006
+
+EN - 92 – EN
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Almamet GmbH: EUR 3 040 000
+(b) Carbide Sweden AB and
+Akzo Nobel NV
+jointly and severally: EUR 0
+(c) Donau Chemie AG: EUR 5 000 000
+(d) non ferrum Metallpulver GmbH & Co KG and
+ECKA Granulate GmbH & Co KG
+jointly and severally: EUR 6 400 000
+(e) Novácke chemické závody and
+1.garantovaná a.s.
+jointly and severally: EUR 19 600 000
+(f) SKW Stahl-Metallurgie Holding AG,
+ARQUES Industries AG and
+SKW Stahl-Metallurgie GmbH
+jointly and severally: EUR 13 300 000
+(g) Evonik Degussa GmbH,
+AlzChem Hart GmbH and
+SKW Stahl-Metallurgie GmbH
+jointly and severally: EUR 1 040 000
+(h) Evonik Degussa GmbH and
+AlzChem Hart GmbH
+jointly and severally: EUR 3 640 000
+(i) Holding Slovenske elektrarne d.o.o.: EUR 9 100 000
+
+The fines shall be paid in EURO, within three months of the date of notification of this
+Decision, into bank account No 001-3953713-69 of the European Commission with
+FORTIS Bank, Rue Montagne du Parc 3, 1000 Bruxelles/Brussel (Code SWIFT:
+GEBABEBB – code IBAN BE71 0013 9537 1369). After the expiry of that period, interest
+shall automatically be payable at the interest rate applied by the European Central Bank to its
+main refinancing operations on the first day of the month in which this Decision is adopted,
+plus 3.5 percentage points.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements
+referred to in that Article in so far as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act
+or conduct having the same or similar object or effect.
+
+EN - 93 – EN
+
+Article 4
+
+This Decision is addressed to
+− Akzo Nobel NV, Strawinskylaan 2555, 1077 ZZ Amsterdam, Nederland
+− Almamet GmbH, Gewerbestraße 5a, 83404 Ainring, Deutschland
+− AlzChem Hart GmbH, Chemiepark Trostberg, Dr. Albert Frank Straße 32,
+83308 Trostberg, Deutschland
+− ARQUES Industries AG, Münchner Straße 15a, 82319 Starnberg,
+Deutschland
+− Carbide Sweden AB, PO Box 13000, Stockviksverken, Sundsvall, 85013,
+Sverige
+− Donau Chemie AG, Am Heumarkt 10, 1037 Wien, Austria
+− ECKA Granulate GmbH & Co KG, Kaiserstraße 30, 90763 Fürth,
+Deutschland
+− Evonik Degussa GmbH, Rellinghauser Straße 1-11, 45128 Essen,
+Deutschland
+− 1.garantovaná a.s., Lamačská cesta 3, 841 04 Bratislava 4, Slovenská
+republika
+− Holding Slovenske elektrarne d.o.o., Koprska ulica 92, 1000 Ljubljana;
+Slovenija
+− non ferrum Metallpulver GmbH & Co KG, Bürmooser Landesstraße 19,
+5113 St. Georgen bei Salzburg, Austria
+− Novácke chemické závody a.s., M.R. Štefánika 1, 97271 Nováky, Slovenská
+republika
+− SKW Stahl-Metallurgie GmbH, Fabrikstraße 6, 84579 Unterneukirchen,
+Deutschland
+− SKW Stahl-Metallurgie Holding AG, Fabrikstraße 6, 84579
+Unterneukirchen, Deutschland
+− TDR Metalurgija d.d. , Tovarniška c. 51, 2342 Ruše, Slovenija
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty and Article 110 of
+the EEA Agreement.
+
+Done at Brussels, 22.7.2009 For the Commission
+
+[signed]
+Algirdas ŠEMETA
+Member of the Commission
+
+EN - 94 – EN

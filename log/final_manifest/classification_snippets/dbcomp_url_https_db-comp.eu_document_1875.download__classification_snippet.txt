@@ -1,0 +1,392 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39759 – ARA Foreclosure
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) 1/2003
+
+Article 7 Regulation (EC) 1/2003
+Date: 20/09/2016
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+1EN EN
+
+TABLE OF CONTENTS
+1. Introduction .................................................................................................................. 4
+2. The undertaking concerned .......................................................................................... 6
+3. Procedure ...................................................................................................................... 7
+4. Description of ARA's practices which are subject to this decision .............................. 9
+4.1. ARA's household collection infrastructure .................................................................. 9
+4.1.1. Collection of lightweight and metal packaging waste ................................................. 9
+4.1.2. Legal requirements for the household collection infrastructure .................................. 9
+4.1.3. The network of contracts establishing the household collection infrastructure ......... 10
+4.2. Non-duplicability of the household collection infrastructure .................................... 11
+4.2.1. Statements by the Austrian authorities and in the 2003 Decision against duplication
+.................................................................................................................................... 11
+4.2.2. The amended Austrian waste law prohibits duplication ............................................ 12
+4.2.3. The negative position of stakeholders regarding the duplication of the household
+collection infrastructure was also expressed vis à vis ARA's competitors ................ 13
+4.3. ARA's replies to requests for shared use .................................................................... 14
+4.3.1. Interseroh/EVA's contacts with municipalities and collectors ................................... 14
+4.3.2. Municipalities and collectors consulting ARA .......................................................... 14
+4.3.3. ARA's discussions with Interseroh/EVA and involvement of the BWB ................... 16
+5. Relevant Markets ....................................................................................................... 17
+5.1. Relevant product market ............................................................................................ 17
+5.2. Relevant geographic market ....................................................................................... 18
+6. Dominant position ...................................................................................................... 19
+6.1. Introduction ................................................................................................................ 19
+6.2. ARA's dominant position in the household exemption market .................................. 20
+7. Abuse of ARA's dominant position ........................................................................... 20
+7.1. Introduction ................................................................................................................ 20
+7.2. Abuse of a dominant position in the Austrian exemption market for household
+packaging waste by refusing to give access to potential competitors to the Austrian
+household collection infrastructure ............................................................................ 23
+7.2.1. Principles .................................................................................................................... 23
+7.2.2. Application to ARA's behaviour in the Austrian household exemption market ........ 23
+7.2.2.1. Indispensability of the household collection infrastructure ....................................... 24
+7.2.2.2. ARA's control of the household collection infrastructure .......................................... 27
+7.2.2.3. Refusal ........................................................................................................................ 28
+7.2.2.4. Elimination of competition ........................................................................................ 30
+
+2EN EN
+
+7.2.2.5. Objective justification and efficiency gains ............................................................... 30
+7.2.3. Effect on trade between Member States and Appreciability ...................................... 31
+7.3. Duration of the infringement ...................................................................................... 32
+8. Remedies and Fines .................................................................................................... 34
+8.1. Article 7 of Regulation (EC) No 1/2003 .................................................................... 34
+8.1.1. Principles .................................................................................................................... 34
+8.1.2. Application to the present case .................................................................................. 35
+8.1.2.1. Necessity of the remedy ............................................................................................. 35
+8.1.2.2. Proportionality of the remedy .................................................................................... 36
+8.2. Article 23(2) of Regulation (EC) No 1/2003 – Fines ................................................. 37
+8.2.1. Principles .................................................................................................................... 37
+8.2.2. Intent or negligence .................................................................................................... 37
+8.2.3. Basic amount of the fine ............................................................................................ 37
+8.2.3.1. Calculation of the value of sales ................................................................................ 37
+8.2.3.2. Gravity........................................................................................................................ 38
+8.2.3.3. Duration ...................................................................................................................... 38
+8.2.4. Adjustments to the basic amount ............................................................................... 38
+8.2.5. Reduction for cooperation .......................................................................................... 38
+8.2.6. Conclusion: final amount of the fine .......................................................................... 39
+8.3. Article 24(1)(a)-of Regulation (EC) No 1/2003 - periodic penalty payments ........... 39
+9. Conclusion.................................................................................................................. 39
+
+3EN EN
+
+COMMISSION DECISION
+
+of 20.9.2016
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union and Article 54 of the EEA Agreement
+
+(AT.39759 - ARA Foreclosure)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty2 ,
+
+Having regard to the Commission decision of 12 July 2011 to initiate proceedings in this case,
+
+Having given the undertaking concerned the opportunity to make known their views on the
+objections raised on 17 July 2013 by the Commission pursuant to Article 27(1) of Regulation
+(EC) No 1/2003 and Article 12 of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer in this case3,
+
+Whereas:
+
+1. INTRODUCTION
+(1) This Decision concerns an abuse of a dominant position by the Austrian company
+Altstoff Recycling Austria Aktiengesellschaft ("ARA"), which constitutes an
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+("the Treaty"). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the Treaty should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty where appropriate. The Treaty also introduced certain changes in
+terminology, such as the replacement of "Community" by "Union" and "common market" by "internal
+market". The terminology of the Treaty will be used throughout this Decision.
+2 OJ L 123, 27.2.2004, p. 18.
+3 Final report of the Hearing Officer of 5 August 2016.
+
+4EN EN
+
+infringement of Article 102 of the Treaty on the Functioning of the European Union
+(the Treaty) and Article 54 of the Agreement on the European Economic Area (the
+EEA Agreement). The infringement consists of a refusal to give access to an
+indispensable infrastructure covering the territory of Austria. It lasted from 1 March
+2008 until at least 2 April 2012.
+(2) In Austria, producers of goods have a legal obligation to collect and recycle the
+packaging waste emanating from their customers' use of their products. This
+obligation is also referred to as "producer responsibility". ARA is an exemption
+system that collects and recycles the packaging used for goods on behalf of the
+producers of those goods at the places where the packaging occurs as waste ("enduse sites"). It thereby exempts the producers of their legal obligation to collect and
+recycle such packaging waste themselves.
+(3) The relevant services are exemption services for packaging waste. Producers pay a
+licensing fee for those services. In exchange for payment of the licence fee, ARA
+ensures the collection, recovery and recycling of packaging on the basis of the
+Austrian Packaging Ordinance (Verpackungsverordnung - "VerpackVO") and ARA's
+authorisation by the Austrian Federal Ministry of Agriculture, Forestry, Environment
+and Water Management4 ("the Ministry"). By entering into the licence agreement,
+producers fulfil their obligations in this respect under Austrian law.
+(4) Packaging may occur as waste in households ("household packaging waste") or at
+commercial end-use sites ("commercial packaging waste"). The service concerned by
+the infringement is the exemption of lightweight5 and metal packaging which occurs
+as waste in households ("exemption of household packaging waste").
+(5) ARA does not itself collect, sort and recycle the packaging that it has licensed. Those
+activities are contracted out to a variety of organisations, principally to collection
+service providers ("collectors"), sorters, recyclers and municipalities. In this respect,
+a distinction needs to be made between different materials. With regard to paper, the
+collection is entirely organised by the municipalities. ARA basically purchases a
+portion of the collected material from the municipalities, which reflects the share of
+paper packaging in the communal paper collection infrastructure6. Glass packaging
+was collected, in the period of infringement, not by ARA but by Austria Glas
+Recycling GmbH ("AGR"). ARA basically acted as a reseller of AGR's services to
+producers, without direct contact with collectors, sorters, and municipalities. With
+regard to lightweight and metal packaging waste, ARA has organised its own
+collection at households by setting up a household collection infrastructure
+consisting of the provision of waste containers and collection bags as well as
+collection services via a network of contracts with collectors and municipalities in
+the whole of Austria ("household collection infrastructure"). The larger part of the
+household collection infrastructure is owned by collectors and municipalities, but
+
+4 Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft - BMLFUW
+5 Lightweight packaging comprises mainly of plastics and composites, and to some extent textile fibres,
+ceramics, wood and packaging materials on a biological basis. See ARA Performance Report 2010, p.
+31, ID 1892, as published at:http://www.ara.at/uploads/tx_wxfilelist/ARA_Leistungsreport2010_A4.pdf
+6 The main part of collected paper concerns newspapers and magazines.
+
+5EN EN
+
+controlled by ARA. ARA itself owns a smaller part of the household collection
+infrastructure.
+(6) This Decision establishes that ARA has abused its dominant position in the market
+for the exemption of household packaging waste by refusing potential competitors
+access to the household collection infrastructure which cannot be duplicated. ARA
+has done so by imposing unjustified access conditions on the shared use of the
+household collection infrastructure ("shared use") by its competitors and in
+particular, by limiting potential access to its household collection infrastructure to
+individual regions, despite the fact that the household collection infrastructure can be
+duplicated neither in individual regions nor on a nationwide basis in the whole of
+Austria and is indispensable for market entry.
+(7) This Decision is addressed to ARA.
+
+2. THE UNDERTAKING CONCERNED
+(8) ARA, with registered offices at Mariahilfer Straße 123 in 1062 Vienna, Austria, was
+founded in 1993 by Austrian trade and industry to carry out the obligations of the
+Austrian waste law (the Abfallwirtschaftsgesetz - "AWG") and the Packaging
+Ordinance (Verpackungsverordnung - "VerpackVO") on their behalf (the AWG7 and
+the VerpackVO8, as applicable during the period of infringement, that is 1 March
+2008 until at least 2 April 2012, will also be referred to as the "Austrian legal
+framework"). ARA is owned by different companies and associations, the main one
+being the association "ARA-Verein" with a shareholding in ARA of 80.02% (status
+as of March 2016). Members of the ARA-Verein are various producers of goods,
+retailers and producers of packaging9.
+(9) The history of ARA can be divided into three periods, from 1993 until the end of
+2008, from 2009 until the end of 2014 and from 1 January 2015 onwards. During the
+first period, from 1993 to 2008, alongside ARA there were eight independent
+sectoral recycling companies (Branchenrecyclinggesellschaften — "BRG"), which
+h
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nt of the fine
+(152) The basic amount of the fine to be imposed on the undertaking concerned is to be set
+by reference to the value of sales, that is, the value of the undertaking's sales of
+goods or services to which the infringement directly or indirectly relates in the
+relevant geographic market. Depending on the gravity of the infringement, a
+proportion of the value of sales (up to 30% according to the Guidelines on fines) is to
+be established which is multiplied by the number of years over which the
+infringement was committed.
+8.2.3.1. Calculation of the value of sales
+(153) The Commission normally takes into account the sales related to the infringement
+made by an undertaking during the last full business year of its participation in the
+infringement141. The last full business year of ARA's participation in the
+infringement was 2011.
+(154) The services to which the infringement relates are exemption services for household
+lightweight and metal packaging waste provided by ARA. ARA's relevant licensing
+revenues for lightweight and metal packaging amounted to [BUSINESS SECRET:
+
+140 OJ C 210, 1.9.2006, p. 2.
+141 Guidelines on fines, point 13
+
+37EN EN
+
+turnover] in 2011142. Those revenues constitute the value of sales to which ARA's
+infringement directly or indirectly relates.
+8.2.3.2. Gravity
+(155) In order to determine the proportion of the value of sales to be considered as the
+basic amount (up to 30%), the Commission shall have regard to a number of factors
+to assess the gravity of the infringement, such as the nature of the infringement, the
+combined market share of all the undertakings concerned, the geographic scope of
+the infringement and whether or not the infringement has been implemented143.
+(156) Taking account of such factors and in light of the specific circumstances of the case
+as described in section 4 of this Decision, the proportion of the values of sales to be
+taken into account is set at 2%.
+8.2.3.3. Duration
+(157) The infringement started on 1 March 2008. For the purposes of the calculation of the
+fine, the Commission considers that it ended on 2 April 2012 (on the duration see
+section 7.3).
+(158) Therefore, for the purpose of the calculation of the fine, ARA's value of sales as
+defined above is to be multiplied by 4.083.
+8.2.4. Adjustments to the basic amount
+(159) There are no aggravating or mitigating circumstances in this case. No specific
+increase for deterrence is applied.
+(160) The final amount of the fine as calculated above does not exceed the 10% legal
+maximum144.
+8.2.5. Reduction for cooperation
+(161) On 21 July 2016 ARA submitted to the Commission a Cooperation Submission, that
+is a formal offer to cooperate with the Commission by acknowledging the
+infringement as well as by proposing a structural remedy in the form of the
+divestiture of the part of the household collection infrastructure ARA owns and
+acknowledging the necessity and proportionality of such a remedy.
+(162) Under point 37 of the Guidelines on fines, the particularities of a given case may
+justify departing from the methodology specified in the Guidelines on fines. With its
+Cooperation Submission, ARA acknowledged the infringement as set out in this
+Decision as well as the need for a structural remedy, which it accordingly proposed.
+The proposed structural remedy further ensures that the legal gap as to the legal
+obligation to grant shared use is removed. The acknowledgment and the
+accompanying waiver also allowed for administrative efficiencies. In the light of the
+above, the amount of the fine to be imposed on ARA should be reduced by 30%.
+
+142 Table: ARA income and expenditure 2011 submitted as Annex X-2 to ARA's response of 30 September
+2012 to the Commission’s request for information of 31 August 2012, ID 1871.
+143 Guidelines on fines, point 20.
+144 Article 23(2) of Regulation (EC) No 1/2003.
+
+38EN EN
+
+8.2.6. Conclusion: final amount of the fine
+(163) In light of the above (recitals (149) to (162)), the final amount of the fine to be
+imposed on ARA pursuant to Article 23(2) of Regulation (EC) No 1/2003 should be
+EUR 6 015 000.
+8.3. Article 24(1)(a)-of Regulation (EC) No 1/2003 - periodic penalty payments
+(164) Under Article 24(1)(a) of Regulation (EC) No 1/2003, the Commission may, by
+decision, impose on undertakings or associations of undertakings periodic penalty
+payments not exceeding 5% of the average daily turnover in the preceding business
+year per day and calculated from the date appointed by the decision, in order to
+compel them to put an end to an infringement of Article 101 or Article 102 of the
+Treaty, in accordance with a decision taken pursuant to Article 7 of Regulation (EC)
+No 1/2003.
+(165) With this Decision, the Commission imposes a structural remedy on ARA. ARA will
+have to divest the part of the household collection infrastructure which it owns to one
+or several buyers independent of ARA within the deadlines as set out in the Annex to
+this Decision. In order to ensure compliance with this remedy, the Commission shall
+impose periodic penalty payments in the event that ARA has not divested the part of
+the household collection infrastructure which it owns by the defined deadline.
+(166) On this basis, the Commission fixes the periodic penalty payment at 2.5% of ARA's
+daily consolidated group turnover in the business year preceding an infringement of
+this Decision. The periodic penalty payment shall be imposed as from the first day
+after [CONFIDENTIAL] for the failure to conclude a sales and purchase agreement
+and as from the first day after [CONFIDENTIAL] for the failure to transfer the legal
+title to the part of the household collection infrastructure ARA owns.
+
+9. CONCLUSION
+(167) In light of the considerations set out in this Decision, the Commission:
+(a) finds that ARA has infringed Article 102 of the Treaty by foreclosing the
+Austrian market for the exemption of household packaging waste and for that
+reason fines should be imposed on ARA pursuant to Article 23(2)(a) of
+Regulation (EC) No 1/2003;
+(b) requires ARA to bring the infringement to an end if it has not already done so
+and to refrain from taking measures having an equivalent effect as the conduct
+identified as abusive;
+(c) requires ARA to divest the part of the Austrian household collection
+infrastructure which it owns within the deadlines specified in the Annex to this
+Decision to one or several buyers independent from ARA; and
+(d) imposes periodic penalty payments in the event that ARA does not comply
+with this Decision within the deadlines as indicated in Article 4 of this
+Decision,
+HAS ADOPTED THIS DECISION:
+
+39EN EN
+
+Article 1
+Altstoff Recycling Austria Aktiengesellschaft has infringed Article 102 of the Treaty and
+Article 54 of the Agreement on the European Economic Area by foreclosing the Austrian
+market for the exemption of household packaging waste.
+That infringement lasted from 1 March 2008 until at least 2 April 2012.
+
+Article 2
+For the infringement referred to in Article 1, a fine of EUR 6 015 000 is imposed on Altstoff
+Recycling Austria Aktiengesellschaft.
+The fine shall be credited, in euros, within a period of three months from the date of notification
+of this Decision to the following bank account held in the name of the European Commission:
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / AT.39759
+After the expiry of this period, interest will automatically be payable at the interest rate
+applied by the European Central Bank to its main refinancing operations on the first day of
+the month in which this Decision is adopted, plus 3.5 percentage points.
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking must cover
+the fine by the due date, either by providing an acceptable financial guarantee, or by making a
+provisional payment of the fine in accordance with Article 90 of Commission Delegated
+Regulation (EU) No 1268/2012.145
+
+Article 3
+Altstoff Recycling Austria Aktiengesellschaft shall immediately bring to an end the
+infringement referred to in Article 1 insofar as it has not already done so.
+Altstoff Recycling Austria Aktiengesellschaft shall refrain from repeating any act or conduct
+described in Article 1, and from any act or conduct having the same or equivalent object or
+effect.
+
+Article 4
+Altstoff Recycling Austria Aktiengesellschaft shall divest the part of the household collection
+infrastructure which it owns to one or several purchasers independent of Altstoff Recycling
+Austria Aktiengesellschaft and provide proof of it. The precise conditions for the remedies are
+set out in the Annex.
+
+145 Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application
+of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the
+financial rules applicable to the general budget of the Union (OJ L362, 31.12.2012, p. 1).
+
+40EN EN
+
+Article 5
+If Altstoff Recycling Austria Aktiengesellschaft fails to comply with any of the obligations set
+out in Article 4 of this Decision within the deadlines referred to in Article 4, second sentence
+and the Annex, the Commission shall impose a daily penalty payment on that undertaking of
+2.5% of Altstoff Recycling Austria Aktiengesellschaft's daily consolidated turnover in the
+preceding business year in accordance with Article 24(1)(a) of Regulation (EC) No 1/2003.
+That penalty shall be calculated as from the first day following the expiry of the deadlines
+referred to in Article 4, second sentence and the Annex of this Decision.
+
+Article 6
+
+This Decision is addressed to Altstoff Recycling Austria Aktiengesellschaft, Mariahilfer
+Strasse 123, 1062 Vienna, Austria.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty and Article 110 of the
+Agreement on the European Economic Area.
+
+Done at Brussels, 20.9.2016
+
+For the Commission
+Margrethe VESTAGER
+Member of the Commission
+
+41EN EN

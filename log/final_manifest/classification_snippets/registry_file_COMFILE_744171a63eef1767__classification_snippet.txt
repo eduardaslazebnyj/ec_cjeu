@@ -1,0 +1,203 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52012XC0121(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52012XC0121(01)
+Help
+Print
+Summary of Commission Decision of 13 December 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.692 — IBM Maintenance Services) (notified under document C(2011) 9245) Text with EEA relevance
+Summary of Commission Decision of 13 December 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.692 — IBM Maintenance Services) (notified under document C(2011) 9245) Text with EEA relevance
+Summary of Commission Decision of 13 December 2011 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.692 — IBM Maintenance Services) (notified under document C(2011) 9245) Text with EEA relevance
+OJ C 18, 21.1.2012, pp. 6–7
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+21.1.2012
+EN
+Official Journal of the European Union
+C 18/6
+Summary of Commission Decision
+of 13 December 2011
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case COMP/39.692 — IBM Maintenance Services)
+(notified under document C(2011) 9245)
+(Only the English text is authentic)
+(Text with EEA relevance)
+2012/C 18/06
+On 13 December 2011 the Commission adopted a decision pursuant to Article 9 of Council Regulation (EC) No 1/2003 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (‘TFEU’). In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the name of the party concerned and the main content of the decision having regard to the legitimate interest of undertakings in the protection of their business secrets. A non-confidential version of the decision is available on the Directorate-General for Competition's website at the following address:
+http://ec.europa.eu/competition/elojade/isef/case_details.cfm?proc_code=1_39692
+1.
+INTRODUCTION
+(1)
+The decision pursuant to Article 9 of Council Regulation (EC) No 1/2003 is addressed to International Business Machines Corporation (‘IBM’). It renders the commitments offered by IBM binding in order to address the competition concerns arising from an investigation by the Commission in the maintenance market for IBM mainframe hardware and operating system software products.
+2.
+CASE DESCRIPTION
+2.1.
+Preliminary competition concerns
+(2)
+Mainframes are powerful computers used by large companies and government institutions worldwide to store and process critical business information. Due to their high reliability, availability and serviceability, mainframes are commonly used to run mission-critical business processes. In order to ensure business continuity, expeditious maintenance is therefore essential. Maintenance services for mainframes are offered both by IBM and by third party maintainers (‘TPMs’).
+(3)
+On 1 August 2011 the Commission addressed a preliminary assessment to IBM setting out concerns that IBM may have abused its dominant position on the maintenance market for its mainframe hardware and operating system software products.
+(4)
+In particular the Commission preliminarily concluded that IBM might hold a dominant position on the market for the inputs which are required to provide maintenance services for IBM mainframes and that IBM might have imposed unreasonable supply conditions, with regard to certain inputs required for the maintenance of IBM mainframes, on its competitors in the maintenance market, thus putting them at a competitive disadvantage. The Commission concluded that this conduct might amount to a constructive refusal to supply towards competing providers of mainframe maintenance services in contravention of Article 102 TFEU.
+(5)
+IBM's practices may affect various TPMs, some of which are active in different Member States. For this reason, the Commission's preliminary conclusion was that the practices raising concern may have repercussions on the pattern of competition within the internal market.
+2.2.
+The Commitments
+(6)
+On 14 September 2011, in response to the Commission's concerns expressed in the preliminary assessment, IBM submitted commitments to the Commission.
+(7)
+On 20 September 2011, a notice pursuant to Article 27(4) of Regulation (EC) No 1/2003 was published in the
+Official Journal of the European Union
+, summarising the case and the commitments and inviting interested third parties to submit their observations on the commitments within one month following its publication.
+(8)
+Within this deadline the Commission received seven observations from interested third parties. The Commission informed IBM of these comments and on 24 October 2011, IBM submitted an amended proposal for commitments (dated 21 October 2011).
+(9)
+On 5 December 2011, the Advisory Committee on Restrictive Practices and Dominant Positions was consulted and issued a favourable opinion. On 5 December the Hearing Officer issued his final report.
+(10)
+On 13 December 2011, the Commission made IBM's revised commitments binding by decision pursuant to Article 9 of Regulation (EC) No 1/2003. IBM commits, for a period of five years, to the expeditious availability of critical spare parts and technical information under commercially reasonable and non-discriminatory terms and to allow third parties to enforce the commitments. In an Annex to the Commitments, IBM also submitted a number of standard contract clauses detailing how the obligations undertaken will be implemented. Any modification or amendment of these standard clauses will require the Commission's prior authorisation.
+(11)
+The Commission takes the view that the commitments in their final form are sufficient and necessary to address the competition concerns identified in the preliminary assessment without being excessive. As the competition concerns arise from the fact that IBM may have refused to grant adequate access to certain inputs required to provide maintenance services for IBM mainframes, the Commission considers that the revised commitments are proportionate. They address these concerns by guaranteeing the expeditious availability to TPMs, under commercially reasonable and non-discriminatory terms, of relevant spare parts and technical information essential for IBM mainframe maintenance by TPMs.
+3.
+CONCLUSIONS
+(12)
+In light of the revised commitments offered, the Commission considers that there are no longer grounds for action on its part and, without prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought to an end.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+Top

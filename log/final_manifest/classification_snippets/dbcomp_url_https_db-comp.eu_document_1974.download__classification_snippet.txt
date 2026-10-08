@@ -1,0 +1,475 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+COMMISSION DECISION
+
+of 14/10/2009
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the
+EEA Agreement
+
+Case 39416 SHIP CLASSIFICATION
+
+(Only the English text is authentic)
+
+(Text with EEA relevance)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1,
+in particular Article 9(1) thereof,
+
+Having regard to the Commission decision of 12 May 2009 to initiate proceedings in this
+case,
+
+Having expressed concerns in the preliminary assessment of 12 May 2009,
+
+Having given interested third parties the opportunity to submit their observations pursuant
+to Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant
+Positions,
+
+Having regard to the final report of the Hearing Officer,
+
+WHEREAS:
+
+1. SUBJECT MATTER AND PARTIES
+
+(1) This Decision is addressed to the International Association of Classification Societies
+and to International Association of Classification Societies Limited (hereinafter
+jointly referred to as "IACS").
+
+(2) This Decision concerns the treatment by IACS of third party classification societies
+(hereinafter referred to as "CSs") which are not members of IACS. In its preliminary
+assessment of 12 May 2009, the Commission expressed its concerns as to the
+compatibility with Article 81 EC Treaty and Article 53 EEA Agreement of IACS'
+decisions on (i) the criteria and procedures ruling membership of IACS and the
+suspension or withdrawal of membership, and on the way that these criteria and
+procedures were applied, and (ii) the elaboration and accessibility to non-IACS CSs
+of IACS' resolutions and technical background information relating to these
+resolutions.
+
+(3) The International Association of Classification Societies is an unincorporated
+association established in the United Kingdom. It was formed in September 19682 by
+the world’s seven largest classification societies, with the aim of combining technical
+knowledge and experience and it currently has ten members3 and one associate
+
+1 OJ L 1, 4.1.2003, p.1.
+2 IACS was formed shortly after the 120 000 ton oil super tanker Torrey Canyon sank off the South coast
+of England in March 1967. The ship’s poor design was a major contributing factor to this disaster.
+3 Current members of IACS are: American Bureau of Shipping (ABS), Bureau Veritas (BV), China
+Classification Society (CCS), Det Norske Veritas (DNV), Germanischer Lloyd (GL), Korean Register of
+2
+
+member4. According to their own claim, more than 90% of the world's cargo
+carrying tonnage is covered by the classification design, construction and throughlife compliance rules and standards set by the ten members and one associate
+member of IACS5. The IACS members carry out the vast majority of this work
+themselves [*]. The International Association of Classification Societies has had a
+consultative status with the International Maritime Organisation (hereinafter "IMO")
+since 1969, and has had a permanent representative within IMO since 1976.
+
+(4) The International Association of Classification Societies Limited is a company
+limited by guarantees, established in 1992 in the United Kingdom by the members of
+the International Association of Classification Societies. Its sole purpose is to
+provide permanent secretarial services to the Association. It currently employs 15
+people, and rents offices in the United Kingdom (London and Southampton) and in
+Belgium (Brussels).
+
+2. PROCEDURAL STEPS
+
+(5) The investigation was based on the inspection at the premises of IACS and some
+CSs on 29 and 30 January 2008 and on fact-finding through requests for information
+pursuant to Article 18 of Council Regulation (EC) No 1/2003 16 December 2002 on
+the implementation of the rules on competition laid down in Articles 81 and 82 of the
+Treaty (hereinafter referred to as "Regulation (EC) No 1/2003") in the course of
+2007-2009.
+
+(6) On 12 May 2009, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003 and adopted a preliminary
+assessment as referred to in Article 9(1) of Regulation (EC) No 1/2003 which set
+out the Commission’s competition concerns regarding IACS' decisions: (i) on the
+criteria and procedures ruling membership of IACS and the suspension or
+withdrawal of membership, and on the way that those criteria and procedures were
+applied, and (ii) on the elaboration and accessibility to non-IACS CSs of IACS'
+resolutions and technical background information relating to those resolutions. The
+preliminary assessment was notified to IACS by letter of 12 May 2009.
+
+(7) On 28 May 2009, IACS replied that it disagreed with the preliminary assessment but
+nevertheless unconditionally submitted an offer of commitments ("the
+Commitments") to the Commission in response to the preliminary assessment6.
+
+(8) On 10 June 2009, a notice was published in the Official Journal of the European
+Union7 pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the
+
+Shipping (KR), Lloyd's Register of Shipping (LR), Nippon Kaiji Kyokai (NK), Registro Italiano Navale
+(RINA), Russian Maritime Register of Shipping (RS).
+4 Indian Register of Shipping (IRS).
+5 IACS' website: www.iacs.org.uk/explained/default.asp x.
+* Parts of this sentence have been edited to ensure that confidential information is not disclosed; those
+parts are enclosed in square brackets and marked with an asterisk.
+6 The offer of Commitments was adopted unanimously by the Council of the International Association of
+Classification Societies (in which all ten members of that association are represented) and by the Board of
+Directors of International Association of Classification Societies Limited.
+7 OJ C 131, 10.6.2009, p.20.
+3
+
+case and the Commitments and inviting interested third parties to give their
+observations on the Commitments within one month following publication.
+
+(9) On 16 July 2009, the Commission informed IACS of the observations received from
+interested third parties following the publication of the notice pursuant to Article
+27(4) of Regulation (EC) No 1/2003.
+
+3. PRELIMINARY ASSESSMENT
+
+3.1. Relevant markets
+
+3.1.1. Product market
+
+(10) According to the preliminary assessment, the product market is considered to be the
+market for classification services for merchant ships. In this respect, classification
+services of CSs consist of two closely related sub-segments8:
+
+(a) Classification work: this is the traditional domain of CSs. It encompasses (i)
+the production of technical standards (commonly known as 'rules and
+procedures'9) for ship construction, equipment, maintenance and inspection; (ii)
+the verification of plans and the supervision of the ship construction against
+these rules and procedures; and (iii) the inspection and certification of ships
+against these rules once in service (thus issuing the so-called 'class
+certificates').
+
+(b) Statutory work: flag States can delegate to CSs, separately, for each ship
+flying their flag, the task of (i) carrying out the surveys of ships provided for in
+the IMO maritime safety conventions in order to verify compliance with the
+technical requirements contained in the IMO maritime safety conventions
+(statutory requirements); and (ii) issuing the international certificates on their
+behalf which attest compliance of the ships with these requirements.
+
+3.1.2. Geographic market
+
+(11) According to the preliminary assessment, the market for classification services is
+considered to be worldwide. The relevant geographic market for both sub-segments
+is also considered to be worldwide. This conclusion is based on the close links
+between the two sub-segments and the fact that these services are provided by the
+same providers (the CSs) in most countries of the world, under similar conditions
+and subject to similar competitive constraints and cover a merchant ship fleet which
+also operates worldwide.
+
+8 In practice, both classification work and statutory work are interrelated as (a) classification rules must
+respect and incorporate statutory requirements and (b) the inspection practice in both work areas is closely
+interlinked.
+9 The term “rules and regulations” comes from Council Directive No 94/57/EC of 22 November 1994 on
+common rules and standards for ship inspection and survey organizations and for the relevant activities of
+maritime administrations (OJ L 319, 12.12.1994, p. 20) which was repealed with effect on 17 June 2009.
+In Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on
+common rules and standards for ship inspection and survey organisations (OJ L 131, 28.5.2009, p. 11) the
+term has become “rules and procedures”.
+4
+
+3.2. Position of the parties on the relevant market
+
+(12) In its preliminary assessment, the Commission took the preliminary view that the ten
+members of IACS have a strong position on the ship classification market. The
+preliminary assessment was based on, amongst other factors, the high combined
+market shares of the ten members of IACS10, and the view that CSs which are not
+members of IACS may face significant competitive disadvantages preventing them
+from competing effectively with IACS members:
+
+(a) Many flag States do not allow CSs which are not IACS members to perform
+statutory surveys on their behalf. This means that non-IACS CSs are excluded
+from a significant part of the market of the classification services (namely,
+statutory work, and in practice as a result of this also classification work, for
+ships flying the flag of these countries11).
+
+(b) An indirect consequence of this is that a ship that is classed with a non-IACS
+CS will be more difficult to re-sell. This is because the potential buyers will
+only be able to register this ship in a limited number of flag States unless they
+decide to change class to an IACS member – which is a costly and particularly
+cumbersome procedure. This gives ship owners an incentive to have their ships
+classed by an IACS member.
+
+(c) Many ports do not permit entry of ships which are not classified by an IACS
+member. This decreases the operational value of such ships and therefore, a
+potential customer of classification services (that is, the ship-owner) has less
+incentive to have its ships classified by a non-IACS CS.
+
+(d) Some international associations of ship-owners and ship-builders require that
+their members have their ships classified by IACS members as a condition of
+membership.
+
+(e) Under the Institute Classification Clause12, ships classified by an IACS member
+(or associate member) benefit from the standard insurance and marine rates for
+the cargo they carry whereas ships classed by CSs which are not members of
+IACS cannot benefit from this clause and would therefore have to negotiate
+
+10 Source: IACS website, http://www.iacs.org.uk.
+11 Chapter II-1/3-1 of the International Convention on the Safety of Life at Sea (SOLAS) states that "In
+addition to the requirements contained elsewhere in the present regulations, ships shall be designed,
+constructed and maintained in compliance with the structural, mechanical and electrical
+requirements of a classification society which is recognized by the Administration in accordance with
+the provisions of Regulation XI/1, or with applicable national standards of the Administration which
+provide an equivalent level of safety."
+12 Art 1 of the Institute Classification Clause of 01/01/2001: "This insurance and the marine transit
+rates as agreed in the policy or open cover apply only to cargoes and/or interests carried by
+mechanically self-propelled vessels of steel construction classed with a Classification Society which
+is:
+1.1 a Member or Associate Member of the International Association of Classification Societies
+(IACS), or;
+1.2 a National Flag Society as defined in Clause 4 below, but only where the vessel is engaged
+exclusively in the coastal trading of that nation (including trading on an inter-island route
+within an archipelago of which that nation forms part).
+Cargoes and/or interests carried by vessels not classed as above must be notified promptly to
+underwriters for rates and conditions to be agreed".
+5
+
+the insurance and marine rates for their cargo. Given such uncertainty, a
+potential customer of classification services (that is, the ship-owner) has less
+incentive to have its ships classified by a CS which is not a member or an
+associate member of IACS.
+
+(f) Many Protection and Indemnity clubs (hereinafter referred to as "P&I
+clubs")13 are hesitant to insure ships not classified by an IACS member and
+they either do not normally accept such ships14 or require special conditions of
+entry15. This increases the cost of insurance for third party liabilities and
+expenses for ships not classified by an IACS member and hence the operating
+costs of such a ship.
+
+(g) IACS, as the only international body representing CSs, has a consultative
+status within IMO. IACS is the only actor from the ship classification industry
+that has a consultative status at the IMO and, as such, a permanent
+representative within IMO. Non-IACS CSs cannot take part in the formulation
+of the proposals of IMO measures or in their defence; therefore their views and
+interests cannot as easily be taken into account.
+
+(h) Non-IACS CSs are excluded from IACS' technical work. Within IACS, IACS'
+members alone decide upon adoption of IACS rules and procedures - which
+are, in practice, de facto industry standards.
+
+(i) Non-IACS CSs are excluded from full knowledge and use of IACS' technical
+standards (namely, IACS' resolutions). In particular, IACS prevents non-IACS
+CSs from having access to the technical background information relating to
+these standards16.
+
+3.3. Practices raising concerns
+
+(13) In its preliminary assessment, the Commission took the preliminary view that there
+may have been a restriction of competition on the relevant market of ship
+classification services as a result of IACS' decisions on (i) the criteria and
+procedures ruling membership of IACS and the suspension or withdrawal of
+membership, and on the way that these criteria and procedures were applied, and (ii)
+the elaboration and accessibility to non-IACS CSs of IACS' resolutions and technical
+background information relating to these resolutions. Given the Commission's
+preliminary view that the ten members of IACS have a strong position on the market
+
+13 The P&I clubs are associations of ship-owners who band together for the purpose of providing
+insurance cover on the various aspects of shipping operations. In general, P&I clubs cover third party
+liabilities and expenses arising from owning ships or operating ships as principals. P&I clubs provide
+collective se
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+e public interest in
+maritime safety.
+
+13.2 In making an interim order the Chairman or Case Panel, as the case may be, shall take
+into account all relevant considerations, including the urgency of the matter, the effect on
+the person seeking the order if the order is not made, and in any case the effect on
+maritime safety or on any other aspect of the public interest of making or not making the
+order sought.
+
+13.3 An application for any interim order must be made as soon as possible by making a
+written request to the Case Panel.
+
+13.4 Rule 13.3 above applies to any application for an interim order even if a Notice of Appeal
+has not been lodged. In that event, the applicant must undertake to lodge a Notice of
+Appeal within the time limit.
+
+13.5 The written request must set out all the considerations relied on in support of the request
+for a suspension of the Council’s decision.
+
+13.6 The Chairman, or the Case Panel as the case may be, shall give the other party the
+opportunity to be heard before ruling on the request for an interim order, unless the
+urgency of the matter otherwise requires. In the latter event the Chairman or Case Panel
+may make a temporary order until both parties can be heard.
+
+13.7 The Chairman or the Case Panel, as the case may be, may at any time discharge an
+interim order after receiving submissions from the parties.
+
+14. Service
+
+14.1 Documents served on the Appeal Board or any party may be served by hand, post, fax or
+electronic means. Within one week of the lodging of a Notice of Appeal, Response,
+Reply, request for interim relief or response thereto, a signed original of the document in
+question shall be lodged with the Appeal Board.
+
+15. General
+
+15.1 Subject to the foregoing, the Appeal Board may regulate its own procedure.
+
+**********
+
+145642
+
+Annex 6
+
+IACS PROCEDURE
+PARTICIPATION IN IACS' TECHNICAL WORK AND ACCESS TO IACS RESOLUTIONS AND
+TECHNICAL BACKGROUND DOCUMENTS.
+
+This document sets out the procedure for participation by non-IACS CSs in IACS' technical work
+and for access by non-IACS CSs to IACS' Resolutions and Technical Background (TB)
+documents.
+
+All terms in this document shall have the meaning given to them in the document with the title
+"Commitments Offered to the European Commission under Article 9 of Council Regulation (EC)
+No 1/2003", unless otherwise stated.
+
+1. PROCEDURES FOR PARTICIPATION BY NON-IACS CSS IN IACS' TECHNICAL WORK
+
+1.1 IACS shall provide non-IACS CSs with the opportunity to participate fully in IACS'
+technical work, as described below.
+
+Participation in the IACS TC Forum
+
+1.2 IACS shall maintain a subscription-based online Technical Contributions Forum (“IACS
+TC Forum”) on IACS' website providing CSs with a platform for publication of comments
+and discussion with other CSs (including both IACS Members and non-IACS CSs)
+relating to IACS' technical work programmes. The subscription shall be set to recover the
+reasonable costs of establishing and maintaining the IACS TC Forum only. The IACS TC
+Forum shall show all technical work items leading to new technical IACS Resolutions and,
+as soon as they become available, the initial draft related to those technical work items.
+
+1.3 IACS shall publicise on its website the existence of this platform and the requirements for
+being granted access (i.e. the requirements for qualifying as a CS).
+
+1.4 All subscribing CSs shall be informed by way of electronic notifications about any new
+work item or new draft of IACS Resolutions posted on the IACS TC Forum.
+
+1.5 Any CS that subscribes to the IACS TC Forum has the right to comment on and discuss,
+through its own employees, the individual technical work programme items and to upload
+its own proposals on them.
+
+1.6 The procedure for subscribing to the IACS TC Forum shall be as follows:
+
+(a) A request to subscribe to the IACS TC Forum shall be made by the interested
+party to the IACS Permanent Secretary by submitting documentation evidencing
+that the interested party is a CS. The IACS Permanent Secretary shall promptly
+review the documentation and make a recommendation on the application to
+Council for decision.
+
+(b) Subject only to Council being satisfied that the interested party is a CS, GPG shall
+make all necessary arrangements and provide the relevant CS with all relevant
+information to provide it with full access to the IACS TC Forum.
+
+(c) An interested party which has applied for but has been refused access to the
+IACS TC Forum on the basis that it is not a CS shall be entitled to appeal this
+decision to the Independent Appeal Board in accordance with the Appeal Board
+Rules of Procedures.
+
+145643
+
+- 2 -
+
+Participation in IACS WGs
+
+1.7 Any non-IACS CS which is registered on the IACS TC Forum can at its option participate
+with its own employees in IACS WGs in accordance with the following procedure:
+
+(a) Within 1 month of publication of a new technical work item on the IACS TC Forum,
+any non-IACS CS which wishes to participate in the work relating to that item may
+notify the IACS Permanent Secretary of its request to be granted full access to the
+relevant discussions of the WG in charge of that work item;
+
+(b) The IACS Permanent Secretary shall promptly inform the relevant WG Chairman
+of any such request for participation, who shall make all necessary arrangements
+and provide the relevant non-IACS CS with all relevant information to allow the
+non-IACS CS full access to the work of the WG;
+
+(c) A non-IACS CS which participates in a WG shall have full access to the same
+information, the same opportunities to state its views and to contribute to the
+discussions within the WG as any IACS Member in that WG on a nondiscriminatory basis;
+
+(d) A non-IACS CS which has made a request for participation in accordance with
+paragraph 1.7(a) but considers that it has been denied the effective exercise of
+the specific rights particularised in paragraphs 1.7(b) and (c) shall promptly raise
+the matter with the relevant IACS WG Chairman with a view to finding an
+agreeable solution:
+
+(i) If not resolved at the WG level to the satisfaction of the non-IACS CS
+within 14 days of the grievance having arisen, the non-IACS CS shall,
+within 14 days of the determination at WG level, be entitled to refer the
+matter to the Chair of the IACS GPG for a decision. The reference shall be
+made in writing, shall be copied to the IACS WG Chairman and all WG
+members and shall, among other things, specify the specific nature of the
+alleged complaint; the precise nature of the redress sought; and details
+concerning the attempts made to resolve the matter at the WG level. The
+Chair of the IACS GPG shall decide the matter by way of a written and
+reasoned decision within 14 days.
+
+(ii) The relevant non-IACS CS shall be entitled to appeal the decision of the
+Chair of the IACS GPG to the Chairman of the Independent Appeal Board
+in accordance with the Appeal Board Rules of Procedures.
+
+(e) The WG Chairman shall summarise all views expressed by the WG participants in
+the technical recommendation that the IACS Members within the WG may resolve
+to put to GPG/Council for adoption by IACS;
+
+(f) All IACS Members and non-IACS CSs which participate in a WG shall bear their
+own costs of their employees’ participation in the WG and shall make a
+reasonable and proportionate contribution to the running expenses of the WG.
+
+2. PROCEDURES FOR ACCESS BY NON-IACS CSS TO IACS RESOLUTIONS AND TB DOCUMENTS.
+
+2.1 IACS shall place in the public domain, at the same time and in the same way as they are
+made available to IACS Members, all current and future versions of IACS Resolutions, as
+well as a history file containing the main points of discussion and any TB document.
+
+145643
+
+- 3 -
+
+2.2 IACS’ website shall include a statement that non-IACS CSs are free to use such material,
+royalty free and without licence, by embedding it in their own classification rules,
+notwithstanding any intellectual property rights that may be held by IACS Members.
+
+2.3 IACS shall place no restriction on their individual freedom to enter into any agreement
+with any CS in relation to the provision of further information or assistance with regard to
+the application of IACS Resolutions.
+
+2.4 A decision (whether explicit or implicit) not to publish an IACS Resolution or existing
+Technical Background document available to IACS Members shall be appealable to the
+Independent Appeal Board.
+
+2.5 The Procedure at paragraph 2.2 above is based on the premise that, where a CS decides
+to embed IACS Resolutions into its own published rules, it shall be the responsibility of
+that CS to verify the contents and the application of the IACS Resolutions. IACS, IACS
+Members and IACS Ltd shall not be taken to have made any representation that any CS
+using IACS Resolutions, pursuant to this paragraph 2.5 or otherwise, is operating in
+compliance with IACS Resolutions and they accept no liability (in contract, tort or
+otherwise) for any defect or deficiency in IACS Resolutions, or the related information, or
+for any resulting damage.
+
+2.6 IACS shall release to the public, free of charge, a CSR Tracking Database to provide
+users with a searchable database on CSR revision history with supporting materials.
+IACS shall ensure that all relevant industry associations representing ship-owning,
+shipbuilding, cargo and insurer interests and non-IACS CSs are invited and able to
+register their users with the Permanent Secretariat, who shall then issue user log-in IDs
+so that they may access the CSR Tracking Database.
+
+3. ADOPTION OF COUNCIL DECISIONS
+
+3.1 For the avoidance of doubt, the Council decisions referred to in paragraphs 1.6 and 2.4
+(where Council makes an explicit decision) of this Procedure shall be adopted as follows:
+when three-quarters of all Council members entitled to vote are available they shall
+constitute a quorum to vote upon a decision, and that decision shall not be passed unless
+three-quarters of all Council members entitled to vote vote in its favour.
+
+******
+
+145643

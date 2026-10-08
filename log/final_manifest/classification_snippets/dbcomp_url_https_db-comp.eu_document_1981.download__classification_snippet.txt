@@ -1,0 +1,263 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Brussels, 13.12.2011 C(2011) 9245 final
+
+# COMMISSION DECISION
+
+of 13.12.2011
+
+addressed to:
+
+# INTERNATIONAL BUSINESS MACHINES CORPORATION relating to proceedings under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+
+Case COMP/C-3/39692-IBM Maintenance Services
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+Parts of this text have been edited to ensure that business secrets and other confidential information are not disclosed. Those parts are enclosed in square brackets with an asterisk [\*].
+
+## TABLE OF CONTENTS
+
+1. Subject Matter
+2. The Parties.
+3. Procedural steps under Regulation (EC) No 1/2003
+4. Preliminary Assessment.
+4.1. The products and service concerned ..
+4.1.1. Mainframe computers 5
+4.1.2. Mainframe maintenance services. 6
+4.1.3. Inputs required to provide maintenance services for IBM mainframes
+4.2. Relevant markets. 8
+4.2.1. Product market 8
+4.2.2. Geographic market 9
+4.3. Dominance 9
+4.4. Practices raising concerns 10
+4.5. Effect on trade between Member States. 12
+5. Proposed Commitments .. 12
+6. The Commission Notice pursuant to Article 27(4) of Regulation (EC) No 1/2003 .. 13
+6.1. Reponses from interested third parties and Revised Commitments.. .14
+6.2. Conclusions .. 17
+7. Proportionality of the Revised commitments. 17
+8. Conclusion. 18
+ANNEX 20
+
+# COMMISSION DECISION
+
+of 13 December 2011
+
+addressed to:
+
+# INTERNATIONAL BUSINESS MACHINES CORPORATION relating to proceedings under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+
+# Case COMP/C-3/39692-IBM Maintenance Services
+
+(Text with EEA relevance)
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, in particular Article 9(1) thereof,
+
+Having regard to the Commission Decision of 23 July 2010 to initiate proceedings in this case,
+
+Having expressed concerns in the Preliminary Assessment of 1 August 2011,
+
+Having given interested third parties the opportunity to submit their observations pursuant to Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those concerns,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the Hearing Officer in this case2,
+
+## 1. SUBJECT MATTER
+
+(1) This decision is addressed to International Business Machines Corporation ("IBM"). It pertains to IBM's conduct relating to the maintenance of its mainframe hardware and operating system software products3.
+
+(2) In a Preliminary Assessment of 1 August 2011, the Commission formally expressed preliminary concerns that IBM may have refused to grant adequate access to certain inputs required to provide maintenance services for IBM's mainframe hardware and operating system software, in breach of Article 102 of the Treaty, in particular, Article 102, paragraph (b), and Article 54 of the Agreement on the European Economic Area (the "EEA Agreement")4.
+
+## 2. THE PARTIES
+
+(3) IBM is a multinational computer, technology and services corporation head-quartered in Armonk, North Castle, New York, United States of America (the "United States"). It manufactures and sells computer hardware and software, and offers, inter alia, outsourcing services, system integration services, hosting services, and consulting services. In 2010, IBM's turnover was USD 99.87 billion5 (EUR 75.33 billion6) and its net income was USD 14.83 billion world-wide' (EUR 11.18 billion). In 2009, IBM's revenues from its mainframe business were USD [\*] billion° (EUR [\*] billion) worldwide and USD [\*] billion (EUR [\*] billion) in the European Economic Area ("EEA"). In 2009 its estimated net turnover related to the maintenance services for IBM System z mainframes was USD [\*] billion10 (EUR [\*] billion) world-wide and USD [\*] billion" (EUR [\*] billion) in the EEA.
+
+(4) Third-party maintainers ("TPMs") are companies not affiliated with or authorised by IBM which offer maintenance services for IBM mainframes and other third-party servers. According to IBM, the following TPMs are active in the maintenance of IBM mainframes in the EEA: ECS Group12, Azamour Solutions, Techno-Group, Olympic Support CST and COS3. IBM estimates that, depending on the country/region and the period concerned, it earns between 70-95% of the potential revenue that could be earned from maintenance services for IBM System z mainframes14. Thus, revenue shares of TPMs taken all together are modest compared to IBM's share
+
+## 3. PROCEDURAL STEPS UNDER REGULATION (EC) NO 1/2003
+
+(5) On 23 July 2010, following information received from a TPM regarding IBM's conduct relating to the maintenance services of its mainframe hardware and software products, the Commission opened proceedings with a view to adopting a decision under Chapter III of Regulation (EC) No 1/2003.
+
+(6) On 1 August 2011, the Commission adopted a Preliminary Assessment as referred to in Article 9(1) of Regulation (EC) No 1/2003 which set out the Commission's preliminary competition concerns. The Commission preliminarily concluded that IBM may have refused to grant access to certain inputs required to provide maintenance services for IBM's mainframes to TPMs. The Preliminary Assessment was notified to IBM on 2 August 2011.
+
+(7) On 14 September 2011, IBM submitted commitments to the Commission in response to the concerns expressed in the Preliminary Assessment.
+
+(8) On 20 September 2011, a notice15 was published in the Official Journal of the European Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case and the commitments and inviting interested third parties to submit their observations on the commitments within one month following the publication.
+
+(9) The Commission received seven observations from interested third parties. The Commission informed IBM of these comments. On 24 October 2011, IBM submitted an amended proposal for commitments (dated 21 October 2011).
+
+(10) On 5 December 2011, the Advisory Committee on Restrictive Practices and Dominant Positions was consulted. On 5 December 2011 the Hearing Officer issued his final report.
+
+4. PRELIMINARY ASSESSMENT
+
+4.1. The products and service concerned
+
+4.1.1. Mainframe computers
+
+(11) Mainframes are large, powerful corporate servers often used to process high volumes of information at very high speed16. IBM mainframes have been produced since 1964.
+
+JBM System z is IBM's current line of mainframes and has comprised different product families: IBM's z800, z900, z890, z990, z9, z10, and zEnterprise mainframes. IBM currently sells the z10 (EC and BC) and zEnterprise (z196 and z114) mainframes.
+
+(12) Mainframes are characterised by high reliability, availability, serviceability ("RAS") and scalability:
+
+(a) Reliability refers to the extremely low failure rates of mainframes and their ability to correct data corruption when it occurs without interrupting operations.
+
+(b) Availability refers to the time that a computer system is actually operational. Mainframes are designed to have no or minimal down-time.
+
+(c) Serviceability refers to the various methods of diagnosing faults when problems arise. Mainframes can automatically call for support when a system fault arises, thereby avoiding or limiting disruption of any service.
+
+(d) Scalability is the ability to increase capacity via expansion such as the addition of another Central Processing Unit ("CPU"). Mainframes can be adjusted to provide capacity according to the customer's requirements17.
+
+## 4.1.2. Mainframe maintenance services
+
+(13) The maintenance of mainframes, like many other servers, is particularly important. Due to their high reliability, availability and serviceability, mainframes are commonly used to run mission-critical business processes. In order to ensure business continuity, expeditious maintenance is therefore essential18.
+
+(14) Maintenance services for mainframes are offered both by IBM and by TPMs. Mainframe users can also self-maintain their IBM mainframes19. During the first year after the purchase of an IBM mainframe, maintenance services are provided by IBM under warranty. Within the EEA, the current IBM warranty scheme provides for the accessibility of spare parts 24 hours a day and 7 days a week, and targets a same-day response20. After the first year, IBM offers its customers maintenance contracts. Under an IBM maintenance contract, customers pay a fixed fee that covers any necessary repairs during the term of the maintenance contract, including both the cost of labour and of any spare parts needed to carry out the repairs21. Under IBM's maintenance contract, customers may also opt for an enhanced level of maintenance service, in particular in relation to the availability of spare parts and the response time.
+
+## 4.1.3. Inputs required to provide maintenance services for IBM mainframes
+
+(15) The provision of maintenance services requires, amongst other inputs, spare parts, Machine Code Updates and operating system software updates. As explained in recitals (27) and (28), IBM is the sole source of supply of certain proprietary inputs used for maintenance services of IBM mainframe hardware and operating system software. In recitals (16) and (17), the Commission first identifies the spare parts at issue and then refers to two types of relevant proprietary updates (recitals (18) and (19)).
+
+(16) First, various spare parts are necessary to provide maintenance services. Some of these spare parts, such as License Internal Code configuration control ("LICCC") parts, are vital to the functioning of IBM mainframes and may also cost significant amounts of money.
+
+(17) LICCC-enabled parts constitute such a category of spare parts. LICCC-enabled parts include, inter alia, Processor Parts, such as Processor Books, which contain processors, memory and other components. On certain mainframe models, single chip modules ("SCMs") are used instead of Processor Books22 . Other LICCC-enabled parts include Memory Cards, Escon Channel Cards and ISC Daughter Cards23. For certain LICCCenabled parts, the LICCC record must be updated upon replacement. Only IBM can provide LICCC record updates.
+
+(18) Second, companies providing maintenance services for IBM mainframes also need access to Machine Code Updates (referred to as "Engineering Changes" or "HIPER fixes"24). These updates can be important in order to resolve known defects or safety issues so as to ensure preventive hardware maintenance. In addition, TPMs need to have access to the correct level of Engineering Changes to be applied to a specific mainframe (such as the version of machine code to be installed)25. IBM communicates the release or availability of Machine Code Updates through a public database (the socalled "ECA library"). A mainframe user wishing to install a Machine Code Update can order (or authorise a TPM to order on its behalf) from IBM a System Update Level ("SUL") DVD, which contains all Machine Code Updates released by IBM for the relevant mainframe up to the date of issuance of the SUL DVD.
+
+(19) Third, in order to provide maintenance services, TPMs also need access to operating system software updates, such as Programme Temporary Fixes ("PTFs"), which are code updates designed to resolve known software problems26. IBM is the sole source of supply of these software updates for which it claims intellectual property protection.
+
+## 4.2. Relevant markets
+
+## 4.2.1. Product market
+
+(20) Different product markets may be identified in this case. There is a primary market for large corporate servers, on which IBM sells its mainframes. In addition, two relevant aftermarkets which are adjacent to the primary market for large corporate servers might also be considered. A first possible adjacent product market is the market for those inputs required for the maintenance of IBM mainframes which only IBM can supply. A second possible adjacent product market is the provision of IBM mainframe hardware and operating system software maintenance services. IBM inputs required for maintenance of IBM mainframes are a necessary input in a downstream market for maintenance services.
+
+(21) Whether the aftermarkets for IBM's inputs and maintenance services for mainframes constitute separate product markets or are part of a single market for "systems", mainly depends on the likely reaction of customers to moderate price increases in the aftermarkets27.
+
+(22) If secondary products such as spare parts or operating system software updates for different brands are incompatible or not substitutable, and a moderate increase in the aftermarket prices does not affect customers' choices in the primary market (for instance because of high switching costs, "lock-in" effects or relative unimportance of prices in secondary markets), then there could be a separate market for the primary good and brand-specific aftermarkets.
+
+(23) According to the case-law of the Court of Justice, an aftermarket consisting of the secondary products (or services) of only one brand of a primary product, such as IBM mainframes, would appear to be a relevant product market if: (a) switching to secondary products of other producers is not possible; and (b) there are high switching costs in the market for the primary product2°. According to the Commission's Preliminary Assessment, these conditions seem to be fulfilled in this case.
+
+(24) On the basis of the initial findings of the investigation and without having reached a definitive view, the Commission concluded in the Preliminary Assessment that relevant product aftermarkets might be identified for inputs needed in order to provide maintenance services to IBM mainframes which cannot be sourced outside IBM and for hardware and operating system software maintenance services for IBM mainframes.
+
+## 4.2.2. Geographic market
+
+(25) IBM's policy regarding the supply, pricing, and the distribution of inputs is implemented across the EEA. Thus, any restrictive conduct resulting from this policy applies to the whole EEA. The Commission therefore preliminarily concluded that the geographic scope of the relevant markets for inputs should be defined as at least EEAwide29.
+
+## 4.3. Dominance
+
+(26) Without having reached a definitive view, the Commission preliminarily concluded that IBM appeared to be dominant within the meaning of Article 102 of the Treaty in a market for certain inputs required for the maintenance of IBM mainframe hardware and operating system software, as IBM is the exclusive supplier of inputs which are required for maintenance services.
+
+(27) In particular, as the manufacturer of IBM mainframes hardware and operating systems, IBM is the only sup
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ervices. In particular, one respondent argued that the Commitments do not provide for the expeditious access for TPMs to PTFs (see recital (19)).
+
+(63) IBM already clarified in its response to the Preliminary Assessment that it makes such PTFs available to operating system licensees (and to TPMs acting on their behalf) within the same approximate timeframe as they are made available to IBM's own maintenance organisation53. In particular, PTFs are immediately accessible by logging onto the so-called Shopz database. This database is available to all System z operating system licensees in the same way (based on the licensee's customer number), regardless of whether they are self-maintainers or make use of TPMs. IBM further confirmed that TPMs acting on an operating system licensee's behalf have direct on-line access to IBM's proprietary PTFs in the same way as operating system licensees. With the licensee's IBM log-in details (namely, the licensee's IBM customer number and its IBM ID/Password), TPMs can directly access PTFs through the Shopz database for the benefit of such licensee or, if the licensee has subscribed to it, through a paid service (IBM ServiceLink)34.
+
+(64) Second, the following comments were received concerning the standard contract clauses annexed to the Commitments.
+
+(65) One respondent suggested that IBM's right to require written confirmation from TPMs that the TPM is authorized by the rightful possessor to repair the specific mainframe for which the part is being requested and that such part will be used by the TPM to repair that mainframe, should be assessed on an objective basis. In the Revised Commitments, IBM adapted the wording of the relevant standard contract clause in line with the comments received such that written confirmations would only be required if there was an "objective" reason to doubt the accuracy of the information provided in connection with an order or if the order otherwise appears abnormal.
+
+(66) The justification for IBM's right to audit TPMs was called into question by one respondent, particularly since, under the standard contract clauses annexed to the Commitments, TPMs are already required to provide detailed information in the standing order forms.
+
+(67) IBM confirmed that it only audits TPMs after they have obtained the relevant part or update in question55.
+
+(68) The necessity for TPMs to obtain signed, written authorisation in hard copy form from an authorised representative of their client to order and use License Internal Codes ("LIC") was also questioned by one respondent.
+
+(69) IBM clarified that it does not insist on receiving a signed, written authorisation in hard copy from the Machine Code Licensee at the time of the TPM's order. This might, however be required for subsequent auditing purposes56.
+
+(70) With respect to recitals (65) to (69) above, the Commission considers that IBM's right to audit TPMs and a TPM's obligation to obtain a written authorisation from their clients to order and use LIC have no impact on the time-frame within which IBM provides the input and therefore do not undermine the effectiveness of the Revised Commitments.
+
+(71) Third, most respondents contend that the fixed prices unilaterally proposed by IBM for two specific Processor Parts were not reasonable. In light of these comments, IBM deleted in the Revised Commitments references to: (i) the fixed prices for Processor Parts and (ii) the obligation to maintain the same prices for LICCCenabled parts for both TPMs and self-maintaining customers.
+
+(72) A number of other comments have also been received concerning the pricing and discount policy applied by IBM to its mainframe customers. The Commission considers that these objections go beyond the competition concerns identified in the Preliminary Assessment which only relate to a possible constructive refusal to supply and not to IBM's pricing policy as such.
+
+(73) Whilst the Commission for the purposes of the Preliminary Assessment and this Decision did not assess the general reasonableness or fairness of IBM's prices for LICCC-enabled parts and Machine Code Updates, the Commission recalls that IBM commits to maintain the expeditious availability of these inputs to TPMs under commercially reasonable and non-discriminatory terms and conditions for repair purposes and not to circumvent or attempt to circumvent this commitment.
+
+(74) IBM has itself confirmed that it will not use pricing to circumvent the Revised Commitments57. Certainly, pricing of the relevant inputs by IBM at levels which would amount to a constructive refusal to supply would constitute a circumvention of the Revised Commitments.
+
+## 6.2. Conclusions
+
+(75) Overall, the observations received did not lead the Commission to identify any new competition concerns and contained no points such as to make the Commission reconsider the concerns it expressed in the Preliminary Assessment.
+
+(76) In view of the results of the market test, the Commission considers that, the Revised Commitments, together with the clarifications provided by IBM concerning the supply conditions of PTFs and LICCC records, are sufficient to meet the competition concerns expressed in the Preliminary Assessment.
+
+## 7. PROPORTIONALITY OF THE REVISED COMMITMENTS
+
+(77) According to settled case-law, the principle of proportionality requires that the measures adopted by European institutions must be suitable and not exceed what is appropriate and necessary for attaining the objective pursued58. Where there is a choice between several appropriate measures, recourse must be had to the one that is least onerous and the disadvantages caused must not be disproportionate to the aims pursued. For the assessment of the proportionality of commitments submitted within the framework of Article 9 of Regulation (EC) No 1/2003, the Commission takes into account that the commitments are not imposed by the Commission for an established infringement under Article 7(1) of Regulation 1/2003 but are voluntarily proposed by the undertaking seeking to bring the proceedings to an end without a formal decision on the existence of an infringement39.
+
+(78) The Commission takes the view that the Revised Commitments in their final form are sufficient and necessary to address the competition concerns identified in the Preliminary Assessment without being excessive. As the competition concerns arise from the fact that IBM may have refused to grant adequate access to certain inputs required to provide maintenance services for IBM mainframes, the Commission considers that the Revised Commitments are proportionate as they address these concerns guaranteeing the expeditious availability to TPMs, under commercially reasonable and non-discriminatory terms, of relevant spare parts and technical information essential for IBM mainframe maintenance by TPMs.
+
+(79) In the Commission's preliminary view, IBM might have put TPMs active in the maintenance of IBM mainframes at a competitive disadvantage by imposing unreasonable supply conditions for certain essential inputs and with a view to limiting current and future competition in the market for IBM mainframe maintenance.
+
+(80) The fact that IBM commits to provide expeditious availability of certain inputs essential to provide maintenance services to IBM mainframes, under commercially reasonable and non-discriminatory terms and conditions, addresses these concerns in an adequate and proportionate manner.
+
+(81) The Revised Commitments will be binding on IBM for a total period of 5 years. This duration is necessary and proportionate as it takes into account the technological evolution in this industry.
+
+## 8. CONCLUSION
+
+(82) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the Commission makes commitments, offered by the undertaking concerned to meet the Commission's concerns expressed in its Preliminary Assessment, binding upon it. Recital (13) of the Preamble to the Regulation (EC) No 1/2003 states that such a decision should not conclude whether or not there has been or still is an infringement. The Commission's assessment of whether the commitments offered are sufficient to meet its concerns is founded on its Preliminary Assessment, representing the preliminary view of the Commission based on the underlying investigation and analysis and the observations received from third parties following the publication of a notice pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+
+(83) In the light of the commitments offered, the Commission considers that there are no longer grounds for action and, without prejudice to Article 9(2) of Regulation (EC) No 1/2003, the proceedings in this case should therefore be brought to an end.
+
+(84) The Commission retains full discretion to investigate and open proceedings under Article 102 of the Treaty as regards practices that are not the subject matter of this Decision. In particular, this Decision is without prejudice to an examination of possible abusive conduct by IBM on the market for the maintenance of IBM's mainframe hardware and software products, other than constructive refusal to supply TPMs as described herein.
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Commitments in the Annex shall be binding on International Business Machines Corporation (IBM) for a period of five years from the date of adoption of this Decision.
+
+## Article 2
+
+It is hereby concluded that there are no longer grounds for action in this case.
+
+## Article 3
+
+This Decision is addressed to:
+
+International Business Machines Corporation
+
+1 New Orchard Road,
+
+Armonk,
+
+New York 10504
+
+United States of America
+
+Done at Brussels, 13.12.2011
+
+For the Commission
+
+Joaquín ALMUNIA
+
+Vice-President
+
+![](images/bf8da68eb8bc9ae1d49af99b702f108ba9c7ccc77219696cd76d4e8b5d77be26.jpg)
+
+CERTIFIED COPY
+
+For the Secretary - Generai
+
+![](images/2f7fdf867e606ea91127c51376cab5479ad1186f6e282e6c66e4df411218718a.jpg)
+
+Jordi AYET PUIGARNAU
+
+Director of the Registry
+
+## ANNEX

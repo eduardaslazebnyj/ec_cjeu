@@ -1,0 +1,515 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT.39530 (Microsoft – Tying)
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+
+Council Regulation (EC) 1/2003
+
+Article 23(2)(c) Regulation (EC) 1/2003
+
+Date: 06/03/2013
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EN EN
+
+EUROPEAN
+COMMISSION
+
+Brussels, 6.3.2013
+C(2013) 1210 final
+
+PUBLIC VERSION
+
+COMMISSION DECISION
+
+of 6.3.2013
+
+addressed to Microsoft Corporation
+relating to a proceeding on the imposition of a fine pursuant to Article 23(2)(c) of
+Council Regulation (EC) No 1/2003 for failure to comply with a commitment made
+binding by a Commission decision pursuant to Article 9 of Council Regulation (EC) No
+1/2003
+
+Case AT.39530 – Microsoft (Tying)
+
+(Text with EEA relevance)
+
+(Only English text is authentic)
+
+EN 1 EN
+
+TABLE OF CONTENTS
+
+1. The commitment decision of 16 December 2009...................................................... 4
+
+2. Procedure................................................................................................................. 5
+
+3. Facts......................................................................................................................... 6
+
+3.1. Microsoft’s failure to display the Choice Screen to the affected users....................... 6
+
+3.2. Microsoft’s acknowledgement of the failure and its explanations as to why the failure
+occurred ................................................................................................................... 7
+
+3.3. Microsoft’s reaction after being informed about the failure to display the Choice
+Screen to the affected users ...................................................................................... 8
+
+4. Legal assessment...................................................................................................... 9
+
+4.1. Microsoft’s failure to comply with Section 2 of the Commitments ........................... 9
+
+4.2. The duration of Microsoft’s failure to comply with Section 2 of the Commitments... 9
+
+4.3. Number of users affected by Microsoft’s failure to comply with Section 2 of the
+Commitments......................................................................................................... 10
+
+5. Fines ...................................................................................................................... 10
+
+5.1. Principles ............................................................................................................... 10
+
+5.2. Negligence ............................................................................................................. 11
+
+5.3. Gravity................................................................................................................... 12
+
+5.4. Duration................................................................................................................. 13
+
+5.5. Mitigating circumstances........................................................................................ 14
+
+5.6. Deterrence.............................................................................................................. 15
+
+EN 2 EN
+
+COMMISSION DECISION
+
+of 6.3.2013
+
+addressed to Microsoft Corporation
+relating to a proceeding on the imposition of a fine pursuant to Article 23(2)(c) of
+Council Regulation (EC) No 1/2003 for failure to comply with a commitment made
+binding by a Commission decision pursuant to Article 9 of Council Regulation (EC) No
+1/2003
+
+Case AT.39530 – Microsoft (Tying)
+
+(Text with EEA relevance)
+
+(Only English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the European Economic Area,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty,1
+and in particular Article 23(2) thereof,
+
+Having regard to the Commission decision of 16 July 2012 to re-open and initiate proceedings
+in this case,
+
+Having given the undertaking concerned the opportunity to make known its views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 12 of Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty,2
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p. 1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+(“TFEU”). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of “Community” by “Union” and “common market” by
+“internal market”. Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+2 OJ L 123, 27.4.2004, p. 18.
+
+EN 3 EN
+
+1. THE COMMITMENT DECISION OF 16 DECEMBER 2009
+
+(1) On 16 December 2009, the Commission adopted a Decision relating to a proceeding
+under Article 102 of the Treaty on the Functioning of the European Union and
+Article 54 of the EEA Agreement (Case COMP/39.530 — Microsoft (Tying))
+(notified under document C(2009) 10033) (the “Commitment Decision”)3 pursuant to
+Article 9(1) of Regulation (EC) No 1/2003, which made binding the Commitments
+offered by Microsoft Corporation (“Microsoft”) to meet the Commission’s concerns,
+as set out in a Statement of Objections of 14 January 2009.
+
+(2) Article 1 of the Commitment Decision made binding the Commitments offered by
+Microsoft to address the Commission’s preliminary concerns regarding a potential
+abuse of Microsoft’s dominant position in the market for client personal computer
+(“PC”) operating systems. The Commission’s preliminary concerns related in
+particular to the tying of Microsoft’s web browser, Internet Explorer (“IE”), to its
+dominant client PC operating system, Windows.
+
+(3) In order to address the Commission’s preliminary concerns, Microsoft committed in
+particular to offer Windows users an unbiased choice among different web browsers
+by means of a Choice Screen in Windows XP, Windows Vista, Windows 7 and in
+Windows client PC operating systems sold after Windows 7.4 Microsoft committed
+to display the Choice Screen to Windows users within the European Economic Area
+(“EEA”) that have IE set as the default web browser.5
+
+(4) According to the Commitments, the Choice Screen consists of an initial page
+containing basic information about the purpose of the Choice Screen6 and a second
+page displaying the twelve most widely-used web browsers that run on Windows 7
+based on usage share in the EEA, as measured semi-annually7. The Choice Screen
+must also prominently display the final releases of the five highest ranked web
+browsers based on usage share in the EEA.8
+
+(5) For Windows 7, the Choice Screen had to be made available from 17 March 2010
+(thirteen weeks after the adoption of the Commitment Decision) and had to remain in
+place until 16 December 2014 (end of the duration of the Commitments).9
+
+(6) Microsoft also committed not to circumvent or attempt to circumvent the
+Commitments in any way.10
+
+(7) Finally, Microsoft committed to report to the Commission annually on the
+implementation of the Commitments.11
+
+3 A summary of that Decision was published in OJ C 36, 13.2.2010, p. 7.
+4 Paragraphs 7 and 9 of the Commitments.
+5 Paragraph 7 of the Commitments.
+6 Paragraph 8 of the Commitments.
+7 Paragraph 11 of the Commitments.
+8 Paragraph 13 of the Commitments.
+9 Paragraph 7 of the Commitments.
+10 Paragraph 18 of the Commitments.
+11 Paragraph 22 of the Commitments.
+
+EN 4 EN
+
+2. PROCEDURE
+
+(8) On 17 June 2012, the Commission received information from a developer of web
+browsers about an alleged irregularity with regard to the roll-out of the Choice
+Screen with Microsoft’s client PC operating system Windows 7 (“Windows 7”).
+According to this information, the Choice Screen was not being displayed to users on
+PCs within the EEA running on Windows 7 and purchased in 5 different Member
+States from well-known retailers during the last week of May 2012, even when users
+within the EEA had been using the respective PCs for several weeks.12
+
+(9) The Commission informed Microsoft about those allegations in a meeting on 22 June
+2012.
+
+(10) On 4 July 2012, Microsoft acknowledged in writing that the Choice Screen had not
+been displayed to users within the EEA of PCs sold with Windows 7 Service Pack 1
+(“Windows 7 SP 1”) pre-installed that had IE set as the default browser (“the
+affected users”).13
+
+(11) On 5 July 2012, the Commission sent a request for information to Microsoft.14
+
+(12) On 12 July 2012, Microsoft again acknowledged in writing that the Choice Screen
+had not been displayed to the affected users.15
+
+(13) On 14 July 2012, Microsoft replied to the Commission’s request for information of 5
+July 2012.16
+
+(14) On 16 July 2012, the Commission decided to re-open proceedings in the present case
+pursuant to Article 9(2) of Regulation (EC) No 1/2003 and to initiate proceedings
+pursuant to Article 11(6) of that Regulation and Article 2(1) of Commission
+Regulation (EC) No 773/2004.
+
+(15) On 28 July 2012, Microsoft informed the Commission that it had distributed the
+Choice Screen to the affected users.17
+
+(16) On 24 October 2012, the Commission adopted a Statement of Objections.18
+
+(17) Microsoft was granted access to the Commission’s file on 6 November 2012.
+
+(18) Microsoft replied to the Statement of Objections on 2 December 2012.19
+
+(19) On 22 January 2013, the Commission sent a request for information to Microsoft.20
+
+12 Submission by Google of 17 June 2012.
+13 Microsoft’s letter of 4 July 2012.
+14 Commission’s request for information of 5 July 2012.
+15 Microsoft’s letter 12 July 2012.
+16 Microsoft’s reply to the Commission’s request for information of 14 July 2012.
+17 Microsoft letter of 28 July 2012.
+18 Commission Statement of Objections of 24 October 2012.
+19 Microsoft's reply to the Statement of Objections.
+20 Commission's request for information of 22 January 2013.
+
+EN 5 EN
+
+(20) On 28 January 2013, Microsoft replied to the Commission’s request for information
+of 22 January 2013.21
+
+3. FACTS
+
+3.1. Microsoft’s failure to display the Choice Screen to the affected users
+
+(21) In late 2009, Microsoft put together a team to write the software to implement the
+Choice Screen.22 The team created a “detection logic” programming code, that is to
+say a code that enabled the Windows Update servers to identify users that should
+receive the Choice Screen Update within the EEA. The team also created an
+executable software code (“exe”) that was meant to display the Choice Screen on the
+relevant PCs within the EEA.23
+
+(22) Microsoft began distributing the Choice Screen on 23 February 2010.24 As part of the
+Choice Screen implementation, certain electronically stored reminders were created
+for Windows engineers, informing them of the need to update the relevant
+programming code when Service Packs and Updates to Windows 7 (such as
+Windows 7 SP 1) were to be released.25
+
+(23) On 22 February 2011, Microsoft released Windows 7 SP 1.26 A service pack is, for
+the most part, a collection of bug fixes and other updates to a particular version of
+Windows.27 The bug fixes and other updates are rolled into one package and sent out
+to existing computers running that particular version of Windows. The service pack
+is also distributed to computer manufacturers (“Original Equipment Manufacturers”
+or “OEMs”)28 which can choose to pre-install Windows 7 SP 1 on PCs they sell to
+retailers. PCs within the EEA on which OEMs had pre-installed Windows 7 SP 1
+started reaching consumers approximately 4 to 12 weeks after the release of
+Windows 7 SP 1 on 22 February 2011.29
+
+(24) The detection logic code for the Choice Screen Update should have been updated in
+February 2011 to ensure that the Choice Screen was displayed to all users within the
+EEA of Windows 7 SP 1 that had IE set as their default browser. However, despite
+the reminders referred to in paragraph (22), this was not done.30
+
+(25) Microsoft sent regular reports to the Commission on the implementation of the
+Commitments, as required by paragraph 22 of the Commitments. The report of 16
+December 201131 stated: “as previously reported, Microsoft completed distribution
+of the browser choice Windows Update to the Windows installed base on 15 May
+
+21 Microsoft ́s reply to the request for information of 28 January 2013.
+22 Microsoft’s report on the implementation of the Commitment Decision of 18 June 2010, p. 1; see also
+Corrected Report by Dechert LLP, p. 6 and 7.
+23 Microsoft’s letter of 12 July 2012, p. 2; Microsoft’s reply to the Statement of Objections, p. 6.
+24 Microsoft’s letter of 12 July 2012, p. 2.
+25 Microsoft’s letter of 12 July 2012, p. 2; see also Corrected Report by Dechert LLP, p. 2.
+26 Microsoft’s letter of 12 July 2012, p. 2.
+27 Microsoft’s letter of 12 July 2012, p. 2.
+28 Microsoft’s letter of 12 July 2012, p. 2.
+29 Microsoft’s letter of 12 July 2012, p. 5.
+30 Microsoft’s letter of 12 July 2012, p. 2.
+31 Microsoft’s report on the implementation of the Commitment Decision of 16 December 2011.
+
+EN 6 EN
+
+2010. Microsoft continues to deliver the update to new PCs or those that were not
+previously in use.”32 Nowhere in the report was it indicated that the Choice Screen
+had not, or may not have, been displayed to certain users within the EEA of
+Windows 7 SP that had IE set as their default browser.
+
+3.2. Microsoft’s acknowledgement of the failure and its explanations as to why the
+failure occurred
+
+(26) In its letters of 4 and 12 July 2012 and in its reply to the Statement of Objections33
+Microsoft acknowledged that the Choice Screen had not been displayed to the
+affected users. Microsoft acknowledged in particular that “[...] the Choice Screen
+was not being delivered to computers running Windows 7 Service Pack 1”.34
+Microsoft stated: “There is no ambiguity in the relevant Commitment language.
+There is no question as to how to apply that language to the facts. There is no
+important matter of principle at stake. There is, rather, a clear obligation, fully
+understood by all the relevant people at Microsoft through the entire chain of
+management, and an error in executing on our obligation [...]. Due to our error, th
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+nd 103 of the Commitment Decision.
+73 Recital 104 of the Commitment Decision.
+74 Microsoft’s reply to the Statement of Objections, p. 4.
+75 Microsoft’s reply to the Statement of Objections, p. 11 to 14.
+76 See by analogy Case T-332/09 Electrabel v Commission, judgment of 12 December 2012, paragraph
+247.
+
+EN 13 EN
+
+5.5. Mitigating circumstances
+
+(66) Microsoft has acknowledged in writing its failure to comply with Section 2 of the
+Commitments immediately after the Commission made it aware of the fact that the
+Choice Screen was not being rolled out properly. Microsoft’s prompt admission and
+description of the circumstances of the failure to comply has allowed the
+Commission to investigate the matter efficiently. Moreover, Microsoft has deployed
+resources to conduct a thorough investigation as to the reasons for the failure to
+comply with Section 2 of the Commitments (see paragraph (34)) and it has
+cooperated with the Commission by providing, in a timely manner, the relevant
+information relating to its failure to comply with Section 2 of the Commitments. The
+Commission takes these elements into account as a mitigating circumstance.
+
+(67) Microsoft has argued that the Commission should take into account a number of
+additional elements as mitigating circumstances.
+
+(68) First, Microsoft claims that the Commission should take into account the fact that its
+failure to comply was the result of negligence.
+
+(69) The Commission considers that the fact that a failure to comply has been committed
+negligently does not, in competition law terms, render that failure to comply less
+serious.77 Moreover, Microsoft’s conduct does not constitute an excusable error,78 in
+view of: (i) its significant resources; (ii) its extensive technical experience with the
+development, distribution and maintenance of software products and operating
+systems for PCs; (iii) its considerable competition law expertise; (iv) the fact that it
+ought to have been aware that its failure to display the Choice Screen to the affected
+users would constitute a breach of Section 2 of the Commitments; and (v) its
+reporting obligations on compliance with the Commitments.
+
+(70) Second, Microsoft argues that the Commission should take into account its quick
+identification and remedying of the error leading to the failure to comply with
+Section 2 of the Commitments.79
+
+(71) The Commission considers that, in line with the case-law, such a factor can lead to a
+reduction only in altogether exceptional circumstances.80 In the case at hand, such
+exceptional circumstances are not present. Microsoft was under an obligation to
+comply with Section 2 of the Commitments throughout the period of its failure to
+comply. After it was informed about the failure to comply with the Commitments,
+Microsoft was required to take swift action to identify and remedy the failure. The
+fact that Microsoft did so is not an exceptional circumstance but merely Microsoft’s
+obligation pursuant to Section 2 of the Commitments. If Microsoft had not acted
+swiftly to remedy its failure to comply, the Commission could have, pursuant to
+Article 24(1)(c) of Regulation (EC) No 1/2003, imposed periodic penalty payments
+on Microsoft in order to compel it to comply.
+
+77 See by analogy Case C-137/95 P SPO and Others v Commission [1996] ECR I-1611, paragraph 55;
+Case T-271/03 Deutsche Telekom AG v Commission [2008] ECR II-477, paragraph 279; Case T-332/09
+Electrabel v Commission, judgment of 12 December 2012, paragraph 237.
+78 See by analogy Case T-332/09 Electrabel v Commission, judgment of 12 December 2012, paragraphs
+275 and 281.
+79 Microsoft’s reply to the Statement of Objections, p. 17.
+80 Case T-241/01 Scandinavian Airlines System v Commission [2005] ECR II-2917, paragraph 228.
+
+EN 14 EN
+
+(72) Third, Microsoft claims that the Commission should take into account that it has
+taken a number of internal measures to avoid similar errors and failures to comply in
+the future.81
+
+(73) The Commission considers that while the internal measures taken by Microsoft in
+order to prevent any repetition after the failure to comply had come to an end are
+important, they do not alter Microsoft’s failure to comply with Section 2 of the
+Commitments in the past.82 These measures thus place no duty on the Commission to
+reduce the fine. Moreover, it is impossible to determine the effectiveness of the
+internal measures taken by Microsoft to prevent future non-compliance.83
+
+(74) Fourth, Microsoft argues that the Commission should take into account when setting
+the fine that this is the first case in which an undertaking is fined because of failure to
+comply with a commitment.84
+
+(75) In view of the clear wording of Article 23(2)(c) of Regulation (EC) No 1/2003 and of
+the Commitments themselves, as acknowledged by Microsoft (see recital 25 of this
+Decision), the Commission considers that Microsoft was aware or ought to have been
+aware of its obligations under the Commitment Decision and that failure to comply
+with the Commitments was unlawful and could give rise to a fine. The Commission
+will therefore not take into account that this is the first case in which an undertaking
+is fined because of failure to comply with a commitment.
+
+(76) Fifth, Microsoft has proposed to extend the duration of Section 2 of the
+Commitments by an additional 15 months. This, however, does not diminish the
+gravity of Microsoft’s failure to comply with Section 2 of the Commitments.
+Microsoft’s offer is only forward-looking to address a potential competition concern
+that, as a result of Microsoft’s past failure to comply with Section 2 of the
+Commitments, may not be fully addressed by the Commitments. It cannot alter the
+fact that, during the period between 17 May 2011 and 16 July 2012, Microsoft did
+not display the Choice Screen to the affected users, in breach of Section 2 of the
+Commitments.
+
+5.6. Deterrence
+
+(77) A fine for failure to comply with a commitment made binding by a decision pursuant
+to Article 9 of Regulation (EC) No 1/2003 must have a deterrent effect. Undertakings
+should not consider that it would be advantageous to breach a commitment made
+binding by a decision pursuant to Article 9 of Regulation (EC) No 1/2003. 85
+
+(78) In order to ensure that the fine has a deterrent effect, the size of the undertaking
+concerned has to be taken into account.86 The Commission therefore takes into
+account the fact that Microsoft’s turnover in the fiscal year July 2011 to June 2012,
+
+81 Microsoft’s reply to the Statement of Objections, p. 14 to 17.
+82 See by analogy Case T-15/02 BASF v Commission [2006] ECR II-497, paragraph 266.
+83 See by analogy Case T-73/04 Carbone-Lorraine v Commission [2008] ECR II-2661, paragraph 144 and
+Case T-38/07 Shell Petroleum and Others v Commission, judgment of 13 July 2011, paragraph 96.
+84 Microsoft's reply to the Statement of Objections, p. 17.
+85 See by analogy Case T-141/08 E.ON Energie AG v Commission [2010] ECR II-5761, paragraph 288.
+86 Joined cases 100 to 103/80 SA Musique Diffusion française v Commission [1983] ECR 1825, paragraph
+121; Case 322/81 Michelin v Commission [1983] ECR 3461, paragraph 111.
+
+EN 15 EN
+
+Microsoft’s last full business year, was USD 73,723 million87 (EUR 55,088
+million).88
+
+(79) In the light of all the factors set out above, the fine is set at EUR 561 000 000,
+corresponding to 1.02% of Microsoft’s turnover,
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+Microsoft Corporation has failed to comply from 17 May 2011 until 16 July 2012 with
+Commission Decision of 16 December 2009 relating to a proceeding under Article 102 of the
+Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case
+COMP/39.530 — Microsoft (Tying), notified under document C (2009) 10033).
+
+Article 2
+
+For the failure to comply referred to in Article 1, a fine of EUR 561 000 000 is imposed on
+Microsoft Corporation.
+
+The fine shall be paid in euro within three months of the date of the notification of this Decision
+to the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D'EPARGNE DE L'ETAT
+1–2, Place de Metz
+L-1930 Luxembourg
+IBAN: LU02 0019 3155 9887 1000
+BIC: BCEELULL
+Ref.: European Commission – BUFI / COMP/39.530
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where the undertaking referred to in Article 1 lodges an appeal, it shall cover the fine by the due
+date by either providing an acceptable bank guarantee or making a provisional payment of the
+fine in accordance with Article 90 of Commission Delegated Regulation (EU) No 1268/2012.
+
+87 Microsoft’s data for the US fiscal year ending June 30, 2012, source: Microsoft’s Form K 10 report to
+the SEC for the fiscal year ended June 30, 2012, available under
+http://www.microsoft.com/investor/SEC/default.aspx, p. 44, downloaded and printed on 10 August
+2012.
+88 The exchange rate used for the year July 1, 2011 – June 30, 2012 is EUR 1 = USD 1.338275. This is the
+average of the quarterly exchange rates for this period available under
+http://epp.eurostat.ec.europa.eu/portal/page/portal/exchange_rates/data/database, downloaded and
+printed on 10 August 2012.
+
+EN 16 EN
+
+Article 3
+
+Microsoft Corporation shall immediately bring to an end the failure to comply referred to in
+Article 1 in so far as it has not already done so.
+
+Microsoft Corporation shall refrain from repeating any act or conduct described in Article 1, and
+from any act or conduct having the same or equivalent object or effect.
+
+Article 4
+
+This Decision is addressed to Microsoft Corporation, One Microsoft Way, Redmond, WA
+98052-6399, USA.
+
+This Decision shall be enforceable pursuant to the first paragraph of Article 299 of the Treaty
+and Article 110 of the EEA Agreement.
+
+Done at Brussels, 6.3.2013
+
+For the Commission
+
+Joaquín ALMUNIA
+Vice-President
+
+EN 17 EN

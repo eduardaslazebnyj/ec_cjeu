@@ -1,0 +1,211 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52010XC0213(02) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52010XC0213(02)
+Help
+Print
+Summary of Commission Decision of 16 December 2009 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.530 — Microsoft (Tying)) (notified under document C(2009) 10033) (Text with EEA relevance)
+Summary of Commission Decision of 16 December 2009 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.530 — Microsoft (Tying)) (notified under document C(2009) 10033) (Text with EEA relevance)
+Summary of Commission Decision of 16 December 2009 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case COMP/39.530 — Microsoft (Tying)) (notified under document C(2009) 10033) (Text with EEA relevance)
+OJ C 36, 13.2.2010, pp. 7–8
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+13.2.2010
+EN
+Official Journal of the European Union
+C 36/7
+Summary of Commission Decision
+of 16 December 2009
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case COMP/39.530 — Microsoft (Tying))
+(notified under document C(2009) 10033)
+(Only the English text is authentic)
+(Text with EEA relevance)
+2010/C 36/06
+On 16 December 2009, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union (‘TFEU’). In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision. The decision is available on the Directorate-General for Competition’s website at the following address:
+http://ec.europa.eu/competition/antitrust/cases/
+(1)
+The case concerns Microsoft Corporation (hereafter ‘Microsoft’) and its potentially illegal tying of its web browser Internet Explorer to its dominant client PC operating system ‘Windows’.
+1.
+Preliminary competition concerns
+(2)
+In a Statement of Objections of 14 January 2009 the Commission took the preliminary view that the criteria for illegal tying were fulfilled in this case
+(
+2
+)
+:
+(i)
+Microsoft did not contest that it holds a dominant position on the client PC operating system market with its Windows operating system;
+(ii)
+the Commission provisionally considered that Internet Explorer and Windows were separate products;
+(iii)
+the Commission took the preliminary view that, before Windows 7 was released, computer manufacturers and end users could not technically and legally obtain Windows without Internet Explorer. Neither for Original Equipment Manufacturers (‘OEMs’) nor for end users was it technically possible to remove Internet Explorer from Windows, and licensing agreements prevented OEMs from selling Windows without Internet Explorer;
+(iv)
+the Commission also provisionally considered that the tying was liable to foreclose competition on the merits between web browsers.
+(3)
+The Commission took the preliminary view that Internet Explorer enjoyed a distribution advantage that other web browsers were unable to match and that there were barriers to downloading web browsers from the Internet. The Commission also preliminarily considered that, in addition to reinforcing Microsoft's position on the market for client PC operating systems, the tying of Internet Explorer to Windows created artificial incentives for web developers and software designers to optimise their products primarily for Internet Explorer.
+2.
+Commitment decision
+(4)
+Microsoft proposed commitments to address the Commission's preliminary competition concerns.
+(5)
+By decision of 16 December 2009 pursuant to Article 9(1) of Regulation (EC) No 1/2003, the Commission made these commitments binding upon Microsoft. The main commitments can be summarised as follows:
+(6)
+First, Microsoft agreed to make available a mechanism in Windows within the European Economic Area (‘EEA’) that enables OEMs and users to turn Internet Explorer off and on.
+(7)
+Second, according to the commitments proposed by Microsoft, OEMs will be free to pre-install any web browser(s) of their choice on PCs they ship and set it as default web browser. Microsoft will not circumvent the commitments by any means and shall not retaliate against OEMs for installing competing web browsers.
+(8)
+Microsoft offered to distribute a choice screen software update to users of Windows PCs within the EEA by means of Windows Update. Windows XP, Vista and 7 users who have Internet Explorer set as their default web browser (no matter how this setting came about) and who subscribed to Windows Update will be prompted with this choice screen, which will offer them a choice of web browsers, and present them with links where they can find more information about the web browsers presented on the screen.
+(9)
+The decision finds that, in view of the commitments made binding upon Microsoft, there are no longer grounds for action by the Commission. The decision shall be binding on Microsoft for a total period of five years from the date of adoption.
+(
+1
+)
+OJ L 1, 4.1.2003, p. 1
+.
+(
+2
+)
+See Case T-201/04
+Microsoft
+v
+Commission
+[2007] ECR II-3601, at paragraphs 842, 869 and 1058. See also Communication from the Commission ‘Guidance on the Commission's enforcement priorities in applying Article 82 of the EC Treaty to abusive exclusionary conduct by dominant undertakings’,
+OJ C 45, 24.2.2009
+, at paragraph 50.
+Top

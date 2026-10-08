@@ -1,0 +1,255 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52018XC0112(01) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52018XC0112(01)
+Help
+Print
+Summary of Commission decision of 27 June 2017 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39740 — Google Search (Shopping)) (notified under document number C(2017) 4444)
+Summary of Commission decision of 27 June 2017 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39740 — Google Search (Shopping)) (notified under document number C(2017) 4444)
+Summary of Commission decision of 27 June 2017 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.39740 — Google Search (Shopping)) (notified under document number C(2017) 4444)
+OJ C 9, 12.1.2018, pp. 11–14
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+12.1.2018
+EN
+Official Journal of the European Union
+C 9/11
+Summary of Commission decision
+of 27 June 2017
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement
+(Case AT.39740 — Google Search (Shopping))
+(notified under document number C(2017) 4444)
+(Only the English text is authentic)
+(2018/C 9/08)
+On 27 June 2017, the Commission adopted a decision relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA agreement. In accordance with the provisions of Article 30 of Council Regulation (EC) No 1/2003
+(
+1
+)
+,
+the Commission herewith publishes the names of the parties and the main content of the decision, including any penalties imposed, having regard to the legitimate interest of undertakings in the protection of their business secrets.
+1.
+INTRODUCTION
+(1)
+The Decision establishes that the more favourable positioning and display by Google Inc. (‘Google’), in its general search results pages, of its own comparison shopping service compared to competing comparison shopping services, infringes Article 102 TFEU and Article 54 of the EEA Agreement. The Decision orders Google and its mother company Alphabet Inc. (‘Alphabet’) to immediately bring the infringement to an end, and imposes a fine on Alphabet Inc. and Google Inc. for the abusive conduct in the period from 1 January 2008 to date.
+(2)
+On 20 June 2017 and 26 June 2017, the Advisory Committee on Restrictive Practices and Dominant Positions issued favourable opinions on the Decision pursuant to Article 7 of Regulation (EC) No 1/2003 and on the fine imposed on Alphabet and Google.
+2.
+MARKET DEFINITION AND DOMINANCE
+(3)
+The Decision concludes that the relevant product markets for the purpose of this case are the market for general search services and the market for comparison shopping services.
+(4)
+The provision of general search services constitutes a distinct product market, because (i) it constitutes an economic activity; (ii) there is limited demand-side substitutability and limited supply-side substitutability between general search services and other online services; and (iii) this conclusion does not change if general search services on static devices versus mobile devices are considered.
+(5)
+The provision of comparison shopping services constitutes a distinct relevant product market. This is because comparison shopping services are not interchangeable with the services offered by: (i) search services specialised in different subject matters (such as, for example, flights, hotels, restaurants, or news); (ii) online search advertising platforms; (iii) online retailers; (iv) merchant platforms; and (v) offline comparison shopping tools.
+(6)
+The Decision concludes that the relevant geographic markets for general search services and comparison shopping services are all national in scope.
+Google's dominant position in general search
+(7)
+The Decision concludes that since 2007, Google has held a dominant position in each national market for general search in the EEA, apart from in the Czech Republic, where Google has held a dominant position since 2011.
+(8)
+This conclusion is based on Google's market shares, the existence of barriers to expansion and entry, the infrequency of user multi-homing and the existence of brand effects and the lack of countervailing buyer power. The conclusion holds notwithstanding the fact that general search services are offered free of charge and regardless of whether general search on static devices constitutes a distinct market from general search on mobile devices.
+3.
+ABUSE OF A DOMINANT POSITION
+(9)
+The Decision concludes that Google commits an abuse in the relevant markets for general search services in the EEA by positioning and displaying more favourably, in its general search results pages, its own comparison shopping service compared to competing comparison shopping services.
+(10)
+Google's conduct is abusive because it: (i) diverts traffic away from competing comparison shopping services to Google's own comparison shopping service, in the sense that it decreases traffic from Google's general results pages to competing comparison shopping services and increases traffic from Google's general search results pages to Google's own comparison shopping service; and (ii) is capable of having, or likely to have, anti-competitive effects in the national markets for comparison shopping services and general search services.
+Google's conduct: more favourable positioning and display in its general search result pages of its own comparison shopping service
+(11)
+The Decision explains the way in which Google positions and displays more favourably, in its general search results pages, its own comparison shopping service compared to competing comparison shopping services.
+(12)
+First, it is explained how competing comparison shopping services are positioned and displayed in Google's general search results pages. In relation to their positioning, the Decision explains how certain dedicated algorithms make competing comparison shopping services prone to having their ranking reduced in Google's general search results pages and how this has affected their visibility in Google's general search results pages. In relation to their display, the Decision explains the format in which competing comparison shopping services can be displayed in Google's general search results.
+(13)
+Second, it is explained how Google's own comparison shopping service is positioned and displayed in Google's general search results pages. In relation to its positioning, the Decision explains that Google's service is positioned prominently and not subject to the dedicated algorithms that make competing comparison shopping services prone to having their ranking reduced in Google's general search pages. In relation to its display, the Decision explains that Google's own comparison shopping service is displayed with enhanced features at or near the top of the first general search page, while such features are inaccessible to its rivals.
+Google's more favourable positioning and display of its own comparison shopping service diverts traffic from competing comparison shopping services.
+(14)
+The Decision first analyses the influence of the positioning and display of generic search results on user behaviour. It shows that users tend to click more on links which are more visible on the general search results page.
+(15)
+The Decision then analyses the actual evolution of traffic to competing comparison shopping services, which confirms its findings on user behaviour.
+(16)
+First, there is evidence that shows the immediate influence of the ranking of generic search results in Google Search on the click-through rates on these search results.
+(17)
+Second, the Commission compared the evolution of the visibility of important competing comparison shopping services as calculated by the independent company Sistrix and the evolution of generic search traffic from Google to these services.
+(18)
+Third, evidence in the Commission's file indicates that the more favourable positioning and display of Google's comparison shopping service in its general search results pages has led to an increase in traffic to that service.
+(19)
+Fourth, evidence in the file on the actual evolution of traffic to Google's comparison shopping service confirms that the more prominently positioned and displayed it is within Google' general search results pages, the more it gains traffic.
+Generic search traffic from Google's general search results pages represents a large proportion of competing comparison shopping services' traffic and cannot easily be replaced
+(20)
+The Decision concludes that generic search traffic from Google's general search results pages, i.e. the source of traffic diverted from competing comparison shopping services, accounts for a large proportion of traffic to those services.
+(21)
+It also concludes that none of the existing alternative sources of traffic currently available to competing comparison shopping services, including traffic from AdWords, mobile applications and direct traffic, can effectively replace the generic search traffic from Google's general search results pages.
+Google's conduct has potential anti-competitive effects
+(22)
+The decision concludes that Google's conduct has a number of potential anti-competitive effects.
+(23)
+First, Google's conduct has the potential to foreclose competing comparison shopping services, which may lead to higher fees for merchants, higher prices for consumers, and less innovation.
+(24)
+Second, Google's conduct is likely to reduce the ability of consumers to access the most relevant comparison shopping services.
+(25)
+Third, Google's conduct would also have potential anti-competitive effects even if comparison shopping services did not constitute a distinct relevant product market, but rather a segment of a possible broader relevant product market comprising both comparison shopping services and merchant platforms.
+Objective justifications or efficiencies
+(26)
+The Decision concludes that Google has not provided verifiable evidence to prove that its conduct is indispensable to the realisation of efficiencies and that there are no less anti-competitive alternatives to the conduct capable of producing the same efficiencies. It also does not provide arguments or evidence to show that the likely efficiencies brought about by the conduct outweigh any likely negative effects on competition and consumer welfare in the affected markets.
+Effect on trade
+(27)
+The Decision concludes that Google's conduct has an appreciable effect on trade between Member States and between the Contracting Parties to the EEA.
+Duration
+(28)
+The Decision concludes that the infringement has taken place in each of the relevant national markets in the EEA since Google first started favouring its comparison shopping service in that market, which is:
+—
+since January 2008 in Germany and the United Kingdom,
+—
+since October 2010 in France,
+—
+since May 2011 in Italy, the Netherlands, and Spain,
+—
+since February 2013 in the Czech Republic, and
+—
+since November 2013 in Austria, Belgium, Denmark, Norway, Poland and Sweden.
+Remedies
+(29)
+The Decision concludes that Google must bring the abuse to an end and refrain from any act or conduct which would have the same or similar object or effect.
+(30)
+Google has 90 days from the date of the notification of the Decision to implement a remedy that would effectively bring the abuse to an end.
+4.
+FINE
+(31)
+The fine imposed on Alphabet Inc. and Google Inc. for the abusive conduct is calculated on the basis of the principles laid out in the 2006 Guidelines on the method of setting fines imposed pursuant to Article 23(2)(a) of Regulation (EC) No 1/2003. The Decision concludes that the final amount of the fine imposed on Alphabet Inc. and Google Inc. is EUR 2 424 495 000.
+(
+1
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+Top

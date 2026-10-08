@@ -1,0 +1,759 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN
+
+Brüssel, den
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom [1. Oktober 2008]
+
+in einem Verfahren nach Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/39181 – Kerzenwachse
+
+(Nur der englische, französische, deutsche, italienische und spanische Text
+sind verbindlich.)
+
+(Text von Bedeutung für den EWR)
+
+an
+
+ENI S.p.A.
+
+Esso Deutschland GmbH, Esso Société Anonyme Française,
+ExxonMobil Petroleum and Chemical B.V.B.A. und Exxon Mobil Corporation
+
+H&R ChemPharm GmbH, H&R Wax Company Vertrieb GmbH
+und Hansen & Rosenthal KG
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+
+MOL Nyrt.
+
+Repsol YPF Lubricantes y Especialidades S.A., Repsol Petróleo S.A.
+und Repsol YPF S.A.
+
+Sasol Wax GmbH, Sasol Wax International AG, Sasol Holding in Germany GmbH
+und Sasol Limited
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH,
+Deutsche Shell GmbH, Shell International Petroleum Company Limited,
+the Shell Petroleum Company Limited, Shell Petroleum N.V.
+und the Shell Transport and Trading Company Limited
+
+RWE-Dea AG und RWE AG
+
+DE DE
+
+Total France S.A. und Total S.A.
+
+Teile dieses Textes wurden ausgelassen, um zu gewährleisten, dass keine vertraulichen Informationen
+bekanntgegeben werden; diese Teile sind durch eckige Klammern [...] gekennzeichnet.
+
+DE DE
+
+INHALTSVERZEICHNIS
+
+1. Einleitung................................................................................................................. 7
+
+1.1. Adressaten................................................................................................................ 7
+
+1.2. Zusammenfassung der Zuwiderhandlung.................................................................. 8
+
+2. Die von dem Verfahren betroffene Branche.............................................................. 8
+
+2.1. Die Produkte ............................................................................................................ 8
+
+2.2. [...] .......................................................................................................................... 9
+
+2.3. Die von dem Verfahren betroffenen Unternehmen.................................................... 9
+
+2.3.1. Die Unternehmensgruppe ENI (ENI S.p.A.)............................................................. 9
+
+2.3.2. Die Unternehmensgruppe ExxonMobil (Esso Deutschland GmbH, Esso Société
+Anonyme Française, ExxonMobil Petroleum and Chemical B.V.B.A, Exxon Mobil
+Corporation)........................................................................................................... 10
+
+2.3.3. Die Unternehmensgruppe Hansen & Rosenthal/Tudapetrol (Tudapetrol
+Mineralölerzeugnisse Nils Hansen KG, H&R ChemPharm GmbH, H&R Wax
+Company Vertrieb GmbH, Hansen & Rosenthal KG)............................................. 11
+
+2.3.4. Die Unternehmensgruppe MOL (MOL Nyrt.) ........................................................ 12
+
+2.3.5. Die Unternehmensgruppe Repsol (Repsol YPF Lubricantes y Especialidades S.A.,
+Repsol Petróleo S.A., Repsol YPF S.A.)................................................................. 13
+
+2.3.6. Die Unternehmensgruppe Sasol (Sasol Wax GmbH, Sasol Wax International AG,
+Sasol Holding in Germany GmbH, Sasol Limited) ................................................. 14
+
+2.3.7. Die Unternehmensgruppe Shell (Shell Deutschland Schmierstoff GmbH, Shell
+Deutschland Oil GmbH, Deutsche Shell GmbH, Shell International Petroleum
+Company Limited (SIPC), the Shell Petroleum Company Limited (SPCO), Shell
+Petroleum N.V, the Shell Transport and Trading Company Limited)...................... 15
+
+2.3.8. Die Unternehmensgruppe RWE ............................................................................. 18
+
+2.3.9. Die Unternehmensgruppe Total (Total France SA, Total SA)................................. 18
+
+2.4. Sonstige Marktteilnehmer....................................................................................... 19
+
+2.5. Beschreibung des Marktes...................................................................................... 19
+
+2.5.1. Angebot ................................................................................................................. 19
+
+2.5.2. Nachfrage............................................................................................................... 20
+
+2.5.3. Handel zwischen Mitgliedstaaten ........................................................................... 20
+
+3. Verfahren............................................................................................................... 20
+
+3.1. Die Untersuchung der Kommission........................................................................ 20
+
+3.2. Mitteilung der Beschwerdepunkte und mündliche Anhörung.................................. 22
+
+DE 3 DE
+
+4. Beschreibung der Sachverhalte............................................................................... 23
+
+4.1. Grundsätze und Funktionsweise des Kartells.......................................................... 24
+
+4.2. Einzelheiten zu den technischen Treffen................................................................. 28
+
+5. Anwendung von Artikel 81 EG-Vertrag und Artikel 53 EWR-Abkommen in dieser
+Sache ..................................................................................................................... 63
+
+5.1. Anwendbarkeit des EG-Vertrags und des EWR-Abkommens................................. 63
+
+5.2. Zuständigkeit ......................................................................................................... 67
+
+5.3. Art der Zuwiderhandlung in dieser Sache ............................................................... 67
+
+5.3.1. Allgemeines ........................................................................................................... 67
+
+5.3.2. Anwendung............................................................................................................ 71
+
+5.4. Eine einzige fortdauernde Zuwiderhandlung........................................................... 85
+
+5.4.1. Allgemeines ........................................................................................................... 85
+
+5.4.2. Anwendung............................................................................................................ 88
+
+5.4.3. Die Situation von ENI............................................................................................ 96
+
+5.5. Umsetzung ............................................................................................................. 96
+
+5.6. Beschränkung des Wettbewerbs ............................................................................. 97
+
+5.7. Auswirkungen auf den Handel zwischen EG-Mitgliedstaaten und zwischen EWR-
+Vertragsparteien..................................................................................................... 99
+
+5.8. Anwendung von Artikel 81 Absatz 3 EG-Vertrag und Artikel 53 Absatz 3 EWR-
+Abkommen .......................................................................................................... 100
+
+5.9. Wirtschaftsbezogene Argumentation .................................................................... 101
+
+5.10. Schlussfolgerung bezüglich der Anwendung des Artikels 81 EG-Vertrag und Artikel
+53 EWR-Abkommen............................................................................................ 104
+
+6. Adressaten dieser Entscheidung ........................................................................... 105
+
+6.1. Grundsätze bezüglich der Adressaten ................................................................... 105
+
+6.2. Anwendung.......................................................................................................... 110
+
+6.2.1. Die ENI-Gruppe....................................................................................................... 110
+
+6.2.2. Die ExxonMobil....................................................................................................... 111
+
+6.2.3. Die Unternehmensgruppe Hansen & Rosenthal/Tudapetrol ...................................... 117
+
+6.2.4. Die MOL-Gruppe..................................................................................................... 119
+
+6.2.5. Die Repsol-Gruppe................................................................................................... 126
+
+6.2.6. Die Sasol-Gruppe..................................................................................................... 132
+
+DE 4 DE
+
+6.2.7. Die Shell-Gruppe ..................................................................................................... 139
+
+6.2.8. Die RWE-Gruppe..................................................................................................... 145
+
+6.2.9. Die Total-Gruppe ..................................................................................................... 151
+
+6.3. Schlussfolgerung bezüglich der Adressaten.......................................................... 159
+
+7. Dauer der Zuwiderhandlung und Verjährungsfristen............................................. 160
+
+7.1. Beginn der Zuwiderhandlung bei den einzelnen Unternehmen.............................. 160
+
+7.2. Enddatum der Zuwiderhandlung bei den einzelnen Unternehmen......................... 161
+
+7.3. Schlussfolgerung bezüglich der Dauer des Verstoßes hinsichtlich Paraffinwachse 164
+
+7.4. Schlussfolgerung bezüglich der Dauer des Verstoßes hinsichtlich Paraffingatsch . 165
+
+7.5. Anwendung von Verjährungsfristen ..................................................................... 166
+
+8. Abhilfemaßnahmen.............................................................................................. 167
+
+8.1. Artikel 7 der Verordnung (EG) Nr. 1/2003........................................................... 167
+
+8.2. Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1/2003........................................... 167
+
+8.3. Die Leitlinien zur Festsetzung von Geldbußen...................................................... 168
+
+8.4. Der Grundbeträge der Geldbuße........................................................................... 169
+
+8.4.1. Methodik.............................................................................................................. 169
+
+8.4.2. Die Umsätze......................................................................................................... 170
+
+8.4.3. Schwere ............................................................................................................... 172
+
+8.4.4. Dauer ................................................................................................................... 175
+
+8.4.5. Prozentanteil der Erhöhung des Grundbetrags ...................................................... 178
+
+8.4.6. Schlussfolgerung zu den Grundbeträgen und Berechnung der Grundbeträge......... 178
+
+8.5. Anpassungen des Grundbetrags............................................................................ 180
+
+8.5.1. Erschwerende Umstände ...................................................................................... 180
+
+8.5.2. Mildernde Umstände ............................................................................................ 183
+
+8.5.3. Abschreckende Wirkung ...................................................................................... 189
+
+8.5.4. Schlussfolgerungen bezüglich der angepassten Grundbeträge............................... 190
+
+8.6. Berücksichtigung der Obergrenze von 10% des Umsatzes.................................... 191
+
+8.7. Anwendung der Kronzeugenregelung aus dem Jahre 2002 ................................... 192
+
+8.7.1. Shell..................................................................................................................... 192
+
+8.7.2. Sasol .................................................................................................................... 193
+
+8.7.3. Repsol.................................................................................................................. 195
+
+DE 5 DE
+
+8.7.4. ExxonMobil ......................................................................................................... 196
+
+8.7.5. RWE.................................................................................................................... 197
+
+8.7.6. Schlussfolgerung zur Anwendung der Kronzeugenregelung aus dem Jahre 2002.. 199
+
+8.8. Die Höhe der in dieser Entscheidung festzusetzenden Geldbußen......................... 199
+
+8.8.1. Die ENI-Gruppe................................................................................................... 199
+
+8.8.2. Die ExxonMobil-Gruppe...................................................................................... 199
+
+8.8.3. Hansen & Rosenthal............................................................................................. 200
+
+8.8.4. Tudapetrol............................................................................................................ 200
+
+8.8.5. Die MOL-Gruppe................................................................................................. 200
+
+8.8.6. Die Repsol-Gruppe............................................................................................... 200
+
+8.8.7. Die Sasol-Gruppe................................................................................................. 200
+
+8.8.8. Die Shell-Gruppe ................................................................................................. 201
+
+8.8.9. Die RWE-Gruppe................................................................................................. 201
+
+8.8.10. Die Total-Gruppe ................................................................................................. 201
+
+8.9. Zahlungsfähigkeit................................................................................................. 201
+
+ANHANG.......................................................................................................................... 210
+
+DE 6 DE
+
+ENTSCHEIDUNG DER KOMMISSION
+
+vom [1. Oktober 2008]
+
+in einem Verfahren nach Artikel 81 EG-Vertrag
+und Artikel 53 EWR-Abkommen
+
+in der Sache COMP/39181 – Kerzenwachse
+
+DIE KOMMISSION DER EUROPÄISCHEN GEMEINSCHAFTEN,
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft,
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum,
+
+gestützt auf Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur
+Durchführung der in den Artikeln 81 und 82 des Vertrags niedergelegten Wettbewerbsregeln,1
+insbesondere auf Artikel 7 und auf Artikel 23 Absatz 2,
+
+gestützt auf den Beschluss der Kommission vom 25. Mai 2007 zur Einleitung eines
+Verfahrens in dieser Sache,
+
+nach Aufforderung der beteiligten Unternehmen zur Stellungnahme zu den von der
+Kommission mitgeteilten Beschwerdepunkten gemäß Artikel 27 Absatz 1 der Verordnung
+(EG) Nr. 1/2003 und Artikel 12 der Verordnung (EG) Nr. 773/2004 der Kommission vom 7.
+April 2004 über die Durchführung v
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+sollte insgesamt folgende Geldbuße festgesetzt werden:
+
+Geldbuße für Repsol YPF Lubricantes y EUR 19 800 000
+Especialidades S.A.
+gesamtschuldnerisch mit Repsol
+Petróleo S.A. und Repsol YPF S.A.:
+
+8.8.7. Die Sasol-Gruppe
+
+(782) Für Sasol sollte insgesamt folgende Geldbuße festgesetzt werden:
+
+Geldbuße für die Sasol Wax GmbH: EUR 318 200 000
+davon gesamtschuldnerisch mit Sasol EUR 250 700 000
+Wax International AG, Sasol Holding in
+Germany GmbH und Sasol Limited
+
+DE 200 DE
+
+8.8.8. Die Shell-Gruppe
+
+(783) Für Shell sollte insgesamt folgende Geldbuße festgesetzt werden:
+
+Geldbuße insgesamt: EUR 0
+
+8.8.9. Die RWE-Gruppe
+
+(784) Für RWE sollte daher insgesamt folgende Geldbuße festgesetzt werden:
+
+Geldbuße für die RWE-Dea AG EUR 37 440 000
+gesamtschuldnerisch mit der RWE AG:
+
+8.8.10. Die Total-Gruppe
+
+(785) Für Total sollte insgesamt folgende Geldbuße festgesetzt werden:
+
+Geldbuße für Total France S.A. EUR 128 163 000
+gesamtschuldnerisch mit Total S.A.:
+
+8.9. Zahlungsfähigkeit
+
+(786) Keiner der Adressaten hat argumentiert, er könne die Geldbuße nicht aufbringen.
+
+DE 201 DE
+
+HAT FOLGENDE ENTSCHEIDUNG ERLASSEN:
+
+Artikel 1
+
+Die folgenden Unternehmen haben eine Zuwiderhandlung gegen Artikel 81 Absatz 1 EG-
+Vertrag und – seit dem 1 Januar 1994 – gegen Artikel 53 EWR-Abkommen begangen, indem
+sie sich in den jeweils genannten Zeiträumen an einer fortdauernden Vereinbarung und/oder
+einer fortdauernden abgestimmten Verhaltensweise im Paraffinwachssektor auf dem
+Gemeinsamen Markt und, seit 1. Januar 1994, im Europäischen Wirtschaftsrraum beteiligten:
+
+ENI S.p.A.: am 30./31. Oktober 1997 und vom 21. Februar 2002 bis zum 28. April
+2005;
+
+Esso Deutschland GmbH: vom 22. Februar 2001 bis zum 20. November 2003;
+
+Esso Société Anonyme Française: vom 3. September 1992 bis zum 20. November
+2003;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: vom 30. November 1999 bis zum
+20. November 2003;
+
+Exxon Mobil Corporation: vom 30. November 1999 bis zum 20. November 2003;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: vom 24. März 1994 bis zum
+30. Juni 2002;
+
+H&R Wax Company Vertrieb GmbH: vom 1. Januar 2001 bis zum 28. April 2005;
+
+Hansen & Rosenthal KG: vom 1. Januar 2001 bis zum 28. April 2005;
+
+H&R ChemPharm GmbH: vom 1. Juli 2001 bis zum 28. April 2005;
+
+MOL Nyrt.: vom 3. September 1992 bis zum 28. April 2005;
+
+Repsol YPF Lubricantes y Especialidades S.A.: vom 24. Juni 1994 bis zum
+4. August [2004]773
+
+Repsol Petróleo S.A.: vom 24. Juni 1994 bis zum 4. August [2004]774;
+
+Repsol YPF S.A.: vom 24. Juni 1994 bis zum 4. August [2004]775;
+
+Sasol Wax GmbH: vom 3. September 1992 bis zum 28. April 2005;
+
+Sasol Wax International AG: vom 1. Mai 1995 bis zum 28. April 2005;
+
+773 Berichtigung der Entscheidung C(2008)5476 der Kommission vom 1. Oktober 2008 in Sache
+COMP/39181 – Kerzenwachse.
+774 Berichtigung der Entscheidung C(2008)5476 der Kommission vom 1. Oktober 2008 in Sache
+COMP/39181 – Kerzenwachse.
+775 Berichtigung der Entscheidung C(2008)5476 der Kommission vom 1. Oktober 2008 in Sache
+COMP/39181 – Kerzenwachse.
+
+DE 202 DE
+
+Sasol Holding in Germany GmbH: vom 1. Mai 1995 bis zum 28. April 2005;
+
+Sasol Limited: vom 1. Mai 1995 bis zum 28. April 2005;
+
+Shell Deutschland Oil GmbH: vom 3 September 1992 bis zum 31. März 2004;
+
+Shell Deutschland Schmierstoff GmbH: vom 1. April 2004 bis zum 17. März 2005;
+
+Deutsche Shell GmbH: vom 2. Januar 2002 bis zum 17. März 2005;
+
+Shell International Petroleum Company Limited: vom 2. Januar 2002 bis zum 17.
+März 2005;
+
+the Shell Petroleum Company Limited: vom 2. Januar 2002 bis zum 17. März 2005;
+
+Shell Petroleum N.V.: vom 1. Juli 2002 bis zum 17. März 2005;
+
+the Shell Transport and Trading Company Limited: vom 2. Januar 2002 bis zum 17.
+März 2005;
+
+RWE-Dea AG: vom 3. September 1992 bis zum 30. Juni 2002;
+
+RWE AG: vom 3. September 1992 bis zum 30. Juni 2002;
+
+Total France S.A.: vom 3. September 1992 bis zum 28. April 2005; und
+
+Total S.A.: vom 3. September 1992 bis zum 28. April 2005.
+
+Bei den folgenden Unternehmen betrifft die Zuwiderhandlung auch an Endkunden auf dem
+deutschen Markt verkauftes Paraffingatsch im jeweils angegebenen Zeitraum:
+
+Esso Deutschland GmbH: vom 22. Februar 2001 bis zum 18. Dezember 2002;
+
+Esso Société Anonyme Française: vom 8. März 1999 bis zum 18. Dezember 2002;
+
+ExxonMobil Petroleum and Chemical B.V.B.A.: vom 20. November 1999 bis zum
+18. Dezember 2002;
+
+Exxon Mobil Corporation: vom 20. November 1999 bis zum 18. Dezember 2002;
+
+Sasol Wax GmbH: vom 30. Oktober 1997 bis zum 12. Mai 2004;
+
+Sasol Wax International AG: vom 30. Oktober 1997 bis zum 12. Mai 2004;
+
+Sasol Holding in Germany GmbH: vom 30. Oktober 1997 bis zum 12. Mai 2004;
+
+Sasol Limited: vom 30. Oktober 1997 bis zum 12. Mai 2004;
+
+Shell Deutschland Oil GmbH: vom 30. Oktober 1997 bis zum 12. Mai 2004;
+
+Shell Deutschland Schmierstoff GmbH: vom 1. April 2004 bis zum 12. Mai 2004;
+
+Deutsche Shell GmbH: vom 2. Januar 2002 bis zum 12. Mai 2004;
+
+DE 203 DE
+
+Shell International Petroleum Company Limited: vom 2. Januar 2002 bis zum 12.
+Mai 2004;
+
+Shell Petroleum Company Limited: vom 2. Januar 2002 bis zum 12. Mai 2004;
+
+Shell Petroleum N.V.: vom 1. Juli 2002 bis zum 12. Mai 2004;
+
+Shell Transport and Trading Company Limited: vom 2. Januar 2002 bis zum 12.
+Mai 2004;
+
+RWE-Dea AG: vom 30. Oktober 1997 bis zum 30. Juni 2002;
+
+RWE AG: vom 30. Oktober 1997 bis zum 30. Juni 2002;
+
+Total France S.A.: vom 30. Oktober 1997 bis zum 12. Mai 2004; und
+
+Total S.A.: vom 30. Oktober 1997 bis zum 12. Mai 2004.
+
+Artikel 2
+
+Für die in Artikel 1 genannte Zuwiderhandlung werden folgende Geldbußen festgesetzt:
+
+ENI S.p.A.: 29 120 000 EUR;
+
+Esso Société Anonyme Française: 83 588 400 EUR,
+davon gesamtschuldnerisch mit
+
+ExxonMobil Petroleum and Chemical B.V.B.A. und Exxon Mobil
+Corporation: 34 670 400 EUR, davon gesamtschuldnerisch mit Esso
+Deutschland GmbH: 27 081 600 EUR;
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG: 12 000 000 EUR;
+
+Hansen & Rosenthal KG gesamtschuldnerisch mit und H&R Wax Company Vertrieb
+GmbH: 24 000 000 EUR,
+davon gesamtschuldnerisch mit
+
+H&R ChemPharm GmbH: 22 000 000 EUR;
+
+MOL Nyrt.: 23 700 000 EUR;
+
+Repsol YPF Lubricantes y Especialidades S.A. gesamtschuldnerisch mit Repsol
+Petróleo S.A. und Repsol YPF S.A.: 19 800 000 EUR;
+
+Sasol Wax GmbH: 318 200 000 EUR,
+davon gesamtschuldnerisch mit
+
+Sasol Wax International AG, Sasol Holding in Germany GmbH und Sasol
+Limited: 250 700 000 EUR;
+
+Shell Deutschland Oil GmbH, Shell Deutschland Schmierstoff GmbH, Deutsche
+Shell GmbH, Shell International Petroleum Company Limited, the Shell Petroleum
+
+DE 204 DE
+
+Company Limited, Shell Petroleum N.V. und the Shell Transport and Trading
+Company Limited: 0 EUR;
+
+RWE-Dea AG gesamtschuldnerisch mit RWE AG: 37 440 000 EUR
+
+Total France S.A. gesamtschuldnerisch mit Total S.A..: 128 163 000 EUR.
+
+Die Geldbußen sind binnen drei Monaten nach dem Datum der Bekanntgabe dieser
+Entscheidung in Euro auf das folgende Konto im Namen der Europäischen Kommission zu
+entrichten:
+
+Kontonummer: 0050915991
+ING BANK NV
+Financial Plaza
+Bijlmerdreef 109,
+NL – 1102 BW Amsterdam
+IBAN-Code: NL22INGB0050915991
+SWIFT-Code: INGBNL2AXXX
+
+Nach Ablauf dieser Frist werden automatisch Zinsen zu dem Satz fällig, der von der
+Europäischen Zentralbank bei ihren Hauptrefinanzierungsgeschäften am ersten Tag des
+Monats angewandt wird, in dem diese Entscheidung erlassen wurde, zuzüglich 3,5
+Prozentpunkte.
+
+Artikel 3
+
+Die in Artikel 1 genannten Unternehmen stellen die dort genannten Zuwiderhandlungen
+unverzüglich ab, soweit dies nicht bereits geschehen ist.
+
+Sie sehen künftig von der Wiederholung der in Artikel 1 genannten Handlungen oder
+Verhaltensweisen sowie von allen Handlungen oder Verhaltensweisen ab, die denselben oder
+einen ähnlichen Zweck bzw. dieselbe oder eine ähnliche Wirkung haben.
+
+Artikel 4
+
+Diese Entscheidung ist gerichtet an
+
+ENI S.p.A.
+
+Piazzale Mattei, 1
+
+I-00144 Roma
+
+Esso Deutschland GmbH
+
+Esso Haus
+
+Kapstadtring 2
+
+DE 205 DE
+
+D-22297 Hamburg
+
+Esso Société Anonyme Française
+
+Tour Manhattan
+
+5/6 Place de l'Iris
+
+F-92400 Courbevoie
+
+ExxonMobil Petroleum & Chemical B.V.B.A.
+
+Hermeslaan 2
+
+B-1831 Machelen
+
+Exxon Mobil Corporation
+
+3225 Gallows Road
+
+Fairfax, VA 22037-0001
+
+USA
+
+H&R ChemPharm GmbH
+
+Neuenkirchener Straße 8
+
+D-48499 Salzbergen
+
+H&R Wax Company Vertrieb GmbH
+
+Neuenkirchener Straße 8
+
+D-48499 Salzbergen
+
+Hansen & Rosenthal KG
+
+Neuenkirchener Straße 8
+
+D-48499 Salzbergen
+
+MOL Nyrt.
+
+Benczúr utca 13
+
+HU-1068 Budapest
+
+Repsol Petróleo S.A.
+
+Paseo de la Castellana, 278
+
+E-28046 Madrid
+
+DE 206 DE
+
+Repsol YPF S.A.
+
+Paseo de la Castellana 278
+
+E-28046 Madrid
+
+Repsol YPF Lubricantes y Especialidades S.A.
+
+Edificio Tucumán, 2a planta
+
+Glorieta de Mar Caribe 1
+
+E-28042 Madrid
+
+RWE AG
+
+Opernplatz 1
+
+D-45128 Essen
+
+RWE-Dea AG
+
+Überseering 40
+
+D-22297 Hamburg
+
+Sasol Holding in Germany GmbH
+
+Worthdamm 13-27
+
+D-20457 Hamburg
+
+Sasol Limited
+
+1 Sturdee Avenue
+
+Rosebank, 2196
+
+Johannesburg
+
+Republic of South Africa
+
+Sasol Wax International AG
+
+Worthdamm 13-27
+
+D-20457 Hamburg
+
+Sasol Wax GmbH
+
+Worthdamm 13-27
+
+D-20457 Hamburg
+
+DE 207 DE
+
+Shell International Petroleum Company Limited
+
+Shell Centre
+
+UK-London SE1 7NA
+
+Shell Deutschland Oil GmbH
+
+Suhrenkamp 71-77
+
+D-22284 Hamburg
+
+Shell Deutschland Schmierstoff GmbH
+
+Suhrenkamp 71-77
+
+D-22284 Hamburg
+
+Deutsche Shell GmbH
+
+Suhrenkamp 71-77
+
+D-22284 Hamburg
+
+the Shell Petroleum Company Limited
+
+Shell Centre
+
+UK-London SE1 7NA
+
+Shell Petroleum N.V.
+
+Carel van Bylandtlaan 30
+
+NL-2596 HR Den Haag
+
+the Shell Transport and Trading Company Limited
+
+Shell Centre
+
+UK-London SE1 7NA
+
+Total France S.A.
+
+24, Cours Michelet
+
+Tour Michelet
+
+F-92069 Paris La Défense Cedex
+
+DE 208 DE
+
+Total S.A.
+
+2, place de La Coupole
+
+La Défense 6
+
+F-92078 Paris La Défense Cedex
+
+Tudapetrol Mineralölerzeugnisse Nils Hansen KG
+
+Am Sandtorkai 64
+
+D-20457 Hamburg
+
+Diese Entscheidung ist ein vollstreckbarer Titel gemäß Artikel 256 EG-Vertrag und Artikel 110
+EWR-Abkommen.
+
+Brüssel, den
+
+Für die Kommission
+Neelie KROES
+Mitglied der Kommission
+
+DE 209 DE
+
+ANHANG
+
+[...]
+
+DE 210 DE

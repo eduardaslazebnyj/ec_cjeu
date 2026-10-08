@@ -1,0 +1,665 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+DG Competition
+
+— CASE AT.39801 Polyurethanefoam
+
+(Only the English text is authentic)
+
+CARTEL PROCEDURE
+Council Regulation (EC) 1/2003 and
+Commission Regulation (EC) 773/2004
+
+Article 7 Regulation (EC) 1/2003
+Date: 29/01/2014
+
+This text is made available for information purposes only. A summary of this decision is
+
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+
+[. . .1.
+
+EN EN
+
+EUROPEAN
+COMMISSION —
+
+Brussels, 29.1.2014
+C(2014) 438 final
+
+COMMISSION DECISION
+
+of 29.1.2014
+
+addressed to:
+- Carpenter Co., Carpenter S.A.S., Carpenter GmbH, Carpenter Belgium NV and
+Carpenter Limited
+- Vita Cayman Limited, Caligen Europe BV, Draka Interfoam B.V., ICOA France
+S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Tramico S.A.S., UAB Vita
+Baltic International, Vita Polymers Poland Sp. z 0.0., Veenendaal Schaumstoffwerk
+GmbH, Vita Cellular Foams (UK) Limited and Vita Industrial (UK) Limited
+- Eurofoam GmbH, Eurofoam Deutschland GmbH Schaumstoffe, Eurofoam KFM
+GmbH, Eurofoam Hungary Kit, Eurofoam Poiska Sp. z o.o. and S.C. Eurofoam S.r.I.
+- Recticel N.V./S.A., Recticel s.a.s., Recticel OU, Recticel Limited, Recticel Verwaltung
+GmbH & Co. KG and Recticel B.V.
+- Greiner Holding AG
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+(AT.39801 — Polyurethane Foam)
+
+(Only the English text is authentic)
+
+0 ENEN
+
+TABLE OF CONTENTS
+
+1. INTRODUCTION .4
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS 4
+2.1. The product 4
+2.2. The undertakings subject to the proceedings 5
+2.2.1. Carpenter 5
+2.2.2. Vita 5
+2.2.3. Eurofoam 6
+2.2.4. Recticel 6
+2.2.5. Greiner 7
+3. PROCEDURE 7
+4. DESCRIPTION OF THE EVENTS 9
+4.1. Nature and scope of the infringement 9
+4.2. Geographic scope of the cartel 10
+4.3. Duration of the infringement 10
+5. LEGAL ASSESSMENT 10
+5.1. Application of Article 101 of the Treaty 10
+5.1.1. The nature of the infringement 10
+5.1.1.1. Agreements and concerted practices 10
+5.1.1.2. Single and continuous infringement 12
+5.1.2. Restriction of competition 13
+5.1.3. Effect upon trade between Member States 13
+5.1.4. Non-applicability of Article 101(3) of the Treaty 14
+6. DURATION OF THE INFRINGEMENT 14
+7. LIABILITY 14
+7.1. Principles 14
+7.2. Carpenter 15
+7.2.1. Nature of involvement and liability 15
+7.2.2. The product and geographic scope of Carpenters involvement 16
+7.2.3. The duration of Carpenter’s involvement 16
+
+EN 1 EN
+
+7.3. Vita 16
+7.3.1. Nature of involvement and liability 16
+7.3.2. The product and geographic scope of Vit&s involvement 16
+7.3.3. The duration of Vita’s involvement 16
+7.4. Recticel 17
+7.4.1. Nature of involvement and liability 17
+7.4.2. The product and geographic scope of Recticel’s involvement 17
+7.4.3. The duration of Recticel’s involvement 17
+7.5. Eurofoam and its parents 17
+7.5.1. Nature of involvement and liability 17
+7.5.2. The product and geographic scope of Eurofoam’s involvement 18
+7.5.3. The duration of Eurofoam’s involvement 18
+8. REMEDIES 18
+8.1. Article 7 of Regulation (EC) No 1/2003 18
+— Fines 18 8.2. Article 23(2) of Regulation (EC) No 1/2003
+8.3. Calculation of the fines 19
+8.3.1. Thevalueofsales 19
+8.3.2. Determination of the basic amount of the fines 21
+8.3.2.1. Gravity 21
+8.3.2.2. Duration 21
+8.3.2.3. Additional Amount 22
+8.3.2.4. Calculations and conclusions on basic amounts 22
+8.3.3. Adjustments to the basic amount: aggravating or mitigating factors 23
+8.3.4. Deterrence 23
+8.4. Application of the 10% turnover limit 23
+8.5. Discretionary limitation of the fine 24
+8.6. Application of the Leniency Notice 25
+8.7. Application of the Settlement Notice 25
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision 25
+
+EN EN
+
+COMMISSION DECISION
+
+of 29.1.2014
+
+addressed to:
+- Carpenter Co., Carpenter S.A.S., Carpenter GmbH, Carpenter Belgium NV and
+Carpenter Limited
+- Vita Cayman Limited, Caligen Europe By, Draka Interfoam B.V., ICOA France
+S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Tramico S.A.S., UAB Vita
+Baltic International, Vita Polymers Poland Sp. z 0.0., Veenendaal Schaumstoffwerk
+GmbH, Vita Cellular Foams (UK) Limited and Vita Industrial (UK) Limited
+- Eurofoam GmbH, Eurofoam Deutschland GmbH Schaumstoffe, Eurofoam KFM
+GmbH, Eurofoam Hungary Kft, Eurofoam Poiska Sp. z o.o. and S.C. Eurofoam S.r.l.
+- Recticel N.V.IS.A., Recticel s.a.s., Recticel OU, Recticel Limited, Recticel Verwaltung
+GmbH & Co. KG and Recticel B.V.
+- Greiner Holding AG
+relating to a proceeding under Article 101 of the Treaty on the Functioning of the
+European Union
+(AT.39801 — Polyurethane Foam)
+
+(Only the English text is authentic)
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union’,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty2,
+and in particular Article 7 and Article 23(2) thereof,
+
+Having regard to Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the
+conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty3,
+and in particular Article lOa thereof,
+
+Having regard to the Commission decision of 15 November 2012 to initiate proceedings in
+this case,
+
+OJ,C 115, 9/5/2008. p.47.
+2 OJ L 1, 4.1.2003, p.1 .With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+(‘TFEU’). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of “Community by Union and “common market” by
+“internal market.
+0JL123,27.4.2004,p. 18.
+
+3EN EN
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 27(1) of Regulation (EC) No 1/2003
+and Article 11(1) of Regulation (EC) No 773/2004,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Having regard to the final report of the hearing officer in this case4,
+
+Whereas:
+
+1. INTRODUCTION
+
+(1) The addressees of this Decision are liable for a single and continuous infringement of
+Article 101 of the Treaty in the sector of flexible polyurethane foam. The
+infringement consisted in direct and indirect price coordination of flexible foam
+products and covered a total of 10 Member States. It lasted from 26 October 2005
+until 27 July 2010.
+
+(2) This Decision is addressed to the following legal entities:
+
+• Carpenter Co., Carpenter S.A.S., Carpenter GmbH, Carpenter Belgium NV and
+Carpenter Limited. (“Carpenter”)
+
+• Vita Cayman Limited, Caligen Europe BV, Draka Interfoam B.V., ICOA
+France S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Tramico
+S.A.S., UAB Vita Baltic International, Vita Polymers Poland Sp. Z 0.0.,
+Veenendaal Schaumstoffwerk GmbH, Vita Cellular Foams (UK) Limited and
+Vita Industrial (UK) Limited. (“Vita”)
+
+• Eurofoam GmbH, Eurofoarn Deutschland GmbH Schaumstoffe, Eurofoam
+KFM GmbH, Eurofoam Hungary Kft, Eurofoam Poiska Sp. z o.o. and S.C.
+Eurofoam S.r.l. (“Eurofoam”)
+
+• Recticel N.V.IS.A., Recticel s.a.s., Recticel OU, Recticel Limited, Recticel
+Verwaltung GmbH & Co. KG and Recticel B.V. (“Recticel”)
+
+• Greiner Holding AG (“Greiner”)
+
+2. THE INDUSTRY SUBJECT TO THE PROCEEDINGS
+
+2.1. The product
+
+(3) The product concerned by the anticompetitive conduct is flexible polyurethane foam.
+Flexible polyurethane foam can be sub-divided according to two types of
+applications: comfort foam applications (foam used for example in upholstered
+furniture, beds, mattresses, pillows and mats) and technical foam applications (foam
+
+Final report of the Hearing Officer of 17 January 2014.
+4 ENEN
+
+used for example in automotive, aviation and medical product industries). The
+anticompetitive conduct identified in this case covers, on the one hand, polyurethane
+comfort foam and, on the other hand, basic polyurethane technical foam supplied in
+the form of rolls and blocks.
+
+2.2. The undertakings subject to the proceedings
+
+2.2.]. Carpenter
+
+(4) The relevant legal entities within Carpenter undertaking are:
+
+(a) Carpenter Co., with registered offices at 5016 Monument Avenue, P.O. Box
+27205, Richmond, Virginia 23261, USA;
+
+(b) Carpenter S.A.S. with registered offices at Z.I. Boulevard des Bretonnières,
+B.P. 10085, 49182 Saint-Barthelemy-d’Anjou Cedex, France;
+
+(c) Carpenter GmbH with registered offices at Industriestrasse 2, 99334 Amt
+Wachsenburg-Thorey, Germany;
+
+(d) Carpenter Belgium NV with registered offices at Wijnendalstraat 171, B-8800
+Roeselare, Belgium; and
+
+(e) Carpenter Limited with registered offices at Dinting Lodge Industrial Estate,
+Glossop, Derbyshire, SK13 6LE, UK.
+
+(5) The undertaking’s world-wide turnover in 2012 was EUR [1-1.5 billionj. It is active
+in the foam, carpet and furniture cushioning, fibre, air filtration media and bedding
+and consumer products sectors.
+
+2.2.2. Vita
+
+(6) The relevant legal entities within Vita undertaking are:
+
+(a) Vita Cayman Limited with registered offices at (do Maples Corporate Services
+Limited) P0 Box 309, Ugland House, South Church Street, George Town,
+Grand Cayman, KY 1-1104, Cayman Islands;
+
+(b) Caligen Europe BV with registered offices at Konijnenberg 59, NL-4825 BC
+Breda, Netherlands;
+
+(c) Draka Interfoam B.V. with registered offices at Van den Endelaan 15, 2182 ES
+Hillegom, Netherlands;
+
+(d) ICOA France S.A.S. with registered offices at Zone Industrielle Sud, 10100,
+Crancey, France;
+
+(e) Koepp Schaum GmbH with registered offices at Rheingaustrasse 19, 65375
+Oestrich-Winkel, Germany;
+
+(f) Metzeler Schaum GmbH with registered offices at Donaustrasse 51, 87700
+Memmingen, Germany;
+
+5EN EN
+
+(g) Tramico S.A.S. with registered offices at Zone Industrielle de l’Europe, 76220
+Gournay-en-Bray, France;
+
+(h) UAB Vita Baltic International with registered offices at Jurgiskiai, 62181
+Alytus, Lithuania;
+
+(i) Vita Polymers Poland Sp. z o.o. with registered offices at ul. Sienkiewicza
+3 1/33, 56-120 Brzeg Dolny, Poland;
+
+(j) Veenendaal Schaumstoffwerk GmbH with registered offices at Bamberger
+Strasse 58, 96215, Lichtenfels, Germany;
+
+(k) Vita Cellular Foams (UK) Limited with registered offices at Times Place, 45
+Pall Mall, London SW1Y 5JG, UK; and
+
+(I) Vita Industrial (UK) Limited with registered offices at Times Place, 45 Pall
+Mall, London SW1Y 5JG, UK.
+
+(7) The undertaking’s world-wide turnover in 2013 was EUR 617.3 million. It is active
+in the household and leisure, transportation, building and construction and industrial
+sectors.
+
+2.2.3. Eurofoam
+
+(8) The relevant legal entities within Eurofoam are:
+
+(a) Eurofoam GmbH with registered offices at Greinerstrasse 70, 4550
+Kremsmünster, Austria;
+
+(b) Eurofoam Deutschland GmbH Schaumstoffe with registered offices at
+Hagenauer Strasse 42, 65203 Wiesbaden, Germany;
+
+(c) Eurofoam KFM GmbH with registered offices at Rosenauer Strasse 28, 96487
+Dörfles-Esbach, Germany;
+
+(d) Eurofoam Hungary Kft with registered offices at 3792 Sajóbábony, Pf. 16,
+Hungary;
+
+(e) Eurofoam Polska Sp. z o.o. with registered offices at 95-100 Zgierz, ul.
+Szczawiñska 42, Poland; and
+
+(f) S.C. Eurofoam S.r.l. with registered offices at Str. Gàrii, nr 13 557260
+SelimbAr, Sibiu, Romania.
+
+(9) Eurofoam is a 50/50 Joint Venture between Recticel N.V./S.A. and Greiner Holding
+AG. Eurofoam produces and supplies polyurethane foam in particular in Central and
+Eastern Europe. Eurofoam’s worldwide turnover in 2013 was EUR 370.4 million.
+
+2.2.4. Recticel
+
+(10) The relevant legal entities within Recticel undertaking are:
+
+6 ENEN
+
+(a) Recticel N.V./S.A. with registered offices at Avenue des Olympiades 2, 1140
+Evere, Belgium;
+
+(b) Recticel s.a.s. with registered offices at 7 rue du Fossé Blanc, 92622
+Gennevilliers CEDEX, France;
+
+(c) Recticel OU with registered offices at Peterburi tee 48A, 11415 Tallinn,
+Estonia;
+
+(d) Recticel Limited with registered offices at Bluebell Close, Clover Nook
+Industrial Park, Alfreton, Derbyshire DE55 4RD, UK;
+
+(e) Recticel Verwaltung GmbH & Co. KG with registered offices at Rolandsecker
+Weg 30, 53619 Rheinbreitbach, Germany; and
+
+(f) Recticel B.V. with registered offices at Spoorstr. 69, Kesteren 4041 CL,
+Netherlands.
+
+(11) The undertaking’s world-wide turnover in 2013 was EUR 976.8 million. ft is a
+producer and converter of polyurethane foams for the industrial, insulation and
+automotive industries and is a manufacturer of bedding products.
+
+2.2.5. Greiner
+
+(12) The relevant legal entity is Greiner Holding AG with registered offices at
+Greinerstrasse 70, 4550 Kremsmünster, Austria. Greiner is a family owned company
+which is active in particular in the packaging, foam and tool industries. It withdrew
+from the flexible polyurethane foam business when Eurofoam became a full-function
+Joint Venture in 1997. Greiner’s worldwide turnover in 2012 was EUR 604.5 million.
+
+3. PROCEDURE
+
+(13) On 30 April 2010 Vita applied for immunity under the Commission Notice on
+Immunity from fines and reduction of fines in cartel cases5 (“the Leniency Notice”).
+Vita’s immunity application [.. .J. On 19 July 2010, the Commission granted Vita
+conditional immunity from fines pursuant to point 8(a) of the Leniency Notice.
+
+(14) Between 27 and 31 July 2010, the Commission carried out unannounced inspections
+at the premises of Eurofoam, Recticel, Carpenter and another undertaking in [...1.
+(15) On 1 August 2010, following the inspections, the Commission received a joint
+leniency application from Recticel. Greiner and their Joint Venture, Eurofoam.
+
+(16) The Commission also sent several requests for information under Article 18 of
+Regulation (EC) No 1/2003.
+
+(17) On 5 April 2011, the Commission carried out an unannounced inspection at the
+premises of Carpenter in [...i. On 15 November 2012, the Commission initiated
+
+Commission notice on immunity from fines and reduction of fines in cartel cases, OJ C 298, 8.12.2006,
+p. 17.
+
+7EN EN
+
+proceedings pursuant to Article 11(6) of Regulation (EC) No 1/2003 against the
+addressees of this Decision (also referred to as “parties” or individually “party”) with
+a view to engage in settlement discussions with the parties. After each party had
+confirmed its willingness to engage in settlement discussions, discussions were
+started between [...j and [...].
+(18) Settlement meetings between each party and the Commission took place between
+[...] and [...]. During those meetings, the Commission informed the parties of the
+objections that it intended to raise against them and disclosed the main pieces of
+evidence relied upon by the Commissi
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+he Commission decision to
+grant a reduction of fines within the range of 30-50%. The evidence provided by
+Recticel, Greiner and Eurofoam to the Commission represented significant added
+value with respect to the evidence already in the Commission’s possession at the
+time. In view of this, Recticel, Greiner and Eurofoam are granted 50% reduction of
+the fine that would otherwise have been imposed in this Decision.
+
+8.7. Application of the Settlement Notice
+(103) In accordance with point 32 of the Settlement Notice, the reward for settlement
+results in a reduction of 10% of the amount of the fine to be imposed on a party after
+the 10% turnover cap has been applied having regard to the Guidelines on fines.
+Pursuant to point 33 of the Settlement Notice, when settled cases involve leniency
+applicants, the reduction of the fine granted to them for settlement will be added to
+their leniency reward.
+
+(104) As a result of the application of the Settlement Notice, the amount of the fine to be
+imposed on Carpenter, Recticel, Greiner and Eurofoam is reduced by 10%. This
+reduction is added to Recticel’s, Greiner’s and Eurofoam’s Leniency reward.
+8.8. Conclusion: final amount of individual fines to be imposed in this Decision
+(105) The fines imposed pursuant to Article 23(2) of Regulation (EC) No 1/2003 are set
+out in Table 4.
+
+Table 4. Fines
+
+EN 25 EN
+
+Undertaking Fines (in EUR)
+
+Carpenter (excluding sales in Belgium) 58 944 000
+
+Carpenter Belgium NV (jointly and severally liable with
+Carpenter) 12 856 000
+
+Carpenter Belgium NV (sole liability) 3 209 000
+
+Vita (excluding sales in Estonia) 0
+
+Vita for sales in Estonia 0
+
+Recticel/Greiner/Eurofoam (jointly and severally liable
+for the conduct of Eurofoam14 14 819 000
+
+Recticel/Greiner (jointly and severally liable for the
+conduct of Eurofoam4 9 364 000
+
+Recticel liable for the conduct of Eurofoam46 7 443 000
+
+Recticel (other than for sales in Estonia and those made
+through Eurofoam) 7 116 000
+
+Recticel for sales in Estonia 326 000
+
+Including sales in Romania.
+Including sales in Romania.
+46 Including sales in Romania.
+26 ENEN
+
+HAS ADOPTED THIS DECISION:
+
+Article I
+
+The following undertakings have infringed Article 101 of the Treaty by participating, during
+the periods indicated below, in a European agreement andJor concerted practice covering a
+total of 10 Member States as indicated below, consisting in the co-ordination of their pricing
+behaviour in the flexible polyurethane foam sector.
+
+(a) Carpenter Co., Carpenter S.A.S.. Carpenter GmbH, Carpenter Belgium NV and
+Carpenter Limited from 26 October 2005 to 27 July 2010 in France, the
+Netherlands, the UK, Germany, Austria and from 9 July 2007 to 27 July 2010
+in Belgium, and Carpenter Belgium NV from 26 October 2005 to 9 July 2007
+in Belgium.
+
+(b) Vita Cayman Limited, Caligen Europe BV, Draka Interfoam B.V., ICOA
+France S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Tramico
+S.A.S., Vita Polymers Poland Sp. z 0.0., Veenendaal Schaumstoffwerk GmbH,
+Vita Cellular Foams (UK) Limited, Vita Industrial (UK) Limited and UAB
+Vita Baltic International from 26 October 2005 to 30 April 2010 in France,
+Belgium, the Netherlands, the UK, Germany, Austria, Hungary, Poland and
+from 1 January 2007 to 30 April 2010 in Romania, and from 9 July 2007 to 30
+April 2010 in Estonia;
+
+(c) Recticel N.V./S.A., Recticel Verwaltung GmbH & Co. KG, Greiner Holding
+AG, Eurofoam GmbH, Eurofoam Deutschland GmbH Schaumstoffe, Eurofoam
+KFM GmbH, Eurofoam Hungary Kft, Eurofoam Poiska Sp. z o.o. and S.C.
+Eurofoam S.r.l. from 26 October 2005 to 27 July 2010 in Germany, Austria,
+Hungary, Poland and from 1 January 2007 to 27 July 2010 in Romania;
+
+(d) Recticel N.V./S.A., Recticel s.a.s., Recticel Limited and Recticel B.V. from 26
+October 2005 to 27 July 2010 in France, Belgium, the Netherlands, the UK and
+Recticel N.V.IS.A. and Recticel OU from 9 July 2007 to 27 July 2010 in
+Estonia.
+
+Article 2
+
+For the infringement referred to in Article 1, the following fines are imposed:
+
+(a) Vita Cayman Limited, Caligen Europe BV, Draka Interfoam B.V., ICOA
+France S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Tramico
+S.A.S., Vita Polymers Poland Sp. z 0.0., Veenendaal Schaumstoffwerk GmbH,
+Vita Cellular Foams (UK) Limited, Vita Industrial (UK) Limited and UAB
+Vita Baltic International jointly and severally liable for EUR 0
+
+(b) Carpenter Co., Carpenter S.A.S., Carpenter GmbH, Carpenter Belgium NV and
+Carpenter Limited jointly and severally liable for EUR 71 800 000
+
+(c) Carpenter Belgium NV liable for EUR 3 209 000
+
+27EN EN
+
+(d) Eurofoam GmbH, Eurofoam Deutschland GmbH Schaumstoffe, Eurofoam
+KFM GmbH, Eurofoam Hungary Kft, Eurofoam Polska Sp. z o.o. and S.C.
+Eurofoam S.r.l. jointly and severally liable with Recticel N.V./S.A., Recticel
+Verwaltung GmbH & Co. KG and Greiner Holding AG for EUR 14 819 000
+
+(e) Recticel N.V./S.A., Recticel Verwaltung GmbH & Co. KG and Greiner
+Holding AG jointly and severally liable for 9 364 000
+
+(f) Recticel N,V./S.A. and Recticel Verwaltung GmbH & Co. KG jointly and
+severally liable for EUR 7 443 000
+
+(g) Recticel N.V./S.A., Recticel s.a.s,, Recticel Limited and Recticel B.V. jointly
+and severally liable for EUR 7 116 000
+
+(h) Recticel N.V./S.A. and Recticel OU jointly and severally liable for EUR 326
+000
+
+The fines shall be paid in euro within three months of the date of notification of this Decision to
+the following account held in the name of the European Commission:
+
+BANQUE ET CAISSE D’EPARGNE DE L’ETAT
+
+1—2, Place de Metz
+
+L-1930 Luxembourg
+
+IBAN: LUO2 0019 3155 9887 1000
+
+BIC: BCEELULL
+
+— BUFI / COMP/39.801 Ref.: European Commission
+
+After the expiry of that period, interest shall automatically be payable at the interest rate applied
+by the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision is adopted, plus 3.5 percentage points.
+
+Where an undertaking referred to in Article 1 lodges an appeal, that undertaking shall cover the
+fine by the due date by either providing an acceptable bank guarantee or making a provisional
+payment of the fine in accordance with Article 90 of Commission Delegated Regulation (EU) No
+1268/2012.
+
+Article 3
+
+The undertakings listed in Article 1 shall immediately bring to an end the infringements referred
+to in that Article insofar as they have not already done so.
+
+They shall refrain from repeating any act or conduct described in Article 1, and from any act or
+conduct having the same or similar object or effect.
+
+OJL362,3l.l2.2Ol2.p. 1.
+28 ENEN
+
+Article 4
+
+This Decision is addressed to
+
+(a) Carpenter Co., with registered offices at 5016 Monument Avenue, P.O. Box
+27205, Richmond, Virginia 23261, USA;
+
+(b) Carpenter S.A.S. with registered offices at Z.I. Boulevard des Bretonnières,
+B.P. 10085, 49182 Saint-Barthélémy-dAnjou Cedex, France;
+
+(c) Carpenter GmbH with registered offices at Industriestrasse 2, 99334 Amt
+Wachsenburg-Thorey, Germany;
+
+(d) Carpenter Belgium NV with registered offices at Wijnendalstraat 171, B-8800
+Roeselare, Belgium;
+
+(e) Carpenter Limited with registered offices at Dinting Lodge Industrial Estate,
+Glossop, Derbyshire, SK13 6LE, UK;
+
+(1) Vita Cayman Limited with registered offices at (do Maples Corporate Services
+Limited) P0 Box 309, Ugland House, South Church Street, George Town,
+Grand Cayman, KY1-1104, Cayman Islands;
+
+(g) Caligen Europe BV with registered offices at Konijnenberg 59, NL-4825 BC
+Breda, Netherlands;
+
+(h) Draka Interfoam B.V. with registered offices at Van den Endelaan 15, 2182 ES
+Hillegom, Netherlands;
+
+(i) ICOA France S.A.S. with registered offices at Zone Industrielle Sud, 10100,
+Crancey, France;
+
+(j) Koepp Schaum GmbH with registered offices at Rheingaustrasse 19, 65375
+Oestrich-Winkel, Germany;
+
+(k) Metzeler Schaum GmbH with registered offices at Donaustrasse 51, 87700
+Memmingen, Germany;
+
+(1) Tramico S.A.S. with registered offices at Zone Industrielle de l’Europe, 76220
+Goumay-en-Bray, France;
+
+(m) UAB Vita Baltic International with registered offices at Jurgiskiai, 62181
+Alytus, Lithuania;
+
+(n) Vita Polymers Poland Sp. z o.o. with registered offices at ul. Sienkiewicza
+3 1/33, 56-120 Brzeg Dolny, Poland;
+
+(o) Veenendaal Schaumstoffwerk GmbH with registered offices at Bamberger
+Strasse 58, 96215, Lichtenfels, Germany;
+
+29EN EN
+
+(p) Vita Cellular Foams (UK) Limited with registered offices at Times Place, 45
+Pall Mall, London SW1Y 5JG, UK;
+
+(q) Vita Industrial (UK) Limited with registered offices at Times Place, 45 Pall
+Mall, London SW1Y 5JG, UK;
+
+(r) Eurofoam GmbH with registered offices at Greinerstrasse 70, 4550
+KremsmUnster, Austria;
+
+(s) Eurofoam Deutschland GmbH Schaumstoffe with registered offices at
+Hagenauer Strasse 42, 65203 Wiesbaden, Germany;
+
+(t) Eurofoam KFM GmbH with registered offices at Rosenauer Strasse 28, 96487
+Dörfles-Esbach, Germany;
+
+(u) Eurofoam Hungary Kft with registered offices at 3792 Sajóbábony, Pf. 16,
+Hungary;
+
+(v) Eurofoam Poiska Sp. z o.o. with registered offices at 95-100 Zgierz, ul.
+Szczawiñska 42, Poland;
+
+(w) S.C. Eurofoam S.r.l. with registered offices at Str. Gärii, nr 13 557260
+Selimbàr, Sibiu, Romania;
+
+(x) Recticel N.V.IS.A. with registered offices at Avenue des Olympiades 2, 1140
+Evere, Belgium;
+
+(y) Recticel s.a.s. with registered offices at 7 rue du Fossé Blanc, 92622
+Gennevilliers CEDEX, France;
+
+(z) Recticel OU with registered offices at Peterburi tee 48A, 11415 Tallinn,
+Estonia;
+
+(aa) Recticel Limited with registered offices at Bluebell Close, Clover Nook
+Industrial Park, Alfreton, Derbyshire DE55 4RD, UK;
+
+(bb) Recticel Verwaltung GmbH & Co. KG with registered offices at Rolandsecker
+Weg 30, 53619 Rheinbreitbach, Germany;
+
+(cc) Recticel B.V. with registered offices at Spoorstr. 69, Kesteren 4041 CL,
+Netherlands;
+
+(dd) Greiner Holding AG with registered offices at Greinerstrasse 70, 4550
+Kremsmünster, Austria.
+
+This Decision shall be enforceable pursuant to Article 299 of the Treaty.
+
+30 ENEN
+
+Done at Brussels,
+
+For the Commission
+JoaquIn ALMUNIA
+Vice-President
+
+EN 31 EN

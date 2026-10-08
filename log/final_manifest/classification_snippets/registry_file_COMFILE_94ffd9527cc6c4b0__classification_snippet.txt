@@ -1,0 +1,518 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+FR
+
+FR FR
+
+COMMISSION DES COMMUNAUTÉS EUROPÉENNES
+
+Bruxelles, le 26 octobre 2004
+..
+
+DÉCISION DE LA COMMISSION
+
+du 26 octobre 2004
+
+relative à une procédure d’application de l’article 81 du traité CE
+
+(Affaire COMP/38662 – GDF – décision GDF/ENI)
+
+(Les textes en langues française et italienne sont les seuls faisant foi)
+
+FR FR
+
+DÉCISION DE LA COMMISSION
+
+du 26 octobre 2004
+
+relative à une procédure d'application de l'article 81 du traité CE
+
+(Affaire COMP/38662 – GDF – décision GDF/ENI)
+
+(Les textes en langues française et italienne sont les seuls faisant foi)
+
+LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,
+
+vu le traité instituant la Communauté européenne,
+
+vu le règlement n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des
+règles de concurrence prévues aux articles 81 et 82 du traité1, et notamment son article 7,
+
+vu la décision de la Commission du 26 février 2004 d’engager la procédure dans la présente
+affaire,
+
+après avoir donné aux entreprises concernées l’occasion de faire connaître leur point de vue
+au sujet des griefs retenus par la Commission, conformément à l’article 19, paragraphe 1, du
+règlement n° 17 du Conseil du 6 février 1962, premier règlement d’application des articles 85
+et 86 du traité2 et à l’article 2 du règlement (CE) n° 2842/98 de la Commission du 22
+décembre 1998 relatif à l’audition dans certaines procédures fondées sur les articles 85 et 86
+du traité CE3,
+
+après consultation du comité consultatif en matière d’ententes et de positions dominantes,
+
+vu le rapport final du conseiller-auditeur dans la présente affaire4,
+
+considérant ce qui suit :
+
+1 JO L 1 du 4.1.2003, p. 1. Règlement modifié par le règlement (CE) n° 411/2004 (JO L 68 du 6.3.2004,
+p. 1).
+
+2 JO 13 du 21.2.1962, p. 204/1962. Règlement abrogé par le règlement (CE) n° 1/2003.
+
+3 JO L 354 du 30.12.1998, p. 18. Règlement abrogé par le règlement (CE) n° 773/2004 (JO L 123 du
+27.4.2004, p. 18).
+
+4 JO C
+
+FR 2 FR
+
+1. INTRODUCTION – OBJET DE L’AFFAIRE
+
+(1) La présente décision vise une clause imposant une restriction territoriale à la vente de
+gaz naturel présente dans un contrat de transit conclu par Gaz de France (ci-après
+« GDF ») avec SNAM S.p.A. (ci-après « SNAM »), société du groupe ENI. Cette
+clause impose que le gaz objet du contrat de transit soit commercialisé en aval du
+point de relivraison situé à la frontière entre la France et la Suisse.
+
+(2) Dans le cadre de la présente affaire, la Commission a également examiné une clause
+de restriction territoriale contenue dans un contrat de service conclu par GDF avec
+l'entreprise italienne ENEL S.p.A. (ci-après « ENEL ») et transféré par cette dernière
+à ENEL Trade S.p.A. (ci-après « ENEL Trade »)5. Cette clause fait l'objet de la
+décision de la Commission du 26 octobre 2004 dans l’affaire GDF (notifiée sous le
+numéro C(2004)4100).
+
+2. LES PARTIES
+
+2.1. Gaz de France
+
+(3) Gaz de France est un établissement public à caractère industriel et commercial (EPIC)
+créé par la loi n° 46-628 du 8 avril 1946, qui lui avait confié la gestion des activités
+nationalisées du secteur gazier6. Aujourd'hui, GDF est à la tête d'un groupe actif dans
+l'exploration, la production, l'importation, le transport, la distribution et la vente du gaz
+naturel, ainsi que dans les services, et elle est présente dans 33 pays7. Notamment en
+France, outre l'EPIC8, une autre société du groupe GDF, la Compagnie Française
+du Méthane (CFM)9, est également active dans le transport et la vente du gaz naturel.
+
+(4) Le chiffre d'affaires du groupe GDF en 2003 s'élevait à 16 647 millions d’euros10.
+
+5 Voir, sur cette clause et sur le contrat qui la contient, le considérant (71) et la note de bas de page n° 71.
+
+6 Avant la fin de l'année 2004, GDF cessera d'être un EPIC et deviendra une société anonyme, comme
+prévu par la loi n° 2004-803 du 9 août 2004 (JORF n° 185 du 11 août 2004).
+
+7 Voir Gaz de France, "Rapport annuel 2001", p. 1.
+
+8 Sauf précision contraire, toute mention des activités de GDF dans la présente décision doit s'entendre
+comme se référant exclusivement aux activités de l'EPIC.
+
+9 Conformément aux informations fournies dans Gaz de France, "Rapport annuel 2001", p. 4, et sur le
+site Internet de CFM (http://www.cfm-gaz.fr/fr), GDF détient 55 % du capital de CFM, les 45 %
+restants étant détenus par Total SA. Selon un communiqué de presse de la Commission de régulation de
+l'énergie, dans le passé Commission de régulation de l'électricité, du 17 décembre 2003, GDF aurait
+signé avec Total un protocole d'accord aux termes duquel GDF devrait devenir le seul actionnaire
+de CFM.
+
+10 Voir Gaz de France, "Comptes consolidés 2003", p. 14.
+
+FR 3 FR
+
+2.2. ENI S.p.A.
+
+(5) ENI S.p.A est une société de droit italien, chef de file du groupe ENI (ci-après
+« ENI »), qui est actif, au niveau international, dans les secteurs de la prospection, de
+l’extraction, du raffinage, du transport et de la commercialisation des hydrocarbures,
+dans la production d'énergie électrique, dans la pétrochimie et dans l'ingénierie et les
+services. En 2003, ENI avait un chiffre d'affaires de 51 487 millions d’euros11.
+
+(6) SNAM était une société de droit italien contrôlée par ENI qui, avec ses filiales, était
+active dans l'approvisionnement, le transport, la distribution et la vente du gaz naturel.
+En 2001, SNAM avait un chiffre d'affaires de 13 676 millions d’euros12. SNAM a
+cessé d'exister le 1er février 2002, date à laquelle l'acte de fusion par incorporation
+de SNAM dans ENI S.p.A., adopté le 30 janvier 2002 en exécution d'une délibération
+de l'Assemblée des actionnaires du 2 juin 2001, a déployé ses effets juridiques. A cette
+date, les activités menées jusqu'alors par SNAM ont été confiées à la Division G & P
+(Gas and Power) de ENI S.p.A13.
+
+3. LE SECTEUR ET SON CONTEXTE LEGAL ET REGLEMENTAIRE
+
+3.1. Le secteur
+
+(7) La présente décision concerne le secteur du gaz naturel. Le gaz naturel est une source
+primaire d'énergie, composée en majorité de produits hydrocarbonés, et notamment de
+méthane. La consommation de gaz naturel constitue 24 % de la consommation
+d'énergie primaire par type de combustible dans la Communauté et 14 % en France14.
+
+(8) Extrait de gisements situés dans le sous-sol terrestre ou marin et traité pour éliminer
+certaines impuretés, le gaz naturel est communément transporté par des gazoducs
+souterrains, ce qui fait du secteur gazier une industrie en réseau (network industry).
+Compte tenu, inter alia, du fait que les réseaux sont caractérisés par des rendements
+d'échelle croissants15 et par des coûts irréversibles et particulièrement importants, ainsi
+que par des temps de construction très longs, qui en rendent généralement la
+duplication non économiquement viable, les gazoducs sont considérés comme des
+monopoles naturels.
+
+11 Voir ENI, "Bilancio 2003”, p. 6.
+
+12 Voir SNAM, "Bilancio al 31 dicembre 2001", p. 4.
+
+13 Voir ENI, "Bilancio al 31 dicembre 2001", p. 22, ainsi que l'acte de fusion, daté du 30 janvier 2002,
+transmis par ENI à la Commission le 22 mai 2003.
+
+14 Données se référant à l'année 2001 et figurant dans "Eurogas Annual Report 2001", p. 15.
+
+15 On se réfère au terme de "rendements d'échelle croissants" ou bien de "coûts sous-additifs" quand la
+somme des quantités d'un bien produit par plusieurs entreprises a des coûts de production plus élevés
+par rapport au coût de la même quantité totale dans l'hypothèse où cette quantité aurait été produite par
+une seule entreprise.
+
+FR 4 FR
+
+(9) En cas de longs trajets, il peut être économiquement intéressant de transporter le gaz
+naturel à l'état liquide dans des navires méthaniers ; il prend, dans ce cas, la
+dénomination de Gaz Naturel Liquéfié (GNL). A l'arrivée au port de destination, le
+gaz devra être à nouveau reconduit à l'état gazeux dans des installations appropriées,
+pour être transporté ensuite à travers des gazoducs16.
+
+(10) La consommation de gaz naturel dans la Communauté a été, en 2001,
+de 403 835 millions de m3, tandis qu'en France elle se chiffrait à 44 915 millions
+de m3 17. En 2002, la consommation en France s'élevait à 44 600 millions de m3 18. Le
+chiffre provisoire pour 2003 est de 46 600 millions de m3 19 20.
+
+(11) 55,7 % du gaz naturel consommé dans la Communauté y est produit, notamment
+au Royaume-Uni, aux Pays-Bas et au Danemark ainsi qu'en Italie et en Allemagne21.
+Quant à la France, elle importe plus de 97 % du gaz naturel consommé22.
+
+(12) Les importations de gaz naturel dans la Communauté se font en large partie dans le
+cadre de contrats à long terme offrant une flexibilité limitée, ce qui rend le marché
+gazier peu fluide. En effet, les disponibilités en gaz de court et moyen terme pouvant
+contribuer à une concurrence plus active sur le marché gazier sont encore très limitées
+(de l'ordre de 5 à 10 % de la consommation européenne)23.
+
+(13) Le gaz naturel est utilisé principalement dans l'industrie (comme combustible ou, dans
+les industries chimiques et parachimiques, pour la fabrication notamment de gaz de
+synthèse, d'engrais azotés ou d'ammoniac), pour la production d'énergie électrique et
+par les usagers domestiques, pour la cuisine, le chauffage et la production d'eau
+chaude. Les tableaux 1 et 2 montrent les parts des différents types de consommation
+dans la Communauté et en France en 200124.
+
+16 Les terminaux méthaniers avec installations de regazéification existants en Europe sont les suivants:
+Montoir-de-Bretagne et Fos-sur-Mer en France, Zeebrugge en Belgique, Huelva, Cartagena
+et Barcelone en Espagne, Panigaglia en Italie et Revithoussa en Grèce.
+
+17 Données figurant dans "Eurogas Annual Report 2001", p. 17.
+
+18 Données figurant sur le site Internet d'Eurogas (www.eurogas.org).
+
+19 Données figurant sur le site Internet d'Eurogas (www.eurogas.org).
+
+20 Le chiffre concernant la consommation de gaz naturel en 2002 qui figurait dans la communication des
+griefs adoptée le 26 février 2004 et transmise aux parties était le chiffre provisoire fourni par Eurogas.
+La différence entre le chiffre définitif et le chiffre provisoire (44 600 millions vs. 44 400 millions) est
+cependant peu significative. La communication des griefs ne mentionnait pas le chiffre provisoire de
+l'année 2003.
+
+21 Données se référant à l'année 2001 et figurant dans "Eurogas Annual Report 2001", p. 18.
+
+22 Voir Commission de régulation de l'électricité, "Rapport sur l'ouverture du marché gazier français,
+24 octobre 2002", p. 7.
+
+23 Voir Commission de régulation de l'électricité, "Rapport sur l'ouverture du marché gazier français,
+24 octobre 2002", p. 8.
+
+24 Données figurant dans "Eurogas Annual Report 2001", p. 17.
+
+FR 5 FR
+
+Tableau 1
+
+Utilisation du gaz naturel dans la
+Communauté
+
+Industries
+5%
+Secteur
+thermoélectrique 38% 31%
+Secteur tertiaire
+
+Usages
+domestiques
+10% 16% Autres
+
+Tableau 2
+
+Utilisation du gaz naturel en France
+
+2%
+Industries
+
+36% Secteur tertiaire
+46%
+Usages
+domestiques
+Autres
+16%
+
+3.2. La structure du secteur gazier et le cadre réglementaire dans la Communauté
+
+(14) La structure du secteur gazier européen a été traditionnellement caractérisée par des
+démarcations horizontales, c'est-à-dire entre différents marchés géographiques, et,
+parfois, par des démarcations verticales, c'est-à-dire entre les différentes phases de la
+chaîne de production, qui limitent les activités des entreprises. Plusieurs Etats
+membres ont longtemps accordé à certaines entreprises des droits spéciaux ou
+exclusifs. Les entreprises du secteur sont souvent intégrées verticalement et sont
+présentes dans toutes les phases de la filière gazière en aval: importation, transport,
+stockage, distribution et vente aux consommateurs finals. Certaines entreprises
+européennes sont également présentes dans la production, dans leur pays ou à
+l'étranger.
+
+FR 6 FR
+
+(15) Actuellement, cette structure traditionnelle fait l'objet d'une profonde modification,
+suite au processus de libéralisation en cours dans la Communauté. L'objectif
+fondamental de ce processus est non seulement l'élimination des droits spéciaux ou
+exclusifs dans chaque Etat membre mais aussi la création d'un marché intégré du gaz
+naturel à l'échelle européenne. En effet, par l'ouverture de la demande, qui s'est faite de
+manière graduelle, le processus de libéralisation vise à offrir aux consommateurs
+européens, qui souvent ne pouvaient s'approvisionner qu'auprès du monopole actif au
+niveau national, régional ou local, la possibilité de choisir entre les offres de plusieurs
+entreprises, aussi bien nationales qu'étrangères. De même, par l'établissement du
+principe de l'accès des tiers aux réseaux, le processus de libéralisation entend
+permettre aux entreprises concurrentes d'accéder aux territoires de ventes
+traditionnellement desservis par les opérateurs verticalement intégrés.
+
+(16) Ainsi, la directive 98/30/CE du Parlement européen et du Conseil du 22 juin 1998
+concernant des règles communes pour le marché intérieur du gaz naturel25, qui devait
+être transposée par les Etats membres avant le 10 août 2000, établissait trois principes
+fondamentaux: l'ouverture minimale de la demande, égale à 20 % au moins de la
+consommation annuelle nationale à la date limite fixée pour la transposition de
+la directive et s'élevant à 28 % de ladite consommation à partir du 10 août 2003; le
+principe de l'accès des tiers, négocié ou bien réglementé, aux réseaux de transport et
+distribution; le principe de séparation comptable (standard minimum) des activités de
+transport, distribution et stockage.
+
+(17) Une nouvelle proposition de directive modifiant la directive 98/30/CE a été présentée
+par la Commission le 13 mars 200126 et a abouti à l’adoption de la directive
+2003/55/CE du Parlement européen et du Conseil du 26 juin 2003 concernant des
+règles communes pour le marché intérieur du gaz naturel et abrogeant la directive
+98/30/EC. Elle vise à accélérer la libéralisation du marché gazier. Les modifications
+les plus importantes introduites par la nouvelle directive sont les suivantes: l'ouverture
+de la demande au 1er juillet 2004 pour les clients non domestiques et au 1er juillet 2007
+pour les clients domestiques; l'accès des tiers réglementé aux réseaux de transport et
+de distribution et négocié ou réglementé aux installations de stockage; la séparation
+juridique (standard minimum) des activités de transport et de distribution par rapport
+aux activités de fourniture.
+
+3.3. La structure du secteur gazier et le cadre réglementaire en France
+
+(18) En France, la loi n° 46-628 du 8 avril 1946 avait nationalisé les activités de
+production, transport, distribution, importation et exportation et les avait confiées
+à GDF. La loi de 1946 a été interprétée par le Conseil d'Etat comme conférant à GDF
+les monopoles d'importation et d'exportation du gaz en France. Les activités de
+production et de transport du gaz naturel avaient ensuite été exclues de la
+nationalisation en 1949 mais le transport devait être exercé en régime de concession,
+
+25 JO L 204 du 21.7.1998, p. 1. Directive abrogée par la directive 2003/55/CE (JO L 176 du 15.7.2003, p.
+57).
+
+26 COM (2001) 12
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+he
+3, du traité à des catégories d'accords verticaux et de pratiques concertées116,
+l'article 81, paragraphe 1, du traité est déclaré inapplicable aux accords et pratiques
+concertées, conclus entre deux ou plus de deux entreprises dont chacune opère, aux
+fins de l’accord, à un niveau différent de la chaîne de production ou de distribution et
+qui concernent les conditions dans lesquelles les parties peuvent acheter, vendre ou
+revendre certains biens ou services, communément appelés les produits (biens ou
+services) contractuels.
+
+(117) Or, comme la clause "destinées à être commercialisées en aval du Point
+de Relivraison" concerne les conditions de revente du gaz naturel, il est possible que le
+règlement (CE) n° 2790/1999 ne soit pas applicable ratione materiae à ladite clause
+car le produit contractuel dont il est question dans le Contrat de Transit serait le
+service de transport du gaz naturel sur le territoire français et non pas le gaz naturel.
+
+(118) Toutefois, cette question n'a pas à être tranchée en l'espèce. En effet, même en
+émettant l'hypothèse que le règlement (CE) n° 2790/1999 soit applicable, il est de
+toute manière à exclure que l’accord en question puisse bénéficier dudit règlement:
+conformément à l'article 4, point b), dudit règlement, l'exemption "ne s'applique pas
+aux accords verticaux qui [...] ont pour objet [...] la restriction concernant le territoire
+dans lequel [...] l'acheteur peut vendre les biens ou services contractuels". Or, la
+clause "destinées à être commercialisées en aval du Point de Relivraison" restreint
+précisément le territoire dans lequel ENI peut vendre le gaz117. La clause ne
+correspond, par ailleurs, à aucune des exceptions prévues à l'article 4, point b), du
+règlement (CE) n° 2790/1999.
+
+(119) Dans ces conditions, il n'est pas nécessaire non plus de se prononcer sur l'éventuelle
+applicabilité de l'art. 2, paragraphe 4, du règlement (CE) n° 2790/1999 concernant les
+accords verticaux conclus entre entreprises concurrentes.
+
+(120) Par ailleurs, un examen des conditions pour l'application de l’article 81, paragraphe 3,
+du traité au cas individuel en cause révèle que ces conditions – cumulatives – ne sont
+pas toutes remplies. En effet, l'article 81, paragraphe 3, du traité exige entre autres que
+l'accord en cause contribue à améliorer la production ou la distribution des produits ou
+à promouvoir le progrès technique, tout en réservant aux utilisateurs une partie
+équitable du profit qui en résulte. En outre, l'accord ne doit pas imposer des
+restrictions qui ne sont pas indispensables pour atteindre ces objectifs et ne doit pas
+donner la possibilité d'éliminer la concurrence pour une partie substantielle des
+produits en cause.
+
+(121) Or, ni GDF, ni ENI n’ont fourni d'argument probant indiquant que les conditions
+énumérées au considérant (120) aient été remplies. En tout état de cause, rien ne
+permet de déduire qu’une partie équitable du profit est réservée aux utilisateurs.
+
+116 JO L 336 du 29.12.1999, p. 21. Règlement modifié par l’acte d’adhésion de 2003.
+
+117 Voir à cet égard le considérant (64).
+
+FR 28 FR
+
+(122) Il découle de tout ce qui précède que le Contrat de Transit conclu par GDF et SNAM
+et contenant la clause "destinées à être commercialisées en aval du Point
+de Relivraison" constitue un accord entre entreprises qui relève du champ d'application
+de l'article 81, paragraphe 1, du traité, et ne saurait bénéficier des dispositions de
+l'article 81, paragraphe 3, du traité.
+
+9. DUREE DE L'INFRACTION
+
+(123) Comme le Contrat de Transit a été conclu le 13 octobre 1997, l'infraction pourrait être
+considérée comme ayant débuté à cette date.
+
+(124) Compte tenu des spécificités du secteur gazier et des circonstances particulières de
+l'espèce, il serait possible également de prendre en considération, afin d'établir le début
+de l'infraction, le moment à partir duquel la clause contestée pouvait entraver les
+exportations de gaz naturel vers d'autres Etats membres, et notamment le fait que
+l'exécution du Contrat de Transit n'a pu débuter au plus tard que le 1er octobre 2001118.
+
+(125) Depuis lors, GDF a notamment relivré à ENI des volumes de gaz naturel à Oltingue. A
+partir de ce moment, comme depuis août 2000, date limite fixée pour la transposition
+de la directive 98/30/CE, les transporteurs français, et notamment GDF, avaient donné
+accès à leurs réseaux de transport119, ENI aurait pu, en l'absence de la clause contestée,
+utiliser librement le gaz objet du Contrat de Transit et le revendre en France.
+
+(126) En l'espèce, la question de savoir si la restriction a débuté déjà au moment de la
+signature du Contrat de Transit ne doit pas être examinée. Il peut être donc conclu que
+l’infraction a débuté au plus tard le 1er octobre 2001.
+
+(127) Comme la clause litigieuse a été supprimée par l’avenant du 14 novembre 2003,
+l'infraction a pris fin à cette date.
+
+(128) L’appréciation de la Commission concernant la durée de l’infraction ne saurait être
+modifiée par le fait que les parties ont stipulé dans l’avenant du 14 novembre 2003 que
+celui-ci prendrait effet rétroactivement, à la date de la signature du Contrat de Transit.
+En effet, le caractère "rétroactif" de cette modification n’affecte pas le fait que,
+pendant toute la durée infractionnelle retenue, l’acheteur devait tenir compte de la
+clause litigieuse pour déterminer son comportement sur le marché.
+
+10. DESTINATAIRES
+
+(129) Les destinataires de la présente décision sont GDF et ENI S.p.A. En effet, GDF est
+partie au Contrat de Transit contenant la clause contestée. ENI S.p.A., quant à elle, est
+tenue pour responsable des actions de SNAM, l'autre partie audit Contrat de Transit,
+en raison du fait que SNAM a cessé d'exister suite à sa fusion par incorporation
+
+118 Voir le considérant (43).
+
+119 Voir sur ce point le considérant (51), (109) et (110).
+
+FR 29 FR
+
+dans ENI S.p.A., qui a pris effet le 1er février 2002120. Ladite opération a entraîné le
+transfert dans le chef d'ENI S.p.A. de tous les droits et obligation de SNAM. A partir
+du 1er février 2002, ENI S.p.A était elle-même partie au contrat contenant la clause
+contestée et donc responsable à ce titre de l'infraction.
+
+11. MESURES CORRECTIVES
+
+(130) Conformément à l'article 7, paragraphe 1, du règlement n° 1/2003, "si la Commission,
+agissant d'office ou saisie d'une plainte, constate l'existence d'une infraction aux
+dispositions de l'article 81 ou de l'article 82 du traité, elle peut obliger par voie de
+décision les entreprises [...] intéressées à mettre fin à l'infraction constatée. [...]
+Lorsque la Commission y a un intérêt légitime, elle peut également constater qu'une
+infraction a été commise dans le passé"121.
+
+(131) Or, l’infraction a pris fin le 14 novembre 2003.
+
+(132) Toutefois, la Commission a un intérêt légitime, au sens de l’article 7, paragraphe 1, in
+fine du règlement (CE) n° 1/2003, à constater que GDF et ENI S.p.A. ont contrevenu
+aux dispositions de l'article 81 du traité, compte tenu de la gravité122 et des
+circonstances de l’infraction. Depuis que le secteur gazier a été ouvert à la
+concurrence, assurer le respect des règles de concurrence du traité est devenu plus
+important encore qu’auparavant. Il faut éviter que GDF et ENI en particulier, ainsi que
+les autres entreprises actives dans ce secteur, considèrent, ou continuent à considérer, à
+tort, que des pratiques telles que celles observées en l’espèce sont conformes au droit
+communautaire. L’intérêt à constater l’infraction est en l’espèce d’autant plus évident
+que GDF et ENI ont contesté le caractère anticoncurrentiel de la clause litigieuse et
+qu’il existe donc un risque que le comportement infractionnel soit répété.
+
+(133) La Commission ne considère pas qu'il soit approprié en l'espèce d'infliger des amendes
+aux destinataires de la présente décision en vertu de l'article 23, paragraphe 2, du
+règlement (CE) n° 1/2003. En effet, la Commission tient compte des spécificités du
+secteur gazier européen et des circonstances propres au cas d'espèce. En particulier, le
+secteur gazier est l'objet d'un processus de libéralisation qui implique une évolution
+profonde dans les pratiques commerciales des acteurs qu'y sont présents, notamment
+celles liées à la commercialisation du gaz naturel dans des Etats membres autres que
+celui où chaque opérateur a été traditionnellement établi. Dans ce secteur, la présente
+décision est la première concernant des restrictions territoriales.
+
+120 Voir le considérant (6).
+
+121 Cette dernière faculté correspond à celle reconnue par la jurisprudence de la Cour sur la base
+du règlement n° 17: voir l'arrêt de la Cour de Justice du 2 mars 1983, Gesellschaft zur Verwertung
+von Leistungsschutzrechten mbH (GVL) contre Commission, 7/82, Rec. p. 483.
+
+122 Voir notamment, l'arrêt du Tribunal précité Volkswagen AG c. Commission, point 336.
+
+FR 30 FR
+
+12. CONCLUSIONS
+
+(134) Par conséquent, et compte tenu des arguments exposés, la Commission est parvenue à
+la conclusion que Gaz de France et ENI S.p.A. ont conclu un accord qui avait pour
+objet de restreindre le territoire dans lequel ENI pouvait revendre le gaz objet du
+Contrat de Transit et de cloisonner le marché européen du gaz.
+
+(135) Elles ont ainsi contrevenu aux dispositions de l'article 81 du traité,
+
+FR 31 FR
+
+A ARRÊTÉ LA PRÉSENTE DÉCISION:
+
+Article premier
+
+Par le contrat de transit du 13 octobre 1997, Gaz de France et ENI S.p.A. ont contrevenu aux
+dispositions de l’article 81 du traité en concluant un accord qui avait pour objet de restreindre
+le territoire dans lequel ENI pouvait revendre le gaz objet du contrat de transit et de
+cloisonner le marché européen du gaz.
+
+L’infraction a duré du 1er octobre 2001, au plus tard, au 14 novembre 2003.
+
+Article 2
+
+Sont destinataires de la présente décision:
+
+1) Gaz de France
+
+23, rue Philibert Delorme
+
+F-75840 Paris Cedex 17
+
+France
+
+2) ENI S.p.A.
+
+Piazzale Enrico Mattei, 1,
+
+I-00144 Roma,
+
+Italie.
+
+Fait à Bruxelles, le 26 octobre 2004
+
+Par la Commission
+
+Mario MONTI
+Membre de la Commission
+
+FR 32 FR

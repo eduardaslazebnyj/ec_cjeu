@@ -1,0 +1,407 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+The Commission's assessment of Microsoft's innovation claims
+In the column "Prior Art", the symbol [PA] indicates that the reference is cited as prior art, the symbol [R] means that it is cited as a reference.
+
+The following applies in the column "References":
+[July-T, x] = 8 July Trustee report, page x
+[March-T, x] = 3 March Trustee report (as amending the 22 February Trustee report), page x
+[Ecis, x] = Ecis's comments to Microsoft's Response to the 1 March SO, page x
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Active ADFS Combination of The combination of all the mentioned April 2004 The use of the five Microsoft's innovation report The claimed innovation is the [July-T, 4]
+Directory ADFS ADFS technologies. individual ADFS on "Microsoft Web Browse combination of different features
+Federation Technologies innovations in Federated Sign-on Protocol & belonging to the same protocol.
+Services combination is Microsoft Web Browser Combining these individual
+undisclosed and not Federated Sign-On Protocol features is an obvious step for a
+obvious. Extensions" person skilled in the art.
+NON-INNOVATIVE
+
+Active ADFS Defining ADFS defines communications between April 2004 The protocol Microsoft's innovation report The claim concerns resolving [PA] Anderson, Steve et al: Web Services [July-T, 4]
+Directory Authentication a resource identity provider and a web delivers on "Microsoft Web Browse problems which are specific to Trust Language (WS-Trust) (1 May 2004; [March-T, 110]
+Federation Communications service resource. maintainability by Federated Sign-on Protocol & Microsoft's implementation. The http://www.ibm.com/developerworks/libra
+Services defining Microsoft Web Browser claim describes something which ry/specification/ws-trust/; Microsoft has
+authentication. Federated Sign-On Protocol was obvious to somebody skilled participated in the development of WS-
+Extensions", pages 20 to 21. in the art. NON-INNOVATIVE Trust.)
+[PA] Bajaj, Siddharth et al: Web Services
+Federation Language (WS-Federation),
+Version 1.0 (8 July 2003;
+http://www.msdn.microsoft.com/ws/2003/
+07/ws-federation)
+
+Active ADFS SAML ADFS uses SAML to encapsulate April 2004 The protocol Microsoft's innovation report The claim describes something [PA] OASIS, Security Services Technical [July-T, 4]
+Directory Encapsulation of security IDs in tokens used to delivers security on "Microsoft Web Browse which was obvious to somebody Committee: SAML v1.0 Specification Set [March-T, 110]
+Federation Security IDs in authenticate access to Windows and efficiency by Federated Sign-on Protocol & skilled in the art. NON- (5 November 2002 (adoption as an OASIS
+Services Tokens applications. This ensures that only implementing Microsoft Web Browser INNOVATIVE standard); http://www.oasisauthorized users have access to Windows SAML Federated Sign-On Protocol open.org/committees/tc_home.php?wg_ab
+applications. Encapsulation of Extensions", pages 13 to 18. brev=security)
+Security IDs in
+Tokens.
+
+Page 1 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Active ADFS Single Sign-on ADFS implements single-sign on April 2004 The protocol Microsoft's innovation report NON-INNOVATIVE [PA] U.S. Patent 5,684,950: Method and [July-T, 3]
+Directory Capabilities for capabilities for web access by delivers usability on "Microsoft Web Browse system for authenticating users to multiple [March-T, 109]
+Federation Web Access authenticating a user to a web resource via a third-party Federated Sign-on Protocol & computer servers via a single sign-on
+Services through a third party authentication authentication Microsoft Web Browser (Lockheed Martin Corporation; 4
+broker service. service. Federated Sign-On Protocol November 1997 (Filed 23 September 1996
+Extensions", pages 8 to 13. as 08/717,961))
+[PA] SecureComputing: SafeWord
+PremierAccess Authentication Broker
+(http://www.securecomputing.com/index.c
+fm?skey=854)
+[PA] Paschoud, John/McLeish, Simon:
+Managing Access to Decomate Resources
+(Logged into Economics: An assessment
+of the European Digital Library
+DECOMATE II, Barcelona, Spain; June
+2000; http://hdl.handle.net/1988/2806)
+[PA] Rivest, Ronald A./Lampson, Butler:
+SDSI - A Simple Distributed Security
+Infrastructure (15 September 1996;
+http://people.csail.mit.edu/rivest/sdsi10.ht
+ml)
+[PA] Lampson, Butler et al:
+Authentication in distributed systems:
+Theory and practice (ACM Transactions
+on Computer Systems 10(4); 265-310;
+November 1992;
+http://portal.acm.org/citation.cfm?id=1388
+74)
+[R] Leach, Paul J. et al: A Conceptual
+Authorization Model for Web Services (K.
+Sparck-Jones and A. Herbert (eds.):
+Computer Systems: Theory, Technology,
+and Applications; 137-146; 2004;
+http://research.microsoft.com/Lampson/71
+-ConceptualWebAuthZ/71-
+ConceptualWebAuthZ.pdf)
+
+Active ADFS Use of HTTP ADFS uses query strings in HTTP April 2004 The protocol Microsoft's innovation report The claim describes something [PA] RFC 2965: HTTP State Management [July-T, 3]
+Directory Query Strings messages as a way to transmit web delivers on "Microsoft Web Browse which was obvious to somebody Mechanism (October 2000; [March-T, 110]
+Federation access authentication information to a interoperability and Federated Sign-on Protocol & skilled in the art. NON- http://tools.ietf.org/html/rfc2965)
+Services web resource via a client. One common adaptability by the Microsoft Web Browser INNOVATIVE [PA] RFC 2616: Hypertext Transfer
+way of transmitting this authentication innovation of Query Federated Sign-On Protocol Protocol -- HTTP/1.1 (June 1999;
+information is through the use of HTTP Strings in HTTP Extensions", pages 18 to 20. http://tools.ietf.org/html/rfc2616)
+Post messages. However, many clients messages.
+do not support the use of HTTP Post.
+Data transfer using HTTP is a way to
+overcome these limitations.
+
+Page 2 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Active ADFS Windows ADFS uses SAML Security Tokens to April 2004 The protocol Microsoft's innovation report The claim describes something [PA] NetBSD Programmer's Manual: [March-T, 111]
+Directory Security transport security information including delivers efficiency on "Microsoft Web Browse which was obvious to somebody Name-Service Switch (nsswitch) (22
+Federation Principal the identity of the requesting party. In a through Windows Federated Sign-on Protocol & skilled in the art. NON- January 1998; http://netbsd.gw.com/cgi-
+Services Mapping Windows environment, identities are Security Principal Microsoft Web Browser INNOVATIVE bin/man-cgi?nsswitch.conf++NetBSDstored in an Active Directory server as Mapping Federated Sign-On Protocol 1.4.3)
+Windows Security Principals. ADFS Innovation. Extensions", pages 21 to 22. [PA] Sun Microsystems: Name-Service
+bridges the gap between Windows Switch (nsswitch) (SunOS Manual;
+Security Principals by mapping the December 2005;
+Subject element of a Security Token to a http://compute.cnr.berkeley.edu/cgi-
+Windows Security Principal and then bin/man-cgi?nsswitch.conf; This is a
+replacing the AuthIdentity value with recent manual reference, but nsswitch has
+Windows Security Principal. This allows been available since at least 1986 as part
+a server to quickly access security of BSD UNIX 4.3.)
+information in an Active Directory when
+starting with a Security Token.
+
+Microsoft CISP Open Connect A client has traditionally needed to create July 1996 The Open Connect Microsoft's Innovation The claim describes something [R] Koch, George: Oracle 7 [March-T, 124]
+Content Feature a connection with a server in order to Feature enhances Report: "Content Indexing which was obvious to somebody (Osborne/McGraw-Hill, second revised
+Indexing issue every query of a content indexing efficiency by Service", pages 8 and 9. skilled in the art. NON- edition; 609; March 1993)
+Services service. Clients often make repeated allowing multiple INNOVATIVE [PA] ISO: Information processing systems
+Protocol connections to a server in order to queries to be made - Database language - SQL (ISO
+present multiple queries. This consumes serially through a 9075:1987;
+more resources and is cumbersome. CISP single connection. http://archive.opengroup.org/public/tech/d
+eliminates this problem through its Open atam/sql.htm; The linked article provides
+Connect Feature. This feature creates a some background about the chronology of
+client-server connection that enables the the SQL standards.)
+client to issue multiple queries to the [PA] O'Neil, Patrick: Database: Principles,
+server. As a result, clients can more Programming, and Performance (Morgan
+efficiently query a content indexing Kaufmann Publishers, San Francisco, first
+server. edition; 1994)
+
+Microsoft CISP Oversized If a requested property is too large to fit July 1996 Oversized Property Microsoft's Innovation NON-INNOVATIVE [R] Microsoft: FP97: Using FrontPage [July-T, 11]
+Content Property Value into a response buffer, then the server Value Fetching Report: "Content Indexing Search Engine Instead of Microsoft Index [March-T, 124]
+Indexing Fetching flags the property as deferred rather than enhances efficiency Service", pages 9 and 10. Server (Frontpage 97 was released in
+Services sending it. By way of a specific message by avoiding 1997.;
+Protocol the client requests the deferred property property value http://support.microsoft.com/kb/181204/E
+in a series of successive chunks. query result delays. N-US/)
+[R] Kahle, Brewster: Wide Area
+Information Servers Concepts (Thinking
+Machines, technical report TCM 202;
+November 1988;
+http://nti.uji.es/software/Simple/docs/wais
+-concepts.txt)
+[PA] Hewlett-Packard: ALLBASE/SQL C
+Application Programming Guide, fourth
+edition (Manufacturing Part Number:
+36216- 90080; 1992)
+[PA] ANSI: Information Retrieval
+Application Service Definition and
+Protocol Specification (ANSI Z39.50-
+1995; 1995;
+http://www.loc.gov/z3950/agency/markup
+/markup.html)
+[PA] ANSI: Information Retrieval
+Application Service Definition and
+Protocol Specification (ANSI Z39.50-
+1988; 1988)
+
+Page 3 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Microsoft CISP Pointer Rows are grouped hierarchically. A July 1996 Pointer Embedding Microsoft's Innovation NON-INNOVATIVE [R] Netscape: Netscape Catalog Server [July-T, 11-12]
+Content Embedding certain message is used to request rows enhances efficiency Report: "Content Indexing Version 1.0 [March-T, 125]
+Indexing from a query. Another message replies by reducing the Service", pages 11 and 12. (http://web.archive.org/web/20030424203
+Services with the requested rows. A set of pointers burden on clients to 159/http://library.n0i.net/netscape/compas
+Protocol is used to identify the point at which data find desired data. s/)
+should be retrieved. [PA] ANSI: Information Retrieval
+Application Service Definition and
+Protocol Specification (ANSI Z39.50-
+1995; 1995;
+http://www.loc.gov/z3950/agency/markup
+/markup.html)
+[PA] ANSI: Information Retrieval
+Application Service Definition and
+Protocol Specification (ANSI Z39.50-
+1988; 1988)
+[R] Kahle, Brewster: Wide Area
+Information Servers Concepts (Thinking
+Machines, technical report TCM 202;
+November 1988;
+http://nti.uji.es/software/Simple/docs/wais
+-concepts.txt)
+
+Microsoft CISP Property Rich In querying a server, a client provides July 1996 Property Rich Microsoft's Innovation The description of the claim is [PA] O'Neil, Patrick: Database: Principles, [March-T, 123]
+Content Queries queries containing properties. Content Queries enhance Report: "Content Indexing unclear. NON-INNOVATIVE Programming, and Performance (Morgan
+Indexing indexing servers support numerous and usability, efficiency Service", page 8. Kaufmann Publishers, San Francisco, first
+Services diverse data types. Such data has and functionality by edition; 1994)
+Protocol typically been retrieved through a flat set efficiently [PA] Kahle, Brewster: Wide Area
+of properties whereby complex data has structuring data Information Servers Concepts (Thinking
+been extracted in an unstructured types. Machines, technical report TCM 202;
+manner. CISP has solved this problem November 1988;
+through property rich queries allowing http://nti.uji.es/software/Simple/docs/wais
+for a "divide and conquer" approach to -concepts.txt)
+data extraction. For example, CISP has
+defined globally unique property sets of
+extensible properties for efficiently
+extracting the desired data. By enhancing
+queries on the front end, search results
+have become more powerful.
+
+Page 4 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Microsoft CISP Query Results Previously, when a client received results July 1996 Query Results Microsoft's Innovation NON-INNOVATIVE [PA] Informant: [March-T, 125]
+Content Monitoring and from a server based on a query, the Monitoring and Report: "Content Indexing information.darthmouth.edu (Available
+Indexing Client Update server did not track whether there were Client Update Service", pages 12 and 13. before July 1996;
+Services Notification additional hits later within the scope of Notification http://groups.google.co.uk/group/alt.tv.ho
+Protocol the query. Therefore, unless the client ran improves reliability micide/browse_thread/thread/28cb88519c
+the same query periodically, the client by alerting clients ae1a54/9a4709ae76ded9df?lnk=st&q=info
+would be unaware of any updates. CISP to updated query rmant.
+solves this problem by having the CISP results. dartmouth.edu&rnum=1&hl=en#9a4709ae
+server track whether there are updates to 76ded9df; The informant was a service
+a query. If the client has indicated it that alerted subscribers to new additions to
+wishes to be notified of such updates, the the results of previously run queries.)
+server will send the updated query results [PA] Terry, Douglas B. et al: Continuous
+to the client. The client therefore does Queries over Append-Only Databases
+not need to rerun the same query. This (Proceedings of the 1992 ACM SIGMOD
+enhances reliability by ensuring that International Conference on Management
+clients automatically learn of updated of Data, San Diego, CA, USA; 321-330;
+results. June 1992)
+[PA] Urhan, Tolga/Franklin, Michael
+J./Amsaleg, Laurent: Cost-based Query
+Scrambling for Initial Delays (Proceedings
+of ACM SIGMOD; 130-141; 1998;
+http://citeseer.ist.psu.edu/urhan98costbase
+d.html)
+
+Microsoft CISP Remote Querying A server hosting a content indexing July 1996 Remote Querying Microsoft's Innovation NON-INNOVATIVE [PA] ANSI: Information Retrieval [July-T, 10]
+Content service is remotely accessed by a client. enhances usability Report: "Content Indexing Applicati
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+g workstation if the printer other technologies Asynchronous Notification http://www.linuxtoday.com/news_story.ph
+has not yet been installed. This is as it does not and Print Asynch RPC" p3?ltsn=1999-06-09-014-10-NW-SM)
+accomplished at least in part by using the require user
+"Environment" pointer, which specifies intervention.
+the operating system of the requesting
+workstation, in the printing request.
+
+Windows WINSPL Request Sender- In a network with multiple users and July 2005 Request Sender- Microsoft's Innovation NON-INNOVATIVE [R] Network Printing Alliance: The [July-T, 122-
+Print System Specific shared distributed resources such as Specific Report: "Windows Print Network Printing Alliance Protocol 123]
+Remote Notification printers, it is desirable for a user who Notification System Remote, Print (NPAP) (1993; [March-T, 131]
+Protocol issues a printing request to be able to provides usability Asynchronous Notification http://www.undocprint.org/formats/printer
+know the status of the printing job and security by and Print Asynch RPC", on _control_languages/npap; Was approved
+without having to be physically next to alerting users of pages 9 to 10. in 1997 as IEEE Standard 1284.1 (TIP/SI)
+the printer. For example, a user printer conditions Standard for Information Technology for
+requesting a printing job may not be and by restricting Transport Independent Printer/Scanner
+aware that the printer that received the notification to the Interface.
+job is out of paper or low on toner, and it request sender. (http://www.undocprint.org/formats/printe
+would be useful for the user to receive r_control_languages/tipsi))
+notifications of such conditions. In [PA] Isaacson, S. et al: Internet Printing
+certain cases, notification may concern Protocol/1.1: Event Notification
+private or security information that is not Specification (IETF Draft; 25 August
+to be viewed by another user. The 1999;
+Microsoft Request Sender-Specific http://www3.tools.ietf.org/html/draft-ietf-
+Notification innovation not only enables ipp-not-spec-00)
+notification of printer conditions but also
+ensures that only the user who requested
+the notification receives it.
+
+Page 66 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Workstation WSRP Customizable WSRP is designed for remotely querying July 1993 Customizable Microsoft's Innovation The claim describes something [PA] Kernighan, Brian W./Ritchie, Dennis [March-T, 65-
+Service Buffer Size and and configuring certain aspects of an Buffer Size and Report: "Workstation Service which was obvious to somebody M.: The C Programming Language, 66]
+Remote "Resume" SMB network redirector on a remote "Resume" Handles Remote", on pages 7 to 8. skilled in the art. NON- second edition (Prentice-Hall; 1989;
+Protocol Handle computer. Examples of information that provide INNOVATIVE http://www.cs.bellcan be retrieved include information extensibility to labs.com/cm/cs/cbook/)
+about the users currently active on the dynamically [PA] Forsberg, Chuck: The ZMODEM
+remote computer and the information address the number Inter Application File Transfer Protocol
+about the transport protocols currently of users and (14 October 1988;
+enabled on the remote computer. At least protocols supported http://timeline.textfiles.com/1988/10/14/1/
+a portion of an answer to a query is by a system. FILES/zmodem.txt)
+retrieved into a buffer. WSRP efficiently [PA] Stonebraker, Michael et al: The
+uses a customizable buffer size and design and implementation of INGRES
+incorporating an efficient means to (ACM Transactions on Database Systems
+identify and retrieve data exceeding the 1(3); 189-222; September 1976)
+buffer size. The querying application can
+specify a customized buffer size to suit
+the anticipated maximum size of the
+requested data. When the querying
+application issues a query with a
+specified buffer size that is smaller than
+the size of the requested data, a non-zero
+"resume" handle is generated to mark the
+location of the end of the data block that
+is sent to the buffer. This enables the
+querying application to issue a
+subsequent query acquiring a block of
+data starting where the last query left off.
+The "resume" handle may be employed
+repeatedly until all data is retrieved. This
+allows all of the requested data to be
+efficiently retrieved in multiple querying
+cycles. WSRP also provides for the
+querying application to issue a query
+with a buffer size that is large enough to
+retrieve all of the requested data in a
+single query. Moreover, with WSRP, to
+the extent the system utilizes a smaller
+number of users or transport protocols,
+the buffer size may be customized to
+retrieve the acquired information in
+fewer steps or even a single step. This
+allows a smaller network to use a smaller
+buffer when desired, without the need for
+preserving a large buffer in the event the
+network environment changes such that
+more information about logged-on users
+or transport protocols must be acquired.
+By permitting the querying application to
+choose whether to set a specific buffer
+size WSRP enables the user to easily
+adjust the querying operations to
+optimize the system performance.
+
+Page 67 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Windows WUSP Automatic Driver WUSP allows finding and installing the July 2005 Automatic Driver Microsoft's Innovation The claim describes something [R] Microsoft: Toaster Installation [July-T, 127-
+Update Installation correct driver in the case of a driver fault. Installation Report: "Windows Update which was obvious to somebody Package (MSDN; April 2005) 128]
+Service It also obtains and installs the driver promotes system Services:Client-Server", on skilled in the art. NON- [R] Jensen, Robert: Configuring an ATi [March-T, 72]
+Protocol automatically without requiring user stability and pages 15 to 18. INNOVATIVE card using YUM and the LIVNA
+intervention. usability by finding Repository (2007;
+and installing http://fedorasolved.org/videoappropriate drivers solutions/ati-yum-livna/; illustration, not
+without user prior art)
+intervention in the
+event of a driver
+fault.
+
+Windows WUSP Management of A client updates its own software when July 2005 Management of Microsoft's Innovation The claimed innovation is the [PA] Brown, Robert G./Pickard, Jonathan: [July-T, 129]
+Update Desired State such updates become available by Desired State Report: "Windows Update combination of different features YUM (Yellowdog Updater, Modified) [March-T, 73]
+Service pulling the desired updates, file-by-file, promotes Services:Client-Server", on belonging to the same protocol. HOWTO (April 2003;
+Protocol from a server. A client uses WUSP to scalability, system pages 18 to 21. Combining these individual http://www.phy.duke.edu/~rgb/General/yu
+periodically poll a server for approved stability, and features is an obvious step for a m_HOWTO/yum_HOWTO/yum_HOWT
+updates. The client receives a reduced usability by pulling person skilled in the art. O.html)
+list of possible updates from the update appropriate updates NON-INNOVATIVE
+service from which the client can select from a server on a
+desired updates. The client retrieves the file-by-file basis. It
+desired updates by sending requests to is innovative in
+obtain the individual update files. In one combination with
+prior design approach, the update service other WUSP
+must retain state information about each technologies.
+client in order to push update files onto
+the client. In another prior design
+approach, the client must request files
+over a dedicated connection, which limits
+the number of clients the service is
+capable of handling. WUSP enables large
+numbers of clients (e.g., 400 million) to
+access the update service over a short
+period of time, by enabling the clients to
+pull desired update files from one or
+more servers. A server no longer must
+retain the update state of each client and
+fewer system resources must be
+dedicated for providing the updates to the
+clients.
+
+Page 68 of 69
+
+Date of Reference in Microsoft's
+Protocol Technology Description of the technology Claimed benefit Assessment Prior Art References
+claim filing
+
+Windows WUSP Scalability by There is significant complexity in that July 2005 Such selective Microsoft's Innovation NON-INNOVATIVE [PA] PocketSoft: RTPatch Software [July-T, 126-
+Update Reducing each client may wish to download update information Report: "Windows Update (commericialised since 1991; 127]
+Service Download Size multiple updates of varying sizes. In transfer improves Services: Client-Server", on http://www.rtpatch.com/rtpatch.htm) [March-T, 71]
+Protocol some cases, one or more of these updates processing pages 7 to 15. [PA] Brown, Robert G./Pickard, Jonathan:
+must be installed before the other updates efficiency by YUM (Yellowdog Updater, Modified)
+can be installed, i.e., hierarchical pruning HOWTO (April 2003;
+prerequisites. In other cases, some unnecessary or less http://www.phy.duke.edu/~rgb/General/yu
+updates are more important than others - important content in m_HOWTO/yum_HOWTO/yum_HOWT
+e.g., security patches versus new each download O.html)
+software programs. In a prior design session.
+approach, a client would download all
+possible updates in the same session.
+Large downloads would tie up the
+resources of the server and could inhibit
+other users from obtaining important
+updates quickly. WUSP prioritizes
+updates and provides access to less than
+all possible updates in a given session.
+First, a determination is made as to
+which updates are available to a client.
+Next, the list of available updates is
+reduced based on the priority of an
+update, whether the update's
+prerequisites have been met, whether the
+update is a prerequisite for another
+update, and other such rules. WUSP also
+enables more users to more quickly
+access security updates.
+
+Page 69 of 69

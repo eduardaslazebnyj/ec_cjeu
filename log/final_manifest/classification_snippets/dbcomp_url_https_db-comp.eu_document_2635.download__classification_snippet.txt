@@ -1,0 +1,387 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EUROPEAN COMMISSION
+Competition DG
+
+CASE AT. 40735 - Online rail ticket
+distribution in Spain
+
+(Only the English text is authentic)
+
+ANTITRUST PROCEDURE
+Council Regulation (EC) No 1/2003
+
+Article 9 Regulation (EC) 1/2003
+Date: 17/01/2024
+
+This text is made available for information purposes only. A summary of this decision is
+published in all EU languages in the Official Journal of the European Union.
+
+Parts of this text have been edited to ensure that confidential information is not disclosed.
+Those parts are replaced by a non-confidential summary in square brackets or are shown as
+[...].
+
+EUROPEAN
+COMMISSION
+
+Brussels, 17.1.2024
+C(2024) 135 final
+
+COMMISSION DECISION
+
+of 17.1.2024
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU)
+
+Case AT.40735 Online rail ticket distribution in Spain
+
+(Only the English text is authentic)
+
+TABLE OF CONTENTS
+
+1. Subject Matter .............................................................................................................. 3
+2. The Party ...................................................................................................................... 4
+3. Procedural Steps Under Regulation No 1/2003 ........................................................... 4
+4. Overview of the Passenger Rail Ticket Distribution in Spain .................................... 5
+4.1. Renfe’s distribution system .......................................................................................... 5
+4.2. Third-party Ticketing Platforms .................................................................................. 7
+5. Preliminary Assessment ............................................................................................... 8
+5.1. Relevant markets .......................................................................................................... 8
+5.1.1. The upstream market for passenger rail transport services .......................................... 8
+5.1.1.1. Product market ............................................................................................................. 8
+5.1.1.2. Geographic market ....................................................................................................... 9
+5.1.2. The downstream market for online rail ticketing services ........................................ 10
+5.1.2.1. Product market ........................................................................................................... 10
+5.1.2.2. Geographic market ..................................................................................................... 12
+5.2. Dominant position ...................................................................................................... 12
+5.2.1. Principles .................................................................................................................... 12
+5.2.2. Application to this case .............................................................................................. 13
+5.2.2.1. Renfe’s position in the upstream market for passenger rail transport services .......... 13
+5.2.2.2. Renfe’s position in the downstream market for online rail ticketing services ........... 14
+5.3. Practices raising concerns .......................................................................................... 16
+5.3.1. Renfe’s behaviour ...................................................................................................... 16
+5.3.1.1. Renfe’s refusal to provide its full Content to Third-party Ticketing Platforms ......... 16
+5.3.1.2. Renfe’s refusal to supply RTD to Third-party Ticketing Platforms .......................... 17
+5.3.2. Preliminary legal assessment ..................................................................................... 21
+5.3.2.1. Principles on the notion of abuse ............................................................................... 21
+5.3.2.2. Principles on the notion of refusal to supply .............................................................. 21
+5.3.2.3. Application to this case .............................................................................................. 23
+5.4. Effect on trade between Member States ..................................................................... 28
+5.4.1. Principles ................................................................................................................... 28
+5.4.2. Application to this case .............................................................................................. 29
+6. The Initial Commitments ........................................................................................... 29
+6.1. Access to full Content and RTD ................................................................................ 30
+6.2. Look-to-Book ratio..................................................................................................... 30
+6.3. Maximum Error Rate ................................................................................................. 31
+
+1EN EN
+
+6.4. Non-circumvention clause ......................................................................................... 31
+6.5. Monitoring Trustee .................................................................................................... 31
+7. Commission Notice Pursuant to Article 27(4) of Regulation 1/2003 ........................ 31
+7.1. Summary of respondents’ comments on the Initial Commitments ............................ 32
+7.1.1. Comments on access and distribution fees ................................................................. 32
+7.1.2. Comments on the channels used by Renfe to give access to Content and RTD ........ 32
+7.1.3. Comments on access to Content and RTD not owned by Renfe ............................... 32
+7.1.4. Comments on L2B ..................................................................................................... 32
+7.1.5. Comments on MER .................................................................................................... 33
+7.2. The Commission’s assessment of the Initial Commitments ...................................... 33
+8. The Revision of the Initial Commitments .................................................................. 34
+8.1. Channels used by Renfe to give access to Content and RTD .................................... 34
+8.2. Content and RTD not owned by Renfe ...................................................................... 34
+8.3. L2B ............................................................................................................................. 34
+8.4. MER ........................................................................................................................... 35
+8.5. Non-circumvention clause ......................................................................................... 36
+9. Proportionality of the Final Commitments ................................................................ 36
+9.1. Principles .................................................................................................................... 36
+9.2. Application to this case .............................................................................................. 37
+9.2.1. Scope of the Final Commitments .............................................................................. 37
+9.2.2. Implementation of the Final Commitments ............................................................... 38
+9.2.3. L2B ............................................................................................................................. 39
+9.2.4. MER .......................................................................................................................... 41
+9.2.5. Non-circumvention clause ......................................................................................... 42
+9.2.6. Effective monitoring of Renfe’s implementation of the Final Commitments ........... 42
+9.2.7. Conclusion on the effectiveness and proportionality of the Final Commitments ...... 42
+10. Conclusion.................................................................................................................. 42
+
+2EN EN
+
+COMMISSION DECISION
+
+of 17.1.2024
+
+relating to a proceeding under Article 102 of the Treaty on the Functioning of the
+European Union (TFEU)
+
+Case AT.40735 - Online rail ticket distribution in Spain
+
+(Only the English text is authentic)
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty1, in
+particular Article 9(1) thereof,
+Having regard to the Commission decision of 28 April 2023 to initiate proceedings in this
+case,
+Having expressed concerns in the preliminary assessment of 28 April 2023,
+Having given interested third parties the opportunity to submit their observations pursuant to
+Article 27(4) of Regulation (EC) No 1/2003 on the commitments offered to meet those
+concerns,
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+Having regard to the final report of the Hearing Officer,
+Whereas:
+
+1. SUBJECT MATTER
+(1) The present Decision is addressed to Renfe-Operadora, E.P.E. and Renfe Viajeros,
+S.M.E., S.A. (hereinafter referred together as “Renfe”) and concerns the online
+distribution of rail tickets in Spain.
+(2) In its Preliminary Assessment of 28 April 2023, the Commission came to the
+provisional conclusion that Renfe’s practices in relation to the access of on-line rail
+ticket vendors (“Ticketing Platforms”) active in Spain to its full range of tickets,
+discounts and functionalities (collectively, “Content”) and real-time data (RTD)
+raised concerns as to its compatibility with Article 102 TFEU. Ticketing Platforms
+
+1 OJ L 1, 4.1.2003, p.1. With effect from 1 December 2009, Articles 81 and 82 of the EC Treaty have
+become Articles 101 and 102, respectively, of the Treaty on the Functioning of the European Union
+(“TFEU”). The two sets of provisions are, in substance, identical. For the purposes of this Decision,
+references to Articles 101 and 102 of the TFEU should be understood as references to Articles 81 and
+82, respectively, of the EC Treaty when where appropriate. The TFEU also introduced certain changes
+in terminology, such as the replacement of “Community” by “Union” and “common market” by
+“internal market”. Where the meaning remains unchanged, the terminology of the TFEU will be used
+throughout this Decision.
+
+3EN EN
+
+are undertakings that provide ticketing for rail travel to individual and/or corporate
+customers through software application stores (e.g. Apple App Store or Google Play
+Store) or through a website. Content refers to all types of tickets, discounts and
+functionalities (e.g., possibility to process customers’ reimbursement claims) related
+to Renfe passenger trains available on Renfe’s own digital distribution channels and
+in any Renfe mobility platform.2 RTD refers to information related to Renfe
+passenger trains, which can be pre-journey (e.g., platform number), on-journey (e.g.,
+disruptions) or post-journey (e.g., information on delays that is needed to submit a
+compensation claim), that Renfe makes available for consumers through any of its
+direct digital distribution channels or communication channels or any Renfe mobility
+platform.
+
+2. THE PARTY
+(3) Renfe is the Spanish 100% state-owned passenger rail incumbent operator. Renfe
+had a legal monopoly in the Spanish [...] rail sector since its founding in 1941 until
+2005. In 2005, Renfe was separated from the Administrador de Infraestructuras
+Ferroviarias (“ADIF”, the Spanish rail infrastructure manager) and, in 2012, Renfe-
+Operadora E.P.E. was constituted as the parent company of Renfe Viajeros S.M.E.,
+S.A. (the affiliate active in passenger rail transport services), Renfe Mercanías
+S.M.E.3, S.A., Renfe Fabricación y Mantenimiento S.M.E., S.A.4, and Renfe
+Alquiler Material Ferroviario S.M.E., S.A.5. In 2022, Renfe Viajeros S.M.E., S.A.
+had EUR 1.8 billion of ticket revenues.6 Renfe sells its own passenger rail transport
+services as well as services of other mobility service providers through its mobility
+platform dōcō.
+
+3. PROCEDURAL STEPS UNDER REGULATION NO 1/2003
+(4) On 28 April 2023, the Commission opened proceedings with a view to adopting a
+decision under Chapter III of Regulation (EC) No 1/2003 and adopted a preliminary
+assessment as referred to in Article 9(1) of Regulation (EC) No 1/2003 which set out
+the Commission’s preliminary competition concerns. The preliminary concerns of
+the Commission were that Renfe may have abused its dominant position in the
+Spanish market for the provision of passenger rail transport services by refusing to
+supply in full the Content and RTD displayed on its own online distribution channels
+to third-party Ticketing Platforms (“Third-party Ticketing Platforms”) active in
+Spain. This assessment was notified to Renfe on 2 May 2023.
+(5) On 30 May 2023, Renfe submitted commitments (the “Initial Commitments”) to the
+Commission to address the Commission’s preliminary concerns as set out in the
+Preliminary Assessment.
+(6) On 27 June 2023, a notice was published in the Official Journal of the European
+Union pursuant to Article 27(4) of Regulation (EC) No 1/2003, summarising the case
+
+2 A mobility platform is a digital solution integrating different mobility services.
+3 Freight railway.
+4 Rolling stock maintenance and construction.
+5 Rolling stock sales and rental.
+6 Renfe Viajeros 2022 accounts: https://www renfe.com/content/dam/renfe/es/Grupo-Empresa/Gobiernocorporativo-y-transparencia/cuentas-anuales/renfeviajeros/2022 InformeAuditoria CuentasAnuales InformeGestion Viajeros.pdf.
+
+4EN EN
+
+and the Initial Commitments and inviting interested third parties to give their
+observations on the Initial Commitments until 8 August 2023.
+(7) On 29 September 2023, the Commission informed Renfe of the observations
+received from interested third parties following the publication of the notice. On 23
+November 2023, Renfe submitted an amended proposal for commitments (the “Final
+Commitments”).
+
+4. OVERVIEW OF THE PASSENGER RAIL TICKET DISTRIBUTION IN SPAIN
+4.1. Renfe’s distribution system
+(8) Renfe sells its passenger rail tickets directly (i.e. through its own sales channels) and
+indirectly (i.e. through third-party sales channels), both offline and online.
+(9) Renfe’s direct offline channels are the following: (i) Renfe’s ticketing offices, (ii)
+Renfe’s ticketing machines, (iii) sales on board the train, and (iv) Renfe’s call centre.
+Renfe’s direct online channels are the following: (i) Renfe’s websites7, (ii) Renfe’s
+applications (“apps”) (the Renfe app and the Cercanías app8), and (iii) Renfe’s
+mobility platform dōcō.
+(10) Dōcō is Renfe’s new mobility platform ap
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+inal Commitments)
+adequately address the comments raised in response to the Article 27(4) Notice.
+First, the references to abnormal peaks in clause 8(ii) of the Final Commitments
+bring clarity and legal certainty as regards the exceptionality of the suspension
+without prior notice. Second, under the Final Commitments, Third-party Ticketing
+Platforms and Renfe mobility platform(s) (such as dōcō) will be treated equally in
+cases of L2B in excess of the maximum L2B value, which negatively affects Renfe’s
+sales system, as well as in cases of abnormal peak in the L2B immediately
+threatening to impede the sales of Renfe tickets. This additional rule provides a
+further guarantee against the use by Renfe of the L2B to restrict competition by
+Third-party Ticketing Platforms. Third, in line with the call for tightened scrutiny of
+Renfe’s right to suspend, the Final Commitments clarify and reinforce the
+involvement of the Monitoring Trustee in the suspension process, which ensures that
+suspension follows a transparent, fair and balanced process.
+
+159 600 for low-impact platforms (<50.000 availability requests per month); 200 for medium-impact
+platforms (>= 50,000 and < 400,000 availability requests per month); 140 for high-impact platforms
+(>=400,000 availability requests per month).
+160 Should there be a material change in the facts supporting that conclusion, Renfe may request the
+Commission to review and modify the categories and maximum L2B values pursuant to Article 9(2)(a)
+of Regulation 1/2003.
+161 Should there be a material change in the facts supporting that conclusion, the Commission may review
+and modify the categories and maximum L2B values pursuant to Article 9(2)(a) of Regulation 1/2003.
+
+40EN EN
+
+(200) The Commission considers that the removal of the L2B review clause initially
+foreseen in the Initial Commitments does not alter its conclusion on the effectiveness
+of the Final Commitments. Indeed, given the inclusion in the Final Commitments of
+additional, higher L2B values better adapted to ramp-up phase of the activities of
+Third-party Ticketing Platforms, the Commission considers that the potential need
+for a modification of the L2B value is lower than in the Initial Commitments, so that
+the general review mechanism regulated in Article 9(2)(a) of Regulation 1/2003 is
+sufficient to cope for that potential need.
+(201) Finally, the amendments introduced by Renfe on the non-exhaustive list of cases
+where the cause of the incident shall not be considered as having its origin in the
+Third-party Ticketing Platform’s system (e.g., incidents related to the unavailability
+of Renfe’s sales system) also respond to the call for increased legal certainty by
+respondents to the Article 27(4) Notice.
+9.2.4. MER
+(202) The Commission considers that, for the reasons explained below, (i) the amendments
+introduced by Renfe in the Final Commitments adequately address the comments
+expressed by respondents to the Article 27(4) Notice regarding the MER, and (ii) the
+amended obligations of Renfe concerning the correction of errors or failures in its
+system contribute to the effective resolution of the concerns identified in the
+Preliminary Assessment, without imposing a disproportionate burden on Renfe.
+(203) First, in the Final Commitments, the explicit reference in the definition of Error Rate
+to errors attributable to Renfe is accompanied by the clarification that, in case Renfe
+cannot conclude if an error is or is not attributable to Renfe, the error will be deemed
+attributable to Renfe and, therefore, will be included in Renfe’s Error Rate. This
+provision incentivises Renfe (i) to identify the causes of the errors, and (ii) to
+improve the performance of its sales system even if it faces difficulty in identifying
+the causes of the errors.
+(204) Second, Renfe has substantially reduced the MER, from a maximum annual average
+of 14,24% in the Initial Commitments, to a maximum annual average of 4% in the
+Final Commitments. Based on the information provided by Renfe, the Commission
+considers that the new proposal is sufficient to ensure that the quality of the ticketing
+services provided by Third-party Ticketing Platforms is not materially hampered by
+frequent failures in Renfe’s sales system.
+(205) Third, the Commission values positively the inclusion of an additional mechanism
+contributing, like the MER, to guaranteeing the quality of services provided by
+Third-party Ticketing Platforms to customers. More specifically, under the Final
+Commitments, Renfe commits to a Maximum Unavailability Rate of 1% as from
+2025. The Commission considers that the Maximum Unavailability Rate usefully
+complements the MER, as the Maximum Unavailability Rate measures the
+unavailability caused by the failure of the sales system which would affect all the
+channels (i.e., all of Renfe’s direct and indirect distribution channels) connecting to
+it, and not the unavailability due to failures or errors in the transaction carried out by
+a given Third-party Ticketing Platform.
+(206) Fourth, Renfe has amended the indicative list of errors that shall not be considered
+attributable to Renfe. Importantly, the Final Commitments do not include anymore as
+errors not attributable to Renfe errors due to services or functionalities under
+
+41EN EN
+
+development considered Beta or trial versions, whose inclusion on the list in the
+Initial Commitments had been heavily criticised by respondents.
+(207) Finally, the Commission considers that the removal of the MER review clause
+initially foreseen in the Initial Commitments does not affect the effectiveness of the
+Final Commitments. Indeed, given the significant reduction in the MER initially
+foreseen, the Commission considers that the potential need for a modification of the
+MER value is lower than in the Initial Commitments, so that the general review
+mechanism regulated in Article 9(2)(a) of Regulation 1/2003 is sufficient to cope for
+that potential need.
+9.2.5. Non-circumvention clause
+(208) The non-circumvention clause (clause 16 of the Final Commitments) has been
+defined in broad terms to avoid that the Commitments could be undermined by any
+unfair, not reasonable or discriminatory measure adopted by Renfe, including any
+commercial or technical measure. This definition would allow the Commission, as
+stated in recital (160), to assess any potential Third-party Ticketing Platform’s claim
+regarding access fees, among other issues.
+9.2.6. Effective monitoring of Renfe’s implementation of the Final Commitments
+(209) Renfe’s implementation of the Final Commitments will be subject to independent
+expert review by a Monitoring Trustee, acting under the Commission’s supervision,
+for a period of 10 years (clause 21 of the Final Commitments). The involvement of a
+Monitoring Trustee is a proportionate and necessary commitment for ensuring
+effective implementation of the Commitments. The appointment process, the period
+of appointment and the powers of the Monitoring Trustee, which are regulated in
+Annex 1 of the Commitments, are standard practice in such cases.
+9.2.7. Conclusion on the effectiveness and proportionality of the Final Commitments
+(210) The Commission considers that the Final Commitments effectively meet the
+competition concerns identified in its Preliminary Assessment.
+(211) Renfe has not offered less onerous commitments in response to the Preliminary
+Assessment that also address the Commission’s concerns adequately.
+(212) The Commission has taken into consideration the interests of third parties, including
+those of the interested third parties that have responded to the Article 27(4) Notice
+and considers that the Final Commitments will not hinder the legitimate commercial
+interests of any third party. The Commission has carefully analysed all comments
+received. To the extent that they contributed to solve effectively and proportionately
+the competition concerns identified in the Preliminary Assessment, those comments
+were discussed with Renfe and are reflected in the Final Commitments.
+(213) This Decision accordingly complies with the principles of effectiveness and
+proportionality.
+
+10. CONCLUSION
+(214) By adopting a decision pursuant to Article 9(1) of Regulation (EC) No 1/2003, the
+Commission makes commitments, offered by the undertakings concerned to meet the
+Commission’s concerns expressed in its preliminary assessment, binding upon them.
+Recital 13 of the Preamble to the Regulation (EC) No 1/2003 states that such a
+decision should not conclude whether or not there has been or still is an
+
+42EN EN
+
+infringement. The Commission’s assessment of whether the Final Commitments
+offered by Renfe are sufficient to meet its concerns as set out in its Preliminary
+Assessment is based on the underlying investigation and analysis, and the
+observations received from third parties following the publication of a notice
+pursuant to Article 27(4) of Regulation (EC) No 1/2003.
+(215) In the light of the Final Commitments, the Commission considers that there are no
+longer grounds for action on its part as regards the concerns as set out in the
+Preliminary Assessment and, without prejudice to Article 9(2) of Regulation (EC)
+No 1/2003, the proceedings with respect to those concerns should be brought to an
+end.
+(216) The Commission retains full discretion to investigate and open proceedings under
+Article 102 of the Treaty as regards practices that are not the subject matter of this
+Decision.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+The Commitments as listed in the Annex shall be binding on Renfe-Operadora, E.P.E. and
+Renfe Viajeros, S.M.E., S.A. for an indefinite period starting from the date of notification of this
+Decision.
+
+Article 2
+There are no longer grounds for action in this case.
+
+Article 3
+This Decision is addressed to:
+Renfe-Operadora E.P.E. and Renfe-Viajeros S.M.E, S.A., Avenida de Pío XII, 110, Madrid
+28036, Spain.
+
+Done at Brussels, 17.1.2024
+
+For the Commission
+
+(Signed)
+
+Margrethe VESTAGER
+Executive Vice-President
+
+43EN EN

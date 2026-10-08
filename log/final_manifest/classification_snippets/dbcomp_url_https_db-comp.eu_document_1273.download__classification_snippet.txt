@@ -1,0 +1,536 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+EN
+
+EN EN
+
+COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Brussels, 26.05.2004
+C(2004) 1910 final
+
+COMMISSION DECISION
+
+of 26-05-2004
+
+relating to a proceeding under Article 81 of the EC Treaty (COMP/C-3/37.980 Souris -
+Topps)
+
+EN EN
+
+COMMISSION DECISION
+
+of 26-05-2004
+
+relating to a proceeding pursuant to Article 81 of the EC Treaty
+
+(COMP/C-3/37.980 Souris - Topps)
+
+(Only the English text is authentic)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1/2003 of 16 December 2002 on the
+implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, and
+in particular Article 7 and Article 23(2) thereof1,
+
+Having regard to the complaint lodged by SARL La Souris Bleue on 10 October 2000,
+alleging infringements of Article 81 of the Treaty by the Topps group headed by The Topps
+Company Inc, based in the USA, and the Nintendo group headed by Nintendo Corporation
+Ltd, based in Japan, and requesting the Commission to put an end to those infringements,
+
+Having regard to the Commission decision of 16 June 2003 to initiate proceedings in this
+case,
+
+Having given the undertakings concerned the opportunity to make known their views on the
+objections raised by the Commission pursuant to Article 19(1) of Council Regulation No 17
+of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty2 and
+Commission Regulation (EC) No 2842/98 of 22 December 1998 on the hearing of parties in
+certain proceedings under Articles 85 and 86 of the EC Treaty3,
+
+Having regard to the final report of the hearing officer in this case4,
+
+After consulting the Advisory Committee on Restrictive Practices and Dominant Positions,
+
+Whereas:
+
+1 OJ L 1, 4.1.2003, p. 1. Regulation as amended by Regulation (EC) No 411/2004 (OJ L68, 6.3.2004, p.
+1).
+2 OJ 13, 21.2.1962, p. 204/62. Regulation as repealed by Regulation (EC) No 1/2003.
+3 OJ L 354, 30.12.1998, p. 18.
+4
+
+EN 2 EN
+
+1. THE FACTS
+
+1.1. The parties to the proceedings
+
+1.1.1. The Topps group of companies
+
+(1) Topps is a group of companies producing internationally marketed collectible products
+and candies.5 The ultimate parent company of the Topps group is The Topps Company
+Inc (“Topps USA”), a publicly held company established in the USA. The Topps
+group maintains offices in the USA, Canada, Europe, Brazil and Argentina. Annual
+net sales for the fiscal year ended 3 March 2001 were USD 439 268 000 (EUR
+481 341 000) world-wide, and USD 180 909 000 (EUR 198 236 000) in Europe.6 The
+Topps group employs over 420 people world-wide.7
+
+(2) Topps USA has two fully owned European subsidiaries:
+
+(a) Topps Europe Ltd (“Topps Europe”). Topps Europe had been known as Merlin
+Publishing International Ltd before it was acquired by Topps USA in July 1995.
+It is established in the United Kingdom. Topps Europe has, for its part, two fully
+owned subsidiaries:
+
+(i) Topps UK Ltd (“Topps UK”) which is established in the United Kingdom,
+
+(ii) Topps Italia SRL (“Topps Italia”) which is established in Italy,
+
+(b) Topps Ireland Ltd (“Topps Ireland”) which was renamed Topps International Ltd
+in 2001. It is established in Ireland.
+
+1.1.2. Topps’ distribution system in the Member States
+
+(3) During the period relevant for these proceedings, Topps distributed its products in
+sixty countries world-wide. In Europe, Topps had established subsidiaries in certain
+Member States, namely Topps Europe and Topps UK in the United Kingdom, Topps
+Ireland in Ireland and Topps Italia in Italy, and also operated through intermediaries,
+that is to say, distributors and agents.8 Topps’ distribution network was for the most
+part informal, except in France, Italy and Finland where the relationship was governed
+by written distribution agreements.
+
+1.1.2.1. France
+
+(4) Topps’ key distribution channels in France were newsagents and sweet shops.
+
+5 The term “Topps” in this decision may refer to any or all of the companies in the Topps group.
+6 The conversion rate used here is 0,9126 which is the average exchange rate over the period 1 March
+2000 until 28 February 2001.
+7 Page 1716 of the Commission’s file. Topps’ web-site http://www.topps.com/AboutTopps/index.html.
+8 See the list on pages 811 to 813 of the Commission’s file.
+
+EN 3 EN
+
+(5) Pursuant to three distribution agreements, Topps granted Comptoir Commercial pour
+l’Exportation et l’Importation (CCEI), a subsidiary of Nouvelles Messageries de la
+Presse Parisienne (NMPP), the non-territorial exclusivity for the distribution of several
+Pokémon9 products in the press network exploited by NMPP in France.10 Accordingly,
+CCEI’s exclusivity related solely to NMPP’s press distribution network and Topps
+products could be sold through other distribution channels in France (for example,
+supermarkets or toy shops). For commercial and logistic reasons, CCEI entrusted
+NMPP with the distribution of Topps’ products through the French press network as of
+13 May 2000.11
+
+(6) Topps cooperated with additional intermediaries for publishing (EDI, D’Arpeje, Pierre
+Deuge, Empreinte Dimage, Compagnie Européenne des Parfums, Eurogift and
+Topaze) and confectionery (Solinest Coberg).
+
+1.1.2.2. Spain
+
+(7) Topps’ official distributor in Spain for stickers and cards was Colecciones Este S.L.
+(“ESTE”). According to ESTE, the commercial relationship with Topps was not
+regulated by a formal written agreement.12 ESTE has since gone out of business and
+sold its company to Panini, one of Topps’ competitors. Topps’ Spanish intermediaries
+for confectionery are Pepsi Snacks and Snack Ventures SA.
+
+1.1.2.3. Germany
+
+(8) Topps’ intermediaries for stickers and cards in Germany were Universal Cards and
+Partner Presse Vertrieb GmbH. Topps’ official distributor for confectionery was DOK
+Handelsgesellschaft mbH (“DOK”). Topps also used Gemex Trading AG as an agent
+for the distribution of publishing and confectionery products.
+
+1.1.2.4. Finland
+
+(9) Topps’ distributor for publishing products in Finland was Rautakirja Oy Lehtipiste
+(“Rautakirja”). Rautakirja concluded distribution contracts with Topps Ireland13 and
+Topps Europe.14 Topps distributed confectionery through Alfmix Oy.
+
+1.1.2.5. The United Kingdom
+
+(10) In the United Kingdom, Topps distributed its licensed products in various
+supermarkets, toyshops and sweet shops. There were several distributors for Topps
+products in the United Kingdom.
+
+9 For an explanation of the Pokémon theme see below recitals (23) to (26).
+10 See the distribution agreements between Topps Europe and CCEI of 12 December 1999 (signed on 5
+June 2000 [...]) [...], at pages 1322-1329 of the Commission’s file, of 15 December 1999 [...], at pages
+1108-1115 of the Commission’s file, and of 20 May 2000 [...], at pages 1119-1126 of the
+Commission’s file.
+11 NMPP’s submission of 16 March 2001, at page 1313 of the Commission’s file.
+12 Page 66 of the Commission’s file.
+13 See the contract [...]of 31 December 1995, at pages 1141-1144 of the Commission’s file.
+14 See the contract [...]of 20 March 2000, at pages 1139-1140 of the Commission’s file.
+
+EN 4 EN
+
+(11) Cards Inc. Ltd (“Cards Inc”) was a distributor and wholesaler of collective trading
+cards, collective card games, sports and non-sports cards and various toy products
+usually associated with its cards products. It has acted as a distributor of Topps’
+products in the United Kingdom and the rest of Europe. This relationship, which
+endured for a period of 6-7 years, was based on an oral agreement.
+
+(12) LDX-Marketing (“LDX”) was another distributor with offices in London and Leeds.
+Other intermediaries for publishing products included Topdraw, WH Smith and
+Surridge Dawson.
+
+1.1.2.6. The Netherlands and Belgium
+
+(13) StarSweets Holland BV (“StarSweets”) was Topps’ official distributor for
+confectionery and publishing products in Belgium and the Netherlands. In Belgium,
+Topps also distributed publishing products through AMP and Fun Stickers Collection.
+Aldipress was another intermediary for publishing products in the Netherlands.
+
+1.1.2.7. Italy
+
+(14) Topps’ official distributor in Italy for confectionery was Dolber SPA (“Dolber”). The
+commercial relationship was regulated by a formal written agreement, signed 1 March
+200015. Topps had relationships with other intermediaries (Wi.li, Giochi Preziosi,
+Panini S.P.A & AD/DPD, ID Immagine, Star Shop) for publishing products.
+
+1.1.3. Souris
+
+(15) SARL La Souris Bleue (“Souris”) was a retailer for collectible products established in
+France. On 10 October 2000, Souris lodged a complaint under Article 3 of Regulation
+No 17 against Topps and Nintendo. It alleged that Topps and its distributors had, from
+September 2000, successfully hindered parallel trade from Spain into France of
+stickers and albums relating to the second Pokémon series by preventing Spanish
+distributor ESTE and its dealers from selling products to French dealers. Souris has
+since gone into liquidation.
+
+1.2. The products
+
+1.2.1. Collectible products
+
+(16) This case relates to collectibles. Collectibles are items like stickers, trading cards or
+removable tattoos, which normally follow a certain theme. The aim of a collector is to
+collect all items of one set. Collectibles are distributed either as lone products or in
+combination with candy products.
+
+1.2.2. The different themes of collectibles
+
+(17) Collectibles can be divided into categories according to the general theme, for
+example, sports or entertainment. Sports collectibles, which mainly feature members
+of sports teams like football players, are usually licensed from the relevant sports
+body. Entertainment collectibles, which feature, for example, characters from movies,
+
+15 Pages 1093-1096 of the Commission’s file.
+
+EN 5 EN
+
+comics or video games, are licensed from the owners of the relevant film, TV series or
+video game (for example, Warner or Nintendo).
+
+1.2.3. The different types of collectibles
+
+(18) Collectibles can also be categorised according to their type. In the context of this
+decision, the following types should be distinguished.
+
+1.2.3.1. Collectible stickers
+
+(19) Collectible stickers are images printed on adhesive paper so that one can stick them in
+an album. They are sold in packs that usually contain 4 to 6 stickers. There is usually
+an image (photo or drawing) on the front, while the sticker’s number is indicated on
+the back so that it can be positioned correctly in a sticker album.
+
+1.2.3.2. Trading cards
+
+(20) Trading cards are small collectible cards. They are stiff, non-adhesive and doublesided, with images and text on both the front and the back. They are sold in packs
+usually containing 6 to 10 cards. The cards can be collected as they come or placed in
+special folders with a transparent pocket for each card.
+
+1.2.3.3. Albums and tins
+
+(21) There are also collectible products which are used to store other collectibles, for
+example, sticker albums or tins for trading cards. These products usually display
+pictures of the themes to which they relate.
+
+1.2.3.4. Candy products
+
+(22) Candies and bubble gum products can be combined with collectibles, for example
+lollipops containing small collectible figurines or lollipops with stickers enclosed in
+the wrapper. These products themselves then become collectible products.
+
+1.2.4. Pokémon collectibles
+
+(23) This case concerns collectibles of different types produced by Topps featuring
+characters of the Pokémon theme.
+
+1.2.4.1. The Pokémon theme
+
+(24) Pokémon was launched in Japan as a role-playing game for the Nintendo ‘Game Boy’
+hand held videogame console in early 1996. Pokémon is the general name given to the
+many characters found in the Pokémon universe. In 1998, the first Pokémon movie
+was launched, as was the Pokémon card game. The success of Pokémon was
+transferred to the USA and Australia in September 1998 and to Europe in autumn
+1999.
+
+(25) There were 150 different Pokémon characters in the original version of the game. The
+number of characters has now increased to 250. Each type of Pokémon has a unique
+name (for example, ‘Pikachu,’ ‘Charmander,’ etc.).
+
+EN 6 EN
+
+(26) Although it started with video games, the Pokémon theme now has a much broader
+scope: movies, television shows, card games, cartoons, stickers and other merchandise
+products featuring the characters of Pokémon are produced.
+
+1.2.4.2. Topps’ licensing agreement with Nintendo
+
+(27) Topps produces a range of different Pokémon collectibles on the basis of a licence
+granted by Nintendo. Subject to the terms and conditions of the Pokémon Merchandise
+License Agreement, signed on 4 June 1999 between Topps Europe and Nintendo,16
+[Nintendo grants Topps Europe a non-exclusive license to use intellectual property
+associated with the name Pokémon to be used solely in connection with certain
+publishing and confectionary collectibles].
+
+1.2.4.3. The different Pokémon collectibles produced by Topps
+
+(28) During the period relevant for this decision, Topps produced the following types of
+licensed Pokémon products:
+
+(a) Pokémon stickers of various series (for example, “Pokémon Series 1”,
+“Pokémon Series 2” etc.). Pokémon stickers do not display any text;
+
+(b) Pokémon trading cards of various series (for example, “Pokémon Series 1”,
+“Pokémon the First Movie”, “Pokémon Series 2”, “Pokémon Chrome Series
+1”). Pokémon trading cards contain images and text;
+
+(c) Pokémon albums for storing stickers and “Pokémon Collector Tins” for storing
+trading cards. Each tin has a large picture of one particular Pokémon character
+on its lid. Pokémon albums contain text relating to the stickers to be stuck in
+the album;
+
+(d) Pokémon candy products, such as lollipops containing small collectible
+Pokémon figurines (named “Popzoids”) and lollipops with Pokémon stickers
+enclosed in the wrapper.
+
+1.3. The relevant market definition
+
+1.3.1. Product market definition
+
+1.3.1.1. Topps’ product market definition
+
+(29) In Topps’ view, “the relevant product market may well be as wide as pocket money
+products” 17 (that is to say, all items, which children fancy and can afford with their
+average pocket money). Topps identifies three types of competitive constraints:
+constraints from the overall pocket money expenditure, constraints from other
+licensees of the same licensor, and constraints from other potential licensees for the
+initial award of the licence.
+
+16 Page 906 of the Commission’s file.
+17 Page 1541 of the Commission’s file; reply of Topps Europe, Topps UK, Topps Italy and Topps
+International to the statement of objections, at paragraph 198, page 2508 of the Commission’s file.
+
+EN 7 EN
+
+(30) First, Topps includes in the market all items on which children spend their pocket
+money.18 In addition, Topps goes even further and argues that “within the overall
+expenditure of children it is important to distinguish between those products which
+children buy regularly, like chocolate bars, comics, and cinema tickets, and those
+products for which they must save.”19 As children can save t
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ty for the infringement. The restrictive agreements and/or concerted
+practises in this case formed part of Topps’ larger strategy to restrict parallel trade.
+This strategy apparently conflicted with the interests of some of Topps’ intermediaries
+who wanted to profit from price differentials in Pokémon products or tried to import
+stock which was lacking in their respective countries.
+
+2.4. Remedies
+
+2.4.1. Article 7(1) of Regulation (EC) No 1/2003
+
+(169) Pursuant to Article 7(1) of Regulation (EC) No 1/2003, the Commission can, if an
+infringement has been established, order the undertakings concerned to bring the
+infringement to an end. Although an infringement has been established in this case
+under Article 81(1) of the Treaty, it is not necessary for the Commission to make such
+an order.
+
+(170) Since 29 November 2000, Topps has been aware of the requirements of Community
+competition law and has taken steps to bring its distribution arrangements into a
+situation of compliance by ensuring that its subsidiaries and independent distributors
+are well aware of their legal obligations regarding parallel trade.167 Furthermore, on 4
+September 2001, Topps provided the Commission with further details on the measures
+Topps had adopted to bring to an end any infringement of Community competition
+rules. Consequently, the Commission considers that the hindrance of parallel trade by
+Topps and its intermediaries, at least by means of imposing exports bans on its
+customers, has come to an end.
+
+2.4.2. Article 23(2) and (3) of Regulation (EC) No 1/2003 (Article 15(2) of Regulation No
+17)
+
+2.4.2.1. General considerations
+
+(171) Under Article 23(2) of Regulation (EC) No 1/2003, the Commission may by decision
+impose fines on undertakings where, either intentionally or negligently, they infringe
+Article 81 of the Treaty. Under Article 15(2) of Regulation No 17 which was
+applicable at the time of the infringement, the fine for each undertaking participating
+in the infringement could not exceed 10% of its total turnover in the preceding
+business year. The same limitation results from Article 23(2) of Regulation (EC) No
+1/2003.
+
+(172) Pursuant to both Article 15(2) of Regulation No 17 and Article 23(3) of Regulation
+(EC) No 1/2003, the Commission must, in fixing the amount of the fine, have regard
+to the gravity and duration of the infringement. The fine imposed must reflect any
+aggravating or attenuating circumstances.
+
+167 Page 805 of the Commission’s file.
+
+EN 38 EN
+
+2.4.2.2. Basic amount of the fine
+
+(173) The basic amount of the fine is determined on the basis of the gravity and the duration
+of the infringement.
+
+Gravity of the infringement
+
+(174) In its assessment of gravity, the Commission takes account of the nature of the
+infringement, the actual impact on the market and the size of the geographical market.
+
+(175) Concerning the nature of the infringement, it follows from the facts that the
+infringement had the objective of preventing parallel imports between Member States.
+It, thus, had the objective of artificially partitioning the single market, thereby
+jeopardising a fundamental principle of the Treaty. Such restrictions have been clearly
+condemned by the Commission on numerous occasions in the past, especially since
+the judgment in Consten and Grundig in 1966.168 Restrictions of this kind are by their
+nature very serious violations of Article 81(1) of the Treaty.
+
+(176) As regards the actual impact of the infringement, the Commission considers that
+Topps held a significant share of the relevant market.169 The Commission, however,
+has no evidence that the restrictions of parallel imports were applied systematically to
+all intermediaries or products. The available evidence only covers a limited number of
+intermediaries in the Community.170 In Italy, the restrictive agreement only concerned
+confectionery whereas the agreements or concerted practices in most other countries
+only concerned non-candy collectibles. Some of the agreements or concerted practices
+appear not to have been implemented in full and may have had a limited effect in
+terms of value of the goods concerned. The Commission has no evidence of
+substantial effects of the restrictions on the market.
+
+(177) Concerning the size of the relevant market, the agreements or concerted practices
+identified in this Decision concerned seven national markets: United Kingdom,
+Germany, Italy, Finland, the Netherlands, Spain and France. Because of its nature, the
+conduct involved may also have affected dealers and end-consumers located in other
+Member States. However, the restrictive effects of the prohibition of parallel imports
+were mainly felt in the importing Member States, that is to say, Finland, Germany and
+France.
+
+(178) Consequently, in the light of these considerations, the infringement committed by the
+addressees is serious. In the light of the seriousness of the infringement, EUR
+2 650 000 is an appropriate amount to take as a basis for calculating the fine.
+
+168 Judgment of the Court of Justice in Joined Cases 56 and 58/64 Consten and Grundig v Commission
+[1966] ECR 299.
+169 See Topps’ submission of 18 May 2001, according to which Topps had, in 2000, a market share of 16%
+in the combined markets for collectibles and candies in the UK and of 39-61% in the collectibles market
+in Italy while Topps believed “the pattern of sales across Europe to be similar to that seen in the UK
+and Italy”, at pages 1521-1526 of the Commission’s file. The Commission estimates that the relevant
+market was worth more than EUR 600 million in the EEA in 2000.
+170 Compare the seven anti-competitive agreements/concerted practices identified in the present Decision
+with the 53 intermediaries in the Community identified in the reply of Topps Europe, Topps UK, Topps
+Italy and Topps International to the statement of objections, in Annex 2.2, pages 2548 to 2551 of the
+Commission’s file.
+
+EN 39 EN
+
+Duration of the infringement
+
+(179) Topps participated in the infringement from 4 February 2000 (see recital (54)) until 29
+November 2000171, that is to say, for 10 months. As the infringement is of short
+duration, the basic amount of the fine should not be increased.
+
+2.4.2.3. Aggravating circumstances
+
+(180) The Commission does not take into account aggravating circumstances in this case.
+
+2.4.2.4. Attenuating circumstances
+
+(181) Topps emphasises that, as soon as it became aware of the investigation, it introduced
+compliance programs in order to ensure that its business and those of its intermediaries
+would be conducted in accordance with Community competition law.172 While the
+Commission welcomes all steps taken by an undertaking to raise awareness amongst
+its employees of existing competition rules, these initiatives cannot relieve the
+Commission of its duty to penalise its serious infringement of competition rules.
+
+(182) On the other hand, Topps did terminate the infringement after the first Commission
+intervention. In view of this, the basic amount of the fine should be reduced by 20%
+(EUR 530 000).
+
+(183) The Commission also considers that Topps has cooperated effectively with the
+Commission during the proceedings. Topps went beyond what was legally necessary
+to comply with the obligations under Article 11 of Regulation No 17, does not contest
+the facts upon which the infringement is based and contributed significantly to
+establishing the infringement. Therefore, the basic amount of the fine should be
+reduced by an additional 20% (EUR 530 000).
+
+(184) No other attenuating circumstances apply.
+
+2.4.2.5. The amount of fines imposed in these proceedings
+
+(185) In view of the above considerations, the final amount of the fine to be imposed on
+Topps should be EUR 1 590 000.
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+The Topps Company Inc., Topps Europe Limited, Topps International Limited, Topps UK
+Limited and Topps Italia SRL have infringed Article 81(1) of the Treaty by participating in a
+
+171 See page 805 of the Commission’s file. By that day, Topps told the Commission that it “is now aware
+of the requirements of Community competition law and will be taking urgent steps to put its distribution
+arrangements on a compliant basis”. The Commission presumes that Topps has actually complied with
+EC competition law since that moment.
+172 Reply of Topps Europe, Topps UK, Topps Italy and Topps International to the statement of objections,
+at point 243, page 2517 of the Commission’s file.
+
+EN 40 EN
+
+complex of agreements and concerted practices with the object of restricting parallel imports
+of Pokémon stickers, trading cards and other collectibles from 4 February 2000 until 29
+November 2000.
+
+Article 2
+
+For the infringement referred to in Article 1, a fine of EUR 1 590 000 is imposed on the
+companies listed in that article, jointly and severally.
+
+The fine shall be paid in EURO, within three months of the date of notification of this
+Decision, to the following account: No. 001-3953713-69 of the European Commission with
+FORTIS BANK S.A., Rue Montagne du Parc 3, B-1000 Brussels (IBAN code: BE 71 0013
+9537 1369; SWIFT code: GEBABEBB).
+
+After the expiry of that period, interest shall automatically be payable at the rate applied by
+the European Central Bank to its main refinancing operations on the first day of the month in
+which this Decision was adopted, plus 3,5 percentage points, i.e. 5,50%.
+
+Article 3
+
+This Decision is addressed to:
+
+– The Topps Company, Inc., One Whitehall Street, New York, NY 10004, USA
+
+– Topps Europe Limited, 18 Vincent Avenue, Crownhill - Milton Keynes - MK8 OAW,
+United Kingdom
+
+– Topps International Limited, Innishmore, Ballincollig, County Cork, Republic of Ireland
+
+– Topps UK Limited, 18 Vincent Avenue, Crownhill - Milton Keynes - MK8 OAW, United
+Kingdom
+
+– Topps Italia SRL, Via Villorese 13, 20143 Milano, Italy
+
+This Decision shall be enforceable pursuant to Article 256 of the Treaty.
+
+Done at Brussels, 26-05-2004
+
+For the Commission
+Mario Monti
+Member of the Commission
+
+EN 41 EN

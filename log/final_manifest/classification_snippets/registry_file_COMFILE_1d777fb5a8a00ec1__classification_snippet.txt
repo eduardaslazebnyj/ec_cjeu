@@ -1,0 +1,385 @@
+×
+Skip to main content
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 52018XX0112(03) - EN
+Help
+Print
+Menu
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 52018XX0112(03)
+Help
+Print
+Final Report of the Hearing Officer (Case AT.39740 — Google Search (Shopping))
+Final Report of the Hearing Officer (Case AT.39740 — Google Search (Shopping))
+Final Report of the Hearing Officer (Case AT.39740 — Google Search (Shopping))
+OJ C 9, 12.1.2018, pp. 6–10
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+Expand all
+Collapse all
+Languages, formats and link to OJ
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Official Journal
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Text
+12.1.2018
+EN
+Official Journal of the European Union
+C 9/6
+Final Report of the Hearing Officer
+(
+1
+)
+(Case AT.39740 — Google Search (Shopping))
+(2018/C 9/07)
+INTRODUCTION
+(1)
+The draft decision concerns the more favourable positioning and display by Google Inc., in its general search results pages, of its own comparison shopping service compared to competing comparison shopping services.
+(2)
+On 30 November 2010, having received several complaints
+(
+2
+)
+, the Commission initiated proceedings, within the meaning of Article 11(6) of Council Regulation (EC) No 1/2003
+(
+3
+)
+and Article 2(1) of Commission Regulation (EC) No 773/2004
+(
+4
+)
+, in respect of Google Inc., in relation to a number of practices. Pursuant to that Article 11(6), this relieved the competition authorities of the Member States of their competence to apply Articles 101 and 102 TFEU in respect of these practices. As a result, a number of complaints were transferred to the Commission from the competition authorities of certain Member States
+(
+5
+)
+. Following the initiation of proceedings, the Commission received several more complaints
+(
+6
+)
+. In April 2012, Cases 39768 (Ciao), 39775 (eJustice/1PlusV), 39845 (VfT), 39863 (BDZV&VDZ), 39866 (Elfvoetbal), 39867 (Euro-Cities/HotMaps), 39875 (nntp.it), 39897 (Microsoft) and 39975 (Twenga) were merged with Case 39740 (Foundem). The documents that had been registered in these cases were subsequently put into a single file under case number 39740 — Google Search. The Commission continued the procedure under case number 39740.
+(3)
+On 13 March 2013, in accordance with Article 9 of Regulation (EC) No 1/2003, the Commission addressed to Google Inc. a preliminary assessment (the ‘Preliminary Assessment’) in which the Commission expressed concerns that Google Inc. may violate Article 102 TFEU and Article 54 of the EEA Agreement by, among other business practices, the favourable treatment, within Google Inc.’s general search pages, of links to Google Inc.’s own specialised search services as compared to links to competing specialised search services.
+(4)
+Google Inc., while denying that any of the business practices covered by the Preliminary Assessment violated Article 102 TFEU or Article 54 of the EEA Agreement, submitted commitments to address the Commission’s competition concerns in relation to these practices. Google Inc. submitted a first set of commitments to the Commission on 3 April 2013, a second set of commitments on 21 October 2013 and a third set on 31 January 2014.
+(5)
+Between 27 May 2014 and 11 August 2014, the Commission sent letters under Article 7(1) of Regulation (EC) No 773/2004 to complainants who had lodged a complaint before 27 May 2014 (the ‘Article 7(1) Letters’)
+(
+7
+)
+. In those letters, the Commission outlined its provisional assessment that the third set of commitments could address the Commission’s competition concerns expressed in the Preliminary Assessment and that therefore the Commission intended to reject their complaints
+(
+8
+)
+.
+(6)
+Several of the addressees of the Article 7(1) Letters considered that they had not received sufficient access, under Article 8(1) of Regulation (EC) No 773/2004, to the documents on which the Commission based its provisional assessment. They requested access to these documents under Article 7(2)(b) of Decision 2011/695/EU. In responding to these requests, the Hearing Officer clarified that the procedural rights of complainants are not as far-reaching as the right to a fair hearing of undertakings subject to an investigation by the Commission. In particular, the right of access of the addressees of Article 7(1) Letters does not have the same scope as the right of access to the Commission file afforded to addressees of statements of objections. However, since the Article 7(1) Letters had specifically relied on the Preliminary Assessment
+(
+9
+)
+, the Hearing Officer considered that a redacted version of the Preliminary Assessment had to be made available to the addressees of the Article 7(1) Letters. Such access was then provided by DG Competition at the Hearing Officer’s behest.
+(7)
+The addressees of the Article 7(1) Letters made known their views in writing
+(
+10
+)
+. After analysing the views of these complainants, the Commission considered that it was not in a position to adopt a decision under Article 9 of Regulation (EC) No 1/2003 that would make binding the third set of commitments and conclude that there were no longer grounds for action by the Commission. The Commission brought this to the attention of Google Inc. on 4 September 2014.
+THE STATEMENT OF OBJECTIONS
+(8)
+On 15 April 2015, the Commission adopted a Statement of Objections (the ‘SO’) setting out its preliminary conclusion that Google Inc.’s more favourable positioning and display, in its general search results pages, of its own comparison shopping service compared to competing comparison shopping services constitutes an abuse of a dominant position and is incompatible with Article 102 TFEU and Article 54 of the EEA Agreement.
+(9)
+Access-to-file was provided to Google Inc. on 27 April 2015 by means of an encrypted DVD. Data room procedures were organised in June and July 2015
+(
+11
+)
+. Google Inc. made a request under Article 7(1) of Decision 2011/695/EU for access to certain data of a similar nature to the data to which access was provided by means of the data room procedures but which had not been so provided. Following the Hearing Officer’s intervention, letters were sent by DG Competition under Article 8(1) of Decision 2011/695/EU to the data providers concerned, informing them of the reasons for the Commission’s intention to disclose their data by means of a data room procedure. Following the absence of objections on the part of the data providers concerned within the time limit set, the data room procedure was subsequently implemented.
+(10)
+Google Inc. also made a request to the Hearing Officer under Article 7(1) of Decision 2011/695/EU for access to (i) certain parts of the data room report drawn up by its external advisers as part of the data room procedure; and (ii) the full version of a response to a particular request by the Commission for information (‘RFI’). Following the Hearing Officer’s intervention, access was provided to a version of those parts of the data room report that was substantially less redacted and which was sufficiently meaningful for the purposes of the proper exercise of Google Inc.’s right to be heard. In relation to the response to the RFI, at the Hearing Officer’s behest, DG Competition first obtained from the RFI respondent concerned a less-redacted version of its response that could be shared with Google Inc., which was so shared. Secondly, DG Competition informed this respondent, in accordance with Article 8(1) of Decision 2011/695/EU, of the reasons for the Commission’s intention to disclose the information still redacted in the less-redacted version by means of a confidentiality ring made up of certain of Google Inc.’s external counsel. Following the lack of objections on the part of this RFI respondent, and on receipt by the Commission of appropriate confidentiality undertakings, this was implemented.
+(11)
+Google Inc. responded to the SO on 27 August 2015. It did not request an oral hearing.
+THE SUPPLEMENTARY STATEMENT OF OBJECTIONS
+(12)
+On 14 July 2016
+(
+12
+)
+, following the reorganisation of Google Inc. and the creation of Alphabet Inc. as a holding company sitting above Google Inc., the Commission initiated proceedings in relation to Alphabet Inc. On the same date, the Commission addressed a supplementary statement of objections (the ‘SSO’) to Google Inc. and Alphabet Inc. (hereinafter together ‘Google’), to which the SO was annexed
+(
+13
+)
+. The SO was also therefore addressed to Alphabet Inc.
+(13)
+Among other things, the SSO sets out the reasons why the Commission had reverted to the procedure under Article 7 of Regulation (EC) No 1/2003, indicating that this was without prejudice to the Commission’s position on whether it was so obliged.
+(14)
+Access-to-file was provided to Google on 27 July 2016 by means of an encrypted DVD. A data room procedure was organised, starting on 14 September 2016.
+(15)
+On 26 September 2016, Google addressed a request to me under Article 7(1) of Decision 2011/695/EU, seeking further access to 20 documents and indicating its readiness to accept restricted disclosure, where necessary, by means of data room procedures or confidentiality rings. Following my intervention, less redacted versions were disclosed, in some cases by means of a data room procedure (which opened on 27 October 2016) or confidentiality ring procedures by which access was provided only to specified external advisers nominated by Google to examine these documents on its behalf.
+(16)
+On 3 November 2016, Google responded to the SSO. It did not request an oral hearing.
+THE LETTER OF FACTS
+(17)
+On 28 February 2017, the Commission addressed a Letter of Facts to Google. On 1 March 2017, access to the post-SSO file was provided to Google by means of an encrypted CD. A data room procedure was implemented starting on 13 March 2017 in relation to the information that had been claimed to be confidential by its providers but for which they had accepted restricted access through a data room procedure.
+(18)
+On 20 March 2017, Google made a request to me under Article 7(1) of Decision 2011/695/EU seeking further access to (i) certain redacted (parts of) documents that were provided to Google as part of access to the post-SSO file or in a confidentiality ring following my intervention in 2016; and (ii) notes of meetings with certain third parties, in particular complainants, that were fuller than those provided to Google already. I rejected Google’s request in relation to (i) considering that access to the redacted parts of the documents was not necessary for the purposes of the effective exercise of Google’s right to be heard, and in relation to (ii) that no such fuller notes existed on the Commission file
+(
+14
+)
+.
+(19)
+On 29 March 2017, Google addressed me a letter seeking that the Commission withdraw the Letter of Facts of 28 February 2017 and either issue a supplementary statement of objections or a new letter of facts. In the light of the requirement under Article 3(7) of Decision 2011/695/EU that any issue regarding the effective exercise of the procedural rights of the parties concerned is first to be raised with DG Competition, I referred the matter to DG Competition, which replied to Google on 31 March 2017.
+(20)
+On 2 April 2017, Google addressed me an email seeking access to certain parts of the data room report drawn up by Google’s external advisers as part of the data room procedure that started on 13 March 2017, containing information which was considered confidential by DG Competition but non-confidential by Google’s external advisers. Following my intervention, the data room was reopened beginning on 6 April 2017, primarily to allow Google’s nominated external advisers, if they so chose, to produce revised data room reports. In order to respect the
+prima facie
+confidential nature of the information, those arguments that could not be made in a non-confidential manner were made in a confidential version of the data room report for the Commission’s file. On 18 April 2017, Google submitted its response to the Letter of Facts.
+PARTICIPATION OF COMPLAINANTS AND INTERESTED THIRD PERSONS IN THE PROCEEDINGS
+(21)
+In accordance with Article 6(1) of Regulation (EC) No 773/2004, those complainants whose complaints concerned matters to which the SO or SSO relate have been provided with non-confidential versions of these.
+(22)
+A number of persons have been admitted by the Hearing Officer to the proceedings as interested third persons having demonstrated a sufficient interest for the purposes of Article 27(3) of Regulation (EC) No 1/2003, Article 13(1) of Regulation (EC) No 773/2004, and Article 5(1), (2) of Decision 2011/695/EU
+(
+15
+)
+. They were informed of the nature and subject matter of the proceedings in accordance with Article 13(1) of Regulation (EC) No 773/2004, and were provided with an opportunity to make their views known in writing. One applicant did not provide further written submissions in response to a letter under Article 5(3) of Decision 2011/695/EU informing it of the reasons why the Hearing Officer considered that it had not shown a sufficient interest to be heard.
+EXTENSIONS
+(23)
+The Hearing Officer has been addressed with requests for extensions of the time limits set by the Commission for responses to the SO, the SSO, the Letter of Facts, a request for information by decision under Article 18(3) of Regulation (EC) No 1/2003, the Article 7(1) Letters, and to non-confidential versions of the SO. The Hearing Officer, having heard the director responsible, assessed these requests and, where appropriate bearing in mind the applicable provisions, extended the time limits.
+PROCEDURAL POINTS RAISED BY GOOGLE IN ITS RESPONSES
+(24)
+The responses to the SO and SSO contain a number of arguments which are stated to describe procedural deficiencies in the Commission’s investigation.
+(25)
+In both the responses to the SO and the SSO, it is argued that the Commission was obliged to explain the reasons why the Commission departed from the commitments procedure under Article 9 of Regulation (EC) No 1/2003 and instead issued a statement of objections. Regardless of whether the Commission is under such an obligation, as noted at paragraph 13 above, the Commission in any event provided such reasons in the SSO.
+(26)
+In the response to the SO, it is argued that the SO failed to provide adequate reasons and evidence for its conclusions regarding the duration and geographic scope of the alleged infringement, which alleged failures the response described as a procedural deficiency. I do not consider, even if the SO did so fail, that these would amount to impinging upon the effective exercise of Google’s procedural rights. The SO contains the essential elements used against Google, including the facts, the characterisation of those facts and the evidence on which the Commission relied at that stage of the proceedings, so that Google could submit its arguments effectively in the administrative proceedings brought against it
+(
+16
+)
+.
+(27)
+Similarly, in its response to the SSO, Google argues: (i) the SSO did not properly assess the evidence and therefore breached Google’s right to a sound administrative process; (ii) the SSO did not properly explain the preliminary concern or the proposed remedy and did not provide a legal assessment of the evidence listed and therefore breached Google’s rights of defence; and (iii) the SSO provides no support for its remedy requirement. I have examined these arguments and the Commission’s statements of objections in this case, and I have come to the conclusion that the effective exercise of Google’s procedural rights has been respected. At base, the issues raised in Google’s arguments are matters of substance and I note that these have been addressed in the draft decision.
+(28)
+Google also argues in its response to the SSO that the Commission has failed to provide Google with sufficiently informative minutes of meetings with complainants. The Court of Justice of the European Union has however not specifically ruled that the Commission is obliged to draw up, or make accessible, minutes of meetings or telephone conversations if the Commission does not intend to rely upon information disclosed in those meetings or conversations
+(
+17
+)
+. The draft decision does not rely upon any such information. Furthermore, Google has not suggested or indicated that any information of an exculpatory nature was disclosed in such meetings or conversations, or specified the exculpatory evidence sought as relevant for the purposes of the present case
+(
+18
+)
+. The Commission has in any event drawn up and provided access to succinct notes of the meetings and conversations with the names of the parties and the topics covered to the extent consistent with the protection of business secrets and other confidential information. In the framework of the access-to-file exercise, the Commission has also disclosed to Google any documents that were provided by individuals or undertakings in the context of such meetings or telephone conversations.
+THE DRAFT DECISION
+(29)
+The Commission, after hearing Google in writing, takes the view in the draft decision that by positioning and displaying more favourably, in Google Inc.’s general search results pages, Google Inc.’s own comparison shopping service compared to competing comparison shopping services, the undertaking consisting of Google Inc. and also, since 2 October 2015, of Alphabet Inc. has infringed Article 102 TFEU and Article 54 of the EEA Agreement. It orders that undertaking to bring an end to the infringement and to refrain from any practice which may have the same or equivalent object or effect. It imposes a fine.
+(30)
+Pursuant to Article 16(1) of Decision 2011/695/EU, I have reviewed the draft decision in order to consider whether the draft decision deals only with objections in respect of which the parties have been afforded the opportunity of making known their views. My conclusion is that it does.
+(31)
+Overall, I consider that the effective exercise of procedural rights has been respected in this case.
+Brussels, 26 June 2017.
+Joos STRAGIER
+(
+1
+)
+Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition proceedings (
+OJ L 275, 20.10.2011, p. 29
+) (‘Decision 2011/695/EU’).
+(
+2
+)
+In the order of receipt by the Commission, these complaints were from Infederation Ltd (‘Foundem’); Ciao GmbH (‘Ciao’) (following reallocation to the Commission from the Bundeskartellamt (Germany) in accordance with the Commission Notice on cooperation within the Network of Competition Authorities (
+OJ C 101, 27.4.2004, p. 43
+); eJustice.fr (‘eJustice’) which complaint was later supplemented and joined by eJustice’s parent company 1plusV; and Verband freier Telefonbuchverleger (‘VfT’).
+(
+3
+)
+Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (
+OJ L 1, 4.1.2003, p. 1
+).
+(
+4
+)
+Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (
+OJ L 123, 27.4.2004, p. 18
+).
+(
+5
+)
+Complaints were reallocated from the Bundeskartellamt (complaints from Euro-Cities AG (‘Euro-Cities’); Hot Maps Medien GmbH (‘Hot Maps’); joint complaint from the Bundesverband Deutscher Zeitungsverleger (‘BDZV’) and Verband Deutscher Zeitschriftenverleger (‘VDZ’) which complaint was later supplemented) and the Autorità della Concorrenza e del Mercato (Italy) (complaint by Mr Sessolo (‘nntp.it’)).
+(
+6
+)
+In the order of receipt by the Commission, these complaints were from Elf BV (‘Elf’); Microsoft Corporation (‘Microsoft’); La Asociación de Editores de Diarios Españoles (‘AEDE’); Twenga SA (‘Twenga’); Streetmap EU Ltd (‘Streetmap’); Expedia Inc. (‘Expedia’); Odigeo Group (‘Odigeo’); TripAdvisor Inc. (‘TripAdvisor’); joint complaint from Nextag Inc. (‘Nextag’) and Guenstiger.de GmbH (‘Guenstiger’); Visual Meta GmbH (‘Visual Meta’); and the Initiative for a Competitive Online Marketplace (‘ICOMP’) which later supplemented this complaint.
+(
+7
+)
+The Commission had also received complaints from the Bureau européen des unions de consommateurs AISBL (‘BEUC’); the Open Internet Project (‘OIP’), and Deutsche Telekom AG (‘Deutsche Telekom’) before that date. On or after 27 May 2014 and before 15 April 2015, the Commission received complaints from Yelp Inc. (‘Yelp’); HolidayCheck AG (‘HolidayCheck’); and Trivago GmbH (‘Trivago’).
+(
+8
+)
+No such Article 7(1) Letter was sent to one complainant to whom this did not apply.
+(
+9
+)
+See paragraph 3 above.
+(
+10
+)
+Streetmap and nntp.it did not provide written observations to the Article 7(1) Letters addressed to them within the time limit set and, under Article 7(3) of Regulation (EC) No 773/2004, their complaints are therefore deemed to have been withdrawn.
+(
+11
+)
+A data room procedure is a restricted form of access by which information is disclosed to a limited number of specified advisers for a limited period of time in a secured room on the Commission’s premises, and subject to a number of restrictions and safeguards to prevent confidential information being disclosed beyond the data room. DG Competition has issued Best Practices on the disclosure of information in data rooms and also published on its website Standard Data Room Rules and Standard Non-disclosure Agreements for data room procedures.
+(
+12
+)
+On or after the date of the SO, complaints were received from News Corporation (‘News Corp’); Tradecomet.com Ltd and Tradecomet LLC (together, ‘Tradecomet’); VG Media Gesellschaft zur Verwertung der Urheberund Leistungsschutzrechte von Medienunternehmen mbH (‘VG Media’); an additional complaint from News Corp; Getty Images Inc. (‘Getty’); and Promt GmbH (‘Promt’). Two complaints, from Microsoft and Ciao, were withdrawn.
+(
+13
+)
+On 19 July 2016, following a reorganisation of work between the Hearing Officers, I became the Hearing Officer responsible for the case, in place of Mr Wouter Wils.
+(
+14
+)
+Fuller notes do exist in relation to meetings with an anonymous party. The information redacted could reveal the identity of this party, and I considered that further access to this information was not necessary for the effective exercise of Google’s right to be heard.
+(
+15
+)
+The Hearing Officer has admitted as interested third persons: Twenga*; MoneySupermarket.com Group PLC (‘MoneySupermarket’); BEUC*; Organización de Consumidores y Usuarios (‘OCU’) (OCU later informed the Commission that it no longer wished to be considered as an interested third person and Google was informed of this); Company AC; FairSearch Europe (‘FairSearch’); SARL Acheter moins cher (‘Acheter moins cher’); S.A. LeGuide.com (‘LeGuide’); Kelkoo SAS (‘Kelkoo’); Getty*; Myriad International Holdings BV (‘MIH’); and the European Technology & Travel Services Association (‘ETTSA’). Those persons marked with an * have subsequently lodged complaints and have from then on been treated as complainants.
+(
+16
+)
+See, among others, judgment in
+Elf Aquitaine v Commission
+(T-299/08, EU:T:2011:217, paragraphs 134-136 and case law cited).
+(
+17
+)
+See, for example, the judgment in
+Atlantic Container Line and others
+v
+Commission
+(T-191/98 and T-212/98 - T-214/98, EU:T:2003:245, paragraph 351-352).
+(
+18
+)
+See judgment in
+Atlantic Container Line and others
+v
+Commission
+(paragraph 358).
+Top

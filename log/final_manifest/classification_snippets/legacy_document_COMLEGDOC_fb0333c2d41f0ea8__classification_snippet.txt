@@ -1,0 +1,166 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+Avis juridique important
+|
+31996D0547
+96/547/EC: Commission Decision of 17 July 1996 relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the EEA Agreement (Case No IV/35.617 - Phoenix/GlobalOne) (Only the English, French and German texts are authentic) (Text with EEA relevance)
+Official Journal L 239 , 19/09/1996 P. 0057 - 0078
+COMMISSION DECISION of 17 July 1996 relating to a proceeding under Article 85 of the EC Treaty and Article 53 of the EEA Agreement (Case No IV/35.617 - Phoenix/GlobalOne) (Only the English, French and German texts are authentic) (Text with EEA relevance) (96/547/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to the Agreement on the European Economic Area,
+Having regard to Council Regulation No 17 of 6 February 1962, First Regulation implementing Articles 85 and 86 of the Treaty (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Articles 2, 6, and 8 thereof,
+Having regard to the application for negative clearance and the notification for exemption submitted, pursuant to Articles 2 and 4 of Regulation 17, on 29 June 1995,
+Having regard to the summary of the application and notification published pursuant to Article 19 (3) of Regulation 17 and to Article 3 of Protocol 21 of the EEA Agreement (2),
+After consultation with the Advisory Committee for Restrictive Practices and Dominant Positions,
+Whereas:
+I. THE FACTS
+A. INTRODUCTION
+1. The Phoenix transaction was notified to the Commission on 29 June 1995. The notifying parties announced a new name, GlobalOne, at the signature of the agreements on 5 March 1996. This transaction is linked to a separate transaction creating a joint venture, Atlas, owned as to 50 % by France Télécom (FT) and as to 50 % by Deutsche Telekom (DT), given that Atlas is a parent to the joint venture entities created pursuant to the Phoenix agreements. A separate Decision in Case IV/35.337 ('the Atlas Decision`) (3) exempts the Atlas agreements, notified on 16 December 1994, from the application of Articles 85 (1) of the EC Treaty and 53 (1) of the EEA Agreement.
+2. The Phoenix agreements consist of two main transactions involving two Community telecommunications organizations (TOs) and one United States telecommunications operator:
+(i) FT and DT each acquired an equity stake of approximately 10 % in Sprint, worth United States $3,7 billion. Both FT and DT obtained proportionate board representation and investor protection as minority shareholders in Sprint; as detailed below, provisions have been included in the investment agreement to prevent DT and/or FT, either separately or jointly, from controlling or influencing Sprint; and
+(ii) Atlas and Sprint created a joint venture, Phoenix, for the provision of non-reserved global telecommunications services and other telecommunications services to corporate users, carriers and consumers. The Phoenix joint venture is structured into groups of operational entities under the strategic supervision of a Global Venture Board (collectively referred to as the 'Phoenix entities`). One group of entities provides Phoenix services worldwide except in Europe and the United States (the 'Rest Of World (ROW) entities`), a second group of entities provides Phoenix services in Europe except in France and Germany (the 'Rest of Europe (ROE) entities`). The ROW and ROE entities also manage Phoenix's global backbone network until the parties reach agreement on management by an already created third entity (the 'Global Backbone Network (GBN) entity`). The Global Venture Board shall take decisions on matters of policy only and not engage in the management of individual operational entities created pursuant to the Phoenix agreements.
+B. THE PARTIES
+3. Deutsche Telekom AG (DT) and France Télécom (FT) are respectively the German and French public TOs. Details of both undertakings are provided in the Decision on the Atlas venture published in this issue of the Official Journal.
+4. Sprint Corporation (Sprint) is a holding company in the United States. The Sprint group of companies is a diversified telecommunications group providing global voice, data and video-conferencing services and related products. Sprint's main subsidiaries provide local (United States) exchange, cellular wireless as well as domestic (United States) and international long-distance telecommunications services. Other Sprint subsidiaries engage in wholesale distribution of telecommunications products and the publishing and marketing of white and yellow page telephone directories. Worldwide turnover for Sprint in 1994 was ECU 10,9 billion; Sprint is the world's 11th largest telecommunications carrier in terms of revenues.
+C. THE RELEVANT MARKET
+1. Creation of the Phoenix entities
+5. The Phoenix entities address several product and geographic markets, namely: (i) the markets for non-reserved corporate telecommunications services both globally and regionally, (ii) the market for traveller services and (iii) the market for so-called carrier services.
+(1) Product markets
+The markets for non-reserved corporate telecommunications services
+6. The Phoenix entities target the same markets for both customized packages of corporate telecommunications services and packet-switched data communications services (jointly referred to as 'non-reserved corporate telecommunications services`) described in the separate Atlas Decision. Pursuant to the joint venture agreement, the offerings of Phoenix include the following services:
+- corporate voice services: global virtual private network (VPN), international toll free, selected card and simple resale services and switched digital,
+- data communications services using inter alia the X.25, Frame Relay and IP protocols,
+- dedicated transmission for voice and data services: managed bandwidth and VSAT,
+- custom network solutions: systems/equipment procurement, tailored and managed services and outsourcing,
+- platform-based enhanced services: messaging including access to telex, local area network (LAN) interconnection, electronic document interchange (EDI), video-conferencing and audio-conferencing.
+7. Phoenix provides voice simple resale services under Sprint's licence in the United Kingdom and under FT's licence in Sweden. This Decision relates only to Phoenix's range of products and business scope as notified. Any substantial change of products or business scope, notably (i) the contribution to Phoenix of broadband transmission capacity (such as Asynchronous Transfer Mode (ATM) networks) in France and Germany and (ii) the offering by Phoenix of public basic telecommunications services (such as voice telephony services (4)) requires a new notification.
+The market for traveller services
+8. The market for traveller telecommunications services comprises offerings that meet the demand of individuals who are away from their normal location, either at home or at work. Among the most relevant of these offerings are those offered by the Phoenix entities, namely (i) calling card services (prepaid cards with or without a code and postpaid cards), including those in combination with credit cards and other branded service cards ('affinity cards`), (ii) specialized voice services (such as equal access and code-based authorization services), and (iii) selected data and enhanced platform (that is to say, communications system software) services.
+9. Customers for traveller services include both business travellers and other travellers. In the card business targeted by Phoenix, the former are by far the largest group of buyers. Business travellers are generally intensive card users, the main incentive for card usage being the ability to avoid paying hotel telephone surcharges.
+The market for carrier services
+10. The market for carrier services comprises the lease of transmission capacity and the provision of related services to third-party telecommunications traffic carriers and service providers. Along with liberalization and globalization of telecommunications markets, demand for efficient, high-quality traffic transportation capacity has risen among old and new carriers. In this connection, the traditional model of separate arrangements with other individual carriers is increasingly challenged by players with global network infrastructure that offer an array of services. The most relevant of such services are:
+(a) switched transit, meaning transport of traffic over bilateral facilities between the originating carrier, the transit carrier and the terminating carrier; neither the originating carrier nor the terminating carrier need bilateral facilities between themselves, but only with the transit carrier;
+(b) dedicated transit, meaning leased line offerings for the transport of traffic through the domestic network of the transit carrier; leased line facilities used for this purpose may include discrete voice circuits or a high-bandwidth digital circuit that can be used for both voice and data services;
+(c) traffic hubbing offerings, where the provider takes care of all or part of international connections; these offerings are typically designed for emerging carriers, who are interconnected with the provider over bilateral facilities and whose international traffic is merged with other traffic on the provider's global network; and
+(d) reseller services for service providers without international telecommunications facilities of their own.
+As international telecommunications markets are deregulated, demand for carrier services is increasingly driven by alternative carriers concerned with assigning to the incumbent TO their international traffic, for reasons such as technical dependency and commercial sensitivity of customer information.
+11. Purchasers of carrier services include established and emerging carriers. Both groups of clients are sophisticated purchasers. Among the emerging carriers, one may distinguish facilities-based carriers that provide telecommunications services over alternative infrastructure or cable television networks seeking greater efficiency in the transport of international client traffic, while non facilities-based carriers and service providers seek to preserve a competitive advantage by avoiding dependence on a local TO for international client traffic.
+(2) Geographic markets
+12. Along the lines of the Commission's findings in its Decision 94/579/EC (5) (BT-MCI), the geographic scope of certain markets targeted by the Phoenix entities, as well as the market that must be considered in respect of the investment of DT and FT in Sprint, is international and even global. Although national borders subsist for many services, strategic alliances like Phoenix are built not only in anticipation of a market unaffected by national boundaries but even with the express purpose of offering large global telecommunications users seamless end-to-end services anywhere by overcoming the difficulties inherent in the current market structure split along national borders. However, the service offerings of the Phoenix entities attain different existing geographic markets.
+The markets for non-reserved corporate telecommunications services
+13. As described in the Atlas Decision, demand from large users for customized packages of corporate telecommunications services exists in at least three distinct geographic markets, namely at a global, a cross-border regional and a national level. Phoenix services have global reach given that DT, FT, Sprint and the ROE and ROW entities each interconnect over the Phoenix global backbone network. In the global market for customized packages of corporate telecommunications services the Phoenix venture therefore creates competition, for instance for BT and MCI's existing Concert venture. In the Community, the ROE entities will cooperate with DT, FT and Atlas to provide customized packages of corporate telecommunications services at the cross-border regional level; these services will have global 'connectivity` - that is, they will allow for an extension beyond the Community and ultimately worldwide if a customer so requires.
+14. Packet-switched data communications services in each geographic market mentioned in the previous recital are a part of the Phoenix offerings portfolio. However, the regional Phoenix operating entity decides whether to provide such services at the national level. Therefore, the ROE entities provide Europe-wide packet-switched data communications services initially based on the network that results from merging the existing Transpac and Sprint networks. The extent to which the ROE entities will provide such services in national markets within the European Economic Area (EEA) will depend on the coordination between Atlas and the ROE entities as the competent Phoenix entities in the EEA.
+The market for traveller services
+15. Along with the globalization of the economy the market for traveller services appears to be increasingly global; travellers demand offerings which include a single bill and integrated functions such as voice messaging, voice response and information systems everywhere. Geographic limitations of current traveller service offerings are generally due to technical shortcomings due to be overcome in the near future, such as the incompatibility of mobile communications systems or differences in prepaid cards without an individual user code. As illustrated at recital 8 above, none of the services targeted by the Phoenix entities is affected by these shortcomings; however, the geographic scope of the traveller services offered by Phoenix can be left open for the purposes of this case, as the finding of narrow geographic markets would not affect the assessment of the parties' competitive position.
+The market for carrier services
+16. Both supply of and demand for carrier services are by nature international. Geographic proximity between purchaser and supplier of switched transit capacity is hardly relevant for switched transit which carriers use either as a substitute for operating own international lines or to deal with peak traffic on such lines. Likewise, dedicated transit services offer cable- or satellite-based routing capacity across third countries. Finally, using hubbing services is an alternative to entering into an undetermined number of bilateral agreements with individual carriers.
+2. DT and FT's investment in Sprint
+17. The acquisition by DT and FT of new equity amounting to an approximate 20 % stake in Sprint aims at consolidating a strategic alliance to enter the global telecommunications markets and extending service into new market segments. As the BT-MCI alliance showed, investment in a United States carrier offers one efficient way of addressing multinational companies, being the largest target customer group for global non-reserved corporate telecommunications services.
+D. MARKET SHARES OF PHOENIX
+The markets for customized packages of corpor
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+ically agreed terms that are identified and maintained as confidential by the party obtaining interconnection through standardized X.75 interfaces to access the French or German national public X.25 packet-switched data networks.
+3. Sprint and any entity created pursuant to the Phoenix agreements may access the French and German public X.25 packet-switched data networks through proprietary interfaces, even for the provision of X.25 data communications services, provided that the access granted to Sprint or such entity through such interfaces is economically equivalent to third-party access to these networks.
+4. Breaches of the requirements set out in points 1, 2 and 3 shall not be considered to infringe this condition unless such breaches have a substantial impact on the market.
+(c) Correspondent services
+1. DT and FT shall not give more favourable treatment to:
+(i) Sprint over other United States correspondents; or
+(ii) each other over other German or French correspondents once telecommunications services markets are fully liberalized.
+2. Sprint shall not give more favourable treatment to DT and FT over other German or French correspondents once telecommunications services markets are fully liberalized.
+(d) Cross-subsidization
+1. All entities created pursuant to the Phoenix agreements shall be established as distinct entities separate from DT and FT.
+2. All entities created pursuant to the Phoenix agreements shall obtain their own debt financing on their own credit, provided that FT and DT:
+(i) may make any capital contributions or commercially normal loans to such entities that are required to enable such entities to conduct their respective businesses;
+(ii) may pledge their venture interests in such entities, in connection with non-recourse financing for such entities; and
+(iii) may guarantee any indebtedness of such entities; however, FT and DT may only make payments pursuant to any such guarantee following a default by such entities in respect of such indebtedness.
+3. No entity created pursuant to the Phoenix agreements shall allocate directly or indirectly any part of its operating expenses, costs, depreciation, or other expenses of their business to any parts of FT or DT's business units (including, without limitation, the proportionate costs based on work actually performed that are attributable to shared employees or sales or marketing of Phoenix products and services by DT or FT employees), provided that any such entity may bill DT or FT for products and services supplied to DT or FT by such entity at:
+(i) the same price charged third parties in the case of products or services sold to third parties in commercial quantities, or
+(ii) on the basis of the full cost reimbursement or other arm's length pricing method in the case of products and services not sold to third parties in commercial quantities.
+4. Breaches of the requirements set out in points 1, 2 and 3 shall not be considered to infringe this condition unless such breaches have a substantial impact on the market.
+(e) Bundling
+1. DT and FT shall sell their services under contracts separate from the contracts for the sale of Phoenix services concluded as distributors of Phoenix in Germany and France respectively. Each separate contract shall set out the terms and conditions of each individual service sold thereunder and shall, in particular, attain any quantity discounts or other discounts to a particular service, as the case may be.
+2. Breaches of the requirements set out in point 1 shall not be considered to infringe this condition unless such breaches have a substantial impact on the market.
+(f) Accounting
+1. Any entity created under the Phoenix agreements in France and Germany, any ROE parent entity and any entity controlled by a ROE parent entity shall keep separate accounting records using international accounting standards for each service they provide in any country. DT and FT (including all subsidiaries) shall keep separate accounting records using international accounting standards for each service they provide to any entity created pursuant to the Phoenix agreements, operating in the EEA.
+2. DT and FT shall within one year of the date defined in Article 1 above implement an accounting system which generates sufficiently detailed records of the services covered by point 1 above. These records shall detail the following:
+(i) the cost standard used;
+(ii) the accounting conventions used for the treatment of costs;
+(iii) the allocation and attribution of expenses or costs, revenues, assets and liabilities shared between any entity created pursuant to the Phoenix agreements and DT and/or FT; and
+(iv) the attribution method chosen.
+3. The accounting records referred to in points 1 and 2 shall identify all services provided to:
+(i) any entity created pursuant to the Phoenix agreements in France and Germany;
+(ii) any ROE parent entity; and
+(iii) any entity controlled by a ROE parent entity by DT and FT or transfers to or from DT and FT.
+4. No entity created pursuant to the Phoenix agreement, ROE parent entity or entity controlled by a ROE parent entity shall receive any material subsidy directly or indirectly from DT or FT, or any investment or payment from DT or FT that is not recorded in the books of such entities as an investment in debt or equity.
+Article 3
+The exemption granted under this Decision is subject to the following obligations:
+(a) Auditing
+1. All entities created pursuant to the Phoenix agreements in France and Germany, all ROE parent entities and any entity controlled by a ROE parent entity shall be audited by an independent external auditor every 12 months, provided that such audit shall certify from an accounting viewpoint that:
+(i) all transactions between these undertakings, on the one hand, and FT and DT, on the other hand, have been conducted at arm's length;
+(ii) these undertakings have adhered to the accounting procedures; and
+(iii) the calculation numbers are accurate.
+2. The first auditing report and certificate complying with point 1, covering the 12-month period starting on the date when this Decision takes effect, shall be submitted to the Commission within 15 months of that date.
+(b) Other obligations
+DT, FT, all entities created pursuant to the Phoenix agreements in France and Germany, all ROE parent entities and all entities controlled by a ROE parent entity shall each, for the purpose of ascertaining and ensuring compliance by these undertakings with the conditions set out in Article 2,
+1. keep all detailed records and documents necessary to prove complete compliance with the terms of the conditions set out in Article 2 ready for inspection by the Commission and to enable the Commission to verify the correctness of the audit certificate referred to in point (a) (2);
+2. give the Commission access to their business premises to inspect records and documents covered by the obligations set out under heading (a) and to receive oral explanations relating to such documents on reasonable notice, during office hours, and without the need for the Commission to invoke the powers of inspection pursuant to Regulation No 17; and
+3. provide the Commission with:
+(i) any records and documents in the possession or control of these undertakings necessary for that determination;
+(ii) unaudited accounting data as specified in points 1 and 2 every six months, starting one year after the commencement date of the exemption pursuant to Article 1; and
+(iii) further oral or written explanations.
+Article 4
+This Decision is addressed to:
+Deutsche Telekom AG
+Friedrich-Ebert-Allee 140
+D-53105 Bonn
+France Télécom
+Place d'Alleray
+F-75505 Paris Cedex
+Sprint Communications Corporation
+2330 Shawnee Mission Parkway
+Westwood, Kansas
+Missouri 66205
+USA.
+Done at Brussels, 17 July 1996.
+For the Commission
+Karel VAN MIERT
+Member of the Commission
+(1) OJ No 13, 21. 2. 1962, p. 204/62.
+(2) OJ No C 337, 15. 12. 1995, p. 13.
+(3) See p. 23 of this Official Journal.
+(4) Defined in the seventh indent of Article 1 of Commission Directive 90/388/EEC of 28 June 1990 on competition in the markets for telecommunications services, OJ No L 192, 24. 7. 1990, p. 10.
+(5) Commission Decision of 27 July 1994 in Case No IV/34.857 - BT-MCI, OJ No L 223, 27. 8. 1994, p. 36.
+(6) Business secret (less than 30 %).
+(7) Business secret (less than 30 %).
+(8) Business secret (less than 5 %).
+(9) Business secret (less than 30 %).
+(10) Business secret (less than 10 %).
+(11) Business secret (less than 10 %).
+(12) Business secret (less than 45 %).
+(13) Business secret (less than 40 %).
+(14) Business secret.
+(15) Business secret (less than 25 %).
+(16) Business secret.
+(17) Business secret (less than 40 %).
+(18) Business secret (less than 5 %).
+(19) Business secret (less than 10 %).
+(20) Business secret.
+(21) Business secret.
+(22) Business secret (less than 5 % respectively).
+(23) Business secrets (market share less than 10 %).
+(24) Business secrets (market share less than 15 %).
+(25) Business secrets (market share less than 5 %).
+(26) Commission Decision in Case No IV/M.683; OJ No 157, 1. 6. 1996, p. 13.
+(27) See footnote 2 (hereinafter referred to as Article 19 (3) notice).
+(28) Recital 41 of the Atlas Decision.
+(29) See BT-MCI Decision (footnote 4) at recital 44 and footnote 1 of that Decision for references.
+(30) Footnote at recital 46 in fine.
+(31) Recital 48 of the Atlas Decision.
+(32) See BT-MCI Decision (footnote 4) at recital 51.
+(33) Cf. BT-MCI Decision (footnote 4) at recital 56, first indent.
+(34) Commission Directive 96/19/EC of 13 March 1996 amending Directive 90/388/EEC with regard to the implementation of full competition in the telecommunications markets, OJ No L 74, 22. 3. 1996, p. 13.
+(35) Major digital protocol/signalling system for managing and transmitting control and routing information in networks.
+(36) Cf. Commission notice on cooperation between national courts and the Commission in applying Articles 85 and 86 of the EEC Treaty, OJ No C 39, 13. 2. 1993, p. 6.

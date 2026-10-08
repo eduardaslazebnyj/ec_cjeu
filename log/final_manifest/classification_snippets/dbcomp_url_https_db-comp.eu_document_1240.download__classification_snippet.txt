@@ -1,0 +1,355 @@
+[BEGINNING OF PROCESSED DOCUMENT]
+L 75/32 EN Official Journal of the European Union 12.3.2004
+
+COMMISSION DECISION
+
+of 16 July 2003
+
+relating to a proceeding under Article 81 of the EC Treaty and Article 53 of the EEA Agreement
+
+(Case COMP/38.369: T-Mobile Deutschland/O2 Germany: Network Sharing Rahmenvertrag)
+
+(notified under document number C(2003) 2432)
+
+(Only the German text is authentic)
+
+(Text with EEA relevance)
+
+(2004/207/CE)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, (formerly VIAG Interkom GmbH) notified to the Commission a framework agreement of 20 September 2001
+concerning infrastructure sharing and national roaming
+Having regard to the Treaty establishing the European Comfor the third generation of GSM mobile telecommunimunity,
+cations (3G) on the German market (the Agreement). In
+their notification T-Mobile and O2 Germany (the Parties)
+Having regard to the Agreement on the European Economic have requested either negative clearance under
+Area, Article 81(1) EC/Article 53(1) EEA, or an exemption
+under Article 81(3)/Article 53(3) EEA (5).
+
+Having regard to Council Regulation No 17 of 6 February
+1962, First Regulation implementing Articles 85 and 86 of
+the Treaty (1), as last amended by Regulation (EC) No 1/
+2003 (2), and in particular Articles 2, 6 and 8 thereof,
+
+Having regard to the application for negative clearance and (2) In February 2002, the Commission published a first
+the notification for exemption submitted pursuant to Articles 2 notice summarising the notified agreement and inviting
+and 4 of Regulation 17 on 6 February 2002, third party comments (6). This was followed in
+August 2002 by a notice published pursuant to
+Article 19(3) of Regulation 17/62 which set out theHaving regard to the summary of the application and notifi-
+Commission’s preliminary position and gave third par-cation published pursuant to Article 19(3) of Regulation No 17
+ties an opportunity to provide their comments on theand to Article 3 of Protocol 21 of the EEA Agreement (3),
+proposed favourable approach (7). In February 2003 a
+supplementary consultation took place of those third
+After consulting the Advisory Committee for Restrictive parties who had reacted to the notice published pursuant
+Practices and Dominant Positions, to Article 19(3) of Regulation 17/62, in relation to
+certain amendments to the notified agreement. The
+present Decision represents the final step in the Com-Having regard to the final report of the Hearing Officer in this
+mission’s decision-making procedure.case (4),
+
+Whereas:
+
+1. INTRODUCTION
+
+(5) The Commission has also received a related notification from O2
+UK Limited (formerly BT-Cellnet Limited) and BT3G Limited, and
+(1) On 6 February 2002, T-Mobile Deutschland GmbH (T- from T-Mobile UK (formerly One2One Personal Communications
+Mobile) and O2 Germany & Co OHG (O2 Germany) Limited) dated 6 February 2002 relating to a 3G Network
+Deployment and 3G Bilateral Roaming Agreement for the United
+Kingdom. This agreement is being dealt with separately (Case
+(1) OJ 13, 21.1.1962, p. 204. COMP/38.370 — UK Agreement) and a decision was adopted on
+(2) OJ L 1, 4.1.2003, p. 1. 30 April 2003.
+(3) OJ C 189, 9.8.2002, p. 22. (6) OJ C 53, 28.2.2002, p. 18.
+(4) OJ C 64, 12.3.2004. (7) OJ C 189, 9.8.2002, p. 22.
+
+12.3.2004 EN Official Journal of the European Union L 75/33
+
+2. THE PARTIES services). Both GSM 900 and DCS 1800 services are
+now commonly referred to as GSM services. Standard
+GSM communications are circuit-switched, which means
+(3) T-Mobile is an operator of digital mobile telecommuni- that for any call a physical path is set up and dedicated
+cations networks and services in Germany using the to a single connection between the two communicating
+GSM family of standards. T-Mobile provides GSM ser- end points in the network for the duration of the
+vices in Germany based on a GSM 900 licence, and was connection. Transmission rates for GSM are 9,6 kbit/s
+awarded a universal mobile telecommunications system (kilo bits per second) to 11,4 kbit/s, or with compression
+(UMTS) licence in Germany in August 2000 (8). It is 14 kbit/s, which allows the delivery of basic voice
+wholly owned by T-Mobile International AG, which in telephony, short messaging service (SMS) and e-mail,
+turn is a wholly owned subsidiary of the incumbent and circuit-switched data.
+fixed network operator Deutsche Telekom AG (DTAG).
+
+(4) T-Mobile International AG is an international holding (7) Enhanced 2.5G mobile technologies that use more
+company acting in mobile telecommunications. Its main efficient packet-switched communications to send data
+subsidiaries operate networks in the United Kingdom (T- in packets to their destinations (via different routes)
+Mobile (UK) Limited, T-Motion, Virgin Mobile), Austria, without requiring the reservation of a dedicated transthe Czech Republic and the USA. T-Mobile International mission channel (using radio resources only when
+AG also has subsidiaries active in the Netherlands, Russia users are actually sending or receiving data) are being
+and Poland. In the 2001 financial year, DTAG had a developed to provide a greater range of services includworldwide turnover of EUR 48,3 billion and T-Mobile ing mobile e-mail, visual communications, multimedia
+International AG had a worldwide turnover of messaging and location-based services. General Packet
+EUR 14,6 billion. Radio Service (GPRS) is one of the principal 2.5G
+technology platforms that offer ‘always-on’ connection,
+higher capacity and packet-based data services. GPRS
+(5) O2 Germany likewise operates digital mobile telecom- data transmission rates are, between 30 kbit/s and
+munications networks and services in Germany, where 40 kbit/s and with EDGE technology 80 kbit/s to
+it entered the market as the fourth out of four operators 130 kbit/s, depending on the specific usage situation.
+based on a GSM 1800 licence awarded in 1997, and This enables the delivery of services such as basic
+was awarded a UMTS licence in August 2000. O2 mobile Internet access, mobile radio, and location-based
+Germany is a wholly owned subsidiary of mmO2 plc, services (9).
+formerly BT Cellnet limited, a company previously
+controlled by British Telecommunications plc. mmO2
+operates, through its subsidiaries, networks in the United
+Kingdom (O2 UK), Germany (VIAG — renamed O2 (8) Work is now underway to bring about a third generation
+Germany), Ireland (Digifone — renamed O2 Ireland) (3G) of mobile technology, applications and services to
+and the Isle of Man (Manx Telecom). In the financial the market (10). 3G builds on 2.5G technology, integratyear ending 31 March 2002, the mmO2 group had a ing packet- and circuit-switched data transmission. It is
+turnover of GBP 4,3 billion (about EUR 6,7 billion). technically capable of reaching a speed of 144 kbit/s and
+will eventually allow transmission rates that are expected
+to have a practical maximum of 384 kbit/s (11). 3G
+services are mobile communications systems capable of 3. LEGAL AND FACTUAL BACKGROUND
+supporting in particular innovative multimedia services,
+beyond the capability of second generation systems such
+as GSM, and capable of combining the use of terrestrial
+3.1. The Development of 3G mobile communications in and satellite components (12).
+the EU
+
+(6) In Europe, the first generation (1G) of mobile communications systems was based on analogue technology. This (9) Other less wide-spread technologies include WAP (Wireless
+was followed at the beginning of the 1990’s by the Application Protocol), HSCSD (High-speed circuit switched data)
+and EDGE (Enhanced Data GSM Environment). second generation (2G) systems which introduced digital
+(10) UMTS (Universal Mobile Telecommunications System) is one of
+technology, namely GSM 900 (the European Global
+the major new ‘third generation’ (3G) mobile communications
+System for Mobile Communications) and DCS 1800 (so systems being developed within the framework defined by
+called Personal Communications Networks or PCN the International Telecommunications Union (ITU) collectively
+known as IMT-2000.
+(11) The exact transmission rate depends on parameters like the time
+(8) In August 2000, the German Government awarded six 3G licences and location of the call, the number of users within a cell and
+following a frequency auction procedure worth EUR 50,8 billion. the applications used, as the available speed will be divided
+The companies awarded the licences were T-Mobil, Vodafone- between the different users and applications.
+Mannesmann, E-Plus, Viag Interkom Group, Group 3G and (12) ‘The introduction of third generation mobile communications in
+Mobilcom multimedia. Both Group 3G and Mobilcom multimedia the European Union: state of play and the way forward’
+have meanwhile ceased their 3G operations, and it is not clear (Introduction of 3G in the EU), COM (2001) 141 Final
+whether their frequencies will be reissued for 3G purposes. (20.3.2001).
+
+L 75/34 EN Official Journal of the European Union 12.3.2004
+
+(9) Annex I to Decision No 128/1999/EC of the European (11) Finally, in March 2001 the Commission published a
+Parliament and of the Council of 14 December 1998 Communication setting out the state of play and the
+on the coordinated introduction of a third-generation way forward for the introduction of third generation
+mobile and wireless communications system (UMTS) in mobile communications in the EU (17). This Communithe Community (the UMTS Decision) (13) sets out the cation takes note of the combination of the difficult
+characteristics which UMTS must be capable of support- financial situation of telecommunications operators
+ing. These include: throughout the EU and of the high infrastructure
+investment costs involved that lead operators to engage
+in infrastructure sharing arrangements. It concludes that
+(a) multimedia capabilities, full mobility and low
+economically beneficial sharing of network infrastrucmobility applications in different geographical
+ture should in principle be encouraged, provided the
+environments beyond 2G capabilities;
+competition rules and other relevant Community law
+are respected (18). In its follow up Communication
+(b) efficient access to Internet, Intranets and other ‘Towards the full roll-out of third generation mobile
+Internet protocol based services; communications’ of 11 June 2002 (19), the Commission
+emphasised that it would continue to work with national
+administrations towards establishing a best practice (c) high quality speech transmission commensurate
+approach for network sharing. The Commission publi- with that of fixed networks;
+shed a further Communication about ‘Electronic Communications: the Road to the Knowledge Economy’ on
+(d) service portability across 3G environments; and 11 February 2003 (20).
+
+(e) operation in one seamless environment including
+full roaming with GSM as well as between the 3.2. Network sharing and national roaming
+terrestrial and satellite components of UMTS networks. Given that 3G networks and services are
+(12) 3G Network sharing can take place at a number of not yet fully available it is not possible to provide a
+different levels and involve varying degrees of cooper- reliable catalogue. However, examples of anticiation. The degree of independence retained by the pated services include mobile videoconferencing,
+operators involved depends on which network elements mobile video phone/mail, advanced car navigation,
+are being shared and their remaining ability to install digital catalogue shopping and various business to
+separate elements (planning freedom). The basic distinc- business (B2B) applications (14).
+tion that is relevant in the context of the Parties’ network
+sharing agreement is that between the Radio Access
+Network (RAN) and the core or backbone network.
+(10) The development of 3G in the EU is based on the
+common UMTS technological platform, on the harmonisation of the radio spectrum and on the definition of a
+3.2.1. RAN harmonised regulatory environment. These harmonisation objectives were met in part by the general Directive
+97/13/EC of the European Parliament and of the Council (13) The RAN includes mast/antenna sites, site support
+of 10 April 1997 on a common framework for general cabinets (SSC) and power supply, as well as antennas,
+authorisations and individual licences in the field of combiners and transmission links, Nodes B, namely the
+telecommunications services (15). This was followed at base stations that receive and send data across frequencithe end of 1998 by the abovementioned Decision es and control a particular network cell, and the radio
+(recital 9) on the coordinated introduction of a third- network controllers (RNCs) that each control a number
+generation mobile and wireless communication system of such Nodes B and that are linked to the core network.
+(UMTS) in the Community (16). It required Member
+States to enable the introduction of UMTS services on
+their territory by 1 January 2002 and emphasised the
+3.2.2. Core network
+role of technical bodies such as the European Conference
+of Postal and Telecommunications Administrations
+(CEPT) and Europe Telecommunications Standards Insti- (14) The core network is the intelligent part of the network
+tute (ETSI) in harmonising frequency use and promoting that consists of mobile switching centres (MSCs), various
+a common and open standard for the provision of support nodes, services platforms, client home location
+compatible UMTS services throughout Europe. registers and operation and maintenance centres. It is
+linked to the fixed ISDN (integrated services digital
+network) and Internet networks (see figure 1).
+(13) OJ L 17, 22.1.1999, p. 1.
+(14) Cf. http://www.umts-forum.org.
+(15) OJ L 117, 7.5.1997, p. 15. This Directive sets out the procedures
+associated with the granting of authorisations for the purpose (17) COM (2001) 141 Final (20.3.2001), see footnote 12.
+of providing telecommunications services and the conditions (18) See footnote 17, paragraph 4.3.
+attached to such authorisations. (19) COM (2002) 301 Final.
+(16) UMTS Decision, see footnote 13. (20) COM (2003) 65 Final.
+
+12.3.2004 EN Official Journal of the European Union L 75/35
+
+into account in the context of network infrastructure(15) Ranked by the increasing degree to which the network
+sharing (21). Both the general national regulatory frame- is shared it is possible to distinguish between shared use
+work in Germany and the terms of the Parties’ 3G of:
+licences set out parameters for network sharing. These
+include:
+(a) sites, which ranges from sharing individual mast
+sites up to grid sharing (requiring a uniform
+layout of networks), and may include site support
+infrastructure, such as site support cabinets (SSC); (a) network roll-out requirements in terms of effective
+coverage related to a specific timetable, notably a
+requirement to cover 25 % of the population by
+(b) base stations (Nodes B) and antennas; the end of 2003 and 50 % of the population by the
+end of 2005 that cannot be met by means of
+national roaming but can be met by shared infra- 
+
+[... MIDDLE OMITTED ...]
+
+[ENDING OF PROCESSED DOCUMENT]
+sion pursuant to
+offer. An example is the ‘click-based’ billing that is Article 81(3) of the EC Treaty cannot take effect from an
+offered by O2 Germany, but not by T-Mobile, for its earlier date than the date of notification. Accordingly,
+2.5G services. the exemption shall have effect from 6 February 2002.
+The duration for each part of the exemption is justified
+below (recital 145 and following).
+
+(141) The wholesale costs of 3G roaming are only a transport
+cost, albeit a significant one, in addition to which there
+are content costs, which for content-rich 3G data
+services are expected to increase in significance in
+relation to transport costs over time. For the core O2 Germany roaming on T-Mobile’s network within the
+network the costs of the operators will differ based on 50 % coverage area
+their choice of equipment suppliers, mode of transmission within the core network (for instance based
+either on fixed leased lines or on a wireless micro wave
+network), the relationship between the number of
+users and available capacity, operational costs and
+(145) The 50 % population coverage obligation concerns the maintenance and operations. Finally, given the existence
+urban areas with the greatest potential for infrastructure of a margin between the applicable wholesale rates and
+competition. Therefore an exemption for roaming in anticipated retail rates, and given that most traffic will
+this area can only be justified for such time as the not be roamed, it is likely that the scope for a significant
+cooperation helps to promote competition during the degree of price differentiation remains.
+initial roll-out phase of the network and to promote the
+commercial launch and early take-up of 3G retail
+services.
+(142) Hence, the elimination of competition from MVNOs
+based on the resale of roaming capacity for voice services
+by the Parties is compensated substantially by the overall
+pro-competitive effects of the notified Agreement, and
+effective competition between the Parties remains poss- (146) In order to ensure that O2 Germany’s incentives to build
+ible. Competition is therefore not eliminated for a out its own high quality network are maintained, the
+substantial part of any of the markets identified as duration of the exemption is based on phasing out
+affected by the Agreement. roaming within the 50 % population coverage area
+according to a fixed timetable. This timetable applies to
+Areas 1, 2 and 3 as set out in section 4.3.1 above. This
+phasing out starts on 31 December 2005 with Area 1,
+8.3.4. Conclusion which covers main urban areas accounting for approximately [(*)] of the German population. Next, roaming is
+phased out by 31 December 2007 in Area 2 which
+accounts for approximately a further [(*)] of the German
+It is the Commission’s conclusion that all the conditions population and by 31 December 2008 in Area 3,
+for an individual exemption pursuant to Article 81(3) of which accounts for approximately [(*)] of the German
+the EC Treaty and Article 53(3) of the EEA Agreement population. The cities and regions in Areas 2 and 3 cover
+are met in respect of the restrictions of competition smaller urban conurbations of secondary commercial
+related to the Agreement on wholesale national 3G importance. As regards underground areas, O2 Germany
+roaming between the Parties and to the restriction on is entitled to continue roaming until 31 December
+resale of roaming capacity to MVNOs. 2008. Barring significant unanticipated changes to the
+commercial or regulatory environment, the economic
+justification for applying Article 81(3) EC/Article 53(3)
+EEA to roaming in the 50 % population coverage area
+8.4. Duration of the exemption thereafter will cease to exist after 31 December 2008.
+
+(143) Pursuant to Article 8 of Regulation No 17 and to
+Protocol 21 of the EEA Agreement respectively, the
+Commission shall issue a decision pursuant to (147) After expiry of each of the dates specified in Section 4.3.1
+Article 81(3) of the EC Treaty and Article 53(3) of the and following advance notice to the Parties, the Com-
+EEA Agreement for a specified period, and may attach mission will reveal, in an appropriate form, the lists of
+conditions and/or obligations. cities and regions in Areas 1, 2 and 3 respectively.
+
+12.3.2004 EN Official Journal of the European Union L 75/57
+
+Reciprocal roaming outside the 50 % coverage area Article 2
+
+(148) As the area over and above that which is subject to the Pursuant to Article 81(3) of the EC Treaty and Article 53(3) of
+regulatory obligation of 50 % population coverage the EEA Agreement and subject to Articles 3 and 4 of this
+covers less densely populated and commercially less Decision, the provisions of Article 81(1) of the EC Treaty and
+attractive areas of the Germany, an exemption for Article 53(1) of the EEA Agreement are hereby declared
+roaming in this area can be justified for a longer period, inapplicable to the supply of 3G national roaming by T-Mobile
+in particular to the extent that the Parties are going to O2 Germany, within the area subject to the regulatory
+beyond their regulatory obligations to cover some of the obligation of providing 50 % population coverage by
+commercially less attractive rural and remote parts of 31 December 2005 for the following periods:
+Germany.
+(a) from 6 February 2002 until 31 December 2005 in respect
+of the cities listed in Area 1 (61), except in the underground
+(149) However, the markets affected by the restrictions in the areas;
+Agreement are emerging markets and therefore the
+likely effects of those restrictions cannot be evaluated
+(b) from 6 February 2002 until 31 December 2007 in
+for a period that substantially exceeds five years. Conserespect of the regions listed in Area 2 (62), except in the
+quently the Commission considers it appropriate to
+underground areas;
+grant an exemption until 31 December 2008. This does
+not exclude that the commercial and regulatory situation
+(c) from 6 February 2002 until 31 December 2008 in respect prevailing at the end of that period may be such that
+of the regions listed in Area 3 (63) and in any underground Article 81(3) of the EC Treaty/Article 53(3) of the EEA
+areas in the cities and regions listed in Areas 1, 2, and 3. Agreement continue to apply to roaming across parts of
+the area over and above that which is subject to the
+regulatory obligation of 50 % population coverage. ‘Underground areas’ shall mean any area within the cities and
+regions listed in Areas 1, 2 and 3 which is part of the
+underground public transport system (including railways and
+Restriction on resale to Voice MVNOs metro), underground shopping centres, underground car
+parks, tunnels for vehicles and pedestrians and any other
+comparable underground areas as well as the areas directly
+(150) The restriction on resale to Voice MVNOs is closely above (ground level) but only to the extent underground areas
+linked to the provision of roaming, as without the and ground level cannot be technically separated for roaming
+provision of roaming the resale restriction would serve purposes.
+no purpose and without the resale restriction the sale of
+roaming rights would not have been agreed between the
+Parties. In order to preserve the logic of the resale Article 3
+restriction and commercial balance between the Parties
+as set out in their Agreement, this link must be
+maintained as concerns the duration of the exemption. Pursuant to Article 81(3) of the EC Treaty and Article 53(3) of
+Hence the Commission considers it appropriate to grant the EEA Agreement, the provisions of Articles 81(1) of the EC
+an exemption for the restriction on resale to Voice Treaty and Article 53(1) of the EEA Agreement are hereby
+MVNOs until 31 December 2008. declared inapplicable, from 6 February 2002 until 31 December 2008 to:
+
+(151) This Decision is without prejudice to the application of
+(a) The provision of 3G national roaming between T-
+Article 82 of the EC Treaty and Article 54 of the EEA
+Mobile and O2 Germany outside the area subject to the Agreement.
+regulatory obligation of providing 50 % population
+coverage by 31 December 2005, as set out in Chapter 3
+of the Agreement (Sections 5 to 11);
+HAS ADOPTED THIS DECISION:
+
+(61) Area 1 comprises [main urban (*)] regions covering approxi- Article 1
+mately [(*)] of the German population, where O2 undertakes
+not to roam, and T-Mobile undertakes to bar roaming, from
+Based on the facts in its possession, the Commission has no 31 December 2005 onward. Area 1 consists of: [(*)].
+grounds for action pursuant to Article 81(1) of the EC Treaty (62) Area 2 comprises [smaller urban (*)] regions [of secondary
+or Article 53(1) of the EEA Agreement in respect of the commercial importance (*)] covering approximately a further
+[(*)] of the German population, where O2 undertakes not toprovisions of the Agreement of 20 September 2001 and by
+roam, and T-Mobile undertakes to bar roaming, from 31 Decemsupplementary agreements of 20 September 2002, 22 January
+ber 2007. Area 2 consists of: [(*)].
+2003 and 21 May 2003 that relate to (extended) site sharing (63) Area 3 comprises [smaller urban (*)] regions [of lesser commerbetween T-Mobile and O2 Germany, with respect to the cial importance (*)] covering approximately a final [(*)] of the
+information exchanged necessary to enable site sharing, and German population, where O2 undertakes not to roam, and Twith respect to the restriction in the Agreement on the resale Mobile undertakes to bar roaming, from 31 December 2008.
+of national roaming to other licensed network operators. Area 3 consists of: [(*)].
+
+L 75/58 EN Official Journal of the European Union 12.3.2004
+
+(b) The restriction on the resale of 3G national roaming And
+rights to MVNOs in Clauses 11.1.b and 11.1.c of the
+Agreement. O2 Germany & Co OHG
+Georg Brauchle Ring 23-25
+D-80992 München
+Article 4
+Done at Brussels, 16 July 2003.
+
+This Decision is addressed to
+For the Commission
+T-Mobile Deutschland
+Mario MONTI
+Landgrabenweg 151
+D-53227 Bonn Member of the Commission
